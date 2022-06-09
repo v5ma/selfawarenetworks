@@ -1,0 +1,113 @@
+a0096z ctpr
+(catecategory, theory, gory, theory, graph, field, decoherence, observer, fourier)
+Sky Nelson-Isaacs
+Many interesting links to many of the interesting topics that were brought up in the discussion today:
+
+A paper by one of the speakers in the group today
+Spacetime Paths as a Whole
+By Sky Nelson-Isaacs
+https://www.scienceandnonduality.com/article/spacetime-paths-as-a-whole
+
+Sky is hosting a talk on Clubhouse at 6pm Pacific 4/6/2021
+
+This came up while discussing that the universe could be a hologram, and that holograms could be on the surface of a blackhole, and that galaxies could be holograms from the surface of blackhole, but this paper proposes that holograms can be from everywhere in space around us
+
+Sky mentioned something about how a slice of the cosmos would represent the whole. That reminded me of the fourier slice theorem.
+
+In mathematics, the projection-slice theorem, central slice theorem or Fourier slice theorem in two dimensions states that the results of the following two calculations are equal:
+https://en.wikipedia.org/wiki/Projection-slice_theorem
+
+Other related on the topic of the cosmos being a blackhole, or a blackhole horizon being capable of being a 2D surface that projects a 3D space.
+
+Black holes are like a hologram
+https://earthsky.org/space/black-holes-are-like-a-hologram#:~:text=Yet%2C%20according%20to%20new%20research,reproduce%20a%20three%2Ddimensional%20image.&text=In%20short%2C%20black%20holes%20%E2%80%9Cappear,three%20dimensional%2C%20just%20like%20holograms.
+Black Holes in 4D N = 4 Super-Yang-Mills Field Theory
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.021037
+
+If you fell into a black hole, you might expect to die instantly. But in fact your fate would be far stranger than that
+http://www.bbc.com/earth/story/20150525-a-black-hole-would-clone-you
+
+What would happen if you fell into a black hole?
+https://astronomy.com/news/2020/07/what-would-happen-if-you-fell-into-a-black-hole
+
+Hologram Within a Hologram Hints at Fate of Black Holes
+https://www.quantamagazine.org/hologram-within-a-hologram-hints-at-solution-to-black-hole-information-paradox-20191119/
+
+The theory that the universe is a hologram explained in under 5 minutes
+https://www.brandeis.edu/now/2018/november/thetake-podcast-hologram.html
+
+Holographic principle
+https://en.wikipedia.org/wiki/Holographic_principle
+
+Information in the Holographic Universe
+Theoretical results about black holes suggest that the universe could be like a gigantic hologram
+https://www.scientificamerican.com/article/information-in-the-holographic-univ/
+
+How Our Universe Could Emerge as a Hologram
+https://www.quantamagazine.org/how-our-universe-could-emerge-as-a-hologram-20190221/
+
+Quantum Scientist Sky Nelson-Isaacs was talking about how a multiplayer video game could serve as an analogy of how the simulation might work for each observer, each of us having a computer, and the computers being networks on a common infrastructure, but imagine that everything in reality begins to exist the moment it needs to interact with something else, that every interaction is like the observation in the double slit experiment. As if reality was procedurally generated on the fly.
+
+Consider No Man's Sky as a high level analogy.
+
+No Man's Sky procedurally generated games, procedurally generated world, generated world
+https://nomanssky-archive.fandom.com/wiki/Procedural_generation#:~:text=No%20Man's%20Sky%20features%20a,generated%20algorithmically%20rather%20than%20manually.&text=The%20game's%20engine%20employs%20several,and%20structure%20found%20in%20nature.
+
+How No Man's Sky works video
+https://www.youtube.com/watch?v=AFISmcAigfY
+
+GDC talk
+	Continuous World Generation in 'No Man's Sky'
+https://www.gdcvault.com/play/1024265/Continuous_World_Generation_in__No_Man_s_Sky_
+
+Inside the Artificial Universe That Creates Itself
+A team of programmers has built a self-generating cosmos, and even they don’t know what’s hiding in its vast reaches.
+https://www.theatlantic.com/technology/archive/2016/02/artificial-universe-no-mans-sky/463308/
+
+A Look At How No Man's Sky's Procedural Generation Works
+https://kotaku.com/a-look-at-how-no-mans-skys-procedural-generation-works-1787928446
+
+What the code of No Man's Sky says about procedural generation
+https://www.gamasutra.com/view/news/283500/What_the_code_of_No_Mans_Sky_says_about_procedural_generation.php
+
+The algorithms of No Man’s Sky
+https://www.rambus.com/blogs/the-algorithms-of-no-mans-sky-2/
+
+2013 interview with No Man's Sky Developer
+https://www.rockpapershotgun.com/interview-no-mans-sky-and-procedural-generation
+
+It was mentioned that a new theory called Geometric Unity could be a potential revolution in the Explanation of the cosmos if it turns out to be correct https://geometricunity.org/
+
+Geometric Unity video
+https://www.youtube.com/watch?v=uFirZANoiHI
+
+Loop quantum gravity (mentioned at the same time as Geometric Unity) is a theory of quantum gravity, which aims to merge quantum mechanics and general relativity, https://en.wikipedia.org/wiki/Loop_quantum_gravity#:~:text=Loop%20quantum%20gravity%20(LQG)%20is,LQG%20competes%20with%20string%20theory.
+
+Simulation hypothesis
+https://en.wikipedia.org/wiki/Simulation_hypothesis
+
+Jean Baudrillard on Simulation and Illusion
+https://noemalab.eu/ideas/essay/jean-baudrillard-on-simulation-and-illusion/
+
+"(Many-Worlds interpretation is now considered a mainstream interpretation along with the other decoherence interpretations, collapse theories (including the Copenhagen interpretation), and hidden variable theories such as Bohmian mechanics."
+https://en.wikipedia.org/wiki/Many-worlds_interpretation
+
+Bell's theorem proves that quantum physics is incompatible with local hidden-variable theories https://en.wikipedia.org/wiki/Bell%27s_theorem
+
+De Broglie–Bohm theory is a non-local Bohm theory that escapes Bell's inequality theorem, and so it's an example of 1 of 4 major categories of quantum mechanics interpretations
+https://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory#:~:text=In%20de%20Broglie%E2%80%93Bohm%20theory%2C%20nonlocality%20manifests%20as%20the%20fact,not%20have%20an%20invariant%20meaning.
+
+Another category of interpretation of Quantum Mechanics is QBism
+http://www.physics.umb.edu/Research/QBism/whatisqbism.html
+
+Can brain waves interfere with radio waves?
+"Not likely. Brain waves are too slow, and so weak they’re extremely hard to measure…"
+https://engineering.mit.edu/engage/ask-an-engineer/can-brain-waves-interfere-with-radio-waves/
+
+"Cellular telephones and effects on the brain: the head as an antenna and brain tissue as a radio receiver"
+https://pubmed.ncbi.nlm.nih.gov/12445512/
+
+"Add into that the fact that brain signals are incredibly weak, with electrical signals predominantly exiting only through holes in the skull (eyesockets etc.) and magnetic signals equally tiny, at any distance the signals are unmeasurable. We’re not talking kilometres here, but centimetres."
+https://www.quora.com/Can-our-brains-receive-brain-waves-signals-from-other-humans-Just-like-phones-transmit-and-receive-radio-waves-can-our-brains-do-the-same
+
+

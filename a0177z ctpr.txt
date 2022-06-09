@@ -1,0 +1,19 @@
+a0177z ctpr
+(LTD, oscillat, synap)
+My model of a neuron
+I believe that the correct model of a neuron understands that the four levels of conductivity in the synapse represent a threshold mechanism like the APsyn that could be combined with the growth or atrophy of other receptors to increase a cells sensitivity to certain patterns, a pattern detection mechanism with varying levels of sensitivity, the dendrite, soma, represents additional levels of sensor sensitivity to phase timing patterns represented as synaptic connections
+
+In addition we need to combine the Soliton model of neural firing (because dendrites & the soma expand & contract before during and after action potentials) with the Hodgkin & Huxley model which is just incomplete, the resulting combination of both is a multi-modal sensor-transmitter neuron with multiple levels of sensitivity,
+
+finally the magnitude of the APsyn is more relevant than the Amplitude, because the duration replaces the Amplitude in the changed waveform of the APsyn, set by mostly changes in potassium, affects how long the calcium channels are open/closed resulting in the number of vesicles containing neurotransmitters that released, with 0, 1, 2, or 3 vesicle sacks capable of being released, each might contain 2000  neurotransmitters, 
+
+soliton & hodgkin
+Combine Hodgkin & Huxley model and you get a sensor with memory, the mechano waves correlate with short term memory building as ionic charge build up, and memory is defined by the number of synapses in each type, and the configuration specifics of each synapse including its firing threshold, inhibition status, or mere existence. The process of LTD might remove synapses, LTP creates new synapses and new spines,
+
+The human mind has sensorys with memory that are also transmitters in every cell, its neuron glial networks are configured to learn invariant tempo-spacial-scalable-patterns, magnify them, error correct them with redundancy voting accomplish by oscillatory convergence, power band convergence (alpha, delta), and dipole convergence for thalamic scale observation of global scale cortical patterns that have been magnified from the meso and neuronal scale
+
+A comparision of Hodgkin-Huxley and soliton neural theories
+R. Appali, S. Petersen, and U. van Rienen
+Institute of General Electrical Engineering, Chair of Electromagnetic Field Theory, University of Rostock,
+Justus-von-Liebig-Weg 2, 18059 Rostock, Germany
+https://ars.copernicus.org/articles/8/75/2010/ars-8-75-2010.pdf

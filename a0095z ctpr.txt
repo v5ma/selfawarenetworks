@@ -1,0 +1,144 @@
+a0095z ctpr
+Note Created on Jan 5, 2013
+(conjecture, synap, cortex, semantic, qualia)
+Darwin
+
+An exploration of consciousness in the context of artificial intelligence design.
+by Micah Blumberg on Friday, January 4, 2013 at 10:26pm ·
+Acausal pattern, a notion that transcends a specific place & time, a prediction of causes in the context of other concepts about the properties of the cosmos. = belief
+
+( for reference: A note on causal and acausal patterns in the brain via Juan Carlos Kuri Pinto https://www.facebook.com/notes/juan-carlos-kuri-pinto/causal-and-acausal-patterns-in-the-brain/10151077561327712 )
+
+I don't know if it's compression that needs to happen so much as a competition for resources that needs to happen. In brain plasticity, if you wear a blindfold for five days, your Occipital lobes (visual cortex) start working for other parts of your mind. Without the "Vision program" from your "eyes" these general processing units can start improving your ability to sense other things, like with your hearing and touching. Then when you take the blind fold off, your vision begins to come back, and it does so rapidly, because what you see (input from the eyes is the vision program) is demanding in terms of brain resources. So by virtue of it's non-compression it simply takes mental resources away from other senses. If all your senses were neatly compressed how could anything be conscious? What we are conscious of I believe are the non-compressed dominant patterns in our attractor loop.
+
+"If the acausal pattern is validated by evidence, it's theory or fact, not belief." via Ian Neiges
+
+Theory & Fact & Belief are all grades given to belief's aka predictions, predictions grading predictions. The grade that you give a belief does not change it's fundamental nature. When you have evidence you grade your belief as a fact, it's fundamentally still a belief, just elevated to a higher level of trust and respect because of empirical results.
+
+"But, belief is an empirical submission not yet proved wrong by analytical methods and with high frequency of occurrences in statistical pattern recognitions in natural phenomenon" via Hayagreeva Acharla 
+
+Reason, reflection, proof, and evidence must be observed, observation is the empirical process. On the one hand we are defining the Grade we assign to a belief, but neurologically speaking these beliefs, or facts, or theories may all be synchronized firing patterns, representing what has been learned overtime, through the empirical process of life experience, inclusive of the tools of reason, reflection, and the scientific method.
+
+The difference between an "Apple" you see and "Two Apples" might be a few extra bunches of fired neurons to indicate that you have sensed "Two Apples" and not just one "Apple" The extra bunch of fired neurons of "Two" synchronizes by firing with the bunch of neurons that represent the pattern of an "Apple" Yet your mind receives it as one undivided concept. This is because all big concepts in your mind are like armies of smaller concepts firing together or together in a coordinated sequence.
+
+"Mind is a dynamic[non-volatile flash] memory of conformal mapping of command| inference outputs, arranged in statistical grading order" via Hayagreeva Acharla 
+
+no way, your memories are not stable, they are very volatile, there was a study where they had people write down their memories of the entire day that JFK died, and they did this the day after, and ten years later the same people were asked to write a story about what happened the day JFK died. Since almost everyone remembers what they were doing when JFK was shot (if you were old enough, just like almost everyone remembers what they were doing on 9/11) these people wrote a story about what they were doing the day JFK was shot only it was ten years later. Then the people who did the study gave these people their original stories from ten years earlier, and low and behold the stories totally contradicted what they had written, they looked at their own handwriting in disbelief, for their own hand writing was telling them what they thought to be a lie, a history that never happened, a day that had never taken place. You see in ten years their memories had subtly changed ever so slightly, that all the particulars of what had happened had shifted, the day was a different day. These people never noticed their memories changing.
+
+The only reason human memory has some consistency is the overwhelming redundancy of stored memories, a lot of your memory can fail, and as long as a small percentage of it does not fail you can get it right.
+
+"Here again not yet disproved submission, Mind: Mind is a dynamic[non-volatile flash] memory of conformal mapping of command| inference outputs, arranged in statistical grading order, over concomitant information inputs; information: scratch pad volatile memory of statistically recognised patterns in concomitant data inputs " via Hayagreeva Acharla
+
+The mind is perhaps like a soft malleable plastic, not elastic, not concrete, not stable, perhaps a bit like play doh or clay.
+
+Thought is delusion, thought is also awareness, awareness is delusion, thought awareness is a vortex like flow of expectation, a fiery attractor of brainwave activity, imprinted into the mind via the repetition of fired neural patterns, some patterns starting from chain reactions within, initiated by hungry cells, neurotransmitters, hormones, and some chain reactions initiated by external events in the ecosystem of the world. These are learned firing patterns, just like a dirt road that becomes very worn after millions of hooves have trampled across it. These energy patterns in the brain's networks are doing their best to dissipate the energy being put into them, by spitting out the energy they get when their threshold has been reached, resulting in the progression of the brain's electromagnetic, blood, and chemical brainwaves.
+
+The result is the coordination of sequences that pile on top of one another and through neural dominance these forms become our memory expectations aka our sensory thoughts, the sequences of which are our words, and acausal notions that predict the causes of moving things, and the coordination of our own movements to create a highly complex coordinated paths connecting simple nutrient rewards from the neurotransmitters in the brain, to the things we can find in the external world to eat, or love (depending on the triggers, and progressing via casuality).
+Like ·  · Unfollow Post · Share · Delete
+
+Ben Thomas
+my main reaction on a first reading is that consciousness/subconsciousness and mind/non-mind are gradients rather than binaries.
+23 hours ago · Unlike · 1
+
+Micah Blumberg
+yeah that's what I think! instead of digital matrix, it's analog matrix
+23 hours ago · Like
+
+Monica Anderson
+"Analog" feels confusing. I prefer to think of it all as digital with a smaller grain size than we can perceive. All our thoughts are emergent from a digital soup of small parts though neuron level algorithms that work pretty well most of the time.
+12 hours ago · Unlike · 1
+
+Monica Anderson
+And I have no problem imagining (or, indeed, constructing) systems with billions of interacting digital parts, none of which I myself created explicitly and none of which I can tell what it actually does. The emergent result is all that matters. Brains and artificial brains can both remain black boxes for all I care. And any other attitude is likely to be a distraction on the path to AI.
+12 hours ago · Unlike · 1
+
+Dario Nardi
+When teaching AI, I'd review the many features of consciousness (focus of awareness, self-reference, and a half-dozen more) and then explore how we might implement these individual features in a machine, a process that simplifies the task and affords discussion. As for belief, what we see in the neocortex is that beliefs are concepts that are held as true regardless of context and usually come with an attendant feeling-tone.
+12 hours ago · Unlike · 1
+
+Monica Anderson
+Dario, If that's what you are teaching then you are teaching the *history* of AI.
+
+You are describing a Reductionist (Model Based) approach to AI. That's what we've been doing for sixty years to the tune of a million man-years of (mostly) wasted effort. IMO, a better approach is to look for simple mechanisms operating at the neuron and synapse level that can create all the effects you enumerate by emergence from unintelligent components. This is the main principle behind Holistic (Model Free) approaches to AI and it is *radically different* than the traditional Reductionist approach. If you want to learn more about my stuff, check out http://syntience.com/links .
+
+If you want to see what others are doing in this area, check out Geoff Hinton's work, Christopher Alexander's "The Nature of Order", Neural Darwinism, Deep Learning, Numenta Inc. and SPAUN.
+Syntience Technology Resources on the Web
+syntience.com
+Artificial Intuition reading materials
+11 hours ago · Like · Remove Preview
+
+Dario Nardi
+Actually, Monica, the first half of the course *is* a history of AI course, so that's the purpose. We start with logic in week 1, then proceed to rule-based and concept/case-based approaches, then look at neural networks, situated action, social learning, and dynamic systems. My interest is also what is implementable. Many conjectured approaches to AI have no method of implementation, so they're sort of pointless beyond discussion. IMO, the search for simple mechanics to produce complex effects is also a 60+ year old approach that hasn't produced much either. I already know all about this stuff, but thanks.
+11 hours ago · Like
+
+Monica Anderson
+"I already know all about this stuff, but thanks."
+
+Do you really know about Model Free Methods for AI? Check out the video "A New Direction In AI Research". 
+11 hours ago · Like
+
+Monica Anderson
+Everything I propose is directly implementable. We (at Syntience Inc.) know how.
+11 hours ago · Like
+
+Dario Nardi
+Yes, I know about model free methods to do AI. They have their own limitations. If they didn't we'd already have autonomous intelligent machines, wouldn't we? I don't mean to discount your approach, only put it in perspective. What I teach is survey course for non-computer/cognitive science majors. They need basic steps like "what is consciousness?" Exploring the features of something isn't a waste of time.
+11 hours ago · Unlike · 1
+
+Dario Nardi
+All the topics you mention Monica in your papers such as complexity/chaos, emergent effects, value of context (situation), etc are points I talk about in the second half of my course. In fact, one of the issues we discuss is that truly intelligent machines will likely be somewhat unpredictable and unreliable by their nature, that they may not be able to explain why they made certain decisions, etc.
+11 hours ago · Unlike · 3
+
+Dario Nardi
+Situated action for robotics is an example of what we spend some time implementing in the lab portion of the course.
+11 hours ago · Unlike · 2
+
+Monica Anderson
+Now we're talking  .
+11 hours ago · Like
+
+Monica Anderson
+Heh I'm gearing up to argue against situated intelligence. 
+11 hours ago · Like
+
+Dario Nardi
+As someone who mainly does neuroscience these days, I know for a fact that the brain entertains many different ways of doing things, like reductive logic in the left frontal to multi-variable analysis in the right parietal, and many many more. I don't think it's helpful to argue against any specific approaches, except perhaps trying to do only 1 approach as "best". It's better to keep adding to the toolbox and remember that real organisms are organic and multi-faceted, and our machines can be too, when appropriate.
+11 hours ago · Unlike · 1
+
+Monica Anderson
+In the brain, there is no vision, no hearing, no touch. It's all neurons signaling neurons. A neocortical neuron can only communicate with a few thousand other neurons. This was pointed out by Friedrich Hayek in "The Sensory Order".
+
+Whatever intelligence is, it has to be achievable with a learning and thinking algorithm that operates under those conditions.
+
+A neuron can't tell whether its incoming signals come from the eyes, the ears, or a little of both. So why would it matter whether the patterns we perceive come from multiple senses? And if it doesn't then any one sense will do.
+
+I can imagine a language understanding computer with only a "text" input sense. That's what I've spent a decade building.
+11 hours ago · Like
+
+Monica Anderson
+Any approach to AI should be examined to determine whether it can be implemented in something as simple as a neuron/synapse based system. Also, in order to be biologically plausible, we need a story for how such a capability might have evolved. Without both of these, the theory is inferior to existing theories that fulfill these requirements.
+11 hours ago · Unlike · 2
+
+Dario Nardi
+Actually there are no neurons either. It's all just physics, right? I think we benefit by respecting ontological levels rather than saying they don't exist. Anyway, I left AI as a research area and am not really interested in philosophy of mind anymore either.
+11 hours ago · Unlike · 2
+
+Monica Anderson
+Most philosophy of mind is a major distraction to AI. I ignore (as red herrings) Qualia, Consciousness, the Turing Test, the Chinese Room and a bunch of other things. I focus on measurable semantics-level skills.
+11 hours ago · Unlike · 2
+
+Monica Anderson
+There are ways to do AI that live in the cracks left between the woo-woo Philosophy of Mind stuff and the futile Reductionist approaches. Plenty of room. It takes a lot of discipline to stay in that area and not step into the distractions on either side.
+11 hours ago · Like
+
+Monica Anderson
+Physics explains nothing about intelligence. Neuron-level theories rooted in Epistemology actually do.
+11 hours ago · Edited · Like · 1
+
+Micah Blumberg
+"Actually there are no neurons either." I agree with that, there are no neurons in consciousness, just like a song by Beethoven isn't made out of piano keys, it's a highly coordinated sequence of patterns. Patterns not neurons are at the root of AI. Patterns forming from fired bunches of neural activity in coordinated tempo-spatial sequences,
+8 hours ago · Edited · Like · 1
+ 
+Dario Nardi
+Dude, that's a keeper: "There are no neurons in consciousness, just like a song by Beethoven isn't made out of piano keys."
+17 minutes ago · Unlike · 1

@@ -1,0 +1,60 @@
+a0176z ctpr
+Note created Mar 29, 2019
+This includes notes on Numenta's work.
+(cortex) cortical structure
+
+The estimate is that there are over 100 regions that your neocortex is divided into.
+
+Different types of connections
+
+Dozens of different types of neurons, different response properties, different connectivity properties, different gene expression
+
+Roughly organized into layers
+
+Most connections in the neo cortex are across the layers
+
+few connections horizontally
+
+all regions in the neo cortex have a motor output, people knew this only 20 years ago
+
+everywhere you look there are cells in layer 5 that project some place into the rest of the body and create movement
+
+every sense in the brain is a sensory motor issue
+
+there is no sense that isn't connected to a motor function somewhere in the body.
+
+Vernon Mountcastle's Big Idea
+
+1. All areas of the neocortex look the same because they perform the same instrinsic function
+
+2. What makes one region visual and another auditory is what it is connected to.
+
+3. A cortical column (1mm squared) is the unit of replication
+
+from Mountcastle, 1978
+
+What makes a vision area vision, what makes an audio area hearing, and what makes a somatosensory area touch is what you connect it to.
+
+A cortical column which is just a little bit under a square millimeter contains all the essential circuitry that you will see everywhere
+
+A cortical column is the unit of replication
+
+If you can understand what a cortical column does then you understand the whole thing
+
+In a human being we have 150,000 cortical columns (in the neo cortex)
+
+150,000 columns of the same basic circuitry
+
+Every column must perform the exact same functions that the entire neo cortex does, there is no other place for things to happen
+
+If prediction happens in the brain it has to occur in every column, if am going to learn sequences and be able to play back sequences, every column has to be able to do this
+
+every part of your skin is going to predict what it's going to sense,
+
+"A Theory of how Columns in the Neocortex enable learning the structure of the world"
+
+A compositional object is two previously separate objects that are now joined together such as a sticker and a coffee cup
+
+A recursive structure, I could have a logo with a coffee cup and the coffee cup could have a logo with a coffee cup, and that coffee cup could have a logo with a coffee cup, recursive structure is essential for luggage
+
+

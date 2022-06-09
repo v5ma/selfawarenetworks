@@ -1,0 +1,80 @@
+a0097z ctpr
+Note created on Sep 11, 2013
+(dendrite, synap, emotion, cortex) can anyone explain this to me? http://phys.org/news/2013-08-complex-behavior-spontaneously-emerge-brain.html and this as well, I've read each six times http://medicalxpress.com/news/2013-07-coherence-neuronal-cultures-noise-focusing.html#inlRlv does it make sense to anyone?
+
+How does complex behavior spontaneously emerge in the brain?
+phys.org
+(Phys.org) —The idea of emergence, in which complex behavior spontaneously emerges out of simple interactions, exists in a wide variety of areas, such as economics, the Internet, and urban development. But perhaps the ultimate example of emergence is in the brain, where thousands of randomly firing…
+Like ·  · Unfollow Post · Share · September 8 at 2:09am near San Francisco
+2 people like this.
+
+Jack Offington After skimming both very liberally, I got the idea that those links attempt to describe the process of normal human thought. When you think about/experience something then groups of neuronal interactions seem to occur randomly and the groups that are being referred to as waves, as that's what shows up on their brain scan monitors as different colors (random non-grouped "noise" neurons also included). They've detected no way to determine the actual conscious controller of these waves so it's speculated that they just happen at random. Unless I missed something there, I think that pretty much covers it.
+September 8 at 5:39am · Unlike · 1
+
+Micah Blumberg hmm... afraid of that, thanks for the feedback, one of my hypothesis is based on random thought activity that is modified by neural plasticity.
+September 8 at 11:27am · Like
+
+Jack Offington Are you upset by the idea of the process actually being random?
+September 8 at 11:29am · Like
+
+Micah Blumberg Its only upsetting in the sense of finding out that some alien spaceship computing engine has some sort of random bootup stage that then takes on a coherent flow. Trying to explain that alien spaceship (the brain) is perhaps complicated now more by verification of these results by an independent research group, and its potentially upset again by a contextual shift. How long is thought activity random, and even when thought is harmonious instead of noisy is there an element of random activation regionally or across all the brains dendrites? I was thinking recently about the article that said cocaine makes dendrites grow in the frontal cortex, can simply a larger quantity of post-synaptic receptors shift behavior simply because the distribution of harmonious brain activity is random?
+September 8 at 11:40am · Like
+
+Micah Blumberg It makes you think that programming AGI will be a big like herding cows, walking dogs, moving schools of children, directing a campus of colleges, running a military, and keeping the peace in public, machines based on people will be like people very literally. 
+September 8 at 11:43am · Like
+
+Jack Offington Everything your brain does is algorithmically convertable, there are no limits to computability. Paying very close attention to the fine details of your own thought process reveals a lot of information if you look at it from the perspective of a programmer. You learn that your thoughts are an unfolding of inter-related concepts as your observations continue, you will also realize that approximation of information is how your brain processes information, your memories are compressed lossily before they're stored, and the more you think about them the more information about those thoughts unfold, I'm not the expert of the group but I've always assumed even to this day that the neurons are the concepts about the concepts about every unfolding thought as every part of the thought is referenced. The neurons seem to be the brain's logic gates. I think it's like a huge FPGA.
+September 8 at 11:58am · Like
+
+Samantha Atkins AGI will not be like people. I think it would be a mistake to try to make an AGI too much like a person. 
+
+Jack, the brain is a fabulous confabulation machine. Where it has lossy data it just makes stuff up on the fly and weaves it all together. Which is great for inductive and abductive reasoning I guess. The brain being a very large parallel associative memory is part of this.
+September 8 at 5:34pm · Like · 1
+
+Micah Blumberg the AGI I am designing will be like a person, its not a mistake its fundamental to the design of an intelligent independent mind. I don't know how anyone can build real AGI and design around the fundamentals exhibited in human intelligence but when you do we can have our machines compete to see which is better.
+September 8 at 11:56pm via mobile · Like
+
+Jeff Tsukuru You might like this 
+https://www.youtube.com/watch?v=gFnVmuU8_Lg
+
+The fundamental gist of which there are forces in the network, unobserved or unknown, which causes the coherence.
+sync of metronomes
+www.youtube.com
+A new version of metronome synchronization movie. A lot of metronomes show various performances. Have a fun!
+September 9 at 1:13am · Unlike · 1
+
+Jeff Tsukuru And an actual performance of a 100
+https://www.youtube.com/watch?v=QCp7bL-AWvw
+
+György Ligeti - Poema sinfónico para 100 Metrónomos
+www.youtube.com
+Video de esta extraña obra
+September 9 at 1:13am · Unlike · 1
+
+Micah Blumberg 
+32 out of sync metronomes end up synchronizing
+www.youtube.com
+https://www.youtube.com/watch?v=fmjY3UIgcwA
+When you move the metronome and put on a table that moves multiple metronome tha...
+See More
+September 9 at 1:30am · Like · Remove Preview
+
+Jeff Tsukuru It's rather fascinating isn't it?
+September 9 at 8:14am · Like
+
+Samantha Atkins
+How like a person? Will it have the same instincts? Will it have a human drive, seek status, and have human emotions? How would this not be self contradictory and dangerous if you went that far? Brain emulation is swell but how would we separate the intelligence bits we want from the rest that we may not? Is it less troubling to humans to have something more humanlike that fundamentally isn't or something less humanlike? The Uncanny Valley needs to be considered.
+September 9 at 9:52am · Like
+
+Samantha Atkins
+I would guess mechanical vibrations interacting to produce the effect.
+September 9 at 9:55am · Like
+
+Micah Blumberg
+There is an unknown factor in the direction of its development, simply because its a system that organizes sensory noise creating coherency from an initially random distribution of energy. Emotion and pain are axon-nerve frequencies, they make intelligence sensitive and fine tuned.
+September 9 at 11:20am via mobile · Like
+
+Micah Blumberg
+Oh you think feelings and emotions are dangerous? 
+Buddha is more intelligent, more developed, more emotional, that's what my machines can become, like Vishnu, like the great teachers. Your worried about terminators but terminators have no emotion, no sensitivity, no empathy, no human ability for compassion.
+September 9 at 6:48pm via mobile · Like

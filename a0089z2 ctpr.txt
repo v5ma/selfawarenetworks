@@ -1,0 +1,160 @@
+a0089z2 ctpr
+Note Created Sep 28, 2014
+(all or nothing) (synap, oscillat, field, dendrite, cereb, cortex) 
+
+Micah Blumberg
+of the premise, I will quote "Computational properties of use of biological organisms or to the construction of computers can emerge as collective properties of systems having a large number of simple equivalent components (or neurons)."
+11 hrs · Like
+
+Micah Blumberg
+I'm doubtful that having large numbers of neurons will simply create the emergence of higher functions. Eighty percent 80% of the brains neurons are in the cerebellum, but you can cut it out and throw it away and people will continue to live and function as conscious human beings.
+11 hrs · Edited · Like
+
+Renato Duarte
+This is very well known. Important computational features such as content addressability (in the case), fading memory, pattern completion/discrimination, and many more can be seen (in a formal sense) as emergent properties of a dynamical system composed of many stereotypical components (such as neurons).. If you read the full paper, all the proof needed is provided..
+11 hrs · Like
+
+Renato Duarte http://www.nature.com/nrn/journal/v10/n2/abs/nrn2558.html
+
+State-dependent computations: spatiotemporal processing in cortical...
+NATURE.COM
+11 hrs · Unlike · 1 · Remove Preview
+
+Renato Duarte
+This is a nice review paper that provides some bridges to neurobiology, maybe more understandable..
+11 hrs · Like
+
+Renato Duarte
+Ultimately, all cognition and behavior are emergent computational properties of a very complex, high-dimensional dynamical system
+11 hrs · Like
+
+Claus Agerskov
+50% if the brain's neurons are in the cerebellum. You can grow up without a cerebellum and the surrounding tissue will adapt to compensate for the missing neurons by taking over some of the functionality
+11 hrs
+
+Micah Blumberg
+The best estimate is that there are 86 billion neurons in the brain and maybe only about 30 billion in the neo-cortex which is the most important part of the brain for humans. That's not 50 percent.
+11 hrs · Edited · Like
+
+Micah Blumberg
+Emergence is a dream invented by AI people. Some think if they can just make a computer fast enough it can do whatever the brain does.
+
+My disagreement lies in the fact that the brain is more than a large quantity of neurons, there is a lot more to it, it's structure, it's layout, it's layers, the locations of it's inputs, it's rich club or core circuits. It's not just "get a faster computer, or get a bigger number of neurons and all of a sudden we get emergent properties like consciousness"
+11 hrs · Like · 1
+
+Micah Blumberg
+The brain doesn't compensate for a missing cerebellum. People who lose their cerebellum walk like they are drunk all the time, the rest of the brain never compensates for that. http://www.cerebellum.us/.../uploads/outside_view_brain.jpg
+CEREBELLUM.US
+11 hrs · Edited · Like · Remove Preview
+
+Renato Duarte
+Ok, I totally agree with you in that the brain is much more than a large quantity of neurons. And certainly, I do not expect that getting faster, bigger computers and adding all the details of neurons and synapses will lead to the emergence of consciousness, particularly because there is no acceptable working definition of consciousness.. However, emergence is certainly not a dream and much less an invention.. It is a fact! With many, many years of research backing it up. And it occurs not just in the brain, but in many systems composed of stereotypical units, with the ability to self-organize..
+11 hrs · Like
+
+Renato Duarte
+To understand the brain and its immense computational capacity that leads to high-level cognition and behavior, we need to make simplifying assumptions (as is the case with any good theory). For that reason, vast amounts of research show that the cortex is composed of repeated, stereotypical units, the microcircuit, which can be seen as the 'inside' of a layer in a cortical column (imagine, for example, layer 2/3). Throughout the cortex, this unit is known to have some common features, namely sparse, recurrent connectivity, excitatory and inhibitory units, and several synaptic and intrinsic adaptation mechanisms..
+11 hrs · Unlike · 1
+
+Renato Duarte
+Assuming these features as universally true (which is not unreasonable) we can now begin to address the issue of computation (as input-output transformation). What can such a stereotypical unit account for, what can it do..
+11 hrs · Like
+
+Renato Duarte
+And such studies led to the undeniable conclusion that various critical computational functions, essential to any cognitive, behaving organism, can emerge from the self-organized dynamics of the such systems, which is extremely complex, rich, high-dimensional and often chaotic (as one would expect in the cortex)
+11 hrs · Like
+
+Renato Duarte
+Two examples from my own work (the second case should have the final pdf next week or so...): https://mindmodeling.org/cogsci2014/papers/083/paper083.pdf
+http://journal.frontiersin.org/.../fncom.2014.00124/abstract
+10 hrs · Unlike · 1
+
+Micah Blumberg
+When people talk about the emergence of the behavior of water, from it's chemical components the word emergence applies to a new layer of description, but the mechanical properties of the gasses in water haven't actually changed.
+
+Emergence refers to a new level of description about a mechanical system. The problem with that word is that people use it like the engineering version of the god of gaps, like whenever they don't understand a system, so I dislike the word, it's not mysticism, but it's kind of like used in that way, to be a vague place holder hiding actual material understanding of the engineering principles in the design. A stop sign so inquisitive minds stop questioning.
+10 hrs · Like
+
+Micah Blumberg
+"Assuming these features as universally true (which is not unreasonable)"
+
+No it is unreasonable, computational neuroscience makes unreasonable assumptions about how the brain works, and that is it's strength, and it should continue to do that, but it is most definitely unreasonable. In fact computational neuroscience is flat out wrong, it's a wonder that it actually does interesting things. I still like it, but real biology is a lot different than the spiking summations of comp neuro which have no correlate in the brain.
+10 hrs · Like
+
+Renato Duarte
+I think you're totally wrong with this last remark but ok, this is the discussion of physics vs biology and I now realise it won't lead anywhere, as usually it is not possible to reason in these terms.. So, it was interesting, but I'm out..
+10 hrs · Like
+
+Micah Blumberg
+"To understand the brain and its immense computational capacity that leads to high-level cognition and behavior, we need to make simplifying assumptions"
+
+The issue is oversimplified assumptions.
+10 hrs · Like
+
+Micah Blumberg
+Lets talk about the last statement Renato
+In the real brain, spikes have variable amplitude and frequency, they are soliton waves, they do not collide with other waves and they do not summarize. In the real brain spiking is not an all or nothing event as it is described in comp neuro, and neurons oscillate.
+10 hrs · Edited · Like
+
+Micah Blumberg
+Renato Duarte Please give your work top posting in the group, a new thread for each. Good stuff 
+10 hrs · Like
+
+Micah Blumberg
+Maxwell Edison
+10 hrs · Like
+
+Micah Blumberg
+"the discussion of physics vs biology" not really it's the discussion of comp neuro vs biology, I want to show that biology is wrongly simplified for comp neuro. That should be an interesting conversation for anyone.
+10 hrs · Edited · Like
+
+Renato Duarte
+It is an interesting, but pointless conversation.. I don't think I will be able to convince you of my arguments and vice-versa.. What you describe as comp neuro here is a mere 0.001% of the field.. comp neuro doesn't describe spiking as 'an all or nothing event', this is a particular type of neuron model.. If you can describe the phenomena of interest mathematically, you can use it in comp neuro, regardless of the level of detail you find relevant.. There are multi-compartment models, Hodgkin-Huxley models, oscillator-type models (such as Kuramoto, for ex.). You can consider the spike as a delta pulse (for mathematical tractability), but you can also consider it an alpha function with variable latency, amplitude, frequency, rise and decay times. You can consider neurons as dimensionless points, but you can also model the full dendritic tree with ionic current dynamics differentially modulated on each compartment.. You can consider synaptic interactions as current transients, conductance transients, transmitter release probabilities... Etc, etc, etc..
+10 hrs · Unlike · 1
+
+Micah Blumberg
+Alright I won't try to convince you, that won't work, but perhaps I can ask you questions instead?
+
+In the brain the axon's action potential spike ends at the synapse, it does not go on to other cells, it's a one cell event, except in the case of the electrical synapse.
+
+So why does comp neuro model spiking when it has nothing to do with cell to cell communication? Where the cells communicate is at the pre-post synapse, and what changes is the opening and closing of the ndma receptor and the transmission of ions.
+
+So why do comp neuro models model spiking instead of ion transmission?
+9 hrs · Like
+
+Micah Blumberg
+Thanks for your participation so far regardless. I'm here to learn and increase my knowledge like everyone else.
+9 hrs · Like
+
+Renato Duarte
+Again, this is a misconception and it depends on the model used.. For example, in a conductance-based neuron model, a spike in the presynaptic neuron triggers a transient conductance increase in the postsynaptic neurons, whose amplitude depends on the efficacy of the synapse.. This is capturing the essence of what happens in the real brain, the neurotransmitter release from presynaptic terminal will bind to the postsynaptic receptors, which can be ion channels (at least the ones working on a short time scale) and the result is an influx of certain ions whose net effect on the postsynaptic membrane is an increase in the net conductance..
+9 hrs · Unlike · 1
+
+Renato Duarte
+Besides, there are models that explicitly consider the arrival of the presynaptic spike at the synaptic terminal as an event that modifies the probability of transmitter release and consider the postsynaptic terminal as a current or conductance transient dependent on the type and concentration of the released presynaptic transmitter
+9 hrs · Unlike · 1
+
+Micah Blumberg
+Okay "net conductance" is like summarizing the dendrites output to the soma.
+
+It's one of the comp neuro things that I think misunderstands biology. Here is a paper that explains an alternate idea 
+
+https://journals.aps.org/prx/pdf/10.1103/PhysRevX.4.031047
+
+Penetration of Action Potentials During Collision in the Median
+and Lateral Giant Axons of Invertebrates
+
+
+Micah Blumberg
+The point is that instead of current in the brain behaving like electricity in copper wire it is instead electromechanical, it doesn't collide it crawls over other electro-mechanical waves http://www.medicalnewstoday.com/releases/282384.php
+
+Study confirms that nerve signals are sound pulses
+According to the traditional theory of nerves, two nerve...
+MEDICALNEWSTODAY.COM
+9 hrs · Edited · Like · 1 · Remove Preview
+
+Renato Duarte
+Well.. I haven't paid much attention to this, but I am certainly not convinced that a single study reported in PRX will revolutionize centuries of research, but ok.. I'm not saying it's wrong, just certainly insufficient to prove any point.. Second point, nobody refers to the electrical current in the brain as "electricity in copper wire", not at all.. the circuit diagrams that lead to models such as the leaky integrate-and-fire neuron, consider the relevant details as ionic flows and active processes.. If your interest is really in the results described in this study and consider this to be the description of how signal conduction happens in the brain, this is also not inconsistent with comp neuro.. If you manage to get a mathematical description of it, you are more than welcome to contribute to the community..
+9 hrs · Unlike · 2 
+
+Tags:
+  soliton

@@ -1,0 +1,20 @@
+a0099z ctpr
+temporal synchronization for memory-prediction consolidation across modalities
+(synap)
+Compare Neuropype comparing unstructured data sets via time synchronization
+to temporal synchron of cortical columns
+
+What I am suggesting is that temporal synchronization between different brain areas allows the brain to consider & compare different sets of unstructured data from different senses to learn information patterns that are 'modal substrate invariant' meaning that an information pattern learned with sight (a modality) can be considered with a modality pattern learned from hearing (another modality) thanks to temporal synchrony accomplished with brainwave oscillations.
+
+This is similar to the concept employed by Neuropype by Tim Mullen to align different sets of unstructured data (heart beats and EEG brainwave signals) with a temporal code so that data from the two unstructured sets can be analyzed (with neural networks for example)
+
+The basis of a bit int the brain is a coincidence detection, at the synaptic firing level, but also at the level of dendritic branches, and when the soma's of neurons burst.
+
+On
+orch or
+microtubules
+coincidence as bits
+The principles of information patterns, as coincidence detections, in the brain could extend into microtubules, but it's incidental to the overall theory in part because quantum signals are so small & weak they are unlikely to perturb neurons in a way that matters, rendering their contributions incidental.
+
+Neuromuscular connectomes across development reveal synaptic ordering rules
+https://www.biorxiv.org/content/10.1101/2021.09.20.460480v1

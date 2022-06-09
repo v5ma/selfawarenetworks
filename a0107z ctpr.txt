@@ -1,0 +1,94 @@
+a0107z ctpr
+(graph, metaverse)
+Shardless architecture?
+
+Using neural networks to create reduced representations of user activity based on LOD level of detail concepts, a neural network will take fractional user activity that is sent in sparse ways based on virtual distance
+
+So at great distances only a smaller sample of user activity is sent and behavior in large groups is instanced
+
+Looping behaviors are identified and simulated locally with sparse updates from real users
+
+Users who are up close get faster updates and ai like nvidias will reconstruct what is missing between signals from each user
+
+Like the nvidia video compression ai that sends low res video and reconstructs it
+
+Instanced voxelizes Marching cubes for graphics
+
+Streaming a sparse camera view over the network that the AI can reconstruct
+
+I like the idea of a serverless peer to peer metaverse architecture
+
+With the users downloading other avatars to run locally, with behavior updates fetched one at a time with each connected user via a peer to peer system that takes turns getting updates from each connected peer
+
+Separating historical data from real time events
+
+local data storage, a server for only realtime events
+
+Google research football
+
+
+Engine for graphics
+Browser based graphics
+How to get beautiful graphics inside a browser
+Is this connected to webGPU and webXR
+Smaller polygon  n triangles
+
+How you can maximize 
+
+Shardless computing
+Analogy to stream better graphics with webxr
+
+How do you deliver information
+Behavior - you raised a hand
+
+So you have shards the users move between shards based on their virtual physical proximity
+
+What if I could take my characters and move between shards 
+
+Move with your avatar inbetween different shards
+
+A temporally sparse representation of user behavior based on LOD concepts
+
+With a local neural network to reconstruct 
+
+Virtual Proximity, a coordinate system
+
+Game developers have made it so that users can move between shards but there are different ways to do this
+
+So that user behavior data is streamed based on their position in a coordinate system
+
+In other words this is like neural rendering, nanite, and sparse networking.
+
+Hmm
+
+Minimal user data is a strobe of head position, hand position, eye position, button clicks
+
+They are not using neural networks it seems
+
+But a neural network could not only reconstrucr but it could find the sparsest function needed to transmit a change in movement/voice over a network
+
+The data that is received by one user via peer to peer can be merged into each users local storage so that they are broadcasting a sparse representation of their interactions with others via 
+
+Everyone stand 
+
+Lod on proximity, need to know
+Ai interpolation of temporally strobed behavior data sent based on need to know (head position) 
+
+Update people behavior with LOD
+
+Neural-Nanite-Behavior-Sharding for metaverse
+
+Unified coordinate system
+
+The key feature of shardless is that I can bounce between games or between instances of games
+
+So all the shards have a unified coordinate system
+
+Seems like you would speed up or slow down network updates based on what you are looking at
+
+Foveated networking for metaverse multiplayer one is streaming updates based on eye tracking or head position
+
+The part about streaming just in time foveated temporally sparse behavior updates is also about not putting graphics on the server,
+
+All the graphics are rendered locally, updated based on camera direction, reconstructed from sparsified behaviors
+
