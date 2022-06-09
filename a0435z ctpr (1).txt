@@ -1,0 +1,34 @@
+a0435z ctpr
+(perceptron)
+from the book Models .of the Mind that was sourcing material from the book Perceptrons by Minsky and Papert
+"consider a perceptron that has 2 inputs"
+"each input could be on or off, 
+"we want the perceptron to report if 2 units are the same,
+"if both inputs are on
+"or if both inputs are off,
+"it should only respond when it sees a matching pair
+"if one fires and the other doesn't the readout unit should be off for no pair detected
+"to make sure it doesn't fire when only one input is on the weights input should be sufficiently low, this way when both are on the readout will fire, and it won't fire when only one input is on, 
+in this setup the readout is responding correctly for 3 of 4 possible input states, but if both inputs are off the readout will be off, an incorrect classification."
+because of this an AI Winter happened, investment in AI plunged.
+the dark ages of connectionism, significant decreases in funding to the research programs
+"the same-or-not problem could be solved by adding a layer of neurons inbetween the input and the readout, this layer with two neurons, one with weights that make it fire when both inputs are on, and the other with weights that make it fire when both inputs are off, now the readout just nees to be active when one of the middle layer neurons are active."
+
+tonic oscillation in the brain fixes this elementary issue, if the sensor state is oscillating in a tonic firing pattern, then the network will notice if 2 or more perceptrons are off, their off state is tracked by the readout which is expecting (the readout is other neurons) a regularly timed oscillatory firing, but when 2 or more go missing, the entire sensor takes notice because the rate of the dissipation of energy everywhere in the oscillating group of neurons has changed.
+
+
+Hebbian sync: what did Hebb speculate about neurons joining up
+
+Thalamas -> Gaba Neurons -> Delta Frequency
+Hippocampus -> GABAergic -> O-LM cells
+Theta frequency & 
+
+Okay so some GABAergic neurons cause delta wave oscillations (thalamus) and some cause theta wave oscillations (hippocampus)
+
+I saw an augmented reality cloud dropping colored balls on a desk, a hololens 2 app, the balls were bounding off the desk, rolling, etc
+
+and I thought that is what I would like to see when people die, that a cloud appears and starts shedding colored balls for several days indicating that they have dissipated in a colorful way, its a way of representing death as the final balloon cloud moment creating a colorful event out of the dissipation of life
+
+only in my version the cloud is made up of these colored balls in the first place, and so after a few days of oscillating in the sky, the cloud gradually evaporates into smaller and smaller gusts of cyclic oscillation, until the last of its dust is spread out and only colorful balls remain, and then they also dissipate away.
+
+I would love to celebrate death this way. Call it the death sparkles cloud game. Where people can pay to have their loved one become a cloud of dissipating sparkles upon death.

@@ -1,0 +1,48 @@
+a0381z ctpr
+Nov 6, 2012
+
+Micah Blumberg
+Some say reality is not pre-determined, because of non linear dynamics, chaos theory, from Illa Prigogine to Ronald E. Meyers http://www.army.mil/article/90447/ "Meyers is listed as the inventor on 14 patents. He co-authored a book, "From Instability to Intelligence: Complexity and Predictability in Nonlinear Dynamics," -- covering nonlinear equations in math, physics and biology, and authored a plethora of scientific papers." Prigogine likens choice to a dice-roll, a bet, you have a bellcurve of things you are likely to do in the fat middle, and things you are less likely to do on the thin ends. If nonlinear dynamics applies to brains, then predeterminism isn't possible. No one can perfectly predict the result of how your brain will coordinate you until it happens. Your brain can also change itself, as demonstrated by the emerging science of brain plasticity,
+
+The sad thing is that people think determinism means you can't do whatever you want to do in life, but that's a philosophical error, because technically what you do is always what your system wants to do in a manner of speaking. The physics of you coordinates you. The best reasoning I can conjure is the choice reaction, based on the best prediction of the future, that is the brainwave triggered by cell reaction.
+
+Army scientists earn patent for advanced neural chip
+www.army.mil
+
+Victor Smirnov
+Future is predetermined but it is not computationally predictable.
+
+Micah Blumberg
+1. perhaps you have an epistomological problem, (no offense is intended by that) if you can't predict it, then its not pre-determined. 2. no one has proved that determinism underlies probability, although it is possible.
+
+The nonlinear argument insists that the result does not exist, until the exact moment it exists, and it can't be known before it exists, it's a phenomia of the present. To believe in predeterminism I think you have to imagine linear time, in euclidean newtonion space, pre-general relativity and quantum physics. Since general relativity time is known to be a dimensions of space, so events in the past can still change, and events in the future can be effecting the gravity of the present. What makes the present moment the present moment then? Is it some potential difference? Like an particle that averages a past geometry and future geometry together? Quantum physics discoveries this year are demonstrating that an event and its cause can give rise to one another, as if pencil rolling also cause the pushing of the pencil. Its bizarre to think of time as a nonlinear dynamic, which is why most people don't, but if you don't your pre-Heisenberg. the very thing that would cause changes in past and future is the uncertainty principle applied to gravity.
+
+Victor Smirnov
+Probably only a terminological problem. States of a system under nonlinear dynamics are computable. So having current state you can always compute the next state. But further forecasting is very hard computationally.
+Prediction of a system (both classical and nonlinear) is uncomputable because of halting problem if the system is complex enough. So the only way to know the state at time T is to wait until that time T happens. 
+The different question is that "complexity" is not possible without nonlinear effects.
+about an hour ago · Like
+
+Micah Blumberg
+"States of a system under nonlinear dynamics are computable. So having current state you can always compute the next state."
+Assuming that the current state can ever be had, big assumption.
+Also assuming that the current state isn't the result of next state times the previous state, another big assumption.
+However you concede the argument if your really claiming that it's both computable and uncomputable at the same time.
+
+Victor Smirnov 
+Assuming that the current state can ever be had, big assumption.
+Sure, but it exists for the system. Even if we don't know it exactly. 
+Nonlinear dynamic systems are defined in the form of Sn+1 = F(Sn) for n=1... 
+And they are usually not convertible to the form of Sn = P(S0, n). This is what uncomputability means here. But we can approximate P up to some degree.
+about an hour ago · Like
+
+Micah Blumberg
+"Sure, but it exists for the system" As what? How does it exist for the system? As sequence of matter wave/particle's that only exist on average when your looking? How does it exist unto itself? Are you outside the system?
+about an hour ago · Like
+
+Victor Smirnov
+Ok. It exists like a current physical state of the Universe)
+
+Micah Blumberg
+When you say that do you mean the current state is the present moment? How many current states of the universe exist simultaneously do you think? How many present moments exist across time right now?
+I think I'm aiming toward the articulation of a conceptual argument that the universe only exist on average, that the future and past exist sometimes, but not always, that this on and off again state of matter means that we can't have a current state that would even be conceivably measurable. Going way beyond the idea that the complexity maybe irreducible, and not-computable to humans and computers, going as far as to say it's not reducible because it's not even really all there, and this is a spooky notion of cosmic consistency, to suggest that we won't have pre-determinism because the universe is expanding and contracting at in-consist rates, or to say because it's existing and not-existent without a constant.   

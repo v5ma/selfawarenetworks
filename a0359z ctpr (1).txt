@@ -1,0 +1,113 @@
+a0359z ctpr
+Dec 30, 2012
+(field, synap, category theory) Can Category Theory be applied to the process of psychological categorization?
+
+Can Model Theory be applied to the creation of mental models?
+
+Ivan Pierre
+Simply held, complete nervous system can be viewed as a modular monoidal recursive map-reduce... Simply held.... 
+
+Ivan Pierre
+In a same way, I like to see memory, as a closure in pure functional way the neurons interract through monoids of class endofunctors (neuronal signal->neuronal signal). Leeds us to category theory...
+
+Juan Carlos Kuri Pinto
+I would like to learn everything about the high-level aspects of Haskell:
+https://www.facebook.com/groups/programming.haskell/
+
+Ivan Pierre
+I'm not working with haskel now but with clojure. Anyway it's the same concepts. I put my current readings : http://www.facebook.com/Psychaitrie.pour.programmeurs on programming and http://www.facebook.com/InformatiqueCognitiveEnChantier on cgnitive computing. Both mostly in English. But it's just my two month in walkin' through the subject. So, it's eclectic, but grab at will 
+
+Ivan Pierre
+On the mind problem, I'm focused on the bayesian model. But anyway, it's a multidiciplinary problem....
+Friday at 10:31am · Edited · Like
+
+Yan King Yin
+If you think more abstractly, you may discover that it is not necessary to build AGI with a reference to neuronal mechanisms... hence my more formal-logic based approach.
+Friday at 11:33am · Like · 2
+
+Ivan Pierre
+Yes, it's right. But I'd like to encompass the actual data from various other fields, as they have to account themself. I think for example Tannenbaum and Dehaene in experimental psychology and Brain/mind works. It's clear they record a general behavio...See More
+Friday at 11:59am · Edited · Like
+
+Juan Carlos Kuri Pinto
+If you think more abstractly, you may discover that neurons are parts of objects and axons are relationships between parts of objects.
+Friday at 9:25pm · Unlike · 1
+
+Micah Blumberg
+You can also flip that and make the axons and axon firings as the objects, and the neurons as the morphisms with identities between axon firings objects.
+Friday at 10:36pm · Edited · Like
+
+Ivan Pierre
+Yes, That why I though monoids, but not with identity, with state. Viewing synapse as an addition function with release of the potential at some cutting edge. And lowering the edge for each discharge, and another function highering the edge with time.
+...See More
+19 hours ago · Edited · Like
+
+Micah Blumberg
+The frequency of firing is not important, but the timing order is important, when the frequency is altered, the timing of firing is changed. This is the different between a neuron contributing to the recognition of a pattern, and not contributing to the recognition of a pattern. Have you read "How to create a mind" by Ray Kurzweil?
+19 hours ago · Like
+
+Ivan Pierre
+Not yet, I have it in my future readings...
+18 hours ago · Unlike · 1
+
+Yan King Yin ut along this thinking, each neuron can only recognize 1 feature (which may be micro or macro), for example the concept of "grandma". How can a neuron achieve generality? (Eg, the generalization of all grandmas.)
+
+Another problem I find with the neural approach is the need to evolve large-scale organization, ie, the configuration of networks to achieve complex behavior. That aspect is little studied (at least when I looked into it several years ago....)
+17 hours ago · Like
+
+Micah Blumberg
+The neurons don't represent single features, the features are in patterns, trans-neuron
+16 hours ago · Like
+
+Yan King Yin
+Hmmmm I don't get your explanation.... the features (recognized by neurons) can get more and more abstract as you go up the hierarchy, but that would imply a very tall hierarchy, and seems implausible in the brain (it may also be impractical for AGI). Perhaps there is some special mechanism in the brain to allow neurons to generalize like logic formulas with variables...
+15 hours ago · Like
+
+Micah Blumberg
+Neuron's are like piano keys, or perhaps like pixel's, when they fire they can belt out a recognizable pattern, when they are inhibited the tune may or may not be recognizable, but another set of neurons can create the same pattern, because the pattern is neuron agnostic, just like you can play a recognizable jingle with different keys on the piano, or different pixel's on the screen.
+15 hours ago · Like
+
+Micah Blumberg
+This whole concept of pattern recognizers is the main subject of the book "How to create a mind" by Ray Kurzweil.
+15 hours ago · Like
+
+Yan King Yin
+How is it different from the traditional feed-forward model? Researchers claim they can recognize invariant patterns, but in practice it still appears impractical, and has not been conclusively demonstrated.
+15 hours ago · Like
+
+Micah Blumberg
+It's different for several reasons, among them the neuron is no longer the core computational device, a module, which is a group of 1000 neurons or more is the core pattern recognizer. It's also not exclusively feed forward, patterns feed forward, and ...See More
+15 hours ago · Like
+
+Micah Blumberg
+Patterns are invariant, because a pattern is a sequence of bits, and a variant of that pattern is a slightly altered sequence of mostly the same bits.
+15 hours ago · Like
+
+Micah Blumberg
+Like a song is a sequence of bits (pressed piano keys) and a variant on the same song is a slightly different sequence of mostly the same piano key sequence. The similarity to the previous variance is built into the pattern recognition sequence.
+15 hours ago · Like
+
+Ivan Pierre
+Ok, I begun reading the book. Well, I see with his background that pattern recognition is his 'dada'. Well, I'll finish it before saying any more.
+What makes me wonder. In neurosciences, I allways find that they seldom extend more than the result the hypothesis, and even look for procedurial failures.
+I liked to read some of Tennenbaum on the subject, and he is quite strict on procedures : http://web.mit.edu/cocosci/josh.html
+Ans if you understand French some of Dehaene : http://www.college-de-france.fr/site/stanislas-dehaene/
+
+Josh Tenenbaum's home page
+web.mit.edu
+Email: jbt AT mit DOT eduPhone: 617-452-2010 (office), 617-253-8335 (fax)Mail: B...
+See More
+15 hours ago · Like
+
+Micah Blumberg
+When inhibition fails, as it sometimes does in a human's brain, you could fail to recognize that you are looking at a new pattern, and instead mistake a new pattern for an old pattern. This is why caffeine is so useful, in triggering the inhibiting act...See More
+15 hours ago · Like
+
+Yan King Yin
+How do neurons in that model recognize temporal sequences? That would require some sort of recurrence, no? Last time I studied them, it seems that evolving large-scale recurrent networks are too complex to tackle...
+On the other hand, if you don't have recurrence, you can't recognize temporal sequences, and must rely on very tall feed-forward hierarchies.
+15 hours ago · Like
+
+Micah Blumberg
+You should check out the book, because I think I explained it already, but obviously my words do not mean the same to me as they mean to you because my words reference an entire book to me, but it's not plausible that I can explain an entire book to you in a short q&a
+14 hours ago · Like

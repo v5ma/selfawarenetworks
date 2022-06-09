@@ -1,0 +1,47 @@
+a0365z ctpr
+Created Sep 19, 2012
+(field, graph, dendrite, synap)
+
+Dean
+What you are describing might be an interesting exercise in creating an alternative spiking model ANN, but again, as a theory of how the actual biological brain operates, it has some problems (IMHO).
+Information is encoded within the brain not as individual spikes, but rather as spike trains - temporal patterns of firing - I don't see where this is accounted for in your theory.
+Also, it ignores the role of extra-synaptic mechanisms (glia cells, ephaptic coupling, extrasynpatic receptors, etc) and there is strong evidence that their roles are quite significant in developing a complete framework of computation and communication within the brain. 
+There is a theoretical model being pursued by Dorian Aur (postdoc at Stanford) called NeuroElectroDynamics (NED) that eschews the orthodox view of a temporal spike timing model and rather, promotes a model based on the shape and direction of electrical charges as being the basis of information encoding. He has some interesting evidence to support his ideas, but has not gained much traction from the neuroscience community. It does contain some elements that are similar to your ideas, so you might want to check it out.
+http://neuroelectrodynamics.blogspot.com/p/spike-directivity.html
+
+Micah Blumberg
+http://www.hhmi.org/news/dan20090430.html
+
+If the axon's reduce all the dendrites into a digital signal then there would be no meaning to the variation in brainwave hz.
+If the brainwave hz didn't mean anything then there would be no difference between being awake, and being asleep.
+Already we can see that the brainwave hz adds meaning to the system. The electron pulse in the neuron has not only a frequency, but also a hz. This is enough distinction to register an SDR of the topography of the entire neuron representing the distinct changes in dendrites and synapses of a single neuron, with a unique memory, to every other neuron in the brain. Making that memory active for the whole neural network. In a digital brain you could not have a single cell representing an entire memory.
+
+Imagine we each type a message, sent it, then our server converted our WHOLE message into a single character, before sending it onward to facebook. There would be no messages on facebook, because every message would be exactly the same 1.
+
+A digital signal would reduce all the information complexity recorded in all the dendrites to 1 in the axon before it reached the synapses.
+This would mean that all the changes to all the synapses and dendrites would be converted to 1, or deleted, before they reach any neuron that was not directly connected.
+The fact that "SOME" information is encoded as temporal and spatial patterns in the network does not explain how a single neuron can contain a memory. http://web.mit.edu/newsoffice/2012/conjuring-memories-artificially-0322.html
+
+If a single neuron contains a memory, but this memory is zeroed out in the axon, converted into a digital 1, before it reaches any neuron it is not directly connected to, then you would have zero ability to convey that memory to any part of your brain that isn't directly connected to that neuron. That would be like having a memory of your computer screen, and a memory of the wall, but not being able to see them together at the same time, because the memory would be converted to 1, a meaningless 1.
+
+If each neural spike is equal to one, a digital pulse that is equal to every other digital pulse, then none of the information stored in all the dendrites and synapses is going to be available to any neuron it is not directly connected to. This would be like not being able to think about your nose and the computer screen at the same time.
+
+Because the neuron itself fires one pulse, which if it's a digital spike, would zero out all the information in all the dendrites and synapses on the way to the neuron it's not directly connected to. Your brain would not be able to perceive the forest for the trees. You wouldn't have any interior sense of anything. Because there would be no way for memories in one cell to combine with memories in all cells, seeing as how the axon in ANN model is a digital message. You would be a philosophers zombie.
+
+In order to have a field of vision, the information in the dendrites and synapses has to be able to reach the entire brain, if the neural pulse zeroes out all that information, then it's that data goes nowhere. You don't have a field of vision, you have electrical spikes, you have noise. 
+
+Contrary to your suggestion I am not making the argument that collective temporal & spacial patterns in the "electrical spiking" aka firing of neurons are not also making representations in the network. Far from it. I'm adding to everything we already know in neuroscience, by suggesting that not only is the data from the dendrites and synapses of one neuron reaching the other side of the brain, and it has to, otherwise your total field of vision consists at the most of the neuron with the most synapses at the top of the hierarchy, because the hierarchy itself would not have
+
+Nor am I excluding any extra-synaptic mechanisms including everything you mentioned, including nutrition deliver systems, waste removal systems, and everything else that the brain does.
+My proposal differs from (NED) because it does not require the electron to have a shape, only to represent the changes to structure of the neuron (including dendrites and synapses)
+
+This representation might be in hertz, it might be in the electron's spin, and or also in the electrons shape and direction as (NED) suggests. But regardless of how the electron pulse transmits the SDR, the key idea is that it's transmitting a program. Data that encodes a programmed message, the memory, which is a spatial and temporal memory, which is an SDR snapshot of the whole neuron which is the spacial & temporal memory bank that is vastly larger than what is actually being transmitted, and it's physical topography might have infinite storage capacity if the cell could last forever.
+
+These tiny electron programs, representing spatial and temporal memories merge together like the sounds produced by individual instruments in a symphony, a symphony that is now a collection of topographical programs, in electrons, representing the collective power of the whole brain in one circuit.
+
+A river of thought running through every stream, every neural connection.
+Each sound, hz, spin, frequency, direction, representing both the functions and sets of vast and enormous computer programs, as SDR's
+And these SDR memory-prediction spatial-temporal metaphor program have to be sent somehow to other parts of the brain. That simply won't happen if all the details of that memory are reduced to 1 digital pulse in the axon.
+
+HHMI News: Breaking the Waves: A Single Neuron Can Change the Activity of the Whole Brain
+www.hhmi.org

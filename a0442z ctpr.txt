@@ -1,0 +1,46 @@
+a0442z ctpr
+(sdr, phase, atp)
+Ring network, is SDR like, meaning that the variations in its phase patterns will be toward similar patterns if any, and not towards very different patterns.
+
+Perhaps Granule Cell Dendrite inputs can be considered ring network like
+
+given that a dendrite can learn to responds to certain firing sequences, and be resistant to others
+
+Analog Phase Memory why analog
+
+3DP3 AI learns to do pose estimation with five images of an object https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/
+
+3DP3
+https://arxiv.org/abs/2111.00312
+
+LFN
+The new machine-learning system can generate a 3D scene from an image about 15,000 times faster than other methods. https://scitechdaily.com/breakthrough-ai-technique-enables-real-time-rendering-of-scenes-in-3d-from-2d-images/?utm_source=TrendMD&utm_medium=cpc&utm_campaign=SciTechDaily_TrendMD_0
+
+Light Field Networks have ring network energy efficiency because they continue to oscillate the same pattern until a change happens
+nothing changes if nothing changes
+LFN Light Field Networks
+https://arxiv.org/abs/2106.02634
+
+NTA Nonlinear transient amplification in recurrent neural networks with short-term plasticity
+Fixes Hebbian learning network excitation problem with inhibition
+https://elifesciences.org/articles/71263
+https://elifesciences.org/articles/71263
+
+The macroscope magnetic wave in the brain could serve as an attractor for its own oscillation by providing macroscopic regional stimulation of ATP in local oscillating groups of neurons. Right so its not just individual neurons that can get ATP rewards but also entire groups if their collective magnetic energy which is going to be coupled with the representations of many distributed patterns intersecting on some abstract cross subject concept, like a pattern that is in the clouds, matching a pattern on the ground. (a dog shape in the clouds reference google deep dream generator)
+
+if you could draw a 3D brain map of delta osccilations area compared the theta, compared to Alpha etc
+
+For EEG we should collect all of the neurons noise, don't eliminate any of that, feed that into our 3D graph neural network, that has the goal to predict your brain wave state in 3D
+
+eeg brainwaves permeat space in 3D so why don't we see a map of them
+
+Wow I just thought of something that you can't find anywhere. I could be the first to do it. But its complex. Thinking...
+
+I could make a 3D model of the brain that is just brainwaves, or just electromagnetism
+
+Self Aware Networks (book price $99)
+A book that explains how your mind works changes how you see yourself, and even if the book is incorrect on some detail it still changes how you see yourself. The price is worth it!
+
+This book is actually three books in one, the first is about the human mind, the second is about brain computer interfaces, and the third is about artificial intelligence.
+
+

@@ -1,0 +1,100 @@
+a0420z ctpr
+Note Created Oct 3, 2012, 8:13 PM
+
+Abram Demski
+I have written FAR TOO MUCH on this topic, over at my blog. :) However, I more often invoke undefinability rather than incompleteness:
+http://en.wikipedia.org/wiki/Tarski's_undefinability_theorem
+Any system powerful enough to describe arithmetic cannot describe its own semantics.
+Tarski's undefinability theorem - Wikipedia, the free encyclopedia
+Abram Demski Sample: http://dragonlogic-ai.blogspot.com/2009/08/climbing-mountain-undefinability-is.html
+
+Anna Nachesa Unless a different logic is possible.
+Tuesday at 1:07pm · Like · 1
+
+Abram Demski Yep.
+Tuesday at 1:21pm · Like
+
+Juan Carlos Kuri Pinto
+Sure, it breaks. Godel's problem states no axiom system is capable of representing objective Reality due to the limitations imposed by the universals used. Definitions are self-referenced. But what happens when the combinatorial nature of patterns is capable of representing more patterns than all the subatomic particles in the Universe and such combinations are descriptions of noumena? The vicious cycle of self-references is broken. Leonard Mlodinow, the coauthor of The Grand Design, also thinks so.
+http://www.atheistmedia.com/2010/09/larry-king-live-stephen-hawking-leonard.html
+
+Abram Demski
+What little I know of "grand design" has me thinking that the philosophy of it is rather bad... (and you are supporting that conclusion with this information...) :/
+"Godel's problem states no axiom system is capable of representing objective Reality due to the limitations imposed by the universals used."
+Only if you want "objective reality" to include *all* universal generalizations, rather than just all particular facts + some universal laws which determine the structure. So, for example, you can *run* a Turing machine with a finite physical symbol system (plus arbitrarily much physical memory). But incompleteness prevents you from knowing the result beforehand via any finite physical symbol system (as others have pointed out). Similarly, the universe can run on a finite number of laws (with potentially arbitrarily much 'memory' for them to act out on). The incompleteness comes if you want to be able to deduce different kinds of facts from the laws. Godel's theorem prevents a finite symbol system from answering all such questions.
+
+Micah Blumberg
+I read some of your blog Abram, really good stuff.
+Lots of different viewpoints integrated in to comprehensive dialog. Actually I was overly impressed. You have a lot of reasoning skill so far as I can surmise in this short period of time. It is possible to predict your next thought, if you have a simulation of yourself running. Yes the prediction could be wrong, the result might not be exactly what it was in the simulation. However that's a margin of error calculation. Another kind of prediction program can create a bell curve of possible things you might do, given the margin of error in the prediction program, and the margin of error in the possible results. So with many close predictions you can be highly likely to have at least one of your predictions match your expectations as to what your next thought will be. It might not be perfect, but it can work. Defying the notion that it can't work or isn't possible.
+Pretty much I can predict that around 7pm tonight I'm going to be thinking about a meal, with protein, or amino acids. I can predict a lot of my next thoughts/future thoughts, often close to accuracy, and I notice my mind is running simulations, imagining that if I go into such and such a place and say and do the right things I could end up with a free something or discount something, I have all these conditional programs, driven by incentives, and I can describe my thinking process in Haskel programming language, it's not complicated.
+
+Abram Demski
+There definitely seems to be a sense in which it is possible to "get around" incompleteness via probabilistic reasoning. However, there is also a sense in which it is not. The Kleene hierarchy establishes a series of harder and harder kinds of problems. The halting problem is in the first level to which incompleteness applies. It is possible to converge to the right answer by gradually increasing the belief that a program does not halt, but switching to belief that it does halt, if we find that it does. (There should be more structure here, since we can reason about whether or not the program looks like it will halt, but that is something to start.)
+Even this is suspicious, because there is no computable probability distribution which corresponds to the probability that a randomly chosen program will halt given that it has not halted after X amount of time. This means that we will have bad expected error no matter what distribution we use. (Many programs will surprise us.) But laying that aside, the approach seems OK.
+The level above the halting problem is the convergence problem. Supposing that a Turing machine never halts, we may still be interested in knowing what the output tape says after arbitrarily long. Many algorithms work by a series of iterations which we hope converges to the value we want. But we can't know in general whether the iterations have converged, or are merely making progress very slowly. The method I gave of "solving" the halting problem above is a type of convergence computation: we know that the belief will eventually converge to the right answer, but we don't know whether it has converged (unless the program we're observing halts).
+There is no way to assign probabilistic beliefs to convergence such that we are guaranteed to converge to the correct belief.
+This is just 2 levels of the Kleene hierarchy. It gets much worse with each step upwards. So there is a kind of incompleteness even for fallible, probabilistic beliefs.
+
+Micah Blumberg
+"Gödel proved that there are ALWAYS more things that are true than you can prove." Knowing everything is not the same as proving everything.
+Gödel’s Incompleteness Theorem says:
+“Anything you can draw a circle around cannot explain itself without referring to something outside the circle – something you have to assume but cannot prove.”
+You can know things that you cannot prove. You can know and refer to things outside the circle of what can be proven.
+Neither "Incompleteness theorem", nor the "light speed limit" can remove the possibility of a sort of ultimate mind.
+"A recursively improving AGI cannot have a fully consistent and complete model of its own mind and workings either."
+Why not? A sufficiently intelligent AGI should be able to build models, simulations, charts, multidimensional graphs, to model it's mental process with perfect consistence. Modeling it's mental process and modelling it's mental results until it's model becomes a perfect mirror of it's results, with both the original and the simulation creating the exact same result at the exact same time. A mirror of itself. There doesn't seem to be any reason why an AGI could not build a mirror of itself, perfect in every detail. The mirror would do everything the AGI does, exactly.
+I think the problem is that by definition a model is less than a perfect mirror representation. The model is a sparse distributed representation by nature. If it was perfect it wouldn't be a model, it would be a duplicate. So the language creates the imaginary limitation.
+
+Abram Demski
+Micah, you cannot consistently believe this sentence. ;)
+Your hypothetical superintelligent AGI cannot consistently believe this sentence.
+(Of course you can pull the same Godel-style trick on me. For each intelligent being, there is a true statement which that intelligent being cannot consistently believe...)
+
+Jordan P Holcombe
+"Godel's theorem is a physical fact about symbol-manipulation systems of a specific sort."
+Mathematics should be an extension of epistemology. There are many self-referential entities that exist: sentences, algorithms, artwork; but that doesn't mean we should include the mechanics of self-reference as part of our means of definition. Knowledge is strictly hierarchical.
+about an hour ago · Unlike · 2
+
+Abram Demski
+Jordan, my present view is that some types of self-reference should be included in the means of definition while others should not. A sketch of the idea is here... http://lo-tho.blogspot.com/2012/10/impredicative-truth.html
+about an hour ago · Like
+
+Micah Blumberg
+These super facts that people keep mentioning are super because they are over qualified statements, with over qualified premises. As such they can be impressive to consider but only as long as you self limit your consideration to the premises given in the sentence.
+Then people want to run with the super conclusion as if the super assumptions and presumptions that led up to the conclusion were universally true and or constant in all situations
+"If ultimate mind means omniscient, i.e. knows everything, then yes, such an entity is impossible"
+"because that takes infinite resources."
+how does he know that an ultimate mind doesn't take exactly the amount of resources that exists?
+there are all these assumptions, and presumptions that qualify an imagined scenario where something isn't possible, that are based on other assumptions and presumptions, and if you chase the rabbit hole down far enough you find out that there is eventually an unprovable assumption outside the circle of what is possible to prove, reference to "incompleteness". that is supporting the entire stack of knowledge.
+Then it all comes undone, the logic isn't validated after all. Like the string that you pull that unwinds the entire knitted sweater. Perhaps all logic in the universe just unravels at some point if you trace the root assumptions it's built on.
+"if A is true, then C cannot be true, if this statement is correct, then it can't be false." assuming that statements can only be either true or false, and not true and false, and not neither true nor false. for example.
+Recently in the news, researchers are claiming that a new quantum physics theory is making plausible the notion of simultaneous backwards and forwards causality. As if A is causing B and B is causing A at the same time.
+
+Jordan P Holcombe
+"It came from just talking about basic number theory."
+I stick with the idea that my objection is not a reaction. Rather, I hold that the confusion arising from Godel's Theorem co...See More
+Math Excerpts
+ronpisaturo.com
+This article provides a philosophic development of the fundamental concepts, p...
+
+Micah Blumberg
+Unless you define ultimate intelligence as the maximum possible intelligence. As soon as you say the ultimate mind is impossible, you are assuming that the definition for the ultimate mind exceeds what is possible in the first place, obviously it cannot exceed what is possible in the first place, but being the ultimate mind, by definition, is still the ultimate mind with the ultimate knowledge that is possible.
+Unless that's the definition of G-d as philosopher's define it, the ultimate intelligence that is possible, (not the ultimate intelligence that isn't possible)
+
+Abram Demski 
+Do you think incompleteness in itself is a sign that something has gone wrong? Would you prefer a theory of numbers for which every assertion that can be made is either provable or refutable? This is possible; for example, primitive recursive arithmetic.
+http://en.wikipedia.org/wiki/Primitive_recursive_arithmetic
+This rejects the quantifiers. I'm not sure what exactly you think comes from "thin air" in the peano axioms, but perhaps making everything essentially finite by removing the quantifiers helps?
+Do you think incompleteness in itself is a reason to think something has gone wrong? That is, would you prefer a foundation for mathematics in which every statement can be proven yes or no?
+we can stop talking about logic and just talk about the halting problem. This is also proven by self-reference, but it is more obviously "about physical stuff" perhaps? Would you also have an objection to that form of the incompleteness result?
+
+Micah Blumberg
+The conclusion that the "ultimate mind as deity" is impossible (a conclusion many people make) is based on the presumption that the definition for the "ultimate mind as deity" doesn't include as a priori that all descriptions that describe what the ultimate mind is must be true, and if those descriptions are not true or not valid, then they do not accurately describe the ultimate mind as deity, but they do not invalidate the ultimate mind. Only the invalid description of the ultimate mind is what becomes invalidated.
+Perhaps the ultimate mind is an imaginary ideal that has functional attributes, then it requires less resources to run than the mind it interacts with needs to run.
+Thoughts effect our neuro-physiology, so numbers have functional attributes that can effect your behavior, if you believe there is a man eating lion behind door number 3, and cake behind door number 2, and a free car with a chance of lion behind door number 1 those numbers (ideals) are effecting your behavior.
+If someone was to describe the "ultimate mind as deity" you can say it's imaginary, but you can say that physics is an imaginary ideal too.
+Some how this ideal, as a description, applies to almost everything.
+Isn't description another ideal with functional properties? Isn't everything a description on some level? Or in another view, isn't everything a belief? Isn't everything a prediction about what's there? Isn't everything a physical pattern?
+Deity may not exist in the conventional sense of our modern world, but since when is the conventional sense worth anything?
+Deity may only exists in the ideal sense, which has functional implications in terms of behavior, assuming that all ideals have functional implications in terms of behavior, based on the notion that the mind is for movement.
+ 

@@ -1,0 +1,265 @@
+a0411z ctpr
+Note Created Oct 15, 2012, 10:04 PM
+(perception, graph, cortex, map, vector, semantic, neuron, category, theory)
+what does this note have that should belong in the book?
+I mentioned category theory. I want to sort of collect and review everything I have that is about category theory. So I want to add category to the map of all things
+
+Micah Blumberg
+Regarding Artificial Intuition by Monica Anderson, and Grok by Numenta: Is a semantic token the meaning of a word?
+Is a semantic token a map of vectors between points above a certain threshold in various nodes?
+Is a semantic token like a matrix, that can be understood as a spatial metaphor, or a description in category theory that defines or remembers a relationship between vectors that emerge in space?
+Is model free intelligence about creating a model based on whatever emerges beyond the thresholds that filter significant patterns from noise?
+I'm getting a new sense of the inner geometry of my mind.
+and the geometry of my thoughts
+
+See this video http://medicalxpress.com/news/2012-10-fetal-neural-vision.html this does not look like single character bits fed one at a time triggering points converted into vector mapped based memories. it looks like a morphing vector pattern being going through several stages of memory reduction in the architecture. Essentially because the burst runs out of steam, and then it leaves its vector mapped imprint. A spatial representation imprinted in the fired connections.
+
+I hope replies reflect the subject of this group: Categories & Geometry of the Mind. Do you think meaning for intelligent beings may imply an unconscious topographical map of nodes that are themselves semantic tokens reflecting maps between points of above threshold data associations in a multi level pattern learning machine?
+
+Burst of fetal neural activity necessary for vision
+medicalxpress.com
+(Medical Xpress)—A sudden and mysterious burst of activity originating in the retina of a developing fetus spurs brain connections that are essential to development of finely-tuned sight, Yale researchers report in the journal Nature. Interference with this spontaneous wave of activity could play .....
+Like ·  · Unfollow Post · Share · October 11 at 1:55pm
+Seen by 42
+Fernando C. Boschini, Hardik Bhadani, Juan Carlos Kuri Pinto and 2 others like this.
+
+Micah Blumberg Just imagine that when you see something, this is happening in your brain. Imagine that your having waves of sight pass through your brain tissue. Flowing in almost like water with special properties
+
+It's not like feeding binary bits into a learning machine one at a time, it's like pouring in a data stream, words, pictures, bits, all jumbled together, and letting the structure sort it all out.
+October 11 at 2:26pm · Like
+
+Micah Blumberg The question I would have for Monica, and or Jeff Hawkins, would be, can you visualize the activity in your computer based connectome with graphics so that the activity looks like this. Would the activity look like this at all? Perhaps your visualized connectome would not have brainwaves?
+October 11 at 2:35pm · Like
+
+Micah Blumberg Do your semantic tokens (vector maps of associations) really come from emergent patterns that are imprints in the memory created by synthesized brainwaves?
+October 11 at 2:36pm · Like
+
+Micah Blumberg I like how in AN model, intuition is the emergent result from points plotted in a vector tree map that you can describe in category theory (the vector tree map not the emergent patterns). I think she describes it in C and or Java, but I think C and Java lack the fluidity that could happen in a functional language like Haskell. Where node memories can create vector memories and The model free nature means that the concept is the memory of the tree's reaction in a sense. With Haskell and an 80 core processor one could have each node in the tree creating emergent vector maps with the other activated nodes independent of a centralized process.
+
+I like how in AN Model, the "concept" isn't pre-thought and pre-programmed, it's learned or built by the vector tree's memory system in response to the stream of data.
+October 11 at 3:20pm · Like · 1
+
+Juan Carlos Kuri Pinto Yup. I think Haskell is the right language for the geometry of mind:
+
+https://www.facebook.com/groups/programming.haskell/
+
+Programming Haskell
+The Haskell Programming Language Haskell is an advanced purely-functional progr...
+See More
+October 11 at 3:36pm · Unlike · 2
+
+Micah Blumberg Regarding the film clip again: It's as if the parts of the brain creating the brainwave are the parts that have reached their threshold point, resulting in a forwarding of the excess of that energy onward. Like water that fills up buckets, and if there is more water than buckets it spills onward, in a wave of running water until the remaining amount of water no longer exceeds the threshold of any bucket.
+October 11 at 3:42pm · Like
+
+Micah Blumberg The peaks of that brainwave also appear to be spread out as opposed to convergent like you might see in a pyramid like hierarchy.
+October 11 at 3:45pm · Like
+
+Micah Blumberg Think of the edge of a letter, the edge of a box, and the edge of a wall all at the same time. Each of those edges is in a different scale. The smallest you would expect to be a vector token from the lowest part of the cortex. and the largest would be a vector token from a much higher part of the cortex, even though they are both edges. Then if you try to visualize the edge that represents a piece of the electron's potential orbit around the center of an atom (if that exists even?) and the edge that defines a section of the orbital path that the sun takes through the galaxy. (how do we know our sun isn't leaving the galaxy or headed toward the black hole at the center?) Now we have a situation where the conceptual scale for both the edge of the electrons orbit, and the edge of the suns orbit are so epic conceptually that they probably are both modeled at the highest levels of cortex, unless the association of the edge of an atom is so closely associating with small things that it gets thrown into a vector map that is a link between details from lower regions and concepts from higher religions. Maybe all the edges are size invariant, like vector graphics in a computer. Maybe doing computer vision by feeding it bitmaps is creating a disgusting scaling problem in vision learning that would not exist if "edges" in the v1 cortex were scale invariant vector patterns, that could be linked into any vector token, aka a semantic token, that is also linked to a size vector token, and a depth vector token, and a color vector token, and a smell vector token, to produce the appearance of a multi-sensory object in stages of brainwaves.
+October 11 at 4:05pm · Edited · Like · 1
+
+Monica Anderson Words don't have well defined meanings. Phrases and paragraphs in context might.
+"Waves of sight in your brain". There is no vision, smell, touch etc in the brain. Just neurons signaling other neurons. Cf. Friedrich Hayek: "The Sensory Order".
+We have several visualizers. Sometimes we get waves as emergent effects. We don't program them in 
+Semantic tokens are indeed the result of emergence.
+At the lower levels there is correspondence to words but at that level they don't deserve to be called "semantic".
+Haskell doesn't matter. Number of cores doesn't matter. Single CPU with a 1+ TeraByte RAM would work well.
+"The atom is like a solar system". Groovy, man.
+I have clearly got you going. I had better let you sort the details out. It will take a month and a few more videos 
+October 11 at 7:10pm · Unlike · 4
+
+Juan Carlos Kuri Pinto Monica, what do you think about subjective experience? (i.e. red color, rose scent, emotional pain, etc.) Will it emerge from the right connectome algorithm or is it an inherent property of biological neurons?
+October 11 at 8:29pm · Like
+
+Monica Anderson Dunno about brains but I'm not designing in anything special for any of those. Either it emerges or they'll have to do without 
+October 11 at 8:36pm · Like · 2
+
+Juan Carlos Kuri Pinto Sometimes I think subjective experience is an emergent property of connectome algorithms that are complex enough. Look:
+
+Gödel's incompleteness theorem BREAKS when your axiom system refers to Reality! The vicious cycle of self-references is broken by R...See More
+
+Larry King Live - Stephen Hawking, Leonard Mlodinow, Deepak Chopra, Robert Spitzer - Part 2 of 3
+www.youtube.com
+Larry King Live, CNN, 9-10-2010 "The Grand Design", by Stephen Hawking & Leonard Mlodinow
+October 11 at 8:46pm · Unlike · 2
+
+Juan Carlos Kuri Pinto https://www.facebook.com/notes/juan-carlos-kuri-pinto/subjective-experience-and-godels-falsehood/10151111745682712
+
+Subjective experience and Gödel's falsehood
+Subjective experience and Gödel's falsehood   Sometimes I think subjective expe...
+See More
+By: Juan Carlos Kuri Pinto
+October 11 at 8:53pm · Like
+
+Monica Anderson Bah. Gödel doesn't matter until you have Models. And if you have an AI making Models then you already have won. Forget Gödel. Come to think of it, forget P=NP for the same reason.
+October 11 at 9:05pm · Edited · Unlike · 4
+
+Juan Carlos Kuri Pinto You are a genius Monica! Always remember that! 
+October 11 at 10:36pm · Edited · Like · 3
+
+Juan Carlos Kuri Pinto I just added to my note:
+
+Sometimes I think subjective experience is produced by pattern combinations that are descriptions of noumena. Obviously, subjective experience is caused by combinations of electrochemical patterns. There is no significant difference between the electrochemical patterns of vision, audition, taste, olfaction, touch, labyrinth's orientation, and proprioception.
+
+Moreover, evidence suggest the local neural circuits in most parts of the cortex all use the same general purpose learning algorithm:
+— The fine-scale anatomy of the cortex looks pretty much the same all over;
+— if the visual input is sent to the auditory cortex of a newborn ferret, the "auditory" cells learn to do vision;
+— if part of the cortex is removed early in life, the function that it would have served often gets relocated to another part of cortex. 
+
+Now that we know specific subjective experience is not a property of some specific brain regions because there is a general purpose learning algorithm, the question is rather reformulated: Is subjective experience an emergent property of such general purpose learning algorithm? In other words, an emergent property of integrated information. Or is subjective experience an emergent property of electrochemical patterns? If the first hypothesis is correct, we could actually create subjective experience inside machines. Otherwise, if the second hypothesis is the correct one, we will be able to create subjective experience inside machines only if we replicate the crucial aspects of subjective experience at the hardware level, in other words, through imitation of electrochemical patterns.
+October 11 at 9:57pm · Like
+
+Pawel A. Pachniewski But Gödel, P versus NP etc. are very interesting and many other domains in science are just *dying* to get a paradigm shift(cognitive science, physics, math, information theory, computability, evo devo etc.).   It's certainly not true there are not fascinating and important advances to be made there, many of them very relevant to AGI and artificial sentience. 
+
+Tricky business, and a few steps beyond what Monica is saying, which is correct in principle - if your AI is making models you have won and that you shouldn't be feeding your AI any models.
+October 11 at 10:39pm · Like · 2
+
+Hardik Bhadani Pawel A. Pachniewski - many of them very relevant to AGI and artificial sentience??
+
+what does it means? if you are also saying that : if your AI is making models you have won and that you shouldn't be feeding your AI any models.
+
+it's seems two way.
+October 11 at 10:43pm · Like
+
+Hardik Bhadani I like to ask Monica Anderson if any courses from Coursera can be use full there are now many interesting courses 
+
+for example : https://www.coursera.org/course/geneticsevolution
+
+Introduction to Genetics and Evolution
+www.coursera.org
+Introduction to Genetics and Evolution is a free online class taught by Mohamed Noor of Duke University
+October 11 at 10:45pm · Like
+
+Juan Carlos Kuri Pinto According to Monica, Modelless AI means an AI who has no preprogrammed models in it. Such AI is rather supposed to learn and program such models by itself without human aid.
+October 11 at 10:46pm · Like
+
+Hardik Bhadani and more https://www.coursera.org/course/humanphysio
+
+Introductory Human Physiology
+www.coursera.org
+Introductory Human Physiology is a free online class taught by Emma Jakoi, Jennifer Carbrey of Duke University
+October 11 at 10:47pm · Like
+
+Hardik Bhadani https://www.coursera.org/course/animalbehav
+
+Animal Behaviour
+www.coursera.org
+Animal Behaviour is a free online class taught by Raoul Mulder, Mark Elgar of University of Melbourne
+October 11 at 10:47pm · Like
+
+Monica Anderson Intelligence is the ability to do Reduction (to Models). If your Ai can do that, then you have an AI. 
+
+Gödel's Theorem and questions like P=NP are issues in the realm of Mathematics and hence in the realm of Models. They are both irrelevant issues in the question about whether AI is possible; they don't matter at the pre-Scientific and sub-Scientific level (when we are *creating* Models) because we're not using Math, logic or Science when we are using (Artificial) Intuition.
+October 11 at 10:49pm · Like · 2
+
+Pawel A. Pachniewski Hardik, I am saying there are many great advances to be made in the fields I mentioned, many of which relevant to AGI. 
+
+That doesn't mean one cannot, without those advances, have significant insights into what is needed for AGI. The advances would influence in some cases certain choices, open op new possibilities and so on.
+
+If you can't see how these things mesh, the first thing you should realize is that they're wont be just one type of AGI. There are some things that will definitely prevent you from making AGI, among those are the things Monica mentions. Adhering to the right principles, is only part of the story.
+
+Then, realize that Monica is making two simple statements: what method most definitely does not lead to AGI and what does according to her, plus what is a sure sign of general intelligence: the ability to make models. I agree with that.
+
+P.S. Besides perhaps very ambitious narrow and thus brittle AI systems that could fool you or perhaps at least some people into being AGI or close to it - some think Watson brings us closer to AGI. I tend to think Watson doesn't. (I'm jokingly understating) 
+October 11 at 11:03pm · Edited · Unlike · 2
+
+Juan Carlos Kuri Pinto But if we run simulations of our models in our minds, and we do this all the time, Gödel's theorem and P=NP matter. 
+
+However, Gödel's theorem is overcome by the fact our AI capable of constructing models is not limited by a handful of models. It will be able to model an infinite number of models. Combinatorics predicts it.
+October 11 at 10:58pm · Like · 1
+
+Monica Anderson Watson isn't AI and isn't even a step in the right direction. I know, I'm using the technology behind Watson in my day job.
+October 11 at 11:02pm · Like · 3
+
+Pawel A. Pachniewski Monica, you're using AI to mean AGI/GAI nowadays?
+October 11 at 11:03pm · Like
+
+Monica Anderson Distinctions are tricky and old habits die hard; I've never been fond of the term AGI. I prefer talking about Understanding Machines and Watson isn't that.
+October 11 at 11:04pm · Like · 3
+
+Piaget Modeler It's all about creating models from scratch...
+
+http://piagetmodeler.tumblr.com/
+
+Piaget Modeler
+piagetmodeler.tumblr.com
+Interested in interaction-based automatic construction of predictive models for real or simulated...
+21 hours ago · Unlike · 2
+
+Hardik Bhadani Piaget Modeler i like it !
+21 hours ago · Like
+
+Juan Carlos Kuri Pinto There is a slight error in Piaget Modeler's diagram: All those cognitive functions are not separated. They are rather fused in cortical columns and the connectome.
+18 hours ago · Like · 3
+
+Anna Nachesa The "natural" humans intuitively feel that the words per se don't have absolute meaning, because the person who produces them can a) lie (i.e. voluntarily use the incorrect word to describe something) b) talk imprecisely (i.e. unintentionally use incorrect word to describe something) c) be ignorant (i.e. use the words to describe something that is not the real situation, but just someone't concept of it). In effect, we end up having a "reliability coefficient" for different people talking on different topics (because different people have different "specialities"). The " specialization" looks very logical, assuming that cognition builds up on the already existing levels and the time for building up the knowledge is finite: to be able to learn something in detail, one has to let go of other things. This restriction might be partially lifted for the mind which has more resources than our own, of course.
+On the other hand, people aren't just "accepting information poured onto their brains". They get some information (in symbolic form) and they get some sensual feedback related to it. By combining the two, they derive how to react to that information in the future. I wonder if it would be possible to simulate that second part instead of presenting the symbols as the only reality.
+17 hours ago · Like
+
+Monica Anderson That Piaget Modeler stuff looked neat until I saw the block diagram of the system. Block diagrams are a warning sign that the designers like to take intelligence apart into smaller chunks which implies a Reductionist approach. People that make diagrams of AIs typically have no idea how to implement any of the components in the diagram. A single box with a single algorithm that does it all is much more likely to be correct. The separation of the brain into lobes is a long-term optimization of higher level functionality and is of much less consequence to AI design than is the need to get the "fundamental grey matter algorithm" right.
+14 hours ago · Like
+
+Monica Anderson So the "slight error" Juan alludes to is the fact that there is a diagram in the first place 
+14 hours ago · Like · 1
+
+Monica Anderson Anna, about the need for two input channels... in the brain there are only neurons signaling neurons. Why would it make a difference to any individual neuron whether the signal comes from the eyes or the skin? It can't tell the difference. This is my main argument against the Embodiment Hypothesis - that the "fundamental grey matter algorithm" cannot depend on the availability on multiple input senses for its function.
+14 hours ago · Like
+
+Monica Anderson The "Enactment Hypothesis" (that *interaction* with the environment is necessary for learning and intelligence) is also questionable but the argument is longer and I'm not done with it yet. 
+14 hours ago · Like
+
+Anna Nachesa Monica, I agree, there is no difference regarding the source of the signal. What is important is that the intelligent being doesn't derive its knowledge from the symbols alone. The interaction with the environment is what might be giving a context and ...See More
+14 hours ago · Like
+
+Micah Blumberg "The "natural" humans intuitively feel that the words per se don't have absolute meaning,"
+
+I think information means nothing, except in the context of movement.
+12 hours ago · Like
+
+Piaget Modeler @ Monica Anderson - Monica, you can build your system with organic neurons or chemicals, whilst we will architect PAM-P2 to run on digital computers. Best of luck to you in your endeavors.
+9 hours ago · Edited · Like
+
+Piaget Modeler BTW - PAM-P2 is psychologically inspired by Jean Piaget's work, and it is also architecturally informed by over twenty existing AI systems. At the end of the day, if it works, whether digital or wetware, that's what counts. Cheers!
+9 hours ago · Edited · Like
+
+Micah Blumberg Perhaps all the diagrams in Piaget can be considered part of the substrate Monica ? Isn't it possible to create a substrate that is a super structure underneath and separate from the parts that are open for raw model free machine learning?
+9 hours ago · Like
+
+Micah Blumberg The human brain for example does appear to have an organized super structure that cannot be learned via a life's experience. The input from the eyes goes to a specific region (v1) and the input from ears goes to another specific region, and those regions do not immediately combine, but they do combine at higher levels. That's a super structure in the substrate that is exterior to the work of a substrate that is just the work of a single learn algorithm. If I am not mistaken. I think you (Monica) mentioned that neuro cortical columns are perhaps incidental at this point in your research, but I don't see how that is not reductionism instead of holism in your model. A single algorithm substrate may just be another form of reductionism. You argue that the holism aspect in not creating and pre-structures in the learning area right? How is that not another form of reductionism? How do we conclude that the mind starts out "blank" (without some models in memory, perhaps from random connections, or from genetically passed connections, real general stuff.) without making the same error as all the other reductionists?
+9 hours ago · Edited · Like
+
+Piaget Modeler In PAM-P2 there are cognitive structures and cognitive functions. The (yellow, pink, and green) boxes in the architecture diagram refer to the cognitive functions. The cognitive structures (blue boxes) are monads and schemes which form "monemes" and "dynemes" (otherwise known as neural propositions). The propositions in turn form heterarchical planes which are tiered. Activation flows across these planes, and upward and downward through the tiers. (There is a forthcoming paper on this as well.) 
+
+You can find more on monads and schemes from the AISB-11 presentation: 
+
+http://www.scribd.com/doc/51981938/PAM-Talk-AISB-11 
+
+Cheers!
+
+PAM Talk AISB-11
+www.scribd.com
+Presented at the University of York, April 5th 2011 for the Society of Artificial Intelligence and Simulation of Behavior (AISB-11) Conference.
+6 hours ago · Edited · Unlike · 2
+
+Hardik Bhadani Monica Anderson , i would say that your both arguments are related to Perception , *interaction* with the environment is necessary for learning and intelligence - yes for the sake of Perception because AGI don't have to be in a computer on a desk , it has to be with a robot that *interacting* with the world to do human level stuff, and for Embodiment argument - it is needed same for the perception otherwise he would throw his feet instead of hands when picking some objects.
+20 minutes ago · Edited · Like
+
+Pawel A. Pachniewski Micah, it doesn't appear to have it, it has it.
+about an hour ago · Like
+
+Micah Blumberg what has what?
+24 minutes ago · Like
+
+Pawel A. Pachniewski "The human brain for example does appear to have an organized super structure that cannot be learned via a life's experience. "
+23 minutes ago · Unlike · 3
+
+Hardik Bhadani Aha!
+21 minutes ago · Like
+
+Micah Blumberg It's a tricky topic. On the one hand we know that the brain has this tremendous plasticity, adaptability. You can literally plug your eyeballs into the part of your brain that is usually for hearing and in animals it has been shown that the hearing part of the brain would then start to process vision stuff, from the eyeballs. So when it comes to superstructure, we have to be careful what we mean by that. Technically any region should be swap-able with any other region, but that doesn't mean there are not regions, and topological features that matter. Let's not be reductionist in the pursuit of creating holistic AI.
+16 minutes ago · Like
+
+Pawel A. Pachniewski Technically, no, you cannot swap just any region with any other. There are limits to plasticity.
+15 minutes ago · Like
+
+Micah Blumberg Every single possible combination of human senses, in the form of synthesis has been sought out, reported, and confirmed by researchers. Every part of the neo cortex, the grey matter, can and has been actually combined with every other part of the neo cortex, it's a self similar structure, and it has amazing properties. Now as for limitations yes, in practice, having a major brain surgery as a child gives you far better odds of adaption than a major brain surgery late in life. These are things to notice and pay attention to. It might be that there are threshold points for when the flexibility of a particular region of the brain is no longer considered viable for surgery, relocation, integration, or rehabilitation with other parts of the brain. I don't know all the scenarios, there are tons of limitations yes. With recent research turning adult stem cells into health da neurons the field of what is technically possible is a moving target, what was true yesterday might not be true tomorrow. In theory I think it's okay to say, that in theory, real AGI should be swap-able, when it comes to using any region for any cognitive process. Clearly today we are not seeing that, with people taking very different approaches between Vision and Semantics for example, but that doesn't mean we will not have an AGI that does both very well.
+2 minutes ago · Like 

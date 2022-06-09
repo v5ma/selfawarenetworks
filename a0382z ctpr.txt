@@ -1,0 +1,122 @@
+a0382z ctpr
+note from Feb 21, 2014
+(dendrite, cortex) neo mind cycle
+
+Micah Blumberg
+There is some speculation, about dendritic computation, that the dendrite can, even absent incoming stimulation, cause forward and backward propagating spikes.
+It would be as if content addressable memory had the additional feature of being a computer that could turn itself on and reprogram or activate other content addressable memory.
+
+Okay so maybe you could try to say that dendritic computation could be like a timing program. Still in the event based paradigm.
+
+There are six computer programming paradigms, event based programming is one of them. http://en.wikipedia.org/wiki/Programming_paradigm
+
+Why does content addressible memory have to fit in the context of event based programming as opposed to one of the other programming paradigms.
+
+Programming paradigm - Wikipedia, the free encyclopedia
+en.wikipedia.org
+A programming paradigm is a fundamental style of computer programming, a way of ...See More
+3 hours ago · Edited · Like · Remove Preview
+
+Micah Blumberg
+Event based, by comparison, does seem like it would be the choice of behaviorists, implying sort of the external events drive the machines behavior, more so than internal events.
+
+Someone who is a neuroscientist first and programmer second might be skeptical since perhaps 90 percent of brain activity feeds back toward the senses. It does not seem like the external is driving the internal, as much as it seems like internal feedbacks loops are driving the external. This might not be event based programming in comparison with other types of programming, any comments? http://en.wikipedia.org/.../Comparison_of_programming...
+
+Comparison of programming paradigms - Wikipedia, the free encyclopedia
+en.wikipedia.org
+This article attempts to set out the various similarities and differences betwee...See More
+3 hours ago · Like · 1 · Remove Preview
+
+Black Square
+Actually, Micah Blumberg, you have made a most excellent point. 
+
+Indeed, there are ten times as many axons going from the cortex to the retina than there the feedforward from retina to cortex. This illustrates that there is much more going on that merely event-driven reaction to stimuli.
+
+When we consider how an "event-driven programming" paradigm could apply to the brain, in formality or in metaphor, I think it is worth delineating two different scopes of possible applicability.
+
+In the first case, we can apply the concept "event-driven programming" in a metaphorical or analogous sense. We can define our thinking system in the way that AI and cognitive science defines it, that is, by using operational definitions for the behaviours of the system in terms of its inputs and outputs. The internal states of the system are kept reasonably simple and there is a preference for comprehensible internal representations.
+
+In the second case, we can use a formal definition of "event-driven programming", and search for this computational pattern in cortical electrophysiology. We can then further investigate how this pattern can be embedded within a more general theory of neural computation. The advantages of approaches from the formal point-of-view, is that we move towards mathematically understanding the experimental realities of the only existence proof of higher intelligence on the planet -- the human brain.
+
+Any cognitive approach to the system is ultimately limited by our own imagination -- we don't know if top-down concepts deduced from operational definitions of the system, are sufficient to reproduce human intelligence. But by studying the complex realities of the brain, we don't risk overlooking critical subtleties of brain computation that are easily missed by top-down cognitive approaches.
+
+The secret to human intelligence likes in the formal structure of neural hardware. Intelligence is a hardware problem, not a software problem.
+2 hours ago · Unlike · 2
+
+Micah Blumberg
+Black, thanks for that recognition, I'm honored.
+
+In the first case: I don't know what you mean by applying event driven programming in the metaphorical or analogous sense. 
+
+I was wondering if Juan thinks the brain is event driven because every chemical reaction is an event in spacetime. I was wondering if Juan meant for us to realize that everything is event driven in the very broadest possible way that somehow included every plank second in every location of the cosmos.
+
+In the second case I was also curious if Juan meant it was obvious that the content addressible memory is only used in the event driven paradigm verses other computing paradigms.
+
+Can someone answer the question: can content addressible memory apply to other computing paradigms other than event driven programming?
+
+I know that many people in this area of facebook think that top down concepts are an illusion. They think that all the brain's functions are generated from bottom up physics.
+
+However in some of my studies on neuroscience I have come to the hard to defend conclusion that concepts drive their own development.
+
+That is I think information criteria, via alternating coincidences in feedback loops, are internally running the show from the top down. Meaning information criteria is driving cells from the inside far more than cells are being driven via external stimulai.
+
+Maybe you don't have to agree with that kind of live operating procedure but you can still answer this question.
+
+Can a lazy programming language handle the live operating procedures of alternating on and off again feedback loops that run mostly independent of external input.
+
+Can Haskell do it? Can Haskell be a live system, or will it always die after performing one iteration of a feedback loop and then wait for user input?
+15 minutes ago · Edited · Like · 1
+
+Micah Blumberg
+I have been googling Content Addressible Memories, or CAM for short.
+
+I think Juan is correct when he says:
+
+"Juan Carlos Kuri Pinto Content-addressable memories are, BY DEFINITION, event-driven."
+
+That's why he seems to have hit the snooze button on this conversation.
+
+"Juan Carlos Kuri Pinto (...) The fact content-addressable memories in the brain recreate many aspects of event-driven processing is so obvious that I find this discussion unproductive. Really. *sigh* "
+
+If I am interpreting Juan correctly I think that Juan thinks it's obvious to everyone that the brain is using event driven content accessible memories just like a search engine, but I think he means the brains internal activity is assembling memories by calling them, in a similar fashion to how a user's activity calls is an events that triggers CAM.
+
+However the idea that this is obvious to everyone is ridiculous.
+
+
+So it is ridiculous to think Juan's view should be obvious to just everyone, or even all people who study both neuroscience and program computers. People actually have to think critically about his statement first to take his perspective. There is a lot to consider before getting to that point of understanding why Juan thinks it's obvious.
+11 minutes ago · Edited · Like
+
+Micah Blumberg
+In this case maybe Juan's secret program has an artificial cortical thalamic loop accessing the rest of the neocortex like it was a search engine for assembling memories on the fly.
+
+Like the neocortex was a CAM memory system accessed by the mid and lower brain.
+10 minutes ago · Edited · Like
+
+Micah Blumberg
+When I read "On Intelligence by Jeff Hawkins and Sandra Blakeseed" I came to see the heirarchal temporal memory concept as existing to provide the benefits of a content addressible memory.
+
+So it is plausible that at least the heterarchy of the neocortex has the advantages of CAM memory in that you can know instantly if you are having a new experience or if you have experienced something like this before.
+
+A heterarchal memory system in the neo cortex has the advantages of content addressible memory, in that a single event that instantly associate with something similar.
+
+One tiny event is seemingly an instant search of our entire memory system from the first day to the present.
+
+But does the heterarchal neocortex have all the same limitations as CAM?
+
+Is the neo cortex only event driven?
+
+I am reminded of a video explaining dna that argued, fundamentally, that cells only react, they do not act.
+
+Maybe the brain needs events to react.
+
+Maybe human memory is only event driven, including internal events, in the broadest sense.
+
+When I consider the active nature of the whole mind, and the ratios of feedback activity, I think it's plausible, but hard to defend, that memories, like concepts, like the self, are all self driving, self developing in the bio-mechanical sense.
+
+I think information loops driving cell activity to self develop.
+
+I would not describe human memory as CAM, even though it has CAM capabilities, because it's active, live, it's information-driven as opposed to event-driven.
+
+Also we can say these are information events. So it becomes less of a real distinction.
+
+External events become attractors, with successive iterations, that redefine the tonic landscape of brain activity around them, it seems like a lazy programming language is the wrong fit for such biomechanistic temporal activity 

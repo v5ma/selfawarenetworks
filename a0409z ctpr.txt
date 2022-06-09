@@ -1,0 +1,20 @@
+a0409z ctpr
+Sep 22, 2012
+(neuron, potential)
+
+What if the neuron was fiber optic and the action potential was a beam of light instead of an electron? Could you still have intelligence?
+
+Peter Rothman
+Yes, it seems possible to build a mind out of things that aren't biological neurons but which at some level exhibit similar properties to neurons. 
+Beams of light? Well I don't know what you mean there exactly. A laser? Yes there are photonic computers that use lasers and there are some recent interesting results.
+http://www.extremetech.com/extreme/108573-worlds-first-programmable-quantum-photonic-chip
+3 hours ago · Edited · Unlike · 2
+
+Mark Waser
+Can it self-modify?
+
+Łukasz Stafiniak
+No because synapses would stop working.
+
+Micah Blumberg
+do you think the synapses can be remodeled to be triggered by a proton instead of an electron?

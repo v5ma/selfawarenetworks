@@ -1,0 +1,35 @@
+a0449dz ctpr 
+Note Created Feb 15, 2014, 1:20 PM
+(dendrite, synap, neuron)
+
+Micah Blumberg
+Neurons are transmitting multi-dimensional waves that have frequencies and amplitudes. Far more information is transmitted than is realized in Grok's one dimensional sparse distributed representations made up of one's and zeros.
+Like ·  · Share · Yesterday at 10:26am near San Francisco, CA · Edited
+Seen by 14
+Angela Ronson, Chase and 2 others like this.
+
+Angela Ronson ...AI won't go as far as some want it to. It's because of this.
+23 hours ago · Unlike · 1
+
+Micah Blumberg To me this says current AI models are over simplifying the situation and leaving out a ton of information. Yet this knowledge may allow the development of newer and better AI models that vastly exceed current limitations.
+12 hours ago · Like
+
+Chase
+i have some mathematical models for neurons which function through transmitting information via frequencies, amplitudes, tone color etc, in harmonic sequences and wavelength "filters" which determine whether a neuron is excitatory or inhibitory. the sequences are representations of neural pathways. very brief and put simply but im going to bed right now, ill explain more later
+12 hours ago · Unlike · 1
+
+Angela Ronson
+All AI has is binary code- ones n zeros. It's never gonna get more.
+52 minutes ago · Unlike · 1
+
+Micah Blumberg
+AI code that is based on the brain, like comp neuro, assumes that the neuron is the core unit of computation in the brain.
+
+I think the focus is wrong. 
+
+Instead the synapse is the core unit of computation in the brain, the ndma receptors and the dendrites help recognize and sort coincidence patterns, transmitting a wave across the axon to another synapse which breaks down the wave into ion deposits (sodium etc....) this allows synaptic calculations to control the amplitude and frequency of axon potentials, but reset if, when, how frequently another neurons fires, and whether it will be inhibitory or excitatory.
+
+The synapse allows neurons to react to coincidences (multiple simultaneous or near simultaneous spikes from other neurons, or bursts, rapid spikes from a specific neuron) and coincidence detection is how brain cells can react to information. We know that cells ONLY react, they do not act, so coincidence detection allows information to drive brains.
+
+Famously coincidence detection is neuroplasticity. When neurons fire together they wire together! The wiring is the spike, and it's very short term temporal wiring, meant to be on and off as needed, like a beat. So the important work of the brain is not modeling axon potentials and neurons as computer models do today, instead the important work is in modeling the synapse. I mean specifically the neurotransmitters, because the action potential is just a temporal link, a machine can do it.
+about a minute ago · Edited · Like   

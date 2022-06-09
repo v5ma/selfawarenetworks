@@ -1,0 +1,118 @@
+a0432z ctpr
+(cascade, perception, neuron, dissipation)
+My intuition is that everyone is writing a fictional universe. A universe that is their approximation of reality, their rendering of what's real and what's not real.
+
+ Micah Blumberg Monica Anderson From Encyclopaedia Britannica: 
+
+"Many researchers (being human) expected that the human brain would show a tremendous information processing capability. Interestingly enough, when researchers sought to measure information processing capabilities during “intelligent” or “conscious” activities, such as reading or piano playing, they came up with a maximum capability of less than 50 bits per second. For example, a typical reading rate of 300 words per minute works out to about 5 words per second. Assuming an average of 5 characters per word and roughly 2 bits per character yields the aforementioned rate of 50 bits per second. Clearly, the exact number depends on various assumptions and could vary depending on the individual and the task being performed. It is known, however, that the senses gather some 11 million bits per second from the environment."
+6 hrs · Like
+
+Micah Blumberg This analysis is not correct. A person's reading, writing, and speaking rate does not yeild a valid bits per second rate of "consciousness" from which you can compare to some estimate of bits that came come through human senses per second. One example of why this analysis is not correct is that a person may be thinking of a dozen different things while they are reading or reporting, the reading and reporting may be triggering a cascade of 11 million bits of "conscious" information in the brain each second for example.
+6 hrs · Like · 1
+
+Micah Blumberg How do you look at a skyline with your naked eyes, a skyline that could not be captured in full detail by the most high resolution camera on this planet, a skyline that could not be displayed in full resolution on the high resolution screen that exists on this planet, and considering the resolution of what it would actually take, to capture and display that skyline on a computer, and the number of bits that image has to actually be, even with the best compression, and after estimating all that still think, for even one second, that your conscious experience is less than 50 bits per second? Totally ridiculous.
+6 hrs · Like
+
+Micah Blumberg I did an estimate of potential brain activity in 2008 and I think my number was 5 exabytes per millisecond. I will have to revise that number with what I now know but 50 bytes per second is insane, even 11 million bits per second seems insanely slow.
+6 hrs · Edited · Like · 1
+
+Micah Blumberg So what is the explanation for how researchers split the quantity of "conscious" data away from "unconscious" that split seems to be an area where one should be skeptical again.
+6 hrs · Edited · Like
+
+Monica Anderson "A person's reading, writing, and speaking rate does not yeild a valid bits per second rate of "consciousness" from which you can compare to some estimate of bits that came come through human senses per second."
+
+I don't think this was how these experiments were done. If you want to refute these experiments then you should check out the original papers.
+
+Also, the numbers could be off by four, even five orders of magnitude (!) and still support the idea that the majority of the brain's processing is subconscious.
+6 hrs · Like
+
+Mike Dougherty How much data moves around the Internet every second? Even after you generate a bunch of new data to constrain how you are going to measure it, what good is it? 
+
+Does it really take all the insane chatter of humanity's synergy to properly identify t...See More
+6 hrs · Like · 1
+
+Micah Blumberg "I don't think this was how these experiments were done. If you want to refute these experiments then you should check out the original papers.
+
+Also, the numbers could be off by four, even five orders of magnitude (!) and still support the idea that the majority of the brain's processing is subconscious."
+ 
+The premises are invalid. You can't measure some external data, about reading or reporting performance and use that to glean internal data about how many bits are in a person mind. That's ridiculous. I can't believe you can believe that is plausible.
+3 hrs · Like
+
+David Bergman Micah Blumberg: totally correct. To try to extract only the, for the test, useful bits (pun?) is definitely skewing the processing estimates of consciousness by a few orders of magnitude...
+3 hrs · Edited · Unlike · 1
+
+Micah Blumberg An analogy that illustrates why this premise is invalid is if some researcher proposes to figure out how fast the brain operates internally, by measuring a persons external performance while riding a bicycle, or running in a marathon. How fast you respond externally while playing a sport is not a reliable indicator of some clock rate estimate for how fast your mind ticks. It just isn't plausible.
+3 hrs · Like
+
+David Bergman Since I did use 1200/75 baud modems a lot, the thought that my consciousness was limited to something close to the upload speed of that modem seemed absurd. I knew that I could even type faster, and, yes, I rarely focus my whole mind on typing, nor anything else. At least not when not in a (paradoxically named) mindful state.
+3 hrs · Unlike · 1
+
+Micah Blumberg The idea that external performance mirrors internal performance reminds me of the idea behaviorism actually. The human brain has more connections than there are stars in this galaxy, its billions of times more extensive than a strand of dna in a sense, and that could mean that a physical performance is a massive reduction, a massively reduced subset of the brains real performance, including the brains real "conscious" performance.
+3 hrs · Edited · Like · 1
+
+David Bergman Micah Blumberg: yes! And ignoring that dualism (poor choice of word, but it's getting late) might be a hindrance in achieving (meta...) models for proper AGI. E.g., one *might* devise far too simplistic models, yielding processing in that very low "extrinsic" range.
+3 hrs · Like
+
+Micah Blumberg If you see the sunset, in high resolution, is that in your mind's eye not at least the trillion plus bits that it would be if it was on a computer screen? what kind of compression reduces an image in the minds eye to less than it could possibly ever be on a computer?
+
+How then can a researcher count the words per minute of how fast you read and square that against the resolution of a stereo rendering of San Francisco that you are seeing in real time. A rendering that in Virtual Reality, in the max resolution, with the best compression, would never be reducible to 50 bits per second. Right?
+
+At once you have a different bit rate of "conscious" activity for seeing the world in 3D than you do after solely measuring a person's "performance" while reading and or writing.
+2 hrs · Edited · Like
+
+Micah Blumberg Even if the numbers are off by only a hundred trillion orders of magnitude, the data should still be THROWN out because the premises have no ground to them AT ALL.
+
+The idea that conscious activity is 1 percent of brain activity has zero basis in facts. It's not even a reasonable estimate, because there is no reasonable estimate from the facts that are facts.
+2 hrs · Edited · Like
+
+David Bergman I actually thought of creating an AI company based on compression techniques solely, both for theory and implementation. It was called gzip9. Just was reminded when you mentioned the compression. Well, our brains seem to have quite decent semantic compression, but hardly at the level of shrinking those trillion bits down to a few tens 
+2 hrs · Unlike · 2
+
+David Bergman I *do* think compression theories are underused in AI, and AGI, by the way.
+2 hrs · Unlike · 1
+
+Monica Anderson *shrug* The numbers aren't important; we *know* there is a large Reduction going on since we can't consciously "see" individual retina "pixels".
+1 hr · Like
+
+Monica Anderson "Well, our brains seem to have quite decent semantic compression, but hardly at the level of shrinking those trillion bits down to a few tens"
+
+Well, you will notice that if you try to reconstruct the original trillion bits from the "tens" or how many there are, you will make many many mistakes. It is definitiely lossy - there's definitely lots of bits missing.
+1 hr · Like
+
+Karoliina Salminen If it was not lossy, in traffic I would need just one glimpse to one direction and I would know if there was other traffic immediately. In reality my perception is so deficient that I need to look several times.
+1 hr · Like
+
+Pawel Pachniewski It's so lossy our brain in fact compensates for it so we don't get too alarmed. 
+1 hr · Like
+
+Micah Blumberg "Well, you will notice that if you try to reconstruct the original trillion bits from the "tens" or how many there are,"
+
+the reconstruction effort is like measuring your external performance again to estimate your internal clock speed and bandwidth, doesn't make sense
+1 hr · Edited · Like
+
+Monica Anderson So what is the alternative to my conclusion? That Conscious Reasoning plays a significant part and Subconscious Understanding is unimportant?
+1 hr · Like
+
+Karoliina Salminen Monica already knows it, but say it again to others, we are still on such stone age with AGI that at this point modeling conscious reasoning does not make any sense. Making subconscious function working is the first priority and will produce a loy of usefullness as it is already, as sub-human intelligence and this level of intelligence is feasible already today.
+54 mins · Unlike · 2
+
+Micah Blumberg there are dozens of alternative models to what could be happening but I wouldn't propose that.
+31 mins · Like · 1
+
+Micah Blumberg I like this idea from Geoff Hinton about Dark Knowledge, what if the child brain is like the super computer made out mostly base level classifiers, and the purpose is really to just eliminate the most improbable conclusions. Then the adult brain is the reduction, the model with far fewer base level classifiers, it keeps what the network learned with less memory, but far faster, and with just as much accuracy.
+3 mins · Edited · Like · 1
+
+Karoliina Salminen But is that somehow contradictory to subconsciousness? I think what Hinton is saying, it is not at all contradictory. Except for the supervised part, supervised learning is not learning and not AI.
+22 mins · Like
+
+Micah Blumberg what is slippery is the idea that we have to divide subconscious from conscious in clear measurable deliniations. in my model of the brain any neuron is both, first a base level classifier that then also can become part of conscious neural circuit given the right set of attractors. the limits of how much of the brain can become conscious at once are in my opinion like energy constraints, or a matter of thermodynamical limits to the operation of the mind based on its structure, for example heat dissipation, and energy consumption rate, etc...
+18 mins · Edited · Like
+
+Micah Blumberg in my model you can't say well the conscious/subconscious ratio is a fixed percent of the base level classifiers like 2/98, because its more like a tidal that comes in and goes out again, and the limit is like an energy constraint
+11 mins · Edited · Like · 1
+
+Karoliina Salminen In mfm we do not model these as two separate functions, because that would be a model. Less bad model than modeling the world but a crude model nonetheless, oversimplification to the actual circuitry.
+11 mins · Like
+
+Micah Blumberg if you have base level classifiers in a hierarchy you can give them special properties such that when a certain threshold of them exhibit a certain activity level, that group can self organize to create some additional functionality, similar to a feedback loop, but more like a dissipative system.
+6 mins · Like

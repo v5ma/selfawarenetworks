@@ -1,0 +1,16 @@
+a0441z ctpr
+(links)
+reference video: john hopkins 3d synapses in mice https://youtu.be/Msp_REcFME8
+
+https://medicalxpress.com/news/2021-12-scientists-mind-blowing-tool-millions-brain.amp
+
+DeepMind’s New AI With a Memory Outperforms Algorithms 25 Times Its Size
+By Edd Gent - Dec 20, 202129,378
+Bigger is better—or at least that’s been the attitude of those designing AI language models in recent years. But now DeepMind is questioning this rationale, and says giving an AI a memory can help it compete with models 25 times its size.
+https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/
+
+Point Clouds - 'One important yet unsolved issue for learning on point cloud is that point clouds of the same object can have significant geometric variations if generated using different procedures or captured using different sensors.'
+https://arxiv.org/abs/2112.09343
+
+Researchers at Australia’s Cortical Labs harnessed hundreds of thousands of human brain cells grown on top of arrays of microelectrodes, teaching the biotechnological hybrid they dubbed ‘DishBrain’ to play a single-player version of old-school ‘Pong’. They then compared the speed with which the mini-brain picked up the skill with that of artificial intelligence (AI). The human brain cells beat their rival hands down, getting the hang of the game in just five minutes compared to the 90 minutes it took the machine to catch on. https://www.rt.com/news/543663-human-brain-cells-outdo-computer/amp/
+

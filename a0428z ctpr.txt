@@ -1,0 +1,15 @@
+a0428z ctpr
+(neuron, error detection, magnetic, field, optogenetics) The Hammond Error Correcting Codes, mean that we could reconstruct the memories in the entire brain from a subset of codes
+
+so I posited the idea that if you put a new dopamine neuron, converted from a stem cell, and replaced a damaged neuron, that the existing connection patterns would re-emerge, because of the oscillations from the neural circuit would re-encode that neuron. So it's memory is invariant
+
+that's like losing a hard drive, but the rest of the internet being able to restore the contents of your hard drive, as long as your hard drive was in sync with the rest of the internet in the first place somehow
+
+because the oscillator can act as a neuron error detection
+
+can you explain in more detail how you are detecting a large scale neural oscillation with light, you are detecting the oscillation in blood flow.
+
+
+The paper is called Diesel2p mesoscope
+but if you could detect the magnetic field during optogenetics you could try to identify how changing individual neurons is changing the magnetic field
+

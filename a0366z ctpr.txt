@@ -1,0 +1,28 @@
+a0366z ctpr
+Note Created Nov 2, 2013
+(neurotransmitter, hippocampus, LTD, graph, dendrite, synap, cortex)
+
+Dean
+"If the information structure remained the same, then you would not make any new memories."
+I believe, you misunderstood me (or I was't clear). 
+By informational structure , I'm referring to the "concept" that the configuration represents. After repeated occurrences of the same patterns over time, these concepts become imprinted within the structure of the neuron via LTP or LTD. 
+Over even more time, these "concepts" (with help from the hippocampus) get associated with other neural structures in various regions within the neocortex forming our long term memories.
+A single neuron is quite capable of storing an enourmous amount of information (or memories if your prefer) via the mechanisms I outlined above. It does not have to wipe any current information out in order to store new information.
+(Note: I'm using the term "information" rather loosely here to refer to the specific configurations of synaptic receptors, neurotransmitters, etc. at the point the information is encoded - refer to STDP [Markram et al] for additional details).
+
+Micah Blumberg
+Each "repeated" occurrence is a tiny change in the whole structure of a neuron. So it the total amount of bits that represents the whole electrical acoustic topography of a neuron were X, then with each new "memory imprinting occurrence" is like X +1. It doesn't matter at all that the overall structure is largely the same, because the SDR snap shot is going to be subtly altered because of the increasing changes to X as a whole. Including the synaptic changes, and the dendrite changes.
+So I did not misunderstand you, and you were perfectly clear.
+I'm considering the tiny changes of dendrites, and synapses, and micro-tubules, and proteins, as alterations to one memory that is in the form of a complex shape with a complexity that is at least X, and X +1 for each new interaction. So that each cell is a spatial-temporal memory, as a whole structure, every part of that structure is integral to it's output pattern. Therefore it communicates (an SDR or snapshot) it's own ever subtly altering shape when it fires in one simple burst.
+The single burst of a neuron has to contain an SDR of the whole information, from the whole shape of the neuron, including the dendrites, and synapses, and proteins, OR else, you have to imagine the explosion of the neuron being independent from the dendrites, and or synapses, and or proteins. If it doesn't communicate an SDR of it's whole shape, that would be like not sending the data in the synapses, and not sending the data in the dendrites. That data has to come together when the neuron fires, in a single message. What would happen if you stored the data at one end, but didn't send the data out at the other end?
+What if your dendrites only collected data, but never transmitted it? What if your synapses only collected data, but never altered the pulse that went out when the neuron itself fired? 
+If the neuron is X, and the dendrite registers a +1, then the whole topography of the neuron is X+1, but if the neuron fires and transmits X then it would be as if the dendrite did not register +1. The only way the information gets passed on is if when the neuron fires, it transmits X +1. ie it's topoi, an SDR (snapshop) of it's shape.
+Potentially this means you could fit an entire computer program into a single electrical pulse.
+
+Dean
+What you are describing might be an interesting exercise in creating an alternative spiking model ANN, but again, as a theory of how the actual biological brain operates, it has some problems (IMHO).
+Information is encoded within the brain not as individual spikes, but rather as spike trains - temporal patterns of firing - I don't see where this is accounted for in your theory.
+Also, it ignores the role of extra-synaptic mechanisms (glia cells, ephaptic coupling, extrasynpatic receptors, etc) and there is strong evidence that their roles are quite significant in developing a complete framework of computation and communication within the brain.
+There is a theoretical model being pursued by Dorian Aur (postdoc at Stanford) called NeuroElectroDynamics (NED) that eschews the orthodox view of a temporal spike timing model and rather, promotes a model based on the shape and direction of electrical charges as being the basis of information encoding. He has some interesting evidence to support his ideas, but has not gained much traction from the neuroscience community. It does contain some elements that are similar to your ideas, so you might want to check it out.
+http://neuroelectrodynamics.blogspot.com/p/spike-directivity.html
+3 minutes ago · Unlike · 1

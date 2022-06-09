@@ -1,0 +1,14 @@
+a0372z ctpr
+(synap, cortex, field, decoherence) Hierarchical Temporal Memory was this idea that the neocortex was a hierarchy that gave it the advantage of instant associations, just like Content Addressable Memory
+http://en.wikipedia.org/wiki/Hierarchical_temporal_memory
+
+Hierarchical temporal memory - Wikipedia, the free encyclopedia
+en.wikipedia.org
+
+as for visualizing that quote, imagine a series of tesla coil pitch forks which resonate according to the acoustic density function. as the electromagnetic wave travels from one coil (pitch fork electrodes essentially) to the other, they will either resonate with the next fork in the network depending on the factors that determine wave resonance, or they will not. if they do the next fork electrode can carry that signal to the next and so on, even amplify it. now think of each fork representing a "transistor" which if the fork vibrates due the prior in the series it represents an on, or excitatory. if it doesnt, the signal traveling doesnt resonate the full network of forks, so the ones that dont are inhibitory to the signal coherence of the information, whether encoded by the on/off analogy or the actual frequency variations
+
+phones about to die brb
+oh I get it.yes that's what I mean by complementarysee I was in a discussion the other day, talking about how the synaptic inputs can increase or decrease the membrane potential, potentially causing an action potential that has a variable amplitude and frequency, that effects the membrane potential of another synapsein comp neuro, and in many AI models, they simplify so that all action potentials are equal, and they only take into account the frequency of the spike.but the amplitude of the wave matters, because that impact is going to determine how much the next synapse's membrane potential is going to be effected, which critically is going to effect it's firing frequency and amplitude also.so I have been focusing on how synapses use spikes to program other synapses,
+
+and you are focusing on how spikes cause other spikesbut you are also focusing on spike resonance, relationships between spikes, and decoherence between spikes, it's all very interesting and important.
+I was at a place. I was imagining the place was made up of spikes, some firing alternately, and some firing in coincidence. Where there was nothing, that was a coincidence of synergistic firing, resulting in the inhibition or absence of information in my visual field. Where there were alternating decoherent firing patterns resulting in the excitation or appearance of visual patterns such as lines, edges, colors, people, shapes, and details in my visual field. The only problem with this idea is that electric spikes do not see, something has to read them. They are messages sent through neurons from one synapse to the next.   

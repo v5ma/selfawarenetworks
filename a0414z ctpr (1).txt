@@ -1,0 +1,58 @@
+a0414z ctpr
+not sure if this is a duplicate, if it is I don't know where the duplicate is
+(dendrite, column, neuron, category theory) reply to Dean Part 2
+
+Dean: 
+Only the top layer of the column has significant connections to other cortical columns (in fact nearly all connections in the top layer are to other columns).
+
+Micah Blumberg
+Known, but still incidental to my proposal.
+
+Dean: 
+In addition, keep in mind that a sizable portion of neurons are inhibitory neurons.
+
+Micah Blumberg
+Known, but still incidental to my proposal.
+
+Dean: 
+That is, when the spike, they have an inhibitory influence on the receiving neuron, decreasing the likelihood of its firing instead of exciting it to fire.
+
+Micah Blumberg
+Known, neurons also inhibit nearby neurons, inhibition helps noise reduction, and may improve spatial/memory coordination on many levels.
+
+Micah Blumberg
+Sometimes a v6 Grandmother neuron will fire, inhibiting a whole change of neurons beneath if from firing, this Neuron that is higher up in the heirarchy now represents a whole cluster, it's a SDR of the whole cluster it just inhibited. I like to use this as an explanation of intuition, you know those women who think they are psychic because ideas just seem to POP into their heads, ideas that are really big predictions and sometimes really good predictions. However information from the V1 does not always travel up through every level of heirarchy to get to v6, sometimes it goes straight there, depending on the urgency of this situation. This is explained in neural connectivity, but what isn't explained without my theory is how v1 and v6 can even have a common dialog, how would the v6 know the difference between a v1 urgent message and v5 not so urgent message? The data transmitted has to convey more meaning than a digital pulse.
+
+Dean: 
+"a single synapse or dendrite only exerts a small influence on the receiving neuron (similar to the concept of weights within a ANN).
+
+Micah Blumberg
+a small difference changes the whole shape mathematically, if the shape were an infinity, and you changed a synapse, that infinite is now infinity plus or minus the small difference, electrically speaking that is significant. Small changes are not insignificant, but in an ANN model all changes are insignificant because they are reduced to a binary 1 in the axon. If the axon does not register the small differences in synapses and dendrites then all that information is lost before it reaches any neuron it isn't directly connected to. So far the digital neuron lacks a topoi category to describe the varying "potential difference" in the electron transfer, but I think we can represent each neuron as a differential equation in the core set, and a topoi that describes both it's physical connections, it's actually radius of influence (not connections) and what it can be influences by (including electromagnetic brainwaves that are not directly connected to it.)
+
+Dean: 
+Obviously, some synapses exert more influence than others,
+
+Micah Blumberg
+it's not as obvious as you may think
+
+Dean: 
+but since each is only one of a thousand (or ten thousand), it's up to the receiving neuron to integrate it with all other signals to determine whether or not to fire and with what amplitude or frequency.
+
+Micah Blumberg 
+so goes the conventional explanation, but the number (ten thousand synapses per neuron on average) does not change the function. Will you also argue that if all the primates declare the earth to be the center of the cosmos, and only Galileo says that some moons are orbiting other planets that the number of scientists who agree (or synapses) defines the most likely function (earth as central or not central)
+
+Micah Blumberg 
+If you think the "shape of the neuron" isn't influencing the electrical transmission before it gets transferred into the next neuron then every neuron might as well be identical. In ANN theory every neuron is identical but that vastly ignores a potentially infinite storage space for information, and a method of transmitting a snap shot, program of that spatial/temporal program to other parts of the brain.
+
+Dean: 
+Generally (excluding extra-synaptic transmission), a neuron will not have any direct influence on neurons that it was not connected to.
+
+Micah Blumberg 
+The collective action of neurons in v1 influence all the neurons higher up, at that scale a neuron can be like a binary on/off, but that model still ignores the potential detail in the structure (including ignoring all the detail in the dendrites and synapses) So each neuron, at least as a binary 1 or zero, at the very least, influences every other neuron in the brain, as a potential difference to the whole. Imagine that that one neuron means you see Kathy's face in the room, but if that neuron doesn't fire, then you don't see Kathy's face in the room. In this sense the firing of that one neuron effect ALL the other neurons. Your spatial temporal metaphor of the existence of you where you are right now is going to be vastly different if individual neuron's that represent arms and faces stop firing or start firing. Your whole spatial metaphor defined both by what is firing in your whole brain, as well as by what isn't firing. An integrated view of you isn't even plausible if the difference of signal neuron is not registered by the rest of your brain.
+
+Dean: 
+"Only if downstream neurons are connected to these neurons will it have any influence on them at all."
+
+Micah Blumberg 
+Sigh, I'd avoid words like "only" "always" "never" and any "absolute" when your discussing neuroscience.
+
