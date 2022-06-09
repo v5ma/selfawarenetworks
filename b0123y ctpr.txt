@@ -1,0 +1,27 @@
+b0123y ctpr
+I wrote elsewhere that multi-vesicle release allows a neuron to have four levels of output with each interval of firing determined not by amplitude but by duration of Calcium channels being open.
+Some months after words I came across an article that described synapses as having 4 levels of conductivity.
+Elsewhere I wrote that neurons receive information
+information as variations in phase signals, that differ from expected signals, phase signals can be chemical, electrical, acoustic, mechanical, magnetic, thermal
+neurons use their variable levels of sensitivity, defined by factors such as the quantity of receptors, what those receptors are connected to, the state of the position of neurotransmitters, 
+
+"Widespread brain receptor hides surprising mechanism of action"
+
+"Glutamate receptor channel opening"
+ Unlisted
+796 viewsApr 20, 2022
+https://youtu.be/IeQZTFMz5ek
+
+Pattern learning sensor circuit with a four bit LED
+
+00:00
+Okay. So think think of the synapses as a circuit diagram, but think of the, the output of the neuron as something that isn't is an LED that has four has four different possible settings, which would be zero brightness. One brightness too brightness or three brightness. Okay? So it's like on the one hand, it's like a circuit diagram and it's one that remembers patterns by it.
+
+00:50
+Remember short-term patterns by which, which by which of its circuits fire and whichever them are inhibited, so it remembers patterns that way, but it also remembers long-term patterns when it's circuits when when it's circuitry is changed via the deletion the removal or the addition of an of us of a synapse between itself and another neuron.
+
+01:23
+So it's kind of like a circuit diagram, that is okay, it's like a pattern seeking pattern learning circuit diagram. A pattern learning circuit diagram with an LED.
+
+Meaning the phase variation created by the neuron that fired, and the exit terminal neurons that it inhbited when it fired, create a picture for another neural array to detect, as if it was visual information, but instead its a phase array,
+the work of Sparse Distributed Memory as written about by the folks at Numenta is still relevant, because downstream neurons are still predicting whether they are going to fire, as parts of their receptors & dendrites start to light up, in response to patterns detected from the previous array of neurons.

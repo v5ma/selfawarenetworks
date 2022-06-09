@@ -1,0 +1,80 @@
+b0130y ctpr
+The missing opportunities in multi-modal eeg eit neura
+
+00:00
+So me I would expect and I could be wrong but maybe like one step before we get to iRobot. I would expect someone to come out with a line of self-driving helmets. Right. Self-driving, helmets are like helmet that. So, so we have with VR. There is position tracking by detecting edges in the environment.
+
+00:42
+Right. He has looking for identifiable markers in the environment and that is allowing the headset to predict its position in space. There's also physician tracking via time of flight sensors.
+
+01:07
+Simultaneously simultaneous location and mapping.
+
+01:16
+And based on when signals are received so depth, the depth of a space can be calculated with time of flight sensors or by recognizing features in the world. I think that he did if you like, basically, you know, it seems like you could describe
+
+01:56
+The first and tracking of the oculus quest is kind of like a sparse version of cement of 3D semantics segmentation or 3D 3D object segmentation. But really, it's like it's like 3D edge detection. Yes, it's only 3D edge detection, or 3D. Yeah.
+
+02:25
+But, but scale up and could be 3D object detection instead of three edge. Detection. Three object detection. I mean I guess that would be competition in more expensive, right? But but so like a self-driving helmet is one that can give you directions on where to go and then you know, suggestions are where to go and when to go wouldn't stop, if you can go forward when you need to take a step back to avoid a collision.
+
+02:59
+So basically it would it would monitor
+
+03:07
+If the goal is for it to monitor the world around you and basically act like a self-driving car, slash AI slash augmented reality guidance system. It's right. And like, you know, humans will test it and improve it. And so the idea is that it has a sort of like has a guidance system that learns from also watching wish humans do intermediate from his guidance system.
+
+03:43
+So it's so it's learning to predict what the user might do and incorporating that blending that into its predictions or by becoming aware, it's like. So the idea is like, yeah, you can have a stage where you have a device that is making predictions of both the environment. And of the user I was really like is if the car was like really monitoring its own movements but the goal yeah.
+
+04:25
+But the goal is and able to in, and able to like imagine what their consequences of various combinations of patterns. Might be like, what if the user guys something? Unexpected. Can I predict or can I predict the user? So that if they do something that has some sort of consequence that affects the the metrics of the driving unit to make, the could be like the efficiency of the route better, or worse, or more dangerous, or less dangerous.
+
+05:07
+These can be things that the effect like influencing user behavior. So as to avoid certain, you know, triggering the easier to execute certain patterns and encouraging user to execute certain patterns pinning upon, which types of motion patterns are consistent with a type of maneuver that fits the computer with the computers goals.
+
+05:44
+So the user is a in effect, the self-driving helmet where help the user navigate. Now, now you say, okay, that's similar, is this similar to a concept. You're having like augmented reality, navigation. Honest. On a phone. You're just putting it on on the headset, it's the same idea but want to use really sort of advanced world recognizing object, recognizing 3D semantics segmentation.
+
+06:21
+Operations. So that the function of the experience has as maximum value for both individuals and and for the collective users who use assistive. And also for people who don't trying to improve our scores across multiple domains for users and on users. And for, for individuals and the collective. But this transitionary device is essentially like building the building blocks of what will be.
+
+07:09
+I robot into a into wearable glasses, so that there is this sort of like transition and convergent. There's there's there's an opportunity for basically, this convergence between, you know, our AI and humans through a VR like device through an AR and a glass is time to buy and but not, but not necessarily through direct like her.
+
+07:50
+Magnetic stimulation. Although direct stimulation or close closely feedback therapy to to be a direct stimulus. Simulations and readouts. Is, is a possible both with non-invasive innovative methods. The. The potential for for non- non-invasive narrow feedback, or man, closely with therapy or medical imaging is, is we don't no one can say that.
+
+08:44
+It's really just potential peak in terms of what can be done or can't be done. There's you know it's it's I think that it will be seen as one of the greatest mistakes perhaps in the history of medical research. That that's so much. Research has has been siled separated, segregated into different compartments with so much focus on on these money printing MRI machines.
+
+09:22
+And basically to the dirt of all other modalities of study which which is a tragedy at a multiple scales because the potential for for taking some of the newer innovations and in computer science, and applying them to the long, long history of
+
+09:50
+Medical medical imaging. Technology is, there's a vast number of medical imaging technologies that that are understudied and are brushly being ignored by the major universities because they sort of like haven't body the attitude of like all the good ideas have been thought of here. So we're not going to look for any more, good ideas and we're not going to fund anymore research in this area because we don't think that we discoveries are going to be forthcoming and it's it's not by itself.
+
+10:23
+Is ridiculous and stupid, but it's also, it's also missing the greater point, which is that there is there is a huge potential value. Being overlooked and sort of, like, molten multimodals that I'm very huge. Kind of value that has historically been overlooked. May not. It may not be being overlooked right now, but in the past, it was overlooking.
+
+10:55
+That's multi-modal studies. You know, they're there have been a lot of multi-modal studies. Well, I'm sorry. I won't be multimodal. I mean, what I mean by that is like, you know, so study that combines two different two or more different metal imaging technologies. Together. This is this is actually happened.
+
+11:22
+These kinds of things happening a lot.
+
+11:28
+But there's it but the new opportunity is comes with you know, I think you know, combining innovations and and neural networks with with multimodal studies and more ambitious devices that attempt to take things beyond just you know, hemispheric or lateralizations studies. And really like, you know some sort of like large scale 3D modeling of whole grain activity.
+
+12:30
+We got like a private and doing like, you know, like large scale studies, that combine. EIT with, with, with EEG, with, with MEG, with we want to, Perhaps, think about, you know, also doing, you know, correlations that include voice and behavior. And you know, so there are studies that that would fit the bill of what I'm talking about such as the such as the, you know, the research being done by the child minus institute.
+
+13:26
+That I heard I've heard people talking about in terms of like the multimodal nature of the study and sort of like it's a massive study, they're giving away the stuff for free. But they're also very specific about how you know about now describing the math, the methods of the study and sufficient detail that they can be that someone that someone else who has never met, those researchers can can continue the study by producing results in the same way.
+
+14:05
+So this is so this kind of like rigorously defined study can be repeated at larger scales with independent researchers because the researchers are producing it and efficient details.
+Transcribed by Pixel
+
+Audio
