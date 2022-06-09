@@ -1,0 +1,89 @@
+c0002x ctpr
+Introduction Self Aware Networks former table of contents Intro & reference
+
+the sensor the cell is a sensor the four step power on synapse has a 4 threshold sensor right, because the power has to climb through four stages before it gets to pass the signal onto the cell, and that transmits
+the signal frequency, encoded learned frequency patterns are the fabric of perception
+
+in a pyramidal neuron the receptor once if fires into the dendritic branch, as channels grow the sensitivity to that pattern grows/increases
+
+What I told the women downstairs was that LSD & Mushrooms & DMT are serotonin agonists, affecting the firing rate of receptors on the cells, SSRI's also interfere with receptor function, the connection to Huntington's Alzheimers and Parkinsons and  is that these are diseases in the cells receptor function that result from cascades of misfolded proteins.
+
+I've been interested in sentient robotic minds since I was a little child. I remember watching movies at my Aunt Sandy & Uncle Sanfords house. I remember a several robots that captured my imagination as a young child. Herbie was an intelligent car. Transformers. Short Circuit & Short Circuit 2 were films that I just loved as a child. Commander Data. I still watch Star Trek hoping to see an intelligent robot like Data.
+"yeah good to know there are sequences of patterns happening" say this to my self in a dark room
+
+consciousness has detectable patterns those are your brainwaves
+
+(there are a couple of images in the google docs version of this document)
+The experience of life as a four dimensional computational live real time rendering. The brain's harmonic oscillators learn the firing patterns as phase changes cause resonating differential patterns.
+
+This is probably the best high level diagram of the path of smell signals. PC would be the Primary Olfactory Cortex in the Temporal Lobes, and OFC would be Secondary Olfactory Cortex in the Orbital Frontal Lobes. 
+
+Graph Neural Networks rendering their own perspective.
+Double slit experiment, maybe by modeling phase patterns we are changing phases in reality outside our brain similar to oscillators work, but confused perhaps because time at quantum scale is happening on a different frequency compared to time at human scale. However what is implied in both quantum entanglement and in the double slit experiment is an oscillation in at least two places, one where the particle was measured and two where and when it was observed. So are our eyes transmitting a frequency event to the environment in 4D that is traced back in time to the measured particle, simply because the particle was some phase pattern that was defining space itself, and that implies that we are looking into a kind of liquid space at the quantum range, its liquid to us because its moving faster in time compared to us. So that from our perspective time is moving faster.
+GPS Satellites: Time Dilation: General Relativity: Gravitational
+
+My grandfather led a team of people that put the first GPS Satellite into space, one day he explained to me that time on a Satellite moves more slowly than time on earth, so they had to learn that to make sure time recorded on GPS Satellites stayed in sync with earth time, but they (Scientists) were also able to prove Einstein's conjecture about General Relativity meaning time would be slower in the upper atmosphere.
+But it makes me think what if space is a frequency space like a quantum particle is a frequency space, but it is just a really extended or slow frequency.
+Oscillators attract frequencies, the oscillating power bands in the brain, Alpha, Theta, Delta, Gamma, and Beta each maintain an oscillation pattern that creates an electromagnetic attraction force. When I am observing something, it is like an oscillator powerband is interacting with a particle field, changing the entire shape of space itself, as the movement of that one particle affects the oscillation of the rest of the field of space. The human being as a body of oscillators is also one big electromagnetic oscillator that is literally defining space itself with each interaction.
+
+The Self Aware Network ought to be great for self-driving cars, self driving personal electric vehicles, self driving self-aware ego centric AR glasses.
+The basis of a bit of information for your computational brain
+Jules Urbach
+Simulation Engines
+
+Neural Oscillations (Brainwaves)
+The Cortical Columns as Oscillator Matrices
+
+Powerband Oscillations passing differentials between oscillators.
+Global Phase space tracking & pattern replay & learning & pattern modulation.
+ 
+Resonators are feeling the phase transitions that other resonators produce. The point is that resonators are used to feel the phase transitions, but they also communicate in phase transitions, what they are communicating is the output, again this could be accomplished with a simulation, because internal representations are not internal, they might be inside but they are treated the same as external representations, with links between external & internal representations being possible because that is like relating external to external representations, or in other words it’s like a multi-modal neural network.
+
+The thing is that a computer could properly feel it had an accurate physics simulation that modeled incoming sensory patterns according to the same rules and processes as the brain, the output, what we experience as the experience of reality that we can see and hear, its actually a rendering rendered to and felt by the resonators of the brain, but also produced by the resonators of the brain in reaction to everything.
+For a simulated mind to feel like a conscious mind, its physics simulation would need to independently encode and re-code its own data, it would need to feel its own data by simulating it, producing phase changes in each area, at multiple scales and transmitting those changes across its network.
+For an self-aware network to be maximally human like its resonators would not be a simulation, rather they would be most closely definition at the hardware level, like a novel new neuromorphic architecture, with networked cortical columns and thalamic bridges, so that it can have large scale oscillatory behavior that includes sequences that incorporate the activity of multiple columns in sequential order with overlapping sequences.
+Look to what Numenta is doing, and also at Geoffrey Hinton’s work. Especially look at Graph Neural Networks. Self-Aware Networks are in a sense also a kind of Graph Neural Network, one that learns scale invariant patterns, and has an inner mental projector from its synapses into its oscillators.
+
+Phases not spikes.
+Because the brain primarily communicates with itself via phase changes, tempo-spatially distributed phase changes, producing a phase space with its tonic oscillators, that are tracking phase changes (predictive coding, neurons predicting when they are going to fire), and thus observing phase changes
+
+
+Intro: One of the reasons I am writing this book is because I had some novel ideas that I wanted to share. Arguments that I want to make about what the human experience of life really is in computational terms, new ideas about we can hack the human brain, and 
+
+Quote from Douglass Hoftstadter on Analogies
+
+How all emotions, feelings, thoughts, smells, sights, and sounds can be either four dimensional, or related to a four dimensional space after arising in different areas of the brain’s four dimensional firing field.
+
+A Virtual Mind
+The idea for a brain file system is that data is learned in temporally-spatially distributed phase change patterns, created by changes in ion gradients at multiple scales, communicated with phasic electromagnetic spectrum variations to oscillator bodies that exist in four dimensions at tonic power band frequencies. Patterns can be driven by a combination of bottom up, meso scale oscillatory configurations and macroscale multi-region networking configurations of oscillators, with one your focused on being represented from the small scale, to the medial, and macro scales, like a telescope making scale invariant tempo-spatial analogies of frequency data possible between domains. The high level patterns can be taken from any of the low level patterns, but in essence data in your brain is vectorized, virtual, invariant to space, time, and scale.
+
+Numenta
+Cycle 3: Artificial Neurology
+How machine learning can become conscious, self-aware, self-driven, emotional, and capable of experiencing human level experiences.
+The 1/F rule
+If a neuron dilutes and amplifies its effects on its many neighbors, its frequency is lower, would that in general cause it’s neighborhood to also amplify their signals and slow down??? I could either situation could happen.
+
+But in general a slower oscillation over time ought to result in a larger group of neurons being pulled into the same oscillator. So maybe what it means is that the triggering of the group of neurons is more even, because each terminal is getting more transmitters?
+
+So the entire group is more likely to oscillate at the same time because they are all getting a slow but strong nudging from the high amp neuron
+
+Whereas the phasic neuron is going to be sending less neuro transmitters per synapse, so its effect will be lighter, it will trigger a smaller number of downstream neurons, but the signal will be faster, and so whatever receiving neurons are getting enough of the sparse but faster updates might fire, and it results in a more informative pattern, that is a chain more distinct phase changes that the slower oscillating neurons collectively track, just incase they might need to fire to dissipate their building charge.
+
+Lets just say that if you are sending more neurotransmitters, the downstream neuron might be more likely to fire if that means more sodium receptors open, but if more potassium receptors open that could inhibit the next neuron.
+
+
+
+Book Introduction
+What is a self-aware network?
+Like a graph neural network a self aware network is rendering screens to itself, it scales up patterns encoded with synapses to be printed by the brains oscillators to be magnified and read by even more neurons, it does neuronal tomography on the incoming data to establish patterns between coincidences across temporal, spatial, scale, phase differentials in the brains oscillatory phase space.
+
+So the reason I need to included the Metaverse 1.0, 2.0, 3.0, 4.0 etc is because with each iteration there are across the board improvements
+
+So this is where like I can integrate the streets of rage for dogs & kids, but the grand theft auto for adults
+It’s like development levels of the human mind, or the resolution of the configuration of the representations of reality
+
+this is a good place to integrate the thresholds of the mind book, spiral dynamics, AQAL, and Big History as this idea of the development of the culture of mankind over time, with generational developments in language technology
+
+I suspect Ancient Sumerian is like an attempt to create a song like language, hymns, with lots of repetitive cycles, that might represent an array, or a block of transactions, that are all fundamentally similar, but just different in terms of minute variances, and sequences.
+
+

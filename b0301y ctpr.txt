@@ -1,0 +1,135 @@
+b0301y ctpr
+
+i explain how deep learning is supposed to work in medi
+
+00:00
+Probably 2006 with CT perfusion softwares and obviously back in the day in 2006 2007, we would rarely rely on the software by itself to make any decisions for us and it was very difficult for us to assess what we were looking at but I can tell you that there has been an exponential learning from the machines as to how to aid us in making decisions for thrombolizes and and clutch retriever or project stretching.
+
+00:35
+How some people call it and in these days there are probably around five or six softwares that we use that are very reliable in detecting early changes in the perfusion studies, so what's tissue is infected what's the diffusion defects and that's very helpful in selecting patients for reverse calorisation or reperfusion therapy as we call it our software is always obviously they're not a full proof, they're not a day they sometimes can make.
+
+01:10
+Mistakes under call over call what you see and that's why we use them as an aid rather than the final decision making tool but I can tell you that in the last probably five years rarely. I disagree with what the software tells me and in most cases this this have been very helpful so I think I AI has a very it's it's too learning and obviously learns much quicker than we do and it's very difficult for our biological brains to understand.
+
+01:45
+What's happening there and also to accept that there might be a two that's very sophisticated and it's going to maybe at some stage outperform our ability to to diagnose and managing medicine but I think that we are leading towards these direction and I think it's important to know that these two are there mostly to help us at this stage and not to substitute us and just to give you an just to make a comment on what raiser said about that appendicitis most of these softwares they use.
+
+02:20
+The normal moanna be as a reference so obviously if you look at in a CT of an abdomen looking for signs of appendicitis, they can look different for for all patients, but the normal anatomy has only so much variation and these are softer as they use databases of images to tell you what normal is and they can flag you once have normal not necessarily telling you what's the changes if the software is in doubt and that's why the human vision and the human.
+
+02:55
+Temptation becomes very important in decision making so this is their at this stage to help us and I think that this is going to be a slow transition we're not going to one day wake up and AI is going to be dominating medicine but I think we need to accept that it's going to be faster than we expect and we should use it as much as possible to help us in patient care, thank you that's all I had to say.
+
+03:22
+I am may I go next.
+
+03:29
+Go ahead. I'll wait. Thank you so much yeah thank you for allow me to speak. I find topics like this really interesting first time I spoke on the med tech 24 and novice so yeah thank you so I love AI my background is tech is business transformation digital etc and just really interested in the human side of things as well, so yeah, I do feel AI can enable a lot of use case that I've beneficial to humanity just in general, but also in terms of health.
+
+04:04
+I do have some concerns so. Obviously there's been some talk about trust yes, so can can you trust it and what are the confines of that trust so I mean, we all know that AI is as good as the data that it is trained with and I think at present we also know that they click on issues with buyers in that and the classification of dates are simply because it hasn't necessarily had as much data as we'd like right so I still think we're still in the early stages of this this is a problem.
+
+04:38
+I think can be resolved but the reality is that when it comes to. Yeah the ethics you know, I think that there's certain areas we should perhaps have I would say treat with caution so I do know that even this month the EU proposed a rule that imposed some standards in terms of data quality testing and oversight on artificial intelligence and you know, certain areas were considered high risk with pretty steep fines to boot now on that wanting to me from trust the ethics.
+
+05:14
+Like I said I do feel that you know the data's good as then we also know that their issues with ethics but they're also culturally certain cultures that by way of their cultural norms have not less nor any prioritized data collection cleansing and organizations, so again, we're still early another issue in terms of ethics for me is access control and governance so if you think about a few people have access to AI, it will be great if it was democratized but I don't think that's going to happen it just means that you can create a monopoly and It's almost like the concentration of power in the hands of very few absolute power.
+
+05:54
+I know in my view as a dis benefit so some sort of oversight on that would be good another ethical issue that I think requires attention is the targeting of vulnerable people so in the UK about two years ago, there was a report that talked about certain companies targeting people like adult sorry addicts alcoholics and gamblers that they most vulnerable so again, the oversight is important because, We going to allow the companies running these AIs to police themselves?
+
+06:28
+It's almost like asking someone to mark their own homework. Another concern for me is the black box effects because although AI is able to to learn and diagnose with great precision. What effects that have on our collective learning as is that the guy who just spoke before? I don't know if he's gone.
+
+06:47
+He just said, you know to some extent. AI might start to see preceding the information that we or the the knowledge that we have and if you look at the way in which humans learn, We learned by sort of breaking things down doing learn lessons learned assess, you know just you know assessing and it's basically the feedback now if we don't get the feedback loop anymore what does that mean?
+
+07:13
+In terms of our collective learning in 2021, I mean right now, they're new diseases that exist now that didn't exist 100 years ago, you know, there's been a huge growth in sort of non-communical diseases that kind of start in the body and if we lose that feedback loop, where will we be in an arm a hundred years time?
+
+07:34
+So that's I think that's a huge concern and one other thing I just acknowledged or noted was there was a documentary. I'm sure you've also heard of it coded by and one of the people that were interviewed are there in in the documentary said that she trusted the AI over herself in terms of gutting so my question is how do you teach AI got instincts, how do you teach AI morality or empathy and so that these are just my thoughts and I think in terms of life.
+
+08:09
+Abilities just a quick comment. I think that that really goes back to the black box. If you and what I think is fair is that liability should fall with apart to you who ultimately has the beneficial ownership, so these are my thoughts. I'm checking.
+
+08:30
+Thank you. That was very interesting. Thank you. Should I actually go? Please do. Okay. So, I wrote down my notes. I wouldn't forget here we go. So, I'm responding to Dr. Well, he's on the stitches reason, right? I I'm not. So, Reza I apologize Reza I So okay, so.
+
+09:05
+So basically I do agree with everything that that George said give the doctor but I wanted to just give a small contribution about just sort of explanation of of what I think AI is supposed to do and how it can be useful in detecting a novel new images and and but why why it's why it's not perfect now and what needs to change in the future.
+
+09:32
+So, It's not.
+
+09:38
+Okay, sure. So I'm my name is Michael Bloomberg and I've been I've been studying topics related to neuroscience and computer science including neural networks. That's about 2005. I also I write software including software for brain computer interfaces and virtual reality. And I am I'm currently writing a book that is about the brain about neuroscience and and brain computer interfaces.
+
+10:10
+Let's see. So with that, I'll go ahead and get started and also been writing by science and technology and neuroscience for for more than six years. And so and artificial intelligence. So, The so it's it's so. The the statement was it's not clear how AI could detect a necessarily a particular disease like appendicitis based upon feeding medical images to a trained neural network, if for example that is disease looks different in each patient or if these disease looks different each time the patient is scanned.
+
+10:50
+But so I wanted to sort of like provide some background in it. So the way it's supposed to work is that as the same way the humans can attack novel patterns. A person in medical imaging would examine look for and identify symptoms marker signs. Logical correlations for different diseases and each thing on a physician considers with their site is like a feature detection in deep learning features of disease detection specific specifically.
+
+11:18
+So both the human and AI would attempt to do some sort of summary of all the features of disease that they've detected and that summary is the sort of bet or diagnosis on what the patient has. I think the reality that everyone knows the AI is not still not.
+
+11:36
+Doing this as well as physicians in many instances a lot of radiologists complain. And and that's for a variety of different illnesses with the I think that this is the fundamental design issue right now with the structure of neural networks and I think that we fix in the future with next generation neural networks that are basically different because they'll be high-dimensional Neural networks and and so I'm really looking at the work by at Numenta right now in terms of high-dimensional neural networks that will be worked into future deep learning neural networks.
+
+12:11
+And so the future medical and other point is that someone else shared right before me I. That would be surely. Is that future medical AI should be providing doctors with a step-by-step medical analysis breakdown for why a particular conclusion was reached and that would be like telling AI to basically go over to provide a report over each of the features detected and why they let up to the conclusion and also the IAI would go over each of the features that were detected but discarded in and explained that why those features were discarded in and not contributing to the final conclusion.
+
+12:53
+And that's all I had to say and I can just kind of put myself back in the audience, thank you.
+
+13:00
+That was so in. Tentionally say again and I think it's a very nice that we can attraction of new people and of course as you also be maybe a free space to to comment or to have presented themselves, so I think mission and work. I cannot put you back to speak assist as I'm not one of the motivators so pleasing yourself in the audience makes you unable to reply to any comments to what you do, so please stay on the stage we like it to do this and there's, Page to answer everything so thank you very much so exciting with the new perspective and please continue to stay here and other present yourself what is your background and discussion thank you thank you very much my name is Arthur and I grew up.
+
+13:58
+I just quickly sadly I have to work so I have to leave I'm so sorry but time I'll come back at some future stage thank you so. Please do or get very interesting with all your insights to the everyday life and improvement of artificial intelligence, so thank you for being with us today.
+
+14:21
+We may be as I hear an artist who do as well introduction and maybe provide your perspective. Thank you. Yeah, thanks thank you again certainly go um, so I'm sorry here. I have my background including my PhD was at the intersection of digital pathology and and applying argent intelligence machine learning computer vision in coming up with no ways of sort of interrogating tumor progressions towards precision medicine now.
+
+14:55
+I think. I think a lot so what 20th century was about diagnostic testing with these biochemical essays, you know, typically with your blood work is now I think sort of the black box is very similar to what's happening with data science based algorithm, right? I mean you order a blood test a lot goes there which is a lot which is also black blocks if even if you're physician there's a black box factor as well, or we don't tend to focus on that because there's well established history there and so I suspect what's happening now in 21st century with the data revolution.
+
+15:32
+I mean, You have data scientists as a laboratory and your computer algorithms are the sort of the assay machinery that that not everyone in every state of workflow tend to understand the biochemical areas and things like they're also similar metric the sensitivity and the the precision and the recalls and things like that now so so I think if we step back and we see what what AI is sort of doing and it's already doing and it's going to do a I suspect at a pretty high pace now is is there are it's not trying to replace the current professions or or the areas.
+
+16:07
+Of. Of what's being happening medicine but it's actually changed it may take things from first principle is if we were to if you look at even pathology for hundred years we're looking at microscopic images and we're doing the same things we are but all the tools that are available to us now with all the technology we continue to diagnose and produce the disease the same we do I don't think so so so what's gonna happen is there's a lot of unmet need when you look at disease which is present at so many different levels of scale scale rinse just from the single cell to DM from cell to DNA to epigenomics to reomix to even pick.
+
+16:43
+Some level data from. And pathology digitized tissues well we have an opportunity to train up a unique signature about a patient and now a truly understand how things are not not only about prediction what's happening but really what's currently happening and so I think that's where I think yeah, it's very to go which is a completely unmet need in and how we approach precision medicine, so those are my comments but um great comments already, thank you.
+
+17:14
+Thanks so here yeah. I love your analogy of the black box with people not understanding how a microscope exactly works or how a another assay machine or a sequencing machine or the bioinformatics processes or these other non. AI highly you know at their point they could be revolutionary and some of them seem older to us now but we're not questioning the black box as such but people when they think about AI and health care the black box.
+
+17:49
+More so that was it that's a good point of view, so thank you. I just want to add before we go to toaster and welcome back Chris that it seems like we are sort of merging into looking into what happened in other areas and on the other industries to have a look at AI from the angle of other interests the industries and that actually gives some very very good perspective and so so thank you very much to here for bringing that forward once more another increase would you want to continue with the short fire and your comments to the subject?
+
+18:29
+S. I'd like to continue the. Stay on so here's point my name is Arthur I I've worked in finance for most of my life. I've worked in technology for the last four years around software for machine learning engineers, and if I just like to add about the idea this idea of explaining ability in AI and how you know, we don't understand an MRI but we trust in MRI, but we can explain how an MRI works.
+
+19:02
+We can write down a skilman and people can understand logically if they take the time in order to do it and difference here is the deep learning is not necessarily giving you this explainability of the way that we understandability is that there's a cause or relationship to what happened as an input and what happened is now put there.
+
+19:20
+Is a black box there and I think and I believe that any machine learning deep learning expert would agree I'm not an ensure myself but I don't think that's a question and then the the question comes for us well, how do we then reconcile ourselves to accept good predictions by models included without doing everything right and clearly that you know, we're asking a particular models just to look cancer particularly models to look at, you know, data whatever diabetes are look at different types of things, they're they're very discreet and what they do, but the explainability is not going to come in the form that we want the explainability the one that We're expecting and we need to somehow grapple with that because it is it is a probability based mathematics that that doesn't have a linear kind of causality model at this point, so thank you very much.
+
+20:10
+And I'm sure that Shane will have some some opinions on there on this and change you just want to comment before we go to crib yeah. I'm with you I am I know there are higher research organizations and and these and everything working on the explainability aspect which I, Not familiar with so I do understand you know, there's there's a huge importance.
+
+20:40
+To it. I I guess the in in lieu of having explainable AI which you know as the parameters of a neural network row to billions you're getting to the point of like how do you explain you know the how the human brain works and what we're far from from understanding that so as that keeps growing the the target of explaining how exactly the AI fired to make that classification.
+
+24:19
+Yeah.
+
+24:26
+I just it was a job for that additions and they can go off to do it and I'm not too interested in it. Like, I think so, for example what this is like. Problem, these problems are like people like as a big.
+Transcribed by Pixel
+
+Audio

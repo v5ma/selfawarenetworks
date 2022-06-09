@@ -1,0 +1,231 @@
+b0296y ctpr
+(audio notes transcription needs fixing)
+neurophotonics
+Holograms Neurons Worm
+
+00:00
+Photonic signal into. A resilient trespass back again. So with that possible that we just to maybe you want to totally run your system like doing the everything you photonics. I'm not sure if there is a physical limitation. But you know, my idea is that in that way. Hope to see elastically.
+
+00:33
+It will. Articulate decrease the loss in some point and also maybe highly improve the efficiency. So imagine that since the photon can transfer transform the information and it's easier for early it's better than the electro signal and compared to the loss and across the top so without transport out to same time when we transfer the information.
+
+01:07
+I mean the way to the communication work we also. Computation. So that's really highly improved the efficiency. So, maybe we don't need to separate the separate. The computer and the competition so just to do everything. Yeah at the same time. And that's just a big idea. And also, I got this idea because imagine basically we don't know how green works so far.
+
+01:49
+And but yeah, maybe imagine praise the whole system that's that to the everything together like. You know, like the current hours of the system. Way too like receivers to do the work. How about we are just to do I repeat this at the same place.
+
+02:22
+You're saying great integrated photonics that has the high bandwidth of platonics and somehow you integrate the computation. So there's like zero loss of efficiency.
+
+02:34
+The third there's. Research in this in optical sorry it yeah in optical computer I so get to integrate like, you know fiber optics communications and then like just you know, keep it in light as you as you said like not going into electrical signals, just keep it as a light signal.
+
+02:54
+I believe that the theoretically there's no there is no upper limit on the amount of information that you can get into a photon. I think they've tapped out like at 10 bits or somewhere a little bit over 10 bits in a photon. So yes yes and yes you you could certainly you know encode you know and encode information in in light and you can keep the you can keep the computing in light and that it would be more efficient and you'd have a higher information density in your signal.
+
+03:38
+That might be more attractable than a quantity. They do short.
+
+04:02
+Work. The only thing is.
+
+04:08
+Building eyes. Remembering.
+
+04:20
+This.
+
+04:36
+So basically.
+
+04:51
+Enough. You can put the light into a high indexer for fat refraction medium and slow it down to basically a crawl. So if there was some way of changing the index of refraction depending on some you know, some other signal equip across the, Editor you. You can just basically stop it and.
+
+05:18
+Do this already. You can stop photons just by putting it into high index of refraction medium or you yeah you can like put it in a in it like a habit bounce back and forth. I think you get lost. I you know, because it would still have impulse against the walls of that that mirror.
+
+05:34
+Yeah, so so yeah.
+
+05:43
+Or where I was thinking originally I was thinking that reflected trap.
+
+05:55
+But yeah, I guess. So, there's another way. There's a there was a this myself. There was an article called the neural network implemented with light instead of electrons. And it was really cool because because it is basically function as a neural network that didn't need any electricity at all you could just you know, they had several different sheets and if you if you if you they each the sheets representative networks, if you show the numbers zero through nine through the open areas, the the they would as as the image moved through the different sheets.
+
+06:40
+That they it eventually settled on a conclusion of which number it made a prediction of which number it was and there was absolutely no electricity no movement it was only light passing through this these layers of of reflective sheets so with that point series that you could if you could create a machine that would basically store the a way to reflect light in a certain way that would produce them that would re-encode the the light any light to.
+
+07:15
+So you have to store light itself you just re-encoded light to whatever pattern that you want. I I I think for a long time people will still do this with electricity but I don't know there's possible. Yeah, so I think.
+
+07:41
+For me. I think the full-time has to capacity because we already know how to control. And to how to manage your light with also methods. So in naturally. I'll give you a better capacity. Now seriously question that I think came up previous rooms as well. I think I shared that there was a friends in at MIT that would start up some put on at the chef and there was two competing teams.
+
+08:15
+I believe one of them is actually caught on light matter and I believe we talked about it like for me as engineer this practically being radical is a higher priority right so I said that a handstand's point that the, Storage would be a memory would be a child challenge also quantum computing has that ideal use it for on a system but a fire for before that any sort of a hybrid system would be great as well because as you as we mentioned the photonics check has an event it's already used in lung systems communication for lossless, maybe to the relevant is the computation part of that, which is hard.
+
+09:09
+With. A photonic so far because the larger companies we transistors so far that we are the case are so far, you know for CMOS miniaturized the processes we have only. You know, is this silicon-based electronics right so so so then the questions so I actually went through that question to front.
+
+09:39
+Later the field that I've the answers seems to be fully logical computation with light is hard and right now what the it's really achieved. The whole matrix of manipulation like. So that's a I mean in order to catch up with the. Company a long way to do videos of manipulation of signals.
+
+10:21
+An ideal of goal hope.
+
+10:31
+Fully.
+
+10:53
+The question starts. With with 10 bytes per second was but hands and I think we were about to. To chime in on. Ce again.
+
+12:00
+I was also curious and frank's answer. Ed the startup that you mentioned. Developing this.
+
+12:15
+Do you know, what is there ideal first use case? I mean, certainly the bandwidth advantages. Mike Warren.
+
+12:28
+That could output. More. Expression have. Quote supremacy even if it was a low.
+
+12:55
+Interconnect.
+
+13:08
+Ed.
+
+13:52
+Being the the big thing people are talking about is AI or neural networks specifically deep learning is a good example of neural networks there's an article if you if you look up the an article from science tech daily called light-based processor chips advanced machine learning they they talk about an example in which the these light-based processors can speed up.
+
+14:27
+And the field of machine learning complex math tasks and we're talking speedups of like 10 to the 12th or 10 to the 15th operations per second conventional chips, such as graphics cards and or TPUs like Google's tensor processing unit, those are much much lower so. So this is something to think about.
+
+14:56
+As somebody mentioned that paper was that you. I don't know if I mentioned to paper I was talking about this topic but I also the same articles said that they it that they are storing the information on basically the same way blue ray in TV roms or stored. The NDVDs.
+
+15:27
+Purely.
+
+15:47
+Yeah, well, I think the reason they want with PCMs, you know, like for DVDs. It's just for for energy efficient storage because it's it's going to produce a massive amount of data and that's the that's the bigger concern. So, I thought it was that you was that was. Kind of a going through something.
+
+16:08
+Yeah. I brought that up. How is that?
+
+16:21
+Okay, we'll check out this. Check out this let's see if I can find the article, you know. I posted it on my Twitter. Oh, you did take a look? Yeah, yeah. Okay. I So what like one of the problems that's often solved in you know machine learning. So including neural networks is this data set where you have a bunch of handwritten numerals from 0 to 9 and you kind of like you test out your system.
+
+16:52
+I'd like to see how well it can classify the handwritten digits and so it's kind of just like a choice. It's a choice system. Under data set and it's like just you know, it's what you do when you go through all of the machine learning algorithms. I concluding normal networks, you know, convolutional neural networks.
+
+17:22
+I imagine you know, when you build the one of these like light basis systems that that's what they're doing. Look like I don't know if it's depression they stay. I imagine it is but you have some system where all of the inputs are are interacting it goes through several layers and then on the output you get you know, you get a signal.
+
+17:49
+I it's like what is the probability it's a zero. What's the probability it's a one? The classify the inputs. I want to. Just.
+
+18:07
+Competition. This is not storage.
+
+18:19
+Yes, it's a computer. It's a normal network computation. Yeah, so okay. I thought you were directing that previous question about storage. This. Is natural.
+
+18:42
+It's just poor.
+
+18:56
+Man I had so I wanted to bring that bring us back to the topic of the group in a fun way so so someone earlier asked what flight could you what could you do in terms of transferring information that's beyond just three dimensions because like because it enhances the light is three-dimensional I wanted it so this is a fun a fun thing it's a it's it's the end.
+
+19:24
+I believe the answer is holography, so you know, hologram everyone likes holograms, right and you know, you can. Store you can store like really amazing three-dimensional even four-dimensional, you know, we're gonna have VR headsets that are basically holograms basically like a hologram is generated for every frame of your of of the screen so your teeth your TV will be like holograms in the future right it's really and then so that that that actually brings us back to like the but the but think about it, you know, we're talking about real shapes and transferring topography right and and you know, when you we need, Dive into mathematics and and you know you you can you can dive into many different dimensions and intern in terms of you know infinity in in that topography, I guess right it's still three dimensional but you can which you can so that answers one question I think and but then that brings us back to the the topic of the group in terms of you know, I guess also Sierra's question that that was mentioned earlier was could could photonics neurophytanics replace other brain interfaces.
+
+20:35
+I think it could I think it won't but I think it could and I think within 20 years. We're gonna have devices like you know open water by Mary Jensen's company is gonna be creating, you know, laser fast functional manifespectroscopy sensors that you can scan your whole brain and any any part of your the human body with like with better detail and and faster speed than than something like nearly or or EEG or or any other machine brain machine interface and they'll be able to steam.
+
+21:16
+Or any part of your your body with ultrasound as well this is like within it within a 20 or a timeline these things will well I think have the capability of replacing these of a technology but um in the beach so those they'll be maybe I can just imagine that that you know, the brain interface that can actually to the matrix will be entirely wireless so if you want to you know, plug into VR through direct brightness stimulation, you won't have to actually have any surgery not like doing her link is imagining it because you'll be able to read and write the human brain eventually with just.
+
+21:51
+Sliding sound. But but it took to to bring that to like that's because we are reversing the reflection refraction of light, which is which is holographically that is the definition of a lot of use of reversing the refraction of light to create an image from from the light that's being collected with the sensors.
+
+22:10
+And and so the the potential amount of detail that we could extract I don't know that there is a limit. It's very interesting.
+
+22:31
+Well we. 've dimensional that that is.
+
+22:48
+Dimension that the the lights is still traveling in the three-dimensional space. I mean, it depends on a the yeah, I mean, it's so and and then whether you want to treat kind of a information in. The mathematical dimensions space, that's a different question, but still I mean, they there's no need to do that.
+
+23:22
+So, so yeah, I don't see the the point of the question about the dimension. Have you guys seen the open worm project? Um, they took a worm and they basically modeled um, it is neurons um, and they basically they didn't program it at all they basically put this are just like neural um, just like a neural net from up from a worm and they basically put it onto like this embedded device and the uh, and they basically like gave like a body like a worm and it basically acted like a worm you could check it out.
+
+24:07
+It's an open source project you could download it, um, they. Have a whole write up on it and everything. It's quite interesting. It's you know, one of the projects like in related to this they have a lot of like forks and stuff other projects but it's called the open worm project.
+
+24:26
+It's pretty interesting to check out and to understand because they took a different approach to.
+
+24:40
+And time, can you please elaborate on that and I actually just look it up but it would be great if you go. My brains kind of fried right now. I've been up for like a long time, but I like. So they they were trying to basically model the neurons of a worm.
+
+25:05
+It's less complex than a human brain, right? So with the human brain, we have a lot more neurons and the this the the vertexes and the nodes and things like that just make it more complex. So it is easier for for for them to map the gum. I think it was like a hundred or fifty two something knives like that, um, and I don't know if you guys ever seen like, The neurons like underneath the microscope like how they firing and the different things like that.
+
+25:37
+So they they chose complexity space that was on, you know, not as greater to human in a worm, um, and basically it was to prove that you can you can take this and and basically model it without coding essentially like the the neural the neural net quotes um, and you can upload it onto the device and it will behave just like the worm and um, they were able to do it.
+
+26:07
+Um, and it was pretty cool. So, um it basically showed that you can take like the understanding of the the neurons and like replicated and basically have the device interface 
+with this neural no net this model after something's brain and and basically it exhibited behavior very similar to the worm it would like crawl find the wall and it gave it like any attachable sensors to the to the little body that they gave it and you could check it out.
+
+26:41
+It's like, So open source product it's pretty cool like very interesting. I just think that the human brain has a lot more neurons so that the space is very big exponentially like bigger than that then the net so you know, I think that's that's where the computational just this modeling the human brain is a much more complex problem, but from that from that approach.
+
+27:09
+So using like the scans and stuff like that to map what you see from a scan to like, Some behavioral or some like like basically a classification type problem might be about optimal solution but versus like trying to model the brain or not, but I'm not an expert. I'm just a fanboy on this so you know that that's a small opinion.
+
+27:43
+The pics for the contribution came time and make I like what have we we took us with your. Your direction. I think wanted to get a chance to live Jocelyn. Been very patient. Thank you. So this may be off topic a bit I fell asleep a little bit so I don't know what was discussed previously but I jumped in earlier because of a concern I have.
+
+28:15
+So show you some of you must have followed a story but what happened to the diplomats in Cuba and China? Where they had these unusual set symptoms, they had dizziness headaches, like how did the ordinary headache some had cognitive issues and they were many theories? I think they started happening in 60 and 2016 and 17 and 
+they were many theories after that but it was finally determined that it was something.
+
+29:03
+Within the radio frequency range that had affected them just wondering if you could win on this and just wondering if you know, whether this type of thing has been weaponized. I'm just curious. I was intrigued by the story. So, I actually haven't heard of it. Is this something from the UN circle?
+
+29:34
+Yeah, so this was a purported to have happened in Cuba to some American diplomats and then I think there were celebrants or purported recurrence of it in. China was in China or I was considered maybe Russia, but it was in China. It was returned. Tony did you happen to catch the story of the sign diplomats in Cuba and the theory of the, Yeah I there's a couple of theories about what it was.
+
+30:13
+I mean, people definitely got sick and have like sustained, you know, some some damage yeah and like there's theories of whether this is a sonic attack like weaponized sound which is that there's you know, there's plenty of research on like the US and other countries have plenty of sound weapons and there's there is that it was microwave.
+
+30:43
+Remediation attack and there's plenty of you know US and other countries that have weaponized microwaves. So I yes it happened and yes, there's definitely these kind of like non-lethal weapons that have been developed a lot for like either sound control sorry a crowd control or just like kind of like covert covert operations over at attack.
+
+31:18
+And. It. I don't really know what what else to to know though. I think you hit it, right. I don't think it's easy for us to determine the pathology of which weapon or which theoretical weapon may have been used based on the river's fault. So, I think Jocelyn does that kind of get you?
+
+31:41
+You were hoping to get in terms of an answer.
+
+31:51
+In our person, whether they can. Weaponized this. Because it was just very strange the way this happened and when they came forward with what had happened to them, they weren't believed. So you could I mean, they complained of drop to the ground headaches. I mean, if they weren't clustered there if individually they had gone to doctors.
+
+32:19
+I don't think one doctor would have thought that this was from a weapon and that's what I'm wondering about this technology if it's. You know in the hands of evil people.
+
+32:35
+Yeah, I would guess um, even I was just kind of way off topic for the group that that both situations are are likely that a scientist who with sufficient ambition and money could make this but but more likely funding from secret governments. I guess but this is kind of off topic also.
+
+32:58
+Yes, so ordinary person know extraordinary person possibly and we still have all the answers on that event.
+
+33:11
+Yeah. It's just lighten up the conversation a little bit and you know.
+Transcribed by Pixel
+
+Audio

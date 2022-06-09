@@ -1,0 +1,124 @@
+b0275y ctpr
+(audio)
+You can recognize patterns over decades of time Neuro
+00:00
+So let's say that patterns can be converted into from spatial platform temporal patterns to spacial patterns. And from spatial patterns of temporal patterns, let's say that the brain can interchange temporal patterns and spatial patterns. Right where maybe you can have liters that can recognize. Temporal patterns and layers that can recognize spatial patterns and layers that can convert temple patterns the spatial pattern advisor, so you have the word.
+00:38
+Say the let's say the word word as spatial pattern. That represents terrible patterns those temporal pattern of w o r t is a pattern in time w o r d is for when it's in time w o r d okay with the word word the word word which consists of w o r d has been reduced to his facial pattern.
+01:06
+So the spatial pattern. Is the compressed version that represents a temple spatial the represents the,
+01:20
+Sequence pattern, so the word word represents is a spatial pattern of represents a sequence pattern. Right, so when you have several words. So you when you have several words when you have several words when you have several words. And each word in that sentence is a word for each word is a different word, so you have each word is a temporal pattern.
+01:55
+And they all additive one sentence all the words out to one sentence, so you have sentences all over the place also this would be different. Sentence is. Spatial representation. The sentence is a spatial representation. Of sequence now let's see what we have a sequence of spatial representations. Right, so now we have a speech representations.
+02:26
+Is a sequence.
+02:36
+And sequence a speech repetition is the sequence. A speech representation is simultaneous sequence.
+02:50
+So that's actually all the different part of the sequence and it's better presentation. Representation. Sequence of. Space representations. So imagine that each space of representation. Can be represented by.
+03:22
+Zero one two, or three imagines, especially our presentation could be recognized by a vector between zero one, two, three vector, that's represented by four numbers.
+03:41
+Why is a? So actually not wasting no it's it's one number. It's one of four possible numbers. Had a general one of four possible numbers at each interval. So it's zero, one, two, three. But it's not like it's transmitting a zero one, two, or three. So the neuron that is close.
+04:04
+It's gonna repeat. There's an error that always receives one of ours. See the nine good procedure doesn't. So because it receives it and it's only.
+04:20
+It's only animated sure that it receives one component of a pet of a pattern. Okay, so they receive one kind of a pattern. And that's her in free synaptic action potentials or. Not an actress but. It's a neurotransmitter specs and he may expect. So it's like yeah, if so now it has to detect and detect part of a pattern.
+04:56
+By Andy May transmitter specs. And then if it detects it actually protects the actual pattern. I may play a certain pattern of ending my transmitter spikes, which detects financial pattern then you can fire to transmit. That actual pattern as a sequence of bits. But the sequence of bits could be yeah if you're interested sequences succeeding I can do like a zero one two, or three zero one, two, three, zero, one, two, three and each out of the song.
+05:36
+It's like each node of the song that a neuron can transmit can be like I can play zero one two, or three. It's like a half. Three notes or no, no. Three notes or no one else three notes are known as like a piano with a has for each h one each each song can have three notes or no notes.
+05:59
+But it's like,
+06:08
+Okay, but it's it's not but there's things it's down here on this like.
+06:17
+They're not receiving anything from that neuron except a one or zero. See I'm saying.
+06:27
+So it's like,
+06:31
+That now either fire didn't fire. Okay. Like the fire didn't fire it either fired or didn't fire that's what the upstream now is.
+06:47
+It doesn't know or maybe it doesn't yeah, maybe it does not that wonder on the fire and it was a three or two or one that makes sense. But here's the thing what's happening is this is you're sending a packet of neurotransmitters. Okay, are you sending two packets of air transportation three packets of trash husbands?
+07:11
+And what happens is, um, the neurons that you would transmitters. That we're gonna get hit with the weather there was a one two or three. They don't register anything different. So it is not allowed two or three to them, it's just I could activate okay what's different is if it goes to one visible over it's two physicals.
+07:34
+I mean, it's a more neurotransmitter can push down and they get pushed out and then you think of the activity more downstream ops so it's like it's like instead of like you know, so it becomes like instead of like three people being activated six people say okay activated it for 30 people say yeah.
+07:57
+Okay, bye. To be combined so um. So that becomes that one neuron becomes one downstream activation for 30 different neurons, but each of those three different downstream actor neurons need like 30 upstream active drones to fire on them before they become active.
+08:26
+First upstream downstream again, but the idea is that you have. Is that one neuron could send messages to 30 not practices messages to all else. But let's say that sounds about.
+08:46
+It gets it's messages get. Bonus sequence first okay, and that would be the difference between a micro column and like regional activity, so like the micro column is learning all these sequences. But then it transmits. A high level representation.
+09:13
+Okay.
+09:17
+The handover representation again would consist of piano beats where you have one or four different you're different.
+09:29
+Yeah. Just actually four knots per knot you only put you're gonna hit one note per round.
+09:43
+But don't the reason is equivalent to or no is because. It's like you can really hit that key you can really hit that key or you're gonna really hit that key. All right so it's like yeah, so I can't do my creating a lot of sound or a little sound and that's registered sort of like in it it's like an amplitude measurement in terms of how many neurons are getting activated because of that one neuron.
+10:12
+If you have thirty nerves. And they're each activating thirty neurons. Then you could that make sense that you have group oscillations. Or all sort of detecting the same thing from different perspectives. Okay.
+10:33
+Like a future. This found a lot of detection is fun poor world attacking a different part of right? So wildfire in the same pattern. But different part of the same pattern. And that's why. You're tracking the surface of the phone is like one surface like one farm one object.
+11:01
+And it can move around in your visual space and you can attract as one object is everything that's firing. Gets associated with. A neuron that sort of tracks the body of the phone itself the surface of the phone. So you have like the whole punch of homework or not representing pieces of the surface of the phone, but then you have a neuron that says all of these pieces belong together that this representation is something.
+11:32
+That is connected together, especially this amount of surfacation is such as amount and different it's objects segmented from the environment. So this pick these pixels this object presenters and by these pixels that are lighting up over time are the sequence of pixels. 3d pixels of the soundtrack represents the object that is separate from the routine environment so for anything else.
+12:01
+So it can run in my space in my visual space and I continue to recognize either something else because even though it's moving at a high level, there's a reference frame. That can handle the object being in different areas different places had a higher level it just say okay, well there's a reference frame, that is your.
+12:23
+That is that object. In the context and in a more abstract conference in a more abstract context, it doesn't that reference room doesn't rely on the spatial properties of that object, it's in in one sense like in the sunset you can hide your phone. So we think you're uncertain.
+12:51
+So there's no it's important.
+12:58
+Sorry.
+13:20
+Application.
+13:35
+Like the representation of saying that they if you had your phone like you can have like a conceptual. You can imagine your phone in different places. Like without seeing it you can imagine it's above you. I have above but for nose bloody chin to latter here to the right of your ears imagining a fly and all of your room like your phone is flying everywhere and idea is that, um, All right, you're.
+14:09
+Ideas of your phone is going to. You a few even if you don't see some matching your phone that's possible because the representation of the phone itself is in the internal neurons, it's not in there like so you have like a representation of reality that is registered by the low self-interest.
+14:34
+They come into the visual cortex right and maybe maybe it's an maybe it's in the eye. Like little local patterns right now. And maybe it'd be one and v2. Those little patterns take on high level visual patterns. So I can see a whole fan. And I do it it's object segmented the whole fan semantic segmentation, it's a fan and it's a fan that represents this the semantic idea of an object object.
+15:13
+Represents idea that all of these. Points. Belong to the same object. Follow these features belong to the same object. That is ailable representation. But it consists of the lower representations a map and a map between the level of representations. So we're triggered in the high level sequence and interneurons is a.
+15:43
+Is a map. A map map of the local representations.
+15:55
+It's not because it's like because it's not it's not just it's almost like it's not just one representation. It's a reduced you get a reduced representation, so you get layer so that the first there you have the most data coming in, all right? That's a further the most hate is coming in.
+16:18
+And then the idea is that at higher levels the data that's coming and gets reduced. Answereduced at least since they did the idea that it was produced.
+16:41
+But the reduction. So we're talking about sparse distributors representation. So the reduction is creating like a sports representation of complex representation. But that maps back to that representation.
+17:03
+And so if you get a whole bunch of similar sparse representations that map back to that representation. So, let's say that you have some everywhere. Okay. I use my everywhere. But that one that reverses it.
+17:27
+However, tasion.
+17:39
+Plus.
+18:06
+So, let's say.
+18:10
+So, let's say the fan represents.
+18:17
+Let's say the fan in the brand represents. Multiple levels of neurons. Fine either at the same time or in at or close to the same time in sequences of time. So I could say the fan represents either. Yeah, I get attacked sequences of the patterns firing within certain sequences of time.
+18:54
+Represents multiple levels of neurons firing either at the same time or in close temporal proximity. So either close facial proximity or closed temporal approximately, it's actually close the spatial and temporal proximity. So it's it's like yeah, two patterns just fired the left into the right if the fire at the same time, that's a close spacial proximity.
+19:24
+As they fired.
+19:29
+Right after each other. That's actually both spatial and temporal approximately. But you could have tuners are very far apart. Of firewood right after each other. And that's temporal approximately but it's not but so that is the spatial that is that is templates because it's still spatial so with the neurons are close to what nerves are close together and they fire one after each other that's the temple inspirational proximity, but if neurons are far apart.
+20:12
+And they. And they fire within this temple. Several amphirituals because.
+20:27
+This is space they're being closed together as far apart.
+20:37
+So in that sense yeah because that is also a pattern of parents are far apart, so that means that the galaxy if you if you have like, Temporal coincidences that are far apart. That those can be learned.
+21:16
+Skeletons is like over a decades. Time.
+Transcribed by Pixel
+
+Audio

@@ -1,0 +1,208 @@
+b0294y ctpr
+(audio notes transcription needs fixing)
+Opioids Neurons Network
+
+00:00
+Hope you and sister you can sort of doing those responses to how fast those. Opioid drug administers and it's a good way to isolate the the intrinsic properties of the network independent of the co-founding factors of the other areas within the brain and so because any sort of brain region that you're looking at has a number of incoming inputs into it right from the ponds or from the from the midbrain or any of the other regions nearby that are sending axonal projections into the network and I'm trying to understand like the ventral respiratory network in and of itself you obviously have the isolated.
+
+00:41
+From the rest of the the factors and then so once you understand how it itself works then you can sort of layer on top of how in an integrative network or an integrative system then it plays a role and so it's always one of those. When you isolate the network and do a network or excuse me isolate just the ventral respiratory network and you do the studies.
+
+01:06
+If you if it goes to some more of a translational researcher, you know, even like myself they always kind of want to know what's the implications into a whole animal system and if it doesn't match up what what are the reasons for that and certainly we address that I think there's been a little bit of a missed misinterpretation from the reviewers which is obviously our fault so we you know, we're reworded a lot of that for this next submission, but at the same time if it goes to sort of a neuroscience a pure neuroscientist.
+
+01:41
+They want some more of the patching type of heavy stuff and there's certainly some of that in there, but it's not a pure neuroscience paper in that you're using neuroscience techniques to gain insight into a neurophysiologic type of system and so it's the same thing that we we end up fighting a lot of times in our manuscripts is that it just sort of fits in the physiology camp as far as the control of respiration, but it also fits into the neuroscience camp because we're studying the brains and so yeah anyway, so I was gonna Tell you whenever you get that thing published.
+
+02:18
+I I'd love to see it because a so what one of the annoying things like in my world right well we would look at that paper and I could imagine some of my colleagues being like, oh we already knew that for decades opioids lowered like a decrease the respiratory rate which would like it drives me cranky all the time because part of the problem is that I deal with a lot of pulmonologists who will basically turn.
+
+02:47
+People locally know right like they snow the patient put them on a ton of opioids and just like just so that they don't wake up so they're not too like make it too much of a ruckus but then by the more you put them on opioids so longer the respiratory drive is down so the longer it takes for them to actually generate the appropriate respiratory rate to get them off being intubated and so it's like a constant struggle and if I knew what the actual like dose response curve, even if they were an animals right like to say, hey listen, this is proven science, it's published take.
+
+03:22
+Them on. The dam please take off the fentanyl drip so that I can just like because they're always worried about pain responses and the patients are on a lot of pain and so they they literally like they fill them with all this like narcotic and then you can't get them off the vein because they're on so much narcotic so it actually I think whatever you guys publish it.
+
+03:44
+I think it'll generate a lot of interest at least in my world yeah and that's I mean, that's the kind of the the hope and and the you know, the whole premise of the story itself is the very ability across different. Individuals yeah so either across populations or across the same individual so enter and intra individual variability and so you know, the idea the whole premise of the paper was that we can take these isolated networks so basically we gave some mice those responsive opioids make up the opioid sensitivity curves, you know, but all of the mice obviously show a wide range of variability, which is the same thing that we saw when we did it go to the rads in the cats and when you look at humans as well and we wanted to know whether or not it's ice a property of that.
+
+04:32
+Isolated was very network and so we took the brain stems out. And gave them, you know dose response of opioids in a dish and just as the animals showed in vivo in vitro you also get this huge amount of variation, you know, some are some of the slices are dead at some sub threshold dosages of opioids, whereas other ones you can pump up to you know in your I guess it would be equivalent to your world of like five hundred mix per gig morphine right have absolutely no response.
+
+05:04
+I'm sorry you guys see that in the clinic all the time just variability. And so what we were doing was we're taking sort of the intrinsic bursting properties the neurons within there sort of this persistent sodium current pumping it up and down within the network as well as changing the amount of synaptic excitability, if you will the excitatory drive within the network and seeing how you can change the state of the of the network and then we use some basically multi-array electrode recordings some stuff to look at the state of the network and with depending on how you've changed the state of the network.
+
+05:43
+You could modulate the sensitivity of that single slice to be either more sensitive or less sensitive to the opioids and so kind of making this argument that this the same brain doesn't have a fixed property or sensitivity to the opioids is based on these incoming properties, which which is not necessarily a secret, you know, we've all known this it's just that there's no great way to show it and this is just showing that some of that variability is an inherent property of the network itself well, but the reason why I think it's so important is like so with that opioid effort epidemic like, One of the things commonly now that we have clinically is that we just put out, you know naloxone.
+
+06:25
+A which is you know supposed to be this opioid antagonist right and it's not entirely fruitful proof, but what we'll do is you know person's node or let's say they're popped up on her heroin or let's say fentanyl off the street, you know, we're they're different like. I guess like systematic arguments to be made at a public policy level to have like naloxone available, you know in in common like, you know pharmacies and etc and some of these I think don't you know, depending on how much per people are overdosed really, it doesn't train see intrinsic like respiratory rate drive being down and in part of the time.
+
+07:09
+I I often think we under intubate patients when they're out in the field and they're overdose on opioids like synthetics, especially like in the middle east and late, you know, people like Virginia or West, Virginia where there's been this opioid epidemic because what went into happening is these people their snow they get a slug of naloxone in the field or Narcan and then.
+
+07:35
+You know they're the respiratory great drives goes up a little bit but then it comes back down and eventually they do get intubated and so I think you know, if we knew more about this those response curve, you know, potentially, you know, trying to like titrate out whether or not to use things like Narcan, you know in the field would be more useful but yeah, you know, honestly we it's like because it's an under disgust topic in the clinical realm that if we did have like an actual animal model that showed the disresponse curve back out and published.
+
+08:07
+I can actually start having like more substantive conversation. Because when I'm in the ICU I often constantly argue with some of my pulmonology colleagues about like they just have patience on too many opioids, honestly, yeah, I mean obviously the other idea to for the implications of it is, you know, if we understand what makes the network the respiratory network isolated in itself sensitive, we can start to figure out how you can maintain that mgsia without having as much of a respiratory drive effect exactly and so if we can either administer a dual compound agent.
+
+08:45
+Either through with naloxone or you get that immediate reversal of the naloxone but you also have sort of a longer lasting effect so that you don't get that second wave that always comes through or with co administration with the opioids themselves, but we'll see very exciting that cool. Yeah.
+
+09:06
+And then the other one is just the look at IH currents basically the hyperpolarization induced inward non-selective cation current so anytime that the neurons hyper polarized they bring in if they express these HCN channels which are just proteins that bring in cations basically or they just move ions essentially and whenever you get a hypoch polarization of the cell, it brings cations in to repolarized cell.
+
+09:33
+And sort of we're just playing around with modifying the amount of IH current within the network and showing how it can change the responsiveness to opioids and so sort of building this this concept that the network itself has I guess I'll be hung out on a string here but a buffering type of mechanism where even though that the rhythm itself isn't changed the ability for it to defend against perturbations is altered and so you can have you know, the same breathing rhythm.
+
+10:08
+And you wouldn't you would think that the person is breathing the same but under the hood, you know, they might be more on that level of instant right on the edge of instability where it doesn't take much to kick them out where they stop breathing versus a let's say a network that's more able to absorb some of those perturbation.
+
+10:30
+Nick gets wicked smart. Yeah it's it's it's simple stuff it's just like with any neuroscience paper that the concept itself is not all that complex, you know, you have a network that produces rhythmic bursts and and you know one network is able to absorb a perturbation or another one those, you know, the same perturbation all of a sudden sends it a ride that you have no rhythmic bursting anymore, so you can think of it almost like in terms of a heart you have to have this rhythmic synchrony and you know with the same drug same dosage in one case, you can have two hearts that are being at 60 beats per minute.
+
+11:08
+With the same firing amplitudes let's say and you give a certain doses of a drug and one is able to essentially shake it off with no effect where is the other one just all of a sudden goes into complete arrhythmia. It's the same thing in the brain kinda. Cool, man.
+
+11:30
+A naked just a general comments because of not not really from there so as a person so I heard this up new cool tool that I uploaded genetics. I guess it's you know. Will there be applications for you because I heard you say can I ask for maybe that can be you apply to gaining the channels yeah it's in there and so what we did is we took opioid receptor positive neurons and so these neurons and code the opera gene and so there's that's that's the gene that produces the the me opioid receptor and so what we did is we took opioid one free mice so any any cell that expresses the opioid receptor also expresses creed.
+
+12:21
+Or common is and we've read those with an AI 32 which is just a channel reduction and so that way any cell that expresses the meal opioid receptor we're able to turn it on whenever we want with the light and we also do the same thing with with an AI 40 which is a lower adoption which shuts off and you know, so we what we did was we essentially mapped out in the the respiratory network the amount of cells in the type of firing patterns.
+
+12:51
+That expressed the new opioid receptor just to see how when you add that the opioid what type of cells are more likely to be affected rather than the other. That's interesting so all these stuff done in like a vehicle like ice model or yeah in the low energy truck and so basically you just really patch the neuron and then you snap the isolate it and then you stimulate it and see if they respond and it's a pretty simple study and then you can also we also did it in vivo it's not as pretty because in vivo patching is inevitably a little bit more dirty but when you do it, you just have to rely a little bit more on the latency of activation following the light.
+
+13:39
+So when you shine the light, you know, there's a little bit of if it's if it's actually expressing the channel of option meaning that it's a opioid receptor positive neuron you get essentially an instantaneous response whereas if it's just synaptically integrated a synaptic innervated by mu opioid receptor positive neuron when you shine the light it will also fire action potentials by merit of exciting the neuron, you know upstream that is innovating it but there'll be a slight latency between the response and so if It's not as perfect and vivo but it still works.
+
+14:18
+How many like individual how many neurons are you my I mean is it the are you free in in in integrals stuff yeah you're limited by the amount. I think for this paper we did 350 neurons so like that so we we did quite a bit basically, you know within the network there's pretty much.
+
+14:53
+Like four main firing phenotypes pretty much across the brain when you synaptically isolate the neurons and see their quiet or it's tonically firing action potentials or it's bursting and so it's I shouldn't say forward it's actually pretty much mainly like three types of phenotypes that you get of neurons when they're snapped at the isolated and so you just grab a huge sample of each of those and of course you're you're assuming a bit of homogeneity across those neuronal populations, which is not true.
+
+15:28
+But in lieu of you know, doing like a patch to seek type approach where you patch the neuron and then when you're done you suck up the extra cellular contents and then you send it out for RNAC to to get a better look at what type of proteins and mRNA that it's that actually expressing just 
+as a from a little bit more of an enviable preparation you get a rough estimate at least you assume that there's a known amount of neuronal phenotypes, our genotypes.
+
+16:00
+I should say within the the region, That you're. Looking at it. As you looked at after site calcium waves or have you heard anything about Esther site activity related to weird. We have a paper interview right now looking at pastor sites role and producing a sigh you know, which which sounds kind of ridiculous at the on surface value but when you take a look at breathing and you look at size, you know can we take that big breath like, you know, there's there's sort of these consciously induced size which are more behavioral but you also have these subconscious autonomic size that occur within the network and the the function of them is still somewhat unknown, but at least, There's there's a little bit of evidence to suggest that in any sort of network you have a bit of irregularity or a bit of entropy within the network and you know, the it being having a rhythm that is slightly unstable is good because it allows flexibility which is good because we want to be able to increase our breathing rate and decrease our breathing rate when it's needed so don't want to have just a completely rigid network.
+
+17:17
+And sometimes just based on the amount of you know, whatever factors it might be excitation. Whatever or modulation they can kind of sway the network can be more or less stable, you know, just from synchronization from a versatile type of regularity and when it starts had it what does the asters say physiology like if you guys look at the actual site like anything with?
+
+17:44
+Imaging or electrophysiology or any kind of recordings or anything like that or just analysis. Yeah, we did. We did calcium imaging and we also did oxygen at extenulation of the astrocytes and so yeah the premise was that some of these size are produced, you know, I didn't sort of like a resetting mechanism because I sense pretty much all the neurons within the network equalization at the same time and so they all go into hyper polarization at the same time any sort of reset the network, but we were looking at.
+
+18:17
+Calcium imaging to look at the sort of calcium waves that move through the astrocytes and to see how it correlates with the with the the size and their occurrence and then we also doing opportunities stimulation so we had ALDH 101, which is a pretty typical marker for astrocytes and we did the same thing where we would stimulate them and an image them and see how it affects affected the rhythmicity of the network and so whenever you stimulate.
+
+18:52
+Them you get this sort of huge side within the network and whenever you inhibited them you relatively could inhibit the ability for that to occur. And so that was kind of how we look at it and then there was some computational modeling and that one as well, but. I don't do you guys do the do you have a two photon name it multiproton imaging system yeah yeah we did scope and we did we did slice work and then we also have in vivo molecular multi photon recording and so you sort of create an optical window on the ventral service the brain stem then you can image a decent amount of of adverse sites or cells if you want and in that actual enviable animal when it's alive, obviously.
+
+19:42
+Necessitized which is a confounding factor but yeah, there's pretty good resolution in there, well what kind of multi photon imaging system needs is. We have an Olympus and we also have a Zeiss the previous institution. I was at had a really nice Leica scope. I really like Leica there are band scopes are really nice and the Olympus and the Zeiss are really nice as well, but I just found you know, everybody sort of has their control panel that they feel the most comfortable with and I just felt like for me the the light go works best for what I use it for but.
+
+20:22
+Yeah, so you were you would did you do you do the what's it called what's it called like there's like a dye that you used to image the calcium and then so you you're able to see the calcium waves and like in the astrocytes and in the neurons yeah so you can use sometimes called organ green or fura or sort of your typical ones that you can sort of bathe the the slice of the brain and then be able to image the calcium, you know, calcium is not too bad you get the extra boost because calcium natural.
+
+20:57
+Ly shines at like around a 488 nanometer wavelength so you can pick it up relatively well even without any sort of die in the die just sort of gives you that extra boost to really get some confidence and what you're doing but no yeah, we we have a blanket on the word we have genetic animals that just naturally the calcium is fluorescent and so those are oh yes, I get genetic.
+
+21:32
+Mission that actually just makes the calcium itself. And those less okay those are the the AI 162 I believe it is and have to look it up but yeah those ones work amazing and it takes so much of the headache that it used to be you know, because you just have to take these slides and slices and you have to soak them in the the die and hope that the cell took up some of us die and then there's a you know, this huge rundown over the course of the the imaging and then you got to correct for it, you never know if it's the calcium going away or if it's just the fact that you're losing some of that die, but the no the the new ones with the I can't believe I'm blinking and I think It's.
+
+22:11
+Yeah 162 and I'm blanking on the name of the actual ribops in itself but yeah, they just the calcium is naturally fluorescent just based on the insertion of that. That molecule is that polished yet or is that available amount to see that? I'm I've been interested in I was asked for sites and calcium waves for a while yeah.
+
+22:38
+I'm just curious to see that's amazing that you actually worked directly. With that stuff that's pretty cool yeah is it yeah is available or yeah it's published it's why they available we just order them from Jack's labs. I can send you the the actual genetic strain we we keep them we keep a call on me of them and so we have no sorry.
+
+22:57
+I mean, I mean the paper I mean, the research did you publish that is the public oh paper ours no this would be our first paper published with it and it's still a review, but the the mechanism itself is published already. Yeah, I know actually I've been I mean, I didn't actually know Karl Deserat not well but I crossed paths with him back in the day as well as advoid in the guys who pretty much pioneered that technique did yeah, it's just been crazy watching it all.
+
+23:27
+I familiar with those guys. I imagine or. Yeah I mean I've seen some of their work on me as I suck with names sometimes but I think they're the ones who actually like pioneered like the channel wrote option and like fluorescence like oh what was it specifically the chat is channel road option one of the something about like optogenetics and like imaging of astrocyte of neuron I'd like different neuronal cells with like two photon imaging yeah that's where the yeah the the channel rob said is the one that you use the excite the cell and right.
+
+24:06
+The hit the halo revolution is the one that used the intake of the cell and then you also have some ones that are just purely for purely for marking the cells so there's like an AI 14 line and I apologize I don't remember that the actual protein name but anyways, it's AI 14 and from those are used for labeling the whole site as all of the cells that you're interested in and then there's also a, AI blanket on the term, there's another one that you used to just label the membrane so you can get sort of site as all like gorgeous membrane bone.
+
+24:50
+So yeah it's a it's it's pretty much a playground of the oxygenetics now and as well there's so easy to just keep a colony so we have you know on hand we have yeah 14 with a forties, you know, and all you have to do is just breed it with because they're all you can maintain them homozygous.
+
+25:14
+And so you just breed them with whatever create line that you want and so you know we maintain I think we have like 50 different pre lines that you can just sort of label whatever type of cells that you want so depending on the experiment that you want to do, you just sort of go down to the animal room take.
+
+25:34
+Your oxygenetic line and just breed them and then you know, you get some heads and you back cross them and get some homozygous, you know, the only thing is that the only trick that has been that's been giving us a little bit of a struggle sometimes is that when whenever the if I shouldn't say whenever sometimes when you breed the the channel adopts in mice with the pre-line of the the cell that you're interested in what ends up happening is that it'll actually truncate.
+
+26:09
+The receptor and insert the channel of option in place of it and so what you end up with is essentially a functional knockout and so like for example for like our our opioid receptor mice when you breed the okra one cream mice with the channel rip option mice. The the opioid receptor is no longer expressed and so it's fine for like just labeling the cells and seeing how many of them express it because all you're doing is you know, stimulating the cell itself, but if you take those mice and you would say let's say you have a homicide is line of yeah 32 opiram one crease just meaning that all of the opioid positive cells are expressing the channel red option, if you would give that animal or that slice opioids, they wouldn't respond to it and that's just, Because they don't have any more functional me opioid receptors, even though you can stimulate all the receptors, all right, you can stimulate all the neurons that express the opioid receptor if that makes them.
+
+27:18
+Now it's fascinating that sounds like you're using yeah, this is pretty cutting-edge techniques pretty cutting edge techniques that you're using sounds pretty cool. Yeah, we tried it's fun but I apologize to this sort of unload and run but I got a phone call I got to jump on a super interesting that thank you for sharing all this this is really cool yeah.
+
+27:41
+I'll catch up with you guys soon catch up with you later, man.
+
+27:49
+Anybody else have some cool research to talk about what's up everybody feel free to we're just chilling here so. Feel free to chime in. I'm actually gonna bounce also because I have to grab dinner but uh, but it's got catching up and I'll talk to you guys later. Don't talk to you technician, right?
+
+28:14
+I think I just lost I just lost kind of two here something but anyways yeah everyone feel free to. Um, we're just chilling so.
+
+28:24
+I don't the actual technology it's been demonstrated, you know, a bunch of times now is pretty much 15 years old like in terms of what's already been done so yeah but they're definitely way ahead as far as the actual like commercialization technological and product development aspects as well as like the, They're starting point is is something that's already been replicated which is a great starting point because there's no risk but they're kind of long-term implementation is like way out to the future, you know, there there's they're setting themselves up to like implement tons of possible applications.
+
+29:16
+Yeah, I mean there's only six of us in in the group right now, so if everyone wants to unmike I think that would be okay, well we actually there's someone else who down there do we do what you want to join us as well yeah you let's have everyone on Mike if you want I don't know it's up to you all.
+
+29:34
+Yeah. I know yeah, it's totally convenient basically. Yeah Anil and totally do you guys want to introduce yourselves or just say hello or something because uh, I don't think I've seen you guys around. Yeah sure thing. I was actually just wondering where you guys just talking about the some newer link thing that mask is working on.
+
+29:57
+Is there something that yeah how much money are they looking into this project. I don't know if that's public information. I I know Elon Musk probably put his own money into it and I don't think things are private company and I'm not sure they've published their VC rounds, although I haven't really researched the finance end of it.
+
+30:16
+I know Elon Musk has like pretty deep pockets like he himself put up a hundred million dollars recently for like a clean tech carbon de carbonization project, he's literally cutting a check for $100 million himself. So I mean, I don't think I don't think the money is a limitation on the neural link side.
+
+30:37
+So on the 30,000 view what exactly are they doing and basically connecting the electron circuit.
+
+30:49
+A neural link yeah. Please basically an implantable brain computer interface so it can decode neural neuronal activity and stimulate neurons in the brain and I think they're their first version is basically gonna enable people who are like motor have motor impairments like paralyzed to like operate basically an iPhone but like through the iPhone like control anything controlled computer robotic arm wheelchair so you'd be able to think and do that.
+
+31:19
+I actually personally worked on that project that did that in people but that the device was not as streamlined and many. Drives as a neural link but I worked on a project where people who were severely motor impaired like quadriplegic ALS spinal cord brain stems stroke or spinal cord injury are it were able to like control a robotic arm or controlled computer directly through thought so neuralink is basically doing that as well, so I'm curious where the interface is so just to give an example 15 years ago when I was in a Illinois.
+
+31:59
+There was this grass student who basically revere is small a ring around his throat and it's of speaking he was just think and thought as it transferred to the throat the thought they basically will be converted by the definitions movements into some curious, what is that exactly somewhere in the, What part of the brain and what ending us those things are all over the place the chief can't really.
+
+32:37
+Important. This is an implantable brain computer interface so this is actually a sensor or chip or wires that go directly into the cortex. So they're actually recording from neurons in the brain. So the neurons are carrying a lot of information and when you have access to the neuron firing rates, you have access to pretty much very high fidelity signal brain.
+
+33:07
+So it is literally a security disease.
+
+33:15
+It's just a circuit basically just smartly connecting the the physical circuit with the brain circuit. It's a it's a circuit yeah, it's a electrical connection that goes in the cortex in the in the brain and is recording the electrical action potentials from neurons in real time. So what is the breakthrough is the connection breakthrough or is the algorithm that can convert the electrical signal into something more meaningful?
+
+33:49
+There's the breakthrough is really for the case of neuralink, the breakthrough is really the miniaturization commercialization and some specific incremental improvements on the systems, but for the most part they're taking a technology that's been quite well established for many years and then they're making it more available for commercialization.
+
+34:14
+If they end up implementing some of the projects they're claiming to work on you know, in real in the real world then that will be a huge breakthrough as well. But for the for the big preliminary project, which is like a motor prosthetic device if there's not a lot of major.
+
+34:32
+Improvements but there are some like well the major improvement I guess for them is that they're they're they're gonna have multiple thousand recording units whereas the current systems have like typically between one hundred to three hundred recording sensors like a electrodes their system can have multiple thousand so that's an improvement.
+
+35:06
+Yeah totally what's what's what's interesting to you to chat about or what's a what's what drives you, um, I'm currently I'm interested in a lot of well for the past few years. I was actually doing more like activism social movements and political stuff but I'm phasing out from that area and I I also research a lot of stuff independently like everything from like neuroscience to consciousness and even psychic like consciousness, but in a very open minded way, so I'm interested in like the traditional spiritual and A traditions as well as like psychic parasychology scientific inquiry into consciousness and psychic phenomena as well as like I kind of researched a lot of weird things on the fringes of science.
+
+35:54
+So, you know,
+Transcribed by Pixel
+
+Audio

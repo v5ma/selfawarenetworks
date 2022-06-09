@@ -1,0 +1,112 @@
+b0233y ctpr
+(audio transcription needs correction)
+Dendrites Timeline Neuron
+00:00
+Okay. I want to record a conversation with Eva's husband boyfriend and so I need to send him an email. Let me check my transcript here. I want to talk to him because he's been in the VR industry for many many years. And there's a large number of of things that happen that we can sort of go over sort of like a just like maybe taco we could talk about the whole VR industry and what he his first fact of and it's very I think it's very interesting.
+00:40
+Let me see if I can. What I want to do is I want to create like a timeline of the VR industry, Maybe I can create live with him. Like let me just see if I can make a timeline of the VR industry. A timeline of oh this is great.
+01:00
+Yeah, timeline of neuroscience, a timeline of deep learning. I need to create my own timeline like I know other people's timelines exist, but I put what's the best tool for creating a timeline in. So I guess a timeline is kind of a drawing thing. Yeah. That can zoom in.
+01:18
+Write something zoom out. I can make it smaller so we yeah, I can draw it. Yeah. Drawing a timeline seems plausible. Okay, with that zooming with that note, no no pad plus plus. Okay. So that's what I want to do is like, I want to create timeline. And I think that eventually like after I sort of sketch out a timeline that it should be transferred to I thought HD.
+01:43
+So like sketch it out first and then transfer it. And I mean, okay and then I think what kind of makes sense is also copying things from, I thoughts into Excel into Google spreadsheets. The idea is,
+02:11
+So going back to oscillations each type of oscillation. I mean, each type of activity, is going to have its own feeling to human brain. The human brain has to make mistake. So with color, like there's a frequency range associated with each color. And so the argument is that the human brain has to make green green when it renders it and brown brown in contrast to green and the space in between his blue space or black space in between the ground.
+02:47
+I'm looking at a plant and the background find a plant, which is black. And it's a cafe.
+03:00
+And so the idea is that every every type of thing is going to have its own signature, like you're going to have green is going to have zone representation. It's different from brown and that greenness represents the
+03:21
+The way that the greenness represents a phase pattern, a phase pattern is accomplished by the frequencies of light and so yeah. So, you're your phase in it. Your year on frequency and amplitude is a phase pattern, The frequency and amplitude is a phase pattern. And so if you have but actually is all right.
+03:55
+Now, that hurts. So time space and fairs. So time is like okay so time is like yeah. So and we now so I mean time is in time isn't like the the timing of multiple sequences over a milliseconds or seconds for minutes intervals of time.
+04:28
+The reality of the intervals of time. Okay. So what do you mean? You're more focused on what you can, you can build in terms of. Okay. So, the machines and the, in the software is that we're
+05:03
+I say I I say well. So what I'm saying actually comes from. Also from medicine as well. For example, like there is if if I if I can continue, I'd like to, is that, okay? Okay. So um, what I'll say is, I'm like there is, let's talk about. Okay, there we go.
+05:38
+Yeah, I lost my train of thought for a second and so sorry. What were we saying?
+05:47
+Yes. Yeah and going back to oscillations and okay. So going back to medicine so you have so you see patients do you see patients with Alzheimer's? Do you work in neurology at all with Alzheimer's or patients with Parkinson's? What you're it. Surgery. Not but not neurosurgery. Just, what would?
+06:21
+Okay. Okay, so okay, so here you would know, like, I guess. Do you know a lot about the skin? Is that? That is that where you're focus is trying to think. Okay, cool. Yeah, it's it's that's I think that's why I get a little bit sort of like, that's my I'm really, I'm really more focused on your nerves neuroscience and cognitive function.
+06:51
+But I'll tell you, I read this, I saw this recent book that we might, that might be interesting to both of us and everyone else is some. It's just a book about cells by John leaf and it's cells. It's any book that he just wrote. And if you just look up his name as an author on like Amazon or something, I'm sure you find it.
+07:12
+It's a book that's it's the first word it sells, and I forget the rest of it was something about sales, talking the cells and it's just a really, it's a, it's amazing. All the different ways that I'll talk to each other. Sure.
+07:35
+Like,
+07:45
+Okay.
+07:57
+Hmm.
+08:04
+Yeah.
+08:20
+And if you need to go along distance quickly, then you have to use electrical signals and those are very expensive. So every spike cost a lot synaptic transmission cost a lot. So I think about it in terms of compartmentalization, but there's many like overlapping ways and which that's happening.
+08:45
+So you can talk about voltage. Compartmentalization, you can talk something as important as calcium because calcium is is found at every plasticity mechanism we've ever found. So another interesting question is, how compartmentalizes the calcium signal in these neurons? And so there's yeah, there's a lot to think about one of them is, you know, with the voltage, we already know the, the big primary output cells anywhere in the cortex and elsewhere in the brain as well.
+09:22
+Are too big for just passive mechanisms. In other words, if you drive the synapses, I don't know the distal. Synapses, it's not enough to activate the soma just kind of destroys your whole classicals, you know, spiked dependent plasticity, heavy and plasticity story. That that actually just doesn't apply to almost 90% of this.
+09:48
+Synapses. Okay, but we're what I'm really driving at is, is there a way for a dendrite to recognize a pattern and then make a decision about whether it's going to cause an action potential to fight to happen or not? Absolutely. Yeah absolutely. So, okay with the compartments, the more voltage compartments you have, then that gives you something like modeling a net on a neuron as a as a neural network if there's that coming voltage compartments are there.
+10:26
+So that's my experiments are directly attacking that. So it it getting beyond what we what's been done in slices and figuring out. Just how compartmentalized the neuron is. Huh. Great question. And then the other part of this grid integration, which that can't be abstracted away as a as a subnetwork.
+10:53
+So that one of the, I'll just give you one of the, the plasticity mechanisms. I'm trying to validate in the cortex and vivo. It's been shown in the hippocampus if you. So like we were saying, if you hammer the distal dendrites on their own, you'll get this little bump of a start of a calcium spike and in the tough and then if you hammer the the soma you get firing, hammer means what you're tapping it with something interacting current.
+11:33
+You're injecting current. Yeah. Yeah. And I'm you people at work, just out, you know, if barking, you know about any current like in this would be like in vivo like current from, you know, sensory input. Yeah. Let's and you can get the they're on despite but and then out those spikes, will send back spikes up the dendrite but they won't be strong enough to get to the distal, like the whole tree.
+12:05
+Now, if those two things happen together, a whole other spike happens, it's called a plateau potential, and it's the synergy between the soma and the distal. Dendritic input will create this plateau and then the cell will start to burst and all. There's a lot of people have worked out really cool.
+12:27
+Like potentiation mechanisms for this kind of thing. So yeah, I'm hoping to see that. The so basically there's the dendrites of the if it's compartmentalized enough you you can do things like tenure inputs. So, you know, the people this, what the other, the next thing that to think about after you you file physics is the way the the spatial pattern of synaptic inputs on the tree.
+13:07
+And there's all these really cool plasticity mechanics making mechanisms that promote clustering. So you'll get a lot of similar inputs on one branch and less scattering across the branches. So depending on what spatial scale you're looking at there's different as ancient. So basically the neuron can now multiplex different types of and partition different contextual inputs.
+13:38
+And in that way there's just kind of integration of top down and bottom up information and one cell that's that's hard for me to write my route my mind around what you just said. How sweet that we we can unpack. It's, this is a great topic where I mean, I'm biased, but yeah.
+14:02
+Now I would like to do that. This is the the distance that like the physical topology is that part of what causes the compartmentalization like like, I guess, human neurons human dendrites are are much longer and some respect than then mouse dendrites, definitely. Yes, so that I don't know where you are.
+14:30
+In that recording, I brought up. Oh, I didn't I didn't talk too much about her nets work. They did. So they did this. They patched human dendrites and they did this same experiment in rats and mice. They've actually done it in a bunch of animals now, okay? But what they found was, they're much bigger cells.
+14:48
+And instead of preserving the distribution of channels, it actually stretches the distribution of channels which and in the human neuron. So it's you know that I'm just relating what the data says, but one way to think about that you maybe you could interpret that as saying you know, that perhaps the increasing computational power in the human cortex is less about the number of neurons.
+15:23
+And more about the number of compartments.
+15:32
+Holy shit, that makes sense. Yeah, no. That makes them. They make sense. But that that's like you're, there's like basic unit of computation. But cortex, there's a really cool way to think about the cortex, like it's a jungle. Yeah. So, it has a forest floor and that's where these big cells I'm talking about, that's where they're roots.
+15:53
+They're their cell bodies are like the beginning of the root system and they're in the the jungle floor and they're sending, you know, roots down and in those roots are what are called, spines little nubs on them and that's for all the excitatory inputs coming in and then it has a big tall trunk that goes up to the canopy.
+16:17
+And there's you know, so the cortex is layered that there's some arguments about how many layers but most people say six layers and then it's ends up the and then this huge arborization of branches up in the canopy and there's this huge convergence of axons from all over the brain and later one or in the canopy.
+16:43
+So you can think about, you know, as a particular input comes winding in through layer 1 and targets the branches, there's all these. There's certain processity mechanisms that fight for me. In other words, the neuron will prefer to have inputs from the same. Axon land on one branch and be less distributed across them.
+17:12
+Meanwhile there's also a bunch of inhibitory circuits that are targeting the dendrite and those a lot of those cells are responsive to neural modulators. So things like dopamine and serotonin can come in and control or shut off specific branches or an entire tough to the branch depending on. So it's just like really complex gating circuit.
+17:39
+That's all that's affecting the the one once. So in terms of the compartment, sorry I ranted you can think about, you know, big branches being a voltage compartment on their own and then, you know, once they once they reach, you know, a new branch point. Now, you have this another like current division, and that's going to change how much current you need to drive the voltage.
+18:08
+So yeah, you can think about it that way. And then biochemically can think about the fusion properties. Not to say there. Okay, so here's what here's what's, what's, what's driving me right now? It's like excess. Yeah, that made. Yeah, it's best. I could I just wanted to because I know that there's, like imagery on line right now, but I was just, I know you're kind of when you're thinking about compartments, I was kind of trying to think about what that looks like, because I'm I've done some, you know, one under 200 level classes a psychology.
+18:53
+But like, that was so long ago and I've tried to keep up but it's this stuff that people are learning in, you know, school. Now, it's is a, it's something else like with the, with which you're study, which you two are doing, you know, specifically. So just a happy list.
+19:17
+All be quiet. And I might chime out and go to bed but that become apartments that an interesting concepts. Is that something that we would be like, pretty like genetically? You know, is that? That would be like something that's developed over time. Now to compartments, that would be something that's like pretty determined.
+19:45
+So, I mean, again, this is kind of these are really interesting experiments questions that go after. And there's people that are it's pretty competitive right now, but I think it's a mix of both, right? I mean, the, there's a, some genetic programming in terms of what channels are going to be where, and on the cell and, you know what, you know, most of these big cells have all the machinery for transcription in the dendrites.
+20:15
+So a lot of that gets preset up, you know you learn to you learn which synopsis to cluster through behavior and learning and experience. And this we were talking about the inhibitory circuits. Those are all responding to brain state environment. And so I think it's likely dynamic. How many compartments or so has it at a given moment?
+20:44
+It's really cool. You like, there is this room? So, like, I'm thinking like a new and I'm thinking a doctor neck. And like, those two people's specifically would be like, pretty cool to have in your room. If you two did talk about that. But it'll new last night's ease very much into language, and like a difference between a noun and a verb, and the negation and and stuff like that with it, when it comes to, like aesthetic lifestyle, which is blew my mind because he had the balls to, and I'm don't mean to say that, like, what I've over masculine comment, but he had the courage to open a room called the problem with as a, the negation problem, or Islam, and their problem with negation.
+21:47
+And it was because of this one term in the ground about quite a lot is not and it invoked a lot of interesting debate and some of the I would say like really strong philosophy, intellectual Muslim, friends, that I have that, I've made this app so they understood when he was talking about with the language.
+22:28
+But the but other people didn't and not. So, like, I wouldn't when you were talking there and you were describing, like this aesthetic lifestyle, which is just like, you know, control over the faculties stuff like that I couldn't help and think about how he was attaching that to language, and how we give nouns.
+22:58
+We have this like, way of thinking, and nouns, talking and nouns as more like, verbs and actions and dynamic. Like you said that just came to my mind. I don't know if that helped like is is good. Info free to or not, but don't be quiet now, that's interesting.
+23:20
+Yeah, makeup. I'm gonna head to bed sooner. Anything else you want to shout about? Yeah, I mean I I want I mean, I guess we really got to just for record a formal conversation, right? And that way we can go over a lot more points and now you want to go to bed and I I really out to let you go to bed, but I do have a ton of great questions and but I think we should do it like in a formal way, record it and save it and I have, I do, I'm gonna, you know, what I'll do is as well, I'll let you go to bed now.
+23:53
+Write down my questions, then I'll ask them to you next time. Okay, that's cool. Yeah, thanks for running the room. Nice running into Utah too. And I'm just so like I I am humbled to
+Transcribed by Pixel
+
+Audio
