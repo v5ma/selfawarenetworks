@@ -1,0 +1,36 @@
+a0351z ctpr
+(field, graph)
+#Laser Doppler imaging is as fast as EEG but not very deep, but what if we mix in holography?
+
+I met a guy who helped to launch a company out of Israel back in 2014 that used a combination of laser light and doppler to image brain blood flow  
+
+He said that "functional MRI depends depends on blood flow. 
+
+"When a neuron becomes more metabolically active onstensibly because it's engaging in more firing activity that activity requires more consumption of glucose and oxygen which then of course requires the greater amount of blood flow to that neuron.
+
+"So the neurovascular unit is the coupling of the blood flow, and blood vessel to the neuron itself. 
+
+"Functional MRI can take advantage of that increase in essentially glucose and oxygen delivery to be able to represent indirectly electrical activity but there's there are temporal limitations (its slow).
+
+"The advantage to laser doppler is that we can get almost instantaneous signal representation of brain blood flow changes probably it's greatest limitation is the depth of penetration into the skull and the brain tissue is somewhat limited by power if you increase the power of Laser Doppler too much, you can actually damage underlying brain tissue and blood vessels but in terms of trying to get very high temporal resolution, it's almost instantaneous feedback and closely parallels that what we see on the electroencephalogram"
+
+This was the laser doppler company he was talking about, he thinks it was purchased by a company in China.
+https://finder.startupnationcentral.org/m/company_page/ornim-medical
+
+**I have seen several papers on the topic of laser doppler imaging. This one is interesting**
+
+"Lock-in vibration retrieval based on high-speed full-field coherent imaging"
+https://www.nature.com/articles/s41598-021-86371-3
+
+##holographic
+The word "holographic" in that article popped out at me a couple times when I was skimming it. "More recently, the use of high-speed sensors permitted to acquire holographic data at the time-evolution of the studied phenomena"
+
+![Image](https://i.imgur.com/e4r8wLM_d.webp?maxwidth=640&shape=thumb&fidelity=medium) 
+
+That's it. Read the science paper I linked to go deeper.
+[Lock-in vibration retrieval based on high-speed full-field coherent imaging](https://www.nature.com/articles/s41598-021-86371-3)
+
+Note by Micah Blumberg.
+Micah is currently writing a book on the brain, brain computer interfaces, and artificial intelligence.
+[VRMA.io](http://vrma.io)
+

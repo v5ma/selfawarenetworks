@@ -1,0 +1,42 @@
+a0285z ctpr
+(synap, oscillat, dendrite, cortex, vector) #5 #dendrites
+ndma spike
+backward spike
+forwards spike
+Wisam // Wiz-am We-Sam
+Catarina says combined different inputs, sensory motor cortex input to striatum prediction cell, combined with 
+not all inputs are equal, sensory motor inputs in the amygdala, I just had to excite 5 boutons with a tiny laser could generate a way bigger upstate from current upstate, there are differences in brain regions and cell types from the intensity that it creates.
+
+ON INTELLIGENCE spines might store temporal information
+or temporal and spatial information to detect predict
+a micro column within a cortical column might represent a vector
+how might a dendrite pass on the detection of temporal information to the AP
+
+how does a column affect the brains oscillations
+do columns have their own neural oscillations
+
+is there a mathematical structure of knowledge at the level of cortical column
+
+does that involve wavelets, 
+20 years of research of 
+functional level
+
+if you have a dendrite segment
+8 or 9 synapses within 5 milliseconds can imitation an ndma spike
+extremely sparse patterns detected by dendrite segment predisposes an neuron to fire stronger or more often
+
+two answers
+
+the synapses have to be co-active within a very short period of time
+a population code, instantaneous activation
+the same group of neurons, recurrently connected
+a layer of cells which is feeding onto itself
+the context is what the layer was representing a previous time step a few milliseconds ago
+
+the layer has activity that predicts activity, that represents previous activity
+
+in the 2016 you can learn non-markovian sequences
+different musical pieces will share notes in common
+
+the same mechanism can store knowledge in a reference frame
+a coordinate by a collection of neurons is a prediction for what happens next

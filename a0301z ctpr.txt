@@ -1,0 +1,11 @@
+a0301z ctpr
+
+A GPU flocking simulation similar to.  boids or voids?
+
+network topology influences behavior
+
+hyper parameters
+
+turn up alignment
+
+a lot more flow

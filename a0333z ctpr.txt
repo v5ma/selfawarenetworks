@@ -1,0 +1,231 @@
+a0333z ctpr
+From 2012 to 2014 with Neo Mind Cycle I considered myself to be in the business of brain optimization.
+
+This note includes snippets of a conversation I had with someone in 2014 that I decided to save.
+
+/////////////////////////////////////
+Micah Blumberg
+I would be interested in a mechanical incarnation of the self realized deity Vishnu as my foot and a half tall friend who could come with me wherever I go and work with me. However I'm also interested in understanding the brain to create brain extensions. 
+
+I have a hypothesis that what I do with Neo Mind Cycle is creating another feedback loop that is expanding self awareness into a super brain, or extended brain. Naturally I want to know if my hypothesis is plausible, and also I want to know if there are other ways of extending the brain. Imagine a cyborg like attachment (with AI) that essentially gave you a brain that was 80 times bigger than your brain is now, except in virtual space? So that your life could be 80 times more precise.
+
+I like how in AN model, intuition is the emergent result from points plotted in a vector tree map that you can describe in category theory. I think she describes it in C and or Java, but I think it lacks the fluidity that could happen in a functional language like Haskell. Where node memories can create vector memories and  The model free nature means that the concept is the memory of the tree's reaction in a sense. With Haskell and an 80 core processor one could have each node in the tree creating emergent vector maps with the other activated nodes independent of a centralized process.
+
+I like how in AN Model, the "concept" isn't pre-thought and pre-programmed, it's learned or built by the vector tree's memory system in response to the stream of data.
+
+/////////////////////////////////////
+Micah Blumberg
+Consider that the development of AGI may mean a future where everything is way less expensive than it is now. There might not be any real work for humans on earth at some point, however there may be infinite kinds of jobs that can be done in virtual worlds. Leisurely jobs, jobs that involve getting paid to have fun. Getting rewards to create games, art, music, experiences, or pretty much anything you could want to do, and each of us would be able to work with trillions of AGI assistants who could volunteer to join us in helping our projects. I want to share because there are many levels of feedback that are possible that may lead to this scenario. Perhaps if I have been sitting on a notion for a while, I share it, maybe I get no immediate reply, but if the notion goes somewhere, in someone's brain, stirring a direction in their research, making a dozen connections, and then a week later, something catches their eye, like a news article, it's the cosmos of collective intelligence has returned this. I sent out a ping, and then I get this, and this fits into my work with vastly more depth. I want to share because I want to create an industry, I want to support all the minds who are interested in developing and being apart of AGI research and development. I want to chart a fleet of companies with awesome AGI based products. I hope each of you succeeds in developing a working model of thinking in a machine!
+
+Paweł Pachniewski
+"I think releasing AGI upon the world is in itself a moral dilemma. Don't only look at the bright side. In the coming decades we'll deal with more turbulence than ever, due to life transforming technologies. They can bring great good, but also do a lot of damages. Even if we only consider evil people who will want to take advantage of them. And since there is no equipotential in the world when it comes to economy, there will be disjoints and discrepancies.
+As for sharing on FB, too many rigid minds and too much intellectual dishonesty. But forget about that for a moment. If you truly would invent AGI on your own, I'd bet a trillion dollars you will be dead the next day." via Paweł Pachniewski, 2014
+
+Micah Blumberg
+"If you truly would invent AGI on your own, I'd bet a trillion dollars you will be dead the next day." All the more reason to give it away. Killing it's creator would yield nothing of value if they freely gave it away.
+Made it public knowledge
+
+Paweł Pachniewski
+Like I said, it's a moral dilemma, not so much because one could be murdered, but because giving it away is likely to wreak all sorts of havoc onto the world. I wouldn't be anywhere near so casual about deciding to make it public knowledge.
+
+Micah Blumberg
+However, consider that there are owners of trade secrets everywhere, Nixon famously tried to get the special files that J. Edgar Hoover had on world leaders, and celebrities and such. Hoover had those files destroyed on his death. Similarly many people would like to get at all of Apple's core secrets, and it really seems like the courts are becoming hackers tools to pry into the secrets of other companies via lawsuit.
+
+Micah Blumberg
+"it's a moral dilemma because giving it away is likely to wreak all sorts of havoc onto the world."
+Advances in technology have a history of both disasters and massive improvements in the quality of life.
+"I wouldn't be anywhere near so casual about deciding to make it public knowledge." 
+I consider the world 5000 years from now, would I want to see dynasties ruling through technological secrets with absolute tyrannical power to enslave and control the lives of anyone they wanted?
+The US had nuclear weapons, and then they were stolen and given to the Chinese and the Russians via spies who did not want to see the world fall under a US driven tyranny via nuclear weapons.
+
+Paweł Pachniewski
+Such secrets pale in comparison to AGI. And I am not saying it should stay a secret forever, but consider also that if you give parts away, a big strong company could connect the dots and do something you perhaps cannot due to not only lack of means but because you lacked a few insights that their teams jumped onto. But that's a sidetrack.
+Releasing AGI into this world is one of the most important decisions in human history. While it would be an illusion to think one can maintain control over it and its dispersion, one should feel at the very least morally obliged to very thoroughly analyze its release and do whatever one can control, to make it go smoothly.
+While I see many incredible things that will be the fruit of technological advancements this century, I also foresee lots of turbulence and trouble. Existential risks? Absolutely. If we don't wipe ourselves out, big parts of humanity or virtually all of humanity may end up in dire trouble.
+
+Paweł Pachniewski
+Primarily I am saying the release of AGI deserves the utmost care and attention, very thorough consideration.
+Some, like Ben Goertzel, seem to be convinced it should be open source. I don't think that's very smart, for the aforementioned reasons.
+I don't believe he has it right and isn't very close to creating AGI, though.
+Okay, well, good. I recently spoke briefly to Dustin Juliano about this, and he initially thought it should be open source, but I think he is considering it more thoroughly now as well.
+Anyway, I am worried about the ubiquity of information and tech and the sort of self-sufficiency they will be provide. To even the richest criminals, to name a thing.
+
+Micah Blumberg
+Imagine a virtual country of knowledge workers 
+
+Paweł Pachniewski
+In that sense, the lifeboat foundation, http://lifeboat.com/ex/main  is not out of place..
+Lifeboat Foundation: Safeguarding Humanity
+lifeboat.com
+The Lifeboat Foundation is a nonprofit nongovernmental organization dedicated to ensuring that humanity adopts the increasingly powerful technologies of genetics, nanotechnology, and robotics/AI safely as we move towards the Singularity.
+
+Micah Blumberg
+I was thinking of swarm AGI, or an external artificial general intelligence
+like an ant hive where contact with other ants creates a tcp like ping, and the ant hive acts much like tcp, sending out packets, and if packets aka ants don't come back it doesn't send out more, or a slime mold that uses the environment as a component in it's memory system
+
+Paweł Pachniewski
+Yep. Swarm intelligences can be very dangerous though. I am afraid we will create entities we will not understand well.
+And it's "not hard" to achieve that. Engineer something you don't understand. It would just be done on very different engineering principles than are now common.
+
+Micah Blumberg
+imagine a nano swarm, that can just fly into a person and take over the person's mind?
+
+Paweł Pachniewski
+I think we'll need agents to be protected by their own nano swarms. I have a draft article on that.
+Our senses will be useless dealing with such threats.
+
+Micah Blumberg
+unmodified senses
+
+Paweł Pachniewski
+Yep. 
+Not everyone may want to modify their senses and there might be some other specific issues with modifying them that we generally don't think of today, because it's so far away.
+
+Micah Blumberg
+we can expand the human range of senses with existing technology, in fact it's a goal of mine, you say that Luke Skywalker helmit the military is advertising? http://www.forbes.com/fdc/welcome_mjx.shtml
+
+Micah Blumberg
+the eeg spikes are associated with eye movement, and AI vision, pin pointing spikes between all three, with an extra operator behind a desk. So you have three points being tracked by a fourth operator. Resulting in a superior tracking system, that isn't a permanent alternation to sensory perception, it's just something worn like a helmit. Augmentations to hearing and sight and balance come in the form of ear implants, chest strips, tongue strips, these things can be worn externally, and a Texas company (associated with David Eagleman) is working on sonar sense via a chest strip. In addition to that a chest strip that has wall street information on it, so the brain can be applied to raw wall street data.
+
+Micah Blumberg
+Can you imagine being able to feel or sense wall street data in a spatial way as easily as your able to track the events in a sports game that you are at?
+
+Paweł Pachniewski
+Yep, such augmentations can be great. But we'll have to watch out not to become to dependent.
+I can, actually, if I have any talent then it is my imagination and creativity, coupled with all sorts of common, not so common and very odd and uncommon mixing sensory modalities ala synesthesia. 
+In fact, it's a big fart of my thinking. 
+
+Micah Blumberg
+I have an artificial synesthesia I gained using the technology in my business
+ I was wondering about your sense of humor there 
+Now I sense my brainwave patterns
+
+Paweł Pachniewski
+That sounds interesting -  the artificial synesthesia.
+Now that you're saying this, it makes more sense to me why your posts made such quite good sense to me too. 
+
+Micah Blumberg
+yes and the subconscious is very much a comedian too
+
+Micah Blumberg
+what I mean is if you break up your entire sentence return into parts done by different parts of the brain, one tiny part of all those parts is probably doing a subconscious task, and deciding to substitute a humorous remark instead of original meaning  a subconscious reflection of happiness I think
+
+Micah Blumberg
+Neo Mind Cycle
+A not for profit group dedicated to Brain Health, Nutrition, Fitness with Neurotechnology, Neuroplasticity, Neurophysics, Nutrition, Neurofeedback, Brainwave Entrainment, Mind Machines, Physical Exercises, Dialog, Discussion.
+
+Micah Blumberg
+My background that led to Neo Mind Cycle?
+I was 19 when the Matrix film came out, there was something about that film that pulled my life in a different direction than I expected. I had planned to be a fiction writer, writing fantasy books at first, then science fiction
+In 2004 On Intelligence came out and I read it, then this book changed the direction of my life.
+Godel Escher Bach was confusing at first, then I am a Strange loop blew my mind, and so did Thresholds of the Mind by Bill Harris
+the three books combined described to me consciousness in a way I had never thought of before
+I mean Hawkins book, Hofstadter's book, and Harris's book.
+
+Micah Blumberg
+Do you think free will and choice are two different things or the same thing?
+
+Micah Blumberg
+well I think those words refer to different domains
+
+Micah Blumberg
+i think freewill only has meaning in a social context, and choice only has meaning in terms of describing the brain's ability to coordinate itself
+and I think that on a higher level choice and determinism are a unified concept, not two, non-dual
+
+Micah Blumberg
+as if you are the one buddha, there is only one choice, seeing more than one choice is illusion
+
+Micah Blumberg
+what I mean is that free will means kim coordinates kim, and jake coordinates jake, kim's mind doesn't coordinate jake's mind, so jake's will is somewhat free from kim's will. so jake has freewill
+being the one being is just a perspective, its not the only valid perspective
+from another perspective you have many choices
+but as long as the perspective exists where all choices are one choice, then you choice from that place is apparently an illusion
+
+Micah Blumberg
+Are you familiar with Ilya Prigogine
+he felt out of acceptance with general scientists for proposing an alternative to determinism
+one in which life is a dissipative system, and because of thermodynamics order increases to export increasing entropy elsewhere
+
+Micah Blumberg
+it's like saying the point of life is isomorphic to the point of a hurricane
+and we are
+isomorphic to hurricanes in the functional sense
+so the factor of choice is indeterminism, infinite possible things can happen, and the living system, as a self organizing entiity has a bell curve of possible options, it's almost like describing choice as a dice roll
+the bell curve is fat in the middle with things you are more likely to choose, and thin on the ends with things you are less likely to choose
+
+Micah Blumberg
+Bill Harris includes him in part of his book Thresholds of the Mind
+which you can get from amazon.
+
+Micah Blumberg
+Thresholds of the Mind is why I got into Brain Optimization, and Neurotechnology
+brainwave entrainment and neurofeedback
+
+Micah Blumberg
+and nootropics aka smart drugs too, have you seen the film limitless?
+what are the other right parts?
+
+Micah Blumberg
+okay well my new hypothesis is that intelligence is like the number of connections in your brain, highly intelligent people have tons more connections in the grey matter, and those connections translate to people like Jeff Bezos, Tim Cook, the heads of companies like google who are already using both kinds of AI, as we heard about in the new regarding Google Cat did you hear about that one?
+
+Micah Blumberg
+A google AI that created it's own concept of a cat from youtube videos without being instructed to do so
+Micah Blumberg
+10/11, 6:12pm
+Micah Blumberg
+http://www.wired.com/wiredscience/2012/06/google-x-neural-network/
+
+Google's Artificial Brain Learns to Find Cat Videos | Wired Science | Wired.com
+www.wired.com
+When computer scientists at Google's mysterious X lab built a neural network of 16,000 computer processors with one billion connections and let it browse YouTube, it did what many web users might do -- it began to look for cats.
+
+Micah Blumberg
+“We never told it during the training, ‘This is a cat,’” Jeff Dean, the Google fellow who led the study, told the New York Times. “It basically invented the concept of a cat.”
+
+Micah Blumberg
+Yes well if a person has too many connections, or violent experiences, or malformed early development that can result in epilepsy, post traumatic stress disorder, severe or slight autism, ringing in the ears, tons of serious brain conditions. Not excluding the useful stuff like synesthesia and there exists every kind of synesthesia I have been told, confirmed, every possible combination of senses
+
+Micah Blumberg
+Groups of brains are not brains, not yet, and so both neurofeedback, and brainwave entrainment drive connections in the mind, and what I do drives connections to brainwaves, which drive the eeg feedback (sounds) and the brainwave entrainment (light and sound)
+It drives more connections, creating more intelligence, but these are not uniform connections, unlike typical brainwave entrainment which creates uniform connections, these connections are as random as your own brainwaves, because they are your own brainwaves. So instead of creating autism, or epilepsy it does the opposite. It increases intelligence while removing cleaning up illnesses.
+
+
+
+Paweł Pachniewski
+Some believe AGI should just be open source. I am not against that, but making it so before an awful lot of pondering and consideration doesn't seem smart to me, not at all.
+But there will be a lot of disruptive technologies this century that will bring about lots of societal turbulence, not mention economical and political.
+
+Micah Blumberg
+Identity is an illusion, but thanks. Consciousness, I can visualize and describe how it happens, I have an idea I have never heard anyone else ever communicate, but thanks to your advice I can't tell anyone, but now I have what feels like a biological imperative to build it.
+
+Micah Blumberg
+I was saying earlier, I have a plan to build sentient machines, I will need help from people who have expertise in very different areas, from electrical engineering, acoustics, 3d printing, neuromorphic chip architecture, but I will have to slice up the job into a lot of different pieces, similar to how Jobs had lots of people working on different pieces of the iphone but only a few knew what they were actually building
+
+Micah Blumberg
+I had said that I prefer to think of self as a direction. So instead of saying "mind design" I think "cognitive direction" and the machines I am making will have to sort of choose their own development direction almost exactly the same as how humans do it.
+My fundamental design principles are different from anything I have seen anyone in any AI or AGI group talk about.
+
+Micah Blumberg
+In my notes, we originally united (sort of) because of a few books we had read in common, such as "On Intelligence by Sandra Blakeseed and Jeff Hawkins"
+When I started Neo Mind Cycle I was thinking about Neurofeedback as a cycle from brainwaves, into the computer, into light and sounds, into our eyes and ears, and back into brainwaves. It was a really simple idea. 
+On Intelligence was so influencial it has changed my life since I read it.
+Thresholds of the Mind was a book that, at the time, I held in similar esteem.
+At some point I decided to actually learn neuroscience, all the nitty gritty details of neurons, axons, ion channels etc...
+I didn't keep up in my Neuroscience Computation Class the first year it was on Coursera so I decided to get a crash course in Neuroscience by reading something really advanced.
+A book called "The Neural Basis of Free Will: Criterial Causation" 
+I have never read a book so thick with concepts page after page, and links to dozens of research articles on every few pages.
+Right at this moment in my life there is no book I hold in higher esteem.
+I began to realize that there are cycles (feedback cycles) in the neo mind at every level from backwards propagating axon potentials to dendritic arbors, to neural circuits, to cortical thalamic loops, to regional brain activity patterns we can see with EEG
+I could practically change my business name to Neo Mind Cycles (plural) and write a book to explain all this in loving detail.
+In my humble opinion Peter Tse is a terrible author when compared to Douglass Hofstadter (another author whom my notes reveal that we both have read and admire) so someone should take the power of analogy and write a better book to explain the insights of cutting edge neuroscience, and I am working on that.
+In considering the prep work for this project I thought back to "Thresholds of the Mind" and what it means, how it may fit into this picture, it's developmental levels of chaos and expanding awareness combined with the Neo Mind Cycles of our actual neurological mechanisms. Could his (Bill Harris: Thresholds of the Mind) work have relevance and meaning today? I'm not sure, but I think I will have to dust off an old copy and have another look at it.
+
+Micah Blumberg
+I am having a lot of new ideas, perhaps you will visit again my group "Neo Mind Cycle Reseach" because you have a regard for sentience that I can appreciate I am willing to share some of what I know with you, that I would not share with others.
+
+Micah Blumberg
+do you know about ethos, pathos, logos, the three notions about stages of rhetoric purportedly from the ancient greeks?
+
+
+Micah Blumberg
+imagine that you could shrink the size of the "power of society" in your mind and feel a lot more personal power from doing that

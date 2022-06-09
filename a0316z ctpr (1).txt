@@ -1,0 +1,8 @@
+a0316z ctpr
+world models and attention for reinforcement learning
+
+Can artificial agents learn rapid sensory substitution? EyeClockwise rightwards and leftwards open circle arrowsTongue Tang* & Ha* introduce a Set Transformer-inspired agent which processes arbitrarily ordered/length sensory inputs Artist palette#mlcollage [33/52] v/@RobertTLange
+Scroll: https://arxiv.org/pdf/2109.02869.pdf
+Globe with meridians: https://attentionneuron.github.io
+Television: https://youtu.be/m8POyrJ7Pgg?t=1939
+

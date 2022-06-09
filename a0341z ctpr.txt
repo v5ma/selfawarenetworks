@@ -1,0 +1,43 @@
+a0341z ctpr
+Sep 20, 2012
+(optogenetics, hippocampus, field, synap, cortex)  microelectrode implants
+Reply to Dean Part 3
+
+http://web.mit.edu/newsoffice/2012/conjuring-memories-artificially-0322.html"
+Dean:
+"This article is referring to clusters of neurons, not individual neurons. FTA - " In a new MIT study, researchers used optogenetics to show that memories really do reside in very specific brain cells, and that simply activating a tiny fraction of brain cells can recall an entire memory". In this case, "a tiny fraction of brain cells" may mean hundreds or thousands of neurons.
+
+Micah Blumberg
+This article isn't enough information for you then. Read about all the implantation of microelectrodes into the brain in studies done on apes, monkey's, rat's, mice, bats, and humans. Stimulating single neurons actually does produce memories, this is a fact, you just haven't read enough yet to know it for a fact.
+
+Dean:
+The "philosophers zombie" I believe you are referring to is part of an argument (Chalmers) made for dualism (in which mental processes are separate from physical processes) in regards to consciousness or subjective experience and really has nothing to do with what we are discussing.
+
+Micah Blumberg
+That's what you say now :) It's the idea that you can do inference, SDR, prediction, pattern recognition, heirarchal temporal conceptualization (association of temporal and spatial patterns) in a digital "Grok" model and still miss out on an entire dimension of sensativity, storage space, communication bandwidth afforded by unique neurons that transmit a "potential difference" of their whole shape to other neurons in the brain, as information packets. I mean what if the internet, instead of being a connection between computers was instead a connection between light bulbs. That's how much your missing out in the current stream of "digital Groks" or ANN models.
+
+Dean:
+""Contrary to your suggestion I am not making the argument that collective temporal & spacial patterns in the "electrical spiking" aka firing of neurons are not also making representations in the network. Far from it."
+"Good, on this we can agree.""
+
+Micah Blumberg
+I do not agree with the notion that the electrical spiking at the network level is the "whole and complete province" of "temporal&spacial" patterns in the brain, to the exclusion of all other kinds of "temporal&spacial" memories that may operate in other ways, including my proposal that Neurons are Programs transmitting copies of their shape to the rest of the brain.
+
+Dean:
+There is no " neuron with the most synapses at the top of the hierarchy".
+
+Micah Blumberg
+I know. That was a joke to explain that you don't have a whole integrate metaphor united the entire brain if the only information that a neuron has comes from what it is directly connected to.
+
+Dean: 
+There are regions of the brain where evidence of a hierarchical structure has been found (such as the visual cortex), but this has not been shown in all regions and even so, there is no single neuron at the top of any hierarchy, but rather, hierarchies of clusters of containing thousands or millions of neurons.
+
+Micah Blumberg
+I recommend that you actually read "On Intelligence by Jeff Hawkins" seriously, your behind the times. Jeff proposes that the top of the neocortex the Hippocampus. Yes the entire Neo cortex is structured into a heirarchy, not just the vision area. Here is a link to the passage in "On Intelligence"
+http://books.google.com/books?id=Qg2dmntfxmQC&pg=PA170&lpg=PA170&dq=hippocampus+is+the+peak+is+the+top+of+the+neocortex&source=bl&ots=6iBvJaPliU&sig=W8xZ_0A7tqzZ_Y-q34hAVvzcF4o&hl=en&sa=X&ei=fIxbUOajGuzsiwLki4DQCQ&ved=0CEMQ6AEwAg#v=onepage&q=hippocampus%20is%20the%20peak%20is%20the%20top%20of%20the%20neocortex&f=false
+
+Dean: 
+NED does not suggest that electrons have shape (that would be silly since electrons are point particles - no shape, only a field of influence). What it proposes is that the "charges" that pass through the neural structures have shape (temporal variances in amplitude and spatial dimension) and direction of flow - quite a different thing, and that it is this "spike directivity" that carries meaning, not temporal patterns which he considers epiphenominal.
+
+Micah Blumberg
+Thanks for the clarification on NED, I'm not making any argument for the shape of the electrical message except that it represents the potential difference, a sparse distributed representation of the physical changes at both dendritic and synaptic levels, but not only that, also including the whole protein structure of the neuron. Including the variations of change inside the synapse itself, including the microtubule and every part of the neuron. 

@@ -1,0 +1,8 @@
+a0317z ctpr
+biological back prop
+https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/
+"A team of researchers led by Richard Naud of the University of Ottawa and Blake Richards of McGill University and the Mila AI Institute in Quebec revealed a new model of the brain’s learning algorithm that can mimic the backpropagation process."
+
+"Naud and Richards’ new model got around this with a simple change in the canonical understanding of how neurons communicate with each other. We’ve long known that neurons act as bits, capable of only two outputs, either sending a spike of electrical activity to another neuron or not sending it — either a 1 or a 0. But it’s also true that neurons can send a “burst” of spikes in quick succession. And doing so has been proved to change the connections between neurons, making bursts a natural candidate for solving the credit assignment problem. In the new model, the team considered neuron bursts a third output signal, a stream of 1s so close together it effectively becomes a 2. Rather than encoding anything about the external world, the 2 acts as a “teaching signal” to tell other neurons whether to strengthen or weaken their connections to each other, based on the error accrued at the top of the circuit."
+
+"The researchers showed that when a network has more bursts, neurons tend to increase the strength of their connections, whereas the strength of the connections tends to decrease when burst signals are less frequent. The idea is that the burst signal tells neurons that they should be active during the task, strengthening their connections, if doing so decreases the error. An absence of bursts tells neurons that they should be inactive and may need to weaken their connections."

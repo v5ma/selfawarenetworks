@@ -1,0 +1,6 @@
+a0299z ctpr
+This was about the capabilities of my EEG based Neurofeedback brainwave entrainment system that I was operating from 2012 to 2014
+
+Neo Mind Cycle
+volume, pitch, modulation frequency, LFO speed, LFO depth, wave shape and reverb. It includes a basic visualization of your audio waveform, a visual feedback of sensor connectivity and an interface with visual controls for the various audio properties. It also provides you with the ability to customize links between the various cognitive and emotional aspects provided. The basic setup is controlling pitch by thinking "up" and "down", while you can control the other aspects by thiking "rotate clockwise" and "rotate counter clockwise"
+

@@ -1,0 +1,29 @@
+a0352z ctpr
+Oct 21, 2017
+(vector, category, theory)
+
+Micah Blumberg
+The concept of a monad comes from Category theory which you should enjoy reading about. A monad in Haskell has 3 pieces, an object, identity and a functor https://en.wikipedia.org/wiki/Monad_(functional_programming)
+Monad (functional programming) - Wikipedia
+
+In functional programming, a monad is a design pattern that defines how functions, actions, inputs, and outputs can be used together to build generic types,[1] with the following organization:
+
+and then beyond category theory is constructor theory which uses category theory to redefine physics and information as tasks, its very interesting
+
+I did this great interview with a company at the GPU summit earlier this year that was about homomorphic encryption, which means computation can be run on encrypted data without decryption. I haven't published it yet, but in researching that company I found some great new research (new last April 2017) on category theory encryption or category theory cryptography, there are so many cool ideas out there!
+
+but I think you probably use monads already.
+
+It's like how a tensor is just a vector with a coordinate on the z plane in addition to x and y.
+
+so you use objects in object oriented programing. and then a functor is like the objects function, if object else object etc.
+
+identify is when you create a name for a piece of code you have written elsewhere
+
+so a monad is just all three as a packaged concept.
+
+the way a tensor is a packaged coordinate
+
+in category theory A is the object, the arrow is the functor, and identity can be applied to either the object or to the functor, and B is the resulting transformation that happens after the functor, that's why it's an arrow
+def worth analyzing and thinking about
+one of my favorite concepts

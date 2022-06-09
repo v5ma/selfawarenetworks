@@ -1,0 +1,78 @@
+a0347z ctpr
+(field, synap)
+Superconducting Synapse Brings Us A Step Closer "To An Artificial Brain"
+Fiona McMillan
+This article is more than 3 years old.
+Researchers at the National Institute of Standards and Technology have built a superconducting switch that mimics the behavior of a synapse between neurons. This artificial synapse could help advance the development of computing systems that behave and learn like the human brain.
+
+Artificial synapse developed by NIST is able to adapt to high use
+Artificial synapse developed by NIST is able to adapt to high use NIST
+They say that neurons that fire together wire together, which is a nice, rhyming way to say that neurons that actively signal in a group tend to develop stronger connections with each other. Indeed, from an evolutionary stand point, this makes a lot of sense because it facilitates learning. During new experiences like learning to walk or speak a language or making mental maps of the way home, neurons make new connections. The more an activity is repeated, or the more learning involved, the stronger those connections become. Zoom in and you’ll see that these neurons don’t actually physically touch, but instead right at the junction where two neurons meet is a tiny gap called a synapse.
+
+And by tiny, we are talking in the ball park of around 40 nanometers.
+
+In order for information to flow from one neuron to the other, neurotransmitters are released at the end of the long tail-like axon of one neuron. They flow across the gap and are picked up by receptors on the other neuron. This, in turn, can trigger an electrical signal that will be transmitted along this second neuron.
+
+Of course, if the signal from the first neuron isn’t very strong, the second neuron won’t become activated in response. After all, not every new connection is going to be useful and it’s not in the brain’s best interest for every connection to be hypersensitive and easily activated.
+
+And yet, neurons that frequently signal together do become much more in tune with one another, so much so that threshold for activation becomes lower. With repeated interaction, the second neuron becomes much more sensitive to signals coming from the first neuron.
+
+Consequently, well used neuronal pathways that involve such mutually sensitive neurons fire much more quickly. You become better at walking, at speaking that new language, and finding your way home.
+
+Neuron pathways are able to adapt this way because synapses can, for lack of a better term, learn. As firing becomes more frequent, the first neuron can increase the number of neurotransmitters it sends, and/or the second neuron can become more sensitive to those neurotransmitters. This involves changes in the way certain genes are regulated in response to regular use.
+
+Researchers are working on building computers that function much like the brain, and to do that they want to mimic the way neurons behave and respond to one another. Adaptable connections are important for this. The problem then, is how do you achieve this same kind of learning mechanism in an artificial synapse, so that the threshold for activation is lower for connections that are used frequently, but higher for those used less often? In other words, how do you get an artificial synapse to ‘learn’ without the benefit of finely tuned genetic and biochemical feedback mechanisms?
+
+To address this, researchers at NIST used something called a Josephson junction. Instead of two electrically active neurons meeting at a synapse, this junction involves two superconductors separated by an insulator. The junction they built is extremely small, only 10 micrometers in diameter.
+
+When a sufficient current runs through the junction, it produces low voltage spikes, in an analogous way to how a sufficient electrical signal in the first neuron can trigger a spike of electrical activity in the second neuron.
+
+That was the first step in mimicking a neuronal connection. But what about the synapse learning effect?
+
+Here’s where it gets really interesting. The researchers filled the insulating gap with magnetic nanoclusters to the tune of 20,000 per square micrometer. Each of these nanoclusters behaves like a tiny bar magnet polarized along an axis.
+
+Filling the gap between the two superconductors, this multitude of tiny magnets begin in a disordered jumble, with their magnetic ‘spins’ pointing all over the place.
+
+The current threshold is high when the nanomagnets are disordered
+The current threshold is high when the nanomagnets are disordered SEAN KELLEY; NIST
+When they are in this magnetically disordered state, they tend to put a damper on any current trying to cross the gap between the superconductors. Consequently the amount of current needed to trigger a voltage spike is quite high.
+
+However, in the presence of a magnetic field, repeated pulses of current will cause all the nanoclusters to align in the same magnetic direction. The more aligned they become, the more current friendly they are, lowering the amount of current needed to trigger a voltage spike. In other words, frequent electrical activity at this junction leads to a more sensitive interaction between the two superconductors.  Sound familiar?
+
+In the presence of a magnetic field, repeated pulses of current start to align the magnetic... [+] direction of the nanoclusters
+In the presence of a magnetic field, repeated pulses of current start to align the magnetic... [+] SEAN KELLEY; NIST
+With frequent pulsing, the nanoclusters become aligned and the current threshold is low enough to... [+] trigger a voltage spike in the second superconductor
+With frequent pulsing, the nanoclusters become aligned and the current threshold is low enough to... [+] SEAN KELLEY; NIST
+How does it compare to a real neuron-neuron interaction in terms of energy and speed?
+
+If you have a 100 watt lightbulb in your lamp and turn it on for one second, you’ve just used 100 joules. A neuron is so energy efficient that it would have to fire around 100,000,000,000,000,000 times to match that amount of energy use.
+
+This is because a single synaptic event only uses around 10 femtojoules of energy.
+
+By comparison, the amount of energy needed for the artificial synapse to function was always less than 1 attojoule. This about 10,000 times higher than the energy used by a natural synapse, but it’s still pretty impressive.
+
+In terms of speed, though, the artificial synapse wins by a long shot.
+
+A neuronal synapse may fire a few times to a few hundred times per second, but these artificial synapses were able to fire faster at a rate of 100 billion times per second. This, coupled with the small size and a design enabling 3D stacking of these junctions, suggests that a significant amount of computational complexity could be achieved in a very small amount of space.
+
+A person could easily burn a lot of femtojoules just thinking about such a possibility.
+
+Further information:
+
+Original research article:
+
+"Ultralow power artificial synapses using nanotextured magnetic Josephson junctions"
+
+Science Advances  26 Jan 2018: Vol. 4, no. 1
+
+DOI: 10.1126/sciadv.1701329
+
+http://advances.sciencemag.org/content/4/1/e1701329.full
+
+Fiona McMillan
+Fiona McMillan
+Follow
+I am a science writer with a Bachelor of Science in physics and a PhD in biophysics. I have researched distant stars, extremophiles and the fine-tuned architecture of proteins.... Read More
+
+Print
+Reprints & Permissions

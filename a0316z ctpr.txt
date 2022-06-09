@@ -1,0 +1,8 @@
+a0316z ctpr
+(graph) organization strategies for analyzing big data Michael Crighton Jurrassic Park
+
+explored the idea of how paleotologists organized their digs by dividing up the ground into grids to study and (dig up and catalog all finds in each grid)
+and then later in the movie version there is this visual exploration of a 3D graphical Unix file system that organizes information into boxes inside a grid, a 3D file system
+
+only 5 ways to organize
+https://thevisualcommunicationguy.com/2013/07/20/the-five-and-only-five-ways-to-orgaize-information/

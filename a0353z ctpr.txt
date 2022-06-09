@@ -1,0 +1,26 @@
+a0353z ctpr
+(vector, category, theory)
+I'm thinking about Category Theory (as temporal maps of transformations)
+A -> B describes the transformation of a node in a temporal sequence.
+and conventional mind maps (as spatial patterns, vectors between points)
+A linked to B in a conventional mind map describes a spatial association, meaning either variable could invoke the other.
+
+The arrow in category theory is likened to a function in other programming languages.
+
+functions via html
+If id value is () then do,
+When id value is () then do,
+Else id value is () then do
+
+So A -> B is like saying when A is true (in logical memory) the A (id of a variable which may include a set (matrix)) changes it's value to match the value of B (id of another variable defined elsewhere?)
+
+So the arrow describes the temporal path of transformations.
+
+How do we diagram visually the spatial path of associations between separate functions (like a string in Haskell?)
+
+Is it just a matter of parenthesis, ie using sets.
+
+How can we describe the positions
+
+
+,  with morphisms that describe all the relationships between all the mathematical theories, all the artificial intelligence's theories, all the computer science theories, all the neuroscience theories, and more? Does it exist? Would you like this to be a collaborative group project? Using either web based mind map tools, diagram tools, and or other collaborative sharing tools. 

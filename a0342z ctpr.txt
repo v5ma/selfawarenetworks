@@ -1,0 +1,53 @@
+a0342z ctpr
+(field)
+"A neural network can learn to organize the world it sees into concepts—just like we do"
+Generative adversarial networks are not just good for causing mischief. They can also show us how AI algorithms “think.”
+by Karen Hao  January 10, 2019
+GANs, or generative adversarial networks, are the social-media starlet of AI algorithms. They are responsible for creating the first AI painting ever sold at an art auction and for superimposing celebrity faces on the bodies of porn stars. They work by pitting two neural networks against each other to create realistic outputs based on what they are fed. Feed one lots of dog photos, and it can create completely new dogs; feed it lots of faces, and it can create new faces. 
+
+Recommended for You
+10 of Bill Gates’s favorite books about technology
+The hipster effect: Why anti-conformists always end up looking the same
+China’s CRISPR twins might have had their brains inadvertently enhanced
+Ten recent low-tech inventions that have changed the world
+Once hailed as unhackable, blockchains are now getting hacked
+As good as they are at causing mischief, researchers from the MIT-IBM Watson AI Lab realized GANs are also a powerful tool: because they paint what they’re “thinking,” they could give humans insight into how neural networks learn and reason. This has been something the broader research community has sought for a long time—and it’s become more important with our increasing reliance on algorithms.
+
+Sign up for the The Algorithm
+Artificial intelligence, demystified
+Your email
+Stay updated on MIT Technology Review initiatives and events?YesNo
+“There’s a chance for us to learn what a network knows from trying to re-create the visual world,” says David Bau, an MIT PhD student who worked on the project.
+
+So the researchers began probing a GAN’s learning mechanics by feeding it various photos of scenery—trees, grass, buildings, and sky. They wanted to see whether it would learn to organize the pixels into sensible groups without being explicitly told how.
+
+Stunningly, over time, it did. By turning “on” and “off” various “neurons” and asking the GAN to paint what it thought, the researchers found distinct neuron clusters that had learned to represent a tree, for example. Other clusters represented grass, while still others represented walls or doors. In other words, it had managed to group tree pixels with tree pixels and door pixels with door pixels regardless of how these objects changed color from photo to photo in the training set.
+
+The GAN knows not to paint any doors in the sky.
+MIT COMPUTER SCIENCE & ARTIFICIAL INTELLIGENCE LABORATORY
+“These GANs are learning concepts very closely reminiscent of concepts that humans have given words to,” says Bau.
+
+Not only that, but the GAN seemed to know what kind of door to paint depending on the type of wall pictured in an image. It would paint a Georgian-style door on a brick building with Georgian architecture, or a stone door on a Gothic building. It also refused to paint any doors on a piece of sky. Without being told, the GAN had somehow grasped certain unspoken truths about the world.
+
+This was a big revelation for the research team. “There are certain aspects of common sense that are emerging,” says Bau. “It’s been unclear before now whether there was any way of learning this kind of thing [through deep learning].” That it is possible suggests that deep learning can get us closer to how our brains work than we previously thought—though that’s still nowhere near any form of human-level intelligence.
+
+
+Other research groups have begun to find similar learning behaviors in networks handling other types of data, according to Bau. 
+
+Being able to identify which clusters correspond to which concepts makes it possible to control the neural network’s output. Bau’s group can turn on just the tree neurons, for example, to make the GAN paint trees, or turn on just the door neurons to make it paint doors. Language networks, similarly, can be manipulated to change their output—say, to translating from one language to another. “We’re starting to enable the ability for a person to do interventions to cause different outputs,” Bau says.
+
+ Embedded video
+
+Hendrik Strobelt
+@henddkn
+ Tataa ! I'm happy to announce the release of #GANpaint today - based on the new #GANdissect method, which helps to identify what units in a #GAN have learned. It's a joy to be part of the team of David Bau, @junyanz89, Antonio Torralba,.. #MITIBM #AI See http://bit.ly/ganpaint 
+
+3,596
+6:54 AM - Nov 27, 2018
+1,380 people are talking about this
+Twitter Ads info and privacy
+The team has now released an app called GANpaint that turns this newfound ability into an artistic tool. It allows you to turn on specific neuron clusters to paint scenes of buildings in grassy fields with lots of doors. Beyond its silliness as a playful outlet, it also speaks to the greater potential of this research.
+
+“The problem with AI is that in asking it to do a task for you, you’re giving it an enormous amount of trust,” says Bau. “You give it your input, it does it’s ‘genius’ thinking, and it gives you some output. Even if you had a human expert who is super smart, that’s not how you’d want to work with them either.”
+
+With GANpaint, you begin to peel back the lid on the black box and establish some kind of relationship. “You can figure out what happens if you do this, or what happens if you do that,” says Hendrik Strobelt, the creator of the app. “As soon as you can play with this stuff, you gain more trust in its capabilities and also its boundaries.”
