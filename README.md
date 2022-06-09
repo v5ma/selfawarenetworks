@@ -1,10 +1,12 @@
-# The Self Aware Networks Institute Map
+# Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the Self Aware Networks Institute and variations on these names are the trademarks of Micah Blumberg.
 
-The original files I uploaded & hosted on github.com/v5ma including the text and other types of files are the copyright of Micah Blumberg, they contain trademarks belonging to Micah Samuel Blumberg, and the data contained with in is also part of provisional patents filed by Micah Samuel Blumberg.
+# This github is the foundation of The Self Aware Networks Institute. You are at The Self Aware Networks Institute's github page. The full institute will include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
+
+The original files I uploaded & hosted on github.com/v5ma including the text and other types of files are the copyright of Micah Blumberg, they contain trademarks belonging to Micah Samuel Blumberg. Some of the content is part of provisional patents that have been filed or will be filed by Micah Blumberg.
 
 This github & the notes uploaded by the author of this github, which is found at github.com/v5ma are the copyright of Micah Samuel Blumberg who was born in Westminster, California, USA in the year 1980.
 
-I once had a dream that took place about 10,000 years into the future. Something like the year 12,015. In this new world, that looked somewhat like the future from Bill & Ted's Excellent Adventure, people would gather on a digital mountain top to think about the distant past. Fascism had completely ended by about the year 2315 after a temporary global tyranny. The future people on this future earth would be fre, happy, & mentally healthy people. With advanced technology so refined you could not see it with the naked eye, but it was there with you, sentient self-aware neural clouds, mixed reality & spatial computing embedded into the air, land, sea, and space in a symbiotic relationship with mankind, mutual caretakers of the earth, the galaxy, and spacetime.
+I once had a dream that took place about 10,000 years into the future. Something like the year 12,015. In this new world, that looked somewhat like the future as depicted in Bill & Ted's Excellent Adventure, people would gather on a digital mountain top to think about the distant past. Fascism had completely ended by about the year 2315 after a temporary global tyranny. The future people on this future earth would be fre, happy, & mentally healthy people. With advanced technology so refined you could not see it with the naked eye, but it was there with you, sentient self-aware neural clouds, mixed reality & spatial computing embedded into the air, land, sea, and space in a symbiotic relationship with mankind, mutual caretakers of the earth, the galaxy, and spacetime.
 
 Some of these notes are intended to become part of a book titled "Self Aware Networks by Micah Samuel Blumberg"
 
@@ -34,7 +36,7 @@ Sorry about the grammatically incorrect run on sentences.
 
 I hope that the most intelligent people in the world read & enjoy my notes on consciousness & sentient machines, but I am going to tell you upfront that its not all correct, some of the notes will not be included in the eventual book, but its enough to get the main ideas across about the brain, the mind, and reality.
 
-some of the ideas in my 1000+ book notes I am planning to share soon are incorrect, outdated & I know which ones. Some ideas are very well backed with sources. Some of the ideas I believe are correct are so different I will likely have to debate them. OK. FYI to readers.
+Some of the ideas in these notes for the book are incorrect, outdated, and kept simply because they contained something interesting that I wanted to follow up on later. Some of the ideas are very well backed with sources. Some of the ideas I believe are correct are so different I will likely have to debate them. OK.
 
 This is an Institute on Github meaning that it is open to contributions, you can submit pull requests from your account and if accepted you will be a documented contributor to this research. I may even cite your work in the upcoming printed version of the book titled Self Aware Networks.
 
