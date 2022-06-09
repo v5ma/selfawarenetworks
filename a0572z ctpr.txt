@@ -1,0 +1,29 @@
+a0572z ctpr
+Note Created Sep 22, 2012
+(synap, neuron)
+
+Micah Blumberg
+What's the difference between a thought in your mind, and a coordinated sequence of spatially positioned electrical spikes? What's the difference between the electrical activity in a human brain, and a hundred year electrical storm on Jupiter? Is Jupiter thinking?
+If Jupiter is thinking, how would we communicate with it?
+a storm actually is a loop, a vortex, with an eye at the center, like a human being the hurricane is a dissipative system, it's a cousin
+you are a dissipative system, a vortex, a loop, just like a hurricane :) or a storm on Jupiter :)
+
+Pete
+How would you detect "thoughts" in systems like this?
+What about detecting "thoughts" in higher order systems such as nation states and corporations?
+See also: http://en.wikipedia.org/wiki/Matrioshka_brain
+
+Micah Blumberg
+love Hofstadter btw, good reference Mark :)
+The singularity would be the moment when a computer chip interfaces with the whole cosmos as one super computer :)
+Precisely one can make the argument that storms do actually evolve "to ever-increasing complexity and "distance" from its environment." because you are such a storm, even now you are isomorphic to a vortex, your a dissipative system that evolved, the conscious descendent of a hurricane or tornado.
+What if the neuron was fiber optic and the action potential was a beam of light instead of an electron? Could you still have intelligence?
+do you think the synapses can be remodeled to be triggered by a proton instead of an electron?
+We can think without electical spikes! Wow! This is awesome!
+Can any chemical change in the brain be considered a computation?
+the neurotransmitters in the chemical synapses balance the neuron's charge, while creating a charge imbalance in the next neuron. so the chemical synapse is also really an electrical synapse :)
+
+Dean
+Well, yes, while it's true that both types of synapses are electrical in nature, the two types are classified separately based on their characteristics. 
+Chemical synapses communicate via movement of ions (atoms containing charges). Since these atoms are physically propagated through the neuron, their movement is much slower than an electrical current. However, these atoms are also much more complex than a simple electron and so carry much more information, providing for much richer computational capacity.
+Electrical synapses on the other hand are much faster, but because they cannot induce gain (the amplitude of the electrical signal is generally smaller on the post-synaptic side of the gap junction due to attenuation), and because electrical synapses to not employ receptors and because the sign of the electrical charge is always the same as the source, the amount of computation possible is far less than that of chemical synapses.

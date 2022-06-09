@@ -1,0 +1,61 @@
+a0496z ctpr
+October 11th 2012
+(category, theory, perception cortex, map, semantic)
+Micah Blumberg
+Regarding Artificial Intuition by Monica Anderson, and Grok by Numenta: Is a semantic token the meaning of a word?
+
+Is a semantic token a map of vectors between points above a certain threshold in various nodes?
+
+Is a semantic token like a matrix, that can be understood as a spatial metaphor, or a description in category theory that defines or remembers a relationship between vectors that emerge in space?
+
+Is model free intelligence about creating a model based on whatever emerges beyond the thresholds that filter significant patterns from noise?
+I'm getting a new sense of the inner geometry of my mind.
+and the geometry of my thoughts
+
+See this video http://medicalxpress.com/news/2012-10-fetal-neural-vision.html this does not look like single character bits fed one at a time triggering points converted into vector mapped based memories. it looks like a morphing vector pattern being going through several stages of memory reduction in the architecture. Essentially because the burst runs out of steam, and then it leaves its vector mapped imprint. A spatial representation imprinted in the fired connections.
+
+I hope replies reflect the subject of this group: Categories & Geometry of the Mind. Do you think meaning for intelligent beings may imply an unconscious topographical map of nodes that are themselves semantic tokens reflecting maps between points of above threshold data associations in a multi level pattern learning machine?
+
+Burst of fetal neural activity necessary for vision
+medicalxpress.com
+(Medical Xpress)—A sudden and mysterious burst of activity originating in the retina of a developing fetus spurs brain connections that are essential to development of finely-tuned sight, Yale researchers report in the journal Nature. Interference with this spontaneous wave of activity could play .....
+Like ·  · Unfollow Post · Share · 2 hours ago
+Seen by 9
+Juan Carlos Kuri Pinto likes this.
+
+Micah Blumberg
+Just imagine that when you see something, this is happening in your brain. Imagine that your having waves of sight pass through your brain tissue. Flowing in almost like water with special properties
+
+It's not like feeding binary bits into a learning machine one at a time, it's like pouring in a data stream, words, pictures, bits, all jumbled together, and letting the structure sort it all out.
+about an hour ago · Like
+
+Micah Blumberg
+The question I would have for Monica, and or Jeff Hawkins, would be, can you visualize the activity in your computer based connectome with graphics so that the activity looks like this. Would the activity look like this at all? Perhaps your visualized connectome would not have brainwaves?
+about an hour ago · Like
+
+Micah Blumberg
+Do your semantic tokens (vector maps of associations) really come from emergent patterns that are imprints in the memory created by synthesized brainwaves?
+about an hour ago · Like
+
+Micah Blumberg
+I like how in AN model, intuition is the emergent result from points plotted in a vector tree map that you can describe in category theory (the vector tree map not the emergent patterns). I think she describes it in C and or Java, but I think C and Java lack the fluidity that could happen in a functional language like Haskell. Where node memories can create vector memories and The model free nature means that the concept is the memory of the tree's reaction in a sense. With Haskell and an 80 core processor one could have each node in the tree creating emergent vector maps with the other activated nodes independent of a centralized process.
+
+I like how in AN Model, the "concept" isn't pre-thought and pre-programmed, it's learned or built by the vector tree's memory system in response to the stream of data.
+43 minutes ago · Like · 1
+
+Juan Carlos Kuri Pinto Yup. I think Haskell is the right language for the geometry of mind:
+
+https://www.facebook.com/groups/programming.haskell/
+
+Programming Haskell
+The Haskell Programming Language Haskell is an advanced purely-functional progr...
+See More
+26 minutes ago · Unlike · 1
+
+Micah Blumberg Regarding the film clip again: It's as if the parts of the brain creating the brainwave are the parts that have reached their threshold point, resulting in a forwarding of the excess of that energy onward. Like water that fills up buckets, and if there is more water than buckets it spills onward, in a wave of running water until the remaining amount of water no longer exceeds the threshold of any bucket.
+20 minutes ago · Like
+
+Micah Blumberg The peaks of that brainwave also appear to be spread out as opposed to convergent like you might see in a pyramid like hierarchy.
+18 minutes ago · Like
+
+Micah Blumberg Think of the edge of a letter, the edge of a box, and the edge of a wall all at the same time. Each of those edges is in a different scale. The smallest you would expect to be a vector token from the lowest part of the cortex. and the largest would be a vector token from a much higher part of the cortex, even though they are both edges. Then if you try to visualize the edge that represents a piece of the electron's potential orbit around the center of an atom (if that exists even?) and the edge that defines a section of the orbital path that the sun takes through the galaxy. (how do we know our sun isn't leaving the galaxy or headed toward the black hole at the center?) Now we have a situation where the conceptual scale for both the edge of the electrons orbit, and the edge of the suns orbit are so big they probably are both modeled at the highest levels of cortex, unless the association of the edge of an atom is so closely associating with small things that it gets thrown into a vector map that is a link between details from lower regions and concepts from higher religions. Maybe all the edges are size invariant, like vector graphics in a computer. Maybe doing computer vision by feeding it bitmaps is creating a disgusting scaling problem in vision learning that would not exist if "edges" in the v1 cortex were scale invariant vector patterns, that could be linked into any vector token, aka a semantic token, that is also linked to a size vector token, and a depth vector token, and a color vector token, and a smell vector token, to produce the appearance of a multi-sensory object in stages of brainwaves. 

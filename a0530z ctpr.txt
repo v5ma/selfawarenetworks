@@ -1,0 +1,24 @@
+a0530z ctpr
+Note created Sep 19, 2012
+(LTP, field, dendrite, synap, cereb, neuron)
+
+Dean
+Interesting idea, but unfortunately it doesn't bear any resemblance to what we know from neuroscience.
+Connectivity within the brain generally follows a small-world network architecture, where the vast majority of connections between neurons are to neighboring neurons with connections to distance neurons far less frequent. The allows a great deal of information to be stored in a compact fashion and yet having no more than six degrees of separation between any two neurons. Each neuron only "knows" about the neurons it's currently connected to and responds to stimuli from them or sends stimuli to them, mostly, but not exclusively through spikes (action potentials). 
+If this scheme seems too simple to produce the complex behavior we observe, keep the following in mind:
+There is a good deal of evidence to support the idea that synapses are the primary mechanism for storing memory, which is a requirement for computation. There are over 1,000 different proteins inside an average (human) synapse and these proteins combine in a vast number of ways to create post-synaptic receptors that can react in various ways to the release of a number of various neurotransmitters from the pre-synaptic vesicles. The combination of all of these separate parameters, all influenced not only by the pre-synaptic and post-synaptic neurons, but the surrounding sea of cerebrospinal fluid which is awash in various neurotransmitters, hormones and EM fields, allows a single synapse to have an enormous amount of computational power. Combine this with the fact that a single neuron may connect with thousands (tens of thousands in some cases) of synapses you can get an idea of the computational power of a single neuron (there is also a great deal of computation that occurs within dendrites as well as within the neuron body itself). When you combine, on average, around 10,000 neurons into a single cortical column (think of it as a network within a node within a much larger network) you can get an idea of how powerful the computational capabilities are.
+SDRs are constructs use to represent large amounts of information in a compact form and they work well as long as the data itself is sparsely distributed (e.g. in the case of a bitstream, if the data is mostly 0's with occasional 1's). This is a good fix for Hawkins' HTM model. However, it does not (and it's not meant to) pattern itself after neuroscience.
+
+Micah Blumberg
+Synaptic connections are too volatile for ltp, long term memory, they might be good for short term memory, representations of say what your seeing right now. Besides your argument is an argument for more than one kind of memory system, not a demonstration that Cloudy's model does not also work.
+The neighboring architecture, and the representations of data/memory at the synaptic level are only part of the whole picture. None of what your saying actually displaces my remarks which already include an understanding of the model of synaptic short term memory, and the hierarchical structure of communication.
+
+Dean
+Long term memory entails structural changes (synaptogenesis, formation of dendritic spines, dendritic arbhorization and in some cases neurogenisis), but these structural changes result from repeated enforcement from temporal spiking patterns produced from these synaptic representations. 
+The informational structure remains essentially the same, though it is stored in more persistent structures.
+
+Micah Blumberg
+"Long term memory entails structural changes (synaptogenesis, formation of dendritic spines, dendritic arbhorization and in some cases neurogenisis), but these structural changes result from repeated enforcement from temporal spiking patterns produced from these synaptic representations." This part is well said, still it is already part of the picture.
+"The informational structure remains essentially the same, though it is stored in more persistent structures." If the information structure remained the same, then you would not make any new memories.
+LTP also includes the formation of new protein, which moves to the nucleus of the Neuron, changing it's shape, without the formation of the new protein the long term memory is not successful.
+This new protein may result from activity in the synapse, particularly the Camkii2 interacting with the microtubule like a six bit hammer every time the synapse fires

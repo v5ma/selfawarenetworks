@@ -1,0 +1,36 @@
+a0546z ctpr
+May 11, 2019
+(tomography, semantic) In general the NeurotechX group of San Francisco has it's focus divided between a few different key topics which are all in some sense related to the research and development of neurotechnology.:
+medical imaging technologies including BCI and BMI, and software development around brain computer interfaces including spatial computing like WebXR, and also Deep Learning.
+
+This year 2019 we have pledged to spend more time studying Deep Learning on 3D Point Clouds
+
+The goal is to study how to do semantic segmentation or object segmentation on 3D data such as point clouds, voxels, meshes etc that might be collected with lidar, RGBd cameras, fMRI machines, FNIRS functional near infrared spectroscopy, openwater (Mary Lou Jepsen's technology), EIT (electrical impedance tomography, or new highly spatial EEG (reference: https://www.techexplorist.com/gentle-method-unlock-mysteries-deep-brain/21231/?fbclid=IwAR3HPPRuBUUc617f9MxlV9NHB6HJ-f3k9WntYhmkHQfFKU3fi7ZUw8YMPTg )
+
+Applications: In short semantic segmentation of 3D data allows (for example) a vehicle to identify objects in the environment and separate out which pixels belong to that object and which do not. Object segmentation has been used to make advanced neural correlations in fruit flies to fruit fly behavior captured with a high speed camera.
+https://www.hhmi.org/news/artificial-intelligence-helps-build-brain-atlas-fly-behavior?fbclid=IwAR0ectGUfE9vgnWp4gac1H-UyYCWeG9h2Q737M52I0_lqyC2SEclkH7gtws 
+
+Other applications can include recognizing spaces, planes, edges, and objects for augmented reality and virtual reality applications, such as the ability to re-skin the couch in your space so that it appears as a wall in VR.
+
+In January of 2019 we were inspired by a talk given by Or Litany https://orlitany.github.io/ to shift our focus onto deep learning in a significant way. Previously our group met to work on connected EEG to VR via an implementation that involved this group learning how to develop WebXR with AFRAME, three js, and pipe the EEG signals to the webpage via a web-socket, needless to say we were successful and now we are changing our focus to accomplish something bigger.
+
+We meet to discuss ideas related to neuroscience, brain computer interfaces, deep learning, software development, and more.
+
+This group is interested in Pointnet http://stanford.edu/~rqi/pointnet/ and in 3D cross hair convolutional neural networks https://medium.com/silicon-valley-global-news/3d-cross-hair-convolutional-neural-networks-5d39e2b565ca
+
+Previous examples of our work with EEG and VR:
+https://photos.app.goo.gl/5XsrPcEeVdUmVt9t6‬
+
+Here is older video of the Neurohaxor WebXR, EEG, FFT, Scatterplot/spectrogram project running in WebVR from 10.25.2018 https://www.facebook.com/worksalt/videos/2467372666622699/
+
+This was our original event description for Neurohaxor code nights https://medium.com/silicon-valley-global-news/neurotechsf-sf-vr-360-noisebridge-91a34d788a5d
+
+The story so far: https://medium.com/silicon-valley-global-news/noisebridge-went-to-the-maker-faire-in-this-article-you-will-learn-about-ngalac-the-93f4857d3014
+
+Watch the Neural Lace Podcast Season 2 Episode 1 NeuroTechX and OpenEIT https://youtu.be/aexQwTpOwYc with Jean Rintoul to get the big picture vision of what we want to accomplish.
+
+Also watch the Neural Lace Podcast S2 E2 with Jules Urbach https://youtu.be/yMsaNsqzjFQ
+
+Previously: We made significant progress at the July 29th, 2018 meetup: We were able to cause voltages from the skin to move objects in WebVR. https://www.facebook.com/worksalt/videos/2332211350138832/
+
+Other links including the Github and our online groups: https://medium.com/@vrma/list-of-links-from-neurotech-sf-vr-on-8-31-2018-7a80cfd3901b

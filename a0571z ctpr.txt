@@ -1,0 +1,20 @@
+a0571z ctpr
+The note was created Sept 2012
+(synap, neuron)
+
+Micah Blumberg
+Can any chemical change in the brain be considered a computation?
+
+Dean
+Any computation in the brain requires chemical changes (since the brain primarily employs chemical synapses - not electrical synapses). I'd be careful about claiming the converse however since it is possible that certain chemical changes may have a negligible effect on the resulting computation.
+
+Micah Blumberg
+the neurotransmitters in the chemical synapses balance the neuron's charge, while creating a charge imbalance in the next neuronp. so the chemical synapse is also really an electrical synapse :)
+
+Dean
+Well, yes, while it's true that both types of synapses are electrical in nature, the two types are classified separately based on their characteristics. 
+
+Chemical synapses communicate via movement of ions (atoms containing charges). Since these atoms are physically propagated through the neuron, their movement is much slower than an electrical current. However, these atoms are also much more complex than a simple electron and so carry much more information, providing for much richer computational capacity.
+
+Electrical synapses on the other hand are much faster, but because they cannot induce gain (the amplitude of the electrical signal is generally smaller on the post-synaptic side of the gap junction due to attenuation), and because electrical synapses to not employ receptors and because the sign of the electrical charge is always the same as the source, the amount of computation possible is far less than that of chemical synapses.
+

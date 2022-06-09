@@ -1,0 +1,19 @@
+a0533z ctpr
+
+(neuralink, dopamine, neuron) Links to what I'm reading http://simp.ly/publish/cSDLQ3
+Sun Jul 25
+2021
+Reinforcement learning links spontaneous cortical dopamine impulses to reward
+original https://www.cell.com/current-biology/fulltext/S0960-9822(21)00898-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221008988%3Fshowall%3Dtrue
+
+Non-contact long-range magnetic stimulation of mechansensitive ion channels in freely moving animals
+original https://doi.org/10.1038/s41563-020-00896-y
+
+Am I my connectome? Each human brain possesses a unique, intricate pattern of 86 billion neurons. If science can map it, immortality beckons
+original https://aeon.co/essays/mapping-the-brains-connective-structure-could-unlock-immortality?fbclid=IwAR2qIGVutZfBFgVaCZk9UQV4fo5UxJqjseb_NFZJMtfA9V3PWAfSSSOmTZ8
+
+The Future of Brain Machine Interfaces - Shivon Zilis, Project Director at Neuralink | CUCAI 2021
+https://youtu.be/CkUcCcRq_eM
+
+Tags:
+  dendrite, neuro

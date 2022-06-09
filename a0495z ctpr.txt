@@ -1,0 +1,32 @@
+a0495z ctpr
+October 16th 2012
+(graph, layers, cortex, neuron) 
+Micah Blumberg An interesting note, Fred, is that Diffusion Tensor Imaging, in this case, is showing us the white matter of the brain.
+
+This white matter in the center is myelinated axons that connect the grey matter neurons in the neo cortex to the rest of the body.
+
+So it makes a lot of sense that they are look like ribbon cables, since they are thought by some to be serving a similar function to ribbon cables or fiber optic cables.
+
+What isn't modeled here is the "grey matter", or the neo cortex, which is what some like Jeff Hawkins of Numenta, and at the moment Blue Brain is focused on modeling.
+
+It's thought by some that the neo cortex with it's cortical columns, in a hierarchical structure can also be represented with a grid, but it's a vastly more complex grid
+
+(a three dimensional grid with vertical flows of information, and vastly more horizontal flows of information, three axis, information flowing up and down, vastly more down than up, left to right, right to left, front to back, and back to front.)
+
+What also isn't modeled is the extra power of large brainwaves which do reach beyond what they are directly connected too to trigger cells(parts of the grid) that are not connected via the grid format.
+
+The neo cortex (what isn't modeled in these diffusion tensor images) is thought by some to be much more dense in it's complexity than the visually simpler myelinated axons featured in the diffusion tensor imaging as we have seen here.
+about an hour ago · Edited · Like · 1
+
+Fred Becker Thank you for the discussion. To see if I understand, I will read back what I hear. First, there are layers here and the physical geometry may support additional communication paths in a sort of virtual geometry even (e.g., large brainwaves might actually be large brain structures). Second, the white matter is a grid, but not necessarily the grey matter. The grey matter is still being modeled and discovered. So my thoughts about this: It would still be interesting to know in what way the white matter grid structure makes and breaks connections. My main theoretical interest is whether the resulting connections form directed graphs and whether these graphs contain loops. Also, the same interest applies to the more complicated grey matter structure: are these purposed for forming directed graphs? Perhaps ultimately it is the large brainwaves only that are the directed graphs? I suppose that is the final idea here: are directed graphs employed anywhere in the brain and might these be used for actual mathematical computation that can be converted to matrix mathematics and hence equations.
+39 minutes ago · Like 
+
+Micah Blumberg One strong possibility is that your brain isn't doing any logical computation. It's just doing intuition, which is means it's making connections. (making connections to make associations, to make meaning, to make concepts, to predict causes, to model the world as you know it, to model words, to model the connections between beliefs, motor controls, consequences, etc...)
+
+This connection making can model just about anything, including visual objects, words, sounds, paths you can walk, the links between rewards, consequences, motor controls, inhibitions.
+
+The meaning of anything is perhaps just a token that represents the connections between associated points. A token being like a specific set of connections between numbers in a matrix.
+
+This intuition can also learn the meaning and purpose of tools, including logic and reasoning, it can use these tools to vet it's own intuition, and to attempt to explain it's intuitive positions to other minds.
+
+Intelligence may use logic and reason as tools, via intuition (from previously learned patterns), while at the same time being an entirely pre-logical pre-rational process of connection making. In short, it appears that intelligence is possible without any logical computation at all. 

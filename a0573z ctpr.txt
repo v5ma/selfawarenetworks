@@ -1,0 +1,65 @@
+a0573z ctpr
+Apr 6, 2015
+(synap, neuron)
+Duffy Toler This looks like that acoustic vibration theory of the brain. A thinking system that evolved from meat, using an incredibly slow data transmission rate might just use a bizarre technique like this.
+April 3 at 8:51am · Unlike · 2
+
+Micah Blumberg I always like this "Neurons communicate using Action Potentials (APs) that
+propagate along axons" 
+
+rephrase it, and it's like, "neurons communicate with other neurons by sending a signal down the middle of a neuron, between one end of one neuron to the other end of that very same neuron, but not between neurons, that's how we expect you to believe that neurons communicate."
+
+why are there are million publications that insist neurons communicate with a signal that travels through the middle of a neuron?
+18 hrs · Edited · Like
+
+Duffy Toler I want to scream, too! But not because of the issue with action potentials, I just want to scream. Screaming into a pillow just doesn't cut it. Maybe I should go out in the woods. Anyway, what was that about a signal down the middle of a neuron?
+April 4 at 3:06pm · Unlike · 2
+
+Micah Blumberg the axon does not extend from one neuron to another, so an action potential on that axon isn't communication, communication implies signals between two cells. the AP Action Potential is not a signal between cells.
+
+why are publications getting this wrong?
+April 4 at 10:38pm · Edited · Like
+
+Maxwell Edison Ok, so what is the action potential then?
+April 4 at 8:48pm · Like
+
+Micah Blumberg For a neuroscientist it is an indicator or neural activity, it could be seen as a vague indicator that neural communication could be happening, and it is 1% of neural activity. An AP however is not communication between cells.
+April 4 at 10:39pm · Edited · Like
+
+Micah Blumberg An action potential "As an action potential travels down the axon, there is a change in polarity across the membrane. The Na+ and K+ gated ion channels open and close as the membrane reaches the threshold potential. At the beginning of the action potential, the Na+ channels open and Na+ moves into the axon, causing depolarization. Repolarization occurs when the K+ channels open and K+ moves out of the axon. This creates a change in polarity between the outside of the cell and the inside. The impulse travels down the axon in one direction only, to the axon terminal."
+Micah Blumberg's photo.
+April 4 at 10:40pm · Edited · Like · 1
+
+Micah Blumberg As you can see, by the illustration, it doesn't travel between cells, it travels across the axon.
+April 4 at 10:41pm · Like · 1
+
+Micah Blumberg The establishment of global experts expects everyone to believe that neurons communicate by something that doesn't travel between neurons, but instead in every illustration travels across part of the middle portion of a neuron called the axon.
+18 hrs · Like
+
+Duffy Toler So... like saying a signal traveling just from the amplifier to the speaker in a phone doesn't count as "communication" because that part isn't going phone-to-phone?
+18 hrs · Unlike · 2
+
+Micah Blumberg So in your analogy the axon is like the wire that travels between the amplifier and the speaker in the phone. In your analogy the Action Potential is a signal that contains meaningful information?
+
+I am not going to argue that the action potential isn't a part of what our cells do for some of the time that they are communicating.
+
+what travels between the "amplifier to the speaker in a phone" isn't necessarily communication between phones, it might be an alarm clock, it might be music playing. It might accompany communication some high percentage of the time, but it isn't communication itself.
+1 hr · Edited · Like
+
+Micah Blumberg I think if you flat out tell people that the Action Potential itself is communication between cells that you are grossly misleading people away from looking at a critical process that needs a much closer examination. There is something else going on with communication between cells that is much more specific and much more important than a rate code. Although a rate code is important, it's a small part of a bigger more complex more nuanced communication device.
+1 hr · Like
+
+Micah Blumberg "a signal traveling just from the amplifier to the speaker in a phone" I just keep thinking: "damn, that's a good analogy" I appreciate that one. Really interesting to just think about.
+1 hr · Edited · Like
+
+Maxwell Edison The action potential doesn't necessarily have to be a "rate code" as normally spoken about. The presynapse acts as a low-pass filter for the spike train, so what's actually communicated is the train convolved with the synaptic kernel (which is tunable), rather than the spike train itself.
+1 hr · Unlike · 1
+
+Micah Blumberg See there are two possibilities here that I need some research on. 
+
+One is that the axon terminal is like a speaker, and the rate code of the spiking, via the pre-synapse as a low-pass filter, is like an electric signal. The output of the axon is like a shot gun blast to all the axon terminal branches, and all the synapses.
+
+The other possibility is that the axon terminal is like a phone network, where really one branch of the axon terminal, leading to one neuron out of ten thousand becomes the singular recipient of most of the axon potential signal. In the second scenario when the axon fires it's not blasting out a shotgun of messages to all, instead it is sending a sophisticated message to primarily one specific synapse, or a specific number of synapses but not necessarily all of them.
+
+In the second scenario, the action potential is not communication, but instead it is an energy catalyst for communication, like the power supply of a router is not communication, its just the power supply.
+1 hr · Like 

@@ -1,0 +1,70 @@
+a0574z ctpr
+Note Created Nov 2, 2013
+(synap, neuron, hebb)
+
+Micah Blumberg
+Well there could always be a problem with the simulation. Doing something for real, in the real world, with hardware, goes around all the potential flaws that could be built into the simulation by the bias of the insiders who are setting "the right level" and deciding "what constitutes a measure of success" besides limiting your strategy to doing a simulation first is modeling, modeling is reductionist thinking.
+
+Monica Anderson
+What makes a hardware project that performs to spec different from a software project of the same complexity that passes all unit tests?
+This hardware, my software AND SYNAPSES IN BRAINS are all implementations of Learning Machines and what "learning" is is 100% an issue in Epistemology. Get the latter part right before attempting any others. If you don't KNOW what is right at the epistemological level, then find the cheapest way to test it on real problems. And that is (in the current state of technology) going to be a software simulation.
+
+Micah Blumberg
+"What makes a hardware project that performs to spec different from a software project of the same complexity that passes all unit tests?" the only answer is at most a hypothesis until you actually do both the hardware and software simulation and see if there are any differences in outcomes. was the software simulation perfect or not? one has to build the hardware to prove it
+"If you don't KNOW what is right at the epistemological level" who can know this? at the most one can have a hypothesis, until one actually builds a working model there shouldn't be any belief that anyone knows anything for a fact, it must be proven first
+
+Micah Blumberg
+"This hardware, my software AND SYNAPSES IN BRAINS are all implementations of Learning Machines and what "learning" is is 100% an issue in Epistemology. Get the latter part right before attempting any others."
+this is the part I'm having trouble articulating a response to. Why does anyone have to figure out the Epistemology issue before they build synaptic analogs? Why does it have to be tested by software to fit some artificially contrived imaginary Epistemology mold, that itself is a reductionist model, first. If it doesn't fit some Epistemology model first it supposedly "doesn't work" how does that make sense? Maybe it works by some Epistemology model no one has thought of yet? Why do we have to get the latter part right before attempting any others. Why do we have to do it the cheapest way? Why does everyone have to be corralled into doing the same way? Isn't it to our advantage if everyone tries something different? All we have are guesses, a hypothesis is a guess until someone proves that their hypothesis is true. UNTIL someone proves their hypothesis is true it is in their interests to NOT TRY TO CURB HOW OTHER PEOPLE ARE DOING IT DIFFERENTLY. No one knows what the wrong ways are because we all only have a guess, a hypothesis, no one knows until they prove it physically with a working AGI. Besides this doesn't say that it is about an attempt to build an AGI, the implied context of AGI isn't actually stated in the article, this proof of concept might be too early for them to be thinking about AGI.
+If this device could be made small enough so the "memories" are counted in single eV, then it would be discretized as the synapse (vehicles) and thus robust (if each eV can be kept safe...). 
+I would also propose a "print now" gate so it would not always learn.
+How should this be seen, is it like combining an alternative type of memristor (Stanley William's is based upon TiO2) with a transistor?
+Stanley William's memristor can work as a switch also.
+
+Monica Anderson
+We have multiple theories for how synapses work. They picked one of the older and simpler ones. Others have already been published.I happen to have demonstrated to my own satisfaction that what they implemented is insufficient and likely incorrect for any task where we'd need something like a synapse.
+I have assumed I'm allowed to critique research? Starting with software simulations they would have found this out sooner and cheaper. The solutions would have been isomorphic at the model level. I'm trying to guide others with similar ideas to take the easier route, which in this case happens to be software. But I have no illusions that anyone believes they "MUST" do it my way on my say-so. Everything on FB is opinion.
+I don't see anyone building anything where this kind of stuff would be useful. I could be wrong, but that's my opinion as someone working in the field.
+As an example of where this has gone in the past, consider the Connection Machine. Hillis and friends built a very flexible neuron-and-synapse machine but once it was built, didn't know what to do with it.
+A recommended approach: Create an open source software library that embodies this synapse algorithm and see who manages to use it in productive ways and what they do with it. Release new versions until more people find it useful. You can design hardware when you know what's needed and what works.
+Let me give a couple examples of what I mean by Epistemology. "You can only know what your senses tell you". If something happens behind your back, you will not know. The AI community was told this by McCarthy and Hayes in the Frame Problem paper but they continue to ignore this, creating models of the world and assuming they are correct even when the world changes... and building systems too poorly equipped to handle continues updates and conflicting information.
+Another one: "You can only learn what you already almost know" (Winston). This they have only recently taken to heart; that's what Deep Learning is all about. There are many others. Some I discuss in my videos and papers. The most important part is clearly the need for Autonomous Reduction which most AI research is still ignoring.
+And the hint that Model Free Methods are available, work well in Bizarre domains, and are widely used in other disciplines should be taken more seriously if we want to make progress towards real AI.
+2 hours ago · Like
+
+Dean
+While there is still much yet to understand about "how synapses work" at the molecular level (e.g. which particular genes are expressed resulting in the production of specific proteins forming various types of post-synaptic receptors), it's misleading to claim there are "multiple theories". 
+The general mechanisms involved in synapses are quite well understood, and a good deal of work continues focused on unraveling the molecular details (an entire field of study called proteomics). To get an idea where we are in our understanding at this level I recommend reading some the work published by Seth Grant.
+The models implemented in the Blue Brain Project (and now the Human Brain Project) model synapses quite realistically, down to the process of exocitosis on the pre-synaptic side of the synaptic cleft, the binding of neurotransmitters to specific proteins contained within the ion channels on the post-synaptic side, the opening and closing of these voltage and ligand gated ion channels and the subsequent influx or efflux of Na, K, Ca, or Cl, resulting in the depolarization or hyperpolerization of the post-synaptic cell. 
+Many other models which implement the Hodkin-Huxley or Izecovich, or even LIF (leaky integrate and fire) models are less detailed than Markram's models - a trade-off for computational performance reasons, still implement STDP (spike timing dependent plasticity) as the basis of synaptic function. STDP is a form of Hebbian learning that has been empirically verified for well over a decade.
+57 minutes ago · Unlike · 1
+
+Monica Anderson
+That's a pretty good description of synapse function. How much of that did they get into this hardware?
+For that matter, how much of that do Memristors do?
+
+Micah Blumberg
+It seems like they are missing the diversity of neurotransmitters which are supposed to allow a neuron to fire in response to a broad contingent of information critera via milisecond timing expectations. Perhaps they are working with the idea that the diversity of neurotransmitters is altering the timing delay as a whole synapse, because of that idea they think they don't need different kinds of neurotransmitters. Maybe they have simplified the workings of a synapse from advanced understanding, or else they have simplified it to have a simple synapse.
+17 minutes ago · Edited · Like · 1
+
+Dean
+That's a good question. There's not enough detail in the article to know for sure, but it does mention "just as in a natural synapse, the strength of the connection depends on the time delay in the electrical signal" which could indicate that there is something analogous to STDP involved. 
+After some digging for the paper, a little more information is found in the abstract of the paper...
+"By simulating the time difference between postneuron and preneuron spikes as the input parameter of a gate bias voltage pulse, synaptic spike-timing-dependent plasticity learning behaviour is realized."
+http://www.nature.com/.../ncomms3676/pdf/ncomms3676.pdf
+24 minutes ago · Unlike · 1
+
+Micah Blumberg
+I know someone who writes to authors of studies personally, explaining that he does journalism, and he asks for a free copy from the authors themselves and most of the time they just send it.
+
+Monica Anderson
+I did not dig out the paper like you did or even find the abstract; so I may have jumped to unwarranted conclusions about this research. It looks a lot more on-the-ball than I thought when I posted this. In fact, reading even the article (not even the paper) more carefully I should have noticed that they did a lot more than I thought they did.
+I stand corrected, regarding this paper, and will try to remember to dig deeper before criticizing any research in the future.
+Some of my points remain in the general case; past efforts, mostly the memristor crowd's claims of being synapse-like, have been grating on my nerves. But this research didn't deserve my criticism and I wish I could take it back. I won't, I'll let this stand because perhaps I can serve as a warning to others.
+
+Micah points to some limitations of their model that I myself haven't considered in my past work. Perhaps it's me that's been too naïve. I'll need to consider whether those things make sense in the context of the differently simplified Models of synapses I've been using. To clarify: I make simple models of neurons and synapses myself and I look to Epistemology to tell me whether a simplification is allowed or not. If I can't understand after a careful analysis whether something matters, then I'm more likely to throw it out - at least until I get some experience with what I have so far. Micah and this Harvard group seem to consider MORE than I do in certain areas.
+
+Ah well, live and learn; perform experiments, and learn faster.
+
+
+

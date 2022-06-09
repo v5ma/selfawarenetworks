@@ -1,0 +1,28 @@
+a0526z ctpr
+(emotion) emobit
+
+EmotiBit open source wearable biometric sensor
+
+https://www.geeky-gadgets.com/biometric-sensor-15-04-2021/
+
+EmotiBit open source wearable biometric sensor
+9:50 am April 15, 2021 By Julian Horsey
+
+
+freestar
+A new open source Arduino driven wearable biometric sensor has been created by the develop and team at EmotiBit, offering an easy-to-use sensor capturing high-quality emotional, physiological and movement data that is 100% user owned. Thanks to its open source design and Arduino compatibility data from the sensor can be streamed wirelessly to any platform, enabling artists and makers to unlock new perspectives on biometric signals. The data is 100% user-owned and can be directly recorded to the built-in SD card, empowering anyone to explore their own health and wellness without reservations about where that data might end up.
+
+EmotiBit is able to detect 16+ biometric signals that are constantly traveling throughout our bodies, reflecting our moment by moment physiological and emotional changes.
+
+wearable biometric sensor
+
+Early bird pledges are now available for the interesting project from roughly $199 or £145 (depending on current exchange rates). If the EmotiBit campaign successfully raises its required pledge goal and production progresses smoothly, worldwide shipping is expected to take place sometime around February 2022. To learn more about the EmotiBit wearable biometric sensor project review the promotional video below.
+
+“We believe that understanding these signals may be a key to unlock human potential in the 21st century and we’re creating EmotiBit to empower personalized health and wellness, better understanding of emotions and empathy, and possibly even open the door to new capacity for communication and cognition. Our cross-platform visualizer (Mac, PC, Linux) is built on the OpenFrameworks creative-coding toolkit to make it easy to start streaming data and allow open-source customize-ability!”
+
+EmotiBit open source wearable biometric sensor data includes:
+
+– PPG (3-wavelength) that can derive heart rate, heart rate variability, respiration, oxygen saturation, hydration and (we believe) much more!
+– EDA / GSR (electrodermal activity / galvanic skin response) reflecting sympathetic nervous system responses that are driven by cognitive and emotional arousal.
+– 9-axis IMU (accel, gyro, mag) that can derive movements, activity, gesture, rotation, and cardinal direction.
+– Body temperature that can be used to assess health as well as emotional reactions.

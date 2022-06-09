@@ -1,0 +1,51 @@
+a0523z ctpr
+note from Sep 19, 2012
+(dendrite, synap, neuron)
+
+I didn't say they communicate an infinite amount of information, that's a total misunderstanding of what I wrote
+they communicate a sparse distributed representation of their complex structure
+storing an infinite amount of information and communicating an infinite amount of information are two different things entirely.
+it's the difference almost between sending a photograph of Taj Mahal and sending the actual Taj Mahal
+a photograph being an SDR of the actual place
+"Its impossible phsically" this statement is not an actual counter argument that re-articulates the original argument and demonstrates how the original argument is incorrect.
+Channel capacity is not storage capacity. Those are two different things.
+
+Ryan Cahoon
+sparse representations work by the premise that the transmitter and the receiver already have the same codebook/set of bases. sparse representations don't allow you to transmit more information, only to more efficiently utilize the information that is transmitted
+at least on an abstract level, channel capacity and storage capacity are the same thing. storage is just communication with time delay. if i have a magic device that can store an infinite amount of information in a finite amount of space/time, i can simply mail that device to you, and i've created a communication channel. additionally, you would need some sort of communication channel(s) to input and output the information in storage
+
+Micah Blumberg 
+neurons do have the same "genetic" codebook/set of bases, so SDR would work from one neuron to the next
+
+the point is not that the SDR is allowing you to transmit more information, the point is that the neuron contains vast sums of information that are represented as an SDR with each transmission, if the SDR does not change when the neuron fires, then it's as if changes to dendrites are not communicated at all.
+
+It would be like data being stored, but never transmitted, because the SDR would be identical before and after the change to the dendrite if the SDR did not change in respond to changes to the whole shape of the neuron.
+
+Channel capacity in the context of noise refers to the rate of information you can send all at once.
+
+Noise would negate a perfect transmission of infinite information, but no one is suggesting the transmission of infinite information, only an SDR of infinite information.
+
+If there was total information loss when a neuron fired, then the most that a whole neuron can represent is 1. Then your whole reality consists of 86 billion one's and zero's. Because at that point the information in a dendrite, and in a synapse is going no where fast. It would be as if every person you met said the exact same thing. "Hi" and never said anything else. Because every time every person opened their mouth (neuron fires) it's the exact same pulse) So it would be like talking to someone, then they reduce everything you said to 1, and then they went and spoke to whomever. There would never be anyway to know anything except the number 1. My cup fills up, and I empty my cup, my cup fills up, and I empty my cup. My cup fills up and I empty my cup.
+
+Lets say you have three neurons, A, B, and C.
+
+A is connected to B, B is connected to C, but A and C are not connected at all.
+
+When A fires, it fills up B, be zeroes out all the information that A sent into "Hi" and fires, filling up C.
+
+So now C has zero awareness of any neuron it's not directly connected to.
+
+Yet you have your whole field of vision, which requires a distributed representation of many neurons, the detail are v1 neurons, the bigger stuff physically and conceptually like your whole computer might be represented by v4 neurons and other neurons, each part of what you see is represented by all these neurons.
+
+How is it that you have a whole picture of everything, if each neuron can only see the data from it's directly connected neighbor?
+
+because it's getting reduced to "Hi" in the single neuron pulse.
+
+Which small group of connect neurons is running your whole field of vision do you think?
+
+There is no way to unify the vision of billions of neurons, if the single electrical pulse of a neuron firing is reducing all the information to an identical message every time like "Hi"
+
+The electron itself is conveying a detailed temporal/spacial modality to the rest of the brain.
+
+That's how you have a field of vision, that includes input from all your neurons.
+6 minutes ago · Like 

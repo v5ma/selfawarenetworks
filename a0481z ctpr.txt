@@ -1,0 +1,4 @@
+a0481z ctpr
+(synap, dendrite, vector)
+the matrix is the arrow or morphism between points or objects which are vectors
+The matrix represents associations in the brain, like a synapse-dendrite association, in Gothendeick topology the matrix is the arrow or morphism between objects (points, sets, names) which are the vectors inside these matrices.
