@@ -1,0 +1,31 @@
+a0256z ctpr
+(oscillat, dendrite, neuralink, emotion, cortex) some rapid fire questions
+what is the brains equivalent to a bit of information? and is it binary?
+there is a metric structure to knowledge??
+this metric structure lets you solve problems,
+
+I would say that the language of cells & also of the brain is about differences in phase patterns, and the basis of a bit of information in the brain is the coincidence of phase patterns, the basis of an anti-bit in the brain is the splay state (the opposite of a coincidence, polar opposite timing) I just defined anti-bits in the context of computational biology & the human brain. HAHA
+
+makes it possible for you to understand the relationships between different things.
+grid cells & place cells explain how information is stored? different components but they have the same structure to them?
+microcolumns or micro neural circuit clusters that represent separate oscillator patterns?
+incorporating dendrite based predictions into neurons
+
+if you hear the sound of a cat, you can invoke in V1 they will fire, that represent a cat
+okay so he is saying that the sound of a cat in the audio cortex that will trigger the V1 to fire to represent an image of a cat, so the image of a cat in the visual cortex may trigger the audio cortex to fire, so I could call the V1 cortex to the audio cortex 
+
+2016 Numenta paper, include contextual processing from dendrites
+
+2. do you think neuralink devices be able to decode cortical columns, will that lead to decoding human thoughts, images, and sounds from the brain
+
+would a neuroimager be able to tell that voting has happened?
+would neuralink be able to decode cortical columns and voting by listening to individual columns and decoding them?
+
+short term memory is happening in the activity micro-columns 
+brain computation is organized via power of 2 brain computation
+
+3. I'm thinking about a book Rhythms of the Brain, I don't know if you have read that, but do you have some predictions for how reference frame's effect the brain's oscillations in a mechanical way?
+4. what is your prediction for how emotions fit into reference frames.
+5. do reference frames exist on larger scales beyond what an individual column models?
+the same mechanism can store knowledge in a reference frame
+a coordinate by a collection of neurons is a prediction for what happens next

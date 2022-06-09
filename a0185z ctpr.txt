@@ -1,0 +1,99 @@
+a0185z ctpr
+noted from May 1, 2015
+(synap, graph, oscillat, dendrite, cortex) April 29 at 11:05pm · Like · 1
+
+Micah Blumberg "The substrate is trivial and would very quickly be optimal." That statement can't be applied to organisms. The brain from one species isn't a trivial difference from the substrate (brain) of another species. The idea that there is some optimal threshold of intelligence beyond which there will nothing left to improve reminds me of the story of the Patent Clerk who said that all the inventions had been invented already, and that there was nothing new left to invent. I'm pretty sure that was before Nikola Tesla. You can't really believe that.
+3 hrs · Like
+
+Micah Blumberg Charles H. Duell was the Commissioner of US patent office in 1899. Mr. Deull's most famous attributed utterance is that "everything that can be invented has been invented."
+3 hrs · Like
+
+Karoliina Salminen Micah Blumberg On neuron level the difference between species is trivial. All species have neurons, synapses, axons and dendrites that function the same way. There may be different "neuron types" on different species with different firing patterns, but I would think the firing pattern is a property of neuron, not a class of neuron, when it comes to computation. And these firing patterns could be possibly learned as well or evolved to be optimal rather than trying to find every hundeds of different variants and after that discovering that there are hundreds more and after that probally noticing there are thousands more and so on. 
+
+How brain is wired (synapses, axons and dendrites) is not part of the code. That is part of the data in a mfm system.
+3 hrs · Like
+
+Micah Blumberg "On neuron level the difference between species is trivial"
+
+That's not true!
+2 hrs · Like
+
+Micah Blumberg There are studies where human brain cells have been planted into mouse brains and massive increases in learning performance have resulted.
+2 hrs · Like
+
+Micah Blumberg The glial-neural metabolism in humans is vastly superior to that in mice, and if you transplant it into a mouse it's thinking massively improves.
+2 hrs · Like
+
+Micah Blumberg Human glial cells alone can massively improve the performance of mouse neurons, optimizing the metabolism of their little brains.
+
+The substrate, and the wiring massively effects the performance of the system, and the performance of the system is the code. A tempo-spatial code.
+2 hrs · Like
+
+Micah Blumberg A tiny improvement to the human brain might result in a massive leap forward in human intelligence.
+2 hrs · Like
+
+Micah Blumberg The oscillating frequencies in the human brain, that capture and convey temporal and spatial patterns might be relative to one another in an important sense, but if you engineered a 50x multiplier that sped up everything, but kept the performance of each component the same relative to every other component then it would be like the same person, with the same ideas, but 50x times faster. When you have a human brain, who's metabolism is 50 times faster, and whose thinking is 50 times faster, well that is going to allow them to change the game 50 times faster than they could before. When you have an artificial brain, that can operate 10,000 times faster, that's like ... relative to you, one second of your time, is ten thousand seconds to it. Given that your brains have about the same size.
+
+It's not just neural metabolism that makes a difference. It's also the number of layers in the cortex. A human brain has six layers. A dolphin, whale, or elephant with a bigger than human brain has only one layer. Yet there are huge cognitive differences between humans and these specific animals. The amount of layers in a neo cortex is not trivial. What happens you give an AI 12 layers? What happens when you stack 12 layers of AI Cortex on top of a human neo cortex? 18 layers! What about 1800 layers? You can build it, you think it won't make a difference? It will make a difference. What about a neo cortex with a million layers? It will make a huge difference!
+2 hrs · Edited · Like
+
+Micah Blumberg "When you have an artificial brain, that can operate 10,000 times faster, that's like ... relative to you, one second of your time, is ten thousand seconds to it."
+
+That's a way to understand something that is massively more intelligent than you. Your experience of time, and it's experience of time. When it has a faster and bigger brain, a single day, will feel like a decade to it, but like a day to you.
+2 hrs · Edited · Like
+
+Micah Blumberg After you read my argument you can not possibly believe this "the substrate is not even critical"
+2 hrs · Like
+
+Micah Blumberg Just saw this http://www.seriouswonder.com/nick-bostroms-optimism.../
+
+Nick Bostrom's Optimism That Superintelligent A.I. Will Share Our...
+SERIOUSWONDER.COM
+2 hrs · Like · Remove Preview
+
+Karoliina Salminen Micah Blumberg Do you think the modeling of glial cells is necessary then?
+2 hrs · Like
+
+Micah Blumberg The evolved metabolic performance of the substrate of a human brain is an analogy for the capacity to engineer massive improvements in the speed and capacity of machine intelligence.
+2 hrs · Edited · Like
+
+Karoliina Salminen This is of course highly speculative as today's computer models are far cry from even modeling the basics right, and glial cells probably has not been in consideration even by many that work on AI.
+2 hrs · Unlike · 1
+
+Karoliina Salminen Many still use ANNs which do not even model synapses, dendrites or axons properly. And it obviously also misses all dendrite-dendrite connections and axon "patch cable" joints.
+2 hrs · Unlike · 1
+
+Karoliina Salminen Instead of modeling a articifical neuron on level that it minics the function of real one, many in other words, use rigid weight matrices which are biologically extremely unrealistic and based on 60 years old science amd not today's
+2 hrs · Unlike · 1
+
+Micah Blumberg RNN's are really useful for voice recognition, and better than human image recognition, especially when combined with modern day graphics cards like Nvidia Titan.
+
+So I don't want to say artificial neural networks are all useless, because of course its not true.
+
+Yet the idea of the spiking model, is that neurons communicate with spikes, and you see that idea all over neuroscience publications and all over computational neuroscience publications.
+
+The idea that neurons communicate with spikes can't be true for the simple fact that a spike goes from one point on one neuron to another point on that very same neuron. The Action Potential spike doesn't actually travel between cells. So how can entire industries promote this idea when all you need to do to see that it's wrong is to look at even the most basic illustration of a neuron.
+
+Somehow billions of human brains can't connect visual information with text based information? In 1960 people knew this much at least about a neuron. So why?
+Micah Blumberg's photo.
+1 hr · Edited · Like
+
+Micah Blumberg A spike rate is a poor indicator, a small percentage, like 1 percent of brain activity. So a model based on spikes is like one percent of what it could be. hehe
+1 hr · Like
+
+Micah Blumberg We won't have to model neurons and glial cells in a machine to make it high performing, in my opinion, but we are modelling neurons and glial cells to learn what makes them high performing.
+1 hr · Edited · Like
+
+Micah Blumberg It's possible that future engineers will actually design next generation artificial brains with actual dna as the structure, and it might have actual organic metabolism.
+1 hr · Like
+
+Micah Blumberg Why design computers with silicon when we can design computers in dna?
+1 hr · Like
+
+Karoliina Salminen Neuroscience tells the accumulated spikes get converted to chemical transmission in synapse and the post synaptic neuron again converts that to spike. How this is not true? If you have better insight than the picture, please elaborate.
+1 hr · Like
+
+Micah Blumberg I already said it, and you skipped around it, the spike is 1 percent of the neurons activity. the communication happens in the synapse, but for all the communication that happens between synapses, the spike only happens 1 percent of the time, so a model based on spikes is 1 percent of what it could be
+1 hr · Edited · Like
+
+Micah Blumberg this is why the statement, that neurons communicate with the spike, is not only demonstrably wrong if you point to any illustration of an axon on a neuron, but it's also the wrong level of focus, because when we are talking about communication between cells, we need to actually focus on what happens between two or more cells, and that is the synapse, that's where the dimensionality of the networks ability to calculate is massively multiplied beyond spiking models, it still includes spiking, but spiking plays a smaller role in network activities 

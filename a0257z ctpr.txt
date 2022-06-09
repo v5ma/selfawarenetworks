@@ -1,0 +1,110 @@
+a0257z ctpr
+(cascade, perception, array, graph)
+3D Imaging And LiDAR - Poised To Dominate Autonomy And Perception
+
+Figure 1: A 3D Reconstruction Of The Brain Obtained From Magnetic Resonance Imaging Mri And Magentic ... [+]
+
+ UNIVERSAL IMAGES GROUP VIA GETTY IMAGES
+
+"We live in a world full of data and imagery. With the invention of the camera in the late 1800s, entertainment, consumer, space, and medicine applications proliferated. The launch of the video camera in the early 1900s continued this revolution, and was accelerated by significant progress in supporting technologies like semiconductors, computing, image processing, machine learning and artificial intelligence. Typically, these focused on 2D renditions of images and data.
+
+"3D imaging started with specialized applications like magnetic resonance imaging in the 1980s (MRI), outer space-based LiDARs (1993) and dental imaging (1995). Since then, it has been maturing and gaining significant traction in diversified applications. The data can be generated based on various active or passive techniques. Active techniques include transmitting electromagnetic (X-Ray, radio, optical) or acoustic (sonar, ultrasonic) waves onto the object of interest, and detection and analysis of the return energy (amplitude, frequency, etc). The time or phase difference between the transmit and receive signals provides the depth dimension. Passive techniques such as stereo cameras (imaging the same object from two different spatial perspectives) can also be used to generate the required 3D data. Finally, 3D information can also be extracted from monovision cameras through a combination of machine learning and signal processing techniques, although this is generally inferior in fidelity and compute speed relative to direct 3D imaging and measurement.
+
+LiDAR is one of the most discussed and deployed 3D imaging techniques for AoT™ (Autonomy of Things) applications which includes autonomous vehicles (AV), Advanced Driver Assistance Systems (ADAS), autonomous trucking, construction, mining, surgery, smart cities and smart infrastructure. Velodyne pioneered the use of surround view LiDARs for AVs during the DARPA Grand Challenge in 2008. In the decade since, LiDAR has occupied a “must have” status by a majority of automotive OEMs for ADAS, and AV driving stack companies for localization, mapping and Level 4 autonomous driving. Tesla TSLA +3.4% and some others believe that LiDAR is not required for ADAS and AVs - their approach is to use monovision cameras to extract 3D information through artificial intelligence and machine learning techniques. While intriguing, such approaches are in the minority and are yet to be validated in real life environments.
+
+Early implementations of 3D imaging relied on classical 2D image processing methods. This is not efficient from a compute perspective and filters out significant amounts of useful data. In recent times, the amount research devoted to 3D vision and image processing has accelerated. At the premier global conference on imaging (IEEE Computer Vision and Pattern Recognition, or CVPR) in June 2021, 3D Computer Vision Imaging dominated among 25 topic categories, with 44 presentations (out of a total of ~200).
+
+MORE FOR YOU
+
+How Will Pure Play Public LiDAR Companies Use Their Money?
+
+VCSEL Technology for Next Generation 3D Sensing Applications - Part 1
+
+The LiDAR Range Wars - Mine Is Longer Than Yours
+
+LiDAR point clouds are not intuitive for humans to visualize and need processing for computers to act on. As the technology and applications mature, software companies specializing in processing of LiDAR data are emerging as critical partners for LiDAR companies. They help unleash the true power and market potential of 3D imaging data for safety and productivity applications. Seoul Robotics is one such company - a team of 40 software and algorithm specialists based in Seoul, South Korea that works with a number of LiDAR companies to integrate software that processes raw LiDAR point cloud data to produce application specific information. The software is agnostic to the actual LiDAR architecture and technology. According to Han Bin Lee, CEO of Seoul Robotics: “3D image processing requires fundamentally different techniques since voxels (3D data element) represent an order of magnitude more information (a cube vs a rectangle) and costs for annotating this data manually is very expensive”. Figure 2 compares 2D and 3D imaging in typical automotive scenarios:
+
+￼
+
+Figure 2: Rectangles vs Cuboids -The Opportunities and Challenges of 3D Imaging
+
+ SEOUL ROBOTICS
+
+As seen in Figure 2, data is structured in different ways for 2D and 3D imaging. Given the costs of human data annotation and labeling for machine learning, Seoul Robotics has built in auto-labeling capabilities as part of its object libraries and algorithms. Apart from the automotive case, Seoul Robotics is also engaged in a factory automation and logistics project in collaboration with a major automotive OEM. Their software integrates 3D imagery from hundreds of short and long range LiDARs from different suppliers in order to automate movement of thousands of vehicles and trucks in a factory environment. The system achieves this with infrastructure-based 3D perception connected to a 5G network. It is the first of its kind to be deployed on a large commercial scale. 2D cameras were used initially but produced an unacceptable number of false positives, degrading system efficiency. Simple, single beam LiDARs were also deployed, but did not provide adequate safety margins and performance. Stereo cameras were severely limited in range. A solution using a combination of high point density short and long range LiDARs, knitted together by Seoul Robotics’ software has overcome all these issues. The system is actively being co-developed with other technology providers, with planned implementations at other factory sites. Han Bin Lee: “We are looking forward to this significant implementation of 3D Vision Technology and expect it to provide massive automation benefits at a high level of safety. The experience gained in a project of this scale will be invaluable for other smart city and smart infrastructure applications”.
+
+Factory automation is exciting - but how about space debris mapping? This sounds a bit, well, spacey, but it is a real problem considering that we have been sending people and equipment into space since the 1960s. There are ~1M estimated pieces of human-created debris in space, in sizes ranging from 1 cm to several meters. These continue to multiply as collisions occur, creating what is known as the Kessler Syndrome which posits that “the density of objects in low Earth orbit (LEO) due to space pollution is high enough that collisions between objects could cause a cascade in which each collision generates space debris that increases the likelihood of further collisions.” Currently, only about 5% of the ~1M debris objects are mapped and tracked. The implications of this are immense since it constrains the launch of future vehicles (imagine space tourism and billionaires sipping cocktails in a hail of debris!) for various space exploration efforts.
+
+Digantara is an Indian company focused on space debris mapping (Disclosure: I am an advisor). The company was started in 2018 by a team of engineers/entrepreneurs to create solutions to the space debris mapping problem. They were invited to present their business plan at the prestigious 2019 International Astronautical Federation (IAF) start-up pitch event in Washington D.C. This won them accolades, and more importantly funding. Digantara’s data products will prove invaluable for trajectory planning for future space launches, predicting when collisions are likely to occur, updating the debris maps and providing input to companies as they tackle the problem of space debris removal. The Indian Space Research Organization (ISRO), a leading global space agency, provides grants, advise and technical support to the company.
+
+Current methods for space debris mapping are ground based, and use a combination of radar and 2d optical telescopes. The mapping is constrained by weather conditions, as well as lighting (cannot map during the day because of solar noise and at night because of lack of illumination). Short range mapping occurs with radar whereas the telescopes can only image at very long range due to the long integration times involved. Orbital mechanics principles and models are used to extract 3D data from from the 2D imagery, although these extrapolations suffer from from fidelity and precision issues. Atmospheric distortion further complicates the problem, with the result that earth based systems are unable to map objects less than 10 cm in diameter reliably and accurately. According to Digantara’s Chief Technical Officer, Tanveer Ahmed; “Digantara solves this problem by using LiDARs mounted on a constellation of CubeSats (small satellites, roughly shoebox size, with a 10 kg load carrying capacity). The use of active 3D imaging to obtain range information in addition to x-y location is a must - since passive imaging of fast moving objects at close ranges would require very large integration times, making the measurement useless. Additionally, LiDAR allows us to control the illumination period and wavelength, enabling significantly higher duty cycles of the mapping system. 3D Imaging in space allows for significantly higher signal-to noise (SNR) performance because of an absence of atmospheric losses and non-linear signal distortions”. The LiDAR is capable of imaging >1 cm size objects moving at speeds of up to 10 km/s at range of 100 km. Data compression occurs in the CubeSat prior to a RF based downlink to earth for further processing. A schematic of the Digantara system is shown in Figure 3.
+
+￼
+
+Figure 3: SCOT (Space Climate and Object Tracker) Satellite Concept
+
+ DIGANTARA
+
+Moving back to earth, smart phones and smart glasses beckon. Apple (AAPL) pioneered the FaceID application using structured light-based 3D imaging in previous generations of iPhones. This was followed by a world facing VCSEL-SPAD (VCSEL = Vertical Cavity Surface Emitting Laser, SPAD = Single Photon Avalanche Detector) LiDAR in the recent iPad and iPhone generations. Other phone manufacturers have followed suit, since apart from the usual photography and room mapping applications, augmented reality (AR) applications are exploding in diverse areas like gaming and industrial productivity.
+
+pmdtechnologies AG was founded in 2002 by academics with 20 years of prior research experience. Headquartered in Seigen, Germany, it specializes in 3D Time-of-Flight (ToF) imagers that generate and extract 3D data using a combination of specialized high resolution CMOS infrared imagers and VCSEL arrays. PMD stands for Photonic Mixer Device - in essence, the VCSEL emits modulated laser beams and the reflected energy is mixed within each detector pixel with a reference electrical signal to extract range information. Electrical circuits within the pixel have the capability for rejecting background illumination noise effects, making for a robust 3D imager that works for scalable ranges (to 10m) under different lighting and weather conditions. Figure 4 illustrates the imager operation.
+
+￼
+
+Figure 4: Photonic Mixer Device Operation
+
+ PMD TECHNOLOGIES
+
+Infineon and pmdtechnologies collaborated to release the first generation of this imager in 2015 - the REAL3™ image sensor - currently at its sixth generation of productization. Applications include consumer mobile and AR/VR, industrial (automation, surveillance and robotics) and automotive (in-cabin passenger alertness monitoring, as well as road-facing). In 2016, REAL3™ was designed into Google’s GOOG +1.5% Project Tango smart-phone (integrated with the ARCore or Augmented Reality software). Other smart-phone design-ins have continued with LG, Huawei and Sharp. According to founder and CEO Bernd Buxbaum, “the 3D functionality coupled with other motion sensor data in smart phones allows for highly realistic renditions of AR applications, enabling a seamless user experience. Without direct 3D measurements, creating 3D perception is difficult because it relies on assumptions of flat objects, floors and walls, is computationally intensive, and is dependent on good ambient lighting conditions”. ToF sensing enhances the AR experience by providing:
+
+Intuitive device control through accurate gesture recognition
+
+Immersive gaming and application experience through precise room mapping, surface detection, and occlusion
+
+Dramatically reduced computing power required for extracting 3D information from 2D images
+
+LiDAR capabilities integrated into smart glasses will accelerate AR, industrial productivity, education, remote expert assistance, process automation, gaming and medical applications. The combination of human vision and networked smart glasses with 3D LiDAR imaging capability opens up significant applications in knowledge management and the ongoing transition to the Autonomy of Things (AoT™) revolution.
+
+Vuzix (VUZI) is a maker of smart glasses embedded with proprietary waveguide technology that enables low weight, thin and aesthetic glasses comfortable for human use (Disclosure: I am an advisor). Headquartered in Rochester, New York, Vuzix makes smart glasses for customers in applications ranging from remote expert support, logistics and manufacturing to education and tele-medicine. Possible applications are diverse and exciting, and the newly created solutions group headed by Pano Spiliotis (Managing Director of Vuzix Solutions) works with customers to provide information from connected sensor ecosystems via smart glasses. The point is to integrate humans, sensors and stored data in a networked environment, enabling seamless work processes in individual and remote group settings (through integrated teleconferencing applications). Figure 5 illustrates this perfectly.
+
+￼
+
+Figure 5: Trainee at Site with Smart Glasses (Left) Transmits Image of Equipment to Remote Expert ... [+]
+
+ VUZIX
+
+Smart phones started the revolution by integrating location information with ride sharing services like Uber and Lyft. Smart glasses are the next frontier in driving new networked applications that fuse stored knowledge with 3D locational and visual data. According to Mr. Spiliotis, “the goal is to connect the real world to the digital world, with 3D vision and maps. Integration of LiDAR with 3D sensing capability in the next generation of smart glasses will enable significant applications ”. In addition to the example illustrated in Figure 5, these include:
+
+Medical/Surgery: Hybrid LiDAR and radar can assist a human surgeon by providing better positional accuracy of tumors during surgery. The multifaceted approach can be used to detect the presence of cancerous tumors within healthy issues by measuring the contrast in reflected signals. An example of how LiDAR could assist in surgical operations was provided in an earlier article.
+
+Construction: Accurate representations of building and interiors in vivid detail can be used by architects and designers to create and view virtual 3D images of the projects they plan to build. 
+
+Oil and gas: Differential Absorption LiDAR (DIAL) is a method of oil and gas exploration. In addition to being used to detect gas and particles, LiDAR mapping also provides an accurate 3D model of the terrain, minimizing the project’s environmental impact. This could be a beneficial tool used in oil rigs around the world.
+
+Law enforcement: Historically, fingerprint detection has been achieved using chemical reagents, such as ninhydrin or diazafluorenone. With LiDAR integrated smart glasses, fingerprints could be visualized in 3D through use of infrared lasers. This would eliminate chemicals, dusting and subsequent laboratory analysis, enabling law enforcement to scan and match fingerprints at a crime scene in a matter of seconds.
+
+It is not surprising that we survived without 3D Vision and LiDAR for such a long time after the invention of the camera more than a century ago. The technology was not scalable beyond a few complex and expensive implementations. But that is rapidly changing as consumer and autonomy application drive high volume implementations of this technology. Associated developments in optics, semiconductors, 3D image processing, artificial intelligence, robotics, computing, cloud and wireless technologies are accelerating applications not possible before. In a few years, it is certain that this new mode of imaging and data visualization will transition from a novelty to a common mode of imaging, similar to camera evolution in the past.
+
+Follow me on LinkedIn. 
+
+AoT™ is a trademark of Patience Consulting LLC
+
+￼
+
+Sabbir Rangwala
+
+Follow
+
+Cars excite me. I led the automotive LIDAR business at Princeton Lightwave until 2017, when the company was sold. I started Patience Consulting to provide expertise on
+
+…
+
+ Read More
+
+Print
+
+Reprints & Permissions
+
+Play Video
+
+Cookie Preferences
+

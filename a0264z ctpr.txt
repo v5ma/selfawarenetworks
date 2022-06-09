@@ -1,0 +1,123 @@
+a0264z ctpr
+(field, tomography) Vision Agency BCI
+What I have written to VFW so far, and their responses/questions:
+I would like to contribute to the research & development of new medical tools, combining VR with AI and BCI. To start with we can bring the community of Neurohackers from Noisebridge, but I am also a member of the global Neurohacking community called NeurotechX which is larger than Noisebridge. NeurotechX has 21 chapters globally, but we do not yet have an office for NeurotechSF so we have been working out of Noisebridge which has been great but its very limited in terms of space available because there are so many other types of projects happening, people are working in a woodshop there, in a sowing area, on creating music, on a whole bunch of other cool projects and those are all great but that leaves very little room for Neuro hacking (the development of new medical tools)
+
+Our current project combines a new portable EEG device with WebVR with an Oculus Go with Tensorflow (AI) and a Raspberry Pi (to act as a local server) Since we are focused on doing fundamental technology research our product is open to the community, so companies, and other medical researchers are allowed to use it to make products that could benefit people with serious medical conditions. The prototype works, we can demo it now, but some features still need to be implemented (such as FFT, AI, and the Pi) so its not finished yet.
+
+The next project is going to involve EIT Electrical Impedance Tomography, again with WebVR, another VR headset, Volumetric Video and 3D Cross-hair Convolutional Neural Networks. The goal is to create or acquire a 3D experience, to acquire 3D medical imagining with good spatial resolution (beyond what EEG can offer, closer to fMRI but perhaps improved beyond fMRI) and then to use Object Segmentation (3D Cross-hair convolutional neural networks) to correlate brainwave patterns with patterns in the 3D experience to establish next generation nerve correlations.
+
+We could benefit from a much larger space, and possibly help with applying for grants to get funding for this project. I would very much like to help real people such as the people at the Veterans of Foreign Wars.
+
+I'm also a member of another team called The Vision Agency that combines EEG, ECG and other sensor tech with VR one of our products is has a website at MicrodoseVR.com and was featured at the Smithsonian this past summer and at CES 2018 by Intel and HTC. MicrosdoseVR is intended to be the kind of app that we hope doctors will someday prescribe to their patients for variety of illnesses, like PTSD, and for pain relief, anxiety relief and more. The MicrodoseVR has been looking to create an alternative health center for a long while. We would like to have people come use our VR products equiped with biofeedback sensors technologies. At the same time we want to keep doing fundamental research to create new technologies or new applications from novel combinations of existing technologies.
+
+Sheridan mentioned that the VFW group might be interested in having a neurohackers group use the empty space at the Veteran's building in SF.
+
+We would like to do that, to build a Neurotech Research facility, with computers to develop EEG/EIT into VR, Virtual Reality software development stations, VR experience stations for Veterans and the public to come try VR experiences.
+
+We have some hardware to start with, we have a number of EEG machines, at least 1 pc, maybe more soon, we have an EIT medical imagining device that is the size of a mini refrigerator. 
+
+We also have the ability to invite the folks from Noisebridge to share the space, to bring their VR station if they wish. We have four VR headsets.
+
+So that's the first thing, we would like to use the space in the Veteran's building to move our operations into that.
+
+The second thing would be that we would like to apply for grants, or funds to acquire more equipment, and even a paid staff to build technology and test it on whomever wants to come through the doors to try out our demos.
+
+I'm also an event/community organizer so with that space we can have a regular events, hackathons, conferences, inviting the bay area, university researchers, and Silicon Valley companies to give talks, demonstrate new research new technologies and potentially become collaborators with us.
+
+I would love to be able to attract University researchers to come work with us.
+
+So the space would 1st be for Neuro hackers (developers) to work on creating novel combinations of existing technologies (like combining bci with AI and VR) and develop new core technologies, or teachable paths to using core technologies in new ways. (this is the goal of NeurotechSF and it's parent organization NeurotechX)
+
+Second it would be to engage with the community to develop applications for these core technologies, hackathons, classes, and conferences with talks and demos. (San Francisco Virtual Reality is a meetup group that has been doing this for years)
+
+We can also bring in MicrodoseVR which is a product that is designed with well being in mind that incorporates EEG and ECG into VR.
+
+So the first step is to see that space, to make our pitch to use that space, to win over folks and move our equipment to that space to start using it.
+
+We share and publish our research code on our github which is currently at github.com/micah1/neurotech
+
+With an official space we will be able to grow, and apply for funding, and potentially help create tools that medical professionals can use, and tools that can help the Veterans of Foreign Wars who will be able to visit the Veterans building to try anything that we are working on.
+
+VFW: What is the budget that the company has to work with for co-working?    When are the potential timeframes for office occupancy?
+
+Well the Neurotech SF group doesn't have much of a budget. We have been relying on our friends at Noisebridge for operating expenses. I haven't written a budget for this type of project before so I might need to consult with people who have to make sure that our numbers make sense and that we are doing thing correctly.
+
+There isn't an immediate rush to move, we could move now (provided that we could somehow raise funds for electricity, water, internet and any thing we might have to pay if we have to sign a lease) we could move in January, we could move next summer. The space we are using at Noisebridge is not going to be available come August 2019, and Noisebridge itself will have to find a new place to move at that point.
+
+VFW: It doesn't seem that the company is going to work, based on the facts presented. Is there actual planning, management or revenue? Is this a research project in experimental technology phase?
+
+If we bring in Noisebridge to talk about moving into this space with us they have actual planning, management, and revenue.
+
+NeurotechSF, the meetup I organize is doing a small budget research project, open to community participation, in an experimental technology phase.
+
+For example EIT, that I mention in this podcast that I did a short while ago, is one of the technologies we are experimenting with.  https://youtu.be/aexQwTpOwYc
+
+So if you are looking to bring in an organization that has existing planning, management and revenue, then we need to make Noisebridge part of the conversation, to bring them in.
+
+But their focus isn't fundamentally on developing new medical technologies, that's the focus of NeurotechSF and the Dreamteam Neurohackers two groups that are a small part of Noisebridge right now, (but also independent)
+
+I would like a significant portion of the space to be used for Neurotech research (maybe half of it) with Noisebridge being brought in as a partner to help with planning, revenue, and management.
+
+I believe that Neurotech research is the part that may win over Veteran's, at least that is what Sheridan's thought was. That's why I would want to plan to make sure that at least half the new space was dedicated to that focus.
+
+That would include VR and AR workstations that can be used for demonstrations, user testing, and possibly patient trials.
+
+I also did this podcast with an industry leader in the computer graphics industry asking him about how we might use rendering technology and artificial intelligence to improve medical imaging and create better medical tool  https://youtu.be/yMsaNsqzjFQ
+
+I have a business card and a short bio here at http://vrma.io
+
+I'm also the founder of Silicon Valley Global News, 3 years running with hundreds of articles and many contributors http://svgn.io
+ and I just began working on what I hope will be the next version of it in WebVR. I've been writing WebVR code to redesign my newsite in 3D
+
+NeurotechSF is also part of NeurotechX which is a global organization that has plans, management and revenue. I can alternately connect you with Yannick and some others who are part of that
+
+VFW: How much workspace is needed for allocation?
+
+VFW: Good Morning Micah, I am not sure, if you are interested... hope this helps.  On October 25th, we are inviting interested parties to learn how to build crowdfunding campaigns, including the web design/development process.  This will be an intro session.
+
+Regarding space: Noisebridge is a 5,200 square-foot space in San Francisco and we use maybe a quarter of it for events multiple times a week. My weekly Neurotech event is one of them. Noisebridge would like to move into a much larger space. With additional space we could have more VR demo stations, we could bring in more computers and more equipment (like medical equipment) out of storage and into use again. I'm an experienced web designer, if I am not able to start a neurotech research center then my fall black plan might be to start a webxr development business to build AR and VR web applications for clients who have brands. I've also participated in a number of crowd funding campaigns but I don't think that a crowdfunding campaign to sell some product is the right direction to go in.
+
+The weekly Neurotech event I have been hosting has been an unexpected success. It was Sheridan's idea that I make a bid to use the empty Veteran's building to continue what were doing which includes figuring out how to combine eeg with webvr with vr headsets with AI with blockchain so on and so forth, I don't know if I shared this but I just wrote an article about our EEG work and some other work that other folks are doing https://medium.com/silicon-valley-global-news/noisebridge-went-to-the-maker-faire-in-this-article-you-will-learn-about-ngalac-the-93f4857d3014
+ but when I say that it has been an unexpected success I mean that I am surprised that we have accomplished so much so quickly. I have also learned so much about WebVR that I could tech it and start a business as a webvr developer I think, first I am going to create a portfolio
+
+We had previously spoken to Neuroscientists and the Vision Agency that makes Microsdosevr.com
+ about creating a VR arcade alternative health center in SF, and before that I had talks with an event organizer friend about creating a VR place, like UploadVR, for hackathons, conferences and more all year round.
+
+So Sheridan's idea was synergistic with past projects I have spoken with many others about, to create an amazing place for visitors, and for our team of developers
+
+VFW: Based on experience, it's practical to dovetail the consideration with healthcare grants and research project initiatives. It is a way to search and mutually wrap the solutions, moving forward.
+
+VFW: QUESTION... Are you a US veteran?
+
+I'm not. I'm a journalist, researcher analyst and neurohacker, also webvr developer and a graphic designer. I only reached out to the VFW because Sheridan suggested that they might be interested in the tech we are developing or in the direction of research that we are headed as a tool that could help suffering veterans. So thats why I reached out to the VFW.
+
+There are studies that show the efficacy of VR for pain relief, and I would like to develop and research apps that study that category use.
+
+and we do have an app already in MicrodoseVR
+
+VFW: I will check I to see, if there are any potentially interested parties
+
+VFW: I am still busy with responding and scheduling with sincere and paying clients since January this year. It is has been more than expected, even now since TechCrunch Disrupt and Salesforce Ventures.
+
+VFW: Micah, Are you trying to build a team, at this time?
+
+I have a team of volunteers right now. It would be a different situation if I had a good plan for funding, or if I had the promise of funding, at that point I would be actively developing a team yes. I have a lot of contacts that I believe would be great (very talented people) to work with if I had funding to hire them and bring them in to work on developing Neurotech full time or on a contract basis.
+
+I am on the Vision Agency team that makes MicrodoseVR, I have a friend who is working on advanced technology to render volumetric video with a neural network solving a huge number of problems (with the typical firehose of data generated by lightfield capture) I am part of the Dreamteam of Neurohackers and I am part of the NeurotechX team which includes Neuroscientists who are willing to donate time money and equipment (such as the electrical impedance tomography machine I mentioned previously) to further the goals of Neurotech Research. I manage the Silicon Valley Global Network group (with 80k members) with Sheridan Tatsuno so he has been a team member on the media (group moderation and news) side of things.
+
+At noisebridge I am becoming increasingly involved in hosting workshops, study groups, and classes to help people study & develop skills they can use in the modern workforce.
+
+My meetups have so far been about studying the software development side of webvr, servers in python, go for bci, and also we are going to be building and teaching people how to use mysql and do neural network programming.
+
+I am going to be hosting classes and workshops soon on machine learning specifically, I have someone who has expressed interest in teaching this class. 
+
+Hosting machine learning workshops is something that Morgan has also expressed interest in doing.
+
+The point is that we want to help educate people, help them find a career in the modern tech workforce, working on technologies like VR, Blockchain, Deep Learning, BCI, Databases and more.
+
+So that effort to help people adapt to the world and grow a career or find a tech job, study for a coding examine, these are some of the goals that the community at Noisebridge has in a sense driven into my psyche. 
+
+I want to help veterans and anyone really to make something of themselves, to develop a new skill, to begin a career path, or to get to the next step on a career path. I understand what that can mean for a person. The value it has in helping someone to qualify for a job. It means the world, it can mean a massive relief from depression and a return to happiness for some.
+
+So the Neurotech Research Center is definitely also a Neurotech training and career building facility, that just comes with the territory as I see it. Research is self-education, and a research center is bound to help educate a lot of people, and give them something valuable, valuable knowledge and skills, employable knowledge and skills.

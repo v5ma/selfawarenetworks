@@ -1,0 +1,24 @@
+a0263z ctpr
+Notes from Feb 14, 2014, 11:06 AM
+(dendrite)
+You took a snapshot of a video from half-way though the explanation of a simplified integrate and fire model and you claim that as proof?
+
+First, this simplified model is a very rough and inaccurate model of a real action potential and in only the crudest terms captures the dynamics involved.
+
+Second, if you had bothered to finish playing the video, you would have realized that they later describe how the amplitude of the action potential peaks (is capped) and then begins it's falling phase. Just to be clear, in case you can't understand the simple waveform diagrams - the amplitude is indicated by the very top peak of the waveform. 
+
+Fast forward to the end of the lecture and they clearly show the various shapes of the modeled APs. Note how each AP exhibits precisely the same amplitude (shown in the image below). Yes, I also took the very same course. I've also taken several online and in-class University level Medical Neuroscience courses (courses required as part of Medical school training). Having taken this course as well as many other courses, I can honestly say that the Coursera Computational Neuroscience course you used as evidence does not even rise to the level of an freshman level undergrad course. 
+
+Third, your comments clearly indicate you don't even know what the term "potential" means within this context. 
+
+"There is a difference between the axon potential threshold, and the axon potential maximum, just because an axon passes it's threshold does not mean it reaches it's maximum."
+
+"Potential" does not mean, as your comments would indicate, what the capability of the depolarization might be, it refers to the difference in the charge between the extracellular and intracellular aspects of the membrane. Additionally, there is no such thing as an "axon potential" in the first place. An axon is an extrusion of the cellular membrane and as such is a continuation of the same bilipid membrane structure as the cytoplasm.
+
+Finally, you largely misinterpret Square's comments as "backing your facts". Take for instance, this ludicrous claim:
+"If there is more voltage than the axon's maximum there maybe a backward propogating potential which can reset the axon faster to fire again sooner"
+
+and Square's comment:
+"2b) Yes, action potentials can backpropagate along the dendritic branches. The ion channel repertoire here is different to the axon, so the spike will change waveform as it travels through these various compartments."
+
+This is not a confirmation of your claim. Square is describing back-propation, which occurs when a spike causes an action potential to propagate backward through the dendrites that had a role in initiating it. It says nothing about a surplus of voltage over an axons maximum (again, there is no such concept) and it refers to propagation along dendrites, not the axon.

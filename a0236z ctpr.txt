@@ -1,0 +1,10 @@
+a0236z ctpr
+(dendrite, synap)
+nonlinear dendritic integration of sensory and motor input during an active sensing task
+I'm thinking that the brain's structure doesn't think of itself as a hierachical command structure, but instead is part of a scaling feedback loop, that learns patterns in a scale invariant way by passing patterns through a scale varying architure that puts the largest scale of internal representation into the organism primary focus. In other words its like we micro patterns at the synaptic level, meso patterns that include & incorporate micro patterns at the cortical level, and then 
+
+There is a paper "Nonlinear dendritic integration of sensory and motor input during an active sensing task" https://www.janelia.org/sites/default/files/Labs/Svoboda%20Lab/nature11601.pdf
+
+"The touch dependence and short latency from object contact suggest a role for ascending sensory input in the generation of dendritic Ca21 signals."
+
+In this paper they are describing how the mouse being able to learn something with active sensation happens fast enough with Calcium signals (at the synapse of the dendrite) this is consistent with the idea that memory patterns are formed by synaptic connections, and that memories are triggered when some quantity of coincident firing has caused a learned memory pattern to be triggered which eventually results in a phase signal to other neurons.

@@ -1,0 +1,183 @@
+a0191z ctpr
+note created Apr 10, 2014
+(synap, oscillat, dendrite, qualia)
+
+dendrite #1 (of how many articles contain the word dendrite)
+
+Micah: 
+Ray Kurzweil says this in this book, so how does he think a person's mind can be uploaded if there actually isn't content in the brain. If memories are not actually in your head what is? I think perhaps you have the likelyhood or probability of a particular memory formation sort of stored in connections between cells, and in dendrites, but the memory does not exist until its created in the actual moment it is experienced. I think this means you can upload a probability distribution that increases the chances a mechanical copy of you will formulate a similar memory reaction, but critically there isn't an actual you to upload. Just a chance of you. Stormy with a chance of rain, and a chance of you.
+Lets discuss: Ray Kurzweil says this in this book, so how does he think a person's mind can be uploaded if there actually isn't content in the brain. If memories are not actually in your head what is? I think perhaps you have the likelyhood or probability of a particular memory formation sort of stored in connections between cells, and in dendrites, but the memory does not exist until its created in the actual moment it is experienced. I think this means you can upload a probability distribution that increases the chances a mechanical copy of you will formulate a similar memory reaction, but critically there isn't an actual you to upload. Just a chance of you. Stormy with a chance of rain, and a chance of you.
+Unlike · 
+You and Juan Carlos Kuri Pinto like this.
+
+Black Square
+ROFL nice find! Kurzweil is talking out of his arse...
+1) Images, videos, and sound recordings ARE sequences of patterns! 
+2) The fact that memories can be remodelled over time doesn't mean that discrete representations don't exist. And because they are likely stored as averaged patterns that are made specific via contexualisation doesn't mean it isn't possible to construct a particular memory if the appropriate networks were extracted.
+3) Yes, I agree with what you suggested about memory being stored as a massive conditional probability distribution that becomes instantiated via contextualisation.
+4) I'd add to that by saying that the memory is a "reactive content-addressable memory" in computer science terms. It's storing probability distributions over output sequences in response to input sequences.
+1 hr · Unlike · 1
+
+Juan Carlos Kuri Pinto
+You don't understand the terminology of Kurzweil. By images, videos and sound recordings, Kurzweil means exact replicas of patterns, just as machines memorize them. By sequences of patterns, Kurzweil means vague abstractions or stereotypes formed through vast experiences captured in real time and stored through mechanisms similar to his pattern recognition theory of mind (PRTM).
+1 hr · Unlike · 2
+
+Juan Carlos Kuri Pinto
+Micah, the answer is easy. Brains don't have enough memory to store the massive amount of information coming from the senses in real time. [Read Jeff Hawkins' book On Intelligence.] Due to their limitations, brains cannot store and understand all the aspects of Reality. (Try to record an HD video for several hours and you will need several Gb in multiple SD cards. Whereas Kurzweil calculated the whole memory of the brain is just few Gb.) Thus, brains only store vague abstractions (patterns) that later are triggered through content-addressable memories. Reality is the biggest storage of information brains rely on.
+
+Brain damage can occur. Some memories are lost. Brains get repaired. Some pathways are restored. And abstractions are learned again and converge to the same neural attractors because Reality is still the same.
+1 hr · Edited · Like · 1
+
+Black Square
+Do you have a link to his calculation of the size of human memory?
+1 hr · Like · 1
+
+Juan Carlos Kuri Pint
+In the same book Micah is reading:
+
+http://www.amazon.com/How.../dp/B007V65UUG/ref=sr_1_1...
+How to Create a Mind: The Secret of Human Thought Revealed
+www.amazon.com
+The bestselling author of The Singularity Is Near explores the limitless potenti...See More
+1 hr · Like · 1
+
+Juan Carlos Kuri Pinto
+However, be careful that Kurzweil calculated such number for a human-level AI, not for biological brains. He just made a vague analogical correspondence based on neuroscientific facts and computer science.
+1 hr · Edited · Like
+
+Micah Blumberg
+When you grew up, did you have the same kind of memory as other people around you? I didn't. Sometimes I can remember word for word what each person has said to me going back years.
+
+http://www.npr.org/.../when-memories-never-fade-the-past...
+
+Some people have extraordinary memory where they can recall incredible details. Things they saw, did, clothes they were wearing, highly visual memories. However their memory isn't perfect. It has flaws. http://www.smithsonianmag.com/.../even-people-with.../...
+
+In using nutrition supplements called nootropics I have had incredible lucid dreams, and during the day I have experienced improved vocabulary, social aptitude, improved hearing, and improved memory.
+
+I suspect that with the right bio-chemical conditions a person's memory could be vastly improved, I think the ability to recall an image, like a person's face, or a song, has nothing to do with a finite limitation in terms of storage space.
+
+I really don't think memories are stored as patterns in the brain. I think the pattern is a temporal thing, consisting of temporary brain activity that links together cells for mere milliseconds in some cases, or cycles through similar branches of cells for a longer oscillation. In this case a memory can't be stored, because which parts of the brain that light up are going to be different each time, different pieces of the brain are going to be different pieces of a memory, so each time you see an apple it can be represented by different parts of the brain, each time you move your hand it can be moved by different parts of the brain.
+
+Patterns are generated in the moment, and they are location invariant, location invariance is possible if what is really stored is just a general probability distribution, and not a sparse distributed representation of an actual image in an actual location of the brain.
+
+When Memories Never Fade, The Past Can Poison The Present
+www.npr.org
+Only a rare few people have the ability to remember everything that happened in ...See More
+1 hr · Edited · Like · Remove Preview
+
+Juan Carlos Kuri Pinto
+No person in the world has perfect memory. And the amount of cognitive resolution used for representing analogies is unevenly distributed among persons and among the type of cognition people like. People better memorize and better understand what they like.
+1 hr · Like
+
+Black Square
+Thanks for looking it up, I appreciate it.  You did, however, claim he was talking about the brain, not an AI. looking up the text you posted in a pdf copy of the book, he says he thinks the brain does 200 computations per second, but massively parallelised. The brain works by time-locked loops. 200 Hz simply is incorrect when the superior olive of the owl can measure phase differences in sound waves of 1 microsecond, which corresponds to a figure of 1 MHz.
+
+Though, yes, that is an upper bound, as the owl is an extreme auditory specialist, and that is just for one part of the brain. The mechanism is via coincidence detection using dendritic trees, which highlights there's more going on in the brain than is taught to AI researchers. Dendritic computation isn't even properly appreciated by most neuroscientists, and has only recently has interest in them surged.
+1 hr · Like · 1
+
+Juan Carlos Kuri Pinto
+Well, in the course Synapses, Neurons and Brains at Coursera, Prof. Segev told us the brain does lots of computations with very unusual mechanisms that are not traditionally modelled in AI simulations.
+57 mins · Like · 1
+
+Micah Blumberg
+"No person in the world has perfect memory."
+
+Micah says: No they don't, because memory isn't a stored pattern, it's a strong chance of a pattern based on previous experiences.
+
+"And the amount of cognitive resolution used for representing analogies is unevenly distributed among persons and among the type of cognition people like."
+
+Micah says: I think it's possible to increase or decrease the resolution of memory experiences by changing the chemical ecosystem of the brain, in other words formatting is not hard coded like a program, it's dependent on chemical conditions in the brain.
+57 mins · Like · 2
+
+Pierre de Lacaze
+So given that Micah, how accurate is it to call what the brain is doing "computation"?
+53 mins · Unlike · 1
+
+Juan Carlos Kuri Pinto
+Black, neurons and glia are complex cells that are made of lots of molecules whose causal mechanisms can be used to compute. Most of the claims for machine superintelligence are made based on the fact we can exploit the full potential of matter/energy for computation. And most AI researchers belittle biological brains by just considering the maximum flipping capacity of neural spikes which are the carriers of information. I think there are more important aspects to consider as you mentioned.
+51 mins · Like · 1
+
+Juan Carlos Kuri Pinto
+Micah, I prefer NOT to intervene in my brain chemistry.  Neuroscientists don't know enough about the brain to safely intervene in its chemistry.
+47 mins · Unlike · 1
+
+Black Square
+Pierre de Lacaze I'm sure you're familiar with the Physical Church-Turing Thesis. So how is what the brain is doing anything other than computation?
+45 mins · Unlike · 1
+
+Juan Carlos Kuri Pinto
+Kurzweil's estimate for the computational capacity of the human brain is useful to multiply it by whatever factors future neuroscientists think are relevant for artificial intelligence.
+43 mins · Like
+
+Micah Blumberg
+"neural spikes which are the carriers of information" Yes AI people who have opinions on neuroscience largely think this is so, but I don't agree. What I am saying is just opinion based on actual neuroscience I have read. I think singular neural spikes can represent just noise. While bursting and or higher frequency patterns can represent but one form of information transfer. Most of information transfer in the brain is probably subthreshold (brain-activity that does not cause a neuron to spike) There is probably a lot of chemical activity involved in information transfer that is subthreshold. I view spiking as a sort of retroactive indicator of brain activity, like blood flow it allows us to "read minds" or "plot" the activity of minds, via implanted electrode chips, eeg, meg, or fmri. The spike, I think, it's just a discharge, like a waste product, removing an excess, and like blood flow it's about removing heat, and reducing the inflammation of cells.
+41 mins · Like
+
+Pierre de Lacaze
+Black: I'm not arguing that it isn't. Just pondering. In the CS sense, computation essentially boils down to "addition". Given that we do not thoroughly understand the brain and it's chemistry, I have to wonder sometimes if we are not simply imposing pre-defined models of computation on the brain which could possibly preclude us from further understanding. Really just trying to keep an open mind here. I am not thoroughly convinced that the brain is simply a machine. Perhaps a "biological machine", but what exactly does that means and how does that differ from a "man-made machine". 
+36 mins · Unlike · 1
+
+Juan Carlos Kuri Pinto
+From the previous debates I had with Black Square and from the books of Fuster I've read, I conclude spikes are a form of winner-take-almost-all competition in which sensory information is routed through all the huge networks of heterarchical cognits and mutually inhibited to determine the winners. Consciousness emerges when spiking activites surpass certain threshold. It's brain's way of decentralizing pattern recognition. And it also explains human qualia and why machines don't have qualia.
+32 mins · Edited · Like · 1
+
+Micah Blumberg
+Pierre de Lacaze said "So given that Micah, how accurate is it to call what the brain is doing "computation"?"
+
+Black Square said
+"Pierre de Lacaze I'm sure you're familiar with the Physical Church-Turing Thesis. So how is what the brain is doing anything other than computation?"
+
+Micah till the end:
+for one thing, logic gates are not sensors, and they are not dissipative systems regulating their own balance.
+
+if cells are like logic gates, then they are like logic gates with their own sensors, and their own internal logic gates
+
+computation is the ordered execution of patterns in a perfect sequence, it's content addressable, and content is not inherently interrelated
+
+memories in the brain, I argue, are not content addressable. their content is a probability, and its generated in the moment, not stored as an pre-developed pattern.
+
+thinking is like an entropic chemical reaction that reorders it's own hard structure like a plant, everything is interrelated, and every analogy effects everything else in the brain, notions dominate each other to control space and develop themselves by restructuring the brains wetware. 
+
+thinking converges, extends, and programs contingent reactions into cells creating an increase or decrease in the likely hoods of larger scale firing patterns that are location invariant.
+
+programs on a computer do not restructure the computers hardware or even themselves, they are location dependent, the are specifically coded, they are not probabilities that increase or decrease.
+
+a logic gate cannot sense gravity or light, but apparently individual cells can.
+
+I think that I would not use the word "computation" to describe what the brain does, but I do think that a computing machine could be developed to mimic what the brain does, in hardware and software.
+
+another example:
+
+In a computer data can just ignore other data, until a specific link is written, but in a brain everything effects everything else, analogies can form spontaneously between active ideas
+21 mins · Edited · Like · 1
+
+Pierre de Lacaze
+Very nicely stated Micah. This is like a model of computation in which the computation itself affects the computation.
+20 mins · Unlike · 1
+
+Juan Carlos Kuri Pinto
+As Monica and Kurzweil said, brains are limited because they compute with hardware. Their computations are physical, not logical. Whereas computers have RAM which is totally reorganizable. In few minutes, you can reorganize RAM in its entirety. Whereas such operation would require years in biological brains. Moreover, RAM is totally and randomly addressable without restrictions. Brains had to evolutionarily wire themselves by following the pathways of minimum action which explains the theory of Felix Lanzalaco.
+177777 mins · Like
+
+Micah Blumberg
+"As Monica and Kurzweil said, brains are limited because they compute with hardware. Their computations are physical, not logical. Whereas computers have RAM which is totally reorganizable. In few minutes, you can reorganize RAM in its entirety. Whereas such operation would require years in biological brains. Moreover, RAM is totally and randomly addressable without restrictions. Brains had to evolutionarily wire themselves by following the pathways of minimum action which explains the theory of Felix Lanzalaco."
+
+I don't agree with that model of the brain either.
+1. the actual limitations of the brain are the subject of debate, people can and do instantly change, but the mechanisms about how to cause such changes are disputed as well.
+2. I want to bring into this conversation the brain as a pile of sand idea, it's suggests that the brain might be resistant to change because of it's entropic structure, but if that structure can be understood it might be possible to cause rapid restructuring of the brain, as quickly as wiping ram and adding in a new program to replace it. http://www.scientificamerican.com/.../sand-pile-model-of.../
+
+Sand Pile Model of the Mind Grows in Popularity
+www.scientificamerican.com
+Support is growing for a decades-old physics idea suggesting that localized epis...See More
+9 mins · Like · Remove Preview
+
+Micah Blumberg
+"Consciousness emerges when spiking activites surpass certain threshold."
+
+I think spiking emergences as a result of a significant quantity of sub-threshold brain activity, the consciousness qualia isn't in the spiking, it's not caused by the spiking, but instead the spiking is the result of conscious qualia, a way of dissipating energy in the after math of large scale brain activity that is conscious. It's a different interpretation of the same data that shows us when people are conscious they have a lot of brain activity.
+
+I don't know what you are writing on your ipad there. What is it? Why can't I get inside your head? What do you know? Please tell me.
+  
+
+Tags:
+  dendrite

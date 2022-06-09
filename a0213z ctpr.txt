@@ -1,0 +1,28 @@
+a0213z ctpr
+(thalamus, perception, dendrite, synap, cerebellum, cortex) In order for the Action and Perception Cycle to work the patterns between the two areas have to be connected and simultaneous. 
+synapses form new connections during learning between activated brain cells, cells that spike within moments of each other grow synaptic connections between one another 
+
+"New brain connections form in clusters during learning
+
+"Researchers track structural changes during formation of new memories
+https://news.ucsc.edu/2012/02/brain-connections.html
+
+A phase shift or a firing frequency change.
+The synaptic events can be thought of as oscillators sending a knock, a knock that nudges the oscillations of other oscillators plus or minus in their own phase pattern.
+
+Study shows new brain connections form rapidly during motor learning
+"As mice learned a new task, repeated imaging of the same neurons over one-day intervals showed remodeling of synapses, with new branches (dendritic spines) forming and others eliminated during training. Image credit: Xu et al." https://news.ucsc.edu/2009/11/3413.html
+
+"These results indicate that distal
+tuft depolarization is required for the behaviourally evoked dendritic activity and that this depolarization is provided by vM1 input to L1. Thus, it seems that distal dendritic plateau potentials are responsible for producing a nonlinear dendritic integration of coordinated sen- sory and motor information in layer 5 pyramidal neurons during active sensing"
+
+In this situation the tip of the dendrite, called the distal tuft, it had its own depolarization event, this was in the first layer of the mouses motor cortex which is called vM1, and then that connects to L1
+
+"Long-Range Neuronal Circuits Underlying the Interaction between Sensory and Motor Cortex" https://www.sciencedirect.com/science/article/pii/S0896627311006829
+
+"These interactions between sensory and motor systems are crucial for haptic perception (Diamond et al., 2008, Gibson, 1962, Wolpert et al., 1995). Sensorimotor integration in whisker-based somatosensation is mediated by brain structures that form a series of nested loops, at the levels of the brainstem, thalamus, and cerebral cortex (Diamond et al., 2008, Kleinfeld et al., 1999). Little is known about the cellular architecture of these different loops."
+
+This next article is about synapse formation between cells "Experience-dependent structural plasticity targets dynamic filopodia in regulating dendritic maturation and synaptogenesis"
+NMDA receptor (NMDAR) mediated synaptic activity promotes dendritic filopodia formation
+
+"microtubules in the dendrites were more dynamic" https://www.whitman.edu/academics/majors-and-minors/biology/team-dendrite/research/the-role-of-the-cytoskeleton-in-dendritic-development

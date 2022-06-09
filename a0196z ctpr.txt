@@ -1,0 +1,7 @@
+a0196z ctpr
+(oscillat)
+EDS Expert Data Structures
+nested oscillating (expert) data structures: capable of learning patterns that are invariant to scale, time, space, and phase, punctuated by phase changes
+
+each neuron in an oscillatory fires in turn
+in a cortical column oscillator

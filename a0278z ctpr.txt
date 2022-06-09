@@ -1,0 +1,11 @@
+a0278z ctpr
+(observer) "There isn't actually a countably infinite number of computer files. We do not yet have a file system which can handle arbitrarily large files"
+
+That you know of, maybe she was making a reference to the simulation, if we are all in a computer simulation of reality, every three dimensional object could be represented by two dimensional code (on the surface of blackhole?)
+
+It's also interesting how the in the app No man's Sky they used procedural generation to create an entire universe's worth of content, that just appears near an observer/player
+
+what if our cosmos was like that? it saves memory by only rendering the cosmos around an observer
+
+then you wouldn't need infinite storage space to store infinity, you just procedurally generate the part of infinity that is around an observer, you could even like use foveated rendering to cut down on the computational expensiveness of the cosmos
+

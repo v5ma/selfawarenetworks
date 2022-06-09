@@ -1,0 +1,48 @@
+a0225z ctpr
+Note created Nov 6, 2012
+(LTP, dendrite, vector)
+Micah Blumberg
+whether I know what it is or not depends on the context in which you mean it.
+If we are talking about artificial internal representation, I think no one is doing that yet, I think statistic driven machine learning from Bayesian networks is simulating LTP, but not internal representation.
+38 minutes ago · Edited · Like
+
+Victor Smirnov No, we are talking about Monica's oversimplified folk psychology. 
+
+Unlike dogs, humans use symbolic language for Externalization and Internalization of experience. And that process goes mostly unconsciously. That is well-known fact in the Psychology.
+37 minutes ago · Like
+
+Micah Blumberg I think we are going to eventually replace psychology with neurophysics, sorry but it's a dying relic of old thinking. The 1970's called and they want their psychology back.
+35 minutes ago · Like
+
+Micah Blumberg If you have the concept of an apple, and that concept is a neuron (and or dendrite) which is a vertex with vectors to other vertex's (Neurons and or dendrites) establishing a specific syncing pattern in a network that has reacted to apple, and associations with apple, and now activates with this established vertexs + vectors synching pattern when any part of vertex network is triggered, then you have a concept in a brain, a symbol, there is no reason why dogs brain would not make a concept in exactly the same way as a human's brain. The dog doesn't have the whole you inside it's brain, it has a conceptual representation of you, a symbol, that is a token of meaning, or a conditioned vertex syncing pattern.
+25 minutes ago · Edited · Like · 1
+
+Micah Blumberg This is why psychology has to go, and neurophysics has to replace it.
+24 minutes ago · Like
+
+Micah Blumberg For a brain, there is no difference between a symbol and a color, at least not initially. The difference between symbol's and colors develops when more brainwaves come, so that conditions new vectors to create an association link between vertex's, so they are more likely to fire together.
+15 minutes ago · Edited · Like
+
+Francisco Boni Neto
+I don't think Monica oversimplifies the theory with mundane psychologism. The standard formalization of the notion of patterns in the real world, from several levels of complexity (chemistry laws, biological laws) up to the most basic ones (physics) — a task that is accomplished with conscious manipulation of symbols — cannot help agents to achieve intelligent behavior alone. If you implement those laws from top-down hierarchy, they will fail to replicate intelligent behavior because they generate simplified models of the world. This doesn't mean that the laws above don't capture any revelant regularity in the world. It just means that these laws expressed symbollicaly are not the general laws (do they exist?) that solve the grounding problem: http://en.wikipedia.org/wiki/Symbol_grounding
+
+The Symbol Grounding Problem is related to the problem of howwords(symbols) get their meanings, and hence to the problem of what meaning itself really is. The problem of meaning is in turn related to the problem ofconsciousness, or how it is thatmental statesare meaningful. According to a widely held t...
+16 minutes ago · Unlike · 1
+
+Micah Blumberg
+I don't believe in some mystical consciousness sauce that is directing the manipulation of symbols inside anyone's mind. In other words, when we think we are rearranging symbols in our minds, it's really a bunch of cellular reactions happening, there is a narrative belief that says the doer of all this is you, but the narrative is physics driven.
+9 minutes ago · Like
+
+Micah Blumberg
+If you gave a dog a bigger brain, hands, and human class vocal cords, it would do things that people do.
+7 minutes ago · Edited · Like · 1
+
+Francisco Boni Neto
+And a dog with a bigger than human brain would create dog-cyborgs with superdog abilities that, in turn, would modify it's own source code to create greater-than-superdog abilities which would result in a dog singularity?
+6 minutes ago · Unlike · 1
+
+Micah Blumberg lol yes I guess so haha
+
+However I would like to think that dog's would remember that man is their best friend, and make human cyborgs, and then dog cyborgs and human cyborgs could turn all the species on earth into cyborgs together. :)
+
+Commercial for "AGI-Extenda-Brains, a simple non-invasive external brain you can wear that gives you 200,000 times the awareness and brain power you had before. Great for Dogs, Cats, Babies, and even Dolphins. Get yours today. Only 99 IC"  

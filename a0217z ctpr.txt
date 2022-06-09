@@ -1,0 +1,20 @@
+a0217z ctpr
+(oscillat, field, dendrite, synap) It would be interesting to try to put AI to the task of modelling chemicals at various stages of transition and simulating their functions by evolving its own functions with gan-synthesis and reinforcement learning.
+
+It would work like multi gans each try to model each stage of the chemical transition the most accurately, one of them is voted on, the rest organize themselves in order of their voltage, how close it is to threshold
+
+but they all wait for that same neuron to fire, to fire themselves one at a time really super fast but in distinct sequential order where each neuron waits for its turn
+
+they play back a firing sequence, and it was based on the order in which they would have fired,
+
+if they were triggered one at time, to cross their internal threshold voltage for firing, that first neuron added
+
+something to the others as long as it was in their receptive field.
+
+so they all fire within milliseconds of each other, so it seems like an oscillation, but it was like the grid triggered a sequence of lights to all go off in order
+
+the dendrite is the neuron's receptive field in a sense, but really any synaptic connection to another neuron is part of its receptive field, the area under it's observation.
+
+At the neuronal level you don't know anything, a neuron is an oscillator & dissipative system with a threshold for maintaining its electro-magnetic equilibrium, it has to regularly discharge a burst of energy to its surrounding environment, to offset the charged ions its receiving from other neurons that are pushing it towards its action potential event. A neuron is alternately is a resonator or decaying oscillator.
+
+The reason I can argue this is because a neuron only understands phases, because to the neuron that's what it's receiving from the many synapses on its many dendritic arms connected to many cells, its receiving bursts, mini-vibrations, or phase patterns from other neurons that indicate they burst at a fast but light phasic rate, fired at a slower tonic rate that delivered a stronger pulse, a 3rd setting inbetween, or that they went silent from inhibition instead of the other modes. The neural oscillator rotates its neurons between these three different modes.
