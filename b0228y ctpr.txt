@@ -1,0 +1,20 @@
+b0228y ctpr
+(audio transcription needs fixing)
+Neurons Pattern Fpgas talk to yourself
+00:00
+Okay, so it's building a bridge for.
+00:08
+The, the the past, the pathway is between neurons between dendrites are changing all the time because they're building a like a physical structure to represent a pattern, it's like building, it's like building the riverbed to match the river. Say, okay, well we've detected this pattern, so we've built it, built this pattern like this pathway that we formulated in connections between cells.
+00:43
+This this pathway represents this sort of sequence where these cells are going to fire any sequence and so that we have established basically, we're establishing the timing or the sequence of when these patterns get triggered. So we're predicting that we're going to get a similar pattern down the road.
+01:10
+We're predicting this pattern of gonna clamp again. And next time we're going to be ready for it because we learned it last time. So, we're creating a physical manifestation. It's like going from a software representation of a pattern to a like an FPGA like like a field programmable data rate like a, we can start off with software departing then we can progress on to FPGAs, right?
+01:33
+And the chip itself is just going to constantly like be reprogramming itself. That's what we wanted. Reprogramming new pathways between different cells. The sum of the brain, we have is represents what's being seen. The some of the brain was not at the or say that at the neuron level, right?
+02:02
+Some of the brain waves at the neural circuit level at the neural column level like that, like that is going to create a rendering that the cells can decode because it's creating a rendering space, as far as indistributed representation, but as spatially distributed representation. And because it's especially distributed representation and network has a whole can can't must be responsible for collecting as a recognizing and and if the neurons are collectively putting out a burst while other neurons are listening to the bursts, then you and taking turns doing that.
+02:49
+Then what happens is you have the ability for the computer to talk to itself to make its own sounds into? Listen tips on words. All right. And to play back it's on music into things. It's own songs and to talk to itself, Basically.
+Transcribed by Pixel
+
+Audio

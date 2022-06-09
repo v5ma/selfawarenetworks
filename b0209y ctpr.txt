@@ -1,0 +1,90 @@
+b0209y ctpr
+(audio transcription needs fixing)
+Neurosci AI NerveGear XR Oscillation Neurons
+00:00
+So people people want to for this book, to really be widely celebrated in, like the foundation of my future work, talk. A lot about great technologies that have been. So as I mentioned, I want to talk about the work of the scientists, you know? All they, let's say like everyone who speaks at the DTC summit.
+00:43
+It's probably someone worth mentioning in the box. Okay. And so we need to turn into itself. And that I'm writing, I can touch a little bit on the neurophysics if you want to embed in like, at some point be like, yeah, this is not. It's not us. I said, I wouldn't pause.
+01:14
+So for this to solve problems, it's just that we there is a sort of attention finding theory. And the more I read about this, the, the less I think it's my idea, actually. I mean, it sounds like my idea. Like, I'm just saying, like, what if the is that?
+01:43
+Oh, SC. Where's the weird? Like, I'm just like, not. What's the OSC? It's like photograph paper, if your OSC is like photograph paper, right? Temporal. Photograph right instead but see like so with a video camera recording this. There's some capturing frames, right? What I'm saying is like, what? If each oscillation is frame, right?
+02:27
+Capturing frames brain. Frames are oscillations. It's like one tray and two frames a friend, 30 frames per second. How many also lesions per second? The frame? But it's, but it's actually like, yeah. No. Every single neuron is doing oscillation and then larger. And then at the mesoscale, you have many have groups of neurons that are bound together in a single oscillation.
+03:01
+Now you say well now wait a second. If if whatever you feed individual neurons gets wiped out. Because here's his thing is, we're thinking there's this thing. There's this idea that wait a second, the oscillation itself. How could it represent? Complex information. It's all the same that you have, like, that's like you all these neurons are that are, how could the frequency, say, the group of neurons?
+03:34
+They're making this oscillation because how could it have information in it, right? Because their own scene, it's not. It doesn't appear to be distinct. And the other thing is like, yeah, so if the activity to a neuron changes, okay? So the neuron changes but so you get an ax you get and then it's gonna fire anyways.
+04:04
+So, if it fires
+04:09
+Out of its normal oscillatory, frequency the rest of the oscillation resets it. So there's this whole like that just hold like neurophysics thing where we have to talk about the physics of brain, waves and tendrides and There are transmitters and I think that there's a lot of stuff to mention, but we can kind of get a framework out of it.
+04:45
+So that's the self-aware. That's it's part of the stuff. We're story is this sort of like the neurophysics of what's happening in the brain and where is the frontier? So I need to mention all the. There are science books that I recommended to on the basically the books. In my mind, kind of you talk about my favorite books, okay?
+05:09
+But then I need to talk about my favorite groups. I need to talk about the Nvidia. Scientists, the deep learning scientists. Let's talk about the work in cancer. I mean, technology to South Africa. I want to talk about and why, why do you want to talk about that? Well, think that
+05:42
+So I mean so I mean, that could be like a cell phone nurse in the future of medicine, right, right. And then and then the teacher of the criminal justice system. So we're going back to incognito again.
+05:59
+But okay, so then okay. So let's go back to the main section. So this three main sections one is self-aware networks because your three things were AI VR and narrow. So the narrow is the self awareness. So we're going to do narrow and so forth networks real. And then we're going to do software networks artificial.
+06:29
+So we're going to talk about when I get to step two. The idea is to talk about new menta to work. With the work with deep learning Yanley Coon Joshua Bendrio, Jennifer Hinton capsule, neural networks.
+06:50
+Etc, etc. Okay. And so the second. So, the second thing is, like, we're going to talk about AI, okay? And that's when I go into CEO, Jensen, and we got to talk about software cars. BMW, AMD Now, here's the thing. Omniverse appears to be connected to. So we have the omniverse.
+07:24
+We have unrel engine five. We have Facebook. There's a lot happening on that thread and I'm thinking, okay, now, wait a second. Not just, I'm curious. So I think I kind of need to go back and dig into the next find out if he has an universe concept because Nexus just links us together with a group of people, so we can share our minds, so we can really tell there's emotions, right?
+07:56
+It's not creating places 3d places that are connected to each other. Now what's interesting is that I mean I guess I can point to CEO Jensen, the omniverse, his 2020 one 2021 talk and behind this. Actually behind the scenes is actually more interesting than the actual whatever intro. But I really like, yeah.
+08:33
+You know, the fact that he's showing that BMW is, you know, like a million like several million people saw that. No, I mean, so yes. So that's fit the meta person to this thing unless it's towards the end. So we have to get somehow, we've got to get to nerve gear, right?
+09:00
+And how human beings connect? So, nerve gear and VR Okay, so this is about signals, no, no nerve gear.
+09:22
+Is about.
+09:29
+Here right now, it's like the road to nerve care. Is the technology of reading and writing to human biology is a human. Well, another computer system that we can connect our computers to and read and write biology into your brain and to pull to extract your thoughts and to modify your thoughts to monitor to add to help facilitate communication.
+10:03
+The it's to help facilitate communication between people, new channel, and communication. Okay. That's what nerve here. So we found it so many. Somebody said, the founders and we said, the core idea is From what's going on beach? I'm here.
+10:39
+Yeah. Here over there and it can't really see it. Anyways, I'm going no, yes. So okay, so I can fit most of my work for the past summer. We here's I mean self-horn networks. Like I said okay so so foreign networks group like I've a couple years ago I would have told you that basically the GTC conference was the most important conference of my life because everything there was like everything that the self-aware networks group was about.
+11:18
+Okay.
+11:23
+And but then I I didn't even like, look for the GTC conference here. I didn't try to get in. So, here's what I'm going to do, is that
+11:49
+I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+12:33
+Like, you just think whole word. You don't have to think a letter, it's recognizing a whole word and then they can. And then like apparently the funding was canceled for that because they wanted to promote someone else's work which is Think all this work is should be funding, but I think it's bizarre to argue that you're going to replace with ECOG work with.
+13:12
+I guess if you have, if you're, if you you know, maybe is miss you, maybe they're poor now. I don't know. Maybe they don't have very much money. I'm just like, why not fund both? That's what I'm saying. Fun to eat, cogn research and continue to fund. It fund your own gnarling, company fund, the eCog from the EMV stuff that the control lab stuff.
+13:51
+So the third leg is when we get into talking about,
+14:03
+Them start online, which is sort out online is isn't one of the meta verses, right? But that's the one you access with nerve link. So that's sort of like coupled into the idea that well. Now wait a second. Are we gonna or are we gonna use neuralink or the open water device?
+14:22
+What is the what what what's the technology and? And I think that's like, yeah, and then you look at what's happening today, we are going to, there's a thing that on screen say about how the optogenetics, my memory is better. Damn. All that marijuana was hurting my memory but like I have more clarity.
+14:55
+And so, okay, so I have a big scope. Okay, so the the first third of the book, the book is divided into thirds and the first third is about neuroscience. The second third is about artificial intelligence and the the final third is about
+15:27
+Care. And XR nerve care. And excellent because the concert the conversation. So first there is about nerve science. And because the brain is a huge topic. So we, so and we need to talk about all the books. All the papers we need to talk about the macro, the medical scale, and the micro of the of the brain, okay?
+16:08
+And then we need to go into AI. So I think the bridge to the second book. So like towards the end is when we dive into like, maybe like the micro scale because the micro. So we start off the with the macro and then we go to the meso and then we go to the micro we end in the micro because when we get into the dendrite function and then we can start to get into the perceptron and we can we can we can we can share that alternative design for the perceptron and then we can start to talk about neural networks.
+16:51
+Okay. You can talk about the only Kern had a pretty good history of deep learning that he he published that I I wrote about in the in what in one of the recent articles I managed in. So, that's sort of like, I kind of want to take everything that I'm saying here and this voice recording.
+17:18
+And I want to put it in slides. So he was saying, for the Nvidia keynote, it was an hour long and they had to make a hundred slides in the head and make all the slides. And in the arm I think, essentially that's that's that's the same level of task.
+17:44
+Yeah, so what I'm saying is okay. Look, I here's here's what I do. Here's what I can do. I've got the book in threeth in. I've got, I'm gonna turn the book into three different sections, three different sections and let's talk about the brain. Okay, so we've got the the microscale brain.
+18:16
+What is the macroscale brain? Okay. We're talking about which you can measure with the EG or ECOG not really. It's kind of like, EG or outside the head affairs. Macro scale, brain, do I have something to say about the macroscopic? Brain. I can talk about the person. It's kind of outside the brain a little bit.
+18:49
+Yeah, it's a little bit outside the brain. I mean, I don't know, maybe I feel like the first the first I feel like I want to talk about robots a little bit, you know, they're like the history of movies of robots and but that's not really about. It's kind of like yes.
+19:10
+So, self-core networks, I want to talk about robots because there's like a science fiction history of robots, right? That sort of like inspired me to think and then so yeah. So we have yeah, there's the matrix robots. The AI they appear to be human, but they're agents or there's something or they're not agents, you know, sometimes they're just the Oracle was an email sentient or sentient, right?
+19:46
+There's Wally short circuit, there's Star Trek. There's got my memory so much better. It's so so much better.
+20:06
+But yeah. So, we've got Wally, we've got all of these different, okay?
+Transcribed by Pixel
+
+Audio
