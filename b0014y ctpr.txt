@@ -1,0 +1,278 @@
+b0014y ctpr
+fireflies (audio)
+00:03
+Okay, so we have just waiting to start the room in a couple minutes here, so
+00:36
+To.
+00:53
+Okay.
+01:27
+Let's say I'm here we go. Welcome up and write to speak, right? Yeah, welcome time and follow you. All right, so we are just I'm just sending out a few invites to people as we're just and started here. Sure, when I make you, I'll tell you what, I'll make you in a moderator.
+01:54
+Is well, so if you so that you have the ability to invite folks to the conversation and and folks just raise raise your hand if you like to come up and join the conversations. All right. I actually is doctor maybe maybe when I pronounce your name because I've never actually but yes, was that correct?
+02:20
+Yeah, you have to sure. Okay, and do you want to like just so this is recorded so we're you know we're gonna add this this is gonna be published afterwards. But do you want to go ahead and just to start by introducing yourself and and and then you work leading up to a link VR and go ahead.
+02:44
+Yes sure, no problem. So I'm Dr. Yogenko to I'm Pete, Jean information, security. I have a quite a lot of experience in both, in consumer electronics, development, and some academic background also, and a link there is actually there team of people who do the same, the all have a lot of experience in consumer electronics development.
+03:19
+Some hardware production, A to Z hardware production. Actually, we are most of us, former unicorn engineers. We used to work for the ring company which was acquired by Amazon in 2018. And we also have, I'm associate professor of university and as many people in my team, they are also have some academic programs.
+03:48
+And we widely use with our divide live. Work is our students also as a juniors and in our project so I think we are is a company was founded just recently one year ago and now if we focused on a free space objectal communication technology, which has a lot of applications particular in virtual reality domain as our mainstream product is to replace the virus with lasers for their headsets and give our viewer players freedom of movement, as well as like absolutely extreme high-end bandwidth.
+04:40
+Which cannot be equal to any wireless communication technology, at least in radio frequency media. So, and in this, it's gifs to our customers potentially untested high end. We are experienced, which not be compatible with any present technology itself, so which we can see there to be kind of a game changer.
+05:13
+And we within the last year, we made a big progress to approach any pinoy we have and of prototyping stage, which is close to MVP. However for the running the full fledged also program, we are looking for some investments and such investment can secure the progress of as well as their contact manufacturer as well as mass production.
+05:51
+So, that's what they say for introduction. I really sounds great. So, so, so, one of the things that I, I maybe under highlighted, when I, I reported the news story from CES that you are making available to because this really is, I think struck a ton with, with folks that you're making it possible for people who own, the develop index in particular to to finally have a wireless solution.
+06:22
+But it's not just that you're, you're technology supports many of the PCB. Our headsets. I want to ask, are you also supporting that divarco headset? I think that's another another cool one. Yes, that's right, you. Absolutely, right. So actually on the CS, we introduce the valves index. As one of the our potential domain in.
+06:49
+We are headsets and it's only because we all hear using the valves index and it's our lower prototype is focused to have some tests as well index. However, the technology potentially supports any of your headsets, which require like HDMI or display, port connection as well as some appropriate standards.
+07:23
+And as a customer product, we focus to have some. Let's say standard sets of transmitter receivers controllers for our keep as well as some let's say don't do which allows to connect without index or any other. We are headsets depends on what you have. So you are absolutely, right.
+07:53
+So we are supposed to have any wired. We are headsets to be available for unlimited to make it virus, okay. And so I want to ask I wanted to ask you because you were in the VR industry and you have your ion. I'm sure you have your eye on everything that's happening.
+08:18
+And in the big news in the VR industry is, is, is the meta verse what is the meta verse? What is the mediver to you? I'm curious. What is your, how would you say your vision of the future of verse reality might be different from from was motivational other protest.
+08:35
+Exactly. Yeah. It's it's a good question actually. So we believe that matters is a new market opportunity which helps people to communicate on different way. And for the virtual reality and further unlink their technology particular, it's a very good opportunity to make this people really happy because you wouldn't use this technology by sitting on the next to the laptop and making some controls on the keyboard, discovering some browsers or anything like this.
+09:17
+So you would like to be connected fully untased and experience some high-end high-end experience from there. Visual reality, which can can have some higher resolution and very high pitch rate and number of frames. So you would like to have the good emotion here and you would like to have the absolutely great feedback.
+09:43
+Actually, our technology provides obstacle feedback which means that it will be no latency not only for the bandwidth which you obtain. But also for the telemetries that you give to their system, so it will be real time to limit it. And this is what makes the people really happy in terms of if we are talking about some visual reality atmosphere and experience that people would like to really bring to another people in terms of communication.
+10:23
+And no matter, it will be just enterprise business communication or it will be there experience. Close to some game. One answers. It's believed our technology will make people much happier by using their more. Let's say of the next weapons that will allow them to experience something which is closer to real.
+10:55
+Okay. And I want to ask you because a lot of people are curious like so I guess you have no compression and you have a really high bitrate 40, gigabits per second is that support like 144 hertz and what at what resolution like, what's the limit? So you're saying from the technology perspective, right?
+11:17
+There is no any limits because we have optical communication fiber, optical communication resident cables, which is lying down on the bottom of the ocean, right? And it's just a matter of technological solutions that it's used to, because we have as SAP, adapters with even one hundred gigabits which means that they're speed of a communication can be higher than 40 and by focusing to have 40 gigabits per second.
+11:53
+We actually provide absolutely same communication bandwidth as their cable ones, so because they're the highest communication. The highest betrayed for their cables available is something around 40 gigabits per second which allows people to use 40 key, the funky bandwidth with 120. Here's even higher for their most of the VR headsets which can support this.
+12:28
+However, if you're talking about why your headsets and as particular, the latest model, they actually even required two cables to display ports, because they do such a higher bandwidth for, for each eye particularly, so which means that you will need something a bit more than 40 gigabits per second to support it.
+12:57
+But as I mentioned, from the technological perspective, every single is possible. So, it's just a matter of engineering and design, right? Because photons are not going to interfere with photons. So the maximum that you could the maximum extrema, I guess, at some point, you're you, if you, if you like increase the the bandwidth to such a huge amount, it's at some point which you have a laser moving through that fiber optic cable.
+13:31
+So many photons. Just a funny physics question. No, of course, it's not there it's not a matter of because there is actually we can use the different ways for to obtain their such as speed of photoband, this, right? So it will not be just it will be same. We believe it will be same class one laser we should save for the civil use and indoor application.
+14:01
+So it will not be enough. Any issue for any of our customers. However, if we will change the laser class for sure, we will provide that technology which will definitely save people by prediction on where the laser dot is right now. So by just by, let's say changing something in tracking system, so it's will not be a problem.
+14:32
+Anyway depends. Even if it doesn't depend on what the way on, obtaining, the such events we will prefer. I'm curious. Can you compare and contrast, that the light streaming technology that you're using with with Wi-Fi? And and sure of course the Wi-Fi is it's a bit different thing. However from there let's say civil perspective, it's kind of it may help the people also to communicate violently by let's say beam forming.
+15:14
+However, the laser provides the much higher, much higher ability to send the data within the some visual light and the focused on the sensor. So which means which makes a lot of application possible not just on the var domain as I mentioned but also is drone communications with mobile backhaul satellites.
+15:44
+Also used, as you may know you must actually start starving generation to is also using the light laser communication for to communicate within the satellite. So I have I sort of have two questions but maybe I'll just do one first because you mentioned drones. And I remember looking at the at the booth that you have at the United CES there was a some pictures of drones in various combinations.
+16:13
+I don't know if you if you like maybe you could explain like what what are the possible uses of drones with this technology? Are we talking about like walking outdoors, with the PCBR headset and then the drones will manage your, your tracking somehow they'll fly with you and and maybe they'll also stream the the bandwidth of of your PC VR stream to your to your headset.
+16:42
+Is that possible to you? Exactly. Yeah. But let me maybe come from the beginning here. So there biggest issue for the drone's, right now that actually the most of their communication within the API and drone is established by radio frequency channels. We are not talking and particular technology, what it can be done, It's like Wi-Fi, 60 gigahertz.
+17:10
+So any other technology which means that the position of appearator can be easily easily translated and further such application as a military or intelligence, it means that a curator cannot be safe here and can be, let's say byte angulation can be found and some disaster could happen. Like artillery can shut this position and this is the first first problem.
+17:45
+Second problem is that any of media is actually not Amy. I say, which means that all the enemy can introduce MEI, very fair, and it blocks the signal and make drones absolutely uncontrollable here. And third thing is that because of such radio frequency channel actually, operator cannot use the old capabilities of drones video cam in terms of resolution.
+18:25
+So, because drones teams, the very low quality video, just to make sure that operator can control the drone and see the landscape, where the drone is in on the position right now and make some, you know, movements and make the drone well controlled, which means that their videos that don't shot in the 4K.
+18:54
+Resolution is just stored on their SD card as their regular design, right? And apparator may use it only when the drone back to the position, right, and SD card will be stored in the computer and then the video can be analyzed, right? So the laser communication, free space, objectical communication, visa tracking solve and address all of this problems.
+19:23
+First of all, first thing is that laser cannot be translated found with any area of and that means and devices, which means the appearator position will be discussed all the time and operator will be safe. Second things that it's not. There is no, any MAI Fairfair could be interest in the zone when the drones actually flies.
+19:53
+So which means that no one can block and intercept the signal and their own state controllable all the time of such client session. And the third thing is that we can also stream high quality, like 4K quality video from the drone to the operator position. Which may some technical superiority for their curator and make possible to analyze their landscape.
+20:27
+And every time any things on the landscape by using the video, is their higher resolution and make some on air decisions in their real time. So that's the basics for this. Yeah. It's very, it's very interesting. I'm just imagining, you might have in my have a couple of drones, for your one, two of them for tracking.
+20:53
+And one of the two would might be used to be sending the video to the head. Yeah, yeah. Sure. Because they're most of one of the popular question, is actually, guys. How you gonna obtain line of cell line side for that creator position and run because appearator can, you know can be seen some forest or some landscape with some visual obstacles?
+21:22
+Yes, sure. We can use two drones. One drone will be just up up and head of the operator and second round will actually fly on the position and there all communication will be established within the drone which is flies just up on the air up to the head of the creator and visiting the second round, which is flies on the position.
+21:51
+Yeah. I saw not one of your images on the booth had a drone with a cable coming down to something that looked like a little vehicle. And and I think that that may help with like the battery life of drones to sort of like have them powered by a ground vehicle or something.
+22:10
+Yeah, exactly. But it's, it's another topic. It's just like energy topic. The things on the boost was shown that actually there position of operator will be discussed. Also by means that we will use some vehicle for their transmission, which goes to the position and appearator will just see the position of ground vehicle which communicate visitors fly.
+22:39
+So so very many different visions of the this future of of the meta verse and virtue reality. I've heard some people say that they think they think PCVR is dead but PCVR offers people an alternative to like the mobile all-in-one app store, right everywhere. All the apps were sold at full price all the time.
+23:00
+I mean, they're there's there's definitely competing visions, I think PCVR is is not dead and we'll continue to be a long-term rival to the mobile on one VRT. Share that sentiment. Yeah, sure. I really believe that there the main of portable device such as oposs. We play some role on their metaverse and next generation they are, but it's still still talking on the same problem.
+23:30
+Like, if you have portable Sony police station, are you really can use their? Are you really can play the same quality of the games as they're regular console? I guess not right, so it's the same thing, so there, the highest quality will be possible. Only with some particular rear headsets, which will be connected to their high power, high performance, computers with their performance video cards, video adapters.
+24:06
+This is the only the scenes, which will provide their highest quality possible especially for the game and entertain. So this is the only there vision on how the market will grow. And it's, it's obviously true because recently in media and thread used their next generation of video adapters, which you'll be like, twice times more powerful, raises and previous one.
+24:36
+And the power consumption of such video adapters will be something around 700 watts, which is not even possible to think for the portable devices such as options of any other portable yard headsets. So which means which make me quite ensure that the future of the Archnology and future of , especially gaming, and entertainment, demand will be always with their PCVR and their devices, which is not the pack portable airheads.
+25:10
+Going back to the environment mixed reality headset is because they they when I talked to them they said they have a lighter RGB fusion technology which is going to allow them to use the video cameras to capture reality in real time and they want to pipe that back into the computer and then across the world.
+25:31
+So that you can essentially collect a representation of reality by looking at everything around you, and then sent it to the person you're talking to. So that so that person you're talking to can can sort of see what you see and see the world whereas as as you see it but also see like a 3D reconstruction of.
+25:55
+So they don't have to look in the same direction as you and that would require some sort of bandwidth to send video back is, is, is that in the future future pipeline that you're thinking about as well, in terms of sending video video, back from the headset to the computer?
+26:10
+Exactly, you are absolutely right. So, it's something for there next generation for our technology, as well. We don't have such a prototype yet, but we definitely understand that it will be kind of requirement also, to have not just like upstream not just downstream there, bad recently, some media from the computer.
+26:35
+But also to upstream from their headset and it's also possible. There's no doubt that it cannot be done. We don't have to take demand on this right now. We don't need to discuss it is our partners because we already signed. Some NGAs is why you're in other other guys.
+27:00
+And restarting to discuss the topic on how we can really help them to make their, we are headset like a desert and fully wireless with our laser communication technology. And but I believe that such demand is exist and it's just a matter of time when we will be. Also, we will also start to work on some full duplex communication.
+27:27
+It's reach allows the bandwidth not just to the VR heads but also back. Okay, let's see, I'm kind of thinking we're gonna go next. I'm kind of like I so before we go we jump on a call. I was looking at this this interview that Philip Rosedale did, he's was struck me about the interview was, was he was, he's so he went back to second life and second life, I guess was one of the original examples of of the meta verse.
+27:56
+And what continent was he was, like, others is basically this ad-based version of the metaverse, which is, which is sort of what it seems like meta. You know, the company that was what's called Facebook is is like, and and then, but he was saying he doesn't. He he wants to sort of like to create a social network where people can pay to not have any ads and it's sort of a world that is ad free in a sense.
+28:24
+What what side do you do? You know because definitely any definitely different visions if for what would you prefer they add-based or that? Or, you know, people you like buying an ad free experience in a matter. Of course, I don't think it will be fully ad free designed and solution from there.
+28:48
+A particularly, from metaphor from Facebook, but I believe it's definitely will be guided by the quality of the equipment. So some people, which may use alcohols or any importable saying will be guided to use kind of matters which can be supported by their hardware. So it will be not just their high absolutely high resolution.
+29:15
+Like okay resolution upstream and they're rich and visual reality of the meta verse. I mean from there experience point of view but it will be also something which requires high-end equipment and here because it's actually the deal for this equipment is actually the people who already paid and quite a lot to get there.
+29:42
+More professional VR heads as to also equipped their computers with high performance video, adapters and say, hi and computer just behind computers at all. So they will pay definitely for something on metaverse which can be not just ad free but session such as ads will be the just part of such experience because these people has like they paid a lot already and the such a big company such a Facebook or any other will not miss the opportunity to provide something some service, which also requires some additional payments or some ads for them.
+30:36
+So I really got that such a company will miss opportunity to really charge by for the ads. Just provide just providing their ad free metaverse by design. So that's about some, they their coming out with the steam deck and when they, it's like a Nintendo DS, it's a little portable game console.
+31:03
+And, and when the news of that came out, people said, well, can I use this with VR and involve kind of said, you kind of can, but it's not designed for that. And then later on, we heard, it's really not going to be a powerful enough for the optimum VR experience.
+31:19
+And but sort of, like, what I'm thinking is this, this might be a new class of product, right? Where companies try to ship portable PCs that are powerful enough for the highest end VR experience. I mean, I guess right now there are some laptop options but I'm thinking, you know, whereable PCs or a PC you can put in your in your pocket.
+31:41
+I don't know. What do you think? The the because you're because and one of the reasons I wanted to ask you and particular is because you're, you're based on the other side of the world, you're all the way over and the Ukraine and so maybe you have a different view point on on virtual reality.
+31:59
+And I'm over here in San Francisco and it I know everybody travels. But how would you? How do you think that? Yeah, but the real energy actually touched this this problem. So I really believe that this is continuous, it's obvious and continuous competition between something, which is portable and wearable with something, which is more powerful, right?
+32:25
+So, and that's make me into zips. What make me ensures that the matter whereas will not be just for the, some particular people, the everyone, we may connect to the meta verse with different devices and different options, not just because, of performance point of view. But also, sir, from the financial point of view because the portable devices will be much cheaper, right?
+32:52
+As well as for example, that's why the oposs cost cheaper raises an any wired, professional airheads. It's like wealth in this value of whatever, the our headset. So let's make me ensure that we are just approaching the vision on how the net averse, how the real metaverse will be available for the people and that's what I'm quite insured that we all may use metaversed with absolutely different equipments and they keeps that we may use also as their VR as a X are.
+33:36
+And for there, people who may use the more expensive device, the quality of meta verse will be just much higher rather than any of the portable device. But I'm quite sure that all of manufacturer, all of the companies will make some additional efforts just to make possible to have metaverse experience with everything, which you already got raised in Nintendo or any other portable device.
+34:06
+So, I heard that. So someone met someone mentioned on reddit that laser transmission is was featured in the books. No crash. Actually don't remember that but but have you read snow crash. What do you think? That's a good comparison and I don't really I adopted. It's a good comparison actually.
+34:28
+It depends on. What's the basis of comparison we have but I don't really think that we can compare here, but I saw this threat and I saw the reaction different reaction on on this thing. So I read the top that we can talk about it in a such manner as it was actually presented on the trip, right?
+34:56
+Yeah. I mean so I I kind of feel like so we've had many different depictions of of virtual reality, or the future of the metaphors. In movies, there was the movie ready player one. I don't I, my feeling is that movie is not realistic. I think that, you know, I'm interested in in this, this vision of of outdoor drones supporting a really high fidelity tracking system, and I fit in high fidelity video because I kind of like see the future of of more realistic feature of the universe.
+35:33
+It's not like ready player one but more like, you know, a virtual reality program, that sort of like procedurally generated on top of our, our existing reality. So that's the real world is sort of incorporated in a procedurally into the VR experience. So that is, if there is a car somewhere that becomes an object with same size and and velocity as as as the actual car, just like, you know, like we like rescinding a car like giving it, making it look a little bit different, but somehow fitting in with, if you were playing a game and involved wizards in the land of wizards and were and and kings or something, then then you have to like meet evil times, then then maybe you would skin.
+36:24
+The vehicle to look like something that would be contextually appropriate for for that theme. Right. And that's and so I am imagine like, you know, some sort of maybe you would have special parts. You could go to where like the whole park is like, you know, like a safe space for a mixed reality, you know, hybrid mixed reality and virtual reality, and you could walk around and you would have, you know, basically something beaming to your, you'd have your, your unlink, your laser beaming something directly to, to the headset as you walk around this.
+37:05
+It's amazing. Amusement park with other people and like an open space. But it's like there's obviously you're not going to get hit by cars and this sort of safe arena that what an exercise created. I've just created a an idea for people to think about but what is your do you do you have similar ideas or like where you imagine some future uses of this of your technology?
+37:33
+And yeah, but you, let's start from there effects that you absolutely right. Everything is possible from technological point of view. There's no any limitation of using their technologies that we just introduced. So but if you're talking about the future application, I really think that in terms of let's say performance we will achieve the best performance possible and it will not be just like 100 gigabits.
+38:08
+I believe it can be also like something closer to one therapist for the performance part of you. And so because the peripheral overall performance of their PCs and their heads will grow. So potentially you will not eat face the any issues that you just mentioned with the same, safe some safety or some design.
+38:35
+So you will be just use their virtual reality as a regular things and it will be powerful enough that to actually predict any safety cases with their usage while you just working on the street and using the VR one, when there are links just steamed up to the to your head, right?
+38:59
+This appropriate number of them, this is really acquired to have mixed reality. First of all, not just like virtual reality and that's what make me ensure that the future of our technology and we are. And XR by itself will be much more safe or racism, the present designed and capabilities, which you can just the issues, which you can just face just watching their YouTube fails with their players and everything.
+39:35
+What they do. Okay. And so, I I wonder a little bit about what, what is the so unlink? Your has a very specific product that that makes your heads wireless with a very high bandwidth with, with the oh. So I've heard. So some of the questions that I saw that people were asking was who like, when sort of like, what's the roadmap to?
+40:01
+When this gets to the market and I'm curious like, what's the market potential for this for this type of product that you have? And, and what kind of investment are you looking for the efellows is right for for the product that you're bringing to the market, all right? It's a very good question.
+40:18
+First of all, from there product, and market potential, right? Statista says that. On the end of 202, we will have something around 25, millions of the ark headset units being sold. It be something around 50% of such amounts, which is like 10 million. So 12 millions, it's a pure virus such as valve index, or HP, or any other.
+40:57
+So this, this is our potential market right now. So some somewhere around like as well or maybe some more 12 million or some mod devices, which is regularly via Sony Playstation console or any other equipment, which really feel the need of freedom of movement. So and that's what make me ensure that reels advance we will start our master adoption and will be start our presence on the market, which we focus to have within one year, right?
+41:39
+From from this prepared of time, actually give them the new absolutely new experience which not be compatible to any other and our exit. As if you're talking from the startup point of view it'll be just their accusation of some. Let's say top one to top five players and we will start to introduce our technology for some particular VR headsets which some particular demands and on the basis of the feedback of some particular users.
+42:18
+However, because it's not, it's just our, let's say forecast. And here from the regions product trading this perspective here, as I mentioned on prototyping, phase, which we were very close to MVP. And now, we are looking for investment in something around 2 million dollars, for fully fledged alpha program, which is the part of whole engineering design that we regularly have for any consumer electronics devices, and them using the one year, you will be ready for mass production and it's obvious things that is in their nearest future.
+43:07
+We also make consider some cold funding campaign on Kickstarter on Gigibo just to start their collecting, their pretty orders from the bakers who may pledge the bake. Some something to make invest some particular money to secure their opportunity to have our product earlier than any other markets, or any other.
+43:43
+Let's say V2C customers and so you're taught you so so far like your envy might be 40 gigabits but you think it might be, you might be an in the future roadmap and talking about terabits a bandwidth. So I, you know, I guess companies who are in the Wi-Fi six space, and you know, are the Thunderbolts space like like what are they thinking about, what what you're doing is?
+44:19
+Do you think that you have additional market opportunities outside of VR and AR? Yes, I finally, I quite sure. It sure that actually we have different markets here, as I mentioned. First of all, it's a drone communication which is obvious. Second saying, is a mobile backhaul. Also, it's a things which allows telecommunication operator to provide to give like last mile connection for some particular area areas which may experience some difficult for their radio.
+45:01
+Frequency connectivity, part like temporary difficulties on disaster, recovery things, or something, which may help to regular station just on the face. Visa, growing demands on debt. This is in some particular entertainment occasion, some stage, in some sport competition or anything, which require additional traffic on some particular zones as well as subtlety communications.
+45:39
+So it's a lot of domains of possible application here. And once we will talk about the bandwidth, which we can give to our customers, you are absolutely right now, we are focused to just to secure the present solution design, present demand on the traffic for most of their headsets and 40 gigabits per second.
+46:05
+It's quite reasonable figures here and we believe that we will cover the needs. For most of the wired users with such design and such valves you mentioned satellite communications, right? Like like ground satellite. Is that correct? Mostly like satellite to satellite, it's actually easiest things because on the space, you're not experiencing any issues with like air pollution or something, which may require some additional engineering, workarounds to support sustainable and reliable badness between their receiver and transmitter.
+46:56
+Yeah, that was I think I was something that wet that someone brought up with the conversation around round lifeline that you with light with with people who tried life on their past, they said that you need kind of a clear path between the two, the transmitter and the receiver.
+47:16
+And if there's a if you have interference that's going to perhaps weaken your signal and yes it's it's true but little laser situation. It's it's quite compensate. Let's say quite better because of their actually power and possible wavelengths that we can use to actually obtain the more reliable and sustainable conditions for our transmission.
+47:48
+So laser works better for sure. That sounds good, I'm proud, pretty much out of questions at the moment. Tina. Do you want to come up and and maybe ask a couple questions?
+48:09
+Understand that send out an invite, you know. So oh, welcome to good morning or evening to you guys. Hello. All right, hello? I followed the discussion. But for me, it's too early to really ask quiet, sensible or quiet valuable questions, quite interesting. And I'll, at the moment, to be honest, I don't have rarely or a deep dive questions.
+48:43
+But what I wonder is the all these stories, but we are, and I really wonder where this is coming from and where we want to go, so dreaming of future. How would that look like in your perspective? And yes, sure. We actually touched a bit such a problem, and I believe no one can really be wizard here.
+49:14
+And predict how exactly, all of the technology perspective will be on their future here. But if you're talking on telecommunication perspective, right? And the things which is related to our technology, which is free space, optical communication. I really ensure that there are area of vacancy media is dying and no one will really put anything to their on the hands of radio frequency transmission and all see you channels.
+49:58
+And also you frequencies is just quite overloaded already to provide anything which can specifically address the growing demand on their bandwidth and speed of action transmission. So there is no doubt that area of media will not play major or significant control for the data transmission in the future from the connectivity perspective, all via communication technology.
+50:38
+Also, will move to little move to there. Some optical fiber optical communication. So most of the cables and most of the standards for there data transmission will be under the domain of fiber optical communication. And that's what make me ensure that it's the also growing demand and growing opportunity for free, space optical communication because the virus actually cannot bring for example.
+51:14
+As we are talking usually reality. You cannot have any freedom of movement with any potential virus no matter. It's HDMI display, port with three meters long right now, or even if it will be just optical cable, which will be a bit from the lens here, like the lens of there.
+51:40
+Fiber optical communication will be much higher than let's just say meters, no matter cables, you will use. You will always feel the need to move freely and the free space optical communication terms of virtual reality things. This is the only the technology which can provide the future for virtual reality gameplay and gaming entertainment and particular.
+52:11
+But if you're talking on metaverse, especially, which people can, only guess, how, actually a metaphors will come to their lives. But just visit understanding that people always want something higher something better, something more, reliable, something more realistic. We can also highlights it of our technology a little bit. The major clear for this market and also for the metaverse experience, which require for the people who actually use to have VR or exert devices for metaverse experience this racing.
+53:05
+So I just want to go over a little bit. Some of the highlights that of avoid you're doing is, is you might be able to support the free absolute freedom of movement and untithered. 4k to AK VR resolution experience with that's the 40 gigabit and higher bandwidth and does that in the end.
+53:25
+And I don't know if any computer yet is letting people is allowing people to do 8k at 144 Hertz. That might be a little bit taxing for, for current computers, but but I guess if you can if you can get up to terribly bandwidth, eventually, you could support that.
+53:48
+And so I'm just, I'm gonna actually keep reading a little bit from this page here to some of the more some of the more highlights and info feel free to jump in if you want to say something. So you think that you might be able to sell 100,000 of these sets in the first year and a price between 800 and a thousand US dollars.
+54:12
+But the and it doesn't sound cheap to a lot of people but we're talking about hot really high-end PCVR and let's see. And you want to hire 10 senior engineers. Mm-hmm. And so, how big will the will do you imagine that? You're the team being when you are off when you're fully staffed and invested in?
+54:44
+I guess? Okay. All right. Yeah. It's a good question. The bands on the road, Bob, the roadmap that we now see and, you know, focus on. It's just to give some particular solution for some particular. We are headsets which will be reliable enough to work with their all conditions and all possible applications, such gaming entertainment.
+55:10
+So that's like what we have given to our investors as an information like where we go right now and what we actually do however, within the different domains that I already owns of application that we may have with our native knowledge and design. There, our team can be potentially increased by 200 engineers with the different product.
+55:42
+Domains, as I mentioned, like the wrong communication, satellite communication and mobile and other application, which we also feel the need for some music entertainment also. So, visit next couple of months, as we will see because it's a lot of interest from the investor coming around and really see such a very new field interest to some particular domains of the technology application.
+56:16
+But we focus now on your solution as our mainstream. And it's I believe now it's within the matters demand and the people who think that really different enterprise application, which will require the same quality as a gaming really feels that it's mainstream product, which now have the biggest attention from there, different business people.
+56:48
+And also customers so within their things that you just mentioned. I believe we will keep our team. Not such a big, as I mentioned for different applications so it can be like maybe training up to 30 engineers who works on their particular product design, for virtual reality. And that's what we will focus in next couple of months and saying that you have any more questions.
+57:26
+Yeah. Indeed. I'm going to add on, on the telematic. Problematic human, that you mean that the technologic would be had in the last years, or in the last decades that we somehow fearing. Now technologic puncture the same issues that well evident cats call it issue, because the telemetric what we had to until.
+57:59
+Now, it was actually working and drive us where we are today, but I think in terms of quality, their new technologies are much more better that you can do much more, the qualities better, the latency slower. And yes, I think there is maybe a good good way forward and to be honest and never thought about it.
+58:24
+But as you mentioned that a zodiac is clear. Absolutely. And that. Yeah and this thing the scene here is that for most of their application. If we are talking about real and desert higher quality, the latency start to play vital role and this is not the matter of only like to measure latency.
+58:52
+The real future of your are is actually only no latency solutions such as obviously the technology, which can really provide the communication within the speed of light such as the laser communication. And it's the as they already mentioned such approach and next generation of games and entertainment will also require not just like no latency on downstream but also no latency entertain it and it's a lot of evidence of such demand already because the people is already starting some military.
+59:41
+Let's say a superioristic military training which requires fully fledged optical. Telemetry is no latency just because of their like some concept of such military training and that's what we really can do, unlike any of media, or any of technology, for upstream, or downstream and it's obvious things. And obviously limitation of radio frequency media, make sure was it.
+01:00:18
+We will have not only in the VR application for our technology in future but we will also cover a lot of different domains in terms of telecommunication. I I know that the Ukraine is in the news a lot recently, are you? I'm just curious about how you're you're feelings, are about global news right now.
+01:00:47
+I'll let you say as little as much as you want, but go ahead. Yeah, sure. I believe we cannot spend the time here just to make some prediction on what is kind of mindset of our neighbors in the north. I mean, the Russia Russian leaders specifically in particular, however, I see that Ukrainian people quite unite in the fame in the face of such possible disaster, which is on their worlds agenda, and you quite right, I believe we're Ukraine.
+01:01:36
+Now is one of the words news maker. No one can really guess is in the next couple of weeks, however, and it's very good news. The Ukraine now is much more powerful and we have already thought any of aggression from Russia side raises and it was like a couple years ago, like 10 years ago and the bad news here is that from the historical point of view we never ever.
+01:02:18
+Imagine that, we will have such an issues and the problems with Russia. Who claims not just the neighborhood, but very close relationship between our people, and we still have a lot of relations and realities living in Russia, and their connections. It's quite close on this like regular family. Let's say connections, but who knows?
+01:02:58
+What will happen to the next couple of months or years, but the bad news here, and, but it's like quite aolistic news that we will never have such a relations visa, Russia and Russian people particular as it was for hundreds years because within the such a past, which we have to gather with Russia.
+01:03:28
+Our relationship was quite close and quite pretending to be like family relationship with a lot of close friends, close relatives, as I mentioned, living in Russia but Russian leaders and you see that the Russian governments is just erased and terminated the everything what brings us to the such a family position and everything?
+01:04:02
+What make our people really? Let's say happy with the history, which we survived and which we lived together in this business. So and I believe it's a very big gear, political mistake being done by Russian government and is in the understanding on, what really mr. Putin. What wants from the Ukraine?
+01:04:39
+And here he would like to reunion all of our countries. Visit next generation of USSR should I believe will not make happen anyway. And it's just like, absolutely no time square. That's from the all position. I believe within the next couple of years we will all see the fail fail of Russia as a country and everything.
+01:05:19
+What the people? What will be on the world's agenda? Is how many different countries will Russia be separated after session. Militaryistic, propaganda. And militaryistic intelligence that Russia has for their closest neighbors. Not only for Ukraine, but also about the countries. So I think I have never been out to that part of the world.
+01:05:56
+But I from what I've read, I I'm sharing a lot of your sentiment. I tried to imagine it as a conflict between, like San Francisco and Orange County, which are both American cities, where there's lots of people who have relationships and, and family connections. It's just so strange. And I, what I'm hopeful for is that there's a sort of political awakening inside Russia that, you know, where the where the people, you know, realize that that things have gone too far.
+01:06:28
+And and there's some sort of shake up in the next couple years and maybe in, I don't know exactly how that's gonna work, but I'm hopeful for him and hopefully there's a political awakening and Russia, they just how how ridiculous it is to be targeting your neighbors. The, you know, but I won't I don't want to say too much in this conversation because this is about VR, right?
+01:06:50
+But I want to I want to thank you doctor yet. You again could talk. Is that the correct name? Yeah, that's right. Thank you very much. If the CEO of unlink we are. Thank you, Tina for joining us, and that is our discussion for tonight. I think it went really well that became out.
+01:07:12
+Good. And so I just want to say, did you either one of you have any last words or comments and then we can go ahead and close the room? No, I believe most of the topics will covered and I would like to really wish you a pleasant evening or morning, depends on where you are and say that.
+01:07:32
+Let's revolutionize. We are together.
+01:07:40
+Oh, thank you booze for having me for this good conversation. First, that I was allowed to listen and then later on to jump in and ask some questions and actually I would ask one little question if you can, what would be your recommendation to a young person who wants to go or jump on the train of?
+01:08:01
+We are in a professional career? What would be your recommendation? How to start the career best? It depends actually position that you are done.
+01:08:19
+Interpreting there's trainers and just we are enthusiasts, right? So depends on if you would like to really make some on there, usually reality from the development perspective. It's a good start to, to use some regular framework and make some proven no improvement skills for example, in for the designing some unity, which is now represent like Ford first generation of framework.
+01:08:58
+Or if you, if we are talking about hardware design and electronic design itself, particular devices accessories, of course, it's a better to go with their schematic, electronic and schematic design, ECB design and hardware design. Consumer electronics design. Just starting to a lot of courses and a lot of opportunities there.
+01:09:29
+Also, if we are talking about training and stuff like this, all particularly gaming, it's a lot of also pressport, or some enterprise trainings, close it, people who would like to be some guides in the world of future reality. So it's just the very first step forward is just to maybe sign up for different VR societies and association start to watch the news.
+01:10:05
+Touch, start to see the direction where we all grow and start to falling by following such direction and grows on different domains. You can really feel which application particular you can follow and in which application in particular, you can join and make some impact. I was, I even can rephrase that.
+01:10:35
+And in my way, the way I think of it is, is I want to encourage, you know, young people to stay in school. Learn math, signs engineering, and and programming and, you know, learn unity. And and and and creating, you know, hardware get a raspberry pie and you know, like learn how to do PCB electronics, right?
+01:10:56
+But thank you very much. Let's go ahead and end it and thank you very much. Both of you. Good night. Thank you very much. Bye-bye.
