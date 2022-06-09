@@ -1,0 +1,156 @@
+a0621z ctpr
+SAN Section Graph
+vascular disease & alzheimers
+https://neurosciencenews.com/genetics-cerebrovascular-alzheimers-20669/
+
+My Notes on Jon Lief’s book
+The Body
+The human being is a fractal of a cell in a real way, the human brain could be considered the nucleus of the human.
+Curiously what is happening inside biology appears to be a functional fractal of the operations that operate outside humanity in society. Cells, as functional fractals of a person, can change their shape and grow appendages like arms and legs that allow them to move through the human body.
+The flexible rapidly changing cytoskeleton filaments can produce arms and legs that allow white blood cells to swim, or crawl forward like amoebas, rolling tethering or firm attachment. Essentially white blood cells can walk forward stepwise with two feet that alternately adhere and release at different places.
+A category of white blood cells called neutrophils can clump together and swarm near the epicenter of the problem, they send several scouts, which relay signals to those behind. So the neutrophils are like a fractal of a military column, with lots of attack options. They form a dense extracellular matrix.
+So if Vitamin B is causing your cells to expand in size, what is causing them to contract in size? Collagen?
+Major Sections
+
+Rethinking cells, the brain, evolution, proteins, neural networks, space, and consciousness: Donald Hebb to Job Lief
+
+During 40 years as a neuropsychiatrist Jon Lieff, M.D. gradually realized that cellular signaling has a central place in nature.
+
+The Secret language of cells puts forward a new thesis. Synthesizing & writing about the most current research from the best scientific journals led author Jon Lieff, M.D. to the conclusion that cellular communication is the basis of all current medical science and of life itself. Everywhere we look, cells are talking to each other. Blood cells, immune cells, gut cells, brain cells, plant cells, and all microbes, even viruses.
+Cell Communication
+Intercepting the natural conversations between T cells, Microglia, and other brain cells is now in the vanguard of research into Alzheimers and other brain diseases
+
+T cells and microglia the primary immune cells
+t cells have to actively keep the peace otherwise the brain will have out of control inflammation, its t cells that literally calm the rest of the brain down 24/7
+so depression from inflammation in the brain could be a system of an autoimmune disease
+if T cells are not present in the CSF to direct other cells inflammation is triggered
+Tcells & Gatekeeper cells, determine what is allowed to cross between the sheltered brain fluid and busy blood vessels
+other immune cells approved for entry into CSF have particular jobs in relation to T cells
+Neurons & T cells exchange neurotransmitters & cytokine signals
+one type of white blood cells picks up molecular samples of microbes cancer cells or debris and presents them to T cells for evaluation
+Vitamins like D3, A, B, acid, signal t cells to avoid attacks, 
+
+‘Cells use concentration gradients as a compass’ https://phys.org/news/2021-02-cells-gradients-compass.html
+
+implying that too many vitamins might trigger T cell dysfunction, which could result in increased brain inflammation and depression!
+T-cells are required to calm down inflammation in the brain, so inhibiting T-cells with excess vitamin A, D3,  acid etc is going to increase inflammation in the brain, possibly triggering depression,
+activating a t cell in the arm can trigger brain activity, this is part of what t-cells and nerves can accomplish together
+T cells help stimulate spatial learning and memory signals
+t-cells evaluate every particle of food that you eat! they can avoid reactions to chemicals that have never been seen in nature before
+With Chronic Stress T Cells direct destructive inflammation responses
+Gut lining cells and microbes imbue t cells with an understanding of necessary nutrients and digestion products
+TCP
+A molecule evaluation, special presentation cells & T cells agree that something is a dangerous particle, the t cell becomes activated and morphed into the fighting variety, for this activation the presentation must not only present the particle but also give a second signal of agreement to the Tcell, a handshake, TCP
+UDP
+T-cells have to be activated by Presentation cells, but activated t cells can respond aggressively to red blood cells without presentation cells to do a handshake confirmation
+Information Theory & DNA
+One way to consider Information theory is as a description of how information can be encoded in the variations between frequent signals and infrequent signals, the frequency of tonic for example ought to have low information value, but by contrast the low information value of tonic signals might amplify the meaning of less common phasic signals, but if information can be encoded as phase changes between common signals that have little meaning, and uncommon signals that have more meaning then you can encode information in anything, and effectively information is encoded in amino-acid sequences in RNA & DNA.
+Right so each receptor on a cell might be unique, which means a unique information containing structure, or a protein, acts as a 3D shape that performs a detection function, a sodium receptor detects for example sodium ions that are allowed to pass through the sodium receptor.
+As was previously established T-Cells & Neurons communicate with both cytokines & RNA/DNA messages
+Math
+I want to show with category theory that chemical communication between cells is isomorphic to network communication with information theory
+Cells talk about everything
+Cells manage and maintain their size, adjusting their activity based on their age, the time of day, and their location. Liver & Pancreatic Cells for example have been observed to increase in size during pregnancy.
+New Paradigm: Cellular Communication is like communication between evolved & learned cellular functions, and those cellular functions are in a sense like functions being executed by a CPU because  the cells cycle of activity is regulated by a feedback loop of genes, proteins, rna, enzyme & chemical signals. For example one gene will activate another gene which activates another gene and so the cell might have a 24 hour clock cycle of behaviors, these behaviors could be changed by messages from other cells, via the previously mentioned mechanism, this is the essence of computational biology.
+Scientists are learning about T-cell communication
+T-Cell is a skunk, or a cop,
+They must be attracted enough,
+the ability to measure the intensity of attraction called affinity
+if attraction is too strong problems will arise ie tissue destruction
+Like cops they investigate each cell they meet as they travel through the body. They can transform into killer t cells.
+Hot take on a terminator film.
+That moment when you realize both T-Cells and fictional Terminators serve the same purpose and they both start with the letter T. Was it a coincidence? Or has our collectively unconscious computational biology created this association intentionally? Were the terminator films, matrix films, and other science fiction stories actually generated at the unconscious level by human biology before becoming reality?
+A movie that features terminator t-800 models attacking cities, European cities like Ukraine,
+The John Connor character could be remodeled to be like the Ukrainian President Zelensky, and he is using re-programmed terminators to fight invading terminators.
+Intercepting signals from T-cells, and modifying their behavior there could be new treatments for many diseases not limited to, diabetes, arthritis , pain, lupus, multiple sclerosis.
+
+T cells can be aggressive in promoting inflammation, and then change entirely  to tamp down inflammation activity.
+Treatments could include delivery of signals via microbes that normally talk with each other and with cancer cells.
+To fight cancer, future T cells could be strengthened for a longer lasting multifaceted approach to attack various cancer subtypes during multiple stages of the cancer life cycle
+T Cell Communication: New discovers could create new medical treatments to stimulate actions against infections and cancers by stimulating infections by modifying cell conversations
+T cells can be energized by inserving engineered viruses or other microbes. This makes them superkillers
+It's a progression from aggressor to helper occurs after a microbe infection is neutralized or traumatized tissue is rebuilt
+Super killer T Cells use microbes to simulate new receptors which unleash heightened immune responses to eradicate cancer and other diseases.
+T-Cells Destroy then Repair: after the battle t cells inhibit immune cells from attacking food particles and friendly microbes
+T cells leave long lasting offspring at the site of a battle with microbes, memory T cells stay vigilant in the trouble spot for years. Future treatments based on memory cell signals could help prevent infections of all types. Wow! Next generation vaccines.
+t cells can rapidly change themselves into multiple varieties of cells
+t cells undergo their education with a gradual maturation into fully functioning master. only 2 percent graduate
+After T cells are tested and approved graduation consists of a change in their status
+So inflammation causes us to be tired
+T cell signals tell the brain the brain that conditions are safe for normal activity with a constant pulse of signals to the brain
+Upon finding microbes infections or trauma t cells change their messages to the brain to signal the body is sick, the brain must slow it down to rest to conserve energy while fighting the infection
+When the inflammation operation is under control the white blood cells receive signals to pack up they receive signals from cleanup scavenger cells
+All Organ cells turn the T cell to help with trauma and infections.
+New research shows that Some white blood cells live months, previously folks though white blood cells only live only six hours.
+T cells chase and kill microbes and attack cancer cells. T cells morph into a wide range of subtypes that analyze situations, attack problems and support other cells in a variety of ways.
+T cells evaluate material that should not be in the body. So T cells direct the activity of traveling blood cells. B lymphocytes
+Signals from dying & dead neutrophils alert white blood cells to tamp down their activity. Then the white blood cells switch to a healing mode, eat the debre, stop causing inflammation.
+New signals provide different messages, telling white blood cells to slow inflammation, leave the scene, or maintain chronic inflammation.
+Killer T Cells can divide into two cells  to chase virus's in different directions at once. Some  grow many long arms to crawl between cells infected by the virus
+Traps for microbes consist of dna pieces & proteins that grab onto microbes to help destroy them!
+Producing unstable oxygen based molecules that are highly reactive  is a tactic to increase inflammation to kill more microbes.
+Neutrophils produce 300 different toxic chemicals, store them in sacks inside themselves, and release them inside the target. They are called granules because they looked like grains when first observed. The Neutrophils release these toxic chemical at their target. Another tactic is to use enzymes that cut proteins to remodel the lattic between cells, the products of these signals may call other neutrophils to arrive to help.
+Cells & Organs talk
+
+Producing Signals: The T cell builds the largest
+
+T stands for thymus
+T-Cells start life in bone marrow T cells migrate to the thymus and other lymph tissues
+Thymus teach cells are a distinct class of tcells
+One category organizes the outer thymalus region
+T Cells need training, provided by multiple sets of teacher cells, one category organizes the outer thymus region into a precies, brain like three dimensional structure of concentric circles.
+Thymus is a small central gland, 2 inches long, half ounce, left/right lobe and smaller sections called lobules, it sits in front of the heart and behind the breastbone.
+after t cells are tested and approved graduation
+most t cells fail
+
+T cells
+the other 98 percent that do not met the exact qualifications required by a series of checkpoints are eliminated by their instructors.
+It is not know how T cells can build so many varied molecutes and adapt them to changing conditions
+regulating genetic processes to produce unique proteins, and then modifying them
+T cells can edit sections of their own dna
+multiple layers of complexity, people thought a gene produced;
+poisons & synthesized chemicals
+Sections cut, new arrangements of dna code
+t cells can produce new receptors to respond to new virusus and microbes, new poisons, and new chemicals that have never been encountered before.
+T cells produce a wide range of receptors.
+The only other human cells known to to edit their own DNA are B lymphocytes which use a similar sequence of enzymes to readjust their own DNA to produce antibodies, but B cells need T cells to produce the most effective antibodies
+DNA self editing has at least 10 different steps with large enzymes in sequence
+Neurons and T-cells are always talking and working together to keep the body healthy
+Traveling T-cells are a wireless system that directly communicates with the brain
+cells and organs talk
+neurons & t cells both respond to infections, foreign material, trauma, perceptions, and stress
+frequent conversation involve elaborate long distance communication between immune cells and brain cells
+one example of this signaling phenomenom with local nerves involves t cells that lie inbetween neurons
+Cells use multiple signals at the same time to communicate: Secreted Chemicals. Launched Sacs filled with Genetic Instructions. Electric Currents. Electromagnetic Waves. Physical Contact by Cells. Biological Nanotubes between cells.
+
+All organs work through cell communication.
+Cancer cells warn their community about immune and microbe attacks.
+Gut cells talk with microbes to determine who their friends are who their enemies are.
+Instructor Cells in the thymus teach T Cells not to destroy human tissues
+Memory
+3D protein structures could encode memories.
+so unique receptors are created from unique proteins to have specific memories to represent what the body has learned.
+In otherwords a protein structure is going to have distinct identifiable properties that could be probed with electricity or via chemical contact with other receptors or via mechanical vibration receptors,
+The Amino-Acid Sequences in RNA & DNA encode learned 3D patterns, but they may also encode 3D memories as 2D sequences, because those 3D structures effectively represent 2D phase patterns, or differences in phase properties that could be measured as distinct via the pulse rates that it exchanges with a neural network aka the brain
+T cells alter their internal metabolism to change their size shape and function
+Bacteria Propeller Assembly
+Gradients or pools of chemicals that help cells measure distance
+Protein Folding
+DNA has 3D shapes, we can decode them
+SLIDE 7
+Neural Coding
+Granularity of Consciousness
+A Cell is a Neural Network
+A Cell is a Computer
+T Cells have functions that for example cause the tcell to change its shape to extend what are essentially limbs, like legs & arms, with molecular motors that allow the T cell to crawl or propell itself. Neurons also have the ability to swim & crawl to where they are supposed to go.
+Clock
+each cells has its own clock, and in a sense is a clock, each type of tissue has it's own specific internal clocks
+brain signals coordinate physiological functions: metabolism and immune responses
+timed feedback loops
+The universe is a fractal neural network
+
+a fractal dissipative system
+Neural Networks
+Node Layers
+Sensory input layer, hidden layers, output layer
+

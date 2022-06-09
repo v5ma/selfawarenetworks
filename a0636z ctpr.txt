@@ -1,0 +1,90 @@
+a0636z ctpr
+
+i am a wave of phase shifts
+
+a game engine in particular creastes a 3D environment with a coordinate system
+but your brains 3D architecture has a build in 3D coordinate system, because its 3D grid of cells that are spatially aware of their surroundings, and because the neurons/cells are aware of whats around them
+
+Neurons are effectively knowing their own territory, growing receptors towards nearby cells that are more active (to syphin energy via receptors) and atrophing receptors away from cells that are firing in opposite polarity (splay state). The process of growing receptors towards signal sources that are closer to being in sync with one another is called LTP, and atrophing connections to cells firing in polar opposite firing is called LTD.
+
+Ways in which cells feel their surroundings
+https://www.sciencedaily.com/releases/2017/07/170718084522.htm
+
+Cells sense their environment to explore it
+https://www.sciencedaily.com/releases/2017/12/171213125821.htm
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+Note originally created April 2018 and it represents the beginning of the effort at Noisebridge, that led to the project that brought EEG into WebVR on Oculus Go & Lenovo Mirage Solo VR headsets. The Neurohaxor project.
+
+The note became a post on social media initiating the series of events that followed:
+
+BCI + AI/DL + XR
+Computational Biology and the future of brain machine interfaces with deep learning AI, virtual reality, and augmented reality: Presentations, Collaborations, Discussion, and Workshop
+
+Do you think anyone would be interested in meeting on a warm Sunday afternoon at Dolores Park between 1 and 3 just to talk about neuroscience, bci and the latest news? I hope we have many warm Sunday's this summer.
+
+After 3pm we can walk as a group to Noisebridge in the Mission which is only a few blocks away and use the wifi and electricity there to keep working, or at that point the group can separate.
+
+Brought to you by two groups:
+1. San Francisco Virtual Reality
+and
+2. NeurotechSF
+
+SF VR + NeurotechSF: BCI + XR (VR+AR) + AI/DL: Lets Meet Share Present & Build
+
+This meetup designed to unite the Brain Machine Interface Neuro Hacking community with Augmented Reality and Virtual Reality developers, and Machine Learning Deep Learning developers as well as people working in Theoretical Neuroscience and on Computational Biology.
+
+My name is Micah Blumberg, I'm the organizer of this meetup and I also represent, as an Ambassadoser, a developer called the Vision Agency that makes MicrodoseVR at MicrodoseVR.com and our team has already built an application that uses the Muse EEG faceplate for HTC Vive to track your heart beat and make the graphics in the VR app pulse with the beat of your heart, however that is a completely separate project from this and my goal is serve the community of Neuro-hackers like ourselves by creating open source tools that we can all use and share and work on together. I would like us to feel inspired by the Vision Agencies work to combine BCI with VR, but that's all. I also founded the Self Aware Networks group on Facebook, I admin 30 groups, I do the Neural Lace Podcast and Silicon Valley Global News a short bio is at http://vrma.io 
+
+Let the organizer know if you would like to present (in the meetup) your start up, or project, or corporate agenda, we want people to be able to share what they are working on, invite others to collaborate, we have a slack channel and a discord channel and several facebook groups.
+
+Feel free to share information about yourself, your company or team, your project, and or what you are working on as long as its closely related to the above mentioned topics.
+
+Link to join our slack
+http://neurotechx.herokuapp.com
+Make sure to join the SF channel: #_san-francisco
+
+We also have a Discord group how which you can join by visiting
+http://www.neurohaxor.com
+
+Groups on related topics such as Neural Lace:
+Self Aware Networks: Computational Biology: Neural Lace
+https://www.selfawarenetworks.com
+
+Neurophysics+
+https://www.facebook.com/groups/IFLNeuro/
+
+NeurotechSF
+https://www.facebook.com/groups/neurosf/
+
+Neurohaxor
+https://www.facebook.com/groups/neurohaxor/
+
+The goal is to meet monthly, and eventually more often.
+
+This is a meeting for people who work on or want to collaborate on projects that involve brain machine interfaces (BCI), virtual reality + augmented reality (XR), artificial intelligence meaning deep learning neural networks, or who want to work in or collaborate in fields related to neuroscience, computational biology, computational neuroscience, and closely related topics.
+
+By intention our group is intended to be like a workshop of collaborating people, our main communication channel for collaborating on the project to combine BCI with XR and AI/DL has members but very little communication activity. This indicates to me that we are still in need of a project that the group can get behind and work together on. So it seems that the logical reason to meet therefore should be shifted to a discussion of recent news related to Scientific Papers, and or Technology News related to BCI, Computational Biology, Microbiology, Computational Neuroscience, Deep Learning AI, and possibly the convergence of other topics with the aforementioned.
+
+Yet our goal is not to be a discussion group in the long run, but instead to be a workshop, where people can collaborate together on actual projects related to BCI, XR and AI/DL. So please read up on the latest Computational Biology Papers, or papers and news on similar topics and come prepared to discuss. Share papers or news articles in any of the groups or channels above so you can prepare others in the group to be ready to discuss what you want to talk about as well.
+
+Neuro Hackers as well as Science & Technology enthusiast, Neuroscientists, Neurocience Enthusiasts, to work together to adapt Brain Computer Interfaces to fit Virtual Reality Headsets and incorporate Artificial Neural Networks for interpreting and visualizing the sensor data.
+
+We are open to presentations from the members, project proposals, plans, pitches etc.
+
+Goal #1 Adapt BCI hardware to fit an XR headset. (XR refers to Augmented Reality and or Virtual Reality)
+
+The first chapter of this project is about adapting the BCI sensor kit to fit an XR headset, similar to how Neurable EEG Headset was built to fit the HTC Vive.
+
+Goal #2: Create open source 3D printable hardware for attaching BCI sensors to XR headsets, and open source BCI plugins for Unity and Unreal Engine.
+
+This will allow us to have the flexibility to integrate different sensor systems as they become available and it will serve the greater good.
+
+We need 3D models of the various AR VR headsets that have accurate dimensions that we can use to build 3D printable parts that will allow us to attach sensors to those headsets. Please let us know if you can contribute to the effort to acquire measurement accurate 3D models that we can modify and 3D Print.
+
+We are still trying to acquire SDK's for BCI to be used in Unreal Engine and Unity.
+
+Bring your laptop for notes or for sharing examples of your work or for giving presentations, you can take photos, bring your AR VR BCI AI demo if you wish, bring pens, bring notebooks. You may bring snacks or drinks for yourself.
+
+
+

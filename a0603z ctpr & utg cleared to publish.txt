@@ -1,0 +1,32 @@
+a0603z ctpr & utg cleared to publish
+
+Buzsaki
+Step by step: cells with multiple functions in cortical circuit assembly
+Rosa Cossart & Sonia Garel 
+Nature Reviews Neuroscience (2022)Cite this article
+
+Abstract
+It is often thought that the construction of cortical circuits occurs as the result of an elegantly designed process that unfolds sequentially as an animal develops until adult functional networks emerge.
+
+In reality, cortical circuits are shaped by evolutionary mechanisms, changes in developmental programmes driven by neuronal activity or epigenetic mechanisms and the need to adapt to the external world, and must pass through several important phases and timely checkpoints as they form.
+
+Some cortical cell types serve multiple functions during this developmental journey and are then reused (or ‘recycled’) to perform different functions in the adult cortex.
+
+Understanding the different stages of the cortical construction process and taking into account the ways in which cellular functions change across time and space is therefore essential if we are to build a comprehensive framework of cortical wiring in both health and disease.
+
+Category theory could be ideal for mapping the bizzare domains of reality such as communication patterns between cells, atoms, brain activity, and fluid mechanics because without precise knowledge of the contents of each node that we are attempting to graph we need to be able to have useful rules for mapping some level of abstraction to help discover the conditions & boundaries abstract relationships between invisible functions.
+ 
+ In other words, in biology we need to be able to analyze the multi-level functions of cells that are unlocked through their communication with one another.
+
+The feedback a cell is getting from it's environment unlocks it's learned functions.
+
+In otherwords a cell has, through evolution, through trial and error, learned sequences of functions that it will execute in response to certain signals from it's environment.
+
+What is interesting is that you can abstract the function of a neuron to an artificial neuron, but you can also abstract the function of an ordinary cell to a neuron
+
+You can also abstract the functions of multiple cells communicating together as being like nodes in a graph neural network.
+
+The communication of chemical messages is turing complete, or capable of simulating any kind of information, just like the communication between nodes in a graph neural network, with cellular systems being able to recognize and respond with learned data stored in the information configuration of chemical packages. In otherwords if you give an organism shit, it knows, at the chemical level, how to respond with a "fuck you" message.
+
+We could argue that because Putin's biology is under attack from Parkinson's Disease that his understanding of the threats he faces internationally is magnified in his mind.
+

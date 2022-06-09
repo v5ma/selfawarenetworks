@@ -1,0 +1,363 @@
+a0644z ctpr
+Book Chapter Outline (optogenetics, cortex, synap, Graph, LTD, Perception, perceptron, oscillat, field, neuralink, dendrite, emotion, vector, fourier, qualia) Self Aware Networks
+
+A real goal of this book is to highlight for you the excellent work that others have done to discover what human consciousness is.
+
+I'm 41 years old and my journal into neuroscience began at the age of 16 when I took LSD "Lysergic acid diethylamide" during a class in highschool. At that point onward the "Doors of Perception" the name of a book by Aldous Huxley had been opened for me, and I had become a student of the mind, I became dedicated to understanding its every mystery. I think that human beings are still far from understanding every mystery of the human mind, but I think we have enough knowledge now to understand at both a high level and at a low level what consciousness is, how we can create artifical sentient human level machines, and how we can hack the human mind with nerve gear to both download what we are seeing and hearing but also we can begin to stimulate the human mind to create Augmented Reality and Virtual Reality experiences without glasses. The long term consequence of this could mean a merger between the medical system and the justice system, and a global government system that provides superior education to all of earth's citizens to help protect lifeforms and our collective habitat.
+
+
+Chapter 1: History of the Perceptron and Micah's neuron.
+My -notaPHD Thesus" that I am setting out to write as a : Humanity has already figured out how consciousness works. The point of this book is to provide a hot take on science that has been available to all of us for years. The goal is to attempt some novel functional metaphors about what human thinking really is, how we might interface with it as computational system, and how we might create robots that are sentient someday.
+
+About self
+ethos
+pathos
+logos
+
+chapter titles:
+1. chapter: the eyes, ears, touch, taste, smell and other senses and how their signals travel into the brain
+
+2. structure of the path of signals
+
+3. character of the signals: motor & sensory distinctions
+
+4. the thalamac bridges, and the corpus callosum at higher levels
+
+"Thalamo-cortical interactions modeled by weakly connected oscillators: could the brain use FM radio principles?" https://pubmed.ncbi.nlm.nih.gov/9886635/ 
+
+This is a book about how the human mind might work, how we might approach hacking the human mind, how we might make conscious sentient self aware machines with phenominal conscious experience,/ and how we might connect that machine to the human brain.
+
+
+Im digging through all the concepts I have learned, to share the best concpetual gems
+and to share my prediction for what human consciousness and self-awareness and epiphenonomological experience actually with a mechanical & computational analogy
+
+Chapter: The Self in Self-Awareness? A concept? A direction? A driver? An orchestrator of a symphony?
+
+Symphony of the Brain what year?
+
+There in Rhythms of the Brain discussion of how inhibition can change the firing patterns of a neuron, and that really is the point at which a change in the experience or the canvas of consciousness happens, but eventually that change is overridden by the group oscillation pattern and so that change in phenomological experience is overwritten, or in a sense reset so that the network can get ready to represent a different pattern for the next moment in time.
+
+
+long range interneurons with myelinated axon c collaterals facilite temporal synchrony of all terminals (Rhythms of the Brain) The critical role in these rare long-range neurons has to do with facilitating the timing of distantly operating oscillators and the timing of firing patterns of large numbers of neurons that are not locally connected to one another. So in essence if you what you are seeing, and hearing is coming from the same source, like a dog's bark coming from what looks like an animal to you, well recalling the image and sound of a dog barking means that there is some sort of long range coordination between your visual cortex and audio cortex that is raising the sound of the dog, and the sight of the dog in your memory at the same time, which would be temporal synchronicity, and what accomplishes that (the timing of an audio memory and a visual memory) is thought to be long-range interneurons. So it can be argued that your attention across multiple sensory modalities (sight, vision, touch) is coordinated by interneurons, they are doing the work of binding diverse sensory representations together, for your attention.
+
+so imagine that the brains principle cells, excitatory cells are collectively creating a large marble block, and that the inhibitory neuron system is Michaelango carving that marble block into David.
+
+what are neural state machines? neural network state machines?
+
+
+More books to get:
+Thinking by John Brockman
+Your brain is a time machine 
+Livewired
+Breath - James Nestor
+The case against reality 
+Infinite Powers 
+What is real - this is a great one
+
+Chapter: Primary sensory cortices
+& Qualia for eyes, ears, smell, feelings, touch, taste, balance, emotional wellbeing, happiness, fear, pain, sadness
+
+alzheimers, parkinsons, huntingtons
+add, austism, sczitzophrenia
+
+
+"evolution" entered this page because of an encounter with the author of a book (encountered him on Clubhouse refers
+It seems plauble that the next stage of human evolution and computational 
+
+I AM A COMPUTER SYSTEM: THE SELF AWARE NETWORKS THEORY
+
+Consciousness is integrated models, not just integrated maps, not just integrated reference frames, not just integrated information
+Not just engrams, or nicf non trivial https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7374725/
+
+[Phase locking, Phase modulation](simplenote://note/203b8950-304e-429f-aedb-d3d002a5c12f)
+
+Virtual ideas are like when your brain has many duplicate pianos, and any of those pianos in your brain can play the song, so you can have different neurons firing each time you see an object and that is exactly what ee see in tbe brain.
+
+the idea could also travel from one part of the brain to another part of the brain in effect because it can be represented in multiple ways with different primary sensory areas firing to represent part or all of that idea, and also the pre-frontal cortex firing
+
+I am writing a book and it's going to blow your minds with world changing ideas about the nature of thought, and internal representations (what you see and hear) in the human brain. 	
+
+https://hmd.link/	
+
+A chapter on Jeff Hawkins, blockchain, voting, binding
+
+Subtitle will be from dentrites to potassium ions to neural circuits, to columns, layers, regions, to your mind, your mouth, and your steps. NO.
+
+Summary
+Major topics
+Meaning emerging from noise in the brain
+say a word super slowly, then pronounce just a vowel, focus on the fact that its just noise, but that by changing the noise a letter is distinguished, then another, then a word
+a word is changes in noise patterns, relatively stable perhaps Gaussian noise patterns
+
+changes in the noise is where meaning can be transmitted and received
+
+remember the phrase
+"its so loud in hear I can't hear myself think"
+
+Meaning emerging from noise in the brain
+say a word super slowly, then pronounce just a vowel, focus on the fact that its just noise, but that by changing the noise a letter is distinguished, then another, then a word
+a word is changes in noise patterns, relatively stable perhaps gaussian noise patterns
+
+changes in the noise is where meaning can be transmitted and received
+
+remember the phrase
+"its so loud in hear I can't hear myself think"
+
+Nerve Gear
+Artificial Cortex
+Artificial Brains (Self Aware Networks)
+Neo Mind Cycle
+//Nootropics Microdosing 
+Hacknights, VR meetups, Journalism
+BCI in XR Part 1 and Part 2
+Volumetric Video and the brain,
+1 how what we see compares to a volumetric video or moving picture photogrammetry
+2. How the brain renders volumetric video
+3. How the brain sees volumetric video
+3 sections per topic
+
+18 Sections
+6 Chapters per section
+
+We need to reduce the data from the brain to send a reduced compression from one person to another, 
+
+I don't want to listen to someone ramble for 10 pages, I want them to get the point to summarize what they are saying in as few lines as possible
+
+So instead of trying to expose an entire brain to another entire brain we will just create a compressed sentence that transmits a sequence that might have an idea, a sound, a picture from one brain to another, just like how language works today,
+I'm currently writing my own book to point to all the work researchers have done, because my hypothesis is that it's enough to explain human consciousness to a degree that people might not expect.
+I have some new ideas for how to redesign the perception from 1957 into a more biologically plausible neuron that passes along temporal, spatial, and phase information.
+
+If a single microcircuit is doing multi-model assembly of objects or ideas or abstract notions
+every column in the neo-cortex has a motor output.
+Is every neural column doing multi-modal processing? no it's not, they are not multi-modal. its that it is connecting to other microcolumns.
+Is every column of the visual cortex doing processing with the somato-sensory cortex, and the audio cortex. What is the division of labor across the primary sensory cortices now given the understanding of the role of columns?
+You might have a thousand visual representations of a coffee cup in the visual cortex and a thousand audio representations of a coffee cup in the audio cortex, but it's not like a fractal or a hologram which is a different and more static way of representing information
+how is the function of micro columns or clusters of microcircuits different? //mini columns might represent one dimensional movement vectors?
+Would the columns in the prefrontal cortex still be processing mostly information that the pre-frontal cortex has been thought to process, yes.
+is many columns are modeling the same thing, the same coffee cup, is this concept similar or differnt from a fractal, and is this similar or different from a hologram
+no its a different type of information structure.
+okay so maybe the fourier projection slice theorem is not correct, 
+
+some rapid fire questions
+1. do you have a prediction for the basis of the information data structure in a reference frame? what is the brains equivalent to a bit of information? and is it binary? there is a metric structure to knowledge?? this metric structure lets you solve problems, makes it possible for you to understand the relationships between different things.
+2. grid cells & place cells explain how information is stored? different components but they have the same structure to them?
+
+1. 20 years of decortized rats that behave the same way as rats, do you think consciousness is also in the old brain besides being in the cortex
+2. what is voting, how do cortical columns interact to vote
+	the structure of the cortical column does it contain, microcolumns or micro neural circuit clusters that represent separate oscillator patterns?
+
+50,000 to 100,000 neurons in each column
+
+incorporating dendrite based predictions into neurons
+2016 Numenta paper, include contextual processing from dendrites
+[Notes including the term dendrites](simplenote://note/d694c243dd8a472dae21c9cb61d4fa47)
+
+
+
+2. do you think neuralink devices be able to decode cortical columns, will that lead to decoding human thoughts, images, and sounds from the brain
+would a neuroimager be able to tell that voting has happened?
+would neuralink be able to decode cortical columns and voting by listening to individual columns and decoding them?
+
+short term memory is happening in the activity micro-columns 
+brain computation is organized via power of 2 brain computation
+
+3. I'm thinking about a book Rhythms of the Brain, I don't know if you have read that, but do you have some predictions for how reference frame's effect the brain's oscillations in a mechanical way?
+4. what is your prediction for how emotions fit into reference frames.
+5. do reference frames exist on larger scales beyond what an individual column models?
+
+Stimulating the cells
+transferring learning from one animal to another
+we just need to record enough data over a long period of time
+
+every pattern will not be the same?
+I think we will need to be able to distill a pattern
+
+neural link might move around,
+how will we stimulate the brain
+
+new technology developments, 
+
+Catarina stimulates with optogenetics, because you use a genetic code, a specific promoter, you introduce it into the brain, which brain regions might express light receptors. To be very precise with the cell types
+
+transfer 
+"optogenetic neuralink" 
+proof of concept
+transferring memories from one animal to another, implanting memories, decoding cortical columns
+reassociated traumatic bad memory
+they reshaped a bad memory into a good memory for mice,
+doesn't solve the problem the issue of legions in the brain, from depression, alzheimers, disease
+
+laser doppler holographic, laser fnirs holographic
+fast as EEG, able to detect single neurons firing at the speed of EEG at the depth of the thalamus, and then ultrasound would be used to target and stimulate individual neurons to fire
+
+we are using ultrasound to open the blood brain barrier
+target cancer cells
+
+to fix that problem the solution would be to use optogenetics in humans
+
+introduce 
+extreme blind, life quality is so low, 
+
+Xoch So-so_ch
+
+energy transform change, we have the object vibrate, it might create the magnetic hz you are reading on your device, it transforms into another type of energy form
+
+maybe you are reading from the magnetic field point of view
+how granular is the recording of a cell
+
+and granularity of the encoding
+elicited a long term memory with high frequency stimulation
+generated compulsive behavior with high frequency stimulation
+low frequency simulation brought 
+LTD
+
+Sigmund Freud first did the imprinting
+injecting the sensory motor cortex and the amygdala
+This would be important to have a memory
+
+represent the emotional cue labeling
+course grained measurements of energy, and course grained stimulation.
+
+Caterina mentions a paper where they had to keep human brain cells and do electro-physiology
+
+the integration of information is way more precise in humans than in mice
+
+in limbo-Harnet Lab at MIT
+Paper Title:
+Enhanced dendritic compartmentalization in human cortical neurons
+
+Neurons might be much more complicated than 
+humans neurons are more compartmentalized than rat neurons
+the human neuron is much bigger
+
+the stretched version matches the data, the larger neurons have a stretched distribution of channels that creates more compartmentalization
+
+compared 
+there is a spatial relationship between where they are embedded and the morphology of the dendrite, it's the physics of how the spikes are generated given the inputs
+
+imagine what would happen if you stretched something like a true with flowers, 
+
+a huge human neuron, to make it identical, you would have to add more channels and maintain the channel density
+
+frequency, 
+
+em waves, are going to modify dna, rna, virus, bacteria
+
+cortical column correlates of emotion
+emotion and high frequency stimulation
+inhibition
+elicited a long term memory with high frequency stimulation
+generated compulsive behavior with high frequency stimulation
+low frequency simulation brought 
+LTD
+
+Autism the inhibitory system is disrupted, so the interneuron system or the inhibitory system are responsible for the feeling of agency
+
+glia is responsible for inteneuron dysfunction
+the immune system in the brain, destroyed the glia, which led to social anxiety and autism disorder
+
+In Joseph Ledu's lab
+the paper 
+
+10hz high frequency stimulation
+if you stim at 1hz it inhibits, 
+
+back prop pulled us back from the perceptron not being able to do linear 
+
+Cancer Car T cells treatments immunology 
+
+the implanted a cat, you can map the association of the patterns that give you
+not identical
+
+the interindividual differences
+but also the 
+
+thousands of neural columns are essentially modelling the same thing in slightly different ways
+
+Nicholaley's lab, he is working on making specialized for paralyzed people to making connection devices, with your brain control all kinds of people
+
+fear memories and context, how specific?
+
+a general idea of a cat, a general visual cue of a cue
+
+neurovascular coupling phenomena
+
+pyramidal neurons in the striatum
+
+}
+
+each cortical column is a sensory-motor circuit
+interlamaninar focus on layer one vs deep layers
+course grained examination is to get a handle on what's happening across the layer of the cortex
+
+Neuralink type of devices to elicite a behavior thought or feeling
+
+if you stimulate xyz neurons
+you would get the y response if you repeat it next Tuesday
+
+the brain is producing a situational context
+
+the modulator inputs
+can a sensor that's 
+
+inhibition of sensory experiences with regard to autism
+immune response to 
+
+Optoacoustic brains stimulation at submillimeter spatial precision
+https://www.biorxiv.org/content/10.1101/459933v1.full
+
+can this subset of cells to entrain a rhythm
+
+ oscillations in one area can 
+generated compulsive behavior with high frequency stimulation
+low frequency simulation brought 
+
+nhibition
+elicited a long term memory with high frequency stimulation
+generated compulsive behavior with high frequency stimulation
+low frequency simulation brought 
+LTD
+
+Autism the inhibitory system is disrupted, so the interneuron system or the inhibitory system are responsible for the feeling of agency
+
+glia is responsible for inteneuron dysfunction
+the immune system in the brain, destroyed the glia, which led to social anxiety and autism disorder
+
+In Joseph Ledu's lab
+the paper 
+
+10hz high frequency stimulation
+if you stim at 1hz it inhibits, 
+
+Sohail so-hay
+
+agency is possible within inhibition and inhibition is possible with the interneural system
+
+but agency at the cortical column might be in terms of neurons detecting information that has specific criteria, our columns considering that information, and then predicting multiple possible futures, that our cells vote on, and then we react to the possible future that we voted on and that becomes our choice
+
+synaptic organization
+ground of being ken wilber
+canvas or global workspace theory / information integration theory
+fractal
+tensegrity & dissipative systems : balancing
+distribution
+solitons 
+hand is a fractal of a neuron, neuron fractal Morgan Hough
+transducer
+
+
+neurons distribute calculations
+neurons distributing pattern detection's and
+neurons distributing computations between themselves
+
+sparse distributed representation,
+sparse distributed memory
+
+each person can be seen as like a person at a factory
+
+signals are recorded in eeg and electrodes.
+
+
+
+Tags:
+  book, contents, dendrite, fractal, of, table

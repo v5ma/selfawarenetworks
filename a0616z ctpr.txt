@@ -1,0 +1,293 @@
+a0616z ctpr
+(table of contents backup)
+# Self Aware Networks (working from google doc this is a backup)
+
+Intro
+
+
+The brain is a computer
+Computational Rendering aka Computer Graphics in the Brain: Self-Aware Rendering
+
+Cycle 1: Self-Aware Networks
+##### Brain
+###### Rethinking Neurons & Networks
+* Neural Function/ Scope
+
+
+
+
+2 The Question that compelled me to write this book
+2a The Holographic Brain vs A Thousand Brains
+#### Holographic Universe, Holographic Brain, A thousand Brains
+##### '--' negative, '|' positive, '+' neutral
+##### holographic attention schema
+###### multiple representations of different perspectives in different modalities enable the brain to have patten drift, or for a cortical column to represetn any pattern with any set of neurons
+
+
+An functional anatomical question: What is the resolution or granularity of consciousness? The expanding roles of Glial Cells? All the things Neurons actually can do ) Jon Leif How cells communicate
+Jon Lief “cells” book
+    Jon Lief
+The person: Fractal functional isomorphisms, eye to neuron, neuron to hand, 
+3. A human brain, triune brain, prefrontal cortex, primary sensory cortices, thalamus, hypothalamus, hippocampus & entorhinal cortex loop, TPJ Temporal Parietal Junction, Brain Networks Default Mode Network, Rich Clubs,
+    Networks of the brain (Olaf Sporns)
+    Sensory Paths or Neural Pathways
+        Ganglia Sensor Arrays, Eyes, Ears, Touch, Taste, Smell and how they map to the different parts of the brain. Why I'm looking for feedback loops connecting the oscillating sensor-transmitter arrays.
+        Douglas Hofstadter
+        
+
+
+    Neuropaths of neural circuits, glial networks, cortical columns, micro columns, edge communities, protein folding?, DNA& RNA, Mitochondria, ATP, Nucleotides, (branch topic to AI programming DNA), proteins, new protein synthesis & memory.
+        Short Term Memory, signals between neural circuits.
+        Short Term Memory: How your thoughts are the signals between neural circuits.
+        
+
+
+        3a Functional Anatomy, Sensor Transmitter Arrays: eyes, ears, nose, neural paths, edge communities, oscillations
+        * Neural Arrays & Edge Communities
+* fractals (princeton mri study, eeg, meg, furaxa microwave imaging, cavities (skull, eyes, ear), sensory arrays (dendrites, circuits, columns, default networks, thalamic bridges, interneurons, corpus callosum, rich clubs, major brain network junctions.)
+    * fractals eeg
+    * fractals meg
+    * fractals mri
+    * fractals anatomy
+    * fractals functional anatomy
+    * I want to show how the collection of data in arrays is similar across the eyes, ears, tongue, touch, and smell, and how oscillations are arrays also.
+* Neural communication modalities
+
+Mental Relativity: Phase Communication
+        3b Phases not spikes. Spikes to Brainwaves, Phasic, Tonic. Peter Tse,
+            * Phasic Firing (criterial causation theory)
+        * 0.2 milllisecond firing for sound, 3 millisecond firing for mechano receptors
+    * Tonic Firing
+    * Inhibition
+
+        Soliton waves to Electromagnetism Flavins & Mitochondria to reinforcement learning to choices shaped by awareness
+        4 the brain as a signal processor,
+    4a. neural networks as a signal process,
+    Signal Processing Using Neural Networks https://www.allaboutcircuits.com/technical-articles/neural-network-signal-processing-validation-in-neural-network-design/
+    4b. a cortical column as a node in 3D neural networks,
+    Coincidence patterns as bits
+        3b2 Oscillations: Rhythms of the Brain: Buzsaki & Sync by Steven Strogatz 
+        Oscillator level awareness
+an oscillating array paints a picture or sound or feeling of what is happening for other arrays to detect and compile into 2 dimensional synaptic memories.
+Grid Graph
+
+
+        3c Synaptic Spikes, Backwards Dendritic Spikes, Forward Dendritic Spikes, Dendritic Branches Apical & Basel Summarization, Action Potential, Types of Neurons (Pyramidal, Granule, Excitatory, Inhibitory), Microvesicle Release. Neurotransmitter & Soliton wave transmission.
+       3d Ion Concentrates, Sodium, Potassium, Calcium, Chloride. 
+       3e Neurotransmitters: Acetylcholine, Gaba, Dopamine, Serotonin on memory:
+
+       3f Dendrite to MVR Function
+            Sub-Neural Computation (Dendrites) dendrite to MVR function, interneuron patterns from trajectory path tracing, neural tagging, from synapse, to soma, to axon, to post synaptic terminal, cleft, presynaptic terminal, spines, 
+       3g Spines to Synapse Memory, Path Integral Formulation, Oscillation, Dendritic Computation, LTD, LTP
+       3h soliton oscillatory phase waves: chemical messages to store firing patterns, remember paths, regulate equilibrium.
+       a0337z Oscillating Neural Array Projection Tomography Properties (3D Patterns?) 
+
+    4c. the hippocampus as a specialize cortical column, 
+5 The observer inside you.
+The screen that only your brain sees
+
+7 Ila Prigogine: the brain as a dissipative system, cognition as the dissipation of energy via oscillation, neurons doing collective memory sensation via oscillation + learning via changing connections that encode oscillatory patterns.
+ 
+Strogatz, Prigogine, Hofstadter, Buszaki
+The 1/F rule
+Oscillators
+    * (Buzsaki
+    * Neural Oscillatory Sync Tomography
+        * how neural oscillations absorb, learn, enlarge, and print patterns to other neurons
+    * LTD & LTP Signalling,
+        * Feynmen Path Integral
+        * Coherence, Decoherence
+            * beta decay and LTD decoherence
+        * Splay State, Decoherence, LTD, Sync State, Coherence, LTP
+    * BadPoints (they have zero area)
+        * Bad Point Universe Theory
+* Neurons warping space 
+    * Neurons electric field
+    * Neurons magnetic field
+    * Neurons mechanical waves
+    * Neurons chemical waves
+    * Neurons heat waves
+* The resolution of patterns in the brain: Neurons vs Perceptrons granularity and Phi network complexity and inhibitory network pattern loads
+    * Neurons vs Perceptrons
+    * Integrated Information: Phi
+    * Inhibitory network pattern complexity multipliers
+* equation for cognition, qualia (internal representations) & phenominal consciousness
+    * Phenominal Consciousness Formula idea QxO[D2M*i(N+x)/f] (I will explain what the math means after the book is released, if you can figure this out don't say anything.) Quadrupole times Oscillators considering the sum of dendrite to multi vesicle release (M) times the (i/N) iteration of the number of neurons firing in a sequences, times Amplitude over frequency (1/f), by multiplication I mean time sequences, many Cortical Column oscillation patterns are multiplied under the Quadruple for example.
+
+
+
+
+1 Neural Codes & Network Protocols:
+    1a. Hebbian Learning. Types of Simultaneous Soliton Wave Transmission + Hodkin Huxley
+    1b. Sparse Distributed Representation.
+        Sparse Distributed Representations https://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-SDR.pdf
+
+    1c. Attention Schema.
+    1d. Phase Precession.
+    1e. Predictive Coding: How Memories Become Predictions
+    1f. Grid Cells & Place Cells & Reference Frames (Numenta)
+
+8 Neurophysics: Addressing the Measurement Problem aka the Observer Effect
+
+## 1. The NeuroPhysics of Consciousness
+### Cycle 1: A new framework for how neural correlations could render reality.
+#### Why is the brain a Finite State Machine? The total sum of all possible calculations.
+##### Cosmos
+###### quantum gravity equation
+* bifurcation theory expansion
+    * the phase field distortion of mass, density, and velocity
+* bosons & fermions
+    * fermionic condensates
+    * bose-einstein condensates
+    * light, heat, velocity, space, time
+* bad points & exceptional points
+    * bad points: spacetime has no real area in summary, but rather area is relative to time
+    * exceptional points: time dilation, and gravity, the surface area of a sphere like the earth represents and expansion of the number of possible directions that a particle can randomly travel towards, increasing the changes that it travels towards an exceptional point
+* Thermodynamics
+    * maximum entropy (convergent integration of information configuration (synaptic cohesion) in a harmonic resonance field)
+        * the number of possible states range from a single oscillation, between existence and non-existence, between 0 and 1
+    * maximum extropy divergent disspitative chaotic resonance
+
+
+9 Development of the mind: Thresholds of the Mind, Spiral Dynamics, Big history, Maps of reality, chaos & organization
+
+
+10 Choice: Neural Network Choice Refinement Theory
+Choice
+a0329z from action potential to a new theory of gravity
+0001A Criterial Causation/Choice
+David Eagleman on Choice
+Computational Modeling on Choice
+THE ADJACENT POSSIBLE: thermodynamic work cycle https://www.edge.org/conversation/stuart_a_kauffman-the-adjacent-possible
+Awareness expands choice. 
+Configuration space quantum physics for LTP & LTD & Plant growth
+
+Philosophy of the Self
+#### Scale invariance, Magnification, inner displays.
+#### I want to bring up the question about who is the inner observer if the brain is making models
+
+
+
+Cycle 2: Nerve Gear: The ultimate brain computer interface:
+
+#### Neo Mind Cycle in 2012 the scope
+##### 2012 Dedicated my life to solving how to build Neural Lace or Nere Gear first, then Artificial Cortex, then Artificial Brains, this book represents a small summary of the knowledge of I have gained since then
+## 3. Neo Mind Cycle: Nerve Gear the ultimate Brain Computer Interface
+### Cycle 3: Reading & Writing your thoughts and internal representations. Connecting the human brain to artificial intelligence.
+
+
+Neo Mind Cycle 2012-2014
+My experience with EEG with the Emotive, Transparent Corp, 
+
+A special kind of hard drive with a virtual mind
+
+Neurotech SF events from 2018 & 2019
+My experience with the Brainduino Device. July 2018-2019
+
+FNIRS 1 Jonathan Toomim
+FNIRS 2 John David Chibuk
+Neuropype Tim Mullen
+Neurable
+Brocoli Properties example
+
+#### Imaging technologies and stimulation over view
+##### EEG
+##### MEG
+##### FNIRS
+##### HD-Dot
+#### Child Mind Institute
+#### TMS Transcranial Magnetic Stimulation https://www.brainstimjrnl.com/article/S1935-861X(21)00825-1/fulltext?fbclid=IwAR0nb8cIZ7X0EXLhGeHrDoH91j4dUu09XIl7inXY6jXOk3xv8vuldhjloIs#%20
+#### Neuropype
+#### OpenEit
+##### EIT & Deep Learning
+#### Kernel
+#### OpenWater
+#### Neuralink
+#### Stentrode
+#### AVS Stim with TACS
+#### TDCS with focus
+#### Emotiv
+#### Neurable
+#### Brainduino
+#### Jack Gallant FMRI
+
+#### Virtual Reality field of view
+##### Light Field
+##### Low Latency
+##### Low Persistence
+#### John Carmack
+
+1 Instrument Brain
+1a Brain as a piano, orchestro, symphony, soul dust 1b Nicholas Humphreys
+2. Tomography, Holography, Fourier Slice Transform, Diffusion Tensor Imaging, 
+Future Brain Computer Interfaces
+    2a OpenEIT Jean Rintol
+    Electrical Impedance Tomography
+    2b OpenWater Mary Lou Jepsen
+    2c Jack Gallant
+    2d David Eagleman
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Cycle 3: Artificial Neurology
+## 2. Artificial Neurology: Conscious Sentient Computers with Artificial Souls
+### Cycle 2: Reproducing Conscious Experience in a Computer.
+#### The 1958 Perceptron
+##### Deep Learning with Convolutional Neural Networks
+#### Neural Network's as signal processors for audio, video, tactile sensation.there 
+##### The human mind is also signal processor.
+##### A neural network that is also capable of learning a sparse and distributed representation of what it has learned.
+##### Because a neural network is a signal processor.
+#### deep learning
+
+A brief History of artificial intelligence from Alan Turing to Yann LeCun, and from Paul Broca 1862 to Jeff Hawking (Numenta)
+##### back prop
+###### Yann LeCun
+###### Yoshua Bengio
+###### Geoffrey Hinton
+#### Spiking Networks, Oscilating Networks, Recurrent Neural Networks, Reinforcement Learning
+#### Gan Synthesis
+#### OpenAI
+#### Pointnet++
+#### DeepMind
+#### Numenta
+###### Heirarchical Spatial Temporal Phase Space Memory
+#### Jeff Hawkins #### Grid cells / Place Cells / Entorhinal - Hippocampus Loop
+##### Numenta's theory of a thousand brains,
+
+
+    1. Phenominally Conscious & Self-Aware Machines
+    2.  From 2D classification to 3D Semantic Segmentation, including the object recognition of which points in space belong to which semantic classification
+     Pointnet ++ and 3D Semantic Segmentation
+Avocado Chair (Open AI Gan Synthesis) GP3
+
+3. from 2D neural networks to real 3D neural networks
+4 attention, transformers, persformers
+5 gan synthesis, interpolation, neural rendering, 3D rendering, VR rendering, ray tracing
+6 denoising, upscaling, completing patterns, Photogrammetry
+Videogrammetry
+Lightfield
+
+7 from a rendered perspective to a conscious perspective
+8 From Graph Neural Network to Self Aware Neural Networks (rendering screens to itself) 
+9 Artificial Emotion and Artificial Neurology
+10 #### Cognitive Developmental Stages, Illya Prigogine, Dissipative Systems
+
+Ameca + Learning, Programming & Choice Making & Medicine & Justice
+ #### Choice
+##### Choice & Adjacent Possible
+##### Choice: Criterial Causation
+##### Choice Refinement Theory: The memories of consequences (good & bad) are attractors for 
+##### Action Perception Cycle: Prioceptive Movement: COIN Contextual Inference https://medicalxpress.com/news/2021-11-brain-context-key-theory-movement.html
+
+
+
+

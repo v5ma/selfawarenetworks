@@ -1,0 +1,151 @@
+a0576z ctpr
+(synap, perception, graph, cortex, neuron)
+
+Micah Blumberg 
+"We never told it during the training, 'This is a cat,'" Google fellow Jeff Dean told the newspaper. "It basically invented the concept of a cat."
+
+Andreea Epure
+This is something similar to the computer who won a chess game against world chess champion! haha...
+
+Micah Blumberg
+No actually it's not.
+
+Andreea Epure
+why?
+
+Micah Blumberg
+Deep Blue, aka the computer that beat the chess champion did this "The system derived its playing strength mainly out of brute force computing power. It was a massively parallel, RS/6000 SP Thin P2SC-based system with 30 nodes, with each node containing a 120 MHz P2SC microprocessor for a total of 30, enhanced with 480 special purpose VLSI chess chips. Its chess playing program was written in C and ran under the AIX operating system. It was capable of evaluating 200 million positions per second, twice as fast as the 1996 version. In June 1997, Deep Blue was the 259th most powerful supercomputer according to the TOP500 list, achieving 11.38 GFLOPS on the High-Performance LINPACK benchmark.[12]" http://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)
+
+Deep Blue (chess computer) - Wikipedia, the free encyclopedia
+
+Micah Blumberg
+Google's tech uses "Hierarchy of Memory" the programs simulate what neurons and synapses do. This machine was fed data, randomly selected from youtube, and in looking for significant patterns, (like the neo cortex in humans) it taught itself to recognize cats, it create the concept of the cat automatically, no one told it to focus on cats, no one told it what a cat was.
+
+In a Big Network of Computers, Evidence of Machine Learning
+http://www.nytimes.com/2012/06/26/technology/in-a-big-network-of-computers-evidence-of-machine-learning.html?_r=2&smid=tw-nytimestech&seid=auto&pagewanted=all
+A neural network of computer processors, fed millions of YouTube videos, taught itself to recognize cats, a feat of significance for fields like speech recognition.
+Like · · Share
+
+This is the pdf to google's brain that recognizes cats, human faces, and human bodies, http://arxiv.org/pdf/1112.6209v3.pdf
+
+In a Big Network of Computers, Evidence of Machine Learning
+
+Andreea Epure
+Yes I agree, judging the probabilities of everything is a brain inborn skill. I guess the computer that thought itself recognized the probabilities of a cat appearance and then it gave it a name. The same happen to our neural pathways.
+
+Micah Blumberg
+The two kinds of computing have vastly different strengths and weaknesses. The point is that the mechanical process of brute force calculations used in deep blue is fundamentally different from the simulation of neural activity in predicting concepts based on noticing significant patterns in spacial/temporal data.
+
+Andreea Epure
+Object and face recognition is based on edge extraction and in order one to attain object permanence and object constancy need a certain amount of experience. Face recognition is an inborn human ability. So, recognizing significant patterns in spatial/temporal data on a huge amount of information is guided by trial-error and learning. learning was used in the software that won against the chess player. it was trained and it used previous experience(so called memory). You know, one genetic make-up can lead to specific phenotypes based on the variables included around the genome. Here, the variables are the data: one is chess strategies the other is shape/pattern! It's not sarcasm, but I think it's the same principle.
+
+Micah Blumberg
+There are real similarities between the two systems but your writing does not illustrate them. I think I have put you in the position of looking for similarities as a counter argument. That was counter productive of me to do. You would be far better served, in the pursuit of expanding your own knowledge base, to create your own counter argument, to your own argument. To do this, you must abandon the search for similarities, and learn instead about what makes Deep Blue and Google's Cat Recognizing Machine very different. Since you proposed the comparison. I am also researching the differences in order to remake my case with many more references. I think that with your quick analysis illustrated in the previous paragraph here, you would be valuable as a cooperative component in building a case against yourself. If you don't mind the challenge.
+
+Andreea Epure
+What I wanted to say is that the cat recognition, from the paper you posted, resembles object and face recognition in humans brain. The two systems are different in humans due to an inborn (genetic) ability of humans to recognise human faces and with training the superior temporal sulcus ( fusiform gyrus, if my memory is right) can be active in recognising also cow faces. This ability has been acquired over the course of evolution with learning facial features and genetic make-up develops it due to highly necessity i survival of the species. Also, http://www.sciencedaily.com/releases/1999/06/990624080203.htm, it is known that face region fires at the appearance of novel objects. Object recognition starts with edge extraction( read about gestalt theories, young and young 2002 model so on) and that could trigger a pattern to which ( under a high chance of probability of appearance in the model) it allocates a name. I bet the computer did not labeled cats as "cats", not did the other chess software know it's playing. Chess. What I wanted to say that they have a common ground on which captures operate and it's amazing to see the variety of appliances which it disclose. My English is bad and often my ideas are well described. I appoligiese in advance. Also, I know that differences in programs as concrete tools are more than similarities. What interests me is the pattern and silogisms they use to attain this results. Good job!
+
+Brain Region Used In Face Recognition Is Active In New Object Recognition
+
+Micah Blumberg
+When a long term memory is made, it involves the creation of a protein, which moves to the nucleus of the neuron, and this protein shape helps instruct how the neuron is connected to other neurons. It's as if the memory is both in the protein, and in the connections that neuron has formed with it's neighbors. Well actually that's only one idea of how long term memory could work in a human brain, as you know there are many ideas, and more comprehensive descriptions. The reason I say this, is that if the protein, is the memory, and all it needs to do is enter the nucleus of a neuron to become an active long term memory, then it is possible that long term memories could move from person to person, through transplants, blood transfusions, or the process of human reproduction. If so, it's possible that inborn traits are really just like any other kind of long term memory.
+6 hours ago · Like · 1
+
+Micah Blumberg It was not your English that I took issue with, it was and is your premise. Your premise that defines your filters, for what you data you are looking for, and what data you are disregarding. http://www.fastcompany.com/1841365/why-is-google-developing-an-artificial-intelligence?partner
+
+There's More To Google's Artificial Brain Than Finding Cats On The Internet
+www.fastcompany.com
+Google's X lab is home to many wonders, but perhaps none so science-fiction-soun...
+See More
+6 hours ago · Like · 
+
+Micah Blumberg by the way the article you shared was dated June 24, 1999
+6 hours ago · Like
+Andreea Epure What I am looking for is similarities between brain specialisation and artificial computation. I agree that chess and cats stuff are different, but they started from the same premises. My interest is related to cognitive neuroscience and it's computer based approaches. The google artificial brain resemble the ventral pathway of the visual system. That's what I wanted to say in my anterior comments more than similarities between chess and cats.
+6 hours ago via mobile · Like
+Andreea Epure Lovely to chat on this topic! X
+6 hours ago via mobile · Like
+
+Micah Blumberg What you said is exactly what I am trying to tell you is wrong
+6 hours ago · Like
+
+Micah Blumberg but I can't just tell you it's wrong, because you filtering out the data you should be looking at, and filtering in the data that supports your belief
+6 hours ago · Like
+Andreea Epure Why is it wrong? I am chatting from my phone and all the papers I have are on my pc. I am working also atm. Would you like to tell me what's your opinion on how the google stuff resemble brain structure and functions? Many thanks
+6 hours ago via mobile · Like
+
+Micah Blumberg No, because then I would be doing research for you, and I won't do that.
+6 hours ago · Like
+
+Micah Blumberg It's friendly enough to point out that looking for similarities between the Blue Brain and Google Brain is backwards, when you would be better served, in achieving your goal, of understanding the similarities between cognitive science and neurology, by first understanding the major differences in theory between what the Blue Brain did, and what the Google brain did, because they are profoundly different, and if you don't research it for yourself, then you will filter out acceptance of any idea I share with you.
+6 hours ago · Like
+
+Micah Blumberg As you have done already.
+6 hours ago · Like
+
+Micah Blumberg On several occasions.
+6 hours ago · Like
+Andreea Epure You know, I feel your point in here and you started a very long argument on my comment when I said that a computer won a chess game against the world chess champion. There I wanted to emphasise the idea that computers can learn and they can...
+See More
+6 hours ago via mobile · Like
+
+Micah Blumberg ‎"This is something similar to the computer who won a chess game against world chess champion! haha..."
+
+The paper I posted on google stuff backs up the counter argument to your original claim as quoted above. The google brain is like the h...
+See More
+5 hours ago · Like
+
+Micah Blumberg it would be like a random computer deciding to learn chess to beat a chess champion
+5 hours ago · Like
+
+Micah Blumberg that would just never happen with conventional AI
+5 hours ago · Like
+
+Micah Blumberg conventional artificial intelligence is different, fundamentally different, from simulated neurology
+5 hours ago · Like
+
+Micah Blumberg It took me years to understand this
+5 hours ago · Like
+
+Micah Blumberg that's why my telling you this is not going to be enough
+5 hours ago · Like
+
+Micah Blumberg you have to find out for yourself
+5 hours ago · Like
+
+Micah Blumberg If you simply read the google brain pdf that I linked above, with new filters for looking for and understanding the differences between previous facial recognition approaches, and their new facial recognition approaches you would begin to realize something valuable in terms of understanding the similarities between machines and human brains by understanding the differences between machines and previous machines. These distinctions add whole dimensions of understanding to what the human brain is doing.
+5 hours ago · Like
+Andreea Epure Hey, you put word into my mouth!! What I have said is not going against what you claim, I think it's complementary. Yes , I made a statement about chess stuff, and then I only talk about the visual perception and how it resemble what google people did. I Might be biased now, but I am still keeping my idea that google cat experiment resemble at a very high level human visual perception. Also, i don't know if that computer decided by itself to select YouTube videos and analyse then and then it said, wow I found virtual cats! It was trained, if you read the paper you will found out that it was trained! .... The chess software( that we've learnt at school, did not read your deep blue stuff) was created pretty similar, but for different purposes. I guess I understand pretty well artificial intelligence, and if it took years for you it does not mean that it's going to ale years for others( not talking about myself, but in general). I am not interested in the concrete world, cos its ever-changing! When I get to a pc I will show you a few models of what I am talking about. And don't forget that evolution brings up the usefulness of predecessors! You can't talk about human brain ignoring the brain of Apes ! Everything has its own value and all we do leads to future developments. The moral reasons are not the use or aim of science!
+5 hours ago via mobile · Like
+
+Micah Blumberg It seems that the google brain built it's own high level conceptual abstraction of the features of a cat, without being asked, without being trained, and it was a complete surprise. Unlike the chess stuff, they did not instruct this google brain on what to learn, they just fed it random images from youtube. They did not choose the images. They did not tell it to learn cats or human bodies. If you read the pdf more closely you would see this. Conventional AI does not create it's own concepts.
+5 hours ago · Like
+Richard Pomfret As much as I've found each of your points fascinating, I'd just like to interject for a moment and say...I fucking love Google. These peoples have a much better chance of evolving A.I to a degree where real object recognition is possible then the Blue Brain project (not to be confused with the Deep Blue chess software). If anyone will make Skynet a reality, it'll be Google. ;)
+4 hours ago · Unlike · 2
+Richard Pomfret p.s. I'm very impressed that Google have managed to create A.I that can create a concept of a cat and identify it from....not just stationary 2D images but moving youtube footage. That's a leap forward too. I guess it confirms what we all suspect, dogs are wankers.
+4 hours ago · Like · 1
+
+Micah Blumberg I keep trying to make a distinction between conventional AI and simulating neurology in a machine, but when you reply, it's as if you don't know that this distinction exists. Further it seems that you are very insistent that this distinction doesn't exist, as illustrated by your previously mentioned belief that computers will rival human intelligence when they can match the raw processing numbers achievable in the human brain. It's not simply a matter of raw processing numbers. It's a matter of a distinction that I can't even tell you about, because your mind seems set to filter out even the existence of this distinction, as if computer processors and human brains were the same machine only with different processing capabilities. It's like thinking that a refrigerator is the same as a ultra sonic jet, with the only different being how many cylinders it has. Then when someone like me tries to say that Ultra Sonic Jets and Refrigerators are profoundly different machines with profoundly different ideas behind them. It's like your saying "No I don't think so, I'm pretty sure Ultra Sonic Jets and Refrigerators are the same thing, they both consist of metal parts, contain engines, coolant, give off heat, pretty much a more powerful refrigerator will become an Ultra Sonic Jet someday." It's like thinking that traditional AI will someday be really intelligent. It won't. It's like not realizing that computing that simulates Neurology is an Ultra Sonic Jet, and Not traditional AI which is more like a Refrigerator.
+4 hours ago · Edited · Like
+
+Micah Blumberg ‎"can create a concept of a cat and identify it from....not just stationary 2D images but moving youtube footage. " you didn't really read the pdf either Richard. It's not significant at all that it can create a concept of a cat, what's significant is that it did it without being instructed to do so, second it did not scan moving youtube video, it learned from static images that were extracted from youtube video. Third a youtube video is just a stack of stationary 2d images for a computer, it doesn't perceive it as a video.
+4 hours ago · Like
+
+Micah Blumberg If you built a traditional computer with traditional AI the size of earth, with 10 billion times the processing capability of all human minds combined, it would still not think for itself, it would still not create it's own concepts, it would still not be self aware. It would still be a refrigerator.
+4 hours ago · Like
+Richard Pomfret Static 2d images? Pfft. Yep, I was caught up in another chain of thought regarding emulating visual systems/depth perception in software.
+4 hours ago · Like
+Andreea Epure I do not think I created this group to see who knows more, but to be calm and discuss around topics. I see that you are against my person and not on what I've said, my biases, not my ideas. And yet, you did not see my idea! I did not say that your refrigerator is a supersonic jet sky , I said that both are using electricity, therefore the possibility of building something even better is on the technology side. Evolution is motion. And yea, is still going there, but all what I said is based on how the it labelled cats Images as cats, and I wasn't so amazed that it did! I asked how did it do it!!!! Get it now ? What you say is completely different from my statements, and yet so helpful! I am talking about neural pathways and you about artificial intelligence. It was interesting to find out more about differences, and yet nice to see that nature and even technology when left by itself copies nature features!
+4 hours ago via mobile · Like
+Andreea Epure Yes Richard you are right. Object constancy and face recognition are amazing stuff done by google scientific discoveries and they really represent their company! yet its still an issue if dog are wankers...
+4 hours ago via mobile · Like
+Andreea Epure Moreover: I WANT TO WORK FOR GOOGLE! Xxx
+4 hours ago via mobile · Like
+
+Micah Blumberg Please don't take it personal. I was arguing against a premise you put forth that google brain and the chess computer that beat a world champion were the same. I have no issue with you personally.
+
+All my statements are meant to be valuable in and helpful, as you noted. I don't think of things in terms of my idea or your idea. They are just ideas man. I'm not identified with any idea, position, belief, viewpoint, or perspective.
+2 minutes ago · Like 
+
+Tags:
+  AI, cortex, killed, numenta

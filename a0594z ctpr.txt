@@ -1,0 +1,12 @@
+a0594z ctpr
+Multimodal neural networks for combining things like video and audio
+Is another tool that could
+Combine multiple streams of data from sensors
+Valve
+Eeg, Eye tracking, Heart rate, emg
+Eeg, Ecg, Gsr galvanic
+Dry electrodes
+Realtime data stream?
+Denoise the data in real time, 
+We will be able to use microphones with deep learning to further improve denoising
+

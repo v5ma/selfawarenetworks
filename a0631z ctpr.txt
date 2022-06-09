@@ -1,0 +1,20 @@
+a0631z ctpr
+(neuron)
+Real time natural back propogation.
+
+The brain has excitatory neurons, inhibitory interneurons, and it has disinhibition factor where an inhibitory neuron will suppress a downstream target that results in a 3rd party neuron becoming activated more quickly.
+
+Interneurons via inhibition introduce non-linearity in cortical circuits (via Rhythms of the Brain)
+
+This non-linear "hard to predict activation sequences" process is missing from the typical convolutional neural networks for example.
+
+ but the main point that I see is that an inhibitory process allows a much larger number of firing patterns to exist in a neural network, compared to a neural network with the same number of parameters that does not have an inhibitory system for non-linear pattern generation.
+
+"State" a concept in computer programming, is a concept that might refer to a moment when a program has responded to a users interaction, and has changed from its initial condition in someway, that new state means that the program has changed and therefore it might respond in a new or different way to the next user interaction for example. A computer program is a sequence of steps that the computer executes, the steps in that sequence are programmed by the programmer. What is interesting is that in the brain there is also a state, which means that 'the same neural network can produce different patterns at different times depending on the state of inhibition'  to paraphrase Rhythms of the Brain.
+
+Excitation is like a runaway train, and the inhibitory interneuron system is like switches on the train tracks. It causes sometimes novel results.
+
+<b>Real time natural back propogation.</b>
+
+Inhibitory neurons can be considered as a kind of natural back-propogation system, if you imagine your brain is looking for a lot of features, like eyes, ears, fur, sounds, and movement in order to identify a particular animal, and if the animal is missing an eyes, or does not have cat like ears then an inhibitory network might cancel out the activation of a feature that represents a cat's ear. If you are expecting a cat's ear, and its not there, you don't want your brain to generate the image of a cats ear where there is none. In that sense an inhibitory system is going to be more able to correct the representation of what is there in reality, its going to correct features, and so its like a real time back propogation feature.
+

@@ -1,0 +1,185 @@
+a0619z ctpr
+T-Cells, D-Ribose, Sars-CoV-2, Research on potential therapeutics, and why I predict that humanity is within a week or within a few weeks of discovering an effective treatment for Covid-19 disease.
+Chapter 1: The main attack vectors
+First thing to know is that when someone is infected with the Coronavirus there are two main receptor paths for it to attack your cells. https://www.ligandal.com/?fbclid=IwAR3AnZlf0xP125yZjSlriX7cmzWV5MrMeUnOSy1n3WV6W9KiCU7iPsOnaP8
+
+Blood cells and the endothelium have the ACE2 receptor, and T-cells (your immune cells) have the CD147-spike protein.
+ACE2
+“Angiotensin-converting enzyme 2 (ACE2)[5] is an enzyme attached to the outer surface (cell membranes) of cells in the lungs, arteries, heart, kidney, and intestines.[6][7] ACE2 lowers blood pressure by catalysing the hydrolysis of angiotensin II (a vasoconstrictor peptide) into angiotensin (1–7) (a vasodilator).[8][9][10] ACE2 counters the activity of the related angiotensin-converting enzyme (ACE) by reducing the amount of angiotensin-II and increasing Ang(1-7)[11] making it a promising drug target for treating cardiovascular diseases.[12][13]
+ACE2 also serves as the entry point into cells for some coronaviruses.[5] The human version of the enzyme is often referred to as hACE2.[14]”
+source: https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme_2
+Note: Angiotensin-converting enzyme 2 is located on the surface of endothelial and other cells.[15]
+Note2: Endothelium is a single layer of squamous endothelial cells that line the interior surface of blood vessels, and lymphatic vessels. https://en.wikipedia.org/wiki/Endothelium
+
+CD147
+“SARS-CoV-2 invades host cells via a novel route: CD147-spike protein“ 
+https://www.biorxiv.org/content/10.1101/2020.03.14.988345v1
+
+“SARS-CoV-2 infects T lymphocytes through its spike
+protein-mediated membrane fusion”
+“(...)In other words, these results tell us that T lymphocytes may be more permissive to
+SARS-CoV-2 infection and less permissive for SARS-CoV infection,
+similar to the findings in a previous study.6 Therefore, it is
+plausible that the S protein of SARS-CoV-2 might mediate potent
+infectivity, even on cells expressing low hACE2, which would, in
+turn, explain why the transmission rate of SARS-CoV-2 is so high. It
+is also possible that other receptors mediate the entry of SARSCoV-2 into T cells, such as CD147, present on the surface of T lymphocytes, which was recently reported to be a novel invasive route for SARS-CoV-2.9” https://www.nature.com/articles/s41423-020-0424-9.pdf?ref=hvper.com
+“Novel coronavirus attacks and destroys T cells, just like HIV”
+“the team found that unlike HIV that replicates faulty T cells, the coronavirus does not replicate, showing that the T cells and the virus may end up dying together.” It’s thought that T cells will not replicate the virus, but since other cells do replicate the virus the fear is that the immune system might become compromised.
+https://www.news-medical.net/news/20200413/Novel-coronavirus-attacks-and-destroys-T-cells-just-like-HIV.aspx
+
+“Coronavirus could attack immune system like HIV by targeting protective cells, warn scientists”
+https://www.scmp.com/news/china/society/article/3079443/coronavirus-could-target-immune-system-targeting-protective?fbclid=IwAR3IDqktryYWb6GJYgeV98wiWAo-Cq-BqBrul_gCCy3M1B-XW8118y0rlSc
+
+“Reduction and Functional Exhaustion of T Cells in Patients with Coronavirus Disease 2019 (COVID-19)” “T cells were dramatically reduced in COVID-19 patients, especially among elderly patients (≥60 years of age) and in patients requiring Intensive Care Unit (ICU) care. Counts of total T cells, CD8+T cells or CD4+T cells lower than 800/μL, 300/μL, or 400/μL, respectively, are negatively correlated with patient survival.” https://www.medrxiv.org/content/10.1101/2020.02.18.20024364v1?fbclid=IwAR2B6QI6sH7anU0k9Jsv7PtrbSj3l0MXB_DAzJJogwZlcs84ZtUGnjk7jDw
+
+Perhaps if there are enough T cells, killer t cells, bcells and antibodies will be enough to trap and end the viral contagion inside the body 
+“SARS-CoV-2: How a person’s immune system defeated the virus”
+https://www.medicalnewstoday.com/articles/sars-cov-2-how-a-patients-immune-system-defeated-the-virus-in-3-days
+
+
+Chapter 2: The Main Symptoms
+March 24, 2020 “COVID-19 symptoms can be all or nothing: 'This virus just has the whole kit and caboodle'”
+https://www.news-press.com/story/news/2020/03/24/coronavirus-florida-symptoms-vary-widely/2906690001/
+
+“(...) data collected by state officials show the most common underlying health conditions among Oregonians who have died from COVID-19.
+“Heart disease is the most frequent ailment. Neurological or neurodevelopmental conditions are second most common.
+“Diabetes, lung disease and illnesses such as cancer are also on the list.”
+https://www.oregonlive.com/coronavirus/2020/04/coronavirus-in-oregon-april-30-heart-disease-most-common-illness-linked-to-fatal-cases.html?fbclid=IwAR04-kSAJiRTmkAbjk4NFWmPmNcpogLYvaWd3PKSVPXqoeaoAPj7h_3reLw
+
+“The SARS-CoV-2 outbreak: What we know”
+“Symptom of CoVID-19 are non-specific and the disease presentation can range from no symptoms (asymptomatic) to severe pneumonia and death.”
+“the most common symptoms were fever (98%), cough (76%), myalgia or fatigue (44%); and atypical symptoms included sputum (28%), headache (8%), hemoptysis (5%) and diarrhea (3%).”
+“Complications included acute respiratory distress syndrome (29%), acute heart injury (12%), and secondary infections (10%);”
+”NanShan Zhong’s team (Weijie et al., 2020) found that the most common symptoms were fever (87.9%), cough (67.7%), diarrhea (3.7%) and vomiting (5.0%). 25.2% of the patients had at least one underlying disease (such as hypertension, chronic obstructive pulmonary disease).”
+https://www.sciencedirect.com/science/article/pii/S1201971220301235
+
+This video was seen by 16 million people.
+“Overworked Chinese doctor collapses from exhaustion” What if he was exhausted because of the virus? Exhaustion is a symptom. https://www.youtube.com/watch?v=PoZHhPr9Xx8
+
+Here we had a video of a Dutch minister passing out in Parliament https://www.youtube.com/watch?v=o_8atWtd8l0
+
+When I saw videos and rumors of people falling from exhaustion for me that caused me to begin taking a supplement called D-Ribose, this was either late January or early February. I will talk more about this in the 5th section.
+
+Co-Morbidities
+“Preventing a covid-19 pandemic
+BMJ 2020; 368 doi: https://doi.org/10.1136/bmj.m810 (Published 28 February 2020)”
+“The largest Chinese study with 44,672 confirmed cases of Covid-19 shows a high overall case fatality rate (CFR) of 2.3% [2]. Important co-morbidities are hypertension (CFR 6.0%), diabetes (CFR 7.3%), cardiovascular disease (CFR 10.5%) and age >70 (CFR 10.2%) [2]. Similar co-morbidities were noted for the SARS outbreak in 2003. “It is widely unclear what the commonality of these risk factors is. This is somehow surprising as compared to for example the 2009 pandemic H1N1 influenza outbreak, immunosuppressant patients were primary affected. Cardiac patients seem to be at higher risk in Covid-19. One possible answer could be the following: Patients with the comorbidities of hypertension, diabetes and cardiovascular disease might fulfil the indication for the use of angiotensin converting enzyme inhibitors or angiotensin II receptor antagonists [3].” https://www.bmj.com/content/368/bmj.m810/rr-2
+ 
+I remember that Andre Watson the CEO of Ligandal posted his excellent research on the Neurological effects of the Coronavirus early on. I remember people in a “virus study group” were mocking the idea that a respiratory virus was also causing neurological effects, but Andre was right.
+https://www.ligandal.com/uploads/5/7/9/1/57913087/research_on_neurological_effects_of_novel_coronavirus_that_is_implanted_into_the_brain_with_any_virus_particle.pdf?fbclid=IwAR3VpeuhY45teFXLZ8A7VJEiAF5X96WHvVIWSrLeTDTgpUsGHfBDkg4G1yY
+
+However the idea that the covid-18 disease has neurological symptoms isn’t a controversy, it’s actually mainstream news
+04/13/2020 “Coronavirus May Also Cause Neurological Symptoms, Like Headaches”  
+https://www.huffpost.com/entry/coronavirus-neurological-symptoms-headaches_l_5e90c1b7c5b6c81e2e7a4e57
+
+Mainstream News confirmation of neurological effects of the coronavirus.
+27 APRIL 2020 “Coronavirus Patients Are Reporting Neurological Symptoms. Here's What You Need to Know”
+“COVID-19 can also infect cells outside of the respiratory tract and cause a wide range of symptoms from gastrointestinal disease (diarrhoea and nausea) to heart damage and blood clotting disorders. It appears that we have to add neurological symptoms to this list, too.” https://www.sciencealert.com/some-covid-19-patients-are-also-reporting-neurological-symptoms?fbclid=IwAR1eJGw6mihL__Pnhj0ZspFq21NkLjUxdvNU_Gsdr1jyL5m9Bl18ZBPeFLM
+
+APRIL 6, 2020 “Mysterious Heart Damage, Not Just Lung Troubles, Befalling COVID-19 Patients”
+https://khn.org/news/mysterious-heart-damage-not-just-lung-troubles-befalling-covid-19-patients/?fbclid=IwAR3Zg62YScn_yGs-yy4dhhSi3bR1__v0ztWRjeivt4ZQV1vvWkXRFCO-lLo
+
+Chapter 3: Research on potential therapeutics
+
+Mar 17, 2020 Video “Coronavirus and the Heart: Do ACE Inhibitors and ARBs Increase Covid-19 Mortality?” https://www.youtube.com/watch?v=oedBWm7Ins8
+The video says that Ace inhibitors are very commonly used in the conditions associated with increased mortality in coronavirus, Cardiovascular disease, Diabetes, Chronic respiratory disease, hypertension, and cancer. In another part of the video Ace inhibitors are hypothesized as being harmful, in another part of the video they are cited as potentially beneficial to patients.  The video does not offer a conclusion as to which notion (are ACE inhibitors helpful or harmful) is correct as research is ongoing.
+
+The video linked above included a link to this citation: “Angiotensin receptor blockers as tentative Sars-CoV-2 therapeutics.” This paper says “Notably, angiotensin‐converting enzyme (ACE) and its close homologue ACE2, while both belonging to the ACE family of dipeptidyl carboxydipeptidases, serve two opposing physiological functions. ACE cleaves angiotensin I to generate angiotensin II, the peptide which binds to and activates AT1R to constrict blood vessels, thereby elevating blood pressure. By contrast, ACE2 inactivates angiotensin II while generating angiotensin 1–7, a heptapeptide having a potent vasodilator function via activation of its Mas receptor (Santos et al., 2003), and thus serving as a negative regulator of the renin–angiotensin system. These opposing actions of ACE and ACE2 were recently reviewed by Smyth, Cañadas‐Garre, Cappa, Maxwell, & McKnight, 2019.” https://onlinelibrary.wiley.com/doi/10.1002/ddr.21656
+
+What is cited above establishes that ACE and ACE2 are essentially opposites. For example ACE may constrict blood vessels, while ACE2 may vasodilate.
+
+“ACE2 of the heart: From angiotensin I to angiotensin (1-7).”
+“The ACE homologue ACE2 efficiently hydrolyses Ang II to form Ang (1-7), a peptide that exerts actions opposite to those of Ang II. “ https://www.ncbi.nlm.nih.gov/pubmed/17049503
+
+It's interesting how the ACE2 receptor acts on Angiotensinogen ANG II to vasodilate your lymph nodes and your blood vessels and how the Angiotensinogen regulates T cells. https://www.ncbi.nlm.nih.gov/pubmed?Db=pubmed&Cmd=ShowDetailView&TermToSearch=19073907&fbclid=IwAR1x6knhJcD2KGp-Ljrrc8IAWgBFmLqYuYJ9f1DET3gbhUpWIPE52Rahyyc
+
+Regulation of T-cell function by endogenously produced angiotensin II
+“These findings contribute to our understanding of how ANG II and T cells enhance inflammation in cardiovascular disease.”
+https://journals.physiology.org/doi/full/10.1152/ajpregu.90521.2008?fbclid=IwAR2HQ2fj_LRFUkqfspo_CZTVgOvE3n3HhVHUrux1LxZQLZXEbohRjDTpK60&
+
+Here we have a paper from 2009 called “Chronic Use of Angiotensin Pathway Inhibitors Is Associated with a Decreased Risk of Acute Respiratory Distress Syndrome.” https://www.atsjournals.org/doi/pdf/10.1164/ajrccm-conference.2009.179.1_MeetingAbstracts.A4638
+This paper suggests that ACE inhibitors decrease the risk of ARDS, which is a condition that is associated with the Coronavirus.
+
+“Human T and natural killer cells possess a functional renin-angiotensin system: further mechanisms of angiotensin II-induced inflammation.” https://www.ncbi.nlm.nih.gov/pubmed?Db=pubmed&Cmd=ShowDetailView&TermToSearch=17329576&fbclid=IwAR2DZLv3KolQ3X4ZQxiGirrKhl2wS1cXcecUdbg_IzMIOaa4Ibs8vcrrr90
+
+So what I am learning from the above links is that ACE2 receptors effect the renin-angiotension system which effects whether or not T cells and NK natural killer cells amplify inflammation.
+
+“Regulation of T-cell function by endogenously produced angiotensin II”
+“the renin-angiotensin system (RAS) is a prominent mediator of hypertension and a key target in the treatment of this disease. ANG II has myriad effects on the cardiovascular system. In many tissues, ANG II activates the NADPH oxidase to produce reactive oxygen species (ROS) (16). In the cardiovascular system, this effect of ANG II has been linked to the induction of cardiac hypertrophy, inflammation, lipid oxidation, endothelial dysfunction, and ultimately increased blood pressure (4).” https://journals.physiology.org/doi/full/10.1152/ajpregu.90521.2008?fbclid=IwAR2HQ2fj_LRFUkqfspo_CZTVgOvE3n3HhVHUrux1LxZQLZXEbohRjDTpK60&
+
+“Angiotensin-converting enzyme 2 (ACE2) mediates influenza H7N9 virus-induced acute lung injury”
+https://www.nature.com/articles/srep07027
+
+“Moreover, ACE2 deficiency worsened the disease pathogenesis markedly, mainly by targeting the angiotensin II type 1 receptor (AT1). The current findings demonstrate that ACE2 plays a critical role in influenza A (H7N9) virus-induced acute lung injury and suggest that might be a useful potential therapeutic target for future influenza A (H7N9) outbreaks.” https://www.nature.com/articles/srep07027
+
+So when your ACE2 goes missing, the progression of the H7N9 disease worsened, because some how the ACE2 was preventing or reducing your lung injury from H7N9. So what happens when you have a virus that eats ACE2 receptors specifically? 
+
+
+“In this paper, we report that angiotensin-converting enzyme-2 (ACE2) protected against severe lung injury induced by RSV infection” https://www.nature.com/articles/srep19840
+
+Chapter 4: The mystery of the Blood Clots
+April 24, 2020 “Blood Clots Are Another Dangerous COVID-19 Mystery”
+““Patients are making clots all over the place,” says Adam Cuker, MD, a hematologist and associate professor of medicine at the Hospital of the University of Pennsylvania. “That’s making management of these patients very challenging.””
+https://www.webmd.com/lung/news/20200424/blood-clots-are-another-dangerous-covid-19-mystery
+
+APRIL 27, 2020 “Tiny blood clots may make coronavirus more deadly, doctors say”
+“Poor and Marrazzo speculated that the virus somehow damages human cells in a way that promotes clotting. Poor noted that COVID-19 patients have elevated levels of D-dimer, a small protein fragment produced by blood clots.”
+https://www.cbsnews.com/news/coronavirus-blood-clots-lungs-stroke/
+
+“Coronavirus Pandemic Update 61: Blood Clots & Strokes in COVID-19; ACE-2 Receptor; Oxidative Stress” https://www.youtube.com/watch?v=22Bn8jsGI54
+This video explains how the Coronavirus is causing blood clots and what’s mind blowing is that it explains to me how the D-ribose I have been taking could be a potential treatment for the Coronavirus! In this video posted above I learned Sars-Cov2 is degrading of the ACE2 receptors, (Ace2 receptors vasodilate and reduce inflammation) leads to vasoconstriction which leads to increased blood pressure, pulmonary edema and ARDS, increased the blood clot problems we are now seeing in the news that is causing the strokes and heart attacks in young people in their 30s. The virus binds ACE2 and degrades it taking it out of circulation so you get all the symptoms we are seeing the coronavirus cause, the virus takes ACE2 out of the endothelium, the blood clots, the neurological disease, organ failure, heart attack, stroke, all from oxidative stress and inflammation.
+Chapter 5: Treating Oxidative Stress
+“The role of ribose on oxidative stress during hypoxic exercise: a pilot study.”
+“Oxygen free radicals are produced during stress, are unstable, and potentially interact with other cellular components or molecules. This reactivity can influence cellular function, including a prolongation in tissue recovery following exercise. We tested the effect of ribose (d-ribose), a pentose carbohydrate, in a double-blinded, crossover study on markers of free radical production during hypoxic exercise.“
+https://www.ncbi.nlm.nih.gov/pubmed/19627222
+
+“Cellular protection during oxidative stress: a potential role for D-ribose and antioxidants.”
+“Exogenous reducing antioxidant agents, such as vitamin C and/or E, play a role in addressing these formed species; however, recent research has suggested that fruit seed extracts may provide additional cellular benefits beyond their antioxidant features. Furthermore, supplemental D-ribose enhances the recovery of high-energy phosphates following stress and appears to potentially offer additional benefits by reducing radical formation. Specifically, during periods of hypoxia/ischemia, supplemental D-ribose may play an inhibitory role in the breakdown of adenine nucleotides, influencing the subsequent formation of xanthine and uric acid compounds; and thereby affecting the release of superoxide anion radicals. The combination of D-ribose with reducing antioxidants may provide a more optimal state of cellular protection during and following times of oxidative stress.”
+https://www.ncbi.nlm.nih.gov/pubmed/22891990
+
+
+“Cell Death and Autophagy under Oxidative Stress: Roles of Poly(ADP-Ribose) Polymerases and Ca2+”
+“Oxidative stress induces DNA damage, activating PARP1 and PARP2. Activated PARP signals downstream into DNA repair processes and cell death pathways. It is therefore a key factor in the maintenance of genomic stability“
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3422003/
+
+What happens if you put ACE2 back into the body?
+“Inhibition of SARS-CoV-2 Infections in Engineered Human Tissues Using Clinical-Grade Soluble Human ACE2 https://www.cell.com/cell/fulltext/S0092-8674(20)30399-8?rss=yes&fbclid=IwAR0j8wdLz_DY5O9pV_v6-F2g-AhGHlSguvofTjK6xVyxuoAJQBPsCabtf0I
+
+“DPP-4 Inhibitors as Potential Candidates for Antihypertensive Therapy: Improving Vascular Inflammation and Assisting the Action of Traditional Antihypertensive Drugs”
+“As a differentiation antigen on the surface of T cells, DPP-4/CD26 plays an important role in regulating the activation and chemotaxis of mononuclear-macrophages, NK cells, and T cells. DPP-4 inhibitors can regulate anti-inflammatory and anti-hypertensive effects by regulating the functions of these immune cells, especially T cells. We found that DPP-4i exhibits strong inhibitory effects on inflammation and oxidative stress,”
+https://www.frontiersin.org/articles/10.3389/fimmu.2019.01050/full?fbclid=IwAR3VpeuhY45teFXLZ8A7VJEiAF5X96WHvVIWSrLeTDTgpUsGHfBDkg4G1yY
+
+“5 Natural ACE Inhibitors: Health Effects & Limitations”
+“Please note: remember to speak with your physician before taking any supplements and let them know about all the supplements and over-the-counter drugs you are currently taking. They’re not meant to replace your medical treatment and may interact with certain drugs.”
+https://selfhacked.com/blog/5-natural-ace-inhibitors-with-clinical-trials/?fbclid=IwAR1tZqSyDI9GynAdK6UYov9owbwj0-VhKbn4eIfhDF41Ziw4DS28GaptwYI
+
+“High Blood Pressure and ACE Inhibitors”
+“Angiotensin converting enzyme (ACE) inhibitors are high blood pressure drugs that widen or dilate the blood vessels to improve the amount of blood the heart pumps and to lower blood pressure. ACE inhibitors also increase blood flow, which helps to decrease the amount of work your heart has to do and can help protect your kidneys from the effects of hypertension and diabetes.” https://www.webmd.com/hypertension-high-blood-pressure/guide/treatment-ace-inhibitors?fbclid=IwAR3YFgM-iCOjuRqHHfAAcrSAXz4uxwbdoTy-fq2_YBVZEZHyiHRdk7VglY4#1
+
+ACE Inhibitors (your number one ACE inhibitor is your ACE2, but if coronavirus ate your ACE2 then what are you going to do? Talk to your doctor first, don’t take the wrong one!)
+“Patients who develop a cough from an ACE inhibitor need to ask their physician about angiotensin receptor blockers (ARBs). ACE inhibitors slow down the production of angiotensin II, while ARBs (as the name says) block the influence of angiotensin II by locking up cells’ receptors for it.”
+https://heartmdinstitute.com/health-and-wellness/ace-inhibitors/
+
+As late as April 26 we had an article that said
+“We Still Don’t Know How the Coronavirus Is Killing Us” https://nymag.com/intelligencer/2020/04/we-still-dont-know-how-the-coronavirus-is-killing-us.html?fbclid=IwAR298JegpziTwwXuqT_KqHLSgy5buwpy2ye2fZMGjJLryuq7y04h6Haiq94
+I think that at the root level it’s inflammation and oxidative stress that leads to organ failure, being unable to breath, having low blood oxygen levels etc. Remember to take all your vitamins, essential oils, omega3, vitamin C, vitamin D, D-ribose.
+
+and Zinc
+“Zn2+ Inhibits Coronavirus and Arterivirus RNA Polymerase Activity In Vitro and Zinc Ionophores Block the Replication of These Viruses in Cell Culture” 
+https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1001176&fbclid=IwAR2f-4UtFoEaYR6HND8wTQEoyEuOWTAAuLiaVyYrjV1RTAe2n82jR_cGcQQ
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2973827/
+
+“D-Ribose for Fibromyalgia and Chronic Fatigue Syndrome”
+“One small study published in The Journal of Alternative and Complementary Medicine concluded that d-ribose supplementation significantly improved symptoms of these conditions, including:”
+https://www.verywellhealth.com/d-ribose-for-fibromyalgia-715990
+
+“The use of D-ribose in chronic fatigue syndrome and fibromyalgia: a pilot study.”
+“CONCLUSIONS: D-ribose significantly reduced clinical symptoms in patients suffering from fibromyalgia and chronic fatigue syndrome.”
+https://www.ncbi.nlm.nih.gov/pubmed/17109576
+
+“How Ribose Improves Your Daily Energy”
+“A key molecule, called adenosine triphosphate (or ATP for short), is known as the energy currency of the cell because the amount of ATP we have in our tissues determines whether we will be fatigued, or will have the energy we need to live vital, active lives. Ribose provides the key building block of ATP, and the presence of ribose in the cell stimulates the metabolic pathway our bodies use to actually make this vital compound. If the cell does not have enough ribose, it cannot make ATP. So, when cells and tissues become energy starved, the availability of ribose is critical to energy recovery.” https://secure.endfatigue.com/health_articles_d-e/D-ribose-powerful_body_energizer.html
+
+“An experimental peptide could block COVID-19”
+https://medicalxpress.com/news/2020-03-experimental-peptide-block-covid-.html

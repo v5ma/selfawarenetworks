@@ -1,0 +1,81 @@
+a0645z ctpr (map)
+
+(book)
+a0005z (oscillat, thalamus, cortex, neuron) Book Structure
+a0006z (field, dendrite, neuron)
+a0008z audio: (synap, oscillat, field, dendrite, decoherence, electromagnetism, neuron)
+
+category
+theory
+oscillat
+field
+graph
+criteria
+causation
+neuron
+
+a0330z Map: Peter Tse, criterial causation 
+    (all mentions of "Peter Tse" or "criterial causation")
+    a0010z oscillating functional fractal isomorphism
+    a0050z virtual patterns in the brain
+    a0061z Sync & Memory (SAN) 
+    a0089z neuron firing criteria
+    a0130z criterial causation
+    a0142z sync theory
+    a0232z Neurophysics Happy Hour (promo)
+    a0331z Peter Tse random firing
+    a0332z the brain reacts to information
+    a0333z feedback cycle
+    a0334z hameroff & peter tse
+    a0335z neo mind cycle books
+
+category theory
+        a0421z
+        a0420z
+        a0419z
+        a0418z
+        a0417z
+        a0416z
+        a0415z
+        a0414z
+        a0413z
+        a0412z
+        a0411z
+
+a0000z (cascade, map)
+
+A cascade of interactions could figure out
+
+Cascade
+a0441z (cascade, perception, neuron, dissipation)
+a0029z (cascade) cortex, field, perception, oscillat, graph, dendrite, electromagnetism, emotion, cereb, vector)
+a0010z (cascade, synap, perception, field, criteria, causation, cortex)
+a0275z (cascade, perception, array, graph)
+a0134z (cascade, oscillat, field, array, observer) Imagine the universe is someone else's mind.
+a0141z (cascade, oscillat, field, array, decoherence) Sync
+a0332z (cascade, LTD, oscillat, field, array, decoherence) Sync Chapter 10 Notes
+a0303z (optogenetics, synap, LTP, LTD)  RNA malfunctions would lead to malformed synapses during LTP based protein synthesis
+
+a0000z (Optogenetics, Map)
+    a0077z (optogenetics, cortex, synap, Graph, LTD, Perception, perceptron, oscillat, field, neuralink, dendrite, emotion, vector, fourier, qualia) Self Aware Networks
+    a0157z (optogenetics, synap, LTP, Perception, perceptron, oscillat, field, neuralink, graph, dendrite, dopamine, emotion, cortex, ATP) //neuro links
+    a0303z (optogenetics, synap, LTP, LTD)  RNA malfunctions would lead to malformed synapses during LTP based protein synthesis
+    a0390z (optogenetics, synap, cortex) So this morning I invented electrogenetics, the world can thank me later!
+    a0341z (optogenetics, hippocampus, field, synap, cortex)  microelectrode implants
+    a0428z (neuron, error detection, magnetic, field, optogenetics) The Hammond Error Correcting Codes,
+    a0429z (optogenetics, people) People to follow
+        
+decoherence
+
+field
+graph
+functional
+virtual
+isomorphism
+fractal
+sync
+criteria
+causation
+choice
+feedback
+cycle
