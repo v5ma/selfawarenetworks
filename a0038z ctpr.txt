@@ -1,0 +1,876 @@
+a0038z ctpr
+Note Created Feb 7, 2015 A conversation about AI holism & the brain
+tags (hebb, ATP, synap, thalamus, perception, perceptron, oscillat, array, graph, cortex, vector, fourier, semantic, qualia) conjoined twins & henry markam, holism, thalamus, reward signal,  (connect ATP & Reward & Neural Firing & Pattern Rendering)
+
+Micah Blumberg Some people say that they are training their holistic AI by having it read a book, yet these same people say that when someone else has AI do supervised training that is not holism. so some people who claim to have holistic AI are not doing holism by their own definition.
+January 31 at 12:32pm · Like · 1
+
+Boris Kazachenko I agree with Micah, "holistic" vs. "reductionist" means including all vs. selected information on a subject. So."holistic" means fully "model loaded". Monica is using holistic to mean methods that can handle *any* subject, while a proper use would be methods that *represent all about a subject*. I say this is yet another example of your contrarian streak, Monica .
+January 31 at 12:53pm · Edited · Unlike · 2
+
+Boris Kazachenko Model-free is an ultimate extreme of reduction: *no* information on a subject / inputs is built in the method.
+January 31 at 4:55pm · Edited · Unlike · 2
+
+Monica Anderson Micah, consider this: If I use supervised learning to teach an ANN to tell cats from dogs, then I have used Models since I specified that I wanted a dog-cat discriminator.
+
+Because of this, that ANN cannot also provide an output for telling whether the animal has white or brown fur. It is hence not a general intelligence, since it is specific to the dog-cat distinction - a very narrow domain. This is a Reductionist (Model Based) approach, and it cannot lead to a *general* intelligence.
+
+Using an ANN or (in my case) Connectome Algorithm to look at billions of random pictures would allow it to learn to do both dog-cat and white-brown and dozens of other discriminations ... all at once, with a single unsupervised training session. This is a Holistic (Model Free) approach - provide a lot of input data at fine level of detail and let the system figure out what's salient.
+
+Another example is that if you use words as your input token in your NLP system then it cannot automatically conclude that "banana" and "bananas" are related words since they are internally just disparate memory addresses of these strings, or word counts in a sparse term vector. If you build a Holistic language learning machine then you would feed it a lower level token, such as a UNICODE character at a time. The bit positions in the character carry very little semantic value and I will argue that this is the best level to stop; no need to serve bit-at-a-time. . 
+
+The point is, that the amount of Modeling you do at the bottom (such as "words are series of alphanumeric characters delineated by other characters") becomes the level below whih the AI has no insight - no chance to reduce anything further. In this example, words become its alphabet.
+
+We have experienced that Connectome Algorithms develop a word-level abstraction level in about 35,000 characters of input. So your parser-building exercise corresponded to a few hundred pages of reading but causes multiple problems starting with these unnecessary and serious limits on "atomic resolution" in your system.
+January 31 at 9:32pm · Unlike · 3
+
+Monica Anderson "Monica is using holistic to mean methods that can handle *any* subject, while a proper use would be methods that *represent all about a subject*. I say this is yet another example of your contrarian streak, Monica"
+
+As you can see from my post above (which I wrote before seeing your comment) I actually prefer "all about the subject" but there's no reason to not have both.
+
+Holistic also means "Expensive"  but we think we're worth it. 
+January 31 at 9:35pm · Unlike · 3
+
+Micah Blumberg If you train it on a book, instead of on sets of cats and dogs, then you have created a wider reduction, it's any knowledge, it's still the knowledge it gets trained on, that's not holism, that's a wider lense, a wider reduction. The word holism shouldn't be used at all in relation to this.
+January 31 at 9:39pm · Like · 1
+
+Monica Anderson Perhaps... but the line in the sand is at Zero Models. The moment you use a Model, you are a Reductionist by definition. Saying "30 dimensions is not infinity" is correct but it's the zero-one difference that is the defining divide between a discriminator and an Understanding Machine. If you are not using Models of your own creation, then you are Model Free and Holistic, by definition, regardless of the competence of the machine to come up with its own Models.
+January 31 at 9:49pm · Unlike · 2
+
+Curt Welch Well, I can't answer the question becuase it's incoherent as formed. The real human brain is certainly a mix, but whether AGI need to be a mix is a different question.
+
+Then there's the confusion cognitive scientists seem to have over the difference a reinforcement trained generic learning system, and the reward GENERATOR that creates the reward signal (aka defines it's goal). Certainly when Pinker argues against the blank slate he seems unaware of this critical distinction. To the extent that the human brain has generic reinforcement learning ability, the reward generator that defines the goal the generic learning system is maximising, is clearly not "blank" in any sense. A sufficiently advanced reward GENERATOR can make any generic learning system look like it's chock full of innate features which aren't part of the generic learning system at all, but are all just hard wired into the reward system.
+
+For example, we can make an RL trained generic learning algorithm controlling a robot and make the robot follow a line on the floor. We do it by generating a reward as long as the tape sensor is detecting it's over the tape, and a punishment when it's not. From it's behavior, it would look as if it's got innate line following wired into it. Which it does. But that's innately wired into the reward generator, not the generic learning algorithm. Externally, by looking only at behavior, it's very hard to tell if someone just hard-coded a line following algorithm into it, or if they used a generic learning system with a goal of line following. They result is the same. the only difference is that the learning system is born not knowing how to follow a line, and has to learn. So if you watch how it's behavior changes after you first turn it on, you will see that one system works instantly the second you turn it on, and the other has to learn how to follow the line before it works like the pure innate one.
+
+I strongly believe that AGI built with purely generic statistical learning techniques can duplicate human-level intelligence (if not exact human personalities). But the reward system we use to drive it certainly isn't in any sense generic.
+
+So I'm pure west coast Holistic on the learning part of an AGI. But I'm pure east coast reductionist for the reward generator code that is always needed to define the goal of the learning system.
+
+And for the human brain, I'm mixed. because though I believe there is generic learning at work in the brain, I also believe evolution threw in lots of stuff other than generic learning (stuff that is important for our survival, but not for our intelligence).
+January 31 at 10:06pm · Unlike · 2
+
+Micah Blumberg In the human intelligence there are multiple ways to satisfy criteria, multiple ways to satisfy reward criteria, multiple ways to satisfy punishment criteria.
+
+So on the one hand we have the data that a so-called "holistic" system is trained, and on the other hand we have the reward criteria, or whatever we set the goal at, like answering the query, a goal can be answering question, what do you know about cats and what do you know about dogs? How are dogs and cats different?
+
+In the human intelligence there is generic learning, models are just made from random data all the time, and there is generic reward modeling, where what satisfies the question or the goal is also selected by the human intelligence.
+
+What you have in this so-called "holistic" system, or what I called "wider reduction" is a supervised learning, on a book, or on sets of pictures, or sets of data, on one end, and you can call it West pole, because it's different enough to warrant a distinction, but then there is the query, or the goal, set by programmer, is it a cat or a dog? What do you know about cats that makes them distinct from dogs? The query itself forces a reduction. Who is making the selection? Who is choosing the response that feels the most rewarding? Well at this stage it's not the "holistic" system. Holism doesn't apply to this version of the "holistic" system because it isn't modeling rewards and selecting which criteria best fit its given goals.
+January 31 at 10:32pm · Like
+
+Karoliina Salminen My system learns how English looks like from Moby Dick and Prince of Mars from project Gutemberg because that is freely available large continuous non-curated chunk of language, ie it is free text in a form of a story but is not a man-made tailored corpus designed to set rules of a language. I use some other texts too to gain knowledge of more modern words, but the principle basically is that unfiltered text goes in with no pre-defined anything.
+
+By doing so I do not need dictionary because it forms its own dictionary from the book and I also do not need english language rule set because that is also evident after the program has finished reading the book.
+
+Hence it will be possible to predict the order of the words of any subsequent english and also what is average english and what diverges from it. Hence a model based approach of a stop word list becomes obsolete as well, it automatically knows a sort of stop word list.
+
+In addition to this obviously there is no training phase. What comes in, affects what comes out in the future. The state of a automatically formed language model is not fixed and never ready but is always evolving.
+February 1 at 12:54am · Unlike · 2
+
+Karoliina Salminen So NLP without anything in prior art of computer science for NLP. "Automatic NLP".
+February 1 at 12:58am · Like · 1
+
+Karoliina Salminen The mechanism is hence the model of the mind and not the model of the world, and as that it is very simple. In preudo code it fits on a single page of a science paper.
+February 1 at 1:00am · Like · 1
+
+Boris Kazachenko "I actually prefer "all about the subject" but there's no reason to not have both." I think "both" for you means model-free method that gets a lot of data. This group is about methods / algorithms, not data. Model-free means that algorithm itself is data-free: pure reduction. Of course it won't do anything without data, but that's not our problem: the data is free .
+February 1 at 6:01am · Edited · Like
+
+Monica Anderson "If you train it on a book, instead of on sets of cats and dogs, then you have created a wider reduction, it's any knowledge, it's still the knowledge it gets trained on, that's not holism, that's a wider lense, a wider reduction. The word holism shouldn't be used at all in relation to this."
+
+If you have a child and you live in France it will learn French.
+If you have a child and you live in England it will learn English.
+The child has the potential to learn either from nothing but its input.
+
+In the same way a Holistic AI can learn whatever is learnable from its inputs.
+
+In contrast, in supervised learning, the AI can only learn what its creators want it to learn. It's discrimination rather than Understanding.
+
+The AI that's designed for supervised learning is too weak to be viewed as a general AI since it can't learn *anything* in unsupervised mode.
+February 1 at 8:35am · Unlike · 1
+
+Monica Anderson "What you have in this so-called "holistic" system, or what I called "wider reduction" is a supervised learning, on a book, or on sets of pictures, or sets of data, on one end, and you can call it West pole, because it's different enough to warrant a distinction, but then there is the query, or the goal, set by programmer, is it a cat or a dog? What do you know about cats that makes them distinct from dogs? The query itself forces a reduction."
+
+Well, yes. And you are providing that to a machine capable of making the Reduction, an Understanding Machine. This is exactly the goal.
+
+In contrast, in supervised learning, the people labeling the training set are doing the Reduction. *They are the ones deciding what is a cat and what is a dog*. You can get positive results from supervised training in AIs that don't have the power to do Autonomous Reduction.
+
+This is exactly the difference between Reductionist and Holistic AIs. The Reductionist AIs really don't deserve to be called AI since all the Reduction was done by the people labeling the training set or doing the programming, depending on the situation.
+February 1 at 8:44am · Unlike · 1
+
+Monica Anderson Curt: "So I'm pure west coast Holistic on the learning part of an AGI. But I'm pure east coast reductionist for the reward generator code that is always needed to define the goal of the learning system."
+
+The reward generator is a Reductionist Contraption. *This is perfectly OK*. It is not part of what you want the machine to learn, i.e. its problem domain. Instead, it is part of your Model of Mind which you are programming into your AI. It's part of the *substrate*, not the *problem domain*. Reward generators are part of the meta-understanding-system.
+
+In a well designed AI the rewards will be meted out for correctly done Reduction in *any* problem domain. Whether it be line following, NPC path finding in a game, playing pac-man, or learning French.
+
+By the *same* reward generator.
+February 1 at 8:49am · Unlike · 1
+
+Monica Anderson If you work on creating an AI, and you are working on the substrate itself, they you are *a programmer* and you have to be doing Reduction yourself. All programming is Reduction. This is perfectly fine. You are not reducing anything in any problem domain.
+February 1 at 8:52am · Unlike · 1
+
+Monica Anderson This has implications for Recursive Self-improvement. Don't give your AIs access to their own substrate (we humans don't have access to our own) and there's no need to teach AIs programming either 
+February 1 at 8:52am · Like
+
+Victor Smirnov Vah! What I see. Monica is moving slowly towards reductionism 
+
+People, you can't be hybrid reductionists/holists. If the holism you mean is a weak one, then the difference between holism and reductionism is purely epistemic. If you mean strong holism, then you are just holists. Without any reductionists mixture 
+February 1 at 8:54am · Unlike · 2
+
+Monica Anderson "Vah! What I see. Monica is moving slowly towards reductionism "
+
+No. As I stated, I was a 100% Reductionist until 1998 and I saw the guts of CYC. Which made it obvious to me Reductionist AI would never work. I have 20 years of experience with Industrial Grade Reductionist AI (Expert Systems, NLP, Ontologies, Taxonomies, web search, LISP) and 15 years of experience with Holistic AI.
+
+And I'm currently CTO in a company (Sensai) doing Reductionist NLP and web search and have the ambition to one day get back to research in my other company, Syntience, which is all about Holistic AI.
+
+In a Holistic AI company the programmers are doing Reduction about things like learning, Understanding, Reduction, Abstraction, Hypothesis Generation, creation of Useful Novelty, and other things relating to how Minds work. No Reduction about problem domains, since that's the AI's job.
+
+This is a key difference.
+
+AI programmers should be programming Minds, not World Models.
+
+Perhaps the sentence above is a more comprehensible form of my main message. But stated as it is, it is a patently obvious platitude.
+Which those working on Reductionist AI are nevertheless ignoring. I'm trying to put more meat on the bones by explaining what programming really is (Reduction) and what Understanding is (The ability to do Reduction).
+
+All non-AI programming is programming World Models. Calling some of that "AI" is just trying to raise your pay grade.
+February 1 at 9:10am · Unlike · 2
+
+Michael P. Gusek Are protomodels reductionism? If so, everyone is a hybrid whether they believe it or not.
+February 1 at 9:16am · Unlike · 3
+
+Victor Smirnov Monica> In a Holistic AI company the programmers are doing Reduction about things like learning, Understanding, Reduction, Abstraction, Hypothesis Generation, creation of Useful Novelty, and other things relating to how Minds work. No Reduction about problem domains, since that's the AI's job.
+
+So you are weak holist, ain't you? If the difference between strong and weak holism (emergentism) is not clear, then weak holism states that specific properties of a system are not predictable computationally (that is what halting problem about), while strong holism states that these properties are not computable at all. In the first case we always have formula for reduction but not necessary this formula is computable for all inputs. In the second case we just have no formula for reduction.
+
+Those who are strong holists can't use computational approach to problems they claim irreducible (holistic). For example, Juan Carlos needs bizarre perceptronium to capture qualia in his AI.
+February 1 at 9:36am · Edited · Like · 1
+
+Monica Anderson "So you are weak holist, ain't you?"
+
+Whether I am or am not is irrelevant in this context. I'm not debating what kinds of Holism there is, I'm trying to explain what's wrong with the way we have been doing AI. I'm an AI researcher that has understood that Reduction is what it's all about and I'm trying to make others understand it. I'm using Epistemology as a Programmer in the same way that an MD prescribes drugs created by Biochemists. The MD has no ambition to further Biochemical research and I have no ambition to dicuss the finer points of Epistemology. I just use it as a tool.
+February 1 at 9:55am · Like
+
+Monica Anderson But since you bring it up...
+"specific properties of a system are not predictable computationally"
+
+This is a Reductionist's view (made even more obvious by bringing up the halting problem in the same paragraph). My view is that this may well be so but a fallible guess based on your lifetime of experience is as good as it gets and is sufficiently good to justify intelligence as an evolutionary advantage.
+
+"All intelligences are fallible" -- me
+and therefore AI programming is not about creating somethign scientific, it's about creating a scientist. Someone that jumps to conclusions on scant evidence and then in retrospect attempts to fomralize this new insight into an agreed-upon mathematical/physics/chemistry/etc framework.
+February 1 at 10:01am · Unlike · 1
+
+Monica Anderson "Those who are strong holists can't use computational approach to problems they claim irreducible (holistic). For example, Juan Carlos needs bizarre perceptronium to capture qualia in his AI."
+
+Exactly... if what you want is *provable correctness*, which is what Reductionists want.
+
+Brains are at best generating useful guesses... reasonable things to do before the tiger kills you. This processing *can* be done quickly since as a Holist you discarded the Reductionist Requirements on Correctness, Repeatability, Optimality, Parsimony, Transparency, and Scrutability. Insisting on keeping these while doing AI lands you squarely in Computronium territory.
+
+And AIs have to be programmed to do the same kind of processing.
+February 1 at 10:06am · Edited · Unlike · 1
+
+Victor Smirnov But it matters, what kind of Holism is there. The difference between weak Holism and Reductionism is purely epistemic. They are just two ways of thinking (bottom-up and top-down) about the same process. They are mathematically compatible to each other. When you suggest Holism over Reductionism in AI research, it is the same that you suggest C++ over Java etc.
+February 1 at 10:07am · Edited · Unlike · 2
+
+Monica Anderson I think I replied to this in my previous comment 
+The main thing you are giving up when switching to Holistic AI are the Reductionist's requirements on Optimality etc. I don't personally care whether you call that weak or strong Holism as long as it allows me to program an AI that jumps to conclusions on scant evidence.
+February 1 at 10:10am · Edited · Unlike · 1
+
+Victor Smirnov > I don't personally care whether you call that weak or strong Holism as long as it allows me to program an AI that jumps to conclusions on scant evidence.
+
+Monica, you have to use definitions correctly, otherwise your claims are just bags of words for those who know Philosophy. It's not clear at all why Reduction is wrong way and Holism is right way to do AI if they are reformulation of each other.
+February 1 at 10:17am · Unlike · 2
+
+Monica Anderson My target audience is AI researchers - programmers. This is not a problem in Philosophy (Epistemology), it's cross disciplinary and the main beneficiaries are the AI systems implementors.
+
+"The difference between weak Holism and Reductionism is purely epistemic."
+
+What would you call the difference between using Models (of Reality) and not using Models (of Reality) when programming an AI?
+February 1 at 10:35am · Unlike · 1
+
+Monica Anderson To me the dividing line is exactly "Zero Models" (of Reality). Nothing else makes sense.
+February 1 at 10:36am · Unlike · 1
+
+Boris Kazachenko "What would you call the difference between using Models (of Reality) and not using Models (of Reality) when programming an AI?" You don't need another term for that, just keep calling it model-free | unsupervised. Using "holistic" only creates confusion.
+February 1 at 10:40am · Unlike · 2
+
+Victor Smirnov > What would you call the difference between using Models (of Reality) and not using Models (of Reality) when programming an AI?
+
+The difference is the same as with using computations and and not using computations. Any computational capture of Reality is a Model of it.
+February 1 at 10:42am · Unlike · 1
+
+Monica Anderson "Using "holistic" only creates confusion."
+
+Reductionism is exactly the use of Models when solving problems.
+Holism is the opposite of Reductionism.
+Holism is the avoidance of Models when solving problems.
+
+What part of this are you objecting to? Do you think "Holism" is taintend by crystals and aromatherapy hucksters and needs to be avoided? Pick up a book about Epistemology and "Holistic" becomes an important and positive word.
+February 1 at 10:52am · Like
+
+Boris Kazachenko "Models" can be "whole" or "reduced". More reduction = less models. Total reduction = 0 model. You don't get to define your own language, Monica.
+February 1 at 11:47am · Edited · Unlike · 1
+
+Micah Blumberg Monica: "This has implications for Recursive Self-improvement. Don't give your AIs access to their own substrate (we humans don't have access to our own) and there's no need to teach AIs programming either "
+
+I don't agree. With specialized neurofeedback one can become more aware of one's brainwaves. I suspect also that some hallucinatory experiences have given a variety of people insight into their own living mental substrate.
+February 1 at 11:59am · Edited · Like · 1
+
+Victor Smirnov > (we humans don't have access to our own)
+
+We do have such access. Monica just doesn't know how to work with process introspection 
+February 1 at 11:57am · Unlike · 2
+
+Micah Blumberg Yes it is just introspection. I am not noticing protein formation in my own brain, but coincidence patterns yes, coincidence detection happens at the neuron level.
+February 1 at 12:01pm · Edited · Like · 1
+
+Victor Smirnov That is funny. Process introspection is mediated by interpretative models. We can see inside our minds only those processes that we can understand (describe). Monica is strictly against models so she is not developing her self-models. This is probably the main reason why she thinks we don't have access to our own minds 
+February 1 at 12:09pm · Unlike · 1
+
+Micah Blumberg Monica Anderson said: "To me the dividing line is exactly "Zero Models" (of Reality). Nothing else makes sense." Monica is mis-stating her position in my humble opinion, and that confuses others as to what she is really meaning. She really means 'Zero Pre-programmed Models'. She is not against the substrate developing its own models. So she would not be against herself developing her own introspective models.
+February 1 at 12:22pm · Edited · Like · 3
+
+Victor Smirnov > So she would not be against herself developing her own introspective models.
+
+It seems she is. The question about possibility of process introspection is cornerstone to strong AI.
+February 1 at 12:28pm · Like · 2
+
+Victor Smirnov Trolling aside, we have process introspection but its produces just garbage because of introspection illusion (cognitive bias). Sometimes introspection produces consistent but false views on underling processes. Person can't distinguish these false models from true ones at the subjective level. The clear sign that AI researcher gets lost in illusions of her introspection is that she is developing her own cornerstone terminology she can't explain clearly when asked. Monica
+February 1 at 12:52pm · Like · 1
+
+Micah Blumberg "Trolling aside" nope, ya still doing it. (Guess your introspection is not that good (humor))
+February 1 at 1:06pm · Edited · Like · 1
+
+Monica Anderson >> "Models" can be "whole" or "reduced". More reduction = less models. Total reduction = 0 model. You don't get to define your own language, Monica.
+
+Reduction is the process of examining our rich reality and discarding that which is not relevant until a simple Model remains that we can use for reasoning or computation. More reduction ==> less context. 
+
+There are no Models when you start this process. You hope to end up with a small, manageable set of Models when done. The more Reduction you do, the more abstract your Models are. But we're not *counting* how may Models there are since this is not easily done. Is F=ma a Model? Yes. What if you add the contributions of friction... is that TWO Models? Isn't Newtoninan Mechanics as a whole a Model? What matters is the abstraction level of your Model - whether it serves your purpose or not - and the amount of context you discarded to get there. Reducing Psychology to Quantum Mechanics is not productive - it's much better to solve problems in Psychology at the level of Psychology than it would be to reduce them to Physics.
+
+Holism doesn't mean "Whole" Models. Holism means NO models. It means computing on the entire context you have available to you. Yes, that context is typically partially reduced; your eyes only take in visible light in your own vicinity and provide your brain with a partial view of reality and the models we make based on what we see may well be incomplete when considering larger contexts such as cosmology or atom-level phenomena which our eyes cannot discern.
+
+And language is partially reduced - the author took some context - their own rich reality, or what they know from reading books or other media, or some fictional context that they created in their own minds - and wrote words on a page which is a further reduction of their starting context.
+
+We, as intelligent beings, can take any level of rich context - even fitional ones in books - and reduce them further if we like, or expand them back into some richness that feeds on our own experience.
+
+Computers cannot - today - do that. I'm advocating that this is what AI really should be doing. And nobody really understands what I'm talking about.
+
+All bickering about terminology aside (which I find coutnerproductive), can someone throw me a bone and agree that AI research should focus on creating machines cabapble of analyzing a rich reality and to reduce their rich sensory input to (partial or full) Models that have discarded the irrelevant and retain that which is necessary for the task they are trying to perform... ??
+
+Or rather, is anyone claiming the opposite? If you are, why do you not attack the main point of my theory rather than focus on my choice of words?
+February 1 at 1:13pm · Unlike · 2
+
+Micah Blumberg It seems like you are proposing to homogenize AI development. Not sure why that would be your goal. Why care what others "should be" doing. My thought is don't should yourself or should others. Let people do what they will.
+February 1 at 1:19pm · Edited · Like · 1
+
+Micah Blumberg The distinctions you, Monica, are making between at least two types of AI development seem valid, even if I trivially disagree with the particular application of philosophical distinctions to computational methodologies.
+February 1 at 1:24pm · Edited · Like · 2
+
+Victor Smirnov Monica> Holism doesn't mean "Whole" Models. Holism means NO models. It means computing on the entire context you have available to you. 
+
+Does Solomonoff Induction satisfy this definition of a model-free method?
+February 1 at 1:26pm · Edited · Like · 1
+
+Monica Anderson "Trolling aside" nope, ya still doing it. (Guess your introspection is not that good (humor))"
+
+I'll go further and call what Victor is doing "malicious trolling". I provide definitions for several key terms in this thread and those that follow me may notice those definitions are repeated often enough that everyone should know those definitions by hart by now. If there is some key term you don't understan, feel free to ask for specific clarification.
+
+A lot of my terminology comes from Epistemology and Philosophy of Science (Reductionism, Holism, Reduction, Model, Abstraction) and even terms like "Bizarre Systems" are not my own but originated from this community. I'm not so much creating my language as I am trying to get AI researchers who are stalled on the wrong (Reductionist) track to see what the true problems are.
+February 1 at 1:26pm · Unlike · 1
+
+Micah Blumberg Monica I also appreciate your well written responses and I do not agree with Victor's notion that you "can't explain clearly when asked" you are doing very well in replying to what others have written.
+February 1 at 1:28pm · Like · 1
+
+Micah Blumberg "A lot of my terminology comes from Epistemology and Philosophy of Science(...)"
+
+I agree, she's not inventing terminology, just applying it as she see's fit.
+February 1 at 1:30pm · Edited · Like · 1
+
+Micah Blumberg "I am trying to get AI researchers who are stalled on the wrong (Reductionist) track to see what the true problems are."
+
+I'm not, those people will die off eventually. I'm not trying to persuade anyone to discover anything. Instead I'm just making new connections with people who are already onto the good ideas.
+February 1 at 1:33pm · Like · 1
+
+Monica Anderson "Does Solomonoff Induction fits this definition of a model-free method?"
+
+Yes, largely. The problem with Solomonoff Induction (and by extension "pure" AIXI) is that they insist on correctness and therefore have to compute absolutely everything in the universe - which makes it useless for AI implementors. The trick in creating an AI that jumps to conclusions based on a lifetime of experience lies in exactly the process whereby one estimates what to discard - what Intuition based Reduction to make. This requires a built-in estimate of domain independent Saliency that those working on AIXI and S-I have not discussed (AFAIK) at all.... since it would be unscientific.
+
+You can think of my model of AI resarch as looking for ways to cut Solomonoff Induction to a manageable size by providing this Domain Independent measure of Saliency. This allows the machines I build to do their own variant of induction in finite time. But by then, it's no longer "Solomonoff" induction, it's just Induction
+February 1 at 1:35pm · Like · 2
+
+Boris Kazachenko Models vs. context is a POV, you only know which is which *after* reduction. As is most of your terminological distinctions, they seem to be designed to generate the very debates you find counterproductive.
+February 1 at 1:48pm · Like
+
+Victor Smirnov Monica> Yes, largely.
+
+So, the only problem with SI is that it is impractical. Am I correct?
+
+We don't work with SI (and with AIXI and GM) directly. It's just limiting case for universal AI. Any practical AI can be model-free (universal) only in the limit. We make practical approximation of SI either by limiting model class (like in MC-AIXI-CTW) or by introducing some prior. But such AI is still model-free in the limit if it can develop new model classes lake Genetic Programming does it (that is also admissible approximation of SI).
+
+> This requires a built-in estimate of domain independent Saliency
+
+So, Saliency and such priors (given in the form of some initial model set or model class set). What are the difference/similarities?
+February 1 at 1:51pm · Like · 1
+
+Boris Kazachenko You know I agree with you on a broad direction, actually go further in it then you are, Monica. But we can't have constructive discussion while avoiding algorithms. And you didn't respond to my last attempt, re incrementalism.
+February 1 at 1:52pm · Like · 3
+
+Monica Anderson "It seems like you are proposing to homogenize AI development."
+
+AI is my contribution to my main game which is called "Stayin' Alive".
+Without AI we're all dead in the next 100 years. I can't afford to wait for Solomonoff Induction to be realizable in a pocket universe full of Computronium.
+
+Today we're still *teaching* the Reductionist AI methods in our college level AI classes and are completely ignoring Epistemology. If we don't change that then we'll be wasting another generation of AI researchers on the Reductionist blind alley.
+
+Some other researchers are *aware* of these issues but seem uninterested in spreading the word. For instance, Andrew Ng is quietly telling some people to pursue unsupervised learning in spite of the recent advances in supervised ANNs (using Deep Learning, a handful of other tricks, and more data) but he doesn't explain *why* this is important in any forum that I've seen. It is important because (as I said when we started) supervised learning uses a Model.
+February 1 at 1:55pm · Like · 2
+
+Monica Anderson "Models vs. context is a POV, you only know which is which *after* reduction. "
+
+Hey, that's a great insight. Thanks.
+February 1 at 1:58pm · Unlike · 1
+
+Monica Anderson "And you didn't respond to my last attempt, re incrementalism."
+Sorry, didnt notice it and can't find it. Could you repeat it?
+February 1 at 1:58pm · Like
+
+Boris Kazachenko That was in our first private discussion.
+February 1 at 1:59pm · Like
+
+Boris Kazachenko Just try to find something wrong in in my public intro.
+February 1 at 2:00pm · Like · 1
+
+Monica Anderson If there existed a way - a terminology - to teach Holism to someone who has been learning how to become a good Reductionist for their entire education... *without anyone ever using the word "Reduction" * (or for that matter, "Reductionism") then I would use it.
+
+The best I can do is to introduce terminology (established in Epistemological literature) and try to bridge the gap with Q&A until the lightbulbs go off.
+
+http://syntience.com/rch.pdf
+February 1 at 2:01pm · Like · 2
+
+Boris Kazachenko My point was than incremental complexity must be a core principle, & you can't follow it if you start with text.
+February 1 at 2:05pm · Like
+
+Boris Kazachenko Because text is heavily "reduced" from human sensory experience.
+February 1 at 2:13pm · Like
+
+Monica Anderson I have spoken about text as being a partially reduced medium a few times including in this thread. But our vision is also partially reduced. There is no true reality out there. All intelligent agents can do is to try to find patterns that they can use to create Abstractions and Models...
+
+Starting from whatever level they are given to whatever level is useful to them.
+
+And I only reluctantly use the term Reduction to Models since my systems are built in an incremental (Deep Learning style) fashion and go from sensory inputs (at, as I said, whatever level of Reduction they have) to further reduced Patterns... but not necessarily to Models. But everyone I talked to seemed so tied to Models that I simplified my argument by talking about Reduction to Models even though 99+ percent of what we do (such as walking, using language, or making breakfast) doesn't require Models. Patterns are enough.
+
+The Model-Pattern distinction is discussed in the video below.
+Models require Understanding (an "intelligent agent") to use and create, whereas patterns are so simple we can write programs for computers to do "pattern matching". This is why I talk about using Model Free Methods (Pattern matching is Model Free) at lower levels of cognition (such as sensory processing) and this never goes away but gradually (through emergence) becomes competent enough to generate true Models. But these Models are not necessary for things like language understanding which even humans do without Models.
+
+http://videos.syntience.com/ai-meetups/modelsvspatterns.html
+Models vs. Patterns
+These video recordings are sponsored by Syntience Inc. Recording Copyright © 2009 Syntience Inc. Presentation copyright © 2009 Monica Anderson.
+VIDEOS.SYNTIENCE.COM|BY MONICA ANDERSON, SYNTIENCE INC.
+February 1 at 2:13pm · Like · 2
+
+Boris Kazachenko Video is only reduced in resolution, it doesn't have to be encoded. Text is , by definition.
+February 1 at 2:15pm · Like
+
+Boris Kazachenko Note the distinction between vision & video.
+February 1 at 2:16pm · Like
+
+Monica Anderson Vision and video are both reduced. We can't see atoms. All information is partial. All sensory input is a narrow tunnel into Reality. Books allow us to learn about atoms and build nuclear reactors.
+
+Intelligent agents have to do Reduction "Starting from whatever level they are given to whatever level is useful to them."
+February 1 at 2:20pm · Unlike · 1
+
+Boris Kazachenko "True reality" is what hits your senses.
+February 1 at 2:20pm · Like
+
+Boris Kazachenko "We can't see atoms" that's reduction in resolution, it doesn't affect processing. Encoding does.
+February 1 at 2:21pm · Like
+
+Boris Kazachenko Intelligent children can't read, but they can see.
+February 1 at 2:24pm · Like
+
+Boris Kazachenko Because difficulty of decoding is exponential with the level of encoding
+February 1 at 2:30pm · Edited · Like
+
+Victor Smirnov Monica> Models require Understanding (an "intelligent agent") to use and create, whereas patterns are so simple we can write programs for computers to do "pattern matching".
+
+You are trying to intermix mathematics with vague definitions taken from folk psychology (folk phenomenology). It may be your definitions look clear to you and some people but you need formal definitions, not clear one. For example, Schmidhuber have reduced it's phenomenology of intrinsic motivation (curiosity) to model-free definition of prediction error. So, what about Saliency? Can it be reduced to initial priors?
+February 1 at 2:29pm · Like
+
+Micah Blumberg "Boris Kazachenko "True reality" is what hits your senses.
+24 mins · Like"
+no, there is not true reality, there is reality and nothing other than reality, the human thinking is always delusion.
+February 1 at 2:57pm · Edited · Like · 2
+
+Micah Blumberg "Models vs. context" model = context = pattern = model
+February 1 at 2:53pm · Like
+
+Micah Blumberg vision = pattern, text = pattern, video = pattern. it's all parsed the same by the brain
+February 1 at 2:56pm · Like
+
+Boris Kazachenko These are different patterns.
+February 1 at 3:10pm · Like
+
+Micah Blumberg Different patterns, but all are learned by coincidence detectors (networked to identify tempo-spatial patterns) in the brain.
+February 1 at 3:25pm · Like
+
+Boris Kazachenko On different levels of cortical hierarchy.
+February 1 at 3:26pm · Like
+
+Boris Kazachenko And learning is level-sequential.
+February 1 at 3:28pm · Like
+
+Micah Blumberg All three types of patterns are learned by all levels of the brain as a sparse distributed representation. Learning is level parallel, instead of sequential.
+February 1 at 3:29pm · Edited · Like · 1
+
+Boris Kazachenko You win.
+February 1 at 3:29pm · Unlike · 4
+
+Micah Blumberg
+Micah Blumberg's photo.
+February 1 at 3:31pm · Like · 1
+
+Curt Welch The term "model free" has always seriously rubbed me the wrong way. It's just an invalid notion.
+
+There's no way to build AI "model free".
+
+Models are physical systems that act as representations of some other physical system. If I build a model of a house out of popsicle sticks, that small house is a model of the larger real house. If I build it out of clay, it's still a model that represents something else -- the real house. As the engineer, I chose what to model, and what to model it with.
+
+If I build a wax cylinder audio recording device I have decided to model the vibrating air molecules with a groove cut into the wax. The audio frequency response of the system is limited by the physics of the diaphragm and needle that is cutting a grove into the wax. I select the hardware in this system to give it the frequency response I need for the application (human hearing range). The grove in the wax is a model.
+
+If I build it with electronics instead of wax, and I record the sound on magnetic tape, I have once again, built a system that creates a model of the vibrating air, as magnetic polarization of particles on a tape. The recording is a model of the complex vibrating sound patterns in the air.
+
+If I add a second channel to make it stereo, I've changed the model.
+
+If I digitize the vibrating electrical signals from the microphone into a stream of bits, and store those bits on a flash memory card, the electrical charge patterns on the flash drive is not my model of the vibrating air. As the engineer, I choose the sampling rate of the A/D converter and the simple frequency which sets the dynamic range and frequency response of the model. These are all parameters of the model I select as the engineer of the system. The fact that I decided to use a digital format that had fixed rate sampling and linear encoding of the samples at 16 bits in stereo, are all parts of my model. I could have selected 8 bit using A-law algorithm for dynamic range compression instead of linear.
+
+None of these systems are "model free". I as the engineer, choose what I want to model, and how I want to model it with these hardware selections.
+
+If I choose to build an AGI, at minimum I have to chose a signal format. Do I model the information using electrons in a wire? Do I model it as a set of 32 bit real numbers that are feed into the algorithm at a fixed rate (say 100 times a second)? Or do I model it as an independent, but synchronized, bit streams that also show up as an input vector at a fixed and predictable rate? Or do I model it as parallel signals with asynchronous spikes simulated in a digital computer? Or real electrical spikes in a wire? Or as action potentials running down a nerve fiber? These are MODELS of external events in the universe, even in it's most abstract form, they are still MODELS of something unspecified (the sensor hardware specifies exactly what the inputs are models of).
+
+As we add algorithms on top of this signal format model, we have to add more details to the model. If I build a reinforcement learning system (which I claim is required for all AGI). we must decide how to MODEL the reward input. Is it a real number that shows up at unspecified times? Such -infinity to +infinity represented as a 64 bit floating point value? Or a real value from 0 to 1? Or -1 to +1? Or as a binary input with one input for a binary pleasure input, and another for a binary pain input? Or do I only have a single bit pleasure input, and nothing else (like the Facebook "Like" reward signal)? These more model decisions the engineer must make about what to model, and how to model it.
+
+And AGI engineer that choose not to model a reward signal, can't make AGI (he doesn't understand that AGi is a reinforcement learning problem that most has an internal model of reward).
+
+In addition, to the signal format for reward connecting the hardware to external environment, or to the reward generator, the system must also model expected long term rewards INTERNALLY. There are many different ways to do that, but they MOST BE MODELED. You can't build RL without it.
+
+TD-Gammon used a simple back prob trained neural network as the hardware to estimate future rewards and choose to model it as a value from 0 to 1 which represents the player's odds of winning the game from any given board position. These are all modeling decisions made by the engineer building the system.
+
+It is not possible to build any solution to AGI that is not chock full of models.
+
+The question is not whether it's got models, the question is one of how GENERAL the models are. If the internal models of the system model the location of chess pieces on a chess board, then the odds of that system being able to use that model to learn to drive a car, is slim. To create General AI, one must use a very broad and generic modeling system -- but it's not in any sense "model free".
+
+Any AGI system has to use some internal modeling technology, to build models of the external environment. What the internal modeling technology is able to represent, defines the limits of what the system is able to "understand" about the external environment. No finite modeling hardware (limited memory to work with on a computer), and represent an infinite amount of information about the external enviornment. So there must be aspects of the system that determine what to keep, and what to throw away. On inherent limit is the trade off between spacial resolution and temporal resolution. Does it keep a few frames of very high resolution video data, and as such, end up with very high resolution spatial memory, but very low resolution temporal memory, or does it keep a very long history, of very low resolution images so as to use the same amount of information storage, to create a longer and higher resolution of temporal memory, at the expense of less spatial resolution? This is a MODELING DECISION, the engineer has to address in any AGI.
+
+There is no such thing as a model-free solution to AI.
+February 1 at 5:41pm · Unlike · 4
+
+Monica Anderson A record player is Model Free in its application domain - Sound. It can record any sound but has no a priori understanding of any of it. Since it doesn't learn, this never changes.
+
+A typewriter is Model Free in its application domain - Text. You can type any text on it but it has no a priori understanding of any language. Since it doesn't learn, this never changes.
+
+An Understanding Machine is Model Free in its application domain - Our Rich Reality. In order to be general, it must learn to understand anything at all in any domain (of Reality) at all. Since it is built to learn, it will continually improve over a lifetime as it gathers experience.
+February 2 at 8:54pm · Unlike · 1
+
+Monica Anderson BTW Curt - An excellent post, again.
+
+"It is not possible to build any solution to AGI that is not chock full of models."
+
+The only Models you need are Meta-Models, ie. Models of the Substrate, not the Application Domain.
+
+You need Models of Salience, Reduction, Abstraction, Novelty, Learning, and Understanding. 
+
+No need to Model Reasoning  It's too hard, and unnecessary 
+
+None of these are Application domain specific. In a Language Understanding Machine, none of these Models have anything to do with Language.
+
+Say this three times : "Model Free Systems are Model Free *in their application domain*"
+
+Not necessarily so anywhere else. And for the best Model Free Systems - those that learn from their mistakes - they will build their own Models (and patterns sets) so they are Model Free only at the start. But that's enough to set these systems apart from conventional programming.
+
+We have had non-learning Model Free systems for years. In very limited problem domains 
+February 2 at 9:02pm · Edited · Unlike · 1
+
+Micah Blumberg Great post Curt! He's right of course, the term "model-free" makes no sense on a bumper sticker all on it's own. It has to be qualified in the context in which it's actually meant.
+
+""Model Free Systems are Model Free *in their application domain*"" 
+
+This is an opportunity to change the branding, change the bumper stickers, and include any necessary extra context that eliminates miscommunication from the get go.
+February 2 at 9:37pm · Like · 3
+
+Curt Welch "Model Free Systems are Model Free *in their application domain*"
+
+I agree 100% with your ideas about what needs to be built, and what sort of direction is needed to move from AI projects of the past, to AGI. I agree we need to move away from narrow AI models to simpler and more general approaches. But this use of "model free" is never going to work for me. We aren't eliminating models, we are just using more generic models. What we need, is model-appropriate, for our application domain. If you use the wrong model for the domain you are trying to solve, then the software doesn't work very well. The model has to match the problem domain.
+
+Our application domain is not the game of chess, or the the domain of a self driving car or chatbots. So our models are not of chess boards, or of street maps, or conversation topics.
+
+For AGI, the problem domain is a reward maximising real time, sensory-motor reaction agent. The internal models we need to build for a machine that operates in this domain is one of sensorimotor value maps. For each sensory-motor mapping we must model the expected long term reward produced by that mapping. It's a very simple, and a very generic type of model, but it's definitely a application SPECIFIC model, that FITS THE SPECIFIC APPLICATION we are working on.
+
+It's not model free in any sense. It's model appropriate for our domain.
+
+The trick to solving this is correctly understanding what the domain actually is and what models we need to solve that problem domain.
+
+The solution and the problem go hand and hand. We can't really understand the problem, until we understand the solution, and we can't really understand the solution, until we understand the problem. So we must keep adjusting our understanding of both the problem, and the solution, until we have a matched understanding of just what problem we have really solved, and how we solved it.
+
+But as we do this we are not eliminating models from our solution, we are simplifying the models to be as compact and simple as possible.
+
+Compared to the great complexity of models used in other AI projects, it may certainly feel that we are heading towards no models at all, but we aren't. We are just heading towards very simple models.
+
+Just as f=ma is a model of how apples fall, compared to the great complexity of motion of falling apples, F=ma may seem like no model at all. What if I tried to model the falling of apples as the single bounce on the ground model, and the double bounce model, and the two bounce, and then roll model. I could argue that the correctly model of apples and how they fall, we really need 1000 different models like this combined together to create one very huge complex model and I could try to argue there is no way to make it simpler. Or, I could replace them all with F=ma. But I haven't elimited models from my solution. I just simplified the 1000 complex ways that apples act with the one underlying model of F=ma. F is a real number that models the abstract feature of force, m is a real number that models the abstract feature of mass, etc.
+
+This is what we are are doing with AGI as well. We are replacing a thousand complex models for chess playing, and car driving and chatboting , with one simplified solution that does it all. But it's still a system that uses models, even if the model is v where v is a real number that models that expected long term reward of a sensory-motor mapping (aka state action Q value).
+February 3 at 6:52am · Unlike · 3
+
+Monica Anderson "We aren't eliminating models, we are just using more generic models."
+
+The computer is making the Models, not the programmer. This is important. We are not writing a program, we are writing a programmer.
+February 3 at 9:54am · Unlike · 1
+
+Monica Anderson And so we need a Model for the progammer's mind. And we implement that. Because that is 10,000 lines of code as opposed to millions of lines to describe even the top 1000 concepts in our rich reality.
+
+Don't Model the World. Model the Mind!
+February 3 at 9:57am · Edited · Unlike · 2
+
+Matt Mahoney So "model free" means mathematically impossible? http://arxiv.org/abs/cs/0606070
+
+[cs/0606070] Is there an Elegant Universal Theory of Prediction?
+ARXIV.ORG
+February 3 at 6:32pm · Unlike · 2
+
+Curt Welch " In order to be general, it must learn to understand anything at all in any domain (of Reality) at all."
+
+There is no definition of "understand" that makes this possible Monica. All understanding is domain limited. It's as wrong as trying to pretend you can build a general purpose adding machine that can add ANY two numbers. Any adding machine you build will be resource limited and as such, can't add numbers larger than what its resource limits allow. A 12 digit calculator can't add two 100 digits numbers.
+
+If humans had brains that could understand "anything" then why is it so hard for people to understand each other in political debates? It's because fundamentally, we are different people with different brains that have different abilities to understand. We can't really understand everything the other person understands because neither of us have true general intelligence that can understand "anything". We can only understand those ideas that are within reach of the abilities of our individual brains. In no sense, is understanding infinite and without bounds or limitations.
+February 3 at 8:06pm · Like
+
+Micah Blumberg "So "model free" means mathematically impossible?" ahaha, any "model free" AI program is math possible, because it runs on a computer. hehe. So if math can't handle bizarre domains, than neither can a "model free" AI program hehe.
+February 3 at 8:19pm · Edited · Like
+
+Curt Welch "The computer is making the Models, not the programmer. This is important. We are not writing a program, we are writing a programmer."
+
+Yes, it's highly important to understand that and many people don't. It's a meta stance we must take as we build a goal driven machine that uses directed search algorithms to "program" it's own behavior.
+
+But at the level we do program the machine, we are still using models.
+
+If I build a learning machine that uses some type of ANN that has 100 nodes per level and 100 levels with a given pattern of interconnections, that network topology IS A MODEL I'm hard coding into my AGI. All the "programs" my code is able to "write" in it's learning process, must be build using this 100 x 100 network "model". It's the model which directs how my program works.
+
+All "understanding" of the world my program is able to learn, is modeled with this 100x100 neural network in my code. The program didn't dynamically chose to model the environment with a 100x100 node neural network -- I the programmer hard coded that model into my solution.
+
+To say that I the programer didn't make this 100x100 node model is just wrong.
+
+NO matter how many meta layers of abstraction we program in (and we have been doing this long before we stared working on the AGI problem), we still use models in our code.
+
+If I so much as write: "float x,y;" in a program I've made the decision to use a 32 bit floating point "model" of the mathematical concept of a real number in my machine.
+
+We can't escape the fact that everything we code is full of models at many different levels of abstraction.
+
+The key difference to what makes AGI general, is not the fact that we don't use models in our code. It's the fact that we use highly generic models.
+
+If the information that flows into our AGi is streams of bit vectors, then we have chosen to model physical events in the environment, as vectors of binary numbers. We build sensors to translate physical vents, like light waves and vibrating air into these bit streams but even when we abstract away the details of the sensors and approach the AGI problem form the position of "unknown sensory streams", we are still making very model specific choices as to how that data will be represented in our algorithm
+
+I've spent a lot of time these past many years using a highly different way of modeling abstract data streams. I model them not as synchronous parallel bit streams (the MODEL that 99.99% of all AI projects choose to build AI with), but as asynchronous parallel spikes.
+
+I've chosen to use a very different MODEL than most people are using, and there are important reasons that I have been experiencing with a different MODEL than most other researchers.
+
+Most of us doing AGi are also using the model of a digital computer to build our solutions with. That's a very specific model choice. It's very possible that someone could also create a totally analog solution to AGI as well and avoid the digital computer model foundation totally, but they would buidling their solution using highly different models if they did that.
+
+I'll repeat, a little more forcible -- to suggest that AGI can be MODEL FREE, is ABSURD. Powerful and general AI will be model lite, not model free. The simpler the models, the more general it will be. But to have no models, is to have no AGI.
+February 3 at 8:40pm · Unlike · 2
+
+Monica Anderson *shrug* we'll have to disagree here. If you can't see a distinction between substrate and learned information then we can't progress since I think that is crucial for the discussion. :-| 
+February 4 at 12:16am · Like · 1
+
+Micah Blumberg It seemed like someone was making a point that math and physics is reductionism and reductionism can't handle bizarre domains. However if you make a computer program general enough that it can handle bizarre domains you have lost your first principles, that math and physics are reductionism and reductionism can't handle bizarre domains.
+February 4 at 10:58am · Like · 1
+
+Monica Anderson Micah that's a pretty long discussion but I'm convinced I'm right about this and will defend it. Top level idea : If you create something general enough to handle our rich reality under limited and erroneous information then it has to be jumping to conclusions on scant evidence and as such it breaks many nearly-absolute rules of Reductionism. Optimality, Completeness, Infallibility, Repeatability, Parsimony, Transparency, and Scrutability. Hence it is no longer Reductionist.
+February 4 at 9:54pm · Like · 2
+
+Curt Welch "If you can't see a distinction between substrate and learned information then we can't progress since I think that is crucial for the discussion."
+
+I can see it clearly. My point -- that you can't see -- is that no matter how much is learned, there must always be a substrate to learn with. And that substrate will always be A MODEL that we the engineers hard wire into the system.
+
+To create the most general AI possible, we must use the simplest and most flexible substrate possible, so as to allow the system to learn as much as it can on its own. We want to minimize what we have to program, and maximize what it can "program" on its own. But no matter how far we minimize what we program, what we program is still a model we hard wire the system to start with.
+
+I can build a robot designed to wander around a room. I can hard code the map of the room into the software. I can create some really fancy 2D localization sensors that tells the software exactly where the robot is on the map at any instant. I can then write planing software that allow the robot to plot a course from it's current location, to any new location I want it to travel to. I can test the performance of he motors and drive system so that I can now exactly how the robot will respond to commands to move forward at different speeds. I have built the entire model of the environment into the robot, so the software has no need to learn any part of the model on it's own.
+
+But them I can start changing the system and making the robot learn about it's enviornment. I can let the robot learn on it's own, how the motors that drive it work in terms of it learning that a drive forward command of 2 (on a scale of 0 to 10), produces a forward velocity of 10 cm per second. It learns that by watching how the position changes over time after giving that command to the wheels. So now the robot is building part of the model on it's own -- the part about how wheel turn output commands relates to changes in state of the environment.
+
+I can replace the highly accurate 2D location sensors, with far less accurate sonar range finding sensors, and bump sensors and write even fancier learning algorithms so the software can learn to estimate the location of the robot on the map at any point in time, instead of having to be told it's location. That way, more of the state model of the environment is learned, instead of hardwired into the system.
+
+I can take out the map entirely, and write fancy learning algorithms that allow the robot to build it's own map of the environment as it explores the rooms in the building. So now it's building it's own maps, and it's own location understanding from the sensory data.
+
+But I still have to hard-wire low level models into my code. I'm using particle filters that are hard coded to have an X,Y location, a heading, and a velocity parameter to create a distributed sparse representation of the multimodal probability distribution of possible locations of the robot. I'ave hardwired the idea of a 2D space the robot operates in even if everything else about the state of the space is learned. I'm modeling with 2D concepts -- and that's the model that's still in he low level learning system.
+
+If I reduce it further and make it learn even more, I can take out the 2D hard-wired concepts and make the system learn that as well. But my learning algorithm will still be using low level models of realty -- such as strings of time-stamped binary numbers from the sensors. My low level system is using the concept of time, and information encoded in binary, as the models that I still hard-code into the system.
+
+As long as there is a substrate that used used to record what is learned, that substrate must be a model that we hard-wire into the system.
+
+The point of AGI is to make that substrate as simple and board as possible, and make the system learn as much as as it can, on it's own, beyond that simple starting model. The point of AGI is to make it build as much of the model as it can, on it's own. The point however is not in any sense to 1) not start with a model that we must hard-wire into the system or 2) not use models.
+
+The term "model free" is just a very poor description of what needs to be done. It's not free of models, it's just model-lite.
+
+We already have good names for the idea of getting the machine to learn as much as it can on it's own. It's called machine learning.
+
+There have historically been two approaches to AI. One is top down, and the other is bottom up. Top down, is MODEL HEAVY. It's where the engineers build lots of complex models to make the machines act like humans -- like playing chess. We build models of chess boards and algorithms for manipulating the models. We build language machines like cyc that build a big language-centric model of the environment and then uses that language-centric model to try and learn to answer questions. The top down MODEL HEAVY approach has provided a large array of cool systems that do amazing stuff, but which have always ended up as only limited domain solutions. 
+
+The other approach to AI is bottom up. This is MODEL LIGHT. It's where we start with very simple and broad models and ideas, and see if it can produce intelligent behavior. Like Classical conditioning (1897) and Operant Conditioning (1938), hebbian learning rules (1949), the perceptron (1957), back prop training of neural networks (1963), etc.
+
+The advantage of top down, is that it produces stuff that works, but which have too limited of a domain to match human intelligence. The advantage of bottom up, is that the domain is very broad, but that if you don't get the algorithm just right, it doesn't work and produces nothing of value other than a growing the list of ideas that are sound good, but which don't work.
+
+The bottom up researches have been making good progress producing stronger and better algorithms that are model-light for 100 years with deep belief networks built from things like restricted boltzmann machines being some of the more recent successes.
+
+The top down approaches have failed to produce general AI, because they hard code TOO MUCH of the model and too much knowledge into the systems.
+
+The two approaches have always been on a collision course towards each other. The solution to building human intelligence into a machine will result when these two approaches meet somewhere in the middle.
+
+But none of them have been modle-free. One is model heavy, and the other is model light. And yes, to produce general inheritance, we have to remove models form the model-heavy side in order to get down to what model-light approach has been doing for over 100 years now.
+February 5 at 9:10am · Unlike · 1
+
+Monica Anderson " My point -- that you can't see -- is that no matter how much is learned, there must always be a substrate to learn with. And that substrate will always be A MODEL that we the engineers hard wire into the system."
+
+Yes, I fully agree.
+
+"We already have good names for the idea of getting the machine to learn as much as it can on it's own. It's called machine learning."
+
+Except a lot of ML is model-heavy and what is learned is just parameters. This limits learning to those Models. This is my main objection to using current ML. You discuss this further down...
+
+"And yes, to produce general inheritance, we have to remove models form the model-heavy side in order to get down to what model-light approach has been doing for over 100 years now."
+
+The correct approach is not to make existing Models lighter. It is to start without Models of the Problem domain. Here is where we differ the most. I'm comfortable with much less initial Modeling than you seem to be. And contrary to what you seem to think, it is possible to create a "general learner" that operates in any problem domain.
+
+My Substrate contains Models of Saliency, Abstraction, Reduction, Success, Failure, Prediction. It has a trivial input mechanism that doesn't do Model based preprocessing although I am not negative to those in cases like computer vision. But none of the things I Model are problem domain specific. My systems would learn from video cameras that provided a map of color pixels that changed over time. No furter preprocessing would be required.
+
+Nothing in my substrate would be specific to learning English text, Japanese text, or text in general. Nothing would be specific to voice recognition (We'd just have to find a way to represent the input signal as a spatiotemporal stream, such as multiple channels of amplitude over a set of frequencies, changing over time). Nothing *in the learning parts of the system* would be specific to video.
+
+Basically anything that can be pre-reduced in a preprocessing chain into a stream of bytes (or wider chunks of bits) with a temporal variance should work. The system would analyze that and discover whatever semantics any such stream contains.
+
+So basically, in a Text domain the preprocessing is so trivial as to be nonexistent. In video there might be a lot more, and likewise in sound. These would be purely Reductionist preprocessors and we'd have to be careful that the transformations wouldn't remove any semantics and wouldn't *attempt to add any semantics that isn't there*. But even so, these are transformations in the media - in video encoding, so to speak, or transformations of sound to Fourier bands. 
+
+It could be that you don't understand what I mean by target domain.
+
+If we are running Final Cut Pro or Adobe After Effects we are manipulating video. There is no world knowledge involved; that is supplied by the user. If we are doing a Fourier transform of a sound stream, we are operating on sound information. But neither video nor sound are the target domain. They are just sensory inputs and the target domain for an AGI with eyes and ears would be *Understanding the World*.
+
+I accept any and all transformations of the sensory input data as part of the substrate. 
+
+Let's say we create a robot with a learning machine of my design... surrounded by preprocessors for vision, sound, location, and spatial navigation using Lidar or somesuch. I accept all of these Models as part of the Substrate.
+
+What I don't accept is Modeling anything in the environment - in the World. It has to learn (like a child) how changes in color values of incoming pixels related to external objects. There is no need to, for instance, build a vertical line detector or a plosive sound detector. If the system can't figure thouse out by itself then it will never learn the difficult stuff.
+
+You can call these preprocessors Models. But they are Models of information flow, not of the World.
+
+The trick is still how to design the general learner. This is my domain of expertise, and feeding in text is the simplest set of preprocessors in any domain that has sufficient semantic structure.
+
+And the general lerarner has no Models and depending on your preprocessors would work as well for video as for text. Its task is to figure out semantics no matter what the input stream looks like or where it comes from.
+Yesterday at 10:09am · Like
+
+Micah Blumberg "Hence it is no longer Reductionist." 
+
+The old idea of AI, the east pole, used tokens to define the problem domain. The hand coded knowledge representation was about defining the problem domain for the computer to go to work.
+
+Now you say your approach is west pole because you do not hand program any knowledge representation, so it's generic, its expensive learning, but it can do anything, with no pre-defined problem domain.
+
+It's sort of meant to be a universal AI that you can apply to any problem domain. However there is always a problem domain, and you still have a person setting up the perimeters of that problem domain, selecting the material, preprocessing it into bits, etc... it is still reductionist.
+
+"There is no need to, for instance, build a vertical line detector" In the human eye there are vertical line detectors, horizontal line detectors, left to right motion detectors, right to left motion detectors, blue light detectors, other light detectors. The human sensor system is full of special detectors. It is however highly adaptive. The audio cortex can process visual information, this has been proven, So what we can deduce is that the human brain can produce it's own specialized knowledge representations which do pre-define problems.
+
+There is much less pre-processing involved for human brain, it can adapt to a broad spectrum of sensory frequencies.
+
+I don't know if a human brain can process bits, or if reducing data to bits makes very much sense for a brain like system.
+Yesterday at 10:33am · Like
+
+Monica Anderson " However there is always a problem domain, and you still have a person setting up the perimeters of that problem domain, selecting the material, preprocessing it into bits, etc... it is still reductionist."
+
+What if I provided an internet connection to my AI and let it choose what links to follow?
+
+The main guidance would be in the Saliency algorithm and that's at a very low level. It would be the same Saliency algorithm for text, video, sound, and navigation.
+
+I claim this saliency algorithm isn't a domain model. And I don't have any Models above that.
+Yesterday at 11:06am · Unlike · 1
+
+Curt Welch "I claim this saliency algorithm isn't a domain model. And I don't have any Models above that."
+
+Have not you just widened your domain?
+
+If I write a chess program, it's in the domain of chess. I can widen the solution, and make a program that can play any board game. I'm no longer in the domain of chess, but I'm still in a domain -- the domain of board games. There are other domains this general program still can't address.
+
+There is no general solution to everything that would allow us to say we have written the one program that does everything so that we will never have to write another program. Any hardware we build will always be domain limited.
+
+I can build an intelligent general purpose learning machine, that is still limited in domain to what it's able to learn, and what scale of information it's able to work with. It will still be domain limited in what problems it is able to solve.
+
+Humans are domain limited. We are limited to what things we can understand and deal with. If we build a machine that operates in our domain, or operates in a domain more general than what humans can do (which we will), the machine will still be domian limited.
+
+It seems to me that you are thinking that humans have a broader scope then our current AI programs. We can play chess, but we can also play Go, or checkers, and we can also compose music, and do science and engineering. If you make a machine that is more domain limited than us, you seem to call it "domain limited". But if it can do everything we can do, then it's "domain unlimited"
+
+But that's not true because we are still domain limited machines. There are real limits to what a human can understand and what sort of problems they can solve on their own without the help of "thinking machine" doing the work for them. Multiple math proofs have now been created by getting a computer to do the work for us -- because the problem is too large and complex for any single human to solve it. Like the 4 color map theorem.
+Yesterday at 12:37pm · Edited · Unlike · 1
+
+Curt Welch "My Substrate contains Models of Saliency, Abstraction, Reduction, Success, Failure, Prediction. It has a trivial input mechanism that doesn't do Model based preprocessing although I am not negative to those in cases like computer vision. But none of the things I Model are problem domain specific. "
+
+It very much is domain specific. It's just a much wider domain than some other AI approaches. You just seem blind to the possibility that there is a wider domain your approach can't deal with.
+
+You substrate contains 6 models. Mine contains only two. Mine contains only Classical, and Operant conditioning. Classical conditioning is unsupervised association learning (perception learning), and Operant conditioning is value maximising behavior selection. I would guess, from your names, that your "Abstraction and Reduction" are covered in my one process of Classical conditioning, and your Saliency, Success, and Failure, are Operant conditioning. There is some prediction at work in both my Classical and Operant conditioning. In Classical, the system learns probability distributions and assumes future sensory data will be similar (but does not actually make predictions), and in Operant conditioning, the system is producing estimates of future rewards. But at no point, is my system using a model to try and simulate the environment for the purpose of predicting what the environment will do in the future. I do not see that as needed to create general intelligence.
+
+All of this is about the domain our systems are operating in and the domain of problems they are made to solve. There are endless examples of domains we can use computers to solve that these "general" intelligence machines won't be able to touch -- like solving the problem of producing a list of web pages from a given list of keywords. A can person sitting at a desk take over the work of the Google servers? Of course not -- can't even touch the ability. Because AI is a very domain limited type of system -- which is why we have built all these other computer systems to replace humans already -- and to do things no human can begin to do -- like adding millions of numbers a second to do accounting.
+
+AGI is very domain limited to AGI.
+Yesterday at 12:51pm · Unlike · 1
+
+Micah Blumberg I also think that if an Artificial Intelligence can only handle pre-processed bits that it is reductionist for that reason at least. Confined to the model that is the set of all number based models.
+Yesterday at 1:51pm · Edited · Like
+
+Micah Blumberg If we are, in the end, still feeding ones and zeros into a machine, I do not see how terms like holism, model-free, or intuition can really match what is being done. I understand what is being done, but for me at least those terms do not seem like the right match.
+Yesterday at 1:55pm · Like · 2
+
+Boris Kazachenko I admire your patience, Monica . Hey, I just realized I am already using a term for your "holistic": bottom-up. It's a bit misleading to describe a method that is doing reduction as holistic. All operations you list are selecting among inputs, thus hierarchically reducing input flow. Although from my POV your approach is not really bottom-up, either. In that sense, I am holier than you . Also, I think there is so much confusion about "Model Free" because it is defined by exclusion. A positive term for that is pattern discovery. To make it general: scalable pattern discovery.
+Yesterday at 6:25pm · Edited · Unlike · 3
+
+Matt Mahoney Holistic is more like top down.
+Yesterday at 6:33pm · Unlike · 1
+
+Micah Blumberg Monica said "My Substrate contains Models of Saliency, Abstraction, Reduction, Success, Failure, Prediction."
+
+Boris said "All operations you list are selecting among inputs, thus hierarchically reducing input flow."
+
+Point goes to Boris
+
+Its not "holistic" its reduction, and its bottom-up "scalable pattern discovery"
+Yesterday at 6:47pm · Edited · Like · 2
+
+Juan Carlos Kuri Pinto My 2 cents on why Monica's approach is "holistic":
+
+https://www.facebook.com/notes/juan-carlos-kuri-pinto/synergy-reduction-and-saliency-are-paramount-to-general-ai/10151442948752712
+
+Juan Carlos Kuri Pinto
+Synergy, Reduction, and Saliency Are Paramount to General AI
+In my AI systems I never preprogram preexisting AI algorithms. I rather let the machine learn the causal geometries of Reality:
+
+Reduction is a proactive and unconscious exploration of the whole space of mental resources, mind patterns, and hypotheses. It is not a straightforward and preprogrammed recipe to solve a problem. It is not a reductionist s...See More
+Yesterday at 7:47pm · Like
+
+Boris Kazachenko Juan, holistic is defined as the lack of reduction. And the very process of learning is an algorithm that you have to preprogram. If you don't program anything, then you are not doing anything. Much of the above is simply incoherent. I know you mean well, but... maybe you should try Ritalin? .
+13 hrs · Edited · Unlike · 2
+
+Monica Anderson There are some people here that just don't get it. Terminology aside, avoiding Models is essential when creating a GENERAL intelligence. If you (like CYC) create Models of the World for your AI to reason about then it is limited to reasoning about those Models and is not a GENERAL intelligence. End of story.
+
+"But my AI learns and can extend the Model I supplied"
+
+In that case, why don't you let your AI start from zero? If you can add to a Model, why can't you add to NO Model? it turns out that Hybrids are much harder to debug than purely Model Free (in the problem domain) systems since the Model Based parts will generate results that flood the weaker emergent learned contributions from the Model Free parts. And hooking an exisitng Model to sensory input is much more difficult than letting the sensory input build the Model on its own.
+10 hrs · Like · 1
+
+Peter Morgan Ritalin is a good idea for Juan Carlos, i think .
+10 hrs · Like
+
+Peter Morgan This is salient though: "Intelligence is within the brain network. Trying to understand intelligence by studying neurotransmitters is like trying to understand written language by studying the chemical composition of the ink. It's simply not the right level of complexity. Language lies within the relationships between words."
+9 hrs · Like
+
+Matt Mahoney Learning doesn't start with a blank slate. There has to be an inductive bias. In the case of humans, half of what you know is inherited.
+9 hrs · Like
+
+Micah Blumberg "This is salient though: "Intelligence is within the brain network. Trying to understand intelligence by studying neurotransmitters is like trying to understand written language by studying the chemical composition of the ink. It's simply not the right level of complexity. Language lies within the relationships between words.""
+
+It might be salient but study of neurotransmitters can yield engineering insights that can be applied later to computation.
+7 hrs · Edited · Like
+
+Micah Blumberg "Matt Mahoney Learning doesn't start with a blank slate. There has to be an inductive bias. In the case of humans, half of what you know is inherited." no way, that Noam Chomsky idea has been proven wrong. You don't start with any pre-knowledge of language for example.
+9 hrs · Edited · Like · 2
+
+Boris Kazachenko Monica, almost no one will get it until after it's done. We need to move on. The speed of a caravan is the speed of its slowest camel.
+6 hrs · Edited · Unlike · 3
+
+Matt Mahoney I mean 10^9 bits each in your DNA and long term memory.
+6 hrs · Like
+
+Monica Anderson Almost none of those bits describe brain content. At best, they contain our instincts, of which we don't have that many. While I admit nobody knows how DNA encodes instincts its pretty clear form an information theoretical point of view that there isn't much left to store basic knowledge anfter we see what's left of the DNA after we have removed the genes that encode cell metabolism and body structure. Kurzweil once estimated, off the curff, that we might have 35 MB left in the DNA for all the knowledge we have when we are born.
+
+This DNA doesn't even tell us how to see. We learn that in the first few months of life. Google for "Buzzing and blooming".
+6 hrs · Like
+
+Matt Mahoney Our DNA encodes how our eyes are formed, including the neural architecture in our retina and brain for detecting contrast and movement in the retina. I realize that higher level feature detectors are trained. For example, kittens raised in rooms with horizontal or vertical stripes will have more neurons responding to edges in those orientations. There is still an inductive bias as it is only possible to learn features that occur over local regions from the previous layer.
+
+The important question is how much code do you have to write to solve AGI, by which I mean solve the problem of automating all human labor? How much code would you need to write to program a robot spider to weave webs and catch prey?
+5 hrs · Like
+
+Curt Welch "The important question is how much code do you have to write to solve AGI, by which I mean solve the problem of automating all human labor? "
+
+The other variation of that question would be, HOW do we write it? Do we write it by typing code on a keyboard, or do we write it by sending robots to school? The answer is that we will write MOST of it, by sending robots to school, and not by typing on a keyboard.
+5 hrs · Like
+
+Micah Blumberg You can unplug the eyes from the visual cortex and plug them into the auditory cortex and they work, the audio cortex becomes a new visual cortex, what the dna encodes for the most part is like the sequence of when and where different aspects of the genetic code become active producing specific protein structures. That sequence results in an eyeball or a brain, but I would think that any protein based memories would be scrambled by the reproductive process, just a guess. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2791852/
+
+Visual influences on ferret auditory cortex
+Multisensory neurons are now known to be widespread in low-level regions of the cortex usually thought of as...
+NCBI.NLM.NIH.GOV
+5 hrs · Edited · Like · Remove Preview
+
+Micah Blumberg Henry Markam's Blue Brain project found that neurons make connections to one another almost randomly. That's why I think a dna based memory would get scrambled from one generation to another. 
+
+"This means that neurons grow as independently of each other as physically possible and mostly form synapses at the locations where they randomly bump into each other " http://actu.epfl.ch/.../blue-brain-project-accurately.../
+Blue Brain Project Accurately Predicts Connections between Neurons
+One of the greatest challenges in neuroscience is to identify the map of synaptic connections between neurons. Called the “connectome,” it is the holy grail that will explain how information flows in the brain. In a landmark paper, published the week of 17th of September in PNAS, the EPFL’s Blue Bra…
+ACTU.EPFL.CH
+5 hrs · Like · 1 · Remove Preview
+
+Matt Mahoney We will use natural language and machine learning to the extent possible, because it is 1000 times faster than writing code. The question is how much coding can't be avoided? One requirement of AGI is to be able to predict human behavior, which requires a model of both the human mind and body. The complexity of that model is the complexity of our DNA. So the only real question is how much can we compress it? You could argue that only 2% of our DNA is protein encoding, which leaves about 1.2 x 10^8 bits, or 6 million lines of code.
+
+But then you have to ask why is the other 98% there, not just in humans but all mammals and most vertebrates? There is a metabolic cost to copying DNA, and therefore evolutionary pressure to eliminate junk DNA. That happened in the roundworm C. Elegans. It has the about the same size exome (20K genes) as humans, but only 3% as much total DNA. Obviously the rest is important, like a pool of genes that can be turned on later, like a giant software project that carries unused code that might be needed in the future. Would it surprise you if 98% of the code in Windows or Linux is code you will never run? Couldn't you just delete it?
+5 hrs · Unlike · 1
+
+Micah Blumberg " The complexity of that model is the complexity of our DNA. " The complexity of that model is the complexity of our DNA multiplied by the set of all other factors in our ecosystem, and entropy.
+4 hrs · Like
+
+Matt Mahoney Actually, the complexity of AGI is the complexity of our DNA plus the complexity of what we know about the world. What we know is collectively about 10^17 bits. That part can be learned, but it will cost on the order of $100 trillion.
+4 hrs · Unlike · 1
+
+Micah Blumberg "But then you have to ask why is the other 98% there, not just in humans but all mammals and most vertebrates?"
+
+The idea that 98% percent of dna is junk dna is outdated and no longer thought to be true by top dna researchers. You're dna is active your whole life, and it does a lot of interesting things after you are born that help regulate the body.
+4 hrs · Like · 1
+
+Matt Mahoney Right.
+4 hrs · Unlike · 1
+
+Micah Blumberg "Actually, the complexity of AGI is the complexity of our DNA plus the complexity of what we know about the world." The sum of the complexity of what all humans know is a subset of all the actual physical aspects of the ecosystem that effect human dna in each plank second, so it's a multiple, not an additive, because each new moment is a new addition.
+4 hrs · Like
+
+Micah Blumberg What humans know consciously, is a subset of what criteria enters the brain via the senses at an unconscious level, before being a subset of everything that can effect you in a casual (cause and effect) sense.
+4 hrs · Edited · Like
+
+Micah Blumberg One real possibility is that the elimination of so much data, perhaps at random, by your thalamus, before your cortex receives it, might alter the timing of your neural oscillations just enough to make you and your choices  less predictable to machines and other people.
+
+Matt Mahoney If your goal is to automate labor using AGI, then 10^17 bits is the information content of human brains that you have to extract through speech and writing. I realize there is more knowledge than what we know. It takes 10^120 bits to describe the quantum state of the universe.
+4 hrs · Like
+
+Micah Blumberg It is a challenge to consider how to model conscious knowledge without also modeling unconscious criteria which is the superset of human knowledge from which the set of conscious knowledge exists.
+3 hrs · Like
+
+Micah Blumberg Oh you are talking about extracting human knowledge through speech and writing, well that is an extremely small subset of human knowledge.
+3 hrs · Like
+
+Matt Mahoney You need to model both, so why make the distinction?
+3 hrs · Like
+
+Matt Mahoney How else are you going to extract human knowledge from human brains?
+3 hrs · Unlike · 1
+
+Micah Blumberg I have a napkin sketch stage blueprint for a machine that reads the contents of the human brain by communicating with it, via a bci interface that plugs into your nervous system.
+3 hrs · Edited · Like · 1
+
+Matt Mahoney It needs to cost under $10K per person to compete with a global system of public surveillance.
+3 hrs · Unlike · 1
+
+Micah Blumberg Pricing is difficult to imagine at this stage. I'm not imagining astronomical pricing but still, I have to think about this now.
+3 hrs · Like
+
+Matt Mahoney Brain scanning is theoretically faster, but the technology is a long way off.
+1 hr · Like
+
+Micah Blumberg My napkin sketch idea was partially inspired by the conjoined twins Krista and Tatiana, connected at the thalamus, and able to see through each other's eyes. I'm not sure how long it would take to copy the contents of an entire brain, perhaps a matter of hours, perhaps it would take mere a handful of minutes. http://en.wikipedia.org/wiki/Krista_and_Tatiana_Hogan
+Krista and Tatiana Hogan - Wikipedia, the free encyclopedia
+Krista Hogan and Tatiana Hogan (born October 25, 2006) are Canadians who are craniopagus conjoined twins. They are joined at the top, backs, and sides of their heads. They were born in Vancouver, British Columbia, Canada, and are the only unseparated craniopagus twins currently alive in Canada.[1] T…
+EN.WIKIPEDIA.ORG
+13 mins · Edited · Like · Remove Preview
+
+Micah Blumberg What is clear is that you can have two brains connected together with each one able to retrieve information from the other brain, and retrieve it almost instantly.
+9 mins · Edited · Like

@@ -1,0 +1,112 @@
+a0023z ctpr
+Note Created Oct 17, 2012, 2:29 PM
+(field, graph, cereb, cortex)
+GRID Theory:
+
+The brain is wired in an interconnected grid. Connections at grid crossings are established by learning and signal flow through the connections are in the form of directed graphs. Matrix mathematics, used for representing equations, can be mapped to directed graph geometry. Therefore, the directed graphs in the brain are set up for complex mathematical formulas that reflect the real world. As such the brain and mind is an ever-evolving information set that mirrors the needs of life in an ever-changing environment (both natural and human-made).
+
+Observations:
+1. Brain as interconnected grid:
+
+Brain wiring a no-brainer? Scans reveal astonishingly simple 3D grid structure
+http://medicalxpress.com/news/2012-03-brain-wiring-no-brainer-scans-reveal.html#firstCmt
+
+2. Matrix mathematics is solvable by directed graph operations:
+
+Directed Graphs as matrices 
+http://www.mathwarehouse.com/algebra/matrix/matrix-directed-graphs.php
+
+http://en.wikipedia.org/wiki/Directed_graph
+http://en.wikipedia.org/wiki/Graph_theory
+http://en.wikipedia.org/wiki/Adjacency_matrix
+
+Graphs, networks, incidence matrices
+http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/MIT18_06SCF11_Ses1.12sum.pdf
+
+Graphs and Matrices
+http://reference.wolfram.com/mathematica/guide/GraphsAndMatrices.html
+
+3. The rest of the theory statement is only theory. From what I see in the most recent posts, you have already thought of this. I have perhaps only restated it in these terms.
+
+4. Tests. It may be possible to test to see whether the brain is an interconnected grid vs. a set of independent networks. This in my view has ramifications for brain plasticity and adaptability. Given that a grid has been detected (item 1), it makes little sense for the grid crossings to not be connectable and disconnectable to form networks.
+
+5. Other references.
+
+When you resort to matrix math then you really know your argument is tedious. 
+http://arxivindex.blogspot.com/2012/04/when-you-resort-to-matrix-math-then-you.html
+
+Large Graphs: Modeling, Algorithms, and Applications
+http://www.ima.umn.edu/2011-2012/W10.24-28.11/abstracts.html
+
+Are mental properties supervenient on brain properties?
+http://www.cis.jhu.edu/~parky/CEP-Publications/VVP-SR2011.pdf
+
+Studying the human brain anatomical network via diffusion-weighted MRI and Graph Theory
+http://www.sciencedirect.com/science/article/pii/S1053811907010014
+
+An interesting note is that Diffusion Tensor Imaging, in this case, is showing us the white matter of the brain.
+This white matter in the center is myelinated axons that connect the grey matter neurons in the neo cortex to the rest of the body.
+So it makes a lot of sense that they are look like ribbon cables, since they are thought by some to be serving a similar function to ribbon cables or fiber optic cables.
+What isn't modeled here is the "grey matter", or the neo cortex, which is what some like Jeff Hawkins of Numenta, and at the moment Blue Brain is focused on modeling.
+It's thought by some that the neo cortex with it's cortical columns, in a hierarchical structure can also be represented with a grid, but it's a vastly more complex grid
+
+(a three dimensional grid with vertical flows of information, and vastly more horizontal flows of information, three axis, information flowing up and down, vastly more down than up, left to right, right to left, front to back, and back to front.)
+What also isn't modeled is the extra power of large brainwaves which do reach beyond what they are directly connected too to trigger cells(parts of the grid) that are not connected via the grid format.
+
+The neo cortex (what isn't modeled in these diffusion tensor images) is thought by some to be much more dense in it's complexity than the visually simpler myelinated axons featured in the diffusion tensor imaging as we have seen here.
+
+One strong possibility is that your brain isn't doing any logical computation. It's just doing intuition, which is means it's making connections. (making connections to make associations, to make meaning, to make concepts, to predict causes, to model the world as you know it, to model words, to model the connections between beliefs, motor controls, consequences, etc...)
+
+This connection making can model just about anything, including visual objects, words, sounds, paths you can walk, the links between rewards, consequences, motor controls, inhibitions.
+The meaning of anything is perhaps just a token that represents the connections between associated points. A token being like a specific set of connections between numbers in a matrix.
+This intuition can also learn the meaning and purpose of tools, including logic and reasoning, it can use these tools to vet it's own intuition, and to attempt to explain it's intuitive positions to other minds.
+
+Intelligence may use logic and reason as tools, via intuition (from previously learned patterns), while at the same time being an entirely pre-logical pre-rational process of connection making. In short, it appears that intelligence is possible without any logical computation at all.
+
+"Second, the white matter is a grid, but not necessarily the grey matter."
+
+Grey matter is also thought to be grid like, with information flowing in six directions along three axis, x, y, z, and information flowing outside the grid structure via electromagnetic fields. It's just not as simple as the grid formed by the myelinated axons in your picture. It has columns and rows, a hierarchy, with unique features on individual neurons may help track both spatial and temporal events.
+
+It also has a critical plumbing system, and neurons often fail to fire, their are just so many that the multitude makes up for the failures.
+Long term memories are dependent on cellular changes. Comparatively the white matter is simple, but it doesn't mean the grey matter does not also have a grid like structure.
+
+The man in the video is saying that his diffusion tensor imaging is the whole brain. Is he unaware that the Cerebral Cortex is only a thin six layer deep, dinner sized napkin squeezed on top of the central fibers and the lower structures of the older mammalian brain? Or is he arguing that the cortical column are completely synchronous with the same pattern in the core fibers? Do the very tips of the DTI represent where the columns of neurons begin? How can we find out an answer to this question?
+
+1. Research available articles via google scholar.
+2. Attempt to contact that DTI lab with your question.
+3. Conduct your own scientific research with your own innovative brain imaging techniques. 
+
+some interesting links http://www.sciencemag.org/search?site_area=sci&y=10&fulltext=Wedeen%20VJ%2C%20Rosene%20DL&x=17&submit=yes
+another page, if it helps copy the whole link and then paste it into another tab / or window http://www.sciencemag.org/search?site_area=sci&y=8&fulltext=The%20Geometric%20Structure%20of%20the%20Brain%20Fiber%20Pathways&x=35&submit=yes
+
+The original pdf (I think) http://cogns.northwestern.edu/cbmg/Wedeen2012.pdf
+
+The comment pdf
+http://www.sciencemag.org/content/337/6102/1605.4.full.pdf
+
+The response to comment pdf
+http://www.sciencemag.org/content/337/6102/1605.5.full.pdf
+
+another perspective
+http://www.pnas.org/content/early/2012/06/13/1203593109.full.pdf
+
+a presentation
+http://www.brainmapping.org/NITP/images/Summer2012Slides/NotSoTangledSM.pdf
+
+principles and challenges
+http://infoscience.epfl.ch/record/148651/files/sdarticle_1.pdf
+
+Micah Blumberg
+wow this is a massive document exploring this very topic in depth http://119.93.223.179/ScienceDirect/Cognitive%20Sciences/14-06/sdarticle_010.pdf
+"let them sort it out. I think the primary problem is the grid is not a universal wiring principle, but can be found in certain locations."
+Do you have a link to the reasoning for that conclusion, how do you know it's a legitimate counter argument and not just smart ass back talk, like snippy scientists sniping another's work for no reason, and why is that a problem? it doesn't seem like a problem.
+ 
+That's why I also want to verify the relevance of the criticism for myself.
+A short presentation on neuroanatomy with the DFI http://www.neuroscience.ethz.ch/education/handouts/Neuroanatomy_l_Amrein.pdf
+
+A bit of humor thrown in, not intended to be at your expense. 
+Exaggerations stimulate the mind in a particular way, like emphasis, or art.
+A vehicle of inquiry whose mission is to return a particular set of distinctions, that might be to subtle to glean from conventional dialog without humor and exaggeration.
+
+The feedback I'm getting however indicates that you don't need as much exaggeration to parse the details to return meaning that I may be specifically interested in modeling for later use.
+To extend that thought this is a group thread, not a private thread, so exaggeration may return the right kind of ideas from other minds.

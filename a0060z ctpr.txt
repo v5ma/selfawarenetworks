@@ -1,0 +1,55 @@
+a0060z ctpr
+
+(dendrite, graph, synap, cereb, cortex, vector, category, theory) Grid / Graph
+Micah Blumberg
+How do you describe the action potential of a neuron with a differential equation?
+
+Change in X / Change in Y = Z
+
+X is the balance of negative ions in the parts of the neuron (dendrite branches) that are more often receiving neurotransmitters from the synapses of other neurons.
+
+So X is the count of negative ions in the dendrites.
+
+Y is the count of positive ions in the synapses.
+
+/ is the axon, which is where the action potential, or potential difference occurs.
+
+When axon fires, the energy it sends from X to Y balances out the neurons's charge topographically. Sending the excess charge onward to other neurons, often via the vehicle of moving neurotransmitters through the synapse to the dendrite of another neuron.
+
+Does that make sense?
+
+So Z becomes the Neuron's new topographical distribution of electrical charges AND the it reflections the neurons new:
+
+1. shape (changes to dendrites, and new proteins resulting from reactions)
+
+2. connections (synaptic)
+
+3. electrical density (from lost or gained neurotransmitters.)
+
+All of which result in distinctly new signals, with new frequencies, amplitudes, and wavelengths.
+
+Distributed via a new path of connections which change as electrical thresholds are reached in specific areas.
+
+about a minute agoCloudy Mayajuana
+When brains (cortical colums (neurons (dendrites))) receive neurotransmitters, or fire because of an imbalance between positive and negative ions, the result is topological change, topological changes that a combination of category theory and differential calculus would be very useful to describe.
+
+These are changes happening in a grid (brain),
+ 
+These changes are brainwaves in a grid (the outer cerebral cortex),
+
+This is brainwave activity between cortical colums (connected to the edges of a grid (inner myelinated axon fibers visualized in DTI).
+
+This brainwave activity is literally the result of electrical diffusion of potential differences from action potentials in neurons (in a grid that is the cortical column),
+
+and action potentials in dendrites in a grid (neurons)
+
+and action potentials between sodium and potassium channels.
+
+and electrical charges in meat.
+
+So in addition to Category Theory I recommend Neurophysics.
+
+Another way to understand this, is that the Neuron is both passing on excess energy (above it's threshold) and encoding a topological change that means it has been effected by the brainwave that (came close, ended on it, or passed through it) (a simple way of remembering one point of the wave) (which may through connections, unintentionally encode the represention of a vector pattern between points of neurons that fired)
+
+Tags:
+  differential, neuro

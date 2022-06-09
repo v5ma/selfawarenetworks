@@ -1,0 +1,35 @@
+a0024z ctpr
+(procyon)
+Neurofeedback for Therapy Treatments
+This is a post I added to the transparent forum, I will add their response later when I get it.
+
+Can a combination of Neurosky + Mindworkstation + Procyon actually impact things like ADHD, Addiction, and do it in a very short period of time like other products promise? 
+
+link to Neurosky http://www.neurosky.com/Default.aspx
+link to Procyon http://www.mindplace.com/
+
+Why am I asking about Neurosky and Mindworkstation?
+I'm asking because this company http://brainstatetech.com/ is charging a ridiculous 2000 dollars for a treatment that sounds like Neurofeedback without light, just sound, and they charge 16,000 dollars to use their technology in your own private practice. Ridiculous right! What's even crazier is their claims that their technology works like magic, somehow your brain will begin balancing itself because it can hear itself through the music they play. They feature testimonials of people claiming that it does cure Addiction, ADHD, all from this initial treatment which is 10 sessions, one and a half hours each, over the course of a week.
+
+So what if what they are doing is reproducible using the Neurosky device in combination with Mind Workstation, and what if we can do even better by adding in a Procyon light and sound machine to the mix from www.mindplace.com ? Hence my original question at the top.
+
+Wasn't the latest update to Neuroprogrammer supposed to support Neurosky?
+From searching your forums here I assumed that the new update to Neuroprogrammer was supposed to included support for Neurosky if I am not mistaken. However support is not listed. Currently it shows support for only three biofeedback machines. Also it appears claimed that the ion biofeedback which measures heart beats and skin temperature is the best feedback machine. So is biofeedback better than neurofeedback as far as feedback technology goes?
+
+1. Has anyone unofficially tested Neurosky Neurofeedback Machine with the current released versions of MindWorkstation and or Neuro Programmer, and does it work with either?
+
+2. Is there going to be Neurofeedback support for Mindstereo, as in sound that sharpens, distorts, or modifies your audio tones or tenor high or low, based on your EEG data? It seems like there are so many ways to alter sound with digital instruments, what if you tied some of these sound alterations to EEG data, and at the same time tied it to the audio and visual entrainment?
+
+3. Which product combination works best?
+    3a. Are there real advantages to using a neurofeedback device verses a biofeedback device with TransparentCorp Software?
+    3b. What are the real differences between MindWorkstation and Neuroprogrammer in terms of biofeedback and neurofeedback support and the experiences that are possible to create?
+    3c. Does Neuroprogrammer duplicate all of the features in Mindworkstation plus add more?
+    3d. What is the feature overlap between Neuroprogrammer and Mindworkstation, which one is the flag ship product? Which does more?
+    3e. If I have a Neurosky neurofeedback machine which software that you make is going to be best in the long term for use with that Neurofeedback machine?
+    3f. Which product is going to be the best product for using with Neurosky?
+
+
+
+
+Tags:
+  neurofeedback

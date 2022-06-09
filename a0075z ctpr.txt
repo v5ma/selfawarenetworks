@@ -1,0 +1,194 @@
+a0075z ctpr
+(synap, retinal, graph, hippocampus, perceptron, oscillat, field, dendrite, dopamine, cortex) Read soon Pinned:
+Articles that could be connected to what I am writing now
+
+A Framework for Brain Atlases: Lessons from Seizure Dynamics
+https://www.biorxiv.org/content/10.1101/2021.06.11.448063v2
+
+Development of dendritic-network-implementable artificial neurofiber transistors https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-dendritic-network-implementable-artificial-neurofiber-transistors.amp
+
+The Common Basis of Memory and Consciousness: Understanding the Brain as a Write–Read Head Interacting With an Omnipresent Background Field
+https://www.frontiersié3n.org/articles/10.3389/fpsyg.2019.02968/full
+
+Why did evolution create conscious states of mind?
+https://blog.oup.com/2021/07/why-did-evolution-create-conscious-states-of-mind/
+
+ THE BEST SCI-FI THRILLER ON HBO MAX REVEALS A CONTROVERSIAL SCIENTIFIC DEBATE https://www.inverse.com/culture/science-of-reminiscence-hbo-max
+
+The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning
+https://attentionneuron.github.io/?fbclid=IwAR3K4WfuQongCgU8251V_APkyua3m3s3H4vFF8S4gHfxY0mvnp3M_j0ymZE
+
+Biogenic metallic elements in the human brain?
+https://www.science.org/doi/10.1126/sciadv.abf6707?fbclid=IwAR0j1t4AlqoRUWzkbPgklMxtps4CWb9pgzx_2jGhzjH7Y9xdKyTh6XdvRTg&
+
+Dexterous magnetic manipulation of conductive non-magnetic objects https://www.nature.com/articles/s41586-021-03966-6
+
+Looking Beyond the Individual Brain to Study the Collective Mind
+https://neurosciencenews.com/collective-intelligence-19512/amp/
+
+'There is an emerging field of neural rendering'
+https://www.google.com/search?q=field+of+neural+rendering&rlz=1C9BKJA_enUS690US691&oq=field+of+neural+rendering&aqs=chrome..69i57.3255j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+
+The lateral geniculate nucleus (LGN)
+https://www.cell.com/current-biology/comments/S0960-9822(01)00379-7
+
+Context value updating and multidimensional neuronal encoding in the retrosplenial cortex 
+https://www.nature.com/articles/s41467-021-26301-z
+
+Experience-dependent structural plasticity targets dynamic filopodia in regulating dendrite maturation and synaptogenesis
+https://www.med.upenn.edu/ngg/assets/user-content/documents/jc-spring-2020/yuan1ncomm2018-02.19-paper-1.pdf
+
+Google's Gated Multi-Layer Perceptron Outperforms Transformers Using Fewer Parameters
+https://www.infoq.com/news/2021/10/google-mlp-vision-language/
+
+An atomic clock measured how general relativity warps time across a millimeter
+https://www.sciencenews.org/article/atomic-clock-general-relativity-time-warp-millimeter-physics/amp
+
+'Feel good' brain messenger can be willfully controlled, new study reveals
+Neuroscientists show that mice can learn to manipulate random dopamine impulses for reward
+https://www.sciencedaily.com/releases/2021/07/210723121512.htm?fbclid=IwAR18NarbJ_hMOuIyLyW8BZNAk4D7vWucYXmG8r9mcdIj90pxcfb5ukABK8Q
+
+Mini-brains show why human brains grow larger than those of other apes
+https://www.newscientist.com/article/2272206-mini-brains-show-why-human-brains-grow-larger-than-those-of-other-apes/#ixzz7A6Cn3rwM
+
+Researchers wirelessly record human brain activity during normal life activities
+
+Brain cell clusters, grown in lab for more than a year, mirror changes in a newborn's brain
+Organoids develop genetic signatures of postnatal brains, possibly broadening their use as disease models https://www.science.org/content/article/brain-cell-clusters-grown-lab-more-year-mirror-changes-newborn-s-brain
+
+NIH BRAIN Initiative-funded study opens the door to correlating deep brain activity and behavior.
+https://www.nih.gov/news-events/news-releases/researchers-wirelessly-record-human-brain-activity-during-normal-life-activities?fbclid=IwAR102rPK2_Ql7uGa92qLrdvAA631FHPjxYFw8Z1eti3JIG6hiY-_qPNyCbI
+
+**** "Phase Precession" A New Way to Understand the Brain's Intricate Rhythm
+Researchers have found evidence in humans that individual neurons time their firing to a deeper beat. But there’s a mystery: What does it mean?
+https://www.wired.com/story/a-new-way-to-understand-the-brains-intricate-rhythm/
+
+Neuroscientists Have Discovered a Phenomenon That They Can’t Explain
+“Scientists are meant to know what’s going on, but in this particular case, we are deeply confused.”
+https://www.theatlantic.com/science/archive/2021/06/the-brain-isnt-supposed-to-change-this-much/619145/
+
+The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning
+https://attentionneuron.github.io/?fbclid=IwAR3K4WfuQongCgU8251V_APkyua3m3s3H4vFF8S4gHfxY0mvnp3M_j0ymZE
+
+The Common Basis of Memory and Consciousness: Understanding the Brain as a Write–Read Head Interacting With an Omnipresent Background Field https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02968/full
+
+György Buzsáki > Quotes
+https://www.goodreads.com/author/quotes/13403702.Gy_rgy_Buzs_ki
+
+Biologists Rethink the Logic Behind Cells’ Molecular Signals
+The molecular signaling systems of complex cells are nothing like simple electronic circuits. The logic governing their operation is riotously complex — but it has advantages.
+https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecular-signals-20210916/
+
+True Behavior of Dopamine Will Reshape How We Treat Psychiatric Diseases and Addiction https://neurosciencenews.com/dopamine-stress-response-19325/
+
+Deep Neural Networks and Gaussian Processes: Similarities, Differences, and Trade-Offs
+https://towardsdatascience.com/deep-neural-networks-vs-gaussian-processes-similarities-differences-and-trade-offs-18647376d799
+
+Predicting Working Memory Through Brain Activity Models
+https://www.cogneurosociety.org/predicting-working-memory-through-brain-activity-models/
+
+Are the Brain’s Electromagnetic Fields the Seat of Consciousness?
+https://nautil.us/blog/are-the-brains-electromagnetic-fields-the-seat-of-consciousness
+
+MIT fit tens of thousands of artificial brain synapses on a single chip. The ‘brain-on-a-chip’ hardware could lead to tiny, portable AI devices. https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html
+
+Geoffrey Hinton 'Artificial Neural Nets Finally Yield Clues to How Brains Learn' https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/?fbclid=IwAR3favBJNBg7Yn72uK3t3xSlukn9ZvGXSgwchagLO4HU4DmgxYvms8yXTao
+
+NAD+ boosting reduces age-associated amyloidosis and restores mitochondrial homeostasis in muscle https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31649-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124720316491%3Fshowall%3Dtrue&fbclid=IwAR1i31v215nxqoBMxeHtO6z8wI9671vWqXWhASi2Fvbm4aZOkYECnf923VY
+
+Spectral graph theory of brain oscillations – revisited and improved
+https://www.biorxiv.org/content/10.1101/2021.09.28.462078v1
+
+Complex brain networks: graph theoretical analysis of structural and functional systems https://www.nature.com/articles/nrn2575
+
+Spectral graph theory of brain oscillations
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7336150/#idm139710743307216title
+
+Retina
+ https://webvision.med.utah.edu/book/part-i-foundations/simple-anatomy-of-the-retina/
+
+When makes you unique: Temporality of the human brain fingerprint
+https://www.science.org/doi/10.1126/sciadv.abj0751?fbclid=IwAR0HDVKCZXo391cApnKyRpbwBACVXqM_cyf7Nu801ZHj1Blc1V9vazrZwpE#.YWqvl4tk5NU.facebook
+
+Mechanical surface waves accompany action potential propagation
+https://www.nature.com/articles/ncomms7697
+
+Synaptic Mechanisms of Blast-Induced Brain Injury
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4720734/
+
+Impulses and pressure waves cause excitement and conduction in the nervous system 
+https://www.sciencedirect.com/science/article/pii/S0306987713003733
+
+Quantum aspects of brain activity and the role of consciousness
+https://www.pnas.org/content/pnas/89/23/11357.full.pdf
+
+A Mechatronics view at nerve conduction
+Is that the way we feel, memorize, think and act?
+https://arxiv.org/pdf/1909.06313.pdf
+
+Synaptic cleft microenvironment influences potassium permeation and synaptic transmission in hair cells surrounded by calyx afferents in the turtle
+https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278680
+
+Logitudinal waves https://www.richlandone.org/cms/lib/SC02209149/Centricity/Domain/2593/Lesson%208%20What%20are%20waves.pdf
+
+Neuronal encoding of sound https://en.m.wikipedia.org/wiki/Neuronal_encoding_of_sound
+
+key proteins: Scientists Identify Molecules in the Ear that Convert Sound into Brain Signals https://www.scripps.edu/newsandviews/e_20121217/mueller.html
+
+Tonotopic Organization of Auditory Neurons in the Cochlea https://encyclopedia.pub/6773
+
+Context value updating and multidimensional neuronal encoding in the retrosplenial cortex
+https://www.nature.com/articles/s41467-021-26301-z
+
+Neural tuning matches frequency-dependent time differences between the ears
+https://elifesciences.org/articles/06072
+
+The Auditory System: From Sound Waves to Brain Waves 
+https://knowingneurons.com/2013/03/13/the-auditory-system-from-sound-waves-to-brain-waves/?share=google-plus-1
+
+Subtype maturation of spiral ganglion neurons
+
+Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation
+https://arxiv.org/abs/1602.05179
+
+Tonotopy
+https://en.wikipedia.org/wiki/Tonotopy
+
+Burst and Tonic Response Modes in Thalamic Neurons During Sleep and Wakefulness
+April 2001Journal of Neurophysiology 85(3):1107-18
+DOI:10.1152/jn.2001.85.3.1107
+
+Fast and flexible sequence induction in spiking neural networks via rapid excitability changes
+https://elifesciences.org/articles/44324
+
+Subtype maturation of spiral ganglion neurons https://journals.lww.com/co-otolaryngology/Fulltext/2021/10000/Subtype_maturation_of_spiral_ganglion_neurons.10.aspx
+
+Connecting the ear to the brain: molecular mechanisms of auditory circuit assembly
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3078955/#!po=2.94118
+
+Investigating the Effects of Mechanical Stimulation on Retinal Ganglion Cell Spontaneous Spiking Activity
+https://www.frontiersin.org/articles/10.3389/fnins.2019.01023/full
+
+Mechanical transduction by rat dorsal root ganglion neurons in vitro
+https://pubmed.ncbi.nlm.nih.gov/10515188/
+
+Decoupling kinematics and mechanics reveals coding properties of trigeminal ganglion neurons in the rat vibrissal system
+https://elifesciences.org/articles/13969
+
+Title: The dendritic spatial code: branch-specific place tuning and its experience- dependent decoupling
+https://www.biorxiv.org/content/10.1101/2020.01.24.916643v1.full.pdf
+
+Dendritic Spikes Are Enhanced by Cooperative Network Activity in the Intact Hippocampus
+https://www.jneurosci.org/content/18/10/3919
+
+Time-lapse Live Imaging and Quantification of Fast Dendritic Branch Dynamics in Developing Drosophila Neurons
+https://www.jove.com/t/60287/time-lapse-live-imaging-quantification-fast-dendritic-branch-dynamics
+
+Reinforcement Learning Recruits Somata and Apical Dendrites across Layers of Primary Sensory Cortex.
+https://www.sigmaaldrich.com/US/en/tech-docs/paper/1229385
+
+key paper****Small dendritic synapses enhance temporal coding in a model of cochlear nucleus bushy cells https://journals.physiology.org/doi/abs/10.1152/jn.00331.2020?journalCode=jn
+
+cut---Activity-Dependent Dynamic Microtubule Invasion of Dendritic Spines 
+https://www.researchgate.net/publication/23567148_Activity-Dependent_Dynamic_Microtubule_Invasion_of_Dendritic_Spines
+

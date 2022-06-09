@@ -1,0 +1,53 @@
+a0006z ctpr
+Note created May 5, 2017
+(Reference) (the scope of the Neural Lace Podcast with Andre Watson)
+What part of this note is relevant to the book?
+
+The Neural Lace Talks
+May 4th, 2017
+Guest: Andre Watson
+Host: Micah Blumberg
+Editor: Adam Alonzi
+
+The Neural Lace Talks is a podcast about Science and Technology. I am your host, a journalist who has been studying the brain seriously since 2005. (12 years) I call myself a neuroscientist, because a neuroscientist is someone who studies the brain, and I believe that it will become evident just exactly how well I have been studying neuroscience, cognitive science, astrophysics, and computer science all these years by how I conduct my side of the conversation in these podcasts.
+
+I hope that is how people feel when they listen to my podcast today and they get to the point where they are finally beginning to understand how Neural Lace will work, how their own mind works, how deep learning AI works, what brainwaves are, and more. 
+
+In this episode we talk about the molecular picture of the human brain as a kind of computation.
+I talk about how my research began twelve years ago after reading a book by Jeff Hawkin's called On Intelligence http://www.onintelligence.org/
+Jeff Hawkins, Redwood Neuroscience Institute http://www.rni.org/directors.html
+and his company Numenta http://numenta.com/
+
+Have you ever wanted to know what deep learning neural networks are? We go into detail about what deep learning neural networks do in this podcast and I help to explain how understanding artificial neural networks can be useful for thinking about how our brains might work.
+https://vrma.work/2016/01/28/deep-learning-fuels-nvidia-self-driving-car-technology/
+
+I successfully argue the case that humans are actually metal robots, because of the calcium and potassium ions in our brains, I successfully argue that we are precisely manipulating a magnetic field with these charge particles known as ions.
+http://cimg1.ck12.org/datastreams/f-d%3A27d93d78d7fce2781f79489d21bbcc21c8e6ad407529c0a0a50c3675%2BIMAGE%2BIMAGE.1
+
+I put forward my hypothesis for the basic structure of consciousness that we have as being magnetic. Something that I learn would might be called the ionotropic brain, which is in contrast to concept of a metabotropic brain. http://www.interactive-biology.com/3974/ionotropic-vs-metabotropic-receptors/
+
+We also compare and contrast the neural network with the glial network and briefly touch on the possibility of a mitochondrial network. https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-11-71
+
+We briefly discuss BlueBrain's project where they answer how neurons connect to each other. Blue Brain Project opens new insights. https://www.youtube.com/watch?v=ySgmZOTkQA8
+
+I argue how machines can have the same kind of consciousness as humans.
+I explain diffusion tensor imaging. https://www.youtube.com/watch?v=tutmVG_B3Bk
+I touch on tensor calculus https://youtu.be/e0eJXttPRZI?list=PL2irzZJu17tU4eHI9-wPdZD55-Heg3AZh
+
+There was a recent study that said people who know more than one language think differently: "A study from Lancaster University and Stockholm University, published in the Journal of Experimental Psychology, found that people who are bilingual think about time differently depending on the language context in which they are estimating the duration of events." http://www.independent.co.uk/life-style/bilingual-speakers-time-different-people-one-language-study-swedish-spanish-a7715146.html?cmpid=facebook-post
+
+But what if everyone uses somewhat unique mental models from one minute to the next, and never the same twice? We tackle that idea and we consider how we can achieve Neural Lace even if no one ever has the same exact brainwave pattern twice, and we explain how deep learning Artificial Intelligence is going to work to identify what brainwave patterns are in specific instances.
+
+We explore what a brainwave might be http://www.tandfonline.com/doi/abs/10.1080/10400419.2016.1125255
+I give a plausible explanation for how the human brain might be capable of calculation at room temperature in a similar way to how a quantum computer works and I explain a scenario in which the human brain might be able to perform mathematics faster than any computer. http://www.pcworld.com/article/3194574/hardware/china-adds-a-quantum-computer-to-high-performance-computing-arsenal.html
+
+We talk about the science fiction television show called Black Mirror and the dystopia idea of having advertisements in neural lace. We consider why hatred for advertisements might be an evolutionary impulse.
+https://en.wikipedia.org/wiki/Black_Mirror
+
+Finally we touch on why Neural Lace and Artificial Brains are an inevitable consequence of the laws of physics and the universe as a fractal, and we briefly touch on the dendrite as a computer in of itself.
+
+There is a GPU Technology conference on the 8th, 9th, 10th, and 11th in San Jose, that is definitely the place for Neural Lace Researcher to be.
+http://www.gputechconf.com/
+
+Tags:
+  brainwave, fractal, neural, tensor

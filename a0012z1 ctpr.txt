@@ -1,0 +1,89 @@
+a0012z1 ctpr****
+I think this is from 2014, maybe older.
+
+Written by Micah Blumberg under an alias: my long lost equation for the neuron / brain
+
+How do you describe the action potential of a neuron with a differential equation?
+
+Change in X / Change in Y = Z
+
+X is the balance of negative ions in the parts of the neuron (dendrite branches) that are more often receiving neurotransmitters from the synapses of other neurons.
+
+So X is the count of negative ions in the dendrites.
+
+Y is the count of positive ions in the synapses.
+
+/ is the axon, which is where the action potential, or potential difference occurs.
+
+When axon fires, the energy it sends from X to Y balances out the neurons's charge topographically. Sending the excess charge onward to other neurons, often via the vehicle of moving neurotransmitters through the synapse to the dendrite of another neuron.
+
+Does that make sense?
+
+So Z becomes the Neuron's new topographical distribution of electrical charges AND the it reflections the neurons new:
+
+1. shape (changes to dendrites, and new proteins resulting from reactions)
+
+2. connections (synaptic)
+
+3. electrical density (from lost or gained neurotransmitters.)
+
+All of which result in distinctly new signals, with new frequencies, amplitudes, and wavelengths.
+
+Distributed via a new path of connections which change as electrical thresholds are reached in specific areas.
+
+When brains (cortical columns (neurons (dendrites))) receive neurotransmitters, or fire because of an imbalance between positive and negative ions, the result is topological change, topological changes that a combination of category theory and differential calculus would be very useful to describe.
+
+These are changes happening in a grid (brain),
+ 
+These changes are brainwaves in a grid (the outer cerebral cortex),
+
+This is brainwave activity between cortical colums (connected to the edges of a grid (inner myelinated axon fibers visualized in DTI).
+
+This brainwave activity is literally the result of electrical diffusion of potential differences from action potentials in neurons (in a grid that is the cortical column),
+
+and action potentials in dendrites in a grid (neurons)
+
+and action potentials between sodium and potassium channels.
+
+and electrical charges in meat.
+
+In addition to Category Theory I recommend Neurophysics.
+
+Another way to understand this, is that the Neuron is both passing on excess energy (above it's threshold) and encoding a topological change that means it has been effected by the brainwave that (came close, ended on it, or passed through it) (a simple way of remembering one point of the wave) (which may through connections, unintentionally encode the represention of a vector pattern between points of neurons that fired)
+
+Neurons are information programs that transmit their shapes theory: If you want to know why your brain may be able to store infinite information, its because you can store infinite information in a curve, my current favorite hypothesis a neuron's topography is a program, and it is shooting an electrical packet of data that represents its whole topography, this topoi is actually a program, like a computer program, because in category theory the topoi is a visual representation of sets (numbers) + function, therefore the spatial topography of a neuron is a program, with sets and functions represented by the shape of the neuron, and transmitted like digital music is transmitted, like an acoustic pattern in electrons.
+ 
+The argument is that you can store infinity in a curve, in mathematics you can, but can the protein structure of a neuron represent the infinity of a curve? and what is transmitted is argued to be an SDR, a sparse distributed representation of the whole, a tiny statistical fraction of the vast amount of information that might be in the ever changing topography of a neuron!
+
+The idea is that the neuron is transmitting a program that is a temporal/spatial metaphor of it's shape into a fractal brain that is doing the same thing, so it's like a temporal spatial metaphor on both the individual neuron level and the neural network level.
+
+The attempt is to explain why we can have both distributed representations, or concepts that including the firing of entire brainwaves, and also individual cells that have individual memories.
+
+Imagine that when you first learn to move your hand it takes up an enormous amount of mental resources. Massive brainwave activity. Then the peaks of this massive brainwave activity are slowly represented by neural connections to just the peaks, the highs and lows, as well as the lefts and rights, to a single neuron then links the edges so that no longer do you need the whole brain to spike to represent that whole brain wave, when a single neuron can just fire and trigger the neurons at the peak of the brainwave that caused your movement. Thus overtime moving your hand takes less and less mental energy. As what was once represented by a whole brain, is reduced into spatial temporal representations in the connections and body of a single neuron.
+
+http://www.amazon.com/Dynamical-Systems-Neuroscience-Excitability-Computational/dp/0262090430/ref=sr_1_1?ie=UTF8&qid=1348088229&sr=8-1&keywords=the+excitability+and+geometry+of+neurons
+Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting (Computational Neurosci
+
+It takes more than a single neuron to coordinate your hand, but you get the point about reduction of a large spatial metaphor to a small spatial metaphor.
+
+It's a story to try to explain HOW a single neuron may store the memory of an entire brainwave.
+
+By connecting to the neurons at the x, y, z peaks of that brainwave
+it's physical form and connections create a distinct signature, and what we need for a distinct memory is a distinct signature
+that's what you say, but you haven't provided an actual counterargument that articulates both my position and why it doesn't work
+
+Neurons are really not that simple, let me show you a video http://www.ted.com/talks/allan_jones_a_map_of_the_brain.html
+
+Allan Jones: A map of the brain | Video on TED.com
+www.ted.com
+With all the proteins that define a neuron, there is an extreme amount of "information" complexity in it's structure.
+https://www.coursera.org/course/sysbio
+
+A cell does not have to communicate the entire complexity of it's structure, instead it communicates an SDR, a tiny fractional set of data representing a few points representing the distinct nature of it's structure.
+A cell does not have to represent every aspect of the brainwave, only an SDR, or a fractional set of data representing a few points that describe the distinct pattern of that brainwave.
+no no, I didn't say they communicate an infinite amount of information, that's a total misunderstanding of what I wrote
+they communicate a sparse distributed representation of their complex structure
+storing an infinite amount of information and communicating an infinite amount of information are two different things entirely.
+it's the difference almost between sending a photograph of Taj Mahal and sending the actual Taj Mahal
+a photograph being an SDR of the actual place
+

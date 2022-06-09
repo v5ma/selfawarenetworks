@@ -1,0 +1,79 @@
+a0066z ctpr
+(synap, graph, oscillat, field, neuralink, criteria, causation, emotion, cortex, fourier, semantic qualia)
+
+Simultaneous Observing / Encoding Oscillators 
+Lets imagine that individual phasic firing and or inhibited neurons are pushing and pulling on the group oscillator, usually the group oscillator pulls phasic firing neurons back into phase alignment with the oscillator, but past a certain threshold if the quantity of phasic firing or inhibited firing changes the electrical gradient of the oscillating neural circuit past a threshold then its phase will be reset which means the neuronal ensemble adjust the phases of all their neurons simulteously. That means that neural circuits can track, be aware of, and respond to, speak back to other neural circuits, using the same principles of dendritic firing but now at the neuronal ensemble scale. So the collective energy pulse produced by neuronal ensembles can also be felt by other neuronal ensembles.
+
+This allows for a model of neuronal ensembles or oscillators to as a group be aware of neural firing, (connected via long interneurons between pyramidal cells and other pathways) ensemble firing, and perhaps dendritic and synaptic scale firing
+
+I'm imagining a brain that is all aware of itself, absolutely everything that one senses and perceives is represented by their brain in some place, but with different oscillators, represented by different power bands, with location invariant patterns, with cross brain interneuron enabled synchronicity, neuronal emsembles can increase in their firing rate become more noticeable yet weaker, decrease in their firing rate, becoming less noticable but more powerful. So attention can shift to large brain areas that have more new activity & are more excited, meaning when you become excited some of your senses will have their receptive fields become more aware, which implies a slower oscillatory rate.
+
+The pattern that the brain produces for consciousness, the 4D tempo-spatial phase graph, that could be produced by a physics simulation, that information pattern, and that information pattern would be read by, driving the physic simulation, it's sort of an information producing, information driven machine, information drives it, and it produces the information that drives it.
+
+So that is why you could run consciousness inside a game engine like Unity, Unreal Engine, Godot, or WebXR.
+
+Think about the analogy of the lightfield, the field of view that you see in an Oculus Quest as an example of what your mind must create, draw, or render inside your brain in order for you to have the awareness of that rendering. In other words your mind has to make a drawing of the world at the very least as the basis for you to see the world, and it has to make that drawing inside the brain, and my prososal is that each array of nerve cells is making part of that drawing and each subsequent array or layer is perceiving the previous array or layer, and the data from the different layers is combined, bound, or entitified through harmonic synchronization of frequencies, or brainwave activity.
+
+The physics of the system could be used to accomplish a simulation of the physics of a brain that the brain itself is tracking and turning into a phase pattern that the brain is then reading out to turn into another phase pattern, over and over again.
+
+The purpose in doing that would be to create a physics tracking robot, that has information transforming operations similar to a human being.
+
+It's internal renderings would be learned the same way as its external renderings, and links between it's interior renderings or it's qualia, and it's external renderings, representations of the world, and also of it's body movements in the external world, including the learned consequences both good and bad are going to 
+
+I imagine that my inner voice is a moving soliton wave pattern, like a stream of lights lighting up, or when a jet flies low and release a stream of particles in the air leaving a trail, this pattern travels through my brain and each new neuron that fires is playing a different audible electric tone, each one represents a different part of my inner voice, as I model my thinking to myself in conscious way, modulating my internal dialog with the english language.
+
+I would like to imagine that my inner dialog is a multi scale pattern matrix, I imagine square-ish lines tracing themselves all over the place the circuit like graphics in old hacker movies. Well I guess it became that for the moment that I imagined it was that, my train of thought is whatever I imagine it to be, I am in a sense choosing my representations, authoring myself. You do you bro, our past patterns, our memories, they can drive us, which is the same as us driving us, because we are our past memories, so we are driving ourselves based on the knowledge we have both accumulated, integrated, and organized on various levels. The complex of our structure is about meeting the demands that our current situation requires from us in order to thrive and grow.
+
+At somepoint though, my thoughts which are a voice pattern are translated and converted to a muscle pattern for my laynx
+
+I'm not the chemical structure, I am the network, the self-aware network resulting from the chemical structure of my brain, and the oscillations in that chemical structure that are simulating reality inside my brain.
+
+I've watched myself change and transform in the public eye, multiple times.
+
+I remembered the structure when I thought about the last interview with Jules Urbach and also the last interview with the Nvideo CEO where I asked him if the self driving car needs to become self aware
+
+references to look up images for a presentation // book // website
+then I thought of Kirby the intelligent VW beetle / flying car
+the cat from outer space
+the robot, number 5 is alive from 
+GI Joe transformer cross over with Transformers
+
+in the interview with Jules Urbach, I asked him about self-aware networks also
+
+ So now it's time to explain what a self-aware network is
+a real one, an articial one,
+
+why it will have maximum utility in self driving vehicles
+
+and then Cecile was saying that all the new science that comes out is an upheaval to what everyone thought they knew about the brain
+
+I don't agree with that, I feel like all the new revelations in science news are fitting in perfectly with my hypothesis,
+
+so I think that in a sense there are a lot of news items that could also be discussed in the book in terms of whether they change anything about the thesis of the book
+
+so beyond describing how brains work
+there is a whole extra conversation about neuralink, numenta, openwater
+then there are the implications of advances in technology to the national security of every nation.
+during the branch about how the brain works,
+what needs to be explained includes
+
+1. criterial causation & choice, how networks of neurons probably consider information, bit patterns, tonic firing, phasic firing, firing that contains information patterns 
+2. predictive coding, how everything you think about is a prediction, memory-prediction
+3. reference frames (grid cells & place cells)
+4. timing / piano / macro & micro oscillatinos
+5. how cells communicate, from neurons to glia, to neural circuits, to cortical columns, to communication between large structures such as the 3 primary sensory cortices and the prefrontal cortex
+6. dendritric computation, synapses,
+7. multi-vesical release, multi-vesical bodies, the 
+8. virtual reality, Oculus Quest, and John Carmacks move to artificial general intelligenceCon
+9. facebook AI, Yann LeCun, back propogation (lack of biological realism in deep learning but also a key innovation), and how scientists are thinking that the concept of back propogation might work in the brain.
+10. the mission of DeepMind, solve intelligence, but also the controversy of abandoning open-source principals, and the suspicion that some people have that DeepMind is using stolen, patented code, and that is the reason they will not open-source their code to help speed up the development. They are taking from the open-source and taking from open source AI science research insights generated by other AI scientists, but they are not giving back in a way that establishes that they are contributing to the community.
+11. images, visual images, are reconstructed inside a biological organisms brain, similar to the concept of holography, this friend with a 3D neural network inside Unity that is inspired by the game of life, boids, to basically have the boids program create a 3D representation of the image streaming in from the webcam
+12. volumetric video, fourier slice theorem, how 3D images are reconstructed, the concept of lidar, medical innovation connected to archeological innovation
+13. 3D object segmentation, 3D semantic segmentation, how does your brain do object segmentation and semantic segmentation?
+14. what are some differences between the brain and artificial neural networks: oscillations (artificial oscillating neural networks) lets say they are good for responding on time, playing a piano key at the right time in a live sequence
+15. mental foveation, unity / megacity, do humans have levels of detail? do we have an entity component system in our brains?
+16. the unreal simulation engine, nanite, an efficient pipeline for self driving cars to reconstruct the world they are capturing with sensors? can this be used to help to create a robot that is conscious?
+17. how everything you think about, emotions, feelings, thoughts, smells, sights, sounds, tastes, every concept, has a temporal, spacial and phasic pattern.
+18. how we can detect and extract patterns from the brain, how we can insert patterns into the brain
+
+ 
