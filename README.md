@@ -22,6 +22,7 @@ I think that sharing these notes will have a net good effect for humanity.
 
 This is the homepage of the Self Aware Networks Institute that you can contribute to from your github account by making a pull request. The contents of this Institute are the source material for the book called "Self Aware Networks" that I haven't released yet. The web address is selfawarenetworks.com and there are a number of associated groups that I will link here shortly. 
 
+The order of the notes is completely random, because I came up with the numbering system after most of the notes were created and I deleted notes and gave some notes that were unnumbered the numbers of deleted notes. So there is no great importance to the first notes. Some of the notes date back to 2011. So these notes are selections from a larger set of notes going back more than 10 years.
 a0000z many of the original text notes have a title format like a0000z, sometimes they contain text that was written by others, but copied to preserve conversations, to think about what was discussed again later on. 
 
 b0000y the audio notes have a title format like b0000y and they will often contain conversations from Clubhouse for example that includes a mixture of things said by myself and other people, the audio itself will be published later on in some cases.
