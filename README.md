@@ -2,6 +2,8 @@
 
 # This github is the foundation of The Self Aware Networks Institute. You are at The Self Aware Networks Institute's github page. The full institute will include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
 
+In retrospect this a real neurohackers journal, not the whole journal, a selection of my journal over the years.
+
 The original files I uploaded & hosted on github.com/v5ma including the text and other types of files are the copyright of Micah Blumberg, they contain trademarks belonging to Micah Samuel Blumberg. Some of the content is part of provisional patents that have been filed or will be filed by Micah Blumberg.
 
 This github & the notes uploaded by the author of this github, which is found at github.com/v5ma are the copyright of Micah Samuel Blumberg who was born in Westminster, California, USA in the year 1980.
