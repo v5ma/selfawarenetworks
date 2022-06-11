@@ -1,4 +1,0 @@
-a0117z ctpr
-Predictive Coding Slide: We are taking the 
-a mental model of the environment, generates predictions of sensory input that are compared to actual sensory input. this comparison results in prediction errors that are then used to update and revise the mental model
-
