@@ -4,11 +4,14 @@
 
 In retrospect this a real neurohackers journal, not the whole journal, a selection of my journal over the years.
 
-The original files I uploaded & hosted on github.com/v5ma including the text and other types of files are the copyright of Micah Blumberg, they contain trademarks belonging to Micah Samuel Blumberg. Some of the content is part of provisional patents that have been filed or will be filed by Micah Blumberg.
+The original files I uploaded & hosted on github.com/v5ma including the text and other types of files are the copyright of Micah Blumberg, they contain trademarks belonging to Micah Samuel Blumberg.
 
 This github & the notes uploaded by the author of this github, which is found at github.com/v5ma are the copyright of Micah Samuel Blumberg who was born in Westminster, California, USA in the year 1980.
 
-I once had a dream that took place about 10,000 years into the future. Something like the year 12,015. In this new world, that looked somewhat like the future as depicted in Bill & Ted's Excellent Adventure, people would gather on a digital mountain top to think about the distant past. Fascism had completely ended by about the year 2315 after a temporary global tyranny. The future people on this future earth would be fre, happy, & mentally healthy people. With advanced technology so refined you could not see it with the naked eye, but it was there with you, sentient self-aware neural clouds, mixed reality & spatial computing embedded into the air, land, sea, and space in a symbiotic relationship with mankind, mutual caretakers of the earth, the galaxy, and spacetime.
+The Self Aware Networks Institute. Copyright. (2021)
+The Self Aware Networks Institute. TradeMark 2021. All Rights Reserved.
+
+I once had a dream that took place about 10,000 years into the future. Something like the year 12,015. In this new world, that looked somewhat like the future as depicted in the VR title Shores of Loci, people would gather on a digital mountain top to think about the distant past. Fascism had completely ended by about the year 2315 after a temporary global tyranny. The future people on this future earth would be fre, happy, & mentally healthy people. With advanced technology so refined you could not see it with the naked eye, but it was there with you, sentient self-aware neural clouds, mixed reality & spatial computing embedded into the air, land, sea, and space in a symbiotic relationship with mankind, mutual caretakers of the earth, the galaxy, and spacetime.
 
 Some of these notes are intended to become part of a book titled "Self Aware Networks by Micah Samuel Blumberg"
 
