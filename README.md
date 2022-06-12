@@ -77,4 +77,4 @@ I would love it if enthusiastic people wanted to donate their time to helping to
 example: 
 a0074z
 Oct 17, 2012
-that means I recognized that the note was old and I looked up the date of when the original note was saved (in another system) most of the undated notes are newer, and some of the older dated notes have had new things added to them. I can lookup dates upon request to add them to notes if you want to know when the note was added to my other note library (that is not on github)
+that means I recognized that the note was old and I looked up the date of when the original note was saved (in another system) most of the undated notes are newer, and some of the older dated notes have had new things added to them. I can lookup dates upon request to add them to notes if you want to know when the note was added to my other note library (that is not on github) but even then sometimes the content in the note is far older than the creation of the note itself because the content came from something I wrote on social media years prior to creating the note, or from an old audio recording.
