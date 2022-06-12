@@ -72,3 +72,9 @@ https://docs.google.com/document/d/1ARbVgZKF1HKRz8Zj0TLCCysSTRdBTmdR29SDMOlfq_Q/
 The table of contents + the map of notes are supposed to help organize the content in the notes into the final book due out November 17th 2022.
 
 I would love it if enthusiastic people wanted to donate their time to helping to organize the content of the book, finishing the map of the notes, helping me to improve the table of contents, and working with me in dialog to flesh out certain ideas that might be unclear, and helping me fix mistakes in my notes.
+
+(if you see a date under the note identification number
+example: 
+a0074z
+Oct 17, 2012
+that means I recognized that the note was old and I looked up the date of when the original note was saved (in another system) most of the undated notes are newer, and some of the older dated notes have had new things added to them. I can lookup dates upon request to add them to notes if you want to know when the note was added to my other note library (that is not on github)
