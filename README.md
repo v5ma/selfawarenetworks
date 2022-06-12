@@ -1,6 +1,18 @@
-# Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the Self Aware Networks Institute and variations on these names are the trademarks of Micah Blumberg.
+This Github: v5ma is the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology & Brain Machine Interfacing.
 
-# This github is the foundation of The Self Aware Networks Institute. You are at The Self Aware Networks Institute's github page. The full institute will include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
+This is the home page of www.selfawareneuralnetworks.com for the book Self Aware Networks, and it represents the notes that were used to make the book.
+
+You can pre-order or purchase the book here: https://www.amazon.com/dp/B0B3QHX9FN?ref_=pe_3052080_276849420&fbclid=IwAR0j14R_e2Lr_liTlrBitmff-j8YiWq26YH-XRb8U94jD6n_S_T6Rmn-FqY
+
+Someone asked me how much my book will cost. Well the 1rst edition of the book will be mostly text, and the price will be $9.99. The 2nd Edition of the book will be greatly expanded & clarified with beautiful 3D art & fetch a higher price.
+
+Please pre-order the book to support my work, especially if you enjoy these notes or find any value from reading them. The book price of $9.99 is like buying me a six pack of beers as thanks for the work I'm doing. I would appreciate it, especially if you found my work valuable or interesting.
+
+Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the Self Aware Networks Institute and variations on these names are the trademarks of Micah Blumberg.
+
+This github is the foundation of The Self Aware Networks Institute. You are at The Self Aware Networks Institute's github page. The full institute will include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
+
+I made this video as a sort of disclaimer about my notes https://youtu.be/zxsrHZeNgKQ I wanted to prepare people to realize that these notes are not the book and they need a lot of work but the some of the content in these published notes is intended to be the meat and bones of the finished book.
 
 In retrospect this a real neurohackers journal, not the whole journal, a selection of my journal over the years.
 
