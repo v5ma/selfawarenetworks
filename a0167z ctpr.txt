@@ -1,3 +1,0 @@
-a0167z ctpr
-(field, graph) self aware graph network
-A self aware network is a different kind of graph neural network, it uses its electrochemical graph to create a phase or frequency graph, that is our graphical rendering of reality, a computational simulation like the movie the matrix, rendered for our VR sized field of view, in one interval of time that is relevant to our movement speed.
