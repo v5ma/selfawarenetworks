@@ -1,3 +1,0 @@
-a0245z ctpr
-(oscillat) Phases not spikes.
-Mark Humphries the author of The Spike insists that most spikes do nothing. In my hypothesis every spike does something, because a neural oscillator ensemble is observing phase changes at multiple scales in individual neurons which is the compiled result of all phasic spikes relative to the oscillators tonic firing pattern.
