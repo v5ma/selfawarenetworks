@@ -1,6 +1,1 @@
-a0177z ctpr
-A perspective is a structure in 4D space that renders interval of 4D space. 
 
-Patterns scale both spatially and temporally
-
-Its a phase space in a feedback loop.
