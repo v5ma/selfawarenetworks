@@ -4,4 +4,4 @@ I learned 2 great things from author Douglas Hofstadter. One is the power of usi
 
 Jeff Hawkins books On Intelligence and A Thousand Brains helped me to really embrace the concepts of predictive coding, biologically plausible neural networks, sparse distributed representation, and reference frame functions with cortical columns grid cell & place cells
 
-You see
+György Buzsáki's book Rhythms of the Brain, when combined with Jeff Hawkings book On Intelligence really is enough to consider how the brain could be like a learning feedback loop. This concept, of a Learning Feedback Loop, from the combination of concepts by Douglass Hofstadter & Jeff Hawkins, is part of why I named my Neurofeedback Salon: Neo Mind Cycle
