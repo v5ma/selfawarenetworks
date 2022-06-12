@@ -61,3 +61,14 @@ This is an Institute on Github meaning that it is open to contributions, you can
 Please note that many of the notes date back a decade or more, with many from the period between 2011 & 2014 included because they were interesting, not because they were correct. There are many novel and interesting notes that I'm including that I know contain incorrect information. The US Government may wish to ask me to clarify some of the notes and I will do that if they decide they want to work with me.
 
 Another disclaimer. Not all of the notes are intended to be serious. Some include cultural references to science fiction films, science fiction books, or other popular media content, and none of these cultural references to popular media content are intended for the book, but at somepoint we can have a dedicated repo to cultural references related to brain computer interfaces, intelligent robots, science fiction, and other content that might be interesting to people who like these topics.
+
+#The way these notes are meant to be used is via the "Search Repository Tool"
+
+Note a0030z contains an early attempt at creating a map of the notes, and another note a0616z, however a0616z is now a backup representing an early example of an early attempt to create a table of contents.
+
+The active table of contents is here, and this is also note c0000x
+https://docs.google.com/document/d/1ARbVgZKF1HKRz8Zj0TLCCysSTRdBTmdR29SDMOlfq_Q/edit?usp=sharing
+
+The table of contents + the map of notes are supposed to help organize the content in the notes into the final book due out November 17th 2022.
+
+I would love it if enthusiastic people wanted to donate their time to helping to organize the content of the book, finishing the map of the notes, helping me to improve the table of contents, and working with me in dialog to flesh out certain ideas that might be unclear, and helping me fix mistakes in my notes.
