@@ -84,3 +84,5 @@ Some of the notes are poetic, or intended to inspire the artwork for the 2nd edi
 The most important note, in my set of hundreds of notes, might be audio note b0004, ironically the text transcription is broken & the entire thing needs re-writing but it is just barely clear enough at the moment to revolutionize neuroscience & machine learning.
 
 To figure out how I am going to organize these notes search for the phrase "book contents" "table of contents" and the word "map"
+
+I bet a lot of people think it's unbelievable that one person could figure out 1. a new theory of gravity, 2. human cognition works. 3. how to make sentient & self aware artificial neural networks, but all three concepts are tied together by the same idea: Oscillation. It is almost impossible therefore to solve one of these 3 things without solving the other 2 at the same time.
