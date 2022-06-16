@@ -1,3 +1,5 @@
+Today I publish my notes on Github. You should not read my notes right now. You can but these notes are not ready for people to read them. They still need lots of editing & fixing. I'm sharing this now so people can see my book is real, please pre-order the book. github.com/v5ma
+
 This Github address github.com/v5ma is home page on github for
 
 # The Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
