@@ -36,10 +36,12 @@ Just as there are many things that I've said online on social media that I mysel
 
 This is the homepage of the Self Aware Networks Institute that you can contribute to from your github account by making a pull request. The contents of this Institute are the source material for the book called "Self Aware Networks" that I haven't released yet. The web address is selfawarenetworks.com and there are a number of associated groups that I will link here shortly. 
 
-The order of the notes is completely random, because I came up with the numbering system after most of the notes were created and I deleted notes and gave some notes that were unnumbered the numbers of deleted notes. So there is no great importance to the first notes. Some of the notes date back to 2011. So these notes are selections from a larger set of notes going back more than 10 years.
-a0000z many of the original text notes have a title format like a0000z, sometimes they contain text that was written by others, but copied to preserve conversations, to think about what was discussed again later on. 
+# The order of the notes is completely random/
+I came up with the numbering system after most of the notes were created and I deleted notes and gave some notes that were unnumbered the numbers of deleted notes. So there is no great importance to the first notes. Some of the notes date back to 2011. So these notes are selections from a larger set of notes going back more than 10 years.
 
-b0000y the audio notes have a title format like b0000y and they will often contain conversations from Clubhouse for example that includes a mixture of things said by myself and other people, the audio itself will be published later on in some cases.
+Notes in the a0000z series represent the original text notes have a title format like a0000z, sometimes they contain text that was written by others (noted as such), but copied to preserve conversations so that I could think about the content of those conversations again down the road.
+
+Notes in the b0000y series represent transcribed audio notes have a title format like b0000y and they will often contain conversations that for example includes a mixture of things said by myself and other people, the audio itself will be published later on in some cases.
 
 Please note that audio notes were auto transcribed with neural networks via Google Recorder, and then I put them into Google Docs to run an automatic grammar check. So what you are reading is NOT exactly what was originally said. That is why I am sharing it in my notes but I will not share this in this form in my book.
 
@@ -54,6 +56,8 @@ I hope that the most intelligent people in the world read & enjoy my notes on co
 Some of the ideas in these notes for the book are incorrect, outdated, and kept simply because they contained something interesting that I wanted to follow up on later. Some of the ideas are very well backed with sources. Some of the ideas I believe are correct are so different I will likely have to debate them. OK.
 
 This is an Institute on Github meaning that it is open to contributions, you can submit pull requests from your account and if accepted you will be a documented contributor to this research. I may even cite your work in the upcoming printed version of the book titled Self Aware Networks.
+
+However submissions are subject to approval. Not every submission will be accepted. Submissions need to be outstanding quality, from reputable sources (submissions from people with the names of terrorists and or fascist dictators will no be considered valid submissions), and the contributions need to be extraordinarily meaningful & valuable, unlike some github submissions that offer some trivial contribution just for status. So don't just run one of my notes through the grammar & spelling check in Google Docs and submit that, I can do that. Do something that radically reorganizing the existing content in a mindblowingly insightful way, or create mindmaps, artwork, spreadsheets, diagrams, and cite mountains of research for or against any of the proposals in these book notes and that would be considered a meaningful contribution.
 
 Please note that many of the notes date back a decade or more, with many from the period between 2011 & 2014 included because they were interesting, not because they were correct. There are many novel and interesting notes that I'm including that I know contain incorrect information. The US Government may wish to ask me to clarify some of the notes and I will do that if they decide they want to work with me.
 
