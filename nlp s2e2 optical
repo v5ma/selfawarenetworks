@@ -1,0 +1,130 @@
+Optical imaging with Kyle E. Mathewson ~ The Neural Lace Podcast. Corona virus COVID-19 Special!
+
+May 12, 2020
+
+https://youtu.be/xEUrcnUu498
+
+Auto transcript needs fixing
+
+00:01
+Anyway, into the early days podcast here with Kyle Mathewson and we're going to talk about a little bit about Hefner. Because it's about optical imaging. And so there let's let's just dive right in cause you want to share your your computer it. Well, usually I like to start with maybe a short introduction about yourself, just these circle but anything you want to talk about?
+00:29
+Yeah, well I'm doing it. Maybe you can enable screen sharing because I oh yeah hi yeah. I'm I'm a associate professor at the University of Alberta up in northern Canada. I got my PhD and it a postdoc at the University of Illinois in Champaign. Illinois at the Beckman Institute for Advanced Science where I learned how to record from human brains and the number of ways including electrically but also by shining light, into the brain and measuring the resulting like coming out the other side and I run a lab here at the University of Alberta called, the attention perception, and performance lab, and we study humans out in their natural habitat and how their brains give rise to the behaviors that we do every day and I guess I could probably share my screen now.
+01:33
+Yeah, there we go. Awesome. Okay. So and need imagine it's still recording this too. Probably great. I hope so we can test this but yeah, I think it would. Okay. But you can see this that I'm sharing. Yes, I can see what you're sharing. Okay, before do, we do have any other questions before I start or not?
+02:03
+Go ahead and start, but it would be right if I, if I do, talk, turn. Yeah, please. That's have more of a conversation if we can't. Okay. Go ahead. Oh, well, yeah. So there's many ways to try to measure the activity of the brain and one of the oldest, of course is electricity.
+02:27
+So you can measure the changes and electrical potential that neurons create as they depolarize and hyperpolarize either adjacent to them or on them or in them or nearby. But it happens to be then, you can also measure changes in blood flow in different ways. Maybe with magnetic resonance imaging or with ultrasound and because it turns out that as neurons are active, they recruit blood to an area.
+03:01
+So even though it happens, a couple seconds after neural activity, you can use localized blood flow in the brain to estimate, which area is where active in a given situation and it had how detailed can you get, can you get down to the single neuron turn, right? So with FMRI which is sticking someone in a big three and a half, Tesla magnet and measuring the and adding a little bit of electrical energy to shape the protons out of alignment and measuring how long it takes them to be realigned.
+03:38
+You can kind of get down to the millimeter or couple millimeter level, which still has probably in each square mill or a cubic millimeter of the brain is 10,000 or more neurons. So you're measuring the human brain at quite a course scale using these techniques, right? So, is that the same for effenes?
+04:00
+You're talking about, FMRI. Yeah, so, with F news, you'll see today, I guess that I'm at the limit as we get more and more light sources and detectors. You can approach that kind of resolution in non-invasively in a human. Okay, that's interesting. So, we're talking about, like, when a single neuron fires, it expands and oh, sorry, yeah, I don't mean, you can't get down to the resolution of a neurod, you can get down to the resolution of about a square or cubic millimeter, so a group of 10,000.
+04:32
+Okay. So we're so we're not yet at the single neuron stage with that times, right? At least on invasively. So you could try by exposing the cortex of an animal or a human and a surgery. You could use some other techniques to do a little better but the non-invasively or something that could be imagined in the consumer realm where kind of at this level of groups of neurons.
+04:59
+So works, that, that being said, 10,000 neurons is a very small subset of like the 10 billion neurons that there are so these are localized groups that generally are doing the same thing. Well, your deep deep into this niche of optical imaging and so I'm sure you've heard of all the other optical imaging projects out there, the big, the big names and stuff that brought the promise to do a billion times improvement resolution and actually capture you have you do you have like in eight skepticism about some of the promises of some of these more pot or headline grabbings say that the there's likely some physicists that understand the limits of some of these technologies and I wouldn't be surprised if they they can be improved on further and especially with new technologies and expanding on the current technologies.
+05:55
+And so I yeah, I'll talk a little bit about like different types of light that you can shine into the head and what this new time, a flight, it's not new, but what the time, a flight optical imaging that kernel? Is using how that differs from the techniques I use in my lab or the afner's techniques that are more common and consumer devices.
+06:20
+Right now. Let's do that now. So yeah. Like the Well that's at least go one slide further. So as I said the when neurons receive messages from other neurons nearby, they receive those messages by neurotransmitter, chemicals, binding to the synapses and channels or gates opening up and ions rushing into the postsynaptic cell.
+06:47
+And when those ions rush in two, things happen that we can measure with light one, we've already mentioned is that the neuron uses energy to create some of those gradients over which those ions flow. And so to recuperate from that use of energy, it needs to recruit more ingredients from the blood glucose and oxygen to make more ATP to power the pumps and gates that let things in and out.
+07:16
+And so there are signaling cascades that happen when a local area is active that ultimately lead astrocytes to open up, blood vessels in an area and attract through kind of plumbing forces, more blood to that part of the brain and that blood absorbs light. And so at the very course of scale, you can think of it like a little localized shadow and so parts of your brain that are more active or absorbing more light, even from the lights in the room and the sun around you and the then a little bit less light is coming back out your head and then it turns out.
+08:04
+Something else interesting happens when those ions rush into the cell water flows in with them because of us Moses and the the membrane of the cell expands and gets stretched out and becomes less wrinkly and apparently becomes more transparent and therefore an interacts with light differently. And the I so then in theory you can use light to measure both of these things.
+08:36
+How much light is traveling through tissue and how fast the light travels through tissue. So, the basic idea. Well, the the first couple studies that were actually done were done and exposed cortex of an animal so you could actually just open up a image of the brain. A little window into the brain and take images of that exposed cortex and you could see it change in color as, as people use that part of the brain, more or less.
+09:13
+And I believe, there's even reports from wilder, penfield, and Montreal in the 30s of observing change in redness of exposed cortex in the same way. So, I want to, I was interesting interested to there's this, there's this doctor who's been talking about, the that make me heard of the med crab doctor, the guy on YouTube.
+09:37
+No, he's been talking about. Well, so he's, he's a surgeon and he's been, he's been treating patients with the coronavirus and he's been talking about the they ended how the coronavirus attacks. The it's sort of it's sort of a targets the ACE2 and inhibitors which are there's a lot of them on the end of the and that is that's causing basically the damage to the end of the lay them and the bond Newman's factor is caused is coming out and that's creating blood clots and it's it's causing vascular construction.
+10:26
+Because usually the ace to protect is through the angiotensin to an angiotensin 17 pathway would be inhibiting the vassal construction actually doing vascular dilation as you have if you have more ace to compare to ace. And so he's been exploring this and one of the things I've been doing for quantifiers.
+10:46
+Patients is saying, well, hey, we are sending out the. We're actually recommending that people have an oxygen detector and so I was thinking, well, if someone was a like a pioneering, you know, hacker that they could build an oxygen detector from up. There's yeah, let me grab my right now.
+11:12
+Yeah, so this is a common technology at the hospital pulse oximeter and it uses the same technique and that it maybe we can't even see. It's hidden in here. So well, it has little light sources inside this cavity that shine through your finger and then it has light detectors on the other end of here.
+11:32
+Yeah. So this is actually called transmission optical imaging. So the lights, transmitting through my tissue is opposed to going in and coming out the, which is diffusive optical imaging. But yeah. So you can if you have two wavelengths of light and you're shining them into anywhere into a human body and they are the right wavelengths by knowing how much light you're shining in and measuring the amount of results like coming out.
+12:03
+You can ask me the oxygen nations of the blood because hemoglobin has four spots for oxygen to bind to it. And oxygen coming from your lungs. Is all four spots or taken and then your body uses one or two of the oxygen. So, you end up with three or two left on the hemoglobin and the oxygenated versus deoxygenated hemoglobin.
+12:31
+Absorbs light differentially. Let's see if I have the turkey. Yeah, so tissue with the all four oxygens in the hemoglobin versus with just two or three has a different absorption spectra so here's wavelength of light and absorption and if you zoom in right around 800, nanometer light near infrared light, you see that there's this crossing over of the two absorptions spectra.
+12:59
+And so the basic technique of near infrared or sorry, of pulse oximetry or oxymetry of human tissue. Is to use one wavelength of light over here. In one light. Wavelength of light over here. I don't know if you can see my mouse. Yeah, I can see your mouse and to estimate how much of the light that you put in is absorbed of those two wavelengths.
+13:25
+And then you use an equation like this, which is called the fear lambert equation, okay? And you have to, you have to know these absorption coefficients. So, there some of the parameters of this equation is the points of your light on this graph and then what you get out is the change in.
+13:48
+There's a, the oxygenated and deoxygenated blood, okay, and really cool. So yeah, now there's work. So, in theory, then you can measure that over the whole head so that. Yeah, yes. As we get the coronavirus, for instance, we might have more trouble getting oxygen into our bodies, but localized across the head, some regions of the brain are using more oxygen than others and you can estimate those changes of them.
+14:19
+So, would you be able to detect blood clots? Because if that's one of the things with the good, no, keep asking. So one of the things they were saying with the, the MedCram, folks. So if you if you go on YouTube and just type in MED you CRAM, the MD represents what his name is is Roger short and his lectures are really worth watching for like that.
+14:46
+What I is the best research I can find on the chrono virus right now? Like he's you see he's so one of the things he's saying is that the, let's see if I can fast forward, maybe I can get the chart on for myself real quick, but one of the, one of the things he sang is that the if I well, let me just go by memory.
+15:08
+That is, is that the oops, I lost my monitor. What happened? Oh wow. All the monitors resetting. There was a pot. I think there was a power outage in the building. No it's back. It's the power of as somebody called out or something. Okay, let me see if I can go and just say, okay.
+15:26
+So what happened was you're saying that the the there's there's quite back to the the H2 receptors are basically, you know, they have they have hey they're not gonna hear you. So apparently like my whole electricity over here got reset. But yeah. So the great thing to happen in the middle of the podcast.
+15:53
+We're still recording somehow. Yeah I think it's pretty. It's, that was kind of the goal soon with to make it real class. Yeah, so I don't know. How long was I gone for? I can't just continue from the last thing. I heard you say was the doctors the leading doctor and he had this proposal that.
+16:16
+Oh yeah, so that so his name is doctor Schulte on med cram and he's saying that basically what it comes down to. Is that if you do not have enough paste to receptors, then your body is going to produce too much oxidation or super oxide. And I mean, another that's coupled with, you know, you know, inflammation or hyper inflammation.
+16:49
+And so one of the so one of the ideas was well, I was there are certain things you can get, which claimed to help reduce inflammation, like on the consumer side of things, you know, there's a supplement called de ribose. A lot of people try to say that, you know what, if what is this, these magnesium salts that they self your feet and that reduces your inflammation and reduces your.
+17:20
+So if you could take, you know, people say we'll take your vitamin C, your vitamin D and vitamin E and that will help your body to reduce its inflammation. And some people, you know, there's, there's obviously there's ARBs or, you know, they're statins. There's, there's different drugs that are meant for people who have heart attacks or strokes.
+17:40
+That reduce inflammation and reduce, they actually increase the amount of ace to receptor action and this is outlined in the, in the recently. He doesn't, he does. It better online much better outline, I'm doing. But the idea was, is, if somehow, you know, de ribos as a fundamental building block of cells is actually, you know, it helps, it helps yourselves to produce more ACCs without this.
+18:14
+There is the same idea, was with the taking the vitamin B12 supplement, which help your body make more help. You got to make more ATP. And so, there was this whole energy drink, sort of craze where people were taking high, doses of vitamin B12. And so the idea is that if any of these supplements are causing a and effect where they're reducing your inflammation.
+18:43
+There's I mean, there's a point that you could measure or I'm going to come back to, you know, after an optical imaging. There's a point where you could measure. I guess you were saying that if someone is having a blood clot, that is going to create a difference, sort of signal that you're going to pick up on.
+18:59
+But if someone is receiving a treatment of say diverse and it's reducing their oxidation and it's allowing their whatever their blood is able to transport in terms of is your blood, the purpose of your blood brain. Oxygen is so that you can make ATP, right? If you're not able to get oxygen because you're, you know, because you're ace to receptors have been wacked out but you're receiving the ribos and you're able to make ATP through other pathways, then the dependents on oxygen.
+19:35
+But what I'm serious is that is that at some point in this chain, would we be able to measure someone getting their their ATP from and it induction of debris. Both are it's not a, you know. Yeah, so there's two cool things. One. Is that you could measure what you could imagine that work like in the hospital, they're measuring these effects systemically throughout the whole body to put them.
+20:10
+Some of the effects might be more localized to one brain region or another. And so having kind of like distributed sensors around the body might change things. I like your idea though about measuring kind of effects of treatment. There's one cool thing you can do recently showing with optical imaging is you can measure even estimate the pulse wave velocity.
+20:36
+So, how fast the pulses of blood are moving to the body and that is an estimate of your vascular. Elasticity or how kind of hardened your arteries are and it turns out you can measure that across the head, so you can measure in localized regions of someone's head as some of their vast literature more healthy than others.
+21:01
+And so that's what maybe kind of thing that could change with some of these treatments is that you're vascular system, is working more effectively, but there's a really cool kind of rabbit hole that you reminded me of. And that have you ever seen some of these therapies? Maybe if you hurt your knee where they shining near infrared light into your knee?
+21:28
+Now well it's maybe I can just use the internet to my swords. Yeah. Totally let's try like a near infrared therapy because there's pretty funny helmets and stuff. Yeah, so this you could get like a belt or something to wear around your waist, you put on your knee and the one idea would be that it the heat helps your body but it turns out that there is in the pathway that creates ATP.
+22:07
+There is the there's the crab cycle, and then there's a, another four stage process that's name is escaping me right now. The electron transport chain and one of the steps of that electron transfer chain, is uses a molecule cytochrome oxidase and it actually absorbs. I think it's it, something about that.
+22:36
+Step the near infrared light can make it work more effectively. So in theory, near infer Lincoln's boost the production of ATG locally and the brain area or in a body area. And so not, I think there's also helmets that you can get that through this kind of thing. Yeah, this lady he has here.
+23:01
+This guy is treating Parkinson's disease with a bucket. That's full of near infrared lights which doesn't look like a real product in silicon valley right now, but I'm sure there's some that are being made like that one or this one. Um, and it's the same idea that you could boost the vascular activity, you could boost the production of energy for the same input molecules.
+23:28
+And so maybe your idea that maybe if you're oxygen input, to the body is diminished. Maybe you could acutely improve the activity of those people's body so that it's making use of less oxygen to do, what it needs to be that kind of cool.
+23:52
+I don't think I just close my slides. But yeah. So I think that that and that's really cool for me and we've been testing a couple things with this. So we we've been testing if you could locally enhance one side of the head and not the other. So you shine your infrared light and one hemisphere and not the other hemisphere and can you look for changes in cognition?
+24:14
+That might result from that? All right. Okay. Where were we? Why are we shining this light in how we shining it? So this is a gentleman named Britain Chance who was the first to use near infrared to use kind of non-invasive optical imaging and humans here on himself had a single light source in a single detector and it was measuring the amount of light that goes through this path between the source and the detection.
+24:45
+And when you use two wavelengths of light, as I mentioned, you can ask to make the oxygenation of the tissue underneath. And then it's kind of test the techniques. Some studies were done to look for known distributions and the brain what you would expect to happen. See if you illuminate the whole right side of visual space, you'd expect there to be activity in the left visual hemisphere.
+25:14
+And so you see that in this kind of test of that technique. So you see this boost of activity and the left visual cortex when you stimulate the right visual field and place, there's a see if you can use it as a way to map brain activity, which have been used for a while and this is pretty old.
+25:34
+So this is maybe 10 or 12 years old, some miniaturizations of the technology and you can tell how recently I put together some of these slides because in that time, since there's technologies like this on the horizon that are built into the glasses, right? This is a company in Toronto.
+25:59
+That's just in the in the up and coming stage isn't as trying to. Yeah. But these techniques into Iowa. Yeah, I've got one of those devices here in my in my office. Yeah, that's not the glasses. Just the, the dairy part I got one of the developer kits, right?
+26:19
+And it's cool, It works with my phone and I'm working on, developing a webexar biofeedback application with it. All right, how do you affect it to your head or you put it under your hat or it comes with a headband and then you put a right on your temple.
+26:36
+It's, it's where they recommend you put it and yeah, I mean always you don't want hair in the way but I mean yeah. Hair is an issue and that's an issue. If you look at the kernel, hello humanity. Post the kind of the first thing I looked at was the thing.
+27:01
+I think of the most is like the interface between the human and the machine and it looks like this is what they're imagining. These are little kind of plastic fiber optics of the end of an off-door looks like a detector and six sources that are about two one centimeter away from each other.
+27:24
+And I'd say that. Yeah, this is that would have an issue getting in and around hair. So maybe they're imagining, it will be on a part of the body of last hair or they'll just, you know, ask their participants to figure out. So use some examples of that too.
+27:41
+If we have time. Yeah, like why doing that? I'm gonna look to see if I can find my effort. So the basic idea of kind of delivering light into a tissue and measuring a light coming out. You could imagine how these miniature eyes. Electronics could do that job. You have small LED sources and you have kind of miniaturized sensors that you could embed, or kind of attach to circuitry and, and power quite easily.
+28:20
+Yeah. So this is the one of the original developer kits. Well, cool. That actually became those those glasses. And so, you can see there just attaches to be a headband. Yeah. And then you, you actually put it on backwards like this. And then I just sits on your On your temple right there.
+28:39
+So that's great. And does it give you heart rate as well? Or I believe it does. I it's been a while since I've plugged it in but it's
