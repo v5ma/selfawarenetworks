@@ -1,0 +1,154 @@
+Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY
+
+original audio https://soundcloud.com/user-899513447/the-neural-lace-podcast-5-jules-urbach-ceo-otoy-inc
+
+(auto transcript needs fixing)
+
+00:00
+Three of them, but I can too. Oh, toys, jewels are boxy CEO and founder of Moto Toy. And I'm Michael Moore. This DSLR that was waited by another DSLR. I was spun around in order to do photography and that for me, that made O2y famous in my mind. And I'm glad that I'm glad that was the, the thing that got you interested.
+00:22
+It was definitely an interesting experiment, but we've been, it was actually sort of a big point for us. We've been working on, I wouldn't even qualify photogrammetry. We've been working on really high-end capture of environments and people through a subsidiary of ours called light stage and lights stage. That started out at the USC, you know, over decade ago.
+00:40
+And it's been used. And I mean you see something you see you know the Avengers or you see you know tark in a lay in row, one like stages. Scan is scanning the answers that standed for them or that lady's people went. It's been used for a long time and it's basically ground to it.
+00:55
+Gives you all the lighting information. It's like a you're gonna scatter something for the politically you go to life staging and continue that data back. It's almost too much data for most rendering pipelines. And what we wanted to do is we wanted to come up with ways country things outside the way.
+01:09
+So let's see, just like the brundle flying thing. You're in a bubble, you have to go to a facility. We've been treating that down more and more, but we also wanted to come up with ways where, you know, light stage works by having a lot of lights and a few lenses, but you can also capture the same sort of volume metric or holographic, light fields volume by having a lot of a viewpoints.
+01:26
+And the way that this was structured with that spinning camera was just to spin the cameras 1728 times and get a meter of light, and a volume and then, basically, process that data and turn it into a true like, you know, light field service and others life, it was like a white light hologram.
+01:41
+Where you're looking at the pixels are being in your eyes. So it looks like you're looking in the real world and it's a magical effect in VR. It was pretty good even in a window. But and I think that a little even better when you have classes like the other with or maybe magically that have definite plans, we can really appreciate yeah.
+01:57
+Having sort of multiple raised shot into your eyes at once and and so this was just a test since then, I mean, if you look at the more recent work that he does a company be partnered with that Facebook and they built a that is 24 lenses, you know, they don't call it a light film thing but to me it's it's it captures, this similar, way, overlapping viewpoints that we can then use to reconstruct a scene and given that it captures that in motion and that you can move the camera around or it multiple cameras and can build, you know, a holographic asset and that's exactly the pipeline.
+02:23
+That is a company we're turning on for them and connecting. That's a very different tools that we also support through our rendering platform and we make a software called octane, I think the some of the more famous pieces that have been done with octane include the opening. Westworld, if you watch HBO, that was all done in Cinder 40 with our enter and, you know, as a the future of rendering as I just was giving of this talk this morning, I think is real time.
+02:45
+We made it has to be real time, then it has to get into this sort of magical area where it's like when you go on the holiday you say arch you know he means Charlotte homes are jungle, you know I kind of knows himactically like you want and that kind of workflow comes from absolute world crossing it to an deep learning on it.
+03:00
+Be able to have a graduate render and this these pieces are a decades worth of work and we're like seven years into that. But and why that you saw the company, the point where we had that that I think was an upload VR that that article on the S food banks are by random about this spinning light so counter system.
+03:15
+And it got did they get a lot of people decided? Because I think it opened their eyes to the fact that there's more than just 360 or even 360 with depth. I mean, there's a full haul, graphic universe waiting to be captured, and every time you're not doing that, you know, it's like not capture things in color, you're missing a whole dimension of experience, and I'm grateful that Facebook's attacking the problem.
+03:32
+I think there's others in this, you know, this basement. Cool stuff like row and also do the Facebook sort of set the bar for a lot of others to sort of follow them into, like, the minimum, you need not to have a compelling experience. You've seen the demos that we've done with the data is that, you know, like and getting overlapping death is really, really great.
+03:49
+So the way I first heard about the light row and originally was a light sphere and they said, it's a fire hose of data. There's this, like, how can we ever have the ship cool? Like you have the server rate, which 12, you know, full hard drives and that only reports like an hour data.
+04:04
+So it's massive fire updated, which I think you. We're talking Beginning like how do we get this down to you know compress it to something. That's typical we have and now I've seen as I've been a CS and I tried type VR, you got to try the Sony has their own sort of 60 degree, freedom in your your project Facebook and you know six degrees of freedom freedom in it in a camera.
+04:27
+So this is now going down the pipeline or Facebook and Sony are saying, okay, we're gonna take this this technology of volume of should we call volumetric video or find term for the for what we're doing this point, just go 0.5. It's got me multiple layers. We have even more razor than it's a light field.
+04:43
+We had a more information. Digital asset. Yeah. Volume at the video is probably if you're able to move through it at all. It's volumetric video file. I think that's a good description of the 60s, but a lot of people call this exact video. So then it don't be shows off this new.
+04:59
+You can convert a 360 from an old just an ordinary like 704 360 camera. Not even 3D. You can turn that into a sort of like hologram and use the thing that I noticed with that demo though, is that it requires structure promotion? So basically, if anything's moving, it won't work.
+05:13
+And if the camera's moving won't work, so that means it's basically capturing the still scene and you know, that's that is still super relative absolutely important first to have it even in a camera. I think it's an amazing piece of software. I do think though that one of the things that Facebook guys did right was that, you know, I want to be able to capture video.
+05:30
+I want to do it in a single small portable ball and I wanted to be volumetric and it needs to be emotion so that magical experience of having everything around you all at once moving with overlapping, you know, planes is pretty cool. That doesn't mean they can't be bigger and that's like, the camera is a thing.
+05:46
+It has 90 lenses. And that, that is definitely capturing a full. I filled in this. It's awesome. I just think it's, you know, you have a spectrum of different players in these different rings and I think I haven't seen the IPR Ray. Guyford is really good, but also think it's using like lighter and 14 red cameras.
+06:01
+And I think that this probably some fits somewhere price wise, maybe between the lights were stuff in the Facebook stuff. And I think Sony stuff as far as I don't know how they captured. I think it was done in a very clever way to make it work. Well, so Sunday capture it with three irregular 3D 360 rig and, and so there's, but they're selling it not regular consumers, but to like the producers of shows plays and concerts because it requires a lot of post production.
+06:24
+Yeah. On the Facebook, does it mean what you're seeing out of the demos there is largely the raw data. I mean, I don't know if you mean post correction like, this means cleaned up or had like that reflections and different effects. I mean, you have to do that with the Facebook stuff, too.
+06:35
+But not quite so much because one thing I can't speak to the Sony data set. I've never used it, but the Facebook one, I've I'm now I, you know, months into this thing and I spent so many hours looking at it and working on the on the different parts of it.
+06:46
+You actually get, you know, there's eight overlapping raise for almost every pixel that you capture this thing and that gives you essentially glossy reflections. So you actually get you moving around within that, you know, sort of this space of your seated experience, you will get glossy reflections. You don't need to add anything.
+06:59
+It's in there. You also get old fillings, you don't have cavities of things that are missing and that's pretty compelling. So you add that with the fact that you, they're small enough, you can have three of them. You can also, you know, essentially capture the scene beforehand, I mean, that's probably those four flows are like, you know, minutes of preparation time, you should, you probably should do.
+07:17
+So I think that it's a good sweet spot. Is one reason why I was excited enough to back it as a company. Like when we worked with a lot of different vendors, we're getting cameras and we want to score all of them but it's like compressible, you know, commit to something this scale.
+07:29
+Like I wanted the results to be really good and I will say the Facebook stuff is really good. So it doesn't mean that others can't even do higher quality. Some questions, is it possible? How much work is it? I don't know. You know, the Facebook stuff is largely automated kind of compelling to see that come out of the process of time without any human intervention.
+07:47
+So recently, unity announced that they have a new corporate 360 where you can separate the video into layers and you can make it interactive. And so, with light failed here, you're working with point clouds. And I was just trying to the latest NVIDIA point cloud demo over here. And with the questions to me was, well, how can we make point clouds interactive?
+08:06
+How can we make them behave like objects in a program? How can programmers use them to make any demo we did in unity with the Facebook video data? Well anyway, if you haven't you should check out the video that we did at a. And in that video we actually showed exactly that we're flow.
+08:20
+We don't show it needed to be showed in after effects in new or in fact I talked tomorrow at four, you know, if you have time you should check out if others will listen, this is posted. Yeah basically you can drag dragons with objects obtain, renderings perfect ones to cinematic production render, you take the case with data together and actually reflections refractions, everything works perfectly and that's for offline revenue.
+08:40
+So, by the way, render that into a beautiful, I feel that publish experience for perfectly on six and six degrees of freedom and for real-time interaction, you know, you can actually treat the Facebook video data as a game level, which is exactly what we're showing in our booth. And I got better flies flopping around the office, touch control to giant light.
+08:56
+I can drop it on the ground and, you know, like things up. You've got an inclusion, you've got GI all these tools that we're building. So, it's a game level. And in fact, you most the most awesome thing I do with the Facebook camera is you can use it to just scan environment and you know, take a few seconds of that and drop it in unity and you've got a fully formed game level.
+09:13
+That looks really good. You have to paint artist, it would use captured it. And that is, that's pretty powerful. So it is a game of it. You can move it around, it's just and you can skeleton. I highly recommend anybody that has access to our demos until we put it up.
+09:25
+Hopefully the Facebook, checks it out or booth or these trade shows that we go to. It's pretty cool. So going back to here. Yeah, you had this announcement with OTG that idea was, you know, we can, we can game of VR experience to a headset. So you can stream something from that's processed with powerful desktop GPUs over Wi-Fi or over 520 results.
+09:50
+Oh, yeah. Well, we don't need any 5G or Wi-Fi. I mean, the stuff that we were showing and it's not just, we've shown a version of tango. We should have version of KBR. We shot a version on this a regular Samsung phone with a market-based tracker and, you know, different resolutions.
+10:03
+But, what's fascinating about these portals is that portals. I mean, not quite as heavy as a full yard experience, but looking at, you know, for AR and mixed reality, even VR where you're looking into a portal into a different world, I mean, we can squeeze it down to a few megabits and it works just fine because we're, you know, it's basically fooviated rendering in streaming form ind and we were to me that's one of the most one of the first persons want to talk, this is going to work really well and it's also how we stream life feels into you know sort of a higher level feeling unity.
+10:31
+For example, can take that stream, we can beat it into a surface and it can actually reproject it. And that's one of the things that makes the latency much less tricky for something like OTG. The resolution is much higher, the thing that we're missing with energy. Don't, there's a module on the top for lighthouse.
+10:45
+Absolutely. Desperately want to have the bills so we can actually test full position tracking. The meantime, one thing we happen testing in the earlier, I teach classes was just having a super high resolution overlay. It's basically their life filter because point frame of it without the holographic part and, you know, moving that over a marker, it was amazing.
+11:01
+And that's I don't really as well. So that's a great demo. The resolution on this boxes is remarkable and it's four times the rest 16 times a rep because it's four times a horizontal and vertical pixel and I say that here we are and you know it looks kind of matchable screen door effect.
+11:15
+I want that I want that and I want position tracking on a white filled. I've seen in parts, all the pieces are sort of my ideal HMD and OTG crack. One thing that I just hadn't seen before, which is the resolution problem, and they did it all in a pair of fairly lightweight classes.
+11:29
+So, yeah, Microsoft and their whole lens had the position tracking is pretty good. A lot of people would say and I, you know, one of the things I wanted was why can't you take the position tracking from the whole entitled apparently. It's to the power is too high and it's too big.
+11:43
+So, you know, that that was one of the reasons why it was, it wasn't necessarily an option. I heard the hotline is clocked at 30% of its performance capability because I don't if you run it on a hundred percent and we catch fire. Yeah, I mean, you know, the current homelands is a couple of things that I think could be better at 720p instead of 1080p.
+12:02
+And the odyssey glasses are attending, for example, cherry trail, which is I think the SOC on the whole ones is it's not a great GPU. I mean it's like it. Probably at this point the 835 is probably a better GPU. I think you get almost phones but it's, you know, it's it's a full X8 Windows device.
+12:19
+I guess for that perspective, it works. I'm guessing because Windows 10 works on the 835. The X86 translator that. Maybe you'll see a future all ends on Qualcomm's as I see. It might even be more better for me, but I do think the next fall, is, must be have a wider field than you must have resolutions.
+12:35
+And what's interesting is, I don't know if you're the story, but but it's designed, I mean, I think it's sold a lot of the patterns for holes to make yourself. Curd, you know, he went a different direction into these bosses that's fascinating now. What's regarded back? Going back to streaming, going back to webinar and going back to the concern of, you know the the frame race of what's necessary for the art to be comfortable.
+12:57
+Some people have said it needs to be 90 years, some people have said and he's going to be 120, you're talking about in order to get it. I was talking to Microsoft yesterday about, you know, they're also working on. So this sort of like, how can we solve the yet the streaming when we process on IGPU over the web to a set of glasses like the hallways?
+13:19
+So I was kind of like well what is it? And they said, oh we're doing, like 30%. So it's okay for AR, but it's not really, like, it's not gonna be comfortable for VR and, you know, like, okay. Well, then they're still gonna you can optimize it, you can do the reprojection maybe on my glasses and they were saying that they're more interested to them was you know, TCP is too slow but the UDP is much faster and going back to 10 years.
+13:45
+It's been that long we were doing game streaming as a primary. One of our primary folks is that you know, I had a deal with with unity. Now we're oxygen's built into me. It's shipping this year and so beauty. I've heard men use the COBA and he was you know, when John retail was COV he was there was a period of time and it was O2y die online.
+14:06
+All doing gangster in the only way to do that right was to do with overdoses so that was we did EDP streaming that case. Thomas the web is never great PDP mechanism, you can do whatever web RTC but it's not perfect. It doesn't really matter. At the end of the day, there's probably.
+14:18
+If you're gonna do the streaming, you probably should bake it in, right? And I think they get UDP helps you, you know, those, the way we do our students, I mean, there is, we build our own codex. It can several lot, more packet lesson, traditional video frames do and it helps.
+14:31
+And and then there is your projection, and there should be projection, you have a lot of data. And then there's also the fact that one of the things we just showed is that you can also send them an entire unity game inside of those, you know, the bits of the adaptive stream and that can run locally.
+14:42
+The second that it's, it's there and it's told that it can run in the cloud and if there's not enough compute power, it'll figure it out. That's just part of the step. And reason why it's important to offer unity with our tools and have it in there, is that we can set layers that trigger those different pieces.
+14:54
+This can get sent to that you know, told playing against rented locally or this is a special friend. Locally is pretty simple. I mean, when you talk about video layers and your type of picking the right resolution or bit rate, this is even simpler than that. And to your point about the instructor, showing it at a vision with sort of the yeah, the alpha planes in the video.
+15:12
+I mean, the face of I think basically is, is that times a thousand, because it has those death layers, you can create any sort of masking you want. And our goal is that we basically are able to be that that face with video file into your unity texture. Do you all with it and similarly we can also take your unity project and put it in the middle of a light build to positing workflow that's maybe created in unity but still using our lifeholder to do all these things together and it's kind of a you know certain yes total you can do for either is by directional but having those tools in place matters, the only thing I ultimately want to make sure that there's a URL and you can go to it and no matter what the platform is you see that experience, I don't want to have it amplified on the offer intends to have it out if I but it's like a lot of experiences in the future are going to be social by size things that you can share mash up.
+15:57
+And I think the unity guys also see that way as well. And that's what, you know, so distance. Plenty of real engine. That guys really of the greatest champions for an open metaphor and that's super important for the future of all the work or doing. So speaking of the matter of maniverse and who specifically sort out online is a big concept in terms of, you know, the ties back into their release and neural lace.
+16:18
+The idea of hacking into the brains of your system and in accessing it like it's a special kind of hard drive. So you can communicate a sort of a reading right, communication tool between the brain and the hard drive. So I went to the San Francisco HTML conference and HTML5 conference and how they were, this is where I was asking about, how can we, because I because I'm, I helped organize events was how much reality and I said how can we like create like a web VR with, you know, massive multiplayer and in Mozilla and probably not good.
+16:51
+Those teams are not really thinking about that yet. They focus on stop and friend of mine, who's a group on rails. Guy said, you know, you need to do the UDP. So I said, because I do all this, you know, 12 years of neuroscience, study and I have these great great groups like software networks on Facebook very popular.
+17:11
+And so I'm reading every this book networks within the mind and I'm listening to this, oh, you need beauty instead of PCP, and I'm like, think about this stuff. And I said, so if the brain is like a network, what would the communication portable? Would it be more like TCP where you need to establish like a connection will be more like EDP.
+17:27
+Interestingly it might be you can that break? It definitely separate pack. It wasn't full in the holes. No doubt about that. I mean experience is definitely, probably not even particularly linear and I also don't think that what we think of this linear experiences are probably our mind sort of constructs that you know where when who knows what the actual the way that you know, our brains would have forms these things.
+17:46
+For the time, it gets to our level of like fully conscious understanding as far as the new laser goes as fasting. You know I you know it's like many on a bunch of times and it's like why last time I saw him was 13 or so I don't know.
+17:57
+It was it was a few years back and I remember telling us like I'm working on I want to get a holographic window for your you know your spaceship and your marsh colonies. I'm really not going to be happy and either of those lightfield display. Is it always like a hologram like 2000?
+18:10
+No, that's peppers. Close. This is way better. So, but let me know in this ready and the thing is like, actually we're in the software. So I don't have all graphics display, but there are there's a team out of light terrifies working genuinely on that holographic window this year, and it's called light filled, lots, you know, and and working with, I have to see this, you know, this come to fruition.
+18:28
+And I do wonder about like, you know, these, you know, this sort of the, the idea of the relation is is super fascinating. I don't know how it would work on this. Like, I'm not sure we don't understand consciousness for the words, I mean our visual. Yeah. Eyes. Were probably the most the highest sort of bandwidth we have going into our minds at, you know.
+18:45
+So we talk about this on the podcast like how my work and what are the one, the big ideas, okay? So I'm thinking it is, if you can apply, if you can get like live data of like let's say, you're your imaging. You're using some sort of imaging where you're creating like a tensor field, map of the ionic tropic rain, you know, all the electromagnetic waves going through space and you, you have AI watching it and it's looking for patterns, let's just unsupervised because you can't really label that.
+19:21
+But then you have another AI like the self-harming car that's as it's doing like, you know, light are and all these different cameras and it's mapping. It's identifying all the objects in the room, and then you, you need to correlate. Like you know this is this plate has, you know, you have all these, the AI access, all these different lines and edges add up to this concept of the plate and at the same time until you have an the other AI is looking at the neural ports because beyond an temp special brainwave patterns and is saying this pattern matches that pattern.
+19:53
+And so if we get that pattern and we have it in computer and we know the networking portal called, we can send that pattern back over the networking protocol, into the brain and see if you see a plate where there isn't, I'm not a newer scientist, but I mean, I absolutely am constantly thinking about that being done.
+20:10
+I mean, it's looking at a hardware guys so I don't, you know, NPD better make great GPUs and people better make great displays and it's a software, you know, thinking about it from the software side of things like, I can't wait for there to be something that allows us to sort of hack into these sort of patterns and sensibilities and understand a little bit more about your thinking.
+20:27
+I mean, also working with dangerous, but I do think that there's there is something to be said, for AI being a big part of how you can sort of encode, is found with this, right? I mean, ultimately even our visual system. We're not seeing everything once, we're building like that.
+20:40
+30 about 32k image? Well, I mean, I don't know if I mean, a lot of the neuroscientists that I talked to say, it's a band with issue, but I'm not sure that it is. Because you know what, when it like let's when you when you're trying to figure out, whether something is is red or blue, they you're sort of like you are.
+20:57
+It's you're your brain is learning how it's different, how it's different relative to what's around it and quantifies. Something is defined by everything else around it and so that time slices. So if you basically want to code information, you think that you're seeing image, you're actually seeing in some of the restaurant, your eyes are quickly moving around and building that up in your brain.
+21:16
+And you'll bring me not even seat again, but it's keeps that memory. So information encoding in that way. Is this fascinating? If they're ways your brain to learn how to get shortcuts around? What the real world is and there's like light are being fed in this shortcut. That's sort of bills that come in your mind.
+21:29
+That would be amazing and that's where this kind of stuff could be fascinating when it's played. But in terms of, you know, getting around the band with issue, I mean I know what that was gonna be required in the first place, but I'm saying, all we're gonna do is figure out what the pattern is.
+21:40
+We're not gonna send the exact same pattern back in. We're gonna send the difference between the pattern here and the pattern that's already in place location or so you can kind of figure out what things are and to be interesting to sort of play around with interference patterns. And I don't know, there's a lot to be done with these things but again, I'm not really it nor biologist but I love the space inside of it.
