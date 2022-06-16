@@ -5,6 +5,7 @@ This Github address github.com/v5ma is home page on github for
 This is the new home page of www.selfawareneuralnetworks.com to contained the notes for the book Self Aware Networks, and it represents the notes that are being used to make the book. Critically you should know that these notes are not the book.
 
 # NOTHING IN THIS GITHUB REPO IS EVEN CLOSE TO BEING FINISHED AS OF JUNE 17th 2022
+(please let me know if you see something wacky in the audio notes (or in any of the notes), and know that an artificial neural network replaced some of my words in the audio transcription, and that some sentences were spoken by other people, I haven't proof read every line yet. So let me know if you see something that should be deleted or clarified.)
 
 *Note for the publication of the notes on June 17th 2022 Keep in mind these are raw notes, everything needs to be updated, organized, edited, cleaned up, before it goes into the book. What you see are sketches, drafts, early versions of many ideas that will be cleaned up & improved. This is a super early preview of what is to come. Like software that is pre-beta (alpha) release. THE POINT is to give you an early preview of what I am working on, the monumental amount of work that I am putting into the book, so can get an idea of what I am creating, and if you want, now you can help. Over the next 5 months the book will emerge from these notes.
 
