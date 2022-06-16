@@ -6,7 +6,11 @@ This is the new home page of www.selfawareneuralnetworks.com to contained the no
 
 # NOTHING IN THIS GITHUB REPO IS EVEN CLOSE TO BEING FINISHED AS OF JUNE 17th 2022
 
-*Note for the publication of the notes on June 17th 2022 Keep in mind these are raw notes, everything needs to be updated, organized, edited, cleaned up, before it goes into the book. What you see are sketches, drafts, early versions of many ideas that will be cleaned up & improved. This is a super early preview of what is to come. Like software that is pre-beta (alpha) release. THE POINT is to give you an early preview of what I am working on, the monumental amount of work that I am putting into the book, so can get an idea of what I am creating, and if you want, now you can help. Over the next 5 months the book will emerge from these notes. In particular many of the audio transcribed notes that start with the letter b, like b0000y, need a ton of fixes made to them, that's part of why I've given myself 5 more months to complete this book. In theory it should take a lot less time than that to turn these notes into a book.
+*Note for the publication of the notes on June 17th 2022 Keep in mind these are raw notes, everything needs to be updated, organized, edited, cleaned up, before it goes into the book. What you see are sketches, drafts, early versions of many ideas that will be cleaned up & improved. This is a super early preview of what is to come. Like software that is pre-beta (alpha) release. THE POINT is to give you an early preview of what I am working on, the monumental amount of work that I am putting into the book, so can get an idea of what I am creating, and if you want, now you can help. Over the next 5 months the book will emerge from these notes.
+
+# In particular many of the audio transcribed notes that start with the letter b, like b0000y, need a ton of fixes made to them, the main issue is that Google Recorder's Neural Network replaced words that I said with words that I didn't say, and that makes many of the audio notes incoherent, but they will make sense when I fix them.
+
+That's part of why I've given myself 5 more months to complete this book. In theory it should take a lot less time than that to turn these notes into a book.
 
 You can pre-order or purchase the book here, if you pre-order you will help support me in creating this book: https://www.amazon.com/dp/B0B3QHX9FN?ref_=pe_3052080_276849420&fbclid=IwAR0j14R_e2Lr_liTlrBitmff-j8YiWq26YH-XRb8U94jD6n_S_T6Rmn-FqY
 
