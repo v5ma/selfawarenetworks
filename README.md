@@ -24,11 +24,15 @@ Some of the notes will be deleted. I do not believe every phrase or every idea w
 
 Not every statement in the notes was written by me, some of the notes include quotes from others, some include text & ideas written by others, some of the notes include transcribed conversations with others that Micah Blumberg had with other people, in the final book it is the intention to quote every source accurately and to give all credit to the sources of various ideas that are due to those sources.
 
-Not everything written in these notes is true and correct. Some of it is incorrect, some of it is untrue, but if I included untrue and incorrect information in my notes that is because the information that I saved in my notes had something of value in it that I wished to extract or later examine for extraction so that I could include something from it into the book.
+# Not everything written in these notes is true and correct.
 
-There are many statements in my notes that I do not agree with. Just as there are many things that I've said online on social media that I myself as of today would not be in perfect agreement with. There are many things that a person would say differently with the knowledge learned from years of study following the point from which they made their statements in the first place. No person that I'm aware of is excluded from the need to revise their past statements and past viewpoints on various topics.
+Some of it is incorrect, some of it is untrue, but if I included untrue and incorrect information in my notes that is because the information that I saved in my notes had something of value in it that I wished to extract or later examine for extraction so that I could include something from it into the book.
 
-I think that sharing these notes will have a net good effect for humanity.
+# There are many statements in my notes that I do not agree with, that I will be fixing as the project moves forward.
+
+Just as there are many things that I've said online on social media that I myself as of today would not be in perfect agreement with. There are many things that a person would say differently with the knowledge learned from years of study following the point from which they made their statements in the first place. No person that I'm aware of is excluded from the need to revise their past statements and past viewpoints on various topics.
+
+# I think that sharing these notes will have a net good effect for humanity.
 
 This is the homepage of the Self Aware Networks Institute that you can contribute to from your github account by making a pull request. The contents of this Institute are the source material for the book called "Self Aware Networks" that I haven't released yet. The web address is selfawarenetworks.com and there are a number of associated groups that I will link here shortly. 
 
