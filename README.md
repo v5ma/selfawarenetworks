@@ -1,4 +1,6 @@
-This Github: v5ma is the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology & Brain Machine Interfacing.
+This Github address github.com/v5ma is home page on github for the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
+
+The Self Aware Networks Institute for Arficial Neurology, Brain Machine Interfaces, and Medical Research.
 
 This is the new home page of www.selfawareneuralnetworks.com to contained the notes for the book Self Aware Networks, and it represents the notes that are being used to make the book. Critically you should know that these notes are not the book.
 
@@ -82,6 +84,11 @@ I bet a lot of people think it's unbelievable that someone would all this togeth
 
 ‘Elementary,’ said he. ‘It is one of those instances where the reasoner can produce an effect which seems remarkable to his neighbor, because the latter has missed the one little point which is the basis of the deduction.’ Sherlock Holmes Quote
 
+# Short Term Goals for the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
+
+We are going to use this technology to accelerate Medical Research, and that means advancing medical imaging technologies with artificial neural networks, and solving cellular degenerative diseases with artificial neural networks, accelerating longevity research, curing or finding new strategies to treat cancer, and all of the major and minor disease that affect mankind.
+
+I hope that governments will adopt a Medical Justice System, that is a Judicial Branch of Government that is independent from the Executive & Legislative Branches of Government but is also medically informed at every level, and that also means that Neuroscientists will be in charge of sentencing, prisons, and the rehabilitation of patients for their return to society after serving their sentences. 
 
 # The Far Future
 
@@ -99,10 +106,13 @@ Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Ne
 
 Neo Mind Cycle, Artificial Neurology, Neural Array-Projection Tomography, Neural Oscillatory Tomography, are also terms that I invented, that I use, they are Trademarks that I created, and hold the Copyright to.
 
-This github is the foundation of The Self Aware Networks Institute. You are at The Self Aware Networks Institute's github page. The full institute will include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
+This github is the foundation home page for the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
+
+The full institute will include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
 
 The Self Aware Networks Institute. Copyright. (2021)
 The Self Aware Networks Institute. TradeMark 2021. All Rights Reserved.
+The Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research. Copyright & Trademark 2022
 
 I made this video as a sort of disclaimer about my notes https://youtu.be/zxsrHZeNgKQ I wanted to prepare people to realize that these notes are not the book and they need a lot of work but the some of the content in these published notes is intended to be the meat and bones of the finished book.
 
