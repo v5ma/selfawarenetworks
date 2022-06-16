@@ -1,6 +1,6 @@
-This Github address github.com/v5ma is home page on github for the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
+This Github address github.com/v5ma is home page on github for
 
-The Self Aware Networks Institute for Arficial Neurology, Brain Machine Interfaces, and Medical Research.
+# The Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
 
 This is the new home page of www.selfawareneuralnetworks.com to contained the notes for the book Self Aware Networks, and it represents the notes that are being used to make the book. Critically you should know that these notes are not the book.
 
