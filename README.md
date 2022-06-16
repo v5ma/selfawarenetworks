@@ -111,3 +111,5 @@ In retrospect this a real neurohackers journal, not the whole journal, a selecti
 The original files I uploaded & hosted on github.com/v5ma including the text and other types of files are the copyright of Micah Blumberg, they contain trademarks belonging to Micah Samuel Blumberg.
 
 This github & the notes uploaded by the author of this github, which is found at github.com/v5ma are the copyright of Micah Samuel Blumberg who was born in Westminster, California, USA in the year 1980.
+
+I'm declaring ownership of all the concepts & notions that I have introduced to the world, appearing in these notes, as my intellectual property, all rights reserved. In the case of the audio notes, I will later help clarify what was said by myself, and what was said by others, and I will improve the transcriptions.
