@@ -1,0 +1,117 @@
+Neural Lace Podcast 2 Auto Transcript
+
+Apr 13, 2017
+
+Original Audio here: https://youtu.be/UpOzHjKGa0g
+
+00:04
+So welcome to the release podcast. I'm here with Blaze Sanders, right? All right the CTO space we are. I understand spacebar is the company that makes satellites. Yeah. Just like super cool thing to do with my grandpa made satellites. He actually, he led the team that designed the specification to the first.
+00:33
+So I'm very much admired companies. It makes satellites, it's a really, really cool thing. It's face to our is a dream that to put to put to a lot all of us to open, see what it's like to be real. Space be over to reality, you know, real way in us, there's a lot of CGI space experience is out there, but we're gonna capture full 20k, resolution imagery, the space station, as we follow away from it.
+01:00
+And just a beautiful earth goal is to give every person on earth. The overview effect. Would it be possible at some point to put the 20K camera on the rocket itself? That's going up in this. I can, I guess the biggest problem there would be like the aerodynamics like where do you place the camera?
+01:22
+We didn't talk to origin about strapping it on the outside of the new shepherd, but couldn't quite figure out how to do it to not. Have it like break off around here. Yeah. Hair dynamics, technical, philosophy, or pretty rough. And we have some really cool renders of like Arrow Dynamic Shields for the cameras but ever quite worked out, maybe follow.
+01:44
+And then so recently I was at NVIDIA event and I ran into your friend Ryan and we've also written space. We are in. He had just been awarded and video processor for robots. That was called TX2. The new twice the AIs but they say yeah. And so now you guys are really excited or maybe happen for since before that probably about building a robot or telephones on satellite.
+02:12
+Exactly, it's a full humanoid robot. But one and a half meters tall and is controlled by a VR suit remote control. Wow. So how is that? What what are the practical applications of that? Like what would you be doing if you had time and you could prepare yourself. Yeah, that's one of the use cases.
+02:32
+It's a little farther down the line because satellite companies need to figure out how to repair satellites. So we're going for some earth base, use cases in the labor market that we think we can solve, okay? So this is like, this is something where they started coming up with the plate.
+02:51
+NASA is not just a space company. They also have a bunch of, you know, earth based projects, underwater projects. So that kind of makes sense. You want to put everything in space but there's a lot of vertical this way you can take what you're working on for space. We are in that pile into NASA has a the space side but right now we're focused on ground-based robotics and the neural lace has a important part to play in this wonderful.
+03:23
+So let's talk about connecting early to space, VR or no ways to help us. What are some of the I mean without mean is, is you have a robot that responds to your nervous system the way, you know, to wait to a power? Your hand actually move. You should have a true sense of presence below as if you're actually there but then you'd have a different bodies.
+03:53
+Okay, if you amazing then I got right now. There's a lot of like gloves that you can wear for VR that give you a little bit of haptic feeling. And there's other input methods, that let you move your arms around, but with the neural lace, you could think about doing something.
+04:08
+Or if you were making a video game, think about turning on your shields and they would turn on. So, so in the previous podcast, I laid out what I think are the two steps we need to achieve. So I'll just recap those real quick. And so one of them is we need to take a computer, that's this computer vision that, you know, like the cell vertical, or like mixed reality concept, where the computers are in the concepts of everything around.
+04:36
+It says, this is a cup and this is a car. And this is a person and the car is moving the one of the partners to know if we're saw a space part of it. So it's categorizing objects around it and we need to apply that to neuroscience. So that we can have this neural network with doing computer vision, okay?
+04:57
+That's part A, and then part B, is need to have another neural network, but to live medical imaging, and then you need an align medical. Imaging is like it could be, it could be a chip that's implanted in your close to your to the brain, the brain, and it's or several chips.
+05:17
+And it's we're just, we just want to explain. We want to focus on. It's medically imaging. Even if you do it with another type of energy, that's part. B is now your neural network. Dedicated dedicated to what's going on inside your brain. And then you have a third network, that's a apex of the, two of my, so above A, and B, which is computer vision of objects.
+05:45
+And during that works of very my data, You have a third known network that is looking for the similarities between the the world that you're seeing and activity were brain. And so that means that if you're seeing a car and within computer business in the car, okay? And the computer vision is seen the narrow toilets of your brain activity wisdom car and in the third own network is going to figure out what that pattern is.
+06:18
+And that pattern in terms not just in terms of, you know, we I really for nourished. We're gonna have to go beyond age and beyond the fusion pencils. Over my we it's it's about it is about getting chips and focus on the data in the midbrain. And the reason for that is because all of our incoming senses, you know, from our eyes for airs, they collide at the midbrain first before they connect with the rest of the cortex.
+06:47
+So that's like the point. What? Our senses converge, in the center of the room, I'm making these like hand gestures so she can't see on the radio but yeah, so just imagine that I have an gastric for your eyes and a hand gasket for your ears and then I move my hands together and where they come together is like if the ballads or somewhere in the midbrain and then they connect with the rest of the core taxes, you know, for the eyes, they kind of go to the center of the robes by the ways.
+07:19
+And then you've got a whole bunch of information coming back at the same time, back towards the Dallas. Anyway so the point is if we so that idea is if you try to study from EG which on top of your head, at that point, everything is scattered. It's all over the place.
+07:39
+I mean you have there's their maps of the brand that dividend places like Berkeley where they say. You know, you're a concept of a cat and a dog has more neural correlates over in this region of the brain. Which I'm doing another hand gastro, so it's like, I'm pointing to one part of my head and then you have another concept of a house and a motorcycle, which is gonna be in a different region of the head.
+08:06
+So now stuff is all like scattered and distributed sparsing distributor representations and somehow when you're receiving and they come together, like you would receive a dog at a house and in one picture and one for and that's like different parts of your brains sort of like lighting up and then coming together and maybe they're coming together back.
+08:28
+You know, maybe that's the back propagation. When it comes back together to the center, we're going to the mid brain to the downness or your sensors are coming in. Maybe that information is coming together there, when it's one, it's in the near apartments like all over the place. So the place we want to put our sensors is in the mid brain.
+08:45
+And if we do that, then hopefully we can capture the photo when it's coming together before, it's scatters across the main projects and or the sensor image in the sensor image, we want to capture is is leg is electric mechanic. It's it's rainways because it will see there's nons have electricals, synapses of chemicals and absolutes.
+09:08
+And they're all generating a lot of random activity and the cells of the neurons have. But the bottomless cell body has all this metal has, you know, calcium ions otherwise the outside of the supply and it has potassium ions negative ions on the inside of the cell body and those those, you know, the classic example.
+09:30
+And any neuroscience or competition neuroscience textbook is these charges or separated through the activity. And then what happens is they separate enough, they caught it because the cell there's so has to people rise. This separation, pay positive thing, or charge the same principle, might positive negative charges separate and the sky.
+09:54
+And obviously, inviting both in the brain, have an action potential. But unlike the sky that there is a, there's a patent least resistance. That's that is the the axon body itself, the middle of the cell body and that doesn't. And unlike you know standard neuroscience textbook, it doesn't the action potential doesn't travel direct between two neurons.
+10:20
+It's not. It's it's actually it goes along the body of the cell and you can see it is an illustration, but then it goes to the axon terminal or the, the post in apps. And inside the postnap is, is synapse so complex. It's a little micro computer and the out.
+10:40
+And so we used to say in computational that you have the summarized, whatever it goes, well, the acts on terminal, but and into like a one or is our. But now, scientists are woke up to the idea that wait a second. What's being sent is a lot more complex than that because that you can't just summarize as a learner.
+11:02
+So it's has a way. Has an apt to has has the charges count that there's information in and the voltage. In terms of the difference between like, it could be that's information, right? And then so that is a scent across the entity action terminal or. And then, if it's a chemical synapse, it's I mean, it's electric sets.
+11:31
+It does transfer me to in current, but if it's chemical synapse, what happens is the triggers a bunch of neurotransmitters ions to faster. But what's was really, really, really changing and seeing other internal transmitters have charged. So, again, it's like charges in terms of load atomic charges, positive and negative charges.
+11:52
+And this synapse is like a computer and it's it's and the dendrite itself. So, so is it. Here's the real question. Okay, so this is like one of those things I study like a dynamic. So circuits, For example, The real question is, if you have seen neuron now, as sending is neurotransmitters to the next, but there are a finite number of neurotransmitters.
+12:21
+And each neuron is connected to some of our between 10,000 and 200,000 over the last. So when you see a neural circuit of brain which means the same group of neurons light up and a sequence and but it's also feedback or like it's a repeating sequence. How is it that sequence ever repeats more than once?
+12:44
+And it we're thinking is this is that the neurons in it any feedback or not necessarily directly connect. So you'll see a neuron, the lights up the same and then there's darkness for several connections. And then you're on summer, further down, lights up in terms of rain, your energy and then, and then, so I'm making another illustration, my hand.
+13:09
+So then here with me audio of listening. So then there's a third point now. So imagine a circle and there's six points on this circle. And each of those six points is in there on this lighting up and they're not necessarily directly connected but they keep lighting up in that same circle over and over again.
+13:27
+And that's what we call circuit. But why would that ever happen? And so there's a lot of different, you know, network areas about why that might happen. But the most obvious most obvious possible solution to that is, it's fun to mention about electromagnetism, you know? And it could be the dendrite which is the receiving terminal of the synapse.
+13:51
+It could be. That the dendrite is it, generates are, you know, like more than 80% of the brain and it just makes up a lot of space. And they're really complex that they're like, it's like a tree, but it has like a tree with all these like notches. Yeah.
+14:09
+Excellent fibers. And so, the dendrite could be doing a lot of interesting, computations people really analyze. This, the gender itself could be like a sort of mini computer or microchip. It's very fascinating. And so, but the gender is that whole feedback loop a discreet step then and in some sense, or is it still analog?
+14:32
+And that feedback could be at the screen step, each part of each part of, it can be industries to screen step where the dendrite itself could be like. So imagine you have a bunch of dendrites that are competing like on 10,000 or a hundred thousand danger that impeding for the signal that's coming from the era that's in all the textbooks, right?
+15:00
+Well, it could be that the dendrites gender that receives. It is the one that has the most negative charge in summary and all the other ones have a slightly more positive charge. So it's creating a situation where you have like, the lightning like lightning strike. We have a separation of positive negative charges.
+15:20
+So the dance right on the past the most terminal is receiving is actually setting up to. It's like saying okay, I need to receive the next call from this neuron and it's achieving that with with Angela polarization electromagnetism And so that's how that's a hypothesis of how we have neural circuits.
+15:46
+So if the brain is all, I mean if the brain is operating sort of like in terms of electromagnetism In, that would make sense because we see that we capture all these brainwaves We don't. What is a brainwave? We're a brainwave is a way of ion It's flowing throughout the entire brain and it has a, and has all these interesting properties has an angle has a amplitude that has a velocity as, and what does it mean to to the end?
+16:21
+So, we measure, we can see these with each cups, we can capture them. Escaping our scalp, like the solar flares, escaping the sun's probable, okay, I'm born a couple of those. Yeah. Before any other it's I had an easy business once and it's full technology and I have to be still because your muscle movement will create a ton of noise and then the problem chip processor has to work overtime to eliminate that that noise from anyway.
+16:53
+So to EG is it's still hasn't eaten reached, it's full potential. Especially you know, when you started replying, the power of a supercomputer that goes in a self-driving car to your easy analysis data, I mean, this just hasn't been there. So there's a lot of recent things for EG and for MRI and DTI or new brain period interfaces, I think, possibly potentially revolutionizable neuroscience, but one of the great, there's not a great new content righteous.
+17:23
+You don't have to only study EG, you can also study the eye movement the or what they call it, you know, it's eye tracking. But also people dilation tracking, and heart track and you can put all these on a single sheet. There's a software called narrow type source, created by a Tim and, and there's other softwares, I think can be had their own now.
+17:46
+Microsoft has it on now, but allows you to take multiple kinds of sensor data and unless they're using the open source, any kind of sensors into a single sheet, so you sort of timeline, and it's time to sign up. I'm locking the data so that you can run a on the process.
+18:03
+So the deep learning can, you know, it's great for observing, you know, like it's great for monitoring things, like for electric companies for monitoring power distribution, every time and predicting where the power is going to go. So you could easily imagine that as a way to monitor. Like when let's say that someone you're wearing automatically reality glasses, we've got EEG, we've got a heart rate monitor and you've got the eye tracking of people, dilation stuff, and all this is.
+18:34
+And maybe you ever watch and watch us like all these biosensors too. It's all going into one sheet and you know, in the heart pendant like all these great bio trackers and you've got more controllers and you've got your head tracking and and you at the same time you call, you've got all the computer vision stuff going on as categorizing objects.
+18:53
+And so, then you have deep learning is noticing that when you see a virtual box in a kitten jumps out of it and maybe I don't notice your heart rate, how to spike at the same time in some region and then you're pupils slightly and then and then someone a new person walks into the room and you have another kind of reaction between a heart and I'm a brain and watching.
+19:21
+And so that's that's a way of you know, when we do medical imaging it doesn't it should be multimodal. It's not but it's only do each a or there's only do MRI and and this is already a trend that we're seeing in science. Scientists are we combining like, okay well what can we stick?
+19:41
+Because, you know, MRI machine, obviously, it's magnetic. So you're limited in terms of design to to mix with that, but there are cool thing. People are coming up with. And so, so getting back to the brain is magnetic. And that means if we can figure out. So if you, if you were setting your brain while we're setting your environment and let's say that you decide to build a say that you're working on your computer and your working on is creating like you're just able making a voice recognition API for Google robot and then the computer is watching you do that and it's watching it.
+20:25
+The neural ports and the narrow correlates is also, it's not only your brain wave activity but it's also your eye tracking and people dilation and the computer is figuring out. Okay, so this pattern of working on the voice recovery, your robot is exactly is exactly matching found the brainwave pattern.
+20:47
+That's mashing what ways to on his computer or maybe it's and we've isolated that from the computer itself. Like we're getting greatest thinking this springway pattern is for the computer and this is for what he's working on specifically. And so, then the computer could tell you at some point this network because it has these concepts of how all these signals meet together, computer can tell you if you, if you turn off, if you like put a curtain in front of the computer's cameras so can no longer see what you're doing, can only see your neural correlates.
+21:23
+It should be able to tell you from your normal, toilets that you're working on the computer and you're working on the application. And that means that we have, you know, the voice recognition. That means we have now identified the temple of spatial ionic brainwave pattern of ways working on computer, of course recognition for his robot.
+21:46
+And this week I think some of the first use cases but the neural lace will definitely in the medical field like solving parking sense disease like this great energies for absolutely. We have to invest so the first step to solving our latest identify, those brainwing patterns a decode will bring us from.
+22:06
+The second step is to identify the communication particle, like in network, communication protocol. So, imagine her brain was organized, like a network, like the internet, which is very popular. I mean, packets, like packets. Yeah. So is it more like TCP or more? Like beauty page, the transmission control portal or user data.
+22:25
+Particle is in TCP is like you know, you need a connection. We need a almost TCP is like a feedback. UDP is like you just throw back to data. It's faster. It's great for mass multiplayer, and these are different and then those are the top two network particles and below that there are other many other chemical protocols like HTTP, right?
+22:47
