@@ -40,8 +40,10 @@ Just as there are many things that I've said online on social media that I mysel
 
 This is the homepage of the Self Aware Networks Institute that you can contribute to from your github account by making a pull request. The contents of this Institute are the source material for the book called "Self Aware Networks" that I haven't released yet. The web address is selfawarenetworks.com and there are a number of associated groups that I will link here shortly. 
 
-# The order of the notes is almost completely random as of June 17th, but going forward the content will become increeasing well organized and documented.
+# The order of the notes is almost completely random as of June 17th, but going forward the content will become increasing well organized and documented.
 I came up with the numbering system after most of the notes were created and I deleted notes and gave some notes that were unnumbered the numbers of deleted notes. So there is no great importance to the first notes. Some of the notes date back to 2011. So these notes are selections from a larger set of notes going back more than 10 years.
+
+# Note if you can't figure out what is happening with this over all stack of notes don't sweat it, I will be creating videos to go 
 
 Notes in the a0000z series represent the original text notes have a title format like a0000z, sometimes they contain text that was written by others (noted as such), but copied to preserve conversations so that I could think about the content of those conversations again down the road.
 
