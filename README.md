@@ -113,3 +113,7 @@ The original files I uploaded & hosted on github.com/v5ma including the text and
 This github & the notes uploaded by the author of this github, which is found at github.com/v5ma are the copyright of Micah Samuel Blumberg who was born in Westminster, California, USA in the year 1980.
 
 I'm declaring ownership of all the concepts & notions that I have introduced to the world, appearing in these notes, as my intellectual property, all rights reserved. In the case of the audio notes, I will later help clarify what was said by myself, and what was said by others, and I will improve the transcriptions.
+
+# Government Scale Licensing
+
+If NATO, The North Atlantic Treaty Organization, or the United Nations, or the United States Government wishes to license my intellectual property to build Sentient & Self Aware Artificial Neural Networks the price is 1 trillion US dollars a year (in today's prices), but with this technology you will have the ability to 3D print, or manufacture new intelligent workers essentially. So 1 trillion US dollars a year will be less 1% of your annual GDP with this technology. If you license this technology from me I will invest almost all of that money back into the global economy, for the benefit of all mankind. I will also help to design & maintain safety systems that prevent this technology from becoming an out of control technology.
