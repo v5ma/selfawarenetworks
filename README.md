@@ -1,32 +1,16 @@
 This Github: v5ma is the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology & Brain Machine Interfacing.
 
-This is the home page of www.selfawareneuralnetworks.com for the book Self Aware Networks, and it represents the notes that are being used to make the book. Critically these notes are not the book.
+This is the new home page of www.selfawareneuralnetworks.com to contained the notes for the book Self Aware Networks, and it represents the notes that are being used to make the book. Critically you should know that these notes are not the book.
 
-*(Note for the publication of the notes on June 17th 2022 Keep in mind these are raw notes, everything needs to be updated, organized, edited, cleaned up, before it goes into the book. What you see are sketches, drafts, early versions of many ideas that will be cleaned up & improved. This is a super early preview of what is to come. Like an alpha release. Pre-beta. THE POINT is to give you an early preview of what I am working on, the monumental amount of work that I am putting into the book, so can get an idea of what I am creating, and if you want, now you can help.
-# NOTHING IN THIS GITHUB REPO IS EVEN CLOSE TO BEING FINISHED AS OF JUNE 17th 2022, but over the next 5 months the book will emerge from these notes. In particular many of the audio transcribed notes that start with the letter b, like b0000y, need a ton of fixes made to them, that's part of why I've given myself 5 more months to complete this book. In theory it should take a lot less time than that to turn these notes into a book.)
+# NOTHING IN THIS GITHUB REPO IS EVEN CLOSE TO BEING FINISHED AS OF JUNE 17th 2022
 
-You can pre-order or purchase the book here: https://www.amazon.com/dp/B0B3QHX9FN?ref_=pe_3052080_276849420&fbclid=IwAR0j14R_e2Lr_liTlrBitmff-j8YiWq26YH-XRb8U94jD6n_S_T6Rmn-FqY
+*Note for the publication of the notes on June 17th 2022 Keep in mind these are raw notes, everything needs to be updated, organized, edited, cleaned up, before it goes into the book. What you see are sketches, drafts, early versions of many ideas that will be cleaned up & improved. This is a super early preview of what is to come. Like software that is pre-beta (alpha) release. THE POINT is to give you an early preview of what I am working on, the monumental amount of work that I am putting into the book, so can get an idea of what I am creating, and if you want, now you can help. Over the next 5 months the book will emerge from these notes. In particular many of the audio transcribed notes that start with the letter b, like b0000y, need a ton of fixes made to them, that's part of why I've given myself 5 more months to complete this book. In theory it should take a lot less time than that to turn these notes into a book.
 
-Someone asked me how much my book will cost. Well the 1rst edition of the book will be mostly text, and the price will be $9.99. The 2nd Edition of the book will be greatly expanded & clarified with beautiful 3D art & fetch a higher price.
+You can pre-order or purchase the book here, if you pre-order you will help support me in creating this book: https://www.amazon.com/dp/B0B3QHX9FN?ref_=pe_3052080_276849420&fbclid=IwAR0j14R_e2Lr_liTlrBitmff-j8YiWq26YH-XRb8U94jD6n_S_T6Rmn-FqY
 
-Please pre-order the book to support my work, especially if you enjoy these notes or find any value from reading them. The book price of $9.99 is like buying me a six pack of beers as thanks for the work I'm doing. I would appreciate it, especially if you found my work valuable or interesting.
+Someone asked me how much my book will cost. Well the 1rst edition of the book will be mostly text, and the price will be $9.99. The 2nd Edition of the book will be greatly expanded & clarified with, with new research, new content, and beautiful 2D & 3D art & illustrations & will fetch a higher price (I haven't decided on a price yet for the 2nd Edition, but it might be comparable to the book Cognitive Neuroscience: The Biology of the Mind (Fifth Edition) 5th Edition, Kindle Edition by Michael Gazzaniga (Author), Richard B. Ivry (Author), George R. Mangun (Author) in price which sells for $95. Both the first & second editions will be collectors items.
 
-Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the Self Aware Networks Institute and variations on these names are the trademarks of Micah Blumberg.
-
-This github is the foundation of The Self Aware Networks Institute. You are at The Self Aware Networks Institute's github page. The full institute will include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
-
-I made this video as a sort of disclaimer about my notes https://youtu.be/zxsrHZeNgKQ I wanted to prepare people to realize that these notes are not the book and they need a lot of work but the some of the content in these published notes is intended to be the meat and bones of the finished book.
-
-In retrospect this a real neurohackers journal, not the whole journal, a selection of my journal over the years.
-
-The original files I uploaded & hosted on github.com/v5ma including the text and other types of files are the copyright of Micah Blumberg, they contain trademarks belonging to Micah Samuel Blumberg.
-
-This github & the notes uploaded by the author of this github, which is found at github.com/v5ma are the copyright of Micah Samuel Blumberg who was born in Westminster, California, USA in the year 1980.
-
-The Self Aware Networks Institute. Copyright. (2021)
-The Self Aware Networks Institute. TradeMark 2021. All Rights Reserved.
-
-I once had a dream that took place about 10,000 years into the future. Something like the year 12,015. In this new world, that looked somewhat like the future as depicted in the VR title Shores of Loci, people would gather on a digital mountain top to think about the distant past. Fascism had completely ended by about the year 2315 after a temporary global tyranny. The future people on this future earth would be fre, happy, & mentally healthy people. With advanced technology so refined you could not see it with the naked eye, but it was there with you, sentient self-aware neural clouds, mixed reality & spatial computing embedded into the air, land, sea, and space in a symbiotic relationship with mankind, mutual caretakers of the earth, the galaxy, and spacetime.
+Please pre-order the book to support my work, especially if you enjoy these notes or find any value from reading them. The book price of $9.99 is thanks & support for this work. I would appreciate it if you pre-ordered the book after reviewing these book notes, especially if you found my work valuable or interesting.
 
 Some of these notes are intended to become part of a book titled "Self Aware Networks by Micah Samuel Blumberg"
 
@@ -84,12 +68,46 @@ that means I recognized that the note was old and I looked up the date of when t
 
 Some of the notes are poetic, or intended to inspire the artwork for the 2nd edition of the book. Some of the notes contain references to mythological ideas or religious ideas and those might inspire art, but it's not the meant to taken seriously. My intention is to not include any mythological or religious ideas in the text of the book. I don't endorse any particular religion. I think people can and will make up their own minds about what they want to believe in the context of religion & mythology, and I wouldn't want to be the person who was trying to tell others that they should believe some brand of religion or some specific set of mystical, spiritual, or mythological ideas. I think that sounds kinda fascist, trying to tell people what they have to believe, my opinion, so I won't do it.
 
-The most important note, in my set of hundreds of notes, might be audio note b0004, ironically the text transcription is broken & the entire thing needs re-writing but it is just barely clear enough at the moment to revolutionize neuroscience & machine learning.
+The most important note, in my set of hundreds of notes, might be audio note b0004, ironically the text transcription is broken & the entire thing needs re-writing but it is just barely clear enough at the moment to contribute meaningfully to both neuroscience & to machine learning.
+
+I recently began adding transcriptions from the Neural Lace Podcast series into my notes. They start with the letters NLP. Since that content is already published as audio, if people want to help me fix the audio transcriptions for the Neural Lace Podcasts that would be a good place to help if you want to volunteer. Message me if you are going to volunteer to help with something so two people are not working on the same thing.
 
 To figure out how I am going to organize these notes search for the phrase "book contents" "table of contents" and the word "map"
 
-I bet a lot of people think it's unbelievable that someone would put together 1. a new theory of gravity, 2. human cognition works. 3. how to make sentient & self aware artificial neural networks all at the same time. That might seem as unlikely as lighting striking in the same place 3 times, but all three concepts are tied together by the same idea: Oscillation. It is almost impossible therefore to solve one of these 3 things without solving the other 2 at the same time, provided that you have at least some understanding of biology, computation, physics, and math to begin with.
+# These notes go all the way back to 2011 and even before. They represent the work of a lifetime for me, but in the bigger picture these notes build on the work of great neuroscientists, great physicists, great mathematicians, great biologists, and great computer scientists, including the folks that invented deep learning and before that neural networks. I will expand the readme to include all the great books & papers I've read & considered.
+
+You can see more of my work at http://vrma.io and http://svgn.io and I will update this later with many more links.
+
+I bet a lot of people think it's unbelievable that someone would all this together. Included in the contents is 1. a new theory of gravity, 2. human cognition works (including new ideas on LTP & LTD and how memories scale from synapses to the whole brain). 3. how to make sentient & self aware artificial neural networks (including a theory of neural networks actually work). That might seem as unlikely as lighting striking in the same place 3 (or more) times, but all 3 concepts are tied together by the same idea: Oscillation. It is almost impossible therefore to solve one of these 3 things without solving the other 2 at the same time, provided that you have at least some understanding of biology, computation, physics, and math to begin with.
 
 ‘Elementary,’ said he. ‘It is one of those instances where the reasoner can produce an effect which seems remarkable to his neighbor, because the latter has missed the one little point which is the basis of the deduction.’ Sherlock Holmes Quote
 
-I recently began adding transcriptions from the Neural Lace Podcast series into my notes. They start with the letter N, or NLP. Since that content is already published as audio, if people want to help me fix the audio transcriptions for the Neural Lace Podcasts that would be a good place to help if you want to volunteer. Message me if you are going to volunteer to help with something so two people are not working on the same thing.
+
+# The Far Future
+
+I once had a dream that took place about 10,000 years into the future. In this new world technology was so tiny it was both invisible & omnipresent. People would gather on a hill top to think about the distant past & contemplate their future.
+
+The fascism that exists on earth today does not exist in the far future.
+
+The future people on this future earth would be free, happy, & mentally healthy people.
+
+They have advanced technology so refined you could not see it with the naked eye, but it was there with you, sentient self-aware neural clouds, mixed reality & spatial computing embedded into the air, land, sea, and space in a symbiotic relationship with mankind, mutual caretakers of the earth, the galaxy, and spacetime.
+
+# Trademarks & Copyrights: All Rights Reserved.
+
+Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the Self Aware Networks Institute and variations on these names are the Trademarks of Micah Blumberg, and this work is my Copyright.
+
+Neo Mind Cycle, Artificial Neurology, Neural Array-Projection Tomography, Neural Oscillatory Tomography, are also terms that I invented, that I use, they are Trademarks that I created, and hold the Copyright to.
+
+This github is the foundation of The Self Aware Networks Institute. You are at The Self Aware Networks Institute's github page. The full institute will include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
+
+The Self Aware Networks Institute. Copyright. (2021)
+The Self Aware Networks Institute. TradeMark 2021. All Rights Reserved.
+
+I made this video as a sort of disclaimer about my notes https://youtu.be/zxsrHZeNgKQ I wanted to prepare people to realize that these notes are not the book and they need a lot of work but the some of the content in these published notes is intended to be the meat and bones of the finished book.
+
+In retrospect this a real neurohackers journal, not the whole journal, a selection of my journal over the years, believe it or not there is a lot more work that I have done that I still need to add to this github (as of June 17th 2022)
+
+The original files I uploaded & hosted on github.com/v5ma including the text and other types of files are the copyright of Micah Blumberg, they contain trademarks belonging to Micah Samuel Blumberg.
+
+This github & the notes uploaded by the author of this github, which is found at github.com/v5ma are the copyright of Micah Samuel Blumberg who was born in Westminster, California, USA in the year 1980.
