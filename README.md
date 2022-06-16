@@ -3,7 +3,7 @@ This Github: v5ma is the Self Aware Networks Institute for Sentient & Self Aware
 This is the home page of www.selfawareneuralnetworks.com for the book Self Aware Networks, and it represents the notes that are being used to make the book. Critically these notes are not the book.
 
 *(Note for the publication of the notes on June 17th 2022 Keep in mind these are raw notes, everything needs to be updated, organized, edited, cleaned up, before it goes into the book. What you see are sketches, drafts, early versions of many ideas that will be cleaned up & improved. This is a super early preview of what is to come. Like an alpha release. Pre-beta. THE POINT is to give you an early preview of what I am working on, the monumental amount of work that I am putting into the book, so can get an idea of what I am creating, and if you want, now you can help.
-# NOTHING IN THIS GITHUB REPO IS EVEN CLOSE TO BEING FINISHED AS OF JUNE 17th)
+# NOTHING IN THIS GITHUB REPO IS EVEN CLOSE TO BEING FINISHED AS OF JUNE 17th 2022, but over the next few months the book will emerge from these notes.)
 
 You can pre-order or purchase the book here: https://www.amazon.com/dp/B0B3QHX9FN?ref_=pe_3052080_276849420&fbclid=IwAR0j14R_e2Lr_liTlrBitmff-j8YiWq26YH-XRb8U94jD6n_S_T6Rmn-FqY
 
