@@ -5,7 +5,7 @@ This Github address github.com/v5ma is home page on github for
 
 # The Self Aware Networks Institute for Neurophysics, Artificial Neurology, Brain Machine Interfaces, and Medical Research.
 
-You are in the newself repo which is for the book notes.
+You are in the selfawarenetworks repo which is for the book notes, there is another repo that has pictures & book quotes called picturesforbook
 
 This page is the home page of www.selfawareneuralnetworks.com and this repo contains the notes for the book Self Aware Networks, and it represents the notes that are being used to make the book. Critically you should know that these notes are not the book (not yet anyways).
 
