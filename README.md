@@ -1,8 +1,9 @@
-Today I publish my notes on Github. You should not read my notes right now. You can but these notes are not ready for people to read them. They still need lots of editing & fixing. I'm sharing this now so people can see my book is real, please pre-order the book. github.com/v5ma
+I've published my book notes for Self Aware Networks: Neurophysics, Artificial Neurology, Brain Machine Interfaces
+via Amazon.com https://www.amazon.com/dp/B0B3QHX9FN/ref=cm_sw_em_r_mt_dp_TYDKS7TRVVB80R73FVEY on github.com/v5ma These notes are not ready for anyone to read them as they still need lots of editing & fixing. The book includes a new gravity equation hypothesis, a new model of a neuron, a new explanation for LTD & LTP, a new explanation for internal representations or qualia, a new explanation for how our bodies & brains are conscious, and much more.
 
 This Github address github.com/v5ma is home page on github for
 
-# The Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
+# The Self Aware Networks Institute for Neurophysics, Artificial Neurology, Brain Machine Interfaces, and Medical Research.
 
 You are in the newself repo which is for the book notes.
 
