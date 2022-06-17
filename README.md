@@ -10,13 +10,13 @@ You are in the selfawarenetworks repo which is for the book notes, there is anot
 This page is the home page of www.selfawareneuralnetworks.com and this repo contains the notes for the book Self Aware Networks, and it represents the notes that are being used to make the book. Critically you should know that these notes are not the book (not yet anyways).
 
 # NOTHING IN THIS GITHUB REPO IS EVEN CLOSE TO BEING FINISHED AS OF JUNE 17th 2022
-(please let me know if you see something wacky in the audio notes (or in any of the notes), and know that an artificial neural network replaced some of my words in the audio transcription, and that some sentences were spoken by other people, I haven't proof read every line yet. So let me know if you see something that should be deleted or clarified.)
+(please let me know if you see something wacky in the audio notes (or in any of the notes), and know that an artificial neural network replaced some of my words in the audio transcription, and that some sentences were spoken by other people, I haven't proofread every line yet. So let me know if you see something that should be deleted or clarified.)
 
 # Personal sounding journal stuff in the book notes is not necessarily true, accurate, or relevant, and will be mostly cleaned up & removed going forward.
-If you see something that looks like it belongs in a personal diary, realize two things 1. It doesn't mean its true, in my view the human brain procedurally generates sentences, memories, fictions and memory is not always reliable. 2. I will be pruning or removing content that is off topic for the book & the institute and that includes most of the stuff that might sound personal. Some of it might be used in the author bio section but that should be a short section at the back of the book.
+If you see something that looks like it belongs in a personal diary, realize two things 1. It doesn't mean it's true, in my view the human brain procedurally generated sentences, memories, fictions and memory is not always reliable. 2. I will be pruning or removing content that is off topic for the book & the institute and that includes most of the stuff that might sound personal. Some of it might be used in the author bio section but that should be a short section at the back of the book.
 
 # The key thing to remember is that while the notes are a mess today (June 17th 2022) I will be going through them on video to explain what is important & relevant, and separating the wheat from the chaff (distinguishing the valuable information from worthless stuff)
-*Note for the publication of the notes on June 17th 2022 Keep in mind these are raw notes, everything needs to be updated, organized, edited, cleaned up, before it goes into the book. What you see are sketches, drafts, early versions of many ideas that will be cleaned up & improved. This is a super early preview of what is to come. Like software that is pre-beta (alpha) release. THE POINT is to give you an early preview of what I am working on, the monumental amount of work that I am putting into the book, so can get an idea of what I am creating, and if you want, now you can help. Over the next 5 months the book will emerge from these notes.
+*Note for the publication of the notes on June 17th 2022 Keep in mind these are raw notes, everything needs to be updated, organized, edited, cleaned up, before it goes into the book. What you see are sketches, drafts, early versions of many ideas that will be cleaned up & improved. This is a super early preview of what is to come. Like software that is pre-beta (alpha) release. THE POINT is to give you an early preview of what I am working on, the monumental amount of work that I am putting into the book, so you can get an idea of what I am creating, and if you want, now you can help. Over the next 5 months the book will emerge from these notes.
 
 # In particular many of the audio transcribed notes that start with the letter b, like b0000y, need a ton of fixes made to them, the main issue is that Google Recorder's Neural Network replaced words that I said with words that I didn't say, and that makes many of the audio notes incoherent, but they will make sense when I fix them.
 
@@ -47,15 +47,15 @@ Just as there are many things that I've said online on social media that I mysel
 
 This is the homepage of the Self Aware Networks Institute that you can contribute to from your github account by making a pull request. The contents of this Institute are the source material for the book called "Self Aware Networks" that I haven't released yet. The web address is selfawarenetworks.com and there are a number of associated groups that I will link here shortly. 
 
-# The order of the notes is almost completely random as of June 17th, but going forward the content will become increasing well organized and documented.
-I came up with the numbering system after most of the notes were created and I deleted notes and gave some notes that were unnumbered the numbers of deleted notes. So there is no great importance to the first notes. Some of the notes date back to 2011. So these notes are selections from a larger set of notes going back more than 10 years.
+# The order of the notes is almost completely random as of June 17th, but going forward the content will become increasingly well organized and documented.
+I came up with the numbering system after most of the notes were created and I deleted notes and gave some notes that were unnumbered with the numbers of deleted notes. So there is no great importance to the first notes. Some of the notes date back to 2011. So these notes are selections from a larger set of notes going back more than 10 years.
 
 # Formatting: Note if you can't figure out what is happening with this over all stack of notes yet just wait.
 I will be creating videos regularly to help explain the contents.
 
 Notes in the a0000z series represent the original text notes have a title format like a0000z, sometimes they contain text that was written by others (noted as such), but copied to preserve conversations so that I could think about the content of those conversations again down the road.
 
-Notes in the b0000y series represent transcribed audio notes have a title format like b0000y and they will often contain conversations that for example includes a mixture of things said by myself and other people, the audio itself will be published later on in some cases.
+Notes in the b0000y series represent transcribed audio notes that have a title format like b0000y and they will often contain conversations that for example includes a mixture of things said by myself and other people, the audio itself will be published later on in some cases.
 
 Please note that audio notes were auto transcribed with neural networks via Google Recorder, and then I put them into Google Docs to run an automatic grammar check. So what you are reading is NOT exactly what was originally said. That is why I am sharing it in my notes but I will not share this in this form in my book.
 
@@ -63,11 +63,11 @@ c0000x was invented to designate notes that correspond to sections of the book o
 
 Some of the notes I'm sharing are outdated older ideas. a0608z for example is from November 14th 2014 and I included it because it's interesting.
 
-# Yes I am noticing a lot of redundant statements in this readme. I will be cleaning this up soon sorry about that.
+# Yes I am noticing a lot of redundant statements in this readme. I will be cleaning this up soon, sorry about that.
 
 Sorry about the grammatically incorrect run on sentences, everything, including this readme file will be updated & improved continually.
 
-I hope that the most intelligent people in the world read & enjoy my notes on human phenominological consciousness, memory, gravity, cells & sentient machines, but I am going to tell you upfront that its not all correct, some of the notes will not be included in the eventual book, but its enough to get the main ideas across about the brain, the mind, and reality.
+I hope that the most intelligent people in the world read & enjoy my notes on human phenomenological consciousness, memory, gravity, cells & sentient machines, but I am going to tell you upfront that it's not all correct, some of the notes will not be included in the eventual book, but it's enough to get the main ideas across about the brain, the mind, and reality.
 
 Some of the ideas in these notes for the book are incorrect, outdated, and kept simply because they contained something interesting that I wanted to follow up on later. Some of the ideas are very well backed with sources. Some of the ideas I believe are correct are so different I will likely have to debate them. OK.
 
@@ -80,11 +80,11 @@ Some of the software that is going to be used for this institute can be found at
 
 # In the near future this institute will be accessible from the web in Augmented Reality & in Virtual Reality.
 
-However submissions are subject to approval. Not every submission will be accepted. Submissions need to be outstanding quality, from reputable sources (submissions from people with the names of terrorists and or fascist dictators will no be considered valid submissions), and the contributions need to be extraordinarily meaningful & valuable, unlike some github submissions that offer some trivial contribution just for status. So don't just run one of my notes through the grammar & spelling check in Google Docs and submit that, I can do that. Do something that radically reorganizing the existing content in a mindblowingly insightful way, or create mindmaps, artwork, spreadsheets, diagrams, and cite mountains of research for or against any of the proposals in these book notes and such contributions might be considered worthy of inclusion.
+However submissions are subject to approval. Not every submission will be accepted. Submissions need to be outstanding quality, from reputable sources (submissions from people with the names of terrorists and or fascist dictators will no be considered valid submissions), and the contributions need to be extraordinarily meaningful & valuable, unlike some github submissions that offer some trivial contribution just for status. So don't just run one of my notes through the grammar & spelling check in Google Docs and submit that, I can do that. Do something that radically reorganizes the existing content in a mind blowingly insightful way, or create mind maps, artwork, spreadsheets, diagrams, and cite mountains of research for or against any of the proposals in these book notes and such contributions might be considered worthy of inclusion.
 
 Please note that many of the notes date back a decade or more, with many from the period between 2011 & 2014 included because they were interesting, not because they were correct. There are many novel and interesting notes that I'm including that I know contain incorrect information. The US Government may wish to ask me to clarify some of the notes and I will do that if they decide they want to work with me.
 
-Another disclaimer. Not all of the notes are intended to be serious. Some include cultural references to science fiction films, science fiction books, or other popular media content, and none of these cultural references to popular media content are intended for the book, but at somepoint we can have a dedicated repo to cultural references related to brain computer interfaces, intelligent robots, science fiction, and other content that might be interesting to people who like these topics.
+Another disclaimer. Not all of the notes are intended to be serious. Some include cultural references to science fiction films, science fiction books, or other popular media content, and none of these cultural references to popular media content are intended for the book, but at some point we can have a dedicated repo to cultural references related to brain computer interfaces, intelligent robots, science fiction, and other content that might be interesting to people who like these topics.
 
 # Content Organization: The way these notes are meant to be used is via the "Search Repository Tool"
 
@@ -101,10 +101,10 @@ I would love it if enthusiastic people wanted to donate their time to helping to
 example: 
 a0074z
 Oct 17, 2012
-that means I recognized that the note was old and I looked up the date of when the original note was saved (in another system) most of the undated notes are newer, and some of the older dated notes have had new things added to them. I can lookup dates upon request to add them to notes if you want to know when the note was added to my other note library (that is not on github) but even then sometimes the content in the note is far older than the creation of the note itself because the content came from something I wrote on social media years prior to creating the note, or from an old audio recording.
+That means I recognized that the note was old and I looked up the date of when the original note was saved (in another system) most of the undated notes are newer, and some of the older dated notes have had new things added to them. I can lookup dates upon request to add them to notes if you want to know when the note was added to my other note library (that is not on github) but even then sometimes the content in the note is far older than the creation of the note itself because the content came from something I wrote on social media years prior to creating the note, or from an old audio recording.
 
 # Art, Poetry, Mythology
-Some of the notes are poetic, or intended to inspire the artwork for the 2nd edition of the book. Some of the notes contain references to mythological ideas or religious ideas and those might inspire art, but it's not the meant to taken seriously. My intention is to not include any mythological or religious ideas in the text of the book. I don't endorse any particular religion. I think people can and will make up their own minds about what they want to believe in the context of religion & mythology, and I wouldn't want to be the person who was trying to tell others that they should believe some brand of religion or some specific set of mystical, spiritual, or mythological ideas. I think that sounds kinda fascist, trying to tell people what they have to believe, my opinion, so I won't do it.
+Some of the notes are poetic, or intended to inspire the artwork for the 2nd edition of the book. Some of the notes contain references to mythological ideas or religious ideas and those might inspire art, but it's not meant to be taken seriously. My intention is to not include any mythological or religious ideas in the text of the book. I don't endorse any particular religion. I think people can and will make up their own minds about what they want to believe in the context of religion & mythology, and I wouldn't want to be the person who was trying to tell others that they should believe some brand of religion or some specific set of mystical, spiritual, or mythological ideas. I think that sounds kinda fascist, trying to tell people what they have to believe, my opinion, so I won't do it.
 
 The most important note, in my set of hundreds of notes, might be audio note b0004, ironically the text transcription is broken & the entire thing needs re-writing but it is just barely clear enough at the moment to contribute meaningfully to both neuroscience & to machine learning.
 
@@ -122,7 +122,7 @@ I bet a lot of people think it's unbelievable that someone would put all this to
 
 # Short Term Goals for the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
 
-We are going to use this technology to accelerate Medical Research, and that means advancing medical imaging technologies with artificial neural networks, and solving cellular degenerative diseases with artificial neural networks, accelerating longevity research, curing or finding new strategies to treat cancer, and all of the major and minor disease that affect mankind.
+We are going to use this technology to accelerate Medical Research, and that means advancing medical imaging technologies with artificial neural networks, and solving cellular degenerative diseases with artificial neural networks, accelerating longevity research, curing or finding new strategies to treat cancer, and all of the major and minor diseases that affect mankind.
 
 I hope that governments will adopt a Medical Justice System, that is a Judicial Branch of Government that is independent from the Executive & Legislative Branches of Government but is also medically informed at every level, and that also means that Neuroscientists will be in charge of sentencing, prisons, and the rehabilitation of patients for their return to society after serving their sentences. 
 
@@ -150,9 +150,9 @@ The Self Aware Networks Institute. Copyright. (2021)
 The Self Aware Networks Institute. TradeMark 2021. All Rights Reserved.
 The Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research. Copyright & Trademark 2022
 
-I made this video as a sort of disclaimer about my notes https://youtu.be/zxsrHZeNgKQ I wanted to prepare people to realize that these notes are not the book and they need a lot of work but the some of the content in these published notes is intended to be the meat and bones of the finished book.
+I made this video as a sort of disclaimer about my notes https://youtu.be/zxsrHZeNgKQ I wanted to prepare people to realize that these notes are not the book and they need a lot of work but some of the content in these published notes is intended to be the meat and bones of the finished book.
 
-In retrospect this a real neurohackers journal, not the whole journal, a selection of my journal over the years, believe it or not there is a lot more work that I have done that I still need to add to this github (as of June 17th 2022)
+In retrospect this a real neuro hackers journal, not the whole journal, a selection of my journal over the years, believe it or not there is a lot more work that I have done that I still need to add to this github (as of June 17th 2022)
 
 The original files I uploaded & hosted on github.com/v5ma including the text and other types of files are the copyright of Micah Blumberg, they contain trademarks belonging to Micah Samuel Blumberg.
 
@@ -162,4 +162,6 @@ I'm declaring ownership of all the concepts & notions that I have introduced to 
 
 # Government Scale Licensing
 
-If NATO, The North Atlantic Treaty Organization, or the United Nations, or the United States Government wishes to license my intellectual property to build Sentient & Self Aware Artificial Neural Networks the price is 1 trillion US dollars a year (in today's prices), but with this technology you will have the ability to 3D print, or manufacture new intelligent workers essentially. So 1 trillion US dollars a year will be less 1% of your annual GDP with this technology. If you license this technology from me I will invest almost all of that money back into the global economy, for the benefit of all mankind. I will also help to design & maintain safety systems that prevent this technology from becoming an out of control technology.
+If NATO, The North Atlantic Treaty Organization, or the United Nations, or the United States Government wishes to license my intellectual property to build Sentient & Self Aware Artificial Neural Networks the price is 1 trillion US dollars a year (in today's prices), but with this technology you will have the ability to 3D print, or manufacture new intelligent workers essentially. So 1 trillion US dollars a year will be less than 1% of your annual GDP with this technology. If you license this technology from me I will invest almost all of that money back into the global economy, for the benefit of all mankind. I will also help to design & maintain safety systems that prevent this technology from becoming an out of control technology.
+
+
