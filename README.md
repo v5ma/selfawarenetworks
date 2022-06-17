@@ -71,7 +71,7 @@ I hope that the most intelligent people in the world read & enjoy my notes on hu
 
 Some of the ideas in these notes for the book are incorrect, outdated, and kept simply because they contained something interesting that I wanted to follow up on later. Some of the ideas are very well backed with sources. Some of the ideas I believe are correct are so different I will likely have to debate them. OK.
 
-# This a Science Institute hosted Github meaning that it is open to contributions,
+# This a Science Institute hosted Github meaning that it is open to contributions
 you can submit pull requests from your account and if accepted you will be a documented contributor to this research. I may even cite your work in the upcoming printed version of the book titled Self Aware Networks.
 
 Potentially anyone can contribute to the development of the book, to the development of software, and to the institute. Producing actual software, for drones, for brain computer interfaces, for humanoid robots, for mechanical animals, all of these things are part of the plan. Thanks for insisting on tangible results! Will do! Would be glad to have other folks help if you want to.
