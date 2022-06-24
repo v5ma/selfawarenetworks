@@ -12,6 +12,9 @@ This page is the home page of www.selfawareneuralnetworks.com and this repo cont
 # NOTHING IN THIS GITHUB REPO IS EVEN CLOSE TO BEING FINISHED AS OF JUNE 17th 2022
 (please let me know if you see something wacky in the audio notes (or in any of the notes), and know that an artificial neural network replaced some of my words in the audio transcription, and that some sentences were spoken by other people, I haven't proofread every line yet. So let me know if you see something that should be deleted or clarified.)
 
+# Update June 23, six days past the 17th.
+(still editing & fixing these auto audio transcripts. Fixing these transcripts is a bit more work per hour per day than I realized, ah hmm... and I think I all the notes still need editing at this point. Some more than others. The transcripts might take two months, but the way I am beginning to make connections between documents is threading the book together so this process seems like the right one.)
+
 # Personal sounding journal stuff in the book notes is not necessarily true, accurate, or relevant, and will be mostly cleaned up & removed going forward.
 If you see something that looks like it belongs in a personal diary, realize two things 1. It doesn't mean it's true, in my view the human brain procedurally generates sentences, memories, fictions from fired synapses. As everyone knows human memory is not always reliable. 2. I will be pruning or removing content that is off topic for the book & the institute and that includes most of the stuff that might sound personal. Some of it might be used in the author bio section but that should be a short section at the back of the book.
 
