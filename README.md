@@ -1,5 +1,11 @@
-I've published my book notes for Self Aware Networks: Neurophysics, Artificial Neurology, Brain Machine Interfaces
-via Amazon.com https://www.amazon.com/dp/B0B3QHX9FN/ref=cm_sw_em_r_mt_dp_TYDKS7TRVVB80R73FVEY on github.com/v5ma These notes are not ready for anyone to read them as they still need lots of editing & fixing. The book includes a new gravity equation hypothesis, a new model of a neuron, a new explanation for LTD & LTP, a new explanation for internal representations or qualia, a new explanation for how our bodies & brains are conscious, and much more.
+This is SelfAwareNeuralNetworks.com and you are reading my notes on the Neurophysics of Consciousness
+
+These are the book notes for the book Self Aware Networks: The Neurophysics of Consciousness, Artificial Neurology, Brain Machine Interfaces
+via Amazon.com https://www.amazon.com/dp/B0B3QHX9FN/ref=cm_sw_em_r_mt_dp_TYDKS7TRVVB80R73FVEY on github.com/v5ma 
+
+These notes are not ready for anyone to read them as they still need lots of editing & fixing. The book includes a new gravity equation hypothesis, a new model of a neuron, a new explanation for LTD & LTP, a new explanation for internal representations or qualia, a new explanation for how our bodies & brains are conscious, and much more.
+
+If you really want to feel optimistic about the future of Artificial Intelligence read my notes on the neurophysics of consciousness that you are reading right now, and I think you will agree that humanity has consciousness solved to a degree that it can now be replicated artificially.
 
 This Github address github.com/v5ma is home page on github for
 
