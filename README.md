@@ -1,5 +1,13 @@
 This is SelfAwareNeuralNetworks.com and you are reading my notes on the Neurophysics of Consciousness
 
+# A section to be moved to another note in a little bit.
+https://twitter.com/ylecun/status/1541491973290446850?s=20&t=wcJwi4jLwUCmfLnhe4ZigA
+I have several thoughts on Yann LeCun's model released on June 27th 2022, I am not done reviewing it, but off the top: the glial cell is easily described as a configuratior cell. If could be that each of those roles are filled by both individual cells, by cortical columns, and by the whole brain (taking turns). Mapping those roles to large regions of the brain is I think an outdated idea in neuroscience (that some neuroscientists do not yet realize is an outdated idea) The new thinking is that every part of the brain is doing a little bit of everything, at all scales. Those roles might be what György Buzsáki calls the Brain from Outside In (matching observation to a concept instead of creating a new concept from observation.)
+György Buzsáki's book "The Brain from Inside Out" contradicts the typical "Outside-In" process of applying our models to the brain, instead of creating models from the brain. The biggest voice in the space arguing for the generality of brain function across the brain might be Jeff Hawkins from 
+@Numenta If you mix the ideas of Numenta together with Buzsáki, then you grok the majority of my book that I'm working on here
+
+# The Book Notes
+
 These are the book notes for the book Self Aware Networks: The Neurophysics of Consciousness, Artificial Neurology, and Brain Machine Interfaces
 via Amazon.com https://www.amazon.com/dp/B0B3QHX9FN/ref=cm_sw_em_r_mt_dp_TYDKS7TRVVB80R73FVEY on github.com/v5ma 
 
