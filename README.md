@@ -1,5 +1,7 @@
 This is SelfAwareNeuralNetworks.com and you are reading my notes on the Neurophysics of Consciousness
 
+At the moment the readme page consists of a lot of disclaimers and very little about the contents and main ideas presented within these notes. I will work on fixing that for the next major revision of the readme file.
+
 # I have several thoughts on Yann LeCun's model released on June 27th 2022 see note a0110z
 https://github.com/v5ma/selfawarenetworks/blob/main/a0110z.md
 
@@ -14,7 +16,7 @@ If you really want to feel optimistic about the future of Artificial Intelligenc
 My question to you is "Are you sure there is a self and that the existence of an observer isn't just implied by the rendered perspective in the phase field that represents reality in the mind of the organism?"
 This Github address github.com/v5ma is home page on github for
 
-# The Self Aware Networks Institute for Neurophysics, Artificial Neurology, Brain Machine Interfaces, and Medical Research.
+# The Self Aware Networks Institute for Qualia: The Neurophysics of Phenomenological Consciousness, Artificial Neurology, Bio-Synthetic Interfacing, and Medical Research.
 
 You are in the selfawarenetworks repo which is for the book notes, there is another repo that has pictures & book quotes called picturesforbook
 
