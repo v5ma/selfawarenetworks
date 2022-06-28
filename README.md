@@ -6,7 +6,7 @@ via Amazon.com https://www.amazon.com/dp/B0B3QHX9FN/ref=cm_sw_em_r_mt_dp_TYDKS7T
 These notes are not ready for anyone to read them as they still need lots of editing & fixing. The book includes a new gravity equation hypothesis, a new model of a neuron, a new explanation for LTD & LTP, a new explanation for internal representations or qualia, a new explanation for how our bodies & brains are conscious, and much more.
 
 If you really want to feel optimistic about the future of Artificial Intelligence read my notes on the neurophysics of consciousness that you are reading right now, and I think you will agree that humanity has consciousness solved to a degree that it can now be replicated artificially.
-
+My question to you is "Are you sure there is a self and that the existence of an observer isn't just implied by the rendered perspective in the phase field that represents reality in the mind of the organism?"
 This Github address github.com/v5ma is home page on github for
 
 # The Self Aware Networks Institute for Neurophysics, Artificial Neurology, Brain Machine Interfaces, and Medical Research.
