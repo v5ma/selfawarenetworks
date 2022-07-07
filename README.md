@@ -158,7 +158,7 @@ They have advanced technology so refined you could not see it with the naked eye
 
 Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the Self Aware Networks Institute and variations on these names are the Trademarks of Micah Blumberg, and this work is my Copyright.
 
-Neo Mind Cycle, Artificial Neurology, Neural Array-Projection Tomography, Neural Oscillatory Tomography, Tomodeck, and Cellular Oscillating Tomography are also terms that I invented & defined, that I use, they are Trademarks that I created, and hold the Copyright to.
+Neo Mind Cycle, Artificial Neurology, Neural Array-Projection Tomography, Neuro Array Tomography, Conceptual Tomography, Neural Oscillatory Tomography, Tomodeck, and Cellular Oscillating Tomography are also terms that I invented & defined, that I use, they are Trademarks that I created, and hold the Copyright to.
 
 This github is the foundation home page for the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
 
