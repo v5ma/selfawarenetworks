@@ -184,7 +184,7 @@ If NATO, The North Atlantic Treaty Organization, or the United Nations, or the U
 
 Note that if the US Government chooses to license the work of the Self Aware Networks Institute for 1 Trillion dollars a year, or 1% of US GDP whichever amount is greater then the US Government may sublease this work to other nations at even greater amounts. The US Government could for example charge NATO or the UN group of countries something like 2 Trillion dollars a year and or 2% of global GDP whichever amount is greater so that the United States is able to immediately profit from their investment in the Self Aware Networks Institute.
 
-This is just an opening bid. At this point in time the Institute is willing to consider the best offer.
+This is just an opening bid suggestion. At this point in time the Institute is willing to consider the best offer.
 
 The Self Aware Networks Institute for the Neurophysics of Consciousness, Artificial Neurology & Brain Machine Interfaces is now also accepting bitcoin. Contributions will help accelerate this project. http://github.com/v5ma btc address: 3JAc5sHe3Jdu4EGzkwQqdRZUMQxjCXeCjU 
 
