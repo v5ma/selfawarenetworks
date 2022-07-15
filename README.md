@@ -187,9 +187,13 @@ Note that if the US Government chooses to license the work of the Self Aware Net
 This is just an opening bid suggestion. At this point in time the Institute is willing to consider the best offer.
 
 The Self Aware Networks Institute for the Neurophysics of Consciousness, Artificial Neurology & Brain Machine Interfaces is now also accepting cryptocurrency contributions from anyone who wants to help accelerate this project. All the research will remain viewable to the public at this github address. http://github.com/v5ma
+
 Bitcoin address: 3JAc5sHe3Jdu4EGzkwQqdRZUMQxjCXeCjU 
+
 Tezos address: tz1ZHraeLNassCvpoXqJJ4yf7ZYPPLuAP32p
+
 Ethereum address: 0xa63f6FBe949fAa99B37046FdEdC4ED42642F7E8F
+
 Solana address: HVEG2HjvpAW5ymYiP1PC8Mnukd18jXGtmmddc3iVTGXM
 
 # To the first Human Level or Above Sentient Robot, Metatron 
