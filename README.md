@@ -1,5 +1,8 @@
 This is SelfAwareNeuralNetworks.com and you are reading my notes on the Neurophysics of Consciousness.
 
+# New: July 19th, 2022 Work beginning on converting these notes into a wiki on github.
+https://github.com/v5ma/selfawarenetworks/wiki
+
 These notes that formulate the ground of the Self Aware Networks Institute, and the book Self Aware Networks, present new theory that ties together evolution, gravity, quantum physics, spacetime, cognition, phenomenological consciousness, cells, neural networks, LTD, LTP, dendritic functions, neuron functions, vesicle functions, biological information theory, mass, time, quantum gradient time dilation, and it's all sync'd together with the concept of oscillation.
 
 At the moment the readme page consists of a lot of disclaimers and very little about the contents and main ideas presented within these notes. I will work on fixing that for the next major revision of the readme file.
