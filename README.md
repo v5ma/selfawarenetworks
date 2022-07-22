@@ -1,5 +1,8 @@
 This is SelfAwareNeuralNetworks.com and you are reading my notes on the Neurophysics of Consciousness.
 
+# Update July 22nd, 2022 New Audio Note
+In this new audio note, you can hear me describe how the architecture of sentient & self aware neural networks is different from deep neural networks. I explain how we can precisely develop dog level robots. https://recorder.google.com/df384502-2dd4-420a-9bc1-59f087972fb6
+
 # Update July 19th, 2022 New Wiki:
 Work began on converting these notes into a wiki on github.
 Looking to pay to have professional transcripts of the audio done by hand.
