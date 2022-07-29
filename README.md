@@ -1,5 +1,9 @@
 This is SelfAwareNeuralNetworks.com and you are reading my notes on the Neurophysics of Consciousness.
 
+# Update July 28th, 2022
+A new 3 minute video to explain really fast to the UCSF | Health Hub: Digital Health Awards 2022 what The Self Aware Networks Institute is. If I win this award my work will have official recognition & I will get investment money to make robots & everyone in the world gets rich.
+https://youtu.be/VTBNyUM47Zg
+
 # Update July 26th, 2022
 A new about info page for the Self Aware Networks Institute https://github.com/v5ma/selfawarenetworks/blob/main/a0361z.md
 
