@@ -5,7 +5,7 @@ These notes that formulate the ground of the Self Aware Networks Institute, and 
 # Update: July 31st New video:
 1 hour video that explains N.A.P.O.T. which is the central thesis for how we can build Self Aware Networks to make Conscious Robots. https://youtu.be/fLp-yTQ6pSM
 
-# Watch Video
+# This new video explains some of the past & present work in more detail. It covers the 18 new points below.
 Self Aware Networks: A longer explanation of my research, my past work, and what I have built. #Physics #Gravity #Math #Science #Quantum #Brain #ArtificialIntelligence
 https://youtu.be/IKbl0ryKRoY 
 
