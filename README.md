@@ -2,6 +2,9 @@ This is SelfAwareNeuralNetworks.com, you are in the selfawarenetworks repo on gi
 
 These notes that formulate the ground of the Self Aware Networks Institute, and the book Self Aware Networks, present new theory that ties together evolution, gravity, quantum physics, spacetime, cognition, phenomenological consciousness, cells, neural networks, LTD, LTP, dendritic functions, neuron functions, vesicle functions, biological information theory, mass, time, quantum gradient time dilation, and it's all sync'd together with the concept of oscillation.
 
+# Update: July 31st New video:
+1 hour video that explains N.A.P.O.T. which is the central thesis for how we can build Self Aware Networks to make Conscious Robots. https://youtu.be/fLp-yTQ6pSM
+
 # Watch Video
 Self Aware Networks: A longer explanation of my research, my past work, and what I have built. #Physics #Gravity #Math #Science #Quantum #Brain #ArtificialIntelligence
 https://youtu.be/IKbl0ryKRoY 
