@@ -93,3 +93,106 @@ https://github.com/v5ma/selfawarenetworks/blob/main/b0153y.md
 b0318y.md "Our brains are rendering a representation of reality and our selves with computed graphics" "a set of Neural Arrays passing Phases Patterns that represent learned data that is rendered to the next array."
 https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/b0318y.md
 
+a00000a3 bump3
+
+You are seeing the tomography (not holography) of your brainwaves when you see anything, reality is rendered in the phase variances of your brainwave activity, but it's not you that is seeing anything, it's your neural arrays, the layers in your cortical columns, and the observers are the oscillating groups of cells: the neural circuits & the cortical columns, and any oscillating cell assembling defined as body by a synchronously firing group (of cells in the brain) each neural array is seeing part of this picture, and in time the parts of the picture are bound together in your volumetric experience of reality.
+
+# The Flow of Information in the brain, from incoming senses, to motor outputs and everything inbetween 
+
+b0327y.md "The flow of information in the brain"
+https://github.com/v5ma/selfawarenetworks/blob/main/b0327y.md
+
+b0323y "Our brains render 3D objects from incoming senses and so the line is is rendering a 3D environment" https://github.com/v5ma/selfawarenetworks/blob/main/b0323y.md
+
+a0258z "excitatory neuropathways from incoming senses), each phase interval represents a vector" https://github.com/v5ma/selfawarenetworks/blob/main/a0258z.md
+
+a0417z "The key thought about where the observer is inside the mind, where is the person inside who is watching the brain's representations, is to think of the flow of information in the brain as a series of arrays" https://github.com/v5ma/selfawarenetworks/blob/main/a0417z.md
+
+a0645z "The flow of information in the brain " https://github.com/v5ma/selfawarenetworks/blob/main/a0645z.md
+
+a0329z "The flow of information in neural circuits is primarily regulated by modulation of synaptic efficacy" https://github.com/v5ma/selfawarenetworks/blob/main/a0329z.md
+
+b0189y "apparently we're transmitting of virtual portraits meaning information about both sensory data and and motor data all over the brain like throughout the neural networks at high level from from." https://github.com/v5ma/selfawarenetworks/blob/main/b0189y.md
+
+a0335z "I began to realize that there are cycles (feedback cycles) in the neo mind at every level from backwards propagating axon potentials to dendritic arbors, to neural circuits"
+https://github.com/v5ma/selfawarenetworks/blob/main/a0335z.md
+
+a0001z.md "At the meso level we are exploring changes to neural circuits, and cortical columns, and at the macro level" https://github.com/v5ma/selfawarenetworks/blob/main/a0001z.md
+
+a0018z "the paths of information to flow into certain ~~holographic~~ tomographic patterns that represent a perspective on space/time" https://github.com/v5ma/selfawarenetworks/blob/main/a0018z.md
+
+# Deep Neural Network comparisons
+
+a0221z "Synaptic unreliability, a foundational concept, found in deep learning"
+https://github.com/v5ma/selfawarenetworks/blob/main/a0221z.md
+
+a0238z "Synaptic Unreliability article & The Flow of Information in the Brain map" https://github.com/v5ma/selfawarenetworks/blob/main/a0238z.md
+
+b0272y "Potassium modifies the action potential applicant amplitude or APC which determines the strength of this synaptic signal." https://github.com/v5ma/selfawarenetworks/blob/main/b0272y.md
+
+a0598z "each array is a complete deep neural network, that accepts data and displays it to the next deep neural network, like a grid network or graph neural network, its designed so that video frames pass through the entire mind"
+https://github.com/v5ma/selfawarenetworks/blob/main/a0598z.md
+
+a0215z "similar to what AI people call "deep learning". So your neural circuits connect together tempo-spatial patterns and make predictions about future inputs" https://github.com/v5ma/selfawarenetworks/blob/main/a0215z.md
+
+a0258z.md Maybe, the major goal for a deep neural network is to achieve compressed & accurate representations"
+https://github.com/v5ma/selfawarenetworks/blob/main/a0258z.md
+
+a0215z.md "Imagine you are like a cycle of neural coincidence patterns connected by a process similar to what AI people call "deep learning". So your neural circuits connect together tempo-spatial patterns and make predictions about future inputs."
+https://github.com/v5ma/selfawarenetworks/blob/main/a0215z.md
+
+b0038y.md "What it is. It's part of what makes it different from other neural networks. And so there's the multi-modal aspect and deep learning will get there deep learning"
+
+b0085y.md "Neurons Array Synapses" "So it's integrating the lower level patterns at a higher level and that is like, feature learning and deep learning, I guess I'm I guess it's sort of describing an accidental way semi accidental way"
+https://github.com/v5ma/selfawarenetworks/blob/main/b0085y.md
+
+# "Self Aware Neural Networks"
+
+Self Aware Neural Networks are very different from Graph Neural Network that render screens to themselves, because the rendered representations are separate but also interlinked, imagine an after effects or adobe premiere timeline, but in 3D, or with multiple layers that can link together in higher dimensions, sort of like the turtle in the movie that is in the first part of the layer 1 timeline can connect with the rabbit in the last part of the layer 6 timeline. Sensory inputs can generate new layers in this 3D movie, or they can feed existing layers, and the existing layers are maintained in active brainwave activity oscillations (such as alpha and or theta waves for example) and new input, (the turtles new behavior which might be a response to a sequence that your mind links to your own motor output activity)
+
+a0511z.md "we have multiple neural circuits running concurrently and possibly in patterns that are separate from one another." https://github.com/v5ma/selfawarenetworks/blob/main/a0511z.md
+
+# "Self Aware Networks"
+
+b0080y "I'm arguing that our brains are making a computer program but it's a pure, a computer program that is about the and narrow tomography and neurofunctional, tomography of sensory, input data and muscles and muscle data. " https://github.com/v5ma/selfawarenetworks/blob/main/b0080y.md
+
+a0127z.md "Phase & Tonic relationship"
+https://github.com/v5ma/selfawarenetworks/blob/main/a0127z.md
+
+a0137z "means that neural circuits can track, be aware of, and respond to, speak back to other neural circuits"
+https://github.com/v5ma/selfawarenetworks/blob/main/a0137z.md
+
+# Notes on scale, inhibition, magnify, magnification, fractals that are related to how synaptic memories scale to the whole brain
+
+a0142z "LTD or large scale inhibition patterns to neural circuits in promixity to a neuron's phasic spiking event."
+https://github.com/v5ma/selfawarenetworks/blob/main/a0142z.md
+
+#Neural Circuits
+b0099y ctpr.txt (note needs to be fixed) "traveling through these patterns or traveling through our neural circuits so that we can have an inner voice by having different"
+
+a0136z "fix the representations collected by other neural circuits but also add to them, like the display I described the oscillator as being had many layers, like photoshop layers, but these are layers of interlinked renderings," https://github.com/v5ma/selfawarenetworks/blob/main/a0136z.md
+
+a0468z.md "I think neurons detect coincidence patterns, and make directional inferences to build spatial and temporal representations within neural circuits" https://github.com/v5ma/selfawarenetworks/blob/main/a0468z.md
+
+a0269z.md
+"this causes neural circuits to fire in sequences like lines on a tv screen that is seen by the oscillator itself because each neuron is mechanically listening to other neurons" https://github.com/v5ma/selfawarenetworks/blob/main/a0269z.md
+
+a0061z
+"and phasic firing neural circuits in multi-level fractal patterns"
+https://github.com/v5ma/selfawarenetworks/blob/main/a0061z.md
+
+b0100y.md
+"This note really drives home how a rendering in neural circuits can be conscious qualia in the human mind." https://github.com/v5ma/selfawarenetworks/blob/main/b0100y.md
+
+a0039z.md
+"entire neural circuits simultaneously because exit terminals branch radially in every possible direction they can go." https://github.com/v5ma/selfawarenetworks/blob/main/a0039z.md
+
+a0132z "The neural circuits, layers, and cortical columns transmit their learned patterns to every part of the brain which builds multimodal models of incoming patterns" https://github.com/v5ma/selfawarenetworks/blob/main/a0132z.md
+
+b0114y "Go through these, the neural circuits in a cortical column would go through like sequences of of oscillatory firing. So like it's like a multi-stage, temporal spatial firing event" https://github.com/v5ma/selfawarenetworks/blob/main/b0114y.md
+
+b0047z "Temporal spiritual phase patterns percolating through neural circuits that our matching and the left and right hemisphere even after the corpus callosum is cut." https://github.com/v5ma/selfawarenetworks/blob/main/b0047y.md
+
+b0313y " that means your thoughts are in neural circuits and local micro columns a little clusters" https://github.com/v5ma/selfawarenetworks/blob/main/b0313y.md
+
+
