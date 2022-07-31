@@ -1,72 +1,137 @@
 b0097y ctpr
-(audio note: transcription needs to be fixed)
-Watercolor Neuron Signals
-00:00
-So now, tomography from synaptically captured patterns, makes sense. If you consider that for yourself, first, slice projection, theorem relies on the intersections between different 2D slices and order to an order for the computer to construct the 3D model from 2D slices. And so if so if you're able to combine multiple perspectives in algorithmic way, which the, which would which the combined abilities of like, if you if you took you had several dent rights and they each captured part of a picture a pattern and they each fired in a way that overlaid the pattern that they captured on other patterns, sort of like watercolor overlayed on top watercolor or you know, red pixels, combine combined with the pattern of blue pixels combined with the pattern of green pixels leads to the displays that we have or music actually consists of many frequencies combined together.
-01:07
-Like it's basically like the the decompressions signal are the or the so there's compression and then there's the, then there's expansion of in a neural network and the expansion. You know, for example I think it was, you know, for and olfactory, the neural network expansion for each neuron is like six cells or something.
-01:41
-I was reading that no paper, I don't know if that's correct, but I just read that. And with the idea is that is that everything that compresses, the signals that compress into. You know, it's been the scientists have said, well the neuron spike represents some sort of like one or zero all or nothing for summary.
-02:11
-And I don't and sort of like I'm arguing that the there's four possible signals, there's zero one two and three that the neuron can pass on so they can so it can transmit a face change and that phase could be like, you know, a move faster or move slower or you know, that type of signal.
-02:37
-And and as far as how is interpreted by the six actions and the six branches of its external. And so, you know, if there's a coincidence of inputs have been dried and the next column that means that multiple cells have fired to each contribute, their own piece of the pattern together like a watercolor it gets combined, you know, when neurons fire together they start oscillating together which you know it's it's been suggested that it that there on fire so good.
-03:26
-I think it's more like the they oscillate together and then they reach equilibrium with a with their oscillating with a larger oscillating group eventually. Unless there are new perturbations coming in from the incoming senses that continue to causing new network activity. In addition, the, you know, in the morning when people wake up the brain, gets the neural activity going with like brand.
-04:07
-I guess just like random. Pulses are dopamine, which, you know, that the narrow transmitters they're gonna caught, they're gonna cause some excitement in terms of the activity of action, potentials, right. They're gonna cause they're gonna trigger some some receptors to open just by accident. So you'll see, you know scientists saying, well it seems like you know, adding dopamine cause this mouse is this dopamine or GABA or a set of choline or any other neurotransmitter.
-04:45
-And you'll see these like papers coming up saying that mice's memory seemed to get better after. We gave it more narrow transpenders. And and there's lots of paper. There's some similar sounding like that. Yeah, well, you know, obviously these neurons were excited by the neurotransmitter injection. That's pretty much the common story, you know, across all newer, transmitters across every place in the brain and well, they could be inhibit.
-05:20
-They could also be in, you know, range to be inhibited, size, being excited. And so, it just depends on what chemical you're giving. But I'm just, like, suggesting the memory benefits of different neurotransmitters are probably related to what area of the brain. There they are exciting. The most, I guess.
-05:44
-Okay, I'll save the transcript. So you're looking at tomography and I was saying it was trying to explain why neurodemography really makes sense, that it is sort of like, watercolor or top of watercolor on top of an array that consists of a lot of other neurons. So it's like, it's I combining, you know, the pattern learned by by one neuron and the pattern learned by one.
-06:14
-Neuron it was is an expectation in terms of in terms of phases, but it's an expectation change in terms of what the brain is currently representing. So it's it's what I'm getting at is is that and in order for your incoming senses to, to be rendered, by your mind, have an impact on your mind.
-06:42
-So you can have internal representations, you need to have something that receives as internal senses and sort of like responds and reacts those internal senses and engages internal sentences. So you're internal senses and your your internal processes are coming together. And that is sort of like this watercolor idea of this watercolor example.
-07:10
-So I just in a watercolor example of how the dendritic phases are being layered on top of owning, another sort of like, you know, like red like red LEDs and green alEDs and blue LEDs, you know, being layered on top of one another. And then we would have like the LED LEDs would go just completely dark for and for to represent the the color black and that would be inhibition.
-07:44
-And then you have all three red green and blue to indicate the color white and then because that is a combination of all colors. And then you just. Yeah. And then you just like have different combinations of different colors, right? And and then you're in your creating like the image on a screen on TV screen, that's good.
-08:12
-That's the, those are good. Visual analogies that for sound, you'd have to break it down to, you know, if you if you look at, if you look at sound and a sound creation tool, or with the four-year transform, you can see that music is a track and the track actually can be separated into different frequencies that are playing together.
-08:38
-You can use it for your transform to isolate the different frequencies. And identify the patterns that are there being combined into the music that you have, that you can separate out those patterns and you can see what they are. The same process is sort of used for EEG waves and EG waves or to represent the largest scale of electric dipole activity of the brain.
-09:06
-And they sister in my idea for EG is that, you know, like well what if we had? So it's like, it's it's if you have two, if you put two that, you know, it's put two electrodes, right? And you're gonna the tiniest amount of current we turn into two electrodes.
-09:25
-Well, when you when you're brain waves, as you're as your brains waves are flowing out of your skull, they're gonna cause vibrations. And in the current that's running across the surface of your school and those vibrations and in the are what? Easy sensors are tracking. They're sensing sort of like the emanations of your of your brain.
-09:54
-Electric dipoles are causing the current running between your electrodes to, to oscillate at different frequencies. And so then we can capture that as a numerical value that represents that voltage and then you know convert that into some sort of like computer program like we'd what we did with there was a project that I call that I I was it was a project that I called the narrow hacker project and it involved bringing EEG into web VR that back before was called web XR and that was that was back in 2018 and I was leading a group of folks and noise bridge just about every week on Friday.
-10:54
-And then later on in the year, I at least I switched to Thursday just to try it and ended up finishing at the year on Thursday. But but yeah, weird meat about once a week I think from about February until I think, maybe December. And, and each week it was almost a new group of people.
-11:14
-But I was there, you know, and sometimes that we get regulars and there's a separate group on Wednesday at. They bought a range, we don't device and on. So on Friday, we're able to react. I asked them I said, can we use this for our project and Friday? They said yes.
-11:31
-And so they developed the the sort of they led the development of connecting the brand brain out to the computer and then broadcasting it signals. So they wrote like a server, they wrote multiple servers. That would serve us the EEG sensor code to the web page in real time so that we could run a program wirelessly through the web page on a VR headset.
-12:00
-And luckily at that time we had the oculus go which had web viewer working in it and we were able to send the we're able to you know use a website to receive inside the the web page to in the Oculus. Go to receive, the EG signals that someone was was wearing that were being sent to the computer that was there in the room with us.
-12:30
-Which contained a server that was broadcasting on signals over the network to the person wearing the bear headset who was also wearing the EG signals. So we weren't sending the ED signals, direct to the beer headset but through the computer first and then over the network to the headset, there is a lot of speculation about doing it in a different way.
-12:56
-But I think that given and given the time that we had it was just like there's data, just people, it's just random people who are for free meeting up and volunteering their time to work together to on a project that that had an amazing scope for like nobody was being paid and everybody's being paid to work.
-13:20
-But but thanks to the collective efforts of everyone involved. We're able to, I was able to observe and participate and bringing this project to your fresh. And so, we had EG in side, web PR, it was super cool. The code is, of course, still available on github.com slash mica with the number one.
-13:48
-So, MICH with the number one, you can still get the code for that, but it needs to be updated in terms of, like, it was written for web VR, and now, web VR has been replaced by XR. So WebEx are is a single API that can be used to create VR or AR experiences, but the but now it's called web XR and
-14:19
-But yeah. So this also kind of like, you know what's interesting is is, you know, this can influent. Like, I guess you could inform the design of neural networks. Just sort of create like a phase shield layer. And that's basically, you know, you know, networks you have like an expansion layer and you have a compression there, right?
-14:54
-So, the network is expanding a signal and then it's compressive. And it's and in one layer and it's it's worth compressing a sign on one there and then it's expanding it to the next layer. And but it's it's you know, I guess it's like you know, I guess a fate.
-15:15
-So evades you know in a sense of the brain in terms of the comprehensive computation is is like between one two three and four. So that is a significant difference and then that phase pattern is, you know. So each layer and the brain is like an array. That's watching the previous layer and are watching the other layers.
-15:41
-And then you combine it has the, it has the configuration of of the configuration properties of the network basically, sort of sort of like comping together like like many examples of the game of life or you have oscillations forming between the neurons that fired together in time or together in space or or in a coincident pattern across scales.
-16:28
-Because because, because basically, the neural network can contract coincident patterns across scales. Like I mean they're there's examples of it when you can when you can you know use the prediction of a sequence and something that's really small to then apply to the coincidence to something that's really big.
-16:55
-If you try to take something you like some physics that you understand in terms of you know at the microscale, you can try to see if that might apply to macroscale.
-Transcribed by Pixel
 
-Audio
+(audio note: transcription needs to be fixed)
+
+Watercolor Neuron Signals
+
+00:00
+
+So now, tomography from synaptically captured patterns, makes sense. If you consider that for yourself, first, slice projection, theorem relies on the intersections between different 2D slices and order to an order for the computer to construct the 3D model from 2D slices. And so if so if you're able to combine multiple perspectives in algorithmic way, which the, which would which the combined abilities of like, if you if you took you had several dent rights and they each captured part of a picture a pattern and they each fired in a way that overlaid the pattern that they captured on other patterns, sort of like watercolor overlayed on top watercolor or you know, red pixels, combine combined with the pattern of blue pixels combined with the pattern of green pixels leads to the displays that we have or music actually consists of many frequencies combined together.
+
+01:07
+
+Like it's basically like the the decompressions signal are the or the so there's compression and then there's the, then there's expansion of in a neural network and the expansion. You know, for example I think it was, you know, for and olfactory, the neural network expansion for each neuron is like six cells or something.
+
+01:41
+
+I was reading that no paper, I don't know if that's correct, but I just read that. And with the idea is that is that everything that compresses, the signals that compress into. You know, it's been the scientists have said, well the neuron spike represents some sort of like one or zero all or nothing for summary.
+
+02:11
+
+And I don't and sort of like I'm arguing that the there's four possible signals, there's zero one two and three that the neuron can pass on so they can so it can transmit a face change and that phase could be like, you know, a move faster or move slower or you know, that type of signal.
+
+02:37
+
+And and as far as how is interpreted by the six actions and the six branches of its external. And so, you know, if there's a coincidence of inputs have been dried and the next column that means that multiple cells have fired to each contribute, their own piece of the pattern together like a watercolor it gets combined, you know, when neurons fire together they start oscillating together which you know it's it's been suggested that it that there on fire so good.
+
+03:26
+
+I think it's more like the they oscillate together and then they reach equilibrium with a with their oscillating with a larger oscillating group eventually. Unless there are new perturbations coming in from the incoming senses that continue to causing new network activity. In addition, the, you know, in the morning when people wake up the brain, gets the neural activity going with like brand.
+
+04:07
+
+I guess just like random. Pulses are dopamine, which, you know, that the narrow transmitters they're gonna caught, they're gonna cause some excitement in terms of the activity of action, potentials, right. They're gonna cause they're gonna trigger some some receptors to open just by accident. So you'll see, you know scientists saying, well it seems like you know, adding dopamine cause this mouse is this dopamine or GABA or a set of choline or any other neurotransmitter.
+
+04:45
+
+And you'll see these like papers coming up saying that mice's memory seemed to get better after. We gave it more narrow transpenders. And and there's lots of paper. There's some similar sounding like that. Yeah, well, you know, obviously these neurons were excited by the neurotransmitter injection. That's pretty much the common story, you know, across all newer, transmitters across every place in the brain and well, they could be inhibit.
+
+05:20
+
+They could also be in, you know, range to be inhibited, size, being excited. And so, it just depends on what chemical you're giving. But I'm just, like, suggesting the memory benefits of different neurotransmitters are probably related to what area of the brain. There they are exciting. The most, I guess.
+
+05:44
+
+Okay, I'll save the transcript. So you're looking at tomography and I was saying it was trying to explain why neurodemography really makes sense, that it is sort of like, watercolor or top of watercolor on top of an array that consists of a lot of other neurons. So it's like, it's I combining, you know, the pattern learned by by one neuron and the pattern learned by one.
+
+06:14
+
+Neuron it was is an expectation in terms of in terms of phases, but it's an expectation change in terms of what the brain is currently representing. So it's it's what I'm getting at is is that and in order for your incoming senses to, to be rendered, by your mind, have an impact on your mind.
+
+06:42
+
+So you can have internal representations, you need to have something that receives as internal senses and sort of like responds and reacts those internal senses and engages internal sentences. So you're internal senses and your your internal processes are coming together. And that is sort of like this watercolor idea of this watercolor example.
+
+07:10
+
+So I just in a watercolor example of how the dendritic phases are being layered on top of owning, another sort of like, you know, like red like red LEDs and green alEDs and blue LEDs, you know, being layered on top of one another. And then we would have like the LED LEDs would go just completely dark for and for to represent the the color black and that would be inhibition.
+
+07:44
+
+And then you have all three red green and blue to indicate the color white and then because that is a combination of all colors. And then you just. Yeah. And then you just like have different combinations of different colors, right? And and then you're in your creating like the image on a screen on TV screen, that's good.
+
+08:12
+
+That's the, those are good. Visual analogies that for sound, you'd have to break it down to, you know, if you if you look at, if you look at sound and a sound creation tool, or with the four-year transform, you can see that music is a track and the track actually can be separated into different frequencies that are playing together.
+
+08:38
+
+You can use it for your transform to isolate the different frequencies. And identify the patterns that are there being combined into the music that you have, that you can separate out those patterns and you can see what they are. The same process is sort of used for EEG waves and EG waves or to represent the largest scale of electric dipole activity of the brain.
+
+09:06
+
+And they sister in my idea for EG is that, you know, like well what if we had? So it's like, it's it's if you have two, if you put two that, you know, it's put two electrodes, right? And you're gonna the tiniest amount of current we turn into two electrodes.
+
+09:25
+
+Well, when you when you're brain waves, as you're as your brains waves are flowing out of your skull, they're gonna cause vibrations. And in the current that's running across the surface of your school and those vibrations and in the are what? Easy sensors are tracking. They're sensing sort of like the emanations of your of your brain.
+
+09:54
+
+Electric dipoles are causing the current running between your electrodes to, to oscillate at different frequencies. And so then we can capture that as a numerical value that represents that voltage and then you know convert that into some sort of like computer program like we'd what we did with there was a project that I call that I I was it was a project that I called the narrow hacker project and it involved bringing EEG into web VR that back before was called web XR and that was that was back in 2018 and I was leading a group of folks and noise bridge just about every week on Friday.
+
+10:54
+
+And then later on in the year, I at least I switched to Thursday just to try it and ended up finishing at the year on Thursday. But but yeah, weird meat about once a week I think from about February until I think, maybe December. And, and each week it was almost a new group of people.
+
+11:14
+
+But I was there, you know, and sometimes that we get regulars and there's a separate group on Wednesday at. They bought a range, we don't device and on. So on Friday, we're able to react. I asked them I said, can we use this for our project and Friday? They said yes.
+
+11:31
+
+And so they developed the the sort of they led the development of connecting the brand brain out to the computer and then broadcasting it signals. So they wrote like a server, they wrote multiple servers. That would serve us the EEG sensor code to the web page in real time so that we could run a program wirelessly through the web page on a VR headset.
+
+12:00
+
+And luckily at that time we had the oculus go which had web viewer working in it and we were able to send the we're able to you know use a website to receive inside the the web page to in the Oculus. Go to receive, the EG signals that someone was was wearing that were being sent to the computer that was there in the room with us.
+
+12:30
+
+Which contained a server that was broadcasting on signals over the network to the person wearing the bear headset who was also wearing the EG signals. So we weren't sending the ED signals, direct to the beer headset but through the computer first and then over the network to the headset, there is a lot of speculation about doing it in a different way.
+
+12:56
+
+But I think that given and given the time that we had it was just like there's data, just people, it's just random people who are for free meeting up and volunteering their time to work together to on a project that that had an amazing scope for like nobody was being paid and everybody's being paid to work.
+
+13:20
+
+But but thanks to the collective efforts of everyone involved. We're able to, I was able to observe and participate and bringing this project to your fresh. And so, we had EG in side, web PR, it was super cool. The code is, of course, still available on github.com slash mica with the number one.
+
+13:48
+
+So, MICH with the number one, you can still get the code for that, but it needs to be updated in terms of, like, it was written for web VR, and now, web VR has been replaced by XR. So WebEx are is a single API that can be used to create VR or AR experiences, but the but now it's called web XR and
+
+14:19
+
+But yeah. So this also kind of like, you know what's interesting is is, you know, this can influent. Like, I guess you could inform the design of neural networks. Just sort of create like a phase shield layer. And that's basically, you know, you know, networks you have like an expansion layer and you have a compression there, right?
+
+14:54
+
+So, the network is expanding a signal and then it's compressive. And it's and in one layer and it's it's worth compressing a sign on one there and then it's expanding it to the next layer. And but it's it's you know, I guess it's like you know, I guess a fate.
+
+15:15
+
+So evades you know in a sense of the brain in terms of the comprehensive computation is is like between one two three and four. So that is a significant difference and then that phase pattern is, you know. So each layer and the brain is like an array. That's watching the previous layer and are watching the other layers.
+
+15:41
+
+And then you combine it has the, it has the configuration of of the configuration properties of the network basically, sort of sort of like comping together like like many examples of the game of life or you have oscillations forming between the neurons that fired together in time or together in space or or in a coincident pattern across scales.
+
+16:28
+
+Because because, because basically, the neural network can contract coincident patterns across scales. Like I mean they're there's examples of it when you can when you can you know use the prediction of a sequence and something that's really small to then apply to the coincidence to something that's really big.
+
+16:55
+
+If you try to take something you like some physics that you understand in terms of you know at the microscale, you can try to see if that might apply to macroscale.
