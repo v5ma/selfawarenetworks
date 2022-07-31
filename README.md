@@ -1,4 +1,53 @@
-This is SelfAwareNeuralNetworks.com and you are reading my notes on the Neurophysics of Consciousness.
+This is SelfAwareNeuralNetworks.com, you are in the selfawarenetworks repo on github.com/v5ma and you are reading my notes some of which will go into the Book Self Aware Networks, Neurophysics, Artificial Neurology, and BioSynthetic Interfaces. This is the readme page.
+
+These notes that formulate the ground of the Self Aware Networks Institute, and the book Self Aware Networks, present new theory that ties together evolution, gravity, quantum physics, spacetime, cognition, phenomenological consciousness, cells, neural networks, LTD, LTP, dendritic functions, neuron functions, vesicle functions, biological information theory, mass, time, quantum gradient time dilation, and it's all sync'd together with the concept of oscillation.
+
+# Update: July 30th 2022 18 new points both about myself and about what these notes contain.
+
+1. I can program Virtual Reality & Augmented Reality accessible websites, I use tools like WebXR, Aframe, and Javascript. I led a project that brought EEG into WebVR (a 3D visualization of brainwave activity signals displayed in a VR headset via the web or a local server) I'm not far off from being able to write novel new code with React Three Fiber either, I've been studying both React and Three.js for a while, I've just been busy writing these notes for my book and for this institute. 
+
+2. I write, speak about topics like science, math, biology, neurophysics, virtual reality, artificial neural networks, and brain computer interfaces and I have an upcoming book called Self Aware Networks neurophysics, building sentient AI, and bio-synthetic interfaces. It's the same subject matter as the Self Aware Networks Institute at selfawareneuralnetworks.com or github.com/v5ma (in the selfawarenetworks repo) the institute will later be in WebXR (accessible via AR and VR headset devices or glasses)
+
+3. My theory of brain function is complete enough to build conscious self aware robots, I have enough theory to make a computer have feelings & emotions & have inner qualia experiences. I haven't written the code for this yet but I have the theory needed that can lead to code development. 
+
+4. I hosted the Neural Lace Podcast (all the content is linked to this repo), a dialog about brain computer interfaces. I've spoke to brilliant neuroscientists, biologists & people in the brain computer interface space.
+
+5. I led the "NeurotechSF" Salon meetup for 2 years, I hosted many code writing meetups, and VR AR meetups. I also run a code oriented discord, three githubs, many science & tech facebook groups which huge numbers of people as members. I'm a well known brain hacker & journalist. My tweets are seen my hundreds of thousands of people each month.
+
+6. I also created a new gravity theory, quantum gradient time dilation which explains how mass as a time crystal creates the gravitational effect by increasing the surface area of space in a particular direction with additional time dimensions. (I connected this to biology, explaining how neurons are literally warping space.) 
+https://github.com/v5ma/selfawarenetworks/blob/c4e94e9fcd049c97d47ef6a5f2f8c29485f5a98d/a0253z.md
+
+7. I combined category theory with Petri nets  for advanced the study of dynamic systems (biology) https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0613z.md
+
+8. I coined the terms and explained Cellular Oscillation Tomography which is a new theory of evolution https://github.com/v5ma/selfawarenetworks/blob/7c7397ed87fecd55537b441e650327a6b26a0985/a0011z.md
+
+9. I coined the phrase Neural Array Projection Oscillation Tomography which explains the inner eyes, or the observer inside the brain as entified neural array projections. https://github.com/v5ma/selfawarenetworks/blob/34563a1264edc55836963bf8b49915ff5664ed7b/a0115z.md9. 
+ 
+10. I came up with an explanation for how to decode action potentials comparing them to tensors or polynomials in a Taylor Series (Calculus) https://github.com/v5ma/selfawarenetworks/blob/42188a5fce0f502ce4497bbea782f9b55c1fb870/a0238z.md
+https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0365z.md 
+ 
+11. I wrote a theory that explains how with oscillations LTP & LTD work and how that applies to plant growth, Feymen's Path Integral Formulation & more.
+https://github.com/v5ma/selfawarenetworks/blob/08ebff668a638a01698ac686ae018daf26437f24/b0067y.md
+https://github.com/v5ma/selfawarenetworks/blob/06edcce2038853e04c937169161f2dafdf21c8ce/a0101z.md
+
+12. I wrote a theory that explains how memories stored in synapses are Magnified to the whole brain via inhibitory waves. 
+https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0111z.md
+https://github.com/v5ma/selfawarenetworks/blob/c0be800142fd9b8b726c1a5fbac93f254839dfa4/b0071y.md
+https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0129z.md
+
+13. I built my own model of a neuron that combines Hodgkin & Huxley with Soliton Wave Theory, with Thermodynamics, and the model explains how the quantity of neurotransmitter release is affected by the magnitude of the action potential via it's duration (calcium channels open longer) which counteracts the notion that an action potential is all or nothing event, otherwise described as synaptic unreliability (an idea that led to the artificial perceptron, a flawed concept which is still used today in modern deep neural networks) 
+https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0177z.md
+
+14. I've published novel new ideas on uploading the mind with next gen BCI, decoding the mind, and my thoughts on how to write code that can let a machine feel, experience emotion, and experience internal representations or qualia.  https://github.com/v5ma/selfawarenetworks/blob/da52fb97714674e66bdec5a61162308b960d99ea/a0645z.md
+
+15. I've described how choice in the human brain works at the interneuron level building on the concept of criterial causation by Peter Tse and combining that with György Buzsáki's work (Rhythms of the Brain) https://github.com/v5ma/selfawarenetworks/blob/main/a0364z.md 
+ 
+16. I applied Buzsáki's work to Steven Strogatz (in the book Sync) work to connect Oscillations brainwaves at EEG scale to phase variation produced oscillations at the neuronal scale & neurotransmitter scale, and unified neural firing with brainwave firing via the hypothesis that magnitude is inverted to frequency at all scales of the universe, including at the scale of individual neuron action potential firing & at the scale of brainwaves from cortical columns or oscillating groups of cells. https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0079z.md
+
+17. I put forth a new theory that mitochondria are stimulated by action potentials to release more ATP and I argue that this is a mechanism for reinforcement learning and relative time differences at the individual cell level https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0245z.md
+https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0365z.md
+
+18. There is probably more stuff but I am not thinking of what else I've done at the moment. I will update this later.
 
 # Update July 28th, 2022
 A new 3 minute video to explain really fast to the UCSF | Health Hub: Digital Health Awards 2022 what The Self Aware Networks Institute is. If I win this award my work will have official recognition & I will get investment money to make robots & everyone in the world gets rich.
@@ -14,8 +63,6 @@ In this new audio note, you can hear me describe how the architecture of sentien
 Work began on converting these notes into a wiki on github.
 Looking to pay to have professional transcripts of the audio done by hand.
 https://github.com/v5ma/selfawarenetworks/wiki
-
-These notes that formulate the ground of the Self Aware Networks Institute, and the book Self Aware Networks, present new theory that ties together evolution, gravity, quantum physics, spacetime, cognition, phenomenological consciousness, cells, neural networks, LTD, LTP, dendritic functions, neuron functions, vesicle functions, biological information theory, mass, time, quantum gradient time dilation, and it's all sync'd together with the concept of oscillation.
 
 At the moment the readme page consists of a lot of disclaimers and very little about the contents and main ideas presented within these notes. I will work on fixing that for the next major revision of the readme file.
 
