@@ -11,7 +11,7 @@ https://youtu.be/IKbl0ryKRoY
 
 2. I write, speak about topics like science, math, biology, neurophysics, virtual reality, artificial neural networks, and brain computer interfaces and I have an upcoming book called Self Aware Networks neurophysics, building sentient AI, and bio-synthetic interfaces. It's the same subject matter as the Self Aware Networks Institute at selfawareneuralnetworks.com or github.com/v5ma (in the selfawarenetworks repo) the institute will later be in WebXR (accessible via AR and VR headset devices or glasses)
 
-3. My theory of brain function is complete enough to build conscious self aware robots, I have enough theory to make a computer have feelings & emotions & have inner qualia experiences. I haven't written the code for this yet but I have the theory needed that can lead to code development. 
+3. My theory of brain function is complete enough to build conscious self aware robots, I have enough theory to make a computer have feelings & emotions & have inner qualia experiences. I haven't written the code for this yet but I have the theory needed that can lead to code development. The name of the theory that will allow us to modify existing neural network architectures into sentient architectures is called NAPOT: Neural Array Projection Oscillation Tomography, in these notes it is also referred to as Neural Oscillatory Tomography and Neural Array Projection Tomography. Search for all 3 terms in this github repo to see the notes connected to this theory.
 
 4. I hosted the Neural Lace Podcast (all the content is linked to this repo), a dialog about brain computer interfaces. I've spoke to brilliant neuroscientists, biologists & people in the brain computer interface space.
 
