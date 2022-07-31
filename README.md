@@ -22,7 +22,7 @@ https://github.com/v5ma/selfawarenetworks/blob/c4e94e9fcd049c97d47ef6a5f2f8c2948
 
 7. I combined category theory with Petri nets  for advanced the study of dynamic systems (biology) https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0613z.md
 
-8. I coined the terms and explained Cellular Oscillation Tomography which is a new theory of evolution https://github.com/v5ma/selfawarenetworks/blob/7c7397ed87fecd55537b441e650327a6b26a0985/a0011z.md
+8. I coined the phrase & explained Cellular Oscillation Tomography which is a new theory of evolution https://github.com/v5ma/selfawarenetworks/blob/7c7397ed87fecd55537b441e650327a6b26a0985/a0011z.md
 
 9. I coined the phrase Neural Array Projection Oscillation Tomography which explains the inner eyes, or the observer inside the brain as entified neural array projections. https://github.com/v5ma/selfawarenetworks/blob/34563a1264edc55836963bf8b49915ff5664ed7b/a0115z.md9. 
  
