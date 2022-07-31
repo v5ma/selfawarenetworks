@@ -24,7 +24,7 @@ https://github.com/v5ma/selfawarenetworks/blob/c4e94e9fcd049c97d47ef6a5f2f8c2948
 
 8. I coined the phrase & explained Cellular Oscillation Tomography which is a new theory of evolution https://github.com/v5ma/selfawarenetworks/blob/7c7397ed87fecd55537b441e650327a6b26a0985/a0011z.md
 
-9. I coined the phrase Neural Array Projection Oscillation Tomography which explains the inner eyes, or the observer inside the brain as entified neural array projections. https://github.com/v5ma/selfawarenetworks/blob/34563a1264edc55836963bf8b49915ff5664ed7b/a0115z.md9. 
+9. I coined the phrase Neural Array Projection Oscillation Tomography which explains the inner eye, or the observer inside the brain as entified neural array projections. https://github.com/v5ma/selfawarenetworks/blob/34563a1264edc55836963bf8b49915ff5664ed7b/a0115z.md9. 
  
 10. I came up with an explanation for how to decode action potentials comparing them to tensors or polynomials in a Taylor Series (Calculus) https://github.com/v5ma/selfawarenetworks/blob/42188a5fce0f502ce4497bbea782f9b55c1fb870/a0238z.md
 https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0365z.md 
