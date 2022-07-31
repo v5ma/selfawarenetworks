@@ -2,8 +2,11 @@ This is SelfAwareNeuralNetworks.com, you are in the selfawarenetworks repo on gi
 
 These notes that formulate the ground of the Self Aware Networks Institute, and the book Self Aware Networks, present new theory that ties together evolution, gravity, quantum physics, spacetime, cognition, phenomenological consciousness, cells, neural networks, LTD, LTP, dendritic functions, neuron functions, vesicle functions, biological information theory, mass, time, quantum gradient time dilation, and it's all sync'd together with the concept of oscillation.
 
-# Update: July 30th 2022 18 new points both about myself and about what these notes contain.
+# Watch Video
+Self Aware Networks: A longer explanation of my research, my past work, and what I have built. #Physics #Gravity #Math #Science #Quantum #Brain #ArtificialIntelligence
+https://youtu.be/IKbl0ryKRoY 
 
+# Update: July 30th 2022 18 new points both about myself and about what these notes contain.
 1. I can program Virtual Reality & Augmented Reality accessible websites, I use tools like WebXR, Aframe, and Javascript. I led a project that brought EEG into WebVR (a 3D visualization of brainwave activity signals displayed in a VR headset via the web or a local server) I'm not far off from being able to write novel new code with React Three Fiber either, I've been studying both React and Three.js for a while, I've just been busy writing these notes for my book and for this institute. 
 
 2. I write, speak about topics like science, math, biology, neurophysics, virtual reality, artificial neural networks, and brain computer interfaces and I have an upcoming book called Self Aware Networks neurophysics, building sentient AI, and bio-synthetic interfaces. It's the same subject matter as the Self Aware Networks Institute at selfawareneuralnetworks.com or github.com/v5ma (in the selfawarenetworks repo) the institute will later be in WebXR (accessible via AR and VR headset devices or glasses)
