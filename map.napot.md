@@ -159,6 +159,8 @@ b0080y "I'm arguing that our brains are making a computer program but it's a pur
 a0127z.md "Phase & Tonic relationship"
 https://github.com/v5ma/selfawarenetworks/blob/main/a0127z.md
 
+Essentially the tonic oscillation frequency of the oscillating group of cells is the canvas of consciousness, and the changes to it, via the release of 0 1 2 or 3 vesicle sacks at each interval relative to the group oscillation is the paint of the minds internal representations or qualia inside the mind that is perceived by the observer that is the oscillating group of cells
+
 a0137z "means that neural circuits can track, be aware of, and respond to, speak back to other neural circuits"
 https://github.com/v5ma/selfawarenetworks/blob/main/a0137z.md
 
