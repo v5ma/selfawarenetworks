@@ -14,7 +14,7 @@ NAPOT is the theory from which existing artificial neural network architectures 
 
 NAPOT is not just about how the brain perceives it's own representations, but it's also how memories scale from synaptic connections to the whole brain, it's also about how information flows through the mind and its connected in the networks of the brain via oscillations.
 
-I wrote down somewhere in the notes on github how it differs from deep neural networks in general and graph neural networks, I need to add more about other types of neural networks that it differents from and essentially I am comparing what the brain does to the Fourier Projection Slice Theorum, or to a combination of neural network rendering (think along the lines of NeRF, or Plenoxels or Gan Synthesis or Point Clouds Rendering and combine that with 3D Semantic Segmentation or 3D Object Segmentation + Classification, PointNet++ being an example.)
+I wrote down somewhere in the notes on github how it differs from deep neural networks in general and graph neural networks, I need to add more about other types of neural networks that it differents from and essentially I am comparing what the brain does to the Fourier Projection Slice Theorem, or to a combination of neural network rendering (think along the lines of NeRF, or Plenoxels or Gan Synthesis or Point Clouds Rendering and combine that with 3D Semantic Segmentation or 3D Object Segmentation + Classification, PointNet++ being an example.)
 
 The term or variants of the term appear in the following notes
 
