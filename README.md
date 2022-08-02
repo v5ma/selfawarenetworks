@@ -1,4 +1,8 @@
-This is SelfAwareNeuralNetworks.com, you are in the selfawarenetworks repo on github.com/v5ma and you are reading my notes some of which will go into the Book Self Aware Networks, Neurophysics, Artificial Neurology, and BioSynthetic Interfaces. This is the readme page.
+People talk about how gasses become water as emergence, but perhaps a better word concept is oscillation, like the fireflies synchronize looks like emergent behavior but really its oscillation
+
+The oscillation of fireflies and the oscillation of cells points to how all the cells in the body can act as a single sensor, entified through the principles of oscillation, entified in time & space, by passing & dissipating signals between cells until the separate cells are in sync as a single sensor, once in sync every part of your cellular body can sense every other part, because touching one part of your body triggers a wave of signals to pass to all the cells of the body.
+
+This is SelfAwareNeuralNetworks.com, you are in the selfawarenetworks repo on github.com/v5ma and you are reading my notes some of which will go into the Book Self Aware Networks, Neurophysics, Artificial Neurology, and BioSynthetic Interfaces. This is the  page.
 
 These notes that formulate the ground of the Self Aware Networks Institute, and the book Self Aware Networks, present new theory that ties together evolution, gravity, quantum physics, spacetime, cognition, phenomenological consciousness, cells, neural networks, LTD, LTP, dendritic functions, neuron functions, vesicle functions, biological information theory, mass, time, quantum gradient time dilation, and it's all sync'd together with the concept of oscillation.
 
@@ -71,7 +75,7 @@ Work began on converting these notes into a wiki on github.
 Looking to pay to have professional transcripts of the audio done by hand.
 https://github.com/v5ma/selfawarenetworks/wiki
 
-At the moment the readme page consists of a lot of disclaimers and very little about the contents and main ideas presented within these notes. I will work on fixing that for the next major revision of the readme file.
+At the moment the  page consists of a lot of disclaimers and very little about the contents and main ideas presented within these notes. I will work on fixing that for the next major revision of the  file.
 
 # I have several thoughts on Yann LeCun's model released on June 27th 2022 see note a0110z
 https://github.com/v5ma/selfawarenetworks/blob/main/a0110z.md
@@ -150,9 +154,9 @@ c0000x was invented to designate notes that correspond to sections of the book o
 
 Some of the notes I'm sharing are outdated older ideas. a0608z for example is from November 14th 2014 and I included it because it's interesting.
 
-# Yes I am noticing a lot of redundant statements in this readme. I will be cleaning this up soon, sorry about that.
+# Yes I am noticing a lot of redundant statements in this . I will be cleaning this up soon, sorry about that.
 
-Sorry about the grammatically incorrect run on sentences, everything, including this readme file will be updated & improved continually.
+Sorry about the grammatically incorrect run on sentences, everything, including this  file will be updated & improved continually.
 
 I hope that the most intelligent people in the world read & enjoy my notes on human phenomenological consciousness, memory, gravity, cells & sentient machines, but I am going to tell you upfront that it's not all correct, some of the notes will not be included in the eventual book, but it's enough to get the main ideas across about the brain, the mind, and reality.
 
@@ -201,7 +205,7 @@ I recently began adding transcriptions from the Neural Lace Podcast series into 
 
 To figure out how I am going to organize these notes search for the phrase "book contents" "table of contents" and the word "map"
 
-# These notes go all the way back to 2011 and even before. They represent the work of a lifetime for me, but in the bigger picture these notes build on the work of great neuroscientists, great physicists, great mathematicians, great biologists, and great computer scientists, including the folks that invented deep learning and before that neural networks. I will expand the readme to include all the great books & papers I've read & considered.
+# These notes go all the way back to 2011 and even before. They represent the work of a lifetime for me, but in the bigger picture these notes build on the work of great neuroscientists, great physicists, great mathematicians, great biologists, and great computer scientists, including the folks that invented deep learning and before that neural networks. I will expand the  to include all the great books & papers I've read & considered.
 
 You can see more of my work at http://vrma.io and http://svgn.io and I will update this later with many more links.
 

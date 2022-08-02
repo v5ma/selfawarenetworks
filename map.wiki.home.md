@@ -37,7 +37,7 @@ Start.Intro.ArtificialIntelligence
 
 Start.Intro.ArtificialIntelligence+XR+BCI
 
-# Fractals
+# Fractals 
 
 Fractals.Networks Entropy & Fractals : Fractals in Medical Imaging: Functional Isomorphisms at Multiple Scales: Brain Activity Fractal, EEG MEG, & MRI, Waves. The activity of a single cell might be a fractal of multi-cell neural circuit pattern eeg, meg, mri, anatomy, functional anatomy
 
