@@ -1,3 +1,21 @@
+A 3 minute video explaining my work
+https://www.youtube.com/watch?v=VTBNyUM47Zg&ab_channel=SiliconValleyGlobalNewsSVGN
+
+A 10 minute video explaining my work covering the 18 points below in this readme file
+https://www.youtube.com/watch?v=IKbl0ryKRoY&ab_channel=SiliconValleyGlobalNewsSVGN
+
+A 50 minute video explaining my work
+https://www.youtube.com/watch?v=fLp-yTQ6pSM&ab_channel=SiliconValleyGlobalNewsSVGN
+
+The 3rd video covers this new note map https://github.com/v5ma/selfawarenetworks/blob/main/map.napot.md
+
+Regarding the terms evolution vs development.
+The consequence of C.O.T. Cellular Oscillating Tomography, is there is no more concept of development apart from evolution, there is only evolution. There is no more artificial that is separate from natural. There is no more man that is separate from nature. There is only nature.
+
+It might be a while until the world realizes OUR collective ~~work~~ evolution over centuries to realize human consciousness & put it into a machine has finally arrived. Once we get started, it won't matter where you work. Be it a coffee shop or at @Google you will be rich (economies of scale)
+
+Essentially the tonic oscillation frequency of the oscillating group of cells is the canvas of consciousness, and the changes to it, via the release of 0 1 2 or 3 vesicle sacks at each interval relative to the group oscillation is the paint of the minds internal representations or qualia inside the mind that is perceived by the observer that is the oscillating group of cells
+
 People talk about how gasses become water as emergence, but perhaps a better word concept is oscillation, like the fireflies synchronize looks like emergent behavior but really its oscillation
 
 The oscillation of fireflies and the oscillation of cells points to how all the cells in the body can act as a single sensor, entified through the principles of oscillation, entified in time & space, by passing & dissipating signals between cells until the separate cells are in sync as a single sensor, once in sync every part of your cellular body can sense every other part, because touching one part of your body triggers a wave of signals to pass to all the cells of the body.
@@ -6,18 +24,10 @@ This is SelfAwareNeuralNetworks.com, you are in the selfawarenetworks repo on gi
 
 These notes that formulate the ground of the Self Aware Networks Institute, and the book Self Aware Networks, present new theory that ties together evolution, gravity, quantum physics, spacetime, cognition, phenomenological consciousness, cells, neural networks, LTD, LTP, dendritic functions, neuron functions, vesicle functions, biological information theory, mass, time, quantum gradient time dilation, and it's all sync'd together with the concept of oscillation.
 
-# Update: July 31st New video:
-1 hour video that explains N.A.P.O.T. which is the central thesis for how we can build Self Aware Networks to make Conscious Robots. https://youtu.be/fLp-yTQ6pSM
-The video covers this new note map https://github.com/v5ma/selfawarenetworks/blob/main/map.napot.md
-
-# This new video explains some of the past & present work in more detail. It covers the 18 new points below.
-Self Aware Networks: A longer explanation of my research, my past work, and what I have built. #Physics #Gravity #Math #Science #Quantum #Brain #ArtificialIntelligence
-https://youtu.be/IKbl0ryKRoY 
-
-# Update: July 30th 2022 18 new points both about myself and about what these notes contain.
+# Update: July 30th 2022 18 new points about my past & present work and what these notes contain.
 1. I can program Virtual Reality & Augmented Reality accessible websites, I use tools like WebXR, Aframe, and Javascript. I led a project that brought EEG into WebVR (a 3D visualization of brainwave activity signals displayed in a VR headset via the web or a local server) I'm not far off from being able to write novel new code with React Three Fiber either, I've been studying both React and Three.js for a while, I've just been busy writing these notes for my book and for this institute. 
 
-2. I write, speak about topics like science, math, biology, neurophysics, virtual reality, artificial neural networks, and brain computer interfaces and I have an upcoming book called Self Aware Networks neurophysics, building sentient AI, and bio-synthetic interfaces. It's the same subject matter as the Self Aware Networks Institute at selfawareneuralnetworks.com or github.com/v5ma (in the selfawarenetworks repo) the institute will later be in WebXR (accessible via AR and VR headset devices or glasses)
+2. I write, speak on topics associated with terms like science, math, biology, neurophysics, virtual reality, artificial neural networks, and brain computer interfaces and I have an upcoming book called Self Aware Networks neurophysics, building sentient AI, and bio-synthetic interfaces. It's the same subject matter as the Self Aware Networks Institute at selfawareneuralnetworks.com or github.com/v5ma (in the selfawarenetworks repo) the institute will later be in WebXR (accessible via AR and VR headset devices or glasses)
 
 3. My theory of brain function is complete enough to build conscious self aware robots, I have enough theory to make a computer have feelings & emotions & have inner qualia experiences. I haven't written the code for this yet but I have the theory needed that can lead to code development. The name of the theory that will allow us to modify existing neural network architectures into sentient architectures is called NAPOT: Neural Array Projection Oscillation Tomography, in these notes it is also referred to as Neural Oscillatory Tomography and Neural Array Projection Tomography. Search for all 3 terms in this github repo to see the notes connected to this theory.
 
