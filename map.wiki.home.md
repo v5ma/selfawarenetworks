@@ -1,6 +1,9 @@
 map.wiki.home
-Note: Every text file that starts with map is essentially a time stamped back up of a wiki page, I don't know if the wikipages have visible time stamps or not, but the text files in the general repositories do, this is about making sure that my work is protected as published material.
 
+$ git clone http://github.com/v5ma/selfawarenetworks.wiki.git
+# Clones the wiki locally
+
+Note: Every text file that starts with map is essentially a time stamped back up of a wiki page, I don't know if the wikipages have visible time stamps or not, but the text files in the general repositories do, this is about making sure that my work is protected as published material.
 
 # The Self Aware Networks Institute Wiki on github!
 
@@ -77,7 +80,7 @@ NAPOT.Exit bumping each of them, but perhaps the total signal strength transmitt
 
 NAPOT.Imaging Medical Imaging, Neural Stimulation, Closed Loop Therapy, Brain Machine Interfaces
 
-# Interfacing
+# Interfacing 12 components
 
 Interfacing.Generality Self Similarity of brain areas How can we interface with the brain: David Eagleman
 
@@ -91,7 +94,7 @@ Interface.Neuropype Tim Mullen
 
 Interface.MEG
 
-Interface.Optical Imaging Kyle
+Interface.Optical Imaging Kyle Matheson
 
 Interface.FNIRS1 Jonathan Toomim
 
@@ -101,13 +104,9 @@ Interface.FNIRS3 OpenWater Mary Lou Jepsen
 
 Interface.HD-Dot
 
-Interface.EIT Electrical Impedance Tomography
+Interface.EIT.OpenEIT(Jean Rintol)&EIT+DeepNeuralNetworks
 
-OpenEIT Jean Rintol
-
-EIT & Deep Learning
-
-# Implanted Imaging & Stim
+# Implanted Imaging & Stim 5 components
 Neuralink
 
 NeuroString
@@ -118,18 +117,20 @@ DBS
 
 Stentrode
 
-# External.Stimulation
+# External.Stimulation 
 Electroconvulsive Shock Therapy
 
 TMS Transcranial Magnetic Stimulation
 # “A visual and narrative timeline of US FDA milestones for Transcranial Magnetic Stimulation (TMS) devices”
 https://www.brainstimjrnl.com/article/S1935-861X(21)00825-1/fulltext?fbclid=IwAR0nb8cIZ7X0EXLhGeHrDoH91j4dUu09XIl7inXY6jXOk3xv8vuldhjloIs#%20
 
+Ultrasound (OpenWater)
+
 AVS Stim with TACS
 
 TDCS with focus.
 
-External.Imaging.EEG
+# External.Imaging.EEG
 Emotiv
 
 Neurable
@@ -142,11 +143,13 @@ Seenel
 https://seenel-imaging.com/
 
 fNIRS combined with EEG
-Kernel
+1. Kernel
+2. Another Project name forgotten
 
-External.Imaging.fmri
+# External.Imaging.FMRI+DTI
 Jack Gallant
 
+# Standardization of Medical Imaging Methods
 Projects: Child Mind Institute & the vision of future global standardization for multi-modal data collection medical imaging research
 
 # Neo Mind Cycle & Neuro Salon events.
@@ -165,14 +168,14 @@ EEG, Neurable, EEG Gaming didn’t work because the brain increases in energy ef
 
 ###: Reading & Writing your thoughts and internal representations. Connecting the human brain to artificial intelligence.
 
-
 Cycle 1.x Ilya Prigogine: Whole Brain Physics as a dissipative system
 **Entified**
+
 Phenomenological Consciousness is the rendered & temporally entified volumetric representation of reality passing between Oscillating Neural Arrays that Project or Incept Renderings to subsequent Oscillating Neural Arrays that "perceive" in their receptive field the information of the previous arrays. Rendered information is perceived in the oscillating sequences of neural arrays in physical information vortex of the brain, resulting in the generation of phenomenological consciousness.
 
 Thermodynamics * maximum entropy (convergent integration of information configuration (synaptic cohesion) in a harmonic resonance field)
 
-the number of possible states range from a single oscillation, between existence and non-existence, between 0 and 1
+The number of possible states range from a single oscillation, between existence and non-existence, between 0 and 1
 
 Why is the brain a Finite State Machine? The total sum of all possible calculations.
 
@@ -181,8 +184,6 @@ maximum extropy divergent dissipative chaotic resonance
 Cognition as the dissipation of energy via oscillation, neurons doing collective memory sensation via oscillation + learning via changing connections that encode oscillatory patterns.
 
 equation for cognition, qualia (internal representations) & phenomenal consciousness
-
-
 
 A neuron is transmitting its learned synaptic morphology as a phase change, or its learned network connections to the rest of the network when it fires.
 
@@ -298,7 +299,7 @@ Phase Precession
 
 Phasic, Tonic. Peter Tse, Phasic Firing (criterial causation theory) * 0.2 millisecond firing for sound, 3 millisecond firing
 
-Tonic vs Phasic (Bursts)
+Tonic vs Phasic Relationship: Ground of being, Canvas of Conscoiusness (Bursts & Burstlets)
 
 Soma Burst to Multi Microvesicle Release Microvesicle Release in Detail + Microvesicle Bodies
 
