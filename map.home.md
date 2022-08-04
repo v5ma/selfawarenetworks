@@ -1,9 +1,7 @@
-map.wiki.home
+(DO NOT EDIT, THIS IS A BACKUP ONLY, EDIT THE CORRESPONDING WIKIPAGE INSTEAD)
+Each map page is a time-stamped copy of a wikipage. The wiki pages ought to be time stamped but I have not yet discovered where it can be shown.
 
-$ git clone http://github.com/v5ma/selfawarenetworks.wiki.git
-# Clones the wiki locally
-
-Note: Every text file that starts with map is essentially a time stamped back up of a wiki page, I don't know if the wikipages have visible time stamps or not, but the text files in the general repositories do, this is about making sure that my work is protected as published material.
+map.home
 
 # The Self Aware Networks Institute Wiki on github!
 
@@ -14,33 +12,40 @@ This page represents the table of contents for the book and will serve as the pa
 To start with I am going to just link text notes to this table of contents, then those notes will be replace with new wiki pages. It's a matter of prioritizing organization over format in the order of operations.
 
 How to add links & images to this wiki.
-[Markdown based wiki links & images](https://github.com/v5ma/selfawarenetworks/wiki/Markdown-based-wiki-links-&-images)
+[Markdown Info](https://github.com/v5ma/selfawarenetworks/wiki/xmark)
 
 For links Text goes in the bracket, link goes in the parenthesis. No space between the bracket & parenthesis.
 [] () 
 
 To embed Image into the page paste a full image link into double brackets [ [ ] ] no spaces
 
-# Start
+# Intro
 
-Start.Title Self Aware Networks IO 
+Intro.Title Self Aware Networks IO 
 
-Start.Presentation SAO Slide Deck Key Backup
+Intro.NAPOT
 
-[Start.Intro.Fractal](https://github.com/v5ma/selfawarenetworks/wiki/Start.Intro.Fractal) Introduction: Neo Mind Cycle: In the ever present beginning of spacetime.
+Intro.COT
 
-Start.Intro.BCI The Ultimate Brain Computer Interface
+Intro.Neurophysics
 
-Start.Intro.Neurophysics
+[Intro.Fractal](https://github.com/v5ma/selfawarenetworks/wiki/Intro.Fractal) 
 
-[Start.Intro.Gravity](https://github.com/v5ma/selfawarenetworks/wiki/Start.Intro.Gravity)
+[Intro.Gravity](https://github.com/v5ma/selfawarenetworks/wiki/Intro.Gravity)
 
+Intro.InTheBeginning
 
-Start.Intro.ArtificialIntelligence
+Intro.NeoMindCycle
 
-Start.Intro.ArtificialIntelligence+XR+BCI
+Intro.BCI The Ultimate Brain Computer Interface
 
-# Fractals 
+Brain Network Protocols Brainwaves
+
+Intro.ArtificialIntelligence
+
+Intro.ArtificialIntelligence+XR+BCI
+
+# Fractals
 
 Fractals.Networks Entropy & Fractals : Fractals in Medical Imaging: Functional Isomorphisms at Multiple Scales: Brain Activity Fractal, EEG MEG, & MRI, Waves. The activity of a single cell might be a fractal of multi-cell neural circuit pattern eeg, meg, mri, anatomy, functional anatomy
 
@@ -52,7 +57,9 @@ Fractals.Phases tonic, phasic, inhibited, a multi-scale pattern **_fractal_**
 
 Fractals.Focusing A pattern recorded from a small portion of the cortex looks like a pattern recorded from the whole. the lens of the mind, from a memory stored in a synapse, to the whole brain focusing on that memory, that one detail, a multi-level graph network
 
-# COT Cellular Oscillating Tomography
+# C.O.T. Cellular Oscillatory Tomography: New Theory of Evolution
+
+Rethinking the brain What can cells do: Jon Lief: More than folks think: Jon Lief on Cells. The expanding roles of Astrocytes, Oligodendrocytes, T-Cells, MicroGlia, Cancer.
 
 COT.Theory Information Theory x Computational Biology
 
@@ -70,108 +77,62 @@ COT.Solitons mechanical waves are fractals of other types of waves, like electro
 
 COT.Receptor to Cells to Neural Circuit to Cortical Column to Oscillating groups
 
-# NAPOT Neural Array Projection Oscillating Tomography
+# N.A.P.O.T.: Neural Array Projection Oscillation Tomography: The NeuroPhysics of Phenominological Consciousness
 
-NAPOT.Scale brain learns scale invariant patterns
+a0053z
+# The Phasic Tonic Relationship.
+
+a0008z
+# My 2014 Neurons are transmitting their shapes theory revised.
+
+A new model of a neuron
+Solitons + Hodkin & Huxley
+Dendrite to MVR
 
 NAPOT.Activation LTP as Synaptic Morphology activated by Phase Transmission the output of a phase from one neuron to the next array of neurons could be considered to be some fractal reduction of the APsyn, perhaps, so the AP fires, and then it distributes its signal across all the branches of the exit terminal to the downstream connected neurons,
 
-NAPOT.Exit bumping each of them, but perhaps the total signal strength transmitted is somehow divided by each of the branches so that it is dissipating its energy spatially
+NAPOT.Scale brain learns scale invariant patterns, from synapse to whole brain
+a0008
 
-NAPOT.Imaging Medical Imaging, Neural Stimulation, Closed Loop Therapy, Brain Machine Interfaces
+NAPOT.Exit Terminal, Oscillation bumps, perhaps the total signal strength transmitted is somehow divided by each of the branches so that it is dissipating its energy spatially
 
-# Interfacing 12 components
+Entification via Oscillation
+EEG - Buzsaki (2006 book Rhythms of the Brain)
+Neurons, Fireflies, Clocks - Strogatz (Book: Sync)
+Working Memory = "Cortical Feedback Loops Bind Distributed Representations of Working Memory" https://doi.org/10.1038/s41586-022-05014-3
 
-Interfacing.Generality Self Similarity of brain areas How can we interface with the brain: David Eagleman
+**Entified**
+Phenomenological Consciousness is the rendered & temporally entified volumetric representation of reality passing between Oscillating Neural Arrays that Project or Incept Renderings to subsequent Oscillating Neural Arrays that "perceive" in their receptive field the information of the previous arrays. Rendered information is perceived in the oscillating sequences of neural arrays in physical information vortex of the brain, resulting in the generation of phenomenological consciousness.
 
-Interface.Thalamus Broccoli Properties example
+# Sensory Input areas
+Ear Ganglia
+Eye Ganglia
+Mechano Sensation
+Electro Sensation
 
-Interface.Imaging Imaging technologies and stimulation over view
+# The Flow of Information in the Brain
+Architecture of Neural Arrays, Neural Circuits, Clusters, Columns, Networks, The Flow of Information from Sensory Inputs, to Thalamic Bridges, to Neo Cortex Loops, Hippocampal-Entorhinal Loop, 
 
-27x/ My experience with the Brainduino Device. July 2018-2019
+Thalamus Broccoli Properties to BCI
 
-Interface.Neuropype Tim Mullen
+Self Similarity of brain areas
 
-Interface.MEG
+How can we interface with any part the brain: David Eagleman
 
-Interface.Optical Imaging Kyle Matheson
-
-Interface.FNIRS1 Jonathan Toomim
-
-Interface.FNIRS2 John David Chibuk
-
-Interface.FNIRS3 OpenWater Mary Lou Jepsen
-
-Interface.HD-Dot
-
-Interface.EIT.OpenEIT(Jean Rintol)&EIT+DeepNeuralNetworks
-
-# Implanted Imaging & Stim 5 components
-Neuralink
-
-NeuroString
-
-Ecog
-
-DBS
-
-Stentrode
-
-# External.Stimulation 
-Electroconvulsive Shock Therapy
-
-TMS Transcranial Magnetic Stimulation
-# “A visual and narrative timeline of US FDA milestones for Transcranial Magnetic Stimulation (TMS) devices”
-https://www.brainstimjrnl.com/article/S1935-861X(21)00825-1/fulltext?fbclid=IwAR0nb8cIZ7X0EXLhGeHrDoH91j4dUu09XIl7inXY6jXOk3xv8vuldhjloIs#%20
-
-Ultrasound (OpenWater)
-
-AVS Stim with TACS
-
-TDCS with focus.
-
-# External.Imaging.EEG
-Emotiv
-
-Neurable
-
-Openbci interview + OpenBCI & Valve Story
-
-External.Imaging.FNIRS+EEG
-fNIRS combined with EEG
-Seenel
-https://seenel-imaging.com/
-
-fNIRS combined with EEG
-1. Kernel
-2. Another Project name forgotten
-
-# External.Imaging.FMRI+DTI
-Jack Gallant
+BCI Industry Map
+[Brain.Interface](https://github.com/v5ma/selfawarenetworks/wiki/Brain.Interface)
 
 # Standardization of Medical Imaging Methods
 Projects: Child Mind Institute & the vision of future global standardization for multi-modal data collection medical imaging research
 
-# Neo Mind Cycle & Neuro Salon events.
-
-Neurotech SF events from 2018 & 2019
-
-Neo Mind Cycle in 2012-2014 the scope
-
-Neo Mind Cycle: Nerve Gear the ultimate Brain Computer Interface
-
-My experience with EEG with the Emotive, Transparent Corp
-
-In 2012 I dedicated my life to solving how to build the ultimate brain computer interface, what I called Neural Lace or Nerve Gear back then full dive VR & AR via direct brain stimulation, as if the brain was “A special kind of hard drive”, then 55x/ Artificial Cortex, then Artificial Brains, 
-
-EEG, Neurable, EEG Gaming didn’t work because the brain increases in energy efficiency over time.
+# Neo Mind Cycle, The Neural Lace Podcast, & NeuroTechSF Salon events.
+[NeoMindCycle](https://github.com/v5ma/selfawarenetworks/wiki/neomindcycle)
 
 ###: Reading & Writing your thoughts and internal representations. Connecting the human brain to artificial intelligence.
 
 Cycle 1.x Ilya Prigogine: Whole Brain Physics as a dissipative system
-**Entified**
 
-Phenomenological Consciousness is the rendered & temporally entified volumetric representation of reality passing between Oscillating Neural Arrays that Project or Incept Renderings to subsequent Oscillating Neural Arrays that "perceive" in their receptive field the information of the previous arrays. Rendered information is perceived in the oscillating sequences of neural arrays in physical information vortex of the brain, resulting in the generation of phenomenological consciousness.
+
 
 Thermodynamics * maximum entropy (convergent integration of information configuration (synaptic cohesion) in a harmonic resonance field)
 
@@ -179,28 +140,27 @@ The number of possible states range from a single oscillation, between existence
 
 Why is the brain a Finite State Machine? The total sum of all possible calculations.
 
-maximum extropy divergent dissipative chaotic resonance
+Maximum extropy divergent dissipative chaotic resonance
+
+Thermodynamics, Dissipation 
+
+
 
 Cognition as the dissipation of energy via oscillation, neurons doing collective memory sensation via oscillation + learning via changing connections that encode oscillatory patterns.
 
-equation for cognition, qualia (internal representations) & phenomenal consciousness
+Equation for cognition, qualia (internal representations) & phenomenal consciousness
 
 A neuron is transmitting its learned synaptic morphology as a phase change, or its learned network connections to the rest of the network when it fires.
 
 The Neuronal Dynamics of Consciousness
 
 A new framework for how neural correlations could render reality.
+
 **Grid Cells, Tensors, Taylor Series, Information Theory, Rendering**
 
-Rethinking the brain What can cells do: Jon Lief: More than folks think: Jon Lief on Cells.
+All the things Neurons actually can do ) Jon Lief How cells communicate
 
-NeuroPhysics of Consciousness
-
-The expanding roles of Glial Cells? All the things Neurons actually can do ) Jon Lief How cells communicate
-
-Glial Cells & Glial Networks, Microtubules, Quantum Physics
-
-Brain Network Protocols Brainwaves
+Glial Cells & Glial Networks, 
 
 Information Theory
 
@@ -208,7 +168,7 @@ Information Theory
 
 Neural Code
 
-Neural Code: The Ground
+Neural Code: The Ground of being
 
 The Macroscale Brain Networks
 
@@ -266,7 +226,13 @@ Hebbian Learning Physics: Path Integral Formulation for LTD, LTP,
 
 Physics Configuration space quantum physics for LTP & LTD & Plant growth
 
-# Cycle 1.3 Is Quantum Memory & Quantum Signaling a thing in the brain?
+# The Study of Quantum Effects in the Brain.
+
+Is Quantum Memory & Quantum Signaling a thing in the brain?
+
+Does the Brain do some form of Quantum Computation?
+
+What about Microtubules & Quantum Physics? (Granularity of Consciousness Note)
 
 LTD & LTP via Oscillation, Feynman Path Integral, Coherence, Decoherence
 
@@ -303,7 +269,7 @@ Tonic vs Phasic Relationship: Ground of being, Canvas of Conscoiusness (Bursts &
 
 Soma Burst to Multi Microvesicle Release Microvesicle Release in Detail + Microvesicle Bodies
 
-Graded Potentials: Synaptic Spikes, Backwards Dendritic Spikes, Forward Dendritic Spikes, Dendritic Branches Apical & Basel Summarization, Action Potential, Bifurcation,
+Graded Potentials: Synaptic Spikes, Backwards Dendritic Spikes, Forward Dendritic Spikes, Dendritic Branches Apical & Basel Summarization, Action Potential, Bifurcation.
 
 Excitatory Glutamatergic Driver Signals vs Inhibitory Gaba Modulator Signals: Types of Signal Transmission: Glutamatergic Excitatory Driver Alpha vs Gaba Inhibitory Interneuron Modulating Theta / Delta
 
@@ -364,8 +330,11 @@ Resolution What is the resolution or granularity of the rendering of consciousne
 The resolution of patterns in the brain: Neurons vs Perceptrons granularity and Phi network complexity and inhibitory network pattern loads
 
 # Oscillators
+
 Oscillating Neural Arrays to Oscillating Neural Arrays: The screen that only your brain sees
+
 Cycle to Self Aware Awareness: Hofstadter: Why I'm looking for feedback loops connecting the oscillating sensor-transmitter arrays. A Strange Loop by Douglas Hofstadter
+
 Observer: I want to bring up the question about who is the inner observer if the brain is making models
 
 The ground of being vs the concept of self in the imagined Rendering of the mind.
@@ -377,6 +346,7 @@ Scale invariance, Magnification, inner displays.
 Oscillator level awareness: The observer inside you.
 
 # ‘Traveling’ Nature of Brain Waves May Help Working Memory Work
+
 https://neurosciencenews.com/prefrontal-cortex-waves-memory-19988/?fbclid=IwAR1tRtgu6tLVKwJAIZPBWxQuIpw16XGw1IkYnoyRzA9mDJzHH_5PMgG--aM
 
 An oscillating array paints a picture or sound or feeling of what is happening for other arrays to detect and compile into 2 dimensional 
@@ -442,7 +412,7 @@ Coincidence as Bits transmitted as Bifurcating bifurcation Phase Changes
 
 Integrated Information: Phi
 
-# Cycle 3: Artificial Neurology
+# Artificial Neurology
 
 From Death Star Robots to an Artificial Neurology Research Center: Conscious Sentient Computers with artificial Souls
 
@@ -506,7 +476,7 @@ denoising, upscaling
 
 attention, transformers, persformers
 
-from 2D neural networks to real 3D neural networks
+# from 2D neural networks to real 3D neural networks
 
 Neural Radiance Fields https://arxiv.org/pdf/2111.12077.pdf
 
@@ -545,11 +515,11 @@ Lightfield
 
 Perceptron: Real Neurons & Glial Cell Networks vs The Perceptron & Deep Learning Neural Networks.
 
-# Choice & Medical Justice System
+# Human Choice, Animal Choice, Arficial Neurological Choice, & A Global Medical Justice System for All
 
 Medicine & Justice
 
-"Natural Selection of the Cosmos (not my topic, so do I want it to be in the intro no. if not then where?
+"Natural Selection of the Cosmos (not my topic, so do I want it to be in the intro no. if not then where?)
 
 Natural Selection of the Universe
 
@@ -575,21 +545,58 @@ Criterial Causation
 
 Action Perception Cycle: Prioceptive Movement: COIN Contextual Inference https://medicalxpress.com/news/2021-11-brain-context-key-theory-movement.html
 
-# The bizarre near term future
+# A Global Labor Union
 
-Artificial Emotion and Artificial Neurology
+# The Advanced Study of Artificial Neurology
 
-Artificial Cognitive Developmental Stages, Illya Prigogine, Dissipative Systems
+Artificial Neurology
 
-Sidebar: Neurotransmitter effects on Memory, Hallucinations, NDE, NerveGear, from Science Fiction to Reality
+Artificial Internal Representations or Qualia
 
-AI programming DNA, Gan Synthesis of 3D Printed Organs, Custom Designed 3D printed Organisms, and 3D Artificial Neural Networks to Solve Climate change problems like separating gasses from the air. Imagine giant dogs that are really great at construction work.
+Artificial Feelings
 
-Uploading & New bodies.
+Artificial Emotion 
 
-Maps of Reality: Thresholds of the Mind, Chaos, Reorganization, Philosophy of the Brain, Mind & Self, Spiral Dynamics
+Artificial Cognitive Developmental Stages
 
+Artificial Motivation & Drive: Ilya Prigogine, Dissipative Systems
+
+Cite Neurotransmitter Studies Relevant to Engineering Artificial Neurological Effects:
+
+on Working Memory Bandwidth
+on Rendering Hallucinations
+on Rendering NDE Near Death Experiences
+on Rendering OBE Out of Body Experiences
+on Rendering Dreams
+on Distorted Experiences of Time 
+on Distorted Experiences of Space
+on Object Detection or Loss of Object Distinguishability.
+
+Artifical Mental Illness, Monitoring, System Checks & Diagnosis
+
+NerveGear (Brain Computer Interfacing with Artificial Neurologies)
+
+AI programming DNA
+
+Gan Synthesis for 3D Printed Organs
+
+Custom Designed 3D printed Organisms
+
+3D Artificial Neural Networks to Solve Climate change problems like separating gasses from the atmosphere.
+
+Imagine giant dogs that are really great at construction work.
+
+Uploading & Backing up the mind & downloading the mind
+
+3D printing new bodies. (From David Brin's The Kiln People to Reality, the new timeline to doing this for real)
+
+Adapting old Maps of Reality to Artifical Cognitive Development:
+Thresholds of the Mind: Chaos, Reorganization
+Spiral Dynamics for AI
+AQAL for Artifial Neurology: (Ken Wilber)
 Rashamon Effect: two people see different versions of same evidence
 
-
-
+# Notes
+[Oscillat](https://github.com/v5ma/selfawarenetworks/wiki/oscillat) 
+[Graphy](https://github.com/v5ma/selfawarenetworks/wiki/graphy) 
+[Gravity](https://github.com/v5ma/selfawarenetworks/wiki/gravity) 

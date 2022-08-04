@@ -1,3 +1,6 @@
+(DO NOT EDIT, THIS IS A BACKUP ONLY, EDIT THE CORRESPONDING WIKIPAGE INSTEAD)
+Each map page is a time-stamped copy of a wikipage. The wiki pages ought to be time stamped but I have not yet discovered where it can be shown.
+
 map.napot.md (maps connect notes together and are intended to be back ups of the wiki doc)
 
 The central thesis of my book Self Aware Networks is N.A.P.O.T. or NAPOT

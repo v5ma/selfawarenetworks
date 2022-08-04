@@ -1,4 +1,5 @@
-689 results - 181 files
+(DO NOT EDIT, THIS IS A BACKUP ONLY, EDIT THE CORRESPONDING WIKIPAGE INSTEAD)
+Each map page is a time-stamped copy of a wikipage. The wiki pages ought to be time stamped but I have not yet discovered where it can be shown.
 
 a0001z.md:
   28: (Saving this next article below for an attention schema (Gazzaniga) map)

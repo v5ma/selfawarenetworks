@@ -1,4 +1,11 @@
+(DO NOT EDIT, THIS IS A BACKUP ONLY, EDIT THE CORRESPONDING WIKIPAGE INSTEAD)
+Each map page is a time-stamped copy of a wikipage. The wiki pages ought to be time stamped but I have not yet discovered where it can be shown.
+
 map.oscillat.md
+
+This is a copy of the Self Aware Networks wiki page: oscillat.md
+
+Contained are all mentioned of "oscillat" in this repo at the time this note was created.
 
 a0001z.md:
   18: What is the entity that is you, is essentially analogous to a computational rendering in a cycling phase oscillation or a branching fractal feedback loop entified via brainwave synchronization of temporal & spatially distributed phase changes across the 3D grid neural-glial network. You are entified via the principles of oscillation, as described in the book Sync by Steven Strogatz. As if each of your neurons is a firefly, or a clock, that is synchronizing with other neurons to act as a single sensor, a single transmitter, a sensor that considers information, via thresholds, and predicts the future, via the principles of memory-prediction (spoken of so well by the folks at Numenta, the book On Intelligence) with reality modeled from synapses to the whole brain with reference frames to help the brain coordinate new incoming sensory inputs (to make sense of the world the brain has a reference frame, a concept I read about in the book A thousand brains) but I am saying the whole brain is doing this at the macro level, not just at the meso level of the cortical columns & the hippocampus, and not just at the level of neurons but also at the level of receptors on basically all cells in the body.

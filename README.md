@@ -1,3 +1,6 @@
+# Update August 3rd 2022
+I made some good improvements to notes a0053z & a0008z I created some new maps pages that will soon be integrated into the wiki to help people navigate the repo more easily. There are some new wiki pages, and some changes made to the home wiki or the main table of contents.
+
 # Update August 2nd 2022
 Note: A lot of my notes on physics need to be fixed, I wrote contradictory & confusing things. The reasons for that includes the fact that because I broke my arm in September I was for a few months heavily medicated, and also I was still working out some of the ideas. So if you are just checking my notes on physics, the stuff that is incorrect will be fixed soon. Also thanks to feedback from a friend I will be working on creating a Whitepaper next, before work on the book continues.
 

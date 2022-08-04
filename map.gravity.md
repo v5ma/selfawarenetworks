@@ -1,4 +1,17 @@
+(DO NOT EDIT, THIS IS A BACKUP ONLY, EDIT THE CORRESPONDING WIKIPAGE INSTEAD)
+Each map page is a time-stamped copy of a wikipage. The wiki pages ought to be time stamped but I have not yet discovered where it can be shown.
+
 map.gravity.md
+
+This is a copy of the Self Aware Networks wiki page: gravity.md
+
+Contained are all mentioned of "gravity" in this repo at the time this note was created.
+
+[Home](https://github.com/v5ma/selfawarenetworks/wiki)
+
+wiki gravity.md
+
+Contained are all mentioned of "gravity" in this repo at the time this note was created.
 
 a0005z.md:
   5: Start the book with electricity, gravity, quantum physics
