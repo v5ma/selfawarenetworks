@@ -99,7 +99,11 @@ NAPOT.Exit Terminal, Oscillation bumps, perhaps the total signal strength transm
 Entification via Oscillation
 EEG - Buzsaki (2006 book Rhythms of the Brain)
 Neurons, Fireflies, Clocks - Strogatz (Book: Sync)
-Working Memory = "Cortical Feedback Loops Bind Distributed Representations of Working Memory" https://doi.org/10.1038/s41586-022-05014-3
+Working Memory = "Cortical Feedback Loops Bind Distributed Representations of Working Memory" https://doi.org/10.1038/s41586-022-05014-3 https://www.nature.com/articles/s41586-022-05014-3
+
+Representation of sustained visual experience by time-invariant distributed neural patterns
+Gal Vishne1,*, Edden M. Gerber1, Robert T. Knight2,3, and Leon Y. Deou
+https://www.biorxiv.org/content/10.1101/2022.08.02.502469v1.full.pdf
 
 **Entified**
 Phenomenological Consciousness is the rendered & temporally entified volumetric representation of reality passing between Oscillating Neural Arrays that Project or Incept Renderings to subsequent Oscillating Neural Arrays that "perceive" in their receptive field the information of the previous arrays. Rendered information is perceived in the oscillating sequences of neural arrays in physical information vortex of the brain, resulting in the generation of phenomenological consciousness.

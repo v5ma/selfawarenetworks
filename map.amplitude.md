@@ -1,7 +1,9 @@
 (DO NOT EDIT, THIS IS A BACKUP ONLY, EDIT THE CORRESPONDING WIKIPAGE INSTEAD)
 Each map page is a time-stamped copy of a wikipage. The wiki pages ought to be time stamped but I have not yet discovered where it can be shown.
 
-map.amplitude.md
+map.amplitude.md is a copy of wiki amplitude.md
+
+Contained are all mentioned of "amplitude" in this repo at the time this note was created.
 
 a0008z.md:
   30: All of which result in distinctly new signals, with new frequencies, amplitudes, and wavelengths.
