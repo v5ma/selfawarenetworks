@@ -27,17 +27,17 @@ The 3rd video covers this new note map https://github.com/v5ma/selfawarenetworks
 Regarding the terms evolution vs development.
 The consequence of C.O.T. Cellular Oscillating Tomography, is there is no more concept of development apart from evolution, there is only evolution. There is no more artificial that is separate from natural. There is no more man that is separate from nature. There is only nature.
 
-It might be a while until the world realizes OUR collective ~~work~~ evolution over centuries to realize human consciousness & put it into a machine has finally arrived. Once we get started, it won't matter where you work. Be it a coffee shop or at @Google you will be rich (economies of scale)
+It might be a while until the world realizes OUR collective ~~work~~ evolution over centuries to realize human consciousness & put it into a machine has finally arrived. Once we get started, it won't matter where you work. Be it a coffee shop or at a big tech company like Google you will be rich (economies of scale)
 
 Essentially the tonic oscillation frequency of the oscillating group of cells is the canvas of consciousness, and the changes to it, via the release of 0 1 2 or 3 vesicle sacks at each interval relative to the group oscillation is the paint of the minds internal representations or qualia inside the mind that is perceived by the observer that is the oscillating group of cells
 
-People talk about how gasses become water as emergence, but perhaps a better word concept is oscillation, like the fireflies synchronize looks like emergent behavior but really its oscillation
+People talk about how gasses become water as emergence, but perhaps a better word concept than emergence is oscillation, like the fireflies, when they synchronize, it looks like emergent behavior, but really its the physics of oscillation.
 
 The oscillation of fireflies and the oscillation of cells points to how all the cells in the body can act as a single sensor, entified through the principles of oscillation, entified in time & space, by passing & dissipating signals between cells until the separate cells are in sync as a single sensor, once in sync every part of your cellular body can sense every other part, because touching one part of your body triggers a wave of signals to pass to all the cells of the body.
 
 This is SelfAwareNeuralNetworks.com, you are in the selfawarenetworks repo on github.com/v5ma and you are reading my notes some of which will go into the Book Self Aware Networks, Neurophysics, Artificial Neurology, and BioSynthetic Interfaces. This is the  page.
 
-These notes that formulate the ground of the Self Aware Networks Institute, and the book Self Aware Networks, present new theory that ties together evolution, gravity, quantum physics, spacetime, cognition, phenomenological consciousness, cells, neural networks, LTD, LTP, dendritic functions, neuron functions, vesicle functions, biological information theory, mass, time, quantum gradient time dilation, and it's all sync'd together with the concept of oscillation.
+These notes, that formulate the ground of the Self Aware Networks Institute, and the book Self Aware Networks, present new theory that ties together new ideas on evolution, gravity, quantum physics, spacetime, cognition, phenomenological consciousness, cells, neural networks, LTD, LTP, dendritic functions, neuron functions, vesicle functions, biological information theory, mass, time, quantum gradient time crystal dilation, and all these new ideas are sync'd together with the physics of oscillation.
 
 # Update: July 30th 2022 18 new points about my past & present work and what these notes contain.
 1. I can program Virtual Reality & Augmented Reality accessible websites, I use tools like WebXR, Aframe, and Javascript. I led a project that brought EEG into WebVR (a 3D visualization of brainwave activity signals displayed in a VR headset via the web or a local server) I'm not far off from being able to write novel new code with React Three Fiber either, I've been studying both React and Three.js for a while, I've just been busy writing these notes for my book and for this institute. 
