@@ -1,3 +1,6 @@
+# Update August 9th 2022
+I distilled Neural Array Projection Oscillation Tomography N.A.P.O.T. to all cells. I called it Cellular Oscillating Tomography C.O.T.. It is infact a new theory of evolution and provides a neat framework for integrating almost all of computational biology into the old theory of evolution. Today I distilled this conceptual framework further to individual proteins. I coin the term for this Protein Oscillation Tomography P.O.T.. Read note a0270z https://github.com/v5ma/selfawarenetworks/blob/main/a0270z.md Note this note, like all the notes, is still under construction, further changes lay ahead.
+
 # Update August 4th 2022
 I like the recent changes that I made to notes.
 
