@@ -76,6 +76,8 @@ https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba
 
 13. I built my own model of a neuron that combines Hodgkin & Huxley with Soliton Wave Theory, with Thermodynamics, and the model explains how the quantity of neurotransmitter release is affected by the magnitude of the action potential via it's duration (calcium channels open longer) which counteracts the notion that an action potential is all or nothing event, otherwise described as synaptic unreliability (an idea that led to the artificial perceptron, a flawed concept which is still used today in modern deep neural networks) 
 https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0177z.md
+https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0286z.md
+https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0039z.md
 
 14. I've published novel new ideas on uploading the mind with next gen BCI, decoding the mind, and my thoughts on how to write code that can let a machine feel, experience emotion, and experience internal representations or qualia.  https://github.com/v5ma/selfawarenetworks/blob/da52fb97714674e66bdec5a61162308b960d99ea/a0645z.md
 
