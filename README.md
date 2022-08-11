@@ -2,13 +2,13 @@
 I have taken out many of the links in note a0270z and redistributed them across many notes, you can track the changes on github, where it says history, to see the recent notes that were changed.
 
 I created notes a0271z and a0272z both of which I am excited about.
-
+# The new a0270z is cleaned up a lot more but it still needs work
 https://github.com/v5ma/selfawarenetworks/blob/main/a0270z.md
 
 # Phase Shifts as Electromagnetic Wave Valence 
 https://github.com/v5ma/selfawarenetworks/blob/main/a0271z.md
 
-# Taste: Sensory Input Quantification
+# Taste & Hearing: Sensory Input Quantification
 https://github.com/v5ma/selfawarenetworks/blob/main/a0272z.md
 
 # Update August 9th 2022
