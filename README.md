@@ -1,3 +1,6 @@
+# Update August 11th 2022
+Important changes to a0272z and a0053z that I feel confirm my past research.
+
 # Update August 10th 2022
 I have taken out many of the links in note a0270z and redistributed them across many notes, you can track the changes on github, where it says history, to see the recent notes that were changed.
 
