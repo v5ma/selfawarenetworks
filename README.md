@@ -2,7 +2,7 @@
 Added a0282z:The Mission of The Self Aware Networks Institute
 https://github.com/v5ma/selfawarenetworks/blob/main/a0282z.md
 
-I moved the note on Cellular Oscillating Tomography: Bacteria to a0283
+I moved the note on Cellular Oscillating Tomography: Bacteria to a0283z
 https://github.com/v5ma/selfawarenetworks/blob/main/a0283z.md
 
 
