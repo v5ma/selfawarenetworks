@@ -1,10 +1,11 @@
 # Update August 16th 2022
+Please note that although I am claiming copyright, trademarks, and I am reserving all rights to my intellectual property that is presented here on github, I am also allowing people to download copies of my work for their own personal reading. It can be easier to read & search in Visual Studio Code for example, and you make fork the repos that you see here.
+
 Added a0282z:The Mission of The Self Aware Networks Institute
 https://github.com/v5ma/selfawarenetworks/blob/main/a0282z.md
 
 I moved the note on Cellular Oscillating Tomography: Bacteria to a0283z
 https://github.com/v5ma/selfawarenetworks/blob/main/a0283z.md
-
 
 # Update August 11th 2022
 Important changes to a0272z and a0053z that I feel confirm my past research.
