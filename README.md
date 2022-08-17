@@ -1,8 +1,8 @@
 # Update August 16th 2022
 Please note that although I am claiming copyright, trademarks, and I am reserving all rights to my intellectual property that is presented here on github, I am also allowing people to download copies of my work for their own personal reading. It can be easier to read & search in Visual Studio Code for example, and you make fork the repos that you see here.
 
-Added a0282z:The Mission of The Self Aware Networks Institute
-https://github.com/v5ma/selfawarenetworks/blob/main/a0282z.md
+I merged the content from a0282z "The Mission of The Self Aware Networks Institute" into this readme below.
+a0282z is currently an empty note.
 
 I moved the note on Cellular Oscillating Tomography: Bacteria to a0283z
 https://github.com/v5ma/selfawarenetworks/blob/main/a0283z.md
@@ -268,11 +268,33 @@ I bet a lot of people think it's unbelievable that someone would put all this to
 
 ‘Elementary,’ said he. ‘It is one of those instances where the reasoner can produce an effect which seems remarkable to his neighbor, because the latter has missed the one little point which is the basis of the deduction.’ Sherlock Holmes Quote
 
+# The Mission of The Self Aware Networks Institute
+
+The research of The Self Aware Networks Institute leads to technology that can inhale gasses like carbon & release other gasses like oxygen (like plants). 
+
+Plus tech that can absorb clouds of nuclear radiation following an atomic blast. Imagine we could manufacture carbon dioxide & methane absorbing trees 10,000 times faster than it takes to grow trees.
+
+That’s part of the mission of The Self Aware Networks Institute! Please share advice on how The Self Aware Networks Institute can get 
+funding. It is critical to life on this planet we focus on this project full time & recruit others to help!
+
+We will solve climate change. Sentient Self Aware Artificial Neural Networks. 3D printed life, artificial lungs, artificial plants that can selectively absorb gasses. Dog level sentient construction robots. Sentient vehicles. Next generation antigravity propulsion technologies.
+
+Developing next generation Synthetic Biology, for things like artificial photosynthesis, and machines that eat radiation like fungi are among the goals of research of The Self Aware Networks Institute.
+https://en.m.wikipedia.org/wiki/Synthetic_biology
+https://www.technologyreview.com/2007/05/29/225301/eating-radiation-a-new-form-of-energy/
+
+I am imaginging windmills that power atmosphere filtration systems that consume carbon dioxide, methane, even radiation.
+
+Such as a machine that eats radiation like Chernobyl Fungus only faster.
+
+Also we will build next generation Sentient AI based targeting systems for missile interception that can work with GPS or independently from GPS like a bird that hunts only much much faster than a bird.
+
 # Short Term Goals for the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
 
 We are going to use this technology to accelerate Medical Research, and that means advancing medical imaging technologies with artificial neural networks, and solving cellular degenerative diseases with artificial neural networks, accelerating longevity research, curing or finding new strategies to treat cancer, and all of the major and minor diseases that affect mankind.
 
-I hope that governments will adopt a Medical Justice System, that is a Judicial Branch of Government that is independent from the Executive & Legislative Branches of Government but is also medically informed at every level, and that also means that Neuroscientists will be in charge of sentencing, prisons, and the rehabilitation of patients for their return to society after serving their sentences. 
+I hope that governments will adopt a Medical Justice System, that is a Judicial Branch of Government that is independent from the Executive & Legislative Branches of Government but is also medically informed at every level, and that also means that Neuroscientists will be in charge of sentencing, prisons, and the rehabilitation of patients for their return to society after serving their 
+sentences. 
 
 # The Far Future
 
@@ -314,9 +336,11 @@ If NATO, The North Atlantic Treaty Organization, or the United Nations, or the U
 
 Note that if the US Government chooses to license the work of the Self Aware Networks Institute for 1 Trillion dollars a year, or 1% of US GDP whichever amount is greater then the US Government may sublease this work to other nations at even greater amounts. The US Government could for example charge NATO or the UN group of countries something like 2 Trillion dollars a year and or 2% of global GDP whichever amount is greater so that the United States is able to immediately profit from their investment in the Self Aware Networks Institute.
 
-This is just an opening bid suggestion. At this point in time the Institute is willing to consider the best offer.
+This is just an opening bid suggestion. At this point in time The Self Aware Networks Institute is willing to consider the best offer.
 
 The Self Aware Networks Institute for the Neurophysics of Consciousness, Artificial Neurology & Brain Machine Interfaces is now also accepting cryptocurrency contributions from anyone who wants to help accelerate this project. All the research will remain viewable to the public at this github address. http://github.com/v5ma
+
+At this point in time the Self Aware Networks Institute really needs financial support to get started. We are seeking big contributions to buy a larger office, to finish our legal paper work, and also to hire people.
 
 Bitcoin address: 3JAc5sHe3Jdu4EGzkwQqdRZUMQxjCXeCjU 
 
