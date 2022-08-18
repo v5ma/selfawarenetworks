@@ -2,10 +2,6 @@ Self Aware Networks: Neural Array Projection Oscillatory Tomography Whitepaper
 
 (I'm adapting the napot wiki page into a white paper, so most of text from the wiki page will be integrated here, but this whitepaper will be expanded greatly, clarified, reorganized & rewritten in the format of a whitepaper on the future of neural networks.)
 
-[napot](https://github.com/v5ma/selfawarenetworks/wiki/napot)
-
-https://github.com/v5ma/selfawarenetworks/wiki/napot
-
 N.A.P.O.T. is the central thesis for how we can build Self Aware Networks or Conscious (Animal Level) Self Aware Artificial Neural Networks.
 
 Memories have to scale up, from being stored in synaptic connections, to being something that your brain can be conscious of with multiple modalities representing different aspects of that memory. Touch, taste, smell, texture, feeling, emotion, visual & acoustic memories are all thought to be evoked from different places, but if these memories are stored in tiny synaptic connections, they have to scale up in order to connect together the different brain regions that are thought to represent the different aspects of these evoked memories.

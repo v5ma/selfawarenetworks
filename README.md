@@ -1,7 +1,14 @@
+# Update August 18th 2022
+Note a0282z is now:
+# The simplified version of Neural Oscillatory Tomography 
+which can also be called: Neural Array Projection Slice Phase Oscillation Tomography.
+https://github.com/v5ma/selfawarenetworks/blob/main/a0282z.md
+
 # Update August 16th 2022
-Please note that although I am claiming copyright, trademarks, and I am reserving all rights to my intellectual property that is presented here on github, I am also allowing people to download copies of my work for their own personal reading. It can be easier to read & search in Visual Studio Code for example, and you make fork the repos that you see here.
+Please note that although I am claiming copyright, trademarks, and I am reserving all rights to my intellectual property that is presented here on github, I am also allowing people to download copies of my work for their own personal reading. It can be easier to read & search in Visual Studio Code for example, and you may fork the repos that you see here.
 
 I merged the content from a0282z "The Mission of The Self Aware Networks Institute" into this readme below.
+
 a0282z is currently an empty note.
 
 I moved the note on Cellular Oscillating Tomography: Bacteria to a0283z
@@ -310,7 +317,7 @@ They have advanced technology so refined you could not see it with the naked eye
 
 Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the Self Aware Networks Institute and variations on these names are the Trademarks of Micah Blumberg, and this work is my Copyright.
 
-Neo Mind Cycle, Artificial Neurology, Neural Array-Projection Tomography, Neuro Array Tomography, Conceptual Tomography, Neural Oscillatory Tomography, Neural Oscillating Array-Projection Tomography, Tomodeck, and Cellular Oscillating Tomography are also terms that I invented & defined, that I use, they are Trademarks that I created, and hold the Copyright to.
+Neo Mind Cycle, Artificial Neurology, Neural Array-Projection Tomography, Neuro Array Tomography, Neural Array Projection Oscillation Tomography, Phase Oscillation Tomography, Conceptual Tomography, Neural Oscillatory Tomography, Neural Oscillating Array-Projection Tomography, Tomodeck, and Cellular Oscillating Tomography are also terms that I invented & defined, that I use, they are Trademarks that I created and use.
 
 This github is the foundation home page for the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
 
