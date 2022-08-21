@@ -162,7 +162,7 @@ a0069z.md:
 
   49  
   50: # "Magnetoencephalography with optically pumped magnetometers (OPM-MEG): the next generation of functional neuroimaging"
-  51  https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(22)00102-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0166223622001023%3Fshowall%3Dtrue&fbclid=IwAR0227lJHVrPrbl1WzaXXFHFrkr8M_GSK0CnPP0mOYC9I-Ofm_hT7ctO5Iw#.YtXkiwAFacQ.facebook
+  51  https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(22)00102-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0166223622001023%3Fshowall%3Dtrue&fbclid=IwAR0227lJHVrPrbl1WzaXXFHFrkr8M_GSK0CnPP0mOYC9I-Ofm_hT7ctO5Iw#.YtXkiwAFacQ.faceobok
 
 a0091z.md:
   895  Micah Blumberg
@@ -876,7 +876,7 @@ b0200y ctpr.txt:
 
 b0209y ctpr.txt:
   108  
-  109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   110  
 
 b0210y ctpr.txt:
@@ -1309,7 +1309,7 @@ map.book.md:
 
    369    49  
    370:   50  # "Magnetoencephalography with optically pumped magnetometers (OPM-MEG): the next generation of functional neuroimaging"
-   371    51: https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(22)00102-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0166223622001023%3Fshowall%3Dtrue&fbclid=IwAR0227lJHVrPrbl1WzaXXFHFrkr8M_GSK0CnPP0mOYC9I-Ofm_hT7ctO5Iw#.YtXkiwAFacQ.facebook
+   371    51: https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(22)00102-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0166223622001023%3Fshowall%3Dtrue&fbclid=IwAR0227lJHVrPrbl1WzaXXFHFrkr8M_GSK0CnPP0mOYC9I-Ofm_hT7ctO5Iw#.YtXkiwAFacQ.faceobok
 
    599     66  
    600:    67: A concept expanded upon in the book "On Intelligence via Jeff Hawkings" about the self similarity of the neo cortex, and later the concept was expanded to the hippocampus, and essentially predictive coding was extended to all cells with Cellular Oscillator Tomography introduced by the Self Aware Networks Institute.
@@ -1356,7 +1356,7 @@ map.book.md:
   4057:    556     223:   107: # Hal 9000 & Neural Array-Projection Oscillatory Tomography
   4058  
   4059:    680     731:   78: I get really good next generation images from the brain, like they're using, they're like, oh, this company open water, which is a project by Mary. Lou Jackson is is it is plant is using is using holography to reverse the refraction of light to get really good medical languages of the brain and she's talked about using ultrasound to stimulate the brain.
-  4060     681: ⟪ 288 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  4060     681: ⟪ 288 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   4061:    682     741:   33: Interesting, thank you. Would anyone else want to our standard? And I I know that there's a lot of different brain computer interface technologies in the works that are designed to democratize the technology and make it vastly cheaper than the with the cost of, you know, like an MRI medical image cost today and one of those projects is called open EIT open electrical impedance demography and for a few hundred dollars, they're trying to bring something that can within, when combined, with deep learning approximate, you know, medical imaging that could be as useful in some cases for some, some kinds of scans as MRI.
   4062  
   4063:    755    1030:   432:   182:     7: In another note I proposed that the non-linear sequency of action potentials events in neural array-projection tomography could be considered as intervals in a Taylor series of polynomials that might include some sort of infinite summation, or estimate of infinite curves from learned action potential sequences, (which are transmitted as high phasic low amplitude signals between neurons that trigger waves of inhibited neurons in their respective exit terminal array).
@@ -1376,7 +1376,7 @@ map.book.md:
   4077:    872    1327:    68:   107: # Hal 9000 & Neural Array-Projection Oscillatory Tomography
   4078  
   4079:    955    1482:   223:   61: So you could convert a peak that's in one data set to a peak another data set as long as both peaks happen at the same time. But then itself is kind of like the four years life is transforming that you can make a connection between one objects. And when once one slice of an object in another size of an object, and another size and object, because of where those slices intersect incoming sensory tomography, it's like with electric companies demography.
-  4080     956: ⟪ 295 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  4080     956: ⟪ 295 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   4081:    957    1488:   229:   310: And then you could read, you could decompress it back into a hole 3 image. And and but that means that if you are so that so I think of the principles of the four-year slice theorem they like they pervade everything that that they pervade like electrical Impedance tomography and they and also tracktography and diffusion tensor imaging.
   4082  
   4083:   1091     12:    40: "Learning Outside the Brain: Integrating Cognitive Science and Systems Biology" cited above appears to be very similar in concept to the concept of "Cellular Oscillating Tomography" 
@@ -1388,7 +1388,7 @@ map.book.md:
   4089:   1131     68:   107: # Hal 9000 & Neural Array-Projection Oscillatory Tomography
   4090  
   4091:   1214    223:   61: So you could convert a peak that's in one data set to a peak another data set as long as both peaks happen at the same time. But then itself is kind of like the four years life is transforming that you can make a connection between one objects. And when once one slice of an object in another size of an object, and another size and object, because of where those slices intersect incoming sensory tomography, it's like with electric companies demography.
-  4092    1215: ⟪ 287 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  4092    1215: ⟪ 287 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   4093:   1216    229:   310: And then you could read, you could decompress it back into a hole 3 image. And and but that means that if you are so that so I think of the principles of the four-year slice theorem they like they pervade everything that that they pervade like electrical Impedance tomography and they and also tracktography and diffusion tensor imaging.
   4094  
 
@@ -3796,7 +3796,7 @@ map.tomography.md:
   227:   61: So you could convert a peak that's in one data set to a peak another data set as long as both peaks happen at the same time. But then itself is kind of like the four years life is transforming that you can make a connection between one objects. And when once one slice of an object in another size of an object, and another size and object, because of where those slices intersect incoming sensory tomography, it's like with electric companies demography.
   228  
   229  b0209y ctpr.txt:
-  230:   109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  230:   109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   231  
   232  b0252y.md:
   233:   310: And then you could read, you could decompress it back into a hole 3 image. And and but that means that if you are so that so I think of the principles of the four-year slice theorem they like they pervade everything that that they pervade like electrical Impedance tomography and they and also tracktography and diffusion tensor imaging.

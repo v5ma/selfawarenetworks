@@ -646,7 +646,7 @@ b0187y ctpr.txt:
 
 b0209y ctpr.txt:
   108  
-  109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   110  
 
 b0252y.md:
@@ -2201,7 +2201,7 @@ map.tomography.md:
   227:   61: So you could convert a peak that's in one data set to a peak another data set as long as both peaks happen at the same time. But then itself is kind of like the four years life is transforming that you can make a connection between one objects. And when once one slice of an object in another size of an object, and another size and object, because of where those slices intersect incoming sensory tomography, it's like with electric companies demography.
   228  
   229  b0209y ctpr.txt:
-  230:   109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  230:   109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   231  
   232  b0252y.md:
   233:   310: And then you could read, you could decompress it back into a hole 3 image. And and but that means that if you are so that so I think of the principles of the four-year slice theorem they like they pervade everything that that they pervade like electrical Impedance tomography and they and also tracktography and diffusion tensor imaging.
@@ -2503,7 +2503,7 @@ ref.book.md:
   4077:    872    1327:    68:   107: # Hal 9000 & Neural Array-Projection Oscillatory Tomography
   4078  
   4079:    955    1482:   223:   61: So you could convert a peak that's in one data set to a peak another data set as long as both peaks happen at the same time. But then itself is kind of like the four years life is transforming that you can make a connection between one objects. And when once one slice of an object in another size of an object, and another size and object, because of where those slices intersect incoming sensory tomography, it's like with electric companies demography.
-  4080     956: ⟪ 295 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  4080     956: ⟪ 295 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   4081:    957    1488:   229:   310: And then you could read, you could decompress it back into a hole 3 image. And and but that means that if you are so that so I think of the principles of the four-year slice theorem they like they pervade everything that that they pervade like electrical Impedance tomography and they and also tracktography and diffusion tensor imaging.
   4082  
   4083:   1091     12:    40: "Learning Outside the Brain: Integrating Cognitive Science and Systems Biology" cited above appears to be very similar in concept to the concept of "Cellular Oscillating Tomography" 
@@ -2515,7 +2515,7 @@ ref.book.md:
   4089:   1131     68:   107: # Hal 9000 & Neural Array-Projection Oscillatory Tomography
   4090  
   4091:   1214    223:   61: So you could convert a peak that's in one data set to a peak another data set as long as both peaks happen at the same time. But then itself is kind of like the four years life is transforming that you can make a connection between one objects. And when once one slice of an object in another size of an object, and another size and object, because of where those slices intersect incoming sensory tomography, it's like with electric companies demography.
-  4092    1215: ⟪ 287 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  4092    1215: ⟪ 287 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   4093:   1216    229:   310: And then you could read, you could decompress it back into a hole 3 image. And and but that means that if you are so that so I think of the principles of the four-year slice theorem they like they pervade everything that that they pervade like electrical Impedance tomography and they and also tracktography and diffusion tensor imaging.
   4094  
 
@@ -3946,7 +3946,7 @@ ref.graphy.md:
    857    62  16:00
 
    878    108  
-   879:   109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+   879:   109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
    880    110  
 
    892    309  42:11
@@ -4226,7 +4226,7 @@ ref.graphy.md:
   1376:   4077:    872    1327:    68:   107: # Hal 9000 & Neural Array-Projection Oscillatory Tomography
   1377    4078  
   1378:   4079:    955    1482:   223:   61: So you could convert a peak that's in one data set to a peak another data set as long as both peaks happen at the same time. But then itself is kind of like the four years life is transforming that you can make a connection between one objects. And when once one slice of an object in another size of an object, and another size and object, because of where those slices intersect incoming sensory tomography, it's like with electric companies demography.
-  1379    4080     956: ⟪ 295 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  1379    4080     956: ⟪ 295 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   1380:   4081:    957    1488:   229:   310: And then you could read, you could decompress it back into a hole 3 image. And and but that means that if you are so that so I think of the principles of the four-year slice theorem they like they pervade everything that that they pervade like electrical Impedance tomography and they and also tracktography and diffusion tensor imaging.
   1381    4082  
   1382:   4083:   1091     12:    40: "Learning Outside the Brain: Integrating Cognitive Science and Systems Biology" cited above appears to be very similar in concept to the concept of "Cellular Oscillating Tomography" 
@@ -4238,7 +4238,7 @@ ref.graphy.md:
   1388:   4089:   1131     68:   107: # Hal 9000 & Neural Array-Projection Oscillatory Tomography
   1389    4090  
   1390:   4091:   1214    223:   61: So you could convert a peak that's in one data set to a peak another data set as long as both peaks happen at the same time. But then itself is kind of like the four years life is transforming that you can make a connection between one objects. And when once one slice of an object in another size of an object, and another size and object, because of where those slices intersect incoming sensory tomography, it's like with electric companies demography.
-  1391    4092    1215: ⟪ 287 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  1391    4092    1215: ⟪ 287 characters skipped ⟫memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   1392:   4093:   1216    229:   310: And then you could read, you could decompress it back into a hole 3 image. And and but that means that if you are so that so I think of the principles of the four-year slice theorem they like they pervade everything that that they pervade like electrical Impedance tomography and they and also tracktography and diffusion tensor imaging.
   1393    4094  
 
@@ -6462,7 +6462,7 @@ ref.graphy.md:
   3796:   227:   61: So you could convert a peak that's in one data set to a peak another data set as long as both peaks happen at the same time. But then itself is kind of like the four years life is transforming that you can make a connection between one objects. And when once one slice of an object in another size of an object, and another size and object, because of where those slices intersect incoming sensory tomography, it's like with electric companies demography.
   3797    228  
   3798    229  b0209y ctpr.txt:
-  3799:   230:   109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had Facebook pulling out whole words from the brain.
+  3799:   230:   109: I have to talk about nursery. So there was this whole. Okay, so there was this whole got to talk about electrical impedance tomography near a link and I've got to talk about there. Is this whole thing that I recorded from clubhouse which I was breaking down how short-term memory it might be in neural circuits, based on that study, so recorded that and that's why neuralink is going to be nearly like technology will be reading and running thoughts and then so we had faceobok pulling out whole words from the brain.
   3800    231  
   3801    232  b0252y.md:
   3802:   233:   310: And then you could read, you could decompress it back into a hole 3 image. And and but that means that if you are so that so I think of the principles of the four-year slice theorem they like they pervade everything that that they pervade like electrical Impedance tomography and they and also tracktography and diffusion tensor imaging.

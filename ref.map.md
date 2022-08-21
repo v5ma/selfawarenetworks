@@ -359,7 +359,7 @@ a0214z.md:
   152  
 
   351  
-  352: Since some of Facebook’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using Facebook messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these Facebook friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
+  352: Since some of faceobok’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using faceobok messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these faceobok friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
   353  
 
   439  
@@ -520,7 +520,7 @@ a0307z.md:
 
 a0318z.md:
   2  
-  3: # Post this one on the Neo Mind Cycle facebook page, and maybe create a wiki page map organizing all the Zebrafish research
+  3: # Post this one on the Neo Mind Cycle faceobok page, and maybe create a wiki page map organizing all the Zebrafish research
   4  "Multiomic atlas with functional stratification and developmental dynamics of zebrafish cis-regulatory elements"
 
 a0329z.md:
@@ -732,7 +732,7 @@ a0500z.md:
 a0508z.md:
    9  
   10: # "Mapping microstructural gradients of the human striatum in normal aging and Parkinson’s disease" 
-  11  https://www.science.org/doi/10.1126/sciadv.abm1971?fbclid=IwAR2EF4UaYagqeC3K85B3gAojOXs1RtvrPhnQOdQTj4tbBZku1rzoE-n5uW8#.Ytb8FGqhFDQ.facebook
+  11  https://www.science.org/doi/10.1126/sciadv.abm1971?fbclid=IwAR2EF4UaYagqeC3K85B3gAojOXs1RtvrPhnQOdQTj4tbBZku1rzoE-n5uW8#.Ytb8FGqhFDQ.faceobok
 
 a0510z.md:
    7  (June 15th 2012)
@@ -2315,7 +2315,7 @@ map.map.md:
   162  
   163  a0214z.md:
   164:   151: The Scan Truck approach, that you can see in the video, involves using an array of cameras to capture high resolution images of a person from every angle, to turn that into a 3D avatar, and then to record that person’s facial expressions with a camera mounted in front of that person’s face. The motion capture is mapped to the high resolution model resulting in an incredible leap forward for volumetric characters.
-  165:   352: Since some of Facebook’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using Facebook messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these Facebook friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
+  165:   352: Since some of faceobok’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using faceobok messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these faceobok friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
   166:   440: Digitalax only accepts $MONA for payment (in auctions and instant buy collections (Exclusive, Semi-Rare and Common)). However $MONA ERC-20 can be mapped from Ethereum to Polygon and back again.
   167:   619: Plasmapay: DeFi for The Masses
   168:   620: “Consider PlasmaPay for example — a digital payments company that has optimized the fiat-crypto-fiat conversion process for millions of people from over 165 countries. The PlasmaPay app lets users purchase digital assets with virtually any Visa/MC card. In other words, you could deposit money from your bank account and instantly spend.”
@@ -2920,7 +2920,7 @@ map.map.md:
   767:     80:    3: This map needs to be completely redone, but this was one of the ideas for how to organize the notes into the book. I do not yet know how to fix the formatting on github, but what I might do is provide a link to a Google Doc that contains a link back to the github so the back up is on Github the formatted version is on Google Docs.
   768:    203:   153: So if it turns out that I am not correct about some of the key components of how the human brain works the book should still have a lot of value to offer the interested reader in terms of the information it brings together, all the references, the links & analogies I make between different topics in different industries, and the mapping of major research efforts, major companies, major articles, major books, major new emerging technologies, and so on with my notes on all of that.
   769:    239:    7: Applying a region based map of brain roles to the brain could be what György Buzsáki calls the Brain from Outside In (matching observation to a concept instead of creating a new concept from observation.) György Buzsáki's book "The Brain from Inside Out" contradicts the typical "Outside-In" process of applying our models to the brain, instead of creating models from the brain.
-  770:    377:   352: Since some of Facebook’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using Facebook messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these Facebook friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
+  770:    377:   352: Since some of faceobok’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using faceobok messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these faceobok friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
   771:    440:   60: If you read the book "A Thousand Brains by Jeff Hawkins" you realize that motor control isn't happening in one region of the brain it's happening in every cortical column across the entire brain. That's just one way that this map is actually incorrect.
   772:    687:   5: MyBook5 / MindMapKey / IAmAVortex / HowCatsHunt
   773:   1173:   45: So the mind map is like, okay, so start with that summary to, these are all the low level pieces that connect to this bigger picture. And that's what the book is about, is a book is. Okay, so this is the hypothesis and then these are the pieces that add up to the hypothesis.
@@ -3693,7 +3693,7 @@ ref.book.md:
    593  
 
    837    351  
-   838:   352: Since some of Facebook’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using Facebook messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these Facebook friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
+   838:   352: Since some of faceobok’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using faceobok messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these faceobok friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
    839    353  
 
    992    66  
@@ -3701,7 +3701,7 @@ ref.book.md:
    994    68  
 
   1110    2  
-  1111:   3: # Post this one on the Neo Mind Cycle facebook page, and maybe create a wiki page map organizing all the Zebrafish research
+  1111:   3: # Post this one on the Neo Mind Cycle faceobok page, and maybe create a wiki page map organizing all the Zebrafish research
   1112    4  "Multiomic atlas with functional stratification and developmental dynamics of zebrafish cis-regulatory elements"
 
   1128  a0330z.md:
@@ -3716,7 +3716,7 @@ ref.book.md:
 
   1423  a0508z.md:
   1424:   10  # "Mapping microstructural gradients of the human striatum in normal aging and Parkinson’s disease" 
-  1425    11: https://www.science.org/doi/10.1126/sciadv.abm1971?fbclid=IwAR2EF4UaYagqeC3K85B3gAojOXs1RtvrPhnQOdQTj4tbBZku1rzoE-n5uW8#.Ytb8FGqhFDQ.facebook
+  1425    11: https://www.science.org/doi/10.1126/sciadv.abm1971?fbclid=IwAR2EF4UaYagqeC3K85B3gAojOXs1RtvrPhnQOdQTj4tbBZku1rzoE-n5uW8#.Ytb8FGqhFDQ.faceobok
 
   1494    4  (cortex, neuron)
   1495:   5: MyBook5 / MindMapKey / IAmAVortex / HowCatsHunt
@@ -3776,7 +3776,7 @@ ref.book.md:
   3902    185  
   3903:   186:   768     203:   153: So if it turns out that I am not correct about some of the key components of how the human brain works the book should still have a lot of value to offer the interested reader in terms of the information it brings together, all the references, the links & analogies I make between different topics in different industries, and the mapping of major research efforts, major companies, major articles, major books, major new emerging technologies, and so on with my notes on all of that.
   3904:   187:   769:    239:    7: Applying a region based map of brain roles to the brain could be what György Buzsáki calls the Brain from Outside In (matching observation to a concept instead of creating a new concept from observation.) György Buzsáki's book "The Brain from Inside Out" contradicts the typical "Outside-In" process of applying our models to the brain, instead of creating models from the brain.
-  3905:   188:   770     377:   352: Since some of Facebook’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using Facebook messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these Facebook friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
+  3905:   188:   770     377:   352: Since some of faceobok’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using faceobok messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these faceobok friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
   3906    189  
 
   3950  
@@ -3863,7 +3863,7 @@ ref.book.md:
   4239    105  
   4240  
   4241:   164    151: The Scan Truck approach, that you can see in the video, involves using an array of cameras to capture high resolution images of a person from every angle, to turn that into a 3D avatar, and then to record that person’s facial expressions with a camera mounted in front of that person’s face. The motion capture is mapped to the high resolution model resulting in an incredible leap forward for volumetric characters.
-  4242:   165:   352: Since some of Facebook’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using Facebook messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these Facebook friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
+  4242:   165:   352: Since some of faceobok’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using faceobok messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these faceobok friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
   4243:   166    440: Digitalax only accepts $MONA for payment (in auctions and instant buy collections (Exclusive, Semi-Rare and Common)). However $MONA ERC-20 can be mapped from Ethereum to Polygon and back again.
   4244  
   4245:   182    58: https://thehighestofthemountains.com/brainmaps.html
@@ -3891,7 +3891,7 @@ ref.book.md:
   4267:   767:     80:    3: This map needs to be completely redone, but this was one of the ideas for how to organize the notes into the book. I do not yet know how to fix the formatting on github, but what I might do is provide a link to a Google Doc that contains a link back to the github so the back up is on Github the formatted version is on Google Docs.
   4268:   768:    203:   153: So if it turns out that I am not correct about some of the key components of how the human brain works the book should still have a lot of value to offer the interested reader in terms of the information it brings together, all the references, the links & analogies I make between different topics in different industries, and the mapping of major research efforts, major companies, major articles, major books, major new emerging technologies, and so on with my notes on all of that.
   4269:   769:    239:    7: Applying a region based map of brain roles to the brain could be what György Buzsáki calls the Brain from Outside In (matching observation to a concept instead of creating a new concept from observation.) György Buzsáki's book "The Brain from Inside Out" contradicts the typical "Outside-In" process of applying our models to the brain, instead of creating models from the brain.
-  4270:   770:    377:   352: Since some of Facebook’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using Facebook messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these Facebook friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
+  4270:   770:    377:   352: Since some of faceobok’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using faceobok messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these faceobok friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
   4271:   771:    440:   60: If you read the book "A Thousand Brains by Jeff Hawkins" you realize that motor control isn't happening in one region of the brain it's happening in every cortical column across the entire brain. That's just one way that this map is actually incorrect.
   4272:   772:    687:   5: MyBook5 / MindMapKey / IAmAVortex / HowCatsHunt
   4273:   773:   1173:   45: So the mind map is like, okay, so start with that summary to, these are all the low level pieces that connect to this bigger picture. And that's what the book is about, is a book is. Okay, so this is the hypothesis and then these are the pieces that add up to the hypothesis.
@@ -4023,7 +4023,7 @@ ref.Buzsáki.md:
   185  
   186:   768     203:   153: So if it turns out that I am not correct about some of the key components of how the human brain works the book should still have a lot of value to offer the interested reader in terms of the information it brings together, all the references, the links & analogies I make between different topics in different industries, and the mapping of major research efforts, major companies, major articles, major books, major new emerging technologies, and so on with my notes on all of that.
   187:   769:    239:    7: Applying a region based map of brain roles to the brain could be what György Buzsáki calls the Brain from Outside In (matching observation to a concept instead of creating a new concept from observation.) György Buzsáki's book "The Brain from Inside Out" contradicts the typical "Outside-In" process of applying our models to the brain, instead of creating models from the brain.
-  188:   770     377:   352: Since some of Facebook’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using Facebook messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these Facebook friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
+  188:   770     377:   352: Since some of faceobok’s servers are located inside the United States we can logically deduce from facts, including many news reports, that the US Government is using faceobok messenger to spy on other countries and also all Americans who have conversations with people who live in other countries which is almost all Americans. The US Government can then map and study the relationships of all these faceobok friendships, and they have the option to study your private conversations with the aid of computer automation and analysis tools.
   189  
   190: map.oscillat.md:
   191     326  a0069z.md:

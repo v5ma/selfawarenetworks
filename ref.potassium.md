@@ -446,7 +446,7 @@ b0098y ctpr.txt:
   18  03:10
 
   92  20:42
-  93: Instead of it's an external will receive a signal. It is is as if it's being instructed to slow down because that's what this what it's going to do. Because maybe it's potassium channels open faster or something or this or the the sodium channels are inhibited something and then you have this other situation where you know a Facebook first happened and either attack either sodium channels open up a lot faster or potassium channels.
+  93: Instead of it's an external will receive a signal. It is is as if it's being instructed to slow down because that's what this what it's going to do. Because maybe it's potassium channels open faster or something or this or the the sodium channels are inhibited something and then you have this other situation where you know a faceobok first happened and either attack either sodium channels open up a lot faster or potassium channels.
   94  21:19
 
 b0101y ctpr.txt:
@@ -970,7 +970,7 @@ map.amplitude.md:
 
 map.book.md:
    972    91: Then the idea that there's a photocopier enlargement function associated with an oscillation, which is hand flooding, and the in eye sort of like, you know, in thinking about this book, think about exactly book and think it also about this book sink was that, you know, that the oscillating group of the whole neural oscillator is not going to oscillate at the same time because you have first of all, if you have a bunch of neurons that are going off and sending signals to the extra terminal that's going to cause the set of the of its external to become inhibited.
-   973:   93: Instead of it's an external will receive a signal. It is is as if it's being instructed to slow down because that's what this what it's going to do. Because maybe it's potassium channels open faster or something or this or the the sodium channels are inhibited something and then you have this other situation where you know a Facebook first happened and either attack either sodium channels open up a lot faster or potassium channels.
+   973:   93: Instead of it's an external will receive a signal. It is is as if it's being instructed to slow down because that's what this what it's going to do. Because maybe it's potassium channels open faster or something or this or the the sodium channels are inhibited something and then you have this other situation where you know a faceobok first happened and either attack either sodium channels open up a lot faster or potassium channels.
    974  
 
   1270  b0269y ctpr.txt:
@@ -1004,7 +1004,7 @@ map.frequency.md:
 
   709     31: I guess it's like now we went up like one point to voltage or something and so is tiny modification to the to the oscillation phase frequency and then that so that oscillations collector phase frequency is you know that is like that's a that's a brainwave right? The face frequency emerging from net from cortical columns and oscillators groups of neurons.
   710:    93: And, and the rush of potassium opening would would either inhibit the cell or it would cause cell to shorten the action potential, right? And if you have at the at the frequency of of the action potential is shorter than the amplitude of its radius is going to be larger think because there's a there's a there's an inverse relationship so if the if the frequency is smaller the amplitude is larger if the amplitude is smaller, the frequencies longer or larger.
-  711     95: Yeah. So that would be like a longer frequency or larger frequency. I'm not sure how to how higher for, it's a higher frequenc. I think. Yeah, higher frequency. Yeah, so we're talking like hurts. So if if we're sending out so their height, so the gamma camera bursts, you know the frequencies of gamma ray of gamma vert of sorry, the gamma frequency of brainwaves because the brain can oscillate between like, 0.02 Hertz and 600 Hertz, and the high gamma burst to Facebook burst, those are high frequency births so tent.
+  711     95: Yeah. So that would be like a longer frequency or larger frequency. I'm not sure how to how higher for, it's a higher frequenc. I think. Yeah, higher frequency. Yeah, so we're talking like hurts. So if if we're sending out so their height, so the gamma camera bursts, you know the frequencies of gamma ray of gamma vert of sorry, the gamma frequency of brainwaves because the brain can oscillate between like, 0.02 Hertz and 600 Hertz, and the high gamma burst to faceobok burst, those are high frequency births so tent.
 
   764  b0127y ctpr.txt:
   765:   37: So it creates such so it creates. So you can have a really unique sounding tone. And in terms of like, how many receptors, how many sodium receptors, how many calcium receptors are active, how many potassium receptors are active? Because it's going to change, like the amp amplitude and frequency of the firing of the end, the fate and the phase characteristics.
