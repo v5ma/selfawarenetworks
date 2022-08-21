@@ -18,7 +18,7 @@ And and the speed at which you can get their workflow done so that you can get r
 03:31
 This the semantic connections that those objects have, it can turn 3D objects to 2D objects. They can do shape completion. It can do gans synthesis and you know, where you can, you know, against this could be like, what is it? What is the interpolation between an avocado on a chair as I illustrated by JP3?
 03:55
-We're really, really thinking about pointing at plus plus, which still outperforms even multimodal networks by opening AI, and by deep mind. So and by Facebook, so we're still like in terms of like point cloud three, semantics segmentation point cloud networks because the data that it's learning is multi-dimensional, it doesn't suffer as much from the issue of noise.
+We're really, really thinking about pointing at plus plus, which still outperforms even multimodal networks by opening AI, and by deep mind. So and by faceobok, so we're still like in terms of like point cloud three, semantics segmentation point cloud networks because the data that it's learning is multi-dimensional, it doesn't suffer as much from the issue of noise.
 04:32
 And so it's more robust and it doesn't need, you know, techniques like dropout as much or like, like right. It doesn't need a sort of like modus, networking modifications to deal with overfitting. It's overfitting. It's not going to be much of a problem because the
 05:06

@@ -83,7 +83,7 @@ These notes, that formulate the ground of the Self Aware Networks Institute, and
 
 4. I hosted the Neural Lace Podcast (all the content is linked to this repo), a dialog about brain computer interfaces. I've spoke to brilliant neuroscientists, biologists & people in the brain computer interface space.
 
-5. I led the "NeurotechSF" Salon meetup for 2 years, I hosted many code writing meetups, and VR AR meetups. I also run a code oriented discord, three githubs, many science & tech facebook groups which huge numbers of people as members. I'm a well known brain hacker & journalist. My tweets are seen my hundreds of thousands of people each month.
+5. I led the "NeurotechSF" Salon meetup for 2 years, I hosted many code writing meetups, and VR AR meetups. I also run a code oriented discord, three githubs, many science & tech faceobok groups which huge numbers of people as members. I'm a well known brain hacker & journalist. My tweets are seen my hundreds of thousands of people each month.
 
 6. I also created a new gravity theory, quantum gradient time dilation which explains how mass as a time crystal creates the gravitational effect by increasing the surface area of space in a particular direction with additional time dimensions. (I connected this to biology, explaining how neurons are literally warping space.) 
 https://github.com/v5ma/selfawarenetworks/blob/c4e94e9fcd049c97d47ef6a5f2f8c29485f5a98d/a0253z.md
@@ -295,6 +295,8 @@ I am imaginging windmills that power atmosphere filtration systems that consume 
 Such as a machine that eats radiation like Chernobyl Fungus only faster.
 
 Also we will build next generation Sentient AI based targeting systems for missile interception that can work with GPS or independently from GPS like a bird that hunts only much much faster than a bird.
+
+I believe also that there is hope for the paralyzed, for folks who have lost limbs & suffered horrific traumas. This is part of the mission of The Self Aware Networks Institute. A lot of pain, suffering & disease will be fixed with next generation medical technologies that we help pioneer.
 
 # Short Term Goals for the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
 

@@ -1,20 +1,17 @@
-New plan: Because you cannot download the wiki on the chromebook ONLY EDIT THE MAPS in the regular self aware networks repo, and then copy them to the wiki when you have wifi.
+This note is a reference to all instances of some string in the notes. ref.string.md
 
-Each map page is a time-stamped copy of a wikipage. The wiki pages ought to be time stamped but I have not yet discovered where it can be shown.
+[Home](https://github.com/v5ma/selfawarenetworks/wiki)
 
-map.amplitude.md is a copy of wiki amplitude.md
+ref.amplitude.md August 20th 2022
 
-Contained are all mentioned of "amplitude" in this repo at the time this note was created.
-
-a0008z.md:
-  30: All of which result in distinctly new signals, with new frequencies, amplitudes, and wavelengths.
+264 results - 106 files
 
 a0010z.md:
-   8: space is particles with either energy or mass, and the energy state is the frequency of light speed times mass, frequency and amplitude in the human brain have a 1/f relationship, as amplitude increases frequency decreases and visa versa.
-  10: So if energy is mass moving faster, then perhaps mass can be considered slow moving denser spacetime, the slower amplitude makes it easier for groups of oscillators to synchronize and so there are more particle collisions which I think result in the curvature of space by warming the em place field, making broad vertical lanes, longer slower stretched out horitonal particle lanes (that create time scale dependent time dilation)
+  32:  frequency and ~~amplitude~~ magnitude in the human brain have a 1/f relationship, as ~~amplitude~~ magnitude increases frequency decreases and visa versa.
+  34: If energy is mass moving faster, then perhaps mass can be considered slow moving denser spacetime, the slower ~~amplitude~~ magnitude makes it easier for groups of oscillators to synchronize and so there are more particle collisions which I think result in the curvature of space.
 
 a0018z.md:
-  149: All forces can be thought of a oscillatory differentials of varying configurations (differences in magnitude (amplitude and or duration)/ frequency)
+  203: All forces can be thought of a oscillatory differentials of varying configurations (differences in magnitude (amplitude and or duration)/ frequency)
 
 a0021z.md:
   77: Lutz A, Greischar LL, Rawlings NB, Ricard M, and RJ Davidson. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. PNAS , 101 (46), 16369-16373.
@@ -24,51 +21,49 @@ a0027z.md:
 
 a0033z.md:
   62: a slower negative oscillation has high volume which is high amplitude
-  92: the beta decay of particles is the decoherence of oscillators and its entropy and its repulsion and its the expansion of space amplitude, reduction of space frequence (time)
-  94: the fermionic condensates and bose-einstein condensates represent the opposite, the coherence of spacetime oscillators, the convergence of space, attraction, the reduction of space amplitude (density), 
+  92: the beta decay of particles is the decoherence of oscillators, its entropy, and its repulsion or slowdown in the frequency or density of mass, and its the expansion of space ~~amplitude~~ magnitude, reduction of space frequency (density)
+  94: the fermionic condensates and bose-einstein condensates represent the opposite, the coherence of spacetime oscillators, the convergence of space, attraction, the reduction of space volume ~~amplitude~~ magnitude, 
 
 a0038z.md:
   645: Nothing in my substrate would be specific to learning English text, Japanese text, or text in general. Nothing would be specific to voice recognition (We'd just have to find a way to represent the input signal as a spatiotemporal stream, such as multiple channels of amplitude over a set of frequencies, changing over time). Nothing *in the learning parts of the system* would be specific to video.
 
 a0039z.md:
-  38: https://www.google.com/amp/www.techplayon.com/wavelength-frequency-amplitude-phase-defining-waves/amp/
+  42: https://www.google.com/amp/www.techplayon.com/wavelength-frequency-amplitude-phase-defining-waves/amp/
 
 a0041z.md:
    34: probability amplitude
    48: Richard Feynman's Path Integral Formulation is a description in QFT that generalizes the action principle of quantum mechanics. It replaces the classical notion of a single unique classical trajectory for a system with a sum, or a function integral, over an infinity of quantum mechanically possible trajectories to compute a quantum amplitude.
-  168: because e equals mc2 energy equals mass accelerated, energy is a high frequency signal with low amplitude, mass is a low frequency (slow) signal with high amplitude
-  170: essentially the amplitude of mass is the density of its volume
+  168: because e equals mc2 energy equals mass accelerated, energy is a high frequency signal with low amplitude, mass is a high frequency (slow) signal with low magnitude
 
-a0049z.md:
-  202: spacetime is going to oscillate back and forth between maximum energy like heat death and maximum amplitude like the big crunch, but the maximum of each is limited to half or 50 percent of what space is doing, so like a Yin Yang symbol they are forever changing in scale as they exchange locations in space with one another.
-  206: so quantum general relativity is suggesting that at scales from quantum physics, to astrophysics to neurophysics there is an inverse relationship between amplitude (density & volume of mass) and frequency (energy) and that gravity is caused by the coherence and decoherence patterns in the phase field of spacetime between oscillating bodies that are either in phase (coherence expanding spacetime) or out of phase (decoherence shrinking spacetime as masses dissolve or explode)
+a0050z.md:
+  19: the low frequency high ~~amplitude~~ magnitude tonic oscillation has a wide area entification or unification affect, a synchronization of large oscillating groups of cells, to ready entire groups of cells at the critical point, ready to react to incoming stimulus.
 
 a0053z.md:
-  3: Amplitude (SAN)
-  4: Its possible that a high amplitude vesicle transmission is more likely to open potassium/sodium channels at the same time in some instances
+  7: ~~Amplitude~~ Action Potential Magnitude Effect (APME)
 
 a0060z.md:
-  29: All of which result in distinctly new signals, with new frequencies, amplitudes, and wavelengths.
+  35: All of which result in distinctly new signals, with new frequencies, amplitudes, and wavelengths.
 
 a0070z.md:
   12: My understanding is that 1/f represents the inverse relationship between amplitude & frequency in the EEG spectrum of the brain. My question is, can it be argued that actually the inverse relationship is between magnitude & frequency instead?
   14: Magnitude represents the wave shape, amplitude + duration. If you don't factor both you are missing part of the equation. Neuroscience misses part of the equation.
 
 a0088z.md:
-   95: In the real brain, spikes have variable amplitude and frequency, they are soliton waves, they do not collide with other waves and they do not summarize. In the real brain spiking is not an all or nothing event as it is described in comp neuro, and neurons oscillate.
-  111: ⟪ 512 characters skipped ⟫ oscillator-type models (such as Kuramoto, for ex.). You can consider the spike as a delta pulse (for mathematical tractability), but you can also consider it an alpha function with variable latency, amplitude, frequency, rise and decay times. You can consider neurons as dimensionless points, but you can also model the full dendritic tree with ionic current dynamics differentially modulated on each compartment.. You can consider synaptic interactions as current transients, conductance transients, transmitter release probabilities... Etc, etc, etc..
-  129: Again, this is a misconception and it depends on the model used.. For example, in a conductance-based neuron model, a spike in the presynaptic neuron triggers a transient conductance increase in the postsynaptic neurons, whose amplitude depends on the efficacy of the synapse.. This is capturing the essence of what happens in the real brain, the neurotransmitter release from presynaptic terminal will bind to the postsynaptic receptors, which can be ion channels (at least the ones working on a short time scale) and the result is an influx of certain ions whose net effect on the postsynaptic membrane is an increase in the net conductance..
+   97: In the real brain, spikes have variable amplitude and frequency, they are soliton waves, they do not collide with other waves and they do not summarize. In the real brain spiking is not an all or nothing event as it is described in comp neuro, and neurons oscillate.
+  117: You can consider the spike as a delta pulse (for mathematical tractability), but you can also consider it an alpha function with variable latency, amplitude, frequency, rise and decay times. You can consider neurons as dimensionless points, but you can also model the full dendritic tree with ionic current dynamics differentially modulated on each compartment.. You can consider synaptic interactions as current transients, conductance transients, transmitter release probabilities... Etc, etc, etc..
+  135: Again, this is a misconception and it depends on the model used.. For example, in a conductance-based neuron model, a spike in the presynaptic neuron triggers a transient conductance increase in the postsynaptic neurons, whose amplitude depends on the efficacy of the synapse.. This is capturing the essence of what happens in the real brain, the neurotransmitter release from presynaptic terminal will bind to the postsynaptic receptors, which can be ion channels (at least the ones working on a short time scale) and the result is an influx of certain ions whose net effect on the postsynaptic membrane is an increase in the net conductance..
 
 a0089z.md:
-   7: I think that the relationship between frequency and magnitude (to include amplitude & duration as two parts of the wave shape) in neuroscience at the scale of brainwaves can be scaled down to individual neurons (as duration), scaled up to brainwaves as amplitude, and scaled down again to quantum physics (particle/wave duality), and scaled up to planetary bodies (red shifting/blueshifting, galaxies, filaments, and so on.
-   9: In other words my conjecture is that the principle of 1/F in neuroscience is scale invariant and that it applies to everything at all scales. Essentially the universe consists of quantum waves and galactic supercluster sized waves and every wave has the same inverse relationship between amplitude and frequency
-  11: So Amplitude is not always inverse to Frequency, but in the brain at the scale of EEG it is, at the neuron scale amplitude passes as duration, so the magnitude is changing, (the wave shape of the AP is changing and the calcium channels are open longer releasing more MVR (Vesicles or lipid sacks containing neurotransmitters like Dopamine for example), though the amplitude might be the same or something similar to the previous times that the AP fired.
-  13: What is interesting is that at the neuron level, when the action potential fires, the Amplitude is pretty consistent, it's so consistent that they gave it a name, the all or nothing principle, either the neuron fires or it doesn't, this became the basis of the Perceptron which arguable was the first model of an artificial neuron, sort of the base idea for all artificial neural networks that have been created since.
-  15: So at the level of groups of oscillating neurons in brainwaves in the power band spectra such as delta, theta, alpha, beta, gamma & high gamma we have a situation where there is an inverse relationship between amplitude and frequency. When frequency increases amplitude decreases, when amplitude increases frequency decreases, but how does this happen when at the individual neuron level the Amplitude is supposed to not be changing?
-  17: With the all or nothing principle the idea is that once the threshold of a neuron is reached it either fires or it doesn’t but that it doesn’t change in amplitude. but why is Amplitude changing at the group neuron scale and not at the individual neuron scale?
-  21: So it’s frequency is supposed to change without a change in amplitude, but there is an amplitude change that is being passed through the action potential as a duration of the potential, or the potential's decay time, or the delay in time for how long the action potential is open before it is hyperpolarized, and potentially it sends a message to other neurons by releasing more neurotransmitters but also it collects a receipt of the extra transmission with h
-  23: However if the frequency changes, and the amplitude stays the same then the duration must change, the shape of the waveform must change.
-  31: Light peps, or slow slams. This idea would be consistent with physics, that amplitude as duration or time cannot stay the same if frequency is changing.
+   7: I think that the relationship between frequency and magnitude (to include amplitude & duration as two parts of the wave shape) in neuroscience at the scale of brainwaves can be scaled down to individual neurons (as duration), scaled up to brainwaves as ~~amplitude~~ magnitude, and scaled down again to quantum physics (particle/wave duality), and scaled up to planetary bodies (red shifting/blueshifting, galaxies, filaments, and so on.
+   9: In other words my conjecture is that the principle of 1/F in neuroscience is scale invariant and that it applies to everything at all scales. Essentially the universe consists of quantum waves and galactic supercluster sized waves and every wave has the same inverse relationship between ~~amplitude~~ magnitude and frequency
+  11: Amplitude is not always inverse to frequency, nor is duration, but my hypothesis is that magnitude might be inverse to frequency. In the brain at the scale of EEG it appears that amplitude is inverse to frequency, and at the neuron scale it appears that amplitude is fixed but the duration is changing, this led to the idea that magnitude, the combination of amplitude & duration might have an inverse relationship to frequency at all scales of the universe. Including at the neuron action potential scale, and at the brainwave measurement scale. Hypothesis: When amplitude shifts to not have an inverse relationship to frequency the duratio of the wave has also shifted.
+  13: (the wave shape of the AP is changing and the calcium channels are open longer releasing more MVR (Vesicles or lipid sacks containing neurotransmitters like Dopamine for example), though the amplitude might be the same or something similar to the previous times that the AP fired.
+  15: What is interesting is that at the neuron level, when the action potential fires, the Amplitude is pretty consistent, it's so consistent that they gave it a name, the all or nothing principle, either the neuron fires or it doesn't, this became the basis of the Perceptron which arguable was the first model of an artificial neuron, sort of the base idea for all artificial neural networks that have been created since.
+  17: So at the level of groups of oscillating neurons in brainwaves in the power band spectra such as delta, theta, alpha, beta, gamma & high gamma we have a situation where there is an inverse relationship between amplitude and frequency. When frequency increases amplitude decreases, when amplitude increases frequency decreases, but how does this happen when at the individual neuron level the Amplitude is supposed to not be changing?
+  19: With the all or nothing principle the idea is that once the threshold of a neuron is reached it either fires or it doesn’t but that it doesn’t change in amplitude. but why is Amplitude changing at the group neuron scale and not at the individual neuron scale?
+  23: So it’s frequency is supposed to change without a change in amplitude, but there is an amplitude change that is being passed through the action potential as a duration of the potential, or the potential's decay time, or the delay in time for how long the action potential is open before it is hyperpolarized, and potentially it sends a message to other neurons by releasing more neurotransmitters but also it collects a receipt of the extra transmission with h
+  25: However if the frequency changes, and the amplitude stays the same then the duration must change, the shape of the waveform must change.
+  33: Light peps, or slow slams. This idea would be consistent with physics, that amplitude as duration or time cannot stay the same if frequency is changing.
 
 a0091z.md:
   81: see I was in a discussion the other day, talking about how the synaptic inputs can increase or decrease the membrane potential, potentially causing an action potential that has a variable amplitude and frequency, that effects the membrane potential of another synapse
@@ -84,9 +79,9 @@ a0113z.md:
   42: Mass has low frequency high amplitude inversely related to high frequency low amplitude electrons.
 
 a0115z.md:
-  32: Micah: My understanding is that 1/f represents the inverse relationship between amplitude & frequency in the EEG spectrum of the brain. My question is, can it be argued that actually the inverse relationship is between magnitude & frequency instead?
-  36: Micah: I mean with EEG frequencies in the brain, isn't an inverse relationship between amplitude & frequency observed and referred to as 1/f? I guess I could be misunderstanding the use of 1/f.
-  40: Micah: Okay, but in the neuron itself, the amplitude of the action potential is thought to be fixed at the threshold for firing, but duration can vary. Since Magnitude is the combination of Amp & Dur, could there be an inverse relationship between Frequency & Magnitude at both scales?
+  35: Micah: My understanding is that 1/f represents the inverse relationship between amplitude & frequency in the EEG spectrum of the brain. My question is, can it be argued that actually the inverse relationship is between magnitude & frequency instead?
+  39: Micah: I mean with EEG frequencies in the brain, isn't an inverse relationship between amplitude & frequency observed and referred to as 1/f? I guess I could be misunderstanding the use of 1/f.
+  43: Micah: Okay, but in the neuron itself, the amplitude of the action potential is thought to be fixed at the threshold for firing, but duration can vary. Since Magnitude is the combination of Amp & Dur, could there be an inverse relationship between Frequency & Magnitude at both scales?
 
 a0123z.md:
   11: The electron particle/wave in the neural pulse, has all the same primary properties of a brainwave, including phase, amplitude, hz, look, regardless of how you measure it what's really being transferred is the "potential difference", like a negative, like a camera snapshot, A SDR SNAPSHOT that includes the minute variations in the cells dendrites. This effects the synaptic branch in particular way that is different from the previous time the neuron fired.
@@ -112,7 +107,7 @@ a0168z.md:
   6: right like maybe the slow frequency but higher amplitude delta is better at binding high level patterns at the top of the cortex that need to move slower in part because 
 
 a0177z.md:
-  8: finally the magnitude of the APsyn is more relevant than the Amplitude, because the duration replaces the Amplitude in the changed waveform of the APsyn, set by mostly changes in potassium, affects how long the calcium channels are open/closed resulting in the number of vesicles containing neurotransmitters that released, with 0, 1, 2, or 3 vesicle sacks capable of being released, each might contain 2000  neurotransmitters, 
+  13: finally the magnitude of the APsyn is more relevant than the Amplitude, because the duration replaces the Amplitude in the changed waveform of the APsyn, set by mostly changes in potassium, affects how long the calcium channels are open/closed resulting in the number of vesicles containing neurotransmitters that released, with 0, 1, 2, or 3 vesicle sacks capable of being released, each might contain 2000  neurotransmitters, 
 
 a0178z.md:
   16: "Boosting Memory Performance by Finding Amplitude of Brain Waves and Speeding Oscillations"
@@ -121,7 +116,7 @@ a0198z.md:
     9: 1/f describes the ratio of amplitude to frequency as being inverse in macroscope EEG measured brainwaves.
    11: If we replaced the word amplitude with magnitude in this instance of measuring EEG waves would the ratio still apply? Can we say that in the instance of brainwaves as measured by EEG that magnitude also has an inverse relationship with frequency?
    15: (relevant to the question of whether we can replace the word amplitude with magnitude in EEG Studies, because the wave shape is really magnitude, a combination of amplitude & duration)
-  116: calcium subtopics, amplitude, duration, magnitude, release
+  127: calcium subtopics, amplitude, duration, magnitude, release
 
 a0199z.md:
   4: ⟪ 451 characters skipped ⟫e. With all three memory times potentially affecting synaptic configuration there are 3 intertwined sensor modalities storing correlated time series of wave patterns with dimensional characteristics (amplitude, frequency, and mechanical to electric-acoustic soliton wave forms inside the envelop defined by the frequency / amplitude inverse relationship. So its like the pre-synapse is a loud speaker that spits, and the post synapse is like a microphone that counts spit as a charge build up (ions & atp) and then various stages of energy release happen cumulating in an action potential that in a sense is transmitting a phase pattern to its post synaptic network, the network sort of magnifies the pattern, deconverges it, and multiple patterns overlay each other, from different neurons to different areas of the brains network
@@ -151,24 +146,24 @@ a0257z.md:
   11: ⟪ 324 characters skipped ⟫ues. Active techniques include transmitting electromagnetic (X-Ray, radio, optical) or acoustic (sonar, ultrasonic) waves onto the object of interest, and detection and analysis of the return energy (amplitude, frequency, etc). The time or phase difference between the transmit and receive signals provides the depth dimension. Passive techniques such as stereo cameras (imaging the same object from two different spatial perspectives) can also be used to generate the required 3D data. Finally, 3D information can also be extracted from monovision cameras through a combination of machine learning and signal processing techniques, although this is generally inferior in fidelity and compute speed relative to direct 3D imaging and measurement.
 
 a0258z.md:
-  71: ⟪ 405 characters skipped ⟫ adjustment to the phase oscillating pattern from individual cell level to aggregate brain waves at greater scales. Brainwaves, such as the theta brainwave, can perhaps be thought of as wireless high amplitude low frequency phase shifts applied to large numbers of neurons in an oscillating cell assembly (or cortical column) at some sequence of time intervals, and they sort of revolve around the timing of the decay of the action potential, so each interaction of inhibitory brainwave bursts following each action potential in a sequence of action potential bursts is intersecting with the previous & the next brainwave, and this process I am suggesting is like Taylor Series Polynomials, in that their effect on one another is one that improves the resolution & accuracy of whatever is being modeled at that moment by that oscillating cell assembly. 
-  73: # "Synchronous high-amplitude co-fluctuations of functional brain networks during movie-watching"
+  73: ⟪ 405 characters skipped ⟫ adjustment to the phase oscillating pattern from individual cell level to aggregate brain waves at greater scales. Brainwaves, such as the theta brainwave, can perhaps be thought of as wireless high amplitude low frequency phase shifts applied to large numbers of neurons in an oscillating cell assembly (or cortical column) at some sequence of time intervals, and they sort of revolve around the timing of the decay of the action potential, so each interaction of inhibitory brainwave bursts following each action potential in a sequence of action potential bursts is intersecting with the previous & the next brainwave, and this process I am suggesting is like Taylor Series Polynomials, in that their effect on one another is one that improves the resolution & accuracy of whatever is being modeled at that moment by that oscillating cell assembly. 
+  75: # "Synchronous high-amplitude co-fluctuations of functional brain networks during movie-watching"
 
 a0263z.md:
    8: Second, if you had bothered to finish playing the video, you would have realized that they later describe how the amplitude of the action potential peaks (is capped) and then begins it's falling phase. Just to be clear, in case you can't understand the simple waveform diagrams - the amplitude is indicated by the very top peak of the waveform. 
   10: Fast forward to the end of the lecture and they clearly show the various shapes of the modeled APs. Note how each AP exhibits precisely the same amplitude (shown in the image below). Yes, I also took the very same course. I've also taken several online and in-class University level Medical Neuroscience courses (courses required as part of Medical school training). Having taken this course as well as many other courses, I can honestly say that the Coursera Computational Neuroscience course you used as evidence does not even rise to the level of an freshman level undergrad course. 
 
 a0286z.md:
-  13: Essentially the wave form of the action potential by itself is a frequency with amplitude, but the multi-possible microvesicle release, with options between 0, 1, 2, 3 vesicles being released, depending on the wave form of the action potential, that means that both the amplitude & frequency of the action potential is being transmitted, in a smaller form, across the synapse to other dendrite computers.
-  15: If the amplitude & frequency transfer does not include soliton waves, then at the very least patterns could still be computed at the network level, because you would have a situation where neurons could at least monitor the phase patterns of other neurons knitting together 4 dimensional pattern representations by themselves, but they would be distributed to other neurons through multiple firing events instead of with a single firing event. If the soliton wave hypothesis combined with Hodgkin & Huxley + Chemical Neurotransmitter are both true, then a single neuron would be able to observe, learn, and transmit 4D patterns to its network. If only the chemical neurotransmitter theory is true, then at least neurons can communicate both their amplitude & frequency via multi-vesicle-release, which by itself is going to transmit a temporal pattern that has spatial characteristic into the network. In both situations the neurons are using their dendrites to track 4D patterns (at least via the build up of ions in the branches & body that create the electromagnetic charge that distributes transmitters and opens up ion channels in the exit synapses) and their synapses to transmit patterns over time to the network. A tempo spatial pattern can be as simple as a time series of voltages, so the synapse firing can create & track a time series of voltages, so can the dendrite through ion charge build up, including dendritic action potentials, the soma, where the cells primary action potential event happens is a signal convergence event. The signal output could be a vector representing the frequency or phase or voltage or a wave, with one vector representing its frequency & amplitude (the magnitude of its chemical distribution) which are inversely related. The chemical pressure in the synaptic cleft could be increasing, which could lead to sodium ions being pushed into the next cell, even as the excitation of the membrane of the next cell is causing the next cell to explain and pull in new neurotransmitters like a balloon.
-  23: So imagine that a low amplitude high frequency phasic action potential spike transmits both neurotransmitters and a mechanical wave that is received as sodium channels open on the other side of the synapse. The delta (or amount) of the mechanical wave ought to correlate 1:1 with the delta of the synaptic transmission.
+  15: Essentially the wave form of the action potential by itself is a frequency with amplitude, but the multi-possible microvesicle release, with options between 0, 1, 2, 3 vesicles being released, depending on the wave form of the action potential, that means that both the amplitude & frequency of the action potential is being transmitted, in a smaller form, across the synapse to other dendrite computers.
+  17: If the amplitude & frequency transfer does not include soliton waves, then at the very least patterns could still be computed at the network level, because you would have a situation where neurons could at least monitor the phase patterns of other neurons knitting together 4 dimensional pattern representations by themselves, but they would be distributed to other neurons through multiple firing events instead of with a single firing event. If the soliton wave hypothesis combined with Hodgkin & Huxley + Chemical Neurotransmitter are both true, then a single neuron would be able to observe, learn, and transmit 4D patterns to its network. If only the chemical neurotransmitter theory is true, then at least neurons can communicate both their amplitude & frequency via multi-vesicle-release, which by itself is going to transmit a temporal pattern that has spatial characteristic into the network. In both situations the neurons are using their dendrites to track 4D patterns (at least via the build up of ions in the branches & body that create the electromagnetic charge that distributes transmitters and opens up ion channels in the exit synapses) and their synapses to transmit patterns over time to the network. A tempo spatial pattern can be as simple as a time series of voltages, so the synapse firing can create & track a time series of voltages, so can the dendrite through ion charge build up, including dendritic action potentials, the soma, where the cells primary action potential event happens is a signal convergence event. The signal output could be a vector representing the frequency or phase or voltage or a wave, with one vector representing its frequency & amplitude (the magnitude of its chemical distribution) which are inversely related. The chemical pressure in the synaptic cleft could be increasing, which could lead to sodium ions being pushed into the next cell, even as the excitation of the membrane of the next cell is causing the next cell to explain and pull in new neurotransmitters like a balloon.
+  25: So imagine that a low amplitude high frequency phasic action potential spike transmits both neurotransmitters and a mechanical wave that is received as sodium channels open on the other side of the synapse. The delta (or amount) of the mechanical wave ought to correlate 1:1 with the delta of the synaptic transmission.
 
 a0329z.md:
     4: working with EEG, and talking to Neuroscientist Morgan Hough for a year when I was hosting NeurotechSF event I had learned notion ingrained in me that there was a 1/f relationahip between amplitude and frequency in brainwaves
    10: when reading buszaki I thought more deeply about the 1/f relationship between amplitude and frequency (for groups of neurons), and the fact that neurons expand when they fire
    12: how high frequency has low amplitude and low frequency has high amplitude
    14: in Buszaki it became clear that this meant high amplitude affects more neurons and low amplitude reaches less 
-   18: I thought about frequency being in the inverse of time and the inverse of amplitude, and the expansion of neurons in the soma right before they fire phasically (phasic firing is high frequency firing)
+   18: I thought about frequency being in the inverse of time and frequency the inverse of amplitude at the EEG scale, and the expansion of neurons in the soma right before they fire phasically (phasic firing is high frequency firing)
    28: I realized that a high frequency firing might created a amplitude release of neurotransmitrers which might open lots of potassium channel receptors inhibiting other neurons faster, creating a collective representation in a columized layer, edge community, circuit, or neural array that would be collectively perceived by the next array, and so on, and that the entire bunch of neurons would learn invariant representations,
    36: so I had this idea from neuroscience that neurons were expanding on mass when they fired like an a action potential, which I also think of as like lightning, positive and negative charges between the sky and earth split so much fhere is a flash followed by a bang, light and sound, frequency and amplitude
    41: amplitude is inverse to frequency
@@ -187,7 +182,7 @@ a0365z.md:
   11: the granule cell goes across the dendrites of the pyramidal cells, connecting perhaps several times, which is interesting because their noise within one particular neuron can be increased or decreased simply by the number of connections, but the potential amplitudes & frequency combinations are multiplied with every additional synaptic connection, or divided by each synaptic connection, so a loss of one synaptic connection would make that granule cell quieter in the array,
 
 a0369z.md:
-  15: ⟪ 260 characters skipped ⟫ron is going to leave a magnetic wave shape in the sense that the electron is like the faster beta frequency, and the magnetic magnitude wave it creates is like the slower theta frequency that higher amplitude & greater area effect.
+  21: ⟪ 260 characters skipped ⟫ron is going to leave a magnetic wave shape in the sense that the electron is like the faster beta frequency, and the magnetic magnitude wave it creates is like the slower theta frequency that higher amplitude & greater area effect.
 
 a0387z.md:
   38: mass/time/amplitude / energy/space/frequency 
@@ -251,7 +246,7 @@ b0004y.md:
   7: reference note a0221z.md on synaptic unreliability and search all the notes in this repo for magnitude specially in the context of magnitude in note a0089z.md which explains that a neuron passes its magnitude not through amplitude, but through duration, which scales up or down the number of vesicle sacks released between 0-4 with each firing of the APsyn
 
 b0009y.md:
-  198: So humans scale, consciousness is definitely like a very specific pattern of of power band frequencies that are oscillating. It's certain rates and a certain fruit. So, a certain well, rates rates is, is referring to frequency, right? But it's there's a certain frequency range and there's a certain amplitude range that helps create the rendering of the mind that can be perceived by the, the oscillating entity that is the brain and the person and the other people.
+  205: So humans scale, consciousness, is definitely like a very specific pattern of power band frequencies that are oscillating at certain rates and rates is referring to frequency, right? But it's there's a certain frequency range and there's a certain amplitude range, that helps create the rendering of the mind that can be perceived by the oscillating entity that is the brain, and the person, and the other people.
 
 b0038y.md:
   7: In another note I proposed that the non-linear sequency of action potentials events in neural array-projection tomography could be considered as intervals in a Taylor series of polynomials that might include some sort of infinite summation, or estimate of infinite curves from learned action potential sequences, (which are transmitted as high phasic low amplitude signals between neurons that trigger waves of inhibited neurons in their respective exit terminal array).
@@ -283,8 +278,8 @@ b0065y.md:
   61: It's really a lot slower than sensory and potato but it's but it's, it's bigger picture. It's it's a higher amplitude. So it's it's more network. It's when the network comes together, the highest levels and the Delta frequency.
 
 b0067y.md:
-  325: As cells become oscillating assemblies, synchronizing their tonic firing rates, they become a powerful attractor to sparse fast phasic bursts from the incoming senses. (this may explain why it there might be an evolutionary incentive for your brain to throw away most of it's incoming sensory data before it reaches the neocortex, with the exception of the Olfactory sense which probably requires high spatial amplitude & lower frequency sensory input channels for increased spatial resolution of the tiny particles that visit your nose & mouth. Which might explain why 4/5 of the Olfactory input channels do not have their signals routed through thalamic nuclei before colliding with the neo cortex. (this paragraph is loaded with big assumptions that need further research).
-  388: I wrote elsewhere that multi-vesicle release allows a neuron to have four levels of output with each interval of firing determined not by amplitude but by duration of Calcium channels being open."
+  328: As cells become oscillating assemblies, synchronizing their tonic firing rates, they become a powerful attractor to sparse fast phasic bursts from the incoming senses. (this may explain why it there might be an evolutionary incentive for your brain to throw away most of it's incoming sensory data before it reaches the neocortex, with the exception of the Olfactory sense which probably requires high spatial amplitude & lower frequency sensory input channels for increased spatial resolution of the tiny particles that visit your nose & mouth. Which might explain why 4/5 of the Olfactory input channels do not have their signals routed through thalamic nuclei before colliding with the neo cortex. (this paragraph is loaded with big assumptions that need further research).
+  391: I wrote elsewhere that multi-vesicle release allows a neuron to have four levels of output with each interval of firing determined not by amplitude but by duration of Calcium channels being open."
 
 b0071y.md:
   17: The canvas of the mind is dotted with rippling patterns that alternate between excitation & inhibition "high-amplitude cofluctuations involving large sets of brain regions."
@@ -334,8 +329,8 @@ b0129y ctpr.txt:
 b0132y ctpr.txt:
   14: Like everything that's like below high gamma. So like low gamma and high and all the betas and alpha data and delta like those power bands are perhaps you're like low amplitude neurosurgeon set attract coop cooperation because they're low amplitude. Widespread firing results in neurons, that sort of like send a love frequency.
 
-b0167y ctpr.txt:
-  17: It's dimension. It's the speed of their spin, right? The speed the frequency. This is feet is like frequency of the oscillation, but it's but it's it's that's inverted to their amplitude, right? So if they go faster, they're smaller to go slower and it's then it's, that's bigger. It's a bigger effect in that sense, in that sense the the that's a mechanism for.
+b0167y.md:
+  33: It's dimension. It's the speed of their spin, right? The speed the frequency. This is feet is like frequency of the oscillation, but it's but it's it's that's inverted to their amplitude, right? So if they go faster, they're smaller to go slower and it's then it's, that's bigger. It's a bigger effect in that sense, in that sense the the that's a mechanism for.
 
 b0194y ctpr.txt:
   15: Yeah, that's interesting. So this is a question like well what is the tonic oscillation like action potential? What is a tonic oscillation action potential like compared to the phasic action potential, right? Is the fate does, the phasic action potential have a greater amplitude and a lower frequency or higher frequency in a lower amplitude?
@@ -412,34 +407,6 @@ b0310y.md:
 
 b0311y.md:
   976: The eye you're the brand activity decreases and so the reason you were able to control it the muse is because you're creating a certain amount of activity that the muse was able to recognize a certain amplitude of of dipole activity perhaps and but now that that activity is no longer happening there's no longer happening at that scale or no longer happening in that place it's it's not really it's not if that there's the ability for the news to continue to detect it is is diminished so like the better you get at using the muse the harder it gets to use the muse you can see the same and so that paradigm.
-
-c0000x.md:
-  288: c0140x/ Amplitude as Duration Because a change in the frequency comes with a change in duration
-  290: c0141x/ The mechanism of Amplitude: From Dendrite to MVR
-  292: c0142x/ Amplitude Mechanism Expanded: Neurotransmitters: Acetylcholine, Gaba, Dopamine, Serotonin
-  294: c0143x/ Amplitude Mechanism Expanded: Ion Concentrates, Sodium, Potassium, Calcium, Chloride.
-
-c0001x:
-  13: Amplitude as Duration Because a change in the frequency comes with a change in amplitude
-  14: The mechanism of Amplitude: From Dendrite to MVR
-  15: Amplitude Mechanism Expanded: Neurotransmitters: Acetylcholine, Gaba, Dopamine, Serotonin
-  17: Amplitude Mechanism Expanded: Ion Concentrates, Sodium, Potassium, Calcium, Chloride.
-
-map.gravity.md:
-  47:   206: so quantum general relativity is suggesting that at scales from quantum physics, to astrophysics to neurophysics there is an inverse relationship between amplitude (density & volume of mass) and frequency (energy) and that gravity is caused by the coherence and decoherence patterns in the phase field of spacetime between oscillating bodies that are either in phase (coherence expanding spacetime) or out of phase (decoherence shrinking spacetime as masses dissolve or explode)
-
-map.napot.md:
-   45: b0004y "The biggest failure in the entire history of neuroscience is that we have been using the term amplitude instead of the term magnitude to model the action potential."
-  131: b0272y "Potassium modifies the action potential applicant amplitude or APC which determines the strength of this synaptic signal." https://github.com/v5ma/selfawarenetworks/blob/main/b0272y.md
-
-map.tomography.md:
-  182:     7: In another note I proposed that the non-linear sequency of action potentials events in neural array-projection tomography could be considered as intervals in a Taylor series of polynomials that might include some sort of infinite summation, or estimate of infinite curves from learned action potential sequences, (which are transmitted as high phasic low amplitude signals between neurons that trigger waves of inhibited neurons in their respective exit terminal array).
-
-map.wiki.home.md:
-  282: Amplitude as Duration Because a change in the frequency comes with a change in duration
-  284: The mechanism of Amplitude: From Dendrite to MVR
-  286: Amplitude Mechanism Expanded: Neurotransmitters: Acetylcholine, Gaba, Dopamine, Serotonin
-  288: Amplitude Mechanism Expanded: Ion Concentrates, Sodium, Potassium, Calcium, Chloride.
 
 nlp2:
   86: So if the brain is all, I mean if the brain is operating sort of like in terms of electromagnetism In, that would make sense because we see that we capture all these brainwaves We don't. What is a brainwave? We're a brainwave is a way of ion It's flowing throughout the entire brain and it has a, and has all these interesting properties has an angle has a amplitude that has a velocity as, and what does it mean to to the end?

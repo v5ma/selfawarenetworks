@@ -8,8 +8,6 @@ This is the 3rd line..
 
 My updated conjecture is that long term memories are not just from synaptic connections but essentially they are from the morphology of the cell itself, specifically the morphology of the dendrite, because that determines what signal patterns the dendrite (or the cell) responds, how great the magnitude cellular response is, and what types of variations in the signal the cell might create at the exit terminal of individual synapses.
 
-
-
 When a cell gets part of a pattern it updates its synapses, might cause a tiny phase change in its tonic oscillation timing that the rest of the oscillating cell assembly to notice. I am looking at Olfactory bulb research to understand how a cell might instantly update it's sensory input with a partial pattern. Do Potassium receptors get upregulated or down regulated? There was a study on Umami (search my notes, currently in note a0272z) that compared that suggested "taste detection of glutamate (and presumably other amino acids) seems primarily to involve G protein–coupled receptors."
 
 # "Dopaminergic neurons dynamically update sensory values during navigation"
