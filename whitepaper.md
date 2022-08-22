@@ -32,9 +32,16 @@ When I was going through NAPOT I realized that when Synaptic connections change 
 
 What is a memory, what does a memory mean?
 
-A memory is when I need to remember (and thus respond) what sunglasses are, I first need to have a representation of sunglasses learned in my mind, so that when I see sunglasses I will have that memory (that memory is activated, because the cells were physically configured to be sensitive to that memory, the cells were configured to activate when that memory was sensed.)
+An example of a memory is when I need to remember (and thus respond to) what some object is, such as AR Glasses.
+I first need to have a representation of AR Glasses learned in my mind, encoded in the synaptic connections & dendritic morphology of cells.
 
-Synapses are basically an advanced data structure, or an Expert Data Structure EDS,
+Cells grow to respond to certain memory patterns. Cells grow to ignore other memory patterns. When I see AR glasses the dendrite with its receptors responds to it,  the cell is activated and therefore the memory is activated.
+
+The cell grows to better recognize that memory again in the future.
+
+When cells are physically configured to be sensitive to a certain memory, they activate when that pattern is detected, and they do not activate when it's not.
+
+Synapses + Dendrites constitute an Expert Data Structure EDS.
 
 The postsynapse, which is the receiving dendrite has receptors. Guess what all cells have receptors.
 
