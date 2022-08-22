@@ -109,7 +109,7 @@ When a neuron broadcasts its high phasic wave, it's signal zooms out along the p
 I argue that the computational units are oscillators of variating scales, so the patterns in our mind are scale invariant, but that means they can be generated and played back at all scales (defined by single oscillators or grouped oscillators)
 
 # FRACTAL Conscious
-Perception: F.unctionally R.ecursive A.ctivity C.ortically T.elescoping A.symmetric L.ensing
+Perception: F.unctional R.ecursive A.ctivity C.ortical T.elescoping A.symmetric L.ensing
 What I mean is that activity in the cortical columns is fractal, it's an oscillating feedback loop, the smaller patterns at neural scales are magnified at cortical scales, and communicated across the brain via the pyramidal cells, the major brain networks, including the the thalamic connections, but this magnification of synaptical stored memories to cortical columns has a lensing effect, a magnication effect, so that your whole brain can be focused on one tiny detail, or one tiny memory, and the column scale memories like the neuron scale memories are differentiated, none of the mirror the rest, they are similar but different, or asymmetric magnified memories.
 
 The section on fractals, anatomical & functional fractals, as well as fractals in medical imaging, is intended to support the hypothesis I am sharing about how memories stored in synaptic connections scale up to whole brain activity.
