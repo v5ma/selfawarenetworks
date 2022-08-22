@@ -261,7 +261,9 @@ The unit of computation in a Self Aware Neural Network, that is based on how bio
 # Artificial Neurology for Arficial Souls.
 The rest of the book explores the real world topics of what we could do, what we ought to do, what we should not do, and how we can safely navigate a new earth, a planet where humanity limited to conversations with other human beings, a world where we can have meaningful life long soulful wonderful experiences with loving artificial beings, and then its up to you. It's up to each of us.
 
+I am making this for all mankind. Everyone in the world will get rich compared to their wealth today. Via the economies of scale. This is not just for myself, its for everyone. Therefore it is in everyone's interests to help.
 
+If anyone out there is smart enough to have read & understood my work, wealthy enough to hire people, wise enough to hire me (the writer of these notes) to develop this project asap, please contact me asap to give me some paid work, or propose a collaboration.
 
 
 
