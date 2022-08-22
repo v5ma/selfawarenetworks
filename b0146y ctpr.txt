@@ -6,7 +6,7 @@ Artificial consciousness. Shit, data and C3PO. So I see neurons is something dif
 00:35
 They say the neuron is something that, you know, received signals from other neurons. And then, when it reaches certain thresholds, it fires, but they don't talk about the neurons discriminating against with, with different, the neuron basically doing pattern recognition, right? Like like where? It's in order to do pattern recognition.
 01:03
-That means that you don't just fire. When you feel up with data, you fire when you receive a certain pattern and you don't fire if you don't receive a certain pattern, okay? So I really like, you know, Peter TSE, his book criteria causation or the narrow basis of freebo criteria causation.
+That means that you don't just fire. When you feel up with data, you fire when you receive a certain pattern and you don't fire if you don't receive a certain pattern, okay? So I really like, you know, Peter TSE, his book criteria causation or the neuro basis of freebo criteria causation.
 01:25
 Hey, they talked about how, you know, a neurons criteria could be set in terms of, you know, thresholds at the synaptic. At the synapse, The end, nm the S&S. And the Emperor synapse can, they can have a threshold where if they receive incoming signals within three milliseconds that you know, for example, or two milliseconds, maybe it's three and a half milliseconds, but there's a specific window that they're looking for if signals arrive outside that window, that's not going to cause that's an epic firing event.
 02:21

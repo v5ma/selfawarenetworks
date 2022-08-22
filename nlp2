@@ -33,7 +33,7 @@ That's part A, and then part B, is need to have another neural network, but to l
 05:17
 And it's we're just, we just want to explain. We want to focus on. It's medically imaging. Even if you do it with another type of energy, that's part. B is now your neural network. Dedicated dedicated to what's going on inside your brain. And then you have a third network, that's a apex of the, two of my, so above A, and B, which is computer vision of objects.
 05:45
-And during that works of very my data, You have a third known network that is looking for the similarities between the the world that you're seeing and activity were brain. And so that means that if you're seeing a car and within computer business in the car, okay? And the computer vision is seen the narrow toilets of your brain activity wisdom car and in the third own network is going to figure out what that pattern is.
+And during that works of very my data, You have a third known network that is looking for the similarities between the the world that you're seeing and activity were brain. And so that means that if you're seeing a car and within computer business in the car, okay? And the computer vision is seen the neural something of your brain activity wisdom car and in the third own network is going to figure out what that pattern is.
 06:18
 And that pattern in terms not just in terms of, you know, we I really for nourished. We're gonna have to go beyond age and beyond the fusion pencils. Over my we it's it's about it is about getting chips and focus on the data in the midbrain. And the reason for that is because all of our incoming senses, you know, from our eyes for airs, they collide at the midbrain first before they connect with the rest of the cortex.
 06:47
@@ -89,7 +89,7 @@ So, we measure, we can see these with each cups, we can capture them. Escaping o
 16:53
 So to EG is it's still hasn't eaten reached, it's full potential. Especially you know, when you started replying, the power of a supercomputer that goes in a self-driving car to your easy analysis data, I mean, this just hasn't been there. So there's a lot of recent things for EG and for MRI and DTI or new brain period interfaces, I think, possibly potentially revolutionizable neuroscience, but one of the great, there's not a great new content righteous.
 17:23
-You don't have to only study EG, you can also study the eye movement the or what they call it, you know, it's eye tracking. But also people dilation tracking, and heart track and you can put all these on a single sheet. There's a software called narrow type source, created by a Tim and, and there's other softwares, I think can be had their own now.
+You don't have to only study EG, you can also study the eye movement the or what they call it, you know, it's eye tracking. But also people dilation tracking, and heart track and you can put all these on a single sheet. There's a software called Neuropype, created by a Tim Mullen, and there's other softwares, I think can be had their own now.
 17:46
 Microsoft has it on now, but allows you to take multiple kinds of sensor data and unless they're using the open source, any kind of sensors into a single sheet, so you sort of timeline, and it's time to sign up. I'm locking the data so that you can run a on the process.
 18:03
@@ -103,7 +103,7 @@ And so that's that's a way of you know, when we do medical imaging it doesn't it
 19:41
 Because, you know, MRI machine, obviously, it's magnetic. So you're limited in terms of design to to mix with that, but there are cool thing. People are coming up with. And so, so getting back to the brain is magnetic. And that means if we can figure out. So if you, if you were setting your brain while we're setting your environment and let's say that you decide to build a say that you're working on your computer and your working on is creating like you're just able making a voice recognition API for Google robot and then the computer is watching you do that and it's watching it.
 20:25
-The neural ports and the narrow correlates is also, it's not only your brain wave activity but it's also your eye tracking and people dilation and the computer is figuring out. Okay, so this pattern of working on the voice recovery, your robot is exactly is exactly matching found the brainwave pattern.
+The neural ports and the Neural correlates is also, it's not only your brain wave activity but it's also your eye tracking and people dilation and the computer is figuring out. Okay, so this pattern of working on the voice recovery, your robot is exactly is exactly matching found the brainwave pattern.
 20:47
 That's mashing what ways to on his computer or maybe it's and we've isolated that from the computer itself. Like we're getting greatest thinking this springway pattern is for the computer and this is for what he's working on specifically. And so, then the computer could tell you at some point this network because it has these concepts of how all these signals meet together, computer can tell you if you, if you turn off, if you like put a curtain in front of the computer's cameras so can no longer see what you're doing, can only see your neural correlates.
 21:23

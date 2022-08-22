@@ -68,7 +68,7 @@ The amount you're going to the lateral spread of these of these neurotransmitter
 14:02
 They're going to be receiving these neurotransmitters and so in that case. So the idea in machine learning is that every neuron has a connection every neuron already.
 14:33
-For artificial neural networks, we're talking about instead of a neuron talking to all neurons above it what would happen is that a neurons would enter on transmitters so. I narrow transmitter base so that's like it's like saying that maybe it would maybe it's okay, so maybe it's connected to all neurons but not all receptors right so not all receptors on there and so so what we're saying is like yeah, we're gonna disperse a signal to all neurons.
+For artificial neural networks, we're talking about instead of a neuron talking to all neurons above it what would happen is that a neurons would enter on transmitters so. I neurotransmitter base so that's like it's like saying that maybe it would maybe it's okay, so maybe it's connected to all neurons but not all receptors right so not all receptors on there and so so what we're saying is like yeah, we're gonna disperse a signal to all neurons.
 15:21
 That are connected but not all neurotrans not all receptors of all neurons, so if we have if they're not has a longer. Spike than what happens is we can you can transmit spatial information by activating more receptors on each of the downstream neurons or we could have a situation where.
 15:48

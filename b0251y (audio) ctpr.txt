@@ -20,7 +20,7 @@ But it is that fact that cells communicate? They basically they're sending like 
 19:26
 So, that as a whole, the network is representing a sort of reconstruction, of, of a whole pattern but a reconstruction that includes sort of like 11 different details that are represented by different parts of the neural network and then with cells are are so it's representing this pattern but then cells are communicating the pattern that they're that they're detecting to to other cells in their local neighborhood, okay?
 20:01
-To the local area and then to the and then that cluster is, then isn't coordinating a larger scale patterns to other clusters. So there's like a large, there's like a large scale connection, like a macro scale connection of large scale pattern representation, but what that means is like so you'd have small scale pattern representation in a cortical column, but then you would have large scale pattern representation communication happening between narrow columns.
+To the local area and then to the and then that cluster is, then isn't coordinating a larger scale patterns to other clusters. So there's like a large, there's like a large scale connection, like a macro scale connection of large scale pattern representation, but what that means is like so you'd have small scale pattern representation in a cortical column, but then you would have large scale pattern representation communication happening between neuro columns.
 20:47
 And so, you could say, yeah, we are the microscale and the macro scale, but the level that the amount of scales of representation could be a lot more than just micro or macro we could be talking about like a representation before every possible hurts. That that a a brain wave could feature.
 21:21

@@ -1,23 +1,3 @@
-map.napot.md (maps connect notes together and are intended to be back ups of the wiki doc)
-
-The central thesis of my book Self Aware Networks is N.A.P.O.T. or NAPOT
-
-N.A.P.O.T. is the central thesis for how we can build Self Aware Networks or Conscious (Animal Level) Self Aware Artificial Neural Networks.
-
-N.A.P.O.T. stands for Neural Array Projection Oscillation Tomography
-
-This note is a map to most of the notes that mention NAPOT in some form, but it is not a complete map to all of the notes that support the idea, because some of the supporting notes do not mention the terminology specifically, and some of the notes predate the acronym.
-
-In my notes hosted on github I refer to it also as Neural Oscillatory Tomography, Neural Oscillation Tomography, Neural Array Projection Tomography, Neural Array-Projection Tomography (hyphen), and Conceptual Tomography, Neural Array Oscillating Projection Tomography
-
-NAPOT is the theory from which existing artificial neural network architectures can be adapted to become Sentient or Conscious & Self Aware Neural Networks with internal representations, internal thoughts, feelings, images, sounds, tastes, smells, animal or human level experiences and so on.
-
-NAPOT is not just about how the brain perceives it's own representations, but it's also how memories scale from synaptic connections to the whole brain, it's also about how information flows through the mind and its connected in the networks of the brain via oscillations.
-
-I wrote down somewhere in the notes on github how it differs from deep neural networks in general and graph neural networks, I need to add more about other types of neural networks that it differents from and essentially I am comparing what the brain does to the Fourier Projection Slice Theorem, or to a combination of neural network rendering (think along the lines of NeRF, or Plenoxels or Gan Synthesis or Point Clouds Rendering and combine that with 3D Semantic Segmentation or 3D Object Segmentation + Classification, PointNet++ being an example.)
-
-The term or variants of the term appear in the following notes
-
 a0149z "3D Phase Topology over time in the brain imagined as Tensors in a high dimensional Taylor series."
 https://github.com/v5ma/selfawarenetworks/blob/main/a0149z.md
 
@@ -95,9 +75,6 @@ https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba
 
 a00000a3 bump3
 
-You are seeing the tomography (not holography) of your brainwaves when you see anything, reality is rendered in the phase variances of your brainwave activity, but it's not you that is seeing anything, it's your neural arrays, the layers in your cortical columns, and the observers are the oscillating groups of cells: the neural circuits & the cortical columns, and any oscillating cell assembling defined as body by a synchronously firing group (of cells in the brain) each neural array is seeing part of this picture, and in time the parts of the picture are bound together in your volumetric experience of reality.
-
-# The Flow of Information in the brain, from incoming senses, to motor outputs and everything inbetween 
 
 b0327y.md "The flow of information in the brain"
 https://github.com/v5ma/selfawarenetworks/blob/main/b0327y.md
@@ -161,7 +138,7 @@ b0080y "I'm arguing that our brains are making a computer program but it's a pur
 a0127z.md "Phase & Tonic relationship"
 https://github.com/v5ma/selfawarenetworks/blob/main/a0127z.md
 
-Essentially the tonic oscillation frequency of the oscillating group of cells is the canvas of consciousness, and the changes to it, via the release of 0 1 2 or 3 vesicle sacks at each interval relative to the group oscillation is the paint of the minds internal representations or qualia inside the mind that is perceived by the observer that is the oscillating group of cells
+Essentially the tonic oscillation frequency of the oscillating group of cells is the canvas of consciousness, and the changes to it,
 
 a0137z "means that neural circuits can track, be aware of, and respond to, speak back to other neural circuits"
 https://github.com/v5ma/selfawarenetworks/blob/main/a0137z.md

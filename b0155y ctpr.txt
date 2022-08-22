@@ -31,7 +31,7 @@ And let's say that the, the neurons are the transmitters and receivers at this w
 06:17
 That's it's predicting its own firing. When it's gonna fire, you know, then it could have chapters can. It's able to say, well, I've seen this pattern of activity before this means that I'm going to count. And so the dendrites count, does the counting and remembers different counts. It remembers different patterns backend.
 06:43
-I mean, there's a certain, yeah, certain pattern but if you use like yeah, if you just, if you could just create a graph that like plots of the nodes by their connections around a circle so it doesn't look like narrow anatomy like in like in all like in the or lofts sports talk.
+I mean, there's a certain, yeah, certain pattern but if you use like yeah, if you just, if you could just create a graph that like plots of the nodes by their connections around a circle so it doesn't look like neuro anatomy like in like in all like in the or lofts sports talk.
 07:11
 The last one is talk arisen is booked networks of the brain. Just creating a a graph, this as well. If something has receptors, then it can listen because it listens with its receptors when it receives ions. So it's listening versus counting which is the same thing.
 07:53

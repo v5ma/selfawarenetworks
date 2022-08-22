@@ -79,7 +79,7 @@ There's 60 frames. Okay? And we're gonna, I'm gonna argue that that. And each of
 17:40
 We'll just save for the sake of the thought experiment, that there's 60 frames per second happening, okay? And and on the and the level of the brain, it's it's a brand activity is happening at the perhaps, that the millisecond level. So, maybe there's there's, you know, you know, a thousand frames per second or something, but it could be even faster.
 18:07
-Because you know, you could have basically, you know, there's so many neurons that you could have while individual neurons can be. So if you have a lot of them, you could do, you could be doing operations much faster. Because I basically, you know, having one so one set of neurons might go off in one millisecond but and and then in the next millisecond, that happens a whole different set of narrows could be going off.
+Because you know, you could have basically, you know, there's so many neurons that you could have while individual neurons can be. So if you have a lot of them, you could do, you could be doing operations much faster. Because I basically, you know, having one so one set of neurons might go off in one millisecond but and and then in the next millisecond, that happens a whole different set of neurons could be going off.
 18:43
 And you might have many different, it could distribution. Could be that you have that sort of subdivide. So, you have, if you could have 60 different sets of neurons going off every every millisecond, just because the each set of neurons is located in a different place in the brain, you have.
 19:05
@@ -135,7 +135,7 @@ Meaning, you may not even know that it is a medicine bottle, you know? Unless so
 30:53
 Maybe they both say 500 milligram or 500 something, you know, on the back and but the beginning to getting to the thing is, is was interesting about marine, is that you're, you're neuron activity. Not only has to have an in sequences where you have neurons that are basically there in the dent and dendrite area.
 31:30
-They're receiving signals. And in the dendrite, in some areas, receiving signals from different nearby neurons. And that is causing the the narrow, the narrow firing rate to increase or decrease. So the thing that it's not really like sort of, like explained clear clearly in and like computational neuroscience 101 is, is that neurons or basically, it's not really clearly explaining the sort of temporal reality of neurons.
+They're receiving signals. And in the dendrite, in some areas, receiving signals from different nearby neurons. And that is causing the the neuron, the neuron firing rate to increase or decrease. So the thing that it's not really like sort of, like explained clear clearly in and like computational neuroscience 101 is, is that neurons or basically, it's not really clearly explaining the sort of temporal reality of neurons.
 32:04
 So they're basically always firing it, like tonic rates. They're always trying it. They're always firing tonically like sort of like a gaussian or random sort of pad and or basically with with a with an oscillator, with a group of neurons that are all sort of firing tonic at the same rate, okay?
 32:24

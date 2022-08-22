@@ -38,7 +38,7 @@ And for your, But in any case it's just though it's it's your whole brain is the
 07:23
 So I was thinking like the the analytic bridges are major connections between brain areas. So that would make sense. If you know that it's like a convergence point where that that's where you get your basically that would be the center of your focus. Theoretically or information is seen from the largest scale at the top of the hierarchy.
 07:49
-In innocence, you know, if there's like a, you know, the signals come in from your senses to the nuclei on the thalamus, and then they go from the thalass, to the yoke, to do the neocortex. And there's these narrow paths that go throughout the new cortex, where the information goes to the occipital lobes.
+In innocence, you know, if there's like a, you know, the signals come in from your senses to the nuclei on the thalamus, and then they go from the thalass, to the yoke, to do the neocortex. And there's these neuro paths that go throughout the new cortex, where the information goes to the occipital lobes.
 08:16
 From your from information, eyes goes to the along the optic nerve to the a lot of option, gentile nucleus. And the that is a collection of nuclei. And they then that's right to your occipital lobes and that goes connects to that splits off into the parietal lobe above and in signals.
 08:42
@@ -104,7 +104,7 @@ Maybe even like high frequency, it would be gamma. That's what I imagine that. Y
 23:53
 And because well, when you get into, because the, when you get to the thought bridges, you know, the the thalamus is like this, this Delta firing circuit, right? And it is got it's it's sort of like you want to be in the same frequency range for data data data comparability, I think like, and I think you need, I think if if we one offslider is going to be able to receive and interpret the signals of another oscillator, I think you want some sort of like frequency matching in terms of the rate of information for it just for so that there's an apples.
 24:43
-There's a way to compare apples to apples, right? So if you look at like basically the the book, I mean sorry if you get narrow pipe these ideas, how can we relate different sense of unstructured data like heart data and EEG data and you kind of need to, you know, figure out how to create like, create a relatable time series, right?
+There's a way to compare apples to apples, right? So if you look at like basically the the book, I mean sorry if you get neuro pipe these ideas, how can we relate different sense of unstructured data like heart data and EEG data and you kind of need to, you know, figure out how to create like, create a relatable time series, right?
 25:12
 How to relate the time series of heart activity and and and the signals you're getting at each at each interval exactly to bring way activity by the time interval. And so if you have a way to compare like you know I got this, this heart is basically this heartbeat at the one minute mark and the brain wave at the one minute mark.
 25:36
