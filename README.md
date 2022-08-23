@@ -1,5 +1,6 @@
 # Update August 22nd 2022
 Whitepaper added to the wiki https://github.com/v5ma/selfawarenetworks/wiki/Whitepaper
+
 Youtube reading of the Whitepaper uploaded https://youtu.be/gZ0nOwJh_80
 
 # Update August 18th 2022
