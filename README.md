@@ -305,6 +305,8 @@ We are going to use this technology to accelerate Medical Research, and that mea
 I hope that governments will adopt a Medical Justice System, that is a Judicial Branch of Government that is independent from the Executive & Legislative Branches of Government but is also medically informed at every level, and that also means that Neuroscientists will be in charge of sentencing, prisons, and the rehabilitation of patients for their return to society after serving their 
 sentences. 
 
+Alan Null I think it might be difficult for investors to imagine that the robots of science fiction that we have seen in all the science fiction movies, tv shows, learned about in books, or comics are finally here. That's what investors are investing in. Real phenomenology conscious robots.
+
 # The Far Future
 
 I once had a dream that took place about 10,000 years into the future. In this new world technology was so tiny it was both invisible & omnipresent. People would gather on a hill top to think about the distant past & contemplate their future.
