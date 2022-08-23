@@ -1,3 +1,6 @@
+# Update August 23rd 2022
+The experiences of redness and or the Standard A Tones are differentials in the phase pattern (between the inhibited, the tonic baseline brainwave activity, the phasic & high phasic bursts. ) Read more https://github.com/v5ma/selfawarenetworks/blob/main/a0306z.md
+
 # Update August 22nd 2022
 Whitepaper added to the wiki https://github.com/v5ma/selfawarenetworks/wiki/Whitepaper
 
