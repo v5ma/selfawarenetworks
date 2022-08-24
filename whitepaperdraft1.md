@@ -1,4 +1,4 @@
-# Whitepaper
+# Whitepaper Draft 1
 Self Aware Networks
 
 The central thesis of my book Self Aware Networks is NAPOT
