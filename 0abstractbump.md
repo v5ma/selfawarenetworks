@@ -2,14 +2,7 @@ This note is intended to be deleted regularly below the 3rd line. Essentially it
 If you are new here. 1. Check the Readme.md for updates. 2. Check the Wiki for contents.
 This is the 3rd line..
 
-create note b0304y to pull audio from audio notes
-b0304y spoke to Subatai Neurons Dendrites Column
-
-
-working on b0232y to finish reviewing articles
-
-
-
+finish reviewing articles
 
 "Texture Coding In Higher Order Somatosensory Cortices" 
 
