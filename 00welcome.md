@@ -1,10 +1,16 @@
-If you are new here:
+Welcome to the Self Aware Networks Institute
 
-0. Read the Whitepaper https://github.com/v5ma/selfawarenetworks/wiki/Whitepaper
+The first thing you want to do is read the Whitepaper
+
+https://github.com/v5ma/selfawarenetworks/wiki/Whitepaper
+
+or watch the video which is inside the link above.
 
 1. Check the Readme.md for updates & some overview. https://github.com/v5ma/selfawarenetworks#readme
 
-2. Check the Wiki home for the table of contents that you can use as search terms to navigate through the notes. https://github.com/v5ma/selfawarenetworks/wiki
+2. Check the Wiki home for the table of contents that you can use as search terms to navigate through the notes.
+
+https://github.com/v5ma/selfawarenetworks/wiki
 
 3. Note that the notes are randomly ordered at the moment (as of August 2022), but as time goes on maps to the contents of the notes will be created to improve the organization & accessibility of the content. Many of the notes will be fixed or rewritten.
 
