@@ -41,8 +41,7 @@ Whitepaper added to the wiki https://github.com/v5ma/selfawarenetworks/wiki/Whit
 Youtube reading of the Whitepaper uploaded https://youtu.be/gZ0nOwJh_80
 
 # Update August 18th 2022
-Note a0282z is now:
-# The simplified version of Neural Oscillatory Tomography 
+Note a0282z is now: The simplified version of Neural Oscillatory Tomography 
 which can also be called: Neural Array Projection Slice Phase Oscillation Tomography.
 https://github.com/v5ma/selfawarenetworks/blob/main/a0282z.md
 
@@ -99,7 +98,8 @@ https://www.youtube.com/watch?v=IKbl0ryKRoY&ab_channel=SiliconValleyGlobalNewsSV
 A 50 minute video explaining my work
 https://www.youtube.com/watch?v=fLp-yTQ6pSM&ab_channel=SiliconValleyGlobalNewsSVGN
 
-The 3rd video covers this new note map https://github.com/v5ma/selfawarenetworks/blob/main/map.napot.md
+The 3rd video covers this new note map
+https://github.com/v5ma/selfawarenetworks/blob/main/map.napot.md
 
 Regarding the terms evolution vs development.
 The consequence of C.O.T. Cellular Oscillating Tomography, is there is no more concept of development apart from evolution, there is only evolution. There is no more artificial that is separate from natural. There is no more man that is separate from nature. There is only nature.
@@ -189,3 +189,5 @@ https://github.com/v5ma/selfawarenetworks/blob/main/a0110z.md
 
 # Update June 23, six days past the 17th.
 (still editing & fixing these auto audio transcripts. Fixing these transcripts is a bit more work per hour per day than I realized, ah hmm... and I think I all the notes still need editing at this point. Some more than others. The transcripts might take two months, but the way I am beginning to make connections between documents is threading the book together so this process seems like the right one.)
+
+# June 17th, This github repo "Self Aware Networks" shared to the public for the first time.
