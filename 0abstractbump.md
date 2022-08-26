@@ -3,6 +3,9 @@ If you are new here. 1. Check the Readme.md for updates. 2. Check the Wiki for c
 This is the 3rd line..
 
 create note b0304y to pull audio from audio notes
+b0304y spoke to Subatai Neurons Dendrites Column
+
+
 working on b0232y to finish reviewing articles
 
 
@@ -10,7 +13,7 @@ working on b0232y to finish reviewing articles
 
 "Texture Coding In Higher Order Somatosensory Cortices" 
 
-https://twitter.com/biorxiv_neursci/status/1561658280564375553?s=21&t=2PgerkKJpTGm-GudjButbQ
+https://www.biorxiv.org/content/10.1101/2022.08.19.504511v1
 
 "Effective sound localization coding by noisy populations of mouse inferior colliculus neurons revealed by fast volumetric imaging"
 
