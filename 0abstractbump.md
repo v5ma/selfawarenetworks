@@ -17,3 +17,6 @@ Sparse set of points from photos + camera positions
 
 The computer is not going to know the difference
 
+
+
+
