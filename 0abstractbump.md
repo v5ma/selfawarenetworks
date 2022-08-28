@@ -15,8 +15,9 @@ https://www.biorxiv.org/content/10.1101/2022.08.19.504510v1
 look up Sparse 3D reconstruction
 Sparse set of points from photos + camera positions
 
-The computer is not going to know the difference
+b0272y addaudio
+b0075y addaudio
 
-
+b0071y "(I think I can describe the sensory input path better than this)"
 
 

@@ -1,0 +1,165 @@
+b0101y ctpr
+
+(audio note: transcription needs to be fixed)
+
+Syllables Pattern Synapses
+
+00:00
+
+My, my time with the with the machine set up with machines, brain, simulation machines with the process that I called, the NeoMinecycle treatment the neo minecycle alternative biotherapy treatment. You know, it's neurofeedback so called the NeoMine cycle. So neurofeedback was another part of the inspiration. The word neoprene neurofeedback is close to the word neo mind cycle neurofeedback.
+
+00:37
+
+It's got like there's three. Large three. I mean so neuro is is two syllables but nero feed is a that they're really close to together and then you have feed, which is almost in one. It's almost in one syllable and then back which is another total. So you see that you have four syllables but they're sort of space like as if they're three so neurofeedback, sort of spaces if there's three syllables because two of them are real close to each other and then you have neo-line cycle.
+
+01:09
+
+So, neo is technically. We also choose to syllables material. Yeah. Yeah. And then you have mind and cycles is to cycles too. So those are there, so But the point what? With the purpose of this was that my time with you know I had about two years and which I was a periodically subjecting my brain to this really advanced neurofeedback with light and sound.
+
+01:44
+
+So it was a lot of treatments, a lot of self treatments. And that in in hindsight I like, wow. My brain was a, my brain went through some radical transformations between then and now like I've gone through so many characters like character evolutions. Like, I've I feel like I've lived through different personalities, and same and absorbed.
+
+02:23
+
+I feel like, you know, like but you know that, you know, that's saying like the I contain multitudes. I feel like I I have modeled so many different personalities. Just not like creative models of them and done, such amazing, like basically personalities that are rendered to the same sort of, you know, resolution and even higher than my own.
+
+02:53
+
+Then, you know, my own self-construct, my own understanding of myself, and I think it helps to like, when you model so many different, you know, other people's mind, your modeling you in threat, your life, you're modeling other people's minds, right? And the complexity the complexity of the understanding is you have a of other people in being able to predict their minds and know who they are.
+
+03:21
+
+That, that really That, let's hear you. Get to.
+
+03:39
+
+You know, but in any case, like I had a weird, I had an unusual experience like that, a mind altering experience, it probably altered my mind for the long term. Probably altered the way, I think forever and it involved, you know, light and sound machine chronic beasts and or actually, I'm not sure what.
+
+04:02
+
+It can't isochronic beats and, and all and alternately. Lots of binary beads, lots of meditation with different programs, different light, and sound machines, without EEG just, you know, audio base, only brainwave environment. I did a lot of that and having like all search of like the there's the I've had a transcranial direct current stimulation machine.
+
+04:35
+
+I had a I bought from focus FOC.US and I had a TACS transcranial as with is a has what is it? TACS is oh shoot. I can't believe I'm getting off the top of my head, but but, but yeah, so TACS is another electrical, simulation device. And that you and this, in this case, I clipped something to each of my ears and electric was basically 50 each of my ears and then that sent that sent us a signal across to just to apparently like basically stimulate the center of my brain between the two years I guess, is that hypothesis is how it works.
+
+05:29
+
+It's electrical stimulation, that runs straight through you between your ears and let's see. And then we have yeah. Oh a new tropics. Lots of new tropics that I've had over the years that have also, you know, quite like. So you take in your topics right? And and you know they maybe they're doing something that excites your brain maybe or supports your memory function.
+
+06:03
+
+And and these new tropics are interfacing with the with the oscillations of of your mind. And in a way that is, you know, there are what they're with the hundred year effect of, you know, a person taking entropics isn't as well known yet because people are, you know, I guess, I guess everyone in the world is a guinea pig with dependent coming on the and in some went in some ways because there's there are not right?
+
+06:43
+
+We're lacking in like it would be great if everyone in the world was participating. In. Scientific studies if we had like mass scale, scientific studies. And we asked everyone in the world to participate in these studies. And you know, like, you know what, like the idea is like, well, what if we're watch, take over our jobs?
+
+07:03
+
+What can, what can we look in the people do it? Well, the people can do science work, there's lots of science work that needs to be done, you know, there's there's if we get robots to take over the all the little current human jobs, there's a lot of things that we don't have enough people for that.
+
+07:22
+
+We need more people for and sure at some point. Like we'll have robots that can do that too. But but the the but you can but there's it's like right now it seems like there isn't there's an infinite supply of work and a limited supply of people we want to do it and eliminated and eliminated supply of people total.
+
+07:50
+
+And so imagine that there's so many workers unlimited workers. If that we and we basically run out of work and so that means that like in a long timeline we eventually run out of work because we have so many workers. We're able to do everything and everyone even being could help with science, you know.
+
+08:14
+
+Or, you know, we could with art the the way people could collaborate with, you know, with machines to do like to accomplish next generation beats of Beautiful architecture or maybe, you know, people can make space yet and colonize other planets and expand out into space. And you know maybe it would be like nevermind.
+
+08:48
+
+That's gonna mention some science fiction too show but it's every too much humor. But yeah, like my like this. All right. My favorite the idea that my brain was ultra for the better. However, I mean, I feel like like I really became a machine in terms of my ability to to read books and consuming information and identify high level patterns the basically to scale, to be able to scale between high level.
+
+09:24
+
+And the level patterns really easily and to be able to like compare. Like I said, there's you might find an isomer for pattern and, and, and one domain of science with and be able to identify, and I see more of a pet that I'm matching, isomer for pattern in another domain of science.
+
+09:48
+
+Right? When when you know what John Carmack refers to is like when you're when you're reading a book about rockets but how rockets are made or and and suddenly a concept from how gunpowder works like helps you to imagine a new rocket design, that might be a lot more efficient and like and like yeah.
+
+10:14
+
+So John Carmack has it has described experiences like that. Were you reading that? I an idea in a book that's unrelated to the topic that you're reading. But you'll, you're able to pull out like an information configuration, that's sort of like substrating variant and that now, it works, you know, now we can go from, you know, take the lessons of how rocket rockets work and and make better guns or vice versa make use of lessons and have them to work and make better rockets.
+
+10:43
+
+But yeah, so it's it is interesting. It's sort of like, you know, I'm arguing basically that that that patterns are not just invariant temporary insurance, basically, but they're in variant in scale because of this magnification of patterns. And this, it's the magnification that is also like you could think of, as divergence money when it goes from the neuron level to to the screen of the oscillation level, as it depends, the virgins.
+
+11:22
+
+And then each of the neurons that were that is part of that oscillation is just it's firing in that. Also, in that oscillation is sort of participating in the collective group activity of sort of representing that pattern because they are, they were all firing at the same time by because that pattern the pattern of incoming signal was just sort of like stoked a disruption to their normal cycle.
+
+12:09
+
+So now now they are there.
+
+12:18
+
+It really comfortable sort of synchronization that they all had has become disrupted with decoherency patterns because of new. Because because the differences of the action potential and out of the subsequent inhibited set, you know, it's not just as potential but it's also like either an acceleration message because it caused more more sodium channels to open.
+
+12:46
+
+Or it's it's like, hey, go faster, more certain channels open or hey go slow or more potassium channel and more potassium channels open with destin apps and that that causes decoherence because now like we it's like you had the whole groups often together and they're response, gives like a bunch of them.
+
+13:07
+
+A bunch of them now. Get excited, right? And a bunch of them now, get depressed. Right. So now their surface is responding to the to the print. It's like the it's like the surface of the oscillation is now has negative edges and it has positive edges. The negative edges are the inhibitions and the positive edges are the excitations and that canvas is now.
+
+13:37
+
+It's it's it's a deccoherence pattern. Has been pressed into it from the action potential that. And it's basically scaling up the action, potentials to a larger scale that is now something that, you know, it that that that is like, it's like reversing the that's rendering, it's like rendering a piece of an image from outside your body, right?
+
+14:10
+
+Because that because the image comes to your eye. And it it, you know, the dens right has receptors, right? So the dendrite is going to receive signals on its receptors and at that point that the the signals are going through a convergence point there. The, the synapses of the receiving of each of the dendrites is converging and the dendrites only gonna fire if, if the it's getting enough data but it's only going to get data from the synapses that are active.
+
+14:47
+
+And so the synapses are other active defined, the pattern that it's a capable of seeing at that moment in time, right? And they're all in the at they're not just they're not just active, but they're also active in terms of their of their the the temporal interval of this synapse.
+
+15:04
+
+You'd have to have like two. You have to have like a coincidence firing event.
+
+15:19
+
+Yeah, they'd have to like you know the signals would have to ride within milliseconds of each other. So I'm not exactly sure that but they have to write with the milliseconds of each other because otherwise the the membrane of the dent, right? Is is leaky. So it's like so the pattern can arrive all at once or it can arrive at different times, right?
+
+15:45
+
+So different parts of the pattern can and come in at a different times. So it's in that sense, it's it's synapse and variant in terms of like the the pattern. It's been hard to synapse and sometimes like a partial pattern may trigger the neurontifier. It's like if it's seen so it's missing like part of the pattern, it's able to recognize it because there's enough, it's perceived enough information and if you I guess if you go with a spreadsheeted representation idea, I guess you only need a like maybe two you only need maybe two, two points.
+
+16:25
+
+Two synapses to fire within three milliseconds in order to create a like a coincidence pattern. At the minimum, you probably need to because, because because that because of phase is going to be
+
+16:48
+
+A phase change is a change in the. It's like, if it's like it's it's it's increasing or decreasing, right? But you probably need, you're gonna need at least two synapses to fire because that means that there is a coincidence happening. That is going to plot that that might acquiesce this happening.
+
+17:17
+
+That that might have enough scale to cause the action potential event. Whereas like, if you had just one synapse fire, you would think that, you know, that that's not going to be enough to cause the the threshold to fire. Because that means the threshold is said at one and right, right?
+
+17:40
+
+And there's, there's basically no point to the threshold, it definitely there'd be no point to there, being a synapse at all. It might as well be. Like just, it might as well just be like a an electric synapse then, right? It's there's if the threshold is one, and it's reached literally every time no matter what.
+
+17:57
+
+So, it just, it's just like, I think you need to, at least have at least two at a minimum and then and then maybe, you know, like that's it's weird to think. But that, that might be, you know, because because I don't know, I don't know. Because I guess it could be just once it apps.
+
+18:19
+
+And then one more firing from the same apps like because it because the charge of sodium ion's if you only if you only say different kind of thing.
+
+18:37
+
+Yeah, it's really like, it's really interesting to start speculating about that because, yeah, Because it, because even with the
