@@ -17,6 +17,10 @@ Sparse set of points from photos + camera positions
 
 b0272y addaudio
 b0075y addaudio
+b0004y addaudio
+b0005y addaudio
+no more audio additions between b0000y and b0037
+reviewing b0038y next
 
 b0071y "(I think I can describe the sensory input path better than this)"
 

@@ -1,3 +1,8 @@
+# Update August 29th 2022
+An update to b0232y in the section on BTSP Behavioral Timescale Synaptic Plasticity, I'm also focusing on Pyramidal Cells, synaptic efficacy, dendritic inhibition, calcium spike activation, and the functional anatomy of Apical Dendrites including their cortical cortical connections and cortical thalamic connections, both the 5th & 6th layer Pyramidal cells are in focus, beginning with Note a0007z.md
+https://github.com/v5ma/selfawarenetworks/blob/main/a0232z.md
+https://github.com/v5ma/selfawarenetworks/blob/main/a0007z.md
+
 # Update August 28th 2022
 New updates to note a0001z are in progress. Some of it you can see right now. I found a lot of research that supports NAPOT revision 2 that I will share soon, but you can read some clarifications about what NAPOT 2 is and what it isn't, with contrast to NAPOT 1.
 https://github.com/v5ma/selfawarenetworks/blob/main/a0001z.md
@@ -5,6 +10,10 @@ https://github.com/v5ma/selfawarenetworks/blob/main/a0001z.md
 Most of the audio transcriptions still need to be fixed but now they are all in the same format, with spaces between the paragraphs, over 188 notes were updated, so some of the content that was there before is more readable now. My next step on these audio notes is to review each audio recording one by one and then to make a decision as to whether to share the link to that raw unedited audio recording in the note. At least then my work will be more fully available, and I can delay getting perfect transcriptions until a later step.
 
 I knew that I had a new model of an artificial neuron that was wildly different from the Perceptron, the original artificial neuron that still informs how artificial neural networks are designed today 79 years later. So I gave it the name Metatron. Obviously it shares the last four letters with the Perceptron, and it plays on the idea that human mind is a virtual construct, made up of signals that might be emerging from different places at different times in different ways.
+
+A Government Licensing note was created and linked to the Readme page.
+https://github.com/v5ma/selfawarenetworks/blob/main/a0315z.md
+
 
 # Update August 26th 2022
 a new Welcome file was created 
