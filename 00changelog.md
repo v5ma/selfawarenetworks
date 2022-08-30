@@ -3,6 +3,10 @@ An update to b0232y in the section on BTSP Behavioral Timescale Synaptic Plastic
 https://github.com/v5ma/selfawarenetworks/blob/main/a0232z.md
 https://github.com/v5ma/selfawarenetworks/blob/main/a0007z.md
 
+I attack Stanford's Neurogrid 2021 paper at the bottom of note a0008z.md
+# Stanford's Neurogrid 2021
+https://github.com/v5ma/selfawarenetworks/blob/main/a0008z.md
+
 # Update August 28th 2022
 New updates to note a0001z are in progress. Some of it you can see right now. I found a lot of research that supports NAPOT revision 2 that I will share soon, but you can read some clarifications about what NAPOT 2 is and what it isn't, with contrast to NAPOT 1.
 https://github.com/v5ma/selfawarenetworks/blob/main/a0001z.md
