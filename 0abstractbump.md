@@ -15,12 +15,8 @@ https://www.biorxiv.org/content/10.1101/2022.08.19.504510v1
 look up Sparse 3D reconstruction
 Sparse set of points from photos + camera positions
 
-b0272y addaudio
-b0075y addaudio
-b0004y addaudio
-b0005y addaudio
-no more audio additions between b0000y and b0037
-reviewing b0038y next
+
+
 
 b0071y "(I think I can describe the sensory input path better than this)"
 
