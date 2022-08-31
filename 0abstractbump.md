@@ -15,9 +15,11 @@ https://www.biorxiv.org/content/10.1101/2022.08.19.504510v1
 look up Sparse 3D reconstruction
 Sparse set of points from photos + camera positions
 
-
-
+# get this paper plateau potential(Milstein et al., 2020)
+search for papers that focus on 'synaptic efficacy'
 
 b0071y "(I think I can describe the sensory input path better than this)"
 
 
+4 firing states (b0232y)
+4 levels of conductance 

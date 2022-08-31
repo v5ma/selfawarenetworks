@@ -54,6 +54,10 @@ The postsynapse, which is the receiving dendrite, has receptors, that is how it 
 
 The receptors in every single cell have thresholds for firing. The receptor thresholds are like a mini fractal of the action potential threshold in the neurons. Receptors have to consider four levels of conductance to determine their response.
 
+This is the four levels of conductance article:
+# "Opening of glutamate receptor channel to subconductance levels"
+https://www.nature.com/articles/s41586-022-04637-w
+
 # Recollection: How memories work
 The downstream neurons are going to respond to what they are receiving based upon their synaptic connections (and morphology) which is your memories, your long term memories.
 

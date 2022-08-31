@@ -51,6 +51,10 @@ https://github.com/v5ma/selfawarenetworks/blob/main/a0011z.md
 
 It turns out the receptors in every single cell have thresholds for firing, it's like a fractal of the action potentials in neurons, your NMDA receptors, for example, have thresholds for firing, so they have to consider four levels of conductance to determine their response
 
+This is the four levels of conductance article:
+# "Opening of glutamate receptor channel to subconductance levels"
+https://www.nature.com/articles/s41586-022-04637-w
+
 # Recollection: How memories work
 The downstream neurons are going to respond to what they are receiving based upon their synaptic connections (and morphology) which is your memories, your long term memories.
 

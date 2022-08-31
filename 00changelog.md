@@ -1,5 +1,8 @@
+
+
+
 # Update August 29th & 30th 2022
-I wrote a new conjecture that links my NAPOT Theory with the Apical Dendrites of Layer 5 & 6 pyramidal cells, and a Hippocampal place field study (BTSP). Also I wrote about Stanford's Neurogrid 2021. I will share more when I am on wifi again later.
+I wrote a new conjecture that links my NAPOT Theory with the Apical Dendrites of Layer 5 & 6 pyramidal cells, and a Hippocampal place field study (BTSP). Also I wrote about Stanford's Neurogrid 2021.
 
 An update to b0232y in the section on BTSP Behavioral Timescale Synaptic Plasticity, I'm also focusing on Pyramidal Cells, synaptic efficacy, dendritic inhibition, calcium spike activation, and the functional anatomy of Apical Dendrites including their cortical cortical connections and cortical thalamic connections, both the 5th & 6th layer Pyramidal cells are in focus, beginning with Note a0007z.md
 
