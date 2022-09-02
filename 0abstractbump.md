@@ -19,7 +19,3 @@ Sparse set of points from photos + camera positions
 search for papers that focus on 'synaptic efficacy'
 
 b0071y "(I think I can describe the sensory input path better than this)"
-
-
-4 firing states (b0232y)
-4 levels of conductance 
