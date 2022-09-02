@@ -1,5 +1,5 @@
-
-
+# Update September 1st 2022
+Ongoing updates to a0007z linked in the previous update. There are a couple of ideas then I am chasing down additional evidence for, and then I think its time to threading the table of contents & the notes together to organize the content for the book.
 
 # Update August 29th & 30th 2022
 I wrote a new conjecture that links my NAPOT Theory with the Apical Dendrites of Layer 5 & 6 pyramidal cells, and a Hippocampal place field study (BTSP). Also I wrote about Stanford's Neurogrid 2021.
