@@ -1,8 +1,5 @@
 a0287z
 
-Apply to be a research scientist at DeepMind
-https://twitter.com/allandafoe/status/1544736441934266369?s=21&t=I-TUNdn6w9SDbgcd0lMUIQ
-
 "Combining multivariate decoding and neural state-space analyses, we found frequency band-specific neural signatures that underlie the content of perception and promote perceptual stability, respectively. Across different types of images, non-oscillatory neural activity in the slow cortical potential (SCP, <5 Hz) range supported the content of perception. By contrast, perceptual stability is influenced by the amplitude of alpha and beta oscillations"
 Actually a twist on the way I think about NAPOT but consistent with my prediction of inhibition being a code underneath the tonic oscillation. Inhibition therefore is like an anti-particle or anti-matter, or anti-spike, meaning your brain notices it. because it expects the tonic oscillatory synchrony, and this paper backs the idea I think of inhibition defining patterns in the brain. They document Stable high magnitude tonic oscillations at 20hz and below, but in this paper instead of a high phasic spike causing a neural signature its  the lower sub <5 Hz non-oscillatory (inhibitions or inverse spike or silent plateau firing) search notes for silent plateau & link here. Which means that in the 6th layer of cortex & thalamus, a delta frequency resulting from inhibition or silent plateau is like an inverted spike to the theta frequency. 
 Awesome!
