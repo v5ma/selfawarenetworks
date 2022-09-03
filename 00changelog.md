@@ -1,3 +1,6 @@
+# Update September 2nd 2022
+Most of today updates focused on adding to Note a0007z. Many of my criticisms about what Neurogrid is failing to model (you can read in note a0008z linked below) can now be referenced in Note a0007z linked below.
+
 # Update September 1st 2022
 Ongoing updates to a0007z linked in the previous update. There are a couple of ideas then I am chasing down additional evidence for, and then I think its time to threading the table of contents & the notes together to organize the content for the book.
 
