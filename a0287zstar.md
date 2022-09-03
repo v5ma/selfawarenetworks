@@ -1,24 +1,32 @@
 a0287z
 
+# "Frequency-specific neural signatures of perceptual content and perceptual stability" doi: https://doi.org/10.1101/2022.03.18.484861
 "Combining multivariate decoding and neural state-space analyses, we found frequency band-specific neural signatures that underlie the content of perception and promote perceptual stability, respectively. Across different types of images, non-oscillatory neural activity in the slow cortical potential (SCP, <5 Hz) range supported the content of perception. By contrast, perceptual stability is influenced by the amplitude of alpha and beta oscillations"
-Actually a twist on the way I think about NAPOT but consistent with my prediction of inhibition being a code underneath the tonic oscillation. Inhibition therefore is like an anti-particle or anti-matter, or anti-spike, meaning your brain notices it. because it expects the tonic oscillatory synchrony, and this paper backs the idea I think of inhibition defining patterns in the brain. They document Stable high magnitude tonic oscillations at 20hz and below, but in this paper instead of a high phasic spike causing a neural signature its  the lower sub <5 Hz non-oscillatory (inhibitions or inverse spike or silent plateau firing) search notes for silent plateau & link here. Which means that in the 6th layer of cortex & thalamus, a delta frequency resulting from inhibition or silent plateau is like an inverted spike to the theta frequency. 
-Awesome!
-"we applied time-resolved multivariate decoding to whole-brain MEG data (for details, see Methods). We tested three components of neural field potentials — slow- cortical potential (SCP, < 5 Hz), alpha-band amplitude (amplitude envelope of 8-13 Hz filtered data) and beta-band amplitude (amplitude envelope of 13-30 Hz filtered data) — in their ability to distinguish between the two percepts that are alternatively experienced for each ambiguous figure. The SCP activity corresponds to the low-frequency component of the broadband, non-oscillatory (i.e., aperiodic) activity (He et al., 2010; He, 2014), while the alpha and beta bands have prominent oscillatory activity (Figure S1 A-B)."
-"Decoding accuracy in the SCP band was highest in the first second after image onset and then drops to a lower level (likely due to neural adaptation). The higher decoding accuracy in the Unambiguous condition as compared to the Ambiguous condition is likely due to the differences in sensory input that coincides with different
-4
 
-bioRxiv preprint doi: https://doi.org/10.1101/2022.03.18.484861; this version posted March 20, 2022. The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under aCC-BY 4.0 International license. perceptual contents, as well as consistent timing across all trials (all image presentations last 5 seconds, as opposed to variable percept durations in the Ambiguous condition). Lastly, as in the Ambiguous condition, the SCP decoder of perceptual content generalized well across time in the Unambiguous condition (Figure 2D, right column), suggesting that the underlying neural code is stable over time after the very initial image onset-related activity."
-Stable information implies the SCP is a soliton wave. YESSSS!!!!!!
+Actually a twist on the way I think about NAPOT but consistent with my prediction of inhibition being a code underneath the tonic oscillation. Inhibition therefore is like an anti-particle or anti-matter, or anti-spike, meaning your brain notices it. because it expects the tonic oscillatory synchrony, and this paper backs the idea I think of inhibition defining patterns in the brain. They document stable high magnitude tonic oscillations at 20hz and below (and above 5hz), but in this paper, instead of a high phasic spike causing a neural signature, its the lower sub <5 Hz non-oscillatory (inhibitions or inverse spike or silent plateau firing) search notes for silent plateau & link here. Which means that in the 6th layer of cortex & thalamus, a delta frequency resulting from inhibition or silent plateau is like an inverted spike to the theta frequency. Awesome!
+
+This is the beginning of NAPOT Theory Revision 3.
+"The modern theory of antimatter began in 1928 in a paper by Paul Dirac. The Schrödinger wave equation for electrons predicted the possibility of antielectrons. Discovered in 1932 & named positrons."
+
+"we applied time-resolved multivariate decoding to whole-brain MEG data (for details, see Methods). We tested three components of neural field potentials — slow- cortical potential (SCP, < 5 Hz), alpha-band amplitude (amplitude envelope of 8-13 Hz filtered data) and beta-band amplitude (amplitude envelope of 13-30 Hz filtered data) — in their ability to distinguish between the two percepts that are alternatively experienced for each ambiguous figure. The SCP activity corresponds to the low-frequency component of the broadband, non-oscillatory (i.e., aperiodic) activity (He et al., 2010; He, 2014), while the alpha and beta bands have prominent oscillatory activity (Figure S1 A-B)."
+"Decoding accuracy in the SCP band was highest in the first second after image onset and then drops to a lower level (likely due to neural adaptation). The higher decoding accuracy in the Unambiguous condition as compared to the Ambiguous condition is likely due to the differences in sensory input that coincides with different perceptual contents, as well as consistent timing across all trials (all image presentations last 5 seconds, as opposed to variable percept durations in the Ambiguous condition). Lastly, as in the Ambiguous condition, the SCP decoder of perceptual content generalized well across time in the Unambiguous condition (Figure 2D, right column), suggesting that the underlying neural code is stable over time after the very initial image onset-related activity."
+
+Stable information over time implies the SCP is a soliton wave. YESSSS!!!!!!
+
 "Together, these results show that perceptual content information is decodable from SCP activity, but not from the amplitude of alpha or beta oscillations, regardless of whether sensory input is ambiguous or not."
+
 because information theory the rare signals have high information (SCP) and the common signals (tonic alpha & beta) have low information
+
 It's a song of fire & ice.
+
 "Together, these results show a frequency-band separation of information related to perceptual content and perceptual stability, with the former encoded in raw fluctuations of low-frequency SCP activity, and the latter primarily influenced by the amplitude fluctuations of alpha and beta oscillations."
-I will have to add to the note on the Phasic Tonic Relationship the SCP (Inhibited) Tonic Relationship, because its the inverse relationship.
+
+I will have to add to the note on the Phasic Tonic Relationship the 'SCP (Inhibited) Tonic Relationship', because its the inverse relationship.
+
 # Medical Imaging Tech tool
 "Compared to other multivariate analysis methods, the neural state-space method has specific advantages and is well-suited to addressing the questions investigated herein. First, compared to multivariate decoding, the state- space method extracts multivariate neural activity patterns relevant to multiple behavioral metrics simultaneously, as opposed to investigating neural correlate of one behavioral metric at a time. Second, compared to automatic dimensionality reduction, such as PCA and similar techniques (Churchland et al., 2012; Cunningham and Yu, 2014; Baria et al., 2017), the state-space approach directly identifies the neural activity pattern (i.e. neural sub-space) relevant to a particular behavioral metric, as opposed to being behavior-agnostic."
 "While perceptual content is encoded in the activity pattern of low-frequency neural activity in the SCP band, perceptual stability and perceptual memory are influenced by the fluctuations of alpha and beta oscillation amplitudes."
-"Neural state-space analysis
-To work out the relative contributions of different behaviors to neural activity patterns, we developed a novel multivariate analysis method to extract the neural sub-space relevant to each behavior, following the approach used in (Mante et al., 2013). While perceptual content is clearly an important aspect of behavior, there are other aspects of behavior which account for the perceptual switching dynamics (Ambiguous condition) and perceptual memory (Discontinuous condition). For the Ambiguous condition we defined 4 behavioral metrics for each time point that occurred between button presses for the two percepts (i.e. not for time points preceded or followed by an unsure button press). The 4 behavioral metrics were:
+"Neural state-space analysis: To work out the relative contributions of different behaviors to neural activity patterns, we developed a novel multivariate analysis method to extract the neural sub-space relevant to each behavior, following the approach used in (Mante et al., 2013). While perceptual content is clearly an important aspect of behavior, there are other aspects of behavior which account for the perceptual switching dynamics (Ambiguous condition) and perceptual memory (Discontinuous condition). For the Ambiguous condition we defined 4 behavioral metrics for each time point that occurred between button presses for the two percepts (i.e. not for time points preceded or followed by an unsure button press). The 4 behavioral metrics were:
 • Type, a binary variable indicating the current percept.
 • Duration, a continuous variable which takes the same value throughout a percept and is
 normalized within subject (i.e., 0 for the shortest percept reported, and 1 for the longest percept).
@@ -29,12 +37,10 @@ in the first half of its duration) or destabilizing (i.e., in the second half of
 "Significant temporal clusters of image/percept decoding exist in the SCP range throughout image presentation, but not for alpha/beta amplitude. (Right) Temporal generalization matrices showing significant generalization across a large proportion of the image presentation duration."
 https://www.biorxiv.org/content/10.1101/2022.03.18.484861v1
 
-Tomorrow begins NAPOT Theory Revision 3. I think it will knock your socks off. "The modern theory of antimatter began in 1928 in a paper by Paul Dirac. The Schrödinger wave equation for electrons predicted the possibility of antielectrons. Discovered in 1932 & named positrons."
-
 "Spatiotemporal properties of glutamate input support direction selectivity in the dendrites of retinal starburst amacrine cells"
 "Using a connectomics-inspired computational model, we demonstrate that input kinetics play an important role in shaping direction selectivity at low stimulus velocities. Together, these results provide direct support for the ‘space-time wiring’ model for direction selectivity." https://www.biorxiv.org/content/10.1101/2022.07.12.499686v1
 
-functional fractal pattern of heterogeneity at the person level and at the neuron level, but perhaps this is means each neuron has an identity or an address that represents a specific memory through its learned connections and a specific pattern to its exit terminal network when its action potentials (of different scales) fire (transmitting phase waves differentials with neurotransmitters).
+Functional fractal pattern of heterogeneity at the person level and at the neuron level, but perhaps this is means each neuron has an identity or an address that represents a specific memory through its learned connections and a specific pattern to its exit terminal network when its action potentials (of different scales) fire (transmitting phase waves differentials with neurotransmitters).
 "Neural diversity quenches the dynamic volatility of balanced neural networks"
 "Heterogeneity is the norm in biology. The brain is no different: neuronal cell-types are myriad, reflected through their cellular morphology, type, excitability, connectivity motifs and ion channel distributions"
 https://www.biorxiv.org/content/10.1101/2022.08.25.505270v1
@@ -44,7 +50,7 @@ The following is an example of a recurrant neural network model that rediscovers
 "Our results suggest that the temporal linking of memory engrams arises from co-activation of different neural ensembles, mediated by the interaction of time-varying excitability and synaptic plasticity. Our model makes testable predictions about how the balance among inhibition, feed-forward inputs and excitability is crucial for determining the extent of overlap among engrams of temporally close events."
 https://www.biorxiv.org/content/10.1101/2022.08.27.505441v1.full.pdf
 
-good paper on oscillatory dynamics
+Good paper on oscillatory dynamics
 "Boosting of neural circuit chaos at the onset of collective oscillations
 Agostina Palmigiano, Rainer Engelken, Fred Wolf"
 doi: https://doi.org/10.1101/2022.08.28.505598
