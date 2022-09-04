@@ -87,9 +87,36 @@ A sourcing input or output provides the voltage source for the electric load." S
 
 "The spatial K+ buffering current in astrocytes [14] is a well-known example of such a slow current loop. In addition to M1 and M2, diffusion of ions along extracellular concentration gradients can (M3) give rise to a so-called diffusion current. The diffusion current is a direct function of the concentration differences and the diffusion constants of the involved ions, and will contribute to completing the current loops between the membrane sources and sinks (see, e.g., [15]). The three components (M1-M3) are therefore not independent (see Fig 1, figure caption)."
 
+"Computational modeling in neuroscience has largely focused on simulating the fast electrical activity of neurons and networks of such, while ignoring other components of brain tissue, such as glia cells and the extracellular space."
+
+"Within that paradigm, multicompartment neuron models are typically based on a combination of a Hodgkin-Huxley type formalism for membrane mechanisms (see, e.g., [16, 17]), and cable theory for how signals propagate in dendrites and axons (see, e.g., [18, 19])."
+
+"Two underlying assumptions in these standard models are that the neurodynamics is unaffected by changes in (i) extracellular potentials and (ii) extracellular ion concentrations. Models of this kind thus do not account for so-called ephaptic effects, where neurons may affect their neighbors non-synaptically through inducing changes in the extracellular environment"
+
 # Medical Imaging tech tools
 "The edNEG model (electrodiffusive neuron-extracellular-glia) (i) keeps track of all intraneuronal, intraglial, and extracellular ion concentrations and electrical potentials, (ii) accounts for action potentials and dendritic calcium spikes in neurons, (iii) contains a neuronal and glial homeostatic machinery that gives physiologically realistic ion concentration dynamics, (iv) accounts for electrodiffusive transmembrane, intracellular, and extracellular ionic movements, and (v) accounts for glial and neuronal swelling caused by osmotic transmembrane pressure gradients."
 
 * "endocannabinoid system (ECS) is a lipid signalling system, comprising of the endogenous cannabis-like ligands (endocannabinoids) 2009 Z Mouslech"
 
 "Using the edNEG model, we analyze these effects by splitting the extracellular potential into three components: one due to neural sink/source configurations, one due to glial sink/source configurations, and one due to extracellular diffusive currents. Through a series of simulations, we analyze the roles played by the various components and how they interact in generating the total slow potential. We conclude that the three components are of comparable magnitude and that the stimulus conditions determine which of the components that dominate."
+
+# "ELECTROPHYSIOLOGY OF A DENDRITIC NEURON MODEL"
+NIH https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1366481/
+PDF https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1366481/pdf/biophysj00657-0144.pdf
+
+"Wavelength is usually denoted by the Greek letter lambda (λ); it is equal to the speed (v) of a wave train in a medium divided by its frequency (f): λ = v/f." Source https://www.britannica.com/science/wavelength
+
+"Relationship Between Wavelength and Frequency
+A simple equation relates wavelength to frequency:
+
+v = λf
+
+v = wave velocity (how fast the wave propagates in a medium)
+λ = wavelength (distance over which a wave shape repeats)
+f = wave frequency (number of waves per unit of time)"
+
+"Wavelength and frequency are inversely proportional. As wavelength increases, frequency decreases. As frequency increases, wavelength decreases."
+
+"What is magnitude formula? the formula to determine the magnitude of a vector (in two dimensional space) v = (x, y) is: |v| =√(x2 + y2). This formula is derived from the Pythagorean theorem. the formula to determine the magnitude of a vector (in three dimensional space) V = (x, y, z) is: |V| = √(x2 + y2 + z2)" source wikipedia
+
+My conjecture is that it's actually Magnitude that has an inverse relationship with Frequency. So if Amplitude & Frequency both increase the wave length is shorter than if Amplitude decreased while Frequency increased.
