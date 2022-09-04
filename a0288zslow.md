@@ -1,0 +1,95 @@
+a0288z
+
+# SCP Slow Cortical Potential
+
+
+
+"The Slow Cortical Potential (SCP) is a potential shift of the electrical activity in the brain lasting
+from several hundred milliseconds to several seconds. The user can learn to voluntary influence the
+cortical positivity/negativity.  
+The SCP can be generated even if the motor periphery is completely disconnected from the central
+nervous system. It can be used as a binary signal, using a certain amplitude threshold as selection
+criterion [24], but can be artificially extended to offer more choices like in figure 2.15." from "Pioneering research into  
+Brain Computer Interfaces
+Mark Wessel" http://www.kbs.twi.tudelft.nl/docs/MSc/2006/Wessel_Mark/thesis.pdf
+
+"Specialized mother wavelet functions of Continuous wavelet transform (CWT) for using on
+sliding window. Morlet Wavelet gives good frequency resolution when analyzing gamma
+activity. Bi-scale wavelet for 1-4 Hz asynchronous BCIs during imaginary movement.
+Daubechies wavelet for Slow Cortical Potentials (SCPs) f < 1 Hz Nicolas-Alonso (2012)."
+
+# "Brain Computer Interfaces, a Review by Luis Fernando Nicolas-Alonso * andJaime Gomez-Gil" https://www.mdpi.com/1424-8220/12/2/1211/htm https://doi.org/10.3390/s120201211
+
+"3.2. Slow Cortical Potentials (SCPs)
+SCPs are slow voltage shifts in the EEG that last a second to several seconds. SCPs belong to the part of the EEG signals below 1 Hz [116]. SCPs are associated with changes in the level of cortical activity."
+
+"Negative SCPs correlate with increased neuronal activity, whereas positive SCPs coincide with decreased activity in individual cells [116]."
+
+These brain signals can be self-regulated by both healthy users and paralyzed patients to control external devices by means of a BCI. SCP shifts can be used to move a cursor and select the targets presented on a computer screen [117].
+
+People can be trained to generate voluntary SCP changes using a thought-translation device [117]. The thought-translation device is a tool used for self-regulation SCP training, which shows visual-auditory marks so that the user can learn to shift the SCP. The thought-translation device typically comprises a cursor on a screen in such a way that the vertical position of the cursor constantly reflects the amplitude of SCP shifts. Although most thought-translation devices show continuous feedback, it is possible to train SCP self-modulation in the absence of continuous feedback [118].
+
+Success in SCP self-regulation training depends on numerous factors, such as the patient’s psychological and physical state, motivation, social context, or the trainer-patient relationship [117]. It is known that the learning capability of the user drastically affects SCP modulation training. Self-regulation training is therefore strongly recommended for patients at the early stage of a progressive disease [117]. Furthermore, initial SCP modulation skills have an effect on future performance following training [119]. Therefore, the value of SCPs as a suitable control signal for each patient can only be determined on the basis of initial trials. Other factors, such as sleep quality, pain, and mood also have an influence on self-regulation performance [117]. Their effects are not identical for all patients and further investigation is certainly needed to establish general rules on this matter.
+
+Self-regulation of SCPs has been tested extensively with patients suffering from ALS [120–122]. Typical accuracy rates achieved for SCP classification are acceptable and vary between 70 and 80 per cent, but the rates of information provided by SCP-based BCI are relatively low. Besides, longer training is required to use SCP-based BCI and it is likely that users will need continuous practice for several months."
+
+
+# "Neurons of the cerebral cortex exhibit precise interspike timing in correspondence to behavior" (2005) https://pubmed.ncbi.nlm.nih.gov/16339894/
+
+"In the cerebral cortex, where each nerve cell is affected by thousands of others, it is the common belief that the exact time of a spike is random up to an averaged firing rate over tens of milliseconds."
+
+"We show that times of spikes can be very precise."
+
+"In a brain slice, precise time relations of several neurons have been observed."
+
+"Here we show () time intervals between spikes, measured in correspondence to a specific behavior, may be controlled to within the milliseconds range."
+
+"most nerve cells in the brain communicate with each other by standard pulses called action potentials (or spikes)"
+
+"However, if time relations among different neurons could be precisely controlled and read out, complex representations could be built from simpler ones efficiently and very fast"
+
+"In a brain slice, precise time relations among several neurons have been observed"
+
+"Could this phenomenon be also observed in brains of behaving animals?"
+
+"We show, ()when time intervals between spikes of different neurons are measured in correspondence to a specific behavior, timing may be controlled to the milliseconds range with the best case reaching 0.5 ms."
+
+"However, there are cellular mechanisms and experimental artifacts that may generate precise spike timing. These include the following: (i) neurons can recover rapidly from the refractory period; (ii) spike intervals within a burst may repeat with high precision; (iii) periodic activity driven by internal pace-maker processes (not due to network oscillations); (iv) dead time for spike detection when recording is made through the same electrode; (v) sharp on or off responses to an external stimulus with abrupt onset (or offset). "
+
+# "An electrodiffusive neuron-extracellular-glia model for exploring the genesis of slow potentials in the brain" (2021) https://pubmed.ncbi.nlm.nih.gov/34270543/
+
+"A common experimental method for investigating brain activity is to measure the electric potential outside neurons. These recordings usually only capture the high-frequency part of the potential while ignoring frequencies below a set cut-off between 0.1 and 1 Hz. Therefore, standard recordings cannot tell us what the slow frequency potentials might say about on-going brain activity."
+
+"These recordings are traditionally done using a low-frequency filter, with a cut-off frequency normally set somewhere between 0.1 and 1 Hz (see, e.g., [2–4]). Frequency components below this threshold are often referred to as slow potentials, standing potentials, sustained potentials, or DC potentials. We will here use the term slow potentials."
+
+"A multitude of brain processes have been associated with slow potentials, including both physiological phenomena, such as brain-state transitions and readiness potentials, and pathological phenomena, such as spreading depression, stroke, and epilepsy [4]."
+
+# Slow potentials & Potassium K+
+
+"Slow potentials are often correlated with changes in extracellular ion concentrations, and especially with rises in the extracellular K+ concentration"
+
+"Slow-potential shifts are normally reported to follow similar depth profiles as the extracellular K+ concentration"
+
+"Since currents always travel in closed loops, an intracellular current that, for example, goes towards deeper layers through (M1) neural dendrites or (M2) a glial syncytium, requires inward currents entering the cells (sinks) in the superficial layers, and outward return currents (sources) in the deeper layers. "
+
+When greater numbers of potassium K+ channels are opened more extracellular K+ will concentrate, the cell then acts like an electrical sink, creating a slow potential, taking energy out of the circuit, but that energy is distributed to the extracellular space to dissipate randomly in the brain. Perhaps this extracellular current becomes part of the aggregrate electromagnetic brainwave energy in between cells.
+
+This could be how brainwaves are formed, as the result of extra extracellular ion current, when the cell acts as a sink, taking energy out of the neuropath, and randomly distributing it to the extracellular space of the brain.
+
+Okay. For those of you who have been following my incredible work, you may need to sit down for this one. "It means buckle your seat belt, Dorothy..." I think I may have isolated how brainwaves are formed from neural activity, & it involves inverted or negative action potentials.
+
+# extracellular potassium K+ contributes to the electrical sink
+
+"Sink and Source are terms used to define the flow of direct current in an electric circuit."(...) "Such a sink and source configuration requires an extracellular current going towards the superficial layers in order to complete the loop, and thus a gradient in the extracellular potential." (...) "A sinking input or output circuit provides a path to ground for the electric load.
+A sourcing input or output provides the voltage source for the electric load." Source https://blog.orientalmotor.com/what-is-the-difference-between-sink-and-source-logic
+
+# Diffusion Current (Brain Cells)
+
+"The spatial K+ buffering current in astrocytes [14] is a well-known example of such a slow current loop. In addition to M1 and M2, diffusion of ions along extracellular concentration gradients can (M3) give rise to a so-called diffusion current. The diffusion current is a direct function of the concentration differences and the diffusion constants of the involved ions, and will contribute to completing the current loops between the membrane sources and sinks (see, e.g., [15]). The three components (M1-M3) are therefore not independent (see Fig 1, figure caption)."
+
+# Medical Imaging tech tools
+"The edNEG model (electrodiffusive neuron-extracellular-glia) (i) keeps track of all intraneuronal, intraglial, and extracellular ion concentrations and electrical potentials, (ii) accounts for action potentials and dendritic calcium spikes in neurons, (iii) contains a neuronal and glial homeostatic machinery that gives physiologically realistic ion concentration dynamics, (iv) accounts for electrodiffusive transmembrane, intracellular, and extracellular ionic movements, and (v) accounts for glial and neuronal swelling caused by osmotic transmembrane pressure gradients."
+
+* "endocannabinoid system (ECS) is a lipid signalling system, comprising of the endogenous cannabis-like ligands (endocannabinoids) 2009 Z Mouslech"
+
+"Using the edNEG model, we analyze these effects by splitting the extracellular potential into three components: one due to neural sink/source configurations, one due to glial sink/source configurations, and one due to extracellular diffusive currents. Through a series of simulations, we analyze the roles played by the various components and how they interact in generating the total slow potential. We conclude that the three components are of comparable magnitude and that the stimulus conditions determine which of the components that dominate."

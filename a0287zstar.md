@@ -127,7 +127,7 @@ r1 AFAIK all of these have been downloaded to the chromebook
 Synaptotagmin-7 Enhances Facilitation of Cav2.1 Calcium Channels
 get https://www.eneuro.org/content/9/3/ENEURO.0081-22.2022
 
-Read 5 times
+# Read 5 times
 "Signaling of layer 1 and whisker-evoked Ca2+ and Na+ action potentials in distal and terminal dendrites of rat neocortical pyramidal neurons in vitro and in vivo"
 https://pubmed.ncbi.nlm.nih.gov/12177197/
 
@@ -135,23 +135,8 @@ More confirmation this morning that my NAPOT theory is correct! New connections 
 In the large pyramidal cell the Apical Dendrite is the Exit Terminal https://en.m.wikipedia.org/wiki/Apical_dendrite
 
 # Review
-
 Synaptic Connections between Layer 5B Pyramidal Neurons in Mouse Somatosensory Cortex Are Independent of Apical Dendrite Bundling
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6673216/
-
-#Re-Read this paper 6 times
-Neuroelectric Tuning of Cortical Oscillations by Apical Dendrites in Loop Circuits
-"Many layer 5 and 6 pyramidal neurons are connected to thalamic neurons in loop circuits"
-"Synchronous pulse outputs from the circuit loops containing apical dendrites can tune subthreshold membrane oscillations of neurons they contact. When the pulse outputs are finely tuned, they function as a local “clock,” which enables the contacted neurons to synchronously communicate with each other. Thus, a shared tuning frequency can select neurons for membership in a circuit. Unlike layer 6 apical dendrites, layer 5 apical dendrites can produce burst firing in many of their neurons, which increases the amplitude of signals in the neurons they contact. This difference in amplitude of signals serves as basis of selecting a sub-circuit for specialized processing (e.g., sustained attention) within the typically larger layer 6-based circuit. After examining the sustaining of oscillations in loop circuits and the processing of spikes in network circuits, we propose that cortical functioning can be globally viewed as two systems: a loop system and a network system. The loop system oscillations influence the network system’s timing and amplitude of pulse signals, both of which can select circuits that are momentarily dominant in cortical activity"
-"Here, we propose that a major function of the long apical dendrite in pyramidal neurons is the production of a stable oscillation at a specific frequency. When apical dendrites in corticothalamic loops oscillate, their oscillations are copied to networks of pyramidal neurons, and all network pyramidal neurons that are contacted will oscillate at a common carrier frequency into which messages of temporally coded spikes may be inserted."
-https://www.frontiersin.org/articles/10.3389/fnsys.2017.00037/full
-
-Properties of Layer 6 Pyramidal Neuron Apical Dendrites
-" All pyramidal neurons so far investigated have displayed active propagation of action potentials (APs), from the soma along the apical dendrite supported by voltage-gated dendritic Na+ channels (Spruston et al., 1995; Stuart et al., 1997; Waters et al., 2003), modulated by dendritic K+ channels (Bekkers, 2000; Johnston et al., 2000; Korngreen and Sakmann, 2000; Schaefer et al., 2007), and accompanied by influx of Ca2+ ions (Markram et al., 1995; Larkum et al., 1999a; Barth et al., 2008). Another prominent feature of pyramidal neurons is the ability of the apical dendrite to generate local spikes with voltage-gated Na+ and Ca2+ channels (Kim and Connors, 1993; Schiller et al., 1997; Golding et al., 2002; Gasparini et al., 2004) as well as NMDA receptor channels (Schiller et al., 2000; Larkum et al., 2009)."
-https://www.jneurosci.org/content/30/39/13031
-
-"Postmortem studies of synapses in human brain are problematic due to the axial resolution limit of light microscopy and the difficulty preserving and analyzing ultrastructure with electron microscopy. Array tomography overcomes these problems by embedding autopsy tissue in resin and cutting ribbons of ultrathin serial sections. Ribbons are imaged with immunofluorescence, allowing high-throughput imaging of tens of thousands of synapses to assess synapse density and protein composition. The protocol takes approximately 3 days per case, excluding image analysis, which is done at the end of the study. Parallel processing for transmission electron microscopy (TEM) using a protocol modified to preserve structure in human samples allows complimentary ultrastructural studies. Incorporation of array tomography and TEM into brain banking is a potent way of phenotyping synapses in well-characterized clinical cohorts to develop clinico-pathological correlations at the synapse level. This will be important for research in neurodegenerative disease, developmental diseases, and psychiatric illness."
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712649/
 
 Projection Neuron Circuits Resolved Using Correlative Array Tomography
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3080615/
