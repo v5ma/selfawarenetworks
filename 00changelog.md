@@ -13,24 +13,27 @@ a0001z with updated with some more support for NAPOT Revision 2
 
 00linkreviewlist (It's like the todolist but specifically for external links to research papers including links to pdf's that I want to review)
 
+b0071y turned into a project
+
+b0309y.md transcription prioritized
+
 00todolist.sections section names concept created, this will simplify the change log, make it easier to pick up where I left off, and create a high fidelity organization of the content.
+
+Changes made to sections
+
 a0018z.twostreams
+
 a0213z.clusters
+
 a0053.metatron
+
 a0288z.began
+
 a0004z.reconstruct
 
-modified:   a0001z.md
-	modified:   a0004z.md
-	modified:   a0007z.md
-	modified:   a0018z.md
-	modified:   
-	modified:   a0287zstar.md
-	modified:   a0288zslow.md
-	renamed:    a0294zempty.md -> a0294z.md
-	new file:   a0296zWhisker.md
-	deleted:    a0296zempty.md
-	renamed:    b0309y.md 
+a0001z.Milstein
+
+a0288.genesis
 
 # Update September 2nd 2022
 Most of today updates focused on adding to Note a0007z. Many of my criticisms about what Neurogrid is failing to model (you can read in note a0008z linked below) can now be referenced in Note a0007z linked below.
