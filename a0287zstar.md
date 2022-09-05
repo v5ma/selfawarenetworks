@@ -1,9 +1,11 @@
 a0287z
 
+# NAPOT Revision 3 The Anti-Spike: A negative soliton wave
+
 # "Frequency-specific neural signatures of perceptual content and perceptual stability" doi: https://doi.org/10.1101/2022.03.18.484861
 "Combining multivariate decoding and neural state-space analyses, we found frequency band-specific neural signatures that underlie the content of perception and promote perceptual stability, respectively. Across different types of images, non-oscillatory neural activity in the slow cortical potential (SCP, <5 Hz) range supported the content of perception. By contrast, perceptual stability is influenced by the amplitude of alpha and beta oscillations"
 
-Actually a twist on the way I think about NAPOT but consistent with my prediction of inhibition being a code underneath the tonic oscillation. Inhibition therefore is like an anti-particle or anti-matter, or anti-spike, meaning your brain notices it. because it expects the tonic oscillatory synchrony, and this paper backs the idea I think of inhibition defining patterns in the brain. They document stable high magnitude tonic oscillations at 20hz and below (and above 5hz), but in this paper, instead of a high phasic spike causing a neural signature, its the lower sub <5 Hz non-oscillatory (inhibitions or inverse spike or silent plateau firing) search notes for silent plateau & link here. Which means that in the 6th layer of cortex & thalamus, a delta frequency resulting from inhibition or silent plateau is like an inverted spike to the theta frequency. Awesome!
+Actually a twist on the way I think about NAPOT but consistent with my prediction of inhibition being a code underneath the tonic oscillation. Inhibition therefore is like an anti-particle or anti-matter, or anti-spike, meaning your brain notices it. because it expects the tonic oscillatory synchrony, and this paper backs the idea I think of inhibition defining patterns in the brain. They document stable high magnitude tonic oscillations at 20hz and below (and above 5hz), but in this paper, instead of a high phasic spike causing a neural signature, its the lower sub <5 Hz non-oscillatory (inhibitions or negative spike or silent plateau firing) search notes for silent plateau & link here. Which means that in the 6th layer of cortex & thalamus, a delta frequency resulting from inhibition or silent plateau is like an inverted spike to the theta frequency. Awesome!
 
 This is the beginning of NAPOT Theory Revision 3.
 "The modern theory of antimatter began in 1928 in a paper by Paul Dirac. The Schrödinger wave equation for electrons predicted the possibility of antielectrons. Discovered in 1932 & named positrons."
@@ -115,21 +117,14 @@ This confirms high level sparse distributed memory or sparse distributed represe
 
 https://www.biorxiv.org/content/10.1101/2022.08.31.504599v1
 
-Links
-github.com/n5ro
-github.com/micah1
-github.com/v5ma/selfawarenetworks
-Featured articles, bio, and ways to connect: http://vrma.io
-Main articles http://svgn.io
+
 
 r1 AFAIK all of these have been downloaded to the chromebook
 
 Synaptotagmin-7 Enhances Facilitation of Cav2.1 Calcium Channels
 get https://www.eneuro.org/content/9/3/ENEURO.0081-22.2022
 
-# Read 5 times
-"Signaling of layer 1 and whisker-evoked Ca2+ and Na+ action potentials in distal and terminal dendrites of rat neocortical pyramidal neurons in vitro and in vivo"
-https://pubmed.ncbi.nlm.nih.gov/12177197/
+
 
 More confirmation this morning that my NAPOT theory is correct! New connections to existing research found! In a nut shell I hadn't focused enough on calcium channels or pyramidal cells. 
 In the large pyramidal cell the Apical Dendrite is the Exit Terminal https://en.m.wikipedia.org/wiki/Apical_dendrite
