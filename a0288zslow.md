@@ -2,8 +2,6 @@ a0288z
 
 # SCP Slow Cortical Potential
 
-
-
 "The Slow Cortical Potential (SCP) is a potential shift of the electrical activity in the brain lasting
 from several hundred milliseconds to several seconds. The user can learn to voluntary influence the
 cortical positivity/negativity.  
@@ -56,6 +54,7 @@ Self-regulation of SCPs has been tested extensively with patients suffering from
 
 "However, there are cellular mechanisms and experimental artifacts that may generate precise spike timing. These include the following: (i) neurons can recover rapidly from the refractory period; (ii) spike intervals within a burst may repeat with high precision; (iii) periodic activity driven by internal pace-maker processes (not due to network oscillations); (iv) dead time for spike detection when recording is made through the same electrode; (v) sharp on or off responses to an external stimulus with abrupt onset (or offset). "
 
+# a0288.genesis
 # "An electrodiffusive neuron-extracellular-glia model for exploring the genesis of slow potentials in the brain" (2021) https://pubmed.ncbi.nlm.nih.gov/34270543/
 
 "A common experimental method for investigating brain activity is to measure the electric potential outside neurons. These recordings usually only capture the high-frequency part of the potential while ignoring frequencies below a set cut-off between 0.1 and 1 Hz. Therefore, standard recordings cannot tell us what the slow frequency potentials might say about on-going brain activity."
@@ -101,6 +100,8 @@ A sourcing input or output provides the voltage source for the electric load." S
 "Using the edNEG model, we analyze these effects by splitting the extracellular potential into three components: one due to neural sink/source configurations, one due to glial sink/source configurations, and one due to extracellular diffusive currents. Through a series of simulations, we analyze the roles played by the various components and how they interact in generating the total slow potential. We conclude that the three components are of comparable magnitude and that the stimulus conditions determine which of the components that dominate."
 
 Electric ephaptic effects have been the topic of many studies (see, e.g., [21–28]), as has the effect of changing ion concentrations on neurodynamics (see, e.g., [29–33]). The justification for neglecting such effects in standard simulations is that they often (and by assumption) are quite small, at least on the relatively short time-scale considered in most neural simulations.
+
+a0288.genesis
 
 # Volume Conduction Theory
 # Introduction to Volume Conduction http://eknygos.lsmuni.lt/springer/586/43-53.pdf
@@ -189,6 +190,8 @@ inhibition leads to the theoretical prediction of a functional distinction betwe
 somatic and dendritic synapses: dendritic synaptic activity would be expected to
 dominate slow adjustments of the background excitation level, while somatic
 synapses would be best suited for triggering of impulses. "
+
+# a0288z.began
 
 I began this book after writing the Synaptic Unreliability article on SVGN.io News. This led to NAPOT, Neural Array Oscillating Tomography that defines with the idea Arrays of Neurons are emitting phase wave changes to Neural Arrays defined by their exit terminals, with 0, 1, 2, or 3 Vesicle sacks and that this represents the essence of computational rendering & pattern detection between arrays of neurons, that when oscillated in feedback loops allows the mind to become conscious of it's own internal models.
 

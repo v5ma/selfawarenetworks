@@ -1,3 +1,20 @@
+# Update September 3rd & 4th 2022
+a0296z created to explore research on Whiskers (there is a lot of it.) part of NAPOT Revision 3
+
+a0287z created NAPOT Revision 3 The Anti-Spike: A negative soliton wave
+
+a0288z created to explore research on slow cortical potentials or what I call anti-spikes. Part of NAPOT Revision 3
+
+a0069z updated with some new medtech finds
+
+a0001z with updated with some more support for NAPOT Revision 2
+
+00todolist created (its like the abstract bump, but while the abstract bump is meant to be cleared regularly, the todo list is for lists of things I can't finish today, that I want to remember to do next time.)
+
+00linkreviewlist
+
+It's like the todolist but specifically for external links to research papers including links to pdf's that I want to review
+
 # Update September 2nd 2022
 Most of today updates focused on adding to Note a0007z. Many of my criticisms about what Neurogrid is failing to model (you can read in note a0008z linked below) can now be referenced in Note a0007z linked below.
 
