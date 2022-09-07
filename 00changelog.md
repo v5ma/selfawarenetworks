@@ -1,3 +1,18 @@
+# Update September 7th
+I'm updating a0007z today.
+
+# Update September 6th. 
+
+To my surprise the direction of my research basically leads towards combining NAPOT Revision 2 & 3 together into NAPOT Revision 4. I have a lot of new papers to review however before I connect it all together and write NAPOT Revision 4.
+
+New note: a0138z Calcium Dynamics, this might link to a0280z, 
+
+A new entry added to a0296z (Whisker) that is relevant to note a0007z (Layer 5 & 6 Pyramidal Cells)
+a0296z.corticalwingspan
+a0011z.multimodal
+
+https://github.com/v5ma/selfawarenetworks/blob/main/a0138z.md
+
 # Update September 3rd & 4th 2022
 a0296z created to explore research on Whiskers (there is a lot of it.) part of NAPOT Revision 3
 
