@@ -1,6 +1,7 @@
 # Update September 7th & 8th 2022
 I'm updating a0007z today.
 You can read about NAPOT 4 in the newly expanded note a0007z which ties together work from a0138z
+https://github.com/v5ma/selfawarenetworks/blob/main/a0007z.md
 
 # Update September 6th. 
 
