@@ -6,7 +6,8 @@ a0138z
 "Dendritic spines act as biochemical computational units and must adapt their responses according to their activation history. Calcium influx acts as the first signaling step during postsynaptic activation and is a determinant of synaptic weight change. Dendritic spines also come in a variety of sizes and shapes. To probe the relationship between calcium dynamics and spine morphology, we used a stochastic reaction-diffusion model of calcium dynamics in idealized and realistic geometries. We show that despite the stochastic nature of the various calcium channels, receptors, and pumps, spine size and shape can modulate calcium dynamics and subsequently synaptic weight updates in a deterministic manner. Through a series of exhaustive simulations and analyses, we found that the calcium dynamics and synaptic weight change depend on the volume-to-surface area of the spine. The relationships between calcium dynamics and spine morphology identified in idealized geometries also hold in realistic geometries, suggesting that there are geometrically determined deterministic relationships that may modulate synaptic weight change." (The article will be in the creative commons in January 2023)
 https://doi.org/10.1085/jgp.202112980
 
-# "Plasticity and Learning Algorthms in Models of the Single Neuron" August 25th, 2022 at Numenta.
+# a0138z.clusteron
+# "Plasticity and Learning Algorthms in Models of the Single Neuron" August 25th, 2022 at Numenta Video Clusteron
 You should probably watch this at least twice. It's an hour long but I spent most a day watching & rewatching it, looking up papers from it. Really good work. Link to Watch https://www.youtube.com/watch?v=KLmk3xnojKU This section of my notes is what I wrote down during & after the video today.
 
 "The gradient clusteron: A model neuron that learns to solve classification tasks via dendritic nonlinearities, structural plasticity, and gradient descent
@@ -136,7 +137,7 @@ In order to stabilize LTP and make it last longer periods of time, new proteins 
 
 1 "The depolarization and resulting activation of AMPA and NMDA receptors in the postsynaptic cell causes endocytosis of these receptors."
 
-# Receptor Endocytosi
+# Receptor Endocytosis
 # "NMDA Receptor-Dependent Long-Term Potentiation and Long-Term Depression (LTP/LTD)"
 "Weak activity of the presynaptic neuron leads to modest depolarization and calcium influx through NMDA receptors. This preferentially activates phosphatases that dephosphorylate AMPA receptors, thus promoting receptor endocytosis."
 "In fact, AMPARs can be quite mobile and recycle between the cytoplasm and the cell membrane even under baseline conditions within tens of minutes. This can be shown, for example, by interfering with endocytosis, which leads to a run-up of synaptic responses. It is presumably this mobile pool of AMPARs that allows for rapid but sustained changes in synaptic efficacy. The insertion and removal of AMPARs during LTP and LTD, respectively, is believed to involve classical mechanisms of SNARE protein–mediated exocytosis and dynamin-dependent endocytosis via clathrin-coated vesicles (Lüscher et al. 1999; Carroll et al. 2001; Kennedy and Ehlers 2011). Current evidence favors the idea that the endocytosis and exocytosis of AMPARs during LTD and LTP happens not directly at the synapse but at slightly perisynaptic locations, from where the receptors reach the postsynaptic density by lateral diffusion."
