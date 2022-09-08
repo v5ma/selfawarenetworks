@@ -146,4 +146,3 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3367554/
 2 "These new proteins help stabilize the structural changes induced by homosynaptic plasticity."
 
 3 "Contrarily, LTP can be blocked in these dendrites by protein synthesis blockers, such as Endomyacin, which further indicates a site for local protein synthesis. This evidence shows local protein synthesis is necessary for L-LTP to be stabilized and maintained.[1]"
-
