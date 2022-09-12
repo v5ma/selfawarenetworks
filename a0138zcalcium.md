@@ -6,6 +6,8 @@ a0138z
 "Dendritic spines act as biochemical computational units and must adapt their responses according to their activation history. Calcium influx acts as the first signaling step during postsynaptic activation and is a determinant of synaptic weight change. Dendritic spines also come in a variety of sizes and shapes. To probe the relationship between calcium dynamics and spine morphology, we used a stochastic reaction-diffusion model of calcium dynamics in idealized and realistic geometries. We show that despite the stochastic nature of the various calcium channels, receptors, and pumps, spine size and shape can modulate calcium dynamics and subsequently synaptic weight updates in a deterministic manner. Through a series of exhaustive simulations and analyses, we found that the calcium dynamics and synaptic weight change depend on the volume-to-surface area of the spine. The relationships between calcium dynamics and spine morphology identified in idealized geometries also hold in realistic geometries, suggesting that there are geometrically determined deterministic relationships that may modulate synaptic weight change." (The article will be in the creative commons in January 2023)
 https://doi.org/10.1085/jgp.202112980
 
+
+
 # a0138z.clusteron
 # "Plasticity and Learning Algorthms in Models of the Single Neuron" August 25th, 2022 at Numenta Video Clusteron
 You should probably watch this at least twice. It's an hour long but I spent most a day watching & rewatching it, looking up papers from it. Really good work. Link to Watch https://www.youtube.com/watch?v=KLmk3xnojKU This section of my notes is what I wrote down during & after the video today.

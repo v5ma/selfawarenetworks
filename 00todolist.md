@@ -13,7 +13,11 @@ I can keep the section name and move it to a different note, because the section
 
 b0071y "(I think I can describe the sensory input path better than this)" This is a bigger project, a major focus for my book, to map the sensory paths from each sensory input, right now I have a partial model, I want to get a lot more detail in my mental map of the flow of information in the brain.
 
-b0309y Prioritize Transcription (this is related to NAPOT Revision 3 on brainwaves)
+# Priority Transcriptions
+b0309y,  (related to NAPOT Revision 3 on brainwaves)
+b0146ygran
+b0268yGran
+b0302ygran
 
 I want to get an improved transcription of each neural lace podcast, see if the audio from the one with Shashkes can be improved by a sound lab.
 

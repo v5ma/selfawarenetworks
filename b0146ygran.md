@@ -1,4 +1,6 @@
-b0146y ctpr
+b0146y
+
+October 10th, 2021
 
 (audio needs transcription fixing)
 
@@ -6,79 +8,121 @@ Graziano Neurons Consciousness Animals
 
 00:00
 
-Artificial consciousness. Shit, data and C3PO. So I see neurons is something different. Like there's there's, you know, the neuron is a multimodal, neural network, but it also. But it's also the case that it's it's, you know, when I describe neurons, like, it's not news to anybody that neurons oscillate tonically, it's not news to a neuroscientist but you don't hear that in the hours subscription, when in neurons described the function of an urine is subscribed.
+Artificial consciousness.
+
+Data & C3PO.
+
+I see Neurons differently.
+I see one Neuron is a multimodal sensor in a Neural Network.
+
+It's not news to anybody that neurons oscillate tonically (over time), it's not news to a neuroscientist but you don't hear that in the average description when the function of a neuron is described. 
 
 00:35
 
-They say the neuron is something that, you know, received signals from other neurons. And then, when it reaches certain thresholds, it fires, but they don't talk about the neurons discriminating against with, with different, the neuron basically doing pattern recognition, right? Like like where? It's in order to do pattern recognition.
+The average conversation isn't about individual neurons doing pattern recognition. 
+
+They talk about how when a neuron reaches certain thresholds, it fires, but they don't talk about how neurons discriminating against the wrong patterns and firing only when it receives the right patterns.
+
+The neuron is basically doing pattern recognition right? In order to do pattern recognition.
 
 01:03
 
-That means that you don't just fire. When you feel up with data, you fire when you receive a certain pattern and you don't fire if you don't receive a certain pattern, okay? So I really like, you know, Peter TSE, his book criteria causation or the neuro basis of freebo criteria causation.
+That means that you don't just fire. When you fill up with data, you fire when you receive a certain pattern and you don't fire if you don't receive a certain pattern, okay?
+
+So I really like, you know, Peter Tse, his book The Neural Basis of Freewill: Criterial Causation.
 
 01:25
 
-Hey, they talked about how, you know, a neurons criteria could be set in terms of, you know, thresholds at the synaptic. At the synapse, The end, nm the S&S. And the Emperor synapse can, they can have a threshold where if they receive incoming signals within three milliseconds that you know, for example, or two milliseconds, maybe it's three and a half milliseconds, but there's a specific window that they're looking for if signals arrive outside that window, that's not going to cause that's an epic firing event.
+He talked about how a neuron's criteria could be set in terms of thresholds at the synapse.
+
+The NMDA-R Receptor & the AMPA Receptor. They each can have a threshold where if they receive incoming signals within three milliseconds that you know, for example, or two milliseconds, maybe it's three and a half milliseconds, but there's a specific window that they're looking for, if signals arrive outside that window, that's not going to cause that's a synaptic firing event.
 
 02:21
 
-It's not going to, you know, cause a When they're onto fire. But but we also want to say there's definitely opportunities for neurons to reject signals. Like you could get a lot of a lot of a lot of you know, like the example of the neuron that only fires when it receives horizontal data, it is imagine that this neuron could be sent a whole bunch of vertical data and the form of like having you know neurotransmitter is being sent from other neurons to it but in order to but it because that's the wrong pattern it has to have some way to refuse those that flood of electrical activity so that it doesn't fire when it gets the wrong pattern.
+It's not going to, you know, cause a the neuron to fire. We also want to say there's definitely opportunities for neurons to reject signals. Like you could get a lot you know the example of the neuron that only fires when it receives horizontal data, it is, imagine that this neuron could be sent a whole bunch of vertical data and the form of like having you know neurotransmitters being sent from other neurons to it, but because that's the wrong pattern it has to have some way to refuse that flood of electrical activity so that it doesn't fire when it gets the wrong pattern.
 
 03:38
 
-And you see if there's a lot of like you know it could be that the, you know, sodium channels could be blocked or inhibited or it could be that the that potassium channels could be upregulated or or opened early so that potassium floods out earlier to an inhibit. The the the the potential of the action potential before it hits it it happens.
+Sodium channels could be blocked, down-regulated, or inhibited or it could be that the that potassium channels could be upregulated or or opened early so that potassium floods out earlier to inhibit the potential of the action potential to delay it from happening.
 
 04:20
 
-There's there is, you know, so events on this synaptic level that can be can modify the, you know, operation of what this synapse responds to and therefore what the dens right response to
+Events on the synaptic level can modify the operation of what the synapse responds to (bidirectional synaptic signalling)
+
+
 
 04:45
 
-And then the dendrite itself is, is, you know, the dense right? Includes. Is this print this? Yeah I don't know. All the mechanisms. How a cell might reject or it might self inhibit firing. If it's not getting, it's not getting the pattern that it's looking for. But that is the basically, the high hypothesis, that is basically a hypothesis and it cuts to like basically the granularity of pattern detection.
+And then the dendrite itself can... I don't know all the mechanisms about how a cell might reject incoming signals or how it might self inhibit firing. If it's not getting the pattern that it's looking for. But that is the basically, the hypothesis, that is basically a hypothesis, and it cuts to like basically the granularity of pattern detection.
 
 05:22
 
-Whether there is like a microscopic pattern detection, whether each H&R can be a pattern detector. And I've heard arguments to say, okay well you know whether the whether they're not there is a paper that came out, so there aren't as a, there's a two layer, neural network. And then there was later paper that said Well the dendrite is a five-layer neuron network and I can report temple and spatial patterns across across its membrane.
+Whether there is like a microscopic pattern detection, whether each neuron can be a pattern detector. And I've heard arguments to say, okay well you know whether the whether they're not there is a paper that came out that say the neuron is a two layer, neural network. And then there was later paper that said well the dendrite is a five-layer neuron network, and it can record tempo & spatial patterns across across its membrane.
 
 05:54
 
-They can detect tempo and space patterns, right? So, I mean the spatial patterns are like, you know, things are right, could be, it could be as simple as let's say an electromagnetic pattern. Is you have a lot of different receptors and a lot of different branches of a dense, right?
+They can detect tempo & spatial patterns, right? A spatial pattern could be electromagnetic pattern that consists of concurrent or consecutive neural activity across space, (meaning across neurons, across synapses, across cortical columns, across the brain). (On the receiving side to start with) you have a lot of different receptors and a lot of different branches of a dendrite?
 
 06:16
 
-And it's a spatial pattern because it's like it's like pictures all over the place. There's a literally, a space between these activations of these different branches and of different sodium being pumped into different branches of the dangerous, that's a spatial pattern. And then over time as the amount of sodium increases or decrease or the amount of sugar really like the amount of charge increases or decreases in these branches of the dendrite you are.
+And it's a spatial pattern because it's like pixels (the components of pictures) all over the place.
+
+*Note: I like the analogy of pixels because in a tv pixel the color of the pixel represents a different phase wave pattern of light, in the brain we are talking about phase wave patterns of the electromagnetic spectrum also, just not the light part of the spectrum.*
+
+There's a literally a space between different activations of different dendritic branches, with different receptors, with sodium, potassium, calcium and cloride being pumped into or out of different branches of dendrites across neural arrays, that's a spatial pattern. And then over time as the amount of sodium (potassium, etc) increases or decreases, or in otherwords when the amount of charge increases or decreases in these branches of the dendrite...
 
 07:03
 
-That, that is. Perhaps something that is the physical manifestation of of a temporal pattern, right? Like oh like oh it's like if there's this like warrant sequence, where branch number one fills up. Branch number two, fills up. Random number three fills up and that order. The neuron is going to remember the order of that sequence, but that means it has to be basically of or changes inside a temporal inside, a temporal window.
+That is the physical manifestation of a temporal pattern. If there is this learned sequence, where branch number one fills up, branch number two, fills up, branch number three fills up, in that order. 
+
+The neuron is going to remember the order of that sequence, because that sequence only works within a certain time frame
+
+(such as milliseconds when talking about NMDA & AMPA receptor coincidence detections)
+
+that sequence changes produces enough charge inside a temporal window.
+
+This means that the dendrite over time is detecting sequences of phases changes, or phase differentials, that either match or do not match the criteria that dendrites unique morphology, grown synaptic connections, and active receptor configuration has learned to respond to.
+
+The dendrite is enabling the cell to detect phase changes that arrive in specific sequences within a specific time window that is a topological or spatial distribution 
+
+Note: search for a0138z.clusteron on github.com/v5ma/selfawarenetworks It talks about how when two NMDA spikes are next to each other on the same branch, and they are coincidently activated, the dual activation produces a voltage
 
 08:03
 
-That that is on a topological or spatial with the topological or space of distribution. So, there's a, there's a temple window of phases being received on the topology of the denture right with physical embodiments of charge building up, really injection of 30 miles, and the the exfiltration of potassium ions right there is a literally, like, a short term timekeeping mechanism.
+(To recap) So there is a temple window of phases being received on the topology of the dendrite with literal & physical embodiment of charge building up, (primarily) via injection of sodium ions and the exfiltration of potassium ions right there is a literally, like, a short term timing & duration mechanism.
 
 08:48
 
-That is that is learning the the temple spatial patterns.
+This process is learning tempo-spatial patterns of phases changes.
 
-09:01
+Phase changes are detected with coincident arrival times resulting from a distribution of signals of varying magnitudes & frequences between cells.
 
-Associated with the
+A phase change detection can represents a firing sequence change, that contains firing rate changes, or firing neuropath change (the paths of Sharp Wave Ripples, or regular action potentials that inhibit other neurons whose activity will cause other neurons to change the timing of their spiking,  across neural arrays, neural circuits, edge communities, and a broad diversity of cortical column types.
 
-09:09
+# "Confusing Cortical Columns"
+"Although the anatomical and functional columnarity of the neocortex has never been in doubt, the size, cell composition, synaptic organization, expression of signaling molecules, and function of various types of “columns” are dramatically different. Columns could be defined by cell constellation, pattern of connectivity, myelin content, staining property, magnitude of gene expression, or functional properties. For example, there are ocular dominance columns, orientation columns, hypercolumns, and color columns, to mention only those described in the primary visual cortex (12), that differ from each other as well as from the columns of the alternating callosal and ipsilateral projection in the frontal lobe (8) or various minicolumns advocated by Szentgahotai (7), Eccles (9), Buxhoeveden and Casanova (10), and a more recent detailed reconstruction of barrel field columns by Sakmann and colleagues (13)"
+https://www.pnas.org/doi/10.1073/pnas.0807271105
 
-The temple temple spatial patterns of phases. Okay? So if this is, you know, he's between phases are like, you know, two or more. It's like a sequence map of two or more neurons that are firing within a certain millisecond as detected by percent apps and Okay so with the tension this game, he's proposing that there are some mechanisms that are driving attention that are not directly related to the neurons themselves or that they're neurons at a higher level that are driving attention and lower levels or maybe So I was just gonna say that it could be possible for different levels of of neurons.
+# "Mixed functional microarchitectures for orientation selectivity in the mouse primary visual cortex" https://www.nature.com/articles/ncomms13210
 
-10:14
+A phase change is a change in the phase wave signal between two or more neural arrays that are firing and its detection happens between a millisecond time scale (NMDA receptors) and a seconds time scale at the soma. (BTSP Behavior Timescale Synaptic Plasticity)
 
-To each be contributing to driving attention. Because there, essentially selecting to play back patterns, preferred patterns that they've learned. So maybe the the pattern is partially triggered and that causes the network to play back that pattern to to take it to try to complete a pattern and it's sort of like the momentum of that pattern being partially triggered.
+Okay so with Attention Scheme he's proposing that there are some mechanisms that are driving attention that are not directly related to the neurons themselves, or that they're neurons at a higher level that are driving attention at lower levels.
+
+It could be possible for different levels of neurons to each be contributing to driving attention, because essentially neurons are selecting & being selected to be part of a play back of patterns, or a play forward of patterns, and their role in a sense based on preferred patterns they have learned to play back, and what other neurons they learned to play sequences back with.
+
+So maybe the the pattern is partially triggered and that causes the network to play back that pattern to try to complete a pattern and it's sort of like the momentum of that pattern being partially triggered,
 
 10:47
 
-That might cause the neuro circuit to go in search of that pattern. And so by going in search of that pattern, it might drive and coordinate the activity of other neurons in in the pursuit of completing the pattern that it it thinks it detects. And so, you have basically ensembles of neurons, or neurons at different levels, large groups of neurons, but also single neurons at a tipping point that can shift the direction of behavior towards selection of one pattern or another based upon what they think is going to be there.
+# b0146y.thought thought is an oscillating memory prediction rendering
+This oscillating memory prediction rendering is in other words a feedback loop of sequences of phase wave differentials rippling across neural arrays & thru minicolumns.
+
+This might cause the neuro circuit to go in search of that pattern, and so by going in search of that pattern, it might drive and coordinate the activity of other neurons in the pursuit of completing the pattern that it thinks it detects. And so, you have basically ensembles of neurons, or neurons at different levels, large groups of neurons, but also single neurons at a tipping point that can shift the direction of behavior towards the selection of one pattern or another based upon what the sequence thinks is going to be there.
 
 11:38
 
-And and maybe there we could define sort of like what neurons are attracted to. And that it might be that they're just attracting to completing certain patterns and certain patterns that have certain rewards and I guess we could argue. Okay. The those are chemical rewards and some instances. But the chemical rewards are linked to patterns being completed essentially but it's like, then I met them the magnetic and electric motor and chemical momentum completion because of the rhythm and readiness of neurons too.
+And maybe there we could define sort of like what neurons are attracted to. And that it might be that they're just attracting to completing certain patterns and certain patterns that have certain rewards and I guess we could argue. Okay. The those are chemical rewards and some instances. But the chemical rewards are linked to patterns being completed essentially but it's like, then I met them the magnetic and electric motor and chemical momentum completion because of the rhythm and readiness of neurons too.
 
 12:22
 

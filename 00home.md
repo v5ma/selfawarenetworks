@@ -131,11 +131,10 @@ Projects: Child Mind Institute & the vision of future global standardization for
 
 ###: Reading & Writing your thoughts and internal representations. Connecting the human brain to artificial intelligence.
 
-Cycle 1.x Ilya Prigogine: Whole Brain Physics as a dissipative system
+# Ilya Prigogine: Whole Brain Physics as a fractal of dissipative systems
 
-
-
-Thermodynamics * maximum entropy (convergent integration of information configuration (synaptic cohesion) in a harmonic resonance field)
+Thermodynamics, Dissipation, Entropy
+(convergent integration of information configuration (synaptic cohesion) in a harmonic resonance field)
 
 The number of possible states range from a single oscillation, between existence and non-existence, between 0 and 1
 
@@ -143,15 +142,13 @@ Why is the brain a Finite State Machine? The total sum of all possible calculati
 
 Maximum extropy divergent dissipative chaotic resonance
 
-Thermodynamics, Dissipation 
-
-
-
 Cognition as the dissipation of energy via oscillation, neurons doing collective memory sensation via oscillation + learning via changing connections that encode oscillatory patterns.
 
 Equation for cognition, qualia (internal representations) & phenomenal consciousness
+(Whitepaper + Note 4, Note 1, Note 7, Theory of Redness, )
 
 A neuron is transmitting its learned synaptic morphology as a phase change, or its learned network connections to the rest of the network when it fires.
+(NAPOT's 1-4)
 
 The Neuronal Dynamics of Consciousness
 
