@@ -60,7 +60,7 @@ And so what you have normally is like they're all sort of like (oscillating) lik
 
 06:40
 
-There's this attention schema where if one gets hit that inhibits a lot of the others in its own array, focusing the brain on the memory that was hit (In this case by "hit" I am referring to the neuron action potential event), that inhibits a lot of others in his own array, then it's probably sending excitatory signals to another array. (In the audio I said gustatory cortex, I was probably thinking about the olfactory cortex or the Piriform Cortex, but the point is that something in a subsequent array gets excited, while things in the first array are inhibited)
+There's this attention schema where if one neuron gets hit that neuron inhibits a lot of the others in its own array, focusing the brain on the memory that was hit (In this case by "hit" I am referring to the neuron action potential event), that inhibits a lot of others in his own array, then it's probably sending excitatory signals to another array. (In the audio I said gustatory cortex, I was probably thinking about the olfactory cortex or the Piriform Cortex, but the point is that something in a subsequent array gets excited, while things in the first array are inhibited)
 
 07:19
 

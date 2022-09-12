@@ -31,7 +31,6 @@ Success in SCP self-regulation training depends on numerous factors, such as the
 
 Self-regulation of SCPs has been tested extensively with patients suffering from ALS [120–122]. Typical accuracy rates achieved for SCP classification are acceptable and vary between 70 and 80 per cent, but the rates of information provided by SCP-based BCI are relatively low. Besides, longer training is required to use SCP-based BCI and it is likely that users will need continuous practice for several months."
 
-
 # "Neurons of the cerebral cortex exhibit precise interspike timing in correspondence to behavior" (2005) https://pubmed.ncbi.nlm.nih.gov/16339894/
 
 "In the cerebral cortex, where each nerve cell is affected by thousands of others, it is the common belief that the exact time of a spike is random up to an averaged firing rate over tens of milliseconds."
@@ -101,7 +100,7 @@ A sourcing input or output provides the voltage source for the electric load." S
 
 Electric ephaptic effects have been the topic of many studies (see, e.g., [21–28]), as has the effect of changing ion concentrations on neurodynamics (see, e.g., [29–33]). The justification for neglecting such effects in standard simulations is that they often (and by assumption) are quite small, at least on the relatively short time-scale considered in most neural simulations.
 
-a0288.genesis
+# a0288.volume
 
 # Volume Conduction Theory
 # Introduction to Volume Conduction http://eknygos.lsmuni.lt/springer/586/43-53.pdf
@@ -191,7 +190,7 @@ somatic and dendritic synapses: dendritic synaptic activity would be expected to
 dominate slow adjustments of the background excitation level, while somatic
 synapses would be best suited for triggering of impulses. "
 
-# a0288z.began
+# a0288z.refined
 
 I began this book after writing the Synaptic Unreliability article on SVGN.io News. This led to NAPOT, Neural Array Oscillating Tomography that defines with the idea Arrays of Neurons are emitting phase wave changes to Neural Arrays defined by their exit terminals, with 0, 1, 2, or 3 Vesicle sacks and that this represents the essence of computational rendering & pattern detection between arrays of neurons, that when oscillated in feedback loops allows the mind to become conscious of it's own internal models.
 

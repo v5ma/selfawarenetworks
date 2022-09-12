@@ -1,7 +1,5 @@
 New plan: Because you cannot download the wiki on the chromebook ONLY EDIT THE MAPS in the regular self aware networks repo, and then copy them to the wiki when you have wifi.
 
-Each map page is a time-stamped copy of a wikipage. The wiki pages ought to be time stamped but I have not yet discovered where it can be shown.
-
 map.home
 
 # The Self Aware Networks Institute Wiki on github!
@@ -24,19 +22,17 @@ To embed Image into the page paste a full image link into double brackets [ [ ] 
 
 Intro.Title Self Aware Networks IO 
 
-Intro.NAPOT
+Intro.NAPOT Intro to the main thesis of the book: NAPOT Neural Array Projection Oscillation Tomography
 
-Intro.COT
+Intro.COT Intro to the complexity of biological computation in every cell with Cellular Oscillation Tomography
 
-Intro.Neurophysics
+Intro.Neurophysics High level intro to Neurophysics: Brainwaves, Physics, Waves, Solitons, Dipoles, Imaging, 
 
 [Intro.Fractal](https://github.com/v5ma/selfawarenetworks/wiki/Intro.Fractal) 
 
 [Intro.Gravity](https://github.com/v5ma/selfawarenetworks/wiki/Intro.Gravity)
 
-Intro.InTheBeginning
-
-Intro.NeoMindCycle
+Chapter One: Genesis via Neo Mind Cycle
 
 Intro.BCI The Ultimate Brain Computer Interface
 
@@ -344,7 +340,7 @@ Observer: I want to bring up the question about who is the inner observer if the
 
 The ground of being vs the concept of self in the imagined Rendering of the mind.
 
-Traveling, cyclic, oscillating, rotating brainwave waves
+Traveling, rippling, cycling, oscillating, scaling, and rotating brainwave waves
 
 Scale invariance, Magnification, inner displays.
 
@@ -489,6 +485,8 @@ Neural Rendering or Nerf++ https://www.unite.ai/neural-rendering-nerf-takes-a-wa
 
 3D Semantic Segmentation Pointnet++
 
+3D images from 2D images + Video Style Transfer + Stable Diffusion + NeRF or Plenoxels + Ready Player One Wargames Chapter.
+
 From 2D classification to 3D Semantic Segmentation, including the object recognition of which points in space belong to which semantic classification
 Gan Synthesis to Shape Completion, pattern completion
 
@@ -516,7 +514,7 @@ John Carmack: Why I think he went from VR to AI, meaning that I think of how a V
 
 Photogrammetry, Videogrammetry
 
-Lightfield
+Light field
 
 Perceptron: Real Neurons & Glial Cell Networks vs The Perceptron & Deep Learning Neural Networks.
 
@@ -598,10 +596,5 @@ Uploading & Backing up the mind & downloading the mind
 Adapting old Maps of Reality to Artifical Cognitive Development:
 Thresholds of the Mind: Chaos, Reorganization
 Spiral Dynamics for AI
-AQAL for Artifial Neurology: (Ken Wilber)
+AQAL for Artificial Neurology: (Ken Wilber)
 Rashamon Effect: two people see different versions of same evidence
-
-# Notes
-[Oscillat](https://github.com/v5ma/selfawarenetworks/wiki/oscillat) 
-[Graphy](https://github.com/v5ma/selfawarenetworks/wiki/graphy) 
-[Gravity](https://github.com/v5ma/selfawarenetworks/wiki/gravity) 
