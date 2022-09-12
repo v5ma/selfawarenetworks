@@ -1,3 +1,6 @@
+# Update September 12th, 2022
+b0146y Audio Retranscription completed & audio shared.
+
 # Update September 11th, 2022
 I created a new note a0309z, it's about Sharp Wave Ripples, Bursting, Interneurons, Starburst Amacrine Cells, and Memory driven Blood sugar. https://github.com/v5ma/selfawarenetworks/blob/main/a0309z.md
 

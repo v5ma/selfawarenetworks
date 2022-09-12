@@ -2,7 +2,7 @@ b0146y
 
 October 10th, 2021
 
-(audio needs transcription fixing)
+Listen to the audio: https://recorder.google.com/b05673ce-0f9d-4d54-918e-1d054b8be409
 
 Graziano Neurons Consciousness Animals
 

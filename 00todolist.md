@@ -15,7 +15,7 @@ b0071y "(I think I can describe the sensory input path better than this)" This i
 
 # Priority Transcriptions
 b0309y,  (related to NAPOT Revision 3 on brainwaves)
-b0146ygran
+
 b0268yGran
 b0302ygran
 
