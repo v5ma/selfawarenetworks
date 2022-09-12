@@ -122,140 +122,142 @@ This might cause the neuro circuit to go in search of that pattern, and so by go
 
 11:38
 
-And maybe there we could define sort of like what neurons are attracted to. And that it might be that they're just attracting to completing certain patterns and certain patterns that have certain rewards and I guess we could argue. Okay. The those are chemical rewards and some instances. But the chemical rewards are linked to patterns being completed essentially but it's like, then I met them the magnetic and electric motor and chemical momentum completion because of the rhythm and readiness of neurons too.
+And maybe we could define what neurons are attracted to (like exciting or depressing phase differentials?) and it might be that oscillating neural arrays are attracted to completing certain patterns (an array detection & rendering of a signal output sequence to other neural arrays), and certain patterns that have certain rewards (read consequences, excitation & inhibition, more ATP, or more atrophy, equilibrium stablization or loss of equilibrium) we could argue those are chemical rewards in some instances.
 
-12:22
+But the chemical rewards are linked to patterns being completed essentially, but it's like the magnetic, electric, and chemical momentum of completion because of the rhythm and readiness of neurons to complete patterns
+ 
+sometimes induces a situation where the organism is driving the completion of its own patterns or driving its own narrative and deviation of signals that the external environment is trying to feed the system.
 
-Complete patterns. I sometimes induces basically, where the organism is driving the completion of its own patterns or driving its own narrative and deviation of signals that the external environment is trying to feed the system. It seems that Michael Graziano thinks of consciousness as it has, you know, something that one tiny piece of your brain adds, like it's something you add on to your models of reality.
+It seems that Michael Graziano thinks of consciousness as it has, you know, something that one tiny piece of your brain adds, like it's something you add on to your models of reality.
 
 13:06
 
-So, you know, he describes that, you know, you have a model of something visual in your visual cortex, and maybe you have models of words in your auditory cortex and and you'll, you'll have, you'll be able to identify faces in your it, in your temporal cortex. And, and
+So he describes that you have a model of something visual in your visual cortex, and maybe you have models of words in your auditory cortex, and you'll be able to identify faces in your temporal cortex. 
 
 13:35
 
-But but then you know, somehow that activity in the temporal parietal junction of the TBJ is going to add a consciousness module to the whole operation. So it's like in a conscious model means you have a model for what consciousness is. But it also means that you're conscious and so like there's just like kind of I think that I think there's an unspoken conflation that he doesn't make.
+But then somehow that activity in the temporal parietal junction of the TPJ is going to add a consciousness module to the whole operation. That conscious module means you have a model for what consciousness is, but it also means that you're conscious. 
+
+I think there's an unspoken conflation that he doesn't make,
 
 14:04
 
-But there's like an unspoken conflation between what part of your brain becomes active, the TPJ. When you are phenomenally conscious of the thing that you're paying attention, that you're that you're lower senses, you're paying attention to. So, it's possible that you could put an apple in front of someone so that there their eyes can see the apple, but they're not paying attention to the apple.
+but there's like an unspoken conflation between what part of your brain becomes active (the TPJ) when you are phenomenally conscious of the thing that your lower senses & brain regions are paying attention to.
+
+S, it's possible that you could put an apple in front of someone so that there their eyes can see the apple, but they're not paying attention to the apple.
 
 14:29
 
-They're paying attention somewhere else. And so there is like this separation between what attention is in the attention scheme of theory and what consciousness is because, you know, you might have an apple in your, in your receptive field that you're not conscious of, and so attention and consciousness with two different things.
+They're paying attention somewhere else.
+
+And so there is like this separation between what attention is in the attention schema theory and what consciousness is because you might have an apple in your receptive field that you're not conscious of and so attention and consciousness with two different things.
 
 14:54
 
-But you're, but your brain might be, we might see that your brain on the low in the lower levels made props, individual cortex is tracking the apple even if it hasn't registered to you. And so, you know what, what what what the researchers some researchers believe is from based on the observations is that, you know, when that person it, when the apple is there in front of them and they're aware of it, they see the temporary junction lighting up.
+But your brain, we might see (with medical imaging) that your brain on the lower levels (perhaps in the visual cortex) is tracking the apple even if it hasn't registered to you (to your conscious mind). What some researchers believe based on their observations is that, when for that person the apple is there, in front of them, and they're aware of it, they see the Temporal Parietal junction lighting up.
 
 15:27
 
-So like yes, so tempurpedial junction, which I just really wish could be the LED of the consciousness. Temp is the indicates the conscious consciousness is happening. I think he interpreted interprets it as a consciousness module, which is like, if you have this additional component, then you can be conscious and you can understand what consciousness is and you can describe consciousness, and it's just a module, right?
+The Temporal Parietal Junction I joked could be the led (pixel screen) of the conscious mind, because it indicates that conscious consciousness is happening.
+
+*There is an event synchrony between your rendered experience of being, and your rendered experience of being with an apple in front of you that coincides with the TPJ lighting up*
+
+I think he interprets it as a consciousness module, which is like, if you have this additional component, then you can be conscious and you can understand what consciousness is and you can describe consciousness, and it's just a module, right?
 
 16:02
 
-Like it's a place where the model of consciousness and the information sort of like traffics to in touch with in such a way that you can now, you know, speak of a conscious and describe it. You can say things like, I am conscious because I'm conscious which is he points out.
+Like it's a place, or location, of where & when the the model of consciousness (that is the rendering of your perspective) and the model of the multi-modal sensory entity (the Apple) about to be observed sort of like traffics to concurrently.
+
+# The Temporal Parietal Junction is like a midway collision point between models of reality that your brain is constructing in different regions.
+*Where is it that you make the connections between what you see, hear, smell, taste, and touch? It's not in V1 the visual cortex at the sensory input from the eyes, it's not in the first layer of somatosensory cortex S1. It's not in the first layer of the Auditory Cortex A1, but it's somewhere in the middle of the sensory input regions, where the connections between neurons meet. The Temporal Parietal Junction is such a place that marks a midway point between your sensory inputs. The Thalami are also such points. Infact there are many convergence points between sensory inputs that are important areas, major hubs of traffic, for the signals in the networks of your brain.*
+
+The TPJ traffic brings signals together in such a way that you can now, you know, speak of a conscious experience of an apple, and describe yourself seeing it in the present moment. You can say things like, I am conscious (of this Apple) because I'm conscious which is he points out.
 
 16:24
 
-As a bit of is, is a as not, it's not a very satisfactory things to say, it may be total. Logical say I'm conscious because unconscious right and you wouldn't be like if you just had a machine that just told you like a computer if you're trying to, it's not that's not a very good turn test, right?
+Saying that I'm conscious of being conscious is not a very satisfactory things to say. It might be tautological to say I'm conscious because I'm conscious. (like I think therefore I am is a tautology, similar to I think therefore I think, or I am therefore I am.)
 
-16:53
+I think what we are looking for in a next generation Turing Test is a question along the lines of does the machine transform & return information & knowledge in the way a human being would?
 
-If the computer just says I'm conscious and conscious, it doesn't really, it's not very informative. It doesn't really pass along.
+Can I say something and describe for you in real time right now what I am being shown, pictures, animations, and places?
 
-17:05
-
-The, I think what you need, I think what we're looking for. When we our testing machines now is a turn test, almost just like well does the machine transform and return information and knowledge the way a human being would, right? This does this machine can I, can I say something, and describe picture's, describe animation, and describe places.
-
+(I repeated the same two paragraphs - deleted)
 17:34
 
-And people and all the knowledge representations and properties of the model of that represent all these people and get to a place where, you know, my my discussion involved of all these concepts is something that and something that is resonating with the other person in a sense that I can that
+And people and all the knowledge representations and properties of the model of that represent all these people and get to a place where, you know, my discussion involved of all these concepts is something that is resonating with the other person in a sense that I sense that I am interacting with the human being, or with the conscious entity in some way.
 
-18:12
-
-So it's always like a human, like, things like I'm interacting with the human being, or with the conscious entity in some way, I guess, you know, I guess in the case of, in the case of animals people sometimes feel like their dogs are conscious or their cats or conscious.
+In the case of animals people feel & believe that their dogs are conscious, or their cats are conscious.
 
 18:29
 
-And, and so the, any animal can't obviously, like, give you a complex response and transform words into other words. And in, as far as reading the mind of an animal, there's there's animal can make sounds, and I'm gonna make movements. And and so there's a combination of nonverbal and and I communication, but also audit work communication with the but I think it is.
+An animal can't obviously can't give you a complex (verbal) response, and transform words into other words, and as far as reading the mind of an animal, an animal can make sounds, and an animal can make movements.
+
+There's a combination of nonverbal communication with auditory communication.
 
 19:02
 
-It is very interesting that animals do take turns communicating that that cats. Like when you communicate with it with a cat you you can make very sounds and a cat will respond to some of your sounds and cats. You sounds to communicate with one another and so there's like a hissing sound, which means the cat is not happy and so you can make inferences.
+It is very interesting that animals like human beings take turns communicating.
+
+When you communicate with it with a cat you can make various sounds and a cat will respond to some of your sounds.
+
+Cats use sounds to communicate with one another and so there's like a hissing sound, which means the cat is not happy and so you can make inferences.
 
 19:39
 
-We'll well, it's not happy about what or whatever is an association spatially or temporarily with that. Hissing sound, you know, like, oh, there's a raccoon in the window. Okay. Cats. Hissing. They get like telling that other animal to get get away or something or letting the rest of us know that there's that.
-
-20:01
-
-There's a raccoon in the window.
+We'll it's not happy about what? It's whatever is in association spatially or temporarily with that hissing sound, you know, like, oh, there's a raccoon in the window. Okay. The cat's hissing. They get like telling that other animal to get away or something or letting the rest of us know that there's a raccoon in the window.
 
 20:05
 
-So the cat so that so animals are communicating, but then, you know, you can talk to an animal but the animal is really, is really able to take turns listening to what your expression is. And it's animals seem to stop and consider, even even birds, birds will. I've seen birds.
+So animals are communicating, but then, you know, you can talk to an animal but the animal is really, is really able to take turns listening to what your expression is. And animals seem to stop and consider. Evens birds. 
 
 20:30
 
-They they they look around and they consider the movements of people and bicyclists in cars and they they're like listening and watching with their eyes and ears for, you know, like like like self-driving car. The bird has to predict where it can fly and where it can't fly. So, it has to predict the landscape and has to predict the momentum and orientation and direction, and the velocity of everything, every object in the city, that's around that bird.
+I've seen birds look around and consider the movements of people and bicyclists in cars.Their listening and watching with their eyes and ears for, like self-driving car ought to be doing.
+
+The bird, if you imagine that it has a computational brain, rendering patterns between it's neural arrays, has to predict where it can fly, and where it can't fly.
+
+It has to predict the landscape and has to predict the momentum and orientation and direction, and the velocity of everything, every object in its flight path vicinity, of the birds local ecosystem.
+
+*Then it has to predict it's own flight trajectory. Which I imagine is a Sharp Wave Ripple from it's Hippocampus.*
 
 21:16
 
-Otherwise it might get hit by a bicycle or get hit by a car or get hit or get eaten by by a larger bird or, you know, who knows what. But but it is that's the key. Is that is that there is a sort of I don't want to say handshake but it's sort of exchange and the exchanges between humans and animals.
+The birds brain has to do these complex calculations otherwise it might get hit by a bicycle, or get hit by a car, or get eaten by by a larger bird.
+
+That's the key. Is that is that there is a sort of I don't want to say handshake but it's sort of exchange, and the exchanges between humans and animals.
 
 21:47
 
-They have, there's exchange rates, temporal exchange rates, like the rates and which I'm going to listen for about this long. Before I talk, I'm going to observe for about this long before I do, and this sort of external communication between Between animals between persons. I also happen. It also happens inside your brain where you have basically network, so of cells that are chatting which means that some of them are sending messages while others are listening and then the ones that were that that sent messages become inhibited for a while.
+They have, there's exchange rates, temporal exchange rates, like the rates and which I'm going to listen for about this long before I talk. I'm going to observe for about this long before I do.
+
+This sort of external communication, an exchange, between animals between persons it also happens inside your brain where you have basically networks of cells that are chatting which means that some of them are sending messages while others are listening, and then the ones that were that sent messages become inhibited for a while.
 
 22:41
 
-So and while a different set of neurons is going to fire based upon with a listen to and and while and wow that's happening there's another set of neurons that's listening to those neurons and those neurons when it's their turn to fire maybe the first set of neurons is ready again?
+While a different set of neurons is going to fire based on their response to what they listened and while that's happening there's another set of neurons that's listening to those neurons, and those neurons when it's their turn to fire maybe the first set of neurons is ready again?
 
 23:09
 
-And so this is yeah. This is like the three sets of neurons small. Like imagine you had just to oversimplify it, imagine that you had the entire view. Want what is going to respond at once and it's going to respond by some of the neurons getting excited and some of them being inhibited and some of them remaining and in tonic oscillation.
+And so this is yeah. This is like the three sets of neurons model.
+
+Like imagine you had just to oversimplify it, imagine that you had the entire V1 is going to respond at once, and it's going to respond by some of the neurons getting excited, and some of them being inhibited, and some of them remaining in a tonic oscillation.
 
 23:42
 
-Most of them remaining anatomic oscillation. Okay. And then so then you have to be too and the V2 is listening to the B1. And so now in the V2 you're going to have the neurons that were listening which is, you know, all of them you're going to have a situation where some of them get excited and some of them getting inhibited.
+Most of them remaining in a tonic oscillation. 
+
+Then so then you have the V2 and the V2 is listening to the V1. And so now in the V2 you're going to have the neurons that were listening which is, you know, all of them you're going to have a situation where some of them get excited and some of them get inhibited.
 
 24:08
 
-And this this is a reflection of the patterns that they that they need to was observing, but it's a transmission reflection. So the transmission is the reflection, the reflection. It now, I guess necessary is going to keep going up the hierarchy but some signals. Also travel backwards downwards, they travel in three different directions, you know, it's it's and well, six different directions.
+And this (the V1 signals) is a reflection of the patterns that they (the V2) were observing, but it's a transmission reflection. So the transmission is the reflection, (or the rendering). Some of the signals will keep going up the minicolumn hierarchy, and some signals, travel back down to V1. Signals in Layer 2/3 will also travel laterally, horizontally, across cortical columns. The travel of signals is on 3 Axis, X, Y, Z, and bidirectional on each axis so signals travel in 6 directions, and they loop, the activity oscillates in feedback cycles, and eventually the output is your motor movements.
 
 24:40
 
-It signaled travel up and in terminal down. They trim left to the trouble. Right. And they travel forwards and backwards, right? They spread out really they shoot back down the first layer. Shoot up to v4 issued to the to another brain region, the parietal cortex and the and the and the shoot to the temporal cortex, which is the reality for a cortex.
+Signals in the brain travel up & down, forward propagation & back propagation. They travel left and they travel right. They travel forwards and backwards. Some signals are inhibitory, some are excitatory. The changes in the magnitude & frequency of signals define what information is in your brain.
 
-25:13
+The paths signals travel are very specific & very precise. Some cells detect patterns so they can inhibit parts of other cells to prevent the misrecognition of patterns. (Inhibitory Interneurons or GABA Neurons)
 
-And some of the pride of this medicine for cortex, eventually to the free profit quartet and and so there's gonna be, I mean, you can say, well yeah, there is a higher sequence and we're gonna see, I think perhaps we're gonna see that, the biggest ways of activating, moving enough, hierarchy from the incoming stems of cortex, but but not.
+Signals fan out, or spread out radially, in some cases or fan in depending on the neuropath they are on. Signals might shoot up from Layer 3 to Layer 4 of the visual cortex, they might shoot up to the parietal cortex and or down to the temporal cortex, some travel to and from the auditory cortex, and then you have these convergence points like the Temporal Pariety Junction, where sensory information seems to collide, at least in terms of measurable brain activity, when you are consciously attentive to something in a multi sensory way.
 
-25:41
-
-But I think we don't know exactly how the brain is is network together. How exactly, like how exactly the connection, but what was really interesting is that the rent, the idea of, you know, from networks of the brand can work up or lost spawns and and others. And in terms of like applying graph theories and neurons.
-
-26:11
-
-It's it's like if if it is the case that any signal that goes to any neuron that is basically in an initially in a state of like having random connection to the neurons, it is just a few short steps away from reaching any of the neuron. Like I don't know if it's like if a neuron is two steps or three steps, or five steps or six steps away from reaching any other neuron.
-
-26:38
-
-But it's, it's in, it's, it's, it's one of the things about a mass of about a massively connected graph, randomly connected graph, that, that means that, you know, his heart. It's, it's, it's trying to say that things happen, you know, simply like from like the V1 cortex fires and then, and that talks and B2 listens and then B4, listens to that like that, you know, that is a massive oversimplification because it it's that the pattern or direction could be any because.
-
-27:29
-
-Yeah, the whole can I guess, I guess, I don't know. Like I said, I don't know. So this would be something for researchers to to chart in some cases. People. There's there. People have much better answers than I do. I've been studying this a lot longer in terms of the connect term, but there's still like even this year and 2021 there's still amazing discoveries and neuroscience.
-
-27:54
-
-Okay, this has been an incredible year for innovations in our science research for progressing percentages. There's so much being. It's been discovered in just this year and I expect that that's gonna continue for a long time. I don't know how long, exactly because because we may get surprised. I think we will.
-
-28:19
-
-I think, I mean, collectively human beings may feel very surprised by the innovative ways in which creative minds managed to automate the scientific process with especially with technology called deep learning. But also now, with self-aware networks and I think so for networks will prove critical for self-driving cars and for automated home robots.
-
-28:57
-
-Yeah. So artificial. Artificial contestants. Yeah.
+25:13 Conclusion.
