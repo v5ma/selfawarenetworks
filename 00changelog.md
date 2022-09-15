@@ -1,3 +1,6 @@
+# September 15th, 2022
+I switched from Visual Studio Code to Working Copy. This is a test.
+
 # Update September 12th, 2022
 b0146y Audio Retranscription completed & audio shared.
 
