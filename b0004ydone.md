@@ -1,5 +1,7 @@
 b0004y
 
+Original audio link: https://recorder.google.com/30aa7ee6-da5c-4c04-9005-69e91c46a6b3
+
 This important note is a big precursor to the NAPOT Whitepaper.
 
 # The biggest failure in the entire history of neuroscience is that we have been using the term amplitude instead of the term magnitude to model the action potential.
