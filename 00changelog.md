@@ -1,3 +1,7 @@
+# September 17th, 2022
+a0310z created "NAPOT 5: Neural Array Projection Oscillatory Tomography Revision 5" visit github .com /v5ma /selfawarenetworks and search and look for note a0310z or this link
+https://github.com/v5ma/selfawarenetworks/blob/main/a0310z.md
+
 # September 15th, 2022
 I switched to a new code editor. This is a test.
 

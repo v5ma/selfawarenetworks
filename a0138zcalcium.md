@@ -56,8 +56,7 @@ Next slide
 
 everything depends on the concentration of calcium in the post synaptic spine. If you have not very much calcium nothing happens, if you have a medium amount of calcium you have depression, and if you have a lot of calcium you have potentiation.
 
-Ca2+ based plasticity
-
+# Ca2+ based plasticity
 Plasticity saturation
 
 # "Graded bidirectional synaptic plasticity is composed of switch-like unitary events"

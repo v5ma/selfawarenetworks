@@ -11,10 +11,7 @@ criterion [24], but can be artificially extended to offer more choices like in f
 Brain Computer Interfaces
 Mark Wessel" http://www.kbs.twi.tudelft.nl/docs/MSc/2006/Wessel_Mark/thesis.pdf
 
-"Specialized mother wavelet functions of Continuous wavelet transform (CWT) for using on
-sliding window. Morlet Wavelet gives good frequency resolution when analyzing gamma
-activity. Bi-scale wavelet for 1-4 Hz asynchronous BCIs during imaginary movement.
-Daubechies wavelet for Slow Cortical Potentials (SCPs) f < 1 Hz Nicolas-Alonso (2012)."
+"Specialized mother wavelet functions of Continuous wavelet transform (CWT) for using on sliding window. Morlet Wavelet gives good frequency resolution when analyzing gamma activity. Bi-scale wavelet for 1-4 Hz asynchronous BCIs during imaginary movement. Daubechies wavelet for Slow Cortical Potentials (SCPs) f < 1 Hz Nicolas-Alonso (2012)."
 
 # "Brain Computer Interfaces, a Review by Luis Fernando Nicolas-Alonso * andJaime Gomez-Gil" https://www.mdpi.com/1424-8220/12/2/1211/htm https://doi.org/10.3390/s120201211
 
