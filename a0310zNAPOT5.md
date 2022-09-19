@@ -6,12 +6,16 @@ The original 40 minute audio: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e6
 
 I added a lot to the text note after the original audio.
 
-I will add a video soon:
+I will add a video soon: 
 
 # A short poem before the article:
 "drifting off when I saw "fermi(...)" my mind starts to wake up, my poetic EPSPs  innervate my Layer 2/3 Pyramid Soma's, I think "wow new article on fermions" alas not fermions, "fermi paradox" ugh, then I feel my inhibitory interneurons decoupling my excitement for a physics post."
 
+__________________________________________________________________________________________________
+
 Disclaimer for this note: I use the word neurons almost exclusively in this note but a lot of cellular computation in the brain is done by other types of cells that interface with neurons, the mains ones being glial cells like astrocytes, oligodendrocytes, microglia, and there is a lot of interaction between neurons & t-cells, and all the other cells of the body interface with brain cells. So while neurons are the focus of this note, keep in mind this is not the whole picture. An astrocyte cell is thought to be able to carry out essentially the same types of functions of a neuron, but at a slower time scale, with different internal processes, a slightly different set of gliotransmitters (with some overlap with neurotransmitters) and they have a slightly different role to play in the brain. Also while I talk about neurons generally the primary focus of this note is about pyramidal cells in particular, a type of neuron that maybe have branches for the soma in addition to branches for the basal dendrite, and computationally sophisticated apical dendrite branches. I would like to think other types of neurons share the same functional framework with albeit different morphologies, but obviously 6th layer neurons do not burst (at least not with the frequency seen in 5th layer neuron bursting) and so there are going to be functional differences in non-pyramidal neurons that do not have fancy apical dendrites, but do have backpropagating action potentials.
+
+__________________________________________________________________________________________________
 
 # Neurophysics: Linear Non-linear Computation at the neuron, neural array, cortical column, and column assembly scale memory-prediction-rendering of the mind that is the phenomenological conscious experience of being someone and or being somewhere.
 
@@ -22,6 +26,8 @@ Essentially communication in the brain at the neuron level is about phase rate c
 The varying magnitudes & frequencies of synaptic transmissions, dendritic activity, and the soma burst rates of whole neurons, plus the changes in the frequency patterns encoded in whole columns of the brain, and across the columns of the brain, the thalamus, and the hippocampus result in varying levels of inhibition & excitation, variations in the timing of oscillations, and tomographically entified rendered patterns that are observed by the same cells that are making the rendered patterns which are phase wave changes passed by the neuronal outputs, the neurotransmitters.
 
 The synaptic, neuronal, column & brain wide network oscillations sculpt and render the experience of reality from the brain to the brain via oscillating feedback loops. The brain is effectively doing computational rendering & then reading it’s own output pattern, from neuronal outputs, as that pattern is looped or played back to the neural network of the brain which detects it, with neuronal inputs, and re-renders (outputs it again) with new sensor input data.
+
+__________________________________________________________________________________________________
 
 # This is Neural Array Projection Oscillation Tomography Theory Revision 5.
 
@@ -59,9 +65,13 @@ Synchronous phase rates link cortical columns across the brain change depending 
 
 Also the synchronous activity between the 6th layer Pyramidal cells, and the Thalamic Matrix Inhibitory Interneurons that connect cortical columns together will use GABA neurotransmitters to inhibit communication between cortical columns & cells that are not oscillating together at the same tonic firing rate. This inhibitory interneuron process allows your brain to change the tasks that you are focused on very quickly, by realigning which cortical columns are working together, and which cells are working together, and which patterns are evoked in which sequence.
 
+__________________________________________________________________________________________________
+
 # "Dual midbrain and forebrain origins of thalamic inhibitory interneurons"
 "In contrast to cortical networks, excitatory neurons in the thalamus do not connect with each other (Bickford et al., 2008; Hirsch et al., 2015; Jones, 2007; Rikhye et al., 2018b). Instead, local connections and computations within TC circuits are dominated by the resident inhibitory, GABA-releasing neurons (interneurons) (Hirsch et al., 2015; Montero, 1987; Pasik and Pasik, 1976; Sherman, 2004)."
 https://elifesciences.org/articles/59272
+
+__________________________________________________________________________________________________
 
 # 1 "Neuroelectric Tuning of Cortical Oscillations by Apical Dendrites in Loop Circuits" https://www.frontiersin.org/articles/10.3389/fnsys.2017.00037/full
  Cited in a section of my notes (search github.com/v5ma/selfawarenetworks for "a0007z.loop" to find my notes about this paper.
@@ -85,11 +95,15 @@ https://elifesciences.org/articles/59272
 https://www.sciencedirect.com/science/article/pii/S1053811920307102
 https://doi.org/10.1016/j.neuroimage.2020.117224
 
+__________________________________________________________________________________________________
+
 # "A midbrain-thalamus-cortex circuit reorganizes cortical dynamics to initiate movement"
 "Motor behaviors are often planned long before execution but only released after specific sensory events. Planning and execution are each associated with distinct patterns of motor cortex activity. Key questions are how these dynamic activity patterns are generated and how they relate to behavior. Here, we investigate the multi-regional neural circuits that link an auditory "Go cue" and the transition from planning to execution of directional licking. Ascending glutamatergic neurons in the midbrain reticular and pedunculopontine nuclei show short latency and phasic changes in spike rate that are selective for the Go cue. This signal is transmitted via the thalamus to the motor cortex, where it triggers a rapid reorganization of motor cortex state from planning-related activity to a motor command, which in turn drives appropriate movement.``
 "Many behaviors, including purposeful movements, are composed of sequential phases that require different computations. For example, while waiting at a red light to make a turn, we plan to rotate the steering wheel while pressing the gas pedal. After the signal turns green, we achieve our goal by executing a program of skilled movements effortlessly. The planning and execution phases are produced by distinct patterns of neuronal activity (Svoboda and Li, 2018; Vyas et al., 2020)."
 "Our experiments suggest that the midbrain sends simple contextual signals to the cortex via particular thalamic nuclei to modulate cortical activity modes. Different thalamic nuclei contain neurons with different projection patterns (Steriade et al., 1997; Clascá et al., 2012). For example, VM contains neurons that have broad projection patterns to layer 1 (''matrix"). VAL instead projects in a more focal manner to middle layers (''core") (Jones, 1998; Kuramoto et al., 2015). These different thalamocortical projections activate cortical microcircuits in specific ways (Anastasiades et al., 2021). The spatial distribution of thalALM neurons with short latencies to the Go cue appears to differ from those showing delay selectivity"
 https://www.sciencedirect.com/science/article/pii/S0092867422001465
+
+__________________________________________________________________________________________________
 
 Columns in the NeoCortex maintain a synchronized firing state with other neurons in that same cortical column, and these synchronized states are primed by the 6th Layer Pyramid Cell Apical Dendrites via the thalamic relays to excite the somas of the layer 2 & 3 pyramidal cells making the cells effectively more attentive to incoming signals.
 
@@ -113,7 +127,7 @@ If that action potential happens again at the same time or place as the previous
 
 Interspersed between the chain of action potentials in a sharp wave ripple are low frequency high amplitude inhibitory waves set by the decay rate of the Action potential or the plateau phase, or the action potential duration, resulting in the magnification of the pattern that action potential represented by the synaptic configuration of its exit terminal. These inhibitory waves cause tiny shifts in the oscillatory timing of the widespread high magnitude tonic frequencies and this changes the magnitude of our expectations in a subtle but noticeable way.
 
------------------------------------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________
 
 # Conjecture: Emotions as Tonic Frequencies Speculation Sidebar
 I'm thinking that emotions are probably changes in the tonic frequences, like big emotional shifts may amount to big shifts in tonic frequences of whole cortical columns and column assemblies. Big shifts in the tonic frequences may result in whole brain areas becoming re-aligned, like several cortical columns are shifting at once from a tonic oscillation of 40 hz to 60 hz or 10hz to 80hz.
@@ -128,7 +142,7 @@ If this is true the neural correlates of a big emotional change could be a big c
 
 Big emotions might mean big or small shifts in the tonic frequencies of cortical columns that help define which regions of the brain are functioning together. I suspect that a big shift in emotions results in a reorganization of cooperating brain structures and they should be measurable with EEG, and big emotional shifts probably have been recorded in EEG research. I would look for EEG studies on mothers giving birth in particular, and ignore studies on EEG sleep research.
 
------------------------------------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________
 
 # Somatic Communication: Defining Pre-somatic & Post-somatic terms for discussing the triggering of burst events following the activation of a place cells in the cerebral cortex. (or a local event cell)
 
@@ -144,17 +158,23 @@ If it same spacetime event (an event of consequence) happens again at the same t
 
 **I’m arguing (and I don’t know how many others may have previously argued this) that place cells can be thought of as local spacetime event cells (or local event cells), and that the functions of local event cells are ubiquitous throughout the brain.**
 
-The functions of place cells or local event cells are primarily to encode significant local spacetime events (where and when some event happened relative to hippocampal information), predicting when those events might reoccur, then computationally rendering their occurance to the brains network with high phasic bursts that create chain reactions of spiking & inhibitory waves from each spike. 
+# The Hippocampus as a Reference Frame for Cortical Columns
 
-Local Event Cells (Place cells outside the Hippocampus) are doing tempo-spatial pattern coincidence detection & rendering in chain reactions with other cells across cooperating areas of the brain.
+The functions of place cells or local event cells are primarily to encode significant local spacetime events (where and when some event happened relative first to the reference from of its cortical column, and it's cortical column activity being relative to the reference frame of the  hippocampus as a macroscopic scale reference frame for the brain (Reference Frames are a concept that I learned about reading the book "A Thousand Brains by Jeff Hawkins), so the event cells (and their columns) are predicting when those local spacetime events might reoccur, then computationally rendering their occurance to the brains network with high phasic bursts that create chain reactions of spiking & inhibitory waves from each spike. 
 
-a0310z.mpr
+Local Event Cells (Place cells outside the Hippocampus) are doing tempo-spatial pattern coincidence detection & rendering via burst rate firing that sparks chain reactions of spiking cell activity with other cells across cooperating areas of the brain.
 
-**Memory Prediction Rendering (MPR)** Memory Prediction was a concept I first read about in Jeff Hawkins book On Intelligence. MPR Memory Prediction Rendering is combining the concept of Memory Prediction with NAPOT Neural Array Projection Oscillation Tomography. It means that our cells are making memories, the partially activated memories are predictions, and the output of the action potential is a rendering to it's inceptive field.
+__________________________________________________________________________________________________
+
+# a0310z.mpr
+
+**Memory Prediction Rendering (MPR)** Memory Prediction was a concept I first read about in Jeff Hawkins book On Intelligence. MPR Memory Prediction Rendering is combination of the concept of Memory Prediction with NAPOT Neural Array Projection Oscillation Tomography. It means that our cells are making memories, the partially activated memories are predictions, and the output of the action potential is a rendering to it's inceptive field.
+
+__________________________________________________________________________________________________
 
 The primary purpose of place cells or local event cells (a term for Place cells outside the Hippocampus) is to create burst firing events, initiating sharp wave ripples, when there is a pattern match between the pre-soma & post-soma sides of the neuron. And I am arguing that place cells or what I like to call "local spacetime event cells" are effectively ubiquitous throughout the neo cortex, not just in the Hippocampus, but in every cortical column, and mini column.
 
-However I would argue that 5th Layer Pyramidal Cells in the NeoCortex are functionally place cells or spacetime event cells, that are not having to do with the place of the organism, but are instead having to do with the place of the object, concept, feeling, or thing around the organism, such as the example of a cortical column tracking the orientation & place (or position in space) & sensory features (texture, heat, color, size, weight) such as a cup of coffee, which is an example from Jeff Hawkins book A Thousand Brain. I argue that the Apical & Basal Dendrites work together to create seconds long memory-prediction-renderings (This is a combination of BTSP Behavior TimeScale Synaptic Plasticity with NAPOT Neural Array Projection Oscillation Tomography) so what your mind is doing, within the context of a cortical column, is rendering the spacetime events of a cup relative to your place in space which is thought to be organized by the hippocampus, and the interplay between the memory-prediction-rendering in the Hippocampus and the Cortical Column activity representing the features of a Cup, via the Thalamic Matrix signal loops yield how your brain is representing a coffee cup to yourself, at each interval of your tempo spatially rendered experience.
+However I would argue that 5th Layer Pyramidal Cells in the NeoCortex are functionally place cells or spacetime event cells, that are not having to do with the place of the organism, but are instead having to do with the place of the object, concept, feeling, or thing around the organism, such as the example of a cortical column tracking the orientation & place (or position in space) & sensory features (texture, heat, color, size, weight) such as a cup of coffee, which is an example from Jeff Hawkins book A Thousand Brain. I argue that the Apical & Basal Dendrites work together to create seconds long memory-prediction-renderings (This concept is a combination of BTSP Behavior TimeScale Synaptic Plasticity with NAPOT Neural Array Projection Oscillation Tomography) so what your mind is doing, within the context of a cortical column, what your mind is doing is rendering the spacetime events of a cup relative to your place in space which is thought to be organized by the hippocampus, and the interplay between the memory-prediction-rendering in the Hippocampus and the Cortical Column activity representing the features of a Cup, via the Thalamic Matrix signal loops yield how your brain is representing a coffee cup to yourself, at each interval of your tempo spatially rendered experience.
 
 The coincidence of firing from the back propagating Apical Dendrite and the Forward propagating Basal Dendrite then represents re-occurrence of a past spacetime event, or a memory-prediction-rendering, that other neural arrays tomographically assemble via synaptic coincidence detections, dendritic pattern detections, and somatic pattern coincidence detections back into phase rate changes that cause the process to repeat or recycle or loop in other neural arrays, and eventually back to the same neurons, and eventually to your motor outputs & nerve endings to change your movements.
 
@@ -194,15 +214,21 @@ From the furthest or most distal end of the hierarchy feedback loop backwards to
 
 Sensory input goes into a hierarchy to the top, which might include the frontal lobes, and then it loops, cycles & oscillates for a time while your brain is considering and compiling its next action sequence, and then the action potential sequence program shoots back down to the motor output channels causing your movements.
 
-I like to imagine, as an analogy, an oversimplified perspective on the flow of brain activity, where at macroscopic scale, from the birds eye view, where phase differential activity comes into the tonically oscillating brain network, and this phase wave differential information loops throughout the cortex, like the wind, following different & interesting neuro pathways across cortical column assemblies.
+__________________________________________________________________________________________________
 
-Beyond the raw formless sense described in the initial paragraphs of this note that I argue consists of high magnitude low frequency tonic oscillations across the cortex, the more advanced form of this concept would be the Default Mode Network.
+*I like to imagine, as an analogy, an oversimplified perspective on the flow of brain activity, where at macroscopic scale, from the birds eye view, where phase differential activity comes into the tonically oscillating brain network, and this phase wave differential information loops throughout the cortex, like the wind, following different & interesting neuro pathways across cortical column assemblies.*
+
+__________________________________________________________________________________________________
 
 # Default mode network
+
+Beyond the raw formless sense described in the initial paragraphs of this note that I argue consists of high magnitude low frequency tonic oscillations across the cortex, the more advanced form of this concept would be the Default Mode Network.
 
 "The DMN was originally noticed to be deactivated in certain goal-oriented tasks and was sometimes referred to as the task-negative network" Source: Wikipedia
 
 But the Default Mode Network becomes involved in tasks via cortical column assembly which I talk about in this note.
+
+__________________________________________________________________________________________________
 
 # "Reward enhances connectivity between the ventral striatum VS and the default mode network DMN"
 "Strikingly, we found that the experience of reward enhances task-dependent connectivity between the DMN and the ventral striatum, an effect that was specific to the DMN."
@@ -211,8 +237,10 @@ This article highlights the modularity of brain regions to couple & uncouple, in
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9343171/
 
-At the birds eye view above cortical column assemblies, 
-You could say sensory input signals go up into the brain's network, then they cycle brain activity loops, then the activity goes out through the motor pathways. Driving behavior changes. If you want a really simple & kind of silly analogy that may help translate this complexity to something we could build in a computer system imagine the game Sonic the Hedgehog, which involves a running character that runs through 360 degree loops that go upside down. In an abstract way our sensor inputs bring in phase wave differentials like Sonic the Hedgehog entering his loop. With the loop representing abstractly the strange neural pathways through the brain, the path of the loop can change, but for Sonic the Hedgehog one neural pathway is functionally isomorphic to the next because he goes in one side (the sensory inputs), loops around it (the hippocampal, neocortical, thalamic loop), and comes out the other side (via the motor outputs to the nerve endings and down the midbrain to the nervous system below the brain.)
+__________________________________________________________________________________________________
+
+# The abstract birds eye view above cortical column assemblies. 
+You could say sensory input signals go up into the brain's network, then they cycle in brain signal activity loops, then the activity goes out through the motor pathways. Driving behavior changes. If you want a really simple & kind of silly analogy that may help translate this complexity to something we could build in a computer system imagine the game Sonic the Hedgehog, which involves a running character that runs through 360 degree loops that go upside down. In an abstract way our sensor inputs bring in phase wave differentials like Sonic the Hedgehog entering his loop. With the loop representing abstractly the strange neural pathways through the brain, the path of the loop can change, but for Sonic the Hedgehog one neural pathway is functionally isomorphic to the next because he goes in one side (the sensory inputs), loops around it (the hippocampal, neocortical, thalamic loop), and comes out the other side (via the motor outputs to the nerve endings and down the midbrain to the nervous system below the brain.)
 
 Repeating this abstract analogy, imagine Sonic, representing incoming signals, goes into his 360 loop, from the left side of the loop because in a big circle upside down and it back out of the loop on the right side of the loop. 
 
