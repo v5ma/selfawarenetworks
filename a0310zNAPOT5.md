@@ -180,19 +180,21 @@ The coincidence of firing from the back propagating Apical Dendrite and the Forw
 
 You have the post-soma side of the neuron (the Apical Dendrite or exit terminal), and the pre-soma side of the neuron (the basal dendrite or input terminal), and these are going to encode seconds long BTSP Behavior TimeScale Synaptic Plasticity changes, but specifically they allow neurons (focusing on Pyramidal Cells) to compare patterns.
 
-The pre-soma side of the neuron and the post-soma side of the neuron are going to super charge the action potential event, if the same pattern happens again at the same time or in the same place. It's like the post soma side of the neuron, the Apical Dendritic, gets encoded with expectations set by the previous action potentials, but it’s backpropagation timing is modified when the synapses on the Apical dendrite are upregulated or downregulated by other cells. Essentially the patterns represented by the branches of the Apical dendrite or the Exit terminal can be recoded, not just by other neurons, but by signals sent out from the same neuron via an excitatory thalamic feedback circuit that loops back to the same neuron or to other neurons in it’s cortical column.
+The pre-somatic side of the neuron and the post-somatic side of the neuron are going to super charge the action potential event, if the same pattern happens again at the same time or in the same place. It's like the post soma side of the neuron, the Apical Dendritic, gets encoded with expectations set by the previous action potentials, but it’s backpropagation timing is modified when the synapses on the Apical dendrite are upregulated or downregulated by other cells. Essentially the patterns represented by the branches of the Apical dendrite or the Exit terminal can be recoded, not just by other neurons, but by signals sent out from the same neuron via an excitatory thalamic feedback circuit that loops back to the same neuron or to other neurons in it’s cortical column.
 
 # New Concept Combination: Behavior Timescale Synaptic Plasticity Memory Predictions aka BTSP Predictive Coding, for seconds long pattern coincidence prediction within the function of a single neuron or 5th Layer Pyramidal Cell.
 
 The post-somatic side of the neuron is encoded with expectations or memory-predictions learned from somatic firing, and these memory-predictions are modified by bidirectional synaptic plasticity on the Apical Dendrite, and when Burst firing happens the Memory Prediction becomes a Rendering, a Memory Predicted Rendering to it’s inceptive field defining the neural array that it outputs to.
 
-In summary the Apical Dendritic pattern the Post-Somatic side of the neuron learns when the last irregular phasic firing happened. Its back propagation firing, based on the pattern it is predicting, will be adjusted with signals from its synapses via bidirectional synaptic plasticity.
+In summary the Apical Dendritic pattern of the Post-Somatic side of the neuron learns when the last irregular phasic firing happened. Its back propagation firing, based on the pattern it is predicting, will be adjusted with signals from its synapses via bidirectional synaptic plasticity.
 
 When the Apical Dendrite predicts that the Soma is going to fire it sends a surge of back propagating charge from the post-somatic side of the neuron back towards the soma. And if the pattern of the neuron from the pre-somatic side matches the input from the post-somatic side of the neuron, then the soma does a burst rate firing.
 
 That’s a higher phasic burst. At that point the neuron at least temporarily jumps into a different phase pattern. Burst rate firing could be 150hz, 200hz, 300hz, 400hz, up to 600hz.
 
-# I argue that the human brain is a finite state machine, because the total number of possible states are between 0.02 hz and 600hz times the sum of all places where phase states can exist (the sum of every synapse, and every brain cell in the brain)
+__________________________________________________________________________________________________
+
+# Sidebar: I argue that the human brain is a finite state machine, because the total number of possible states are between 0.02 hz and 600hz times the sum of all places where phase states can exist (the sum of every synapse, and every brain cell in the brain)
 
 So the total number of possible brain states might be something like 86 billion neurons + 1,000 trillion synapses x 600.18hz
 
@@ -202,7 +204,9 @@ The maximum frequencies seen in the brain are around 600 hertz. I don't know if 
 
 In animal brains it has been observed that burst rate frequency firing is between 150hz up to 600 hz.
 
-But we can see from research that there is interplay between high frequency phasic patterns and low frequency tonic patterns.
+__________________________________________________________________________________________________
+
+We can see from research that there is interplay between high frequency phasic patterns and low frequency tonic patterns.
 
 For example there are papers that highlight the interplay between high-phasic gamma bursts and slower tonic oscillations in the theta frequency.
 
@@ -210,9 +214,9 @@ In note a0001z there is a note that shows us that when an organism is driving it
 
 You can measure the amount of brain activity coming from the front of the cortex back to the lower part of the cortex. You can see that the shape of the pattern of signals is that it is a lot greater. There is a greater quantity of activity coming from the top down. 
 
-From the furthest or most distal end of the hierarchy feedback loop backwards towards the sensory inputs, and motor outputs. 
+When an organism is making choices, and driving it's own behaviors, medical imaging results suggest that the furthest or most distal end or the top of the hierarchical brain structure (which is the top of feedback loop) sends information back downwards towards the midbrain, and the motor outputs. 
 
-Sensory input goes into a hierarchy to the top, which might include the frontal lobes, and then it loops, cycles & oscillates for a time while your brain is considering and compiling its next action sequence, and then the action potential sequence program shoots back down to the motor output channels causing your movements.
+Neuro pathways begin at the sensory inputs (eyes, ears, nose etc...) and oscillate in feedback loops throughout the brain, and the eventual ends of these neuro pathways are your motor outputs,causing your movements.
 
 __________________________________________________________________________________________________
 
