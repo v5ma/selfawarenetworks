@@ -1,3 +1,7 @@
+# The latest video
+Neural Array Projection Oscillation Tomography Theory 5th Revision.
+https://youtu.be/vixhppNAKPs 
+
 # New Welcome Note added
 https://github.com/v5ma/selfawarenetworks/blob/main/00welcome.md
 

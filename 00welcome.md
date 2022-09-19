@@ -1,10 +1,11 @@
 Welcome to the Self Aware Networks Institute
 
-The first thing you want to do is read the Whitepaper
+# Watch the NAPOT 5 video releases September 18th 2022
+Neural Array Projection Oscillation Tomography Theory 5th Revision.
+https://youtu.be/vixhppNAKPs 
 
+# Read the Whitepaper
 https://github.com/v5ma/selfawarenetworks/wiki/Whitepaper
-
-or watch the video which is inside the link above.
 
 1. Check the Readme.md for updates & some overview. https://github.com/v5ma/selfawarenetworks#readme
 
