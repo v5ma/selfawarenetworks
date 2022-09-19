@@ -6,7 +6,7 @@ The original 40 minute audio: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e6
 
 I added a lot to the text note after the original audio.
 
-I will add a video soon: 
+I will add a video soon: https://youtu.be/vixhppNAKPs 
 
 # A short poem before the article:
 "drifting off when I saw "fermi(...)" my mind starts to wake up, my poetic EPSPs  innervate my Layer 2/3 Pyramid Soma's, I think "wow new article on fermions" alas not fermions, "fermi paradox" ugh, then I feel my inhibitory interneurons decoupling my excitement for a physics post."
