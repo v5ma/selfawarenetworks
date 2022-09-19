@@ -115,16 +115,18 @@ Interspersed between the chain of action potentials in a sharp wave ripple are l
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-# Emotions as Tonic Frequencies Speculation Sidebar
+# Conjecture: Emotions as Tonic Frequencies Speculation Sidebar
 I'm thinking that emotions are probably changes in the tonic frequences, like big emotional shifts may amount to big shifts in tonic frequences of whole cortical columns and column assemblies. Big shifts in the tonic frequences may result in whole brain areas becoming re-aligned, like several cortical columns are shifting at once from a tonic oscillation of 40 hz to 60 hz or 10hz to 80hz.
 
-I say that because emotions feel like high magnitude and low frequency information, they are widespread and there is not a lot information in emotions. You feel it in a lot of places, but what they mean can be open to interpretation.
+This correlates with the research on depression where people who are depressed have a greater activity in the delta & theta frequency ranges, the lower frequency tonic oscillations, and people who are drinking coffee and are very alert & focused might have many more beta waves, and people who are very happy might have a lot of gamma waves and so on. When you feel relaxed, such as after drinking a beer you might have many more alpha waves. It seems that there is tonic brainwave frequency correlation with emotion, and so the idea that emotions are actually the low information tonic frequency patterns that are also high magnitude so you feel them in a lot of areas but there is not a lot of data in your emotions, they have low information which is what we would predict with information theory when signals are very common over a great distance, tonic frequency emotions would have more feeling and less thought in them.
 
-That's why I am thinking with emotions we are experiencing the big shifts in the tonic frequencies that amount to our large scale brain regions reconfiguring themselves with tonic frequency shifts.
+To recap I argue that because emotions feel like high magnitude and low frequency information, and because they are widespread, or felt in a lot of places, and because there is not a lot information in emotions, and they seem to be open to interpretation that the emotions we feel are probably the large scale shifts in the synchronized tonic oscillations at the macroscale of brain networks, and their meaning defines which brain networks are working together which may pre-dispose the organism to being more effective as somekinds of tasks verses other kinds of tasks.
+
+That's why I am thinking with big emotions we are experiencing big shifts in the tonic frequencies that amount to our large scale brain regions reconfiguring themselves with tonic frequency shifts.
 
 If this is true the neural correlates of a big emotional change could be a big change in the areas of your brain that are cooperating or communicating together or functioning together.
 
-Big emotions might mean big or small shifts in the tonic frequencies of cortical columns that help define which regions of the brain are functioning together. I suspect that a big shift in emotions results in a reorganization of cooperating brain structures and should be measurable with EEG.
+Big emotions might mean big or small shifts in the tonic frequencies of cortical columns that help define which regions of the brain are functioning together. I suspect that a big shift in emotions results in a reorganization of cooperating brain structures and they should be measurable with EEG, and big emotional shifts probably have been recorded in EEG research. I would look for EEG studies on mothers giving birth in particular, and ignore studies on EEG sleep research.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -134,11 +136,13 @@ The idea here is to discuss both sides of the neuron in a way that is focused on
 
 Ideally the pre-somatic side of the neuron is facing towards sensory input neuro pathways, and post-somatic side of the neuron is facing the direction of the motor output pathways.
 
-If that irregular action potential happens again at the same time or same place, then it represents a concurrence of past & future events in spacetime, because now you have the post-somatic side of the neuron and the presomatic side of the neuron, that are going to encode seconds long BTSP Behavior TimeScale Synaptic Plasticity, that are going to encode seconds long tempo-spatial pattern coincidence detections on both sides of the neuron, and this means that the pre-somatic side of the neuron, and the post-somatic side of the neuron have super charged the Soma’s Action Potential event. If it same spacetime event (an event of consequence) happens again at the same time (or same place) as before it produces high phasic burst rate firing (between 150 hz - 600hz)
+If that irregular action potential happens again at the same time or same place, then it represents a concurrence of past & future events in spacetime, because now you have the post-somatic side of the neuron and the presomatic side of the neuron. These two sides of the neuron work together to encode seconds long BTSP Behavior TimeScale Synaptic Plasticity in places cells outside the hippocampus (or what I am calling local event cells), that are going to encode seconds long tempo-spatial pattern coincidence detections on both sides of the neuron, and this means that the pre-somatic side of the neuron, and the post-somatic side of the neuron will together super charge the Soma’s Action Potential event, creating burst firing.
+
+If it same spacetime event (an event of consequence) happens again at the same time (or same place) as before it produces high phasic burst rate firing (between 150 hz - 600hz)
 
 **I’m arguing (and I don’t know how many others may have previously argued this) that place cells can be thought of as local spacetime signiticant event tracking cells, and that the functions of spacetime event cells are ubiquitous throughout the brain.**
 
-Place cells or local spacetime significant event tracking cells have the primary function of encoding memories of spacetime events, predicting when those events might reoccur, and computationally rendering spacetime events to their network. (tempo-spatial pattern coincidence detection & rendering).
+Place cells or local event cells have the primary function of encoding memories of spacetime events, predicting when those events might reoccur, and computationally rendering spacetime events to their network. (tempo-spatial pattern coincidence detection & rendering).
 
 **The concept could also be called Sparse Distributed Memory Prediction Rendering or SDMPR, similar to Sparse Distributed Representation by the folks at Numenta, with Rendering at the end. SDR-R**
 
