@@ -368,6 +368,8 @@ The frequency tuning of a neuron and the tuning of its cell assembly is accompli
 
 While they look like noise in EEG measurements the tonic oscillations of your Default Mode Network are very precisely maintained from cell to cell through synaptic configuration changes driven by phase wave differentials between neural arrays. The tonic oscillations are thought to have lower information value, but they maintain a precisely tuned differential oscillating pattern, they represent memory attractors that guide your expectations & your behavior to seek new information.
 
+__________________________________________________________________________________________________
+
 # "Tuning Neural Synchronization: The Role of Variable Oscillation Frequencies in Neural Circuits"
 "Beyond the small differences in gamma frequencies across cortical areas, small differences in preferred frequency can also occur locally within the same cortical area. A gamma-band frequency gradient as a function of eccentricity (fovea to periphery) in V1 has been established (Lima et al., 2010; van Pelt and Fries, 2013; Lowet et al., 2017)."
 "These frequency differences (detuning) have been largely ignored and play little role in current functional theories of brain oscillations. This contrasts with the crucial role that detuning plays in synchronization theory, as originally derived in physical systems. Here, we propose that detuning is equally important to understand synchronization in biological systems. Detuning is a critical control parameter in synchronization, which is not only important in shaping phase-locking, but also in establishing preferred phase relations between oscillators."
@@ -381,6 +383,8 @@ https://www.frontiersin.org/articles/10.3389/fnsys.2022.908665/full
 
 (article mentioned in note a0149z) 
 https://github.com/v5ma/selfawarenetworks/blob/main/a0149z.md
+
+__________________________________________________________________________________________________
 
 The 6th pyramidal cells in the cortical columns will send EPSP via the thalamus to prime the soma’s of 2nd & 3rd layer cells.
 
@@ -406,7 +410,9 @@ Individual receptors can also modulate their own sensitivity to incoming signals
 
 Search for "a0272z.spring" at github/v5ma/selfawarenetworks https://github.com/v5ma/selfawarenetworks/blob/main/a0272z.md
 
-So neurons get excited, their excitement goes up, and they become more sensitive, more tuned in. 
+__________________________________________________________________________________________________
+
+# So neurons get excited, their excitement goes up, and they become more sensitive, more tuned in. 
 
 Imagine when a person gets motivated about some topic. When you get turned on. Like turned onto the idea of eating food, or playing a game. Or turned on to the idea of going somewhere.
 
@@ -432,7 +438,11 @@ So if later in the day you encounter something that you have been thinking about
 
 This process of imagining what you want to do before you do something is going to excite certain patterns via a configuration: a large configuration of cortical column assembly or neural assembly based patterns. Patterns emerging from brain structures that selectively unified to support what you want to do in part organized by oscillatory physics tuning brain regions to be more in sync with one another, and in part their selective cooperation is tuning out signals from oscillatory brain regions that are very far out of sync with the help of interneurons that inhibit pathways between regions that are far out of sync with one another.
 
-# Essentially the physics of oscillation organizes your cortical column assemblies, and the relationships between the cerebral cortex and parts of the midbrain including interactions between the basal ganglia, the cerebral cortex, and the hippocampus & the cerebral cortex.
+__________________________________________________________________________________________________
+
+# The Physics of Oscillation (add references to Synchronization theory in non-physical systems) in the brain
+
+**Essentially the physics of oscillation organizes your cortical column assemblies, and the relationships between the cerebral cortex and parts of the midbrain including interactions between the basal ganglia, the cerebral cortex, and the hippocampus & the cerebral cortex.**
 
 The physics of oscillation are the organizing process behind which of your brain areas are cooperating, the physics of oscillation is driving the tuning of synchronizes cooperating brain areas, and the physics of oscillation is synching the thalamic matrix inhibitory interneurons to the activity of the pyramidal cells so that the areas of your brain that are not in synch have their channels down regulated so brain areas are not interfering with other brain areas.
 
@@ -460,6 +470,10 @@ So the changes in brain activity, the high phasic burst firing, the phase wave d
 
 Signals are coordinated through synchronous firing thanks to oscillatory physics and the oscillatory firing also binds the signals so that their whole brain can be a combined sensor transmitter system.
 
+__________________________________________________________________________________________________
+
+# The pen, the paper, and the loop.
+
 The way the pattern phasic burst rates change the tonic firing, which has higher magnitude & lower frequency, is the process of which your brain is detecting it’s own information, and the process through which your brain is rendering it’s own information, and the feedback loops in the structure of the brain allow the whole brain to reflect upon the whole brain’s renderings.
 
 So the burst rates represent the rendered information of the mind, and the tonic firing rates represent the canvas to which the rendered information is rendered to. The canvas of your mind is the tonic firing rate, that is changed by the burst firing rate, which is the pen of your mind. The interplay between the pen of your mind and the canvas of your mind is shared by the whole mind, through the process of the tonic firing absorbing the phasic firing.
@@ -480,21 +494,29 @@ Yet that downshift in speed is still going to be noticed by the canvas of your m
 
 So whether the phase wave differential is excitatory (bursting) or inhibitory (slow cortical potential) it etches its ink into the canvas (paper) of your mind.
 
+__________________________________________________________________________________________________
+
 What is interesting is that in your brain, when things are happening in real time, your memories are played in a forward sequence, when you think about memories that happened in the past those memories are played in a backwards sequence. I came to the concept by listening to a video lecture titled "Preconfigured Dynamics in Our Brains" by Brain & Behavior Research Foundation https://youtu.be/izVCKEsDSq0 The lecture was titled "Brain in the body: mental functions, sleep and obesity" by György Buzsáki
 
 Essentially a sharp wave ripple plays out three times. First it plays out really fast, maybe at 200 hz and then it plays out at the behavioral time scale, where you or the organism play out that pattern, the same exact pattern of neural firing that happened at 200hz now plays out at a slower time scale, as a series of slower paced action potentials the neural correlates of real life actions that an organism is taking accomplish some task with motor movements.
 
-So when you do something, first you play out the pattern of what you are going to do in your mind really fast, maybe at 200hz, and then you do it, and the same action potential sequence repeats, and then you remember that you did it, because your brain plays the same sequence back backwards after you do it. I think the backwards playback is sort of how your mind encodes events that belong to the past. At least that idea makes intuitive sense, because we see with medical imaging that the same pattern that you thought about turned into an action that you thought about after the action was in the third step played in reverse. It’s a past event played in reverse. In theory whenever you are thinking about past events your mind is playing back sequences in the reverse order (perhaps to keep separate distinctions between past and future).
+To recap: When you're about to do something, you think about it, you think about what you're gonna do first, and the neural correlates of that happen really fast. That happens at maybe 200hz (Here we are talking about Burst rate firing to initiate a sharp wave ripple)
 
-To recap: When you're about to do something, you think about it, you think about what you're gonna do first, and the neural correlates of that happen really fast.
+Then you do it and when you do it the neural correlates of what you are doing happen much more slowly, on a behavioral time scale, and then after you do it, you get this receipt, and the neural correlates of that receipt is the same sequence played back really fast in reverse. This is what medical imaging shows us.
 
-Then you do it and when you do it the neural correlates of what you are doing happen much more slowly, on a behavioral time scale, and then after you do it, you get this receipt, and the neural correlates of that are the same sequence played back really fast in reverse. This is what medical imaging shows us.
+I think the backwards playback is sort of how your mind encodes events that belong to the past, it makes intuitive sense because what we see with medical imaging the same pattern that you thought about before the task happened at 200 hz, then it becamse the neural correlates of your action at the behavior time scale, then after you completed the task the same pattern happened in reverse really fast.
 
 Basically the neural path that represents the task that you're thinking about happens real fast, and the name neural path repeats more slowly while you are taking the steps that you are taking to get to some goal, and then when you are done you think about what you just did, and the neural path happens again really fast but in the reverse sequence.
 
+Conjecture: Maybe that reverse playback is to help keep the distinction in your mind between patterns that happened in the past compare to patterns that predict future paths intended for future actions.
+
+*This is a past memory that is why it is playing back backwards. So think about that conjecture, is it true? When you think about the past are your past memories playing back to you backwards or in reverse order? Are you thinking about your past in reverse. This concept is just conjecture, a thought experiment. Enjoy.*
+
 That path is a sequence of burst firing, a sharp wave ripple across your brain, between some synchronously cooperating brain areas, with a path defined by inhibitory interneurons.
 
-The means of sequence of firing patterns happened both within one cortical column and across many cortical cortical columns and other brain areas that were linked together with synchronous tonic oscillation patterns. Representing a select group of assemblies of cell assemblies across regions of the brain that function as the collaborated paper canvas for the pen of sharp wave ripple firing sequences.
+__________________________________________________________________________________________________
+
+The sequence of firing patterns happens both within one cortical column and across many cortical cortical columns and other brain areas that were linked together with synchronous tonic oscillation patterns. Representing a select group of assemblies of cell assemblies across regions of the brain that function as the collaborated paper canvas for the pen of sharp wave ripple firing sequences.
 
 So this firing sequence is inside the cortical columns that are coincident with firing sequences inside other cortical columns.
 
