@@ -276,12 +276,20 @@ Like Diffusion networks your incoming signals are noised from high frequency low
 Like Diffusion networks Sharp Wave Ripples stemming from burst firing are creating renderings that reflect what the neural network learned as incoming signals were noised through it's structure. In other words I am arguing that Sharp Wave Ripples are doing the reverse process of constructing an image from the low information tonic frequency, or constructing a sound or feeling from the brains low information tonic frequency that has been compared to pink noise. Diffusion networks learn how images are noised, and they reverse this process to generate novel new images based on textual or image inputs. 
 https://stability.ai/blog/stable-diffusion-public-release
 
-At the 5th & 6th layer Pyramidal Cells there are loops from the top of the neocortex back down to the bottom, to the second & third layers, and the 4th layers, via the Thalamic Matrix Neurons and to the first layer via the Thalamic Core Neurons.
+__________________________________________________________________________________________________
+
+*The structure of the cortical column is something to the effect of this: At the top of the brain, where the 5th & 6th layer Pyramidal Cells reach, there  are loops from the top of the neocortex back down to the bottom, from these 5th & 6th layers Pyramidal cells to Thalamic Neurons to the second & third layers, and the 4th layers, via the Thalamic Matrix Neurons and to the first layer via the Thalamic Core Neurons. The description is not exactly right but it's something like that.*
+
+*Note: I need to update the above paragraph in the future as I still have some unanswered questions about the anatomical & functional structures of the cortical columns, cortical-cortical connections, and cortical-thalamic connections)*
+
+__________________________________________________________________________________________________
 
 To summarize, the neo cortex can be anatomically described as having 6 layers and the top two layers have thalamic connections that route signals back down to the first four layers. However there is interesting work at Numenta that argues that there are more than 6 functionally distinct layers, in each cortical column, in terms of how signals are routed. 
 
-"A Theory of How Columns in the Neocortex Enable Learning the Structure of the World"
-"FIGURE 7. Mapping of sensorimotor inference network onto experimentally observed cortical connections. Arrows represent documented pathways. (A) First instance of network; L4 is input layer, L2/3 is output layer. Green arrows are a feedforward pathway, from thalamo-cortical (TC) relay cells, to L4, to L2/3 cortico-cortical (CC) output cells."
+__________________________________________________________________________________________________
+
+# "A Theory of How Columns in the Neocortex Enable Learning the Structure of the World"
+*"FIGURE 7. Mapping of sensorimotor inference network onto experimentally observed cortical connections. Arrows represent documented pathways. (A) First instance of network; L4 is input layer, L2/3 is output layer. Green arrows are a feedforward pathway, from thalamo-cortical (TC) relay cells, to L4, to L2/3 cortico-cortical (CC) output cells."*
 https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full
 
 Again so you imagined a silly abstraction of incoming signals entering the brain as being like Sonic the Hedgehog traveling through his 360 loops, his path can change, and he can be changed by his path, but the paths that signals travel loop, and the functional neuro pathways themselves have been observed by neuroscientists and are very clearly described in papers such as the one by Numenta linked above.
@@ -291,13 +299,13 @@ I think this analogy can help people who are unfamiliar with computational neuro
 Animated picture of Sonic the Hedgehog moving through a loop.
 https://i.kym-cdn.com/photos/images/newsfeed/000/564/922/ee1.gif
 
-Most of your incoming senses head straight along nerves to thalamus and then they are fed into the neocortex. The Olfactory neural pathway is a little bit different, in that 4/5ths of it connect with parts of the neocortex before they connect with the thalamus, but essentially the Thalamus is like Rome as described in history books, all roads lead to the two Thalami, and from the Thalami throughout the whole brain.
+Most of your incoming senses head straight along nerves to thalamus and then they are fed into the neocortex. The Olfactory neural pathway is a little bit different, in that 4/5ths of it connect with parts of the neocortex before they connect with the thalamus, but essentially the Thalamus is like Rome as described in history books, all roads lead to the two Thalami, and from the Thalami they connect to the whole brain.
 
-The Thalamic core neurons loop signals within a cortical column, and the Thalamic Matrix Cells (inhibitory interneurons) help shape connections between columns.
+As previously covered the Thalamic core neurons loop signals within a cortical column, and the Thalamic Matrix Cells (inhibitory interneurons) help shape connections between columns.
 
-Thalamic activity also connects with the Hippocampal Entorhinal loop, sending & receiving information like a central hub, some have compared it to a router, but it's different from the abstract comparison to a router because the Thalamus modulates signals, helping to shape signal paths between cortical areas, helping to define cortical column assemblies.
+Thalamic activity also connects with the Hippocampal Entorhinal loop, sending & receiving information like a central hub, some have compared it to a router, but it's different from the abstract comparison to a router because the Thalamus modulates signals, (I think of modulation as noising signals, such as in the context of the Diffusion Networks example written about previously) (this is like when you change or noise Sonic the Hedgehog) and the Thalamus also helps to shape signal paths between cortical areas, and it helping to define cortical column assemblies via the Thalamic Matrix Gabaergic Inhibitory Interneurons, and the excitatory post synaptic potentials that it relays from the 6th layer Pyramidal Cells.
 
-Maybe I ought to rephrase cortical column assemblies to macro-meso scale cell assemblies because in my mind I am also including cortical connections to the midbrain, including live cortical assemblies that connect to hippocampus such as the hippocampal entorhinal loop, and cerebral to basal ganglia connections for example the connections between the Default Mode Network and the Ventral Striatum. My expectation is that these areas of the brain are united by synchronous firing, and separated by inhibitory interneurons with connections to the Thalamic Matrix neurons playing a role in selecting blocks of cooperating brain areas that are useful to accomplishing one task versus another task.
+Maybe I ought to rephrase cortical column assemblies to macro & meso scale cell assemblies because in my mind I am also including cortical connections to the midbrain, including live cortical assemblies that connect to hippocampus such as the hippocampal entorhinal loop, and cerebral to basal ganglia connections for example the connections between the Default Mode Network and the Ventral Striatum. My expectation is that these areas of the brain are united by synchronous firing, and separated by inhibitory interneurons with connections to the Thalamic Matrix neurons playing a role in selecting blocks of cooperating brain areas that are useful to accomplishing one task versus another task.
 
 So the thalamus is like a central player that helps program and is programmed by oscillations from all the areas of the brain that it connects to. When the paths of signals change, your rendered memory prediction sequences change and your mental lived in experiences of reality change. However you are not a passive observer in any sense, because any thought that you have and any action that you take is feeding new information into this looping computation and that is shaping a new outcome.
 
@@ -307,36 +315,50 @@ When signals leave these abstract Sonic the Hedgehog loops they travel out the m
 
 Motor outputs include your eye movements, your head movements, your larynx to create your voice. Your motor output pathways are distinct from your sensory input pathways, but there is also a feedback loop between the two called the prioceptive feedback loop. So your incoming sensory signals are for example helping your brain to adjust your motor output signals on a moment by moment basis as you move your hands, fingers or feet, you are paying attention to your movements as you move and modifying them as needed to accomplish your goals in a very precise way.
 
-The motor output branches and incoming sensory nerves also extend into your lungs, controlling muscle movement, but giving you feedback on the status of your breathing, or the status of your organs. 
+The motor output branches and incoming sensory nerves also extend into your lungs, controlling muscle movement, but giving you feedback on the status of your breathing, or the status of your organs. Same thing happens to your eyes, you see stuff, but your motor outputs are controlling your eye movement and so there is a prioceptive feedback loop in your vision also.
 
-I described earlier that the timing of the post somatic side of the neuron is going to do a back propagation signal is partially set by the pre-somatic side of the neuron, and that there is also modification of that timing from other neurons through the upregulation and downregulation individual synapses, via bidirectional synaptic plasticity, and that includes backpropagating signals at the synapse from the postsynaptic membrane to the presynaptic membrane and visa versa.
+I described earlier that the timing of the post somatic side of the neuron is going to do a back propagation signal is partially set by the pre-somatic side of the neuron, and that there is also modification of that timing from other neurons through the upregulation and downregulation individual synapses, via bidirectional synaptic plasticity, and that includes backpropagating signals at the synapse from the postsynaptic membrane to the presynaptic membrane and vice versa.
 
 In summary there are back propagating synaptic signals that are coming from a postsynaptic neural array backwards to the presynaptic neural array. Bidirectional synaptic plasticity helps modify what the neuronal tonic oscillation frequency is, how excited or alert the neuron is to incoming signals (or how depressed it is), and it helps to either synchronize neurons setting the stage for the LTP process or new neural connections or desynchronize them which might set the stage for the LTD process or the disintegration of connections between cells.
 
-# My argument in my work is that the physics of oscillations are helping to coordinate where & when the LTP & LTD processes are taking place. The basic concept is that if an LTD process is initiated a lower threshold of activity causes calcium to
+__________________________________________________________________________________________________
+
+# My argument in my work is that the physics of oscillations are helping to coordinate where & when the LTP & LTD processes are taking place. The basic concept is that if an LTD process is initiated a lower threshold of activity causes calcium to iniate one of the plasticity processes.
 
 See my note on the role of Calcium Ca2+ in plasticity a0138z
 https://github.com/v5ma/selfawarenetworks/blob/main/a0138zcalcium.md 
 
+__________________________________________________________________________________________________
+
 # "Calcium/calmodulin-dependent protein kinase II mediates group I metabotropic glutamate receptor-dependent protein synthesis and long-term depression in rat hippocampus"
 https://pubmed.ncbi.nlm.nih.gov/21593322/
+
+__________________________________________________________________________________________________
 
 # "The role of calcium-calmodulin kinase II in three forms of synaptic plasticity"
 "Calcium influx into postsynaptic dendritic spines can, depending on circumstances, activate three forms of synaptic plasticity: long-term potentiation (LTP), short-term potentiation (STP) and long-term depression (LTD). The increased postsynaptic calcium concentrations that trigger all three forms of plasticity should activate the alpha isoform of calcium-calmodulin kinase type II (alpha CaMKII)"
 "It appears likely that alpha CaMKII is involved in the production or global regulation of all three forms of synaptic plasticity. We propose that the activation of this enzyme is a common step in the induction of LTP and STP, and that alpha CaMKII activity is required for the normal production of LTD."
 https://pubmed.ncbi.nlm.nih.gov/7953554/
 
-Bidirectional synaptic plasticity can include signals that travel backwards across the synaptic gap that are either down regulating or upward regulating the synaptic pattern, which contributes to the frequency of the Apical Dendrite which is going to change the time of when the Apical Dendrite will send a signal that back propagates to the Soma, and if it arrives at the soma at the same time the Basal Dendrite floods the Soma with charge with might see a high phasic burst potential, or in other words a sequence of burst firing that initiates a sharp wave ripple or a cascade of action potentials & inhibitory waves.
+The point is that Macro level oscillations are the triggering event for these calcium influx variations, different variations of calcium influx will trigger different types of synaptic plasticity events.
+
+__________________________________________________________________________________________________
+
+Bidirectional synaptic plasticity can include signals that travel backwards across the synaptic gap that are either down regulating or up regulating the synaptic pattern, which contributes to the frequency of the Apical Dendrite (for one example) which is going to change the time of when the Apical Dendrite will send a signal that back propagates to the Soma, and if it arrives at the soma at the same time the Basal Dendrite floods the Soma with charge with might see a high phasic burst potential, or in other words a sequence of burst firing that initiates a sharp wave ripple or a cascade of action potentials & inhibitory waves.
 
 It’s like the neuron with its branches and its individually modified synapse represent part of a pattern, the idea is that the pattern is a sparse & distributed representation that is rendered when the neuron outputs its pattern through the exit terminal to other neurons. The pattern in your mind is partially rendered when one neural array sends its signals to the next neural array.
 
-You can imagine as a metaphor that the synapses are like piano keys, the dendritic branches are like musical organs, and the soma’s are like bass drums. With the sound of each affecting the whole shared sound that the organism both creates & experiences, because your cells read the output of other cells. Whatever you create you experience.
+You can imagine as a metaphor that the synapses are like piano keys, the dendritic branches are like musical organs, and the soma’s are like bass drums. With the sound of each affecting the whole shared sound that the organism both creates & experiences, because your cells read the output of other cells. Whatever you create, you experience, whatever you experience your mind generated from it's activity.
 
-When the neuron’s output to the next signal is a rate change
+The neuron’s output to the next signal is a rate change + the change in the magnitude of the neurotransmitter release.
 
-The default tonic oscillation is that the neuron will fire regularly, in for example the theta frequency. When the neuron detects novel information that is represented with a phase rate change, or an irregular spike, or inhibition, or a phase rate bursting event.
+The default tonic oscillation is that the neuron will fire regularly with same frequency & magnitude of neurotransmitter release, a tonic frequency oscillation example is the theta frequency, or the alpha frequency, there are several different power bands of tonic firing.
 
-The tonic rate frequency or power band frequency could be 20 hertz, 40 hertz, 60 hz, or 80 hertz. Or described with frequency ranges such as Theta, Alpha, Beta, Gamma, or High Gamma (delta (2–4 Hz), theta (4–8 Hz), alpha (8–12 Hz), beta (14–25 Hz), and gamma (30–100 Hz) bands), but despite the frequency the point is that the tonic firing is a regular pattern, with low information, that serves as an attractor for synchronous oscillations of the brain’s neuron processors, or neuron clocks.
+The rate change & magnitude change is information.
+
+When the neuron detects novel information that novel information is represented with a phase rate change, and a change in the magnitude of neurotransmitter release. The phase rate changes are referred to as irregular action potential spikes, or inhibited activity, or a high phasic burst firing event.
+
+The tonic rate frequency or power band frequency could be 20 hertz, 40 hertz, 60 hz, or 80 hertz. Or described with frequency ranges such as delta (2–4 Hz), theta (4–8 Hz), alpha (8–12 Hz), beta (14–25 Hz), and gamma (30–100 Hz) bands), but despite the frequency the point is that the tonic firing is a regular pattern, with low information, that serves as an attractor for synchronous oscillations of the brain’s neuron processors, or neuron clocks.
 
 The combined effect of up & down regulated synaptic connections results in determining when a neuron or neuron cell assembly might shift its tonic oscillation to another power band frequency, which helps determine the relationships between large scale structures in the brain, as groups of neurons tend to oscillate together but neurons can shift in their associations between one oscillating group and another.
 
@@ -348,23 +370,33 @@ While they look like noise in EEG measurements the tonic oscillations of your De
 
 # "Tuning Neural Synchronization: The Role of Variable Oscillation Frequencies in Neural Circuits"
 "Beyond the small differences in gamma frequencies across cortical areas, small differences in preferred frequency can also occur locally within the same cortical area. A gamma-band frequency gradient as a function of eccentricity (fovea to periphery) in V1 has been established (Lima et al., 2010; van Pelt and Fries, 2013; Lowet et al., 2017)."
-"Beyond the small differences in gamma frequencies across cortical areas, small differences in preferred frequency can also occur locally within the same cortical area. A gamma-band frequency gradient as a function of eccentricity (fovea to periphery) in V1 has been established (Lima et al., 2010; van Pelt and Fries, 2013; Lowet et al., 2017)."
+"These frequency differences (detuning) have been largely ignored and play little role in current functional theories of brain oscillations. This contrasts with the crucial role that detuning plays in synchronization theory, as originally derived in physical systems. Here, we propose that detuning is equally important to understand synchronization in biological systems. Detuning is a critical control parameter in synchronization, which is not only important in shaping phase-locking, but also in establishing preferred phase relations between oscillators."
+"Here, we summarize accumulating experimental evidence showing that oscillations within the same broad frequency band may express systematically different frequencies across brain regions and that precise oscillation frequencies are systematically modulated as a function of sensory, motor and cognitive variables."
+"Intuitively, if oscillatory cycles in one brain region are to coordinate with cycles of another brain region, one assumes that they must share a common frequency. Consistent with this prevalent assumption is the wide use of (spectral) coherence to quantify interactions (Lowet et al., 2016). Coherence however, assumes stationarity of the underlying oscillations (for instance a stable frequency) and linearity of the relationship between them. Any cross-frequency interactions, even across very small frequency differences, are therefore not accounted for in measures of coherence. However, experimental observations showing that neural rhythms across and within brain regions often have somewhat different frequencies show that the stationarity and linearity assumptions required for the calculation of coherence are often violated. For example, small but systematic differences in visual cortical gamma-band rhythms are well documented in the primate visual system."
+"Zhang, (Zhang et al., 2018) has recently observed systematic theta and alpha waves traveling over cortex as recorded by a high-density ECoG array. They found that the direction of the traveling waves was systematically related to frequency gradients over cortical space. Similarly, theta rhythmic resonance in the rodent hippocampal-entorhinal system has also been shown to exhibit specific frequency changes over space (Giocomo et al., 2007; Shay et al., 2012)."
+"The Precise Frequency Changes With Sensory and Cognitive Variables
+Here, we will provide evidence that oscillation frequency not only differs as a function of anatomical location, but also depends systematically on the animal’s sensation, cognition and behavior"
+"These and other studies demonstrate that oscillation frequency is a variable parameter that interacts with basic neural network properties to represent changes in perception and cognition."
 https://www.frontiersin.org/articles/10.3389/fnsys.2022.908665/full
 
 (article mentioned in note a0149z) 
 https://github.com/v5ma/selfawarenetworks/blob/main/a0149z.md
 
-The 6th pyramidal cells in the cortical columns will send EPSP via the thalamus to the prime the soma’s of 2nd & 3rd layer cells.
+The 6th pyramidal cells in the cortical columns will send EPSP via the thalamus to prime the soma’s of 2nd & 3rd layer cells.
 
 # Read my notes on the "Neuroelectric Tuning of Cortical Oscillations by Apical Dendrites in Loop Circuits" https://github.com/v5ma/selfawarenetworks/blob/main/a0007z.md
 
 The pyramidal cells in the cortical columns will receive signals that sort of prime the soma to have a certain energy threshold that is more excited than the sensory inputs.
 
-So the combined sensory inputs, when combined with the excited level of soma activation, will be more likely to trigger irregular action potentials or burst firing at the soma.
+So the combined sensory inputs (from the basal dendrite), when combined with the excited level of soma activation, will be more likely to trigger irregular action potentials or burst firing at the soma.
+
+For a pyramidal cell to fire the Dendrite has to fill up with charge, and the Soma has to fill up with charge, and the charge has to arrive within a short window of time to trigger an action potential. If you have neurons from the 6th layer that are sending excitatory potentials back down to the soma in the 2nd & 3rd layer, that increases the chances that neuron is going to fire. In otherwords it's primed.
 
 If you have less sensory input, a primed soma can be more sensitive to that lessor input because there's already charge in the soma ready to set the neuron off.
 
-In a pyramidal cell the interplay between dendritic branches and somatic branches can upregulate or downregulate the sensitivity of the soma to dendritic signals, increasing or decreasing the resistance to phase wave changes via the primary soma based action potential event. This is a fractal pattern of the up regulation & down regulation of synaptic channels that might let sodium in, potassium own, increasing or decreasing some portion of the dendritic branches sensitivity or resistance to incoming signals.
+In a pyramidal cell the interplay between dendritic branches and somatic branches can upregulate or downregulate the sensitivity of the soma to dendritic signals, increasing or decreasing the resistance to phase wave changes via the primary soma based action potential event.
+
+This is a fractal pattern of the up regulation & down regulation of synaptic channels that might let sodium in, potassium own, increasing or decreasing some portion of the dendritic branches sensitivity or resistance to incoming signals.
 
 If the Dendritic is a microphone (or a camera) metaphorically, imagine that its synapses are doing carefully calibrated gain control of the sound, if the sounds are too loud it dials back its receptivity so it can parse patterns from the louder noise, if the sounds are too low it dials up its voltage (and its attention) to parse patterns from the quieter noise.
 
@@ -492,5 +524,5 @@ Configurations that play back combinations of learned patterns that result in se
 
 As the organism navigates the environment, with this neural computation, that I have coined Neural Array Projection Oscillation Tomography, the development of their learned neural pathways and learned brain network configurations continues in perpetuity throughout your lifespan.
 
-Yeah, it's basically it.
+Yeah, that's basically it.
 
