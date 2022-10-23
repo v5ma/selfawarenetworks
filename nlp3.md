@@ -4,6 +4,8 @@ Apr 22, 2017
 
 Original Audio here https://youtu.be/_yKjtTVoVlU
 
+Audio Transcription by OpenAI's Whisper
+
 So, welcome to the NeuroLaze podcast, episode 3, with Eric Matzner
 
 Matzner

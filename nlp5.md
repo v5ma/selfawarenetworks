@@ -2,928 +2,724 @@ Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY
 
 original audio https://soundcloud.com/user-899513447/the-neural-lace-podcast-5-jules-urbach-ceo-otoy-inc
 
-Hello, hello, everyone. This is Micah with Silicon Valley Global News, and also with the
+Audio Transcription by OpenAI's Whisper
 
-Neuralace podcast. And I'm here talking to Jules Urbach. He is the CEO of Otoy. The inspiration
+Were at GTC 2017 the GPU conference hosted by NVIDIA talking to Otoy's Jules Urbach
 
-for the call was we recently had some epic news from SeaGraph and even following SeaGraph on,
+he's the CEO and founder of Otoy and I'm Micah Blumberg.
 
-you know, NVIDIA's RTX and also Otoi. So now Octane is integrated into the two top game engines,
+This DSLR that was weighted by another DSLR that was spun around in order to do
 
-Unreal Engine 4 and Unity. One of the talks that Jules was interviewed by NVIDIA at SeaGraph,
+photogrammetry and that for me that made Otoy famous in my mind and I'm
 
-and he was really sort of startled and surprised by the fact that we now have
+glad that I'm glad that was the thing that got you interested and it was
 
-real-time ray tracing on a single GPU. Is that correct? Was that they interpret that correctly?
+definitely an interesting experiment but we've been it was actually sort of a
 
-Yeah, it was a great interview, and it was one of those cases where, you know, I've been championing
+midpoint for us I mean we've been working on on I wouldn't even call it
 
-the cause of ray tracing hardware for a while. I mean, I was first exposed to that possibility
+photogrammetry we've been working on on really high-end capture of
 
-10 years ago at SeaGraph when I was on a panel with a company called Caustic Labs, which was
+environments and people through a subsidiary of ours called Light Stage and
 
-later acquired by Imagination Technologies. And they had really early ray tracing hardware,
+Light Stage was started out of USC you know over a decade ago and it's been
 
-and it looked promising, but it wasn't powerful enough to really move the needle or do anything.
+used and I mean if you see a film tape you see you know the Avengers or you see
 
-And when they got acquired by Imagination Technologies, which was the company that ended
+you know Tarkin or Lea in Rogue One like Light Stage is scanning the
 
-up powering the iPhones GPUs really up until last year. And unfortunately, they went out of,
+actors that stand in for them or that play these people and it's been used for
 
-well, they got bought, basically, but Apple basically stopped using their GPUs and that
+a long time and it's basically ground truth it gives you all the lighting
 
-cratered the company. I was concerned that ray tracing hardware was like the electric car,
+information it's like if you're gonna scan something for the holodeck you'd
 
-the car that runs on water, you know, it was just wither on the vine. But we had tested the
+go to Light Stage and it gives you that data back it's almost too much data for
 
-Imagination ray tracing hardware two years ago, and the SeaGraph announced that, hey,
+most rendering pipelines even for cinema to use and what we wanted to do is we
 
-we're going to ship octane on this thing because it's a game changer. It's 10 times faster than
+wanted to come up with ways of capturing things outside the Light Stage.
 
-the compute cores for ray tracing, and therefore, path tracing, which is what we use in
+Light Stage is like the Brunberg fly thing you're in a bubble you have to
 
-high-quality visual effects for rendering. And I think that a video who was keeping this
+go to a facility we've been shrinking that down more and more but we also wanted
 
-really quiet, they'd been working on this thing for almost a decade, and we got lighted onto that,
+to come up with ways where you know Light Stage works by having a lot of
 
-under the secret of that once the hardware was almost to the point where
+lights and a few lenses but you can also capture the same sort of volumetric or
 
-it was about a year away from shipping. And we got good development hardware. We built as much
+holographic light fields volume by having a lot of viewpoints and the way
 
-as we could of octane as with everyone on the experimental RTX hardware. And we had basically
+that this was structured with that spinning camera was just to spin the
 
-one implementation, the stuff that we built on Vulkan, which is an API for computer graphics that
+camera 1728 times and get a meter of light and a volume and then basically
 
-was able to fully leverage those ray tracing cores. And we were seeing eight times the performance
+process that data and turn it into a true like you know light field surface
 
-of an exactly the same generation card from the Pascal NVIDIA generation. And that's,
+in other words light feels like a white light hologram no matter where you're
 
-it's very rare to see it 10 times improving its speed overnight in one instance. And there's
+looking at it the pixels are beamed into your eyes so it looks like you're
 
-still work to be done. I mean, it's so new. We talked that, you know, even with your advanced
+looking in the real world and it's a magical effect in VR it looks pretty
 
-work that we did, we still have probably another six months before we can start shipping products
+good even in a wind-dead mode and I think that it'll look even better when
 
-that absolutely tap into the full power of this ray tracing cores. But, you know, the other part
+you have glasses like the Amoglif or maybe Magic Leaf that have depth planes
 
-of that, an energy that I gave to NVIDIA was that, you know, there's no doubt in my mind that the
+where you can really appreciate having sort of multiple rays shot into your
 
-next decade of computer graphics, if not the next 20 years, is going to be defined by ray tracing
+eyes at once and and so this was just a test and since then I mean if you look
 
-hardware at the foundational layer. The same way that GPUs have just basically made 3D graphics,
+at the more recent work that we've done as a company we partnered with with
 
-you know, commodity, even on our phones, you know, we can play Fortnite on our phones.
+that Facebook and they built a camera that is 24 lenses you know they don't
 
-So there's been a lot of people, like, you know, I've shared a couple articles on this topic.
+call it a light field thing but to me it's it captures in a similar way
 
-And I really wanted to point out the fact that ray tracing is going to make a huge difference in
+overlapping viewpoints that we can then use to reconstruct a scene and given that
 
-how we experience virtual reality. And it's coming with this generation of cards, the 20 series
+captures that in motion and that you can move the camera around or have multiple
 
-RTX cards, it's going to change virtual reality. We're going to have people are going to be able
+cameras you can build you know a holographic asset and that's exactly
 
-to figure out, and this is what I'm telling people, but we're, you know, people, I'm telling
+the pipeline that is a company we're turning on for them and connecting that
 
-people, we're going to be able to understand a scene, we're going to be more immersed in a scene
+to various different tools that we also support through our rendering platform
 
-because the things like the reflections and, you know, the shadows, they will give you a sense
+and we make a software called octane I think some of the more famous pieces
 
-of realism and a sense of immersion that we haven't had in VR before. But I tell people this,
+that have been done with octane include the opening Westworld if you watch HBO
 
-and I get this skepticism back, and they say, well, there's, you know, there's no way that we can,
+that was all done in cinema 40 with our render and you know as a the future of
 
-you know, VR has to run at 90 frames per second, and you have to render the entire scene in real
+rendering as I just was giving at this talk this morning I think is real time
 
-time ray tracing. You can't like that. Maybe I'm trying to argue you can use it as an effect. So
+I mean it has to be real time then it has to get into this sort of magical area
 
-I wanted to, you know, doll back from the hype a little bit and get a sense of the realism
+where it's like when you go on the holodeck and you say arch you know you
 
-from you of what is, how is this real time ray tracing going to actually affect our VR
+need Sherlock Holmes or jungle you know it kind of knows semantically what you
 
-experiences? And do you expect to see new new headsets coming this year or next year? What's
+want and that kind of workflow comes from capturing the real world processing it
 
-what do you think the reality is in terms of the industry for VR and AR?
+doing deep learning on it being able to have a ground-tooth renderer and those
 
-So I think, yeah, I mean, I, I'm a game believer. I don't, you know, I just answered a core
+these pieces are decades worth of work and we're like seven years into that but
 
-post like yesterday about this very question is, you know, is the, is ray tracing real-time ray
+anyway I'm glad that you saw the company at the point where we had that that I
 
-tracing, or even arcade gimmick? And it's not. I mean, it's so, there's two parts of the rendering
+think it was an upload VR that that article on the yes it's article by
 
-platform that are fundamentally transformed by having this kind of hardware and consumer cards,
+randam about the spinning light field capture system and in fact if you get a
 
-you know, shipping pretty much everywhere. I mean, the low end, the high end, everything's
+lot of people excited because I think it opened their eyes to the fact that
 
-going to have ray tracing async that's, you know, even on the lower end, 20 series and video cards.
+there's more than just 360 or even 360 with depth I mean there's a full
 
-First thing that you could do with that in VR is you can trace primary rays. And we were showing
+holographic universe waiting to be captured and every time you're not
 
-you at the cigarette booth, we could do 4k 120. So I mean, you know, that's, that's already, you
+doing that you know it's like not capturing things in color you're missing
 
-know, and, you know, and that's easily doing 4k 120 with path tracing with shading and everything.
+a whole dimension of experience and I'm grateful the Facebook's attacking the
 
-We were just doing primary rays. And we just wanted to essentially do cogeated rendering,
+problem I think there's others in this you know in the space doing cool stuff
 
-do all these tricks, you know, you don't have to use, you don't have to work and render the
+light row and I also did the Facebook sort of set the bar for a lot of others
 
-things twice. So we can do all that stuff with, without using traditional rasterization on these
+to sort of follow them into like the minimum you need now to have a
 
-RTX cards. And even on one of those things, you could drive any existing VR headset and just
+compelling experience if you've seen the demos that we've done with the data is
 
-switch from rasterization to path, you know, to ray tracing. I think that that's, it's a big week
+depth you know like and getting overlapping depth is really really great
 
-for a lot of game engines. I mean, one of the reasons why we've integrated an octane,
+so the way I first heard about the light row and the original name was the
 
-integrated octane inside of Unreal immunity is that, you know, those engines have been built for,
+light row sphere and they said it's a fire hose of data there's there's like
 
-for a very long time on rasterization. And we have a great relationship with both companies. I was
+how can we how can we ever have the ship of all like you have this server array
 
-talking to Tim Salini about, you know, Unreal and Brigade and octane all these things like, well,
+with 12 you know 12 hard drives and that only records like an hour of data so
 
-you know, the first step is clearly for us like hybrid, where we use traditional rasterization
+it's this massive fire hose data which I think you were talking about in the
 
-the way it is now, nothing changes, but the reflections in the shading are improved by
+beginning like how do we get this down to you know compress it to something
 
-ray tracing harder because that's low hanging fruit. So all of the RTX demos that Jensen was
+that's typical we have and now I've seen it so I've been to see yes and I've
 
-showing for games typically, you know, have that improvement in quality, you know, from that. But
+tried the hype VR I've got to try the the Sony the Sony has their own sort of
 
-that's really, that's almost nothing. That's really known as missing the true value of this,
+six degree of freedom and your your project with Facebook you know six
 
-which is that if you go one step further, which I think we'll be able to deliver to Unity and
+degrees of freedom freedom in a camera so this is now going down the pipeline
 
-Unreal Engine users right off the bat, is you can switch to complete ray tracing of the scene.
+where Facebook and Sony are are saying okay we're gonna take this this
 
-So, you know, immediately seen complexity like forest to be rendered and everything that octane
+technology of volume of should we call volumetric video or fine term for that
 
-can render even without the shading for any film like feature films that we did for Ant-Man and
+for what we're doing at this point it's still a point cloud it's got maybe
 
-Lost and the like, can be dropped into VR and one or two of these RTX cards can power that. And
+multiple layers you add even more rays into it it's a light field you add a
 
-even headsets that have, you know, frankly, even 4K by 4K per eye, if you ever were to go that
+more information it's like a holographic digital asset but you know
 
-further, you can imagine things sort of progressing to that level, you know, the RTX hardware can
+volumetric video is probably if you're able to move through it at all it's a
 
-keep up with that. And you can start to skip a lot of the hacks and a lot of the problems that
+volumetric video file I think that's a good description of it's what a lot of
 
-one held back. Scenes and complexity and visual fidelity, because, you know, you have to render
+people call it six-dot video so then it Adobe shows off this new you can convert
 
-everything with triangles, not, you know, can, you know, raises of ray tracing, you know, light.
+a 360 from an old just an ordinary like simple 360 camera not even 3d and you
 
-And also things like anti-aliasing are solved, that the field gets solved. A lot of effects
+can turn that into sort of like a hologram and the thing that I noticed
 
-ray tracing just solves correctly without having to hack it. And that's double the case in VR,
+with that demo though is that it requires structure for motion so basically
 
-where you can just render those rays, you know, instead of doing two renders and doing a low-res
+if anything's moving it won't work and if the cameras are moving it won't work so
 
-one and both using phobia to render to mix those, you just use ray tracing to basically do a heat
+that means it is basically capturing is still seen and you know that's that is
 
-map and just send more rays to the parts of the viewport that are looked at by the eye. And
+still super relevant and absolutely important for us to have it even in a
 
-that's something you can't do in traditional rasterization, and it would be very expensive to
+camera I think it's an amazing piece of software I do think though that one of
 
-do with that RTX. The second thing, sorry, I'll let you finish. Yeah, the second sort of boost
+the things that the Facebook guys did right was that you know I want to be
 
-from from this whole RTX GPU ecosystem is not just the ray tracing hardware, but also the
+able to capture video I want to do it in a single small portable ball and I want
 
-tensor cores and the FK16 floating point operations on there. So we have our own AI denoiser, but
+it to be volumetric and it needs to be in motion so that magical experience of
 
-practically the stuff that they're showing us for real-time is really good. And so being able to do
+having everything around you all at once moving with overlapping you know you
 
-real-time denoisers in an AI-based or machine learning base that can clean up, you know,
+have planes is pretty cool that doesn't mean they can't be bigger and that's
 
-shading noise that we have when you're doing really high-quality ray tracing or path tracing,
+I'm like trust camera is a monster thing it has 90 lenses and that that is
 
-that also becomes a lot cheaper and a lot faster on this generation of GPUs. You combine those
+definitely capturing a full light field and it's it's awesome I just think it's
 
-together, you end up really getting very close to solving, you know, basically the rendering
+you know you have a spectrum of different players putting in these
 
-equation. In other words, all the laws of light and physics you need to drive in real-time.
+different rigs and I think I haven't seen the hype the art rig I've heard is
 
-And I think that it's going to take, you know, it's going to take new content to drive that. I
+really good but I also think it's using like LiDAR and 14 red cameras and I
 
-mean, just converting your Unreal Engine raster game with better reflections with RTX is easy,
+think that this probably some fits somewhere price-wise maybe between the
 
-and it can look great. I mean, look at that Star Wars demo that they did, but there's a deeper and
+lightware stuff and the Facebook stuff and I think Sony stuff as far as I
 
-more, you know, frankly, a much higher quality option that is just going to probably take six
+don't know how they captured I think it was done in a very clever way to make
 
-months to, you know, maybe nine months to really, you know, get in the hands of game developers.
+it work well so Sony captured it with three a regular 3d 360 rig and and so
 
-And we're trying to do our part in that by providing, I mean, Unity and Optane are free
+there's but they're selling it not to regular consumers but to like the
 
-together, and we're going to make Optane and Brigade inside of Unreal also very inexpensive.
+producers of shows and plays and concerts because it requires a lot of
 
-So we want people to develop content, and we're working on a real-time ray tracing system that,
+post-production yeah the Facebook thing doesn't I mean what you're seeing out of
 
-you know, while it obviously will be able to go to the distance with RTX hardware, it also,
+the demos there is largely the raw data I mean I don't know if you mean post
 
-you know, if you go under a cigarette, cigarette, if you see it's running on an iPhone, and we can
+correction like he needs to be cleaned up or add like add reflections and
 
-do real-time ray tracing on that device and on intelligent graphics. So we've decided we were
+different effects I mean you have to do that with the Facebook stuff too but not
 
-going to solve this problem for everyone and everywhere we can, but there's no denying that,
+not quite so much because one thing I can't speak to the Sony data set I've
 
-like, when you're going beyond just doing it at 1080p, if you want to go to 4K or you want to do
+never used it but the Facebook one I've I'm now like you know months into this
 
-this for VR headset or even, you know, AR, that ray tracing hardware is a game changer. And so the
+thing and I spent so many hours looking at it and working on the on the
 
-idea is that we will bring, you know, through just the two integrations we have in these game
+different parts of it you actually get you know there's eight overlapping rays
 
-engines, we'll bring the entire cinematic pipeline that the film studios use for rendering movies,
+for almost every pixel that you capture with this thing and that gives you
 
-and we'll bring that to real-time, and we'll bring that to VR. And then it's up to the VR
+essentially glossy reflections so you actually get you when you're moving
 
-headsets then to come up with higher resolution, higher frame rates. So that's actually something
+around within that you know sort of the space of your seated experience you will
 
-that a lot of people are really astonished by, that the real-time ray tracing is revolutionizing
+get glossy reflections you don't need to add anything it's in there you also get
 
-the movie industry in addition to the game industry, and you're promising that we're going to be able
+whole-filling so you don't have cavities of things that are missing and that's
 
-to hit 90 frames per second at 4K resolution with some of the, with titles that look as good as
+pretty compelling so you add that with the fact that you there's small enough
 
-existing VR titles today. Yeah, I mean, hopefully better. I mean, that's the point. Hopefully when
+you can have three of them you can also you know essentially capture the scene
 
-ray tracing you do something better, and there's, I mean, just like ray tracing, you can do it the
+beforehand I mean that's probably those workflows are like you know minutes of
 
-hard way. You can brute force unbiased rendering, which is what Octane does, but there's also the
+preparation time you should you probably should do so I think that it's a good
 
-same tricks that you have in games. If you want a pre-compute part of the scene that's told to
+sweet spot as one reason why I was excited enough to back it as a company like
 
-ray tracing, it'll still look really, really good. And in fact, many movies use that very same technique.
+you know we work with a lot of different vendors work in cameras and we want to
 
-Not all movies are done in Octane, which Octane is like, is the laws of physics, you know, computed.
+support all of them but it's like from for us to you know commit to something
 
-It's like you can still do, you know, shader tricks and stuff like caustics and stuff and
+this at this scale like I wanted the results to be really good and I will say
 
-renders like Arnold, which are used in many films. You know, Arnold also is moving through the GP,
+the Facebook stuff is really good so it doesn't mean that others can't even do
 
-which is great. And I think that the quality will definitely go up. And the things that you can do
+higher-quality captures the question is is it practical is it how much work is it
 
-in, with ray tracing hardware, not necessarily super obvious right at day one with, with a
+I don't know you know the Facebook stuff is largely automated and it was it was
 
-launch of these cards, I mean, that's why I think maybe people aren't getting how big of the deal
+kind of compelling to see that come out of the processing pipeline without any
 
-this is. But, you know, I think it'll be pretty clear for both on the cinematic, you know, film
+human intervention so recently Unity announced that they have a new tool for
 
-side of things where you can really do the real time and have that film quality and also, of
+360 where you can separate the video into layers and then you can make it
 
-course, remerces, you know, a chance to use in life. So will developers have to, you know, shift
+interactive and so you would like failure you're working with point clouds and I
 
-away from using polygons and maybe start to, in order to really maximize the use of these,
+was just trying the latest Nvidia point cloud demo over here and but the question
 
-of these new cards, will they need to start, you know, modeling in Voxels or Lightfields or
+to me was well how can we make point clouds interactive how can we make them
 
-what does the developer have to do? No, no, no. No, it's on the constant side. On the art side,
+behave like objects in a program how can programmers use them to make it a demo
 
-nothing really changes. I mean, you know, the only thing that we, in Optane, there's really
+we did in Unity with the Facebook video data well anyway if you haven't you should
 
-almost two paths. And the, and RTX only accelerates, by the way, one of those, which is,
+check out the the video that we did at F8 and in that video we actually show
 
-which is polygons. Like it's still, the only thing that the ray tracing hardware really does
+exactly that workflow we don't just show it in Unity we showed in After Effects
 
-accelerate is the rendering of triangle meshes. And the thing that we can do in Optane for films
+and Nuke where in fact in my talk tomorrow at Ford you know if you have time
 
-is you can take something that is like a hair primitive, things that aren't necessarily easily
+you should check it out or if others are listening to this and this guy's posted
 
-turned into trimesh, and you can still turn them into trimeshes. And that's what you can do in
+yeah basically you can drag dragon synthetic objects octane render things
 
-any game engine. You can turn everything into a triangle soup, and you can send that to the
+perfectly it's a cinematic production renderer you take the Facebook data you
 
-ray tracing hardware, and it'll, it'll be much faster. From the art pipeline, if anything, it's,
+can match them together and actually reflections or fractures everything
 
-it's simpler because artists have to go, sometimes they start in the much higher quality version of
+works perfectly and that's our offline rendering you can sort by the way render
 
-what they would do for a cut scene or film. And then they, and then they have to figure out how
+that into a beautiful light field and have that published experience were
 
-to reduce that quality to get it into a, you know, a game engine. And our work, I mean, really, half
+perfectly on six in six degrees of freedom and for real-time interaction
 
-of the work we're doing with, with integrations into these game engines is not just the render,
+weird it's you know you can actually treat the Facebook video data as a game
 
-but also the art pipeline. You can take something that you created in Cinema 4D or Maya, or right
+level which is exactly what we're showing in our booth and I got butterflies
 
-at, right for a Marvel movie, which is, they use Cinema 4D and Optane, like, and, you know, for
+flapping around the Oculus touch control is a giant light I can drop it on the
 
-Elastic, which is a company that did the, the titles for Ant and the Lost. And you can just drop
+ground and it you know lights things up you've got ambient inclusion you've got
 
-that into an Orbex package, which is the interchange format we, we open sourced for Optane. And you
+GI all these tools that we're building so it's a game level and in fact the most
 
-can drop it into Unity and Unreal. And you can then, with RTX hardware, you can now render that
+the most awesome thing I think you do with a Facebook camera is you can use it
 
-quality and basically in real time. And, you know, that's not making it easier. You don't have to
+to just scan environment and you know take a few seconds of that and drop it
 
-basically come up with two platforms and stick to one and start with the highest quality version.
+into Unity and you've got a fully formed game level that looks really good you
 
-So I went back and I watched a talk that you did at Seagraph in 2015, part of a
+don't have to pay an artist to do it you just captured it and that is that's
 
-light field talk with a bunch of other light field talks. It was a really great series of talks.
+pretty powerful so it is a game option you can move it around it's just and you
 
-And I'll link them with the article that's going to accompany this. But I, I really wanted to
+can scale it you can shrink it I highly recommend that anybody that has access to
 
-sort of like go back to light field capture, which is how I, you know, first heard of, of your
+our demos until we put it out publicly with Facebook checks it out at our booth
 
-work. And it looks like, you know, at Seagraph, that Google has basically reinvented the wheel
+or at these trade shows that we go to it's it's pretty cool so going back to
 
-with their, with their light field capture. They basically redid what you did back in 2014.
+AWE and you had this announcement with ODG the idea was you know we can we can
 
-I mean, I should, I, yeah, I should, I should point out that the, you know, employee that worked,
+stream a VR experience to a headset so you can stream something from that it's
 
-you know, Paul Kavevic, who's now doing that project at Google, you know, worked with Otoane,
+processed with powerful desktop GPUs over Wi-Fi or over a 5G cell phone oh yeah
 
-who was one of the co-creators of Lightstage and worked with us for eight years. So he was a friend
+well we don't need a 5G or Wi-Fi I mean the stuff that we were showing and it's
 
-of the company and he actually was part of that project that we did in our office. So he basically
+not just ODG so we've shown a version on Tango we've shown a version of Gear VR
 
-rebuilt that. You're right. He basically rebuilt that at Google and they've, they've been experimented
+we've shown a version on just a regular Samsung phone with a marker-based
 
-with it. And it's super cool. But that is basically, you know, that, that's the exact
+tracker and you know they have different resolutions but what's fascinating
 
-treatment. It's the same thing that we would have been doing in, with the spinning camera. They,
+about these these portals is the portals I mean they're not quite as heavy as a
 
-you know, the improvements with having 16 GoPros in an office is probably makes it faster,
+full VR experience but looking at you know per AR and mixed reality even VR
 
-which is great. But that's, it is exactly the same thing.
+where you're looking into a portal into a different world I mean we can squeeze
 
-Well, the astonishing thing was they went from 16 GoPros back down to the spinning camera rig
+that down to a few megabits and it works just fine because we're you know it's
 
-that you had. So they actually, they went up to the 16 GoPros and then they reduced it back down to
+basically foveated rendering in streaming form and it's very fast and we were
 
-the, the, the two camera sort of thing, except, except your, you only had one camera that was
+that to me that's one of the most that one of the first first things I want to
 
-active and they had two cameras that were active. So, but it was interesting to see that sort of
+tackle is it's going to work really well and it's also how we stream life fills
 
-big circle, but talking about life field then, you know, so that, so from trying to fill in the
+into you know a sort of a higher level framework Unity for example can can take
 
-gaps, you know, in the life field is where, where, is that where the concept of AID noising came from
+that stream we can beam it into a surface and it can actually be projected
 
-that then became the concept that came the technology that enabled real-time ray tracing?
+and that's one of the things that makes the latency much less tricky for
 
-So they're all sort of separate pieces. For me, light fields, I mean, you know,
+something like ODG the resolution is much higher the thing that we're missing
 
-when you look at, at, at really where light fields end up, it's not even so much the capture,
+with ODG is we don't have position tracking there's a there's a module on
 
-because for me, the real value of, and even the work that Paul did, and we did together,
+the top for lighthouse we absolutely desperately want to have that built so
 
-when we were building light stage, I mean, all this came out of our light stage work. And light
+we can actually test full position tracking in the meantime one thing we
 
-stage is more than a light field capturing. This is what we do for high-end films. Like when we
+have been testing in the earlier ODG glosses was just having a super high
 
-scan in, you know, all the actors for an Avengers movie or, you know, one of these big
+resolution overlay it's basically our light field stream just one frame of it
 
-temporal films, and we do this every week, every day, like we just, all the DCP shows or
+without the holographic part and you know moving that over a marker it looks
 
-light stage captures, we don't just capture a mesh and we don't capture lights and we capture
+amazing and that's at our booth as well so that's a great demo it the resolution
 
-something more than that called reflective field, which gives you all the ways that light
+on those glasses is remarkable it is four times the res 16 times a res because
 
-bounces off that surface. So you essentially don't have to, you know, artist and write shaders for
+it's four times the horizontal and vertical pixel density of the gear VR and
 
-skin. You have the poor level details, you have the way light bounces, and that's really important
+you know it looks kind of magical we don't see a screen door effect I want
 
-for mixed reality as well as for films. So one of the reasons why we didn't go deeper into light
+that I want that and I want position tracking on a wide field of view so you
 
-field capture and, and push further even on that experimental thing that Paul ended up doing at
+know I've seen in parts all the pieces of sort of my ideal HMD and ODG cracked
 
-Google was because really we want to get into, we want to be able to capture what we capture on a
+one thing that I just hadn't seen before which is the resolution problem and they
 
-light stage in, you know, basically in real time and make that something that is consumable inside
+did it all in a pair of fairly lightweight glosses so you have you have
 
-of Octane or inside of the R pipeline, because that's, if you're just capturing a light field,
+Microsoft and their HoloLens had the position tracking is pretty good a lot
 
-you're actually, well, it is better than RGB in depth or maybe stereo or pano. It's really still
+of people would say and I you know one of the things I wonder as why can't you
 
-bringing, you know, a very small subset of the data that you want. What you want is you want a CG
+take the position tracking from the HoloLens and put it on the ODG glasses
 
-recreation that can be dropped into a renderer and treated like a CG object that matches the real
+and apparently it's too the power is too high and it's too big so you know that
 
-world. And for that, you need to capture materials. And there is a lot of work that we're doing where
+that was one of the reasons why it was it wasn't necessarily an option I heard
 
-we're looking at, you know, we have a light stage to capture ground truth. Our AID noise can work
+the HoloLens is clocked at 30% of its performance capability because if you
 
-all the eyes that we're doing is mostly speed up rendering to make it so that, you know, the
+ran it at 100% it would catch fire yeah I mean you know the current HoloLens has
 
-rendering that you would get out of a ray tracer, path tracer can be done in the 10th of time. The
+a couple of things that I think could be better it's 720p instead of 1080p and
 
-AI can just finish the work. You don't need to finish the simulation. The AI can figure out the
+the ODG glasses are 1080p per eye for example cherry trail which is I think
 
-pieces heuristically. And capture is very similar to that. So our work at light stages, we have the
+the the SOC on the HoloLens is it's not a great GPU I mean it's like it's
 
-absolutely, and we have 800 lights, we can capture perfect holographic representations of people,
+probably at this point the 835 is probably a better GPU on the way you get
 
-but you have to bring them into a big stage. What we've been trying to work out of what we've shown
+on most phones but it's you know it's it's a full x86 Windows device so I
 
-almost every year, not to suggest that GDC and others, is we can take 120 frames per second
+guess for that from that perspective it works I'm guessing that because Windows
 
-stereo camera, which is going into phones these days, and we can pretty much use a little bit
+10 that works on the 835 the x86 translator that maybe you'll see a
 
-of machine learning, plus, you know, some simple lighting patterns that are much less than what
+future HoloLens on Qualcomm's SOC it might even perform better and more power
 
-we do on a light stage, and we can start to get this absolute perfect live, you know, captured
+performant but I do think that the next HoloLens must be having wider field of
 
-reality. And that's really our goal. And AI will play a role in that. There's no doubt that the
+you must have higher resolution and what's interesting is I don't know if
 
-capturing AI is super important. And we have to get that to work in real time, because otherwise
+you know the story but but Ralph Foster who designed the ODG glasses I mean I
 
-AR and mixed reality will never look right. And that's something that I discovered, frankly,
+think he sold a lot of the patents for HoloLens to Microsoft before you know he
 
-when I was looking at the Magically device, you know, which I got a test, what struck me was
+went a different direction into these classes that's fascinating now with
 
-that nothing was really being relit, you know, because I think your app on the Magically platform
+regard to going back to streaming going back to web VR and going back to the
 
-has to request being able to capture the world around you. But things like that are really
+concern of you know the the frame rates of what's necessary for VR to be
 
-important. So what we're showing at SIGGRAPH on the phone, basically, is able to reconstruct the
+comfortable some people have said it needs to be 90 Hertz some people have
 
-scene from the phone camera. And then we're doing like we have a little mini version of octane,
+said it needs to be 120 you're talking about in order to you know I was talking
 
-called octane light, that is designed to basically do the minimum amount of ray tracing so you can
+to Microsoft yesterday about you know they're also working on this sort of
 
-have objects that are mixed in reality live on your phone, and, you know, cast shadows and have
+like how can we solve the the streaming what we process on a GPU over the web to
 
-reflections and just look great. And in order to do that, not only do you have to render and denoise,
+a set of glasses like the HoloLens so I was kind of like well what what is the
 
-you add denoising to get that to be the highest possible quality, but you also have to do some
+and they said oh we're doing like 30 frames per second so it's okay for AR
 
-sort of scene reconstruction and do that live and do it, frankly, without depth sensors, which is
+but it's not really like it's not gonna be comfortable for VR and I you know
 
-what the, you know, Magically has that and some other devices like Tango have that. But, you know,
+like okay well then there's phobia to render you can optimize that you can do
 
-the iPhones just have two cameras, and they use basically pretty good computer vision algorithm,
+the reprojection maybe on the glasses themselves and they were saying that
 
-including after mission learning tricks to get, you know, to get that sort of information into
+they're there they're what was interesting to them was you know TCP is
 
-AR kit. But all these pieces, I mean, I can't even imagine VR, frankly, you know, existing in the
+too slow but but UDP is much faster going back 10 years or I guess it's been
 
-future without pass-through cameras that allow you to switch to AR mode trivially, in which case,
+that long like you know when we were doing game streaming as a primary you're
 
-you're back to the same problem, which is whether you're seeing the real world to your eyes and
+one of our primary focuses you know I have a deal with with them unity now
 
-there's an overlay like Magically, or, you know, it's something like I think with, you know,
+where octane's built into unity it's shipping this year and the CEO of unity
 
-what Akos was talking about in the problem, who knows when it'll be, when it'll be out. But
+I first met him when he was the COVA and he was you know when John McHale was
 
-things that basically have camera pass-through where you actually are recording from two cameras,
+COVA we were he was there was a period of time when it was OTOI, Digtai, OnLive all
 
-you know, what's in the field of view, and you could do AR, you could blend that with VR.
+doing game streaming and the only way to do that right was to do it over UDP so
 
-That kind of stuff is super interesting, and I feel like that's, that requires everything to just
+that was we did UDP streaming in that case the problem is the web doesn't have
 
-be, you know, up in terms of this quality and its setting. So AI is important for scene reconstruction,
+a great UDP mechanism you can do it over web RQC but it's not perfect it
 
-it's important for object signification, it's important for physics, it's important for making
+doesn't really matter at the end of the day there's probably if you're gonna do
 
-high-quality rendering work in real-time. Ray-tracing hardware is a big boost, and I think that, you
+streaming you probably should bake it in right and I think that yeah UDP helps
 
-know, the other, the other crazy technology that I'm seeing where RTX is like really important is
+you you know the way we do our streams I mean there is we built our own codecs
 
-kind of where, you know, as we're referring to light fields, it's like being sort of a,
+that can suffer a lot more packet loss and traditional video frames do and it
 
-it's more of a visual, like, description of light. Like, it's basically saying all the rays of light
+helps and and then there is reprojection and there's reprojection we have a lot
 
-that make up both your left and right view for depth, but also things like depth of field that
+of data and then there's also the fact that one of the things we just showed is
 
-you see in cameras. All that stuff is essentially something you could emit from a holographic
+that you can also send out an entire unity game inside of those you know the
 
-display if you had something like 4000 DPI. And, you know, and you, and you have like a, you know,
+you know the bits the adaptive stream and that can run locally the second that
 
-some sort of filter on top of it to guide the rays of light. And even Paul, and even us as,
+it's there and until then it can run in the cloud and if there's not enough
 
-as like, you know, everyone wants to build a structure, call it effort, get to that point,
+compute power it'll figure it out that's just part of the staff and the reason
 
-and it's, it's, it's possible. Like we basically, probably displays are kind of getting there,
+why it's important to author and unity with our tools and have it in there is
 
-they're, you know, 4000 DPI displays are not impossible, there's companies that, you know,
+that we can set layers that trigger those different pieces this can get sent to
 
-they're working on it. And from our perspective, like we actually are looking ahead of VR and AR,
+that you know to a plane that gets rendered locally or this is the
 
-because I think that, you know, if you can have a glasses for experience emitted from a table or
+threshold for rendering it locally it's pretty simple I mean when you're talking
 
-a wall, and that becomes sort of the fabric of buildings and services and furniture and offices
+about video layers and you're talking about picking the right resolution or
 
-and homes, you know, and sidewalks going forward, I mean, that, that is, that is going to be a lot
+bitrate this is even simpler than that and to your point about the the stuff
 
-easier to consume than wearing, putting on a pair of glasses. And I've tried some of the smallest
+they're showing it at a vision with sort of the you know the alpha planes in the
 
-and lightest with glasses. And I think that that's, that's, that's the thing where ray tracing
+video I mean the Facebook thing basically is is that times a thousand because it
 
-at Harvard is like absolutely critical to make the holographic display panel at that resolution
+has those depth layers you can create any sort of masking you want and our goal
 
-run in real time. Like there would be great, it'd be very difficult to do that without,
+is that we basically are able to beam that that piece with video file into your
 
-without ray tracing at Harvard making that 10 times faster. And because it's 10 times faster,
+unity texture and you can do what you want with it and similarly we can also
 
-we can now drive holographic displays probably next six months with this kind of,
+take your unity project and put it in the middle of a light field compositing
 
-this kind of speed in real time. So I want, I want to just sort of jump off the deep end in,
+workflow that's maybe created in unity but still using our our light field
 
-in terms of science. I was, I was at this, at a talk last night about, they were talking about,
+rendered to do all these things together and it's kind of a you know
 
-you know, so Mary Lou Jepsen has this company. She's creating a new device that does, I guess
+totally you can do it from either it's bi-directional but having those tools
 
-that it's called functional near infrared spectra spectroscopy. One of the technologies behind
+in place matters the only thing I ultimately want to make sure of is that
 
-it is photoacoustic microscopy and photoacoustic tomography. And these are basically, and there's
+there's a URL and you can go to it and no matter what the platform is you see
 
-some other technologies like ultrasound and coated optical tomography. But basically these,
+that experience I don't want to have it apified unless the author intends to have
 
-these are new kinds of medical imaging technologies that, that can be combined with things like
+it apified but it's like a lot of experiences in the future are going to
 
-electrical impedance tomography. And what, what that means is we're combining light and electricity
+be social bite-sized things that you can share mash up and I think the unity
 
-and sound to image the brain in new ways. And we're basically creating a light field of,
+guys also see it that way as well and that's what you know and so does Tim
 
-you know, what used to be an X, well, you know, we still use X-rays, but we'll create,
+Sweeney of Unreal Engine I mean that guy is really one of the greatest champions
 
-this is new, there's X-rays, new X-ray tomography technologies too. But basically all these
+for an open metaverse and that's super important for the future of all of the
 
-technologies can be combined to create, you know, a light field of, of a person's brain. We can do
+work we're doing. So speaking of the meta metaverse and specifically sword art
 
-a whole amount of brain. We don't know the full depth of what we can get. So I'm kind of like
+online is a big is a big concept in terms of you know that ties back into
 
-interested in like, you know, there's all these people having these conversations and I go to
+NeuroLace and NeuroLace the idea of hacking into the brains VR system and
 
-these really great conferences. But there's not, there's not a huge amount of talk about using,
+accessing it like it's a special kind of hard drive so you can communicate that's
 
-using the sort of AI denoising or really using deep learning at all. It's, it's almost like
+sort of a read and write communication tool between the brain and the hard drive.
 
-there's, there's a huge opportunity to, to figure out if, you know, real-time ray tracing,
+So I went to the San Francisco HTML conference and HTML5 conference and
 
-we're predicting what should be there, can be medically accurate, you know, in terms of,
+they were this is where I was asking you how can we because I because I'm I help
 
-you know, helping to model the brain, helping to model brain activity, ionic, you know,
+organize events with San Francisco virtual reality and I said how can we
 
-ionic flows of activity, you know, the flow of ions and the electromagnetic field of the brain.
+like create like a web VR with you know massive multiplayer and Mazzilla and
 
-That would be very interesting if we could begin to, to accelerate that research in medical imaging
+Chrome are not there those teams are not really thinking about that yet they're
 
-by, you know, basically, you know, combining the, the light field that we're trying to render
+focused on more fundamental stuff and it's a friend of mine who's Ruby on
 
-with some of this AI denoising technology or real-time ray tracing
+Rails guy said you know you need to do the UDP and so I said and so then I was
 
-AI. And I wonder what are the key differences between the AI that's involved in real-time
+and while I was in the conference because I do all this you know 12 years of
 
-ray tracing and the AI that's involved in denoising and if it would be useful. And, and maybe you can
+neuroscience study and I have these great great groups like self-aware
 
-speculate as to whether, you know, this is kind of how accurate this AI can be, whether it could
+networks on Facebook it's very popular and so I'm reading I'm reading this book
 
-be medically useful. Yeah, so I should, I should probably provide almost like a breakdown of how
+networks with a mind and I'm listening to this you know oh you need UDP instead
 
-AI is used, even in octane, because there's different AI libraries, just like you have
+of TCP and I'm like learning about this stuff and I said so if the brain is like
 
-different filters in Photoshop and not all of them could be used. AI assisted rendering,
+a network what would the communication protocol be would it be more like TCP
 
-I mean, there's, you know, we went through all the different things that are slow in rendering,
+where you need to establish like a connection or to be more like UDP
 
-we applied AI to fix them. So the first thing is when you do rendering correctly, it's noisy,
+interestingly Mike you can definitely separate packet loss and fill in the
 
-it's just like when you take low exposure, there's a lot of noise, you need light to gather and you
+holes there's no doubt about that I mean experience is definitely probably not
 
-need to finish rendering to get a properly clean image if you're doing really high quality
+even pretty linear and I also don't think that you know what we think of as
 
-photorealistic rendering. So AI denoising just finishes the render and you're essentially trading
+linear experiences are probably our mind sort of constructs that you know
 
-compute for guesswork, but the AI is so good that it's, it's looked at enough finished renders to
+when who knows what the actual the way that you know our brain sort of forms
 
-know how to finish any arbitrary view. And we built that ourselves and Vinny's built that in
+these these things by the time it gets to our level of like fully conscious
 
-optics and that's absolutely fundamental to rendering, like that's an AI layer you add to
+understanding as far as the neural as it goes it's fascinating you know I've
 
-rendering. We also added something called, well, it's pretty straightforward, it's just AI upscaling,
+you know it's like I've met Elon a bunch of times and it's like the last time I
 
-which takes a low res invention, scales it up in a way that you can't do with a normal like
+saw him was 2013 or so I don't know it was it was a few years back and I
 
-by cubic filter or anything like that. It does recreate the edges and you have spatial resolution
+remember telling us like I'm working on I want to get a holographic window for
 
-or even temporal resolution added, which is why you can easily go to 120 or 240 from 30 frames a
+your you know your spaceship and your Mars colonies I'm really not gonna be
 
-second. And Vinny actually showed a great version of that working. And then there's other stuff for
+happy in either of those without like a light field display is it always like a
 
-it. So you can start to figure out like what is the, you know, if you have a piece of an object
+holographic no that's peppers goes this is way better so well let me know when
 
-or scene, can you finish the actual scene layout? Can you figure out from a photo what the actual
+it's ready and the thing is like I actually working on the softwares I
 
-geometry of the forest is and actually create the scattering of leaves and trees and all that stuff?
+don't have the holographic display but there are there's a team out of light
 
-And that's, that's deeper. That's further up, but it's still something that is really interesting.
+row I try carefully is working genuinely on that holographic window this year and
 
-And I think that that is kind of where AI and rendering really do have a lot of
+it's called light filled labs you know and I'm working with them because I have
 
-vocation. And then there's stuff that's really more for humans to be creative. I mean, having,
+to see this you know this come to fruition and I do wonder about like you
 
-you know, having AI that essentially, you know, like takes a simple stroke of your hand and then
+know the you know the sort of the the idea of the neural laces is super
 
-creates all this stuff that's augmented based on, you know, your history of how you paint or how
+fascinating I don't know how it would work honestly I'm not sure we don't
 
-you stuff like, you know, quill or medium or tilt brush or something like that. Those things are
+understand consciousness fully worse I mean our visual you know eyes were
 
-really key tools for the future for sure. But you, you know, and I also wanted to talk a little bit
+probably the most you know the highest sort of bandwidth we have going into our
 
-about light fields rendering and baking. So three light fields are a shortcut. Like we don't have
+minds at this point you know so so we talked about this on the podcast like
 
-all the time in the world to use AIB Noising and, and, and, and rendering, you know, with ray tracing,
+how it might work and one of the one of the big ideas okay so one of the big
 
-light fields were a way to render something into a light field is you're just basically
+ideas is if you can apply if you can get like live data of you know like let's
 
-generating a digital hologram. And then the hologram could be looked at from any angle and
+say you're you're you're you're imaging you're using some sort of imaging where
 
-you're done. And it's so cheap and inexpensive that you basically, at least you can run this on low
+you're creating like a tensor field map of the ionic tropic rain you know all
 
-end hardware like a phone. You can also use, you know, you know, the compute cost and ray tracing
+the electromagnetic waves flowing through space and you you have AI watching
 
-power you do save on other things. So that's where I see light fields rendering and being super useful
+that and it's looking for patterns and it's unsupervised because you can't
 
-for games and real time without, you know, oversaturating the, you know, even the hardware that
+really label that but then you have another AI like the self-driving car
 
-we do have, even a 10x of speed up in ray tracing hardware is something you can easily use up if
+that's as it's doing like you know LiDAR and all these different cameras and
 
-you're doing really complex light transport. What you're describing though, with, with sort of this,
+it's mapping it's identifying all the objects in the room and then you you
 
-this imaging of the brain is a light field or volumetric asset is super interesting. And I think
+need to correlate like you know this is this plate has you know you have all
 
-I was reading one of your posts where I think somebody was maybe it was you that was looking at
+these the AI hat says all these different lines and edges add up to this
 
-the rendering of that in the VR headset. And that feedback move where you're seeing what your brain
+concept of the plate and at the same time if you have in the other AI is
 
-is doing is probably, you know, some sort of kernel of an interface of the future that I've
+looking at the neural correlates in terms of the ionic tropics sphere in
 
-been thinking about for a long time. So I think this is this area of research, you know, and that
+terms of temporal spatial brainway patterns and it's saying this pattern
 
-committee is super interesting. I mean, you know, there's a lot of thoughts about having thought
+matches that pattern and so if we get that pattern and we have it in the
 
-powered, you know, experiences or input and the like. And of course, you know, if you can see
+computer and we know the networking protocol we can send that pattern back
 
-what your brain is doing, you know, there's, there's a lot of, I mean, there's a lot of research to be
+over the networking protocol into the brain and see if you see a plate where
 
-done about biofeedback, how that can be open up an online office or things. But I think that the
+there is no I'm not a neuroscientist but I mean I absolutely am constantly
 
-fact that you can actually visualize that in VR and AR and frankly, yes, ray traces, which is way
+thinking about that being done I mean it's like you know philosophically I'm
 
-better than, you know, you can take volumetric data sets and you can ray trace those. That's what
+also not a hardware guy so I don't you know and video better make great GPUs and
 
-ray tracing is really, you know, great at versus doing it in triangles. That is, to your earlier
+people better make great displays and as a software you know thinking about it
 
-question, that's the one thing that you can bring in fire and volumetrics perfectly into
+from the software side of things like I can't wait for there to be something
 
-ray tracing and that'll look great. Unfortunately, RTX hardware doesn't do volumetrics. I mean,
+that allows us to sort of hack into these sort of patterns and and sensibilities
 
-you can still add it in there. It'll still be fast, but you still need to use the compute course to
+and understand a little bit more about what you're thinking I mean also of
 
-render that. But when you're seeing your own brain and you're thinking stuff and you're seeing your
+course would be dangerous but I do think that there's there is something to be
 
-brain do things, there's, I spent years thinking about what that can mean. And I've been waiting
+said for AI being a big part of how you can sort of encode because you know it's
 
-for the foundational pieces of what we're building on the rendering side, on the ecosystem and platform
+bandwidth issue right I mean ultimately even our even our visual system and we're
 
-side. And what's fascinating is that, you know, there's, there's a lot of work that you can imagine
+not seeing everything at once we're building like that 32k by 32k image well
 
-being done with AI, looking at what that, you know, even at that feedback loop and filling in
+I mean I don't know if it I mean a lot of the neuroscientists that I talked to
 
-some holes and details to create things, they practically probably don't have great, you know,
+say it's a bandwidth issue but I'm not sure that it is because you know what
 
-vernacular words to describe how they work. I mean, we know that they're important tools for
+when you like let's say when you when you're trying to figure out whether
 
-potentially for input or for content creation or who knows, more stuff. But I think that's,
+something is is red or blue they you're sort of like your it's your brain is
 
-you're stretching at the key of something, you know, surface is something really, really,
+learning how it's different how it's different relative to what's around it
 
-really fundamentally important for the future. I know it. And I think that's why you're on it too.
+and in quantum physics something is defined by everything else around it and
 
-That's great. So, so, so one thing, so I'm leading a meetup every week. It's called Neurotech
+so time slicing so if you basically want to encode information like when you
 
-SS, and we have successfully connected an ED device to a WebVR to an Oculus Go. So that was
+think that you're seeing a 32k by 32k image you're actually seeing it it's
 
-kind of cool. Yeah. You know, but so now, and so because, I think perhaps because of that, I'm,
+almost like a raster line your eyes are quickly moving around and building that
 
-I'm, one of my friends or connections is, is going to enable me to have access to an
+up in your brain and your brain may not even see it again but it keeps that
 
-electrical impedance tomography machine. So the second phase of the goal is to,
+memory of it so information encoding in that ways is fascinating if there are
 
-we, I'm also acquiring some, another friend is, is, is donating some, or sponsoring me to,
+ways for your brain to learn how to get shortcuts around what the real world is
 
-to give me some, some depth cameras. We're going to get a few elusive cameras. And these cameras
+and there's like light are being fed and there's a shortcut that sort of builds
 
-are going to enable us to create a volumetric video. And we're going to be collecting volumetric data
+that point on your mind that would be amazing and that's where this kind of
 
-of persons mind with our electrical impedance tomography, tomography machine. And I want to
+stuff could be fascinating when it's applied right but in terms of you know
 
-do, I'm going to use this, I'm looking at this, I wrote about this crosshair convolutional,
+getting around the bandwidth issue I mean I know what bandwidth when with this
 
-3d crosshair convolutional neural networks, so that I could, I want to try to do
+gonna be required in the first place but I'm saying all we're gonna do is figure
 
-object segmentation on the volumes of data that we're getting from our electrical impedance
+out what the pattern is and we're not gonna send the exact same pattern back
 
-tomography, and on the volume of data that we're collecting with the 3d cameras. So I can begin to
+in we're gonna send the difference between the pattern here and the
 
-correlate, so that we can have the AI begin to look for correlations between persons, the brain
+pattern that's already in place location or something you can kind of figure out
 
-activity, the volume changes, and the, the volumes that they're seeing in the world around them.
+what things are it could be it could be interesting to sort of play around with
 
-And this is, you know, just a big experiment we don't have like, you know, we have, we have
+interference patterns and I don't know there's a lot to be done with with these
 
-four Titan five graphics cards in the cloud, but we have to somehow stream that data up into those,
+things but again I'm not really a neurobiologist but I love the space and
 
-into that cloud, and then back in real time. And, and so a person's going to, and then we're also
-
-going to be running this through VR, so people can see their medical imaging, so we can correlate
-
-that with, so with VR is very useful as you can correlate whatever the user is looking at, or
-
-whatever their head is pointed at with their EEG. Actually, that's probably our next step, is we're
-
-going to correlate what they're looking at with EEG. But eventually, we're going to be correlating
-
-the EIT with, with what they're looking at with the volumes of data that we're going to be representing
-
-in VR. And then VR also allows us to isolate, basically isolate other, you know, random
-
-signals from the environment. So we're isolating a person from, you know, so that we can begin
-
-to look for how a person's brain changes in response to that specific content. And the other
-
-idea is, you can also look at how two people have different, how their brains are responding
-
-differently to the same piece of content that they're immersed in. So the point, the point
-
-that I was going to, was getting at, was going back to doing object segmentation on 3D volumes of
-
-data. It seems like, you know, because we're talking about light fields, and we're talking about
-
-volume metric capture, and we're talking about, like, so I haven't really seen, I think, another
-
-area where this tech, this technology that you've been working on could be really useful comes to
-
-self-driving cars. All the self-driving car companies that I know of are, to my knowledge,
-
-and I don't know, obviously, I don't know what's going on inside these companies. But on the outside,
-
-it looks like they're all using, you know, basically two-dimensional slices of data streams,
-
-you know, you get, you get a LiDAR stream, you get all these two-dimensional camera streams,
-
-and you're running two-dimensional convolutional neural networks on them. And I wonder at some
-
-point if it would be useful to start actually creating a volume of data first and doing semantic
-
-segmentation on this volume and doing, you know, upscaling this, you know, so you could, I'm just
-
-like, I'm trying to think of, you know, how, you know, because I, so I'm trying to think of how
-
-rendering can really help solve the problem of self-driving cars. Because one of the issues,
-
-I guess, is, so I said, I said, you know, the self-driving cars, you know, do they need to
-
-become a software network? So they need to become aware, does the car need to become aware of itself?
-
-Does it need to have, the reason, the reason, the thinking here is that there's this book by
-
-Peter C., where he talks about how the, that his theory of what the consciousness is for,
-
-it's a higher level information pipeline that is, that exists to help us solve problems that are
-
-too big for the unconscious mind to solve. And so that's really, he sees it as sort of like,
-
-as an additional point, like when you get a computer that's powerful enough to solve
-
-those logistical problems, it would be a conscious computer. So that's why I'm like,
-
-I'm like, well, well, is that where we have to go with self-driving cars to really get to,
-
-like the level five car? And do we need to have a light field render that we can, because I asked
-
-the, I asked the CEO of NVIDIA if, if, if we are going to need a self-driving, self-aware
-
-self-driving car. And he said that he didn't want to build the black box. He wanted to have every
-
-component, basically, you know, understood separately so he could, so they could understand
-
-what was going on in the car or something wasn't working. But I think you could visualize,
-
-you could render what a neural network is doing. And, and so that's my thinking. I don't know if
-
-you have any thoughts on that topic, but. Well, I, you know, I definitely would defer to Jensen on,
-
-on the self-driving part. And he's, he's obviously, you know, NVIDIA is doing some crazy stuff in
-
-that field. And Tesla, until recently, was using NVIDIA. He used all over the place in Tesla's.
-
-But I, I don't know if the car needs to be conscious. I mean, I think, frankly, people can
-
-drive and almost be unconscious and still, almost by road, do the right thing, have sort of like,
-
-not serious, it's sad to say, but I mean, you know, you have almost like the reflexes and
-
-everything can almost be trained, like muscles, even for things like driving. And it doesn't
-
-necessarily require you to have, you know, the same consciousness that we do. So I don't know if you
-
-need consciousness for the car or something. I mean, if you have existential philosophical
-
-decisions, you know, which sometimes you have with cars, do I run over the, you know, the school
-
-program or do I save the driver? I mean, you know, even there, you know, it's clear that you can
-
-program what you want the outcome to be in those scenarios into this, into the system and get that.
-
-I mean, that, that is basically pre-decided. But, you know, the, the, the issue with rendering is
-
-that it's not really everything, even for OATWA, like we're not just a rendering company. We have
-
-Capture and we have Dreaming and we have some other higher level things, which is basically the
-
-the entire feedback from those things is basically what you really do need to solve for any system
-
-to become, I probably want it to be. I mean, if we're going to, let's say, recreate a, you know,
-
-purviewerization reality or if we're talking about, you know, bring machine interfaces, I mean,
-
-it's like you have to capture the world, you have to render it or edit it or understand it and then
-
-feed that back into a way that the, you know, the interface, probably with the human in the
-
-middle of it, hopefully to do something with. And that's why the company is divided into these
-
-three parts. Sometimes the parts are hidden and people look at just the rendering. But the capturing
-
-the rendering and even the streaming, whether it's, yeah, as you're pointing out, if you have,
-
-I can use in the cloud, you've got a VR headset that's, you know, not on the cloud, you have to,
-
-you know, combine those two. And a lot of the technology that we built this just does that.
-
-It solves that problem for you. And that's kind of where, you know, we see ourselves fitting into
-
-this ecosystem is we build these tools that, you know, solve some of the harder problems.
-
-But in terms of, you know, what's interesting, the relevant point, which is, can you just
-
-rendering, what does rendering really do for AI? And there's, you know, if you look at some of
-
-these things where they simulate like the evolution of like, you know, jellyfish or,
-
-or, you know, multi-solid organisms, and they, you can see them basically be pushed on the land
-
-and then they grow limbs and all this stuff. I mean, take that to launch with refusion, which is
-
-right all the way up to the simulation theory, which is if you basically simulate everything in
-
-the physical world to the point where, well, you know, we don't know it's so granular, the entities
-
-in it are covered, you can imagine basically creating life that evolves and grows and learns
-
-in an environment that's basically the same as ours, but can be accelerated and you can have
-
-shortcuts, you can also see things. And so that's why, you know, this, this simulation theory,
-
-I guess, you know, I guess Geelong was one of the people that made it popular where,
-
-you know, if you just imagine a video game where VR giving the point where, even if it's
-
-slow or goggles, but it just looks absolutely real and your eyes are fooled,
-
-you know, then you figure out touch and other stuff. I mean, you come up to the
-
-scenario of are we AI running in a simulation and how do we prove that we're not? Or how do we,
-
-you know, figure out what that even is and isn't? And it's, it's a fascinating problem. But
-
-we're, we're probably going to, you know, we still have work to do before we actually can get to
-
-the point where reality itself is digitized so convincingly that one, you know, cars can, can
-
-understand it the way we do, you know, naturally versus, you know, with rough approximations.
-
-But yeah, I like still there's something you can render in a simulation if the data itself is
-
-actually less, you know, less interesting without the, you know, the source that generated it or
-
-where, how it was captured. Going back to 2015 at that, at Seagraph, the first of the four talks
-
-on Lightfield, one of them was, I believe the gentleman you mentioned earlier who is now at
-
-Google, and he was saying that basically, you know, our eyes are capturing a Lightfield. We
-
-have two points or two, I mean, your eyes have lots of different, you know, cells, you know,
-
-lots of different that are responding to light. That's right. But the idea is, you know,
-
-you know, what I've seen is that it is, so that going back, research going back into the 1980s
-
-on, you know, neural networks that can be used as signal processors, it seems very plausible that,
-
-you know, and looking at Jack Lawn's work that he, you know, he basically created a movie that was
-
-with MRI. He had someone watching the movie, and he had the machine watching their blood flow and
-
-the movie, and they trained it like that, and the machine just watched the blood flow, and then it
-
-pulled the movie. It recreated a movie from just the blood flow. And so that, so the idea is,
-
-you know, that basically what we're seeing is video. What we're seeing is a Lightfield that
-
-our brains are constructing. And this was an idea that I saw. And so if we're creating a video,
-
-but then it seems like we're creating a video, but we have that, you know, the ability to learn
-
-from this video, but we're also rendering it. And I'm thinking about Google's Deep Dream and
-
-the, you know, that there's new, there was a huge story, I see graph, about...
+decided to see what comes in there.

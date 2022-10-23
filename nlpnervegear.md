@@ -1,12 +1,10 @@
 The NerveGear Show
 
-
-
 Nov 2, 2017
 
-
-
 original audio/video here https://youtu.be/p9yTPBrrES4
+
+Audio Transcription by OpenAI's Whisper
 
 Hi everyone. This is Micah here and I'm here with Sarah who's with Virtual Bites.
 

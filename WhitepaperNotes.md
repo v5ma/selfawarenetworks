@@ -5,6 +5,7 @@ listen to the video again to make notes on what you added with dialog alone
 fix variating
 
 Imagine that the brain is like a horn or a lens where signals converge to points, but also they magnify out from any point.
+(There is a paper that argues differently: )
 
 The quantity of potassum "for" when the threshold of the ap was triggered? check grammar
 
