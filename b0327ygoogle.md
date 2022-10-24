@@ -1,11 +1,15 @@
 b0327y
 
+Audio transcription is by Google Recorder, for a clearer transcription I think check the whisper version of this note.
+
+* Note to self, this transcription is name separated and I added a few links, so don't delete it before reviewing & comparing the contents*
+
 Audio Recorded on Mar 25, 2021
 
 Title: The flow of information in the brain
 
 Original Recording https://recorder.google.com/b612bace-0639-419d-990a-0f16fd0552f5 
-(transcription still needs edits.)
+
 
 *Note June 15 2022: While playing back the audio & my understanding of how the human brain works feels so precise I can almost hear the pattern of neurotransmitters dripping when we speak. Like leaves falling from a tree. You will grok what I mean eventually.
 

@@ -1,8 +1,9 @@
-b0315y
+b0315y (Google Recorder)
 
-audio note needs fixing and I'm not sure if this is relevant to the book or not
+Title: Microtubules Consciousness Recursion
 
-Microtubules Consciousness Recursion Copy of Copy
+Auto transcribed by Google Recorder, for a better transcription see the Whisper version of this same file.
+
 
 00:00
 

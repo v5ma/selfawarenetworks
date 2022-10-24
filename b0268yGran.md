@@ -1,8 +1,6 @@
-b0268y ctpr
+b0268y (google recorder transcription, for a better transcription see the whisper variation of this file)
 
-(audio note: transcription needs to be fixed)
-
-Paul King and Nick Dendrite Neuron Receptors
+Title: Paul King and Nick Dendrite Neuron Receptors
 
 00:00
 

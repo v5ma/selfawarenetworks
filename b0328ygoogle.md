@@ -1,8 +1,8 @@
-b0328y
+b0328y (Google Recorder Transcription)
+Title: Parkinson's chat
 
-(audio note: transcription still needs to be fixed)
-
-Parkinson's chat
+This is the original Google Recorder transcription for a better transcription see the whisper version of this note.
+* It features a few links that I plan to copy to the other notes, so don't delete this until it's reviewed carefully *
 
 Micah Blumberg: I started a group on faceobok. It's called Neurophysics & Medical Research and I'm starting to share some stories there and basically news stories about in in general research that in some cases is many years old about Parkinson's disease.
 

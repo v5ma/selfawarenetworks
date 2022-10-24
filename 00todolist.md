@@ -17,7 +17,7 @@ b0071y "(I think I can describe the sensory input path better than this)" This i
 b0309y,  (related to NAPOT Revision 3 on brainwaves)
 
 b0268yGran
-b0302ygran
+b0302ygran transcription done.
 
 I want to get an improved transcription of each neural lace podcast, see if the audio from the one with Shashkes can be improved by a sound lab.
 
