@@ -1,8 +1,14 @@
-b0145y ctpr
+b0145y Google (This version was auto transcribed by Google Recorder, for a better transcription see the two other versions of this file which were transcribed by OpenAI's Whisper)
 
-(audio transcription needs fixing)
+Title: Thoughts on Michael Graziano's Description of the TPJ as a Consciousness Module, and his Attention Schema Theory contrasted with my thinking on a distributed Observer made up of many smaller observers each of which is an oscillator.
 
-Michael Graziano Consciousness Attention Observer
+Quick note: Some of my thoughts on Michael Graziano's work, his TPJ module vs my comparison of the brain as a tv monitor rendering one line of pixels at a time, my thoughts start off rambling but then I draw a contrast between theories of a local of central focus, or a center of consciousness, to a distributed conscious observer consisting of smaller observers, audio is cleared by me to share
+
+Listen to the Original Audio here https://recorder.google.com/share/b05673ce-0f9d-4d54-918e-1d054b8be409
+
+Audio transcription begins below this line
+
+---------------------------------------------------------------------------------------------------------------
 
 00:01
 

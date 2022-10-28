@@ -1,8 +1,34 @@
-b0235y ctpr
+b0235y (Automatic Transcription by Google Recorder)
 
-(audio transcription needs to be fixed)
+Title: Neurons Consciousness & Anesthesia
 
-Neurons Consciousness Anesthesia
+Original Audio: https://recorder.google.com/ec6a0ec1-2bbc-4d9c-a1fa-f46c5d9aab8a
+
+This one can stay in my notes but I didn't participate in it. I'm not going to bother creating a whisper transcription since it's someone else's work. The audio is worth a listen.
+
+In b0235y Jaan Aru presents his paper in one of Paul King's talks, I did not speak during this talk but its a good one, it features J. Kevin O'Regan and Anil Seth asking questions.
+
+# "Cellular Mechanisms of Conscious Processing"
+Jaan Aru 1, Mototaka Suzuki 2, Matthew E Larkum 3
+https://pubmed.ncbi.nlm.nih.gov/32855048/
+
+Jaan Aru (sounds like Yon aroo) from Estonia starts explaining how anesthesia separates basal and apical compartments of Layer 5 cells, these cells send information globally in the thalamo cortical loops, disrupting these cells disrupts global brain activity, resulting in unconsciousness
+
+After 12:43 Paul King proposes that the apical is the context for interpreting the basal signal
+get paper "cellular mechanisms of consciousness processing"
+
+"global workspace doesn't say anything about needing prior knowledge"
+
+Daniel Dennit "fame in the brain" concept is referenced, "information is widely known" supporting Global Workspace Theory.
+
+Contrasting with Paul King: My book aims to show that consciousness is a solved problem, that the pieces of that solution have existed for sometime.
+
+# "A sensorimotor account of vision and visual consciousness"
+J. Kevin O’Regan & Alva Noë
+https://philpapers.org/rec/OREASA-4
+
+After 106 minute mark: Paul King propsoses consciouness is a circuit with the environment, feedforward pathway combined with the feedback pathway is creating the conscious experience, its similar in concept to the earlier proposal of reference frames in Jeff Hawkins A Thousand Brains Theory, and King insists that Jaan Aru's paper points to this but Aru claims he wasn't thinking about that.
+
 
 00:00
 

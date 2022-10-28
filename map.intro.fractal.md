@@ -1,5 +1,3 @@
-New plan: Because you cannot download the wiki on the chromebook ONLY EDIT THE MAPS in the regular self aware networks repo, and then copy them to the wiki when you have wifi.
-
 copy of intro.fractal
 
 [Home](https://github.com/v5ma/selfawarenetworks/wiki)

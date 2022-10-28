@@ -1,4 +1,12 @@
-b0151y ctp utg (audio) Global workspace + attention schema scale
+b0151y Transcription by Google Recorder
+
+Listen to the Original Audio here https://recorder.google.com/e3044c70-e860-4e37-b0ea-1e8b06dda698
+
+This version was auto transcribed by Google Recorder, there is a better AI transcription in another version of this document by OpenAI's Whisper.
+
+Global workspace + attention schema scale
+
+Date of Recording was October 9th 2021, an edited version of the file was created on October 27th 2022 but that wasn't the recording date.
 
 Scaling is a key component of intelligence, scaling from memories stored in synaptic connections to the whole brain, and then onward to other people. Scaling is an essential process in human intelligence.
 
@@ -6,9 +14,12 @@ If a memory stored in synaptic connections becomes conscious, it is being magnif
 
 (this note then links to the map on fractals with medical imagining, to illustrate that the telescopic effect is being found with patterns that repeat in the brain at multiple scales)
 
-//////////////////////////////
+b0151y, this starts off feeling like a continuation of b0145y but then starts to dive into the neuron as a multimodal drum (nonlinear sensor) This again discusses attention schema
+The irony of Jeff Hawkins declaring that consciousness is not a special sauce is evoked for me listening to this as I am again considering that nonlinearing sensing would effectively allow neurons to detect & respond to special sauces, multi-modal soups of neural signals, as long as they had the right receptors (sensory modules). I think of how Jeff Hawkins's Handspring was a modular device designed to mix & match components, allowing also future upgradeability. 
 
-(Audio Note needs editing:)
+Audio transcription begins below this line
+
+---------------------------------------------------------------------------------------------------------------
 
 00:00
 

@@ -408,7 +408,7 @@ Coincidence patterns as bits
 
 Coincidence as Bits transmitted as Bifurcating bifurcation Phase Changes
 
-Integrated Information: Phi
+Integrated Information Theory: Phi
 
 # Artificial Neurology
 
