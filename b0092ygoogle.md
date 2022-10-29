@@ -1,8 +1,14 @@
-b0092y
+b0092y Google recorder transcription (for a better transcription see the whisper version of this file)
+
+Listen to the original audio here https://recorder.google.com/7e976dcd-1c8e-4124-8dc9-8f54c364fd86
 
 (audio transcription needs editing.)
-Integrated information theory
+My critique of Integrated information theory
 Phi is pattern resolution consciousness brain
+
+Summary: In b0092y I start out saying category theory when I meant to say Integrated Information Theory. I do that more than once. This note is largely my criticism of Integrated Information Theory. Attention, Consciousness, and Intelligence are three different things. I talk about AQAL & Spiral Dynamics including lines & stages & levels of development. This one I describes the value proposition of desynchronization process of inhibitory interneuron networks toward the facilitation of novel representations of information patterns in the brain at scale across the network and I contrast that with value of synchronization for muscle in the heart and cerebellum. Desynchronization is important for consideration, and synchronization is important for movement. I propose that Phi, from IIT, might be used to predict the resolution of consciousness but not consciousness itself, I share my thoughts on Buddhism, bigmind big heart, and the way as a religious concept. Lots of comparisons between neuroscience and eastern religious mind concepts. I argue that the tempo-spatial frequency of the circuit that interlaces patterns, a dog or a child should have lower resolution patterns. I compare the resolution of consciousness at different development stages of the mind to videogames from earlier eras which is a neat comparison. Lets imagine that an adult dogs mind is rendering a version of reality that is as complex as Streets of Rage 2 Sega Genesis, but the puppy is rendering a version of reality like Paperboy 1985 Atari.
+
+Transcription by Google Recorder
 
 00:00
 

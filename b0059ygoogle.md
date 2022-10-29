@@ -1,8 +1,10 @@
-b0059y
+b0059y (Transcript by Google Recorder, try the Whisper version of the file for a more readable transcription)
 
-(audio notes transcription needs fixing)
+Title: Scale
 
-Scale
+In b0059y I make a bunch of predictions about the structure of the functional brain but they need citations.
+
+Original Audio https://recorder.google.com/share/a5728e7f-d283-4fe4-86d5-82cff59a334e
 
 00:00
 
