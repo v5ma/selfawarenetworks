@@ -1,8 +1,16 @@
-b0103y ctpr
+b0103y Google recorder transcription (for a better transcription see the whisper version of this file)
 
-(audio: transcription needs to be fixed)
+Listen to the original audio here https://recorder.google.com/11465b96-dc7f-4a5b-89dd-2fe0f91617fe
 
-Neurons Oscillation
+Title: Oscillating Volumes
+
+b0103y, In this recording I explain how oscillating cells in sync behave like a single sensor transmitter system, as I listened I thought of the comparison to materials, metals, or plastics or any material that is basically the same atomic/molecular/chemical configuration repeated and bound by a common oscillation pattern, a satellite dish is coated with a common material so that the whole dish can have one common function that unites the entire surface area or the entire volume. In this call I am wrapping my mind around the concept that the signals passed between cells are both quantities of energy and information at the same time. It's long but its a good listen. You've moved a small oscillating group out of phase with the global oscillator, the physics of oscillators requires both oscillators to create a drag on each other until either they sync or they don't sync but they still affect each other
+
+Google recorder transcription (for a better transcription see the whisper version of this file)
+
+Audio transcription begins below this line
+
+---------------------------------------------------------------------------------------------------------------
 
 00:00
 

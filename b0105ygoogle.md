@@ -1,10 +1,12 @@
-b0105y ctpr
+b0105y Google recorder transcription (for a better transcription see the whisper version of this file)
 
-(audio)
+Listen to the original audio here https://recorder.google.com/fb35dd02-3f4d-43ed-9915-826373b755ea
 
-(audio note: transcription needs to be fixed)
+Title: Towards artificial telepathy?
 
-artificial telepathy
+In note b0105y, I talk about how my reinterpretation of attention schema coincides with the scaling up of a pattern from the synaptic connections of the neuron that fired to its inhibited neighbors and how those inhibition neighbors affect on the global oscillation, electric, magnetic, blood flow. In this note I'm comparing the lines of the tv screen of visual conscious rendering or representation to cortical columns, its a metaphor at this stage, later on (not in this note) I refine this to specify that individual synapses are akin to pixels in the mind. I speculate about how microtubules could participate as an extra memory mechanism, with sound (to the quantum scale and back) adjacent possible theory comes up
+
+Google recorder transcription (for a better transcription see the whisper version of this file)
 
 00:00
 
