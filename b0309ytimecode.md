@@ -4,6 +4,8 @@ Title: Neurons Stimulation Electrodes
 
 Transcribed with OpenAI's Whisper
 
+------------------------------------------------------------------------------------------
+
 [00:00.000 --> 00:22.000]  The world that the human body cannot, and also kind of explores the idea in a natural way with the Navi who can exchange electrochemical information with one another and achieve a certain connectivity as a group to maintain the balance in the environment.
 
 [00:22.000 --> 00:33.000]  That's almost an example of a science fiction film where it shows the positive aspect of having a certain kind of neural link.

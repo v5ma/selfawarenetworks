@@ -1,8 +1,8 @@
-b0316y
+b0316y Auto transcribed by Google Recorder, for a better transcription see the Whisper version of this same file.
 
-Audio Note: Transcription needs to be fixed.
+Title: Microtubules Consciousness Recursion
 
-Microtubules Consciousness Recursion
+Listen:
 
 00:00
 

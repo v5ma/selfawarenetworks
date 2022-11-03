@@ -6,6 +6,8 @@ Transcription of a Clubhouse Chat
 
 Transcribed with OpenAI's Whisper
 
+------------------------------------------------------------------------------------------
+
 [00:00.000 --> 00:07.000]  Alright, let's go ahead and start the clubhouse chat. Start the room.
 
 [00:07.000 --> 00:14.000]  Alright, welcome. I'm going to invite people up in a second. I am just inviting some people to the room right now.

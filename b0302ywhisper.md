@@ -4,6 +4,8 @@ Title: Neuralink Numenta Neuropysics NerveGear Happy Hour
 
 (This was originally a Clubhouse Chat)
 
+------------------------------------------------------------------------------------------
+
 Alright, let's go ahead and start the clubhouse chat. Start the room.
 
 Alright, welcome. I'm going to invite people up in a second. I am just inviting some people to the room right now.

@@ -1,4 +1,4 @@
-b0067y
+b0067y Transcript by Google Recorder (for a more readable transcript see the Whisper version of this file)
 
 Listen to the audio here https://recorder.google.com/6c96f1e6-6217-43f2-ab1f-8f8658edb473 
 

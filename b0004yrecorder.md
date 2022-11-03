@@ -1,4 +1,4 @@
-b0004y
+b0004y Transcript by Google Recorder (for a more readable transcript see the Whisper version of this file)
 
 Original audio link: https://recorder.google.com/30aa7ee6-da5c-4c04-9005-69e91c46a6b3
 
@@ -8,6 +8,8 @@ This important note is a big precursor to the NAPOT Whitepaper.
 reference note a0221z.md on synaptic unreliability and search all the notes in this repo for magnitude specially in the context of magnitude in note a0089z.md which explains that a neuron passes its magnitude not through amplitude, but through duration, which scales up or down the number of vesicle sacks released between 0-4 with each firing of the APsyn
 
 # *Title: Multi-scale pattern learning & recall in the brain.
+
+Transcript by Google Recorder (for a more readable transcript see the Whisper version of this file)
 
 00:00
 
@@ -25,6 +27,10 @@ In the retrieval of a memory new proteins synthesis happens.
 
 not just in the creation of a memory and most of you will remember because the process of retrieving, the memory, strengthens the memory,
 # (((CITE new protein synthesis for memory retrieval study)))
+
+"Long-term memory is formed immediately without the need for protein synthesis-dependent consolidation in Drosophila"
+The study of memory formation is ongoing, some studies have argued that new protein synthesis is required for long term memory, but "consolidated" long term memory or cltm can apparently form without new protein synthesis. I think what is required for memory is a change in the neural substrate, that could be a new protein added to support or strengthen the nmda receptor, or the growth of a new ampa receptor, or the support or growth of a new spine, but without protein synthesis perhaps a long term memory could be defined in terms of the decay of a receptor or spine, such as with calcium signalled LTD process. Yes I am suggesting that memories can be created by forgetting, I imagine how the process of sculpting is a negative process, or a process of removing material in order to define a shape. Perhaps we might call this long term memory carvation (instead of formation).
+https://www.nature.com/articles/s41467-019-12436-7
 
 Long Term Potentiation has long been associated with new protein synthesis, and usually when I have read about that concept I thought that perhaps protein synthesis makes sense in the creation of new memories, but how weird is the idea the protein synthesis is also required for the retrieval of old memories? it seems that in case of Alzheimer's Disease it has been established that protein synthesis is impaired, and that by restoring protein synthesis some memory function is restored.
 

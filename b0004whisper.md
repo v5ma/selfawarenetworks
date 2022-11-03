@@ -1,0 +1,141 @@
+b0004y (Transcript by OpenAI Whisper)
+
+Original audio link: https://recorder.google.com/30aa7ee6-da5c-4c04-9005-69e91c46a6b3
+
+This important note is a big precursor to the NAPOT Whitepaper.
+
+# The biggest failure in the entire history of neuroscience is that we have been using the term amplitude instead of the term magnitude to model the action potential.
+reference note a0221z.md on synaptic unreliability and search all the notes in this repo for magnitude specially in the context of magnitude in note a0089z.md which explains that a neuron passes its magnitude not through amplitude, but through duration, which scales up or down the number of vesicle sacks released between 0-4 with each firing of the APsyn
+
+# *Title: Multi-scale pattern learning & recall in the brain.
+
+(Transcript by OpenAI Whisper)
+--------------------------------------------------------------------------------
+
+So add this to my book and I know how neural networks work, artificial neural networks,
+
+and how real 3D human neural networks work, and I know the differences between the two.
+
+Human beings are essentially organic robots. The activity of retrieving a memory strengthens it.
+
+And so in the retrieval of a memory new protein, since this happens, not just in the creation of a memory,
+
+but also in the removal of a memory, because the process of retrieving the memory strengthens the memory.
+
+All of the memory consists of a temporal spatial sequence that the entire oscillation is learned,
+
+and any of the neurons in that oscillation can play back because any of the neurons in the oscillation that have learned that pattern can play back that pattern.
+
+But there's going to be, I think, because the pattern was learned by all of them,
+
+but it started scaling up from the point of that oscillation before eventually interfacing with the rest of the oscillations of the brain
+
+but in a more scaled up way so that you have the recognition of patterns of different scales.
+
+At the point that a pattern occurs, it's at the level of a single neuron firing, and then as it scales to the local circuit,
+
+it scales again, it's basically repeated again in the cortical column, and then repeated again on a larger scale,
+
+and then repeated again by the whole brain.
+
+Because it's a signal that's represented by a combination of frequency and time-based codes,
+
+that create phase changes in different, to the existing oscillation pattern, and the phase changes change the phase pattern.
+
+So every time a signal is received, it changes what was there, what was basically the previous pattern that was repeating,
+
+and then here we go, and that's how the brain is combining what was previously learned with what's new.
+
+It's because the brain is essentially repeating an oscillation pattern that was the tape of the previous learnings,
+
+and then those collide with the sensory inputs, the new learnings,
+
+and those changes, the changes to the old learning, to the old oscillations,
+
+are how the system absorbs reality in a collective way that is tracked from both the individual scale through the collective scale,
+
+and their recognition that the micro patterns become macro patterns, become multi-scale patterns,
+
+the recognition that patterns have multiple scales.
+
+I think of the Alice in Wonderland when she tries the shrooms and she has a sort of spatial disassociation.
+
+I've felt on occasion, sort of like, I can't figure out which bigger is my head bigger,
+
+like, you know, have you ever had, like, you feel like if you're really huge inside your head, or maybe you're really small inside your head,
+
+like, you play with size and dimension, and imagine that, you know, all of a sudden, like, the entire universe is filled with your head.
+
+Your head is so freaking big, right?
+
+You know, I'll play with the idea that it's, your head is really tiny, and the whole universe is, like, you can feel the whole universe.
+
+Your head is like this little tiny dot, and it's, like, so freaking tiny that it's, like, even, like, this entire solar system is super tiny,
+
+and so you're, like, this ultra-tiny thing, because you're at the scale of the whole cosmos,
+
+and you're imagining the whole visible cosmos down, it's, like, so freaking tiny, and there's so much, like, around it, right?
+
+That's interesting, if you're playing this scale, like, take that area and shrink that down,
+
+and then take that area and shrink that down, so take the area that's the size of the whole universe you can imagine,
+
+and shrink it down to the size of a marble.
+
+I'll do it again.
+
+So imagine that the neuron has a megaphone with a microphone.
+
+A microphone for listening, so you have all this, you have, it's listening to a whole bunch of different things,
+
+but then condensing everything that it's listening to into the frequency and duration of the action potential,
+
+and then magnifying out, like a speaker, the frequency and amplitude to all of its connections.
+
+So its connections are listening to a frequency and amplitude of the pattern that is, that that connection represents.
+
+So that connection represents a network of, it represents, it's like that pattern, it represents features, right?
+
+So it can fire with different features, right, but it's only going to, but it's not going to contain the whole feature,
+
+like, basically the feature is contained in a network, and the network is triggered when a certain sequence happens, right?
+
+So it's like, the memory is stored at the micro scale at the individual neuron, right?
+
+But it's only deduced by the tomographic reconstruction of the signal path triggered by the memory in that neuron.
+
+So with that neuron it's going to trigger, right, it's going to, that neuron is going to trigger, it's going to magnify a signal to a whole group of neurons, right?
+
+And then the collective action of that group of neurons is going to represent the magnified signal of the single neuron with its connections, right?
+
+So it's retrieving a memory from a neuron that stores memory as its own connections, and then the memory is restored when all of those connections are bumped by the action terminal connection to the neuron that fired.
+
+So all of their timing is bumped in a way that a lot, that it basically evokes the restoration of the memory that is stored as the connections, as the learned connections, right?
+
+So that's how our memory is restored into consciousness.
+
+But then that bump keeps on magnifying, like another part of the brain will read that bump, like those neurons, or the ones that fired, right?
+
+So the ones that fired from that sequence, that learned sequence, right?
+
+So there's another stage of a learned pattern that gets played after that, right?
+
+And so there are subsequent bumps, and so there's a sequence that gets played out at a higher level, which is a sequence of multiple different oscillatory networks that are firing in phase sequence, right?
+
+So one pattern appears in this bunch of neurons, and the next part of that pattern appears in another bunch of neurons.
+
+And there's a cycle through the brain where basically you have neurons that are firing in large groups, sort of that are receiving bumps in large groups,
+
+and that is triggering certain other neurons to fire, and those are creating...
+
+And the sequence, the sequence that fires that's created is the sort of...
+
+There's a firing sequence that's sort of represented in the network by all the things that have bumped or sensed physically, like the physical sensation of what of the sequence that is fired is felt by all the neurons that are connected to it, right?
+
+And that's how the brain sees its own patterns.
+
+Because you have a sequence of networks that are firing that are representing learned patterns as the learned connections that are bumping the network in a way that is detectable because those neurons that were bumped are going to oscillate anyway,
+
+but now they're going to oscillate to a different... out of frequency, like that group is going to oscillate in a new frequency, and the new frequency is defined by the patterns that bumped it.
+
+And so the patterns that are existed in micro scale are magnified to the macro scale, and that...

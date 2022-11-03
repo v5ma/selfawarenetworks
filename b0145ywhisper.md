@@ -10,9 +10,9 @@ Audio transcription begins below this line
 
 ---------------------------------------------------------------------------------------------------------------
 
-Yeah, so Michael Grasio thinks that consciousness might be like a module that you add it and
+Yeah, so (it seems like) Michael Graziano thinks that consciousness might be like a module that you add it and
 
-then suddenly it can have the concept of self.
+Then suddenly (the brain) can have the (emergence of a self aware self).
 
 I think that's incorrect.
 

@@ -1,4 +1,3 @@
-
 b0059y (Transcript by OpenAI Whisper)
 
 Title: Scale
