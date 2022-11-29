@@ -193,23 +193,23 @@ https://www.biorxiv.org/content/10.1101/2022.09.26.509569v1
 
 The index of local coupling with eeg or bold fmri signals would show which brain regions are communicating, allowing the prediction of the task being focused on, but its the tiny variations, the phase changes happening between coupled areas that would contain the information being traded between coupled areas
 
-"From Correlation to Communication: disentangling hidden factors from functional connectivity changes"
+# "From Correlation to Communication: disentangling hidden factors from functional connectivity changes"
 https://www.biorxiv.org/content/10.1101/2022.09.25.509384v1
 
 key: "Heterogeneity of burst firing in mouse thalamic reticular nucleus neurons"
-"Attenuation of SK channels increased TRN neuron burst frequency through an increase in LTS duration, but not magnitude. The broad range of burst firing frequencies could provide distinct downstream inhibition within thalamic nuclei."
+# "Attenuation of SK channels increased TRN neuron burst frequency through an increase in LTS duration, but not magnitude. The broad range of burst firing frequencies could provide distinct downstream inhibition within thalamic nuclei."
 https://www.biorxiv.org/content/10.1101/2022.09.25.509400v1
 
-"Coding of latent variables in sensory, parietal, and frontal cortices during virtual closed-loop navigation"
+# "Coding of latent variables in sensory, parietal, and frontal cortices during virtual closed-loop navigation"
 "These results highlight the distributed nature of neural coding during closed action-perception loops and suggest that fine-grain subnetworks may be dynamically established to reflect (embodied) task strategies."
 https://www.biorxiv.org/content/10.1101/2021.10.22.465526v2
 
 Projection Pattern with Topographic Organization (NAPOT)
-"Corticothalamic Neurons in Motor Cortex Have a Permissive Role in Motor Execution"
+# "Corticothalamic Neurons in Motor Cortex Have a Permissive Role in Motor Execution"
  Anatomical characterization of M1CT neurons revealed an extensive projection pattern to thalamic nuclei with marked topographical organization.
 https://www.biorxiv.org/content/10.1101/2022.09.20.508799v1
 
-"Thalamocortical interactions shape hierarchical neural variability during stimulus perception"
+# "Thalamocortical interactions shape hierarchical neural variability during stimulus perception"
 "Our results suggest that the lower variability of VPL and area 3b facilitates feedforward thalamocortical communication, while the higher variability of area 1 supports intra-cortical interactions during sensory processing. These results provide evidence of a hierarchical order along the thalamocortical network."
 https://www.biorxiv.org/content/10.1101/2022.09.20.508691v1
 
@@ -232,7 +232,7 @@ The reference below fits with NAPOT perfectly:
 "Here, we provide evidence for a novel organizational concept: we uncover task-specific information distributed across the human brain. We use functional magnetic resonance imaging (fMRI)-based decoding models to probe the presence of task-specific information. In doing so, we show that brain regions that are empirically almost entirely task-independent (considered to be “noise”— i.e., t-statistics ≈ 0—in standard univariate fMRI analyses) can decode various tasks, even without statistical learning tools. Thus, task-specific information is present and readily accessible throughout the neocortex, challenging the sensitivity of traditional linear, univariate analytical approaches. Remarkably, even subcortical structures and the cerebellum contain task-specific signals in voxels that would univariately be considered “noise”. Finally, using data from an auditory study with different levels of sedation, we show that the widespread signal in regions remote from the primary and secondary sensory cortices (auditory cortex) depends on the level of sedation, suggesting the brain’s widespread, task-specific information is related to perception rather than the encoding of the sensory stimulus. Our analysis uncovers task-specific and consciousness level-dependent information across the human brain, which we hypothesize to be the basis for coherent, subjective perceptions.``
 https://www.biorxiv.org/content/10.1101/2022.09.19.508437v1
 
-"Disentangling Temporal and Rate Codes in Primate Somatosensory Cortex"
+# "Disentangling Temporal and Rate Codes in Primate Somatosensory Cortex"
 "However, the respective roles of spike timing and rate in frequency coding are confounded because vibratory frequency influences both perceived pitch and magnitude and shapes both the timing and rates of S1 responses. To disentangle these various elements, we measured S1 responses as animals performed a vibratory frequency discrimination task, in which differences in frequency were accompanied by uninformative variations in amplitude. We then assessed the degree to which the strength and timing of S1 responses could account for the animals’ ability to perform the frequency discrimination task in the presence of intensity confounds. First, we showed that animals can discriminate frequency, but their performance is biased by vibratory amplitude. Second, rate-based representations of frequency are susceptible to changes in amplitude, but in ways that are inconsistent with the animals’ behavior, calling into question a rate-based code for frequency."
 https://www.biorxiv.org/content/10.1101/2022.09.19.508566v1
 
