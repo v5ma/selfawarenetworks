@@ -20,7 +20,13 @@ Think about how at the neural array scale a behavior choice is a configuration i
 
 I redefined a neuron's exit terminal as an Inceptive Field the opposite of a Receptive Field. The inceptive field connects to a neural array or an array of neurons each of which has a receptive field that is not the same as the inceptive field belonging to the neurons that are transmitting to them. In other words Inceptive fields connect to multiple Receptive Fields, they overlap & mix, and in maybe 40-80 percent of the brain they are partially intercepted by Receptive & Inceptive Astrocyte Fields in tripart synapses.
 
-The receptive fields represent learned patterns, and so they are each unique in configuration, but as we learned with the Apical Dendrites, coincident backward propagating potentials to the soma trigger bursting in the soma when combined with basal dendritic inputs. BTSP Behavioral Timescale synaptic plasticity + bidirectional plasticity result in learned patterns that are encoded in the inceptive field of a neuron. The Inceptive field can also be referred to as the presynaptic area, post somatic area, the exit terminal, or the Apical Dendrite, and this area also learns patterns, it learns from the soma bursts in conjunction with bidirectional synaptic activity.
+Like the receptive, the inceptive field represents learned patterns, and each is a unique morphology that stores a unique phase state configuration.
+
+In BTSP the Apical Dendrites coincident backward propagating potentials to the soma trigger bursting in the soma when combined with basal dendritic inputs.
+
+BTSP Behavioral Timescale Synaptic Plasticity + Bidirectional Plasticity in the branches of the Apical Dendrite (or the exit terminal or the axon) result in new learned patterns (phase states) that are encoded in the inceptive field of a neuron (with the loss or gain of receptors).
+
+The Inceptive field can also be referred to as the presynaptic area, post somatic area, the exit terminal, or the Apical Dendrite, and this area also learns patterns, it learns from the soma bursts in conjunction with bidirectional synaptic activity.
 
 Neural Inceptive Field Study is like the study of Dendritic Computation but focused on the other side of the neuron.
 
@@ -247,3 +253,5 @@ https://www.nature.com/articles/s41583-022-00570-z
 
 # "The interindividual variability of multimodal brain connectivity maintains spatial heterogeneity and relates to tissue microstructure"
 https://www.nature.com/articles/s42003-022-03974-w
+
+
