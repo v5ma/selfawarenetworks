@@ -36,7 +36,6 @@ Imagine as a thought experiment that sensory learning was exclusively encoded on
 
 It's a thought experiment because in the literature there are actually separate motor neural pathways and separate sensor neuropathways, and the real brain is so messy there is probably a bit of both happening on both sides in most of the brain cells (neurons & glia), but not in equal measure in every place or every cell. Generally speaking there are some identified trends, so we have a motor cortex, and we have dedicated motor neural pathways, but I think it’s fair to say that all brain cells are involved in highly coordinated movement, and that thought itself is a cortical movement activity, no different from motor movement at the neuron scale.
 
-
 Although emotion is not the main topic of this section I also argue that there is a Neural Basis for emotion, and that emotions, sensory renderings that make up phenomenological conscious experience, and motor outputs all begin as sparse & distributed phase wave differentials communicated between cells at the neuron-glia scale. Then each of these pattern types, sensory, emotion, thinking, and muscle movement scale up into larger phase wave differential patterns initially with bursts that succeed in triggering sharp wave ripples and waves of inhibited neural arrays, and the dominant aggregation of phase wave differential rhythms that persist & have an isomorphic similarity become the phenomenologically conscious experiences of thought, emotion, thinking, and body movement.
 
 The thought experiment, of movement being stored in the Inceptive Field of a Neural Array is useful to consider that a neuron could pair its learned inputs with its learned outputs to activate an action sequence that has been connected to a specific learned memory, or that same neuron.
@@ -56,25 +55,41 @@ The past learned oscillations stored in the network exert an continuously reorga
 
 My recent thoughts on NAPOT 6 are somewhat distributed across these new notes.
 
-# New Note: a0319z Self Aware Networks Theory: Computational Phenomenological Consciousness.
+New Note: a0319z Self Aware Networks Theory: Computational Phenomenological Consciousness.
 
-# New Note: a0320z Artificial Neurology: Robotic State & Stages
+https://github.com/v5ma/selfawarenetworks/blob/main/a0319z.md
 
-# New Note: a0312z "Consciousness a memory system" paper review + "The Physics of Representation" paper review
+New Note: a0320z Artificial Neurology: Robotic State & Stages
 
-# New Note: a0308z Consciousness Not Explained: Thoughts on Daniel Dennet's Illusion, and the Hard Problem.
+https://github.com/v5ma/selfawarenetworks/blob/main/a0320z.md
 
-# New Note: b0002y.md electron bonds primer, this talk helped me to consider oscillation as both solving the attention binding issue, and explaining how all of our cells act as a collective sensor. This concept, combined with what I learned about Oscillatory Physics from Steven Strogatz’s work and Georgio Buzsaki’s work helped me come up with the concept of Cell based Entification, or how a person becomes an entity from many cells.
+New Note: a0312z "Consciousness a memory system" paper review + "The Physics of Representation" paper review
+
+https://github.com/v5ma/selfawarenetworks/blob/main/a0312z.md
+
+New Note: a0308z Consciousness Not Explained: Thoughts on Daniel Dennet's Illusion, and the Hard Problem.
+
+https://github.com/v5ma/selfawarenetworks/blob/main/a0308z.md
+
+New Note: b0002y.md electron bonds primer, this talk helped me to consider oscillation as both solving the attention binding issue, and explaining how all of our cells act as a collective sensor. This concept, combined with what I learned about Oscillatory Physics from Steven Strogatz’s work and Georgio Buzsaki’s work helped me come up with the concept of Cell based Entification, or how a person becomes an entity from many cells.
+
+https://github.com/v5ma/selfawarenetworks/blob/main/b0002y.md
 
 In theory an entire array or group or cluster of neurons & glial cells can be part of a sensor set that transmits to an actor set of cells allowing the principle of action at a single cell to be represented by many cells in what is a functional fractal at a larger scale. Two or more cells bound in oscillation can behave like a single sensor & transmitter system, an observer & actor system.
 
 Given that brain activity is encoded in a feedback loop it is possible for actions to be encoded on the sensor side and sensation memories to be encoded on the action side, in fact with looping signals will synchronize the sensation patterns with the action patterns, the sensation of past action will further modify the next action, action perception cycle 
 
-# New note a0324z contains notes on b0324z which now has human level transcription.
+New note a0324z contains notes on b0324y which now has human level transcription.
 
-# Some of my new thinking on NAPOT 6 was added to the older note a0296z
+https://github.com/v5ma/selfawarenetworks/blob/main/a0324z.md
 
-2. Sensory Input Qualia & Muscle Output Qualia. Like Memories, Actions are a nonlinear program. Action programming is sparse-distributed like memory. 
+https://github.com/v5ma/selfawarenetworks/blob/main/b0324y.md
+
+Some of my new thinking on NAPOT 6 was added to the older note a0296z
+
+https://github.com/v5ma/selfawarenetworks/blob/main/a0296z.md
+
+# 2. Sensory Input Qualia & Muscle Output Qualia. Like Memories, Actions are a nonlinear program. Action programming is sparse-distributed like memory. 
 
 “Sparse distributed memory (SDM) is a mathematical model of human long-term memory introduced by Pentti Kanerva in 1988 while he was at NASA Ames Research Center. It is a generalized random-access memory (RAM) for long (e.g., 1,000 bit) binary words. These words serve as both addresses to and data for the memory.”
 https://en.wikipedia.org/wiki/Sparse_distributed_memory
@@ -94,9 +109,11 @@ This article (below) is relevant to both sensory qualia and muscle qualia.
 "Hippocampal network activity at theta frequencies (5-10Hz) is important for behavior. However, it remains unclear how behaviorally-relevant network theta rhythms arise and interact with cellular dynamics to dictate spike timing. We performed membrane voltage (Vm) imaging of individual CA1 pyramidal cells and parvalbumin interneurons with simultaneous local field potential (LFP) recordings in mice during locomotion. We found that Vm theta rhythms organize spike timing in both cell types regardless of behavioral conditions, but the Vm of parvalbumin interneurons is better synchronized with LFP. The temporal relationships between spikes and LFP theta reliably reflect the Vm-LFP relationships in parvalbumin cells, but not in pyramidal cells. Thus, cellular theta rhythms broadly organize spike timing in CA1 neurons, and parvalbumin interneurons are critical in coordinating network theta rhythms."
 https://biorxiv.org/cgi/content/short/2022.11.14.516448v1
 
-Cortical reactivations predict future sensory responses https://www.biorxiv.org/content/10.1101/2022.11.14.516421v1
+# "Cortical reactivations predict future sensory responses"
+https://www.biorxiv.org/content/10.1101/2022.11.14.516421v1
 
-3. Not all of our sensory inputs are conscious and not all of our motor outputs are conscious, because we have a high level coarse-grained computationally rendered internal representation, that manifests a multi-sensory metaphor of reality, so only the aggregate of a great number of isomorphic or self-similar phase wave differentials reach attention in our phenomenological conscious experience, those things that are perceived consciously are the dominant phase wave differential rhythms.
+# 3. What makes it conscious?
+Not all of our sensory inputs are conscious and not all of our motor outputs are conscious. We have a high level coarse-grained computationally rendered internal representation, that manifests a multi-sensory metaphor of reality, so only the aggregate of a great number of isomorphic or self-similar phase wave differentials reach attention in our phenomenological conscious experience, those things that are perceived consciously are the dominant phase wave differential rhythms.
 
 Those muscle movements that are conscious are also phase wave differential rhythms, and the choices that we make are also the dominant phase wave differential rhythms that bridge conscious rendered sensory input experience (think of it as the experience of the ecosystem) and conscious rendered muscle output (think of it as the experience of the body)
 
@@ -127,7 +144,7 @@ NAPOT 6 Refines the idea of NAPOT to consider that Synaptic inward EPSPs and Som
 
 I think if I take this idea one step further it’s that bidirectional synaptic communication, dendritic computation, and somatically detected coincidences help to define which sensory input patterns are ignored and which sensory input patterns gain dominance in the brain’s oscillatory rhythms.
 
-# Lets begin to imagine machine applications of phenomenologically conscious functions
+# 4. Lets begin to imagine machine applications of phenomenologically conscious functions
 Lets imagine the oscillatory neural pathway being simulated in a machine, we are simulating the microscopic, which is taking discrete phase changes, and passing them through simulated signal pathways, through a network that results in state phase changes to the network. What makes them phase wave differentials conscious then? My argument is that they become dominant rhythms when they become conscious. DPWDR Dominant Phase Wave Differential Rhythms. If an engram is a phase wave differential from baseline tonic brainwave activity, a phenomenologically conscious engram is a dominant phase wave differential rhythm (that persists spatially and or temporally over other phase wave differentials in the brain).
 
 It's like what if you arranged a diffusion network in a loop to take the incoming data, render something, feed the rendering back to the diffusion network to render something else and kept repeating that process, so that the eventual output was this really complex consideration.
@@ -141,6 +158,8 @@ In other words I react to what I perceive, and I don't react to what I don't per
 From one valid perspective we can consider the whole brain as a vast sensor transmitter relay system, with phenomenological consciousness being like a hall of mirrors for oscillatory tomography (Oscillations that are similar bind together, like coincidences, that is the basis of oscillatory tomography or tomography via oscillation) to bind together synaptic & somatic patterns that result in motor outputs that the same sensor transmitter system then recaptures to build a self aware identity, a strange loop in space.'
 
 If you are one of the 60 or so people on this planet smart enough to be excited about Self Aware Networks and Neural Array Projection Oscillation Tomography then stay tuned for NAPOT 7, although by comparison NAPOT 7 is Expert Level, and I would describe NAPOT 6 as Advanced.
+
+# 5. Citations: The following citations are still being evaluated, many more will be included in the next major update, and some will be moved elsewhere.
 
 Whole brain evaluation of cortical micro-connectomes. https://www.biorxiv.org/content/10.1101/2022.10.05.510240v1
 
