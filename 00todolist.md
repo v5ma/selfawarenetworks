@@ -82,4 +82,11 @@ b0319y
 
 # Update Book Structure on Note a0005z and clean out anything that doesn't belong, move stuff out of it that isn't related to book structure.
 
-# Rewview & Update Whisker: a0296z
+# Review & Update Whisker Note a0296z
+
+# Make a video presentation of NAPOT 6 and create a video presentation for the change log.
+
+# Finish work on NAPOT 6 and NAPOT 7
+
+# Add to & Sort link review list.
+https://github.com/v5ma/selfawarenetworks/blob/main/00linkreviewlist.md

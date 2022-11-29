@@ -2,6 +2,10 @@
 
 It's like the todolist but specifically for external links to research papers including links to pdf's that I want to review
 
+Note: The link review list is meant to be empty, it's a back log of links I want to review, it's not even all the links I want to review, countless links are stored in my toby account, and on my social media accounts, twitters, facebook pages, facebook groups, on linkedin, and other places, all over the place. There is so much stuff to review and that fact is why I am starting an institute focused on this research topic: Self Aware Networks: Neurophysics, Artifical Neurology, and Brain Machine Interfaces.
+
+As I review the links I will either move them to related notes, create new notes around them, or remove them for being too far off topic. Most of the time I've previewed a link and at least skimmed the abstract before it makes it to this list, but occassional I will grab something just because of it's title to review later without knowing whether or not it's applicable to this project.
+
 a0213z revisit this note to sort out the content
 
 There are a pdfs & downloaded webpages on the chromebook
