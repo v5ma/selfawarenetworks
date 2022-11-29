@@ -4,6 +4,8 @@ Title: Thoughts on Michael Graziano's Description of the TPJ as a Consciousness 
 
 Quick note: Some of my thoughts on Michael Graziano's work, his TPJ module vs my comparison of the brain as a tv monitor rendering one line of pixels at a time, my thoughts start off rambling but then I draw a contrast between theories of a local of central focus, or a center of consciousness, to a distributed conscious observer consisting of smaller observers, audio is cleared by me to share
 
+Disclaimer: After rereading Graziano months after this note I take back my earlier assessment or criticism of Graziano's TPJ Consciousness Module Conjecture, in that I do not think he was limiting the function of the TPJ to a consciousness module by virtue of it's activation during phenomenological consciousness perception of an item in front of a subject under study such as an Apple infront of a patient. His view is far broader & more complex in hindsight, but not so self limiting & specific.
+
 Listen to the Original Audio here https://recorder.google.com/share/b05673ce-0f9d-4d54-918e-1d054b8be409
 
 Audio transcription begins below this line

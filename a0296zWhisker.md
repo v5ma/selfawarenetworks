@@ -2,6 +2,12 @@ a0296z
 
 Whiskers
 
+Regarding the article below (Internal Brain State...): 1. The following reference points to top down control. 2. A process of how this can work is described in note a0007z.loop as 6th layer pyramidal neuron tuning. When signals are sent from the 6th layer pyramidal neuron to through the thalamic loop back down to the somas of pyramidal cells in the 2nd & 3rd layers those Somas are excited and the signal to noise ratio lowers so the cells become more sensitive. The reverse situation could happen if inhibitory interneurons cells inhibit incoming signals, reducing the sensitive or changing to signal to noise ratio. It's interesting because regular whisking desynchronizes the lfp and eeg, and that is what sensor input is supposed to do, in Self Aware Networks NAPOT theory, it's up to the tonic oscillation to absorb decohering sensory inputs, to noise them away, into a synchronized pattern again. The decohering distinctions of which are the phase wave differentials that define the rendering of qualia, that is the abstraction of whisker feeling as the mouse knows it, it's rendered in the decoherence pattern.
+
+# "Internal brain state regulates membrane potential synchrony in barrel cortex of behaving mice"
+" However, when the mouse is whisking, an internally generated state change reduces the Vm correlation, resulting in a desynchronized local field potential and electroencephalogram. Action potential activity was sparse during both quiet wakefulness and active whisking. Single action potentials were driven by a large, brief and specific excitatory input that was not present in the Vm of neighbouring cells. Action potential initiation occurs with a higher signal-to-noise ratio during active whisking than during quiet periods. Therefore, we show that an internal brain state dynamically regulates cortical membrane potential synchrony during behaviour and defines different modes of cortical processing."
+https://sci-hub.se/10.1038/nature07150
+
 # Read 5 times
 # "Signaling of layer 1 and whisker-evoked Ca2+ and Na+ action potentials in distal and terminal dendrites of rat neocortical pyramidal neurons in vitro and in vivo"
 https://pubmed.ncbi.nlm.nih.gov/12177197/

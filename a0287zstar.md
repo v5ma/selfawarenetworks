@@ -25,6 +25,12 @@ It's a song of fire & ice.
 
 I will have to add to the note on the Phasic Tonic Relationship the 'SCP (Inhibited) Tonic Relationship', because its the inverse relationship.
 
+The article below is evidence for what I call Soliton Slow Cortical Potentials (SCP) or (Anti-matter) Negative Action Potentials
+
+# "Ultra-rapid axon-axon ephaptic inhibition of cerebellar Purkinje cells by the pinceau"
+"Excitatory synaptic activity in the brain is shaped and balanced by inhibition. Because inhibition cannot propagate, it is often recruited with a synaptic delay by incoming excitation. Cerebellar Purkinje cells are driven by long-range excitatory parallel fiber inputs, which also recruit local inhibitory basket cells. The axon initial segment of each Purkinje cell is ensheathed by basket cell axons in a structure called the pinceau, which is largely devoid of chemical synapses. In mice, we found at the single-cell level that the pinceau mediates ephaptic inhibition of Purkinje cell firing at the site of spike initiation. The reduction of firing rate was synchronous with the presynaptic action potential, eliminating a synaptic delay and allowing granule cells to inhibit Purkinje cells without a preceding phase of excitation. Axon-axon ephaptic intercellular signaling can therefore mediate near-instantaneous feedforward and lateral inhibition."
+https://www.nature.com/articles/nn.3624
+
 # Medical Imaging Tech tool
 "Compared to other multivariate analysis methods, the neural state-space method has specific advantages and is well-suited to addressing the questions investigated herein. First, compared to multivariate decoding, the state- space method extracts multivariate neural activity patterns relevant to multiple behavioral metrics simultaneously, as opposed to investigating neural correlate of one behavioral metric at a time. Second, compared to automatic dimensionality reduction, such as PCA and similar techniques (Churchland et al., 2012; Cunningham and Yu, 2014; Baria et al., 2017), the state-space approach directly identifies the neural activity pattern (i.e. neural sub-space) relevant to a particular behavioral metric, as opposed to being behavior-agnostic."
 "While perceptual content is encoded in the activity pattern of low-frequency neural activity in the SCP band, perceptual stability and perceptual memory are influenced by the fluctuations of alpha and beta oscillation amplitudes."

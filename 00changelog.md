@@ -1,3 +1,56 @@
+# Update November 23th, 2022. I'm going to summarize the work between September and December, and talk about the next steps.
+
+# New Note: a0319z Self Aware Networks Theory: Computational Phenomenological Consciousness.
+
+# New Note: a0322z Quantum Gradient Time Crystal Dilation Tension
+
+# A minor addition to a0296z was made, this note is a work in progress.
+
+In this note Quantum Gradient Time Crystal Dilation, originally named Quantum Gradient Time Dilation, is connected to MOND Modified Newtonian Dynamics, the Tully-Fisher Relation, Galaxy Rotation Lines, Flat Rotation Speed, Mass to Light ratios, and Hubble Tension (which is about variations in the measured rate of cosmic expansion between measurements that differ in terms of the objects measured.)
+
+# New note a0324z contains notes on b0324z which now has human level transcription.
+
+In addition between September & November managed to re-transcribe all the notes, now with human level transcription, but I am still reviewing the text for most of the notes. If the name of the note has been changed to have "whisper" attached to it, you are reading the new transcription. If it says "google" that is a copy of the old transcription.
+
+A list of all the audio files can be found here https://docs.google.com/spreadsheets/d/15manx5FiFSuC4Huz3YZMdXbt9PbOWBHvqN_anDSBTT0/edit?usp=sharing As I review the transcribed text I am making notes about the contents, and once the review of a note is concluded the new transcription plus the note on that audio note will be added to the github repo.
+
+New transcriptions have been uploaded for the following notes.
+
+b0059y
+b0067y
+b0092y
+b0103y
+b0105y
+b0145y
+b0151y
+b0195y
+b0268y
+b0302y
+b0309y
+b0315y
+b0316y
+b0327y
+b0328y
+
+# Book Organization Plan updated and added to Note a0005z, which I will be updating later, adding that to the to do list. 
+After reviewing the table of contents of several books I've also settled on a book design that has 14 major cycles, three major sections, the first section has 3 major cycles, the third section has 3 major cycles, and the middle section has major cycles, 6+8 is 14. Each major cycle has 5 chapters or sub cycles. Each subcycle consists of 10 pages, and each page is expected to have 500 words. So each major cycle has 50 pages with 500 words each, and 14 x 50 = 700 pages x 500 words so the planned book has 350,000.
+
+I've created a trello to lay out the sections of the book, starting from the old table of contents which can still be seen in notes c0000x & c0001x, there is a new table of contents that has 14 parts, but I'm in the process of merging the new one with the old one and to lay out the content categories for the book.
+
+The book then is about merging the notes into the 14 part structure, (as described above each Cycle has 5 subcycles that are 10 pages each covering a topic.) If you considered the book as simply subcycles it would have 14x5 = 70 subcycles. Or a book with 70 ten page chapers. I believe that the material I have on each topic exceeds 10 pages, and the number of topics exceeds 70, however it has not been difficult to generate new content if there are infact gaps discovered when the contents of the book are filled in. Filled in meaning moving content from these notes into the chapter or cycle outline.
+
+I'm reviewing the text of the notes in the order of the longest texts to the shortest. So in the beginning the progress will seem slow, but it will accelerate as the audio text notes I'm working on get smaller.
+
+# New Note: a0320z Artificial Neurology: Robotic State & Stages
+
+# New Note: a0312z "Consciousness a memory system" paper review + "The Physics of Representation" paper review
+
+# New Note: a0308z Consciousness Not Explained: Thoughts on Daniel Dennet's Illusion, and the Hard Problem.
+
+# New Note: b0002y.md electron bonds primer, this talk helped me to consider oscillation as both solving the attention binding issue, and explaining how all of our cells act as a collective sensor.
+
+My criticism of Daniel Dennet's Consciousness Explained, other topics include emotion, emotion, internal representations, and synaptic rendering, 
+
 # September 17th, 2022
 a0310z created "NAPOT 5: Neural Array Projection Oscillatory Tomography Revision 5" visit github .com /v5ma /selfawarenetworks and search and look for note a0310z or this link
 https://github.com/v5ma/selfawarenetworks/blob/main/a0310z.md
