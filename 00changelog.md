@@ -1,3 +1,5 @@
+# Update November 28th, 2022. New Note: a0325z NAPOT 6 (rough draft)
+
 # Update November 23th, 2022. I'm going to summarize the work between September and December, and talk about the next steps.
 
 # New Note: a0319z Self Aware Networks Theory: Computational Phenomenological Consciousness.
