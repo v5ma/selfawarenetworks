@@ -7,12 +7,11 @@ https://github.com/v5ma/selfawarenetworks/blob/main/a0325zNAPOT6.md
 https://github.com/v5ma/selfawarenetworks/blob/main/a0319z.md
 
 # New Note: a0322z Quantum Gradient Time Crystal Dilation Tension
+In this note Quantum Gradient Time Crystal Dilation, originally named Quantum Gradient Time Dilation, is connected to MOND Modified Newtonian Dynamics, the Tully-Fisher Relation, Galaxy Rotation Lines, Flat Rotation Speed, Mass to Light ratios, and Hubble Tension (which is about variations in the measured rate of cosmic expansion between measurements that differ in terms of the objects measured.)
 https://github.com/v5ma/selfawarenetworks/blob/main/a0322z.md
 
 # A minor addition to a0296z was made, this note is a work in progress.
 https://github.com/v5ma/selfawarenetworks/blob/main/a0296zWhisker.md
-
-In this note Quantum Gradient Time Crystal Dilation, originally named Quantum Gradient Time Dilation, is connected to MOND Modified Newtonian Dynamics, the Tully-Fisher Relation, Galaxy Rotation Lines, Flat Rotation Speed, Mass to Light ratios, and Hubble Tension (which is about variations in the measured rate of cosmic expansion between measurements that differ in terms of the objects measured.)
 
 # New note a0324z contains notes on b0324z which now has human level transcription.
 
