@@ -105,6 +105,19 @@ Neural component analysis is like applying a neural network to analyze principle
 https://arxiv.org/pdf/2204.04153.pdf
 
 
-Losses resulting from deliberate exploration trigger beta oscillations in frontal cortex https://www.biorxiv.org/content/10.1101/2022.10.06.510948v1
+"Losses resulting from deliberate exploration trigger beta oscillations in frontal cortex" https://www.biorxiv.org/content/10.1101/2022.10.06.510948v1
 
-A ternary neural code resolves error and sharpening signals https://www.biorxiv.org/content/10.1101/2022.10.07.511138v1
+"A ternary neural code resolves error and sharpening signals" https://www.biorxiv.org/content/10.1101/2022.10.07.511138v1
+
+
+# 1 of 2 "Study urges caution when comparing neural networks to the brain. Computing systems that appear to generate brain-like activity may be the result of researchers guiding them to a specific outcome."
+"Grid cells, on the other hand, work very differently. As an animal moves through a space such as a room, grid cells fire only when the animal is at one of the vertices of a triangular lattice. Different groups of grid cells create lattices of slightly different dimensions, which overlap each other. This allows grid cells to encode a large number of unique positions using a relatively small number of cells."
+"To train neural networks to perform this task, researchers feed into it a starting point and a velocity that varies over time. The model essentially mimics the activity of an animal roaming through a space, and calculates updated positions as it moves. As the model performs the task, the activity patterns of different units within the network can be measured. Each unit’s activity can be represented as a firing pattern, similar to the firing patterns of neurons in the brain."
+"“Earlier studies have presented this story that if you train networks to path integrate, you're going to get grid cells. What we found is that instead, you have to make this long sequence of choices of parameters, which we know are inconsistent with the biology, and then in a small sliver of those parameters, you will get the desired result,” Schaeffer says."
+"One of the constraints found in earlier studies is that the researchers required the model to convert velocity into a unique position, reported by one network unit that corresponds to a place cell. For this to happen, the researchers also required that each place cell correspond to only one location, which is not how biological place cells work: Studies have shown that place cells in the hippocampus can respond to up to 20 different locations, not just one. When the MIT team adjusted the models so that place cells were more like biological place cells, the models were still able to perform the path integration task, but they no longer produced grid-cell-like activity. Grid-cell-like activity also disappeared when the researchers instructed the models to generate different types of location output, such as location on a grid with X and Y axes, or location as a distance and angle relative to a home point."
+https://news.mit.edu/2022/neural-networks-brain-function-1102
+
++
+
+# 2 of 2 "Paper: “No free lunch from deep learning in neuroscience: A case study through models of the entorhinal-hippocampal circuit.”
+https://openreview.net/pdf?id=mxi1xKzNFrb

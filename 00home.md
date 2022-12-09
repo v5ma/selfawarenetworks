@@ -271,7 +271,13 @@ Graded Potentials: Synaptic Spikes, Backwards Dendritic Spikes, Forward Dendriti
 
 Excitatory Glutamatergic Driver Signals vs Inhibitory Gaba Modulator Signals: Types of Signal Transmission: Glutamatergic Excitatory Driver Alpha vs Gaba Inhibitory Interneuron Modulating Theta / Delta
 
-Tonic waves as containing the ground of being, or the canvas of consciousness and the etchings that are the content of the mind, the qualia, as oscillating phase patterns
+Tonic waves as containing the ground of being, or the canvas of consciousness and the etchings that are the content of the mind, the qualia, as oscillating phase patterns.
+
+Tonic Oscillations in the hippocampus for example refer to Theta Oscillations.
+# Theta oscillations optimize information rate in the hippocampus
+"Low-frequency oscillations shape how neurons sample their synaptic inputs, hence regulating information exchange among neural circuits. In the hippocampus, theta oscillations (4-8 Hz) enable the temporal organization of cortical inputs, resulting in a phase code."
+"Overall, our results suggest that low-frequency oscillations are adapted to maximize the information rate of neural sampling given the temporal and biophysical constraints under which neural circuits operate."
+https://www.biorxiv.org/content/10.1101/2022.12.08.519523v1
 
 1b. Sparse Distributed Representation. https://numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-SDR.pdf
 
