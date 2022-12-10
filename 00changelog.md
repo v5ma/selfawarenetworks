@@ -1,6 +1,7 @@
 # Update December 8th 2022.
 
 # New Note: a0328z My Initial thoughts on Adaptive Resonance Theory.
+https://github.com/v5ma/selfawarenetworks/blob/main/a0328z.md
 
 + some minor updates to other files, such as citations. I have a lot of citations to add to NAPOT 6 for example, but in general there are a lot of citations that need to be added to a lot of the notes, so there will be many more minor updates as I work through the backlog of saved citations.
 
