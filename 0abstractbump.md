@@ -19,3 +19,5 @@ b0154y - recorded October 9th, 2021, the tectum of a frog is a good analogy for 
 The brains activity is continuous, but information is discrete, receptors, pairs of receptors, dendrites, soma's, neural circuits, cortical columns, and cortico-thalamic functional connectivity have discreet thresholds, phase wave differential rhythms have discrete information.
 
 "Is Information in the Brain Represented in Continuous or Discrete Form?" https://arxiv.org/abs/1805.01631
+
+I argue spacetime which encompasses everything, if considering all of it, for all time, all at once, is not discrete, its a continuous wave. At the same time you find discrete chunks in it when observing distinct intervals of it. Continuity is discrete at intervals.
