@@ -320,7 +320,7 @@ https://github.com/v5ma/selfawarenetworks/blob/c4e94e9fcd049c97d47ef6a5f2f8c2948
 https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0365z.md 
  
 11. I wrote a theory that explains how with oscillations LTP & LTD work and how that applies to plant growth, Feymen's Path Integral Formulation & more.
-https://github.com/v5ma/selfawarenetworks/blob/08ebff668a638a01698ac686ae018daf26437f24/b0067y.md
+https://github.com/v5ma/selfawarenetworks/blob/08ebff668a638a01698ac686ae018daf26437f24/b0067ywhisper.md
 https://github.com/v5ma/selfawarenetworks/blob/06edcce2038853e04c937169161f2dafdf21c8ce/a0101z.md
 
 12. I wrote a theory that explains how memories stored in synapses are Magnified to the whole brain via inhibitory waves. 
