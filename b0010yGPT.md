@@ -1,6 +1,6 @@
-b0010y Whisper
+b0010yGPT
 
-Title: Non-linear Consideration.
+(ChatGPT was used to create Summaries & Lists of key points which now exist before the OpenAI Whisper Transcription begins. The Transcription is now divided into Part 1 & Part 2 which you can search for)
 
 Note b0010y is a simple transcription of audio note b0010y found here: https://recorder.google.com/share/6e2e499f-5cf8-4b2f-8e64-e77f44a9b2de
 
@@ -8,8 +8,65 @@ Note b0010y is a simple transcription of audio note b0010y found here: https://r
 
 b0010 was given a major re-write and turned into note a0310z which also became the bases of the Neural Array Projection Oscillation Tomography Revision 5 video found here: https://youtu.be/vixhppNAKPs
 
-Whisper Transcription begins below this line.
-------------------------------------------------------------------------------------------------------------
+# ChatGPT 4 Single Sentence Summary of both Part 1 & Part 2 Summaries:
+
+Neurons fire at tonic frequencies and use rate coding with varying amplitudes and magnitudes, allowing for selective activation and real-time pattern modification by inhibitory interneurons, ultimately shaping brain processing and long-term memory development.
+
+# ChatGPT 4 One Line Summary of the first half (200 double spaced lines): 
+
+Rate coding with varying amplitudes and magnitudes in inhibition leads to unique transmission of patterns in neurons through nonlinear computation and phase wave changes.
+
+# ChatGPT 4 Key points for Part 1 (about 200 double spaced lines)
+
+Rate coding enables unique transmission of patterns in neurons.
+
+Neurons consider the clustered sum of inputs over time, leading to nonlinear computation.
+
+Neuron output changes through phase wave adjustments.
+
+Neurons can fire at various rates, including tonic rates and higher phasic bursts.
+
+Burst rates in animal brains can range from 150 Hz to 600 Hz.
+
+There is an interplay between high phasic bursts and slower tonic bursts.
+
+Brain activity forms a loop-like structure, with feedback and interactions across various regions.
+
+The timing of back-propagating signals from postsynaptic to presynaptic neurons can be modified by other neurons.
+
+Neurons represent a part of a pattern, with sparse distributed internal representations being rendered when neurons send signals to other neurons.
+
+# ChatGPT 4 One Line Summary of the second half (200 double spaced lines): 
+
+Neurons fire at tonic frequencies, encoding patterns through a combination of up-regulated and down-regulated synapses. This process allows for selective neural activation and real-time pattern modification by inhibitory interneurons, ultimately shaping the brain's processing and long-term memory development.
+
+# ChatGPT 4 Key Points for Part 2 (about 200 double spaced lines)
+
+Neurons fire at regular tonic frequencies.
+
+Patterns are encoded through a combination of excited and inhibited synapses.
+
+Sensitivity to incoming senses increases as neurons get more excited.
+
+Selective neural activation can represent different patterns.
+
+Inhibitory interneurons can modify patterns in real time.
+
+Thalamic feedback loops coordinate brain cells.
+
+Oscillatory firing binds signals across the brain.
+
+Burst rates and tonic rates represent rendered information and the mental canvas, respectively.
+
+Neurons grow and adapt to the inputs they receive, shaping neural pathways.
+
+The brain's computation occurs at the neuron, cortical column, and inter-cortical column levels.
+
+Neural pathways develop as an organism navigates its environment.
+
+# OpenAI Whisper Transcription:
+
+# Part 1
 
 Okay, so essentially the rate coding with varying amplitudes in the inhibition and varying
 
@@ -208,6 +265,8 @@ that the pattern is like a sparsen distributed internal representation that is r
 the, when the neuron outputs its pattern through the exit terminal to other neurons. It's
 
 rendered when the neuron signals, when the neuron sends signals to the next neuron via
+
+# Part 2
 
 a, a rate change and its neurotransmitter of release. So there's a, so the default is
 

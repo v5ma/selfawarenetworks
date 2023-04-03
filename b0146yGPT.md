@@ -1,16 +1,62 @@
-b0146y (transcription by OpenAI's Whisper)
+b0146y October 10th, 2021
 
-October 10th, 2021
+(Summary + Key Points by ChatGPT 4 with a new transcription by OpenAI's Whisper)
 
-Note this version of b0146ywhisper is perfect for reading along while listening to the audio here: https://recorder.google.com/b05673ce-0f9d-4d54-918e-1d054b8be409
+Original Audio: https://recorder.google.com/b05673ce-0f9d-4d54-918e-1d054b8be409
 
-Note the other version of this document, b0146yhand, has a lot of hand written fixes to the original transcription, including some interesting links. So it is similar but a little bit different to this note.
+Note: After rereading Graziano months after this note I take back my earlier assessment or criticism of Graziano's TPJ Consciousness Module Conjecture, in that I do not think he was limiting the function of the TPJ to a consciousness module by virtue of it's activation during phenomenological consciousness perception of an item in front of a subject under study such as an Apple infront of a patient. His view is far broader & more complex in hindsight, but not so self limiting & specific.
 
-Disclaimer: After rereading Graziano months after this note I take back my earlier assessment or criticism of Graziano's TPJ Consciousness Module Conjecture, in that I do not think he was limiting the function of the TPJ to a consciousness module by virtue of it's activation during phenomenological consciousness perception of an item in front of a subject under study such as an Apple infront of a patient. His view is far broader & more complex in hindsight, but not so self limiting & specific.
+The transcript is now divided into Part 1 & Part 2 corresponding to the Chat GPT summaries & key points for each part.
 
-Title: Graziano Neurons Consciousness Animals
+# ChatGPT 4 Summary of Part 1 & 2 in one sentence
 
----------------------------------------------------------------------------------------------------------------------------
+The temporal parietal junction (TPJ) potentially serves as a consciousness module, linking attention and consciousness, and facilitating complex communication between humans and animals, with neurons playing a key role in pattern recognition and attention-driven completion of preferred patterns.
+
+# ChatGPT 4 Summary Part 1 (the first set of about 200 double spaced lines)
+
+Neurons are capable of pattern recognition and play a role in driving attention in the pursuit of completing preferred patterns.
+
+# ChatGPT 4 Key Points Part 1 (the first set of about 200 double spaced lines):
+
+Neurons are multimodal neural networks.
+
+Neurons oscillate tonically and discriminate between different patterns.
+
+Neurons can reject signals or self-inhibit firing based on the pattern received.
+
+Hypothesis suggests each neuron can be a pattern detector.
+
+Neurons can detect temporal and spatial patterns across their membranes.
+
+Neurons use charge buildup and release as a short-term timekeeping mechanism.
+
+Neurons can drive attention and coordinate activity in search of specific patterns.
+
+Chemical rewards are linked to pattern completion.
+
+Neurons may be attracted to completing certain patterns with associated rewards.
+
+Consciousness could be considered an added layer to the brain's models of reality.
+
+# ChatGPT 4 Part 2 Summary (second set of 200 double spaced lines):
+
+The text suggests that the temporal parietal junction (TPJ) may act as a consciousness module, linking attention and consciousness in the brain while facilitating complex communication between humans and animals.
+
+# ChatGPT 4 Part 2 Key Points (second set of 200 double spaced lines):
+
+TPJ may act as a consciousness module.
+
+Distinction between attention and consciousness.
+
+Consciousness allows for complex communication.
+
+Animals also engage in turn-based communication.
+
+Neurons in the brain communicate in various directions.
+
+Neural communication happens in hierarchical structures.
+
+# OpenAI Whisper Transcription:
 
 artificial consciousness shit, data and C-3PO so I see neurons as something
 
@@ -209,6 +255,8 @@ environment is trying to feed the system it seems that Michael Graziano thinks
 of consciousness as as you know something that one tiny piece of your brain
 
 adds like it's something you add on to your models of reality so you know he
+
+# Part 2
 
 describes that you know you have a model of something visual in your visual
 

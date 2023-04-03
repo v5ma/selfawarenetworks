@@ -2,7 +2,7 @@ b0311yGPT was re-transcribed with OpenAI's Whisper & I used a combination of Cha
 
 The Original Audio is 6 hours long and you can listen to it here: https://recorder.google.com/cce0a746-311c-4335-8f2d-eab6be2b4dbe
 
-Note b0311yfulltext is a really long so I asked ChatGPT with GPT4 to Summarize Parts of it at time. The first part has about 400 double spaced lines. It ends with a section header that reads "Part 2" which is searchable.
+Note b0311y is a really long so I asked ChatGPT with GPT4 to Summarize Parts of it at time. The first part has about 400 double spaced lines. It ends with a section header that reads "Part 2" which is searchable.
 
 # ChatGPT 4 Summary Part 1 (the first 400 or so double spaced lines)
 

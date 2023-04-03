@@ -1,8 +1,27 @@
 # Update April 2nd 2023
 
+I'm using ChatGPT with GPT 4 to speed up the writing of my book: I'm having it summarize both my published & unpublished notes, including the unreleased OpenAI Whisper transcriptions of my audio notes. I get a one line summary + a list of all key points!
+
 b0311yGPT was re-transcribed with OpenAI's Whisper & I used a combination of ChatGPT 4 & ChatGPT 3 to summarize every 300 or 400 double spaced lines separated into distinct searchable parts, you can search for "Part 21" for example and it will take you to the section that corresponds to ChatGPT's notes which precede the transcription.
 
-The Original Audio is 6 hours long and you can listen to it here: https://recorder.google.com/cce0a746-311c-4335-8f2d-eab6be2b4dbe
+The Original Audio for b0311y is 6 hours long and you can listen to it here: https://recorder.google.com/cce0a746-311c-4335-8f2d-eab6be2b4dbe
+
+ChatGPT 4 Summaries, Lists of Key Points, Improved transcriptions with OpenAI Whisper, and Links to original audio recordings were also made for the following files this week:
+y0015GPT
+b0157yGPT
+b0010yGPT
+b0101yGPT
+b0108GPT
+b0146GPT
+b0125GPT
+b0325yGPT
+All the remaining public & private files will receive similar summaries with comprehensive lists of keypoints done by ChatGPT with GPT 4 or GPT 3.5 time permitting. I have already re-transcribed all the audio files with Whisper I just haven't shared the new versions of these files yet.
+
+There is a lot of unreleased work, including a 7th revision of NAPOT, and what could become 8th & 9th revisions of the core thesis in the Self Aware Networks Theory of Mind.
+
+In addition there are several new versions of a new table of contents, which continues to be a work in progress. I'm sticking with the plan to have 14 chapters, 700 total pages, each chapter being 50 pages, divided into at least 5 sections.
+
+There is a ton of work remaining, but having ChatGPT make summarizes and lists of key points for me is incredibly useful. It is also incredibly useful to use ChatGPT to find new citations for the things I write.
 
 # Update December 8th 2022.
 
