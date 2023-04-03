@@ -2,6 +2,12 @@ This note is intended to be deleted regularly below the 3rd line. Essentially it
 If you are new here. 1. Check the Readme.md for updates. 2. Check the Wiki for contents.
 This is the 3rd line..
 
+That moment when you realize that all of reality is a computation! On a universe computer system. The brain is like a computer system inside that computer system. But how it works is your brain is oscillating frequencies that it can read & write.
+
+The computer program, I argue from one perspective, is oscillation, the physics of oscillation are required to explain all the physics of the universe which is a harmonic oscillator with resonating frequencies, and the calculation is evolving.
+
+I am arguing that from another perspective space is a continous liquid. Right? From one perpective it's a computer system fractal, from another perspective it's a liquid. Both at the same time are true, just depending on your speed of travel.
+
 In y0016 I describe cells in the hand as being conscious without self awareness
 so there is conscious perception, and intelligence, but no self, but the feelings in the hand will compute autonomic nervous reactions, its internal representations are limited to sensory feelings or sensory distinctions without identity or other context. its an argument that living meat is base level conscious without personhood, identity, or goals
 so there is intelligence like in an artificial neural network, then attention, then there is sensory awareness which is base level consciousness or perception without identity or purpose, then there are temporally persistent oscillating learning patterns that develop contextual meaning and give rise to the development of goals & a self identify
