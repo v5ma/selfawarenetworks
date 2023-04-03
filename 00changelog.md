@@ -1,3 +1,9 @@
+# Update April 2nd 2023
+
+b0311yGPT was re-transcribed with OpenAI's Whisper & I used a combination of ChatGPT 4 & ChatGPT 3 to summarize every 300 or 400 double spaced lines separated into distinct searchable parts, you can search for "Part 21" for example and it will take you to the section that corresponds to ChatGPT's notes which precede the transcription.
+
+The Original Audio is 6 hours long and you can listen to it here: https://recorder.google.com/cce0a746-311c-4335-8f2d-eab6be2b4dbe
+
 # Update December 8th 2022.
 
 # New Note: a0328z My Initial thoughts on Adaptive Resonance Theory.
