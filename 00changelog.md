@@ -1,3 +1,7 @@
+# Update April 8th 2023
+
+b0319yGPT was created: (b0319y was retranscribed with OpenAI's Whisper and then I used ChatGPT 4 and 3.5 to summarize the text in searchable parts like Part 1, Part 2, up to Part 8, each with more or less 400 double spaced lines, also ChatGPT was asked to make lists of key points and to find references for each part. It seems pretty clear to me that ChatGPT 4 performs much better than ChatGPT 3.5 in terms of the quality of the responses. The original audio link was added to the article at the top.)
+
 # Update April 2nd 2023
 
 I'm using ChatGPT with GPT 4 to speed up the writing of my book: I'm having it summarize both my published & unpublished notes, including the unreleased OpenAI Whisper transcriptions of my audio notes. I get a one line summary + a list of all key points!
