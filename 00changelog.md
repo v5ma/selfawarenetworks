@@ -1,5 +1,7 @@
 # Update April 8th 2023
 
+b0321yGPT, b0322yGPT, b0323yGPT were created with updates including new transcriptions with OpenAI, the transcripts were divided into parts, and new summaries plus key points were added before the transcriptions.
+
 b0319yGPT was created: (b0319y was retranscribed with OpenAI's Whisper and then I used ChatGPT 4 and 3.5 to summarize the text in searchable parts like Part 1, Part 2, up to Part 8, each with more or less 400 double spaced lines, also ChatGPT was asked to make lists of key points and to find references for each part. It seems pretty clear to me that ChatGPT 4 performs much better than ChatGPT 3.5 in terms of the quality of the responses. The original audio link was added to the article at the top.)
 
 # Update April 2nd 2023
