@@ -1,5 +1,4 @@
-(DO NOT EDIT, THIS IS A BACKUP ONLY, EDIT THE CORRESPONDING WIKIPAGE INSTEAD)
-Each map page is a time-stamped copy of a wikipage. The wiki pages ought to be time stamped but I have not yet discovered where it can be shown.
+New plan: Because you cannot download the wiki on the chromebook ONLY EDIT THE MAPS in the regular self aware networks repo, and then copy them to the wiki when you have wifi.
 
 [Home](https://github.com/v5ma/selfawarenetworks/wiki)
 

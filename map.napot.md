@@ -1,6 +1,3 @@
-(DO NOT EDIT, THIS IS A BACKUP ONLY, EDIT THE CORRESPONDING WIKIPAGE INSTEAD)
-Each map page is a time-stamped copy of a wikipage. The wiki pages ought to be time stamped but I have not yet discovered where it can be shown.
-
 map.napot.md (maps connect notes together and are intended to be back ups of the wiki doc)
 
 The central thesis of my book Self Aware Networks is N.A.P.O.T. or NAPOT
@@ -131,9 +128,9 @@ https://github.com/v5ma/selfawarenetworks/blob/main/a0221z.md
 
 a0238z "Synaptic Unreliability article & The Flow of Information in the Brain map" https://github.com/v5ma/selfawarenetworks/blob/main/a0238z.md
 
-b0272y "Potassium modifies the action potential applicant amplitude or APC which determines the strength of this synaptic signal." https://github.com/v5ma/selfawarenetworks/blob/main/b0272y.md
+b0272y "Potassium modifies the action potential applicant ~~amplitude~~ magnitude or action potential duration APD which determines the strength of this synaptic signal." https://github.com/v5ma/selfawarenetworks/blob/main/b0272y.md
 
-a0598z "each array is a complete deep neural network, that accepts data and displays it to the next deep neural network, like a grid network or graph neural network, its designed so that video frames pass through the entire mind"
+a0598z "imagine as a thought experiment that each array is a complete deep neural network, that accepts data and displays it to the next deep neural network, like a grid network or graph neural network, its designed so that video frames pass through the entire mind"
 https://github.com/v5ma/selfawarenetworks/blob/main/a0598z.md
 
 a0215z "similar to what AI people call "deep learning". So your neural circuits connect together tempo-spatial patterns and make predictions about future inputs" https://github.com/v5ma/selfawarenetworks/blob/main/a0215z.md
@@ -153,11 +150,13 @@ https://github.com/v5ma/selfawarenetworks/blob/main/b0085y.md
 
 Self Aware Neural Networks are very different from Graph Neural Network that render screens to themselves, because the rendered representations are separate but also interlinked, imagine an after effects or adobe premiere timeline, but in 3D, or with multiple layers that can link together in higher dimensions, sort of like the turtle in the movie that is in the first part of the layer 1 timeline can connect with the rabbit in the last part of the layer 6 timeline. Sensory inputs can generate new layers in this 3D movie, or they can feed existing layers, and the existing layers are maintained in active brainwave activity oscillations (such as alpha and or theta waves for example) and new input, (the turtles new behavior which might be a response to a sequence that your mind links to your own motor output activity)
 
+The new input might a change in the turles behavior, and that might be a response to a sequence that came from your motor output activity. Imagine you do something with your hands, the turtle responded, your brain noticed, that your hand movement caused the turtle to do something. 
+
 a0511z.md "we have multiple neural circuits running concurrently and possibly in patterns that are separate from one another." https://github.com/v5ma/selfawarenetworks/blob/main/a0511z.md
 
 # "Self Aware Networks"
 
-b0080y "I'm arguing that our brains are making a computer program but it's a pure, a computer program that is about the and narrow tomography and neurofunctional, tomography of sensory, input data and muscles and muscle data. " https://github.com/v5ma/selfawarenetworks/blob/main/b0080y.md
+b0080y "I'm arguing that our brains are making a computer program but it's a pure, a computer program that is about the and neural tomography and neurofunctional, tomography of sensory, input data and muscles and muscle data. " https://github.com/v5ma/selfawarenetworks/blob/main/b0080y.md
 
 a0127z.md "Phase & Tonic relationship"
 https://github.com/v5ma/selfawarenetworks/blob/main/a0127z.md
@@ -172,7 +171,7 @@ https://github.com/v5ma/selfawarenetworks/blob/main/a0137z.md
 a0142z "LTD or large scale inhibition patterns to neural circuits in promixity to a neuron's phasic spiking event."
 https://github.com/v5ma/selfawarenetworks/blob/main/a0142z.md
 
-#Neural Circuits
+# Neural Circuits
 b0099y ctpr.txt (note needs to be fixed) "traveling through these patterns or traveling through our neural circuits so that we can have an inner voice by having different"
 
 a0136z "fix the representations collected by other neural circuits but also add to them, like the display I described the oscillator as being had many layers, like photoshop layers, but these are layers of interlinked renderings," https://github.com/v5ma/selfawarenetworks/blob/main/a0136z.md
@@ -196,7 +195,7 @@ a0132z "The neural circuits, layers, and cortical columns transmit their learned
 
 b0114y "Go through these, the neural circuits in a cortical column would go through like sequences of of oscillatory firing. So like it's like a multi-stage, temporal spatial firing event" https://github.com/v5ma/selfawarenetworks/blob/main/b0114y.md
 
-b0047z "Temporal spiritual phase patterns percolating through neural circuits that our matching and the left and right hemisphere even after the corpus callosum is cut." https://github.com/v5ma/selfawarenetworks/blob/main/b0047y.md
+b0047z "Temporal spatial phase patterns percolating through neural circuits that our matching and the left and right hemisphere even after the corpus callosum is cut." https://github.com/v5ma/selfawarenetworks/blob/main/b0047y.md
 
 b0313y " that means your thoughts are in neural circuits and local micro columns a little clusters" https://github.com/v5ma/selfawarenetworks/blob/main/b0313y.md
 
