@@ -9,12 +9,6 @@ https://github.com/v5ma/selfawarenetworks/blob/main/00welcome.md
 I was originally using this readme file as a change log, but now there is an official change log, for notes on changes made after June 17th 2022 when this repo was first put online.
 https://github.com/v5ma/selfawarenetworks/blob/main/00changelog.md
 
-# Pre-ordering the Book, Pricing, Future Editions
-You can pre-order the book: https://www.amazon.com/dp/B0B3QHX9FN?ref_=pe_3052080_276849420&fbclid=IwAR0j14R_e2Lr_liTlrBitmff-j8YiWq26YH-XRb8U94jD6n_S_T6Rmn-FqY
-
-The first edition will cost $9.99
-Eventually there will be an expanded second edition with art.
-
 # Disclaimer: These are raw unedited notes. Not every note is serious. You will find contracting statements & incorrect statements.
 New disclaimer file created to clean up the main readme file.
 https://github.com/v5ma/selfawarenetworks/blob/main/00disclaimer.md
