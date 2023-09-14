@@ -159,6 +159,25 @@ I think if I take this idea one step further it’s that bidirectional synaptic 
 # 4. Lets begin to imagine machine applications of phenomenologically conscious functions
 Lets imagine the oscillatory neural pathway being simulated in a machine, we are simulating the microscopic, which is taking discrete phase changes, and passing them through simulated signal pathways, through a network that results in state phase changes to the network. What makes them phase wave differentials conscious then? My argument is that they become dominant rhythms when they become conscious. DPWDR Dominant Phase Wave Differential Rhythms. If an engram is a phase wave differential from baseline tonic brainwave activity, a phenomenologically conscious engram is a dominant phase wave differential rhythm (that persists spatially and or temporally over other phase wave differentials in the brain).
 
+# "The Neural Basis of the Dynamic Unconscious"
+by Heather A. Berlin (2011) is a good citation to support the argument that unconscious & subconscious processes exist at threshold that is lower than what is required for conscious brain activity, but can still affect, prime, or cause reactions, including exciting an organism or inhibiting an organism.
+
+The sections on blindsight in the above named paper is particularly interesting and I think relevant.
+
+"And some studies suggest that the level of this parallel cortical processing determines the degree to which information from subcortical processing modulates emotional responses and reaches awareness.
+(...)Interestingly, subjects could report 
+the valence of the affective face only when TMS interfered with cortical processing. Access to the affective content of the stimuli disappeared after prolonged task 
+training or when the stimulus visibility increased. Thus, it seems that conscious processing of information can actually repress unconsciously processed information"
+
+Conscious or dominant brainwave rhythms can suppress less dominant brainwave rhythms, pushing them out of the conscious experience, but that doesn't mean you stop reacting & responding to what you are unconscious of. The content of weaker brainwave rhythms just fades to the background while your focus stays focused on the dominant or the salient information in your experience.
+
+I think my argument slightly decouples the question of where consciousness is happening and changes it to when & how it's happening. Where is slightly important I think because the oscillatory cortical-thalamic feedback loops from the thalamus to the cortex V1 through V6 and back from those layers to the thalamus appear to be essential for conscious activity. The case of blindsight point to disrupted vision pathways or alternate vision pathways, or the way I like to think of it, cut down and reduced visual pathways.
+
+"Visual stimuli presented to fully sighted people, and in the sighted visual field of blindsight patients, are thought to be processed via the subcortical/“alternative” 
+pathway described above (i.e., the retino–tecto–tha￾lamic route, or via direct LGN projections to extrastri￾ate cortex (Schmid et al., 2010), and simultaneously by the retino–geniculo–cortical pathway directly to V1 involved with in-depth, conscious cortical visual processing."
+
+# Dominant phase wave rhythms continued:
+
 It's like what if you arranged a diffusion network in a loop to take the incoming data, render something, feed the rendering back to the diffusion network to render something else and kept repeating that process, so that the eventual output was this really complex consideration.
 
 The network is learning sequences of spatial transformations, if you can tie its results into a reinforcement neural network so that it can link its own renderings of a game to its results in the game then you have tied the renderings that it makes to itself with its actions in the game, and that is what I am arguing is analogous to what organisms with their brains are doing
