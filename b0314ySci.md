@@ -14,6 +14,8 @@ The article delves into the role of inflammation and oxidative stress in COVID-1
 
 This scientific article explores the potential use of a therapeutic agent called proxellumetide for treating COVID-19. Proxellumetide is delivered through inhalatory exosomes containing the CD24 protein. The article suggests that proxellumetide, along with similar therapies, works by down-regulating the inflammatory pathway NF-kappa B. It selectively suppresses cytokines that inhibit endothelial nitric oxide production, mimicking the effects of estrogen. Increasing nitric oxide availability may help reduce viral load and act as an antioxidant. The article also mentions a study that detected microvascular damage in patients with long COVID, indicating that damage to the brain's lymphatic system and endothelial lining may contribute to the disease. Furthermore, the article discusses inflammation and oxidative stress as potential markers for COVID-19 brain damage. The author hypothesizes that tracking rapid changes in blood flow using imaging techniques could help identify these markers. The importance of antioxidants like N-acetyl cysteine and glutathione peroxidase in mitigating inflammation and oxidative stress is also discussed. Overall, the article suggests that COVID-19 may be a brain disease that affects the vasculature, lymphatic system, and endothelium, leading to inflammation and other symptoms. Further research is needed to explore these hypotheses and develop effective treatments.
 
+# Link to Audio recording: https://recorder.google.com/fbc2fb1d-2cc9-4bdd-bffc-cade264d012d
+
 # OpenAI Whisper Transcription: 
 
 other than just I'm really excited that this technology has finally arrived on the scene
