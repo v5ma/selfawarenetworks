@@ -1,12 +1,73 @@
 b0102y November 07, 2022
 
-SciSummary:
+# SciSummary (CHATGPT) & EDITED by Micah
+The scientific article discusses the idea of atoms & particles combining to form hidden structures with oscillating patterns. The author hypothesizes that these oscillations create beams or lanes in spacetime, which in turn extend the gravitational effects of a mass out into space in a predictable way that more intuitively explains the rate of the dissipation of the gravitational effect & time dilation.
 
-Key Points:
+The article explores how the concentration of vertical movement in atoms & particles caused by the curvature of spacetime results in the formation of gravitational lanes or beams. The author also discusses how gravitational forces and attractive forces play a role in the movement of particles within these oscillatory patterns.
+
+The article delves into the concept of time expansion and how it is related to the number of possible paths a particle can travel in.
+
+The author suggests that the curvature of space is defined by the expansion of time, in spacetime, in a given area of space, which from a particle or atom's perspective causes a gravitational effect.
+
+The article also touches on the idea of oscillators synchronizing and desynchronizing, and how this can impact the overall oscillatory pattern.
+
+The author suggests that there is a magnification effect similar to a photocopier when it comes to the influence of neurons firing and affecting other neurons.
+
+The article explores the relationship between bad points and oscillatory patterns as they might relate to gravity and or to neuroscience.
+
+The article concludes with discussions on AI processing and its potential applications, including voice recognition and image rendering in virtual reality.
+
+The author highlights the importance of neural rendering and the potential impact of TPUs (Tensor Processing Units) in improving AI capabilities in devices.
+
+The article ends with the author expressing excitement for advancements in AI-driven features in devices such as phones and VR headsets.
+
+# For reference:
+Consider the interesting patterns that light formulates while moving through sugar water. This is helpful to imagine how the flow of particles such as light, can exert forces on other particles, creating structures in space at the quantum scale that may be seen or may be unseen.
+
+Also for reference Visualizations of Earth's Electromagnetic Field, the lines of which illustrate paths that particles might travel close to the earth. B0102y explores the idea that Gravity, a distortion of time, is also creating paths for the flow of particles, but this idea is not as much about the spatial location of lines so much as it is about the temporal lines or lanes that affect the properties of particles waves, such as their frequency, and their magnitude or wave shape. The effect of gravity from mass at the particle scale (and at all scales) is measurable in terms of time dilation, and the gravitational force, the idea of Quantum Gradient Time Crystal Dilation lanes extending above the earth into the atmosphere and beyond is consistent predicts that time dilation at any given point in space fluctuates, gravity lanes shift & move with turbulent flow of particles, so the rate of time dilation or frames of time will fluctuate with the movement of gravity lanes.
+
+The Lithospheric magnetic field visualization is interesting because the way the earth’s surface is divided into positive & negative charges is illustrative of how I visualize the areas separating gravitational lanes at the surface of the earth. Imagine that the positive areas represent the vertical lanes, and that the negative areas represent the horizontal lanes, but the further you move away from the surface of the earth the more space is dominated by horizontal lanes, and the closer you get to the center of the earth the more space is dominated by vertical lanes. The lanes then change the odds of particle movement in each area of the volume of space inside and or near the earth, such that you end up with a perpetually extreme concentration of particles at the center of the earth, and a continually dissipative concentration of particles at the edges of earth’s atmosphere. Note that the lanes only change the odds of the direction of particle movement with each interval of spacetime, because the vertical (positive) lanes in spacetime represent accelerated frames of space they have an attractive gravitational effect on all other particles in space that becomes more concentrated the closer a particle is to the center of mass (because the concentration of vertical lanes is increased in the center, and decreased linearly furthest from the center of mass) as such gravitational lanes will without a doubt influence the location & directional development of electromagnetic fields while continuing to be a separately identifiable & measurable phenomenon.
+
+Let’s go further and speculate that a positive charge has a greater window of time relative to a negative charge? This would mean that for an electron to stay as part of an atom with a positive nucleus it would have to skip frames of time. Let me rephrase that, imagine that the proton, positively charged, has an area in time that is four times larger than the electrons area in time. This means that for every four frames of time, the electron only has enough time area to exist in 1 of the 4 frames of time. Therefore, it is not always present, and cannot always be present, it skips through time, because it has enough charge to be present ¼ of the time, in this example.
+
+Taking this idea further imagine that when any particle is in super position, it is outside time, because relatively speaking the amount of area in time that it has is less than that which is measuring time, but when the measurement of the particle happens it is gaining mass, or bringing its charge, position, and momentum into that frame of time for when it is being measured, thus it changes it’s interference pattern because it’s gravity changes, it becomes more positive or it becomes heavier in time relative to it’s state while in superposition.
+
+
+This ties into the strong nuclear force, because the greater time area created by the wake of the  positive proton is going to increase the odds that neutral or negative particles move towards it. The proton has a mass that can attract the neutron and the electron by creating a wake in it’s path that is the area in time that essentially the neutron & the electron become more likely to fall into.
+
+Positive & Positive charges are being pushed apart in space, in part because the space around their combined charge is increasing too rapidly in time area,
+
+Same thing with the negative negative combination, the amount of energy it takes to combine electrons, or negative sides of a magnet is great because their combined energy is accelerating frames of time or increasing the area of space around the combined charge which creates the repulsive interaction or repulsive force.
+
+Whereas the combination of positive charges & negative charges has a strong magnetic pull that unites positive & negative because the area of time displacement, or time area, or the quantity of time frames around the positive/negative pair is reduced relative to the increased amount of time frames at the center of the new mass, it's like a magnetic lego brick made of waves, since the waves alternate frequency, one is positive and one is negative, they can combine without exporting their time area.
+
+One interesting consequence of QGTCD, my unique & novel unified field theory, is that the Higgs Field isn’t required to give particles their mass. In fact the universe functions just fine without a Higgs Field in my theory.
+
+Lithospheric magnetic field - youtube
+https://youtu.be/58FZ6OCI6mk?si=AJt4gxFx9p5ACWx8
+
+1859 Carrington-Class Solar Storm Pummeled Earth's Magnetic Field | Video
+https://www.youtube.com/watch?v=dVS4Q4VgDxk
+
+# b0102yRef Remember to finish writing this later: Another reference to consider 
+ b0102yRef Remember to finish writing this later: Another reference to consider 
+
+# Key Points by SciSummary
+
+- The paper discusses the concept of oscillations forming beams and the impact of vertical firing on horizontal patterns in the phase field.
+- The author hypothesizes that the concentration of vertical firing can create a lane of oscillatory vertical firing, which can disrupt horizontal firing patterns.
+- The paper explores the relationship between oscillations, space-time squeezing, and the number of waves a particle can travel.
+- The author suggests that closer proximity to an oscillator increases the likelihood of being attracted to it and bonding with it, resulting in fewer available horizontal lines for travel.
+- The spread and dispersion of beams in oscillations is discussed, resulting in increased potential for horizontal travel.
+- The distance a particle needs to travel horizontally is increased relative to its distance from an oscillator.
+- The paper proposes that the curvature of space is defined by the oscillator, leading to relative distinctions in space.
+- The concept of bad points, where oscillations do not reach equilibrium, is introduced and discussed in relation to the area of oscillatory patterns.
+- The author suggests that small-scale patterns can become large-scale patterns, and vice versa, through a process of tomographic construction and neural network inference.
+
 
 Audio Recording:
 
-Transcribed with Whisper:
+# Transcribed with Whisper:
 
 b0102y
 After I had this idea about the atom being a, about atoms combining to form like a ball or a planet and then that planet having like a beam forming oscillation.
