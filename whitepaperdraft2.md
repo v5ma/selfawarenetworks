@@ -1,3 +1,6 @@
+THIS DOCUMENT IS AN ARCHIVED COPY: DO NO FURTHER EDITING
+THIS DOCUMENT IS AN ARCHIVED COPY: DO NO FURTHER EDITING
+
 [Home](https://github.com/v5ma/selfawarenetworks/wiki)
 
 Self Aware Networks: Whitepaper Draft 2
@@ -34,7 +37,7 @@ Understand also that neurons in the neural array defined by the exit terminal of
 
 Obviously there are no LED lights in the brain, you must substitute the visual of an LED light which is designed to help explain NAPOT with what is really being transmitted between neurons which is a phase change, in the oscillation of that neuron's cyclic activity, that the whole oscillating group of cells is sensing together.
 
-# Signal Reception: How synaptic connections, receptor configurations, dendritic and cell morphology account for memory
+# Signal Reception: How synaptic connections, receptor configurations, dendrites and cell morphology account for memory
 When I was going through NAPOT I realized that when Synaptic connections change that is your LTP growing, when your synaptic connections grow you are establishing memories in the physical change of the cell because that changes what the cell is going to respond to, that changes what the cell is sensitive to, that changes what activates the cell, and therefore the physical structure of the cell, as represented by synaptic connections (but not only by synaptic connections) is a memory. In the brain & body, at the root of it a long term memory is a physical structure change, that changes what signals some part of the biology responds to over time.
 
 [[https://raw.githubusercontent.com/v5ma/picturesforbook/ef83d2f65163a50805d7a953071b6e7461e3e0e9/My%20project-1%20(9).png]]
@@ -97,7 +100,7 @@ Your brain can combine different signal types because the signals are being tran
 In split brain patients if you still have synchronous activity between left & right hemispheres, there are other pathways like through the thalamic bridge, but these other pathways are not required because brainwave activity keeps the oscillatory activity of the brain very regular. So even though it looks like noise it's working, as a high magnitude attractor the brain is consistently kept in a ready aware state throughout the day, expecting both the expected and the unexpected with tonic high magnitude brain wave rhythms.
 
 # The Flow of information in the brain
-To recap: The first neural array (in your eyes for example) is selectively reacting to sensory input signals from the environment, and then it's rendering a pattern (inception, the exit terminal, constituting the presynaptic branches, is the inceptive field) for the next neural array to perceive (reception, the receiving dendritics of the next array represent the receptive field of the next array.)
+To recap: The first neural array (in your eyes for example) is selectively reacting to sensory input signals from the environment, and then it's rendering a pattern (inception, the exit terminal, constituting the presynaptic branches, is the inceptive field) for the next neural array to perceive (reception, the receiving dendrite of the next array represents the receptive field of the next array.)
 
 Imagine that the first array layer is like the input to a computer, like your keyboard, and what it sends out is like a computer screen, or your tv monitor. The next array perceives that picture, in a sense sees or hears or feels that picture, and then it creates its own pattern representation for the array layer behind it, the process keeps repeating across the whole brain, from the sensory input neural pathways, and eventually out via the motor output neural pathways. If your brain & body is a fractal of a neuron, the sensory inputs are the dendrites, and the motor outputs are the phase changes, your body's movement is your computer screen output.
 
@@ -137,7 +140,6 @@ I argue that the computational units involve oscillations happening at multiple 
 [[https://raw.githubusercontent.com/v5ma/picturesforbook/4902c64086e20df8cd8d06e598291aeed9808c34/My%20project-1%20(5).png]]
 
 # FRACTAL Conscious Perception: Functional Recursive Activity Cortical Telescoping Asymmetric Lensing
-What I mean is that activity in the cortical columns is fractal, it's an oscillating feedback loop, the smaller patterns at neural scales are magnified at cortical scales, and communicated across the brain via the pyramidal cells, the major brain networks, including the the thalamic connections, but this magnification of synaptically stored memories to cortical columns has a lensing effect, a magnification effect, so that your whole brain can be focused on one tiny detail, or one tiny memory, and the column scale memories like the neuron scale memories are differentiated, none of the mirror the rest, they are similar but different, or asymmetric magnified memories.
 What I mean is that activity in the cortical columns is fractal, it's an oscillating feedback loop, the smaller patterns at neural scales are magnified at cortical scales, and communicated across the brain via the pyramidal cells, the major brain networks, including the the thalamic connections, but this magnification of synaptically stored memories to cortical columns has a lensing effect, a magnification effect, so that your whole brain can be focused on one tiny detail, or one tiny memory, and the column scale memories like the neuron scale memories are differentiated, none of the representations perfectly mirror the rest, they are similar but different, like asymmetric copies of magnified synaptic memories.
 
 The section on fractals, anatomical & functional fractals, as well as fractals in medical imaging, is intended to support the hypothesis I am sharing about how memories stored in synaptic connections scale up to whole brain activity.
@@ -361,7 +363,6 @@ https://github.com/v5ma/selfawarenetworks/blob/main/b0153y.md
 b0318y.md "Our brains are rendering a representation of reality and our selves with computed graphics" "a set of Neural Arrays passing Phases Patterns that represent learned data that is rendered to the next array."
 https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/b0318y.md
 
-a00000a3 bump3
 
 
 b0327y.md "The flow of information in the brain"

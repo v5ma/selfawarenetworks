@@ -1,3 +1,6 @@
+THIS DOCUMENT IS AN ARCHIVED COPY: DO NO FURTHER EDITING
+THIS DOCUMENT IS AN ARCHIVED COPY: DO NO FURTHER EDITING
+
 # Whitepaper Draft 1
 Self Aware Networks
 
@@ -117,7 +120,7 @@ Each neuron in an oscillating group, such as a cortical column, takes a turn at 
 
 When a neuron broadcasts its high phasic wave, it's signal zooms out along the paths of it's exit terminal to many neurons, but it keeps going, it creates a sharp wave ripple of alternating waves of inhibition & excitation, imagine the function of a photocopier & cite Strogatz's book Sync when he mentioned the photocopier effect.
 
-I argue that the computational units are oscillators of variating scales, so the patterns in our mind are scale invariant, but that means they can be generated and played back at all scales (defined by single oscillators or grouped oscillators)
+I argue that the computational units are oscillators of happening at multiple scales, so the patterns in our mind are scale invariant, but that means they can be generated and played back at all scales (defined by single oscillators or grouped oscillators)
 
 # FRACTAL Conscious
 Perception: F.unctional R.ecursive A.ctivity C.ortical T.elescoping A.symmetric L.ensing

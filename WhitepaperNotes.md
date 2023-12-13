@@ -1,19 +1,18 @@
+THIS DOCUMENT IS AN ARCHIVED COPY: DO NO FURTHER EDITING
+THIS DOCUMENT IS AN ARCHIVED COPY: DO NO FURTHER EDITING
+
 Notes on the Whitepaper video
-
-listen to the video again to make notes on what you added with dialog alone
-
-fix variating
 
 Imagine that the brain is like a horn or a lens where signals converge to points, but also they magnify out from any point.
 (There is a paper that argues differently: )
 
-The quantity of potassum "for" when the threshold of the ap was triggered? check grammar
+The quantity of potassium "for" when the threshold of the ap was triggered? check grammar
 
 I went over the beginning how the whole array is not just receiving information from one neuron,
 
-the exit terminal array from one neuron is also receiving the led light from a whole bunch of other neurons at the same time
+The exit terminal array from one neuron is also receiving the led light from a whole bunch of other neurons at the same time
 
-so the exit terminal array is going to see that LED light from a whole bunch of different neurons simultaneously (imagine a tv screen or a grid of phase changes).
+So the exit terminal array is going to see that LED light from a whole bunch of different neurons simultaneously (imagine a tv screen or a grid of phase changes).
 
 A lot of neurons are contributing light to that exit terminal array, not just one.
 
