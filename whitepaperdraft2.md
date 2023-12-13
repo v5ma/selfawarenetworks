@@ -2,6 +2,8 @@
 
 Self Aware Networks: Whitepaper Draft 2
 
+[Whitepaper Youtube Video Link](https://youtu.be/gZ0nOwJh_80)
+
 The central thesis of my book Self Aware Networks is NAPOT
 
 Neural Array Projection Oscillatory Tomography.
@@ -130,12 +132,13 @@ Each neuron in an oscillating group, such as a cortical column, takes a turn at 
 
 When a neuron broadcasts its high phasic wave, it's signal zooms out along the paths of it's exit terminal to many neurons, but it keeps going, it creates a sharp wave ripple of alternating waves of inhibition & excitation, imagine the function of a photocopier & cite Strogatz's book Sync when he mentioned the photocopier effect.
 
-I argue that the computational units are oscillators of variating scales, so the patterns in our mind are scale invariant, but that means they can be generated and played back at all scales (defined by single oscillators or grouped oscillators)
+I argue that the computational units involve oscillations happening at multiple scales, and that the patterns in our mind are scale invariant, patterns they can be generated, converted, played back at different network scales (defined by single oscillators (like neurons) or oscillating groups (like nuclei or edge communities or cortical columns))
 
 [[https://raw.githubusercontent.com/v5ma/picturesforbook/4902c64086e20df8cd8d06e598291aeed9808c34/My%20project-1%20(5).png]]
 
 # FRACTAL Conscious Perception: Functional Recursive Activity Cortical Telescoping Asymmetric Lensing
 What I mean is that activity in the cortical columns is fractal, it's an oscillating feedback loop, the smaller patterns at neural scales are magnified at cortical scales, and communicated across the brain via the pyramidal cells, the major brain networks, including the the thalamic connections, but this magnification of synaptically stored memories to cortical columns has a lensing effect, a magnification effect, so that your whole brain can be focused on one tiny detail, or one tiny memory, and the column scale memories like the neuron scale memories are differentiated, none of the mirror the rest, they are similar but different, or asymmetric magnified memories.
+What I mean is that activity in the cortical columns is fractal, it's an oscillating feedback loop, the smaller patterns at neural scales are magnified at cortical scales, and communicated across the brain via the pyramidal cells, the major brain networks, including the the thalamic connections, but this magnification of synaptically stored memories to cortical columns has a lensing effect, a magnification effect, so that your whole brain can be focused on one tiny detail, or one tiny memory, and the column scale memories like the neuron scale memories are differentiated, none of the representations perfectly mirror the rest, they are similar but different, like asymmetric copies of magnified synaptic memories.
 
 The section on fractals, anatomical & functional fractals, as well as fractals in medical imaging, is intended to support the hypothesis I am sharing about how memories stored in synaptic connections scale up to whole brain activity.
 
@@ -250,7 +253,7 @@ Potassium modifies the action potential magnitude via APD Action Potential Durat
 
 Potassium modifies the action potential ~~amplitude~~ magnitude or action potential duration APD which determines the strength of this synaptic signal.
 
-Imagine that your mind is like a cycle of activated neural coincidence detections tomographically connected via oscillation into volumetric temporal & spatial patterns, sort of like a more advanced form of deep learning with similarities diffusion (see stable diffusion) networks, graph networks, and 3D Semantic Segmentation networks.
+Imagine that your mind is like a cycle of activated neural coincidence detections tomographically connected via oscillation into volumetric temporal & spatial patterns, sort of like a more advanced form of deep learning with conceptual similarities to diffusion networks (see stable diffusion), graph networks, and 3D Semantic Segmentation networks.
 
 Deep learning has had multimodal neural networks for a long time now, you can combine the Convolutional Neural Network with the Recursive Neural Network, you can combine a neural network that is focused on visual information with a neural network that is focused on audio information, and you can have cross training between different modalities.
 
