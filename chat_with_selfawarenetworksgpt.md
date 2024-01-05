@@ -7,6 +7,7 @@ I present:
 This AI is your research assistant for Self Aware Networks & Quantum Gradient Time Crystal Dilation. Connect novel ideas, questions, and user files to the SAN repository (github.com/v5ma/selfawarenetworks). Share your insights from chats via pull requests. (Alpha Version: Does not search audio transcriptions)
 
 https://chat.openai.com/g/g-FA3lrTWTq-self-aware-networks-gpt
+Read more at: 
 
 In addition here are some basic facts to help you in using the Self Aware Networks GPT
 
