@@ -1,3 +1,31 @@
+# 2nd Update Jan 4th 2024
+
+I added a piece of conjecture to a0011z that I felt was obvious but it hadn't been written, it's the idea that touch, via mechano receptors, causes multiple potassium channel activations simultaneously, and this affects the action potential duration, and the delta of neurotransmitter release and that is how the pressure of touch is transmitted from one neuron to the next. I also added several of the newer audio recordings, with transcriptions, summaries, and lists of keypoints. y0030 through y0037. Most of my 2023 content has been shared except for the bulk of the updated transcriptions of the audio files. I am working on them.
+
+# Update January 4th 2024
+
+Update Jan 4th 2023: Most of my work from 2023 on Self Aware Networks is now being shared on this github with this update.
+
+As you can see there are 16 new PDFs, and a new text files added to the repo.
+
+The notes that start with a, such as a0001z were compiled into 6 pdfs so they are easier to download, skim through, search and read.
+
+The Neural Lace Podcast S1&S2 is just the text of the transcriptions that is already found in the .md files here in this repo, again it was combined to make it easier to download, read, and search.
+
+NotebookML 6 Collection includes the converstations I had about Self Aware Networks and Quantum Gradient Time Crystal Dilation with NotebookML in 2023.
+
+The SAOv9 file was the last state of table of contents for the book "Self Aware Networks" that I was working on for most of 2023. The first book ideally is completed when the paragraphs from the notes on this github are sorted into the table of contents. 
+
+Hex 7 is a collection of notes, but it includes the first mention of NAPOT 7, and NAPOT 10. 
+
+The GPT2023X text file represents an entire year of my chats with AI (my GPT: Self Aware Networks GPT) about the Self Aware Networks Theory of Mind, including all of my discussions with AI about the NAPOT revisions which is the main thesis of Self Aware Networks, and all of my discussions with AI about Quantum Gradient Time Crystal Dilation are inside the GPT 2023X file from January 2023 to January 2nd 2024.
+
+The 6 files that start with GPT2023XLine, for example GPT2023XLine00001 represent around 10,000 lines each cut from GPT2023X (note they were 10,000 lines each when the document was in Notepad++, somehow the line count shrunk by a huge factor when I converted them into pdfs.) This is designed to make the files more easy to review given the hugh quantity of text.
+
+While I have more to share, this upload contains so much new information that you can verify virtually any claim that I have made about my work on social media from the content in this upload.
+
+What's missing from this upload are new chats made with AI after January 2nd 2024, notes that I have made after Jan 2nd 2024, and the newer cleaner transcriptions of the audio files with lists of AI summaries & AI outlines of key points.
+
 # December 15 2023, in going over my notes I have more to share about the QGTCD Theory today. I will add this to a new note called QGTCD.md There is a lot more to share on this topic including how it applies to a lot of physics that I have worked out but haven't published yet.
 
 There are several equations that have been proposed relating to the Quantum Gradient Time Crystal Dilation (QGTCD) theory proposed by Micah Blumberg 
