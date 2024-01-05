@@ -1,3 +1,16 @@
+# Update January 5th 2024
+
+Chat with Self Aware Networks GPT
+
+I present:
+
+# Self Aware Networks GPT
+
+AI research assistant for Self Aware Networks & Quantum Gradient Time Crystal Dilation. Connect novel ideas, questions, and user files to the SAN repository (github.com/v5ma/selfawarenetworks). Share your insights from chats via pull requests. (Alpha Version: Does not search audio transcriptions)
+
+https://chat.openai.com/g/g-FA3lrTWTq-self-aware-networks-gpt
+Read more at: https://github.com/v5ma/selfawarenetworks/blob/main/chat_with_selfawarenetworksgpt.md
+
 # 2nd Update Jan 4th 2024
 
 I added a piece of conjecture to a0011z that I felt was obvious but it hadn't been written, it's the idea that touch, via mechano receptors, causes multiple potassium channel activations simultaneously, and this affects the action potential duration, and the delta of neurotransmitter release and that is how the pressure of touch is transmitted from one neuron to the next. I also added several of the newer audio recordings, with transcriptions, summaries, and lists of keypoints. y0030 through y0037. Most of my 2023 content has been shared except for the bulk of the updated transcriptions of the audio files. I am working on them.
