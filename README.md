@@ -12,9 +12,10 @@ Note the current version of this chat bot requires that you create an account wi
 
 Read more at: https://github.com/v5ma/selfawarenetworks/blob/main/chat_with_selfawarenetworksgpt.md
 
-The QGTCD.md document is a quick reference to the Quantum Gradient Time Crystal Dilation equations. https://github.com/v5ma/selfawarenetworks/blob/main/QGTCD.md
+# Quantum Gradient Time Crystal Dilation equations & theory.
+The QGTCD.md document is a quick reference to the equations https://github.com/v5ma/selfawarenetworks/blob/main/QGTCD.md
 
-There is a lot more to share about the Quantum Gradient Time Crystal Dilation including how it applies to a lot of physics, but that information is located in other documents on this github and you will have to search for it for now (or chat about QGTCD with Self Aware Networks GPT)
+There is a lot more to share about the Quantum Gradient Time Crystal Dilation in this github repo, including how it applies to a lot of physics, but that information is unfortunately scattered & not organized, it is located in other documents on this github and you will have to search for it (for now) (or chat about QGTCD with Self Aware Networks GPT).
 
 # The latest video
 Neural Array Projection Oscillation Tomography Theory 5th Revision.
