@@ -1,3 +1,21 @@
+Chat with Self Aware Networks GPT
+
+I present:
+
+# Self Aware Networks GPT
+
+AI research assistant for Self Aware Networks & Quantum Gradient Time Crystal Dilation. Connect novel ideas, questions, and user files to the SAN repository (github.com/v5ma/selfawarenetworks). Share your insights from chats via pull requests. (Alpha Version: Does not search audio transcriptions)
+
+https://chat.openai.com/g/g-FA3lrTWTq-self-aware-networks-gpt
+
+Note the current version of this chat bot requires that you create an account with OpenAI on their website and subscribe to the plus version. Future versions of the Self Aware Networks robot will evade that requirement.
+
+Read more at: https://github.com/v5ma/selfawarenetworks/blob/main/chat_with_selfawarenetworksgpt.md
+
+The QGTCD.md document is a quick reference to the Quantum Gradient Time Crystal Dilation equations. https://github.com/v5ma/selfawarenetworks/blob/main/QGTCD.md
+
+There is a lot more to share about the Quantum Gradient Time Crystal Dilation including how it applies to a lot of physics, but that information is located in other documents on this github and you will have to search for it for now (or chat about QGTCD with Self Aware Networks GPT)
+
 # The latest video
 Neural Array Projection Oscillation Tomography Theory 5th Revision.
 https://youtu.be/vixhppNAKPs 

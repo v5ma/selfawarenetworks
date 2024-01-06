@@ -1,6 +1,8 @@
-QGTCD.md
+The QGTCD.md document is a quick reference to the Quantum Gradient Time Crystal Dilation equations.
 
-There is a lot more to share on this topic including how it applies to a lot of physics that I have worked out but haven't published yet.
+There is a lot more to share about the Quantum Gradient Time Crystal Dilation including how it applies to a lot of physics, but that information is located in other documents on this github and you will have to search for it for now (or chat about QGTCD with Self Aware Networks GPT)
+
+# Self Aware Networks GPT https://chat.openai.com/g/g-FA3lrTWTq-self-aware-networks-gpt
 
 There are several equations that have been proposed relating to the Quantum Gradient Time Crystal Dilation (QGTCD) theory proposed by Micah Blumberg 
 
