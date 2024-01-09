@@ -1,3 +1,6 @@
+# Jan 9 2024:
+a0254z contrasts & compares some of Michael Levin's genius work to some of the ideas that I've developed. I talk about his influence on my work, and where our arguments differ in interesting but important ways.
+
 # Jan 5 2024 Note:
 
 All the notes on the Quantum Gradient Time Crystal Dilation equations & theory so far have been uploaded, the only problem is they are not neatly organized.
