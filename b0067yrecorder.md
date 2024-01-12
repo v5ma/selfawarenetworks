@@ -267,9 +267,9 @@ https://www.researchgate.net/publication/220403160_Splay_States_in_a_Ring_of_Cou
 
 The splay state means the oscillations are now on opposite intervals. The area between two oscillations in a splay state is going to be anti-attractive for (synaptic or plant) growth, or relative to the areas between oscillators in sync.
 
-*That inspires our minds to imagine that an anti-gravity propulsion technology could be accomplished with an oscillation pattern is a splay state (relatively opposite in the timing of it's oscillatory intervals) to the oscillation frequency of gravity (the Quantum Gradient Time Dilation). 
+*That inspires our minds to imagine that an anti-gravity propulsion technology could be accomplished with an oscillation pattern is a splay state (relatively opposite in the timing of it's oscillatory intervals) to the oscillation frequency of gravity (the Quantum Gradient Time Crystal Dilation). 
 
-# New term: Quantum Gradient Time Dilation, Trademark & Copyright Micah Blumberg 2022. LOL
+# New term: Quantum Gradient Time Crystal Dilation, Trademark & Copyright Micah Blumberg 2022. LOL
 
 24:08
 
@@ -287,7 +287,7 @@ So imagine that in space in the dark that a plant can grow in any direction at a
 
 25:21
 
-It's speeding up time (quantum gradient time dilation). It's speeding up time in that direction. So there are now more possible paths in the direction, in which time is accelerating faster. It's like if time is accelerating faster in one direction, then you have like, one, two, three or more paths in a quantum gradient time dilation accelerated direction for every one path in a non-time dilated direction.
+It's speeding up time (Quantum Gradient Time Crystal Dilation). It's speeding up time in that direction. So there are now more possible paths in the direction, in which time is accelerating faster. It's like if time is accelerating faster in one direction, then you have like, one, two, three or more paths in a Quantum Gradient Time Crystal Dilation accelerated direction for every one path in a non-time dilated direction.
 
 25:53
 

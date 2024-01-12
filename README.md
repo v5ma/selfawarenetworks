@@ -85,8 +85,8 @@ These are the book notes for the book Self Aware Networks: The Neurophysics of C
 
 These notes are not ready for anyone to read them as they still need lots of editing & fixing.
 
-The book notes include a new quantum gravity formulation, alternately referred to as Quantum Gradient Time Dilation and Quantum Gradient Time Crystal Dilation, there are several notes on the topic
-See note a0253z Time Crystals, Time Dilation, Quantum Gradient Time Dilation for one example
+The book notes include a new quantum gravity formulation,  Quantum Gradient Time Crystal Dilation, there are several notes on the topic
+See note a0253z Time Crystals, Time Dilation, Quantum Gradient Time Crystal Dilation for one example
 https://github.com/v5ma/selfawarenetworks/blob/main/a0253z.md 
 
 There is a new model of a neuron which combines the Soliton Wave Model with the Hodgkin & Huxley model with Neural Array Projection Oscillation Tomography, Individual Receptor modification that modifies Cyclic AMP and or Potassium levels affecting individual Calcium channels on the post synapse, which fits with Sparse Distributed Memory & Sparse Distributed Representation theories.

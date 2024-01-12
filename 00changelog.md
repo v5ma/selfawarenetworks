@@ -508,7 +508,7 @@ These notes, that formulate the ground of the Self Aware Networks Institute, and
 
 5. I led the "NeurotechSF" Salon meetup for 2 years, I hosted many code writing meetups, and VR AR meetups. I also run a code oriented discord, three githubs, many science & tech faceobok groups which huge numbers of people as members. I'm a well known brain hacker & journalist. My tweets are seen my hundreds of thousands of people each month.
 
-6. I also created a new gravity theory, quantum gradient time dilation which explains how mass as a time crystal creates the gravitational effect by increasing the surface area of space in a particular direction with additional time dimensions. (I connected this to biology, explaining how neurons are literally warping space.) 
+6. I also created a new gravity theory, Quantum Gradient Time Crystal Dilation which explains how mass as a time crystal creates the gravitational effect by increasing the surface area of space in a particular direction with additional time dimensions. (I connected this to biology, explaining how neurons are literally warping space.) 
 https://github.com/v5ma/selfawarenetworks/blob/c4e94e9fcd049c97d47ef6a5f2f8c29485f5a98d/a0253z.md
 
 7. I combined category theory with Petri nets  for advanced the study of dynamic systems (biology) https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0613z.md

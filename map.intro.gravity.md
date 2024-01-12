@@ -17,6 +17,6 @@ Gravity Map - A map to all the notes that mention Gravity.
 
 [a0070z Einstein's Gravitational Redshift](https://github.com/v5ma/selfawarenetworks/blob/e84c247b5a9a0f1d24bb41048368e1eba032c1a1/a0070z.md)
 
-[a0397z Lets consider how gravity as a quantum gradient time dilation is pressurizing the spacetime field, and imagine how depressuring space might cause lift, or expansion.](https://github.com/v5ma/selfawarenetworks/blob/main/a0397z.md)
+[a0397z Quantum Gradient Time Crystal Dilation](https://github.com/v5ma/selfawarenetworks/blob/main/a0397z.md)
 
 There could be another 70+ notes to reference here.
