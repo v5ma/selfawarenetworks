@@ -1,3 +1,18 @@
+# Jan 23rd 2024
+A new note
+
+a0403z.md Cortical Dynamics & Neurocircuitry: Mapping Sensory Loops & Cognitive Pathways
+
+Exploring the cerebral cortex's complex structure and dynamic neural processes, this scroll delves into sensory processing, neural circuitry interactions, and higher cognitive function integration.
+
+The focus is on the intricate workings and changes within the cerebral cortex, a central area of interest in neuroscience. It encompasses both the static architecture and the dynamic processes of neural activity. It's a comprehensive and systematic exploration of the networked nature of neural pathways. How different neural circuits interact and function. How sensory information is processed in the brain, with discussions on feedback and feedforward mechanisms within sensory processing, and a brief mention of higher-order cognitive functions suggesting a higher order integration of sensory information with cognitive processes like attention, memory, and decision-making.
+
+# Jan 22rd 2024
+
+There is new chat with Self Aware Networks GPT in which I share some exciting new ideas and receive the robot's exciting feedback.
+
+GPT2024Jan1toJan22.md The note is marked this way because eventually it is just going to be the GPT2024Jan representing the whole month. The notes in it are just so exciting I had to get them published.
+
 # Jan 9 2024:
 a0254z contrasts & compares some of Michael Levin's genius work to some of the ideas that I've developed. I talk about his influence on my work, and where our arguments differ in interesting but important ways.
 
