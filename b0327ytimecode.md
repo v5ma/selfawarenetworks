@@ -2078,7 +2078,7 @@ Original Recording https://recorder.google.com/b612bace-0639-419d-990a-0f16fd055
 
 [01:48:53.360 --> 01:48:59.520]  neural columns large neural columns right and and they and they um uh they they represent
 
-[01:48:59.520 --> 01:49:05.120]  in a you know everything from uh from v1 to v6 it's like it's like the entire stack right
+[01:48:59.520 --> 01:49:05.120]  in a you know everything from uh from Layer 1 to Layer 6 it's like it's like the entire stack right
 
 [01:49:05.920 --> 01:49:11.040]  and so his in one of his papers he described how that entire stack of columns that might be um you
 
@@ -2412,13 +2412,13 @@ Original Recording https://recorder.google.com/b612bace-0639-419d-990a-0f16fd055
 
 [02:06:22.800 --> 02:06:29.200]  yeah uh so yeah so um I'm just so have we already covered that so what I'm saying is like so
 
-[02:06:29.200 --> 02:06:34.960]  information comes from thalamus to the to v1 and then goes up to v6 and then from v6 back to the
+[02:06:29.200 --> 02:06:34.960]  information comes from thalamus to the to v1 and then goes up to Layer 6 and then from Layer 6 back to the
 
-[02:06:34.960 --> 02:06:41.840]  thalamus is that right uh no think of it like this so it goes from thalamus to v1 to v2 to v3
+[02:06:34.960 --> 02:06:41.840]  thalamus is that right uh no think of it like this so it goes from thalamus to Layer 1 to Layer 2 to Layer 3
 
-[02:06:41.840 --> 02:06:49.760]  to v4 to v5 etc right except it's not just that v5 or v6 goes back to thalamus v1 goes back to
+[02:06:41.840 --> 02:06:49.760]  to Layer 4 to Layer 5 etc right except it's not just that Layer 5 or Layer 6 goes back to thalamus v1 goes back to
 
-[02:06:49.760 --> 02:06:54.960]  thalamus v2 goes back to thalamus v3 goes back to thalamus v4 so they all go back to thalamus
+[02:06:49.760 --> 02:06:54.960]  thalamus Layer 2 goes back to thalamus Layer 3 goes back to thalamus Layer 4 so they all go back to thalamus
 
 [02:06:54.960 --> 02:07:00.800]  and it's a nested loop like that oh they're okay okay so they're all they're all in their own loop
 

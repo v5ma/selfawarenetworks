@@ -2078,7 +2078,7 @@ well so I mean so so by neural so a neural column of course is um you know there
 
 neural columns large neural columns right and and they and they um uh they they represent
 
-in a you know everything from uh from v1 to v6 it's like it's like the entire stack right
+in a you know everything from uh from Layer 1 to Layer 6 it's like it's like the entire stack right
 
 and so his in one of his papers he described how that entire stack of columns that might be um you
 
@@ -2196,7 +2196,7 @@ so each area might have you know however many mini columns so there's the visual
 
 auditory area and so the visual areas just cares about vision the audit auditory area just cares
 
-about auditory but then you have these higher so once you go past like v1 v2 v3 v4 then you're
+about auditory but then you have these higher so once you go past like v1 v2 v4 then you're
 
 getting into all these like higher order areas they're multimodal so they mix sound with touch
 
@@ -2412,13 +2412,13 @@ uh I think that's the pathway we studied are you talking about the thalamic loop
 
 yeah uh so yeah so um I'm just so have we already covered that so what I'm saying is like so
 
-information comes from thalamus to the to v1 and then goes up to v6 and then from v6 back to the
+information comes from thalamus to the to v1 and then goes up to Layer 6 and then from Layer 6 back to the
 
-thalamus is that right uh no think of it like this so it goes from thalamus to v1 to v2 to v3
+thalamus is that right uh no think of it like this so it goes from thalamus to Layer 1 to Layer 2 to Layer 3
 
-to v4 to v5 etc right except it's not just that v5 or v6 goes back to thalamus v1 goes back to
+to Layer 4 to Layer 5 etc right except it's not just that Layer 5 or Layer 6 goes back to thalamus Layer 1 goes back to
 
-thalamus v2 goes back to thalamus v3 goes back to thalamus v4 so they all go back to thalamus
+thalamus Layer 2 goes back to thalamus Layer 3 goes back to thalamus Layer 4 so they all go back to thalamus
 
 and it's a nested loop like that oh they're okay okay so they're all they're all in their own loop
 

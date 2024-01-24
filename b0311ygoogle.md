@@ -1017,7 +1017,7 @@ I should open a medium page. Let me know if that's working for you.
 
 02:11:53
 
-Vic is okay. I'm going there now. Yeah, it's it's V6 screens. Yeah, so VRMA dot. IO is. Is a victor. Robert Mary Adam dot Isaac Oscar, okay. And I'm. So so there and then you click on the the first the first see I think it's the first thing it says link to buy out this is Michael.
+Vic is okay. I'm going there now. Yeah, it's it's VR screens. Yeah, so VRMA dot. IO is. Is a victor. Robert Mary Adam dot Isaac Oscar, okay. And I'm. So so there and then you click on the the first the first see I think it's the first thing it says link to buy out this is Michael.
 
 02:12:29
 

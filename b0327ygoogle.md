@@ -1415,11 +1415,11 @@ on predictive coding yeah in visual cortex and my advisor had me read on intelli
 
 01:48:34
 
-I know you coffee is and now agizing or make making columns sounds similar to some sort of like place cell structure good cell structure, um and you're saying these are columns probably in like if you want or v2?
+I know you coffee is and now agizing or make making columns sounds similar to some sort of like place cell structure good cell structure, um and you're saying these are columns probably in like if you want or Layer 2?
 
 # Micah
 
-well, so I mean, so so by neuron so neuro column, of course is you know, the 150 neural columns large neuro columns right and and they and they they represent in an everything from from v1 to v6, it's like it's like the entire.
+well, so I mean, so so by neuron so neuro column, of course is you know, the 150 neural columns large neuro columns right and and they and they they represent in an everything from from Layer 1 to Layer 6, it's like it's like the entire.
 
 01:49:04
 
@@ -1511,7 +1511,7 @@ and and so well what I feel like those are gonna be a different answer so each a
 
 01:55:01
 
-There's the visual area there's the auditory area and so the visual area is just cares about vision the audit auditory area just cares about auditory, but then you have these higher order so once you go past like v1 v2 v3 v4, then you're getting into all these like higher order areas, they're multimodal so they mix sound with touch with vision and so with so this is like in the parietal cortex or like, you know areas or that are known for multimodal integration and so I feel like the context of this conversation might be more applicable if we're saying like, Maybe in the parietal cortex the many columns there are integrating all this information and maybe hold the our holding a concept of of an object and.
+There's the visual area there's the auditory area and so the visual area is just cares about vision the audit auditory area just cares about auditory, but then you have these higher order so once you go past like v1 v2 v4, then you're getting into all these like higher order areas, they're multimodal so they mix sound with touch with vision and so with so this is like in the parietal cortex or like, you know areas or that are known for multimodal integration and so I feel like the context of this conversation might be more applicable if we're saying like, Maybe in the parietal cortex the many columns there are integrating all this information and maybe hold the our holding a concept of of an object and.
 
 01:55:48
 
@@ -1686,13 +1686,13 @@ I think that's the pathway we studied talking about the thalamic loops.
 
 # Micah
 
-Yeah, so yeah, so I'm just so have we already covered that so what I'm saying is like, so if I come from thousands to the to V1 and then goes up to V6 and then from V6 back to the thalamus is that right?
+Yeah, so yeah, so I'm just so have we already covered that so what I'm saying is like, so if I come from thousands to the to Layer 1 and then goes up to Layer 6 and then from Layer 6 back to the thalamus is that right?
 
 02:06:36
 
 # F Scott
 
-No think of it like this, so it goes from thalamus to V1 to V2 to V3 to be forged to be five etcetera, right? Except it's not just that V5 or V6 goes back to thalamus V1 goes back to thalamus V2 goes back to thalamus V3 goes back to thalamus V4.
+No think of it like this, so it goes from thalamus to Layer 1 to Layer 2 to Layer 3 to be forged to be five etcetera, right? Except it's not just that Layer 5 or Layer 6 goes back to thalamus Layer 1 goes back to thalamus Layer 2 goes back to thalamus Layer 3 goes back to thalamus Layer 4.
 
 02:06:53
 

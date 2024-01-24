@@ -445,7 +445,7 @@ But, so only a few neurons in there two and a firing, most of them are not firin
 
 51:53
 
-So, VV1 to be two to be four. And so in the third layer is V4. And if V4 is capturing a pattern, let's say this, it's like a TV screen and it's about it's about which areas of the screen are black in which areas of the screen are lit up, right?
+So, VV1 to be two to be four. And so in the third area is V4. And if V4 is capturing a pattern, let's say this, it's like a TV screen and it's about it's about which areas of the screen are black in which areas of the screen are lit up, right?
 
 52:16
 

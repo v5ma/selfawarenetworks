@@ -65,7 +65,7 @@ https://twitter.com/ezfermino/status/1537050276917612544?s=20&t=SyMqJcdqfcWrjdKn
 "Off-manifold coding in visual cortex revealed by sleep" 
 https://www.biorxiv.org/content/10.1101/2022.06.10.495710v1.full.pdf
 
-This explains how a visual signal could ripple from the eyes to the thalamus to V1, V2, V3, V4 and then to the Thalamus and back in a loop, signals can ripple all over, but the concept of off-manifold coding (or oscillating sparse distributed representation) provides a viewpoint on how the whole brain could handle so many different types of sensory data flashing all over it like I am proposing (that memories ripple across the brain)
+This explains how a visual signal could ripple from the eyes to the thalamus to Layer 1, Layer 2, Layer 3, Layer 4 and then to the Thalamus and back in a loop, signals can ripple all over, but the concept of off-manifold coding (or oscillating sparse distributed representation) provides a viewpoint on how the whole brain could handle so many different types of sensory data flashing all over it like I am proposing (that memories ripple across the brain)
 
 "Spatiotemporal patterns of neocortical activity around hippocampal sharp-wave ripples"
 https://elifesciences.org/articles/51972

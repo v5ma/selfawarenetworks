@@ -1408,7 +1408,7 @@ gone through the thalamus, and you've gone along the, the connections from the t
 
 all the way to the opposite of the lobes, and then you're traveling to, the different
 
-layer you're traveling to from V1 to V2 to V3 to V4 to V5 to V6, and in some cases those
+layer you're traveling to from Layer 1 to Layer 2 to Layer 3 to Layer 4 to Layer 5 or Layer 6, and in some cases those
 
 patterns are traveling all over the brain just like electric, like EEG, electric, I
 

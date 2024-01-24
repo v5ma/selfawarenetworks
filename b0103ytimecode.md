@@ -456,7 +456,7 @@ Audio transcription begins below this line
 
 [51:36.800 --> 51:49.800]  but the total sparse distributed representation to the layer that's even above the second layer, and I don't know in the visual cortex if that's V4.
 
-[51:49.800 --> 52:16.800]  I don't get why they skipped V3 seemingly, but V1 to V2 to V4, and so in the third layer is V4, and if V4 is capturing a pattern, let's say that it's like a TV screen, and it's about which areas of the screen are black, and which areas of the screen are lit up, right?
+[51:49.800 --> 52:16.800]  I don't get why they skipped V3 seemingly, but V1 to V2 to V4, and so in the third area is V4, and if V4 is capturing a pattern, let's say that it's like a TV screen, and it's about which areas of the screen are black, and which areas of the screen are lit up, right?
 
 [52:16.800 --> 52:23.800]  It's a black and white TV screen. Which areas have light, and which areas have bright light?
 
