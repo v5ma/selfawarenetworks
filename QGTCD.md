@@ -1,8 +1,8 @@
-The General Theory of Relativity describes the behavior of gravity as a continuous field known as spacetime, while Quantum Mechanics describes the behavior of discrete particles using the math of probability.
+A new Unified Field Theory called Quantum Gradient Time Crystal Dilation (QGTCD) explains mass as a time crystal creates Quantum Gravity effect by increasing the surface area of spacetime in time.
+
+The General Theory of Relativity describes gravity as a continuous field known as spacetime, Quantum Mechanics describes discrete space particles, QGTDC unites them by quantizing time dilation.
 
 To solve this I created a new gravity theory, Quantum Gradient Time Crystal Dilation which explains how mass as a time crystal creates the gravitational effect by increasing the surface area of spacetime in a particular direction with additional time dimensions.
-
-
 
 Introducing Quantum Gradient Time Crystal Dilation (QGTCD), a Unified Field Theory of quantum gravity that can be applied universally helping the afore mentioned theories to get along.
 
