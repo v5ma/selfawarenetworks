@@ -70,11 +70,7 @@ The gradient of gravitational force is what causes objects to be drawn towards m
 "Someone asked me what is the gist of my Gravity theory: The gist is that mass creates time dilation effects at the quantum scale, and that the aggregate effect of quantum time dilation results in a quantum field where the odds of particle movement are shifted in favor of the direction of dilated time. So particles fall towards mass because the odds of moving in the direction of mass are increased because mass increases the intervals of space in time in its direction."
 
 # From Note GPT2023X.md at https://github.com/v5ma/selfawarenetworks about QGTCD
-"In a mass, frequency is less, but frames of time & mass are increased, creating the gravitational effect by warping spacetime, on the axis of time, changing the likely direction of particle movement. This is a new description for how gravity works at the quantum scale do you understand?
-
-"Mass is like a tensor in spacetime that is operating more slowly in spacetime compared to other tensors while accelerating time around its center. Mass represents a reduced frequency space that has higher density. Mass represents a gain in density in an abstractly defined volume of space. Density I'm arguing is a greater mass that is defined relatively by reduced frequency compared to empty space. That which is heavier in spacetime, that contains more frames of spacetime, is slower in spatial frequency in terms of the speed of particle movement in space, because the energy of particle movement is being consumed by particle travel through increased tensor frames of time around a mass."
-
-# This quote (from the same note) helps connect QGTCD to Hubble Tension, explaining why Stars with different mass/density tell the story of a different rate in the expansion of space.
+This quote helps connect QGTCD to Hubble Tension, explaining why Stars with different mass/density tell the story of a different rate in the expansion of space.
 
 "This theory helps explain the differences in the measurements of the rate of the expansion of the cosmos. The frame of time is different for stars of a different class or mass. This is because the mass of the stars is determining the rate of spatial expansion that is relative to each type of star.”
 
