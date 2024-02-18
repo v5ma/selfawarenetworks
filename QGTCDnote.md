@@ -7,8 +7,6 @@ To explain in more detail I have included a long article about it, two long arti
 First article:
 New Unified Field Theory: Quantum Gradient Time Crystal Dilation: explains quantum mass as a time crystal dilating time at quantum scale & making gravity by increasing time frames. https://www.svgn.io/p/a-new-unified-field-theory-called 
 
-A second long article exists that was posted to the group earlier, but since this article was originally deleted for having a description that was too short I decided to write a longer description to explain more what it is, and include a link to the second article as well so you can read a ton of information that was written about this theory if you are so interested.
-
 Second article:  
 Quantum Gradient Time Crystal Dilation breaks the assumption that gravity equals metric curvature alone.
 Unveiling the Fabric of the Cosmos with QGTCD, a Unified Field Theory, Part II: Christoffel Symbols, a Slow Metric Tensor, Theoretical Considerations & Challenges. https://www.svgn.io/p/quantum-gradient-time-crystal-dilation
