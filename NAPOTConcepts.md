@@ -129,6 +129,16 @@ This one is for NAPOT 10
 
 https://www.biorxiv.org/content/10.1101/2024.01.09.574845v1
 
+"Traveling waves shape neural population dynamics enabling predictions and internal model updating"
+"Because traveling waves (TWs) propagate across the cortex shaping neural excitability, they can carry information to serve predictive processing."
+"Learning involved mismatches between predictions and sensory evidence triggering alpha-phase resets in lateral temporal cortex, accompanied by stronger alpha phase-high gamma amplitude coupling and high-gamma power."
+"Our findings suggest a vital role of alpha TWs carrying both predictions to sensory cortex and mismatch signals to frontal cortex for trial-by-trial fine-tuning of predictive models."
+https://www.biorxiv.org/content/10.1101/2024.01.09.574848v1
+
+"Neuroscientists discover interactions between brain waves and nerve cells during human memory processes"
+https://medicalxpress.com/news/2024-02-neuroscientists-interactions-brain-nerve-cells.html
+"Ripple-locked coactivity of stimulus-specific neurons and human associative memory"
+https://www.nature.com/articles/s41593-023-01550-x
 
 # NAPOT 2.0: Individual Receptor Modulation
 NAPOT 2: Focuses on synaptic regulation via dendritic computations.
