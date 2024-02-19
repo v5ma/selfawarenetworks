@@ -52,3 +52,9 @@ Spacetime Compaction:  In QGTCD, mass causes a 'compaction' of spacetime interva
 Density Increase:   Each of these  tightly packed 'folds' could represent a moment in time. This compaction translates into a denser packing of temporal intervals –  more potential 'moments' exist within the same overall area.
 
 Relative Temporal Slowing:  An observer far from the mass experiences time differently than someone within the compacted area. Within the compaction zone,  it might take more actual time intervals (more folds) to experience what the distant observer  perceives as a shorter duration. Time flows less freely from the  perspective of the distant observer.
+
+"it's increasing the density of time in the area around mass"
+
+"That’s not what a time crystal is. It’s not a crystal made of time. A normal crystal is atoms arranged in a repeating pattern. A time crystal is an arrangement of atoms with a repeating motion."
+
+I know what the normal definition of a time crystal is. This was a conversational starting point to imagining how mass affects time in it's vicinity as another kind of time crystal. The idea is that mass is a time crystal creating a wave in time, a wave in time frames, a wave with time density, that is the effect we know as gravity. So my description of mass as a time crystal is a different kind of time crystal than the one you know, but also at the same time, when speaking about the earth for example, it is an arrangement of atoms with a repeating motion in time. That repeating motion in time is the density of time that makes up the gravitational wave.
