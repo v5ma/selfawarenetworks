@@ -157,11 +157,6 @@ $$
 -\frac{{\hbar^2}}{{2m}}\nabla^2\psi(\mathbf{r}, t) + V(\mathbf{r}, t)\psi(\mathbf{r}, t) = i\hbar N(\mathbf{r}, t)\frac{{\partial\psi(\mathbf{r}, t)}}{{\partial t}}
 $$
 This equation is similar to the standard time-dependent Schrödinger equation, but with the time derivative on the right-hand side scaled by the factor N(\mathbf{r}, t). This factor represents the local scale of time, which varies with position and time.
-The solution to this equation is:
-$$
-\psi(\mathbf{r}, t) = \frac{{2\hbar i m N(\mathbf{r}, t) \frac{{\partial\psi(\mathbf{r}, t)}}{{\partial t}} + \hbar^2 \nabla^2\psi(\mathbf{r}, t)}}{{2mV(\mathbf{r}, t)}}
-$$
-This solution suggests that the wave function \psi(\mathbf{r}, t) evolves more quickly in regions of space with more time frames (i.e., stronger gravitational fields), as indicated by the factor N(\mathbf{r}, t) in the numerator. This is a significant modification to the Schrödinger equation and would have profound implications for quantum mechanics if it were correct. It suggests that the probabilities of different particle trajectories could vary in a way that mimics the effect of a gravitational force.
 
 3. A third equation relates the energy of a particle to its frequency and the number of time frames:
 
