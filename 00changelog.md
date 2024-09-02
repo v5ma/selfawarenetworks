@@ -1,3 +1,13 @@
+# September 1rst 2024
+
+# a0001z v cycle chapter order
+is the list of short summarizies of all text notes with a name that is like a0000z in format, all a to start and z to finish.It contains a short summary of each note and where in the 14 Cycle book it belongs and why.
+The difference is it's in order of each of the 14 Cycles.
+
+# a0001z v cycle notes order
+is the same list of short summarizies of all text notes with a name that is like a0000z in format, all a to start and z to finish. I contains a short summary of each note and where in the 14 Cycle book it belongs and why.
+The difference is it is in order of each of the Notes.
+
 # Jan 23rd 2024
 A new note
 
