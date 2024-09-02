@@ -1,4 +1,4 @@
-Chat with Self Aware Networks GPT
+An Invitation to Chat with my GPT the Self Aware Networks GPT
 
 I present:
 

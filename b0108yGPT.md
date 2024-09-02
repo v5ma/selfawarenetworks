@@ -1,4 +1,4 @@
-b0108yGPT
+b0108yGPT Whisper
 
 (b0108y was retranscribed with Whisper, then ChatGPT 4 was used to create a summary with key points)
 

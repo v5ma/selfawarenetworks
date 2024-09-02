@@ -1,4 +1,4 @@
-b0004y (Transcript by OpenAI Whisper)
+b0004y whisper
 
 Original audio link: https://recorder.google.com/30aa7ee6-da5c-4c04-9005-69e91c46a6b3
 
