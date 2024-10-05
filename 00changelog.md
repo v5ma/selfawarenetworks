@@ -1,5 +1,9 @@
-# September 1rst 2024
+# September 6th 2024
+Analog biological backpropagation: A new conjecture "Self Aware Networks" explains how derivatives & loss functions are represented in the brain.
+Also discussed is a comparison between analog computing and digital in the context of computational biology. In this video I am reading a recent discussion of my notes with Self Aware Networks.
+https://www.svgn.io/p/analog-biological-backpropagation
 
+# Sept 1rst 2024
 # a0001z v cycle chapter order
 is the list of short summarizies of all text notes with a name that is like a0000z in format, all a to start and z to finish.It contains a short summary of each note and where in the 14 Cycle book it belongs and why.
 The difference is it's in order of each of the 14 Cycles.
