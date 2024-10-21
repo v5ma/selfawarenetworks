@@ -1,0 +1,1 @@
+I wanted to start a new note series for raw unprocessed notes, in contrast 
