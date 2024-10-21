@@ -1,4 +1,11 @@
 # October 21, 2024
+
+New Article posted online: Quantum Gravity's New Frontier: Time, Density, and Information.
+
+How the groundbreaking work of Netta Engelhardt and Ivette Fuentes aligns with Dark Time Theory, offering fresh insights into the nature of spacetime. (Part 4 of the QGTCD series) https://www.svgn.io/p/quantum-gravitys-new-frontier-time
+
+New map note to Dark Time Theory also known as QGTCD Quantum Gradient Time Crystal Dilation: rawnote00.md
+
 Dark Time Theory Introduced in 12 New Notes
 
 	new file:   rawnote01.md
