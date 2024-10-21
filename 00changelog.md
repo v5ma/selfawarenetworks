@@ -16,7 +16,9 @@ Dark Time Theory Introduced in 12 New Notes
 
 # September 6th 2024
 Analog biological backpropagation: A new conjecture "Self Aware Networks" explains how derivatives & loss functions are represented in the brain.
+
 Also discussed is a comparison between analog computing and digital in the context of computational biology. In this video I am reading a recent discussion of my notes with Self Aware Networks.
+
 https://www.svgn.io/p/analog-biological-backpropagation
 
 # Sept 1rst 2024
