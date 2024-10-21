@@ -1,3 +1,5 @@
+raynote03
+
 Micah Blumberg conjectures:
 
 Perhaps it isn't mass exactly that is causing gravity, but rather particle collisions, and or near field particle interaction with other particles, and atomic configurations that create denser time areas within atoms, and any of these particle interactions accumulate more particle interactions eventually creating the gravitational effect that causes dust clouds to form into planets, it's all about particles creating a relative density of time together.

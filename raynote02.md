@@ -1,3 +1,5 @@
+raynote02
+
 Right so I came to you to discuss how this Dark Time theory connects to the Ads / CFT correspondence, and discussion of black holes.
 
 ChatGPT said:

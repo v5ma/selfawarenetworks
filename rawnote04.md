@@ -1,3 +1,5 @@
+rawnote04
+
 Micah Blumberg wrote:
 
 Space is creating an energy field

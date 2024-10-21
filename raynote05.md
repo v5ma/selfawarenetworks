@@ -1,3 +1,5 @@
+raynote05
+
 Title: Periodic Physics considered, plus Dark Time Theory, a saved ChatGPT chat.
 
 Instruction given to AI: summarize the key points from this:

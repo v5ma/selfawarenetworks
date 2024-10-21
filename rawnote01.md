@@ -1,3 +1,5 @@
+rawnote01
+
 Dark Time Theory Acceleration
 
 Planetary Orbits

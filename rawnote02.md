@@ -1,3 +1,5 @@
+rawnote02
+
 Ivette Fuentes (and Dark Time Theory)
 
 ChatGPT said: 
