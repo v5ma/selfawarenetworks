@@ -1,9 +1,9 @@
 # October 21, 2024
 Dark Time Theory Introduced in 13 New Notes
-	new file:   rawnote00.md
 	new file:   rawnote01.md
 	new file:   rawnote02.md
 	new file:   rawnote03.md
+	new file:   rawnote04.md
 	new file:   rawnote09.md
 
 	new file:   raynote01.md
