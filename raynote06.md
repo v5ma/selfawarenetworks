@@ -1,6 +1,6 @@
 raynote06
 
-The problem with Dark Energy & Noether’s Theorem
+The problem with Dark Energy + Noether’s Theorem
 
 Did you know that Dark Energy violates the law of energy conservation? "The law of conservation of energy states that the total energy of an isolated system remains constant; it is said to be conserved over time. In the case of a closed system the principle says that the total amount of energy within the system can only be changed through energy entering or leaving the system." As space expands it fills up with more space, more total energy.
 
