@@ -4,11 +4,13 @@ Title: Periodic Physics considered, plus Dark Time Theory, a saved ChatGPT chat.
 
 Instruction given to AI: summarize the key points from this:
 
-"Periodic Physics
+"Periodic Physics"
 
-"On the Next Stage of Physics  
+"On the Next Stage of Physics"  
 
-"by Oded Bar-On"
+Is conjecture by Oded Bar-On that essentially proposes a Cosmological Slowing Time theory, or the idea that Time itself is slowing down.
+
+This document initially discusses Oded Bar-On's conjecture "Periodic Physics", and later compares it to the Dark Energy and Dark Time theories.
 
 (The document was included, but is not included here, look it up.)
 
