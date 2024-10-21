@@ -1,3 +1,20 @@
+# October 21, 2024
+Dark Time Theory Introduced in 13 New Notes
+	new file:   rawnote00.md
+	new file:   rawnote01.md
+	new file:   rawnote02.md
+	new file:   rawnote03.md
+	new file:   rawnote09.md
+
+	new file:   raynote01.md
+	new file:   raynote02.md
+	new file:   raynote03.md
+	new file:   raynote04.md
+	new file:   raynote05.md
+	new file:   raynote06.md
+	new file:   raynote07.md
+	new file:   raynote08.md
+
 # September 6th 2024
 Analog biological backpropagation: A new conjecture "Self Aware Networks" explains how derivatives & loss functions are represented in the brain.
 Also discussed is a comparison between analog computing and digital in the context of computational biology. In this video I am reading a recent discussion of my notes with Self Aware Networks.
