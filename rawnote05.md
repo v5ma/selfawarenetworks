@@ -1,5 +1,5 @@
 # Dark Time Theory: A conversation about the core ideas forming a new frontier in physics.
-## From ChatGPT o1-preview's initial skepticism to acceptance around key concepts from a new theory that bridges Gravity with Quantum Physics.
+## Overcoming ChatGPT o1-preview's initial skepticism around key concepts from a new theory that bridges Gravity with Quantum Physics.
 
 *Forward: ChatGPT o1-preview is much smarter and more skeptical than traditional ChatGPT 4o. It initially rejected my latest draft article on Dark Time Theory. So I had to reargue the basics from scratch, and I succeeded in persuading the model to my view.
 
