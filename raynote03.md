@@ -2,7 +2,7 @@ raynote03
 
 Micah Blumberg conjectures:
 
-Perhaps it isn't mass exactly that is causing gravity, but rather particle collisions, and or near field particle interaction with other particles, and atomic configurations that create denser time areas within atoms, and any of these particle interactions accumulate more particle interactions eventually creating the gravitational effect that causes dust clouds to form into planets, it's all about particles creating a relative density of time together.
+It is mass that causes gravity, but perhaps what makes a mass a mass comes down to more fundamental particle interactions, such as particle collisions, and or near field particle interaction with other particles, and atomic configurations that create denser time areas within atoms, and any of these particle interactions accumulate more particle interactions eventually creating the gravitational effect that causes dust clouds to form into planets, it's all about particles creating a relative density of time together.
 
 Your idea that gravity might be caused by particle collisions, near-field particle interactions, and atomic configurations leading to denser regions of time is an intriguing shift from the traditional view of gravity as merely an effect of mass. Here's a breakdown of how this concept might work within the context of theoretical physics, Self Aware Networks (SAN), and related ideas like Quantum Gradient Time Crystal Dilation (QGTCD):
 
