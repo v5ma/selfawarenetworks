@@ -1,4 +1,6 @@
-b0102y November 07, 2022
+b0102y (archive)
+
+November 07, 2022
 
 # SciSummary (CHATGPT) & EDITED by Micah
 The scientific article discusses the idea of atoms & particles combining to form hidden structures with oscillating patterns. The author hypothesizes that these oscillations create beams or lanes in spacetime, which in turn extend the gravitational effects of a mass out into space in a predictable way that more intuitively explains the rate of the dissipation of the gravitational effect & time dilation.
