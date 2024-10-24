@@ -62,10 +62,6 @@ The study also acknowledges that other kinases, such as PKCι/λ, may compensate
 
 Understanding the KIBRA-PKMζ interaction opens new therapeutic avenues for treating memory disorders like Alzheimer's disease. Enhancing this interaction could bolster memory retention and cognitive function in individuals experiencing memory loss.
 
-*Memory Erasure Applications*
-
-Conversely, the ability to disrupt the KIBRA-PKMζ complex presents possibilities for targeted memory erasure. This could have applications in treating conditions like post-traumatic stress disorder (PTSD), where the removal of traumatic memories may be beneficial.
-
 * * * * *
 
 **Conclusion**
