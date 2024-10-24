@@ -78,10 +78,6 @@ The study of **KIBRA** and **PKMζ** underscores the persistence of synaptic tag
 
 The interplay between **KIBRA** and **PKMζ** to preserve synaptic strength mirrors how **Self Aware Networks** suggest that the brain's neural networks create long-term stability through oscillatory feedback mechanisms that bind neural arrays across time. In SAN, the observer's ability to retain a coherent self-image is thought to emerge from these persistent oscillations, akin to how PKMζ remains anchored at specific synaptic locations over time, even as components degrade.
 
-### Fractal and Recurrence in Brain Function (Fractal Neurodynamics)
-
-The concept of **fractal-like repetition** of neural patterns, explored in the SAN framework, can be tied to the stabilization of synaptic structures like **KIBRA-PKMζ** interactions. The fractal nature of neural oscillations allows recursive stabilization across different scales, aligning with the way KIBRA-PKMζ interactions allow memory traces to remain stable across synaptic turnover.
-
 ### Tonic and Phasic Interactions (Stable Diffusion and Noise Integration)
 
 In SAN, **tonic oscillations** provide the backdrop or "ground of being" for more transient **phasic spikes**, paralleling how **PKMζ** activity could be seen as a high-information, phasic event, stabilized by **KIBRA** to persist as a tonic baseline in memory structures. This cyclical dynamic explains how the brain integrates new experiences into stable memory frameworks, similar to how **KIBRA** ensures ongoing synaptic potentiation.
