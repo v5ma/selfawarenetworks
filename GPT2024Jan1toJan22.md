@@ -3985,7 +3985,7 @@ Neural Array Projection Oscillation Tomography (NAPOT) represents a complex and 
 
 4. **Projection and Perception of Sensory Representations**: According to NAPOT, neural arrays not only process sensory information but also project these sensory representations forward. This projection is essential for the continuous processing and interpretation of sensory input.
 
-5. **Entification and Internal Observer**: A core aspect of NAPOT is the concept of 'entification', where the combined effect of these oscillatory activities leads to the emergence of an 'observer' within the brain. This observer is capable of experiencing and interpreting its internal renderings, essentially forming the basis of consciousness and self-awareness.
+5. **Entification and Internal Observer**: A core aspect of NAPOT is the concept of 'entification', where the combined effect of these oscillatory activities leads to the higher level dynamic of an 'observer' within the brain. This observer is capable of experiencing and interpreting its internal renderings, essentially forming the basis of consciousness and self-awareness.
 
 6. **Oscillating Feedback Loops**: NAPOT emphasizes the importance of feedback loops in neural activity. These loops allow for continuous interaction between sensory input, neural processing, and the projection of internal states, leading to a dynamic and ever-adapting system of neural activity.
 

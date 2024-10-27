@@ -543,7 +543,7 @@ It might be a while until the world realizes OUR collective ~~work~~ evolution o
 
 Essentially the tonic oscillation frequency of the oscillating group of cells is the canvas of consciousness, and the changes to it, via the release of 0 1 2 or 3 vesicle sacks at each interval relative to the group oscillation is the paint of the minds internal representations or qualia inside the mind that is perceived by the observer that is the oscillating group of cells
 
-People talk about how gasses become water as emergence, but perhaps a better word concept than emergence is oscillation, like the fireflies, when they synchronize, it looks like emergent behavior, but really its the physics of oscillation.
+People talk about how gasses become water as emergence, but perhaps a better word concept than emergence is entification or binding via oscillation, like the fireflies, when they synchronize, it looks like emergent behavior, but really its the physics of oscillation.
 
 The oscillation of fireflies and the oscillation of cells points to how all the cells in the body can act as a single sensor, entified through the principles of oscillation, entified in time & space, by passing & dissipating signals between cells until the separate cells are in sync as a single sensor, once in sync every part of your cellular body can sense every other part, because touching one part of your body triggers a wave of signals to pass to all the cells of the body.
 

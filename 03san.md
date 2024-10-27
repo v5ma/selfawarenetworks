@@ -99,7 +99,7 @@ In Hofstadter's framework, consciousness emerges when a system (such as the brai
 
 This aligns with NAPOT, where the brain's neural arrays constantly feed sensory information back into themselves.
 
-This self-referencing process—essentially the loop—is what creates the experience of self-awareness. In SAN, the observer is not a separate entity but an emergent property of these recursive loops within the oscillatory waves of the brain.
+This self-referencing process—essentially the loop—is what creates the experience of self-awareness. In SAN, the observer is not a separate entity but a higher level property of these recursive loops within the oscillatory waves of the brain.
 
 ## 3. Karl Friston’s Active Inference and the Predictive Brain:
 Karl Friston's work on active inference and the free energy principle proposes that the brain is constantly trying to minimize the difference between its predictions of sensory inputs and the actual sensory data it receives.
