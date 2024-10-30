@@ -18,6 +18,7 @@ Neural Array Projection Oscillation Tomography (NAPOT): The sources develop the 
 Biological Oscillating Tomography (BOT): The sources explain how BOT utilizes oscillatory neural activity to reconstruct and maintain 3D plus time sensory representations. They propose that synchronized oscillations across neural arrays act similarly to the multiple projections used in medical imaging techniques like CT scans, enabling the brain to synthesize complex sensory information into coherent spatial and temporal maps.
 
 Fourier Slice Transform (FST): The sources discuss how FST, a mathematical principle used in tomography, aids in modeling how phase projections intersect and integrate to form comprehensive volumetric 3D sensory maps. This is compared to how CT scans reconstruct 3D images from 2D X-ray slices.
+
 Significance and Implications of SAN
 
 Understanding the frequency dynamics and their role in consciousness represents a fundamental shift in how we conceptualize brain function. Rather than viewing neural activity as simply a series of binary firing patterns, the Self Aware Networks Theory reveals a sophisticated system where consciousness emerges from the complex interplay of frequency modulations and phase relationships across neural networks.
