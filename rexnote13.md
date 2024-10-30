@@ -7,36 +7,31 @@ Basic principles of how oscillators affect each other
 How sync creates collective behavior
 How disturbances propagate through synced systems
 
-SANSTAR1 The Physics of Oscillation
+SANSTAR1
+Fundamental Physics of Oscillation
+Subtitle: The Universal Principles of Synchronization and Signal Propagation
 
-SANSTAR2  Biological Implementation: Neural Arrays
-How neurons act as oscillators
-How neural arrays sync like fireflies
+SANSTAR2 Neural Oscillation Networks
+Subtitle: From Single Neurons to Synchronized Array Systems
 
-SANSTAR3 NAPOT Framework & Neural Array Projection
-Complete explanation of Neural Array Projection Oscillation Tomography
-How neural arrays project and receive
-Phase differentials and wave patterns
+SANSTAR3 NAPOT Framework
+Subtitle: Neural Array Projection Oscillation Tomography - Core Principles and Mechanisms
 
-SANSTAR4 The Observeration via entification
-How oscillating groups become observers
-How sync creates higher-level entities
-Remove duplicate sections about "what is the entity that is you"
+SANSTAR4 Emergence of Consciousness
+Subtitle: The Formation of Observers Through Neural Entification
 
-SANSTAR5 Implementation Details
-Signal processing
-Brainwave patterns
-Technical mechanisms
+SANSTAR5 Neural Implementation Architecture
+Subtitle: Signal Processing and Brainwave Pattern Integration Systems
 
-SANSTAR6 Oscillation Mechanisms
+SANSTAR6 Oscillatory Mechanisms of Mind
+Subtitle: Phase Wave Differentials and Information Processing in Neural Networks
 
-SANSTAR7 Integration and Implications and Broader Context
-Consciousness as oscillatory synchronization
-Relationship to other theories
-Applications and extensions
+SANSTAR7 Theoretical Integration
+Subtitle: Unified Framework for Consciousness and Cognitive Architecture
 
-
-SANSTAR1 The Physics of Oscillation
+SANSTAR1
+Fundamental Physics of Oscillation
+Subtitle: The Universal Principles of Synchronization and Signal Propagation
 
 The Phase Wave Differential of one neuronal cell body is going to cause the whole oscillating group of cells to notice, and that comes down to the physics of oscillation that connects to Steven Strogatz's work in the book Sync when he talks about fireflies & neurons & clocks.
 
@@ -67,9 +62,8 @@ This would change the organism's expection, or the conscious expectation of a co
 
 Rephrasing: Normally a neuron is going to fire regularly at a tonic rate, but it might fire phasically faster at an irregular interval that is both different & faster than the tonic firing rate. Irregular intervals provide a contrast to the regular intervals, and their irregularity implies that they have information value (in the context of Claude Shannon’s Information theory) and the irregular intervals affect the clock cycles of every other neuron in it’s synchronous assembly via the physics of oscillation that apply to everything including clocks & fireflies
 
-SANSTAR2  Biological Implementation: Neural Arrays
-How neurons act as oscillators
-How neural arrays sync like fireflies
+SANSTAR2 Neural Oscillation Networks
+Subtitle: From Single Neurons to Synchronized Array Systems
 
 It's like imagine that, it's like where's the inner, it's like you said the question is where's the inner screen that is representing the world, and what's observing the inner screen? Because if you just had an inner screen and an observer inside your head, well, how does that that observer work because it's like this is a smaller observer it's just shrinking the problem right so the idea is where is the inner observer and where's the inner screen and the idea is that all the different cells of your brain all the different parts of your brain there are each inner screens that are also observing.
 
@@ -115,10 +109,8 @@ Distributed via a new path of connections which change as electrical thresholds 
 
 The neuron is transmitting it's phase change, but the meaning of that phase change comes down to what the neurons in it's exit terminal have learned to respond to. It's as if the neuron is a blinking LED to all of the neurons in it's exit terminal. 
 
-SANSTAR3 NAPOT Framework & Neural Array Projection
-Complete explanation of Neural Array Projection Oscillation Tomography
-How neural arrays project and receive
-Phase differentials and wave patterns
+SANSTAR3 NAPOT Framework
+Subtitle: Neural Array Projection Oscillation Tomography - Core Principles and Mechanisms
 
 Neural Array Projection Oscillation Tomography (NAPOT) is the main thesis of the Self Aware Networks Theory of Mind. There are 10 revisions of NAPOT and each builds on the previous one.
 
@@ -155,10 +147,8 @@ You are seeing the Tomography (not holography) of your brain wave activity (dete
 
 SAN’s framework offers a clear parallel: the entified observer in NAPOT represents the brain’s ability to monitor its own internal states through recursive oscillations. This is more than just metacognition (thinking about thinking); it’s a deeper, continuous awareness of what the system knows about its own knowledge, perception, and memory.
 
-SANSTAR4 The Observeration via entification
-How oscillating groups become observers
-How sync creates higher-level entities
-Remove duplicate sections about "what is the entity that is you"
+SANSTAR4 Emergence of Consciousness
+Subtitle: The Formation of Observers Through Neural Entification
 
 If man is a neural network representing features in his brain, who is the observer inside the man who is looking at these features?
 
@@ -202,10 +192,8 @@ I think between the micro oscillators and the macros layers or there's any, ther
 
 What is the entity that is you? I argue that the "you" is essentially analogous to a computational rendering in a cycling phase oscillation or a branching fractal feedback loop entified via brainwave synchronization of temporal & spatially distributed phase changes across the 3D grid neural-glial network. You are entified via the principles of oscillation, as described in the book Sync by Steven Strogatz. As if each of your neurons is a firefly, or a clock, that is synchronizing with other neurons to act as a single sensor, a single transmitter, a sensor that considers information, via thresholds, and predicts the future, via the principles of memory-prediction  with reality modeled from synapses to the whole brain with reference frames to help the brain coordinate new incoming sensory inputs (to make sense of the world the brain has a reference frame, a concept I read about in the book A thousand brains) but I am saying the whole brain is doing this at the macro level, not just at the meso level of the cortical columns & the hippocampus, and not just at the level of neurons but also at the level of receptors on basically all cells in the body.
 
-SANSTAR5 Implementation Details
-Signal processing
-Brainwave patterns
-Technical mechanisms
+SANSTAR5 Neural Implementation Architecture
+Subtitle: Signal Processing and Brainwave Pattern Integration Systems
 
 Oscillatory Feedback Loops and Brainwave Patterns
 The idea of the brain functioning in oscillating loops and how signals follow specific paths with feedback mechanisms is core to SAN's focus on oscillatory feedback loops. The SAN theory discusses how these oscillatory behaviors create an internal observer through entification, which mirrors the processing loops mentioned in your note.
@@ -245,7 +233,8 @@ Action Potential Duration and Neural Encoding
 
 **The Brain as a Rendering Engine**: The mind, particularly under the influence of psychedelics, can be likened to a multi-dimensional rendering engine. This engine is responsible for creating our phenomenological conscious experience, integrating various sensory inputs, emotional responses, and cognitive processes. Psychedelics enhance this rendering process, leading to experiences that are far more vivid and complex than those in normal consciousness.
 
-SANSTAR6 Oscillation Mechanisms
+SANSTAR6 Oscillatory Mechanisms of Mind
+Subtitle: Phase Wave Differentials and Information Processing in Neural Networks
 
 The brightest flash of the firefly, or the strongest pulse of the action potential going to cause the most number of fireflies or upstream cells to react at the same time. Sync is a coincident oscillator reaction to broadly distributed high amp low freq signals of any modality type
 
@@ -267,10 +256,8 @@ So the array is an oscillating group of neurons, and that learns patterns that g
 
 Each layer of neurons in an oscillating group, is compressing a detected pattern into a phase change that is adding one delta of detail, like a shade of color, or a touched edge, to a complex multi-dimensional sensory representation that is akin to the 3D model created by slides in the Fourier Projection Slice Theorem, except its a 4D model, playing out over time across the neocortex's oscillators, when we communicate with other people that is also
 
-SANSTAR7 Integration and Implications and Broader Context
-Consciousness as oscillatory synchronization
-Relationship to other theories
-Applications and extensions
+SANSTAR7 Theoretical Integration
+Subtitle: Unified Framework for Consciousness and Cognitive Architecture
 
 NAPOT’s framework posits that the entification of these oscillatory waves forms the observer (or sense of self) that experiences the synthesized reality constructed by these neural circuits.
 
