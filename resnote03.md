@@ -16,6 +16,7 @@ Self Aware Networks 🇺🇸 🇺🇦 🇮🇱
 ·
 39m
 There is no real reason in physics, math, or computation why a silicon based artificial intelligence could not be engineered to be equally as conscious as a human being in theory.
+
 🐸phong
 @ansonphong
 ·
@@ -76,6 +77,7 @@ Post
 
 See new posts
 Conversation
+
 Jay Anderson
 @TheProjectUnity
 ·
