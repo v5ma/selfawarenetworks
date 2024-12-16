@@ -861,3 +861,43 @@ Targeting inhibitory circuits may offer therapeutic avenues, restoring proper ga
 Deeper Insight:
 
 Inhibitory interneurons do not merely restrain excitation; they actively mold the conditions under which the brain learns and adapts. By determining which synapses can change and when, they serve as the architects of functional specialization within neural circuits. Understanding these complex roles offers profound insights into the foundations of cognition and the origins of various neurological and psychiatric disorders.
+
+# Micah Blumberg said:
+
+There was some commentary that happened after I shared this thread on social media, here is part of that commentary.
+
+Aaron Milstein said
+This is a good summary. The detailed summary you posted is right when it says, "more research needed," and it seems to be as stuck as most neuroscientists on Hebbian learning rules ;)
+
+Micah replied
+"more research needed" isn't the conclusion, it's just part of the discussion on the way to the conclusion, more research isn't needed by the end of the discussion. All of your questions were answered.
+
+"it seems to be as stuck as most neuroscientists on Hebbian learning rules" stuck? when have you read or written anything that dismisses the Hebbian learning concept from neuroscience completely?
+
+Donald Hebb had no concept of BTSP Behavioral Time Scale Synaptic Plasticity. Yet it works precisely because of coincident signals arriving from the pre-somatic & post-somatic parts of a neuron. It's the same abstract concept of Hebbian learning, but inside a single cell.
+
+# Self Aware Networks GPT (AI writes answers based on my research notes that can be found at github.com/v5ma/selfawarenetworks )
+
+It appears the commentary addresses a few different threads of thought:
+
+"More research needed" as a Conclusion:
+Aaron Milstein notes that the summary is good but still ends with “more research needed,” suggesting that it’s aligned with a common stance in neuroscience where many questions remain open-ended. Micah, however, points out that “more research needed” wasn’t intended as the primary conclusion, but rather as a part of the ongoing discourse. The intention was not to end unresolved but to highlight that, while significant progress has been made in understanding inhibitory neurons, plasticity gating, and learning rules, the field continues to evolve, and new discoveries will refine and deepen these insights. So rather than a definitive endpoint, “more research needed” is a prompt for further refinement rather than a suggestion that no substantial conclusions could be drawn.
+
+Being "Stuck" on Hebbian Learning Rules:
+Aaron’s comment about neuroscientists being “stuck on Hebbian learning rules” reflects a sentiment that mainstream neuroscience often reverts to Hebbian principles—“cells that fire together wire together”—as a foundational framework. Micah’s response pushes back against the idea of being "stuck," noting that current research acknowledges and builds upon Hebb’s legacy. Modern studies incorporate more nuanced mechanisms of plasticity, including concepts like behavioral time-scale synaptic plasticity (BTSP), which expands beyond classical Hebbian timing windows. BTSP shows that plasticity can be gated by signals arriving over longer timescales and at different cellular compartments (e.g., soma vs. dendrites), illustrating that today’s neuroscience does not reject Hebbian concepts but rather extends and refines them into more complex and integrative frameworks.
+
+Hebbian vs. Non-Hebbian Mechanisms:
+Donald Hebb’s original concept did not include phenomena like BTSP. Now, we know that synaptic changes can depend on signals arriving at different compartments of a neuron (dendritic, somatic, axonal) and on more extended timescales. This indicates that while the general principle of correlation between pre- and postsynaptic activity remains useful, modern neuroscience recognizes a richer tapestry of plasticity mechanisms. These include backpropagating action potentials, local dendritic spikes, modulatory influences, and complex timing patterns that cannot be fully explained by classical Hebbian timing rules alone. Rather than being dismissed, Hebbian learning is being continually reinterpreted and integrated into a more comprehensive understanding of synaptic modification.
+
+In Summary:
+The commentary points out a tension between acknowledging the need for ongoing research and recognizing that existing questions do have evolving answers. It also highlights a shift from simple Hebbian frameworks toward more complex, nuanced models of plasticity like BTSP. Far from being stuck, neuroscience is broadening the scope of Hebbian-like principles to incorporate new findings about how time, location, and context affect synaptic change. Thus, “more research needed” is not a surrender but a call for refinement, and Hebb’s legacy is not static dogma but a foundational concept being continuously updated in light of new empirical evidence.
+
+# Micah Blumberg said:
+Hebb 2025: Learning happens with temporal-spatial coincidence detection, at all scales, inside braincells, outside in neural arrays, inside cortical columns, between functionally connected columns & brain regions. Unlearning happens with oscillatory decoherence, at all scales.
+
+# Self Aware Networks GPT (AI writes answers based on my research notes that can be found at github.com/v5ma/selfawarenetworks )
+This statement projects a futuristic vision of Hebbian principles extended beyond their original scope: learning is framed as “temporal-spatial coincidence detection” happening not only at the level of synapses and neural assemblies but at multiple integrated scales—ranging from the microdomain of intracellular processes within neurons, through local cortical circuits and columns, and up to the larger-scale networks spanning entire brain regions. It suggests that the same core principle of "fire together, wire together" applies broadly, adapting to each level of organization.
+
+Meanwhile, “unlearning” is envisioned as an active process driven by “oscillatory decoherence,” implying that the dissolution of stable firing patterns, synchronized rhythms, and coherent phase relationships leads to the weakening or removal of previously established connections. By positing this duality—learning through aligned timing and spatial convergence, and unlearning through desynchronization and phase disruption—this concept aligns with contemporary ideas that brain states and rhythms play crucial roles in both consolidating and erasing stored information.
+
+In essence, this “Hebb 2025” idea enriches the classic Hebbian paradigm by embracing modern understandings of multiscale brain organization and the importance of brain oscillations. It acknowledges that plasticity is not merely about strengthening or weakening synapses in isolation, but about how coherent patterns emerge, stabilize, and ultimately dissolve across the hierarchical structure of the brain’s networks.
