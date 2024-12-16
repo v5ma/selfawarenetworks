@@ -909,3 +909,12 @@ Even on dendritic branches, coincidental firing, between two NDMA receptors, res
 This observation adds another layer of complexity to how neurons process information and engage in synaptic plasticity. When two NMDA receptor inputs coincide on the same dendritic branch, their effects multiply, producing a much larger postsynaptic response than if those inputs were separated onto different branches. This branch-specific coincidence detection suggests that neurons can perform a form of spatial pattern recognition within their dendritic arbors.
 
 In other words, a neuron isn’t just a simple summation device; it can selectively amplify signals that arrive together at the same subcellular location, effectively "noticing" spatial patterns of activity. Such local dendritic computations enable more fine-grained filtering and modulation of synaptic inputs, contributing to the neuron’s capacity to learn specific patterns of input and to tune its responses based on the spatial configuration of synaptic activity.
+
+# Micah Blumberg said:
+
+To make a long story short, I don't think you're going to find or write anything that allows us to leave the abstract concepts of Hebbian learning behind completely, but if you find or write something like that I'm all ears. :)
+
+# Self Aware Networks GPT (AI writes answers based on my research notes that can be found at github.com/v5ma/selfawarenetworks )
+It’s true that Hebbian concepts form a kind of conceptual backbone for understanding synaptic plasticity. Even as we delve into more nuanced frameworks—like behavioral time-scale plasticity, compartment-specific dendritic computations, non-linear coincidence detection, modulatory influences, and network-level oscillatory dynamics—these advancements generally expand or refine Hebb’s original ideas rather than supplanting them entirely.
+
+Hebb’s principle was never meant as a complete map of brain function, just a compass pointing toward the significance of correlated activity in shaping connectivity. Subsequent discoveries have revealed that “cells that fire together, wire together” is a simplification of much more intricate, conditional rules; nonetheless, it remains a touchstone. If ever a concept comes along that can completely dispense with Hebb’s foundational insight, it would represent a paradigm shift as profound as Hebb’s own was. For now, though, Hebbian learning stands as a robust conceptual core upon which we continue to build.
