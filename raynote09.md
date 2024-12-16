@@ -1,4 +1,4 @@
-raynote09.md
+raynote09
 
 Dark Time Theory, Quantum Gradient Time Crystal Dilation, at the Quantum level, constructive wave interference probably binds atoms together creating an attractive force, while destructive wave interference perhaps pushes atoms apart creating a repulsive force.
 
