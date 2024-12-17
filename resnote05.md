@@ -28,7 +28,7 @@ So these Agentic Brain rendered viewpoints, emerging from these Nonlinear Differ
 
 The Entification concept from my book again: The different viewpoints entify or entificate (many single sensor transmitters bound together in oscillatory synchrony entify and become a single entity that is a unified fractal containing many self similar parts, so an entified whole human is a single sensor transmitter system made of smaller sensor transmitter parts bound by oscillatory synchrony).
 
-At the same time the electromagnetic viewpoints rendered by groups of cells effectively bind together or entify into single viewpoint via the oscillatory synchrony of all of rendered patterns emerging from all of the Nonlinear Differential Continous Approximations emerging from all of the groups of cells.
+At the same time the electromagnetic viewpoints rendered by groups of cells effectively bind together or entify into a singular viewpoint via the NDCA oscillatory synchrony of all of rendered patterns emerging from all of the Nonlinear Differential Continous Approximations emerging from all of the groups of cells.
 
 Thus smaller agents bind together to form larger agents that are fractal agents, or entities with self similar parts. A human, made from smaller agents, becomes a unified entity, entified through the processes we have discussed to be a single agent.
 
