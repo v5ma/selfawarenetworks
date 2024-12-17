@@ -1,3 +1,5 @@
+resnote01
+
 What I see is oscillation, specifically the physics of how oscillation works, as a conceptual model linking the physics of the cosmos at all scales, from atoms to galaxies, to human thought to genes and ideas. I was startled for a moment when he mentioned tomography as being a sort of opposite concept to an atom, tomography in his mind is dissecting reality, while the atom is a building block for the evolution of reality, I think he is close to seeing how the concept of oscillatory tomography, or he might describe it as inverse oscillation tomography is in a sense a unifying principle of organization and computation in biology at different scales so that genes, proteins, cells, groups of cells, cortical columns, activity between brain regions, and whole brain activity in coordination with the body can be understood as a simultaneous construction & deconstruction with the physics of oscillation.
 
 I think the principles of oscillation extend into the physics of the universe and into artificial intelligence in the sense that the development of a pattern is a process of connection forming between spatially or temporally coincident abstractions.

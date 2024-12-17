@@ -1,3 +1,5 @@
+resnote02
+
 Break down these questions that were proposed to me:
 
 "What are the distinct computational functions of each subpopulation of soma- and dendrite-targeting inhibitory neurons in the brain?
