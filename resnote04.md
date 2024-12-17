@@ -1,3 +1,5 @@
+Agents & Patterns in the Brain
+
 # Micah
 Wasn't there a paper about how the Thalamus controls the PFC?
 
