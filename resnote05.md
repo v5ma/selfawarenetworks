@@ -34,6 +34,6 @@ Thus smaller agents bind together to form larger agents that are fractal agents,
 
 I feel like saying humans are fractal agents, made from smaller agentic pattern rendering cellular systems, and when we (each human) find synergy with the views of other humans we are putting together even larger patterns, and these larger inter-human and cross species patterns undoubtably also have agency, collective agency, allowing group functions or coordinated group activities.
 
-So the next level of discussion is about AGI's made of many smaller agents that entify into singular Agents.
+So the next level of discussion is about AGI's made of many smaller agents that entify into larger singular Agent Minds.
 
 Since functional connectivity depends on frequency matching, it means that when Agents within the mind are saying the same thing or are on the same frequency, their messages connect into larger patterns, patterns in the brain are essentially amplified when agents have synergistic output, in otherwords when they are all saying the same thing we get a dominate phase wave differential rhythm as an output, that becomes a chain of conscious rendered thought and action.
