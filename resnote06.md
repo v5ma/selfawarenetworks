@@ -1,3 +1,5 @@
+resnote06
+
 # Micah Blumberg said:
 Which layer of the neo cortex is most involved with the inhibitory interneuron network?
 

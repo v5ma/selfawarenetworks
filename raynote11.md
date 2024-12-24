@@ -1,3 +1,5 @@
+raynote11
+
 A new paper validating "Timescape Theory (2011)" appears which also validates parts of Dark Time Theory. Note I first learned about Timescape Theory on December 23rd 2024. The parts of Dark Time Theory that are similar to Timescape Theory are completely accidental, and were independently derived from first principles after I came up with the QGTCD theory connecting Gravity with Quantum Physics.
 
 "Supernovae evidence for foundational change to cosmological models"
