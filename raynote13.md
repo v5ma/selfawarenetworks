@@ -262,7 +262,7 @@ I imagined that the high phasic patterns, that come from sensory input areas, mi
 Core Premise
 At the same time, I was thinking about phase wave differentials perturbing tonic oscillating synchronization. I was also thinking about the interesting phenomenon called 1/F in EEG Medical Imaging, how, in the context of EEG, amplitude seems to always be inverse to frequency. This in contrast with the explanation in physics that it is distance or duration or time, (but not amplitude) that is explained as having an inverse relationship with frequency in a sense.
 
-The wave shape is defined by amplitude, distance (or time), and frequency, and the amplitude & distance are both part of the waves magnitude, I realized that if a wave had a finite distance then any change in the magnitude could result in an inverse change in the frequency as long as all other factors related to the wave such as voltage, capacitance, energy and charge remain constant.
+The wave shape is defined by amplitude, distance (or time), and frequency, and the amplitude & distance are both part of the waves magnitude, I realized that if a wave had a fixed energy then any change in the magnitude could result in an inverse change in the frequency as long as all other factors related to the wave such as voltage, capacitance, energy and charge remain constant.
 
 What exists is a generally inverse relationship between magnitude and frequency, in any kind of wave, most often observed as amplitude inverse to frequency in the brain, and duration inverse to frequency in physics, as long as all other properties that might influence the wave shape remain constant, such as voltage, resistance, capacitance, and charge.
 
