@@ -48,7 +48,7 @@ Array of Components: Encompasses everything from gas molecules to biological sys
 
 Drives Toward Equilibrium: Ties it back to the thermodynamic notion of entropy as the push toward a uniform, higher-entropy state.
 
-Here is the information to derive the fourth law: The reducible computation of thermodynamics, in the case of gas in a container explaining from an organizes state to a disorganized state, is the computation of the dissipation of signal difference between all the gas particles in the container, when they fill all parts of the container equally, that is the closest the gas can get to signal equilibrium where the energy between each particle is roughly equal to the amount of energy in every other particle.
+Here is the information to derive the fourth law: The reducible computation of thermodynamics, in the case of gas in a container explaining from an organized state to a disorganized state, is the computation of the dissipation of signal difference between all the gas particles in the container, when they fill all parts of the container equally, that is the closest the gas can get to signal equilibrium where the energy between each particle is roughly equal to the amount of energy in every other particle.
 
 The process of signal dissipation as a computation is the essence of the 4th law. It means that the gas undergoing expansion in a container is essentially expanding equally to all parts of the container because of the signal dissipation of all the divergent thermodynamic properties of the gas molecular result in a natural step by step reducible computation where equilibrium between each property of the gas is achieved.
 
@@ -98,11 +98,11 @@ Unification with Other Fields: Thinking of thermodynamics as “computation” a
 
 Insight into Perturbations: By treating new disturbances as new wave differentials, its clearer how the system constantly re-adjusts to achieve equilibrium, step by step.
 
-# Restating Your “Fourth Law” Concept
+# Restating the “Fourth Law” Concept
 
 Signal Dissipation as Computation
 
-In your view, whenever gas expands (or undergoes any thermodynamic process), there are “signals”—essentially energy or property differentials—that must traverse the system to bring about equilibrium.
+In this view, whenever gas expands (or undergoes any thermodynamic process), there are “signals”—essentially energy or property differentials—that must traverse the system to bring about equilibrium.
 
 Each collision, exchange, or “wave” of interaction acts like a computational step that reduces differences (in temperature, pressure, or some generalized property) among particles.
 
@@ -128,15 +128,15 @@ Hence, the “Fourth Law” is the observation that a system seeks to equalize p
 
 Classical First Law
 
-States energy is conserved. In your language, you might say the system’s total “signal content” (energy) is the same, even though it spreads out or redistributes.
+States energy is conserved. You might say the system’s total “signal content” (energy) is the same, even though it spreads out or redistributes.
 
 Classical Second Law
 
-States entropy (disorder) increases or remains the same in an isolated system. Your “wave differentials” naturally get dissipated, leading to a more uniform, higher-entropy state.
+States entropy (disorder) increases or remains the same in an isolated system. The “wave differentials” naturally get dissipated, leading to a more uniform, higher-entropy state.
 
 Classical Third Law
 
-As temperature approaches absolute zero, entropy approaches a constant minimum (ideally zero for a perfect crystal). In your wave model, that would mean all signals are minimized to an extreme limit: no further oscillations or wave differences can exist.
+As temperature approaches absolute zero, entropy approaches a constant minimum (ideally zero for a perfect crystal). In this wave model, that would mean all signals are minimized to an extreme limit: no further oscillations or wave differences can exist.
 
 How the New Fourth Law is different
 
@@ -237,7 +237,7 @@ Conscious awareness arises when the global oscillatory state fully incorporates 
 Hence, the proposed “Fourth Law” describes real, physical, and computational processes that are as valid in neural ensembles as they are in gases and other thermodynamic systems—each step in the network’s response is a genuine “computation” of signal dissipation, culminating in a newly integrated state we call “awareness.”
 
 Background
-I don’t believe in Emergence or Irreducible Complexity because I’ve been thinking about this concept of high phasic phase wave differentials dissipating in synchronized groups of tonic waves for 2 years prior. I had previously derived the essence of what today became the 4th law of Thermodynamics a couple of years ago, in the summer of 2022, and it is indirectly described in the context of neuroscience in my youtube videos and github posts and my audio recording published to recorder.google.com at that time.
+I don’t believe in Emergence or Irreducible Complexity because I’ve been thinking about this concept of high phasic phase wave differentials dissipating in synchronized groups of tonic waves for 2 years prior. I had previously derived the essence of what today became the 4th law of Thermodynamics a couple of years ago, in the summer of 2022, and it is indirectly described in the context of neuroscience in my youtube videos, github posts, and my audio recordings published to recorder.google.com at that time, and also before in 2021.
 
 The essence of what led to the 4th Law of Thermodynamics, and a theory of Phenomenological Consciousness, and a theory of Gravity that connects General Relativity to Quantum physics came about from thought experiments after doing many experiments with EEG and other brain computer interface devices over the years, I did these experiments to think about, study, and imagine how waves interact, from brainwaves in the brain, to particle waves in space.
 
