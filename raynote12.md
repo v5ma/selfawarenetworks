@@ -1,9 +1,10 @@
-Proposed Fourth Law of Thermodynamics
+# The Fourth Law of Thermodynamics
 
-In a thermodynamic system, the approach to equilibrium proceeds by sequential ‘computations’—wave-like interactions or signal exchanges among its constituents—that progressively dissipate all differences in thermodynamic properties until those properties become uniformly distributed.
+"In a thermodynamic system, the approach to equilibrium proceeds by sequential ‘computations’—wave-like interactions or signal exchanges among its constituents—that progressively dissipate all differences in thermodynamic properties until those properties become uniformly distributed.
 
-Entropy can be viewed as the computational dissipation of signals—differences in thermodynamic properties (gas, heat, light, chemical, mechanical, electromagnetic, etc.)—across arrays of ‘sensing and transmitting’ components (e.g., molecules, neurons), such that repeated interactions progressively eliminate those differences and drive the system toward uniform equilibrium (of signal transmission).
+"Entropy can be viewed as the computational dissipation of signals—differences in thermodynamic properties (gas, heat, light, chemical, mechanical, electromagnetic, etc.)—across arrays of ‘sensing and transmitting’ components (e.g., molecules, neurons), such that repeated interactions progressively eliminate those differences and drive the system toward uniform equilibrium (of signal transmission)."
 
+# Explainer of the Fourth Law of Thermodynamics
 ‘Computational Dissipation’: Emphasizes that entropy increase involves a process akin to “computation,” where each interaction step reduces differences.
 
 Signal Perspective: Acknowledges that properties like heat, pressure, chemical potentials, and even neural transmissions can be viewed as signals that spread and get smoothed out.
