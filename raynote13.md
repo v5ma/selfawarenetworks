@@ -142,11 +142,13 @@ How the New Fourth Law is different
 
 It emphasizes how the system’s differentials (waves) systematically dissipate and “compute” their way to equilibrium. Its a deeper look at the mechanism of how entropy increases in real, physical processes.
 
-# How is the 4th law describing a real computation?
+# How is the Fourth Law of Thermal Dynamics describing a real computation?
 
-How does it apply to neurons that form a tonic oscillating group of cells, how does it describe the core mechanic of how an oscillating group of cells becomes consciously aware of a phase wave differential information packet that impacts part of it's group?
+How does it apply to neurons that form a tonic oscillating group of cells?
 
-to see the “Fourth Law” concept (computational signal dissipation toward equilibrium) as a real form of information processing (computation) in neurons—and how that process might underlie a neural ensemble’s “awareness” of new inputs.
+How does it describe the core mechanic of how an oscillating group of cells becomes consciously aware of a phase wave differential information packet that impacts part of it's group?
+
+Let’s break down how the “Fourth Law” concept (computational signal dissipation toward equilibrium) as a real form of information processing (computation) in neurons—and how that process might underlie a neural ensemble’s “awareness” of new inputs.
 
 1. How the Fourth Law Describes a Real Computation
 
