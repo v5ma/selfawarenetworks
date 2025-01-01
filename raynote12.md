@@ -192,4 +192,5 @@ Dissipation is how repeated signal exchanges smooth out or integrate those diffe
 Computation is the network’s iterative process of moving toward a new attractor (equilibrium) that embeds the new information.
 
 Conscious awareness arises when the global oscillatory state fully incorporates the new signals, achieving a unified firing pattern that the system (and thus the organism) “knows” or “feels” at the macro scale.
+
 Hence, the proposed “Fourth Law” describes real, physical, and computational processes that are as valid in neural ensembles as they are in gases and other thermodynamic systems—each step in the network’s response is a genuine “computation” of signal dissipation, culminating in a newly integrated state we call “awareness.”
