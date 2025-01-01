@@ -1,4 +1,4 @@
-# A New (Fourth or Fifth?) Law of Thermodynamics
+# A New Law of Thermodynamics
 A very long open letter to Stephen Wolfram and Dr. Brian Keating, about Dark Time Theory, Self Aware Networks Theory, followed by a 'New (Fourth or Fifth?) Law of Thermodynamic, then links to my work.
 
 Micah Blumberg
