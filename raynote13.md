@@ -58,8 +58,7 @@ If a hole is poked in the container and gas starts to leak out that disturbs the
 
 The 4th Law of Thermodynamics is in otherwards an argument that Entropy is the computational dissipation of signals or the differences between projected thermodynamic properties (gas, light, heat, chemical waves, mechanical waves, electromagnetic waves), across an array sensing & transmitting components (gas molecules or anything else that senses reacts transmits some properties, like neurons and their transmissions or projections)
 
-The 4th Law applied to the 3rd Law of Thermodynamics:
-
+# The 4th Law applied to the 3rd Law of Thermodynamics:
 A “Computation” / “Signal” Interpretation of Thermodynamics.
 
 An insightful way of thinking about entropy as the “dissipation of signal difference.” Here’s how that relates:
@@ -87,7 +86,6 @@ In this computational analogy: at absolute zero, all “signals” (differences 
 Thus, the Fourth Law, when applied to the Third Law, can be viewed as stating that when temperature goes to absolute zero, all signal (energy) differences between particles vanish; there is no more “computation” to be done because the system is in its unique, perfectly ordered state.
 
 # This proposed “Fourth Law” reframes the process of reaching equilibrium in terms of signals, waves, and computational steps.
-
 Unlike the first three laws that describe energy conservation, entropy increase, and the nature of absolute zero, this 'Fourth Law' emphasizes the mechanistic path to equilibrium as a sequential 'computation' of dissipating property differentials (phase waves), wherein each interaction step reduces those differences until the system reaches a synchronized and uniform state.
 
 Why This Law as a New Perspective Can Be Useful
@@ -99,7 +97,6 @@ Unification with Other Fields: Thinking of thermodynamics as “computation” a
 Insight into Perturbations: By treating new disturbances as new wave differentials, its clearer how the system constantly re-adjusts to achieve equilibrium, step by step.
 
 # Restating the “Fourth Law” Concept
-
 Signal Dissipation as Computation
 
 In this view, whenever gas expands (or undergoes any thermodynamic process), there are “signals”—essentially energy or property differentials—that must traverse the system to bring about equilibrium.
@@ -113,7 +110,6 @@ You treat each property (heat, kinetic energy, potential energy, etc.) as a kind
 Each time this wave interacts or “collides” with particles, it dissipates or “shrinks” the difference in that property. Over time, you get a more uniform distribution of that property throughout the container.
 
 # Equilibrium as Synchronous Oscillation
-
 By the time the gas is uniformly distributed—pressure, temperature, and other properties roughly equal in all parts of the container—the system is in a sort of synchronous oscillation or “steady state” of minimal property differences.
 
 Perturbations of Equilibrium
@@ -125,7 +121,6 @@ These new differentials, in turn, generate fresh “wave signals” throughout t
 Hence, the “Fourth Law” is the observation that a system seeks to equalize phase-wave differentials (property differences) across all particles, and each step in that equalization is a form of “computation” (signal processing) that moves the system toward uniform equilibrium.
 
 # Contrast with the Established Laws
-
 Classical First Law
 
 States energy is conserved. You might say the system’s total “signal content” (energy) is the same, even though it spreads out or redistributes.
@@ -143,7 +138,6 @@ How the New Fourth Law is different
 It emphasizes how the system’s differentials (waves) systematically dissipate and “compute” their way to equilibrium. Its a deeper look at the mechanism of how entropy increases in real, physical processes.
 
 # How is the Fourth Law of Thermal Dynamics describing a real computation?
-
 How does it apply to neurons that form a tonic oscillating group of cells?
 
 How does it describe the core mechanic of how an oscillating group of cells becomes consciously aware of a phase wave differential information packet that impacts part of it's group?
@@ -151,7 +145,6 @@ How does it describe the core mechanic of how an oscillating group of cells beco
 Let’s break down how the “Fourth Law” concept (computational signal dissipation toward equilibrium) as a real form of information processing (computation) in neurons—and how that process might underlie a neural ensemble’s “awareness” of new inputs.
 
 1. How the Fourth Law Describes a Real Computation
-
 Sequential Signal Exchanges
 
 In thermodynamics, the “Fourth Law” framing says that reaching equilibrium involves waves or signals traveling among components (gas molecules, for instance) that iteratively reduce differences in pressure, temperature, or other properties.
@@ -179,7 +172,6 @@ In a neural network, local synaptic interactions can lead, through recurrent con
 Hence, the “Fourth Law” is not just a metaphorical statement. It points out that when you have an array of elements that “sense” differences and “transmit” signals, the step-by-step reduction of those differences is a real computational process. Whether its molecules in a gas or neurons in a brain, the system implements iterative signal processing—i.e., computation—that moves the group toward a new collective state (equilibrium or attractor state).
 
 2. Applying It to Tonic Oscillating Neurons
-
 Now let’s connect this directly to a tonic oscillating group of neurons—for example, a group of cells in the gamma band (30–90 Hz) or alpha band (8–12 Hz) that maintains a synchronous rhythm.
 
 Neural Oscillations as Phase Waves
@@ -209,7 +201,6 @@ From a neuroscience perspective, widespread synchronous oscillations in certain 
 Thus, in a tonic oscillating neural group, each “phase wave differential” introduced by a stimulus acts as a small disequilibrium. The iterative, wave-like signal exchanges that ensue are real computations—they successively update neuronal firing states until the network settles in a new equilibrium (or quasi-equilibrium) that may correspond to the network’s “representation” (and potential conscious awareness) of the stimulus.
 
 3. Core Mechanic: Phase-Wave Dissipation Yields Awareness
-
 Putting it all together, here is the core mechanism of how an oscillating group of neurons becomes aware of an incoming signal under the “Fourth Law” framework:
 
 Equilibrium Baseline: The tonic oscillating group is in a relatively stable synchronous state.
@@ -224,10 +215,7 @@ Emergent Awareness: In many theories of consciousness, this new coherent pattern
 
 This aligns closely with the thermodynamic idea that a system re-equilibrates after a disturbance. What’s new is that we’re calling out each interaction as a “computation,” and each wave of neuronal exchange as the real-time mechanism by which the brain (like a thermodynamic system) dissipates differences to reach a coherent state.
 
-Final Takeaway
-
 The “Fourth Law” metaphor becomes literal in neural circuits:
-
 Information is the difference (in firing rates, phases, or membrane potentials).
 
 Dissipation is how repeated signal exchanges smooth out or integrate those differences.
@@ -276,7 +264,9 @@ I imagined some of the waves in the universe might have particle wave configurat
 
 It might be, I thought, since mass and energy were differentiated by time in Einstein’s Equation, that there was also some sort of relationship between the spacetime field and mass that had some sort of inverse relationship. After all the void of space is an energy field right?
 
-I imagined that the density of mass & time frames increased the volume of empty spacetime around mass might increase at the same rate. I imagined that if we had more frames of time around mass at the quantum scale that this might change the path of particle travel, because the particle might interpret additional frames of time as additional frames of space that it has to compute its trajectory through.
+I imagined that where the density of mass & time frames was great, there would be a correspondingly great volume of empty spacetime around it. As the density of the mass and time increase, the volume of empty space might increase at the same rate relatively speaking. This would imagine that spacetime was a napkin, and where there was mass the time part of the napkin was crunched up, and the space part of the napkin was relatively stretched out.
+
+I imagined that if we had more frames of time (or more waves of time, or a phase difference in the waves of space) around mass at the quantum scale that this might change the path of particle travel, because the particle might interpret additional frames of time as additional frames of space that it has to compute its trajectory through.
 
 Neither an object nor a particle traveling in a straight line is expected to change its path without a force acting upon it, but I imagined that for a particle it maintained a straight path because the odds of deviating into another path were approximately cancelled out by even odds.
 
@@ -295,3 +285,8 @@ We can test this theory in a number of ways, one way is by attempting to more ac
 My Quantum Gravity equations that resulted from these thought experiments tend to center around modifying a particles energy in the presence of gravitational fields, because the additional time density around large masses would perturb the particle’s path with the phase differences in the gravitational wave representing a relative difference in time.
 
 I ran these initial ideas through many AI programs, over and over, hundreds of times, for almost two years, in programs like ChatGPT, and I produced a great number of Equations, representing different ways to modify over 20 great physics equations with the concept of time frames as a unification of gravity and quantum physics.
+
+Thank you, let’s connect and talk.
+Thank you for taking the time to read about my Dark Time Theory, Self Aware Networks Theory of Mind, and proposed 4th Law of Thermodynamics. I believe these interconnected ideas illuminate a single fundamental mechanism—wave-based signal dissipation—that underlies everything from neural consciousness to gravitational effects in spacetime.
+
+Should you wish to delve deeper, I’ve published extensive notes and videos on my GitHub repository and in my new book on Amazon. I’d be thrilled to discuss potential collaborations or hear your feedback on these hypotheses. I hope this perspective can stimulate dialogue among scientists interested in bridging the gaps between thermodynamics, quantum mechanics, and the nature of consciousness.
