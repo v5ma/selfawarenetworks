@@ -239,6 +239,14 @@ I realized while reading Strogatz’s book Sync that each signal that passed bet
 
 Strogatz also talked briefly about Sync happening between neurons, but I went further and imagined how when combined with concepts of tonic oscillating groups of cells and high phasic perturbations that I was thinking about from Peter Tse’s work (mentioned below), that Differential synchronization could lead to neural renderings in the mind.
 
+In summary Stephen Strogatz's Sync explores synchronization as the natural phenomenon where systems with rhythmic behaviors, such as clocks or fireflies, align their phases over time. This synchronization arises from interactions between the entities, gradually leading to harmonious operation.
+
+While Strogatz focuses on the mathematical and physical principles underlying synchronization, he leaves much of the application to neural systems for others, such as György Buzsáki and Peter Tse, to explore.
+
+The concept that synchronization dissipates energy differences is my own interpretation, inspired by Strogatz’s work but not explicitly stated in Sync. I extend this idea through the lens of "phase wave differentials," proposing that the dissipation of phase differences forms the basis of synchronization in both physical systems and neural renderings in the mind.
+
+These interpretations represent a synthesis of Strogatz’s foundational principles with additional insights from neuroscience and my own conjectures.
+
 When I read about Latent Diffusion Networks, right after Stable Diffusion and Midjourney first appeared to the world, I realized a process through which phase wave differentials could oscillate together to bind to form stable representations.
 
 I realized from my study of Photogrammetry, Light Field Imaging, Diffusion Tensor Imaging, Tomography and the Fourier Slice Transform that oscillatory binding could allow the brain’s neural arrays to reconstruct 3D renderings of sensory input data, from your sensory organs, and that your brain would be able to see these patterns as they perturbed the large groups of cells that were synchronized with high magnitude low frequency waves.
