@@ -1,6 +1,6 @@
-# How Wave Dissipation Could Explain Everything from Brains to the Big Bang
+# HHow Wave Perturbation & Dissipation Computation Could Explain Everything from Neurophysics to Astrophysics
 
-Why does a steaming cup of coffee inevitably cool down? Why do the echoes of a loud sound fade over time? It’s all about wave dissipation—a universal process that might explain everything from the mind’s inner workings to the flow of energy across the cosmos.
+Why does a steaming cup of coffee inevitably cool down? Why do the echoes of a loud sound fade over time? It’s all about wave perturbation & dissipation as a universal physics based computational process that might explain everything from the mind’s inner workings to the flow of energy across the cosmos.
 
 Welcome to Micah’s New Law of Thermal Dynamics, a proposition that boldly connects to and reframes the well-known Free Energy Principle in terms of fundamental thermodynamic physics. Instead of every system striving to minimize ‘free energy,’ Micah’s view suggests that all physical systems—living or not—are driven to dissipate their phase wave differences. From the sizzling heat waves in a frying pan to the intricate rhythms of neural activity in the brain, this perspective sees dissipation as the unifying thread that ties together the mundane and the mysterious, potentially explaining everything from our daily experiences to the grand structure of the universe.
 
