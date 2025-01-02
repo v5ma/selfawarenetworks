@@ -64,7 +64,7 @@ Unification with Other Fields: Thinking of thermodynamics as “computation” a
 
 Insight into Perturbations: By treating new disturbances as new wave differentials, its clearer how the system constantly re-adjusts to achieve equilibrium, step by step.
 
-# Restating ***Micah's New Law of Thermal Dynamics*** Concept
+# Restating the core concept from ***Micah's New Law of Thermal Dynamics***
 
 Signal Dissipation as Computation
 
