@@ -1,3 +1,4 @@
+raynote17
 Why Einstein Was Right When He Said — “God Does Not Play Dice"
 How this new interpretation of Quantum Physics called Quantum SuperTimePosition shows that Einstein was right.
 

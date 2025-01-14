@@ -1,3 +1,4 @@
+raynote15
 Quantum SuperTimePosition: A Potential Quantum Entanglement Interpretation and Testable Theory with Far-Reaching Implications
 
 Introduction

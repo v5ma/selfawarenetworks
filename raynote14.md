@@ -1,4 +1,5 @@
-# HHow Wave Perturbation & Dissipation Computation Could Explain Everything from Neurophysics to Astrophysics
+raynote14
+# How Wave Perturbation & Dissipation Computation Could Explain Everything from Neurophysics to Astrophysics
 
 Why does a steaming cup of coffee inevitably cool down? Why do the echoes of a loud sound fade over time? It’s all about wave perturbation & dissipation as a universal physics based computational process that might explain everything from the mind’s inner workings to the flow of energy across the cosmos.
 

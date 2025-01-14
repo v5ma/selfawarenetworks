@@ -1,4 +1,4 @@
-
+raynote16
 
 Wave-Dissipation Universality
 Quantum SuperTimePosition Meets Micah’s New Law of Thermal Dynamics

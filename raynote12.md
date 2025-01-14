@@ -1,3 +1,4 @@
+raynote12
 # ***Micah's New Law of Thermal Dynamics***
 
 “In a thermodynamic system, the approach to equilibrium proceeds by sequential ‘computations’—wave-like interactions or signal exchanges among its constituents—that progressively dissipate all differences in thermodynamic properties until those properties become uniformly distributed.
