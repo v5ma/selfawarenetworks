@@ -515,62 +515,6 @@ While Nimtz claimed these results might challenge aspects of quantum mechanics a
 
 While Günter Nimtz's experiments are fascinating and push the boundaries of our understanding, the consensus is that they do not fundamentally contradict quantum mechanics or special relativity. Instead, they highlight the nuanced nature of tunneling and the need for precise definitions of signal propagation and causality in quantum systems.
 
-# What my theory: Quantum Gravity Time Crystal Dilation QGTCD Theory says about Quantum Tunnelling.
-
-***The following is copied from "Hex 7.md" at github.com/v5ma/selfawarenetworks***
-
-“Quantum tunneling is a phenomenon where an atom or a subatomic particle can appear on the opposite side of a barrier that should be impossible for the particle to penetrate. It's as if you were walking and encountered a 10-foot-tall (3 meters) wall extending as far as the eye can see.”
-
-QGTCD Theory says that gravity exists because the relative acceleration of frames of time in one particular direction changes the odds for which a particle, atom, or mass of any size moves in any particular direction. If there are more frames of time, in direction A, for example, then the odds of the particle or object moving in the direction of A are increased. 
-
-When an atom or a subatomic particle does Quantum Tunnelling, my conjecture is that it must be that the atom or subatomic particle must be moving through more frames of time than the object it is passing through, that is to say extra time creates extra space at the Quantum scale, so that particle can appear to move through solid objects, but what is really happening is the particle is moving through empty space that consists of a time interval that happened at a spacetime frame rate that was faster than the object occupying that space. In other words the object's position is updated in space more slowly than the frame rate of time, and this allows particles to flow around it, while appearing to flow through it, when viewed from a classical perspective.
-
-Aha Quantum Gradient Time Crystal Dilation may explain what is really happening with electroporation, researchers thought that the electric field was applying pressure, but it should be increasing the virtual area, or the chances a particle will move in the direction of the electric field, because it introduces additional frames of time to the local area, which is the same effect as gravity. But it is interested that the 
-
-"New Research Casts Fundamental Doubt on"  Long-Established Standard Model of Electroporation
-"The energy barrier for pore formation decreases not with the square of the field strength but proportionally to the field strength. In other words, doubling the field strength reduces the energy barrier only by half, not fourfold. This suggests a fundamentally different mechanism: a destabilization of the interface between lipid and water due to a reorientation of the water molecules in the electric field."
-https://scitechdaily.com/new-research-casts-fundamental-doubt-on-long-established-standard-model-of-electroporation/
-
-Incidentally I have a new Gravity Theory (Quantum Gradient Time Crystal Dilation) that provides a fresh take on what Quantum Tunnelling is, why it happens, and this conversation inspired an idea for how we might increase or decrease the rate of Quantum Tunnelling. So thanks! 
-
-Okay so here is the idea: If we increase the density of the mass (or the acceleration of) of the barrier the rate of quantum tunneling ought to increase, and visa versa, decreasing the density of the volume of the barrier or decreasing its acceleration ought to reduce the rate of quantum tunneling. 
-
-***The following is from NotebookML 6 Collection.md on github.com/v5ma/selfawarenetworks***
-
-Quantum Tunneling: Quantum tunneling is a phenomenon where particles pass through a barrier that they classically shouldn't be able to surmount. This can be understood through the Path Integral, as some paths considered in the sum include those where particles traverse these barriers. Superposition: Superposition is a fundamental principle of quantum mechanics, where systems exist in multiple states simultaneously until observed. It's integral to the Path Integral and quantum tunneling, as both involve considering all possible states or paths. Josephson Junctions: Josephson Junctions are quantum devices that exhibit effects like superconducting tunneling. They are practical examples of quantum tunneling and superposition, where electrons move between two superconductors, even through an insulator, without energy loss.
-
-According to QGTCD theory, gravity exists because the relative acceleration of frames of time in one particular direction changes the odds for which a particle, atom, or mass of any size moves in any particular direction.
-
-When an atom or a subatomic particle does Quantum Tunnelling, my conjecture is that it must be that the atom or subatomic particle must be moving through more frames of time than the object it is passing through, that is to say extra time creates extra space at the Quantum scale, so that particle can appear to move through solid objects, but what is really happening is the particle is moving through empty space that consists of a time interval that happened at a spacetime frame rate that was faster than the object occupying that space. In other words the object's position is updated in space more slowly than the frame rate of time, and this allows particles to flow around it, while appearing to flow through it, when viewed from a classical perspective.
-
-***The following is from GPT2023X.md at github.com/v5ma/selfawarenetworks***
-
-QGTCD and quantum tunneling are interconnected concepts within the realm of theoretical physics, where QGTCD proposes that the expansion of spacetime around massive objects could influence the probability of quantum tunneling events.
-
-Quantum tunneling is a phenomenon where particles can pass through barriers that are classically impenetrable, usually explained by quantum mechanics.
-Under QGTCD, the rate of spacetime expansion could alter the energy landscape, potentially affecting the likelihood of particles tunneling through barriers.
-This theory suggests the possibility of gaining new insights into tunneling phenomena, especially in gravitational fields or near massive objects.
-
-What Quantum Gravity Time Crystal Dilation QGTCD Theory says adds to Quantum Tunnelling.“Quantum tunneling is a phenomenon where an atom or a subatomic particle can appear on the opposite side of a barrier that should be impossible for the particle to penetrate. It's as if you were walking and encountered a 10-foot-tall (3 meters) wall extending as far as the eye can see.”
-QGTCD Theory says that gravity exists because the relative acceleration of frames of time in one particular direction changes the odds for which a particle, atom, or mass of any size moves in any particular direction. If there are more frames of time, in direction A, for example, then the odds of the particle or object moving in the direction of A are increased. When an atom or a subatomic particle does Quantum Tunnelling, my conjecture is that it must be that the atom or subatomic particle must be moving through more frames of time than the object it is passing through, that is to say extra time creates extra space at the Quantum scale, so that particle can appear to move through solid objects, but what is really happening is the particle is moving through empty space that consists of a time interval that happened at a spacetime frame rate that was faster than the object occupying that space. In other words the object's position is updated in space more slowly than the frame rate of time, and this allows particles to flow around it, while appearing to flow through it, when viewed from a classical perspective.
-
- Self Aware Networks GPT 
-
-Thank you for clarifying the concept of Quantum Gradient Time Crystal Dilation (QGTCD) and its relation to quantum tunneling. Based on your explanation, here's an updated perspective on how QGTCD can be interconnected with quantum tunneling, particularly in the context of olfaction and its quantum detection mechanisms.
-
-### Quantum Gradient Time Crystal Dilation (QGTCD) and Quantum Tunneling:
-
-1. **QGTCD and Spacetime Expansion**:
-   - QGTCD proposes that the expansion of spacetime around massive objects influences the probability of quantum tunneling events. This theory suggests a relationship between gravitational fields, the rate of spacetime expansion, and quantum phenomena.
-
-2. **Quantum Tunneling**:
-   - Quantum tunneling is the phenomenon where particles pass through classically impenetrable barriers. It's a fundamental aspect of quantum mechanics, allowing particles to appear on the opposite side of barriers they should not be able to penetrate.
-
-3. **QGTCD's Impact on Quantum Tunneling**:
-   - Under QGTCD, the concept is that gravity arises from the relative acceleration of frames of time, which alters the odds of particle movement in any particular direction.
-   - If there are more frames of time in a certain direction, the likelihood of a particle moving in that direction increases.
-   - In quantum tunneling, this concept implies that the tunneling particle is moving through more frames of time than the object it's passing through. This creates extra space at the quantum scale, allowing the particle to move through what appears as solid objects.
-
 # Back to the Main Subject, I'm in the middle of talking to ChatGPT 4o asking it questions about Taggart's conjecture in the Facebook group.
 
 
