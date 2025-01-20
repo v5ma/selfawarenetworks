@@ -1,6 +1,6 @@
 raynote20
 
-SuperTimeGradient and Quantum Tunneling
+How SuperTimeGradient and QGTCD approach Quantum Tunneling
 
 ### Quantum Gradient Time Crystal Dilation (QGTCD) and Quantum Tunneling
 
