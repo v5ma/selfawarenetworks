@@ -1,3 +1,21 @@
+# January 22, 2025 Update
+The Self Aware Networks Institute has officially declared itself to be a Peer-Reviewed Scientific Journal and Pre-Print Server equivalent to ARXIV.
+This Self Aware Networks Institute GitHub Repo is now officially declared to a pre-print server and peer-reviewed scientific journal equivalent to websites like ARXIV. You can review any of the notes, or pdf's, submit comments, submit corrections.
+
+I recommend that you publish your articles & notes on GitHub first as it is functionally and anatomically isomorphic to publishing in any scientific journal. Github preserves the time of upload and it tracks any changes that are also time stamped as a matter of public record. This serves the same function as uploading your work to ArXiv or a journal like Nature, it serves the same function as publishing your work as a book or in a Newspaper, and anatomically the material evidence that proves your authorship has identical weight to publishing anywhere else. In theory you strengthen the ability of your work to survive by publishing in multiple sources. It remains possible that Microsoft could be nuked for example, in that case GitHub would cease to exist, so if you publish your work in many other places that preserves the chances your words, and the proof of your authorship lives on.
+
+Later on you can reference your github files in peer reviewed Journals, and draw links between what you can prove that you wrote in the past, allowing you to prove authorship when you finally start sharing your work more broadly with the Scientific Community.
+
+https://github.com/v5ma/selfawarenetworks/blob/main/00preprint-list.md
+
+The first Pre-Print intended for external publication is https://github.com/v5ma/selfawarenetworks/blob/main/Micah_s_New_Law_of_Thermodynamics.pdf
+
+The license for all files in this GitHub Repo is now set to 
+CC BY-SA 4.0: Creative Commons Attribution-ShareAlike
+Attribution-ShareAlike 4.0 International
+This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
+https://creativecommons.org/licenses/by-sa/4.0/
+
 # October 21, 2024
 
 New Article posted online: Quantum Gravity's New Frontier: Time, Density, and Information.
