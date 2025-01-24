@@ -470,7 +470,7 @@ In previous sections, we described how **Micah's New Law of Thermodynamics** rei
 
 1.  **Proprioception**---the body's sense of self-movement and position,
 2.  **Gamma waves**---a high-frequency oscillation (30--100 Hz) central to integrative consciousness,
-3.  **Agentic Biology**---the notion that each cortical region (or column) acts as a semi-autonomous "agent," and
+3.  ** Biology**---the notion that each cortical region (or column) acts as a semi-autonomous "agent," and
 4.  **Karl Friston's Free Energy Principle (FEP)**---the perspective that brains minimize "surprise" or prediction error.
 
 ### 12.2 Proprioception as Continuous Feedback for Equilibrium

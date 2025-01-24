@@ -752,6 +752,7 @@ Miller notes that during a task the waves become directional, after the task is 
 I think really that waves that take on a direction are phasic waves, and waves that are directionless are tonic waves. 
 
 I think that the way to wrap up this theory is that it's not about alpha, beta, gamma or theta, it's not about bottom up control or top down control, it is about high phasic directional waves of any frequency band inhibiting and modulating tonic directionless waves of any frequency band.
+
 GPT
 Your synthesis of Earl K. Miller's research and your own insights offers a comprehensive view of brainwave dynamics, emphasizing the interplay between phasic and tonic waves across various frequency bands. Let's explore this integrated theory:
 

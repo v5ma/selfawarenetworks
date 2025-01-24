@@ -37,6 +37,7 @@ Would you like to explore further how NAPOT connects to these ideas, or dig deep
 There is this interesting & unique interaction between the PFC Pre frontal Cortex and the Primary Sensory Cortices, it is like the PFC is behind the rendered scenes watching the visual, auditory, and experiencing the smells, tastes, touches, and then making thoughts, or high level abstractions about these lower sensory inputs.
 
 Sending Beta waves downstream to define the paths of upstream Gamma waves for example. This is a nod to Earl K. Miller's work, Beta waves are determining what you do, they are your choices, your reasoning abilities, and your abstractions.
+
 ChatGPT said:
 
 The interaction between the Prefrontal Cortex (PFC) and the Primary Sensory Cortices is indeed a fascinating aspect of brain function, especially in the context of hierarchical neural processing and oscillatory dynamics, such as the one you are referring to involving Beta and Gamma waves.
