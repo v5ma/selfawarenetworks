@@ -1,3 +1,5 @@
+This is a plain text copy of "QGTCD many equations.pdf" for convenience.
+
 You said:
 
 Does gravity change the energy of a particle?
