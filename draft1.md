@@ -2,6 +2,8 @@ Rough Draft of my section of the paper
 
 The Agentic Brain
 
+This section of the paper is like a review of existing neuroscience literature plus novel concepts that I introduced in the summer of 2022 with the Self Aware Networks TOC published on GitHub to prove original authorship. Since then I've seen many papers that carry ideas that I introduced, although often they appear without referencing my work suggesting copywritten and published work was overlooked or not considered valid because of the publication format or publication entity. I rest assured that copyright is valid for 100 years and that all my content on GitHub is date stamped.
+
 Key Concepts in this paper were developed & published as part of the Self Aware Networks Theory of Mind (or TOC) in a collection of notes on GitHub in the summer months of 2022.
 
 1. BOT Biological Oscillatory Tomography as a high level generalized explanation for how cells make, communicate, receive, and parse patterns.
