@@ -4,33 +4,35 @@ The Agentic Brain
 
 Key Concepts in this paper were developed & published as part of the Self Aware Networks Theory of Mind (or TOC) in a collection of notes on GitHub in the summer months of 2022.
 
-Oscillatory Tomography
-COT Cellular Oscillating Tomography
-NAPOT Neural Array Projection Oscillation Tomography
-Coincidences as Bits of Information
-Traveling Waves as Phase Wave Differentials
-NDCA Non-linear Differential Continuous Approximation, applied to neural function and to cortical function
-Solving the binding problem with oscillation.
-Stitching patterns together with oscillation.
-Making choice bifurcations with Inhibitory Interneurons, every cell making a choice (Peter Tse), but choice happening everywhere in the brain at all scales.
-Global Spectral Frequency Map & Coordinate System
-The concept of "high phasic" and "slow waves" as phase wave differentials (traveling waves) as the Ink of the Mind, and Tonic (regular) oscillating (usually lower or middle frequency, higher amplitude & area effect)
-The Gamma Consideration Sandwich, how proprioception works using Gamma Waves to find equilibrium between sensory thought patterns in alpha beta waves.
-Entification
-Consciousness through oscillatory dissipation.
-Neural Rendering as a 3D Volumetric Television.
-The Phasic-Tonic Interplay
-The Latent Diffusion Analogy
-Multiscale Fractal Analogies of Brain Computation
-Consciousness as a Deterministic Computation
+1. BOT Biological Oscillatory Tomography as a high level generalized explanation for how cells make, communicate, receive, and parse patterns.
+2. COT Cellular Oscillating Tomography, is a theory of computational biological evolution, not just random selection, computed selection.
+3. NAPOT Neural Array Projection Oscillation Tomography, focusing on Neural Rendering
+4. Coincidences as Bits of Information
+5. Traveling Waves as Phase Wave Differentials
+6. NDCA Non-linear Differential Continuous Approximation, applied to neural function and to cortical function
+7. Solving the binding problem with oscillation.
+8. Stitching patterns between brain regions together with oscillatory synchrony & functional connectivity.
+9. Making choice bifurcations with Inhibitory Interneurons, every cell making a choice (Peter Tse), but choice happening everywhere in the brain at all scales.
+10. Global Spectral Frequency Map & Coordinate System
+11. The concept of "high phasic" and "slow waves" as phase wave differentials (traveling waves) as the Ink of the Mind, and Tonic (regular) oscillating (usually lower or middle frequency, higher amplitude & area effect)
+12. The Gamma Consideration Sandwich, how proprioception works using Gamma Waves to find equilibrium between sensory thought patterns in alpha/beta waves and physical body patterns from 5th layer PV cells.
+13. Entification: The idea of a consciousness being as a fractal sensor transmitter resulting from many smaller self-similar sensor transmitters (cells, columns, brain regions, and networks).
+14. Consciousness perception through oscillatory dissipation.
+15. Neural Rendering as a 3D Volumetric Television.
+16. The Phasic-Tonic Interplay for absorbing rendered patterns
+17. The Latent Diffusion Analogy for learning with oscillation & LTP.
+18. Outlining the Multiscale Fractal of Functional Brain Computation
+19. Consciousness as a Deterministic Computation
 How brainwaves drive molecular mechanisms with Ephaptic Coupling
+20. 
 
 More recent published concepts that were added to Self Aware Networks between 2022 and the date of this paper:
-Dendrites as Vector Embeddings
-Quasicrystal Analogy for Higher Dimensional Information Patterns
-Immuno-Neural Interplay
-Agentic Co-Regulation Across Scales
-Addressable Co-efficient of Variation, or the idea that the brain has a network protocol with cells having addresses as distinct frequency/phase patterns.
+
+21. Dendrites as Vector Embeddings
+22. Quasicrystal Analogy for Higher Dimensional Information Patterns
+23. Immuno-Neural Interplay
+24. Agentic Co-Regulation Across Scales
+25. Addressable Co-efficient of Variation, or the idea that the brain has a network protocol with cells having addresses as distinct frequency/phase patterns.
 
 # 1 Intro: The Multiscale View
 Intelligence and decision-making extend far beyond the interplay of large-scale neural networks. They emerge from interactions that unfold across multiple scales, beginning at the molecular level—among proteins and receptors—and culminating in the complex dynamics of entire cortical systems. This expanded perspective challenges the traditional assumption that cognition resides solely in higher-order brain structures. Instead, the agentic brain framework posits that each cell functions as an autonomous unit, capable of learning, encoding information, and coordinating with its peers.
