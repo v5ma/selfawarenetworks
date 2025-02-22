@@ -4,37 +4,85 @@ The Agentic Brain
 
 This section offers a synthesis of established neuroscience literature interwoven with original concepts I first introduced in the summer of 2022 through the Self Aware Networks Theory of Mind (TOC), published on GitHub to establish authorship. Since that time, I’ve noticed a wave of papers echoing ideas I pioneered—often without citation—raising questions about whether my copyrighted, timestamped work was overlooked due to its unconventional format or publishing platform. Still, I’m confident in the enduring validity of my copyright, secured for a century, and the clear date stamps on all my GitHub content stand as proof of origin.  
 
+# Key Concepts
+
 The key concepts explored here were initially developed and shared as part of the Self Aware Networks Theory of Mind in a series of notes I published on GitHub during the summer of 2022.  
 
 1. BOT Biological Oscillatory Tomography as a high level generalized explanation for how cells make, communicate, receive, and parse patterns.
 2. COT Cellular Oscillating Tomography, is a theory of computational biological evolution, not just random selection, computed selection.
-3. NAPOT Neural Array Projection Oscillation Tomography, focusing on Neural Rendering
-4. Coincidences as Bits of Information
+3. NAPOT Neural Array Projection Oscillation Tomography, focusing on Neural Rendering.
+4. Coincidences as Bits of Information. BTSP as a mechanism for strengthening pathways via coincidence detection over time, linking columns and regions.  
 5. Traveling Waves as Phase Wave Differentials
 6. NDCA Non-linear Differential Continuous Approximation, applied to neural function and to cortical function
 7. Solving the binding problem with oscillation.
 8. Stitching patterns between brain regions together with oscillatory synchrony & functional connectivity.
 9. Making choice bifurcations with Inhibitory Interneurons, every cell making a choice (Peter Tse), but choice happening everywhere in the brain at all scales.
 10. Global Spectral Frequency Map & Coordinate System
-11. The concept of "high phasic" and "slow waves" as phase wave differentials (traveling waves) as the Ink of the Mind, and Tonic (regular) oscillating (usually lower or middle frequency, higher amplitude & area effect)
-12. The Gamma Consideration Sandwich, how proprioception works using Gamma Waves to find equilibrium between sensory thought patterns in alpha/beta waves and physical body patterns from 5th layer PV cells.
+11. Ink & Canvas Metaphor: The concept of "high phasic" and "slow waves" as phase wave differentials (traveling waves) as the Ink of the Mind, and Tonic (regular) oscillating (usually lower or middle frequency, higher amplitude & area effect) as the Canvas of the Mind. This preceeded Earl K. Miller's Stencil Metaphor.
+12. Ephaptic Coupling as a Mechanism
 13. Entification: The idea of a consciousness being as a fractal sensor transmitter resulting from many smaller self-similar sensor transmitters (cells, columns, brain regions, and networks).
 14. Consciousness perception through oscillatory dissipation.
 15. Neural Rendering as a 3D Volumetric Television.
 16. The Phasic-Tonic Interplay for absorbing rendered patterns
 17. The Latent Diffusion Analogy for learning with oscillation & LTP.
 18. Outlining the Multiscale Fractal of Functional Brain Computation
-19. Consciousness as a Deterministic Computation
-How brainwaves drive molecular mechanisms with Ephaptic Coupling
-20. 
+19. Consciousness as a Deterministic Computation. How brainwaves drive molecular mechanisms.
 
 More recent published concepts that were added to Self Aware Networks between 2022 and the date of this paper:
 
+20. Thalamic-Cortical Loops as a Central Hub
 21. Dendrites as Vector Embeddings
 22. Quasicrystal Analogy for Higher Dimensional Information Patterns
 23. Immuno-Neural Interplay
 24. Agentic Co-Regulation Across Scales
 25. Addressable Co-efficient of Variation, or the idea that the brain has a network protocol with cells having addresses as distinct frequency/phase patterns.
+26. The Gamma Consideration Sandwich, how proprioception works using Gamma Waves to find equilibrium between sensory thought patterns in alpha/beta waves and physical body patterns from 5th layer PV cells.
+27. Four Trillion Dimensions per Millisecond (High-Dimensional Computation)  
+
+
+# Table of Contents
+
+1. Intro: The Multiscale View
+2. Agentic Behavior Across Scales
+3. Historical Context: Reviewing Self Aware Networks TOC with Neuroscience Literature
+4. T-Cells & Neurons
+5. A Mental Map of the Body & Cells
+6. Neurons to Phase Wave Differentials
+7. Coincidence as Bits of Information
+7. Cellular Oscillating Tomography (COT)
+8. Functional Pattern Connectivity via Neural Array Projection Oscillation Tomography (NAPOT)
+9. BTSP Coincidences and Functional Connectivity Between Columns and Other Brain Regions
+10. The Major & Minor Gaps in Neuroscience: Bridging Molecular Interactions and Brainwaves
+11. The Binding Problem in Neuroscience Addressed
+12. An Addressable Coefficient of Variation: Unique Cellular Fingerprints in Dendritic & Synaptic Computation
+13. The Flow of Information: Neural Arrays to Columns, Matrix Neurons & Cortical Neurons, Inhibitory Interneurons
+14. How the Thalamus Regulates the Prefrontal Cortex
+15. Another Example: Hippocampal Regulation of the Entorhinal Cortex—A General Principle of Agentic Co-Regulation
+16. Functional Connectivity: Phase Synchronization, Inhibitory Interneurons, and Interregional Regulation
+17. Thalamic Loops: A Central Hub in Sensory Relay and Cortical Modulation
+18. The Flow of Information: From Sensory Organs to Layered Cortical Loops
+19. Peter Tse, Phasic and Tonic Brainwaves, and the 1/F Relationship: Neural Rendering Through Phase Wave Differentials
+20. Latent Diffusion Networks as an Analogy for Phasic-Tonic Interactions and Ephaptic Coupling in the Brain
+21. Tomography from Functional Connectivity of Neural Oscillations at All Scales
+22. Mechanisms of Agent Interaction
+23. Quasicrystals and Higher-Dimensional Information in Neural Dynamics
+24. Brainwaves, Top-Down Control, and the Dynamics of Alpha/Beta–Gamma Interactions
+25. Miller’s “Stenciling” and the SAN “Mental Ink & Canvas” Metaphor
+26. Beta and Alpha Waves from Layer 4 Stenciling Gamma Waves in Layers 2/3
+27. Gamma Consideration Sandwich: Integrating Sensory Signals, Top-Down Control, and Proprioception
+28. Networks of the Brain
+29. Vector Embeddings and Semantic Space
+30. Dendritic Representations as Thought Vectors, Tokens, and Patches
+31. Semantic Mapping Across Brains and AI: A Synthesis of Vector Embeddings, fMRI, and Mechanistic Interpretability
+32. Consciousness as a Deterministic Computation
+33. Agentic Dynamics in the Brain and Self-Aware AI: NDCA, Wave Synchronization, and Conscious Computation
+34. The Agentic Brain in Action
+35. Neural Rendering and Predictive Coding
+36. Neural Rendering as the Information of the Mind that Guides Behavior
+37. Inhibitory Interneurons and Choice-Making
+38. Four Trillion Dimensions Computed per Millisecond
+39. Entification to Unite Agents into You!
+40. Consciousness Correlates
 
 # 1 Intro: The Multiscale View
 Intelligence and decision-making extend far beyond the interplay of large-scale neural networks. They emerge from interactions that unfold across multiple scales, beginning at the molecular level—among proteins and receptors—and culminating in the complex dynamics of entire cortical systems. This expanded perspective challenges the traditional assumption that cognition resides solely in higher-order brain structures. Instead, the agentic brain framework posits that each cell functions as an autonomous unit, capable of learning, encoding information, and coordinating with its peers.
