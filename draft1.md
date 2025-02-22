@@ -47,7 +47,7 @@ Within this unified view, deterministic wave mechanics at the cellular level sea
 
 By exploring how these multi-scale agents synchronize, desynchronize, and coordinate through phase transitions and feedback loops, we gain insight into the foundational processes that drive consciousness, cognition, and memory. These phenomena, deeply enmeshed in the biology of wave-based interactions, underscore the mechanical yet profound essence of living systems.
 
-In this collaborative paper on Agentic General Intelligence, we trace the development of the Self Aware Networks theory of mind, a synthesis of my own Self Aware Networks Theory of Mind—initially presented through a series of Notes on GitHub and YouTube—and Michael Miller's Building Minds with Patterns theory of artificial minds. Together, these approaches present a compelling new framework for understanding how intelligence, from the molecular to the cognitive level, can be both mechanistic and richly generative.
+In this collaborative paper on Agentic General Intelligence, we trace the development of the Self Aware Networks theory of mind, a synthesis of my 2024 book "Bridging Molecular Mechanisms and Neural Oscillatory Dynamics"—initially presented through a series of Notes on GitHub and YouTube—and in this paper I'm pairing these concepts that I developed from the study of neuroscience, physics, and artificial intelligence with Michael Miller's concept from his book "Building Minds with Patterns" theory of artificial minds, as well as his videos and papers on the same topic. Together, these approaches present a compelling new framework for understanding how intelligence, from the molecular to the cognitive level, can be both mechanistic and richly generative.
 
 # 2 Agentic Behavior Across Scales.
 
