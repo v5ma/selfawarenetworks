@@ -45,8 +45,8 @@ More recent published concepts that were added to Self Aware Networks between 20
 
 1.1. Multiscale Intelligence and the Agentic Brain
 1.2. Agentic Behavior Across Scales
-1.3. Historical Context of Self Aware Networks
-1.4. The Three-Level View: Micro, Meso, and Macro
+1.3. The Three-Level View: Micro, Meso, and Macro
+1.4. Historical Context of Self Aware Networks
 
 Level 1: Cellular Mechanisms (Micro-scale)
 
@@ -138,7 +138,17 @@ These feedback loops support oscillatory communication in which cells and networ
 
 These processes guide agents toward specific goals such as healing wounds, navigating chemical gradients, or orchestrating morphological development, mirroring established principles of reinforcement learning and synchronization. The concept of scale—including molecular, temporal, spatial, and volumetric dimensions—is central to this framework, and Micah’s New Law of Thermodynamics posits that systems move toward equilibrium through iterative local interactions that dissipate gradients. The Agentic Brain emerges as a foundational model that underpins the broader Agentic Mind, offering profound insights into consciousness, the development of artificial intelligence, and the treatment of diseases by highlighting the role of agentic behavior across all biological scales.
 
-## 1.3 Historical Context of Self Aware Networks
+## 1.3 The Three-Level View: Micro, Meso, and Macro
+
+This paper organizes the Agentic Brain into three interlocking levels. At the micro-scale, the focus is on cellular mechanisms such as proteins, receptors, ion channels, and local field potentials. At this level, individual cells—including neurons, glia, and immune cells—act as autonomous “mini-computers” through processes like Cellular Oscillating Tomography and coincidence detection. Sections 2 and 3 describe how molecular and neuronal mechanisms generate local oscillations and demonstrate similar agentic behavior at the cellular level, including aspects of body–brain integration.
+
+The mesoscale examines regional communication and inter-regulation among local ensembles such as cortical columns and thalamic loops, where feedback loops and network connectivity synchronize groups of cells into functional circuits. Sections 4 and 5 explain how these regional assemblies interact and illustrate the interplay among structures like the thalamus, hippocampus, and cortex.
+
+At the macroscale, the focus shifts to global brainwave functions and consciousness, where large-scale rhythms such as alpha, beta, and gamma, along with top-down and bottom-up gating, merge local and regional signals into coherent cognitive states. Sections 6 through 8 explore global oscillatory dynamics, connect these processes to high-dimensional representations and AI analogies, and demonstrate how full-brain synchronization gives rise to conscious experience.
+
+In summary, the paper begins with micro-level processes (Sections 2–3), moves to mesoscale network interactions (Sections 4–5), and culminates in macroscale dynamics (Sections 6–8) that underpin unified consciousness, revealing a continuous agentic system that scales from molecular details to whole-brain cognition.
+
+## 1.4 Historical Context of Self Aware Networks
 Self Aware Networks (SAN) is situated within a rich historical context that spans the evolution of neuroscience and artificial intelligence. Early pioneers such as Alan Turing and the developers of the perceptron laid the conceptual foundations for AI, while landmark discoveries in brain localization—exemplified by Paul Broca’s identification of language-specific areas—expanded our understanding of neural function. As the field progressed, figures like Jeff Hawkins and Yann LeCun advanced these ideas by introducing predictive coding theories and deep learning innovations that parallel neural processes.
 
 At its core, SAN builds on established neuroscience principles such as synaptic plasticity, which underlies learning and memory; neural oscillations—particularly gamma rhythms that support perception, cognition, and consciousness; and the role of cortical columns as fundamental units for representing neural patterns. The theory also incorporates predictive coding, the notion that the brain continuously refines its internal model by comparing expectations with incoming sensory data. SAN emphasizes the integration of molecular-level discoveries with studies of neural oscillations, thereby bridging the microscopic processes of protein and receptor dynamics with macroscopic cognitive functions.
@@ -148,16 +158,6 @@ Central to the SAN framework are advanced tomographic models such as Neural Arra
 Influential figures including Karl Friston, Earl K. Miller, Peter Tse, Jon Lieff, Jeff Hawkins, Olaf Sporns, György Buzsáki and Michael Levin have contributed insights into biological mechanisms, such as oscillatory synchronization, predictive mechanisms, and cellular cooperation that resonate with SAN’s emphasis on deterministic, multi-scale processes. By unifying principles from neuroscience, physics, and artificial intelligence, SAN offers a cohesive model of an agentic, deterministic brain with applications ranging from sentient AI to advanced brain-computer interfaces. This integrated approach deepens our understanding of how local oscillatory processes scale into conscious awareness and provides a robust foundation for future technological and therapeutic advancements.
 
 Given this historical foundation, we begin our journey at the cellular scale, exploring exactly how proteins, receptors, and neuronal oscillations provide the bedrock for larger cognitive processes.
-
-## 1.4. The Three-Level View: Micro, Meso, and Macro
-
-This paper organizes the Agentic Brain into three interlocking levels. At the micro-scale, the focus is on cellular mechanisms such as proteins, receptors, ion channels, and local field potentials. At this level, individual cells—including neurons, glia, and immune cells—act as autonomous “mini-computers” through processes like Cellular Oscillating Tomography and coincidence detection. Sections 2 and 3 describe how molecular and neuronal mechanisms generate local oscillations and demonstrate similar agentic behavior at the cellular level, including aspects of body–brain integration.
-
-The mesoscale examines regional communication and inter-regulation among local ensembles such as cortical columns and thalamic loops, where feedback loops and network connectivity synchronize groups of cells into functional circuits. Sections 4 and 5 explain how these regional assemblies interact and illustrate the interplay among structures like the thalamus, hippocampus, and cortex.
-
-At the macroscale, the focus shifts to global brainwave functions and consciousness, where large-scale rhythms such as alpha, beta, and gamma, along with top-down and bottom-up gating, merge local and regional signals into coherent cognitive states. Sections 6 through 8 explore global oscillatory dynamics, connect these processes to high-dimensional representations and AI analogies, and demonstrate how full-brain synchronization gives rise to conscious experience.
-
-In summary, the paper begins with micro-level processes (Sections 2–3), moves to mesoscale network interactions (Sections 4–5), and culminates in macroscale dynamics (Sections 6–8) that underpin unified consciousness, revealing a continuous agentic system that scales from molecular details to whole-brain cognition.
 
 # Level 1: Cellular Mechanisms (Micro-scale) This level covers cellular mechanisms, including proteins, receptors, local field potentials, and immune cells operating as autonomous agents.
 
@@ -594,7 +594,7 @@ The medial prefrontal cortex is vital for consciousness because it integrates de
 
 During active tasks, gamma activity in the default mode network is often muted by alpha and beta waves that inhibit irrelevant gamma signals, yet brief surges of gamma can inject fresh information when prediction errors require the brain to revise its expectations. Ultimately, when these brain regions and pathways lose their synchronized rhythms, consciousness collapses, underscoring the central role of gamma synchronization and widespread pyramidal cell communication in sustaining the complex networks necessary for conscious awareness.
 
-## 8.9 Explaining the paper
+## 8.9 Conclusion & Future Directions
 This paper presents an extensive and multifaceted exploration of the “Agentic Brain” and its underlying principles, spanning scales from molecular dynamics to whole‐brain networks while drawing insightful parallels with artificial intelligence. The work establishes a framework in which individual cells, proteins, and receptors are viewed as autonomous agents whose oscillatory behaviors and recursive feedback loops form the basis of neural computation. Deterministic oscillatory processes—captured through methodologies such as Cellular Oscillating Tomography (COT) and Neural Array Projection Oscillation Tomography (NAPOT)—demonstrate how neurons encode information via phase, amplitude, and frequency. In this view, cognition, consciousness, and memory are not mysterious emergent properties but arise from precisely coordinated, wave‐based computations that scale continuously from the molecular level to cortical columns.
 
 The paper details how agentic behavior manifests across multiple scales by illustrating how local cellular events aggregate into higher-level neural networks that support functional connectivity and unified perceptual experiences. It delves into mechanisms including coincidence detection, phase wave differentials, and Non-linear Differential Continuous Approximation (NDCA) to explain how neurons, dendrites, and inhibitory interneurons synchronize, regulate information flow, and address the binding problem. Oscillatory rhythms ranging from slow tonic waves to high-frequency phasic bursts are shown to maintain a dynamic equilibrium that underlies both sensory processing and conscious awareness. Furthermore, neural rendering and predictive coding are presented as continuous processes that refine the brain’s internal model of reality, ensuring that local oscillatory events integrate into a coherent global representation.
