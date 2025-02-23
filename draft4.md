@@ -1,4 +1,4 @@
-Draft 4 of my section of the paper
+# Draft 4 of my section of the paper
 
 The Agentic Brain  
 
