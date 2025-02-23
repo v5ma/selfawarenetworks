@@ -49,42 +49,45 @@ More recent published concepts that were added to Self Aware Networks between 20
 5. A Mental Map of the Body & Cells
 6. Neurons to Phase Wave Differentials
 7. Coincidence as Bits of Information
-7. Cellular Oscillating Tomography (COT)
-8. Functional Pattern Connectivity via Neural Array Projection Oscillation Tomography (NAPOT)
-9. BTSP Coincidences and Functional Connectivity Between Columns and Other Brain Regions
-10. The Major & Minor Gaps in Neuroscience: Bridging Molecular Interactions and Brainwaves
-11. The Binding Problem in Neuroscience Addressed
-12. An Addressable Coefficient of Variation: Unique Cellular Fingerprints in Dendritic & Synaptic Computation
-13. The Flow of Information: Neural Arrays to Columns, Matrix Neurons & Cortical Neurons, Inhibitory Interneurons
-14. How the Thalamus Regulates the Prefrontal Cortex
-15. Another Example: Hippocampal Regulation of the Entorhinal Cortex—A General Principle of Agentic Co-Regulation
-16. Functional Connectivity: Phase Synchronization, Inhibitory Interneurons, and Interregional Regulation
-17. Thalamic Loops: A Central Hub in Sensory Relay and Cortical Modulation
-18. The Flow of Information: From Sensory Organs to Layered Cortical Loops
-19. Peter Tse, Phasic and Tonic Brainwaves, and the 1/F Relationship: Neural Rendering Through Phase Wave Differentials
-20. Latent Diffusion Networks as an Analogy for Phasic-Tonic Interactions and Ephaptic Coupling in the Brain
-21. Tomography from Functional Connectivity of Neural Oscillations at All Scales
-22. Mechanisms of Agent Interaction
-23. Quasicrystals and Higher-Dimensional Information in Neural Dynamics
-24. Brainwaves, Top-Down Control, and the Dynamics of Alpha/Beta–Gamma Interactions
-25. Miller’s “Stenciling” and the SAN “Mental Ink & Canvas” Metaphor
-26. Beta and Alpha Waves from Layer 4 Stenciling Gamma Waves in Layers 2/3
-27. Gamma Consideration Sandwich: Integrating Sensory Signals, Top-Down Control, and Proprioception
-28. Networks of the Brain
-29. Vector Embeddings and Semantic Space
-30. Dendritic Representations as Thought Vectors, Tokens, and Patches
-31. Semantic Mapping Across Brains and AI: A Synthesis of Vector Embeddings, fMRI, and Mechanistic Interpretability
-32. Consciousness as a Deterministic Computation
-33. Agentic Dynamics in the Brain and Self-Aware AI: NDCA, Wave Synchronization, and Conscious Computation
-34. The Agentic Brain in Action
-35. Neural Rendering and Predictive Coding
-36. Neural Rendering as the Information of the Mind that Guides Behavior
-37. Inhibitory Interneurons and Choice-Making
-38. Four Trillion Dimensions Computed per Millisecond
-39. Entification to Unite Agents into You!
-40. Consciousness Correlates
+8. Cellular Oscillating Tomography (COT)
+9. Functional Pattern Connectivity via Neural Array Projection Oscillation Tomography (NAPOT)
+10. BTSP Coincidences and Functional Connectivity Between Columns and Other Brain Regions
+11. The Major & Minor Gaps in Neuroscience: Bridging Molecular Interactions and Brainwaves
+12. The Binding Problem in Neuroscience Addressed
+13. An Addressable Co-efficient of Variation: Unique Cellular Fingerprints in Dendritic & Synaptic Computation
+14. The Flow of Information: Neural Arrays to Columns, Matrix Neurons & Cortical Neurons, Inhibitory Interneurons
+15. How the Thalamus Regulates the Prefrontal Cortex
+16. Another Example: Hippocampal Regulation of the Entorhinal Cortex—A General Principle of Agentic Co-Regulation
+17. Functional Connectivity: Phase Synchronization, Inhibitory Interneurons, and Interregional Regulation
+18. Thalamic Loops: A Central Hub in Sensory Relay and Cortical Modulation
+19. The Flow of Information: From Sensory Organs to Layered Cortical Loops
+20. Peter Tse, Phasic and Tonic Brainwaves, and the 1/F Relationship: Neural Rendering Through Phase Wave Differentials
+21. Latent Diffusion Networks as an Analogy for Phasic-Tonic Interactions and Ephaptic Coupling in the Brain
+22. Tomography from Functional Connectivity of Neural Oscillations at All Scales
+23. Mechanisms of Agent Interaction
+24. Quasicrystals and Higher-Dimensional Information in Neural Dynamics
+25. Brainwaves, Top-Down Control, and the Dynamics of Alpha/Beta–Gamma Interactions
+26. Miller’s “Stenciling” and the SAN “Mental Ink & Canvas” Metaphor
+27. Beta and Alpha Waves from Layer 4 Stenciling Gamma Waves in Layers 2/3
+28. Gamma Consideration Sandwich: Integrating Sensory Signals, Top-Down Control, and Proprioception
+29. Networks of the Brain
+30. Vector Embeddings and Semantic Space
+31. Dendritic Representations as Thought Vectors, Tokens, and Patches
+32. Semantic Mapping Across Brains and AI: A Synthesis of Vector Embeddings, fMRI, and Mechanistic Interpretability
+33. Consciousness as a Deterministic Computation
+34. Agentic Dynamics in the Brain and Self-Aware AI: NDCA, Wave Synchronization, and Conscious Computation
+35. The Agentic Brain in Action
+36. Neural Rendering and Predictive Coding
+37. Neural Rendering as the Information of the Mind that Guides Behavior
+38. Inhibitory Interneurons and Choice-Making
+39. Four Trillion Dimensions Computed per Millisecond
+40. Entification to Unite Agents into You!
+41. Consciousness Correlates
+42. Explaining the Paper.
 
-# 1 Intro: The Multiscale View
+# Introduction
+
+## Overview: The Multiscale View
 Intelligence and decision-making extend far beyond the interplay of large-scale neural networks. They emerge from interactions that unfold across multiple scales, beginning at the molecular level—among proteins and receptors—and culminating in the complex dynamics of entire cortical systems. This expanded perspective challenges the traditional assumption that cognition resides solely in higher-order brain structures. Instead, the agentic brain framework posits that each cell functions as an autonomous unit, capable of learning, encoding information, and coordinating with its peers.
 
 Central to this view is the premise that cognitive phenomena, including consciousness, arise from deterministic oscillatory processes rather than from purely irreducible emergent properties. My concept of Cellular Oscillating Tomography (COT) illuminates this principle by detailing how cells process signals, exchange information, adapt, and thus contribute to larger biological functions. Through oscillatory mechanisms, cells encode data according to frequency, amplitude, and phase, rendering them sophisticated information-processing entities in their own right.
@@ -97,7 +100,7 @@ By exploring how these multi-scale agents synchronize, desynchronize, and coordi
 
 In this collaborative paper on Agentic General Intelligence, we trace the development of the Self Aware Networks theory of mind, a synthesis of my 2024 book "Bridging Molecular Mechanisms and Neural Oscillatory Dynamics"—initially presented through a series of Notes on GitHub and YouTube—and in this paper I'm pairing these concepts that I developed from the study of neuroscience, physics, and artificial intelligence with Michael Miller's concept from his book "Building Minds with Patterns" theory of artificial minds, as well as his videos and papers on the same topic. Together, these approaches present a compelling new framework for understanding how intelligence, from the molecular to the cognitive level, can be both mechanistic and richly generative.
 
-# 2 Agentic Behavior Across Scales.
+## 2 Agentic Behavior Across Scales.
 
 Biological agentic behavior occurs across multiple scales, from molecular to cognitive, and each level contributes to overall intelligence through local computations that aggregate into higher-level cognitive functions. This perspective is a departure from traditional models that primarily focus on individual neurons or localized brain regions, and it emphasizes the interconnected nature of proteins, receptors, cells, and entire cortical networks.
 
@@ -109,7 +112,7 @@ Functional connectivity unites disparate regions of the brain, including cortica
 
 The concept of scale is vital to this agentic framework, encompassing molecular, temporal, spatial, and volumetric dimensions. Micah’s New Law of Thermodynamics provides a valuable lens for understanding these processes, positing that systems move toward equilibrium through iterative local interactions that dissipate gradients. The Agentic Brain emerges as a foundational model, illustrating how these biological and mechanistic principles underlie the broader “Agentic Mind.” This multifaceted approach has profound implications for our understanding of consciousness, the development of artificial intelligence, and the treatment of diseases, as it highlights the role of agentic behavior across all biological scales.
 
-# 3 Historical Context: Reviewing Self Aware Networks TOC with Neuroscience Literature
+## 3 Historical Context: Reviewing Self Aware Networks TOC with Neuroscience Literature
 
 To contextualize the Self Aware Networks (SAN) theory within the broader landscape of neuroscience, it is essential to examine the historical roots and key developments that have shaped our understanding of the brain and artificial intelligence. This section reviews the table of contents (TOC) of Self Aware Networks: Theory of Mind alongside significant milestones and concepts in neuroscience, illustrating how SAN builds upon, extends, and integrates existing knowledge.
 
@@ -125,7 +128,7 @@ SAN’s focus on deterministic, multi-scale processes offers a distinctive lens 
 
 In terms of applications, SAN’s potential reach extends from the development of sentient artificial intelligence to sophisticated brain-computer interfaces. By situating SAN within this historical and conceptual context, it becomes clear how the theory integrates neuroscience, physics, and AI to propose a cohesive model of the agentic, deterministic, and multi-scale brain. The framework not only deepens our understanding of how local oscillatory processes scale up into conscious awareness but also presents a compelling foundation for future technological advancements in AI and medicine.
 
-# 4 T-Cells & Neurons
+## 4 T-Cells & Neurons
 
 The interplay between neurons and T-cells constitutes a critical dimension of brain function that extends beyond conventional neuroscience and into the realms of immunology and systemic biology. This relationship underscores the brain’s deep integration with the body’s immune system, illustrating how health and equilibrium depend on continuous communication among cells from various domains, including the central nervous system, the immune system, and the gut.
 
@@ -141,7 +144,7 @@ Clinical implications of these findings are far-reaching. T-cell dysregulation c
 
 Overall, the dynamic relationship between neurons and T-cells reveals a profound layer of complexity in how the brain maintains health and responds to threats. Recognizing the immunological underpinnings of neural function encourages a broader perspective on the brain as an organ that constantly negotiates with the immune system. This insight opens promising avenues for developing innovative therapies aimed at harnessing both neural and immune mechanisms to bolster brain health and treat neurological disorders.
 
-# 5. A Mental Map of the Body & Cells
+## 5. A Mental Map of the Body & Cells
 
 Self Aware Networks (SAN) posits the existence of a global spectral map within the body that unites all cells—including T-cells and neurons—into a cohesive, cooperative system. This map builds on the principles of Neural Array Projection Oscillation Tomography (NAPOT) and Cellular Oscillating Tomography (COT), which describe how information is encoded, broadcast, and received at multiple biological levels. Neurons, in this view, do not merely relay electrical impulses; instead, they harness oscillatory mechanisms to encode data in terms of frequency, amplitude, and phase, thereby functioning as both sensors and transmitters of highly specific phase information. At the same time, COT broadens this principle beyond the nervous system by emphasizing that virtually all cells in the body, including immune cells like T-cells, learn and adapt through similar oscillatory behaviors.
 
@@ -153,7 +156,7 @@ At the molecular level, SAN highlights protein signaling as a key mediator of th
 
 Ultimately, SAN’s global spectral map concept illustrates how T-cells, neurons, and other cellular agents function cooperatively to create a dynamic tapestry of biological intelligence. By integrating NAPOT and COT principles with the adaptive capacities of proteins, SAN provides a powerful framework for understanding how local actions and global coordination jointly shape the body’s continuous pursuit of equilibrium, perception, and purposeful behavior.
 
-# 6. Neurons to Phase Wave Differentials
+## 6. Neurons to Phase Wave Differentials
 
 In Bridging Molecular Mechanisms and Neural Oscillatory Dynamics, the central argument posits that molecular processes serve as the foundation for neural oscillations, which in turn underpin higher-level brain functions such as memory and consciousness. This perspective highlights a natural progression from the subtle interplay of molecules within neurons to the formation of complex, system-wide oscillatory patterns.
 
@@ -167,7 +170,7 @@ Another fundamental concept is deterministic synaptic release, which challenges 
 
 At the core of these discussions lie phase wave differentials, portrayed as the driving force behind the brain’s “3D volumetric television,” which continuously updates our perceptions and memories in real time. Through coordinated oscillatory dynamics, the brain seamlessly transforms molecular events into global wave patterns, resulting in the macroscopic phenomena we recognize as consciousness and higher-order cognition. The book thus provides a robust framework for understanding how molecular, cellular, and network-level processes intersect to shape synchronized neural activity, culminating in the generation of local field potentials and brainwaves that define our subjective experience.
 
-# 7. Coincidence as Bits of Information
+## 7. Coincidence as Bits of Information
 
 Coincidence detection serves as a fundamental mechanism through which cells identify patterns and initiate specific responses in real time. When multiple receptors are activated simultaneously, cells interpret these coincident events as bits of information, enabling them to process environmental signals and execute coordinated actions. This capability underscores the sophisticated nature of cellular function; rather than merely reacting to single inputs, cells integrate a range of signals into a unified action plan that reflects the cell’s internal state and the broader context.
 
@@ -179,7 +182,7 @@ Another essential element of coincidence-based processing lies in dendritic comp
 
 In this framework, coincidence detection emerges as the linchpin of cellular and neural information processing, ensuring that cells learn from and adapt to their surroundings. By transforming coincident events into meaningful bits of data, cells can effectively recognize patterns, store memories, and coordinate activities with remarkable precision. This intricate tapestry of coincidence-based signaling, oscillatory communication, and receptor-based learning highlights the depth and flexibility of biological systems, offering a powerful perspective on how fundamental molecular events shape the higher-order functions of life.
 
-# 7. Cellular Oscillating Tomography (COT)
+## 8. Cellular Oscillating Tomography (COT)
 
 Cellular Oscillating Tomography (COT) is a theoretical framework that describes how cells function as active information processors, communicating, learning, and adapting in real time. Rather than behaving like simple on/off switches, cells exhibit rhythmic or cyclic activity that encodes complex data in terms of frequency, amplitude, and phase. These oscillatory patterns provide a rich repertoire of signals that allow cells to receive, integrate, and transmit information, positioning them as “mini-computers” operating at a microscale.
 
@@ -193,7 +196,7 @@ An additional dimension of COT lies in ATP-based reinforcement learning, which s
 
 Ultimately, COT reveals that cells do far more than passively react to external stimuli. Instead, they act as intelligent agents, processing and interpreting signals through oscillatory cycles that can influence not only their own internal states but also those of neighboring cells. These foundational wave-based mechanisms play a pivotal role in higher-level biological functions, including consciousness, by weaving together local cellular activity into integrated, system-wide dynamics.
 
-# 8. Functional Pattern Connectivity via Neural Array Projection Oscillation Tomography (NAPOT)
+## 9. Functional Pattern Connectivity via Neural Array Projection Oscillation Tomography (NAPOT)
 
 Functional connectivity is a central concept in neuroscience that describes how distinct brain regions communicate and coordinate their activities during both task performance and resting states. In the context of Neural Array Projection Oscillation Tomography (NAPOT), functional connectivity emerges from the interaction of oscillatory patterns across multiple neural arrays. By focusing on how neurons synchronize their frequencies and phases, NAPOT sheds light on the mechanisms by which the brain projects, integrates, and interprets sensory information.
 
@@ -210,7 +213,7 @@ Crucially, NAPOT underscores the integration of sensory information, recognizing
 In essence, NAPOT provides a robust model of how the brain leverages synchronized oscillations, phase wave differentials, and dynamically interacting neural arrays to achieve functional pattern connectivity. This approach clarifies how the timing and synchronization of neural firing underpin complex cognitive functions, from the binding of multiple sensory streams into a single percept to the formation of memories and the experience of conscious awareness. By highlighting the importance of oscillatory dynamics, NAPOT deepens our understanding of how distant regions of the brain communicate and coordinate their activities to support thought, perception, and behavior.
 
 
-# 9. BTSP Coincidences and Functional Connectivity Between Columns and Other Brain Regions
+## 10. BTSP Coincidences and Functional Connectivity Between Columns and Other Brain Regions
 
 Behavior Timescale Synaptic Plasticity (BTSP), when combined with the principle of coincidence detection, offers a valuable framework for understanding how functional connectivity emerges and persists among cortical columns and other brain regions. This process involves oscillatory synchrony, phase wave differentials, and the continual integration of signals across multiple areas of the brain, all of which contribute to the creation of coherent, large-scale patterns of activity.
 
@@ -224,7 +227,7 @@ As these connections form and dissolve based on ongoing demands, multi-scale int
 
 Altogether, BTSP and coincidence detection mechanisms enable functional connectivity by synchronizing neural activity across cortical columns and other brain regions. These mechanisms depend on intricate interactions among phase wave differentials, oscillatory patterns, and feedback loops that allow the brain to unify and coordinate diverse inputs. The end result is a cohesive yet flexible representation of reality that deftly merges signals from numerous areas into a single, continuously updating map of experience.
 
-# 10. The Major & Minor Gaps in Neuroscience: Bridging Molecular Interactions and Brainwaves
+## 11. The Major & Minor Gaps in Neuroscience: Bridging Molecular Interactions and Brainwaves
 
 One of the most pressing challenges in neuroscience is to understand how microscopic molecular events give rise to macroscopic brain activity and, conversely, how such large-scale oscillations feed back into molecular processes. This tension is particularly evident when examining how discrete action potentials merge into continuous oscillatory activity, a transition that often goes under-explained in traditional frameworks. To address these gaps, researchers must revisit fundamental principles such as the All-or-Nothing rule and Synaptic Unreliability, setting them alongside modern insights into multi-vesicular release, phase wave differentials, and agentic perspectives on cellular function.
 
@@ -238,7 +241,7 @@ At the same time, an agentic perspective reorients our view of the brain as a mu
 
 In sum, bridging the major and minor gaps in neuroscience requires a conceptual overhaul that integrates molecular details with large-scale oscillatory dynamics. By re-examining the All-or-Nothing principle and Synaptic Unreliability through the lens of multi-vesicular release and phase wave differentials, we gain a more nuanced understanding of how molecular events and brainwaves inform and modulate one another. This perspective underscores the agentic nature of brain components, highlighting how cells and circuits operate cooperatively to support perception, memory, and the computationally rendered & dissipated phenomenon of consciousness.
 
-# 11. The Binding Problem in Neuroscience Addressed
+## 12. The Binding Problem in Neuroscience Addressed
 
 Phase locking and functional connectivity are key mechanisms that contribute to oscillatory tomographic pattern rendering and help solve the binding problem in neuroscience. The binding problem refers to how the brain integrates diverse features processed in separate areas, such as color, motion, and form, into a unified perception. In this view, neurons synchronize their activity through oscillatory patterns, and this synchronization entails phase locking, which is the process of reducing differences in firing patterns to achieve coherent activity. Phase relationships guide how information is coordinated across different brain regions, thereby enabling volumetric processing and supporting the unification of distinct sensory modalities. Gamma oscillations, in particular, play a central role in unifying distributed networks by promoting the simultaneous alignment of various neuronal groups. This synchronization among neural arrays that process visual, auditory, and tactile information allows the brain to create a unified, three-dimensional experience.
 
@@ -250,7 +253,7 @@ Phase wave differentials are crucial for bringing together perception, memory, a
 
 These oscillatory phenomena and phase relationships collectively address the binding problem by forging unified perceptual and cognitive experiences. Functional connectivity, shaped by these oscillatory dynamics, ensures that neural areas can communicate effectively, allowing their contributions to merge into an internally consistent representation of the external world. This dynamic communication not only explains how the brain achieves coherence in perception but also illustrates how distributed local processes can synchronize to form a singular, integrated consciousness.
 
-# 12. An Addressable Coefficient of Variation: Unique Cellular Fingerprints in Dendritic & Synaptic Computation
+## 13. An Addressable Coefficient of Variation: Unique Cellular Fingerprints in Dendritic & Synaptic Computation
 
 An addressable coefficient of variation (CV) provides a framework for understanding how each cell can “fingerprint” its signals in ways that enable highly coordinated internal computational functions. The CV concept captures the degree of variability in a cell’s activity relative to its average behavior, mathematically expressed as the ratio of the standard deviation to the mean. When applied to neural processes, the CV can reveal how much a neuron’s spiking deviates from the average rhythm of its local network, such as a theta wave. A high CV corresponds to a more variable, less predictable signal, whereas a low CV suggests consistent, rhythmic firing patterns.
 
@@ -262,7 +265,7 @@ These mechanisms of variability and adaptation are not confined to neurons alone
 
 A key consequence of these multifaceted processes is the establishment of distinct “fingerprints” for each cell. Factors such as membrane properties, ion channel distributions, synaptic inputs, and local microenvironment all contribute to tiny frequency differences, ensuring that no two cells ever align perfectly in their oscillatory behavior. This uniqueness is exemplified by place cells in the hippocampus, which each fire at characteristic frequencies in specific spatial locations, and by fibroblasts that show distinct calcium wave oscillations depending on their location and role. Together, these variations across countless cells endow biological systems with a remarkable capacity for distributed computation, memory, and adaptive intelligence. In this light, an addressable coefficient of variation stands as a powerful concept for explaining how each cell’s specialized dynamics reinforce the broader coherence and functionality of the organism’s internal communications network.
 
-# 13. The Flow of Information: Neural Arrays to Columns, Matrix Neurons & Cortical Neurons, Inhibitory Interneurons
+## 14. The Flow of Information: Neural Arrays to Columns, Matrix Neurons & Cortical Neurons, Inhibitory Interneurons
 
 Information processing in the brain unfolds within a hierarchical architecture, beginning with neural arrays and culminating in the complex interplay of cortical columns, matrix neurons, and inhibitory interneurons. The flow of signals through these structures, alongside the modulatory influence of inhibitory circuits, underlies the brain’s capacity for efficient and adaptive computation.
 
@@ -278,13 +281,13 @@ Throughout these levels, agentic principles guide the behavior of cells and stru
 
 In sum, the flow of information from neural arrays to cortical columns is enriched by matrix neurons, cortical neurons, and inhibitory interneurons, all of which collaborate to shape and refine neural pathways. This intricate interplay ensures that the brain can efficiently integrate diverse signals, modulate activity in real time, and sustain a rich substrate for learning, memory, and conscious awareness.
 
-# 14. How the Thalamus Regulates the Prefrontal Cortex
+## 15. How the Thalamus Regulates the Prefrontal Cortex
 
 The thalamus exerts a profound influence on the prefrontal cortex (PFC) by maintaining a dynamic feedback loop, in which it both sends signals to the PFC and adapts its own output based on return input. Mediodorsal (MD) thalamic projections play a particularly significant role in supporting working memory functions within the medial prefrontal cortex (mPFC). During tasks that require sustained attention or cognitive load, these MD inputs enhance prefrontal connectivity and maintain the persistent activity of PFC neurons. This loop is further reinforced by a positive-feedback mechanism between the mPFC and the anteromedial (AM) thalamic nucleus, activating dopaminergic neurons in the midbrain, and thus modulating motivation and reinforcing adaptive behaviors.
 
 Beyond its involvement in working memory and reinforcement learning, the thalamus also acts as a critical relay station for sensory signals. It refines and prioritizes incoming information, filtering stimuli so that only the most pertinent data reaches the cortex. In cortical-thalamic loops, descending pathways from the cortex carry predictive signals, while ascending pathways convey error signals that help recalibrate the brain’s internal models of the environment. Thalamic matrix neurons diffuse these signals over broad cortical territories, synchronizing large-scale cortical activity. Meanwhile, the inhibitory neurons in the thalamic reticular nucleus (TRN) modulate oscillatory rhythms such as alpha, delta, and theta waves, effectively shaping the functional landscape of cortical processing. By selecting which high-level cognitive inputs the PFC should prioritize and monitoring the outcomes of these selections, the thalamus emerges as a pivotal gatekeeper for attention, sensory perception, and executive functions within the brain’s complex circuitry.
 
-# 15. Another Example: Hippocampal Regulation of the Entorhinal Cortex—A General Principle of Agentic Co-Regulation
+## 16. Another Example: Hippocampal Regulation of the Entorhinal Cortex—A General Principle of Agentic Co-Regulation
 
 The relationship between the hippocampus and the entorhinal cortex (EC) illustrates a form of agentic co-regulation that parallels the thalamus–prefrontal cortex (PFC) dynamic. Much like the PFC and thalamus, the hippocampus and EC operate within a broader network framework, sending and receiving signals in a reciprocal manner that supports learning, memory, and spatial navigation. This bidirectional communication emphasizes the distributed nature of cognitive control, highlighting how multiple brain regions can simultaneously exert influence and adjust their operations based on feedback loops.
 
@@ -294,7 +297,7 @@ Such reciprocal regulation aligns with the idea of a cortico-thalamic loop, wher
 
 In essence, hippocampal–entorhinal co-regulation exemplifies how feedback loops serve as a unifying principle for inter-regional coordination. Just as the thalamus and PFC collaborate to maintain working memory and direct attention, the hippocampus and EC engage in similar reciprocal exchanges to organize spatial and mnemonic functions. By recognizing that brain regions function as agents within a dynamic, interconnected system, we can better appreciate how collective, distributed control underpins cognition, learning, and adaptation.
 
-# 16. Functional Connectivity: Phase Synchronization, Inhibitory Interneurons, and Interregional Regulation
+## 17. Functional Connectivity: Phase Synchronization, Inhibitory Interneurons, and Interregional Regulation
 
 Functional connectivity describes the dynamic processes by which various brain regions communicate and coordinate their activities. This connectivity is fluid rather than static, constantly shifting to accommodate changing cognitive demands. Such fluidity enables the brain to integrate information across multiple areas, facilitating adaptive behavior, learning, and decision-making. At the heart of these interactions lie phase synchronization mechanisms, the modulatory activity of inhibitory interneurons, and the complex web of interregional regulation. In this view, neural networks can be seen as collections of semi-autonomous agents—such as neural arrays, edge communities, nuclei, and cortical columns—that collectively shape perception and action.
 
@@ -310,7 +313,7 @@ Neural arrays, edge communities, nuclei, and cortical columns exemplify these ag
 
 In sum, functional connectivity emerges from synchronized oscillatory patterns, the regulatory influence of inhibitory interneurons, and the orchestrated interplay of multiple brain regions functioning as agents. Phase alignment enables efficient information transfer, inhibitory interneurons sculpt the landscape of permissible activity, and interregional loops encourage adaptive responses. The result is a distributed yet integrated system in which each agent—whether a cortical column, subcortical nucleus, or specialized microcircuit—contributes to the brain’s remarkable capacity to learn, remember, and respond fluidly to the ever-changing demands of perception and action.
 
-# 17. Thalamic Loops: A Central Hub in Sensory Relay and Cortical Modulation
+## 18. Thalamic Loops: A Central Hub in Sensory Relay and Cortical Modulation
 
 The thalamus serves as a pivotal hub for relaying sensory information and modulating cortical activity. By connecting with multiple layers of the cortex, it integrates and filters signals from various sensory systems, facilitating coordinated information flow throughout the brain. Within the thalamus, distinct neuron types—including matrix neurons, core neurons, and inhibitory interneurons—each play specialized roles in shaping how signals are processed and distributed.
 
@@ -335,7 +338,7 @@ The extensive reciprocal connections between thalamic nuclei and various cortica
 
 Overall, these thalamic loops highlight the integrative nature of sensory processing, in which the thalamus, cortical columns, and inhibitory interneurons form a dynamic, interactive system. By selectively filtering and directing signals, the thalamus both shapes and is shaped by cortical activity, underscoring its indispensable role in perception, cognition, and the maintenance of consciousness.
 
-# 18. The Flow of Information: From Sensory Organs to Layered Cortical Loops
+## 19. The Flow of Information: From Sensory Organs to Layered Cortical Loops
 
 Sensory processing in the brain begins with specialized organs—such as the eyes, ears, nose, skin, and tongue—that convert physical stimuli into neural signals. For example, photoreceptors in the retina transform light into electrical impulses, while hair cells in the cochlea respond to sound waves by generating neural codes. These signals, often governed by oscillatory dynamics and represented through phase wave differentials, carry crucial information about the intensity, frequency, and other attributes of incoming stimuli.
 
@@ -347,7 +350,7 @@ Crucially, this layered progression is complemented by a series of loops that re
 
 Throughout this hierarchy, the thalamus serves as a pivotal relay station, directing sensory signals to the neocortex and receiving modulatory feedback from cortical layers. These intersecting flows—from the bottom of cortical columns up to the pyramidal cells, from the thalamus to the hippocampus and then back to the cortex—reflect the highly interactive and adaptive nature of sensory processing in the brain. By knitting together ascending sensory data with descending predictive feedback, the brain creates a dynamically updated internal model of reality, allowing for both refined perception and flexible, context-sensitive behavior.
 
-# 19. Peter Tse, Phasic and Tonic Brainwaves, and the 1/F Relationship: Neural Rendering Through Phase Wave Differentials
+## 20. Peter Tse, Phasic and Tonic Brainwaves, and the 1/F Relationship: Neural Rendering Through Phase Wave Differentials
 
 Peter Tse’s work on “criterial causation” emphasizes that synchronized neural signals, taken in isolation, are not inherently meaningful. Instead, neurons rely on phasic firing patterns—transient bursts of activity—that cortical columns can observe and learn over time. Through coincidence detection, individual neurons identify informative coincidences and thereby contribute to the brain’s capacity for interpreting and responding to environmental changes. This interplay of phasic and tonic oscillations forms a critical foundation for consciousness, wherein the brain both predicts incoming stimuli and dynamically revises those predictions.
 
@@ -361,7 +364,7 @@ When phasic bursts interact with inhibitory networks, they also help set the tim
 
 From this perspective, consciousness arises as a continuous weaving of phasic and tonic oscillations, sustained by the interplay of high-frequency perturbations (phasic bursts) and the enduring resonances of lower-frequency activity (tonic waves). These oscillatory interactions grant the brain its capacity to form unified, yet ever-evolving, states of awareness—an internal “3D volumetric television” shaped by precise timing, orchestrated phase relationships, and the careful mediation of excitatory and inhibitory processes.
 
-# 20. Latent Diffusion Networks as an Analogy for Phasic-Tonic Interactions and Ephaptic Coupling in the Brain
+## 21. Latent Diffusion Networks as an Analogy for Phasic-Tonic Interactions and Ephaptic Coupling in the Brain
 
 Latent Diffusion Networks (LDNs) provide a useful lens through which to view the interplay of phasic and tonic brainwaves, illustrating how the brain encodes, perturbs, and reconstructs internal representations. In LDNs, images are compressed into a latent space, gradually obscured by introduced noise, and then denoised to recover the original data. In an analogous process, tonic oscillations in the brain establish a baseline “latent space,” while phasic bursts represent perturbations or “noise” that inject new information into this foundational pattern. Through a continuous denoising process involving synaptic adjustments, ion channel modulation, and the synchronization of neuronal firing, the brain updates its internal model of reality.
 
@@ -371,7 +374,7 @@ Ephaptic coupling offers another critical mechanism by which these phase wave di
 
 By injecting and reconciling perturbations against a tonic background, the brain continuously refines its internal representation of the world. This Latent Diffusion Network analogy underscores how continuous encoding (tonic oscillations), transient disturbance (phasic bursts), and systematic denoising (ephaptic and molecular mechanisms) come together to produce a resilient, adaptive system. Through this cyclical interplay, the brain integrates novel inputs, maintains coherent global states, and fine-tunes predictive models that guide both perception and behavior.
 
-# 21. Tomography from Functional Connectivity of Neural Oscillations at All Scales
+## 22. Tomography from Functional Connectivity of Neural Oscillations at All Scales
 
 Functional connectivity underpins the way different brain regions, including cortical columns, collaborate to form a cohesive internal representation of sensory and cognitive information. Through oscillatory activity and phase relationships, the brain projects, integrates, and interprets incoming signals, bridging molecular interactions with large-scale neural dynamics. Within this framework, Cellular Oscillating Tomography (COT) underscores that cells do not merely passively receive inputs but actively process them, adjusting receptor sensitivities and generating wave states. The entire brain may thus be viewed as an oscillating system that continuously seeks equilibrium, reaching moments of consciousness when external or internal stimuli perturb this baseline.
 
@@ -383,7 +386,7 @@ These phase changes, supported by molecular mechanisms, also create feedback loo
 
 Overall, tomography from functional connectivity reflects the brain’s remarkable ability to integrate distributed activity into coherent representations of reality. As memory and perception converge, phase wave differentials orchestrate neural synchrony at multiple scales, ensuring that the brain can continually refine its internal model through feedback loops grounded in molecular processes. This synergy between oscillatory dynamics and synaptic plasticity lies at the heart of how the brain renders experience, enabling learning, adaptation, and the emergence of conscious awareness.
 
-# 22. Mechanisms of Agent Interaction
+## 23. Mechanisms of Agent Interaction
 
 The brain’s capacity to create a coherent internal representation of the external world arises from a sophisticated process often described as neural rendering. Each sensory organ contributes to this rendering by generating a three-dimensional (3D) plus a representation time in its incoming signals. In practical terms, a sensor array captures a two-dimensional (2D) snapshot at each point in time, and the brain then employs coincidence detection and oscillatory activity to transform these repeated 2D perspectives into an evolving 3D model.
 
@@ -393,7 +396,7 @@ Cortical columns function as semi-autonomous agents within this networked archit
 
 The brain’s remarkable ability to interpret multiple streams of sensory data and maintain a stable, three-dimensional sense of the world rests on this continuous interplay between phasic (transient bursts of activity) and tonic (baseline oscillatory states) signals. By matching incoming sensory information to learned patterns, the brain leverages both local interactions—within individual columns—and global synchrony—among widely distributed regions. This intricate system allows for fluid adjustments to constantly shifting stimuli, ensuring that our internal depiction of reality remains both flexible and highly detailed.
 
-# 23. Quasicrystals and Higher-Dimensional Information in Neural Dynamics
+## 24. Quasicrystals and Higher-Dimensional Information in Neural Dynamics
 
 Quasicrystals offer a compelling example of how ordered, yet aperiodic, structures can embody higher-dimensional information (e.g., 4D, 5D, or 6D) in a lower-dimensional projection. By transcending the constraints of translational symmetry, quasicrystals maintain unique rotational symmetries (like five-fold or ten-fold) and can be mathematically treated as slices of hypercubic lattices in dimensions beyond three. Their intricate tiling patterns, such as Penrose tiling, allow them to encode complex interference effects and serve as physical analogs for multi-dimensional data storage and processing.
 
@@ -409,7 +412,7 @@ The brain’s fractal organization—repetitive structures recurring across scal
 
 Although we are not stating that brain activity is equivalent to quasicrystals, using quasicrystals as an example analogy illustrates how the brain may exhibit very high dimensional patterns with complexity arising that is not bound by simple translational symmetry. The aperiodic but coherent structural concept of a quasicrystal parallels how neural oscillations may collectively produce stable, high-dimensional representations from lower-dimensional signals. By synchronizing phase wave differentials, the brain effectively stitches together a mental “quasicrystal” of experience—an intricate, dynamic tapestry that accommodates sensory fluctuations, learned memories, and predictive inferences with remarkable efficiency.
 
-# 24. Brainwaves, Top-Down Control, and the Dynamics of Alpha/Beta–Gamma Interactions
+## 25. Brainwaves, Top-Down Control, and the Dynamics of Alpha/Beta–Gamma Interactions
 
 Earl K. Miller’s research, supplemented by concepts of alpha/beta wave anti-correlation with gamma waves, offers a comprehensive framework for understanding how the brain balances internal predictive models against incoming sensory information. This balance is mediated by oscillatory dynamics and can be guided by ephaptic coupling, which enables subtle electrical interactions among neurons outside of traditional synaptic pathways. Although ephaptic coupling is not explicitly highlighted in Miller’s studies, its potential influence reinforces the broader theme of intricate brainwave interactions shaping cognitive control.
 
@@ -433,7 +436,7 @@ The idea of a “consideration sandwich” captures the interplay between alpha/
 
 In sum, Earl K. Miller’s research and related discoveries on alpha/beta–gamma interactions underscore a sophisticated network of oscillatory processes, where top-down and bottom-up forces compete and cooperate to guide perception, attention, and decision-making. These oscillatory relationships not only clarify how the brain filters and prioritizes sensory inputs but also illuminate the broader architecture of cognitive control.
 
-# 25 Miller’s “Stenciling” and the SAN “Mental Ink & Canvas” Metaphor
+## 26 Miller’s “Stenciling” and the SAN “Mental Ink & Canvas” Metaphor
 
 Miller’s concept of “stenciling,” wherein beta waves originating from the prefrontal cortex serve as top-down inhibitory influences that shape sensory input, bears a close resemblance to the Self Aware Networks (SAN) framework’s “mental ink and canvas” model, though each emphasizes different facets of a unified process. In Miller’s approach, beta waves function like a stencil, selectively filtering and modulating the raw input provided by bottom-up processes. This ensures efficient cognitive functioning and decision-making by focusing on relevant data and suppressing extraneous signals. By contrast, the SAN model describes how high phasic spikes—chiefly in the gamma frequency range—act as “ink” on the “canvas of consciousness,” contributing the unfiltered core content of sensory experience.
 
@@ -443,7 +446,7 @@ In SAN’s formulation, tonic waves supply the “canvas of consciousness,” pr
 
 By framing both processes as interlocking metaphors, we gain insight into the broader architecture of cognition: top-down modulation (the stencil) provides structure and direction, while bottom-up input (the ink) brings freshness and vitality. Within this interplay, neurons function as agents that receive, process, and pass on signals through feedback loops and phase wave differentials. Each agent updates its internal state in accordance with both external stimuli and intrinsic predictive models, influencing how subsequent signals will be interpreted. As a result, the brain’s oscillatory environment—composed of interacting tonic and phasic rhythms—binds together sensory inputs, higher-level abstractions, and memory traces into a coherent, continuously updating tapestry of experience.
 
-# 26. Beta and Alpha Waves from Layer 4 Stenciling Gamma Waves in Layers 2/3
+## 27. Beta and Alpha Waves from Layer 4 Stenciling Gamma Waves in Layers 2/3
 
 Beta and alpha waves, originating in large part from the fourth cortical layer, exert a top-down influence on gamma waves in layers 2/3 by shaping how sensory information is processed and integrated. This “stenciling” effect manifests through dynamic interactions between higher-order predictive signals (beta and alpha rhythms) and bottom-up perceptual details (gamma oscillations), enabling the brain to prioritize relevant inputs and maintain a coherent representation of the external world.
 
@@ -461,7 +464,7 @@ Layer 4, known for its role in receiving sensory inputs, typically exhibits alph
 
 Overall, this stenciling process enables the cortex to filter extraneous sensory data, amplify relevant cues, and keep higher-level goals aligned with real-time input. Through these reciprocal oscillatory interactions, the brain dynamically negotiates between top-down constraints (beta/alpha) and bottom-up signals (gamma), ensuring the efficient and coherent integration of sensory information into conscious perception.
 
-# 27. Gamma Consideration Sandwich: Integrating Sensory Signals, Top-Down Control, and Proprioception
+## 28. Gamma Consideration Sandwich: Integrating Sensory Signals, Top-Down Control, and Proprioception
 
 The “consideration sandwich” concept illustrates how gamma waves unite multiple streams of information—sensory signals, cognitive processes, and proprioceptive feedback—into a cohesive conscious experience. By coordinating input across different cortical layers and cell types, these oscillations guide the brain toward equilibrium and agentic co-regulation.
 
@@ -475,7 +478,7 @@ From an agentic perspective, each cortical column or subcortical nucleus functio
 
 Phase wave differentials serve as the “currency” that orchestrates adaptation at multiple levels. By aligning local, regional, and global oscillations, these feedback loops promote a fluid interplay among agents rather than vesting control in a single commander. Ultimately, the gamma consideration sandwich showcases how gamma oscillations bind top-down regulation, sensory input, and proprioceptive cues into an elegant system of agentic co-regulation, allowing the brain to maintain equilibrium and generate a cohesive experience of the world.
 
-# 28. Networks of the Brain
+## 29. Networks of the Brain
 
 Olaf Sporns’ Networks of the Brain can be conceptualized as a spectral tomogram that transforms conscious information into internal agentic mechanisms and action. Olaf Sporns’ work in Networks of the Brain provides a robust framework for viewing the brain as a highly interconnected network that can be understood through the lens of a spectral tomogram, in which each part contains information about the whole. Evoking a memory or representation induces an oscillating tomogram that reflects synchronized activity across neural assemblies, and this approach ties directly into concepts of conscious information, internal agentic mechanisms, and eventual behavioral output while also resonating with ongoing research in agentic AI systems.
 
@@ -491,7 +494,7 @@ In layer 5, motor output dominates motor pathways and relies on rhythmic feedbac
 
 The brain operates as an extensive network of oscillatory arrays that collectively handle patterns of sensory, cognitive, and proprioceptive information. Each neuron functions as both a sensor through dendritic input and a transmitter through axonal output, binding local signals into broader phase relationships. Through dynamic oscillation, the brain assembles these localized pictures into a unified view of reality, thereby generating consciousness. According to Self Aware Networks, consciousness emerges from complex oscillatory processes with a Metatron construct—a core structure in biological terms—that integrates information across myriad feedback loops. Agentic AI research can draw inspiration from these biological designs by implementing fractal-like entification in which smaller processing modules coalesce into a coherent and self-aware whole, and mimicking the principles of modular streaming, dynamic oscillatory connectivity, and hierarchical feedback could usher in new paradigms of AI that more closely mirror the adaptive, integrative qualities of the human brain.
 
-# 29. Vector Embeddings and Semantic Space
+## 30. Vector Embeddings and Semantic Space
 
 The notion that dendrites function as analog computational equivalents to vector embeddings offers a powerful way to understand how neurons encode and process information. In this view, each dendrite’s activated synaptic configuration mirrors the inference stage in an artificial intelligence (AI) model, forming a high-dimensional representation of sensory or cognitive inputs. Much as a vector embedding in AI can be visualized as a “Gaussian splat” in multi-dimensional space, a neuron’s dendritic activity captures its learning history and ongoing contextual inputs within the physical morphology of its synapses and dendrites. This architecture encodes spatial and temporal relationships, amplifying or inhibiting incoming signals based on prior experiences.
 
@@ -507,7 +510,7 @@ Moreover, the brain continuously renders these patterns into coherent images of 
 
 Both the analogy of dendrites as high-dimensional vector embeddings and the vision of the brain’s 3D phase topology as tensors in a Taylor series underscore the deeply computational nature of biological cognition. Dendrites and their synapses support a localized yet highly adaptable “inference engine,” while the entire cortex choreographs these local activities into a global, continuously updating tomographic rendering. By integrating these perspectives, one gains a richer appreciation of how the brain’s oscillatory physics, morphological plasticity, and hierarchical connectivity converge to produce memory, perception, and conscious experience. This fusion of analog and digital modes—of local embeddings and global wave dynamics—may ultimately guide novel approaches in AI and deepen our understanding of the biology of thought.
 
-# 30. Dendritic Representations as Thought Vectors, Tokens, and Patches
+## 31. Dendritic Representations as Thought Vectors, Tokens, and Patches
 
 A dendrite’s moment-to-moment activity can be likened to a high-dimensional vector embedding, wherein the synaptic configuration functions much like an inference process in AI. Instead of being defined purely by artificial weights, these configurations originate within the neuron’s biological architecture, which is shaped by layers of synaptic connectivity and temporal dynamics. As the neuron receives inputs, firing at specific phases and frequencies, the dendritic structure integrates these signals and yields a particular “viewpoint” or state that is akin to a “Gaussian splat” in computational terms.
 
@@ -527,7 +530,7 @@ Next, the text bridges semantic spaces and neural embeddings. At any instant, a 
 
 Ultimately, a thought vector, token, or patch arises from these coordinated dendritic processes, scaling outward to recruit complex, interlaced networks. This hierarchical arrangement, which ranges from single-neuron dendritic embeddings to distributed semantic maps, underscores how the brain’s high-dimensional, phase-encoded activities give rise to the fluid, richly contextual experiences that we identify as cognition, perception, and conscious thought.
 
-# 31. Semantic Mapping Across Brains and AI: A Synthesis of Vector Embeddings, fMRI, and Mechanistic Interpretability
+## 32. Semantic Mapping Across Brains and AI: A Synthesis of Vector Embeddings, fMRI, and Mechanistic Interpretability
 
 The comparison between semantic mapping in neural networks and in the human brain offers insight into how both biological and artificial systems encode, organize, and access semantic information. Through fMRI techniques, most notably in Jack Gallant’s lab, and through cutting-edge AI models advanced by research groups like Anthropic, we can observe parallel structures in which related concepts cluster together in high-dimensional spaces. At the same time, mechanistic interpretability efforts such as “Golden Gate Claude” strive to make sense of these internal representational schemes by dissecting and visualizing how meaning is formed and stored at different scales.
 
@@ -543,7 +546,7 @@ The interplay between semantic mapping in neuroscience and AI underpins potentia
 
 In sum, analyzing semantic relationships in both AI embeddings and brain activity (fMRI) reveals structural parallels that point to fundamental principles of how complex systems encode and interpret meaning. Whether labeled as “tokens,” “vectors,” or “patches,” these representations reflect high-dimensional mappings that connect related concepts and ultimately guide cognition and language. Through ongoing work, such as Anthropic’s mechanistic interpretability and Gallant’s neural decoding, scientists and engineers can forge AI architectures that mirror the flexible, multi-layered nature of human thought.
 
-# 32. Consciousness as a Deterministic Computation
+## 33. Consciousness as a Deterministic Computation
 
 We presents the idea that consciousness is physically governed by information processed, learned, and generated with a wave-based & molecular computation rather than being an elusive emergent phenomenon. Its essence arises from orchestrated interactions of localized oscillatory activities spread throughout neural circuits. As these oscillations align or desynchronize, a stable yet dynamic “fabric” of conscious experience takes shape. This view underscores that awareness is fundamentally mechanical—driven by neural timing and alignment within strict biochemical and biophysical limits.
 
@@ -567,7 +570,7 @@ These oscillatory dynamics prune superfluous connections through destructive int
 
 These principles illustrate that what appears to be randomness or chance in neural processing is the byproduct of multi-factor deterministic influences interacting at scales from subcellular molecules to large-scale cortical assemblies. This complex wave architecture, characterized by fractal scaling and iterative feedback, underlies both the formation of stable memories and the real-time interpretation of sensory input, culminating in the fluid yet mechanical emergence of cognition and consciousness.
 
-# 33. Agentic Dynamics in the Brain and Self-Aware AI: NDCA, Wave Synchronization, and Conscious Computation
+## 34. Agentic Dynamics in the Brain and Self-Aware AI: NDCA, Wave Synchronization, and Conscious Computation
 
 Agentic dynamics in the brain can be understood through the lens of the Nonlinear Differential Continuous Approximation (NDCA), which captures how non-linear interactions at multiple fractal scales—ranging from synaptic mechanisms to entire cortical columns—collectively generate the phase wave differentials that orchestrate perception, memory, and consciousness. By viewing the brain as a hierarchy of agent-like processes that rely on wave-based synchronization, we gain a framework for developing artificial intelligence systems with self-aware and sentient capabilities, which is a central aim of the Self Aware Networks (SAN) theory.
 
@@ -591,7 +594,7 @@ SAN underscores key processes for building self-aware minds, which include conti
 
 In conclusion, agentic dynamics in the brain, underpinned by NDCA and reflected in oscillatory synchronization, offer a roadmap for designing AI systems that aspire to genuine self-awareness and sentience. The Self Aware Networks theory highlights how recursive feedback loops, phase wave differentials, and fractal organization converge to produce a deterministic yet richly complex form of cognition, and by importing these principles into artificial architectures where observation, coordination, reflection, and consolidation drive continuous adaptation, researchers can harness the mechanical underpinnings of consciousness to build increasingly sophisticated and potentially sentient AI.
 
-# 34. The Agentic Brain in Action
+## 35. The Agentic Brain in Action
 
 The Agentic Brain can be viewed as an intricate, multi-scale system in which every element, from proteins and receptors to entire cortical columns, acts as an agent contributing to the whole. Through continual interaction and feedback, these agents cooperate, compete, and ultimately generate experiential properties like perception, learning, and consciousness. By illuminating this distributed, dynamic process, we see how the "Agentic Brain" underpins and complements the more abstract notion of the "Agentic Mind."
 
@@ -613,7 +616,7 @@ The agentic framework offers a potential roadmap for building artificial systems
 
 At every level, the brain processes and transmits information through continuous, non-linear changes captured by Nonlinear Differential Continuous Approximation (NDCA). This approach underlies how local variations in phase or amplitude propagate, summing into the orchestrated patterns that define both memory and awareness.
 
-# 35. Neural Rendering and Predictive Coding
+## 36. Neural Rendering and Predictive Coding
 
 Neural rendering updates the traditional predictive coding framework by proposing that the brain is not merely transmitting prediction errors but actively enriching its internal models with new features.
 
@@ -625,13 +628,13 @@ Gamma oscillations can be viewed as the fundamental canvas of consciousness with
 
 Taken together, this revised predictive coding framework underscores that the brain is more than a passive error-correction device. It is also an active rendering engine that assembles rich sensory details, orchestrates oscillatory states, and dissipates phase differences in pursuit of coherent experience. Rather than simply minimizing error, the brain artistically composes each moment of awareness by combining precise high-frequency signals, broader low-frequency integrators, and the tonic baseline’s latent diffusion, all of which come together to shape an ever-evolving internal model of reality.
 
-# 36. Neural Rendering as the Information of the Mind that Guides Behavior.
+## 37. Neural Rendering as the Information of the Mind that Guides Behavior.
 
 Neural rendering, as described by Neural Array Projection Oscillation Tomography, constructs internal representations of reality that directly guide behavior. This process uses phase wave differentials, which are shifts in neural oscillation patterns that transmit information and shape conscious experience. Neural arrays receive and project these representations in a dynamic cycle, ensuring that each cortical layer updates its internal model of the external world. Simultaneously, proprioception is incorporated through what has been called the “Gamma Consideration Sandwich,” where high-frequency gamma waves integrate new sensory data, top-down decisions carried by beta waves, and bodily feedback processed through parvalbumin-positive interneurons in layer five. This feedback loop enables the brain to align motor output with actual muscle position and force, refining action and preserving an embodied sense of self.
 
 When the brain devotes substantial resources to pursuing specific goals or maintaining certain ideas, beta-band activity gains prominence and suppresses incoming signals. However, when new or salient inputs demand revisions to these templates, surges of gamma waves override beta rhythms, shifting attention toward the unexpected information. If muscle tension or limb position does not match the predicted state, these mismatch signals perturb local gamma patterns, prompting recalibration in motor commands or in the underlying internal model. This mechanism ensures that the 3D neural images constructed by neural rendering are continually tested against real-world constraints, allowing the organism to navigate its environment effectively and learn from each moment. By merging neural rendering with the proprioceptive framework of the Gamma Consideration Sandwich, the brain orchestrates coherent, adaptive behavior grounded in a unified perception of both internal goals and external realities.
 
-# 37. Inhibitory Interneurons and Choice-Making
+## 38. Inhibitory Interneurons and Choice-Making
 
 Inhibitory interneurons play a pivotal role in the brain’s decision-making processes by filtering, modulating, and coordinating neural activity. These GABAergic cells help strike a balance between excitatory and inhibitory signals, shaping whether specific pathways will be blocked or reinforced. By controlling such activity at the synaptic, circuit, and large-scale network levels, inhibitory interneurons enable coherent decision-making, as well as the suppression of irrelevant or distracting inputs.
 
@@ -643,7 +646,7 @@ Oscillatory activity further underpins these choice-related dynamics by regulati
 
 From this perspective, the sense of agency arises not from a metaphysical freedom but from a continuous updating of threshold-based decisions within a fractal hierarchy of interacting agents. Genes and memes shape the framework of these interactions, while sensory inputs and learning experiences fine-tune the synaptic states that drive behavior. Conscious choice, then, emerges at the intersection of local criteria detection and large-scale oscillatory coherence, with inhibitory interneurons orchestrating which signals prevail. By recalibrating neural thresholds, modulating functional connectivity, and aligning global wave patterns, the brain fine-tunes its internal maps and improves outcomes in successive cycles of perception, memory, and action.
 
-# 38. Four trillion dimensions computed per millisecond.
+## 39. Four trillion dimensions computed per millisecond.
 
 Tempo-spatial traveling waves, known as phase wave differentials, form the scaffolding of neural patterns and representations in the brain. These waves manifest as dynamic manifolds in cortical columns, shaping computational renderings that extend beyond simple three-dimensional sensory representations. Neural array projection oscillation tomography proposes that the selective phase changes in synapses, along with structural changes to dendrites, allow neurons to filter and respond to specific stimuli over time. Cortical columns communicate through compressed signals embedded in these traveling waves, enabling them to share high-dimensional information without saturating the overall network.
 
@@ -657,7 +660,7 @@ Fractal and hierarchical structures further expand these capacities. The brain s
 
 Extrapolations suggesting that the brain may represent trillions of dimensions of information per millisecond underscore the immense parallelism of its architecture. Although the precise figures remain speculative, the fundamental takeaway is that neurons, dendrites, and synapses, each operating with multiple possible frequency states, create a combinatorial richness that supports elaborate, real-time computations. Phase wave differentials and oscillatory synchronization together illustrate how the brain might maintain and manipulate multidimensional, continuously updating patterns of representation.
 
-# 39. Entification to unite Agents into You!
+## 40. Entification to unite Agents into You!
 
 Entification describes how multiple interdependent agents at different scales synchronize their activity to form a single, unified entity. This unification relies on oscillatory synchrony, where each agent aligns its rhythmic patterns in order to generate coherent, large-scale behavior. In the brain, this process stretches from microscopic molecular events up to entire networks of cortical regions, all of which operate as agents that process information, respond to inputs, and adapt their behavior accordingly. Consciousness and coordinated action emerge when these smaller agents “entify,” coalescing into more complex structures that collectively guide perception, decision-making, and movement.
 
@@ -667,7 +670,7 @@ When viewed from the perspective of neural network arrays, cortical columns, and
 
 Ultimately, the brain exemplifies a self-organizing ecosystem in which entification binds together myriad mini-conductors, rather than relying on a single conductor to dictate all activity. Small, differential adjustments from each component contribute to a collective and harmonized image of consciousness, unified by reciprocal communication, oscillatory synchrony, and computed properties. In this way, entification offers a framework for understanding how consciousness, memory, and behavior arise naturally from countless distributed interactions, illustrating that the whole brain’s interdependent agents merge into one cohesive agent capable of complex perception and purposeful action.
 
-# 40. Consciousness Correlates
+## 41. Consciousness Correlates
 
 When an animal loses consciousness, the medial prefrontal cortex, the hippocampus, and the thalamus are among the last brain regions to exhibit transient shifts in activity. At the same time, pyramidal cells across the cortex cease their usual communication patterns, indicating that robust cross-brain traffic is essential for maintaining consciousness. This traffic, which is often facilitated by gamma waves, appears critical for coordinating the signals necessary for awake, coherent experience.
 
@@ -683,7 +686,7 @@ The cessation of pyramidal cell communication further illustrates how essential 
 
 When these brain areas and pathways lose their synchronized rhythms, consciousness breaks down. During active tasks, gamma in the default mode network is often muted, while alpha and beta waves can guard ongoing computations by inhibiting irrelevant gamma signals. At the same time, brief surges of gamma can inject fresh information when prediction errors require the brain to revise its expectations. These findings highlight the significance of coordinated activity in the medial prefrontal cortex, thalamus, hippocampus, and pyramidal cells, with gamma wave synchronization playing a central part in sustaining the intricate communication networks necessary for consciousness.
 
-# Explaining the paper
+## 42. Explaining the paper
 
 This paper presents an extensive and multifaceted exploration of the “Agentic Brain” and its underlying principles, spanning molecular dynamics to whole-brain networks and even drawing parallels with artificial intelligence. We began by establishing a framework in which individual cells, proteins, and receptors are viewed as autonomous agents whose oscillatory behaviors and feedback loops form the basis for neural computation. I explained how deterministic oscillatory processes—captured through concepts such as Cellular Oscillating Tomography and Neural Array Projection Oscillation Tomography—allow neurons to encode information via phase, amplitude, and frequency. This foundational idea is used to argue that cognition, consciousness, and memory are not emergent phenomena but instead arise from precise mechanical interactions and wave-based computations that scale from the molecular level to cortical columns.
 
