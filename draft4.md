@@ -41,78 +41,78 @@ More recent published concepts that were added to Self Aware Networks between 20
 
 # Table of Contents
 
-1. Introduction & Foundational Framework
+# 1. Introduction & Foundational Framework
 
-1.1. Multiscale Intelligence and the Agentic Brain
-1.2. Agentic Behavior Across Scales
-1.3. The Three-Level View: Micro, Meso, and Macro
-1.4. Historical Context of Self Aware Networks
+## 1.1. Multiscale Intelligence and the Agentic Brain
+## 1.2. Agentic Behavior Across Scales
+## 1.3. The Three-Level View: Micro, Meso, and Macro
+## 1.4. Historical Context of Self Aware Networks
 
-Level 1: Cellular Mechanisms (Micro-scale)
+# Level 1: Cellular Mechanisms (Micro-scale)
 
-2. Molecular and Neuronal Mechanisms
+# 2. Molecular and Neuronal Mechanisms
 
-2.1. Neurons to Phase Wave Differentials
-2.2. Coincidence as Bits of Information
-2.3. Cellular Oscillating Tomography (COT)
-2.4. Addressable Coefficient of Variation: Cellular Fingerprints in Computation
+## 2.1. Neurons to Phase Wave Differentials
+## 2.2. Coincidence as Bits of Information
+## 2.3. Cellular Oscillating Tomography (COT)
+## 2.4. Addressable Coefficient of Variation: Cellular Fingerprints in Computation
 
-3. Immune Integration and Global Cellular Coordination
+# 3. Immune Integration and Global Cellular Coordination
 
-3.1. T-Cells & Neurons: An Integrated Communication Network
-3.2. Global Spectral Map of the Body & Cells
+## 3.1. T-Cells & Neurons: An Integrated Communication Network
+## 3.2. Global Spectral Map of the Body & Cells
 
-Level 2: Regional Communication and Inter-Regulation (Mesoscale)
+# Level 2: Regional Communication and Inter-Regulation (Mesoscale)
 
-4. Functional Connectivity and Network-Level Dynamics
+# 4. Functional Connectivity and Network-Level Dynamics
 
-4.1. Functional Pattern Connectivity via NAPOT
-4.2. BTSP, Coincidence Detection, and Functional Connectivity
-4.3. Bridging Molecular Interactions and Brainwaves
-4.4. Addressing the Binding Problem through Oscillatory Dynamics
-4.5. The Flow of Information: Neural Arrays to Columns, Matrix Neurons & Cortical Neurons, Inhibitory Interneurons
-4.6. Functional Connectivity: Phase Synchronization, Inhibitory Interneurons, and Interregional Regulation
-4.7. Tomography from Functional Connectivity of Neural Oscillations at All Scales
-4.8. Mechanisms of Agent Interaction
+## 4.1. Functional Pattern Connectivity via NAPOT
+## 4.2. BTSP, Coincidence Detection, and Functional Connectivity
+## 4.3. Bridging Molecular Interactions and Brainwaves
+## 4.4. Addressing the Binding Problem through Oscillatory Dynamics
+## 4.5. The Flow of Information: Neural Arrays to Columns, Matrix Neurons & Cortical Neurons, Inhibitory Interneurons
+## 4.6. Functional Connectivity: Phase Synchronization, Inhibitory Interneurons, and Interregional Regulation
+## 4.7. Tomography from Functional Connectivity of Neural Oscillations at All Scales
+## 4.8. Mechanisms of Agent Interaction
 
-5. Thalamic and Cortical Interplay
+# 5. Thalamic and Cortical Interplay
 
-5.1. How the Thalamus Regulates the Prefrontal Cortex
-5.2. Hippocampal–Entorhinal Agentic Co-Regulation
-5.3. Thalamic Loops: A Central Hub in Sensory Relay and Cortical Modulation
-5.4. The Flow of Information: From Sensory Organs to Layered Cortical Loops
+## 5.1. How the Thalamus Regulates the Prefrontal Cortex
+## 5.2. Hippocampal–Entorhinal Agentic Co-Regulation
+## 5.3. Thalamic Loops: A Central Hub in Sensory Relay and Cortical Modulation
+## 5.4. The Flow of Information: From Sensory Organs to Layered Cortical Loops
 
-Level 3: Global Brainwave Functions and Consciousness (Macroscale)
+# Level 3: Global Brainwave Functions and Consciousness (Macroscale)
 
-6. Oscillatory Dynamics and Cognitive Control
+# 6. Oscillatory Dynamics and Cognitive Control
 
-6.1. Peter Tse, Phasic and Tonic Brainwaves, and the 1/F Relationship: Neural Rendering Through Phase Wave Differentials
-6.2. Brainwaves, Top-Down Control, and the Dynamics of Alpha/Beta–Gamma Interactions
-6.3. Miller’s “Stenciling” and the SAN “Mental Ink & Canvas” Metaphor
-6.4. Beta and Alpha Waves from Layer 4 Stenciling Gamma Waves in Layers 2/3
-6.5. Gamma Consideration Sandwich: Integrating Sensory Signals, Top-Down Control, and Proprioception
-6.6. Inhibitory Interneurons and Choice-Making
+## 6.1. Peter Tse, Phasic and Tonic Brainwaves, and the 1/F Relationship: Neural Rendering Through Phase Wave Differentials
+## 6.2. Brainwaves, Top-Down Control, and the Dynamics of Alpha/Beta–Gamma Interactions
+## 6.3. Miller’s “Stenciling” and the SAN “Mental Ink & Canvas” Metaphor
+## 6.4. Beta and Alpha Waves from Layer 4 Stenciling Gamma Waves in Layers 2/3
+## 6.5. Gamma Consideration Sandwich: Integrating Sensory Signals, Top-Down Control, and Proprioception
+## 6.6. Inhibitory Interneurons and Choice-Making
 
-7. Higher-Dimensional Representations and AI Analogies
+# 7. Higher-Dimensional Representations and AI Analogies
 
-7.1. Latent Diffusion Networks as an Analogy for Phasic-Tonic Interactions and Ephaptic Coupling in the Brain
-7.2. Quasicrystals and Higher-Dimensional Information in Neural Dynamics
-7.3. Networks of the Brain
-7.4. Vector Embeddings and Semantic Space
-7.5. Dendritic Representations as Thought Vectors, Tokens, and Patches
-7.6. Semantic Mapping Across Brains and AI: A Synthesis of Vector Embeddings, fMRI, and Mechanistic Interpretability
+## 7.1. Latent Diffusion Networks as an Analogy for Phasic-Tonic Interactions and Ephaptic Coupling in the Brain
+## 7.2. Quasicrystals and Higher-Dimensional Information in Neural Dynamics
+## 7.3. Networks of the Brain
+## 7.4. Vector Embeddings and Semantic Space
+## 7.5. Dendritic Representations as Thought Vectors, Tokens, and Patches
+## 7.6. Semantic Mapping Across Brains and AI: A Synthesis of Vector Embeddings, fMRI, and Mechanistic Interpretability
 
-8. Deterministic Consciousness, Agentic Dynamics, and Neural Rendering
+# 8. Deterministic Consciousness, Agentic Dynamics, and Neural Rendering
 
-8.1. Consciousness as a Deterministic Computation
-8.2. Agentic Dynamics in the Brain and Self-Aware AI: NDCA, Wave Synchronization, and Conscious Computation
-8.3. The Agentic Brain in Action
-8.4. Neural Rendering and Predictive Coding
-8.5. Neural Rendering as the Information of the Mind that Guides Behavior
-8.6. Four trillion dimensions computed per millisecond.
-8.7. Entification to unite Agents into You!
-8.8. Consciousness Correlates
-8.9. Explaining the paper
+## 8.1. Consciousness as a Deterministic Computation
+## 8.2. Agentic Dynamics in the Brain and Self-Aware AI: NDCA, Wave Synchronization, and Conscious Computation
+## 8.3. The Agentic Brain in Action
+## 8.4. Neural Rendering and Predictive Coding
+## 8.5. Neural Rendering as the Information of the Mind that Guides Behavior
+## 8.6. Four trillion dimensions computed per millisecond.
+## 8.7. Entification to unite Agents into You!
+## 8.8. Consciousness Correlates
+## 8.9. Explaining the paper
 
 # 1. Introduction & Foundational Framework
 
