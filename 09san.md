@@ -53,14 +53,30 @@ The generation and timing of these crucial oscillatory events are dependent on s
 -   **Thalamocortical Loops:** These loops are essential for maintaining consciousness and generating brain rhythms. The SAN book description refers to "synchronized oscillatory feedback loops" being fundamental for constructing internal representations. These loops could provide recurrent activity to sustain tonic low-frequency waves and contribute to gating high-frequency phasic bursts.
 -   **Inhibitory Interneurons:** These are critical for generating gamma oscillations, regulating temporal precision, and synchronizing neural ensembles. They are essential for shaping the timing and coherence of phasic and tonic waves.
 
-**Table 1: Proposed Neural Correlates for "Screen" Timing in SAN/NAPOT (Revised)**
+-   **Correlate:** Phasic High-Frequency Waves / Render Changes\
+    **Proposed Mechanism:** Discrete rendering events carrying perceptual details; changes from baseline tonic oscillation.\
+    **Key Oscillatory Bands / Features:** High-frequency (e.g., Gamma); Phase Wave Differentials.\
+    **Relevant SAN Concepts & Terms:** NAPOT, Oscillatory Physics, Entification, Render Change.
 
-| Correlate (SAN/NAPOT Terminology & User Input) | Proposed Mechanism in SAN/NAPOT & User Input | Key Oscillatory Bands/Features Involved | Relevant SAN Concepts & User Input Terms |
-| Phasic High-Frequency Waves / Render Changes | Discrete rendering events carrying perceptual details; changes from baseline tonic oscillation. | "High frequency" (e.g., Gamma ); Phase Wave Differentials²⁴. | NAPOT , Oscillatory Physics , Entification , Render Change¹⁰. |
-| Tonic Low-Frequency Waves ("Canvas of Consciousness") | Modulatory substrate; baseline steady state; "ground of being". | "Low frequency" (e.g., Alpha / Theta ); High magnitude tonic oscillation¹². | NAPOT , Ground of Being , Canvas of Consciousness¹², Entification. |
-| Phase Wave Differentials / Phase Variances / Brainwave Synchrony | Units of neural rendering²⁴; defining moments of screen instantiation; encoding information through relative timing. | Specific phase relationships; synchronization between regions²⁴. | NAPOT , Oscillatory Physics , Phase Wave Differentials²⁴, Brainwave Synchrony²⁴. |
-| Temporally Active Loop / Rendering Speed | Continuous, rapid updating of the screen. | High-speed rendering³⁰; temporally active loop²⁸. | NAPOT , Computational Rendering. |
-| Dominant Phase Wave Differential Rhythms (DPWDR) | Conscious experience arises when phase wave differentials become dominant and persist²⁰. | Persistent spatial/temporal rhythms. | DPWDR²⁰, Entification. |
+    -   **Correlate:** Tonic Low-Frequency Waves ("Canvas of Consciousness")\
+    **Proposed Mechanism:** Modulatory substrate; baseline steady state; "ground of being."\
+    **Key Oscillatory Bands / Features:** Low-frequency (e.g., Alpha/Theta); high-magnitude tonic oscillation.\
+    **Relevant SAN Concepts & Terms:** NAPOT, Ground of Being, Canvas of Consciousness, Entification.
+
+    -   **Correlate:** Phase Wave Differentials / Phase Variances / Brainwave Synchrony\
+    **Proposed Mechanism:** Units of neural rendering; defining moments of screen instantiation; encoding information through relative timing.\
+    **Key Oscillatory Bands / Features:** Specific phase relationships; synchronization between regions.\
+    **Relevant SAN Concepts & Terms:** NAPOT, Oscillatory Physics, Phase Wave Differentials, Brainwave Synchrony.
+
+    -   **Correlate:** Temporally Active Loop / Rendering Speed\
+    **Proposed Mechanism:** Continuous, rapid updating of the screen.\
+    **Key Oscillatory Bands / Features:** High-speed rendering; temporally active loop.\
+    **Relevant SAN Concepts & Terms:** NAPOT, Computational Rendering.
+
+    -   **Correlate:** Dominant Phase Wave Differential Rhythms (DPWDR)\
+    **Proposed Mechanism:** Conscious experience arises when phase wave differentials become dominant and persist.\
+    **Key Oscillatory Bands / Features:** Persistent spatial/temporal rhythms.\
+    **Relevant SAN Concepts & Terms:** DPWDR, Entification.
 
 Section 3: Encoding "Screen" Shape: Oscillatory Tomography, Phase Fields, and Sparse Representations in SAN/NAPOT
 -----------------------------------------------------------------------------------------------------------------
@@ -83,16 +99,40 @@ Patterns in the brain are described as virtual, potentially representable by dif
 
 Dominant phase wave differential rhythms (DPWDR) persist spatially and temporally, becoming like persistent objects, which is key to the brain rendering consciousness²⁰. This persistence allows complex shapes to be stabilized and perceived. Non-linear Differential Continuous Approximation (NDCA) explains "how the brain makes meaningful distinctions from 3D sensory representations, manifest as manifolds in cortical column brain activity, which can also be referred to as computational renderings in neural arrays computed via the cross sections of unified attractor states via oscillatory physics, binding together neural coincidence detections (predictive coding)". NDCA is the computational framework that translates these dynamic oscillatory patterns, including the persistent DPWDRs, into the perceived shape with its specific properties. The resolution or granularity of this rendering relates to patterns in the brain at the neuron and perceptron level, and network complexity⁸.
 
-**Table 2: Proposed Mechanisms for "Screen" Shape Encoding in SAN/NAPOT (Revised)**
+-   **Mechanism:** Oscillatory Tomography / Traveling Wave Differentials\
+    **Proposed Process:** Construction of 3D + time sensory rendering using wave differentials as tomographic cross-sections.\
+    **Key Computational Principles:** Tomographic reconstruction; wave interference.\
+    **Role in Encoding:** Builds a volumetric 3D model of shapes and their spatial properties.
 
-| Mechanism (SAN/NAPOT Terminology & User Input) | Proposed Process in SAN/NAPOT & User Input | Key Computational Principles | Role in Encoding (Orientation, Scale, Location, Complexity) |
-| Oscillatory Tomography / Traveling Wave Differentials | Construction of 3D+time sensory rendering using wave differentials as tomographic cross-sections¹⁵, ²³. | Tomographic reconstruction; wave interference. | Builds volumetric 3D model of shapes and their spatial properties. |
-| 3D Rendered Phase Field / Phase Patterns | Mind as a 3D grid pattern of frequencies; qualia as patterns in phase changes of this field¹⁴, ⁴². | Phase-based information encoding; field dynamics. | Encodes complex geometries, orientation, scale, location via specific phase configurations. |
-| Sparse Distributed Representations (SDRs) | Neural arrays perform sparse distributed memory-prediction-rendering¹⁹. | Sparse coding principles ; combinatorial coding. | Efficiently represents diverse features (edges, textures) at specific orientations, scales, locations; synchronous activation defines composite shape. |
-| Memory Encoding (Phase Variations) | Memories encoded as phase variations with temporal, spatial, scale invariance; scaling to conscious memories via oscillatory waves⁴³. | Associative memory; invariant representations. | Stores and retrieves shape information robustly across transformations. |
-| Pattern Dimensionality & Neuronal Projection | Patterns gain dimensionality when activated/transmitted; neurons project phase patterns to arrays¹⁴. | Projection; transformation of information. | Allows complex 3D shapes to unfold from underlying patterns. |
-| Dominant Phase Wave Differential Rhythms (DPWDR) | Persistent DPWDRs become like stable objects, key to rendering consciousness²⁰. | Attractor-like dynamics; pattern stabilization. | Stabilizes complex shape percepts over time, allowing for recognition and interaction. |
-| NDCA Computation | Making meaningful distinctions from 3D sensory representations; computational renderings via cross-sections of unified attractor states, binding neural coincidence detections (predictive coding). | Manifold learning; predictive inference. | Extracts and represents specific shape properties from high-dimensional oscillatory/attractor manifolds. |
+    -   **Mechanism:** 3D Rendered Phase Field / Phase Patterns\
+    **Proposed Process:** Representation of mind as a 3D grid of frequencies, with qualia arising from phase-change patterns in this field.\
+    **Key Computational Principles:** Phase-based information encoding; dynamic field interactions.\
+    **Role in Encoding:** Encodes complex geometries---orientation, scale, location---through specific phase configurations.
+
+    -   **Mechanism:** Sparse Distributed Representations (SDRs)\
+    **Proposed Process:** Neural arrays implement sparse distributed memory-prediction-rendering.\
+    **Key Computational Principles:** Sparse coding; combinatorial feature coding.\
+    **Role in Encoding:** Efficiently represents features (edges, textures) at particular orientations, scales, and locations; synchronous activation yields composite shapes.
+
+    -   **Mechanism:** Memory Encoding (Phase Variations)\
+    **Proposed Process:** Shape memories stored as phase-variation patterns with temporal, spatial, and scale invariance, then scaled into conscious recall via oscillatory waves.\
+    **Key Computational Principles:** Associative memory; invariant representation.\
+    **Role in Encoding:** Robust storage and retrieval of shape information across transformations.
+
+    -   **Mechanism:** Pattern Dimensionality & Neuronal Projection\
+    **Proposed Process:** Activation or transmission elevates pattern dimensionality; neurons project phase patterns onto downstream arrays.\
+    **Key Computational Principles:** Projection and transformation of information.\
+    **Role in Encoding:** Enables complex 3D shapes to unfold from fundamental pattern representations.
+
+    -   **Mechanism:** Dominant Phase Wave Differential Rhythms (DPWDR)\
+    **Proposed Process:** Persistent DPWDRs act as stable attractor states crucial for conscious rendering.\
+    **Key Computational Principles:** Attractor-like dynamics; pattern stabilization.\
+    **Role in Encoding:** Stabilizes complex shape percepts over time, supporting recognition and interaction.
+
+    -   **Mechanism:** NDCA Computation\
+    **Proposed Process:** Distinguishing meaningful features from 3D sensory data via cross-sections of unified attractor manifolds and binding through predictive-coding coincidence detection.\
+    **Key Computational Principles:** Manifold learning; predictive inference.\
+    **Role in Encoding:** Extracts and represents specific shape properties from high-dimensional oscillatory or attractor structures.
 
 Section 4: Synthesis: Integrating Timing and Shape Encoding within the Unified SAN Framework
 --------------------------------------------------------------------------------------------
