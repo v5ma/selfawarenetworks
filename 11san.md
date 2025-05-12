@@ -41,14 +41,14 @@ Based on the sources and our discussion, here's how those points are addressed w
     ◦ The concept of scale-invariant vector patterns for features like edges suggests that basic components of shapes are encoded in a way that can be recognized regardless of their size, and these can be linked to other vector tokens representing properties like size, depth, and color. This would facilitate sorting by similarity even across different scales or perspectives.
 
 10.  **Does this beg for voxel receptive fields?**
-    
-    ◦ While our keen sense of 3D space feels like it might require a static, voxel-like structure, the sources propose a different mechanism.
 
-    ◦ The term "receptive field" is used, but more in the context of how sensor arrays of neurons can magnify their detection capabilities by coordinating with adjacent oscillating neurons.
-    
-    ◦ Neurons' dendrites and synaptic connections are described as encoding learned patterns and context, acting as a sort of localized embedding or vector space that allows them to selectively respond to certain stimuli. This is a learned selectivity for specific patterns rather than a fixed spatial receptive field in a grid.
-    
-    ◦ The tomographic approach described by NAPOT. reconstructs a 3D volume from multiple dynamic "slices" or perspectives (represented by wave cross-sections or pattern projections from neural arrays). This dynamic reconstruction, based on learned patterns and their phase relationships, allows for a sense of continuous 3D space and object perception without needing a fixed voxel grid.
+While our keen sense of 3D space feels like it might require a static, voxel-like structure, the sources propose a different mechanism.
+
+The term "receptive field" is used, but more in the context of how sensor arrays of neurons can magnify their detection capabilities by coordinating with adjacent oscillating neurons.
+
+Neurons' dendrites and synaptic connections are described as encoding learned patterns and context, acting as a sort of localized embedding or vector space that allows them to selectively respond to certain stimuli. This is a learned selectivity for specific patterns rather than a fixed spatial receptive field in a grid.
+
+The tomographic approach described by NAPOT. reconstructs a 3D volume from multiple dynamic "slices" or perspectives (represented by wave cross-sections or pattern projections from neural arrays). This dynamic reconstruction, based on learned patterns and their phase relationships, allows for a sense of continuous 3D space and object perception without needing a fixed voxel grid.
 
 The idea is captured by the metaphor of a **"3D volumetric television". It's not a flat screen with pixels, but a dynamic, rendered volume. The user's analogy with **"Gaussian splats"** and the connection to **phase-wave differentials** as the "splats" [Death Star Robot comment] aligns with the sources' view that reality is rendered in phase variances [previously discussed] and that phase-wave differentials are fundamental to this dynamic rendering process. These differentials encode the meaningful changes that build the 3D representation.
 
