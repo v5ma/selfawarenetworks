@@ -1,6 +1,6 @@
 # Draft 6 of my section of the paper
 
-The Agentic Brain  
+Self Aware Networks: Oscillatory Computational Agency  
 
 This section offers a synthesis of established neuroscience literature interwoven with original concepts I first introduced in the summer of 2022 through the Self Aware Networks Theory of Mind (TOC), published on GitHub to establish authorship. Since that time, I’ve noticed a wave of papers echoing ideas I pioneered—often without citation—raising questions about whether my copyrighted, timestamped work was overlooked due to its unconventional format or publishing platform. Still, I’m confident in the enduring validity of my copyright, secured for a century, and the clear date stamps on all my GitHub content stand as proof of origin.  
 
