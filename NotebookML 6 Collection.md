@@ -2263,7 +2263,7 @@ There are no other names mentioned in the documents you have provided other than
 
 
 
-Based on the information in your files, here's a list of authors, scientists, and relevant people mentioned in the context of the Neural Lace Podcast and related works: Andre Watson - Guest on the Neural Lace Podcast, involved in engineering biological systems and materials science​​. Jules Urbach - CEO at OTOY, discussed in the context of multimodal AI and its applications​​. Kyle E. Mathewson - Involved in optical imaging, mentioned in the Neural Lace Podcast Season 2 Episode 3​​. Eric Matzner - Discussed neurogenesis, described as a neuroscientist​​. Blaise Sanders - CTO of SpaceVR, discussed satellite technology and its relation to VR​​. Jonathan Toomim - Discussed functional near-infrared spectroscopy (fNIRS) and its potential for biofeedback​​. Shannon Norell - AR/VR enthusiast and part of the Chronos group developing OpenXR, mentioned in the context of NeuroLace and WebVR/WebGL​​. David Eagleman - Referenced for work on brain-computer interfaces​​. Olaf Sporns - Discussed in the context of deciphering brain connectivity​​. Gyorgy Buzsaki - Known for insights on brain rhythms​​. This list provides an overview of some of the key individuals involved in neurotechnology and AI as mentioned in your documents. Their contributions range from neuroscience research to advancements in AR/VR and AI technologies.
+Based on the information in your files, here's a list of authors, scientists, and relevant people mentioned in the context of the Neural Lace Podcast and related works: Andre Watson - Guest on the Neural Lace Podcast, involved in engineering biological systems and materials science​​. Jules Urbach - CEO at OTOY, discussed in the context of multimodal AI and its applications​​. Kyle E. Mathewson - Involved in optical imaging, mentioned in the Neural Lace Podcast Season 2 Episode 3​​. Eric Matzner - Discussed neurogenesis, described as a neuroscientist​​. Blaise Sanders - CTO of SpaceVR, discussed satellite technology and its relation to VR​​. Jonathan Toomim - Discussed functional near-infrared spectroscopy (fNIRS) and its potential for biofeedback​​. David Eagleman - Referenced for work on brain-computer interfaces​​. Olaf Sporns - Discussed in the context of deciphering brain connectivity​​. Gyorgy Buzsaki - Known for insights on brain rhythms​​. This list provides an overview of some of the key individuals involved in neurotechnology and AI as mentioned in your documents. Their contributions range from neuroscience research to advancements in AR/VR and AI technologies.
 
 Here is a list of people mentioned in the provided source titled "C1-C3":
 
@@ -2273,7 +2273,7 @@ Eric Matzner is a neuroscientist who studies neurogenesis. He was a guest on the
 Jules Urbach is the CEO of OTOY, a company that develops 3D graphics software. He was a guest on the Neural Lace Podcast.
 Kyle E. Mathewson is a neuroscientist who studies optical imaging. He was mentioned in the Neural Lace Podcast Season 2 Episode 3.
 Jonathan Toomim is a neuroscientist who studies functional near-infrared spectroscopy (fNIRS). He was a guest on the Neural Lace Podcast.
-Shannon Norell is an AR/VR enthusiast and part of the Chronos group developing OpenXR. She was mentioned in the Neural Lace Podcast in the context of NeuroLace and WebVR/WebGL.
+
 David Eagleman is a neuroscientist who studies brain-computer interfaces.
 Olaf Sporns is a neuroscientist who studies brain connectivity.
 Gyorgy Buzsaki is a neuroscientist who studies brain rhythms.
