@@ -21,8 +21,6 @@ When I was in Las Vegas for CES in January 2025 and again in Vegas for the Human
 
 At GDC in San Francisco in March 2025 every company making videogames or VR AR software, hardware, and so on was talking about Industry changes centered around AI. This conference was in large part about Generative AI text, but also Generative AI art for games, AI generated code, AI generated three-dimensional models all in the context of gaming and software development.
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9204380-9879-4ebf-9876-c85d367fd527_1180x885.jpeg)
 
 ](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9204380-9879-4ebf-9876-c85d367fd527_1180x885.jpeg)
