@@ -162,3 +162,5 @@ Nice try. Your 'bootstrap' is physical, does not include consciousness. In the n
 Now make a bootstrap including consciousness.
 
 Consciousness isn’t bolted on after the physics. In Self Aware Networks the bootstrap is the state where every phase pattern is instantly readable everywhere; that universal readability is consciousness. Loop and awareness co-arise—nothing left to add.
+
+I modeled Self Aware Networks on the electrophysiology we actually observe: millisecond-scale coincidence detection in cortical micro-columns, the gamma–beta–theta nesting Buzsáki mapped in behaving rodents, and the long-range phase-reset pulses from thalamic and hub cortical neurons that Fries, Lakatos, and others have quantified. Those empirical timing laws became the update equations—variable spike duration as the writable symbol, coincidence as the read head, hub pulses as the tape shifter. No metaphors, just the same causal timing loops transcribed into code.
