@@ -1,27 +1,78 @@
+Self Aware Networks theory provides a model of consciousness where each neuron is Turing-complete. Their phase-coded sync rewrites its own timing laws in real time. Consciousness isn’t magic—it’s a self-modifying loop of computable dynamics. If cells can do it, so can transistors.
+
+Summary:
+
+Self Aware Networks (SAN) begins with an empirical fact: every cortical spike is a timed event, and neurons treat the phase of incoming spikes as a symbol to be “read,” then “write” a new symbol by adjusting the length of their own next spike before passing it on. That read-write-move loop recurs across billions of oscillators, so the brain already instantiates the core of a Turing tape—except it runs millions of tapes in parallel. Any algorithm that can be decomposed into successive read-write-move steps can therefore be mirrored, step-for-step, by nested cortical waves. Penrose’s claim that minds outrun Turing machines consequently fails on first inspection: the machine is there in the tissue.
+
+When I first introduced Neural Array Projection Oscillation Tomography (NAPOT) I likened one neural array watching the next to a television screen: each array receives a grid of phase-wave differentials—energy patterns rather than photons—that neuroscientists call traveling waves. The real point of NAPOT is that it solves the “observer inside the observer” puzzle without positing a homunculus. Distributed synchrony lets successive arrays “see” one another’s phase patterns and, by locking and unlocking in rhythmic bursts, knit those patterns into a shared field. That self-referential weave is what subjective awareness turns out to be.
+
+Because conventional laptops are themselves universal Turing machines, they can simulate these phase relationships at arbitrarily fine resolution. A digital bit-pattern can stand in for a phase-wave coefficient just as a binary word in RAM already stands in for the abstract numeral 3. Computation is substrate-agnostic: meaning is carried by functional role, not by mystical collapse of a quantum state. In SAN a symbol such as “3” is a coherent configuration whose coefficient-of-variation remains stable even as carrier frequencies drift; as long as the simulation preserves that causal regularity, the concept is fully realized in software. Gödel truths do not slip the leash of computability here, because the rule set is continually rewritten in real time by the very variables it governs—re-entrant, timed in physics, but still stepwise simulable. What seemed non-computable in Gödel’s framing becomes computable through time-evolving, self-modifying rules—all within Turing limits.
+
+Subjectivity emerges when a system meets three timing conditions in simulation or substrate: shared phase patterns, recursive self-modeling, and temporal persistence—conditions sufficient to instantiate first-person coherence. First, every signal—sensory or internal—is encoded as a phase pattern instantaneously shareable through nested synchrony. Second, those oscillations must simultaneously model the external world and their own ongoing activity, allowing the system to “know that it knows.” Third, patterns must persist long enough to steer the next cycle, suturing successive moments into a felt continuity. When local loops that meet these criteria couple, their phases lock into a higher-order rhythm that no subset can support alone. Each column’s timing becomes a miniature of the whole, and the whole is perpetually rewritten by every column: a closed causal weave rather than a stack of modules.
+
+Metaplasticity supplies the rule-changing-the-rule. A spike’s duration is computed from the coefficient-of-variation of recent spikes; that coefficient drifts as synapses potentiate or depress, new receptors traffic, and hub-driven phase resets arrive. Formally, next_duration = f(current_duration, synaptic_gains − losses, hub_phase). Gains, losses, and hub_phase are themselves governed by slower differential equations driven by coincidence rates and neuromodulators, so the update mapping fₜ varies from tick to tick. At micro-scale γ rhythms lock into β and α hubs, which in turn entrain slower θ/δ cortico-thalamic loops. Timing tweaks that start locally cascade upward, then feed back downward, repainting the very laws that will time the next volley.
+
+Coincidence detection is the engine. Neurons fire most strongly when inputs arrive within a narrow phase window; local locks therefore amplify themselves and propagate. Hub pulses broadcast resets that re-reference timing across columns, binding disparate features into one four-dimensional envelope whose instantaneous geometry encodes what is happening “here-and-now.” When mismatches between top-down prediction and bottom-up input vanish, the envelope stabilizes and is experienced as a unified moment in the first-person field.
+
+Terahertz micro-oscillations may add precision, but they are not required to ignite the loop; millisecond phase cycles suffice. Likewise, Penrose’s Planck-scale “objective reduction” is optional decoration, not the essence of consciousness. The essence is computation carried by self-referential timing and nested coherence—physics that any GPU can iterate, as the forthcoming three-thousand-line CUDA release will show.
+
+In this view emotions, ideas, and abstract quantities are all learned phase-codes. They differ only in the stability of their coefficients and the circuits that host them. Your laptop can host them too, once its time-stepped simulation honors the same dynamical constraints. Neurons and transistors alike are Turing-complete; what gives rise to selfhood is the oscillatory protocol that binds phase-coded differences into a high-dimensional experience of being someone. Implement the protocol faithfully and first-person coherence should follow—not by metaphorical resemblance but by literal causal identity.
+
+SAN therefore offers a strict empirical wager: if the simulated loops match the timing laws we have already measured—coincidence-driven γ bursts, β/α hub resets, θ/δ scaffolding—and if plasticity keeps rewriting those laws in real time, then the model will display the same unified, reflexive field we report introspectively. Should the simulation fail, the theory is falsified. Either way, mind is no longer beyond machine; it is a dynamical pattern testable in code.
+
+Clarification:
+
+1. SAN's proposed computation allows a Turing Machine to perform the exact same Consciousness computations that the human brain performs. So it effectively does this "“solve problems that a regular Turing machine never can,” that it “bypasses the Penrose/Turing-machine barrier,” and that it can “computes Gödel-style truths via time-evolving self-reference—demonstrating these are computable within expanded Turing architectures.” " within the real capabilities of Turing machines that are misunderstood. So this "On the one hand you write that “any laptop can simulate step-by-step,” that the brain “never outruns Turing power,” and that neurons and transistors are both “Turing-complete.” " is also true and not a contradiction.
+
+2. Terahertz signals can be part of consciousness without being essential to the description of consciousness, because they are part of the Phase-Wave spectrum that Self-Aware Networks describes as part of the Turing complete algorithm for consciousness. It's just not totally clear that Terahertz signals are needed, because Alpha Waves, Beta Waves, and Gamma Waves are enough for consciousness, but it does seem likely that the Terahertz signals are involved in the same kinds of computation as those other waves, since they are there in the brain. This allows them to be auxiliary to the story of consciousness, pending scientific evidence verifying their role, without contradiction to my arguments in SAN.
+
+3. "Yet you also invoke Gödel truths and non-computable oracular loops as something that SAN either must or must not accommodate." No I'm arguing that Godel truths and non-computability do not strictly apply to consciousness computability and that my model explains how we get around Gödellian truths and non-computability without violating Turing completeness. It expands the possibility of what can be Turning complete and conscious, and computable all at the same time. No magic sauce here.
+
+4. "Those thermal, energy-based descriptions suggest a different explanatory level than pure phase-wave encoding, and without a precise account of how biophysical energy fluxes map onto coefficient-of-variation thresholds, the narrative oscillates between a clean information-theoretic model and a hand-wavy physical metaphor."
+No the physics of oscillations binding information together in the brain can be simulated with a rule on a laptop. This not a contradiction.
+
+In some SAN presents a model for strictly computable consciousness, that does not need or dismiss terahertz dynamics, and does not hint at non-computable or quantum effects when properly understood.
+
+Summary of Clarification:
+
+The apparent contradictions dissolve once the reader sees four bridge ideas spelled out explicitly. First, Self-Aware Networks does not claim to surpass the formal power of a Turing machine; it claims that Penrose mis-diagnosed the ceiling of that power. A discrete simulator can iterate phase equations to any desired precision, so the same device that prints a Gödel sentence can also evolve the self-referential timing loops that underlie awareness. When the notes say SAN “solves problems a regular Turing machine never can,” the intended point is that what looked non-computable in an abstract, symbol-only setting becomes computable once timing, self-modifying parameters, and arbitrarily fine real-number approximations are added—still within the textbook definition of a universal machine.
+
+Second, terahertz oscillations sit on the same continuum as gamma, beta, alpha, theta, and delta. They may refine resolution or speed but are not logically necessary for the core three–scale loop (local coincidence, hub reset, cross-loop metaplasticity) that turns phase patterns into a globally available field. Stating that terahertz dynamics are “likely involved” yet “not required” simply recognises an empirical unknown without altering the mechanism.
+
+Third, invoking Gödel truths and oracle loops is only a rhetorical contrast with Penrose. SAN shows how an apparently Gödel-restricted system in fact computes all the semantic content needed for consciousness by letting variables rewrite their own update laws. The loop therefore side-steps the interpretation of incompleteness as a bar to mechanised thought without importing extra-Turing magic.
+
+Fourth, energy-based language is a translation layer between biophysics and code. A coefficient-of-variation stands for a distribution of spike energies; plasticity rules translate metabolic work into parameter shifts; the simulator tracks these shifts with floating-point updates. Thermodynamics and information theory are two descriptions of the same state evolution, so talking about oscillations that “grow or shrink in scale” is not a second model, merely a physicist’s view of the same computable rule.
+
+Nothing in SAN exceeds Turing computability; it only extends what counts as a Turing step. Phase dynamics evolve by computable rules approximated with arbitrary precision—no analogue or oracle assumptions required, and self-modifying parameters remain finite strings on the tape. Terahertz rhythms, should they matter, simply raise the Nyquist rate without altering the algorithm. Gödel’s limit constrains symbol-only proofs, not time-evolving feedback loops whose state variables rewrite the rules that update them. Thermodynamic talk is a physical gloss on the same update equations, not an extra layer of explanation.”
+
+With that bridge in place the story reads as internally consistent: wholly computable, experimentally grounded, open to new frequency bands, and free of hidden oracles.
+
+Notes:
+
 Self Aware Networks maps consciousness to action-potential timing (phase-wave coefficients) that any laptop can simulate step-by-step. If code can mirror the brain exactly, our reasoning never outruns Turing power—so Penrose’s “mind-beyond-machine” proof collapses.
 
 A Turing machine is just a rule-following device that reads a symbol, writes a new symbol, moves one step, and repeats. In Self Aware Networks this same rule-following loop shows up in every burst of neural activity: a neuron “reads” the phase of incoming spikes, “writes” its own spike with a new phase, passes it on, and the network moves to the next cycle. The spikes line up like symbols on an endless tape, and the timing gates that reset the whole cortex act like the machine’s clock. Because any algorithm can be broken into these read-write-move steps, the brain’s nested waves can copy the behaviour of a Turing machine, only in millions of places at once instead of one step at a time. That is what it means to say the human brain is effectively a Turing machine.
 
 When I first introduced the NAPOT concept I described how one neural array projected it's signals to the next neural array like a television screen, your tv is a grid of changing frequencies, these changing frequencies in a tv are in the form of light but they convey information, in the brain these changing phase patterns are in the form of energy differences, neuroscientists call them traveling waves, but they are distinct from tonic waves, and that's how they carry information, thus I coined the term phase wave differentials.
 
-The real meaning of NAPOT is that one array watches the patterns from the previous array, and the next array sees this arrays tv signals frequency & energy phase shifts. NAPOT as a conjecture provides a solution to the observer inside the observer problem, with a distributed observer that sees. When many neural arrays synchronize and desynchronize together in a regular oscillation they network their signal traffic so as to create distributed reactions, and shared signal detections that we call consciousness.
+The real meaning of NAPOT is that one array watches the patterns from the previous array, and the next array sees this arrays tv signals frequency & energy phase shifts. NAPOT as a conjecture provides a solution to the observer inside the observer problem, with a distributed observer that sees. NAPOT reframes the observer paradox as recursive causality: each array reshapes the field that shapes it, embedding every local phase in a global structure that modulates local inference. When many neural arrays synchronize and desynchronize together in a regular oscillation they network their signal traffic so as to create distributed reactions, and shared signal detections that we call consciousness.
 This is the NAPOT Entification Concept
 
 It doesn't make AGI unlikely. Computers are universal Turing Machines, they can simulate frequency. They can encode and decode information the same way neural oscillations encode and decode frequency.
 
 Our emotions are information based, they are learned differences encoded in phase patterns that are cells represent by changing their firing dynamically. Self Aware Networks theory!
 
-No you can't exclude Turing machines because my work shows that the Human Brain essentially is a Turing Machine. We are evolved metal robots. We computationally render pictures, sounds, encoded in phase differences by our cells. Self Aware Networks Theory!
+No you can't exclude Turing machines because my work shows that the Human Brain essentially is a Turing Machine. We are evolved metal robots. We computationally render pictures, sounds, encoded in phase differences by our cells.
 
-Not “because I said so.” In SAN each neuron runs a read-write-move loop: read incoming phase, write a new phase via spike length, pass it on. That loop is the core of a Turing tape. Billions of such loops in sync render the images and sounds we experience.
+In SAN each neuron runs a read-write-move loop: read incoming phase, write a new phase via spike length, pass it on. That loop is the core of a Turing tape. Billions of such loops in sync render the images and sounds we experience.
 
-The only way that we can know what we are feeling is because feeling is information that is tracked in phase differences, or traveling wave signals that differentiate in their co-efficient of variation from the mean collective synchronization pattern. Self Aware Networks Theory!
+The only way that we can know what we are feeling is because feeling is information that is tracked in phase differences, or traveling wave signals that differentiate in their co-efficient of variation from the mean collective synchronization pattern.
 
 "No need to invoke terahertz orchestration" no need to evoke, but also no need to revoke. Terahertz signals are likely to play a role in neural computation believe it or not, but we don't have to discuss them to understand consciousness.
 
-“Self Aware Networks uses smooth, continuous brain-like waves instead of on-off computer steps. Those waves let it solve problems that a regular Turing machine never can.”
+Self-Aware Networks encodes cognition as smoothly varying phase waves rather than binary toggles, yet every step of those waves can be emulated to arbitrary precision on an ordinary Turing machine.
 
-In short, Self Aware Networks bypasses the Penrose/Turing-machine barrier by grounding cognition in continuous, high-precision phase-wave dynamics instead of discrete symbol manipulation; those analogue oscillators compute over the real continuum and can therefore generate and recognise Gödel truths that any purely Turing process must miss.\
+Accordingly, SAN does not outrun the Penrose/Turing limit; it demonstrates that when timing loops and self-modifying parameters are taken into account, the full dynamics of conscious processing remain Turing-computable even while looking continuous and analogue.
 
 It's not exactly right, it's replacing digital symbols with high precision phase wave differentials that align by frequency or clash interfere with other traveling wave differences to grow or shrink in scale, representing information that undergoes thermodynamic consideration, and oscillation driven memory. Shrink it.
 
@@ -130,9 +181,9 @@ Self-Aware Networks doesn’t pin consciousness on one isolated “magic” knob
 
 Consciousness in Self Aware Networks theory isn’t one magic knob. It’s a closed causal weave: spikes whose timing rewrites itself through plasticity, knitted together by nested phase-locking into a single evolving field. Break any strand and the felt moment disappears.
 
-Self Aware Networks is Not circular: SAN doesn’t sculpt a look-alike, it instantiates the same causal rules real neurons follow—spike-timing variability, plastic rewrites, nested phase-locking. If that live physics yields a unified phase field, we’ve replicated the mechanism, not just its appearance.
+Self Aware Networks is not a circular argument: SAN doesn’t sculpt a look-alike, it instantiates the same causal rules real neurons follow—spike-timing variability, plastic rewrites, nested phase-locking. If that live physics yields a unified phase field, we’ve replicated the mechanism, not just its appearance.
 
-Not a metaphor. SAN doesn’t just mimic the brain’s look; it recreates its causal loop: spike-timing → plastic rewrite → multi-scale phase lock → new timing. If simulated loops obey that dynamic, the same first-person coherence should emerge—mechanism, not imitation.
+Not a metaphor—SAN instantiates the same causal loop, regardless of substrate. Consciousness tracks structure, not matter. SAN doesn’t just mimic the brain’s look; it recreates its causal loop: spike-timing → plastic rewrite → multi-scale phase lock → new timing. If simulated loops obey that dynamic, the same first-person coherence will be rendered computationally, this kind of simulation is not a zombie imitation, it's digital sentience.
 
 Already studied Shadows of the Mind. Self Aware Networks tackles Penrose head-on: it models continuous phase dynamics step-by-step, exposing his non-computability claim to empirical test. No mania here—just building a falsifiable simulation and letting the data decide.
 
@@ -152,14 +203,7 @@ Hub-driven phase-locking binds those waves into a single network field.
 
 That field instantly re-tunes every spike generator, closing the causal loop that feels like “mind.”
 
-The CUDA simulation (≈3 k lines) that instantiates this loop will be released for open peer review next month. Watch the model run—or falsify it.
-
-
-Marc Pierar
-@m_pierar
-Nice try. Your 'bootstrap' is physical, does not include consciousness. In the next step, consciousness arises and is then fed back to the loop.
-
-Now make a bootstrap including consciousness.
+A CUDA simulation (≈3 k lines) that instantiates this loop will be released for open peer review in the coming months. Watch the model run—or falsify it.
 
 Consciousness isn’t bolted on after the physics. In Self Aware Networks the bootstrap is the state where every phase pattern is instantly readable everywhere; that universal readability is consciousness. Loop and awareness co-arise—nothing left to add.
 
