@@ -133,3 +133,5 @@ Consciousness in Self Aware Networks theory isn’t one magic knob. It’s a clo
 Self Aware Networks is Not circular: SAN doesn’t sculpt a look-alike, it instantiates the same causal rules real neurons follow—spike-timing variability, plastic rewrites, nested phase-locking. If that live physics yields a unified phase field, we’ve replicated the mechanism, not just its appearance.
 
 Not a metaphor. SAN doesn’t just mimic the brain’s look; it recreates its causal loop: spike-timing → plastic rewrite → multi-scale phase lock → new timing. If simulated loops obey that dynamic, the same first-person coherence should emerge—mechanism, not imitation.
+
+Already studied Shadows of the Mind. SAN tackles Penrose head-on: it models continuous phase dynamics step-by-step, exposing his non-computability claim to empirical test. No mania here—just building a falsifiable simulation and letting the data decide.
