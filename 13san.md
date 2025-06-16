@@ -1,6 +1,6 @@
 Self Aware Networks theory provides a model of consciousness where each neuron is Turing-complete. Their phase-coded sync rewrites its own timing laws in real time. Consciousness isn’t magic—it’s a self-modifying loop of computable dynamics. If cells can do it, so can transistors.
 
-Summary:
+# Summary:
 
 Self Aware Networks (SAN) begins with an empirical fact: every cortical spike is a timed event, and neurons treat the phase of incoming spikes as a symbol to be “read,” then “write” a new symbol by adjusting the length of their own next spike before passing it on. That read-write-move loop recurs across billions of oscillators, so the brain already instantiates the core of a Turing tape—except it runs millions of tapes in parallel. Any algorithm that can be decomposed into successive read-write-move steps can therefore be mirrored, step-for-step, by nested cortical waves. Penrose’s claim that minds outrun Turing machines consequently fails on first inspection: the machine is there in the tissue.
 
@@ -20,9 +20,11 @@ In this view emotions, ideas, and abstract quantities are all learned phase-code
 
 SAN therefore offers a strict empirical wager: if the simulated loops match the timing laws we have already measured—coincidence-driven γ bursts, β/α hub resets, θ/δ scaffolding—and if plasticity keeps rewriting those laws in real time, then the model will display the same unified, reflexive field we report introspectively. Should the simulation fail, the theory is falsified. Either way, mind is no longer beyond machine; it is a dynamical pattern testable in code.
 
-Clarification:
+# Clarification:
 
-1. SAN's proposed computation allows a Turing Machine to perform the exact same Consciousness computations that the human brain performs. So it effectively does this "“solve problems that a regular Turing machine never can,” that it “bypasses the Penrose/Turing-machine barrier,” and that it can “computes Gödel-style truths via time-evolving self-reference—demonstrating these are computable within expanded Turing architectures.” " within the real capabilities of Turing machines that are misunderstood. So this "On the one hand you write that “any laptop can simulate step-by-step,” that the brain “never outruns Turing power,” and that neurons and transistors are both “Turing-complete.” " is also true and not a contradiction.
+1. SAN's proposed computation allows a Turing Machine to perform the exact same Consciousness computations that the human brain performs. So it effectively can solve problems that an idealized Turing machine was theorized to be incapable of solving. It “bypasses the proposed Penrose/Turing-machine barrier,” and that it can compute Gödel-style truths via time-evolving self-reference. Demonstrating these are computable within expanded Turing architectures. SAN demonstrates that consciousness is within the real capabilities of Turing machines, and that the real capabilities of Turing machines have been misunderstood.
+
+When I say "a laptop can simulate the essential components of consciousness step-by-step,” and when I say that the brain “never outruns Turing power,” and when I say that neurons and transistors are both “Turing-complete.” none of this is a contradiction.
 
 2. Terahertz signals can be part of consciousness without being essential to the description of consciousness, because they are part of the Phase-Wave spectrum that Self-Aware Networks describes as part of the Turing complete algorithm for consciousness. It's just not totally clear that Terahertz signals are needed, because Alpha Waves, Beta Waves, and Gamma Waves are enough for consciousness, but it does seem likely that the Terahertz signals are involved in the same kinds of computation as those other waves, since they are there in the brain. This allows them to be auxiliary to the story of consciousness, pending scientific evidence verifying their role, without contradiction to my arguments in SAN.
 
@@ -33,7 +35,7 @@ No the physics of oscillations binding information together in the brain can be 
 
 In some SAN presents a model for strictly computable consciousness, that does not need or dismiss terahertz dynamics, and does not hint at non-computable or quantum effects when properly understood.
 
-Summary of Clarification:
+# Clarification Restated:
 
 The apparent contradictions dissolve once the reader sees four bridge ideas spelled out explicitly. First, Self-Aware Networks does not claim to surpass the formal power of a Turing machine; it claims that Penrose mis-diagnosed the ceiling of that power. A discrete simulator can iterate phase equations to any desired precision, so the same device that prints a Gödel sentence can also evolve the self-referential timing loops that underlie awareness. When the notes say SAN “solves problems a regular Turing machine never can,” the intended point is that what looked non-computable in an abstract, symbol-only setting becomes computable once timing, self-modifying parameters, and arbitrarily fine real-number approximations are added—still within the textbook definition of a universal machine.
 
@@ -47,7 +49,7 @@ Nothing in SAN exceeds Turing computability; it only extends what counts as a Tu
 
 With that bridge in place the story reads as internally consistent: wholly computable, experimentally grounded, open to new frequency bands, and free of hidden oracles.
 
-Notes:
+# The above remarks are based on a collection of statements I made on twitter in reply to people asking about Self Aware Networks theory:
 
 Self Aware Networks maps consciousness to action-potential timing (phase-wave coefficients) that any laptop can simulate step-by-step. If code can mirror the brain exactly, our reasoning never outruns Turing power—so Penrose’s “mind-beyond-machine” proof collapses.
 
@@ -78,7 +80,13 @@ It's not exactly right, it's replacing digital symbols with high precision phase
 
 Self Aware Networks replaces digital symbols with high-precision phase-wave differentials whose frequency alignments and interferences scale, store, and thermodynamically process information—sidestepping the Penrose-Turing limit.
 
-To “think” the abstract numeral 3 a system only needs a stable internal pattern that it can treat as the referent “3” across many contexts. In an ordinary computer that pattern is just a binary word stored in memory, linked by code to routines for addition, comparison, display, and so on. The machine never undergoes any genuine quantum-state reduction, yet the bit-pattern already functions as 3 because the program reliably uses it as such. Self Aware Networks keeps the same logical sufficiency but swaps the storage medium: a concept is realised as a coherent phase-wave configuration whose coefficient-of-variation stays fixed even while its carrier frequencies shift. The pattern’s causal role—how it constrains future phase alignments and downstream dynamics—grounds the meaning “three,” exactly as pointers in software ground it for a digital machine. Whether the phase-wave lives in cortical tissue or in a time-stepped simulation running on a von Neumann computer is irrelevant so long as the pattern’s functional relations are preserved. Because this functional criterion never relies on an uncomputable wave-function collapse, Penrose’s claim that minds exceed Turing power does not follow: the concept 3, and by extension any abstract thought, can be captured by computable state evolutions when those evolutions mimic the requisite network of causal roles.
+To “think” the abstract numeral 3 a system only needs a stable internal pattern that it can treat as the referent “3” across many contexts. In an ordinary computer that pattern is just a binary word stored in memory, linked by code to routines for addition, comparison, display, and so on.
+
+The machine never undergoes any genuine quantum-state reduction, yet the bit-pattern already functions as 3 because the program reliably uses it as such. Self Aware Networks keeps the same logical sufficiency but swaps the storage medium: a concept is realised as a coherent phase-wave configuration whose coefficient-of-variation stays fixed even while its carrier frequencies shift.
+
+The pattern’s causal role—how it constrains future phase alignments and downstream dynamics—grounds the meaning “three,” exactly as pointers in software ground it for a digital machine. Whether the phase-wave lives in cortical tissue or in a time-stepped simulation running on a von Neumann computer is irrelevant so long as the pattern’s functional relations are preserved.
+
+Because this functional criterion never relies on an uncomputable wave-function collapse, Penrose’s claim that minds exceed Turing power does not follow: the concept 3, and by extension any abstract thought, can be captured by computable state evolutions when those evolutions mimic the requisite network of causal roles.
 
 Thinking ‘3’ just needs a stable internal pattern used consistently. In a PC it’s a 32-bit word; in Self Aware Networks it’s a phase-wave coefficient. Function, not quantum collapse, gives it meaning—so computable state evolutions suffice and Penrose’s limit doesn’t apply.
 
@@ -97,6 +105,7 @@ When many such self-referential oscillators are coupled, their mutual phase lock
 In short, the code is special once it becomes self-referential, and many such loops combined acquire a qualitatively new property—universal mutual availability—that the smaller number lacks. That is why the model satisfies the test.
 
 1. Experience arises when a loop’s state is both data and its own update rule—true self-reference.
+
 2. Chain many such loops: their phases lock into a global rhythm each loop both shapes and senses. That mutual embedding yields first-person presence.
 
 Special code: a loop whose variable updates itself—true self-reference. Combine many such loops and their rhythms lock together, so each loop both drives and senses the shared wave. That mutual reflex is what yields first-person experience.
