@@ -13,6 +13,8 @@ Our emotions are information based, they are learned differences encoded in phas
 
 No you can't exclude Turing machines because my work shows that the Human Brain essentially is a Turing Machine. We are evolved metal robots. We computationally render pictures, sounds, encoded in phase differences by our cells. Self Aware Networks Theory!
 
+Not “because I said so.” In SAN each neuron runs a read-write-move loop: read incoming phase, write a new phase via spike length, pass it on. That loop is the core of a Turing tape. Billions of such loops in sync render the images and sounds we experience.
+
 The only way that we can know what we are feeling is because feeling is information that is tracked in phase differences, or traveling wave signals that differentiate in their co-efficient of variation from the mean collective synchronization pattern. Self Aware Networks Theory!
 
 "No need to invoke terahertz orchestration" no need to evoke, but also no need to revoke. Terahertz signals are likely to play a role in neural computation believe it or not, but we don't have to discuss them to understand consciousness.
