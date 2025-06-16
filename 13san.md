@@ -141,3 +141,24 @@ Think “flight”: birds flap, jets spin turbines—different stuff, same aerod
 The mind is both cause and result. Not alchemy—just dynamics. In SAN the “mind” is the phase-field that continuously shapes and is shaped by neural timing. Cause and result collapse into one closed loop: timing ↔ plastic rewrite ↔ network sync. Build the loop in code and the process reveals itself.
 
 In Self Aware Networks, the phase-field we call “mind” crystallizes out of neural timing, then immediately feeds back to retune that timing. Cause and result collapse into one closed loop—mind perpetually generates and re-generates itself.
+
+The full mechanics are spelled out in both the book and the papers on Self Aware Networks:
+
+Variable spike duration encodes a coefficient-of-variation.
+
+Local coincidence builds column-scale phase waves.
+
+Hub-driven phase-locking binds those waves into a single network field.
+
+That field instantly re-tunes every spike generator, closing the causal loop that feels like “mind.”
+
+The CUDA simulation (≈3 k lines) that instantiates this loop will be released for open peer review next month. Watch the model run—or falsify it.
+
+
+Marc Pierar
+@m_pierar
+Nice try. Your 'bootstrap' is physical, does not include consciousness. In the next step, consciousness arises and is then fed back to the loop.
+
+Now make a bootstrap including consciousness.
+
+Consciousness isn’t bolted on after the physics. In SAN the bootstrap is the state where every phase pattern is instantly readable everywhere; that universal readability is consciousness. Loop and awareness co-arise—nothing left to add.
