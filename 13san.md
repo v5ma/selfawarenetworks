@@ -161,4 +161,4 @@ Nice try. Your 'bootstrap' is physical, does not include consciousness. In the n
 
 Now make a bootstrap including consciousness.
 
-Consciousness isn’t bolted on after the physics. In SAN the bootstrap is the state where every phase pattern is instantly readable everywhere; that universal readability is consciousness. Loop and awareness co-arise—nothing left to add.
+Consciousness isn’t bolted on after the physics. In Self Aware Networks the bootstrap is the state where every phase pattern is instantly readable everywhere; that universal readability is consciousness. Loop and awareness co-arise—nothing left to add.
