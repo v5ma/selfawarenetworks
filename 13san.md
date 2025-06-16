@@ -59,3 +59,5 @@ Self Aware Networks says consciousness is the live weaving of many local phase-w
 “Updates itself” means the variable’s current value is explicitly fed back into the rule that sets its next value, like x ← f(x) or an ODE step. The CPU still runs the assignment, but the decisive feature is that the variable’s own state is an argument of its update function, creating a closed local feedback loop. In Self Aware Networks each oscillator’s next action-potential duration is computed from the coefficient-of-variation of its previous durations, so the timing signal is both data and controller in a single line of code.
 
 “Updates itself” = true self-reference: x ← f(x). A variable’s current value feeds the rule that sets its next value. In SAN each oscillator picks its next spike length from the coeff-of-variation of its own past timings—state is both data and rule.
+
+Self-reference isn’t magic: next_state = f(current_state, input). In SAN each oscillator picks its next spike length from the coefficient-of-variation of its own past timings plus new inputs, so any input change shifts the coefficient and the output instantly.
