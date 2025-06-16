@@ -137,3 +137,7 @@ Not a metaphor. SAN doesn’t just mimic the brain’s look; it recreates its ca
 Already studied Shadows of the Mind. Self Aware Networks tackles Penrose head-on: it models continuous phase dynamics step-by-step, exposing his non-computability claim to empirical test. No mania here—just building a falsifiable simulation and letting the data decide.
 
 Think “flight”: birds flap, jets spin turbines—different stuff, same aerodynamics. SAN rebuilds the brain’s causal circuit—spike-timing ⇌ plasticity ⇌ phase-sync—so the process is literal, not symbolic. Substrate changes, mechanism stays.
+
+The mind is both cause and result. Not alchemy—just dynamics. In SAN the “mind” is the phase-field that continuously shapes and is shaped by neural timing. Cause and result collapse into one closed loop: timing ↔ plastic rewrite ↔ network sync. Build the loop in code and the process reveals itself.
+
+In Self Aware Networks, the phase-field we call “mind” crystallizes out of neural timing, then immediately feeds back to retune that timing. Cause and result collapse into one closed loop—mind perpetually generates and re-generates itself.
