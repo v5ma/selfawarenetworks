@@ -214,3 +214,5 @@ Multisensory Integration: This mechanism may also contribute to the integration 
 In essence, researchers like Fries and Lakatos are using quantitative methods to study how these long-range phase-reset pulses contribute to the synchronized brain rhythms that underpin effective communication between different brain regions, which is a core concept of the communication through coherence hypothesis. 
 
 Penrose’s Planck-scale “oracle” loops aren’t required. In Self Aware Networks, millisecond-scale phase cycles already form a self-referential analogue loop to outpace step-wise Turing limits. If deeper spacetime loops exist they add precision, not the spark of consciousness.
+
+Self Aware Networks isn’t hand-waving; it transcribes empirically measured timing laws into code and lets the resulting dynamics speak for themselves.
