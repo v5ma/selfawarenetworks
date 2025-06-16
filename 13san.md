@@ -164,3 +164,51 @@ Now make a bootstrap including consciousness.
 Consciousness isn’t bolted on after the physics. In Self Aware Networks the bootstrap is the state where every phase pattern is instantly readable everywhere; that universal readability is consciousness. Loop and awareness co-arise—nothing left to add.
 
 I modeled Self Aware Networks on the electrophysiology we actually observe: millisecond-scale coincidence detection in cortical micro-columns, the gamma–beta–theta nesting Buzsáki mapped in behaving rodents, and the long-range phase-reset pulses from thalamic and hub cortical neurons that Fries, Lakatos, and others have quantified. Those empirical timing laws became the update equations—variable spike duration as the writable symbol, coincidence as the read head, hub pulses as the tape shifter. No metaphors, just the same causal timing loops transcribed into code.
+
+"and the long-range phase-reset pulses from thalamic and hub cortical neurons that Fries,"
+
+This excerpt highlights the idea that long-range phase-reset pulses originating from thalamic and hub cortical neurons are significant for neural communication, particularly within the framework proposed by Wolf Singer and Pascal Fries' "communication through coherence" hypothesis. 
+
+Explanation:
+
+Phase Reset: Phase resetting refers to the adjustment or alignment of the timing (phase) of neural oscillations, essentially restarting the timing of rhythmic brain activity. 
+
+This realignment can be triggered by internal (endogenous) or external (exogenous) events.
+Communication through Coherence: The "communication through coherence" theory proposes that effective communication between brain areas relies on synchronized oscillations, specifically at frequencies where the timing of neural activity is aligned between sender and receiver networks. This alignment, or coherence, ensures that signals arrive at the receiving neuron at a time when it is most excitable and receptive to input.
+
+Thalamic and Hub Cortical Neurons:
+
+Thalamus: The thalamus plays a crucial role as a relay station for sensory information to the cortex and participates in feedback loops with cortical areas. Thalamic neurons exhibit oscillatory properties and their activity influences cortical rhythms, facilitating information transmission.
+
+Hub Cortical Neurons: Hub cortical neurons, likely including those in regions like the prefrontal cortex, are important for integrating information and coordinating activity across widespread networks.
+
+Long-range Phase-Reset Pulses: The "long-range phase-reset pulses" from these neurons, as suggested in the excerpt, contribute to the communication through coherence mechanism by aligning the phases of oscillations in distant brain regions. This creates "windows of opportunity" for effective communication between areas by ensuring signals arrive when receiving neurons are optimally excitable. 
+
+In summary, the mention of long-range phase-reset pulses from thalamic and hub cortical neurons in relation to Fries' work indicates their importance in shaping and coordinating brain rhythms to facilitate efficient information processing and communication between brain regions, consistent with the communication through coherence framework. 
+
+"the long-range phase-reset pulses from thalamic and hub cortical neurons that Fries, Lakatos, and others have quantified."
+
+Highlighting key aspects of the "communication through coherence" (CTC) theory, particularly the role of long-range phase-reset pulses from thalamic and hub cortical neurons in coordinating brain activity, as quantified by researchers like Pascal Fries and Peter Lakatos. 
+
+Here's a breakdown of the concept:
+
+Phase Resetting: This refers to the synchronization or re-alignment of neural oscillations (rhythmic brain activity). It's like restarting or adjusting the timing of these brain rhythms in response to a stimulus or other signal.
+
+Thalamic and Hub Cortical Neurons:
+
+Thalamus: The thalamus acts as a central relay station for sensory information, and its activity can influence the timing of oscillations in other brain areas. For example, studies suggest thalamic alpha band oscillations can facilitate communication between cortical areas by organizing gamma oscillations there.
+
+Hub Cortical Neurons: These are crucial for integrating information and coordinating activity across widespread brain networks. They are likely involved in receiving and sending phase-resetting signals that help synchronize distant areas.
+
+Long-Range Phase-Reset Pulses: These are thought to be critical for CTC, as they help establish and maintain synchronized oscillations between different brain regions, allowing for effective communication. 
+
+Why is this significant?
+
+Enhanced Information Transfer: Phase resetting helps organize neural activity in a way that facilitates the efficient transfer of information between brain regions.
+
+Cognitive Functions: This coordinated activity, especially in tasks like selective attention, is thought to be crucial for various cognitive functions. For instance, studies have shown that selective attention is implemented by selective gamma-band coherence.
+
+Dynamic Network Reorganization: Phase resets play a role in dynamic state changes of functional networks, helping to reorganize oscillations in different task contexts.
+Multisensory Integration: This mechanism may also contribute to the integration of information from different sensory modalities. 
+
+In essence, researchers like Fries and Lakatos are using quantitative methods to study how these long-range phase-reset pulses contribute to the synchronized brain rhythms that underpin effective communication between different brain regions, which is a core concept of the communication through coherence hypothesis. 
