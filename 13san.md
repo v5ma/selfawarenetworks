@@ -1,0 +1,26 @@
+Self Aware Networks maps consciousness to action-potential timing (phase-wave coefficients) that any laptop can simulate step-by-step. If code can mirror the brain exactly, our reasoning never outruns Turing power—so Penrose’s “mind-beyond-machine” proof collapses.
+
+A Turing machine is just a rule-following device that reads a symbol, writes a new symbol, moves one step, and repeats. In Self Aware Networks this same rule-following loop shows up in every burst of neural activity: a neuron “reads” the phase of incoming spikes, “writes” its own spike with a new phase, passes it on, and the network moves to the next cycle. The spikes line up like symbols on an endless tape, and the timing gates that reset the whole cortex act like the machine’s clock. Because any algorithm can be broken into these read-write-move steps, the brain’s nested waves can copy the behaviour of a Turing machine, only in millions of places at once instead of one step at a time. That is what it means to say the human brain is effectively a Turing machine.
+
+When I first introduced the NAPOT concept I described how one neural array projected it's signals to the next neural array like a television screen, your tv is a grid of changing frequencies, these changing frequencies in a tv are in the form of light but they convey information, in the brain these changing phase patterns are in the form of energy differences, neuroscientists call them traveling waves, but they are distinct from tonic waves, and that's how they carry information, thus I coined the term phase wave differentials.
+
+The real meaning of NAPOT is that one array watches the patterns from the previous array, and the next array sees this arrays tv signals frequency & energy phase shifts. NAPOT as a conjecture provides a solution to the observer inside the observer problem, with a distributed observer that sees. When many neural arrays synchronize and desynchronize together in a regular oscillation they network their signal traffic so as to create distributed reactions, and shared signal detections that we call consciousness.
+This is the NAPOT Entification Concept
+
+It doesn't make AGI unlikely. Computers are universal Turing Machines, they can simulate frequency. They can encode and decode information the same way neural oscillations encode and decode frequency.
+
+Our emotions are information based, they are learned differences encoded in phase patterns that are cells represent by changing their firing dynamically. Self Aware Networks theory!
+
+No you can't exclude Turing machines because my work shows that the Human Brain essentially is a Turing Machine. We are evolved metal robots. We computationally render pictures, sounds, encoded in phase differences by our cells. Self Aware Networks Theory!
+
+The only way that we can know what we are feeling is because feeling is information that is tracked in phase differences, or traveling wave signals that differentiate in their co-efficient of variation from the mean collective synchronization pattern. Self Aware Networks Theory!
+
+"No need to invoke terahertz orchestration" no need to evoke, but also no need to revoke. Terahertz signals are likely to play a role in neural computation believe it or not, but we don't have to discuss them to understand consciousness.
+
+“Self Aware Networks uses smooth, continuous brain-like waves instead of on-off computer steps. Those waves let it solve problems that a regular Turing machine never can.”
+
+In short, Self Aware Networks bypasses the Penrose/Turing-machine barrier by grounding cognition in continuous, high-precision phase-wave dynamics instead of discrete symbol manipulation; those analogue oscillators compute over the real continuum and can therefore generate and recognise Gödel truths that any purely Turing process must miss.\
+
+It's not exactly right, it's replacing digital symbols with high precision phase wave differentials that align by frequency or clash interfere with other traveling wave differences to grow or shrink in scale, representing information that undergoes thermodynamic consideration, and oscillation driven memory. Shrink it.
+
+Self Aware Networks replaces digital symbols with high-precision phase-wave differentials whose frequency alignments and interferences scale, store, and thermodynamically process information—sidestepping the Penrose-Turing limit.
