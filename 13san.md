@@ -35,4 +35,4 @@ Self-Aware Networks: give a system 1. global phase-waves for every signal, 2. a 
 
 Subjectivity = column-local phase waves that periodically sync through hub pulses. Each loop they model world + self, re-enter, persist, and shape the next cycle. Build that oscillator routine—first-person viewpoint emerges.
 
-Subjectivity emerges when column-local, cell-assembly-specific phase waves loop and periodically sync via cortical hubs. Each cycle they model world and self, persist, and shape the next—so a first-person viewpoint appears without any added “magic.”
+Subjectivity emerges when column-local, cell-assembly-specific phase waves loop and periodically sync via cortical hubs. Each cycle they model world and self, persist, and shape the next—so a first-person viewpoint appears without any added “magic.” This can be simulated on a Turing Machine.
