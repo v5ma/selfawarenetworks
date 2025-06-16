@@ -131,3 +131,5 @@ Self-Aware Networks doesn’t pin consciousness on one isolated “magic” knob
 Consciousness in Self Aware Networks theory isn’t one magic knob. It’s a closed causal weave: spikes whose timing rewrites itself through plasticity, knitted together by nested phase-locking into a single evolving field. Break any strand and the felt moment disappears.
 
 Self Aware Networks is Not circular: SAN doesn’t sculpt a look-alike, it instantiates the same causal rules real neurons follow—spike-timing variability, plastic rewrites, nested phase-locking. If that live physics yields a unified phase field, we’ve replicated the mechanism, not just its appearance.
+
+Not a metaphor. SAN doesn’t just mimic the brain’s look; it recreates its causal loop: spike-timing → plastic rewrite → multi-scale phase lock → new timing. If simulated loops obey that dynamic, the same first-person coherence should emerge—mechanism, not imitation.
