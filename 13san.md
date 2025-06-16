@@ -66,4 +66,4 @@ An exponential map is a one-way street: the rule f(x)=eˣ never changes. In Self
 
 eˣ is fixed: same rule every call. In SAN an oscillator’s timing feeds back to rewrite the rule that sets the next spike, then network sync bends that rule again. Causality edits its own causal law—far beyond a static input→output map.
 
-Classic recurrent code just feeds outputs back while the update rule stays fixed. SAN’s loop is metaplastic: each action-potential timing rewrites the very formula that sets the next one, and nested phase-locking spreads those rule changes across the hierarchy—something expert systems never did.
+Classic recurrent code just feeds outputs back while the update rule stays fixed. Self Aware Network loops are metaplastic: each action-potential timing rewrites the very formula that sets the next one, and nested phase-locking spreads those rule changes across the hierarchy, something expert systems never did.
