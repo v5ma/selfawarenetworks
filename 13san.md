@@ -65,3 +65,5 @@ Self-reference isn’t magic: next_state = f(current_state, input). In SAN each 
 An exponential map is a one-way street: the rule f(x)=eˣ never changes. In Self Aware Networks the rule and the variable co-evolve—each spike’s timing tweaks the very formula that will time the next spike, and that rule is further bent by the synchrony wave coming from every other loop. It’s rule-changing-the-rule, not just input-to-output, and that reflexive reshaping is what generic causal functions lack.
 
 eˣ is fixed: same rule every call. In SAN an oscillator’s timing feeds back to rewrite the rule that sets the next spike, then network sync bends that rule again. Causality edits its own causal law—far beyond a static input→output map.
+
+Classic recurrent code just feeds outputs back while the update rule stays fixed. SAN’s loop is metaplastic: each action-potential timing rewrites the very formula that sets the next one, and nested phase-locking spreads those rule changes across the hierarchy—something expert systems never did.
