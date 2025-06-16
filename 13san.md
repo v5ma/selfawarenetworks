@@ -69,3 +69,15 @@ eˣ is fixed: same rule every call. In SAN an oscillator’s timing feeds back t
 Classic recurrent code just feeds outputs back while the update rule stays fixed. Self Aware Network loops are metaplastic: each action-potential timing rewrites the very formula that sets the next one, and nested phase-locking spreads those rule changes across the hierarchy, something expert systems never did.
 
 Not “because I said so.” In SAN each neuron runs a read-write-move loop: read incoming phase, write a new phase via spike length, pass it on. That loop is the core of a Turing tape. Billions of such loops in sync render the images and sounds we experience.
+
+When I say “nested phase-locking spreads those rule changes across the hierarchy,” I’m talking about how timing shifts that start inside one local loop don’t stay local.
+
+Inside a column or cell assembly, the next spike length is computed from the coefficient-of-variation of its own recent spikes. That calculation is the local update rule.
+
+Whenever many neighbouring loops drift into the same relative timing, they enter phase-lock and fire a brief burst that travels to hub neurons. The hub sends a resynchronisation pulse back down after a fixed delay.
+
+That pulse resets the reference phase for every loop it touches, so each loop now recalculates its coefficient with respect to the new global rhythm. In effect, the hub’s pulse has just rewritten the local update rule everywhere it reaches.
+
+Slower, broader rhythms (theta or alpha–beta) act as hubs for clusters of faster gamma-band loops; those hubs in turn are entrained by still slower cortical or thalamic oscillations. Thus a timing tweak that begins in one micro-loop can cascade upward and then back down, altering the effective update law for thousands of other loops.
+
+Because each level’s rhythm both depends on and resets the level below, any metaplastic change made locally—say, a longer-than-usual spike that pushes a neighbour’s phase—can propagate through these lock-and-pulse steps until the whole hierarchy has incorporated the new timing constraint. That bidirectional phase-locking is what I meant by rule changes “spreading across the hierarchy.”
