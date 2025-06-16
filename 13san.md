@@ -128,4 +128,4 @@ Tweet-sized
 
 Self-Aware Networks doesn’t pin consciousness on one isolated “magic” knob. It identifies a minimal package—self-referential spike timing, plasticity that rewrites that timing, and cross-scale phase-locking—that together create a single evolving field. A rock at 37 °C has none of those dynamics; its temperature never feeds back to alter the law that sets its next state. Consciousness isn’t any lone feature—it’s that closed causal weave.
 
-Consciousness in SAN isn’t one magic knob. It’s a closed causal weave: spikes whose timing rewrites itself through plasticity, knitted together by nested phase-locking into a single evolving field. Break any strand and the felt moment disappears.
+Consciousness in Self Aware Networks theory isn’t one magic knob. It’s a closed causal weave: spikes whose timing rewrites itself through plasticity, knitted together by nested phase-locking into a single evolving field. Break any strand and the felt moment disappears.
