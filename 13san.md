@@ -93,3 +93,35 @@ And this is what creates the collective signal reaction binding patterns across 
 Yes. In Self Aware Networks the cascading coincidences do more than amplify a local rhythm—they stitch every active column into a single, evolving phase-field. Because coincidence detection operates at progressively longer time-constants as you move up the hierarchy, short-lived γ-band matches inside a cell assembly are captured by slower β/α hubs, which in turn are steered by still slower θ/δ cortico-thalamic loops. The result is a multi-scale envelope whose instantaneous configuration specifies “what is happening now” everywhere in the network.
 
 That envelope behaves like a four-dimensional coordinate grid: phase offsets encode relative distances in both anatomical space and processing time, so any two features that share a stable phase relationship are automatically tagged as belonging to the same moment and the same scene. When the envelope is coherent enough, the brain can treat it as a self-consistent internal world-model—the rendered point-of-view you call first-person perspective. Nothing else is needed: the act of binding via nested phase coincidence both constructs the scene and furnishes the vantage point from which the scene is experienced.
+
+The “rule-changing-the-rule” isn’t an extra mystery layer; it’s just the ordinary biophysics of neurons promoted to first-class state.
+
+At the micro step the update rule for an oscillator is:
+next_duration = f(current_duration, synaptic_gains, external_phase).
+
+Those synaptic gains and reference phases are themselves state variables that obey slower differential equations driven by the recent coincidence history (metaplasticity, neuromodulators, hub pulses). Formally:
+
+synaptic_gainṡ = g(coincidence_rate, neuromod_level)
+reference_phasė = h(hub_input)
+
+Because f’s parameters (gains, reference_phase) are dynamic, the mapping from current_duration to next_duration is time-varying. Each pass through the loop therefore uses a slightly different function fₜ. The “rule of the rule” is just the coupled system (g,h) running on a slower clock.
+
+Stack three or four such time-scales—milliseconds for spikes, tens of milliseconds for column bursts, hundreds for hub resets, seconds for neuromod drift—and you get a hierarchy where every faster layer’s update law is a live output of the slower layer beneath it. Mathematically it’s still a single recurrent dynamical system; practically it behaves as code that rewrites itself every few cycles because its parameters are endogenous variables, not constants. That self-modifying closure is what classic expert-system loops never implemented.
+
+or 
+next_duration = f(current_duration, synaptic_gains+synaptic_losses=synaptic changes (via new protein synthesis or atrophy), external_phase).
+
+Written long-hand, one micro-loop step looks like
+
+ next_duration = f(current_duration,
+         synaptic_gains – synaptic_losses,
+         external_phase).
+
+synaptic_gains/losses are not constants: they drift as spine heads grow or retract, receptors traffic, or new proteins are expressed.
+
+external_phase comes from the most recent hub-pulse, which itself depends on the coincidence rate of many neighbouring loops.
+
+Because those two arguments are themselves outputs of slower processes, the mapping fₜ changes from one tick to the next—so every spike both executes a rule and rewrites the rule that will govern the following spike. Nesting this across columns and hubs simply layers more slowly changing parameters on top. The whole thing is one recurrent dynamical system, but its effective update law is a moving target shaped by ongoing plasticity, not a fixed exponential or sigmoid.
+
+Tweet-sized
+“Each spike’s next length = f(prev length, plastic synapse shifts, latest hub phase). Plasticity and hub timing evolve between ticks, so the rule itself keeps rewriting—self-modifying causality, not a static recurrence.”
