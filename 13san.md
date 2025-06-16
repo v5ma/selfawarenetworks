@@ -134,4 +134,4 @@ Self Aware Networks is Not circular: SAN doesn’t sculpt a look-alike, it insta
 
 Not a metaphor. SAN doesn’t just mimic the brain’s look; it recreates its causal loop: spike-timing → plastic rewrite → multi-scale phase lock → new timing. If simulated loops obey that dynamic, the same first-person coherence should emerge—mechanism, not imitation.
 
-Already studied Shadows of the Mind. SAN tackles Penrose head-on: it models continuous phase dynamics step-by-step, exposing his non-computability claim to empirical test. No mania here—just building a falsifiable simulation and letting the data decide.
+Already studied Shadows of the Mind. Self Aware Networks tackles Penrose head-on: it models continuous phase dynamics step-by-step, exposing his non-computability claim to empirical test. No mania here—just building a falsifiable simulation and letting the data decide.
