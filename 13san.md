@@ -216,3 +216,5 @@ In essence, researchers like Fries and Lakatos are using quantitative methods to
 Penrose’s Planck-scale “oracle” loops aren’t required. In Self Aware Networks, millisecond-scale phase cycles already form a self-referential analogue loop to outpace step-wise Turing limits. If deeper spacetime loops exist they add precision, not the spark of consciousness.
 
 Self Aware Networks isn’t hand-waving; it transcribes empirically measured timing laws into code and lets the resulting dynamics speak for themselves.
+
+Not pointing to one variable—pointing to a closed causal loop. In Self Aware Networks, consciousness isn’t in the phase-wave; it is the ongoing process of timing, syncing, and rewriting across the whole field. No single part is “it”—the loop as a whole is.
