@@ -42,7 +42,7 @@ those experiences with others. You could share those experiences in court. We al
 
 defending our brains against remote hacks. And we boldly, we dare to boldly go where no one has gone
 
-before. So welcome very much to the Neuralace podcast. Your host is Mike Bloomberg. The reality
+before. So welcome very much to the Neuralace podcast. Your host is Micah Blumberg. The reality
 
 is that Neuralace is a brain-computer interface. It's not the same as the EG because it's bi-directional
 
@@ -696,7 +696,7 @@ Detected language: English
 
 [01:36.120 --> 01:43.200]  defending our brains against remote hacks. And we boldly, we dare to boldly go where no one has gone
 
-[01:43.200 --> 01:49.700]  before. So welcome very much to the Neuralace podcast. Your host is Mike Bloomberg. The reality
+[01:43.200 --> 01:49.700]  before. So welcome very much to the Neuralace podcast. Your host is Micah Blumberg. The reality
 
 [01:49.700 --> 01:55.920]  is that Neuralace is a brain-computer interface. It's not the same as the EG because it's bi-directional
 
