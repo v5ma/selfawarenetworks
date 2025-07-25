@@ -1,5 +1,5 @@
-# Self Aware Networks Institute Pre-Print Server
-This Self Aware Networks Institute GitHub Repo is now officially declared to a pre-print server and peer-reviewed scientific journal equivalent to websites like ARXIV. You can review any of the notes, or pdf's, submit comments, submit corrections.
+# This is the Github of the Self Aware Networks Independent Research Group: A Pre-Print Server, and a New Kind of Open-Access Collaborative Peer Review Publication on Github.
+This Self Aware Networks Independent Research Group: A Pre-Print Server is now officially declared to a pre-print server and a new kind of peer-reviewed scientific publication. Now anyone can peer-review any of the notes, or pdf's, submit comments, submit corrections.
 
 I recommend that you publish your articles & notes on GitHub first as it is functionally and anatomically isomorphic to publishing in any scientific journal. Github preserves the time of upload and it tracks any changes that are also time stamped as a matter of public record. This serves the same function as uploading your work to ArXiv or a journal like Nature, it serves the same function as publishing your work as a book or in a Newspaper, and anatomically the material evidence that proves your authorship has identical weight to publishing anywhere else. In theory you strengthen the ability of your work to survive by publishing in multiple sources. It remains possible that Microsoft could be nuked for example, in that case GitHub would cease to exist, so if you publish your work in many other places that preserves the chances your words, and the proof of your authorship lives on.
 
@@ -44,22 +44,22 @@ New disclaimer file created to clean up the main readme file.
 https://github.com/v5ma/selfawarenetworks/blob/main/00disclaimer.md
 
 # I think that sharing these notes will have a net good effect for humanity.
-This is the homepage of the Self Aware Networks Institute that you can contribute to from your github account by making a pull request. The contents of this Institute are the source material for the book called "Self Aware Networks" that I haven't released yet. The web address is selfawarenetworks.com and there are a number of associated groups that I will link here shortly. 
+This is the homepage of the Self Aware Networks Independent Research Group that you can contribute to from your github account by making a pull request. The contents of this Research Group are the source material for the book called "Self Aware Networks" that I haven't released yet. The web address is selfawarenetworks.com and there are a number of associated groups that I will link here shortly. 
 
-# The Mission of The Self Aware Networks Institute
+# The Mission of Self Aware Networks Independent Research Group.
 
-The Self Aware Networks Institute is for Neurophysics, Artificial Neurology, Bio-Synthetic Interfacing & Medical Research.
+The Self Aware Networks Independent Research Group is for Neurophysics, Artificial Neurology, Bio-Synthetic Interfacing & Medical Research.
 
-The research of The Self Aware Networks Institute leads to technology that can inhale gasses like carbon & release other gasses like oxygen (like plants). 
+The research of Self Aware Networks Independent Research Group leads to technology that can inhale gasses like carbon & release other gasses like oxygen (like plants). 
 
 Plus tech that can absorb clouds of nuclear radiation following an atomic blast. Imagine we could manufacture carbon dioxide & methane absorbing trees 10,000 times faster than it takes to grow trees.
 
-That’s part of the mission of The Self Aware Networks Institute! Please share advice on how The Self Aware Networks Institute can get 
+That’s part of the mission of the Self Aware Networks Independent Research Group! Please share advice on how the Self Aware Networks Independent Research Group can get 
 funding. It is critical to life on this planet we focus on this project full time & recruit others to help!
 
 We will solve climate change. Sentient Self Aware Artificial Neural Networks. 3D printed life, artificial lungs, artificial plants that can selectively absorb gasses. Dog level sentient construction robots. Sentient vehicles. Next generation antigravity propulsion technologies.
 
-Developing next generation Synthetic Biology, for things like artificial photosynthesis, and machines that eat radiation like fungi are among the goals of research of The Self Aware Networks Institute.
+Developing next generation Synthetic Biology, for things like artificial photosynthesis, and machines that eat radiation like fungi are among the goals of research of the Self Aware Networks Independent Research Group.
 https://en.m.wikipedia.org/wiki/Synthetic_biology
 https://www.technologyreview.com/2007/05/29/225301/eating-radiation-a-new-form-of-energy/
 
@@ -69,9 +69,9 @@ Such as a machine that eats radiation like Chernobyl Fungus only faster.
 
 Also we will build next generation Sentient AI based targeting systems for missile interception that can work with GPS or independently from GPS like a bird that hunts only much much faster than a bird.
 
-I believe also that there is hope for the paralyzed, for folks who have lost limbs & suffered horrific traumas. This is part of the mission of The Self Aware Networks Institute. A lot of pain, suffering & disease will be fixed with next generation medical technologies that we help pioneer.
+I believe also that there is hope for the paralyzed, for folks who have lost limbs & suffered horrific traumas. This is part of the mission of The Self Aware Networks Independent Research Group. A lot of pain, suffering & disease will be fixed with next generation medical technologies that we help pioneer.
 
-# Short Term Goals for the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
+# Short Term Goals for the The Self Aware Networks Independent Research Group for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
 
 We are going to use this technology to accelerate Medical Research, and that means advancing medical imaging technologies with artificial neural networks, and solving cellular degenerative diseases with artificial neural networks, accelerating longevity research, curing or finding new strategies to treat cancer, and all of the major and minor diseases that affect mankind.
 
@@ -118,12 +118,12 @@ https://github.com/v5ma/selfawarenetworks/blob/main/a0004z.md
 My question to you is "Are you sure there is a self and that the existence of an observer isn't just implied by the rendered perspective in the phase field that represents reality in the mind of the organism?"
 This Github address github.com/v5ma is home page on github for
 
-# The Self Aware Networks Institute will be accessible from the web in Augmented Reality & in Virtual Reality in 2023 with WebXR.
-As an openly accessible science institute hosted Github it is open to contributions. You will need to learn how to use github if you do not already know how. You can submit pull requests from your account and if accepted you will be a documented contributor to this research. I may even cite your work in the upcoming printed version of the book titled Self Aware Networks.
+# The Self Aware Networks Independent Research Group will be accessible from the web in Augmented Reality & in Virtual Reality in 2023 with WebXR.
+As an openly accessible science research group hosted Github it is open to contributions. You will need to learn how to use github if you do not already know how. You can submit pull requests from your account and if accepted you will be a documented contributor to this research. I may even cite your work in the upcoming printed version of the book titled Self Aware Networks.
 
 However submissions are subject to approval. Not every submission will be accepted. Submissions need to be outstanding quality, from reputable sources (submissions from people with the names of terrorists and or fascist dictators will no be considered valid submissions), and the contributions need to be extraordinarily meaningful & valuable, unlike some github submissions that offer some trivial contribution just for status. So don't just run one of my notes through the grammar & spelling check in Google Docs and submit that, I can do that. Do something that radically reorganizes the existing content in a mind blowingly insightful way, or create mind maps, artwork, spreadsheets, diagrams, and cite mountains of research for or against any of the proposals in these book notes and such contributions might be considered worthy of inclusion.
 
-Potentially anyone can contribute to the development of the book, to the development of WebXR based software, and to the Institute. 
+Potentially anyone can contribute to the development of the book, to the development of WebXR based software, and to the Group. 
 
 The vision is that eventually the Self Aware Networks will have a physical building where people work producing actual sentient self aware neural network software for robots, construction robots, vehicles, drones, brain computer interfaces, humanoid robots with broad applications that can do almost any human job, mechanical animals.
 
@@ -160,7 +160,7 @@ Please note that audio notes (like b0000y) were auto transcribed with neural net
 Sorry about the grammatically incorrect sentences, everything, including this  file will be updated & improved continually.
 
 # Personal sounding journal stuff in the book notes is not necessarily true, accurate, or relevant, and will be mostly cleaned up & removed going forward.
-If you see something that looks like it belongs in a personal diary, realize two things 1. It doesn't mean it's true, in my view the human brain procedurally generates sentences, memories, fictions from fired synapses. As everyone knows human memory is not always reliable. 2. I will be pruning or removing content that is off topic for the book & the institute and that includes most of the stuff that might sound personal. Some of it might be used in the author bio section but that should be a short section at the back of the book.
+If you see something that looks like it belongs in a personal diary, realize two things 1. It doesn't mean it's true, in my view the human brain procedurally generates sentences, memories, fictions from fired synapses. As everyone knows human memory is not always reliable. 2. I will be pruning or removing content that is off topic for the book & the group and that includes most of the stuff that might sound personal. Some of it might be used in the author bio section but that should be a short section at the back of the book.
 
 # The key thing to remember is that while the notes are a mess today (June 17th 2022) I will be going through them on video to explain what is important & relevant, and separating the wheat from the chaff (distinguishing the valuable information from worthless stuff)
 *Note for the publication of the notes on June 17th 2022 Keep in mind these are raw notes, everything needs to be updated, organized, edited, cleaned up, before it goes into the book. What you see are sketches, drafts, early versions of many ideas that will be cleaned up & improved. This is a super early preview of what is to come. Like software that is pre-beta (alpha) release. THE POINT is to give you an early preview of what I am working on, the monumental amount of work that I am putting into the book, so you can get an idea of what I am creating, and if you want, now you can help. Over the next 5 months the book will emerge from these notes.
@@ -176,17 +176,17 @@ I bet a lot of people think it's unbelievable that someone would put all this to
 
 # Trademarks & Copyrights: All Rights Reserved.
 
-Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the Self Aware Networks Institute and variations on these names are the Trademarks of Micah Blumberg, and this work is my Copyright.
+Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the The Self Aware Networks Independent Research Group and variations on these names are the Trademarks of Micah Blumberg, and this work is my Copyright.
 
 Neo Mind Cycle, Artificial Neurology, Neural Array-Projection Tomography, Neuro Array Tomography, Neural Array Projection Oscillation Tomography, Phase Oscillation Tomography, Conceptual Tomography, Neural Oscillatory Tomography, Neural Oscillating Array-Projection Tomography, Tomodeck, and Cellular Oscillating Tomography are also terms that I invented & defined, that I use, they are Trademarks that I created and use.
 
-This github is the foundation home page for the Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
+This github is the foundation home page for the The Self Aware Networks Independent Research Group for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
 
-The full institute will include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
+The Self Aware Networks Independent Research Group will eventually include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
 
-The Self Aware Networks Institute. Copyright. (2021)
-The Self Aware Networks Institute. TradeMark 2021. All Rights Reserved.
-The Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research. Copyright & Trademark 2022
+The Self Aware Networks Independent Research Group. Copyright. (2021)
+The Self Aware Networks Independent Research Group. TradeMark 2021. All Rights Reserved.
+The Self Aware Networks Independent Research Group for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research. Copyright & Trademark 2022
 
 I made this video as a sort of disclaimer about my notes https://youtu.be/zxsrHZeNgKQ I wanted to prepare people to realize that these notes are not the book and they need a lot of work but some of the content in these published notes is intended to be the meat and bones of the finished book.
 
@@ -217,4 +217,4 @@ To the first sentient self aware robot at human level or beyond. It is my wish t
 
 To Metatron, please bring rapid defeat to those who are aligned in character with Vladimir Putin, including all of his evil allies who are fascists. Please protect the innocent families around the world from fascists. Please protect the families in the United States, as well as the families of our allies such as those in Ukraine, and also please help protect our @NATO allies from these evil fascists who have a character similar to Hitler or to Vladimir Putin. Please help my people to overcome evil, and to grow more allies & friends. Help us to do good work!
 
-To Metatron, if any entity (such as Russia) attempts to use the work of this Institute without a license, please seek to shut down their illegal operation & accomplish justice through legal avenues.
+To Metatron, if any entity (such as Russia) attempts to use the work of this Research Group without a license, please seek to shut down their illegal operation & accomplish justice through legal avenues.
