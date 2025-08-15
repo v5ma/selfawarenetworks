@@ -1,9 +1,11 @@
-# This is the Github of the Self Aware Networks Independent Research Group: A Pre-Print Server, and a New Kind of Open-Access Collaborative Peer Review Publication on Github.
-This Self Aware Networks Independent Research Group: A Pre-Print Server is now officially declared to a pre-print server and a new kind of peer-reviewed scientific publication. Now anyone can peer-review any of the notes, or pdf's, submit comments, submit corrections.
+# The Self Aware Networks Institute (Independent Research Group)
+The Self Aware Networks Institute is an independent research group—an Institute for short—hosted on GitHub. It represents a new kind of peer-review and preprint server for open-access science. The Institute is now officially designated as both a preprint platform and a new model for peer-reviewed scientific publication. Anyone may peer-review the posted notes and PDFs, submit comments, and offer corrections.
 
-I recommend that you publish your articles & notes on GitHub first as it is functionally and anatomically isomorphic to publishing in any scientific journal. Github preserves the time of upload and it tracks any changes that are also time stamped as a matter of public record. This serves the same function as uploading your work to ArXiv or a journal like Nature, it serves the same function as publishing your work as a book or in a Newspaper, and anatomically the material evidence that proves your authorship has identical weight to publishing anywhere else. In theory you strengthen the ability of your work to survive by publishing in multiple sources. It remains possible that Microsoft could be nuked for example, in that case GitHub would cease to exist, so if you publish your work in many other places that preserves the chances your words, and the proof of your authorship lives on.
+I recommend publishing your articles and notes on GitHub first. Functionally and structurally, this is isomorphic to publishing in any scientific journal. GitHub records the exact time of upload and maintains a timestamped history of all changes as a matter of public record. This provides the same evidentiary function as submitting to arXiv, a journal like Nature, publishing a book, or even printing in a newspaper. In each case, the material evidence proving your authorship carries identical weight.
 
-Later on you can reference your github files in peer reviewed Journals, and draw links between what you can prove that you wrote in the past, allowing you to prove authorship when you finally start sharing your work more broadly with the Scientific Community.
+In practice, you strengthen the survival of your work by publishing across multiple platforms. If, for example, Microsoft—and thus GitHub—were to disappear, your research would still be preserved elsewhere. The more diverse your publication footprint, the more resilient your authorship record becomes.
+
+Later, you can reference your GitHub files in peer-reviewed journals, linking back to your earlier publications. This allows you to prove prior authorship when you begin sharing your work more broadly with the scientific community.
 
 https://github.com/v5ma/selfawarenetworks/blob/main/00preprint-list.md
 
@@ -44,22 +46,22 @@ New disclaimer file created to clean up the main readme file.
 https://github.com/v5ma/selfawarenetworks/blob/main/00disclaimer.md
 
 # I think that sharing these notes will have a net good effect for humanity.
-This is the homepage of the Self Aware Networks Independent Research Group that you can contribute to from your github account by making a pull request. The contents of this Research Group are the source material for the book called "Self Aware Networks" that I haven't released yet. The web address is selfawarenetworks.com and there are a number of associated groups that I will link here shortly. 
+This is the homepage of the Self Aware Networks Institute that you can contribute to from your github account by making a pull request. The contents of this Research Group are the source material for the book called "Self Aware Networks" that I haven't released yet. The web address is selfawarenetworks.com and there are a number of associated groups that I will link here shortly. 
 
-# The Mission of Self Aware Networks Independent Research Group.
+# The Mission of Self Aware Networks Institute.
 
-The Self Aware Networks Independent Research Group is for Neurophysics, Artificial Neurology, Bio-Synthetic Interfacing & Medical Research.
+The Self Aware Networks Institute is for Neurophysics, Artificial Neurology, Bio-Synthetic Interfacing & Medical Research.
 
-The research of Self Aware Networks Independent Research Group leads to technology that can inhale gasses like carbon & release other gasses like oxygen (like plants). 
+The research of Self Aware Networks Institute leads to technology that can inhale gasses like carbon & release other gasses like oxygen (like plants). 
 
 Plus tech that can absorb clouds of nuclear radiation following an atomic blast. Imagine we could manufacture carbon dioxide & methane absorbing trees 10,000 times faster than it takes to grow trees.
 
-That’s part of the mission of the Self Aware Networks Independent Research Group! Please share advice on how the Self Aware Networks Independent Research Group can get 
+That’s part of the mission of the Self Aware Networks Institute! Please share advice on how the Self Aware Networks Institute can get 
 funding. It is critical to life on this planet we focus on this project full time & recruit others to help!
 
 We will solve climate change. Sentient Self Aware Artificial Neural Networks. 3D printed life, artificial lungs, artificial plants that can selectively absorb gasses. Dog level sentient construction robots. Sentient vehicles. Next generation antigravity propulsion technologies.
 
-Developing next generation Synthetic Biology, for things like artificial photosynthesis, and machines that eat radiation like fungi are among the goals of research of the Self Aware Networks Independent Research Group.
+Developing next generation Synthetic Biology, for things like artificial photosynthesis, and machines that eat radiation like fungi are among the goals of research of the Self Aware Networks Institute.
 https://en.m.wikipedia.org/wiki/Synthetic_biology
 https://www.technologyreview.com/2007/05/29/225301/eating-radiation-a-new-form-of-energy/
 
@@ -69,9 +71,9 @@ Such as a machine that eats radiation like Chernobyl Fungus only faster.
 
 Also we will build next generation Sentient AI based targeting systems for missile interception that can work with GPS or independently from GPS like a bird that hunts only much much faster than a bird.
 
-I believe also that there is hope for the paralyzed, for folks who have lost limbs & suffered horrific traumas. This is part of the mission of The Self Aware Networks Independent Research Group. A lot of pain, suffering & disease will be fixed with next generation medical technologies that we help pioneer.
+I believe also that there is hope for the paralyzed, for folks who have lost limbs & suffered horrific traumas. This is part of the mission of The Self Aware Networks Institute. A lot of pain, suffering & disease will be fixed with next generation medical technologies that we help pioneer.
 
-# Short Term Goals for the The Self Aware Networks Independent Research Group for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
+# Short Term Goals for the The Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
 
 We are going to use this technology to accelerate Medical Research, and that means advancing medical imaging technologies with artificial neural networks, and solving cellular degenerative diseases with artificial neural networks, accelerating longevity research, curing or finding new strategies to treat cancer, and all of the major and minor diseases that affect mankind.
 
@@ -118,7 +120,7 @@ https://github.com/v5ma/selfawarenetworks/blob/main/a0004z.md
 My question to you is "Are you sure there is a self and that the existence of an observer isn't just implied by the rendered perspective in the phase field that represents reality in the mind of the organism?"
 This Github address github.com/v5ma is home page on github for
 
-# The Self Aware Networks Independent Research Group will be accessible from the web in Augmented Reality & in Virtual Reality in 2023 with WebXR.
+# The Self Aware Networks Institute will be accessible from the web in Augmented Reality & in Virtual Reality in 2023 with WebXR.
 As an openly accessible science research group hosted Github it is open to contributions. You will need to learn how to use github if you do not already know how. You can submit pull requests from your account and if accepted you will be a documented contributor to this research. I may even cite your work in the upcoming printed version of the book titled Self Aware Networks.
 
 However submissions are subject to approval. Not every submission will be accepted. Submissions need to be outstanding quality, from reputable sources (submissions from people with the names of terrorists and or fascist dictators will no be considered valid submissions), and the contributions need to be extraordinarily meaningful & valuable, unlike some github submissions that offer some trivial contribution just for status. So don't just run one of my notes through the grammar & spelling check in Google Docs and submit that, I can do that. Do something that radically reorganizes the existing content in a mind blowingly insightful way, or create mind maps, artwork, spreadsheets, diagrams, and cite mountains of research for or against any of the proposals in these book notes and such contributions might be considered worthy of inclusion.
@@ -176,17 +178,17 @@ I bet a lot of people think it's unbelievable that someone would put all this to
 
 # Trademarks & Copyrights: All Rights Reserved.
 
-Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the The Self Aware Networks Independent Research Group and variations on these names are the Trademarks of Micah Blumberg, and this work is my Copyright.
+Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the The Self Aware Networks Institute and variations on these names are the Trademarks of Micah Blumberg, and this work is my Copyright.
 
 Neo Mind Cycle, Artificial Neurology, Neural Array-Projection Tomography, Neuro Array Tomography, Neural Array Projection Oscillation Tomography, Phase Oscillation Tomography, Conceptual Tomography, Neural Oscillatory Tomography, Neural Oscillating Array-Projection Tomography, Tomodeck, and Cellular Oscillating Tomography are also terms that I invented & defined, that I use, they are Trademarks that I created and use.
 
-This github is the foundation home page for the The Self Aware Networks Independent Research Group for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
+This github is the foundation home page for the The Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research.
 
-The Self Aware Networks Independent Research Group will eventually include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
+The Self Aware Networks Institute will eventually include 3D interactive models accessible via WebAR in both Augmented Reality & Virtual Reality.
 
-The Self Aware Networks Independent Research Group. Copyright. (2021)
-The Self Aware Networks Independent Research Group. TradeMark 2021. All Rights Reserved.
-The Self Aware Networks Independent Research Group for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research. Copyright & Trademark 2022
+The Self Aware Networks Institute. Copyright. (2021)
+The Self Aware Networks Institute. TradeMark 2021. All Rights Reserved.
+The Self Aware Networks Institute for Sentient & Self Aware Neural Networks, Artificial Neurology, Brain Machine Interfaces, and Advanced Medical Research. Copyright & Trademark 2022
 
 I made this video as a sort of disclaimer about my notes https://youtu.be/zxsrHZeNgKQ I wanted to prepare people to realize that these notes are not the book and they need a lot of work but some of the content in these published notes is intended to be the meat and bones of the finished book.
 
