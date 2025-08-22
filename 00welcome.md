@@ -1,5 +1,9 @@
 Self Aware Networks: Theory of Mind
 
+Self Aware Networks (SAN) is an academic, science-based theory of mind and consciousness. It models human phenomenology and provides a framework that also applies to artificial intelligence.
+
+Clarification (Non-Commercial Research): Self Aware Networks (SAN) is an academic theory of mind and consciousness that applies to humans and AI. This repository is an open-science research notebook and preprint workspace.
+
 This is the github page for the Self Aware Networks Theory of Mind, the plan is for Self Aware Networks to become an Institute of Scientific Research for Organic & Artificial Neurology, Artificial Brains, for Neurophysics, Physics, the development of technology that can revolutionize medical research, solve some of the world's biggest issues, built next generation technologies, and this includes next generation Brain Computer Interfaces, as well as life extension technologies.
 
 # Watch the NAPOT 5 video releases September 18th 2022
