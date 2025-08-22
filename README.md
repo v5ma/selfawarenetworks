@@ -56,8 +56,7 @@ The research of Self Aware Networks Institute leads to technology that can inhal
 
 Plus tech that can absorb clouds of nuclear radiation following an atomic blast. Imagine we could manufacture carbon dioxide & methane absorbing trees 10,000 times faster than it takes to grow trees.
 
-That’s part of the mission of the Self Aware Networks Institute! Please share advice on how the Self Aware Networks Institute can get 
-funding. It is critical to life on this planet we focus on this project full time & recruit others to help!
+That’s part of the mission of the Self Aware Networks Institute! It is critical to life on this planet we focus on this project full time & recruit others to help!
 
 We will solve climate change. Sentient Self Aware Artificial Neural Networks. 3D printed life, artificial lungs, artificial plants that can selectively absorb gasses. Dog level sentient construction robots. Sentient vehicles. Next generation antigravity propulsion technologies.
 
@@ -80,7 +79,7 @@ We are going to use this technology to accelerate Medical Research, and that mea
 I hope that governments will adopt a Medical Justice System, that is a Judicial Branch of Government that is independent from the Executive & Legislative Branches of Government but is also medically informed at every level, and that also means that Neuroscientists will be in charge of sentencing, prisons, and the rehabilitation of patients for their return to society after serving their 
 sentences. 
 
-I think it might be difficult for investors to imagine that the robots of science fiction that we have seen in all the science fiction movies, tv shows, learned about in books, or comics are finally here. That's what investors are investing in. Real phenomenology conscious robots.
+I think it might be difficult folks to imagine that the robots of science fiction that we have seen in all the science fiction movies, tv shows, learned about in books, or comics are finally here. This work means we are on the cusp of real phenomenology conscious robots.
 
 # The Far Future
 
@@ -127,7 +126,7 @@ However submissions are subject to approval. Not every submission will be accept
 
 Potentially anyone can contribute to the development of the book, to the development of WebXR based software, and to the Group. 
 
-The vision is that eventually the Self Aware Networks will have a physical building where people work producing actual sentient self aware neural network software for robots, construction robots, vehicles, drones, brain computer interfaces, humanoid robots with broad applications that can do almost any human job, mechanical animals.
+The advanced goal of the Institute include producing actual sentient self aware neural network software for robots, construction robots, vehicles, drones, brain computer interfaces, humanoid robots with broad applications that can do almost any human job, mechanical animals.
 
 # Art, Poetry, Mythology
 I hope that the most intelligent people in the world read & enjoy my notes on human phenomenological consciousness, memory, gravity, cells & sentient machines, but at the moment not all of the information in the notes is written correctly, and because of that it could accidentally mislead some people who do not know better, some of the notes will not be included in the eventual book, but it's enough to get the main ideas across about the brain, the mind, and reality.
@@ -177,6 +176,11 @@ I bet a lot of people think it's unbelievable that someone would put all this to
 ‘Elementary,’ said he. ‘It is one of those instances where the reasoner can produce an effect which seems remarkable to his neighbor, because the latter has missed the one little point which is the basis of the deduction.’ Sherlock Holmes Quote
 
 # Trademarks & Copyrights: All Rights Reserved.
+
+Declared Trademarks and copyrights referenced here protect authorship and provenance of the theory and texts.
+
+Clarification (Non-Commercial Research):
+Self Aware Networks is an academic, science-based theory of mind and consciousness. It addresses human phenomenology and informs AI models. This repository is an open-science research notebook and preprint archive. It is not a company, corporation, startup, or commercial entity, and no commercial services are offered. Mentions of funding refer to research grants, philanthropy, and collaborative academic support.
 
 Self Aware Networks, Self Aware Neural Networks, Sentient & Self Aware Neural Networks, the The Self Aware Networks Institute and variations on these names are the Trademarks of Micah Blumberg, and this work is my Copyright.
 
