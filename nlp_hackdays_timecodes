@@ -1,1083 +1,2161 @@
 Transcript of Hack Days Podcast on Neural Lace at Noisebridge with Micah Blumberg
+
 December 2017
 
-Youtube link: https://www.youtube.com/watch?v=uNJ6Q72rHG0 
+Youtube link: https://www.youtube.com/watch?v=uNJ6Q72rHG0
+
 Article link: https://www.svgn.io/p/hack-days-in-san-francisco-c677d753c93f
 
 [00:00.000 --> 00:04.000]  Well, no, I had a Hackintosh.
+
 [00:04.000 --> 00:06.000]  A Hackintosh, yeah.
+
 [00:06.000 --> 00:09.000]  No, I have one of those. It's just really old and doesn't work anymore.
+
 [00:09.000 --> 00:11.000]  Yeah, that's how it works.
+
 [00:11.000 --> 00:13.000]  As it usually goes, yeah.
+
 [00:13.000 --> 00:15.000]  We're live streaming.
+
 [00:15.000 --> 00:16.000]  What?
+
 [00:16.000 --> 00:19.000]  We're online. Yeah, it's a camera.
+
 [00:19.000 --> 00:21.000]  Are you Hack Days?
+
 [00:21.000 --> 00:24.000]  Yeah, we're Hack Days. Are you here to join Hack Days?
+
 [00:24.000 --> 00:25.000]  Uh, yeah.
+
 [00:25.000 --> 00:27.000]  Yeah, come on.
+
 [00:27.000 --> 00:29.000]  I'm actually in camera.
+
 [00:29.000 --> 00:31.000]  You can see. What's that?
+
 [00:31.000 --> 00:32.000]  Yeah, I'm going to sit here.
+
 [00:32.000 --> 00:33.000]  Okay.
+
 [00:38.000 --> 00:39.000]  Yes.
+
 [00:39.000 --> 00:40.000]  Welcome.
+
 [00:40.000 --> 00:41.000]  Thank you so much.
+
 [00:41.000 --> 00:45.000]  So, yeah, I'm curious because I'm actually learning Python,
+
 [00:45.000 --> 00:52.000]  but do you do some projects together?
+
 [00:52.000 --> 01:01.000]  So, Hack Days was, it started out of us, like, programming at a friend's house on his living room floor,
+
 [01:01.000 --> 01:07.000]  and then it got too big for that space because we had, like, eight people show up once.
+
 [01:07.000 --> 01:09.000]  That was crazy.
+
 [01:09.000 --> 01:10.000]  That was crazy.
+
 [01:10.000 --> 01:12.000]  We started, which, I mean, it's a small place, right?
+
 [01:12.000 --> 01:13.000]  It was crazy.
+
 [01:13.000 --> 01:18.000]  So, we started live streaming it, and then we moved here, and it became more of a live stream
+
 [01:18.000 --> 01:25.000]  talking about kind of what we're working on, like a show and tell, as well as, like, everything that's happening across, like,
+
 [01:25.000 --> 01:28.000]  machine learning, bots, cryptocurrency, things like that.
+
 [01:28.000 --> 01:31.000]  And really, the content depends on who shows up.
+
 [01:31.000 --> 01:36.000]  So, you know, you can talk about your project or whatever.
+
 [01:36.000 --> 01:45.000]  I would be excited if something came along that did, like, unsupervised learning that understood and saw the system
+
 [01:45.000 --> 01:49.000]  and, yeah, ended up being better than anyone else.
+
 [01:49.000 --> 01:50.000]  Like, that would be super cool.
+
 [01:50.000 --> 01:53.000]  Also, I want it to be implanted in my brain.
+
 [01:53.000 --> 01:54.000]  Right.
+
 [01:54.000 --> 01:58.000]  Like, as a, like, an accessory that you can become a part of it.
+
 [01:58.000 --> 01:59.000]  Yeah.
+
 [01:59.000 --> 02:02.000]  Would you take orders from a voice in...
+
 [02:02.000 --> 02:04.000]  Oh, I guess you might already take orders.
+
 [02:04.000 --> 02:05.000]  From a voice inside your head.
+
 [02:05.000 --> 02:07.000]  I'm like, oh, that's me.
+
 [02:07.000 --> 02:09.000]  I guess we already do.
+
 [02:09.000 --> 02:10.000]  Divine Intervention.
+
 [02:10.000 --> 02:15.000]  Would you take orders from a voice inside your head?
+
 [02:15.000 --> 02:19.000]  Like, if you're plugged into a massive global supercomputer.
+
 [02:19.000 --> 02:22.000]  What if there is some sort of way, I mean, I guess this is getting more sci-fi a little bit, but...
+
 [02:22.000 --> 02:23.000]  Is it though?
+
 [02:23.000 --> 02:26.000]  Well, I guess it's getting more science.
+
 [02:26.000 --> 02:27.000]  No.
+
 [02:27.000 --> 02:28.000]  Just without the fiction.
+
 [02:28.000 --> 02:29.000]  Yeah.
+
 [02:29.000 --> 02:36.000]  But, like, isn't it also possible that you could have it, like, change chemicals in your head to not only tell you...
+
 [02:36.000 --> 02:39.000]  Not even tell you, like, it wouldn't just be a voice in your head.
+
 [02:39.000 --> 02:40.000]  It would just be...
+
 [02:40.000 --> 02:41.000]  Right.
+
 [02:41.000 --> 02:42.000]  Like a sense?
+
 [02:42.000 --> 02:43.000]  You mean?
+
 [02:43.000 --> 02:45.000]  It would be like your subconscious mind telling you to do it.
+
 [02:45.000 --> 02:46.000]  Right.
+
 [02:46.000 --> 02:48.000]  As opposed to your conscious mind hearing a voice.
+
 [02:48.000 --> 02:51.000]  It would become your subconscious...
+
 [02:51.000 --> 02:52.000]  Uh...
+
 [02:52.000 --> 02:53.000]  So you would think it's coming from yourself.
+
 [02:53.000 --> 02:54.000]  Yeah.
+
 [02:54.000 --> 02:55.000]  Exactly.
+
 [02:55.000 --> 02:56.000]  It would be...
+
 [02:56.000 --> 02:57.000]  Or you wouldn't even think about it coming from yourself.
+
 [02:57.000 --> 02:58.000]  You would just...
+
 [02:58.000 --> 02:59.000]  You would know that it's coming from yourself.
+
 [02:59.000 --> 03:00.000]  Yeah.
+
 [03:00.000 --> 03:01.000]  Like, you would think that you know, like...
+
 [03:01.000 --> 03:03.000]  You would be so influenced by this voice.
+
 [03:03.000 --> 03:05.000]  That's terrifying.
+
 [03:05.000 --> 03:07.000]  You would have the desire.
+
 [03:07.000 --> 03:09.000]  It would become a desire.
+
 [03:09.000 --> 03:11.000]  It's will would be your desire.
+
 [03:11.000 --> 03:12.000]  Then who are you?
+
 [03:12.000 --> 03:14.000]  Ooh...
+
 [03:14.000 --> 03:15.000]  Who are you?
+
 [03:15.000 --> 03:16.000]  I'm nothing.
+
 [03:16.000 --> 03:17.000]  I'm a pile of trash.
+
 [03:17.000 --> 03:19.000]  The way that I kind of think about it is almost like, um...
+
 [03:19.000 --> 03:20.000]  Those, uh...
+
 [03:20.000 --> 03:21.000]  Like those ants.
+
 [03:21.000 --> 03:22.000]  With, like, the fungal...
+
 [03:22.000 --> 03:23.000]  Yeah.
+
 [03:23.000 --> 03:24.000]  The fungi in their brain.
+
 [03:24.000 --> 03:25.000]  Full of it.
+
 [03:25.000 --> 03:28.000]  Where it's like, they don't know why they're doing it, but they know that's what they're supposed to be doing.
+
 [03:28.000 --> 03:30.000]  Or, like, the snails?
+
 [03:30.000 --> 03:32.000]  Yeah, the snails that have, like, the...
+
 [03:32.000 --> 03:33.000]  They have, like, that, um...
+
 [03:33.000 --> 03:35.000]  Like, that kind of, like, weird, like, parasite in them.
+
 [03:35.000 --> 03:36.000]  Yeah, yeah, yeah.
+
 [03:36.000 --> 03:38.000]  That goes into their eyes, so they get eaten by a bird.
+
 [03:38.000 --> 03:41.000]  Yeah, they want to climb up, uh...
+
 [03:41.000 --> 03:42.000]  A tree.
+
 [03:42.000 --> 03:43.000]  A tree.
+
 [03:43.000 --> 03:44.000]  To get eaten by a bird.
+
 [03:44.000 --> 03:45.000]  Yeah.
+
 [03:45.000 --> 03:46.000]  Because it's part of that thing's life cycle.
+
 [03:46.000 --> 03:47.000]  What?
+
 [03:47.000 --> 03:48.000]  Is to get eaten by a bird.
+
 [03:48.000 --> 03:49.000]  And then to get pooped out by the bird.
+
 [03:49.000 --> 03:52.000]  And then that's when it lays, like, the babies and all that stuff, so...
+
 [03:52.000 --> 03:53.000]  Yeah.
+
 [03:53.000 --> 03:54.000]  Yeah.
+
 [03:54.000 --> 03:55.000]  Hey.
+
 [03:55.000 --> 03:56.000]  Hey, how's it going?
+
 [03:56.000 --> 03:57.000]  If you want to join us...
+
 [03:57.000 --> 04:00.000]  So, we're streaming live now, if you want to be on the show.
+
 [04:00.000 --> 04:01.000]  Wow.
+
 [04:01.000 --> 04:02.000]  Wow.
+
 [04:02.000 --> 04:04.000]  So, where's it inside the field of the camera?
+
 [04:04.000 --> 04:05.000]  Uh, right here.
+
 [04:05.000 --> 04:06.000]  Yeah.
+
 [04:06.000 --> 04:07.000]  So, you could sit here and be in the...
+
 [04:07.000 --> 04:08.000]  You'll be in the thing.
+
 [04:08.000 --> 04:09.000]  ...in the shot.
+
 [04:09.000 --> 04:11.000]  But you would have to come around here.
+
 [04:11.000 --> 04:12.000]  Let me come around there.
+
 [04:12.000 --> 04:13.000]  Okay.
+
 [04:13.000 --> 04:14.000]  Okay.
+
 [04:14.000 --> 04:15.000]  Yeah.
+
 [04:15.000 --> 04:16.000]  It's like a jungle gym over there.
+
 [04:16.000 --> 04:17.000]  It is.
+
 [04:17.000 --> 04:18.000]  Sorry.
+
 [04:18.000 --> 04:19.000]  Yeah.
+
 [04:19.000 --> 04:21.000]  Hey, I don't want to be, like, in the front of the camera.
+
 [04:21.000 --> 04:22.000]  It depends if I...
+
 [04:22.000 --> 04:23.000]  Yeah.
+
 [04:23.000 --> 04:24.000]  Yeah.
+
 [04:24.000 --> 04:25.000]  Hi.
+
 [04:25.000 --> 04:26.000]  Hi.
+
 [04:26.000 --> 04:27.000]  Micah.
+
 [04:27.000 --> 04:28.000]  Yeah.
+
 [04:28.000 --> 04:29.000]  Pleasure meeting you.
+
 [04:29.000 --> 04:31.000]  Yeah, I actually did, um, a podcast with this guy.
+
 [04:31.000 --> 04:32.000]  Yeah.
+
 [04:32.000 --> 04:33.000]  A neural lace podcast.
+
 [04:33.000 --> 04:34.000]  Yeah.
+
 [04:34.000 --> 04:35.000]  And we lost the data.
+
 [04:35.000 --> 04:36.000]  Oh.
+
 [04:36.000 --> 04:37.000]  We did.
+
 [04:37.000 --> 04:38.000]  We walked around the city and we talked about the neural lace.
+
 [04:38.000 --> 04:39.000]  Yeah.
+
 [04:39.000 --> 04:40.000]  Right?
+
 [04:40.000 --> 04:41.000]  Yeah.
+
 [04:41.000 --> 04:42.000]  Yeah.
+
 [04:42.000 --> 04:43.000]  We did.
+
 [04:43.000 --> 04:44.000]  What is a neural lace?
+
 [04:44.000 --> 04:45.000]  Neural lace is next-generation brainless mirror interface.
+
 [04:45.000 --> 04:46.000]  Yeah.
+
 [04:46.000 --> 04:48.000]  So we were talking about how that might work.
+
 [04:48.000 --> 04:49.000]  And...
+
 [04:49.000 --> 04:50.000]  Anyway.
+
 [04:50.000 --> 04:51.000]  Yeah.
+
 [04:51.000 --> 04:52.000]  So we're, uh...
+
 [04:52.000 --> 04:55.000]  So Hack Days basically talks about anything you want.
+
 [04:55.000 --> 04:57.000]  So what are you working on lately?
+
 [04:57.000 --> 05:04.000]  Um, so right now, um, I am, uh, so I'm organizing SFBR events.
+
 [05:04.000 --> 05:05.000]  San Francisco Rich Reality.
+
 [05:05.000 --> 05:06.000]  Cool.
+
 [05:06.000 --> 05:10.000]  Um, and I'm also, um, I have Silicon Valley Global News.
+
 [05:10.000 --> 05:14.000]  So I'm going to conventions and getting news, collecting news stories.
+
 [05:14.000 --> 05:16.000]  And filming them on Facebook Live.
+
 [05:16.000 --> 05:19.000]  And then, later on, adding them to my blog.
+
 [05:19.000 --> 05:20.000]  Yes.
+
 [05:20.000 --> 05:21.000]  You just know that I am.
+
 [05:21.000 --> 05:22.000]  Nice.
+
 [05:22.000 --> 05:23.000]  Good.
+
 [05:23.000 --> 05:24.000]  Yeah.
+
 [05:24.000 --> 05:30.000]  And then I still do, like, um, like, I started doing, like, what I call the Nerve Deer Show.
+
 [05:30.000 --> 05:31.000]  Yeah.
+
 [05:31.000 --> 05:34.000]  Just like, again, just like renaming their own neural lace.
+
 [05:34.000 --> 05:39.000]  But the idea was, um, I did it in Facebook Spaces with, uh, with, um...
+
 [05:39.000 --> 05:43.000]  Oh, Facebook Spaces is a VR, like, where everyone looks like a cartoon kind of thing?
+
 [05:43.000 --> 05:44.000]  Yeah, yeah.
+
 [05:44.000 --> 05:45.000]  Okay.
+
 [05:45.000 --> 05:46.000]  That is so sick.
+
 [05:46.000 --> 05:47.000]  Really?
+
 [05:47.000 --> 05:48.000]  From, from Spaces?
+
 [05:48.000 --> 05:49.000]  From VR.
+
 [05:49.000 --> 05:50.000]  Wow.
+
 [05:50.000 --> 05:51.000]  That's awesome.
+
 [05:51.000 --> 05:52.000]  Yeah.
+
 [05:52.000 --> 05:53.000]  And so that was called the Nerve Deer Show.
+
 [05:53.000 --> 05:55.000]  I did it with a neuroscientist who comes around here.
+
 [05:55.000 --> 05:58.000]  I don't know if her name is Sarah, but it's just Shotsky or something.
+
 [05:58.000 --> 06:01.000]  But, um, and then I did, uh, a follow-up.
+
 [06:01.000 --> 06:02.000]  So that didn't get huge ratings.
+
 [06:02.000 --> 06:06.000]  I did a follow-up and, and we called the show Death Star World.
+
 [06:06.000 --> 06:10.000]  Because a lot of the, a lot of the technologies involved with, um, researching neural lace could be
+
 [06:10.000 --> 06:15.000]  happening with a lot of creating, um, a technological singularity that's self-aware, a self-aware network.
+
 [06:15.000 --> 06:16.000]  Right.
+
 [06:16.000 --> 06:20.000]  So, um, I have a group on Facebook called Self-aware Networks, and all we do is we research, you
+
 [06:20.000 --> 06:25.000]  know, um, you know, how the brain might work and how we can hack into it.
+
 [06:25.000 --> 06:26.000]  Sweet.
+
 [06:26.000 --> 06:27.000]  Yeah.
+
 [06:27.000 --> 06:28.000]  Yeah.
+
 [06:28.000 --> 06:29.000]  Yeah.
+
 [06:29.000 --> 06:30.000]  That's cool.
+
 [06:30.000 --> 06:31.000]  And having great brains and artificial cortex.
+
 [06:31.000 --> 06:32.000]  Wow.
+
 [06:32.000 --> 06:33.000]  Yeah.
+
 [06:33.000 --> 06:37.000]  I mean, it's, I think it's a cool topic, so, to rally people around.
+
 [06:37.000 --> 06:40.000]  And so what's great is, like, I have a neurophysicist group that has 9,000 people in it.
+
 [06:40.000 --> 06:46.000]  And I'm like, yes, 9,000 people are interested in, uh, diving deep into the physics of neurons.
+
 [06:46.000 --> 06:47.000]  Yeah.
+
 [06:47.000 --> 06:48.000]  And approaching it from that perspective.
+
 [06:48.000 --> 06:55.000]  It, it seems like a very niche topic, and 9,000 people on a very niche topic about what
+
 [06:55.000 --> 06:56.000]  is literally the future.
+
 [06:56.000 --> 06:57.000]  Yeah.
+
 [06:57.000 --> 06:58.000]  It seems really exciting.
+
 [06:58.000 --> 06:59.000]  Yeah.
+
 [06:59.000 --> 07:03.000]  Do you get a lot of people who are very academic, or a lot of people who are kind of armchair,
+
 [07:03.000 --> 07:07.000]  or, like, a lot of people who are just interested in, like, what that future will facilitate?
+
 [07:07.000 --> 07:09.000]  Like, what is the audience like there?
+
 [07:09.000 --> 07:12.000]  Um, well, without knowing each of those 9,000 people.
+
 [07:12.000 --> 07:13.000]  Hmm.
+
 [07:13.000 --> 07:14.000]  You don't know each of those?
+
 [07:14.000 --> 07:18.000]  I don't know each of them individually, but, like, I suspect that there's a good amount
+
 [07:18.000 --> 07:22.000]  of armchair, but every once in a while we get, like, a really legit, um, neuroscientist
+
 [07:22.000 --> 07:24.000]  who joins one of our, one of our groups.
+
 [07:24.000 --> 07:25.000]  Yeah.
+
 [07:25.000 --> 07:26.000]  Oh, wow.
+
 [07:26.000 --> 07:29.000]  In some cases, we'll, on rare occasion, we'll get, like, a famous person who joined
+
 [07:29.000 --> 07:32.000]  one of these, like, self-aware networks.
+
 [07:32.000 --> 07:33.000]  That's cool.
+
 [07:33.000 --> 07:34.000]  Yeah.
+
 [07:34.000 --> 07:38.000]  It's funny because, um, have you seen what we've been working on?
+
 [07:38.000 --> 07:39.000]  Uh, I've been watching Actives.
+
 [07:39.000 --> 07:40.000]  With Synapse?
+
 [07:40.000 --> 07:41.000]  Okay.
+
 [07:41.000 --> 07:42.000]  I don't know a lot about it.
+
 [07:42.000 --> 07:43.000]  Yeah, you should check out Synapse.
+
 [07:43.000 --> 07:44.000]  Okay.
+
 [07:44.000 --> 07:45.000]  We're, uh, doing decentralized AI.
+
 [07:45.000 --> 07:46.000]  Right.
+
 [07:46.000 --> 07:47.000]  Yeah.
+
 [07:47.000 --> 07:48.000]  Oh, yeah.
+
 [07:48.000 --> 07:49.000]  Okay.
+
 [07:49.000 --> 07:50.000]  So, um...
+
 [07:50.000 --> 07:53.000]  I'm, I'm, I'm, I'm, I'm, yeah, I, I think there's a lot of, like, parallels every time we
+
 [07:53.000 --> 07:54.000]  meet up.
+
 [07:54.000 --> 07:55.000]  Yeah.
+
 [07:55.000 --> 07:56.000]  So, tell me about Synapse.
+
 [07:56.000 --> 07:57.000]  Yeah.
+
 [07:57.000 --> 07:58.000]  Uh, I don't want to pitch it now.
+
 [07:58.000 --> 07:59.000]  Okay.
+
 [07:59.000 --> 08:00.000]  I mean, we could, we could pitch it later.
+
 [08:00.000 --> 08:03.000]  I'm, I'm more curious to bring in, because I, I literally pitch it every time.
+
 [08:03.000 --> 08:04.000]  You pitch it every time.
+
 [08:04.000 --> 08:05.000]  Yeah.
+
 [08:05.000 --> 08:07.000]  And so people are, like, like, the same as our radio.
+
 [08:07.000 --> 08:08.000]  Right, right.
+
 [08:08.000 --> 08:13.000]  So, tell us more about, you know, what's happening with you now, um, in terms of, like,
+
 [08:13.000 --> 08:17.000]  your research, and then where, where you're headed in the future.
+
 [08:17.000 --> 08:18.000]  Yeah.
+
 [08:18.000 --> 08:19.000]  What's next?
+
 [08:19.000 --> 08:20.000]  What's next?
+
 [08:20.000 --> 08:25.000]  Um, well, okay, so what I want to do next is, um, I want to start coming down to Noise
+
 [08:25.000 --> 08:28.000]  Bridge, which is where you, you are on Sundays.
+
 [08:28.000 --> 08:34.000]  But the reason is because there is a, uh, I guess there's a neural hacking space here.
+
 [08:34.000 --> 08:35.000]  Yeah.
+
 [08:35.000 --> 08:39.000]  And what I want to do, so I guess they have an OpenBCI headset, right?
+
 [08:39.000 --> 08:40.000]  Yeah.
+
 [08:40.000 --> 08:44.000]  Um, so I'm actually with, uh, developer, I'm part of a group called the Vision Agency,
+
 [08:44.000 --> 08:46.000]  and they make a product called the Microdose VR.
+
 [08:46.000 --> 08:47.000]  The what, what agency?
+
 [08:47.000 --> 08:48.000]  The Vision Agency.
+
 [08:48.000 --> 08:49.000]  Vision Agency, okay.
+
 [08:49.000 --> 08:52.000]  Yeah, led by Andrew Jones, and they make Microdose VR, right?
+
 [08:52.000 --> 08:54.000]  It's really, it's like one of the most pretty.
+
 [08:54.000 --> 08:55.000]  What is Microdose VR?
+
 [08:55.000 --> 09:00.000]  So Microdose VR is this Vive application that, um, you know, you put on your Vive,
+
 [09:00.000 --> 09:08.000]  HTC Vive headset, and you have your two controllers, and you are able to paint the most, um, amazing,
+
 [09:08.000 --> 09:13.000]  uh, 3D, um, polygons into space.
+
 [09:13.000 --> 09:18.000]  And they, but what's, what's great is that they, we also have like an audio rack there.
+
 [09:18.000 --> 09:19.000]  So we have a DJ who works on the team.
+
 [09:19.000 --> 09:20.000]  Mm-hmm.
+
 [09:20.000 --> 09:23.000]  Um, his name is Blue, his, his handle is Blue Tech, right?
+
 [09:23.000 --> 09:27.000]  So when you paint these, these, uh, polygons in space, and they're so, like,
+
 [09:27.000 --> 09:29.000]  there's almost four of those, it's like it's actually there.
+
 [09:29.000 --> 09:30.000]  Mm-hmm.
+
 [09:30.000 --> 09:31.000]  It's really, really neat.
+
 [09:31.000 --> 09:34.000]  But then they start pulsing with the music of the DJ.
+
 [09:34.000 --> 09:36.000]  And so you're like creating the music with your hands.
+
 [09:36.000 --> 09:37.000]  Yeah.
+
 [09:37.000 --> 09:38.000]  Oh, wow.
+
 [09:38.000 --> 09:39.000]  That's awesome.
+
 [09:39.000 --> 09:40.000]  Yeah.
+
 [09:40.000 --> 09:42.000]  And then we got this, and then, um, so Android is friends with,
+
 [09:42.000 --> 09:44.000]  Andrew Jones is friends with the CEO of Vias.
+
 [09:44.000 --> 09:49.000]  And so they got this face plate, which has EEG sensors in it, and heart rate sensor.
+
 [09:49.000 --> 09:54.000]  So we're like taking the heart rate sensor and making your heart rate cost changes to the,
+
 [09:54.000 --> 09:58.000]  to the size and shape and vibration of all the polygons that you're making.
+
 [09:58.000 --> 09:59.000]  Oh, nice.
+
 [09:59.000 --> 10:00.000]  In addition to them being auto-graphic.
+
 [10:00.000 --> 10:04.000]  So your biofeedback is actually changing the graphics around.
+
 [10:04.000 --> 10:08.000]  You know, we, uh, this week went out to CCA.
+
 [10:08.000 --> 10:12.000]  We were asked to judge, uh, some industrial design students' projects.
+
 [10:12.000 --> 10:13.000]  Mm-hmm.
+
 [10:13.000 --> 10:15.000]  And a lot of them revolved around, uh, biofeedback.
+
 [10:15.000 --> 10:21.000]  And a lot of them, um, there was one that had, um, and I, I think we have video of this
+
 [10:21.000 --> 10:23.000]  that we'll be putting up as well.
+
 [10:23.000 --> 10:30.000]  One that had, um, lights, uh, that sense, uh, it, it connected to an EEG headset.
+
 [10:30.000 --> 10:35.000]  So you had basically like home appliances that would interact and react to what you are
+
 [10:35.000 --> 10:36.000]  and what you're doing.
+
 [10:36.000 --> 10:40.000]  And, um, one of the things that I thought was interesting is like, okay, not only can
+
 [10:40.000 --> 10:45.000]  they reflect, but they can provide feedback and set the way that they can help you converge
+
 [10:45.000 --> 10:47.000]  on some particular state of being, right?
+
 [10:47.000 --> 10:48.000]  Yeah.
+
 [10:48.000 --> 10:49.000]  Um, I thought that was pretty fascinating.
+
 [10:49.000 --> 10:51.000]  Like that was a big theme there.
+
 [10:51.000 --> 10:57.000]  Um, another one, um, was this really interesting, and in, in some ways it's kind of a feedback
+
 [10:57.000 --> 11:04.000]  group, um, where they would basically turn babies in their surveillance machines, uh,
+
 [11:04.000 --> 11:10.000]  so that it would record all the smells, all the sights, all the sounds of being you as
+
 [11:10.000 --> 11:11.000]  a baby, right?
+
 [11:11.000 --> 11:14.000]  Yeah, you can run deep on neural networks on that data and try to pretend.
+
 [11:14.000 --> 11:16.000]  Yeah, but I don't think they realize what they're doing.
+
 [11:16.000 --> 11:17.000]  Sure, but they didn't realize that.
+
 [11:17.000 --> 11:23.000]  But I thought it would be cool as if, um, you could replay that as you were expiring,
+
 [11:23.000 --> 11:28.000]  and like, you could be a baby again as you're leaving the world as like a, this 2000 Space
+
 [11:28.000 --> 11:29.000]  Odyssey thing, right?
+
 [11:29.000 --> 11:30.000]  Yeah.
+
 [11:30.000 --> 11:31.000]  Yeah.
+
 [11:31.000 --> 11:32.000]  Right?
+
 [11:32.000 --> 11:33.000]  They were kind of like, yeah, totally.
+
 [11:33.000 --> 11:37.000]  Because what they also did was they turned the experience into a virtual reality experience,
+
 [11:37.000 --> 11:40.000]  into like a, well, not virtual reality, but you could replay it, right?
+
 [11:40.000 --> 11:41.000]  Yeah.
+
 [11:41.000 --> 11:42.000]  From the baby's perspective.
+
 [11:42.000 --> 11:43.000]  Yeah.
+
 [11:43.000 --> 11:45.000]  And it was really like, when I put it on, I was like, I'm a baby now.
+
 [11:45.000 --> 11:46.000]  Yeah.
+
 [11:46.000 --> 11:48.000]  Because everyone was giant in that thing, you know?
+
 [11:48.000 --> 11:53.000]  Like, yeah, but it's so interesting that we're starting to see that thematically
+
 [11:53.000 --> 11:54.000]  more and more, right?
+
 [11:54.000 --> 11:55.000]  Of like...
+
 [11:55.000 --> 11:56.000]  People, there's a convergence.
+
 [11:56.000 --> 11:57.000]  Right.
+
 [11:57.000 --> 11:58.000]  Of science and technology.
+
 [11:58.000 --> 11:59.000]  Yeah.
+
 [11:59.000 --> 12:05.000]  Um, people want to mess around with effective sensors and, you know, typically stuff in
+
 [12:05.000 --> 12:06.000]  the domain of neuroscience.
+
 [12:06.000 --> 12:09.000]  They want to bring it into VR and they want to bring it, you know, blockchain and artificial
+
 [12:09.000 --> 12:11.000]  intelligence and all these different buzzwords.
+
 [12:11.000 --> 12:12.000]  Yeah.
+
 [12:12.000 --> 12:14.000]  They want to bring the technologies behind those buzzwords together.
+
 [12:14.000 --> 12:15.000]  Right.
+
 [12:15.000 --> 12:16.000]  And people are doing it.
+
 [12:16.000 --> 12:17.000]  Kind of like what I focus on.
+
 [12:17.000 --> 12:18.000]  It's like about local natives.
+
 [12:18.000 --> 12:19.000]  Oh, cool.
+
 [12:19.000 --> 12:20.000]  We should talk, chat then.
+
 [12:20.000 --> 12:21.000]  Yeah.
+
 [12:21.000 --> 12:25.000]  Because, you know, I was, uh, preaching AI and blockchain when everyone was like, that's
+
 [12:25.000 --> 12:26.000]  crazy.
+
 [12:26.000 --> 12:27.000]  Yeah.
+
 [12:27.000 --> 12:28.000]  You know?
+
 [12:28.000 --> 12:29.000]  There was actually the focus of my last event at San Francisco Virtual Reality was, uh,
+
 [12:29.000 --> 12:31.000]  I had a speaker, uh, from Decentraline.
+
 [12:31.000 --> 12:34.000]  He was talking about web VR and blockchain.
+
 [12:34.000 --> 12:35.000]  Yeah.
+
 [12:35.000 --> 12:40.000]  And I had a speaker from, um, gosh, I'm forgetting their name.
+
 [12:40.000 --> 12:41.000]  Oh, map.
+
 [12:41.000 --> 12:43.000]  Mapping Aggregation Platform.
+
 [12:43.000 --> 12:48.000]  Um, and they, they were combining, um, blockchain with location-based augmented reality.
+
 [12:48.000 --> 12:50.000]  Location-based services with augmented reality.
+
 [12:50.000 --> 12:54.000]  So what that means is that, um, uh, that retail location.
+
 [12:54.000 --> 12:55.000]  Wait.
+
 [12:55.000 --> 12:56.000]  Did they work out of here?
+
 [12:56.000 --> 12:57.000]  I don't know.
+
 [12:57.000 --> 12:59.000]  Because I feel like I, I know that person.
+
 [12:59.000 --> 13:00.000]  That's awesome.
+
 [13:00.000 --> 13:01.000]  That's awesome.
+
 [13:01.000 --> 13:02.000]  Go ahead.
+
 [13:02.000 --> 13:03.000]  Tell her.
+
 [13:03.000 --> 13:04.000]  Pitch us this idea.
+
 [13:04.000 --> 13:05.000]  Great.
+
 [13:05.000 --> 13:06.000]  The location is on the blockchain.
+
 [13:06.000 --> 13:07.000]  Yeah.
+
 [13:07.000 --> 13:12.000]  And so when you go into their location, um, you're served up, um, you know, your AR headset
+
 [13:12.000 --> 13:16.000]  has served up the content that they want, they would, they would like you to consider
+
 [13:16.000 --> 13:18.000]  looking at while you're visiting their location.
+
 [13:18.000 --> 13:19.000]  Yeah.
+
 [13:19.000 --> 13:20.000]  That would be amazing.
+
 [13:20.000 --> 13:21.000]  Yeah.
+
 [13:21.000 --> 13:22.000]  That just makes sense.
+
 [13:22.000 --> 13:23.000]  Yeah.
+
 [13:23.000 --> 13:24.000]  So it's a really great idea.
+
 [13:24.000 --> 13:27.000]  They're, they're, they're, so they're combining, like this is, I think this idea, um, I've
+
 [13:27.000 --> 13:31.000]  discussed it with people, different people, but now we're talking about bringing blockchain
+
 [13:31.000 --> 13:32.000]  into location-based services.
+
 [13:32.000 --> 13:33.000]  Mm-hmm.
+
 [13:33.000 --> 13:37.000]  And, and, you know, bringing location-based services to AR was something people have already
+
 [13:37.000 --> 13:38.000]  talked about before.
+
 [13:38.000 --> 13:39.000]  Yeah.
+
 [13:39.000 --> 13:42.000]  It's like, you know, the coolest stuff keeps on getting cooler by combining more real
+
 [13:42.000 --> 13:43.000]  stuff.
+
 [13:43.000 --> 13:44.000]  I agree.
+
 [13:44.000 --> 13:47.000]  And people are like, oh, that's a lot of buzzwords in one sentence.
+
 [13:47.000 --> 13:49.000]  I'm like, but do you understand the implications?
+
 [13:49.000 --> 13:50.000]  Yeah.
+
 [13:50.000 --> 13:53.000]  Like the emergence of a product out of these things, like I'm sure capacitors were a buzzword
+
 [13:53.000 --> 13:54.000]  at one point, you know?
+
 [13:54.000 --> 13:55.000]  Yeah.
+
 [13:55.000 --> 13:56.000]  A transistor door, right?
+
 [13:56.000 --> 13:57.000]  Yeah.
+
 [13:57.000 --> 14:00.000]  So, so right now, um, Intel is asking, um, microdose VR, or actually asking Android,
+
 [14:00.000 --> 14:05.000]  who's, who leads the vision agency team to, to create a version of microdose for the
+
 [14:05.000 --> 14:10.000]  neural headset, which is like an EG headset that's designed to fit the HSC vibe.
+
 [14:10.000 --> 14:11.000]  Mm-hmm.
+
 [14:11.000 --> 14:12.000]  Um, and that's great.
+
 [14:12.000 --> 14:14.000]  I mean, they're like a competitor to me, as we're already working with.
+
 [14:14.000 --> 14:15.000]  Cool.
+
 [14:15.000 --> 14:19.000]  But what I want to do here, the reason I want to maybe start a project here, is like,
+
 [14:19.000 --> 14:23.000]  what if we could take the Open DCI headset and create a version of it, like,
+
 [14:23.000 --> 14:26.000]  a 3D printed version of it here, with the 3D printers in this building.
+
 [14:26.000 --> 14:27.000]  Yeah.
+
 [14:27.000 --> 14:29.000]  And so that it fits the HSC vibe.
+
 [14:29.000 --> 14:30.000]  So, and the ArcGIS script.
+
 [14:30.000 --> 14:31.000]  Right.
+
 [14:31.000 --> 14:32.000]  Right.
+
 [14:32.000 --> 14:35.000]  So that everybody can 3D print their own headset for their vibe.
+
 [14:35.000 --> 14:40.000]  I think it's last mile stuff like that, that, uh, companies like Apple and Google
+
 [14:40.000 --> 14:42.000]  and Vibe, like, they should be striving for.
+
 [14:42.000 --> 14:43.000]  And they probably want, right?
+
 [14:43.000 --> 14:44.000]  Right.
+
 [14:44.000 --> 14:49.000]  If they, if you can get the last mile feedback of how people are actually engaging with what's
+
 [14:49.000 --> 14:50.000]  in front of them.
+
 [14:50.000 --> 14:51.000]  Like, truly.
+
 [14:51.000 --> 14:52.000]  Not just, like, eyes.
+
 [14:52.000 --> 14:53.000]  Not just expression.
+
 [14:53.000 --> 14:57.000]  But, like, mentally engaging.
+
 [14:57.000 --> 15:00.000]  Like, I mean, that's, that's awesome.
+
 [15:00.000 --> 15:02.000]  That's, like, next level stuff, right?
+
 [15:02.000 --> 15:03.000]  Yeah.
+
 [15:03.000 --> 15:04.000]  Yeah.
+
 [15:04.000 --> 15:05.000]  Well, that's awesome.
+
 [15:05.000 --> 15:09.000]  Uh, so we're, we're throwing the Decentralized AI conference, actually.
+
 [15:09.000 --> 15:10.000]  And we would love...
+
 [15:10.000 --> 15:11.000]  Oh, you're organizing that?
+
 [15:11.000 --> 15:12.000]  Yeah, yeah, yeah.
+
 [15:12.000 --> 15:14.000]  Uh, well, we just announced it.
+
 [15:14.000 --> 15:15.000]  Right?
+
 [15:15.000 --> 15:19.000]  And so we would like to, uh, maybe figure out a way we'd partner, because it sounds like
+
 [15:19.000 --> 15:21.000]  you're, you're definitely in the same space or something.
+
 [15:21.000 --> 15:22.000]  Yeah.
+
 [15:22.000 --> 15:23.000]  Yeah.
+
 [15:23.000 --> 15:24.000]  Organize events.
+
 [15:24.000 --> 15:25.000]  Sounds just weird.
+
 [15:25.000 --> 15:26.000]  Reality.
+
 [15:26.000 --> 15:27.000]  But I, I like to participate in the community as much as possible.
+
 [15:27.000 --> 15:28.000]  Yeah.
+
 [15:28.000 --> 15:29.000]  Um, I do demo of microdose VR.
+
 [15:29.000 --> 15:30.000]  Cool.
+
 [15:30.000 --> 15:31.000]  So, you know, if you guys want to do demo there.
+
 [15:31.000 --> 15:32.000]  Yeah, for sure.
+
 [15:32.000 --> 15:33.000]  That would be sick.
+
 [15:33.000 --> 15:34.000]  That would be amazing.
+
 [15:34.000 --> 15:35.000]  Yeah.
+
 [15:35.000 --> 15:36.000]  Yes.
+
 [15:36.000 --> 15:37.000]  High five.
+
 [15:37.000 --> 15:38.000]  That would be so sick.
+
 [15:38.000 --> 15:39.000]  Yeah.
+
 [15:39.000 --> 15:40.000]  Nice.
+
 [15:40.000 --> 15:41.000]  It would be wireless.
+
 [15:41.000 --> 15:42.000]  Woo!
+
 [15:42.000 --> 15:43.000]  It's great.
+
 [15:43.000 --> 15:46.000]  I love, love the demo, because every time someone gets in there, they just like, they,
+
 [15:46.000 --> 15:49.000]  first of all, it takes a few minutes for them to like figure out, and then they just
+
 [15:49.000 --> 15:50.000]  start dancing.
+
 [15:50.000 --> 15:51.000]  Right.
+
 [15:51.000 --> 15:52.000]  Yeah.
+
 [15:52.000 --> 15:53.000]  How cool.
+
 [15:53.000 --> 15:54.000]  That's great.
+
 [15:54.000 --> 15:55.000]  That's super awesome.
+
 [15:55.000 --> 15:59.000]  So what, what else is happening in, in your world that you're excited about?
+
 [15:59.000 --> 16:03.000]  That other, other projects that are happening, or other advancements, like?
+
 [16:03.000 --> 16:04.000]  Um, well, uh...
+
 [16:04.000 --> 16:06.000]  Cause you're like on the bleeding edge.
+
 [16:06.000 --> 16:07.000]  You know what's happening, right?
+
 [16:07.000 --> 16:08.000]  Yeah.
+
 [16:08.000 --> 16:12.000]  So I know that there's a company in San Diego, um, that is bringing sensors to the
+
 [16:12.000 --> 16:13.000]  market.
+
 [16:13.000 --> 16:15.000]  They're like a billion times improvement over EEG sensors.
+
 [16:15.000 --> 16:16.000]  Really?
+
 [16:16.000 --> 16:18.000]  You can figure them to measure like a single, like, problem class.
+
 [16:18.000 --> 16:19.000]  Really?
+
 [16:19.000 --> 16:20.000]  Like that.
+
 [16:20.000 --> 16:24.000]  Um, and so that's another reason why I'm like pushing the open, let's do OpenBCI so
+
 [16:24.000 --> 16:28.000]  we can modify it so it works with VR, so we can, so we can take their product.
+
 [16:28.000 --> 16:29.000]  Yeah.
+
 [16:29.000 --> 16:31.000]  I'm just like very forward thinking in that respect.
+
 [16:31.000 --> 16:32.000]  Yeah.
+
 [16:32.000 --> 16:36.000]  Um, so, what, okay, so maybe we can like, you know, so one thing that I talked about
+
 [16:36.000 --> 16:41.000]  on the podcast with you is actually there are, um, there are people out there in this world
+
 [16:41.000 --> 16:45.000]  who are like a joint twin, and their brains are like physically connected.
+
 [16:45.000 --> 16:49.000]  And they're connected, and there's, there's, um, you know, I don't wanna like, you know,
+
 [16:49.000 --> 16:52.000]  that you can, people can like, you know, search for stories with joint twins.
+
 [16:52.000 --> 16:53.000]  I'm not gonna name anything specifically.
+
 [16:53.000 --> 16:54.000]  Right.
+
 [16:54.000 --> 16:55.000]  Right.
+
 [16:55.000 --> 16:56.000]  Um, but.
+
 [16:56.000 --> 16:59.000]  Like when you mean connected, you mean like can fill one another's lofts and things like
+
 [16:59.000 --> 17:00.000]  that.
+
 [17:00.000 --> 17:02.000]  Like their skulls are, in their brains are physically grown together.
+
 [17:02.000 --> 17:03.000]  Oh, physically.
+
 [17:03.000 --> 17:04.000]  Okay.
+
 [17:04.000 --> 17:05.000]  Yeah.
+
 [17:05.000 --> 17:06.000]  I thought you meant.
+
 [17:06.000 --> 17:07.000]  Yeah.
+
 [17:07.000 --> 17:13.000]  Um, because their skulls are physically connected, like one twin can, they can't see through,
+
 [17:13.000 --> 17:16.000]  um, they can't see the same thing at the same time.
+
 [17:16.000 --> 17:21.000]  Because, if you know, if, if, if one girl, if one person wants to turn your head to the
+
 [17:21.000 --> 17:23.000]  left, the other person's head moves farther to the left.
+
 [17:23.000 --> 17:25.000]  They can't look at the same television at the same time.
+
 [17:25.000 --> 17:30.000]  But you can ask, you can ask the twin who's not looking at the television, uh, what their
+
 [17:30.000 --> 17:31.000]  twin is seeing.
+
 [17:31.000 --> 17:32.000]  And, and they can, and.
+
 [17:32.000 --> 17:33.000]  Oh, that's weird.
+
 [17:33.000 --> 17:34.000]  The first twin can tell you.
+
 [17:34.000 --> 17:37.000]  So they're able to see through the other twin's eyes.
+
 [17:37.000 --> 17:38.000]  Wow.
+
 [17:38.000 --> 17:41.000]  And it's interesting because of where their brains are connected.
+
 [17:41.000 --> 17:45.000]  They're connected, um, partially through the thalamus and, and like, and above that, like
+
 [17:45.000 --> 17:46.000]  the thalamus.
+
 [17:46.000 --> 17:49.000]  And it's like, it makes me think, well, if you can see through, they can see through each
+
 [17:49.000 --> 17:51.000]  other's eyes and they can taste what each other tastes.
+
 [17:51.000 --> 17:54.000]  Um, one of the twins loves ketchup.
+
 [17:54.000 --> 17:55.000]  Um, one of them hates ketchup.
+
 [17:55.000 --> 17:56.000]  Oh, no.
+
 [17:56.000 --> 17:57.000]  So they can torture each other.
+
 [17:57.000 --> 18:01.000]  Like, the twin that loves ketchup and, and the other twin's like, ew, gross, ew.
+
 [18:01.000 --> 18:02.000]  You know.
+
 [18:02.000 --> 18:03.000]  Oh my gosh.
+
 [18:03.000 --> 18:04.000]  Right.
+
 [18:04.000 --> 18:05.000]  How old are they?
+
 [18:05.000 --> 18:07.000]  So, um, I think they're like, I think they're adults, yeah.
+
 [18:07.000 --> 18:08.000]  Oh.
+
 [18:08.000 --> 18:09.000]  Yeah.
+
 [18:09.000 --> 18:13.000]  The idea is that, you know, if, if, um, if the thalamus or certain parts of the brain
+
 [18:13.000 --> 18:18.000]  that they're, they're connected by, allows you to, uh, send and receive sensory information
+
 [18:18.000 --> 18:19.000]  between the two brains.
+
 [18:19.000 --> 18:20.000]  Mm-hmm.
+
 [18:20.000 --> 18:23.000]  Um, you know, visual information and taste information.
+
 [18:23.000 --> 18:26.000]  And maybe that part of the brain could be the target for a neural lace, which is what
+
 [18:26.000 --> 18:27.000]  we talked about.
+
 [18:27.000 --> 18:28.000]  Mm-hmm.
+
 [18:28.000 --> 18:31.000]  This podcast that we lost, unfortunately, because I lost the part of it.
+
 [18:31.000 --> 18:32.000]  But.
+
 [18:32.000 --> 18:33.000]  And it was great.
+
 [18:33.000 --> 18:34.000]  The best podcast you've ever heard.
+
 [18:34.000 --> 18:35.000]  Yeah.
+
 [18:35.000 --> 18:36.000]  Yeah.
+
 [18:36.000 --> 18:37.000]  And that one is just like, really hard to get to.
+
 [18:37.000 --> 18:38.000]  Yeah.
+
 [18:38.000 --> 18:43.000]  So, um, I've been like, you know, you know, you know, talking to companies that have really
+
 [18:43.000 --> 18:46.000]  exotic sensors, like the one in San Diego that I mentioned, um, to see if.
+
 [18:46.000 --> 18:49.000]  So when you talk about neural lace, are you talking about implants?
+
 [18:49.000 --> 18:50.000]  Both.
+
 [18:50.000 --> 18:54.000]  I'm talking about, you know, because we want, because we want to explore, you know, for
+
 [18:54.000 --> 19:00.000]  research purposes, um, implants for people who just have extreme, you know, medical situations
+
 [19:00.000 --> 19:01.000]  and stuff.
+
 [19:01.000 --> 19:05.000]  Um, but we also want, there's so many, the thing is we have so many great wireless technologies
+
 [19:05.000 --> 19:06.000]  on this planet.
+
 [19:06.000 --> 19:07.000]  Right.
+
 [19:07.000 --> 19:12.000]  So it, it just has to be very, it's very plausible to me that, um, that we should be able to find
+
 [19:12.000 --> 19:19.000]  a wireless technology that can, um, uh, both, both, uh, uh, send and receive what's in the
+
 [19:19.000 --> 19:20.000]  deep part of the brain.
+
 [19:20.000 --> 19:21.000]  Yeah, that would be amazing.
+
 [19:21.000 --> 19:27.000]  Um, and that may not be the, it may not even be the best part of the brain to the target
+
 [19:27.000 --> 19:28.000]  for neural lace.
+
 [19:28.000 --> 19:32.000]  I mean, it could be that because the brain is a very general learning algorithm.
+
 [19:32.000 --> 19:37.000]  You could eventually, like, attach to any part of the brain and send and receive information.
+
 [19:37.000 --> 19:38.000]  Um, that's a hypothesis.
+
 [19:38.000 --> 19:45.000]  But, you know, like, so David Eagleman talks about, um, you know, how you can plug in, like,
+
 [19:45.000 --> 19:48.000]  you can, you can take a, you can take a rat's eyes and plug it into the part of the brain
+
 [19:48.000 --> 19:49.000]  that's the rat's ears.
+
 [19:49.000 --> 19:50.000]  Mm-hmm.
+
 [19:50.000 --> 19:52.000]  And the brain, the rat's brain will figure it out.
+
 [19:52.000 --> 19:54.000]  And it will, the eyes will start functioning normally.
+
 [19:54.000 --> 19:55.000]  Wow.
+
 [19:55.000 --> 19:58.000]  It's like the cortex itself is a very general learning, uh, program.
+
 [19:58.000 --> 20:00.000]  So it can be reprogrammed.
+
 [20:00.000 --> 20:01.000]  Yeah.
+
 [20:01.000 --> 20:03.000]  You could, you could put in 10 new eyeballs.
+
 [20:03.000 --> 20:04.000]  You could put stock data.
+
 [20:04.000 --> 20:05.000]  It's one of David's ideas.
+
 [20:05.000 --> 20:10.000]  You could plug stock data into your brain and eventually your brain will figure it out.
+
 [20:10.000 --> 20:11.000]  It could be pretty stock better than anyone else.
+
 [20:11.000 --> 20:12.000]  Interesting.
+
 [20:12.000 --> 20:13.000]  Yeah.
+
 [20:13.000 --> 20:14.000]  Interesting.
+
 [20:14.000 --> 20:17.000]  Like bypassing all hardware neural networks.
+
 [20:17.000 --> 20:18.000]  Right.
+
 [20:18.000 --> 20:19.000]  Right.
+
 [20:19.000 --> 20:21.000]  So if someone's blind, what they're doing is they have a tongue strip.
+
 [20:21.000 --> 20:22.000]  Yeah.
+
 [20:22.000 --> 20:23.000]  Right.
+
 [20:23.000 --> 20:24.000]  Or back strip.
+
 [20:24.000 --> 20:29.000]  And so the cameras, signals, uh, uh, on the camera sensor are turning into electrodes
+
 [20:29.000 --> 20:31.000]  that simulate the tongue.
+
 [20:31.000 --> 20:34.000]  And the brain figures out visual data from that.
+
 [20:34.000 --> 20:38.000]  And so people can see, people who are completely blind can see through a camera because of
+
 [20:38.000 --> 20:41.000]  that, um, sort of exterior bioport.
+
 [20:41.000 --> 20:42.000]  Wow.
+
 [20:42.000 --> 20:45.000]  So it's possible that, you know, I think that, you know, we could target like maybe the
+
 [20:45.000 --> 20:48.000]  thalamus and put a sensor up the nose surgically.
+
 [20:48.000 --> 20:49.000]  Yeah.
+
 [20:49.000 --> 20:52.000]  Um, but it might be possible that we could just, um.
+
 [20:52.000 --> 20:53.000]  Sign me up.
+
 [20:53.000 --> 20:54.000]  Yeah, same.
+
 [20:54.000 --> 20:57.000]  I'll reverse, I'll reverse total recall a sensor.
+
 [20:57.000 --> 20:58.000]  Yeah.
+
 [20:58.000 --> 20:59.000]  Yeah.
+
 [20:59.000 --> 21:02.000]  But it might be that we could do it from any part of the brain and it might be that we
+
 [21:02.000 --> 21:05.000]  could do it from, like, so if you could plug into any part of the brain, then the question
+
 [21:05.000 --> 21:09.000]  is, well, how do you, like, if the brain is like a network, how do you browse that network?
+
 [21:09.000 --> 21:10.000]  Yeah.
+
 [21:10.000 --> 21:11.000]  What's the web browser?
+
 [21:11.000 --> 21:12.000]  What's the web browsing protocol?
+
 [21:12.000 --> 21:13.000]  Yeah.
+
 [21:13.000 --> 21:15.000]  Um, is it more like, is, is, is.
+
 [21:15.000 --> 21:17.000]  And how can I erase my browsing history?
+
 [21:17.000 --> 21:18.000]  Yeah.
+
 [21:18.000 --> 21:19.000]  There you go.
+
 [21:19.000 --> 21:20.000]  Yeah.
+
 [21:20.000 --> 21:21.000]  Is it more like TCP?
+
 [21:21.000 --> 21:22.000]  Is it more like UDP?
+
 [21:22.000 --> 21:23.000]  Right.
+
 [21:23.000 --> 21:24.000]  What is the communication protocol?
+
 [21:24.000 --> 21:25.000]  Probably UDP, I think.
+
 [21:25.000 --> 21:26.000]  You think?
+
 [21:26.000 --> 21:27.000]  Yeah.
+
 [21:27.000 --> 21:28.000]  Well, I mean, I get different from different folks.
+
 [21:28.000 --> 21:29.000]  Really?
+
 [21:29.000 --> 21:31.000]  The reason I always say TCP is, like, imagine in the double-slit experiment when you're observing
+
 [21:31.000 --> 21:33.000]  something and you're actually affecting it.
+
 [21:33.000 --> 21:37.000]  So it's like, it's not just like the packet of data is thrown at your eye, the photons are
+
 [21:37.000 --> 21:38.000]  thrown at your eye.
+
 [21:38.000 --> 21:41.000]  It's like, you get, it's like a handshake because you get the data and then something is sent
+
 [21:41.000 --> 21:45.000]  back that affects what's physically there in the double-slit of the observer experiment.
+
 [21:45.000 --> 21:46.000]  Yeah.
+
 [21:46.000 --> 21:47.000]  That would be like a handshake.
+
 [21:47.000 --> 21:48.000]  There's a feedback loop between you and what you're observing.
+
 [21:48.000 --> 21:50.000]  But if we're just talking about, like...
+
 [21:50.000 --> 21:51.000]  A TCP is like a feedback loop.
+
 [21:51.000 --> 21:52.000]  It's like a handshake.
+
 [21:52.000 --> 21:53.000]  Right.
+
 [21:53.000 --> 21:54.000]  Interesting.
+
 [21:54.000 --> 21:55.000]  Yeah.
+
 [21:55.000 --> 21:57.000]  I would still say, like, some, there's, it's lossy.
+
 [21:57.000 --> 21:58.000]  It would have to be lossy.
+
 [21:58.000 --> 22:02.000]  Unless, like, the loss is a parameter of its output.
+
 [22:02.000 --> 22:03.000]  So we have unconscious information.
+
 [22:03.000 --> 22:04.000]  We have conscious information.
+
 [22:04.000 --> 22:05.000]  Right.
+
 [22:05.000 --> 22:09.000]  And what if, like, the key difference, um, one of the key differences there could be that
+
 [22:09.000 --> 22:12.000]  when it's conscious, it's in a feedback loop.
+
 [22:12.000 --> 22:15.000]  It's data and it's, it has temporarily active data.
+
 [22:15.000 --> 22:16.000]  Mm-hmm.
+
 [22:16.000 --> 22:19.000]  And it's like, but when it's unconscious, it's not in a feedback loop.
+
 [22:19.000 --> 22:20.000]  So then it's more like UDP.
+
 [22:20.000 --> 22:21.000]  Yeah.
+
 [22:21.000 --> 22:24.000]  And it's like a packet that's just being programmed.
+
 [22:24.000 --> 22:25.000]  Anyway.
+
 [22:25.000 --> 22:26.000]  No, I agree.
+
 [22:26.000 --> 22:27.000]  Sorry.
+
 [22:27.000 --> 22:31.000]  I'm, uh, gonna be posting what TCP is versus UDP to our audience so they know.
+
 [22:31.000 --> 22:32.000]  Oh, yeah, yeah.
+
 [22:32.000 --> 22:34.000]  They're not all hardcore hackers, I think.
+
 [22:34.000 --> 22:36.000]  There might be one or two that aren't.
+
 [22:36.000 --> 22:37.000]  Yeah.
+
 [22:37.000 --> 22:40.000]  So there's some great, um, you know, neuroscientists that I follow.
+
 [22:40.000 --> 22:43.000]  Like Olaf Swans, who talks about networks of the brain.
+
 [22:43.000 --> 22:44.000]  Mm-hmm.
+
 [22:44.000 --> 22:48.000]  Um, there was this, um, this book that I read in 2005.
+
 [22:48.000 --> 22:49.000]  How do you spell the name?
+
 [22:49.000 --> 22:50.000]  Olaf.
+
 [22:50.000 --> 22:55.000]  Um, O-L-A-F, and then last name is S-P-O-R-N-S.
+
 [22:55.000 --> 22:56.000]  Okay.
+
 [22:56.000 --> 22:59.000]  There was a book you read?
+
 [22:59.000 --> 23:02.000]  Yeah, that, uh, he wrote in the book, Networks of the Brain.
+
 [23:02.000 --> 23:07.000]  Um, and then there's this, there's a book called The Neural Basis of Free Will Criterial
+
 [23:07.000 --> 23:11.000]  Pausation, which is, uh, something I really recommend.
+
 [23:11.000 --> 23:15.000]  Because, uh, they talk about how neurons become, neurons as going to detectors.
+
 [23:15.000 --> 23:20.000]  They can detect if there are two signals split within three milliseconds.
+
 [23:20.000 --> 23:22.000]  Or if it's a variable amount of milliseconds.
+
 [23:22.000 --> 23:27.000]  But, um, that can, so the neurons can, if it detects that coincidence, it can fire.
+
 [23:27.000 --> 23:28.000]  Mm-hmm.
+
 [23:28.000 --> 23:32.000]  And that's one, uh, one way for a neuron to detect coincidences.
+
 [23:32.000 --> 23:35.000]  I mean, there's, there's a lot going on with neurons, you know, dendroids.
+
 [23:35.000 --> 23:40.000]  And dendroids can, or some people are saying they're less mini computers.
+
 [23:40.000 --> 23:41.000]  Mm-hmm.
+
 [23:41.000 --> 23:44.000]  They have their own, you know, ability to store complications over a long time.
+
 [23:44.000 --> 23:49.000]  And then trigger themselves to fire them depending on some circumstances.
+
 [23:49.000 --> 23:50.000]  Mm-hmm.
+
 [23:50.000 --> 23:54.000]  Um, so anyway, so there's, like, a lot of people, um, this book.
+
 [23:54.000 --> 23:57.000]  Uh, of course, a lot of people have read, you know, Douglas Hoffs and others on the Strangely.
+
 [23:57.000 --> 24:03.000]  But I think that kind of gives the, the idea that we are, in a sense, um, a kind of strange feedback loop.
+
 [24:03.000 --> 24:04.000]  Yeah.
+
 [24:04.000 --> 24:10.000]  And the human brain is, like, this, um, um, is like a hierarchy of feedback loops.
+
 [24:10.000 --> 24:11.000]  Mm-hmm.
+
 [24:11.000 --> 24:13.000]  Um, small feedback loops and large feedback loops.
+
 [24:13.000 --> 24:16.000]  Like, so your, your sensory information comes in through your eyes and your ears.
+
 [24:16.000 --> 24:17.000]  Yeah.
+
 [24:17.000 --> 24:24.000]  Like, if, you know, the photons bounce off your eyes, and you can, and, um, and they cause the proteins and the ganglia now to click.
+
 [24:24.000 --> 24:27.000]  And it causes the separation of positive and negative charges.
+
 [24:27.000 --> 24:29.000]  And, you know, the calcium and potassium ions.
+
 [24:29.000 --> 24:33.000]  And then eventually, you know, just like a lightning strike, there's a, there's an action potential, right?
+
 [24:33.000 --> 24:35.000]  Because there's, there's, it has to re-normalize.
+
 [24:35.000 --> 24:36.000]  It has to rebalance itself.
+
 [24:36.000 --> 24:37.000]  Mm-hmm.
+
 [24:37.000 --> 24:40.000]  And so you have this surge of electrical signals along the optic nerve to the thalamus.
+
 [24:40.000 --> 24:44.000]  And so the eyes and ears, and every sense except for the nose, goes through the thalamus first.
+
 [24:44.000 --> 24:47.000]  So it's like that sensory equation is in the thalamus first.
+
 [24:47.000 --> 24:53.000]  And then it goes from the thalamus back into, like, so the eyes go back into the, the occipital lobes and the frital lobes,
+
 [24:53.000 --> 24:57.000]  and then through the rest of the brain, um, you know, your visual cortex back here.
+
 [24:57.000 --> 25:02.000]  But then it all comes back around to the thalamus, which is like the top of the pyramid of the neocortex.
+
 [25:02.000 --> 25:08.000]  So it's like a big figure back from your eyes to the thalamus, to the neocortex, back around through the neocortex to your thalamus again.
+
 [25:08.000 --> 25:09.000]  Mm-hmm.
+
 [25:09.000 --> 25:10.000]  So your brain is a feedback loop.
+
 [25:10.000 --> 25:11.000]  Right.
+
 [25:11.000 --> 25:12.000]  Of information.
+
 [25:12.000 --> 25:13.000]  Wow.
+
 [25:13.000 --> 25:14.000]  And so...
+
 [25:14.000 --> 25:22.000]  Do you think it held stake there and then it's like running this, this function across the input and comparing the input to the output?
+
 [25:22.000 --> 25:23.000]  That it...
+
 [25:23.000 --> 25:24.000]  Say that again.
+
 [25:24.000 --> 25:25.000]  Okay.
+
 [25:25.000 --> 25:30.000]  So like, uh, you said it runs into the thalamus, uh, runs through the brain and back to the thalamus.
+
 [25:30.000 --> 25:31.000]  Yeah.
+
 [25:31.000 --> 25:40.000]  So do you think it, it captures state of like, this is the input, uh, runs it through a bunch of different functions and takes the output of those functions and compares it to the original state?
+
 [25:40.000 --> 25:47.000]  So, okay, so functions are like, you know, uh, if then, you know, like, like, like transfers, like if, like, if or else, right?
+
 [25:47.000 --> 25:48.000]  But we're talking like...
+
 [25:48.000 --> 25:49.000]  I guess it's more probabilistic.
+
 [25:49.000 --> 25:53.000]  I would say it's more, it's more like, um, it's, it's a lot closer to a neural network.
+
 [25:53.000 --> 25:54.000]  Mm-hmm.
+
 [25:54.000 --> 25:55.000]  Like, it is kind of like a neural, it's like the natural neural network.
+
 [25:55.000 --> 25:56.000]  Right.
+
 [25:56.000 --> 25:58.000]  So it's like, you're running it through a neural network.
+
 [25:58.000 --> 26:06.000]  So if you look at Google's deep change on my generator, when you have a neural network that's rendering something, and then you send, then you pass through the network again.
+
 [26:06.000 --> 26:10.000]  Like, so you sit and give it, you train it on photos of Cassie Dawson's names.
+
 [26:10.000 --> 26:15.000]  And then you, um, and then you give it a photo that's never seen before to be clouds.
+
 [26:15.000 --> 26:20.000]  And you run it through the neural network and have the lower levels of the neural network render what they do is there.
+
 [26:20.000 --> 26:21.000]  Right.
+
 [26:21.000 --> 26:24.000]  And then you run it through that same network again, over and over again.
+
 [26:24.000 --> 26:28.000]  And eventually it starts to see Cassie Dawson's names in the clouds, just like we've seen things in the clouds, right?
+
 [26:28.000 --> 26:29.000]  Mm-hmm.
+
 [26:29.000 --> 26:30.000]  Mm-hmm.
+
 [26:30.000 --> 26:31.000]  And it's Google's deep, deep dream generator.
+
 [26:31.000 --> 26:32.000]  Yeah.
+
 [26:32.000 --> 26:35.000]  If you want to, but, um, and I use that for like the artwork on, um,
+
 [26:35.000 --> 26:37.000]  San Francisco virtual reality is like artwork.
+
 [26:37.000 --> 26:41.000]  Like I create the basic, you know, outline in like Photoshop and then I write through the deep dream generator.
+
 [26:41.000 --> 26:42.000]  Nice.
+
 [26:42.000 --> 26:44.000]  And it creates all these fancy graphics.
+
 [26:44.000 --> 26:45.000]  Nice.
+
 [26:45.000 --> 26:46.000]  And logos for the event.
+
 [26:46.000 --> 26:49.000]  Um, but, um, yeah.
+
 [26:49.000 --> 26:56.000]  So the, so the idea there is like if a whole brain is, um, sort of a neural network that like receives the data, renders what's there,
+
 [26:56.000 --> 27:00.000]  and then pass that to the next, uh, level of neural network.
+
 [27:00.000 --> 27:03.000]  And it's like every part of the brain is sort of like rendering the frame of reality.
+
 [27:03.000 --> 27:04.000]  Mm-hmm.
+
 [27:04.000 --> 27:09.000]  And as it passes through the different parts of the new cortex, you're rendering different things of reality over time.
+
 [27:09.000 --> 27:15.000]  And so if you take, you take 10 seconds of time and you say, if five, 10 seconds and, uh, like a movie,
+
 [27:15.000 --> 27:18.000]  you know, like a movie editor, like, oh, do we premiere?
+
 [27:18.000 --> 27:21.000]  You guys use, you guys use movie editors, right, for your podcasts and stuff.
+
 [27:21.000 --> 27:22.000]  Yeah.
+
 [27:22.000 --> 27:25.000]  If you take your consciousness and give that and just put that into a movie editor and say,
+
 [27:25.000 --> 27:30.000]  this is 10 seconds of consciousness and each frame is made up of neural activity that takes place in this part of the brain,
+
 [27:30.000 --> 27:33.000]  and then this part of the brain, and then this part of the brain, and then this part of the brain,
+
 [27:33.000 --> 27:36.000]  and then this part of the brain, you know, along your timeline, right?
+
 [27:36.000 --> 27:39.000]  And you can say that those are the frames of my consciousness over 10 seconds.
+
 [27:39.000 --> 27:45.000]  And they're consisting of parts of my neurons that have, in aggregate, detected coincidences patterns
+
 [27:45.000 --> 27:51.000]  and rendered what they thought was there, you know, based on previous sensory incoming data
+
 [27:51.000 --> 27:53.000]  and new incoming sensory data.
+
 [27:53.000 --> 27:54.000]  Right.
+
 [27:54.000 --> 27:58.000]  And so that's how you potentially render the frames of your mind or your consciousness.
+
 [27:58.000 --> 27:59.000]  Yeah.
+
 [27:59.000 --> 28:00.000]  And we potentially have that in that case.
+
 [28:00.000 --> 28:01.000]  Yeah.
+
 [28:01.000 --> 28:05.000]  What if you could map, like, all these frames of your mind and then...
+
 [28:05.000 --> 28:07.000]  So that's why we want to put more sensors in the brain.
+
 [28:07.000 --> 28:08.000]  Yeah.
+
 [28:08.000 --> 28:12.000]  And then apply deep neural networks to the task of identifying those brain patterns
+
 [28:12.000 --> 28:15.000]  that correlate with patterns of the world around us.
+
 [28:15.000 --> 28:19.000]  So one of the projects that I have and what I've been pitching in my podcast is,
+
 [28:19.000 --> 28:23.000]  if we take the self-driving car and give it to a person in their backpack, right?
+
 [28:23.000 --> 28:25.000]  So now you have a self-driving human.
+
 [28:25.000 --> 28:26.000]  It's not trying to drive.
+
 [28:26.000 --> 28:28.000]  You're just trying to predict the objects around you.
+
 [28:28.000 --> 28:32.000]  It's trying to say that this object consists of...
+
 [28:32.000 --> 28:36.000]  Like, the concept of this object is all these different patterns detected by the artificial
+
 [28:36.000 --> 28:37.000]  neural network.
+
 [28:37.000 --> 28:43.000]  And which this matches the brainwave pattern that artificial intelligence has identified
+
 [28:43.000 --> 28:45.000]  with your mental energy.
+
 [28:45.000 --> 28:48.000]  And so then if we have that pattern in the computer, then the trick is...
+
 [28:48.000 --> 28:49.000]  This went into the podcast.
+
 [28:49.000 --> 28:51.000]  The trick is how do we send that pattern to...
+
 [28:51.000 --> 28:55.000]  If I can say, I know what this pattern is in terms of brainwaves over time across your brain.
+
 [28:55.000 --> 29:02.000]  And if we know what this pattern is, and we have it in the computer, how do we send it back into your brain?
+
 [29:02.000 --> 29:10.000]  And so, you know, I think that the way to do it is you have to see what's there.
+
 [29:10.000 --> 29:11.000]  Because there's always going to be something there.
+
 [29:11.000 --> 29:12.000]  Yeah.
+
 [29:12.000 --> 29:17.000]  And then you have to send the difference between what's there and the pattern that you've captured in the computer.
+
 [29:17.000 --> 29:18.000]  kind of this.
+
 [29:18.000 --> 29:21.000]  So if you send the difference, and it causes you to...
+
 [29:21.000 --> 29:29.000]  It causes the sum of the pattern here to match the pattern of what your brain would have if this light was here.
+
 [29:29.000 --> 29:33.000]  Then your brain could interpret something in the reality that's not actually there.
+
 [29:33.000 --> 29:35.000]  Like, okay, what if you're...
+
 [29:35.000 --> 29:39.000]  When your consciousness is, like, interrupted, like people with PTSD and stuff,
+
 [29:39.000 --> 29:44.000]  and then all of a sudden, they're, like, reacting to something that is crazy.
+
 [29:44.000 --> 29:45.000]  You know what I mean?
+
 [29:45.000 --> 29:47.000]  Okay, people will come back for more.
+
 [29:47.000 --> 29:48.000]  Like, they relive something.
+
 [29:48.000 --> 29:51.000]  They hear a lot of noise, and all of a sudden, they're, like...
+
 [29:51.000 --> 29:56.000]  And they're triggered by whatever it is they're triggered by, and then they're not acting like themselves.
+
 [29:56.000 --> 30:07.000]  So could we build something that basically is an overlay and changes your consciousness in that moment to know...
+
 [30:07.000 --> 30:08.000]  I don't know.
+
 [30:08.000 --> 30:09.000]  Almost, like, to distract you from that.
+
 [30:09.000 --> 30:10.000]  Yeah, maybe.
+
 [30:10.000 --> 30:11.000]  Does that make sense?
+
 [30:11.000 --> 30:12.000]  Yeah, maybe.
+
 [30:12.000 --> 30:16.000]  Everything that I said could be wrong, but, you know, it's a huge topic.
+
 [30:16.000 --> 30:17.000]  Yeah.
+
 [30:17.000 --> 30:18.000]  But maybe I'd rather kind of...
+
 [30:18.000 --> 30:19.000]  That would be sick.
+
 [30:19.000 --> 30:20.000]  Yeah.
+
 [30:20.000 --> 30:22.000]  I mean, that would change people's lives.
+
 [30:22.000 --> 30:23.000]  It would.
+
 [30:23.000 --> 30:24.000]  Yeah.
+
 [30:24.000 --> 30:25.000]  That's so cool.
+
 [30:25.000 --> 30:26.000]  Wow.
+
 [30:26.000 --> 30:27.000]  Thanks for coming.
+
 [30:27.000 --> 30:28.000]  Okay.
+
 [30:28.000 --> 30:29.000]  That was very thoughtful.
+
 [30:29.000 --> 30:30.000]  All right.
+
 [30:30.000 --> 30:31.000]  Should I exit stage work?
+
 [30:31.000 --> 30:32.000]  Well, actually, it's about time to stop.
+
 [30:32.000 --> 30:33.000]  I think we're going to wrap up.
+
 [30:33.000 --> 30:34.000]  Nice.
+
 [30:34.000 --> 30:35.000]  We had a great hack days.
+
 [30:35.000 --> 30:36.000]  Yeah.
+
 [30:36.000 --> 30:45.000]  Now's the time to go around, state your name, where people can find you, social handles,
+
 [30:45.000 --> 30:46.000]  whatever.
+
 [30:46.000 --> 30:47.000]  Yeah.
+
 [30:47.000 --> 30:51.000]  Plug and pitch events, things you're working on, other people's stuff, whatever.
+
 [30:51.000 --> 30:52.000]  Now's your time to shine, right?
+
 [30:52.000 --> 30:53.000]  Okay.
+
 [30:53.000 --> 30:54.000]  So, you want to go first and show them how it's done, and then...
+
 [30:54.000 --> 30:55.000]  I'll go first.
+
 [30:55.000 --> 30:56.000]  My name's Catherine.
+
 [30:56.000 --> 30:57.000]  I am nowhere on the internet, and you can't find me.
+
 [30:57.000 --> 30:58.000]  But I'll be helping them throw the decentralized conference, and I'll link that down below.
+
 [30:58.000 --> 30:59.000]  I'll link it again.
+
 [30:59.000 --> 31:00.000]  But yeah, come to Hack Days on Sundays at 2.30.
+
 [31:00.000 --> 31:01.000]  Come to the Crypto Builders Meetup.
+
 [31:01.000 --> 31:02.000]  Is that this Wednesday?
+
 [31:02.000 --> 31:03.000]  It's this Wednesday.
+
 [31:03.000 --> 31:04.000]  Oh, we have a Crypto Builders Meetup this Wednesday.
+
 [31:04.000 --> 31:05.000]  I'll link you guys below as well.
+
 [31:05.000 --> 31:06.000]  We have our friend Ty coming to speak about how to build your own mining rig, and it's
+
 [31:06.000 --> 31:07.000]  really cool.
+
 [31:07.000 --> 31:08.000]  Yeah.
+
 [31:08.000 --> 31:09.000]  Yeah.
+
 [31:09.000 --> 31:10.000]  Yeah.
+
 [31:10.000 --> 31:11.000]  Yeah.
+
 [31:11.000 --> 31:12.000]  Yeah.
+
 [31:12.000 --> 31:13.000]  Yeah.
+
 [31:13.000 --> 31:14.000]  Yeah.
+
 [31:14.000 --> 31:15.000]  Yeah.
+
 [31:15.000 --> 31:16.000]  Yeah.
+
 [31:16.000 --> 31:17.000]  Yeah.
+
 [31:17.000 --> 31:18.000]  Yeah.
+
 [31:18.000 --> 31:19.000]  Yeah.
+
 [31:19.000 --> 31:20.000]  Yeah.
+
 [31:20.000 --> 31:21.000]  Yeah.
+
 [31:21.000 --> 31:22.000]  Yeah.
+
 [31:22.000 --> 31:23.000]  Yeah.
+
 [31:23.000 --> 31:24.000]  Yeah.
+
 [31:24.000 --> 31:25.000]  Yeah.
+
 [31:25.000 --> 31:26.000]  Yeah.
+
 [31:26.000 --> 31:27.000]  Yeah.
+
 [31:27.000 --> 31:28.000]  Yeah.
+
 [31:28.000 --> 31:29.000]  Yeah.
+
 [31:29.000 --> 31:30.000]  Yeah.
+
 [31:30.000 --> 31:31.000]  Yeah.
+
 [31:31.000 --> 31:32.000]  Yeah.
+
 [31:32.000 --> 31:34.000]  Yeah.
+
 [31:34.000 --> 31:35.000]  So, yeah.
+
 [31:35.000 --> 31:37.000]  That's going to be sick.
+
 [31:37.000 --> 31:39.000]  I'll link you guys below though.
+
 [31:39.000 --> 31:41.000]  So, that's how it works.
+
 [31:41.000 --> 31:42.000]  I'm looking for that because I'm looking to build my own mining rig.
+
 [31:42.000 --> 31:43.000]  Really?
+
 [31:43.000 --> 31:44.000]  Are you?
+
 [31:44.000 --> 31:45.000]  Cool.
+
 [31:45.000 --> 31:46.000]  Of course, yeah.
+
 [31:46.000 --> 31:47.000]  Nice.
+
 [31:47.000 --> 31:48.000]  Of course, you got to make that money.
+
 [31:48.000 --> 31:49.000]  Sure.
+
 [31:49.000 --> 31:50.000]  Yeah.
+
 [31:50.000 --> 31:51.000]  Yeah.
+
 [31:51.000 --> 31:54.000]  Or maybe if I built it, I can resell it, I don't know.
+
 [31:54.000 --> 31:55.000]  Yeah.
+
 [31:55.000 --> 31:56.000]  Totally.
+
 [31:56.000 --> 31:57.000]  Either way.
+
 [31:57.000 --> 31:58.000]  There's a market there.
+
 [31:58.000 --> 31:59.000]  All right.
+
 [31:59.000 --> 32:00.000]  Now's your time.
+
 [32:00.000 --> 32:02.040]  to the Neuralist podcast at
+
 [32:02.040 --> 32:02.840]  http
+
 [32:02.840 --> 32:06.020]  at colon forward slash forward slash
+
 [32:06.020 --> 32:08.020]  brma.io
+
 [32:08.020 --> 32:12.160]  The next article that I write is going to be at
+
 [32:12.160 --> 32:14.080]  sdgn.io
+
 [32:14.080 --> 32:16.480]  I also
+
 [32:16.480 --> 32:18.200]  administrate 29 Facebook groups
+
 [32:18.200 --> 32:20.440]  on virtual reality, blockchain,
+
 [32:20.940 --> 32:21.980]  artificial intelligence,
+
 [32:22.420 --> 32:24.340]  and computational neuroscience, and a whole bunch
+
 [32:24.340 --> 32:25.260]  of different topics.
+
 [32:26.280 --> 32:27.320]  Computational biology.
+
 [32:27.320 --> 32:30.340]  And then you can find the link to those groups
+
 [32:30.340 --> 32:31.180]  at
+
 [32:31.180 --> 32:31.980]  http
+
 [32:31.980 --> 32:33.880]  forward slash forward slash
+
 [32:33.880 --> 32:36.620]  vrma.
+
 [32:37.140 --> 32:37.180]  dot
+
 [32:37.180 --> 32:39.140]  w-o-r-k
+
 [32:39.140 --> 32:41.920]  And those are my key references. I'm also with
+
 [32:41.920 --> 32:43.020]  San Francisco Virtual Reality.
+
 [32:43.720 --> 32:46.560]  The main website is sfbr.net
+
 [32:46.560 --> 32:48.100]  And we're going to post
+
 [32:48.100 --> 32:49.920]  our next event for January
+
 [32:49.920 --> 32:52.060]  probably in the middle of the month
+
 [32:52.060 --> 32:54.120]  or maybe the 18th, and the website
+
 [32:54.120 --> 32:56.560]  for finding that information will be
+
 [32:56.560 --> 32:59.580]  sfbr360.com
+
 [32:59.580 --> 33:02.760]  Sweet. A lot of stuff.
+
 [33:02.840 --> 33:03.680]  Good stuff to plug.
+
 [33:03.940 --> 33:04.280]  Thanks.
+
 [33:04.520 --> 33:04.920]  Yeah.
+
 [33:05.300 --> 33:06.100]  Thanks for having me.
+
 [33:06.240 --> 33:06.600]  Go ahead.
+
 [33:06.680 --> 33:07.120]  Yeah, yeah, yeah.
+
 [33:07.580 --> 33:09.080]  I don't really have too much to plug,
+
 [33:09.440 --> 33:10.660]  at least yet.
+
 [33:11.720 --> 33:13.020]  Maybe in the future or something.
+
 [33:13.420 --> 33:15.480]  Cool. If people want to find you
+
 [33:15.480 --> 33:17.420]  online, connect with you over Twitter
+
 [33:17.420 --> 33:18.060]  or anything.
+
 [33:18.060 --> 33:19.620]  I guess, yeah, over Twitter.
+
 [33:20.080 --> 33:21.440]  I just have...
+
 [33:21.440 --> 33:22.720]  It's not too active right now.
+
 [33:22.840 --> 33:23.980]  I'm looking to change that.
+
 [33:24.140 --> 33:24.180]  Sure.
+
 [33:24.180 --> 33:25.680]  It's like, it's just
+
 [33:25.680 --> 33:29.600]  at C-R-A-Q-Q-U-Y
+
 [33:29.600 --> 33:30.500]  pretty much.
+
 [33:30.860 --> 33:31.140]  Cool.
+
 [33:31.560 --> 33:31.860]  All right.
+
 [33:31.980 --> 33:32.260]  Awesome.
+
 [33:33.400 --> 33:33.880]  Okay.
+
 [33:34.020 --> 33:34.680]  And as usual,
+
 [33:35.080 --> 33:36.540]  I'm Dan Gailey.
+
 [33:36.680 --> 33:37.500]  You can find me on Twitter
+
 [33:37.500 --> 33:38.640]  at DPG
+
 [33:38.640 --> 33:39.480]  and on Facebook,
+
 [33:39.780 --> 33:40.400]  Dan Gailey.
+
 [33:40.960 --> 33:42.400]  You can also find me...
+
 [33:42.400 --> 33:44.400]  I'm the CEO
+
 [33:44.400 --> 33:46.780]  and co-founder of Synapse.ai
+
 [33:46.780 --> 33:48.400]  where we're building
+
 [33:48.400 --> 33:50.080]  decentralized artificial intelligence.
+
 [33:50.920 --> 33:52.660]  You can check out more about that
+
 [33:52.660 --> 33:53.440]  in our white paper
+
 [33:53.440 --> 33:54.560]  and our yellow paper.
+
 [33:54.760 --> 33:56.460]  Yellow paper is the more technical one.
+
 [33:57.940 --> 33:59.260]  We are also throwing
+
 [33:59.260 --> 33:59.960]  the decentralized
+
 [33:59.960 --> 34:01.440]  artificial intelligence summit.
+
 [34:01.600 --> 34:02.620]  So if you're working on something
+
 [34:02.620 --> 34:03.100]  in the space
+
 [34:03.100 --> 34:04.340]  or you're interested in learning more,
+
 [34:04.680 --> 34:05.520]  you should hit us up.
+
 [34:05.780 --> 34:09.320]  We're at decentralized-ai.com.
+
 [34:09.420 --> 34:10.000]  That's a great domain.
+
 [34:10.340 --> 34:10.820]  Yeah, right.
+
 [34:10.980 --> 34:11.960]  It was available,
+
 [34:11.960 --> 34:12.780]  which is weird.
+
 [34:12.800 --> 34:13.160]  That's amazing.
+
 [34:13.320 --> 34:13.560]  Right?
+
 [34:14.580 --> 34:16.400]  So, yeah,
+
 [34:16.500 --> 34:17.260]  check us out there
+
 [34:17.260 --> 34:18.360]  and we have the
+
 [34:18.360 --> 34:19.220]  Crypto Builders Meetup.
+
 [34:19.300 --> 34:20.400]  So if you're building anything
+
 [34:20.400 --> 34:21.280]  in the way of cryptocurrency,
+
 [34:21.720 --> 34:22.580]  looking to learn more
+
 [34:22.580 --> 34:23.980]  about programming and solidity,
+
 [34:24.500 --> 34:25.820]  anything in that field,
+
 [34:25.940 --> 34:27.620]  it happens every other week
+
 [34:27.620 --> 34:28.460]  here at Noisebridge.
+
 [34:28.640 --> 34:29.880]  It's a Crypto Builders Meetup
+
 [34:29.880 --> 34:32.480]  and it happens at 7 p.m.
+
 [34:32.620 --> 34:33.900]  So we have,
+
 [34:34.780 --> 34:36.020]  like what was mentioned earlier,
+
 [34:36.160 --> 34:37.360]  we have somebody
+
 [34:37.360 --> 34:38.040]  who's coming out
+
 [34:38.040 --> 34:39.020]  and talking about mining
+
 [34:39.020 --> 34:41.000]  and all of their experiences there.
+
 [34:41.000 --> 34:42.100]  Should be a good talk.
+
 [34:42.660 --> 34:43.940]  But the audience
+
 [34:43.940 --> 34:45.640]  is probably the best reason to come.
+
 [34:46.020 --> 34:46.880]  So we meet other people,
+
 [34:47.200 --> 34:47.740]  other hackers,
+
 [34:48.080 --> 34:49.040]  just like you
+
 [34:49.040 --> 34:50.120]  from all levels.
+
 [34:50.920 --> 34:52.020]  We also do Hack Days
+
 [34:52.020 --> 34:52.460]  every Sunday.
+
 [34:52.580 --> 34:53.480]  So if you're in the Bay Area,
+
 [34:53.480 --> 34:54.100]  you can come out
+
 [34:54.100 --> 34:54.780]  and join us
+
 [34:54.780 --> 34:55.340]  and talk about
+
 [34:55.340 --> 34:56.280]  all the nerdy stuff
+
 [34:56.280 --> 34:57.160]  that you love,
+
 [34:57.400 --> 34:58.200]  that you're working on,
+
 [34:58.260 --> 34:59.040]  or that other people
+
 [34:59.040 --> 34:59.580]  are working on.
+
 [35:00.100 --> 35:01.320]  So you can do that here.
+
 [35:01.320 --> 35:02.460]  You can find us at
+
 [35:02.460 --> 35:03.580]  facebook.com
+
 [35:03.580 --> 35:05.140]  forward slash groups
+
 [35:05.140 --> 35:06.720]  forward slash Hack Days,
+
 [35:07.000 --> 35:07.780]  the number four,
+
 [35:08.240 --> 35:08.540]  all.
+
 [35:09.340 --> 35:10.240]  You can also find us
+
 [35:10.240 --> 35:11.780]  on Meetup here locally
+
 [35:11.780 --> 35:13.540]  at, I don't know,
+
 [35:13.620 --> 35:14.420]  Crypto Builders Meetup
+
 [35:14.420 --> 35:14.840]  Hack Days.
+
 [35:15.020 --> 35:15.100]  Yeah.
+
 [35:15.220 --> 35:15.860]  I have one more.
+
 [35:16.240 --> 35:16.900]  So people should join
+
 [35:16.900 --> 35:17.500]  my Facebook group
+
 [35:17.500 --> 35:18.080]  Death Star Robot
+
 [35:18.080 --> 35:19.640]  at deathstarrobot.com.
+
 [35:19.840 --> 35:20.060]  Okay.
+
 [35:20.220 --> 35:21.240]  You actually have that domain.
+
 [35:21.360 --> 35:22.000]  That's a good domain.
+
 [35:22.000 --> 35:22.680]  How do you spell it?
+
 [35:22.940 --> 35:23.680]  Death Star.
+
 [35:23.680 --> 35:24.840]  Oh, Death Star.
+
 [35:24.960 --> 35:25.820]  Yeah, like Star Wars.
+
 [35:25.980 --> 35:26.380]  Yes!
+
 [35:26.380 --> 35:29.200]  I like that.
+
 [35:29.240 --> 35:29.620]  When I heard
+
 [35:29.620 --> 35:30.840]  your decent plant AI,
+
 [35:31.140 --> 35:31.760]  I was like,
+
 [35:31.840 --> 35:33.020]  oh, I want to share
+
 [35:33.020 --> 35:34.180]  my cool domain name too.
+
 [35:34.200 --> 35:34.620]  Yeah, share your
+
 [35:34.620 --> 35:35.480]  cool domain names.
+
 [35:35.600 --> 35:36.900]  If you have cool domain names,
+
 [35:36.980 --> 35:37.380]  share them here.
+
 [35:37.900 --> 35:39.400]  But, so, as usual,
+
 [35:39.820 --> 35:41.660]  be excellent to each other
+
 [35:41.660 --> 35:42.380]  and hack the planet
+
 [35:42.380 --> 35:43.300]  and we'll see you next week.
+
 [35:43.540 --> 35:44.520]  Wow, that's sick.
