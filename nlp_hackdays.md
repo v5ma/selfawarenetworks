@@ -6,14 +6,6 @@ Youtube link: https://www.youtube.com/watch?v=uNJ6Q72rHG0
 
 Article link: https://www.svgn.io/p/hack-days-in-san-francisco-c677d753c93f
 
-Transcript of Hack Days Podcast on Neural Lace at Noisebridge with Micah Blumberg
-
-December 2017
-
-Youtube link: https://www.youtube.com/watch?v=uNJ6Q72rHG0
-
-Article link: https://www.svgn.io/p/hack-days-in-san-francisco-c677d753c93f
-
 Start of (Whisper) Transcript:
 
 Well, no, I had a Hackintosh.
