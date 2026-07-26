@@ -1,0 +1,10 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0026 Changes in Receptors lead to changes in phase rate firing
+First recorded: 2023-04-17T07:22:43.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/a5c6fadb-febc-4d8e-8cb4-d676ebaf8873
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+The brain is like, what is it? He asked me at this event. He asked me about my podcast. He said, well, what is it? What is the serotonin? What is happening? And I said, well, you know, people are taking these chemicals. They're antagonizing the serotonin receptors or causing changes to phase-rate, phase-rate pattern.
+The brain changes in the receptor. It's atomized and that causes a change in the firing of the sun. That changes the oscillation of the brain.
+The brain is an oscillator. He said it's like, excuse me. Yeah, it resonates.

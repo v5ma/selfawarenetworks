@@ -1,0 +1,2832 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0321y Neurotech AI Hybrid EEG fnirs eight command decoding for bci Signals Tasks
+First recorded: 2021-04-06T03:30:59.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/08bb0654-7461-49f0-8d63-b3b9e1a365bf
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Thank you for making this room.
+So Adam, I realized that you also shared another link, which goes to another paper. Was it an extra suggestion or was it an error? I wasn't sure.
+No, no, that was an extra suggestion, maybe for next week or that was a connection between that paper and this paper as well a little bit.
+But your paper is kind of a kind of a BCI flowchart, the algorithm flowchart. The other one was just FNIRS and regarding memory, but there was some sort of the algorithm that they used in the second paper was related to the first one.
+But I think tonight we're going to talk about the first paper that you suggest. And just to a quick intro about this room is every Monday in p.m. Eastern time.
+We're going to get together only for one hour. More than that, people device signals, some interesting papers that we're going to review those for.
+I guess so. Yes, let's get started. I think, Shayla, that was your proposal. Do you want to kick it up?
+Everyone, so in the previous weeks, we have been talking a lot about combination of different imaging methods.
+And I think one of the things that Adam has been quite interested was FNIRS.
+And so I picked that paper because they, it's really interesting.
+So first of all, it's a combined BCI using EG and FNIRS.
+And then they use different, they use several tasks to decode the signal.
+And one of the interesting part is that in here, people actually control a quadcopter online using like that real-time signaling.
+So there's been, so there's different comments that they try to decode.
+So for example, like there's this mental arithmetic, mental counting, mental rotation, and word formation tasks.
+And these are decoded by FNIRS.
+And then they also decode some of the tasks.
+And yeah, so I think maybe like, you know, if you want to kind of like add to me, you can unmute and go.
+Sure, yeah, I think on a high level, we talk a lot about EEG and FNIRS.
+And EEG is capturing brain, basically neural impulse, which is electrical signal.
+And FNIRS is capturing oxygen saturation, which is kind of an input.
+So I think in this algorithm, if you look at the flowchart, for FNIRS, for basically feature extraction, they were using two-second window.
+For EEG, they were using one-second window.
+As a kind of data science point of view, or a kind of a system engineering point of view, if I'm looking at one neuron, it should be a time delay between when they are consuming oxygen versus the time that they are firing impulse.
+When we are capturing those two signals, when we are capturing those two signals at the same time, we have to be careful about that time difference.
+And I'm not sure the reason that they were using two-second window for FNIRS versus one-second window for EEG is because of that or not.
+Or I don't know what's the best way to make that synchronize because there should be a time delay between when part of the brain is consuming oxygen and then they are firing impulse.
+I think one of the important theories you mentioned, you know, that time, like two-second, the ability to measure with two-second window for FNIRS and one-second window with EEG.
+I think that was one of the powerful parts of that paper.
+And I think also, like, they, also, like, regarding the number of commands that they're using, this is also interesting.
+So there's been several earlier studies that, you know, that try to control quadroppers.
+So that ask participants to control a quadropper using BCI.
+And then, like, one of them, for example, used motor imaginary imageries for, like, left, right, or both hands.
+And so, you know, like, it's been, I think it's been, like, interesting task, right?
+Like, to have that BCI to control the quadropper.
+But I think, so these people got a lot of citations as well.
+And I think one of the reasons is that they achieve a few things.
+So first, as Adam was saying, that the temporal, you know, window was interesting.
+Like, and that was a good achievement compared to the earlier studies.
+And also, like, the number of these tasks, these commands were interesting.
+And one of the things that I find, like, quite surprising is that, you know, if you think about these four mental tasks,
+like mental mathematics, counting, you know, think about, you do some math, you do some counting, or word formation, or mental rotation.
+These are all really, like, you know, frontal lobe tasks, right?
+It's not like, it's not, it's really, like, they have some similarities.
+These are, and I think differentiating between these different tasks using that signal that has been recorded with FNERS is quite an achievement.
+So if, you know, if you record, like, if you're trying to differentiate eyeballing from a motor task or motor imaginary task,
+you know, these are more easy things because they're very distinct tasks.
+But I think there's some similarities here in terms of these tasks.
+And I find that part actually impressive.
+And that was a good achievement as well.
+This is Sharina.
+And I think that part of the reason why this is a highly cited paper is because it has such a cool factor.
+I mean, being able to practically levitate something with your mind, that's what it seems like almost.
+So there's the question of how else could such paradigms be used?
+Could things happen like controlling music or controlling various other things?
+For example, what if there was a therapy, pretty much, and it just increased the frequency over different brainwaves, but corresponding to sound waves and so on?
+That could create quite the game for life.
+This is Sharina, and I am done speaking.
+Thank you, Sharina.
+Yeah, I think that's a good EFNIR detectors that they were using was not that much.
+I forget the number, but I think it was not a huge amount of detectors.
+And I think in the section that they were using in EFNIR signal processing,
+the distance between source of the light or that LED that they were using and the detector,
+basically the distance between them is very important.
+It cannot have, I don't know, more than, if the distance is larger than the absorption amount that that detector is capturing is going to change.
+And the quality of signal is going to be different as well.
+And I think in that EFNIR signal processing part, they were talking about that distance inside the equation that they have.
+And the same, another sort of concern that they have for EG signal processing.
+And in order to make them both in a good way and synchronize them, I think that that's very difficult.
+It required lots of experiments because I'm not sure if there is any kind of a theory as a neurology point of view
+that what's the best distance between source and detector for EFNIRs.
+Or at least I don't know if such a thing exists when we have to start experimenting and then asking people,
+I don't know, to think about music or do something or do some brain activity and then change the distance
+and calculate it again and again and again and again.
+Or if there is any kind of a theory that what's the best distance between them.
+I think it's about the EG.
+Go ahead.
+Oh, sorry.
+Yeah, I just had a question.
+So from what I'm reading, the EG and the EFNIRs part are completely separate, right?
+They're not using the data together to increase the accuracy.
+Rather, they're using it separately to increase the number of commands that they can use.
+Correct?
+That's what I thought.
+Yeah.
+Right?
+So, honestly, I'm not 100% sure because in figure 3 that they were using, I thought they are capturing those signals at the same time.
+For sure with not the same device, but at least at the same time.
+I think they used the two techniques to decode different types of tasks.
+Like, EG was used for, you know, there's eight commands.
+And for these mental tasks, they use EFNIRs.
+And like, there's these EG tasks that are separate.
+Like, and that these are eyeballing and movement tasks.
+So, I, you know, like, this has been clear, but I just didn't read, like, every line of the methods part.
+I don't know if there was an exploit or a part of the paper where they used, you know, them together in the analysis.
+But they used these two at the same time.
+That's correct.
+So, I think that is correct.
+In fact, what was just said, and that the, so the E-motive device was used basically in a way to basically pick up EMG signals from the eyes,
+which is not exactly EEG, but the EEG device was used to, because, you know, you can pick up those signals.
+And so they were tracking the eyeballs.
+But that was, that was, so, so they sort of neatly abided, neatly avoided the potential synchronization of timing between EEG signals and EFNIR signals.
+So, so you had one, you know, totally separate system, or totally separate control mechanism that was just using the EFNIRs for, for, for control of part of the quadcopter.
+And, and the eye blinks were used for a different part of controlling the quadcopter.
+And I, I thought that maybe the biggest, um, sort of delay, um, in the paper was just the, the time, the amount of time from the signals collected, uh, to, uh, to travel to the device itself.
+And, and so that just like, what that, that part wasn't fast enough.
+So, so the, so the, um, the, the quadcopter would, needs, uh, uh, data, uh, from the brain much faster, but you, you can't send data that fast over Wi-Fi with, with, with their setup.
+So, um, so the Wi-Fi was the inhibiting factor to, maybe, maybe the, maybe the accuracy of control would improve if they had a, a faster signal transmission from the brain to the, to the copter.
+Can we do that with only EG or only EFNIRs?
+Or it's, we really know.
+This is Shireen, and I have seen some things, some applications where people have used brainwaves that were not, was not the combination of EG and EFNIRs.
+I think it was just EG to control a drone.
+But I do not know how accurate or how good of navigation there may have been for that.
+But this is Shireen, and I am done speaking.
+I think the, the, the main added value of using both is to increase the number of commands that you can use.
+That's where I'm gathering from reading the paper.
+This is Shireen, and yeah, that makes sense.
+I imagine also that the more contacts there are and the more accuracy and the less latency,
+it just makes for a better user experience as well.
+This is Shireen, and I am done speaking.
+Right, but when you guys talk about accuracy, are you guys talking about the mapping or the error rate of the intention of the user to the computer decoding the actual command?
+Is that what you guys are talking about when you talk about accuracy?
+Because I don't see how the accuracy is increased by using both EFNIRs and EG in this paper.
+So, I feel like the paper is misleading a little bit.
+So, the paper talks about how, you know, with EEG, you know, having like a one-channel, one-channel EEG, you can get more accuracy than multi-channel EEG.
+But it's still sort of confusing the fact that really they're measuring EMG with the Emotive EEG device.
+And, yeah, but yeah, so the idea is that, you know, with EG, your best accuracy is maybe like a one-channel.
+And so, the whole thing, the whole benefit of EFNIRs, then, is to give you accuracy with more than that one channel by having like a whole different sort of modality sensor set up.
+So, my name is Micah.
+Thank you, Micah.
+And I think, Ricky, you're right.
+The accuracy was just different commands.
+And in order to control something in a physical world, we cannot have unlimited command.
+And that, the classification that they're using, I think they just look at the accuracy of their classification, the precision and recall of that classification.
+I think that's what you're talking about, an accuracy.
+I see, yeah, that makes sense.
+So, by separating EEG and EFNIRs, you have more, so you would have more accuracy with four commands in EEG than with eight.
+And you would have more accuracy with four commands with EFNIRs than with eight.
+So, by separating the two, you get more accuracy in both.
+Is that what you guys are trying to say?
+That's true, yes.
+But I think, yeah, the part that I don't understand is why one-channel EEG gives them better accuracy than two-channel EEG, or even more channel EEG.
+Is it an over-feeding problem as a data science point of view, or is this another problem that they have?
+I'm not sure.
+Maybe Micah can answer that.
+Give me a second.
+I'm just sort of skimming the paper for what I read earlier, and then I'll get back to you.
+So, cool, sounds good.
+You know, if you only look at, you know, the number of commands that are controlled or number of channels, I think, you know, if you look at it, like, one of the other studies that was performed by Kim et al.
+could look like a more successful study.
+There's still, like, an accuracy that's at 90%.
+It's only EEG, and they only use some, I think, eye movement-controlled study.
+But there's other things that are really important.
+So, I think, first of all, what they say is that with that setup, with that EEG eye tracker setup, I think there was a difficulty to maintain the quadruple-controlled concentration for a significant span of time.
+So, you know, if a person is going to control this quadruple for, you know, like an hour or so, so that system with only EEG wouldn't be just, you know, reliable alone.
+So, and also they, I think they say that there is, their system, they, that combination of EEG and affineries also provides people more freedom to use, to the, to control the drone, I guess.
+And also, it avoids some misdirectional moments.
+I think these are also important things.
+So, I think when we look at the, you know, accuracy is a really, like, quick, you know, quick representation of, like, the success.
+But there's really other things as well.
+I think for, especially for BCI, it's really important to avoid these potential problems and, you know, make it sustainable.
+So, that was, that was a power of that study too, I guess.
+This is Sharina.
+And I think that with the point where there was more accuracy or rather the signals that were intended were carried out the most properly with one versus two contacts.
+In that case, why don't they just switch the model to just pay attention to that one contact that is really good when there are two contacts in the picture for those particular applications.
+This is Sharina, I'm talking.
+I don't know the answer to that question.
+So, Mike, I'll do it.
+So, in the paper, they referred to something called the accuracy reduction problem.
+Or basically, so the activity type of BCI is preferred over reactive BCIs.
+It allows a person to communicate with the machines.
+Well, hang on, wait a second.
+So, shoot, I kind of got lost.
+Okay, so, I wish the lines were numbered.
+Okay, so, for the purposes of FNIRs-based active BCIs, mostly mental and motor-related tasks are selected.
+All the recent studies have shown the importance of FNIRs-based BCI for reactive and passive tasks.
+The activity tasks are primarily used to increase the number of commands for this modality.
+However, the active type BCI is preferred over the reactive, as it allows a person to communicate with the machine at well.
+Well, both the FNIRs and EEG drawback is that increasing the number of active commands is the decrease in accuracy for BCI.
+So, as a means for compensating the accuracy reduction problem is the use of single brain signal acquisition modality.
+The hybrid BCI concept was proposed, and the design entails a combination of either two modalities, at least one of which is the brain signal acquisition modality.
+So, the two modalities, I guess, are basically the EEG and FNIRs.
+And the hybrid was designed to basically enhance the classification accuracy and increase the number of commands without decreasing the accuracy.
+And so, that is the real reason why they're using FNIRs plus EEG to basically give you more commands without decreasing the accuracy,
+which is what would happen if you were just using one modality.
+So, this is kind of the same thing that we discussed, I think, two weeks ago regarding that EEG and music.
+I think in that paper, they asked people to think about true music.
+It was a binary classification that based on the EEG signal out of their brain, they want to predict which music they were thinking about.
+And then it was a binary, only two music, their accuracy was, I think, close to 90%.
+But when they make that music from two, they make, I think, 12 music, the accuracy was about 65%.
+So, the huge decrease in accuracy when you increase the number of music or number of classifications.
+So, it's kind of the same thing that they do here.
+But, if what they are doing is 100% right, we can go back to that paper and the music classification for 12 music.
+So, earlier it was pointed out, I guess Adam pointed it out, that the frequency of EEG is usually much faster than your blood flow,
+which has to react to your neurons firing, right?
+And I sort of wonder about how that works exactly, because there is like a path between neurons firing in a cortical column
+and then basically that activity being large enough that you're going to have dipole activity,
+which is a large-scale global brain dipole activity, which is what is going to be picked up by the EEG sensor.
+And so, I wonder about the timing of that and how that, you know, because so, what I'm saying is like,
+so, there's a delay also between when your neurons fire at a low level and when the dipole is going to fire,
+just similar to how there's a delay between when your neurons fire and when blood flow happens.
+And I just, so, the timing issue there is very interesting.
+And, yeah, I'd like to know more about that.
+But, yeah, I'm glad you might check.
+Thank you.
+This is Sharina, and this may seem like a silly question, but how high of a frequency can EEGs pick up?
+Is it 80 hertz?
+Is it 60 hertz?
+Does it depend on which EEG electrodes are being used?
+This is Sharina, and I am done speaking.
+I think neuroscientists should answer that question.
+It's hard to get that, but I think there's also a positive correlation between the density of the EEG.
+In other words, the number of electrodes and that capacity for acquiring that frequency.
+But, you know, like, I mean, I know that it can acquire, like, 40, 30, and it's not good at acquiring, I think, 80, 70.
+I just, you know, I don't know, like, about the reference right now, or I don't know about the exact threshold.
+On this paper, they said 128 hertz.
+It's because that's what we're talking about.
+Yeah, exactly, yeah.
+They mentioned that in the paper that 128 hertz was the sampling rate.
+Actually, I think using that device, using a hybrid of FNIRs and EEG has this advantage for them to, comparing to the devices,
+only use the EEG signals, that they have more commands and have more freedom to use it as, use it to control that quadcopter.
+And also, comparing to the devices, only use the FNIRs.
+They can reduce the size of window for doing this faster.
+You change it from 2 to 7 seconds to 0 to 2 seconds, and then they've got those features.
+So, actually, the purpose of the method is not exactly about improving accuracy, but to getting more commands and getting more freedom in controlling the quadcopter,
+and, meanwhile, like, doing that faster can help you as well.
+But the sampling hertz is different from the amount, the hertz you're able to measure.
+So, like, from EEG, you're not, like, EEG sensors, you're not going to get more than, like, 80 hertz with EEG sensors.
+It's, like, usually between 0 and 80 hertz, and 8, and so 40 to 80 is usually, like, the high gamma for EEG.
+And then, if you need more than that, you know, you've got to have a different kind of sensor.
+But, yeah, the sampling rate, 120 hertz, but that's a different hertz.
+Yeah, actually, that's what I was thinking about it at first.
+I read that sentence, but they use the word acquired, and that using the word of acquisition makes me think about it,
+that maybe they're using this word because of showing that this is the frequency that they can catch using their sets.
+I'm not sure about this because I have not worked with EEG so far,
+but in terms of using that word in the sentence, it might be that.
+This is Sharina.
+And, yeah, when it comes to picking up brain samples or samples of neural data,
+it seems that there is a certain Nyquist rate,
+or a rate that where the signal acquisition has to be higher than the fastest event that is being collected,
+and it needs to be quite a bit faster in order to collect those particular events.
+Events, they will change depending on numerous things,
+and there are some brain waves that are 130 hertz and so on,
+that I imagine that EEGs would have a very hard time collecting,
+especially with dry electrodes.
+But when it comes to the depth of EEGs,
+does it capture all six cortical layers,
+and does it capture anything below that,
+and does that depend on the person's head size?
+This is Sharina asking kind of silly questions, but also curious.
+So the EEG is primarily capturing large-scale dipole activity,
+but you can use EEG localization to trace the origin points of the signals
+all the way to the core of the brain in the thalamus, as deep as the thalamus.
+And that's been sort of proven by also co-measuring with deep brain stimulation implants,
+which besides doing deep brain stimulation can also do measurements.
+And by the way, I've also used many different EEG devices myself,
+including the brain duina, which samples at 256 hertz,
+but we could not get more than basically 60 hertz.
+Once you hit 60 hertz, that is also the range of muscle activity,
+the activity, and so we couldn't go higher than 60 hertz in terms of capturing the brain,
+but we were sampling at 256 hertz.
+Yeah, actually, I think so.
+If you talk about the brain waves frequency,
+based on what also Sharina mentioned,
+that it might come from the Nyquist equation
+that you need at least two times more than sampling rate
+to capture that frequency in your signal.
+So if it would be, for example, 128 hertz for sampling,
+yeah, definitely the brain wave should be less than 64 hertz
+to get captured in the signal.
+I have a question regarding that EFNIR's part of that,
+which is using to get mental activities, like mental counting.
+So one of those, in a training set,
+one of the activities was counting backward.
+And I can understand that when I'm counting backward,
+some part of my brain, they probably need more oxygen
+in order to just, I don't know, to think harder, to go backward.
+But if I do it again and again, and that's become easy for me,
+and I got trained by counting backward,
+then that part of my brain probably doesn't need
+that much oxygen in order to do it anymore.
+So that PCI, over time, might not work.
+And over time, they have to maybe change those commands
+to make it a little bit more difficult
+in order to get that oxygen.
+Is that true?
+This is Sharina, and that absolutely makes sense.
+And that's why they need machine learning models
+or something to keep up with people's neuroplasticity.
+This is Sharina, and I am done speaking.
+I feel like counting backwards is also a task
+that still requires mental effort, even if you're trained.
+But, you know, we could probably look at the studies,
+looking at the effect of training,
+I think that's a good point.
+And so probably, you know, just to get rid of the,
+you know, effect of that training,
+if participants have trained before,
+and then if the experiment starts later on,
+probably just gonna provide them more,
+like, homogeneous results.
+But, yeah, good point.
+I have a question regarding the frequency
+that you guys were talking about.
+Because when you guys talk about sampling,
+frequency makes sense.
+But when you start talking about the frequency of the brain,
+I don't know exactly what you mean,
+since I'm not a neuroscientist.
+I'm not training that field.
+So when you talk about the frequency of the brain,
+I'm having a hard time picturing a bunch of neurons,
+you know, extracting away a single quantity of frequency
+from a bunch of neurons firing.
+So can you guys help me clear that out?
+And the brain, it has numerous different frequencies
+happening all of the time.
+And a lot of times, it has multiple frequencies
+that are superimposed upon each other.
+For example, a brain wave that my lab has discovered
+is a very high frequency oscillation
+that only happens at the peaks of theta waves.
+So it's this 130-ish hertz frequency
+that happens on top of these about 8 to 14 hertz frequencies.
+So there's the question of,
+okay, if we filter in different bands of frequencies,
+then what do we get?
+And can we use those to control some sorts of devices?
+This is Sharina, and I am done speaking.
+Okay, so that makes sense.
+But then I guess I don't know.
+I'm not sure how, I'm not sure that I understand
+how brain waves are generated.
+So how exactly is it that you generate brain waves
+from single neurons firing?
+So is it like the rate at which neurons fire
+kind of make oscillations in the electromagnetic field
+and that's where you're picking up?
+Is that what it is?
+I just have a hard time picturing
+a, what's the word?
+A regular pattern of firing neurons
+so that an actual frequency can be picked up.
+This is, and I definitely have an answer to that.
+Okay, imagine this.
+You have a room full of people
+and, well, the people,
+they're clapping at different rates.
+It's, okay, that is,
+that is some sort of frequency.
+It is a lot of noise,
+but it is, it's a bunch of clapping
+and it's a bunch of signals.
+If they were to clap such that
+half of the people clap at one rate
+and the other people clap at another rate,
+then that, then you can determine
+two different frequencies from that
+and it is kind of strong
+because multiple people
+are in sync with each other.
+So it's kind of similar with brain waves.
+And if everyone in the room
+was to clap at the same frequency,
+then that would create
+a very large and strong brain wave.
+And this phenomenon is known
+as the one over F rule,
+otherwise known as a power frequency dynamic
+that happens in the brain.
+So if you have brain waves
+that are at higher frequencies,
+then you'll generally find
+that they are lower in power.
+But if you will have brain waves
+that are higher in power,
+then you'll usually find
+that they are lower in frequency.
+And so the whole idea to keep in mind
+is synchronization between different neurons
+and how well synchronized they are.
+So that if a lot of people
+are clapping at the same time,
+then it will produce a lot of power.
+But if there are a bunch of different people
+clapping at a bunch of different rates,
+that may be a high number,
+that may be a high amount of frequency,
+but not very much power
+because it's not as synchronized.
+This is Sharina and I am done speaking.
+So I want to share two resources
+that might be useful to people in this group.
+If you look at my Twitter,
+it's my latest post.
+It's not my pinned post,
+but it's the post that I just posted.
+One paper might be interesting to Sharina.
+The other paper might be interesting to Ricky
+and everyone else might get a kick
+out of these papers too.
+So the first one is about
+subcortical electrophysiology activity,
+which is detectable with EG source imaging.
+And that dives into basically source imaging
+is the idea of explaining how accurate
+and how deep the EG signals can be detected.
+Basically, as I said,
+it goes all the way to the thalamus
+and I was referencing that.
+But in terms of how EEG
+and in terms of how neural activity
+at a low level becomes a brainwave,
+Ricky, you might want to check out
+this biophysical,
+it's linked right underneath,
+biophysical modeling on the origin of EEG.
+And it sort of dives deep
+on answering that question as well.
+Where did you say that they were linked?
+I'm sorry, I missed that part.
+So just check my Twitter.
+If you click on my profile
+and click on Twitter
+and then look at my most recent post,
+so you can see those two papers.
+Got it.
+Thank you, man.
+Appreciate it.
+Great.
+That was a great question.
+So I want to go back
+to that training data set.
+I think we were kind of on the same page.
+If we got trained
+and if we can do some sort of mental activity
+easier and easier,
+then we might,
+that part of our brain
+might not need that much oxygen.
+So those commands
+might not work in future.
+So what about
+EEG signals?
+Is this true that
+if we don't have that much activity
+or if those tasks
+have become easier for us,
+brain,
+those neurons
+are not going to fire
+or they're going to fire
+without oxygen?
+So are you talking about
+the EEG tasks here?
+I think it's very independent
+from training.
+You know,
+like people,
+I mean,
+according to my experience,
+people,
+you know,
+so EEG are really robust
+and they take
+actually a big part
+of the EEG signal.
+And I think
+even when people are trained,
+there's still
+real robust EEG activity.
+I feel a little bit
+confused by the question.
+I mean,
+every time a neuron fires
+it uses oxygen, right?
+Is that true?
+I'm not sure.
+Yes.
+Yes, it is.
+And then
+every time it uses oxygen,
+blood has to flow
+to that spot.
+Okay,
+so in that case,
+if...
+And consuming oxygen
+means
+it's consuming energy.
+it's more difficult
+for me.
+If there is something
+that's routine for me
+that's required
+less oxygen,
+maybe I'm just
+too simplifying
+brain activity,
+which probably I am,
+but is that
+in high level?
+Is that true
+that when I'm thinking
+hard to solve
+a mathematical problem
+versus I'm relaxing,
+so that's
+when I'm thinking
+harder
+and use my memory,
+my brain
+needs more oxygen.
+I guess
+a good story
+that can support
+that idea
+is many people
+claim that
+they think better
+when they go
+for a walk
+or something
+and their brain
+is getting more oxygen.
+Because in that case,
+if we get...
+If we do something
+which is routine,
+it probably
+doesn't need
+that much oxygen,
+so brains
+are not going to fire.
+Our neurons
+are not going to fire
+if their neurons
+need oxygen.
+This is Sharina
+and I am currently
+thinking about
+how athletes train
+in hypoxic environments
+like high up
+in the mountains
+in order to
+get really
+good athletic performance
+even under conditions
+where there's not
+as much oxygen
+in the environment.
+So,
+I think that
+it really depends
+on what
+the body
+is able to do
+with what it has.
+Right now,
+I'm also thinking
+about how
+even when we're
+looking at slices
+and brain slices
+then the artificial
+cerebrospinal fluid
+it has bubbles
+in it.
+It has oxygen
+for the cells
+to stay alive
+as long as possible.
+This is Sharina
+and I am done speaking.
+Good, Sharina.
+Thank you.
+Yes,
+I think
+I'm maybe
+too simplifying
+brain activity.
+Probably
+there's going to be
+much, much
+more activity
+going around
+some things
+happening
+and I think
+neurons
+are not going
+to just
+consume oxygen
+there's nutrition
+that they need.
+They need both
+of them
+in order to fire.
+But
+maybe
+in some
+cases
+with less
+oxygen
+and less
+nutrition
+they can
+even fire
+or
+in some
+other cases
+they have
+to consume
+oxygen
+in order
+to fire.
+I can
+kind of
+answer
+that a little
+bit.
+So
+your cells
+have to
+metabolize
+the nutrition
+that they receive
+and turn that
+into ATP
+and then
+ATP
+is the energy
+that the cells
+use
+to conduct
+their physical
+activities.
+And I think
+of this in
+terms of
+sodium
+and potassium
+pumps
+as well as
+calcium
+signaling.
+So those
+are the
+three main
+molecules
+that it
+seems to
+that seem
+to be
+involved
+in
+transduction
+of neurons.
+So
+yeah
+some
+neurons
+they're like
+a salty
+banana.
+That's how
+you can think
+about them.
+There is a lot
+of salt
+on the
+outside of
+neurons
+and the
+insides of
+neurons
+they have
+a lot
+of potassium
+in them.
+So
+when
+the cell
+becomes
+more and
+more polarized
+over time
+when
+more sodium
+comes in
+and more
+potassium
+flows out
+then eventually
+it gains
+a stronger
+negative
+it gains
+a stronger
+positive charge
+and then
+it fires
+an action
+potential.
+And
+this is
+how
+brain
+rhythms
+and neural
+circuits
+work
+which is
+that
+action
+potentials
+fire
+and then
+they excite
+or inhibit
+the next
+neuron
+depending on
+whether it
+is an
+excitatory
+or inhibitory
+neuron.
+This is
+Sharina
+and I
+am done
+talking.
+I could
+add a
+fun fact
+to that
+is that
+so
+sodium
+potassium
+and calcium
+on the
+periodic table
+these are
+under the
+classification
+of metals
+right?
+and
+so
+what's
+interesting
+is
+they all
+have
+positive
+and
+negative
+charges
+and
+so
+basically
+the
+separation
+of
+positive
+and
+negative
+charges
+is what
+leads
+to
+the
+action
+potential
+firing
+but
+there's
+an
+analogy
+to that
+to a
+lightning
+strike
+and
+that
+a
+lightning
+strike
+in
+the
+sky
+it's
+a
+loose
+analogy
+just
+for
+humor
+but
+a
+lightning
+strike
+in the
+sky
+is
+basically
+a
+separation
+of
+positive
+and
+negative
+charges
+between
+the
+sky
+and
+the
+earth
+and
+so
+that's
+and
+then
+that
+results
+in
+the
+action
+potential
+I'm
+sorry
+the
+lightning
+strike
+just
+again
+just a
+little
+bit
+of
+analogous
+humor
+and
+I
+like
+to
+joke
+that
+basically
+the
+human
+beings
+are
+literally
+metal
+robots
+because
+we
+because
+we're
+because
+because
+these
+electrical
+charges
+which
+are
+based
+upon
+you
+know
+the
+separation
+of
+positive
+and
+negative
+charges
+they're
+like
+lightning
+strikes
+that
+that
+is
+basically
+you
+can
+think
+of
+that
+as
+the
+root
+of
+a
+brain
+wave
+that
+our
+cells
+are
+transmitting
+like
+little
+bits
+of
+electricity
+maybe
+and
+then
+maybe
+also
+the
+cells
+are
+the
+the
+electricity
+is
+or
+the
+electromagnetism
+that's
+bouncing
+around
+is
+altering
+the
+positions
+of
+positive
+and
+negative
+ions
+in
+other
+neurons
+and
+in
+that
+sense
+that
+could
+change
+when
+those
+other
+neurons
+fire
+it's
+just
+a
+hypothesis
+but
+it's
+a
+fun
+idea
+so
+the
+signal
+we've
+gotten
+for
+example
+EEG
+is
+extracellular
+signals
+coming
+from
+the
+chemical
+grant
+between
+the
+neurons
+so
+what
+we
+do
+have
+in
+neuroplasticity
+is
+one
+thing
+is
+firing
+the
+neurons
+in
+lower
+thresholds
+and
+not
+the
+high
+thresholds
+that
+used
+to
+be
+fired
+when
+it
+is
+in
+the
+first
+experiences
+and
+the
+other
+one
+is
+making
+new
+paths
+in
+the
+brain
+so
+I
+think
+if
+for
+example
+the
+threshold
+would
+be
+lower
+than
+the
+initial
+experiences
+it
+still
+fires
+and
+we
+still
+got
+the
+signals
+from
+the
+extracellular
+level
+and
+so
+on
+at
+the
+end
+of
+the
+day
+we
+got
+the
+signals
+on
+EEG
+or
+for
+example
+if
+we
+do
+get
+the
+signals
+from
+any
+source
+of
+nutrition
+or
+oxygen
+or
+ATP
+that
+neuronal
+cells
+use
+to
+do
+this
+activation
+so
+I
+think
+it
+might
+affect
+a
+little
+bit
+but
+at
+the
+end
+it
+depends
+on
+what
+threshold
+we're
+going
+to
+use
+to
+capture
+that
+signal
+and
+I
+think
+it
+doesn't
+be
+that
+much
+that
+question
+if
+in
+this
+paper
+if
+they
+run
+that
+experiment
+with
+the
+people
+that
+they
+have
+ADHD
+or
+maybe
+some
+other
+attention
+or
+memory
+problem
+then
+do
+you
+think
+the
+result
+would
+change
+I
+think
+I
+need
+to
+think
+a
+little
+bit
+more
+about
+it
+firstly
+it
+depends
+on
+the
+brain
+regions
+we're
+going
+to
+capture
+the
+signals
+from
+so
+if
+the
+regions
+are
+situations
+in
+the
+people
+it
+shouldn't
+affect
+the
+signals
+but
+for
+example
+we do
+have
+some
+proof
+of
+changes
+in
+for
+example
+functional
+connectivity
+that
+one
+part
+of
+it
+for
+example
+in
+prefrontal
+cortex
+that
+is
+in
+this
+experiment
+that
+I
+think
+for
+example
+anterior
+cingulate
+cortex
+that
+is
+more
+or
+less
+connected
+to
+some
+part
+of
+the
+brain
+functionally
+but
+what
+we've
+got
+from
+these
+experiments
+to
+use
+for
+that
+quadcopter
+control
+I
+think
+it's
+the
+level
+of
+activation
+and
+not
+sometimes
+like
+functional
+connectivity
+which
+is
+a
+synchronization
+or
+a
+correlation
+between
+two
+different
+signals
+so
+I
+think
+it
+doesn't
+make
+any
+problem
+but
+yeah
+it
+still
+needs
+to be
+explored
+I
+this
+is
+Sharina
+and
+I
+think
+that
+when
+it
+comes
+to
+attention
+conditions
+what
+will
+tend
+to
+happen
+is
+that
+the
+signal
+that
+is
+collected
+will
+generally
+be
+noisier
+maybe
+it
+will
+need
+to
+be
+trained
+upon
+but
+it
+would
+be
+noisier
+not
+just
+at
+one
+frequency
+but
+across
+a
+range
+of
+frequencies
+and
+that
+will
+create
+a
+sort
+of
+challenge
+for
+for
+creating
+a
+sort
+of
+brain
+computer
+interface
+can
+a
+person
+become
+better
+at
+this
+stuff
+over
+time
+with
+training
+you
+bet
+I'm
+pretty
+sure
+that
+they
+can
+this
+is
+Sharina
+and
+I
+the
+way
+we
+went
+about
+trying
+to
+devise
+a
+control
+system
+with
+EEG
+in
+that
+when
+you
+get
+into
+a
+car
+for
+the
+first
+time
+or
+when
+you
+learn
+anything
+for
+the
+first
+time
+your
+brain
+activity
+is
+greater
+than
+what
+it's
+going
+to
+be
+when
+you're
+really
+good
+at
+driving
+the
+car
+when
+you
+get
+good
+at
+driving
+the
+car
+your
+brain
+activity
+is
+greatly
+reduced
+because
+I
+would
+say
+at
+first
+your
+brain
+is
+just
+trying
+to
+figure
+it
+out
+and
+it's
+throwing
+everything
+in the
+kitchen
+sink
+trying to
+figure
+out
+how
+to
+drive
+this
+car
+so
+there's
+a ton
+of
+brain
+activity
+and
+maybe
+your
+EEG
+signals
+will be
+really
+great
+at
+that
+point
+so
+trying
+to
+lift
+the
+box
+by
+thinking
+like
+the
+Jedi
+mind
+trick
+toy
+that
+is
+less
+brain
+activity
+it
+takes
+for
+you
+to
+accomplish
+that
+task
+and
+so
+that
+means
+that
+the
+power
+of your
+signals
+are
+decreasing
+and
+so
+then
+it
+becomes
+harder
+the
+more
+you
+get
+at
+it
+because
+your
+signals
+are
+decreasing
+as
+you
+get
+better
+at
+there
+sort
+of
+like
+like
+a
+little
+paradox
+with
+that
+and
+I
+think
+that's
+why
+it's
+you
+know
+this
+EEG
+works
+really
+good
+in
+the
+beginning
+but
+it
+doesn't
+seem
+to
+keep
+working
+anyway
+that's
+the
+hypothesis
+I
+if
+you
+use
+a
+good
+kind
+of
+data
+analysis
+model
+out
+of
+it
+this
+is
+Sharina
+and
+yeah
+I
+think
+that
+it
+needs
+to
+not
+just
+be
+brain
+signals
+but
+also
+behavioral
+correlates
+for
+example
+performance
+on
+some
+sort
+of
+task
+like
+navigating
+a
+drone
+that
+is
+going
+to
+matters
+does
+it
+matter
+whether
+they're
+able
+to
+navigate
+this
+thing
+or
+able
+to
+pay
+attention
+to
+the
+things
+that
+they
+want
+to
+pay
+attention
+to
+or
+does
+it
+matter
+what
+their
+brain
+activity
+is
+at
+that
+point
+and
+whether
+it
+should
+be
+picked
+up
+that
+they
+are
+putting
+a
+ton
+of
+effort
+so
+is
+it
+effort
+or
+outcome
+that
+is
+a
+fun
+question
+to
+ask
+this
+is
+Sharina
+and
+I
+am
+speaking
+my
+hypothesis
+about
+why
+this
+study
+may
+have
+been
+so
+successful
+on
+the
+EEG
+side
+of
+things
+is
+that
+they
+were
+actually
+measuring
+the
+EMG
+of
+the
+muscle
+movement
+of
+the
+eyes
+and
+so
+similar
+to
+how
+Facebook
+is
+focusing
+on
+the
+EMG
+with
+their
+acquisition
+of
+control
+labs
+or
+CTRL
+labs
+I
+think
+that
+at
+the
+point
+when
+in
+a
+consistent
+way
+even
+if
+the
+EEG
+activity
+becomes
+decreased
+and
+so
+I
+think
+if
+you're
+trying
+to
+do
+a
+brain
+computer
+interface
+by
+focusing
+on
+EMG
+signals
+instead
+of
+EEG
+signals
+you
+might
+have
+a
+more
+consistent
+BCI
+for
+controlling
+things
+is
+just
+what
+I'm
+thinking
+I
+think
+that's
+a
+good
+point
+yeah
+I
+was
+actually
+going
+to
+say
+that
+so
+I
+think
+you
+know
+what
+they
+measure
+so
+the
+things
+that
+they
+are
+decoding
+with
+EEG
+these
+eye
+blinks
+are
+really
+robust
+it's
+really
+not
+something
+difficult
+even
+even
+with
+one
+channel
+you
+can
+very
+easily
+get
+that
+eye
+blinks
+with
+EEG
+so
+you know
+they're
+not
+trying
+to
+decode
+like
+some
+mental
+activities
+like
+rotation
+or
+something
+with
+EEG
+so
+I
+think
+the
+role
+of
+EEG
+here
+is
+just
+you
+this
+drawn
+and
+when
+it
+comes
+to
+the
+other
+mental
+tasks
+so
+I
+think
+you
+know
+you're
+regarding
+your
+earlier
+point
+Adam
+so
+I
+think
+as
+for
+some
+tasks
+like
+think
+about
+for
+example
+counting
+backwards
+or
+something
+so
+if
+the
+task
+like
+if
+you
+as
+you
+are
+trained
+in
+the
+task
+if
+the
+task
+is
+transitioning
+to
+another
+mental
+activity
+so
+let's
+say
+that
+you
+kind
+of
+get
+to
+memorize
+like
+these
+numbers
+as
+you're
+counting
+backwards
+so
+if
+there's
+a
+transition
+between
+one
+task
+to
+the
+other
+if
+it's
+becoming
+less
+of a
+computational
+task
+and
+more
+of
+a
+memory
+task
+then
+I
+would
+see
+much
+more
+differentiation
+but
+if
+it's
+a
+kind
+still
+probably
+the
+effect
+of
+the
+training
+won't
+be
+that
+good
+but
+I
+also
+saw
+a
+lot
+of
+papers
+looking
+into
+trial
+to
+trial
+variability
+in
+apner
+signals
+I
+think
+that's
+a
+kind
+of
+agree
+with
+that
+because
+at
+the
+end
+of
+the
+day
+there
+are
+a
+couple
+of
+muscles
+that
+they
+need
+to
+move
+and
+also
+the
+quality
+of
+the
+EMG
+signal
+they're
+out
+of
+way
+go
+ahead
+this
+is
+Sharina
+and
+I
+remember
+playing
+Mario
+Kart
+as
+a
+kid
+and
+a
+really
+strange
+thing
+would
+happen
+especially
+when
+a
+person
+started
+playing
+for
+the
+first
+time
+which
+is
+that
+they
+would
+take
+this
+game
+controller
+and
+they
+would
+move
+their
+entire
+body
+while
+trying
+to
+move
+this
+virtual
+cart
+around
+even
+though
+the
+controller
+it
+didn't
+do
+anything
+I
+mean
+it
+could
+not
+sense
+motion
+it
+was
+just
+a
+game
+cube
+controller
+so
+it's
+kind
+of
+fun
+to
+consider
+okay
+how
+do
+people
+try
+to
+control
+devices
+how
+do
+they
+try
+to
+do
+this
+with
+not
+just
+their
+brain
+activity
+but
+with
+their
+muscles
+at least
+at
+first
+and
+can
+they
+get
+this
+stuff
+to
+happen
+just
+in
+their
+brains
+just
+as
+people
+figure
+out
+over
+time
+Mario
+Kart
+that
+turning
+their
+whole
+body
+does
+not
+actually
+make
+the
+heart
+change
+direction
+is
+just
+the
+movement
+of
+the
+fingers
+and
+thinking
+about
+things
+in
+that
+way
+instead
+of
+kind
+of
+overfitting
+and
+doing
+things
+that
+are
+just
+completely
+instinctual
+but
+working
+with
+human
+factors
+and
+thinking
+about
+what
+is
+instinctual
+and
+would
+get
+something
+easier
+to
+been
+an
+efficient
+way
+this
+is
+Sharina
+and
+I
+am
+done
+speaking
+yeah
+I
+think
+if
+we
+can
+find
+some
+sort
+of
+mental
+task
+that
+they
+always
+require
+some
+energy
+out
+of
+the
+brain
+then
+we
+can
+kind
+of
+I'm
+not
+sure
+if
+that's
+possible
+or
+not
+but
+I'm
+sure
+there
+should
+be
+some
+sort
+of
+a
+task
+that
+they're
+going
+to
+be
+more
+difficult
+for
+brain
+to
+memorize
+it
+and
+using
+those
+to
+have
+a
+better
+BCI
+tools
+in
+future
+is
+going
+to
+be
+much
+better
+but
+it's
+going
+to
+be
+a
+combination
+of
+lots
+of
+research
+between
+neuroscientists
+and
+computer
+scientists
+great
+so I
+think
+we
+was
+was
+in
+EG
+ethneers
+together
+in order
+to
+train
+a
+machine
+to
+understand
+different
+commands
+and we
+can
+use
+that
+for
+lots
+of
+things
+like
+moving
+things
+around
+us
+using
+some
+wireless
+technology
+and
+next
+week
+we're
+going
+to
+find
+another
+good
+paper
+and
+we're
+going
+to
+tweet
+about
+it
+for
+any
+last
+question
+or
+comment
+regarding
+this
+paper
+and
+looking
+forward
+to
+seeing
+you
+next
+week
+thank
+you
+very
+much
+guys
+it
+was
+very
+good
+what
+did
+you
+say
+that
+you
+were
+going
+to
+link
+the
+paper
+for
+next
+week
+yeah
+I'm
+going
+to
+tweet
+the
+next
+paper
+that
+we're
+going
+to
+pick
+for
+next
+week
+discussion
+okay
+all right
+cool
+sounds
+good
+thank
+you
+everyone
+thank
+you
+Mike
+thank
+you
+everyone
+I
+thought
+everyone's
+contribution
+was
+wonderful
+I
+had
+a
+great
+time
+thank
+you
+so
+much
+thank
+you
+everyone
+thank
+you
+guys
+thank
+you
+second
+guys
+one
+second
+guys
+when
+they're
+talking
+the same
+respect
+you want
+someone to
+give you
+the same
+respect
+you give
+them
+make
+sure
+to
+also
+follow
+all
+the
+moderators
+we
+follow
+back
+follow
+everyone
+else
+in
+here
+so
+we
+can
+all
+stay
+in
+contact
+and
+this
+won't
+be
+the
+last
+time
+you
+know
+we
+have
+these
+type
+of
+conversations
+and
+please
+meet your
+mic
+can you
+please
+meet your
+mic
+I'm sorry
+I just
+joined
+I'm sorry
+I pushed
+the wrong
+button
+I'd like
+to listen
+to listen
+more
+before I
+have
+anything
+to say
+thank you
+for meeting
+and yes
+you're welcome
+to listen
+can I say
+something
+okay so
+and I'll
+be quick
+because I
+don't want
+to keep
+talking
+there's a lot
+of people
+here
+but I
+just want
+to say
+as we
+like work
+our physical
+body
+material
+body
+we have
+to work
+out other
+bodies
+as well
+but a lot
+of people
+is not
+aware
+that
+that's
+that's
+one
+thing
+that
+they
+have
+taken
+that
+level
+of
+knowledge
+away
+from
+us
+because
+when we
+are talking
+about
+the soul
+or
+different
+aspects
+of self
+beyond
+the physical
+there's
+power
+behind
+that
+because
+you
+start
+dealing
+with
+a deeper
+understanding
+on
+creation
+because
+really
+our
+true
+knowledge
+was
+to
+understand
+how to
+create
+things
+being
+architects
+being
+the
+masons
+we were
+the
+architects
+we were
+the
+builders
+but not
+just
+in the
+physical
+we were
+builders
+in the
+etheric
+realm
+as well
+meaning
+builders
+of the
+mind
+we were
+masters
+of the
+mind
+but
+they
+understood
+that
+there
+was
+power
+behind
+being
+able
+to
+create
+in
+different
+spaces
+beyond
+the
+physical
+so
+they
+had
+to
+take
+that
+knowledge
+away
+from
+everybody
+when
+you
+start
+diving
+into
+that
+deeper
+knowledge
+you
+start
+diving
+into
+the
+knowledge
+of
+the
+divine
+feminine
+principles
+that's
+why
+when
+you
+get
+into
+a lot
+of
+Abrahamic
+texts
+they
+tend
+to
+take
+a lot
+of
+those
+principles
+out
+of
+these
+books
+but
+I
+just
+want
+to
+say
+one
+more
+thing
+and I'll
+dig
+dig
+dig

@@ -1,0 +1,76 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0002 A missed opportunity in EEG
+First recorded: 2022-10-25T05:26:47.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/304dd74d-ce86-4a95-af3d-7a8182e7a4e8
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+There was one particular argument with a neuroscientist that really frustrated me.
+There was this, with EEG, there's a technology called source localization, EEG source localization, electroencephalogram.
+So we're talking about putting a cap of electrodes on someone's head to measure voltage, to measure changes in voltage that are coming out of your skin.
+So the argument is that you're getting fast temporal information, but you're not getting spatial information.
+And you're getting information at the aggregate scale of one of the brain's dipoles, electric dipoles.
+And there's only so many of those.
+And so you can have, you can have, you know, 256 or 512 electrodes placed all over the skull,
+but there's only, but there's only, there's only so many major sources of, of data for these sensors, electric dipoles.
+But with EEG source localization, it's been shown that it can infer the source, the source of a signal.
+And actually, I'm not exactly sure how it works, I should probably be interested to know.
+But they, they compared the prediction of where the source of a signal was coming from with a, with a reading from a,
+from an implanted sensor, DBS, deep brain stimulation sensor, which also has the ability to stimulate the brain.
+It's a deep, it's a DBS machine, it stimulates, but also senses.
+And they were able to show that source localization actually works and it's actually right.
+And so I made the argument that we could use source localization to, to create a 3D model of where, of, of the brain's structure
+and spatially plot where EEG signals were coming from.
+Um, and the argument that I heard from, from, uh, the neuroscientist I was speaking to, Morgan, Morgan, uh, Huff,
+was that, um, you're not, you can create a, you can create a 3D model from the EEG data,
+from the source local, source localization data.
+Um, and I said, and I said, and I said, I said, and then once we have this 3D model, we can, we can do, uh, um,
+we can compare this data to what people are seeing.
+Meaning that we can, we can make correlations between a person's behavior in the real world
+and what they're seeing, what they're sensing, experiencing, hearing, uh, feeling
+with what part of their brain is being activated.
+And because we, because of source localization, you can get an idea of where a signal came from.
+And then we could use deep learning to further deepen these, these correlations.
+And he was very dismissive of the idea, uh, in a way that I, I, I believe he was really, like,
+uh, really hard up against the idea.
+And he said something to the effect that, um, there's no point in creating a 3D model
+and then running deep learning on it because you're not getting, because all the information
+from the EEG is in the original sensor data.
+So you're not getting, so you, so you're not getting more data by, by putting it into
+a 3D model or something, something, something to that effect.
+And, and I can't like, that's a point that I can't, you know, technically you got the, that's,
+that's technically not incorrect, right?
+Because yeah, all the data that's in the 3D model is technically in the original sensor
+data where just, it's, it's, um, it's a transformation of that data, but, but it doesn't, that's all
+it's just a transformation.
+And, but for that reason, he wouldn't hear anymore.
+He's like, it just is not hearing it.
+I think it's still a great idea.
+And I, I agree, you know, we're, if we transform the data into, you know, a 3D model so that
+we can see where the data is coming from, um, for the computer, I mean, that is, that is
+a, the only, here's the, the only other thing is that, you know, the idea is to find it is
+to find correlations, um, between the EEG sensor data and, uh, the external world.
+And that sort of process is already what, what, um, what's done.
+But, but, um, in any case, this was a, um, uh, it's not the experiment that I would do
+today, but it's one that I, I just wanted to write down, um, as a missed opportunity,
+I think.
+I think, um, you know, definitely plotting out where brain activity is happening might,
+um, make it easier to sort of just, um, you know, I think of, I think of, I think of, of,
+of, um, what I imagine, and I don't, I don't know if it's true, but I imagine that, that the,
+um, I imagine the surface of the brain is like the surface of a lake.
+And when a spike happens, it's sending a ripple through the lake.
+And somehow that ripple is spreading out, um, the way a, a ripple in a lake spreads out.
+It's, it's, it's, it starts out small and then, and then with each, as it spreads in distance,
+depending on its, its, uh, magnitude and depending on its, its, uh, frequency,
+as it spreads in distance, it's either going to like have a high frequency and a low amplitude,
+a low magnitude, high frequency and a low magnitude, or a high magnitude and a low frequency.
+The spikes in particular, especially like sharp wave ripples are going to have a low magnitude.
+And I should, I should, I should change that, change the way I'm saying this, because
+in the, you know, at the scale of a brain wave, um, spikes will have, will travel a longer distance
+or bursts, sorry, bursts will travel a longer distance, um, with a smaller amplitude, but a higher frequency.
+So at the EEG scale, um, what's more interesting is the, is the sort of focusing on the inverse
+relationship of, of amplitude and frequency. It's really the inverse relationship of magnitude
+and frequency, but we're sort of focusing on the, the amplitude side of the magnitude.
+And that's, that's, um, and so I'm just imagining that, um, no, I really, okay,
+I'm going to pause this and really just sort of like, look at how source localization is done.
+And yeah.

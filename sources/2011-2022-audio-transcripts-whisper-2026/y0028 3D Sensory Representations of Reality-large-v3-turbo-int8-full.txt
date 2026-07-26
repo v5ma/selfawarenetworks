@@ -1,0 +1,108 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0028 3D Sensory Representations of Reality
+First recorded: 2023-04-17T17:45:07.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/cdd2a826-80b0-45e4-95aa-e9f3394e4d9a
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+The general idea is that every sensory organ is able to make 3D representations of reality.
+Your eyes, your ears, your nose, as part of the brain, the senses come in and your brain, in combination with the sensory organs, is able to make 3D representations.
+And the general idea is that the incoming signals are tracked, the 3D neural network of the brain is tracking, is detecting coincidences.
+And the detection of coincidences with each neuron and each array of neurons or each neuron assembly is basically creating a tomographic map of all the intersections of sensory data.
+Because a coincidence is where an intersection happens.
+If you think of the Fourier slice transform, the Fourier slice transform is this idea that you can take a 2D image, and you can take several 2D images, and from these 2D images you could reconstruct a 3D image.
+And you do this because you have these 2D images represent a different perspective on a 3D object, you know, from different angles.
+And you could study the intersections between these 2D images, and from there compute the 3D image from the 2D images.
+And so that idea is that what links these 2D images together, or that, you know, each frame that your brain is, that your sensory organs are sampling from reality, is like capturing a 2D image or a partial image.
+It's, you know, and your brain, but your brain is noticing the intersections.
+And so just in the same way that the Fourier slice transform works, or tomography works, your brain is able to say, okay, well, you know, these 2 images, like my head was over here, my head was over here, and there's a similarity, there's a coincidence between these 2 images.
+And that helps your brain to naturally construct a 3D images, and that helps your brain to naturally construct a 3D representation of whatever it's sensing.
+So you naturally detect 3D representations of visual information, even with a single eye, even with a single ear, even with a single nose, nostril, nostril.
+So, even with taste, with taste and smell combined, you are creating 3D volumetric representations of your sensory inputs.
+Your sensory organs, in combination with your, with your, with your, with the rest of your, your brain, are creating 3D representations of all of the sensory inputs through tomography, through the Fourier slice transform.
+And, um, and, um, and they're doing it because, um, with each sample that your sense organs are detecting reality, um, they're able to notice, notice, uh, coincidental patterns, um, that keep arising.
+And those coincidences are directly analogous to how, you know, something like tomography or photogrammetry or tractography, um, or the Fourier slice transform works at a, at a core level.
+And so, um, even in a, even, even, even, even, even small animals, like, um, insects are detect, are creating a 3D representation of reality, a volumetric representation of reality through their sense organs innately, because that is what neural networks excel at.
+They excel at basically noticing coincidences and building, uh, 3D models of reality that, uh, or building, or, or building models of reality that, it doesn't, they don't have to be 3D exactly, but they, they, they're building accurate representations of reality based upon the coincidences.
+They're reconstructing the higher, higher dimensional picture from lower dimensional samples natively, um, it's sort of like, um, uh, it's like, sort of like, um, yeah, it's like recoding a 2D image, it's like, it's like building a 2D, a 3D image from a 2D image, or a higher dimensional representation from a lower dimensional representation.
+That's what neural networks are inherently good at, even, even in, even in insects.
+So that's the basis of, um, um, um, you know, I think of positvers.
+But then, you know, your, your brain has to pass the, um, the representations that it detects at the sense organ, uh, to the rest of the brain.
+Um, and it does, and this happens, the signals, uh, you know, go from, from one area to the next area, to the next area, to the next area, to the next area, to the next area, through several areas, and they have, they have to be repeated in a consistent way.
+So that when they get to some, some region that's on a, you know, very far from the sensory organ, that representation still has meaning, still has, um, it still means what it means.
+So there has to be some continuity of, uh, of signal power from the sensory organ to the, to the most distal, um, areas, uh, of the brain, most distal from the sensory input area.
+And so you have, um, basically, you have neural pathways that are mostly, uh, so there's two, two major types of, of neural pathways, uh, that are called, uh, driver, uh, you have driver, uh, neurons and driver and modulating neurons.
+And, and, and the, um, they, um, they, um, they receive the signal and then they, and they change it.
+Um, so you have, so driver neurons, the driver pathways are going to bring the incoming signals as deep as they need to go in the brain for your, for you to receive them consciously.
+Um, and we know that, you know, that there's, that you can, it's possible to receive signals that you're not conscious of.
+Um, and my argument is that the, is that they didn't, you know, the, you know, we could say, well, what, what happens when you're not conscious of visual stimuli in a good area of research is, is blindside research.
+And they say, well, what areas are damaged in blindside research?
+Well, some of the, some of the connections between the thalamus and the, and the V1 are damaged when people are not conscious of their visual stimuli, but they can still react to them.
+But then you might have, um, alternate pathways that allow, that exist, that are described in blindside patients that allow them to non-consciously react to the visual stimuli,
+to be inhibited or to be inhibited or excited by something they, they, um, are not conscious of, but they're still affected by.
+Um, they can be affected by it emotionally, but not, but not see what it is that, that, um, that they're affected by.
+Um, and, um, so that's, so, um, that general idea is that, um, you know, some people say, well, um, you know, it point, it could point to, you know, there's been this search for like, okay, well, what areas of the brain are conscious areas?
+What areas, what areas, um, enable consciousness, what areas, and, and I think, I think the argument really is, you know, that, um, it's more like what, um, it's, it's more like the, uh, the conscious activity is the, uh, dominant, um, phase wave differential.
+In the, in terms of the overall flow, in terms of the overall tonic brainwave frequency flow that is synchronously firing.
+And so the, so if you have, so imagine that you're, you have a lot of synchronous firing, like imagine, okay, so imagine a group of fireflies that are all firing in sync.
+And, um, and imagine that, um, you could have, um, you could have individual fireflies could, might get eaten, and, um, and the, if the, if the, if the, in the, in those fireflies, like, the whole herd might react because, um, the, uh, they all are going to be sensitive to one another.
+They're basically, like, they're helping to set each other's cadence, each other's, uh, uh, firing cadence.
+And so if one of them disappears because it gets eaten by a frog, the whole hive of fireflies is sensitive to that, and it moves away from that area where one of them suddenly disappeared, um, because they are collectively sensing, because they're listening to each other, because they're reacting to each other's cadence, each other's firing frequency.
+Um, so they act like a single sensor.
+But let's say that there is, um, let's say that, uh, the herd of fireflies is distracted by a whole bunch of blinking lights.
+Let's say there's a party, and there's lots of, you know, there's lots of human beings, and they have wine and food, and they have the kind of food that fireflies like.
+Right, right? Maybe there's fruit, I don't know, what a, what a fly is like, right?
+And there's lots of lights, and the fireflies are really attracted to it.
+And in this context, the dominant phase wave flow of their tonic oscillation is disrupted and distracted by the, by, um, by the differential of human activity.
+And then, in that context, if one of the fireflies, you know, was eaten by a bug, the rest of it might not be sensitive to it.
+The rest of the hive might not notice and move away from where the, where the fly, from where the frog is.
+Because that, um, is no longer the fly, the, the, the frog licking the, the bug is no longer the dominant phase wave rhythm.
+It's, the hive's not sensitive enough because the dominant phase wave differential is the human activity with the food and the lights and so forth.
+And, um, so the dominant phase wave rhythm is going to inhibit the lesser rhythms of bugs being eaten by a frog.
+And then that's going to become an unconscious, um, activity.
+And so that's the, that's sort of like the analogy of, like, you know, we have, we have conscious or unconscious breathing.
+But your breathing is not always conscious because you might be distracted by something else.
+It might be, um, it, it might be that your dominant phase wave rhythm is about, you know, something else in your environment that you want to be focused on.
+It's not pertaining to your breathing.
+So your breathing would continue to function, um, but it wouldn't be sort of like in sync with, when you're unconscious, it's like out of sync with, with the, with the dominant phase wave rhythm.
+Um, yeah, so these, so these 3D representations are basically, you know, um, they're, they become like the coincidences, the coincidence detections become firing patterns, right?
+So the 3D representations of your sensory reality become firing patterns that oscillate.
+And your mind becomes aware of them when their oscillations are in sync with, um, when their, when your oscillations are bound together, when your differential oscillations are bound together.
+Um, and contrasting with, um, in contrasting with, in contrasting with, in contrasting with the tonic oscillations to such a degree that they achieve dominance, uh, with, um, in terms of the collective, uh, signaling, collective signaling dominance, um, uh, so that is what the majority of your brain is paying attention to.
+And that is, um, um, um, what I argue is how a 3D sensory representation, uh, becomes a conscious representation.
+It's that, it's that, it's those coincidence detections that represent the 3D sensory representation, tomographically sensed 3D sensory representation, are now, um, synchronizing.
+They're now, they're now, they're now synchronizing, here's, here's the thing, is they're, they're actually, they're creating a synchronized phase wave rhythm that's desynchronized from the tonic oscillation.
+Um, and therefore, and therefore, but that, but in a way that makes it dominant compared to competing desynchronized, uh, phase wave rhythms.
+And that, um, what I'm saying, what, now what I'm saying is that the, the, the, the, the phase wave rhythm, rhythms that represent a 3D object would be, would have some sort of temporal and spatial synchrony.
+So, um, those, the, the, which are.
+But as a pattern, as a collective pattern, they would be desynchronized from, um, the tonic brainwave oscillation.
+And that's part of what makes them conscious.
+Because, but they have, but they have, but they have to be, so that I, so when you're conscious of your breath, your functional connectivity is increased between your breath areas.
+And so that implies that synchronization between different regions of your brain is increasing.
+But it's not a perfect synchronization.
+That's what I'm arguing.
+So you have to tune in to some area of your brain that's conscious.
+So you have to begin to synchronize with it.
+And so it can't be totally out of sync.
+So it's more like the information that's becoming conscious is increasing its synchronization at that moment.
+And then as it fades from conscious, it becomes part of the background of consciousness.
+Those situations, it could be that it's becoming not a different pattern.
+So it's like the differential pattern is dissolving into the tonic pattern.
+So the differential pattern is like a wave that gets on the beach.
+It's like a wave on the beach because it differs from the flat surface.
+It's like a wave in the sea.
+It differs from the flat sea.
+It is this rise of collective activity into some peak and some oscillation.
+And it's a form that's distinct from the ocean being formless or from the mind being formless.
+And so you have these forms that arrive that are differentials.
+So basically, they're forms, they're waves, they're differences in the brain that represent the,
+that they're defined by the coincidence detections of sensory representations and internal representations
+that have been learned from prior memories.
+And then when these, they, they, they cause your brain areas to sort of, they become conscious when they're dominant,
+when they're strong, when they're synchronizing together and their strong synchronization begins to synchronize with you.
+It changes your conscious activity and changes your conscious activity and changes your functional connectivity and changes the behaviors,
+changes your, your thoughts, your actions, your behaviors, your considerations, your activities.
+It's all like this, this, this, this long sequence of, of, you know, chain reactions that catalyze sensory information
+and learned, um, uh, reactions, into, uh, behaviors.
+So the organism can plan its, um, its own consequences.
+And, um...

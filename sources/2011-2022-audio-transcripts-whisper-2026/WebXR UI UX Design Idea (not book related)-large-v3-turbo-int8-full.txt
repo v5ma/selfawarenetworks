@@ -1,0 +1,138 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: WebXR UI UX Design Idea (not book related)
+First recorded: 2021-11-05T03:39:14.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/1de6443d-179a-4daa-acf2-b108f6217116
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So what I had wanted to sort of bring up before was that Mark Zuckerberg should look at my idea for how the Metaverse could be accomplished.
+So basically my pitch and my plans were to basically use ExoKit so that we could create a situation where my idea was we could use ExoKit and we could browse inside the browser.
+The ExoKit is like 3D frames, 3D browser frames, and that means that you can basically visit the website that has all your stuff, like your shirt, your avatar, your watch, all your digital items that you wear when you're in VR, AR, that other people can see and that you can pick up and use on your virtual body.
+It's like if you're playing the game with the zombies, you can have a backpack, you can have an axe attached to your backpack, you can have a shotgun attached to your backpack, and you can stick things in your backpack like medicine and different things that you can add to your backpack.
+So with ExoKit Web, what I was planning to build was basically a menu system that you could travel with, like it would be on your watch, and you just click your watch and you open a menu, and any kind of function could be in that menu.
+Okay, but that is your own personal web browser, and then you use that web browser to browse other WebXR websites.
+And so it is like having a web browser inside a web browser, or this could be actually a browser plug-in or a browser standard, where future web browsers basically have this layer that is connected to,
+it's basically going to, it's basically going to carry your personal items with you, so that you can bring your items into any WebVR or WebAR space that you enter.
+It's like, you can visit a brand new person's WebVR experience, but you can bring in the items that you purchased from another game, for example, because they're your personal items, you can bring your personal stuff with you anywhere you want.
+It's like walking into Disneyland and bringing your backpack with your own personal items, right?
+It's like having a phone on your pocket as you walk through the world, and you're bringing your personal data with you on your phone that you can access and communicate with other people using your personal data.
+You can also write down notes and stuff, take photos.
+It's your personal data.
+It's through your MP3 music.
+And this is like, yeah, it's like having, so when you have WebXR, it's like you visit, you're in a completely different,
+when you're in the WebXR metaverse, you're in a completely different website, but all your stuff is still with you because you're actually always in your initial, there's two layers.
+There's the layer, layer one, which is about your stuff and you, all your programs.
+It's like your personal computer, and you're bringing your personal computer with you when you visit other WebXR experiences created by other people.
+So it's like being able to visit the zoo that's made by someone else, but bringing your camera to their zoo, right?
+That's the concept here.
+And so that's my proposal for a WebXR-based metaverse.
+And we basically initially used Execute Web, and that will create like a space that just represents the user's home.
+And then they use that initial space to load the canvases of other spaces so they can begin to move through other web browsing spaces with their stuff.
+And in principle, there's nothing that can't be done with WebXR.
+There's nothing that can be done by any other computing platform that can't also be done with WebXR.
+It can do WebXR for like virtual rooms and like virtual reality type stuff, so you can access it through mobile and also, you know, put on your Oculus or whatever headset you might have.
+And also go into VR in that same space and interact with people who can view it through AR through mobile, just like on a normal AR or AR.
+There might be some things that are, like WebXR is basically the future of the metaverse, as I see it.
+Here we can collaborate with you because we have a project that's going to create WebXR, which does, you can do VR apps.
+So you can see if you're trying to improve sharding, you could have basically like sort of like the way neurons communicate.
+As you could just have like each like each person's outputs would be processed by an array, by a neural network and a reduced representation of their actions would be created for like in a like a level of detail type of way.
+Like like like when you do basically you do some people close up and they have a high level of detail, but people who are far away, they need a lower level of detail.
+And so you just send a reduced representation that is basically you just you just render a lower resolution version of someone who's farther away.
+There's not as much data. There's not as much need to to have like a high resolution render.
+So that's going to take up less compute space than the rendering that you're that's being devoted to someone who's close up to you and taking up a large amount of your perceptive field or the or the area, your field of view.
+Right. So someone is like dominating your field of view, like they're going to be dominating your mental processing power in terms of what your brain is focused on.
+And so that's how to think of like how your spatial map works is that everything you're focused on is taking up some percentage of your of your brain's brain's computations.
+And so if you were to expand your brain's computations, if you were to double them somehow with an external brain, then it'd be like being able to pay attention to twice as much stuff at the same time.
+So like imagine and if you're like if so, if you're just outside, like looking around, processing twice as much stuff means that your resolution of reality is a lot sharper at that moment.
+So basically I'm proposing that we put neural networks between people to do neural rendering.
+And so the neural rendering will be many layers of it'll be doing many layers of basically reducing that person's details to the sparsest possible pattern or the most computationally efficient pattern.
+And it will do that by creating a canvas that's essentially shaped with inhibitions and excitations for different arrays to see and then render the patterns from their interpretation.
+They're modulating the pattern to match their interpretation based on the memories of that part of the brain has specialized in based on life experiences.
+And then it passes a whole, it collectively passes a pattern to another array, which does the same thing on and on and on.
+And so I realized that, um, uh, that part of that I, I realized that, um, I want to talk about all of my work in the book, all of, all of my great experiences, you know, let's talk about, um, like every week what it was like, um, to share some detail of what it was like.
+So I'll just say like, you know, Hey, I, I, um, I would host this meetup every Friday and it was, it was, uh, it was two meetups, but they, they're on two different meetup pages.
+One was, uh, San Francisco virtual reality.
+And the other one was on, um, Neurotech, Neurotech SF, which was part of Neurotech X, which is like this global meetup group.
+But we, I was just doing the San Francisco ones.
+And so I would host these every Friday at Noisebridge, uh, in almost, uh, most of the weeks of 2018.
+And, um, every week I would, I would share, it'd be almost a completely new group of people every single week.
+And I would share, um, this idea that I had that this project that I started where the goal was to bring, to bring EEG into VR.
+And, um, we talked about a lot of, uh, things.
+We talked about, um, uh, combining an HT Vive with a, uh, with the, uh, with the, uh, open BCI kit with 3D printed parts so that we could do something like, um, like what Nerville had.
+But we couldn't buy a Nerville and we couldn't get them to send us one for free.
+So we're like, okay, let's, let's adapt the open BCI and, to the HT Vive with 3D printed parts.
+And then, like, we couldn't get the 3D printer to, um, to, uh, print the open BCI, um, net.
+Um, and, uh, the print, I think it, the printer could only print a part of it at one time.
+And each time we, uh, we tried to print a piece of it, it, uh, it failed.
+And we didn't really have any, uh, experts, uh, that were there on staff.
+Because, you know, it's, it's like every single week it was different people.
+I mean, I was there, but for the most part it was different people.
+So, sometimes people came back, but, um, but the majority of folks were new each time.
+And they, they came one time and that was about it, mostly.
+And, um, but week after week, the, the, we'd work, uh, you know, for a couple hours on Friday.
+Sometimes, sometimes into the night, sometimes five or six hours.
+Um, and, um, and then I'd have something to share with, uh, with the group the following week.
+Which is what, everything we did the previous week with a different group.
+Everything I did with a different group, I was able to share with a new group.
+And the new group helped, uh, do some work on, on that project.
+And then I took, and I brought the, the work that the group did that Friday to the next Friday.
+And met new people.
+And with the new people, we worked on developing the project even more.
+So, this was like this huge, um, thing that was developed by a ton of people who, like, came.
+And, um, they, they, uh, um, took turns, um, sort of, uh, contributing little pieces to, to the project.
+And it was through the help of all these volunteers that, uh, we, we, we, uh, we collectively, uh, managed to, um, have a, a working program that emerged.
+Uh, a, um, and, uh, so, you know, my, my experience, because I got to be there and be part of every single step, was I learned how to program, uh, WebExStar.
+I learned how to do cool stuff.
+And that was through, like, a, a ton of people just helping me on, uh, you know, through, uh, a couple hours on, uh, Friday and a couple hours on, there was, there was another, there was another, um, uh, group of folks who primarily met up on Wednesday.
+And, uh, we, I started working with them about halfway through the year.
+And I would show, I would show up, um, it was because they purchased, uh, a, I'd go to the meetups, but they, they purchased a, a Brainduino EEG device in, in, like, June.
+I think it was in June or July.
+And, uh, when I saw it, I said, hey, can, can we, uh, can we also use this on our Friday meetups?
+And can we, like, build stuff for EEG?
+Because I want to bring EEG into VR.
+And this is, like, this really cool new EEG device that you have.
+And they said yes, uh, which was wonderful of them to say yes.
+And, um, uh, so, I, so, on, I, at, around the middle of the year, I was able to bring Friday's projects, uh, to the group on Wednesday.
+Because now we had this, this, uh, plan to collaborate together.
+And, um, and so they did the most magical work in, in constructing a server.
+And, um, and they did a tremendous amount of, of help, of, of helping me to, to, to understand, um, what it means to, uh, to create a server.
+And to, uh, pull, pull, to, to, to, to pull data from the EEG device into, uh, into our computer.
+And then create a, a, a local host to, uh, or, or a web host so that we could, um, uh, send out a, basically we could, uh, broadcast a web page.
+And so the, you could go in the, the Oculus Go, and you could go to the web page.
+And you could, um, uh, um, basically, um, so, if we put a neural network between everyone, then the neural network can, uh, and it functions the way the human brain functions.
+Then, um, what would happen is that every part of the neural network would be able to be aware of everything else.
+It's because, um, basically every part of the neural network would be, uh, creating its own version of patterns that are, that are represented elsewhere.
+Uh, so patterns, uh, flow across the brain.
+Uh, phasic firing patterns, um, travel, uh, through different regions of the brain.
+Uh, like large-scale macroscopic or mesoscopic and, like, patterns, uh, move through the brain.
+I mean, we, it's, I don't, I don't know what to tell you about, like, you know, microscopic patterns.
+That's just, uh, neurons firing, right?
+That's just synapses changing, um, synaptic connections changing.
+But, um, but those are, those are micro, those are the micro patterns.
+But there's, there's, uh, mesoscale patterns and, and, and macroscale patterns.
+Um, and so all, every level, every scale of pattern from small scale to large scale is, um,
+um, is, uh, in locks, they're in lockstep in some sense.
+Like, even the chaotic oscillators are in a, are, they're in a coordinated pattern.
+That, um, you know, while being out of sync, they're, um, you know, like, there, there is some sort of,
+I mean, I, I like to think of, I like to think of the brain as having, you know, um, it, I guess it resembles a strange attractor on the whole.
+Um, um, it, or, it, it resonates, it resonates something that, like, it's, it's definitely like a, like a, um,
+it's a chaotic, um, pattern.
+But, um, even, you know, like, but it, but it contains, um, ordered patterns.
+Um, so, let's say that overall there's a chaotic pattern, but it, but it contains, um, uh, organized patterns.
+And, so there is, um, there's like a mathematical structure to the whole process.
+And even chaos has, um, embedded within it, uh, some sort of, um, uh, pattern.
+Um, that is basically, it's chaos within a certain boundary.
+Um, but there is a, there's a pattern outside that, that range.
+It's just, there's like how, you know, you, there's, on a local, on a short time scale, um, uh, we have, uh, random sort of decay, decay rates and radioactive materials.
+But then on a longer time scale, uh, the, the half-life can, can be, uh, predicted, uh, pretty reliably.
+The, the basic half-life of, uh, of, of, of, of radio, of radioactive decay over a long-term.
+And it can, it's predictable, even though on the short-term it's, it's, uh, like, random.
+It's chaotic.
+So, with my solution that I'm proposing, it's like, basically we're putting a neural network with everybody.
+And everybody would be able to be aware of everything else inside this neural network.
+But also, this would function like a mind.
+Like, like a human mind.
+And so, we're basically creating an interface to bring all of humanity inside a single artificial intelligence mind.
+Like, almost like the, almost like if the matrix was the conscious mind.
+Just, just imagine that.
+I've been so enthusiastic about...

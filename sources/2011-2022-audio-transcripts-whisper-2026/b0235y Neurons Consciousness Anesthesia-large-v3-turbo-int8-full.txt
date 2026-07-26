@@ -1,0 +1,4691 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0235y Neurons Consciousness Anesthesia
+First recorded: 2021-08-05T05:12:25.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/ec6a0ec1-2bbc-4d9c-a1fa-f46c5d9aab8a
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+That if you apply anesthetics, so a drug that brings about anesthesia, then this has a very specific cellular effect.
+So the cells we study, the pyramidal neurons, which are the main class of excitatory neurons in the brain, they have kind of two compartments.
+One is the classic compartment around the axon, that is the basal compartment.
+The other, however, is like top of the cortex, the surface of the cortex is called the apical compartment.
+We will maybe clarify these terms a bit later.
+But the point that he was showing to me then was that anesthesia decoupled, or basically functionally cupped, compartments of a single neuron.
+And for folks listening, a compartment is like a section of the dendritic tree.
+So basically you could say that the neuron, before it sends any output, any spikes, it has two compartments.
+It has to integrate between these two compartments, all the information.
+We will go into that later.
+But what Mototaka was showing me is that anesthesia cut off this integration.
+It basically cut off these two parts.
+And this was so amazing.
+I mean, to think about that, wow, there is a cellular effect that anesthesia has, and that is probably related to consciousness.
+So, although I didn't want to work on consciousness, I had no other way.
+This was the way I had to do this, because this finding was simply so amazing.
+And, Paul, if you think that I didn't explain it well, why it was amazing, then ask me something, and I can try to maybe rephrase something or explain my excitement better.
+Well, and just about, you mentioned general anesthesia.
+So these are, I assume, the GABAergic anesthesia agents, like propofol?
+Well, the interesting thing was that he did different ones.
+So it was also ketamine and isofluorine and urethane.
+And that was exactly the point.
+So Paul was saying that ketamine has a completely different effect on the level of circuits.
+However, there, on the level, we saw the same effect, that anesthetics decoupled this single neuron.
+And that was really like a cellular effect of anesthesia that immediately told me that, look, there is a cellular mechanism of consciousness.
+So the theory is that what's causing these anesthesias to eliminate consciousness is that they decouple the two parts of the neuron.
+And so the signals can't be combined, the apical and the basal signals.
+If you say it like that, then it sounds like a really boring theory, right?
+Well, consciousness is an unsolved problem.
+So everything that makes progress is big.
+Yeah, well, here are actually two things.
+So one thing why I was actually struggling and frustrated with consciousness over several years before working with Mototaka and Matthew Larkom
+was that there are a lot of papers that show that consciousness is some kind of a global integration in the brain.
+So that it's, some people even write in top review papers that what is a consensus is that consciousness relies on distributed processing along the thalamocortical networks,
+which is like a brain part involving the cortex and the thalamus.
+Basically that it is some kind of a global phenomenon.
+And many theories go along that way.
+But that was kind of a boring for me that I thought, well, it's global, but what does it really mean?
+And now here, when we have this local mechanism, I mean very local, like inside a particular cell,
+then we saw that we can explain all of the results that are in the literature of this global dynamics.
+We can explain that by this local mechanism, because if you cut this processing within the single pyramidal neurons,
+then actually you cut it in the whole network because these cells, the so-called layer five pyramidal cells,
+they are the cells that send information to thalamus.
+They are the cells that send long range information in cortex.
+So if you cut these cells, then you will cut all the global dynamics.
+So we can actually explain why people with fMRI, MEG, et cetera, had observed these global signals
+and why psychedelics or anesthesia or sleep had affected these global dynamics.
+It's not because consciousness is something global, but it's because there is a local mechanism within each cell,
+each pyramidal cell that is decoupled, for example, by anesthesia, probably in sleep,
+and the discoupling is changed through psychedelics, for example.
+And this affects and explains the global dynamics.
+So that was the first point why we thought that this is actually something interesting,
+because we can explain this data with a local, biophysical, very specific mechanism.
+But I guess what you're saying seems consistent with the idea that consciousness is a global phenomenon.
+If, let's say, global workspace theory or global neuronal workspace,
+this idea that I think what Daniel Danik calls fame in the brain,
+that information is sort of widely known throughout the cortex and is shared among cortical areas,
+for that to work, the context information from one part of the brain needs to be available to other parts of the brain.
+And if that context information is coming in through these apical dendrites,
+then wouldn't this just be identifying the integration mechanism for this global phenomenon to work?
+Yeah, yeah, exactly.
+I mean, I was not saying that all these global findings about the global signatures of consciousness are crap, right?
+I mean, I was just saying that there is actually a local mechanism behind it.
+So we indeed think that global neural workspace theory would benefit from actually considering these findings and our proposal,
+because this could be a mechanism how you integrate information.
+And now talking about the information integration,
+we actually also think that the integrated information theory would benefit from this,
+because here we have a very specific mechanism that can cut the information integration within the thalamocortical circuits.
+So what we propose is not really in conflict with these theories,
+but we hope that it kind of complements them and gives a very specific mechanism.
+So that is our point, in fact, that these global phenomena are interesting, they do exist.
+However, if we want to understand consciousness, then perhaps we have to acknowledge that each neuron consists of two parts,
+these basal and apical compartments,
+and the mechanism of controlling the global dynamics comes from this local switch between these two compartments.
+Sure.
+Well, if you look at, for example, the history of genetics, the idea of genes were around for a century,
+but then when DNA was found, then finally we had, in this case, a molecular mechanism for how the gene model could be happening.
+So maybe we have these high-level, but sometimes vague, models for how consciousness might be working normally,
+and if you've identified a specific neural mechanism, it's an important piece of the puzzle.
+So there are some different views on consciousness out there,
+and anyone who's listening, if you want to raise your hand,
+then we'll take some questions and kind of explore the kind of neural mechanisms of consciousness generally.
+So one idea out there, of course, is the information integration theory.
+What this mechanism you're proposing would seem to be aligned anyway with information integration theory.
+It's a proposing one mechanism by which information could be integrated.
+Would you agree or not?
+Yeah, yeah.
+That's what I said also, that in principle, I mean, we would be happy if people from different theories
+could be saying that, wow, this is indeed an exciting mechanism
+that we could understand as the specific switch point
+that can explain the global dynamics, that can explain how the global workspace is set up,
+or that can explain how the information integration happens
+and is kind of controlled in the brain, right?
+So something like that.
+However, I mean, probably it's also important to stress the other aspect of the theory,
+which goes a bit beyond this first, maybe more biophysical point.
+And the other aspect is that we then look at, okay,
+okay, we know that there is this decoupling within the pyramidal cell,
+but what does it mean functionally?
+And then when we start looking at it,
+then within the brain you see this beautiful structure
+that the top-down context information,
+so prior knowledge, information about the previous things,
+information coming from the model,
+goes to the apical then, right?
+Goes to the apical compartment.
+Whereas the information from the world, from the senses, from the external,
+goes to the basal compartment.
+So this is also very important for us to say that,
+look, it's not just that you decouple two parts of the neuron,
+you actually decouple the internal from the external.
+You actually decouple the context from the sensory.
+You decouple the model from data.
+That there is this functional thing that happens that is important.
+And this is central for our theory because now we say that, look,
+conscious experience is always affected by prior knowledge.
+I can bring some examples later.
+Many theories, I mean, for example, the global neural workspace theory
+or the integrated information theory,
+they do not explain it naturally.
+They do not explain simply with the basic principles of why it is like that,
+why consciousness is affected by prior knowledge.
+The theory of Anil Seth, for example, does that.
+And the theories that base on predictive coding do that.
+However, here we say that, look, here's also our idea that also naturally,
+inherently explains this,
+why conscious experience is always affected by prior knowledge.
+This is because this apical compartment, the top compartment,
+carries this context.
+It carries this prior knowledge.
+Yeah, and I was going to ask about that because,
+obviously, one main idea out there in the mechanism of consciousness
+is the idea of what we're experiencing,
+the perceptual content of consciousness,
+are really those top-down predictions
+or top-down interpretation, if you will,
+of the outside world as being aligned with sensory input.
+So aligning that with your model,
+it sounds like you would say the apical compartment,
+the context-integrating compartment,
+is carrying that top-down signal,
+and the basal compartment is carrying the bottom-up signal,
+and the integration at the pyramidal cell level
+is what's combining the top-down and the bottom-up together
+and allowing the top-down to be the context for interpreting the bottom-up.
+Does that sound right?
+Exactly, exactly.
+And when I was kind of away from guarding like a very simple phenomenon.
+So you're doing an experiment of relative both.
+Jan is joining us from Estonia.
+Great to have you on our neuroscience,
+AI, and consciousness conversation series.
+What got my attention is that you have a paper
+titled Cellular Mechanisms of Consciousness Processing,
+and you propose a neural mechanism of consciousness,
+and that paper was suggested to me
+by both Blake Richards and Delieve George,
+so I was interested to chat with you about it.
+We've been having ongoing conversations
+about consciousness and neuroscience here on this forum,
+so glad to have you here.
+Thank you very much for the invitation.
+It's great to be here, an honor.
+So one of the things I want to start with
+is just to find out a little bit about
+what motivated your original interest in this problem,
+and what problem it is that you're interested in.
+Is it neuroscience, is it consciousness,
+is it something else?
+So how did this journey start to move?
+So, hi everyone.
+So I'm originally from Estonia.
+This is a tiny, tiny country,
+so many people in Europe even don't know about it,
+but for example, Skype was coded here.
+But anyway, I went to study psychology in Berlin,
+and then there, in my second month,
+end of first month of undergrad studies there,
+I was in the library,
+and I saw a book by John Nichols.
+John Nichols is a Nobel Prize winner
+for medicine and physiology.
+He worked on the synopsis.
+But he was an interesting guy
+because he believed that consciousness
+is something different from the brain.
+So he was a strong believer
+and supporter of dualism.
+Anyway, that was the book
+that got me interested in consciousness
+because I read it,
+and I realized there that,
+hey, we have invented vaccines,
+we have sent people to move,
+and we humans,
+we do all kinds of amazing things,
+but we don't know
+how the brain generates
+or is related to born consciousness,
+and that was just a boom moment for me.
+After that, I was just so caught up
+in this program
+that ever since I've been kind of
+working on it a bit at least.
+That's great.
+And did you mention
+that you spent some time with Wolfsinger
+and studying gamma oscillations?
+Yeah, so, I mean,
+I started working
+and studying consciousness myself,
+so I read all the books
+that I had that I could find,
+and then I got really interested
+also in gamma oscillations.
+I was still an undergrad student,
+and then I was in some seminar
+where a PI from Wolfsinger's department
+was presenting,
+and I asked some questions,
+and then she invited me
+to do a PhD there.
+And, I mean,
+to those who don't know,
+so Wolfsinger
+is one of the most important
+neuroscientists in Europe,
+but now he's already getting old,
+but, I mean,
+back then,
+he was really one of these
+key people
+who invented really
+and showed that
+gamma oscillations
+are important
+for perception
+and brain.
+So, I was really happy
+to go to do my PhD
+in the his department.
+Ed, what's your view
+on gamma oscillations?
+Do they have a
+working in your consciousness?
+I was super fascinated
+by gamma oscillations,
+but then,
+I mean,
+I started to study them,
+and I worked with
+intracranial signals,
+so signals that are
+measured from inside
+the human brain.
+And, then,
+Wolfsinger told me,
+I'll look at gamma oscillations,
+and I started to look
+at gamma oscillations,
+but I saw that,
+wait a minute,
+these,
+these look like
+something else,
+so they cover a
+large part of the spectrum,
+so not only like
+40 hertz
+or 60 hertz,
+but they go from 40
+to 200.
+And, people in the
+department were saying,
+yeah, yeah,
+ignore that,
+ignore that,
+yeah,
+these are oscillations.
+But, I was not so
+convinced,
+so I started to talk
+to many people
+in the world,
+and, in the end,
+I was the one
+who convinced
+Wolfsinger also,
+that these are not
+gamma oscillations
+that we saw,
+that this is a
+different phenomenon,
+that this is
+related to
+neural spiking.
+And, the fact
+that I,
+a really stupid
+PhD student,
+would show
+something new
+to the whole
+department,
+kind of,
+made me think
+of,
+wait a minute,
+okay,
+how much do we
+then really know
+about gamma oscillations?
+And,
+the more I looked
+into it,
+the more I looked
+at it,
+the more problems
+and so on.
+So in the end,
+although my PhD
+started with
+the big hope
+of contributing
+something to
+understand
+that synchrony
+is the mechanism
+of consciousness,
+it ended
+without it.
+It ended
+with a completely
+different
+contribution.
+I see.
+And just to
+complete that
+topic,
+so these higher
+frequency oscillations,
+call them gamma,
+or let's say
+everything over 40
+hertz,
+do you sort of
+see a role for them
+in anything?
+Some people say
+it's solving
+the binding problem,
+it's part of
+amplifying signals
+between cortical areas
+and other things.
+Yeah,
+I mean,
+definitely,
+after my work
+on that,
+I do think
+that there is
+a lot of hype
+around these
+oscillations
+and this was
+even more
+intense
+like 10 years
+ago,
+like many people
+were still saying
+all these amazing
+things about
+gamma oscillations,
+but then
+there was
+this new generation
+of researchers,
+including me,
+who said,
+look,
+many of the
+results
+that have been
+attributed to
+gamma oscillations
+are actually
+reflecting
+some kind of
+a broad band
+signal
+that is
+indexing
+the spiking
+activity,
+so it's actually
+the opposite
+of what
+gamma oscillations
+were saying,
+so there might
+be still a role
+in some
+situations,
+we know
+that there is a role,
+however,
+this role is
+definitely not
+so broad
+and I mean
+currently,
+I don't think
+that saying
+that gamma oscillations
+is a kind of
+viable mechanism
+of consciousness
+makes a lot
+of sense,
+there's simply
+not a lot
+of clear-cut
+proof for that.
+I see.
+Well,
+let's go to
+your paper,
+Cellular Mechanisms
+of Consciousness,
+this came out
+last year
+in trends
+in cognitive sciences
+or tics
+as people call it,
+and can you just
+maybe give an outline
+of what your
+proposal there is,
+what is
+dendritic information
+theory or
+what mechanism
+do you think
+is going on
+and why you think
+it relates
+to consciousness?
+Let me backtrack
+a bit
+because what was
+interesting for me
+was also that
+after my PhD
+I was quite
+frustrated
+with the field
+of consciousness
+research
+because I wanted
+to solve
+the problem
+of consciousness
+but in the end
+of the PhD
+I just showed
+that it's
+very hard
+to study
+so we had
+one paper
+that is relatively
+famous for showing
+that you cannot
+study consciousness
+as the way
+people did
+so
+then from
+2013
+to like
+2018
+I had
+a kind
+of off
+relationship
+off phase
+of a relationship
+with consciousness
+where I didn't
+do so much
+and I wanted
+to actually
+do
+so I
+studied
+neuroscience
+virtual reality
+artificial intelligence
+and then
+I wanted to do
+more hardcore
+neuroscience
+so I went
+to Berlin
+to the lab
+of Matthew Larkum
+to actually
+study
+a kind
+of neural
+computations
+underlying
+predictive
+loading
+I didn't
+want to
+study
+consciousness
+but then
+when I was
+doing there
+my first
+rounds
+talking to
+postdocs
+then
+one postdoc
+showed me
+something amazing
+and this
+postdoc
+was
+Matutaka Suzuki
+and he
+showed me
+his recent
+data
+demonstrated
+that
+if you
+apply
+an anesthetics
+so a
+drug
+that brings
+about
+anesthesia
+then
+this has
+a very
+specific
+cellular
+effect
+so
+the cells
+we study
+the pyramidal
+neurons
+which are
+the main
+class of
+excitatory
+neurons
+in the brain
+they have
+kind of
+two compartments
+one is the
+classic
+compartment
+around the
+axon
+that is the
+basal
+compartment
+the other
+however
+is like
+top of the
+cortex
+the surface
+of the
+cortex
+is called
+apical
+compartment
+we will
+we will
+maybe clarify
+these terms
+a bit
+later
+but the
+point
+that he
+was
+showing
+then
+was
+that
+anesthesia
+he coupled
+or basically
+functionally
+coupled
+compartments
+of a single
+neuron
+and
+and
+folks
+listening
+a
+compartment
+is
+like
+a
+section
+of
+the
+dendritic
+tree
+so
+basically
+you
+could
+say
+that
+the
+neuron
+before
+it
+sends
+any
+output
+any
+spikes
+it
+has
+two
+compartments
+it
+has
+to
+integrate
+between
+these
+two
+compartments
+all the
+information
+we will
+go into
+that
+later
+but
+what
+Mototaka
+was
+showing
+me
+is
+that
+anesthesia
+cut
+off
+this
+was
+so
+amazing
+to
+think
+about
+wow
+there
+is
+a
+cellular
+effect
+that
+anesthesia
+has
+and
+that
+is
+probably
+related
+to
+consciousness
+so
+although
+I didn't
+want to
+work on
+consciousness
+I had
+no
+other
+way
+this was
+the way
+I had
+to do
+this
+because
+this
+finding
+was
+so
+amazing
+and
+Paul
+if you
+think
+that
+I
+didn't
+explain
+why
+it
+was
+amazing
+to
+ask
+me
+something
+and
+I
+can
+try
+to
+maybe
+rephrase
+something
+or
+explain
+my
+excitement
+better
+well
+and
+just
+about
+you
+mentioned
+general
+anesthesia
+so
+these
+are
+I
+assume
+the
+the
+anesthesia
+agents
+like
+propofol
+well
+the
+interesting
+thing
+was
+you
+and
+that
+was
+exactly
+the
+point
+so
+Paul
+was
+saying
+ketamine
+has
+a
+completely
+different
+effect
+on the
+level
+of
+circuits
+however
+there
+on the
+level
+saw
+the
+same
+effect
+that
+anesthetics
+decoupled
+that was
+really like
+a cellular
+effect
+of
+anesthesia
+that
+there is
+a cellular
+mechanism
+of
+consciousness
+so
+so
+the
+theory
+is
+that
+what's
+causing
+these
+anesthesias
+to
+eliminate
+consciousness
+is that
+they
+decouple
+the two
+parts
+of
+the
+neuron
+and
+so
+the
+signals
+can't
+be
+combined
+the
+apical
+and
+the
+basinal
+signal
+if
+you
+say
+it
+like
+that
+then
+it
+sounds
+like
+a
+really
+boring
+theory
+right
+well
+consciousness
+is
+an
+assault
+problem
+the
+only
+thing
+that
+makes
+progress
+is
+big
+yeah
+well
+here
+are
+struggling
+and
+frustrated
+with
+consciousness
+over
+several
+years
+before
+before
+was that
+there is
+a lot
+there are
+a lot
+of
+papers
+that
+show
+consciousness
+is
+some
+kind
+of
+a
+global
+integration
+in the
+brain
+so
+that
+it's
+some
+people
+even
+write
+in
+top
+review
+papers
+that
+what
+is
+a
+network
+which
+is
+like
+brain
+part
+involving
+the
+cortex
+and
+the
+thalamus
+basically
+that
+it
+is
+a
+global
+phenomenon
+and
+many
+theories
+go
+aloud
+that
+way
+but
+that
+was
+kind
+of
+boring
+for
+me
+that
+I
+thought
+well
+it's
+global
+but
+what
+does
+it
+mean
+and
+now
+here
+when
+we
+have
+this
+local
+mechanism
+I mean
+very
+local
+like
+inside
+a
+particular
+cell
+then
+we
+saw
+that
+we
+can
+explain
+all
+of
+the
+results
+that
+are
+in
+the
+literature
+of
+this
+global
+dynamics
+we
+can
+explain
+that
+by
+this
+local
+mechanism
+because
+if
+you
+cut
+processing
+single
+pyramidal
+neurons
+then
+actually
+you
+cut
+it
+in
+the
+whole
+network
+because
+these
+cells
+the
+so-called
+layer
+5
+pyramidal
+cells
+they
+are
+the
+cells
+that
+send
+information
+to
+thalamus
+they
+are
+the
+cells
+that
+send
+long
+range
+information
+in
+cortex
+so
+if
+you
+cut
+these
+cells
+then
+you
+can
+cut
+all
+the
+global
+dynamics
+so
+we
+can
+actually
+explain
+why
+people
+with
+fmri
+meg
+etc
+had
+observed
+these
+global
+signals
+and
+why
+psychedelics
+or
+anesthesia
+or
+sleep
+had
+affected
+these
+global
+dynamics
+it's
+not
+because
+because
+gorgeousness
+is
+something
+global
+but
+it's
+because
+there
+is
+a
+local
+mechanism
+within
+each
+cell
+each
+pyramidal
+cell
+that
+is
+decoupled
+for example
+by anesthesia
+probably
+it's
+leave
+and
+this
+coupling
+is
+changed
+to
+psychedelics
+for example
+and this
+affects
+and
+explains
+the
+global
+dynamics
+so
+that
+was
+the
+first
+point
+why
+we
+thought
+that
+this
+is
+actually
+something
+interesting
+because
+we
+can
+explain
+this
+data
+with
+a
+local
+biophysical
+very
+specific
+mechanism
+but
+I guess
+what you're
+saying
+seems
+consistent
+with
+the idea
+that
+consciousness
+is a
+global
+phenomenon
+if
+let's
+say
+global
+workspace
+theory
+or
+global
+neuronal
+workspace
+this idea
+that
+I think
+what
+Daniel
+calls
+fame
+in the
+brain
+that
+information
+is
+widely
+known
+throughout
+the cortex
+and is
+shared
+among
+cortical
+areas
+for
+that
+to
+work
+the
+context
+information
+about
+one
+part
+of
+the
+brain
+is
+available
+to
+other
+parts
+of
+the
+brain
+and if
+that
+context
+information
+is
+coming
+in
+through
+these
+apical
+dendrites
+then
+wouldn't
+this
+just
+be
+identifying
+the
+integration
+mechanism
+for
+this
+global
+phenomenon
+to
+behind
+behind
+so
+we
+think
+global
+neural
+workspace
+theory
+would
+benefit
+from
+actually
+considering
+these
+findings
+and
+our
+proposal
+because
+this
+could be
+a
+mechanism
+how
+you
+integrate
+information
+and now
+talking about
+the
+information
+integration
+we
+actually
+also
+think
+that
+the
+integrated
+information
+theory
+would
+benefit
+from
+this
+because
+we
+have
+a
+very
+specific
+mechanism
+that
+can
+cut
+the
+information
+integration
+within
+the
+thalamocortical
+circuits
+so
+what we
+propose
+is not
+really
+in conflict
+with these
+theories
+but we
+hope
+that it
+kind of
+complements
+them
+and gives
+a very
+specific
+mechanism
+so that
+is our
+point
+in fact
+that
+these
+global
+phenomena
+are
+interesting
+they
+do
+exist
+however
+if
+you
+want
+to
+understand
+consciousness
+then
+perhaps
+we
+have
+to
+acknowledge
+that
+each
+neuron
+consists
+of
+two
+parts
+and
+the
+mechanism
+of
+controlling
+the
+global
+dynamics
+comes
+from
+this
+local
+switch
+between
+these
+two
+compartments
+for sure
+well
+if you
+look at
+for example
+the history
+of genetics
+the idea
+of genes
+were around
+for a
+century
+but then
+when DNA
+was found
+but then
+finally we
+had in this
+case a
+molecular mechanism
+for how
+the gene
+model could
+be happening
+so maybe
+we have
+these
+high level
+but sometimes
+vague
+models for how
+consciousness might be
+working early
+if you identify
+the specific
+neural mechanism
+it's an important
+piece of the puzzle
+so there are
+some different views
+on consciousness
+out there
+and anyone
+who's listening
+if you want to
+raise your hand
+and will take
+some questions
+and kind of
+explore
+and kind of
+grow back
+into consciousness
+generally
+but so
+one idea
+out there
+of course
+is an
+information
+integration
+theory
+but this
+mechanism
+you're proposing
+you seem
+to be
+aligned
+anyway
+with
+information
+integration
+theory
+as proposing
+one mechanism
+by which
+information
+can be
+integrated
+would you agree
+that's what
+i said
+also
+that in principle
+i mean
+we would be happy
+if people
+from different
+theories
+would be
+saying
+that
+wow
+this is
+indeed
+an exciting
+mechanism
+that we
+could
+understand
+as the
+specific
+switch point
+that can
+explain
+the global
+dynamics
+that can
+explain
+how the
+global
+workspace
+is set
+up
+or that
+can explain
+how
+the
+information
+integration
+happens
+and
+is kind
+of
+controlled
+in the
+brain
+right
+so
+something
+like
+that
+however
+i mean
+probably
+it's also
+important
+to stress
+the other
+aspect
+of the
+theory
+which
+goes a bit
+beyond
+this
+first
+maybe
+more
+biophysical
+point
+and the
+other
+aspect
+is
+that
+we
+then
+look
+at
+okay
+we
+know
+that
+there
+is
+this
+decoupling
+of
+within
+the
+pyramidal
+cell
+but
+what
+does
+then
+when
+we
+start
+looking
+at
+it
+then
+within
+the
+brain
+you
+see
+this
+pure
+structure
+that
+the
+top
+down
+context
+information
+so prior
+knowledge
+information
+about
+the
+previous
+things
+information
+coming
+from
+the
+model
+the
+apical
+then
+right
+goes
+to the
+apical
+compartment
+whereas
+the
+information
+from
+the
+world
+from
+the
+senses
+from
+the
+external
+goes
+to the
+basal
+compartment
+so
+this
+is
+also
+very
+important
+for
+us
+to
+say
+that
+look
+it's
+not
+just
+that
+you
+decouple
+two
+parts
+of
+the
+neuron
+you
+actually
+decouple
+the
+internal
+from
+the
+external
+you
+actually
+decouple
+the
+context
+from
+the
+sensory
+you
+decouple
+the
+model
+from
+data
+that
+is
+important
+and
+this
+is
+central
+for
+our
+theory
+because
+now
+we
+say
+that
+look
+conscious
+experience
+is
+always
+affected
+by
+prior
+knowledge
+I'll
+bring
+some
+examples
+later
+many
+theories
+I mean
+for example
+the global
+neural
+workspace
+theory
+or
+the
+integrated
+information
+theory
+they
+do
+not
+explain
+it
+naturally
+they
+do
+why
+consciousness
+is
+affected
+by
+prior
+knowledge
+the
+theory
+of
+anil
+death
+for
+example
+does
+that
+and
+the
+theories
+that
+base
+on
+predictive
+coding
+do
+that
+however
+here
+we
+say
+that
+look
+here
+is
+also
+our
+idea
+that
+also
+naturally
+inherently
+explains
+this
+why
+conscious
+experience
+is
+always
+affected
+by
+prior
+knowledge
+this
+is
+because
+this
+apical
+compartment
+the
+top
+compartment
+carries
+this
+context
+it
+carries
+this
+prior
+knowledge
+yeah
+and I
+was
+going to
+ask
+about
+that
+because
+obviously
+one
+main
+idea
+out
+there
+in
+the
+mechanism
+of
+consciousness
+is
+the
+idea
+of
+what
+we're
+experiencing
+the
+perceptual
+content
+of
+consciousness
+are
+really
+those
+top-down
+predictions
+or
+top-down
+interpretation
+if you
+will
+the
+apical
+compartment
+the
+context
+integrating
+compartment
+is the
+carrying
+that
+top-down
+signal
+and the
+basal
+compartment
+is
+carrying
+the
+bottom-up
+signal
+and the
+integration
+at the
+pyramidal
+cell level
+is what's
+combining
+the top-down
+and the
+bottom-up
+together
+and allowing
+the top-down
+to be the
+context
+for interpreting
+the bottom-up
+is that
+does that
+sound
+right
+exactly
+exactly
+and when
+I was
+kind of
+away
+from
+consciousness
+a bit
+then I
+did
+some
+work
+reverse
+studying
+like
+a very
+simple
+phenomenon
+so you're
+doing
+an
+experiment
+a relatively
+boring
+experiment
+where you have
+to attend
+to stimuli
+and then
+sometimes
+attend to
+some stimuli
+sometimes
+the other
+and you're
+asked oh
+how well
+did you
+perceive
+them
+and we
+do
+this
+task
+and then
+suddenly
+we remove
+the stimulus
+complete
+there's no
+stimulus
+but we
+still ask
+the subject
+how well
+did you
+perceive
+this
+stimulus
+it turns
+out that
+subjects
+they claim
+sometimes
+that they
+perceive
+the stimulus
+very well
+and so the
+point is
+that in
+these kinds
+of setups
+where people
+have a
+strong
+expectation
+about
+stimuli
+then they
+can perceive
+stimuli
+even if
+none is
+there
+and other
+people
+have also
+shown
+this
+effect
+and the
+problem
+for me
+was that
+as said
+the
+big
+theories
+of
+consciousness
+could not
+really
+explain
+this
+phenomenon
+of
+why
+this
+prior
+knowledge
+can
+create
+something
+out
+of
+nothing
+so that
+was
+one of
+the
+key
+issues
+of
+why
+I
+mean
+I
+was
+especially
+happy
+also
+about
+finding
+out
+this
+mechanism
+and
+putting
+this
+also
+into
+the
+paper
+that
+this
+is
+important
+for
+the
+science
+of
+consciousness
+because
+sometimes
+we
+mainly
+perceive
+as you
+said
+what
+the
+prior
+tells
+us
+not
+what's
+really
+out
+there
+in the
+world
+and
+in
+some
+let's
+say
+strong
+forms
+of
+that
+model
+some
+would
+argue
+that
+we
+only
+see
+the
+prior
+that
+the
+sensory
+input
+is
+being
+used
+to
+through
+this
+dendritic
+integration
+mechanism
+that
+we
+propose
+you
+can
+integrate
+the
+external
+world
+into
+this
+model
+and
+into
+this
+conscious
+experience
+yes
+I see
+now
+another
+idea
+out
+there
+is
+that
+a
+consciousness
+is
+partly
+facilitated
+by
+recurring
+feedback
+loops
+Douglas
+Hofstetter
+would call
+these
+strange
+loops
+I think
+Victor
+has
+talked
+about
+top
+down
+and bottom
+up
+pathways
+which
+I think
+would be
+consistent
+with
+the
+mechanism
+you're
+identifying
+do you
+have
+a
+view
+on
+the
+role
+of
+any
+of
+recurrent
+processing
+and
+consciousness
+yeah
+yeah
+I mean
+what is
+going
+to
+the
+apical
+compartment
+right
+it is
+in some
+sense
+recurrent
+it is
+in some
+sense
+a
+loop
+right
+so
+I mean
+I actually
+wanted to
+name the
+paper
+at first
+the
+loop
+of
+consciousness
+right
+because
+it
+makes
+a
+loop
+and
+if you
+look at
+the
+figures
+of our
+paper
+then
+we
+actually
+make
+these
+loops
+because
+this
+is
+very
+difference
+with
+Doug
+Hostetter
+is of
+course
+that he
+doesn't
+really
+care
+about
+what
+exactly
+are
+the
+neural
+mechanisms
+he pioneered
+the idea
+of that
+there
+are
+loops
+processing
+loops
+but he
+doesn't
+care
+about
+what
+is
+the
+implementation
+whereas
+here
+we
+care
+really
+a lot
+about
+this
+implementation
+right
+this
+is
+the
+whole
+point
+of
+the
+paper
+that
+this
+is
+and
+which
+kinds
+of
+inputs
+go
+to
+the
+apical
+compartment
+they
+could
+come
+from
+cortex
+they
+could
+come
+from
+thalamus
+they
+could
+come
+from
+amygdala
+from
+different
+cortical
+areas
+from
+the
+medial
+temporal
+lobe
+and
+this
+is
+the
+main
+difference
+to
+Victor
+Lammer
+right
+who
+first
+of
+all
+was
+not
+also
+really
+didn't
+care
+or
+didn't
+know
+back
+then
+in
+the
+recurrent
+loops
+between
+visual
+cortical
+areas
+or
+sensory
+cortical
+areas
+right
+so
+that
+it's
+a
+higher
+sensory
+cortical
+area
+projecting
+back
+to
+a
+lower
+cortical
+area
+and
+we
+just
+experience
+in
+particular
+it
+sounds
+like
+you
+would
+be
+fairly
+agnostic
+about
+how
+the
+content
+of
+consciousness
+comes
+about
+you're
+mostly
+focused
+on
+just
+the
+mechanism
+by
+which
+the
+different
+information
+streams
+are
+always
+modulated
+by
+prior
+experience
+right
+which
+is a
+claim
+that
+other
+theories
+do
+not
+make
+for
+example
+in
+the
+workspace
+theory
+I mean
+you could
+have
+basically
+processing
+without
+any
+prior
+knowledge
+at all
+basically
+it doesn't
+say
+anything
+about
+that
+you
+have
+to
+have
+prior
+knowledge
+in
+the
+world
+so
+in
+some
+sense
+Paul
+I
+would
+say
+that
+we
+care
+hi
+Paul
+hi
+it's
+a really
+cool
+summary
+of your
+stuff
+I really
+enjoyed
+the summary
+when I've
+read your
+stuff
+before
+I thought
+this is
+really
+wonderful
+because
+it is
+an
+implementation
+level
+that might
+sit
+underneath
+a whole
+range
+of other
+theories
+and so
+I guess
+my comment
+sort of
+comment
+and question
+the comment
+would be
+I'm thinking
+about it
+as you
+mentioned
+my own
+ideas
+on consciousness
+tends to be
+framed
+in terms
+of predictive
+the idea
+that our
+conscious
+content
+is
+Brian's
+best guess
+as Paul
+just said
+joint content
+of top-down
+predictions
+about the
+causes
+of current
+sensory input
+and so
+there's a lot
+of work
+in predictive
+coding
+and predictive
+processing
+trying to
+flesh out
+what it
+might be
+there are
+things like
+canonical
+circuits
+for predictive
+codings
+and so on
+that Bastos
+has been
+developing
+and this
+might be
+something
+you
+actually
+is
+turning
+into
+a question
+this
+might
+be
+something
+you
+thought
+it would
+be
+interesting
+to the
+mechanisms
+that
+integration
+theory
+I mean
+indeed
+I myself
+am relatively
+humble
+so when we
+were writing
+the paper
+I mean
+I didn't
+say that
+I talked
+about the
+dendritic
+integration
+mechanism
+and I
+thought
+this is
+compatible
+with all
+of them
+maybe
+it's
+just
+we
+should
+say
+that
+it's
+a mechanism
+right
+but then
+my
+supervisor
+Matthew
+Larkholm
+was saying
+no no
+yeah
+no no
+look
+you have
+to put
+your head
+out
+and say
+that
+it's
+a theory
+so
+he pushed
+us
+to really
+have this
+foot in
+and I
+am not
+really
+confident
+until today
+in that
+because
+I really
+the theory
+of consciousness
+right
+do we
+have enough
+could we
+just say
+that this
+is a
+mechanism
+anyway
+that paper
+turned out
+this way
+let's see
+how it
+how it
+goes
+but I'm
+just saying
+that I
+myself
+have
+these doubts
+whether it's
+really worth
+pulling
+a theory
+of consciousness
+but let's
+see how it
+goes
+right
+it does
+seem to be
+a theme
+in the
+world of
+consciousness
+research
+that
+every
+proposed
+aspect
+that's
+elucidated
+is presented
+it's a
+master
+theory
+of
+consciousness
+sorry
+sorry
+for that
+I mean
+I feel
+bad
+it goes
+to that
+level
+and actually
+it could be
+I think
+as you point
+out in some
+of the
+outstanding
+questions
+it is
+unlike some
+other
+theories
+out there
+it is
+if you
+take it
+as a
+theory
+of
+consciousness
+it is
+at least
+testable
+in the
+sense that
+you could
+look at
+some
+conditions
+like
+as I
+think
+as you
+mentioned
+if you're
+dreaming
+if for
+instance
+that
+dreaming
+the dream
+state
+you find
+this
+disruption
+of
+dendritic
+integration
+yet
+we're still
+having
+conscious
+experiences
+that would
+presumably
+that would
+refute the
+theory
+and it's
+always nice
+to have a
+theory that's
+refutable
+so I think
+it's good that there
+are these
+testable predictions
+but I'm just
+thinking we have
+all these things
+in terms of
+these adversarial
+collaborations
+like trying to
+find predictions
+that would
+disambiguate
+between let's
+say global
+workspace
+theory and
+integrated
+information
+theory
+and it's
+kind of
+difficult
+for me
+anyway
+to think
+of what
+experiment
+would
+disambiguate
+them
+presumably
+response
+would be
+well
+of course
+it is
+because
+they're
+compatible
+and it
+always seems
+that global
+workspace
+was compatible
+with IIT
+as well
+yeah
+some people
+have even
+pointed it out
+that you
+could integrate
+them
+these two
+theories
+and have a
+master theory
+or something
+like that
+however
+I think
+thanks Anil
+for also
+helping me
+out here
+because
+the other
+main point
+or the
+third main
+point
+we try to
+make ease
+exactly
+we try to
+be very
+subtle
+not to
+kind of
+make anyone
+angry
+but the
+point
+we are
+making
+is that
+it's very
+hard
+to test
+global
+neural
+workspace
+theory
+I mean
+of course
+you can
+do an
+experiment
+that is
+compatible
+with it
+but it's
+very hard
+to refute
+the main
+claims
+because
+it's
+so
+unspecific
+and as
+Anil
+has shown
+in his
+works
+it's
+impossible
+to
+refute
+the
+IIT
+or
+integrated
+information
+theory
+because
+we simply
+cannot
+even
+compute it
+for systems
+like the
+brain
+so
+Tony can
+always
+say
+hey
+yeah
+okay
+you
+kind of
+have
+this
+toy
+example
+but
+you
+know
+yeah
+it is
+like
+that
+it is
+what
+it is
+and
+for
+the
+brain
+my
+theory
+still
+holds
+so
+you
+cannot
+do
+these
+ideas
+because
+of
+all
+the
+amazing
+work
+that
+is
+done
+in
+mouse
+neuroscience
+you
+can
+actually
+go
+and
+do
+the
+next
+experiment
+which
+is
+about
+deep
+sleep
+is
+it
+so
+that
+in
+deep
+sleep
+these
+neurons
+are
+also
+decoupled
+as
+in
+anesthesia
+that's
+a key
+prediction
+of
+it's
+doable
+experiment
+that
+can
+test
+this
+Anil
+also
+pointed
+out
+that
+we
+can
+test
+the
+effect
+of
+dreaming
+well
+that's
+harder
+in
+mice
+but
+we
+could
+at
+least
+look
+what
+happens
+in
+REM sleep
+that's
+an
+experiment
+that's
+even
+harder
+to
+do
+but
+we
+proposed
+that
+basically
+during
+REM sleep
+these
+neurons
+are
+not
+decoupled
+right
+and
+I mean
+I won't
+go into
+many
+details
+but
+the
+point
+is
+that
+people
+in
+neuroscience
+labs
+that
+have
+mice
+in
+the
+lab
+they
+can
+go
+and
+check
+different
+steps
+they
+can
+for
+example
+check
+what
+are
+the
+neurons
+that
+control
+this
+coupling
+what
+are
+the
+specific
+molecular
+mechanisms
+what
+are
+the
+specific
+circuit
+mechanisms
+that
+control
+this
+coupling
+between
+these
+circuits
+so
+for
+me
+this
+theory
+stands
+out
+from
+these
+others
+because
+it
+can
+be
+tested
+right
+here
+right
+now
+with
+tools
+we
+go
+ahead
+okay
+so
+to add
+one more
+to that
+first
+question
+i was
+just
+wondering
+if
+it
+would
+be
+a
+fair
+characterization
+to
+say
+that
+the
+processes
+of
+dendritic
+integration
+that
+you
+talk
+about
+are
+necessary
+for
+conscious
+states
+but
+not
+sufficient
+yeah
+i mean
+this
+look
+look
+i mean
+you
+could
+have
+also
+consciousness
+let's
+say
+in
+insects
+or
+in
+some
+other
+organisms
+that
+do
+not
+have
+cortex
+or
+leified
+permittal
+cells
+at
+all
+so
+what
+do
+you
+say
+and
+my
+point
+was
+that
+look
+for
+consciousness
+science
+it's
+really
+important
+to
+figure
+out
+one
+mechanism
+one
+mechanism
+that
+is
+necessary
+and
+if
+you
+have
+figured
+that
+out
+that
+will
+be
+a
+great
+leap
+forward
+so
+i'm
+not
+claiming
+that
+this
+is
+a
+sufficient
+mechanism
+you're
+claiming
+that
+this
+is
+one
+necessary
+mechanism
+in
+our
+brains
+in
+mammalian
+brains
+one
+thing
+that
+is
+interesting
+is
+of course
+when
+Francis Crick
+and
+Christophe Koch
+started
+the great
+thought
+of
+science
+consciousness
+they proposed
+a search
+for the
+NCCs
+the neural
+correlates
+of consciousness
+which suggested
+that there might
+be special
+neurons
+or maybe
+neurons that
+are active
+in a special
+way
+at a special
+time
+that would be
+associated
+with consciousness
+but with this
+model
+you're basically
+saying it's
+it's not actually
+particular neuron
+behavior
+but rather
+how those neurons
+are combining
+information
+so that way
+this is a proposed
+mechanism
+that doesn't actually
+fit the NCC model
+well
+I do think
+it is
+it is a bit
+a tiny
+more interesting
+because
+Francis Crick
+with his
+great vision
+he actually
+together with
+Christophe
+they have
+some papers
+and some chapters
+where they write
+stuff like
+most likely
+these will be
+the deep
+layer 5
+pyramids
+and neurons
+projecting
+outside of
+the cortex
+and they have
+a sentence
+like
+it would be
+marvelous
+if that were
+true
+and now
+we are in a
+position
+to say
+that
+yeah
+this hypothesis
+that they wrote
+in 1992
+and in our chapter
+in 1994
+before
+this has
+merit
+it actually
+could be
+like that
+this is crazy
+of course
+they didn't
+speculate
+about
+apica 10
+riots
+but they do
+speculate
+about
+these
+particular
+cell types
+that are
+central
+for our
+theory
+that
+deep
+layer 5
+pyramids
+cells
+projecting
+to thalamus
+and other
+subcortical
+structures
+so perhaps
+you are
+fulfilling
+their prophecy
+in some sense
+in some sense
+let me also
+add here
+the funny
+thing
+we haven't
+had the chance
+to discuss
+it with
+Christoph Koch
+but in the
+2016
+Nature Reviews
+Neuroscience
+review paper
+with Tononi
+they write
+that
+most likely
+the
+cells
+that are
+important
+for consciousness
+are not
+the layer 5
+cells
+because
+with Tononi
+together now
+they don't like
+this idea
+of broadcasting
+outside the cortex
+so much
+so
+Koch
+has
+reversed
+his position
+is now
+saying
+that
+layer 2
+3
+cells
+so
+the
+superficial
+layer
+cells
+are important
+for consciousness
+but ironically
+enough
+we do think
+that we
+kind of see
+strong evidence
+for their
+original idea
+we're fortunate
+to be joined
+by Kevin
+O'Regan
+who was
+our guest
+last week
+and who
+has
+for 20 years
+been putting
+forth a
+sensory motor
+contingency
+theory of
+consciousness
+so really
+focused on
+how the
+perceptual content
+of consciousness
+comes about
+and
+Neil
+as it
+happens
+had built
+on that
+theory
+to propose
+a way
+that
+neural predictive
+coding
+could possibly
+be a
+computational
+mechanism
+that might
+conform to
+this
+sensory motor
+contingency
+model
+so I wanted
+to invite
+Kevin to make
+a comment
+or ask a question
+Kevin
+your thoughts
+yeah thank you
+very much
+for offering
+me
+the possibility
+to ask
+two questions
+very general
+mechanism
+underlying
+cognition
+however
+now
+the
+interesting
+part is
+that it's
+directly related
+to your second
+question also
+because
+we do think
+the processing
+that happens
+within the
+cortex
+that stays
+within the
+cortex
+for example
+that mainly
+requires
+the processing
+of the
+superficial
+layers
+layer 2
+3
+layer 5
+pyramidal
+cells
+are decoupled
+and this
+is
+kind of
+yes you
+see
+I mean
+you could
+say that
+this is
+why does
+it have
+to be
+so specific
+to have
+why do
+we make
+it so
+specific
+because
+we can't
+precise
+hypothesis
+so in
+fact
+a lot
+of cognition
+that relies
+on
+processing
+to project
+cortex
+when you're
+doing some
+computation
+within the
+cortex
+and I
+think
+a primary
+example
+could be
+something
+like
+object
+recognition
+so I
+would not
+be surprised
+that if
+we
+like
+with some
+agents
+we
+drugs
+we
+decouple
+the
+fiber
+with the
+neurons
+for example
+let's say
+now in
+a monkey
+and we
+now show
+images
+of
+pictures
+like it's
+done today
+with this
+massive
+data set
+that we
+would still
+see in
+the
+higher
+order
+visual
+cortex
+selective
+responses
+to
+different
+classes
+so that
+was
+now
+back to
+the first
+question
+also the
+reason why
+we think
+that this
+is
+not
+knowledge
+that
+maybe
+it's
+stupid
+maybe
+we
+precise
+we
+could
+have
+made
+a
+more
+diffused
+hypothesis
+that this
+is relevant
+for
+cognition
+etc
+but here
+we
+wanted
+really
+contrast
+with
+for
+example
+the
+global
+neural
+workspace
+theory
+make
+a hypothesis
+that is
+specific
+enough
+that it
+kind of
+tickles
+the
+neuroscientists
+who can
+actually
+go ahead
+and test
+it
+and show
+that
+Jan Arro
+and
+Matthew
+Larko
+they were
+wrong
+that their
+hypothesis
+is not
+true
+because
+actually
+layer
+2-3
+cells
+are
+relevant
+for
+consciousness
+etc
+I mean
+I would
+be super
+happy
+so I
+think
+our
+hypothesis
+is very
+specific
+maybe it
+should not
+have been
+so specific
+but we
+wanted to
+contrast
+ourselves
+and show
+that you
+know
+today
+you can
+make
+this very
+specific
+claim
+about
+specific
+neurons
+doing
+specific
+computation
+and
+other
+labs
+can
+go ahead
+and just
+test
+it
+regarding
+this
+question
+of what
+types
+of
+processing
+would be
+possible
+when this
+integration
+is not
+happening
+I'm
+imagining
+that
+Simon Thorpe
+would probably
+say that
+basic object
+recognition
+could happen
+via the
+forward pathway
+only
+so perhaps
+that might
+be an example
+but maybe
+that would
+be object
+recognition
+to drive
+action
+without any
+awareness
+of the
+object
+if you
+wanted
+to make
+the argument
+that
+awareness
+required
+that top
+down
+pathway
+no no
+I mean
+I think
+that most
+people agree
+that you
+can have
+unless you
+show some
+really new
+objects
+you can
+have
+unconscious
+responses
+as
+selective
+unconscious
+responses
+to various
+object
+classes
+so that
+feedforward
+processing
+as we
+see
+also in
+deep neural
+networks
+can happen
+unconsciously
+and mainly
+relies on this
+processing
+in superficial
+cortical
+layers
+and according
+to our
+hypothesis
+is unconscious
+cognition
+and I guess
+Kevin raises
+an interesting
+point about
+the relationship
+between
+consciousness
+and cognition
+one view I
+guess could be
+that cognition
+is something
+that happens
+underneath
+consciousness
+that just the
+ability to sort
+of plan action
+and execute
+behavior is a
+form of
+cognition
+and consciousness
+is some
+sort of extra
+sauce layered on
+top that can
+happen or not
+happen another
+view I guess
+might reverse
+the order
+and say
+that consciousness
+is the base
+foundation for
+awareness and
+for integrating
+information in
+this sort of
+global workspace
+theory sense
+and that cognition
+is a special
+type of activity
+on top of
+that for doing
+procedural
+systematic action
+and rational
+thought and
+Kevin I don't
+know how you
+think of the
+relationship between
+cognition and
+consciousness or
+and you know
+I'd be curious
+on your views
+and also
+yeah I mean
+if I go first
+and I mean
+this is also
+related to the
+question about
+the compatibility
+of of
+consciousness
+right and
+there have
+been now
+really kind
+of important
+arguments from
+the noni from
+Christophe Koch
+and also from
+Anil saying
+that consciousness
+is different
+from cognition
+it is different
+from intelligence
+and I tend to
+agree with
+these views
+that we can
+see them
+as independent
+and moreover
+we can already
+propose some
+independent
+neural mechanisms
+that do interact
+and that's fine
+that's the good
+thing that they
+do interact
+as to layer
+2-3 neurons
+and layer 5 neurons
+but fundamentally
+that they are
+different
+and when you
+study the
+one you are
+not necessarily
+studying the
+other
+the trouble
+with that
+view though
+is that
+if you want
+to claim
+that consciousness
+is something
+over and above
+just cognition
+then you have
+to really define
+what aspect
+this is
+I mean
+how would you
+test it
+it seems
+very hard
+to test it
+unless you
+can somehow
+say well
+what exactly
+are you looking
+for
+because most
+measures of
+consciousness
+are proxies
+for
+most
+measures of
+consciousness
+are measured
+using cognition
+reports
+reports
+so how can
+you ever
+prove
+that consciousness
+is something
+over and above
+just these
+simple reports
+or ability
+to report
+yeah this is
+one of the
+fundamental
+problems
+of consciousness
+research
+and this
+Dix paper
+is a really
+new paper
+and let's
+see how that
+goes
+and how
+people feel
+about it
+but the
+paper
+people know
+me for
+in consciousness
+research
+is a paper
+saying that
+we cannot
+understand
+the neural
+basis of
+consciousness
+by doing
+these kinds
+of cognitive
+tasks
+because you
+will always
+always confound
+the prerequisites
+and the
+consequences
+of consciousness
+which is basically
+the same thing
+that when you
+have reports
+or you
+could try it
+with eye
+movements
+you could
+try different
+things
+then you
+will have
+also processes
+that kind
+of confound
+search for the
+neural correlates
+of consciousness
+so it's a
+fundamental
+problem
+i think i hope
+i hope that
+there are many
+people who
+are actually
+looking at
+it and
+try to
+find out
+new clever
+ways
+for dissociating
+these
+it's not an
+easy task
+but i mean
+we will
+do it
+eventually
+but for
+now
+one view
+one view
+is that
+what for
+example
+the
+noni and
+koch have
+taken is
+that they
+basically
+they define
+consciousness
+as integrated
+information
+and they show
+that look you
+can have this
+measure
+independent
+of cognition
+you can have
+the system
+that is good
+in cognition
+in some
+cognitive
+tasks
+but has
+low
+fi etc
+so that's
+one way
+i mean
+i'm not
+necessarily
+agreeing with
+them
+i'm just
+saying
+that this
+is one
+way of
+doing that
+that you
+basically do
+it kind
+of in
+some information
+theory of
+math terms
+right
+and the other
+way
+how we
+do it
+that we
+try to
+propose
+that there
+are specific
+neuron
+mechanisms
+and we
+try to
+dissect it
+in the
+brain
+with on
+the level
+of neurons
+circles and
+molecular
+mechanisms
+but we
+will need
+and we
+will need
+to rely
+on new
+tasks that
+kind of
+better
+differentiate
+between
+these two
+and this
+is a hard
+task but
+it will also
+be a very
+fun task
+because it's
+a real
+challenge
+that will
+propel the
+field forward
+a lot
+i think
+yeah you're
+exactly right
+to point out
+i think
+jan your
+earlier
+papers on
+prerequisites
+and consequences
+very influential
+and but
+there's been
+as i think
+there's actually
+a lot of
+quite innovative
+work
+trying to
+get around
+that as
+far as
+we can
+it's not
+easy but
+there are
+all these
+now no
+report
+paradigms
+that try
+to
+distinguish
+between
+the
+correlates
+that
+underlie
+reportability
+as compared
+to the
+true as
+you would
+call it
+the true
+ncc
+i mean
+these are
+not
+guaranteed
+to work
+but i
+think that
+there are
+useful
+approaches
+there
+that go
+some way
+to solving
+this
+this problem
+but
+yeah i
+think this
+distinction
+between
+consciousness
+and cognition
+is so
+it's so
+difficult
+and it's
+kind of
+awkward
+i i
+think
+you
+summarize
+i do
+think
+there are
+different
+things
+they're defined
+differently
+cognition is
+all about
+function
+mapping of
+input to
+output
+computation of
+some sort
+or other
+consciousness is
+fundamentally about
+phenomenology
+and so
+in a sense
+it's really
+a difference
+of emphasis
+when you
+ask questions
+and do
+experiments
+and this
+is where
+for instance
+i've been
+very influenced
+over the years
+by kevin's
+work too
+back from
+20 years
+ago
+his famous
+paper with
+alvin
+noe
+about the
+sensory motor
+contingency
+theory
+because it
+really gets
+at phenomenology
+you're trying
+to explain
+why particular
+experiences
+have the
+phenomenal
+character
+that they
+have
+and if
+you try
+and understand
+the mechanisms
+that account
+for that
+phenomenal
+character
+then you're
+asking
+questions
+that are
+about
+consciousness
+primarily
+about
+what can
+people do
+with certain
+input
+information
+and so
+on
+can they
+do
+arithmetic
+unconsciously
+or not
+then that's
+a question
+about
+cognition
+rather than
+phenomenology
+i think
+in practice
+there's a lot
+of
+it's bound
+to be a lot
+of overlapping
+mechanisms
+so i'm not
+entirely
+idea of
+putting
+in particular
+order
+but i do
+think it's
+important to
+recognize that
+they're picking
+out fundamentally
+different properties
+of systems
+so we could
+as is evidence
+in artificial
+systems we
+could have
+systems
+computers
+that we
+could all
+probably
+come to
+some consensus
+that they're
+implementing
+some form
+of cognition
+but without
+any
+phenomenology
+one i think
+there's one
+part of the
+public discourse
+on this where
+it gets a
+little bit
+i have a
+few issues
+with which
+is this
+assumption
+that as
+artificial
+intelligence
+or artificial
+cognition
+if you like
+gets increasingly
+sophisticated
+then that's
+come on
+and there's
+artificial
+consciousness
+as well
+conceptual
+conflation of
+phenomenology
+and intelligence
+i wanted
+i wanted to
+return just
+for a moment
+to the topic
+of the
+sensory motor
+view on
+consciousness
+and its
+relationship
+to the work
+that you're
+doing on
+context
+integration
+just because
+we have the
+opportunity to
+have both
+kevin and
+neil here
+who've thought
+about the
+sensory motor
+aversion
+and neil
+who's also
+tried to
+connect it
+to some
+of the
+neuroscience
+so i'm
+guessing
+that kevin
+would take
+the view
+that consciousness
+or at least
+conscious
+perception
+isn't so much
+something that's
+happening inside
+the brain
+but rather
+a circuit
+with the
+environment
+that by
+engaging in
+trying to
+seek out
+answers
+and the
+environment
+providing it
+through sensory
+input
+that that
+circuit
+creates the
+experience
+of conscious
+perception
+whereas in
+your dendritic
+integration view
+i think you
+would say
+that it's just
+really the
+combination of
+the feedforward
+pathway with
+the feedback
+pathway
+that applying
+the context
+of sensory
+input is what
+is producing
+conscious experience
+i don't know
+if you would
+say that but
+it's sort of
+implied by your
+paper
+any thoughts
+on that
+or anil is
+someone who
+probably understands
+both these views
+i'm curious
+thanks paul
+i mean that's
+a really
+interesting question
+and obviously
+we didn't really
+think about
+that but
+i mean thanks
+to this clubhouse
+now i'm seeing
+that we could
+also be saying
+that look
+nearly about
+in the cortex
+like and it's
+very kind of
+opposite to what
+kevin is proposing
+in the sensory
+motor theory
+however in our
+theory they
+important thing
+about
+the five pyramidal
+cells is that
+they are
+the cells that
+project out of
+the cortex
+and that project
+to the motor
+system also
+they project
+to cerebellar nuclei
+and in many cases
+they can control
+movement
+so in that sense
+i feel that there
+is actually a
+strong connection
+between our theory
+and what kevin and
+amin have been
+proposing
+because exactly
+our theory
+is inherently
+tied also to
+these sensory
+motor loops
+because these
+neurons
+are the ones
+that control
+action
+they are the
+ones that
+control
+eye movement
+they are the
+ones that
+control our
+our different
+movements
+they are the
+neurons that
+couple us
+to the
+environment
+so there is
+this coupling
+between the
+different compartments
+within these
+neurons
+and kevin has
+been stressing
+the coupling
+between the
+environment
+and the
+brain
+but what i'm
+saying now
+is that look
+of course
+these neurons
+are involved
+directly involved
+in the motor
+aspects
+then there is
+this coupling
+between
+this specific
+biophysical
+mechanism
+and
+Jan is
+joining us
+for Estonia
+great to have
+you on our
+neuroscience
+AI and
+consciousness
+conversation series
+what got my
+attention is that
+you have a
+paper titled
+cellular mechanisms
+of consciousness
+processing
+and you propose
+a neural mechanism
+of consciousness
+and that paper
+was suggested
+to me by both
+Blake Richards
+and Billy George
+so I was
+interested to
+chat with you
+about it
+we've been
+having ongoing
+conversations
+about consciousness
+and neuroscience
+here on this
+forum
+so glad to
+have you here
+thank you
+very much
+for the
+invitation
+it's great
+to be here
+an honor
+so one
+of the things
+I want to
+start with
+is just
+to find
+out a little
+bit about
+what motivated
+your original
+interest in
+this problem
+and what
+problem
+it is
+that you're
+interested in
+is it
+neuroscience
+is it
+consciousness
+is it
+something else
+so how did
+this journey
+start for you
+so hi
+everyone
+so I'm
+originally
+from Estonia
+can't
+you

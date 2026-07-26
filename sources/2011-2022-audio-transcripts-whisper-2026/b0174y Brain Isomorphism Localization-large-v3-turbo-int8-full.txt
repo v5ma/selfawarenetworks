@@ -1,0 +1,23 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0174y Brain Isomorphism Localization
+First recorded: 2021-10-01T18:00:30.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/d8c3396c-0cee-42e7-a09a-7214b10180d6
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Okay, so imagine we have a self-contained module. It's like a chapter, right? We call it a module. Because what it is, it's like, it's going to start out with a narrative, like it was a balmy and stormy night, or it was cold at night, and we're waiting, setting up the tables for people to arrive, and she presented her open EIT.
+And then we go into, like, the sort of, like, you know, what makes it so amazing, how it could be so revolutionary, it could change the world, and this is the profound meaning of it, and, um, and, uh, meanwhile, I'm staring across over at Morgan and thinking about and trying to understand what he's saying about why, um,
+I'm trying to reconcile what he's saying about, about, um, EEG localization and how we can use EIT to solve the skull problem, which is the skull and tissue, the tissue of the, underneath the skull, uh, between the brain is, uh, distorts the, uh,
+uh, reception of the electromagnetic, magnetic waves, but with EIT, you could get clear, a clearer, you could get a perfected EEG signal, and therefore run more advanced, um, calculations on a perfected EEG signal.
+And I was trying to understand why he didn't, why he didn't, uh, he was opposed to my proposal that we, we try using EEG source localization combined with, um, you know, correlating, uh, regional patterns of brain activity with objects in the real world, which was my proposal from the Neural Ace podcast.
+And he, he, he kept insisting that, that there's too many things that could represent that brain activity, um, which is outlined in brain, uh, in the rhythms of the brain, Boussaki's work.
+So, um, so, I'm left with a situation where I have to, um, where I can, you know, basically explain Boussaki's argument, and that's the reason, but, but then I have to point to, well, this, this paper, but this paper came way later, so is it possible, you know, that, but, you know, basically, there's no point in plotting out, he was saying, there's basically no point in plotting out the three, three-dimensional location of, of the source localization.
+Because all that data is contained in the, in the frequency data, right, he, he just doesn't believe there's any point in plotting it out.
+Um, so that was my major, that was my major point, my major argument of contention with Morgan, and also I argued that the brain was a fractal, functional, um, was, was a functional, was a fractal, a functional, was a fract, was, that the brain had, um, fractal,
+multi-level fractal, uh, functional, uh, isomorphism, meaning that the functions and different scales of the brain were functionally isomorphic, you know, in a, in a recursive fractal pattern.
+It was, it's, it's, it's, it's a, it's a, it's only a fractal, and, in terms of having a functional, a functional, a functional, a fractal functional isomorphism, a fractal functional isomorphism.
+So it's a fractal, but it's functional, it's a functional, it's a functional, it's a functional isomorphic fractal.
+There's a functional isomorphism that's also a fractal, it's a fractal functional isomorphism.
+and multiscales of the brain, the macro, the meso, and the micro.
+Each one of them is a fractal functional isomorphism.
+Is it the right word? Is it isomorphism?
