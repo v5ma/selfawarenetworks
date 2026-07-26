@@ -1,0 +1,405 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0197y Scope of book part 1 Neurons Brain Sort
+First recorded: 2021-08-29T09:11:13.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/853ae329-4697-45c3-8e6e-d18c11fb929e
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Okay, so I need to write a whole section about everything that I know about volumetric video and 3D semantic segmentation and Boids and the Game of Life and why that's interesting.
+And I need to write, so yeah, that's the 3D semantic segmentation.
+And so I need to walk through all of that.
+Like, this is like, how do I, how does a machine do object segmentation?
+And then how does a human being do object segmentation?
+And I need to explain how a, like, imagine a 3D neural network in Unity that was built-in Unity or built-in Unreal Engine or built-in, yeah, let's do Unity, okay?
+I've had better luck with Unity.
+Um, but we don't say WebEx on, right?
+Uh, the idea is, like, oh, what if we built a 3D neural network that was, uh, made out of Boids, but the Boids had cages.
+And so the Boids actually, or the Boids represented the neurotransmitters inside the cages.
+And, um, so they each, like the Game of Life, they're going to change their position based upon incoming data, right?
+And their position in space represents the 3D neural network reworking itself.
+And so think of, like, a 3D neural network, so, so we have, so semantic segmentation is figuring out which, which, um, dots belong together, which dots are, um, you know, belong in the same group.
+And then you have AI denoising, uh, and ray tracing, but AI denoising is, is this, you know, training machine in really high-resolution pictures, and then you can give it, like, a lower-resolution picture, and the AI sort of, it's sort of, like, uh, polishing the picture.
+It's, like, you're giving out part of an image, and it finishes the rest of it. That's what, that's what a neural network does.
+And AI denoising is sort of, like, the same process, but sort of, like, applied to, like, a noisy point cloud that represents the picture you're creating.
+And then, uh, but you're sort of, like, um, you know, you know, it's chasing out the noise.
+It's improving the image quality, and, uh, and the speed at which you can get, uh, your workflow done so that you can get really nice rendering.
+So you can do your modelling and moving around a really complex scene, uh, really fast, um, in order to, in order to do, like, advanced, um, you know, ray-traced scenes
+that look really beautiful.
+And, um, so the AI denoising is this sort of, like, um, AI applied to point clouds in each frame,
+and then the 3D semantic segmentation is going a step further, and it's identifying objects, and then, uh, and connecting objects to,
+it's classifying the semantic connections that those objects have.
+It can turn 3D objects to 2D objects, it can do shape completion, it can do GAN synthesis,
+and, um, you know, where you can, you know, GAN synthesis could be, like, well, what is the, what is the interpolation between an avocado and a chair,
+as illustrated by JP3, but really, really, we're thinking about point net plus plus,
+uh, which still outperforms even multimodal networks by OpenAI, um, and, um, by DeepMind, so, um, and by Facebook.
+So, we're still, like, in terms of, like, uh, point cloud, uh, 3D semantic segmentation point cloud networks,
+um, because the data that it's learning is multidimensional, it doesn't suffer as much from,
+uh, the issue of, uh, noise, uh, and, so, it's more robust, and it doesn't need, you know, techniques like dropout,
+not, as much, or, um, you know, like, like, uh, like, it doesn't need, uh, sort of, like,
+monitoring, uh, networking modifications to deal with overfitting, it's overfitting, it's not going to be much of a problem,
+because the, um, because the, I, I think it could be because what's being learned is, uh, more robust,
+because it's, um, because it's, like, there's a higher number of, of vectors, and, uh, uh, between dots,
+connecting between dots in a three-dimensional image, and there is in a two-dimensional image,
+and that higher density of vectors is giving a sort of, um, a sort of, um, crunchiness or texture or weight to the image,
+so it's, it's, it's a little bit more, uh, digestible to a neural network, a neural network that is basically
+digesting and then reconstructing, it's digesting its image, the image, in a sense, and then, um,
+but it's doing it in a way, like, where every piece of the network is, is contributing, is, is moving,
+every, every node in the network is moving in, in a way, not moving, well, I mean, moving in, in a, um,
+and, I mean, in a convolutional neural network, there's nothing moving, but in a 3D neural network,
+there's this sort of, um, there's a 3D shifting of positions, which is, like, analogous to the changing of,
+of weights, uh, in a, in a, in a, in a, in a convolutional neural network, and, um, let's see,
+that's still going, um, and so, yeah, and so, okay, so we discussed that we need to be all about,
+uh, the volumetric video and how VR, um, oh, yeah, so I was saying, I thought of an exercise,
+okay, so it's, like, what I want you to do is, like, is, like, stretch your arm span, stretch your arms out,
+so that your hands are, so that you, it looks forward, so that you, you can't see, stretch your arms out to
+your side, so that you can't see your hands, okay, you gotta look forward, though, because if you look
+to your left or to your right, you'll be able to see your hands, and the idea is your hands are way out
+in the periphery, and, um, so you, you, you, I can't see my hands when they're stretched out to,
+to my side, I don't know if you can, maybe your body is shaped differently or something, but I,
+I can't see my fingers if they're both, if both hands are stretched out to my sides, um,
+um, and, um, so the point is, like, uh, so just imagine you're, now that you're doing this exercise,
+um, consider, uh, the whole scope of everything that you can see in this moment, right, what is the,
+uh, consider your field of view, say your field of view is, like, 220 degrees, okay, um, I'll have to
+look this up to see what the human field of view actually is, but let's say it's, for, for now,
+it's 220 degrees, and your hands are just outside that, and if your hands are just outside your field
+of view, you're not gonna be able to see, so, I mean, I guess your hands, if you put your hands
+out to each side, and they're at 180 degrees, right, and then, like, if you bring your hands,
+like, you know, just, just a little bit, yeah, then they can become visible in your periphery,
+uh, just, sort of, like, study the edge of your periphery by looking straight forward, moving your
+hands, like, closer, and then farther back, until they, kind of, like, disappear, right, and the point
+is to just really, like, understand your field of view as a, as an image, as, like, a movie, or as, like,
+a scene in virtual reality that has to be rendered. Now, imagine you put on the, uh, the Oculus Quest
+headset, and this covers your eyes, um, and it renders an image to you, and the image changes based
+upon where you're looking. So, if you are in a VR headset, and you look to your left, you, you, you
+will see what the, uh, if you're in a, if you're in a, if, if, if, if you're in VR, and you're, you're
+playing a program like, um, I want to say, what's a popular one, um, gosh, uh, if you're playing Half-Life
+Alex, and you look to your left, and you can see there's a wall to your left, and then you look to
+your right, and there's a, there's a, uh, a train to your right, and that's the thing, is, is the thing
+about the VR headset, right? So, the VR headset is traveling on your face, and as your physical head
+turns to the right, it's going to change the image. Now, the reason I'm trying to get you to think
+about this is, is that, um, the VR headset is generating image based upon where your head is
+pointed. But let's go one step further, and, and say that your brain is generating an image based upon
+where your head is pointed. That your brain is essentially doing, for you, for your consciousness,
+what virtual reality is doing, uh, for, uh, for, so I want you to see that there is a sort of analogy
+between your, your vision, and what you can see, and the whole scope of your field of view from,
+from your outstretched left arm to your outstretched right arm, and the view that has to be rendered
+for a VR headset to work correctly, when you're turning left or right. There's an analogy there,
+and I, I think that, that, uh, that's part of why John Carmack had the great idea to, to start
+working on, on, uh, John Carmack from Oculus, uh, and also the creator of Doom, that he had the great
+idea to, to sort of start working on, on, uh, artificial general intelligence, because here you have,
+with BR, this sort of analogy for human vision, right? It's an, it's an analogy, now, now the, the,
+the computer is not seeing this, the computer is not observing this image, right? So you get to this,
+you get to this, um, you know, question that people bring up, well, okay, uh, if your brain is rendering
+an image, okay, who's observing it? Where's the, where's the observer? Is there a little man inside
+your head that's observing it? No, uh, but, but I think we do have, we do have, uh, a way to, to solve
+this, but, but I just want to say that, let's, let's say that, at the very least, if you get outside
+your own head for a second, and imagine an animal, I mean, like, um, like, uh, a dog. I saw this video once
+of, of a dog in a kitchen, and the dog was looking at, uh, uh, it was in, the dog was in a kitchen,
+it was looking up at the table, uh, actually there's a, there's like a, I forget what it's
+called, but there's like a, there's like a little table in the middle of the kitchen, okay, it's
+looking up at this little table, and then it's looking up over at the, the, the, the countertop on
+the, at the edge of the kitchen, so it's looking from, from the ground up to the, and it has to
+do the, you can't, the dog can't look and move its head in two different directions at the same
+time, so it has to do this in a certain sequence, so first the dog is looking at the floor, and then
+the dog looks at the table in the middle of the kitchen, and then the dog looks over at the
+countertop, and there's like food on the countertop, and then the dog is like looking at a chair,
+and then I see the dog sort of like walk through the steps together, so the dog then looks back at
+the floor, looks at the, uh, counter in the, the, looks at the, the sort of, it's not, it's, it's, it's
+like a kitchen counter that's in the middle, it's not like a table in the middle, it's like a kitchen
+counter in the middle of the kitchen, that's not connected to any walls, the dog looks up there
+on, on the square thing in the middle, the counter in the middle, and then the dog looks again over
+at the, at the, at the regular counter that has the food on top of it, it looks at the food, looks at
+the chair, and then it does the cycle again, so the dog does this one more time, where it looks at
+the, at the center, median, medium, uh, and then looks at the, uh, the, the kitchen counter with the food
+on it, and then looks at the chair, and then the, the dog, uh, uses the chair, it steps up onto the
+chair to grab the food off the counter, and then gets the heck out of there, and in, in, in, in between
+the dog is also looking to see if anyone's watching, see if any, uh, other, you know, if any human beings
+are in the vicinity that might observe the dog taking the food off the, off the kitchen counter, but,
+but this, this is, this is all captured on video, so, so I, I guess the dog was being really sneaky, and
+didn't expect that, uh, someone would be videotaping, there's no concept of videotaping in a dog's mind,
+or so we think, but, uh, but it was caught on camera, and what's really interesting is, so if you think
+about this now, we talked about how, you know, when you look, when you look, when you look straight,
+when you look straight ahead in the VR headset, you're, you're being, you're being, there's a,
+there's an image that's being rendered when you're looking straight ahead, so let's think about this
+with the dog, so when the dog is looking straight ahead, the dog's brain, let's argue, I'm going to
+argue, the dog's brain is rendering, uh, the chair to the dog, it's rendering the, the medium in, in the
+middle of the kitchen, the, the, sort of, like, countertop in the middle of the kitchen, it's
+rendering the countertop on the edge of the kitchen, it's rendering the food to the dog, but it's doing
+this in a sequence, it's like a, like a movie, you know, or like a, like a VR movie, like a volumetric
+video, and, and, and, so I don't know, if you've ever been in volumetric videos, like live volumetric
+videos, like that, like, there's this thing called Hype VR that I saw at CES, and Hype VR was
+this, um, was, was my, was my first, it's, it, I've really had the opportunity to try
+volumetric video, but it's really impressive because you can, you can lean to your left
+and to your right, and you are moving inside the video, so you're getting video quality that
+you're moving inside, so if you lean to your left or to your right, your perspective changes
+inside that video, and it looks like real video, I mean, it looks like a real, um, high quality
+movie, and the VR headset allows you to, to actually walk around a little bit within, you know, when
+I tried it at, at, at CES, I was on the, it was on a headset called the Vive Pre, which
+was before the HT Vive was released, the Vive Pre was, uh, like the, sort of like the beta
+version, just like they had the, um, the competitor, competing product was the, the Oculus, uh,
+developer kit 2, Oculus developer kit 2 preceded the, uh, the Oculus consumer version 1, the Oculus
+rift consumer version 1, and, uh, so in the Vive Pre preceded the HTC Vive, which was the, the
+product, a product that was released after the Vive Pre was released, but in the Vive Pre
+at CES in 2016, I tried Hype VR, and it blew me away, I mean, it was, um, it was better
+than Tilt Brush, in terms of blowing my mind, like, I tried Tilt Brush at, uh, San Francisco
+virtual reality events, uh, in May of 2015, um, almost the whole year before CES in 2016, which
+was in January, uh, so there's, like, a difference of, like, you know, it was May of 2015, of
+January of 2016, that was, that was a difference in time there, so Tilt Brush was, like, one
+of my first VR experiences, it may have been my first VR experience, in, in an, it was also
+in a, uh, in an early Vive headset, that was before the Vive Pre, HT Vive, it was, the Vive,
+the HT Vive had just, not, the, the, um, the predecessor to the HT Vive Pre had just emerged,
+and, uh, at the time, it was just the, I don't remember what it was called, but this
+was not the consumer version, this was, uh, only a few people got to try these, this was,
+like, super early, and HT, HT Vive VR was so great, because you had position tracking that
+you didn't have, not just for your head, and your body, that you could, you could walk
+around a little square space, about 12 by 12, or, it could be even bigger, 15 by 15, but,
+you know, most of the time in San Francisco spaces are pretty small, so I think we, I
+think, uh, you know, it was, maybe it was less than, than that 12 by 12 space where I tried
+it, but, but the point is that, um, tilt, tilt brush was like, I was painting light in
+space, in the air, it was extremely precise tracking, it was so amazing, and then hype
+VR was this movie in virtual reality, and I really, like, I just, like, I'm, here's the
+thing, I, here, you know, like, if you can create a robot where you're basically, um, causing
+the robot to reconstruct a three-dimensional representation of the world around it, inside
+the robot's head, here's the thing, is, is, is, and then the robot has to learn to navigate
+this 3D space, so it's getting this 3D data, and it wants to learn how to navigate this space,
+now this is, as, as a concept, it's significant and interesting because you start to think,
+wow, this is a kind of internal representation, you know, I, it's, at, at this point, it's,
+it's, like, well, I don't know how there's, uh, I don't know how, like, like, at, at this
+point, if this is, like, if you just tried VR, it's, like, well, what are you gonna say
+what, how are you going to describe, basically, well, how does this, how do these, how do these,
+if, if you are, if you do images being rendered inside your brain, how do these, how are these
+images conscious, how are these images aware, how are these images, um, you know, how does
+the, how do you go from putting 3D images inside a robot, because you can put, like, because
+here we have, here we have a, um, inside a robot, but how do you go from that robot, like,
+I mean, if you think, like, I don't know, any VR experiences is a 3D experience, so you're
+running a 3D program inside, so that's only part of it, that's only part of it, and I have
+to, and you, even to, even to establish that's happening in the human brain, or in a dog's
+brain, and, and how that's happening, that by itself is, is a significant challenge, um,
+but, what I can say is that I've, I've seen that if you have a 3D neural network, and, and
+I'm not, and the guy who showed me this, I can't tell you what his name is, because he
+doesn't want to, he doesn't want, he's, it's super, he's super paranoid, I can't tell you
+what his name is, I can't draw any connections to him, he, he's, his, uh, his work, uh, and
+his own, uh, way of going about creating, uh, self-aware networks, it is something that
+I, um, I'm not gonna tell you all, I'm not gonna, like, I, I don't even know everything
+that he's working on anymore, but he's done some amazing, and, and I consider it mostly,
+I think he considers it mostly artwork, but, what I saw, um, was that if you have a 3D network
+of voids in a 3D game engine, that this 3D network can represent, it can, like, well, here, look,
+the thing that he showed me was that if you plug in a web camera, his 3D neural network
+would change its physical structure enough to represent what was on that webcam, so it's,
+it changes its 3D structure to, to sort of match the incoming signals, so it, it creates, uh, a 3D
+representation of, of the 2D, uh, images coming in from the webcam, and with multiple depth cameras,
+it's able to, um, it's, it's able to construct 3D images. Now, now, if you look at, um, you
+know, more recently, we've seen, basically, the, the, uh, LiDAR fusion that is, uh, you know,
+used, being used by, uh, Varho, they developed their own variation of LiDAR fusion, which is,
+um, which combines depth, uh, depth, it combines the, the, the short range depth data of, of LiDAR,
+which is, which is, um, I see, it can be used as a sort of time of flight sensor in order to
+get depth within about 5 meters, uh, really good depth information, very precise depth information,
+and it combines that with the video feed so that you get really, uh, precise details, because LiDAR is not
+super detailed, but if you combine them both together, you can get really great detailed depth,
+highly detailed depth information, if you combine the video, which is highly detailed, and the LiDAR,
+which is highly specific, highly, uh, specific with depth information, um, and so LiDAR fusion data
+is a way that, um, uh, algorithms, it's, it's, it's a deep learning algorithm, it's a neural network
+that can, uh, basically capture the real world from cameras,
+and modify the positions of the incoming data to sort of reconstruct a model, and, and that is
+sort of, um, the point of what I'm saying is that, um, a 3D neural network is, uh, capable of representing
+any 3D object, right, and it, it, it, it doesn't have to be, like, it can be a, a, a sparse and
+distributed representation, right, but, um, but here's the thing is, just think about your field of
+view again, okay, and think about how your brain doesn't have to render the back of your head when
+you're looking straight ahead, okay, okay, it doesn't have to render your eyeballs when you're
+looking straight ahead, unless you're looking into a mirror, right, but if you're just, if you're just
+looking out onto the street, or, or at a wall, um, this, uh, your brain doesn't have to render your
+face to you, if, if you, if there's no reflection of your face anywhere, it doesn't have to render
+that, right, so just think about that, so think about, like, in your brain, you have a 3D neural
+network, and I'll go more into how your, your brain is a 3D neural network, um, and there's lots of, uh,
+lots of, uh, uh, neurotransmitters, and, and, and, uh, ions, or charged atoms, that are, are changing
+places really fast, uh, and there's lots of, lots of movement happening, um, with the, with the changes of,
+of, of, in positions of neurotransmitters, uh, and, and, and ions, uh, and it's, there's so much movement
+that, that the, um, that the physics of how all this happens is really, uh, um, as far as I know,
+it's, it's still a bit of a, uh, of a, of a challenge to, to, to accept. I don't think there's an
+equivalent yet in, in, uh, in terms of, um, you know, human manufacturing that can match what, uh,
+is, is the speed of, because the idea is that, you know, if you see, if, if these, if these, um,
+if these atoms are moving so fast in the brain, you know, why are, why aren't they destroying the
+walls of, uh, uh, and the, the structures? Because it's just, it's just, um, you know, there's,
+there's just, it's, it's, it's just, uh, a, a kind of machine that we've, human beings have never
+built, and, and it seems like it would be very hard to build something that, you know, in fact,
+there, I mean, you know, there are now, uh, neuromorphic ships where, you know, ions are basically
+being transferred from, from one place to another, and, and, and these were built sort of with,
+you know, the idea of, of replicating brain function, but also getting to a place where we can,
+um, create artificial neurons that can actually interact with real neurons, that can actually,
+um, you know, accept memories and transfer memories or, uh, recognize patterns and contribute to brain
+function the way a real neuron does. Basically, to, to, uh, send and receive communication,
+and, and to, to be, to be sort of state machines for the communication of neurons. And, and by state
+machines, I'm, I'm talking about, you know, uh, changes in, in, uh, the, and what, in, in the firing
+patterns as a result of, uh, uh, incoming signals that are, um, that are, you know, both small and large,
+but also affecting, these signals are affecting the, um, the, what's it called, uh, what, they're affecting
+what's, what's not going to fire, or they're affecting basically the, um, inhibitory system.
+So, the inhibitory system, um, and I like the, the book that really explains this really well is,
+uh, Rhythms of the Brain, 2006, uh, 2006 book, Rhythms of the Brain. The inhibitory system is sort of,
+um, uh, uh, allowing really complex carvings, pattern carvings, to happen. So, so, so, you could,
+you could have two neural networks, two neural networks. Like, a typical convolutional neural
+network is not really, um, it doesn't have an inhibitory system. It doesn't have, it doesn't,
+a typical one doesn't have a state machine. It's not, it's not, uh, considering the information
+in multiple time steps. Um, there is a new neural network that, uh, is designed to,
+sort of, like, have, like, a multi-time step operation that, that is meant to be some sort
+of artificial consideration to, to, um, to try to get a better picture, uh, of what's happening with
+less data. And, um, that's interesting. So, we've seen the graph nodes, we've seen their
+Perceptron from DeepMind, and we've seen, um, I mean, the, uh, Perceptron? No, not the Perceptron.
+There's, there's a new, uh, the Perceiver, the Perceiver, and then the, the, there's the Considerer.
+So, there's, like, time steps. But, but the reason that, um,
+um, multiple time steps are power, are, are powerful is you can, you can take the same number
+of parameters and massively multiply the number of possible patterns by having an inhibitory system
+that allows, like, the lowest level features of a neural network to be knocked out and, and, and, and,
+to make way for other, other patterns to emerge instead. And so you, you, you create the opportunity for,
+for, um, lots of novel patterns, lots more novel patterns to, uh, occur by having a sort of,
+um, a system of, I, I, I kind of think about it as, as, you know, um, I think of the,
+you can think of, like, neurons as, like, it's like sequences of, of, of, of a piano playing out,
+but, but piano is, uh, instead of, you know, a piano is just like, um, is, it's, a piano is two-dimensional,
+in some sense. And, uh, so the keys, the keys are going from, uh, from the piano player's perspective,
+the keys are going from, from left to right, um, you could have pianos with multiple decks,
+okay, and then, you know, so, so it ends, in that sense, so, like, the, so maybe the first dimension
+of the, of the piano is, is just, um, um, I'm, what I'm trying to say is that, is that, um,
+well, the piano certainly has only, like, there's no inhibitory process for a piano, so there's
+definitely a constraint on the number of different, um, musical patterns, I guess, that might emerge.
+There's some, some sort of constraint, I mean, I, I mean, I don't, it's, um, there's a, no,
+there's a maximum number of possible patterns, right, and that's a huge number, because there's a lot
+of different keys, but it's a, but, but a piano is, I guess, a finite state machine, it's not an
+infinite, it's not, there's not infinite possible states of the piano. Eventually, the, the number of
+possible combinations of keys that can be played with a piano player that has 10 fingers, you know,
+the number of possible combinations, uh, that can be played at each interval of the music, right, um,
+it, it is, is, is, is one thing, okay, now, but let's go back to the observer, so, so we need to,
+like, like, it's not enough to just have a piano playing in your head, there has to be something
+that's observing it, um, but in fact, there is, uh, and, uh, and the, the thing that's observing the
+piano music that I'm proposing is being played in your audio cortex, or the image that I'm proposing is
+being rendered in your visual cortex, or, or the feelings that I am, uh, imagining are being, um,
+rendered in, in, in, in, in, in, uh, in a, in a, in a, in a, in a hard to describe way, but, but in, in your
+somatosensory cortex, and that, and so the whole, you know, the primary, three primary sensory
+cortic, uh, cortic, uh, cortic, uh, cortic areas, the idea is that, is that these, um, these patterns are
+being generated there, but they're being generated there because, because you're observing them on the
+outside, okay, that you're, you're observing on the outside because your cells are listening to the
+incoming patterns, and then, um, and, and, and so your cells are rendering these patterns, and then
+you're listening to them, uh, to, when they come in to your brain, but, but, um, what's interesting is
+that, uh, is that not only are you rendering these, you're rendering these patterns for other neurons,
+neurons, and the other neurons are listening, because they need to know when they're going to
+fire, need to predict when they're going to fire, because it, because, um, because that affects the
+neurons' equilibrium, and the idea is that the, the sort of, like, uh, the neuron is, is, because of
+the environment, it's very in tune with what's causing changes, because those changes, those changes
+from its environment are inhibiting parts of the neuron, and it's a very, it's a very sensitive
+instrument, the neuron, it's like, it's, it's, it's like, look at your hand, your hand is, I think of
+your hand as, like, as, like, the fractal of a neuron, and, and your fingers would be, like, the dendrite,
+like, the branches, and the core of your hand, the center of your hand is, like, the soma, okay, so your
+hand, your hand is collecting a lot of sensory data, now, touch your hand in the center, in the palm,
+that's, like, the soma, so there's definitely, like, uh, signal collection happening there, and in a
+dendrite, there's signal collection happening, it's, it's a fractal of a dendrite, and in that, uh,
+whatever you touch is, is creating signals on this, on the surface of your skin, your touch is
+creating signals, and where your hand is being touched, okay, if you close your eyes, and someone
+touches your hand, you can guess what, you can guess where they, they, they are touching your hand,
+some people can visualize, I can visualize where someone's touching my hand, if my eyes are closed,
+and, so if a bug crawls off your hand, you might, you might be startled, and there's a system in your
+body, the autonomic nervous system, that's, like, sort of, like, unconsciously listening to every event
+like that, so if, like, so if a bug does land on your hand, suddenly you become aware of your hand,
+because you have this data pattern, and a bug crawls across your hand, you might, you might, you react
+really fast, you might jerk your hand back, that's the, that's the autonomic nervous system, that's
+sort of, like, out of your conscious awareness, it's, it's doing all these things, it's, it's listening,
+sort of, all the time to new incoming sensory data, well, your hand is a good analogy for a dendrite,
+in fact, it's the, it's, it's a fractal of a dendrite, I'm just gonna, I'm just gonna argue,
+it is a fact that your hand is a fractal of a dendrite, um, I just, I've, I've thought about that
+so many times, I just can't unsee that, and so, like, imagine, like, every single neuron's
+dendrite is essentially, like, a little hand, and we say it's like a tree, but it's, you know,
+okay, but then your hand, your hand is a fractal, like a tree, also, right, think about the,
+the roots of a tree, right, and so, um, each, each part of each of your fingers,
+uh, is, um, when, when you touch each part of each of your fingers, you can go ahead and
+do that if you want, though, that each part of that is, is, um, each touch is gonna be sending
+a pattern to your hand and down, and, and then it's gonna be sending that pattern, uh, along,
+along the, the nerves in your hand, all the way up your arm, into your brain, eventually,
+it's gonna go right up to your, uh, eventually it gets to, to the somatosensory cortex, and then,
+and then, and, uh, you know, that's at the high, that's at the highest level, and, you know,
+there's this whole, like, you know, how information travels, there's a whole chapter about how
+information travels in the brain, um, and I sort of, like, I went into it with, uh, with
+F. Scott about, you know, going, going from, like, the eyes, but then, you know, there is
+this, there's this whole, um, area about how, um, uh, sensory information comes in with,
+with, with, with the audio cortex, and I, there's a lot of, what details that, um, I don't know,
+because I don't, I, I, I, there's 200 years of neuroscience research out there, right,
+is, you know, since, um, since, um, since the, since the late 1800s, you know, the first,
+when, when, 200 plus years, there's, there's, you know, it's, it's, it's older, but it's
+kind of like, you know, I feel like when we start, when we start, when we start, I had, uh,
+Ramon, Kajal, and Kajal, uh, were, were, you know, basically creating the first, you know,
+ink drawings, uh, of, neuroanatomy, of, of how lots of neurons were connected together
+in the brain, um, that, that, um, we kind of, uh, you know, I think that, that really,
+uh, was a shifting point, a big shifting point. There's a lot of historical, you know,
+points in, in the history of, of neuroscience that, you know, we ought to cover from, you
+know, from, from, you know, the first brain-computer interface, like, you know, electroencephalogram
+and, and, uh, uh, hand, you know, with Hansberger and, and, um, and, and so we, we've got to talk
+about, you know, sort of, like, the, the big points in the history of, of neuroscience,
+um, you know, the, I, I'm, I sort of want to skip past, um, the story of Phineas Gage
+because it's sort of, like, uh, it's sort of, like, high-level macroscopic, um, you know,
+neuroscience, sort of primitive, uh, high-level connectome ideas about brain function. I mean,
+there, that, that sort of, like, review, that sort of, like, you know, uh, allows us to
+think about the ventral sciatum and, and the, uh, the amygdala and, and the, um, the orbital
+lobes is a, as a, uh, as being a sort of feedback cycle that we're, where things are, we're, we're
+lower impulses and desires and fears and then you're, are balanced out by considerations and
+thoughts in the orbital frontal lobes. And if you destroy the orbital frontal lobes, you
+may not give a fuck anymore about anything related to, uh, you know, strange, related to
+any of your desires. And you may not have consideration anymore for other people or for yourself or
+for life related to any of your fears. So it's like having no more conscience. It's like, it
+is an analogy, is that there, the idea is that you, is that there is these, these, um, these
+different brain components are sort of, uh, in a, a functional tensegrity. Um, so, so tensegrity,
+tensegrity, tensegrity. Google can't, Google doesn't know tensegrity, but tensegrity, T-N.
+And, whatever. Um, so, um, the idea is that, uh, I really just can't look at the transcript.
+Uh, so let's, um, because it just stops me. I'm like, man, these words are not being spelled
+correctly. The idea is that, um, you know, of one brain area keeping another area in check,
+sort of functional tensegrity between different brain areas.
+But what's, what is interesting also, you know, and, and that affects many different treatments.
+So you have someone who has OCD and, and one of the treatments is, is to become aware of OCD
+to understand the symptoms, understand when it's happening, to identify, be able to think about it
+so that the parts of your brain that are thinking about it in the prefrontal cortex are able to sort
+of regulate and remap the, the OCD. And so you're creating a sort of, uh, a funk, sort of, um,
+like a, like a, like a tensegrity network is like when, you know, so, um, communications network is
+when, which was, I think invented in the sixties or seventies. And it's this idea that when part of your
+phone network, um, is destroyed or taken offline by, it could be during a war or something,
+the communications network automatically sort of remaps, uh, its pathways around that broken node
+so that the rest of the nodes can continue to communicate. And this is, this is considered a
+neuron-like or brain-like, uh, thing, this, uh, tensegrity, uh, feature where, where if, if part of
+your brain is damaged, it could be from brain cancer or, or something, you could have some very
+dysfunctional behaviors. But it's also possible that with therapy, that other parts of your brain
+could adapt and grow and learn to, um, become the functional balance again. So you, so, so the idea
+here is that, you know, someone like, uh, Phineas Gage could have a pole shoved through his
+occipital lobes. He could stop giving a fuck about other people. He may know that, you know, what
+morality is in an intellectual way, but no longer, you know, cares about hurting people and no longer
+cares about, um, you know, doing bad things to others or to himself. He just, he stops having a
+conscience, right? He becomes capable of, of evil that he was, that was, that he was not capable of
+before his, his, before the injury to his front, to his frontal lobes, to his occip, to his, uh, orbital
+lobes, excuse me. Um, and, um, but the, but the principle of functional tensegrity is
+that, um, that, that I think is that, uh, you're going to have some other brain area that, you know,
+it, with the right therapy, some other brain area could grow to fill, to fill in and adapt to the
+damaged part. And, um, so this is, um, you know, I guess it's a better argument for why neuroplasticity
+works than, than, uh, than the argument that your brain creates, uh, then that neurogenesis is, uh,
+is something that happens. Because, because even though neurogenesis does happen, it's not, it's not
+particularly, there's no explanation as to why neurogenesis is going to be relevant to neuroplasticity.
+It's sort of like a leap in logic that, that I don't think is, is, uh, justified. Uh, and, or, nor is it
+necessary. You can say that, that neuroplasticity or your brain, sort of, like, learning something new
+at an older age is, uh, is true. It's true. It's true. It's, you know, with the right therapy, you can,
+uh, um, have improvements in, in your functionality. You know, they say if you, if you have, if you have,
+one of the, one of the things in the neuroplasticity book was if you're, um, if you're, if you're right
+hand, uh, you know, some people, some, some people, like, they had a stroke or something and, and they
+lost, uh, their functionality in their right hand or something, or their right arm. And, um, so one
+of the therapies was, okay, we're going to tie down your, your good arm. So your good arm can't move.
+So you have to use your right arm that can barely move. And, and, and the idea being that if you, if you
+don't do this, if you start to just use your good arm, then, then, then your, then your, your body just
+gets into a situation where it never sort of struggles to, to repair the bad arm. And so the bad arm stays
+bad. But if you bind the good arm down, so you have to try every day to use the, the, um, the, the bad arm
+to accomplish your goals, then, then things start to change. Then the improvement in the function
+of your, of your, uh, bad arm, of your damaged arm actually improves. It's, it's like there is,
+there's enough healthy tissue, uh, nerve tissue that, uh, repairs can start and repairs can continue.
+And, and, and this gets us to a situation where, um, you know, it is possible. We say, okay, well, it's
+possible, but there's, there's, it's not clear why, it's not clear to me, at least, why, uh, neuro,
+neuro, neurogenesis is, is even relevant. Because you, because you'd, because you'd have to argue that
+neurogenesis was, um, somehow essential for new learning. And it's not, it's not, it's, it doesn't
+happen. It doesn't happen that often. And, and we can say that learning, that the mechanisms of
+learning are, are, um, are, um, not completely, they're, they're, they're not totally dependent on
+neurogenesis. They're actually dependent on, on, uh, primarily on, uh, completely other, uh, other
+factors. And that's my argument. So I'm going to say that, um, you know, that, that, uh, you know,
+if, if you're using, if you're using something, then, um, you know, if, anyway, I'm going too much
+into neuroplasticity. You need to, let me just look at this transcript for a second. Okay. So it looks
+like I was talking about Phineas Gage, prefrontal cortex, and the integrity of function. But I wanted
+to get, not really spend a lot of time on Phineas Gage, but, because there's just a whole lot more.
+Thank you.

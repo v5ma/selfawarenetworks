@@ -1,0 +1,162 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0275y You can recognize patterns over decades of time Neurons Pattern Representation
+First recorded: 2021-06-03T08:27:41.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/4648d755-04dc-42d5-9df7-896197b25a92
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So let's say that patterns can be converted from temporal patterns to spatial patterns, and spatial patterns and temporal patterns.
+Let's say that the brain can interchange temporal patterns and spatial patterns, right?
+Or maybe you can have layers that can recognize temporal patterns, and layers that can recognize spatial patterns, and layers that can convert.
+Temporal patterns, a spatial pattern, and vice versa.
+So here we have the word, um, let's say the word word is a spatial pattern that represents temporal pattern.
+The temporal pattern of W-O-R-D is a pattern in time, W-O-R-D.
+It's four moments in time, W-O-R-D, okay?
+But the word, word, the word word, which consists of W-O-R-D, has been reduced to a spatial pattern.
+So the, uh, the spatial pattern is the compressed version that represents a temporal spatial, that represents the, um, the sequence pattern.
+And so when you have several words, so you, when you have several words, when you have several words, several words, and each word in that sentence is a word, each word is a different word.
+So you have, each word is a temporal pattern, and they all add up to one sentence, all the words add up to one sentence.
+So you'd have the sentences all over the place, and all the sentences could be different.
+But the sentence is a spatial representation.
+The sentence is a spatial representation of, uh, sequence.
+Now, let's say that we have a sequence of spatial representations.
+So now we have spatial representations.
+Okay, so a spatial representation is a sequence.
+A spatial representation is a simultaneous sequence.
+Oh, it's like seeing all the different parts of the sequence simultaneously.
+And it's a spatial representation.
+But a sequential spatial representation is a sequence of spatial representations.
+So imagine that each spatial representation can be represented by, uh, 0, 1, 2, or 3.
+Imagine each spatial representation could be recognized by, uh, a vector between 0, 1, 2, and 3.
+A vector that's represented by four numbers.
+Wait a second.
+Actually, no, wait a second.
+No, it's, it's one number.
+It's one of four possible numbers at each interval.
+One of four possible numbers at each interval.
+So it's 0, 1, 2, or 3.
+But it's not like it's transmitting a 0, 1, 2, or 3.
+Okay, so the neuron that is close, it's going to receive, there's, maybe there's a neuron that always receives when it fires.
+Okay, so that neuron could receive it or doesn't.
+So because it receives it, then it's only, um, I'm going to register that it, uh, received one component of a pattern.
+And those are in, um, pre-synaptic, uh, action potentials, or, um, no, not action potentials, but, um, uh, neurotransmitter spikes.
+NDMA spikes.
+So it's like, yeah, if, so no one has to detect, it can detect part of a pattern.
+So a neuron can detect part of a pattern by NDMA transmitter spikes.
+And then if it detects an actual, like, um, if it detects the actual pattern,
+by a certain pattern of NDMA transmitter spikes, if it detects an actual pattern,
+then it can fire to transmit that actual pattern as a, a sequence of bits.
+But the sequence of bits could be, yeah, it could do a sequence of bits.
+It's like saying, I can do, like, a 0, 1, 2, or 3, 0, 1, 2, or 3, 0, 1, 2, or 3, 0, 1, 2, or 3,
+in each note of the song.
+It's like, each note of the song that a neuron can transmit can be, like, I can play 0, 1, 2, or 3.
+It's like, I have, uh, 3 notes or no notes.
+3 notes or no notes.
+3 notes or no notes.
+Like, a piano that has, for each, each one, each, each song can have 3 notes or no notes.
+But it's like, it's not, but, but here's the thing, it's, it's downstream neurons, like,
+they're not receiving anything, like, from that neuron except a 1 or a 0.
+See what I'm saying?
+So it's like, it's like that neuron either fired or didn't fire.
+Okay?
+It either fired or didn't fire.
+It either fired or didn't fire. That's what the upstream neuron is.
+It doesn't know.
+Or maybe it does know, yeah, maybe it does know.
+That one neuron fired and it was a 3, or a 2, or a 1.
+That makes sense.
+But, here's the thing.
+What's happening is this, is you're sending a packet of neurotransmitters.
+Okay?
+Or you're sending two packets of neurotransmitters, or you're sending three packets of neurotransmitters.
+And what happens is, um, the neurons that get hit with the transmitters, that were gonna get hit with, whether there was a 1, 2, or 3, they don't register anything different.
+So it is not a 1, 2, or 3 to them.
+It's just, I got activated.
+Okay, what's different is, if it goes to one physical versus two physicals, that means that more neurotransmitters get pushed out, and they get pushed out, and that means they activate more downstream neurons.
+So it's like, instead of like, you know, so it becomes like, instead of like three people being activated, six people say I got activated, or nine people say I got activated, or thirty people say I got activated.
+But, those activations have to be combined.
+So, um, so that becomes, that one neuron becomes one downstream activation for thirty different neurons.
+But each of those thirty different downstream active neurons need like thirty upstream active neurons to fire on them before they become active.
+Okay, first upstream and downstream again, but the idea is that you have, uh, one neuron could send messages to thirty neurons, and back to send messages to all neurons.
+Okay, but let's say that, um, it sends messages to all neurons, but it gets, its messages get, um, and that would be the difference between a microcolumn and like regional activity.
+So like the microcolumn is learning all these sequences, okay, but then it transmits a high level representation.
+Representation, again, would consist of piano beats where you have one or four different, uh, your different, um, notes.
+It's actually, there's actually four notes per note.
+You only, but you can only hit one note per round.
+But the only reason it is equivalent to one note is because it's like, you can really hit that key, or you can really hit that key, or you can really hit that key.
+Okay, so it's like, yeah, so it's like, yeah, do I mind creating a lot of sound or a little sound?
+And it's registered, sort of like, in a, it's like an amplitude measurement, in terms of how many neurons are getting activated because of that one neuron.
+Thirty neurons.
+And they're each activating thirty neurons.
+Then you could, that makes sense that you have group oscillations, right?
+We're all sort of detecting the same thing from different perspectives.
+We're detecting, like, a fissure.
+We're all detecting this form, but we're all detecting a different part of the form, right?
+So we're all firing in the same pattern, a different part of the same pattern.
+And that's why you're tracking the surface of the phone as like one surface, like one phone, one object.
+And it can move around in your visual space, and you can track it as one object.
+Because everything that's firing gets associated with a neuron that sort of tracks the body of the phone itself, the surface of the phone.
+So you have, like, a whole bunch of, a whole bunch of neurons that are representing pieces of the surface of the phone.
+But then you have a neuron that says all of these pieces belong together.
+And this representation is something that is connected together, associated somehow.
+This representation is associated somehow in different, it's objects segmented from the environment.
+So it can move around in my space, in my visual space, and I continue to recognize it as something else, because even though it's moving, at a higher level there's a reference for it.
+It's a reference frame that can handle the object being in different areas, different places.
+And at a higher level, it should say, okay, well there's a reference frame that is your, um, that is that object in the context, in a more abstract conference, in a more abstract context.
+It doesn't, it doesn't, the reference frame doesn't rely on, on, uh, the spatial properties of that, uh, object in, in one sense.
+It's like, in the sense that, uh, you can hide your phone.
+And so we think about, like, the representation.
+Oh shit, I was saying that they, um, if you hide your phone, like, you can have, like, a conceptual, um, you can imagine your phone in different places.
+Like, without seeing it.
+You can imagine it's above you, high up above, above your nose, below your chin, to the left of your ear, to the right of your ear.
+You're just imagining it flying all over your room, like your phone is flying everywhere.
+And the idea is that, um, uh, your, um, idea is that your phone is going to, even if you, even if you don't see, if you're just imagining your phone,
+that's possible because the representation of the phone itself is in the interneurals.
+It's not in the, like, do you have, like, a representation of reality that is registered by the lowest of the neurons that come into the visual cortex?
+Right? Or maybe, maybe it's in, maybe it's in the eye.
+Okay.
+And in V2, those low-level patterns take on high-level visual patterns, visual recognition.
+So I can see a whole fan.
+Then, and I'm doing object segmented, the whole fan.
+Semantic segmentation is a fan.
+And it's a fan that represents this, um, the semantic idea of an object.
+An object represents the idea that all of these, um, features.
+That is a high-level, uh, representation.
+But it consists of the low-level representations and a map, and a map between the low-level representations.
+So what triggered in the high-level sequence in interneurons is a, is a map.
+It's a map because it's like, um, because it's not, it's not just, it's almost like, it's not just one representation.
+It's a reduced, you get a reduced representation.
+So you get layers.
+So at the furthest layer, you have the most data coming in.
+Right?
+At the furthest layer, the most data is coming in.
+And then, the data that's coming in gets reduced, it gets reduced.
+At least that's the idea.
+The idea is that it gets reduced.
+So we're talking about sparse distributed representation.
+So the reduction is creating, like, a sparse representation of a complex representation.
+But that maps back to that representation.
+And so if you get a whole bunch of similar sparse representations,
+that map back to that representation.
+So let's say that you have smiles everywhere.
+Okay?
+Why do you have smiles everywhere?
+But that one, that reverts it.
+How, reputation?
+Say the fan in the brain represents multiple levels of neurons firing either at the same time or close to the same time in sequences of time.
+So either close spatial proximity or close temporal proximity.
+It's actually close spatial and temporal proximity.
+So it's, it's like, yeah, two patterns fired to the left and to the right.
+If they fire at the same time, that's a close spatial proximity.
+If they fired, um, right after each other, that's actually both spatial and temporal proximity.
+You could have two neurons that are very far apart, fire right after each other.
+And that's a temporal proximity, but it's not.
+But so that is a spatial, that is, um, that is temporal and spatial, because it's still spatial.
+So where the neurons are close, so where the neurons are close together, and they fire one after each other, that's a temporal and spatial proximity.
+But if neurons are far apart, that's a temporal, uh, temporal and spatial, because, because this space is, instead of being close together, it's far apart.
+So, in that sense, yeah, because that is also a pattern, if patterns are far apart, so that means that, yeah, like, if you, if you have, like, um, temporal coincidences that are far apart, those can be learned.
+So you can, on a grand scale, you can still recognize coincidences, like, over decades.
+You can analyze information over decades of time.
+I'm trying to see.
+We have to see.
+We have to see.

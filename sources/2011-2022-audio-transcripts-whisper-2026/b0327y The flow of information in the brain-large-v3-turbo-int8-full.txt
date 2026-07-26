@@ -1,0 +1,1387 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0327y The flow of information in the brain
+First recorded: 2021-03-26T05:48:53.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/b612bace-0639-419d-990a-0f16fd0552f5
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Like, literally, it's like some on-off signal that just, like, moves the leg.
+Like, it's the, you know, like, the robotic leg.
+Anyways, it was just a complete, complete disaster.
+But, so, so, yeah, so obviously, I don't think EEG is the way to go.
+I mean, with EEG, I think the best you're going to get is, like, a click.
+And that's, I mean, I think that's, you can make something now with it.
+Like, if you have an eye tracker, and eye trackers are amazing, you can have the eye tracker be, like, the cursor on your lens that's, like, on your glasses, for instance.
+And then just have an EEG on, like, just a two-probe EEG, just clicking on or off.
+And maybe even control the contrast to see how, like, transparent your screen's going to be or something.
+But, like, I think the real way to go is, I think intracranial PCIs are going to, like, be, like, a thing that people are all, like, all on.
+And I think integrating that with the AR-VR world is just going to be, like, it's going to get rid of our iPhones, and it's just going to be the new thing.
+But that's just my perspective.
+And I had this perspective before I went back to school.
+And so I've been studying neuroscience with the strong intent of, like, finding out how the thalamus communicates to the cortex.
+Because the best way to sort of evoke some sort of artificial perception would be the real way that perception happens.
+So I wanted to learn, like, what's the real way the thalamus sort of sends the perceptive signals to the cortex?
+So I could emulate that, like, electronically or with biosynthetics, which I've been, like, keeping my feet in the world pretty strongly in the same time.
+Because I don't think, at the end of the day, years from now, it's not going to be metal electrodes that are handling this sort of resolution that we need.
+It's going to be, like, bioelectronics.
+Anyways, do you have any thoughts on that stuff?
+Absolutely.
+I have tons of thoughts and also questions for you.
+So, um, so, um, so one of the thoughts is, um, okay, so you know that, um, gosh, I'm still struggling for a full memory recall.
+I should have written this down while I was thinking about it.
+But, um, so one of the thoughts, uh, hang on, let's see.
+Sorry.
+My memory, god damn, today is, today is one of those days when my memory is just, it's just not super great.
+Okay, okay, so we're talking about, let's try to trigger my memory a little bit.
+We were talking about, uh, brain-computer interfaces and EEG and the limitations.
+You're asking about the limitations of EEG.
+That's one of the things.
+What is it, what is the ultimate legal, that is going to, that you, what would, what...
+So let me, let me break it into two pieces.
+Yeah.
+So the future of BCI, let's say, is one piece, and that's, like, the, where you have all the ideals.
+We've figured out how the thalamus is communicating in the cortex.
+We're able to emulate it.
+We're able to use bioelectrodes to just get full, or tons of resolution and get your four degrees of freedom or whatever.
+And then on the flip side, uh, for right now, because if you're going to start a business, you got to, you got to have some, have it do something.
+And so what can you make work now?
+And on that side, you can do stuff with eye trackers and EEG with, like, an on-off signal.
+You could say it's a click, hold down on the mouse, not hold down on the mouse kind of signal.
+And then the mouse movement, you could just use an eye tracker and track the pupils.
+But, like, you know, so, so those were, like, two areas.
+You have the simplistic, like, what can we do right now?
+And then I was also on track with the, like, where is it going to be in 12 years?
+Okay.
+So, um, so here, so I remember now the interesting points that I wanted to make.
+And I, um, and thankfully, while you were talking, I wrote them down.
+Uh, uh, all right.
+So, um, okay.
+So there was this interesting study that just came out where, uh, NVIDIA, uh, they developed, um, a radically different way to compress video for video chats.
+Um, and, uh, this, this, this is, uh, November 19th, 2020.
+Uh, and, uh, the, the story is that, um, they need about, they need a couple seconds of real video.
+And then they're going to use, um, the neural, the neural network to, uh, render an artificial video, um, that can, that's so, it's, it's so good that it can, um, predict all, all of your facial expressions, um, after that first few seconds, um, based upon, you know, just your voice coming through.
+And, and also your head rotating, it can, it can, uh, you know, sort of generate your head rotation and it, and it can be used, you can substitute your face for someone else's face and keep talking.
+And, and, you know, just like you've seen in the, in the sort of online, the deepfake stuff, it, it does all that in, in one simple algorithm.
+And, um, and, but importantly, they basically have, in effect, created a video compression that works, um, with, in 10, in, um, 10, 10 X improvement.
+So it's like, that means that it's, that you need, um, 10 times less bandwidth to do a video call.
+And, and, and so that means that older phone technology that wasn't capable of video calls before because it had, the bandwidth of the network was too slow is now capable of, of, um, uh, of video calling.
+And, and that's, that's profound, that's, that's profound, um, just by itself.
+But then, you know, so, um, what I know about EEG is that, um, just, just from talking to a, a, a very particular, uh, neuroscientist who's, you know, um, for a long time who, you know, he's, he's been a neuroimager for like 30 years.
+And, and he is, you know, like, he's looking at a world where the universities want to fund MRI research because, you know, MRI machines print money and they don't want to fund EEG.
+Um, and, uh, and so you have to argue really hard to do EEG stuff in, in the research world.
+And, um, and, uh, you know, or to get funding for a major EEG project, but he, but he's, you know, seeing and, and has pointed out to me that there's a whole bunch of stuff that's never been done before, um, with EEG that, um, if there, you know, for one example was, um, that, uh, you know, the, the, the, the Chodmine Institute data, um, is this massive collection of data that combines basically, um, you know, eye tracking with EEG.
+With voice tracking, with behavior tracking, but it does so in a, in a way that they've created a sort of standardized, um, data collection and, um, anyone who, who can get access to that data, who, who, um, can potentially extend that data by making sure that they adhere to the same data collection standards.
+And so, um, if you had a massive global project where, um, you asked every EEG research laboratory in the world, um, to start following this exact same data collection standard for EEG, then you'd have something that doesn't exist today.
+Whereas today, you can't combine all the EEG research that's ever been done into a single study because the method, the, the methods of, of, uh, of, and, of, of doing the EEG capture, uh, varied wildly.
+Um, but also in some cases they're poorly documented, um, and, um.
+Absolutely, yeah.
+I've been in an EEG lab before, or actually I've been in a lab that relied on EEG data from other labs and it was just a disaster.
+So my, my, my thinking is that, um, you know, we were just talking, we were just talking about, um, there, there is these, um, there's old, like, you know, there's, there's been these sort of, um, I'm starting to think of them as like added bad attitudes where you, you'll have for decades or more, the entire neuroscience community or, or psychiatry, um, neuropsychiatry community or psychology community will, will have these like ideas that they're all attached to that turn out to be.
+You know, you know, wrong.
+And, uh, and, and, but then, but then like the precursors for what was right was sort of like, was sort of partially there the whole time.
+And, and so then there'll be like these massive shifts.
+Anyway, what I'm, what I'm, what, in, in terms of like, what is the, the ideas that are dominant, you know, like with, with AI, I guess it could be an example of how, I don't know if we need an example.
+I mean, you, I think, you know, this stuff, there's, there's been AI winters where there was, there was a ton of hype and enthusiasm for a certain, you know, for certain kind of AI for, for neural networks.
+Uh, and then all of it died.
+And then there was a ton of hype and enthusiasm for symbolic neural net, for symbolic AI.
+And then that died.
+And then, you know, and then now we're, we're still in the, the deep learning, uh, era, but there's been like, uh, three or four AI winters.
+I'm not sure.
+Um, depending on, um, but, but, and then, and then there's a, I don't know, am I right?
+Okay.
+Let me just pause for a second.
+No, no, no.
+Like he, he's like the only, like, cause I'm a neuro, like bio neuro.
+So he's like the only one who's like on the AI side.
+And he, he was telling me all the differences between symbolic and people were all about that.
+But now deep learning just kind of just massively kills everything else and how good it is.
+But it's not as, uh, it's getting further and further from biological.
+Like the most biological would have been recursive neural networks, but like, uh, for language processing, at least transformable neural networks.
+And I watched the three brown blood, one blue on that.
+So I roughly understand it.
+Uh, like it, you know what I mean?
+Like it, it, uh, you don't need recursive neural networks and highly, uh, analogous to the biological system for it to be good at what it does.
+It was last time.
+So you don't need, uh, you don't need the AI to be close to the actual brain for it to be good at what it does.
+Like the closest would have been like recursive neural networks, but those aren't as great as some of the other stuff around.
+Oh, oh, gosh, yeah, gosh.
+Yeah.
+I mean, I mean, all of that stuff is, is in my, in, in my view is pretty far from the brain.
+I mean, um, I, I guess, you know, like, like, like I, so I wrote this article on my website about, um, a new study that came out about, um, multivesicular release being a lot more common throughout the neocortex with, um, it turns out there's like, people thought this is something that was like multivesicular release or something that was constrained.
+Do you mean MVBs with, um, multi, with multiple vesicles in them?
+Say again?
+Are you talking about, uh, MVBs? Multivesicular bodies?
+Uh, yes.
+So, yeah, we're talking, we're talking about in, in, in the, in the axon terminal, right?
+Well, the axon terminal has, has vesicles and they get released and, you know, with a, with a spike, with an action potential, they, they release, you know, one or two or five or whatever at a time.
+But there's also these things called multivesicular bodies, which is kind of a new thing that people know about.
+Huh.
+So, okay, I didn't know, okay, maybe I, I didn't know this one.
+Go ahead and tell me more.
+Oh, so multivesicular bodies hold multiple vesicles and they'll also take some of the other internal, like, from the inside the cell, the, from the cytoplasm and they'll, you know, cause there's mRNA floating around, there's a bunch of stuff floating around.
+So it'll encapsulate multiple, uh, vesicles, which have the neurotransmitters in them, but it'll also encapsulate some other stuff.
+And then those get released and they're thought to like transfer stuff from one cell to stuff to another cell.
+So like a cell that never had any of, like, should never have RNA from like, you know, like, because this other cell type makes the RNA for it, but not the cell, but it can somehow transfer across cells.
+Wow.
+That's the multivesicular bodies stuff that's, it came out a few years ago.
+Oh, that's cool.
+That looks like there's, um, okay.
+Yeah, that's cool.
+I was just wondering if that's what you're talking about, actually.
+So, um, so no, so I was talking about, um, how, so going back to AI, so, um, uh, what I was pointing out was that the, the, the core, at the core of, you know, basically whether you're doing like computational neuroscience or spike modeling, or you're talking about, you know, you know, deep learning, which is, which is, um, you know, you have, you have the, um, the basic, uh, let me see if I can find my article.
+Let me go to my, my website real quick.
+So SVGN, uh, actually, let me go to VRMA.io.
+That's my other page with my featured articles on it.
+And, uh, it's the article that says, it's called Synaptic Unreliability.
+What is it called?
+What's the website?
+Uh, so if you go to VRMA.io and look at, look at the, um, the article that's called, so under the featured article section, like the third article down says Synaptic Unreliability.
+I'm just going to leave my mic on while I do this.
+Yeah, go ahead.
+Uh, okay.
+Third, at WebAR, Digital Fashion, Synaptic Reliability.
+Unreliability.
+Yeah.
+So, um, so this, this basically, like, um, what, the widespread idea was that, uh, in, in, uh, machine learning, uh, for a long time, I'm sorry, in neural networks was, was an idea that, um, that, uh, a neuron would be summed up by, by a spike, like an on or off signal.
+And then, uh, and then later on they had, and that, that was called, um, uh, this, this, um, this idea was Fundamental, um, wait, wait, this is an, so now we're talking about an AI, a node, right?
+Yeah, we're talking about, uh, specifically, it's called, the positive, the positive, yeah, well, we're talking about both neuroscience and machine, this article is about both neuroscience and machine learning.
+Um, it's, in the beginning, it talks about, um, machine learning, but the rest of the article is neuroscience.
+Okay.
+So, it's only machine learning in the beginning, but, but, so there's, um, there's a concept in, uh, called the, um, why does my, in the, basically the, the model of a neuron, I think it's called, like, a positron or something.
+I'm trying to remember what the, what it's called, not positron, um, it's like a basic, the computation unit in, in, in, an artificial neural network.
+It is a, let me type in the word positron.
+I think it's just neuron, but that just gets confusing when we're going to switch back and forth.
+So, um, well, I think the artificial, I think it is, yeah, it's, no, we keep putting it, but no, positron is something else.
+There's, um, okay, so let's just call it the artificial neuron then, for the sake of, uh, brevity.
+Uh, so, in any case, the artificial neuron was, like, saying that the action potential was summed up, and, uh, and that created this sort of, like, you know, um,
+the probability of, um, of, uh, they're, they're trying to, like, you know, basically, like, simplify, they're saying,
+okay, we need to put this into a machine, and we just need to simplify it, because there's too much complexity here.
+So we're going to, the, the word we're going to, like, you know, cut off the, the complexity is just, we're just going to say, okay,
+everything, they get summed up.
+And so you imagine that no matter what the, the, um, the dendrite is, is thought to have learned,
+if you have to reduce it to a single, you know, on or off, then, then potentially you're losing a lot of information.
+And, and later on, they made an adaption to where, you know, it's, um, like, it, it can, there's, like, um, if it crosses,
+if it, if it's, it's on, but it's above a certain threshold, then you can, you can have, like, a vector
+that represents the, the magnitude above that threshold.
+So they expanded the, the, the depth of, of what, uh, a single neuron could do, what a single artificial neuron
+could, could transmit.
+So its output isn't, is no longer, uh, one or zero, it's, like, it can be, like, uh, something over time.
+It's, um, well, so it's, it's, it's, it's, it's, it's only, like, there's a one or zero in terms of whether
+it's activated, but then beyond that, the artificial neuron has a, is represented by
+a vector, which is just, um, greater or, or less than the, um, it was either closer to, to zero or
+closer to one, uh, in, in terms of, um, so, so, so, so, so it sort of gives some sort of magnitude
+to the, uh, um, to the neural network, but, so, the, the single artificial neuron, uh, output is what
+I was asking.
+Yeah, so the, so the, the, um, well, the output has to, has to stem from, from that, uh, you
+know, whether it's, it's, but basically it's between zero and one, it's, it's, so it's either,
+it's, it's not just zero or one, it's, like, this vector between zero and one, and, uh, so, so, um, so
+it's a little bit more complex, but a multi, a multivascular release, so the rest of the, so
+beyond that is, um, the idea is that a multivascular release, um, could, uh, would make neurons, make
+neurons a lot more, uh, computationally, um, a lot more capable of passing along information
+than, than the, um, than the idea of neurons that are sort of summing everything up in, in
+the, in the action potential in a, in a simplified way, because, because you have, I mean, the idea
+is that, so, so, I mean, the article sort of covers how it works, but, and I'm not sure
+a hundred percent if, um, if this article is correct, because I sort of, um, it's, I'm
+sort of putting together a lot of different pieces of information, but basically, um, I
+put together that, uh, based on other, other research, that it looks like the, the changes
+in the, um, there's, there's research to say the changes in the, uh, for example, in, in
+K, or potassium, are going to change the, um, they're going to affect the amount of, uh,
+um, the, uh, presynaptic K, potassium modifies the action potential amplitude, uh, or APSYN,
+which determines the strength of the synaptic signal, including the amplitude of the post-synaptic
+response, and then that leads to how many, uh, vesicles can be released per action potential,
+which is between, usually between zero and three, I guess it could go to five, as you
+said, but, but the average, uh, number, I was just making numbers up, but yeah, that's
+like, so, so here's what I think you're talking about, so, um, so an action potential is, so,
+uh, cell is at rest, so I get minus 65 millivolts, let's say, for the, our example cell will
+say minus 40, which is roughly what they usually are, uh, then you get the, then the spike happens
+where it just shoots way up, and this is happening because there's channels that are just letting
+sodium in, and sodium being positive, it's, it's going to depolarize the cell, shoot the
+action, am I speaking, like, shit that you already know pretty well?
+No, keep going, I'm-
+Okay, okay, so, like, it's letting a bunch of sodium in, and all this positive charge is
+coming in, and it's staying near the membrane, which is, like, basically shooting the voltage
+up, then you have the voltage-sensitive channels, so that's, like, the positive feed
+back loop, it gets positive, so it opens to let, these are more sodium channels, they're
+voltage-sensitive sodium channels, so, like, as it gets through negative 40, it's, like,
+oh, okay, now we can open, and so it's, like, positive feedback loop, now there's tons of
+sodium coming in, and it's just shooting up, up, up, so it's going closer to zero, and then
+10, 20, it goes up to, like, positive 40 millivolts, but what happens there is you have
+this, these potassium channels, these K channels that open, and start doing the opposite, and
+the reason why you're thinking, wait, this is positive, wait, wouldn't that be more positive
+current?
+Yes, except there's a gradient, and so, while there's more sodium outside the neuron than
+there is inside the neuron, there's way more potassium inside the neuron than outside the
+neuron, so if you're going to open a potassium channel, the positive charge is going to go the
+other way, and basically end up with a net negative charge, it would be, like, a negative
+charge is entering the cell, although it's positive leaving, anyways, so that potassium,
+that K current, is hyperpolarizing the cell back to where it was, and it even overshoots
+it a little bit, and that's called the after hyperpolarization, but the timing that these
+things come on are so synchronized, and so, they're just so fast, it results in a spike
+that lasts less than a millisecond, so these potassium currents start shooting up, and before
+they're even done shooting up, the, I'm sorry, I said that backwards, the sodium currents start
+shooting the voltage of the cell up, and then before it's even done shooting up, the potassium
+currents have turned on and start shooting it back down to the point where you just get
+this super quick spike, and then it goes back down. Now, the result of the spike, the spike
+transmits down the axon, which at the very tip is where the vesicles are, and at the very
+tip of the axon, you have these calcium channels, and calcium is something that needs to come
+in, so calcium is one of the things where there's, like, a gazillion times more outside
+the cell than inside the cell, so if a calcium channel opens, the force that's shoving the
+calcium in the cell is just, soup is, like, the strongest you're going to get, but these
+calcium channels on the very tip of the axon, they're voltage-gated, and they're not going
+to open unless it's super positive voltage, so basically, they only open during a spike,
+so that split second, that one millisecond of a spike that finally reaches the tip of
+the axon gets this calcium to come in, and when that calcium comes in, it binds to something
+called synaptotagmin. Synaptotagmin basically shoves the vesicle into the membrane and allows
+the neurotransmitter to spit out into the synapse, and that's the formation of neural
+communication, so that split, one millisecond split positive voltage that reaches the end
+of the axon allows that calcium to come in. Now, if you fuck with the potassium, and you
+don't let it come on as fast as it would normally, what you end up doing is you end up spreading
+that action potential instead of being just a split one millisecond event, you, by fucking
+with the potassium, you just made that action potential a two millisecond or three millisecond
+event, I don't know, I'm exaggerating, but something super long, right, compared to what
+it should be. So I guess it can last as a maximum of, like, ten milliseconds, right?
+No, I think it's way less. I think it, I think the difference of, like, half a millisecond
+to, like, 0.7 of a millisecond is, like, a huge difference in the terms of what we're
+talking about. But, uh, but yeah, let's just say for sake of example, it's, like, going
+from one millisecond to two milliseconds or five milliseconds, something. Uh, what you're
+talking about with the ten milliseconds is the whole process after it went back down and
+after it hyperpolarized and stuff. That's not, I'm just talking about the, the amount of
+time that it stays very positive, which is the, when the calcium will be let in. So
+if you double that or even make it 1.5, what the normal amount, that calcium will come in,
+so much more calcium will come in, that so much more calcium will bind to the synaptotagmin,
+which will allow so many more vesicles to be released. So I think that's what you're
+talking about with the, uh, by messing with the K, the K currents, the K channels, the potassium
+channels, you're, you're changing the shape of the spike, which you didn't mention, but
+that's basically the result of that. And by making the shape of the spike more spread
+out, it allows enough time for, it's not just one vesicle to get released, but like
+a bunch of them get released, uh, over that much time.
+Because more calcium can come in in more time.
+Because there's, the calcium channels open for longer, yeah.
+For longer. And that's what causes more of the, um, of the, uh, um, the, what is it? The, um,
+the vesicles, more, more vesicles released.
+Yeah. So the, there's, there's sort of like, so before the action potential, let's zoom into
+just the very tip of the axon terminal.
+Yeah.
+Before the action potential, it's just sitting there in what's called a docked state.
+Right. And so you have this vesicle inside the membrane and it's like right up against
+the membrane, but you know, like think of two oil droplets, you know, like if the two
+oil droplets sort of touch, they're gonna, they're gonna like come together and make one bigger
+droplet. Right. So they're sitting there and you have the membrane, this, and then this
+one oil droplet kind of right next to it, but you know, it's like not touching and it needs
+a little bit of force to get them to touch and sort of like bind and then let the, cause
+the droplet holds the neurotransmitter. Right. So, so that the thing that allows it to
+sort of get enough force to push into the membrane is the synaptotagmin molecule. And that's
+synaptotagmin molecule. I mean, it's the synaptotagmin like linker. Don't think of it as
+think of it like a linker. Um, there's other ones, there's other names involved there that
+I'm just skipping, but I'm trying to make this like somewhat comprehensible. Uh, and that
+synaptotagmin needs, doesn't do its job until calcium reaches it. And the calcium has to
+come from outside the cell. Okay. There's very little calcium inside the cell. So that
+calcium channel has to open so that calcium comes from outside the cell, goes inside the
+cell and reaches that synaptotagmin. Okay. But, but that use that duration is usually
+like a split, you know, like a millisecond or less, um, which only allows enough to come
+in to sort of just release like one vesicle or two, you know what I mean? It just, it's
+just enough to release one from the docking site. Okay. But if you left that channel open
+long enough, it would just keep, it would keep doing it and it would release a bunch from
+the same site. Okay. So, so the, um, so, so what, so there was, um, so Peter C, he, he suggested
+that, um, the, the amount of the NDMA receptors, um, I forget exactly. It was many years ago. I read
+his book. NDMA receptors, um, could, uh, be regulated by the neuron or by, um, by neurons
+regulating under other neurons. So to change, um, basically to change the, um, okay. So, so part of
+this was this idea that the output of the neuron would have, would have, uh, would be able to change
+its volume. Like it could, it, um, it would become, you know, neurons can be louder or quieter. That's
+what, that's one analogy. Um, is it, so can I clear acid colorification? So if you're releasing
+multiple vesicles, so if, so every vesicle, I think let's just, I forget if it's 2000 or 3000,
+but let's say 2000, every vesicle has like 2000 roughly, uh, neurotransmitters. So those things
+float into the synapse and then they bind to things, uh, you know, predominantly the receptor
+on the other, on the other cell. Right. But if you release five times that amount, so instead of
+2000, you're getting 10,000, the lateral spread is going to increase to the point where receptors
+very far lateral, which it would have never diffused that far before, but because now there's 10,000 of
+them instead of 2000, now they're diffusing further and further laterally. Uh, you're activating
+receptors that probably weren't getting activated in the normal case. Is that what you're talking
+about? Or maybe? Yeah. Yeah. So that's what I, that's part of what I'm talking about. So it's not
+just, it's not, so, so, and now that the, the neuron is not just passing along frequency information
+and, and frequency information of slightly larger scales as determined by a vector. It's also passing
+along spatial information because it can reach more neurons. Right. Yeah. Are we going to be
+relating this back to machine learnings? Would, would it be like, because I feel like in machine
+learning, all the neurons are connected. Every neuron has a connection to every neuron in the
+other layer, uh, already. So you don't need this. Well, in the current, in the current architecture,
+yeah, that's, that's, um, but, but, but, uh, but I mean, if you were, if you were to add a, a spatial,
+uh, dimension to, uh, to neural networks and you, we would, yeah, you'd have to give them like a sort
+of, uh, they'd have to, the neural net, the neuron would have a sort of like local, a local community,
+and then it would only reach out to other, other, other neurons in the upstream and in the,
+so it would, so a neuron would only talk to some neurons in, in the, in the layer above it, but
+then if, if it, uh, if it could alternate to talking to all of them to, or to, to just, um, to a few
+of them, you could alternate in between. Okay. Yeah. Yeah. That, so, okay. That's where this concept
+ties in. Okay. Yeah. So if, if you made a neural network that like each neuron only talked to the
+10 closest neurons from the next layer, then you could sort of make this event where you have this
+wide action potential and multivesticular release to where instead of just talking to the 10 closest to
+it, it actually spreads out to the like 30 closest or the 20, you know what I mean? Yeah. Um, so, so
+then, um, so then it spreads out and then, um, you know, so the, the, um, a lot of people have focused
+on the, uh, the AMPA receptors, but, but, um, but Peter, um, yeah, TSC, he was saying that the,
+the, his focus is on the NDMA receptors because they can respond with, um, they can respond faster.
+They can react faster, like within, and the, and the, the way they can respond, you know, within like,
+they can vary from like, you know, somewhere between like one and four milliseconds or something like
+that. So they can, they can receive a neurotransmitter and then send a signal or something.
+Do you, do you know more about that? So both AMPA and NMDA receptors can be fast. Both of them are
+very fast. Uh, both of them on the scale of a few milliseconds. Um, AMPA, most AMPA, uh, is just so
+mostly sodium potassium. It's so calcium is kind of a weird molecule in that it's not just making its
+influence through its charge. Calcium has this sort of second influence because it, it can act as a
+messenger. So if Cal, because the cell is so good at keeping calcium out outside of it, away from it,
+that whenever any calcium gets in, it, it's, it binds to things that causes secondary messaging
+signals and they like changes like, uh, phosphorylation and D and what DNA gets coded. So
+calcium is like this sort of unique thing. And so anyways, this, the NMDA channels let calcium in,
+whereas the AMPA channels, everything I'm saying is like a most of the time thing, by the way,
+because there's always this like weird thing. Anyways, the, if we're in general, the AMPA
+channels don't let calcium in and the NMDA channels do let calcium in, uh, but they're very similar
+otherwise. So, yeah. So, I mean, so, so one of the questions I put, cause I did this, um,
+podcast called the Neural Ace Podcast was it was how does a neural circuit repeat itself? So,
+I mean, if, if you could imagine, I mean, so, some, so, so one of the early descriptions that
+I heard of neural circuits, and, and I guess there's a lot of different kinds of neural circuits
+are different scales of neural circuits, just neurons talking to other neurons. Um, if you have,
+if you have, but, but I was imagining if you had a neural circuit that consisted of, um,
+of several neurons that were not directly connected to each other, but you could see somehow with
+medical imaging that, that one neuron over here was firing and then the next neuron over,
+over here is firing. There's no direct connection, but then the next neuron was firing. And then
+you saw maybe, maybe six were each firing in a loop. And so my, my question was, how are they able to
+keep, how is that, you know, frequency pattern able to, um, how could that continue to happen over
+time? How could you have, basically, if a neuron might be connected to, uh, 200 upstream neurons,
+um, and then, you know, or maybe 10,000 upstream neurons, I don't know what the, you know, what,
+what the number is going to be, right? I like to, let's say, stick with 200 for this one. 200,
+200, uh, or 200,000. Um, two, let's say 200. So you have a neuron and it's connected to 200 other
+neurons. Uh, it makes synapses onto 200 other neurons. Yeah. And how does it continue, how does it,
+how would it like, so my question was, how would it continue to, uh, connect to, um, lead to a,
+to a causality sequence where that, where signals from, from the first, first neuron that's in the
+circuit would eventually reach the second neuron on the circuit that's not directly connected.
+And then those signals would somehow reach the next neuron on the circuit, which is also not
+directly connected and so on, because it's, it's, it's, it's almost, it almost implies that the
+signals are traveling along the same path. And, and so, so I, so I asked people, I said, is it
+possible that, you know, that there's somehow the neuron in the post-synaptic, uh, the post-synaptic
+neuron was somehow selecting the signal, um, and, uh, selecting, you know, you know, deciding what
+it was going to, it was the one, it was the one that was going to receive, uh, the certain
+signal type and the other neurons were deciding that they were not. And, and, and, and another
+idea was, was, was, was a selection related to some sort of like electromagnetic property
+where that would, that neuron was, had the lowest possible negative and therefore it, it
+attracted the, the, the, um, the signals that it wanted. Cause I was thinking about, you
+know, there's positive and negative charges, right? And I, I was talking about this in the
+Neuralized podcast and then, and then someone else was like, well, no, uh, you know, in a later
+conversation, I said, basically it's the same distribution every single time. A neuron fires
+and, and all the neurons upstream get exactly the same signal every single time. And, um, and then,
+and then I, I thought, well, oh, and, and then they said, um, yeah, so, so there's no, like,
+there's no selection and, but, but, oh gosh, what was the rest of it?
+Um, yeah, so maybe, so maybe at that point it was like, um, no, okay. So maybe, so if,
+if there's no, like, what I'm saying is if, um, like, like, how does it, how does the signal
+travel from, how, how would a signal travel along a consistent path from, you know, across,
+you know, regions of the brain to, to like a consistently repeating neural circuit? And
+is, is it, yeah. So I don't know if you, if you can answer that. Let me see what I, let's see what I
+followed and then you can kind of tell me if I followed it. Okay. So from what I understand, like,
+uh, you have a group, uh, an area with some neurons and let's say, uh, you're looking at one of them
+and it fires. And then in another area where you're looking at some neurons, you're seeing some
+activation of some neurons there at that, that happened, like at the exact, uh, time difference
+that it would take for the signal to progress to that area. And then maybe a third area. So,
+and so you're seeing a pattern, you're seeing like a neuron from area, or these neurons from area one
+lead to these neurons from area two firing lead to these neurons from area three firing. And,
+and so as far as how exact it is over, like, so let's say in, in for stuff I've seen. So like
+you give a mouse the same stimulus, you give them like a picture of a, whatever,
+who cares? You give them the same stimulus, you wiggle the whisker, the exact same way, whatever.
+Um, that's kind of, the exact same neurons kind of just doesn't happen, but the, um, but, but you,
+the same areas do happen. So you do see like, like 50 neurons in area one fired, and then 50
+neurons in area two in this other second area fired, and then 50 in this third area fired. And so that's
+what people usually report. They're like, so we're, what we're getting is we get, bam, a bunch of them
+fire here, then a bunch of them here. So what we're seeing is area A and then area B and area C are a
+direct result of wiggling the whisker in this exact way. But, uh, I, I, I'm sure there's like
+exceptions, but in general, you, I think it's fair to think most cases, I mean, you could definitely
+think in most cases, it's not like the same neurons firing every time. Definitely not. So, uh, what,
+what's interesting though is, okay. So another thing maybe that's helpful and especially for a lot of
+the computational people that I talked to even in my program, uh, is they always think like things
+are very strongly connected probably because in machine learning that they are, but in, in the
+brain, I think they did some models. And I think typically for one cell, if you'd like counted all
+500 of their inputs, I think it would take like 60 of the inputs or 30 of the inputs all firing at the
+same time to be like enough to get that, that's to be depolarizing enough to get that cell to fire.
+Um, and that has to be relatively within a very, you know, within a couple millisecond window.
+Um, so it's very rare, almost never, you know, maybe there's a couple strong, also there's a high
+degree, very high degree of variability in the strength of connections. So with, let's say a 500
+neurons, you're going to have a, maybe just a couple super strong ones that maybe can almost
+drive a spike on their own, but probably not more than like, you know, 1% of those ones,
+but for the vast majority, they're all going to be like on the average of one 30th or one 50th or
+something of the size it needs to be to evoke a spike in the, in the next neuron. So, so it's very rare
+that like one neuron spikes and then the next neuron spikes because that neuron spiked. Um,
+uh, what's more, a more helpful way to think about it is all these neurons are just caught. Like even
+when you're not receiving any stimulus, the brain's just sort of firing in its default mode and there's
+just so much activity just already going. And so the outside world almost doesn't cause activity.
+It just sort of shifts the activity that's already going on into something else. So, and so the way I
+think it's helpful on a computational standpoint is think of all these neurons are already sort of just
+hanging around near threshold. So it doesn't take a ton to get them past threshold. Um, but they're sort
+of, uh, you know, in vector calc where there's like saddle points and attractor states and repeller states,
+it's, it's almost like the brain is normally like on that saddle or on in the repeller state, like not where
+it shouldn't be stable, just waiting to go to a stable place through any input. And then it, you know, and so
+the, the, the network is always on the edge. Uh, yeah. Yeah. I know that. I know this concept. Um, so, okay. So the,
+the, the next question is the, um, is the, uh, so the dendrite, uh, so the idea here is that the,
+the dendrite is, um, um, you know, in, in Jeff Hawking's, in Jeff Hawking's, uh, explanation and on
+intelligence, a dendrite, the hairs on the dendrite could potentially, um, store temporal, temporal, temporal
+memories, right? So, so the memory. That is a, that is a, uh, like a proposition currently, like, uh, a good,
+like, uh, what's it called? Like a standing, like, like, there's not like a ton of research on it,
+but this is kind of what everybody thinks is the spines of the dendrite, which are these little,
+like, like bubbles on, on the dendrites sort of like hold like the memory of where the input came
+so that it knows, so that way the neuron knows what to strengthen for next time.
+Okay. So then, so then, so that's how the neuron knows what to strengthen. So, so that is,
+that leads to the next question is, is in, and so, um, so the dendrite might, um, you know,
+inform the neuron somehow of, of what criteria to look for. Like, like the idea is it's going to,
+um, you know, change the information it collects is somehow going to go back to the
+NDMA receptors and, and it's going to, you know, change the interval of, of what, of what they'll
+accept between, uh, from three milliseconds to only two milliseconds or to only one millisecond.
+And, and, and so it, it can, so in, in, in the idea is that it could change what the, um, what it's
+willing to listen to, whether it's going to listen to one neuron or, or 30 neurons before it does
+anything. Um, well, well, it's always lists. So the way that it's listening to all the neurons
+is, um, you, you know, so all those neurons have connections and receptors. Uh, okay. So if you look
+across all the dendrites and you say there's like 500 areas where axons from other neurons are like
+right across the synapse from it, all along those dendrites, um, if any of those 500 axons release
+neurotransmitter, you know, those, that, that transmitter is going to bind to the receptors
+and that's going to open channels and those channels are going to get depolarized. So it's,
+it can't really selectively ignore anything because if it, if there's charge coming in the
+dendrites, that charge is going to go towards the cell body and that charge is going to, uh,
+going to, you know, like add up in towards the, you know, and, and perhaps cause a spike. It's,
+uh, the way things are, can be like ignored is, is kind of, they can happen, but, but it's, uh,
+uh, like you can sort of like remove receptors, but that, that type of control isn't coming from
+the, the cell body, like the cell body isn't like, there isn't like some center control,
+like saying what to pay attention to and what not to. So, um, I mean, that, that is kind of the idea
+of, of Peter TSE's book, the neural basis of, of, of, uh, free will is that a neuron can change,
+uh, the, the, uh, sort of like the, um, what, what, what, what, what, what its NDMA receptors are
+receptive to, but you're saying that, that, uh, that, that, that's, that's not, uh, an idea that
+you, that you, uh, okay. Well, not from the, so, so the, let's talk about the things that can change,
+uh, the receptivity of, uh, NMDH, uh, receptors, uh, so they can be phosphorylated, uh, phosphorylation
+occurs from, from, uh, you know, like there, there can be signaling that happens through other
+receptors near it, other like GPCR receptors can, uh, get activated that change the phosphorylation
+in a specific area, but that, that signal is not, um, coming from the center of the cell. You can
+also like express more kinases and that would come from the cell, but the, the kinases are not going
+to be directed. They're going to be evenly distributed across it. So if you upregulate your kinases,
+that's going to just go everywhere. And so that's what the cell itself can control. But if there's
+going to be some sort of local signaling to an NMDA receptors to say phosphorylate these to make
+them weaker or like a ret, you know, have a rest and bind to get them removed from the membrane,
+that type of signaling, I don't know of any way that the cell body, the, the, the nucleus of the cell
+can really control it in a space, spatial, spatial way. Uh, that kind of control is going to come
+probably from signaling happening from other cells. So, I mean, the stuff could be right,
+but I just don't think it would be correct to think about it in terms of like the cell is deciding
+that it would be like the cells in the network are contributing to that results where the NMDAs
+go down. Um, how would the cells in the network can modify the NDMA receptors of another cell?
+Okay. So say, uh, along those are in our example, 500 contacts onto the, all the dendrites of this one
+cell. Let's say like, uh, 10 of those contacts are get, are coming from a certain cell to like an
+acetylcholine cell where instead of sending a glutamate, like most cells do this particular cell
+is sending acetylcholine. And let's say one of the receptors in your cell and in your dendrite
+is a acetylcholine receptor. That's a GPCR. That is a GI coupled receptor. That's going to decrease
+the cyclic AMP in that local region. And because it's going to have that decreased cyclic AMP,
+it's going to lower the activity of PKA, which is a kinase, which phosphorylates. And that
+phosphorylating kinase is now no longer going to phosphorylate this NMDA channel. And so then
+all the NMDA channels in that rough region are now going to like get turned down or turned up.
+Okay. So we're talking about inhibitory action, the inhibitory cells, right?
+No, no, no, no, no. Uh, this is a signaling, this isn't inhibitory, like in the GABA sense
+where you're getting a negative charge. Okay. This is like a signaling molecule that sort
+of sends a signal inside the dendrite and tells the receptors to, you know, uh, sort of, it
+sort of either blocks them a little bit or gets them a little more activated, or it even signals
+to them to like, Hey, remove from the membrane. You don't even need to be there anymore, which
+would decrease the, you know, so the net result is you're right in an inhibitory result, but I just
+don't want that to be confused with, uh, in, an inhibitory, uh, you know, response, which is a GABA
+response, which directly just puts negative charge in it. Like it's a chloride channel basically where
+chloride comes in and makes it more negative, but that's, that's not what I'm talking about in this
+case. Okay. But that happens too. Both of all of those things happen. Um, and, and, and so another
+question is that the, um, how does the, um, uh, so the dendrite, uh, I guess can store, um, with its
+spikes at my store, like, um, temporal information. Um, and is that also, is it also storing spatial
+information? Like, you know, basically like able to set the cell up so that it responds to, um, not just
+30 downstream neurons, but a specific set of, of downstream neurons, like, you know, like neurons
+over, over in, in, in certain regions. I mean, I'm just thinking about like how, you know, there are
+certain, um, you know, uh, cells or cones, uh, in, in the eye that, that might be, that only responds to,
+uh, information moving from left to right, for example. Right. So yeah. Yeah. So how does that work?
+Yeah. So I'm just, I'm just thinking like, yeah, so if you can, so, so yeah, if you could respond to
+that and I'll remember the rest of it while you're talking. Yeah. So I'm trying to remember. So
+there's American, American cells that do that, that left to right thing. And the way they work is
+like, there's this inside to outside, um, kind of thing going on. Basically it's like, it has to do
+with temporal summation. So, so, uh, you only get, so, okay, first I think it's best to clarify that the
+action potential, you know, only it starts at the cell body and it goes down the axon. Uh, the, in the
+simplest way to think about it, it, it sort of doesn't, the action potential doesn't go up the
+dendrites at all. It's just like you add up all, so charges come in from the, in these little skinny
+dendrites and then they sort of travel down and it's, you think of these dendrites as a leaky hose,
+right? So if you shove a lot of water in it, which is voltage, uh, you know, if you shove enough
+in it, you know, enough will get through the other side and not leak out the hose, right? You know, if
+you stabbed a fork with the, you know, stabbed a hose with a fork a bunch of time. But, uh, so whatever
+makes it, so now you have all these hoses and they're all sort of plugged into the same thing at the
+end. And what you're trying to do is get enough water in at the end at the same time. And if you
+get enough, then it like has a burst, right? It like, and that burst is the action potential.
+So the action potential is only happening on the opposite side of all the dendrite, leaky hose
+dendrites. Um, which, you know, in reality, there's some that you, for the sake of thinking
+about it, just consider this to be like roughly true. Um, so, so the, um, sorry, I lost my train of
+thought. Well, so if the dendrite hairs are storing a temporal, uh, memory, um, then they
+would have to somehow, that memory has to, um, be triggered on sometimes when vultures is being
+received, but not every time when vultures is being received. Otherwise it wouldn't have any
+meaning. Yeah. But the, the, what, what the difference is every time is the, um, if you're
+only looking at 10 of the inputs and sometimes they're, it's causing it and sometimes it's
+not, the difference 10 usually is the other 390 inputs that you're not looking at, you
+know? Um, so, so let me finish. I remember where I was going. You, you asked about left
+to right. So, so the way that that works is imagine. So let's say there were 10 dendrites,
+so 10 leaky hoses, and you can shove in water at the very tips of all 10 of these leaky
+hoses. Um, and, and if you get enough water to the center where they all meet at the same
+time, it would cause a spike. Now, this is how you could get left to right sort of, uh,
+firing. If the hoses on, on one side were gradually longer than the hose. So imagine
+the rightmost hose is 50 feet long. Then the, then the second one is 45 feet long. And the
+third one is 40 feet long and the fourth one is 35 and then 30 feet. And so, so all these
+dendrites are different sizes. All these hoses are different sizes. If you start putting water
+in the longest hose first, and then a split second later, you put it in the second longest
+and then a split second later, you put it in the third longest and so forth. Then at
+the end of the day, all of those water will reach the center point at the exact same time,
+which will be enough to get it over the threshold and to communicate, Hey, fire now. If you do
+it in the opposite order and you put water in the shortest hose first, and then gradually
+put water towards the, you know, get go to its longest hose. What will happen is water
+will reach it and leak out, reach the center point and then reach out, uh, leak out. And
+then the next, the water from the other hose, the longer hose will reach it next, but it
+is basically, they don't add up all at the same time. They don't reach it. Basically the
+voltage all has to kind of get there because all of the stuff is super leaky. So, so it
+has to all get there at the same time to cause a spike. So if the organization of, of the
+dendrites are such that, you know, you're going, they're longer on one side and temp tapering
+to shorter on the other side, it's only going to work in the left to right direction, but
+not the right to left direction. If you know, if, does that make sense? It'd be easier to
+draw the picture, I guess. No, no, I, I got it a hundred percent, but, um, but so, so
+then I wanted to ask you how, how dendritic spikes affect this, this equation.
+So dendritic spikes are, are actually the thing I was telling you to ignore. So, so in
+the, in the neuroscience 101, where you don't learn about dendritic spikes, it's just axons
+that spike. The spike starts at the soma, uh, which is the center point, and then it propagates
+down the axon to the axon tip and then vesicle release. But in reality, if there's a spike
+that's going to start at the soma, even though the vast majority of, uh, uh, of the energy
+is going down the axon, there's, it's so powerful. There's still a little bit getting pushed the
+other way too, right? Like when you, you know, when, when, uh, when two rockets are attached
+in space and one super heavy and one super light, the light one's going to shoot off super
+far, but the heavy one's still going to like have a little bit, you know what I mean? So
+like the, the spike is sort of going in the opposite direction too. And that causes what's
+called a back action potential BAP, uh, it's, and back propagating, yeah, back propagating
+action potential. And, uh, that, that is, that is one component of a dendritic spike. There's
+this other component of it. And then, so because there's these voltage gated calcium channels,
+which are very similar to the ones on the tip of the axon that let the calcium in that
+let the vesicle release, but there's very similar channels also on the dendrite. Um, and, and
+they can sort of add up and sort of propagate in a, in a, you think about of an op amp with
+a, with a feet, a feet forward, you know what I mean? With a positive feedback gain kind
+of thing. And so, so, and actually NMDA channels can contribute to this. So there can be, but,
+but not every cell has these really, it's mostly layer five pyramidal cells that have
+these, but, uh, yeah, so there can be, um, dendritic spikes, which are very different than,
+than normal, than the classic spike that we're the classic axonal spike that we always talk
+about. These dendritic spikes can happen actually both, uh, through calcium channels in the forward
+direction in those layer five pyramidal cells. But in every cell you have those back propagating,
+uh, action potentials where it's happening in the SOMA and going backwards. And so I think a lot of
+what we were talking about is trying to define this, uh, thing called, uh, spike timing dependent
+plasticity. Um, and like how it assigns credit because in Hebe and learning, you have this idea
+where, you know, fire together, wire together, um, where if, if one neuron caught, like sort of caused
+the spike of the next neuron, then that strength should, that synapse should be strengthened. Whereas
+if it didn't, it should be weakened. And so, uh, this, the idea is like, if it goes neuron one,
+then two, then that neuron one probably caused it and thus it should be strengthened. But if,
+if the post-synaptic neuron fires first and then the pre-synaptic neuron fires, then, you know, that
+pre-synaptic neuron didn't contribute crap to the first one firing because it's the first one, or sorry,
+to neuron two to firing because that it, it didn't, you know, it didn't fire before it. So it couldn't
+contribute to it. So in that sense, it should be weakened. And they've even showed, uh, moving
+Cohen's lab has showed like that, you know, the closer one fires before the other, the more the synapse
+gets strengthened. And then if it happens in the other direction, the more it gets weakened,
+plain stuff. And the way they've explained it is, is, uh, through, we were just talking about like
+with assigning sort of the credit to the, to the dendritic spine through this sort of calcium,
+um, signaling and back propagating action potentials. Uh, and, and, uh, I think Raphael
+used, uh, probably has some good, uh, explanations of it in his book called spines, but, but,
+uh, but yeah, sorry, I probably went too far all over the place there.
+No, no, no, you, no, you didn't. Um, that was really great. That was, um, so what was
+interesting is, okay. So, so Jeff Hawkins was, uh, in his book on, um, the new book, uh,
+a thousand brains, he was saying that, um, he thinks the, the dendritic, um, spike could
+be how the neuron is predicting that it's going to fire. And in addition to everything
+else you said, do you, do you agree with that? Yeah. Like a dendritic spike, uh, well, the,
+well, first off the back propagating action potential, that dendritic spike only happens
+as a result of the neuron already firing. But as far as what you're saying, if it can, uh,
+be a large factor in causing the axonal spike, then you're talking about a forward dendritic
+spike. And those, yes, in the cells that have those in the layer five pyramidal cells, yeah,
+that those are huge, huge contributing factors. Usually, yeah, usually you need, usually you
+need that plus like a little bit of something else to get a spike. You're, you're probably
+not going to get, it's probably going to be difficult to evoke spikes without that, that
+dendritic spike. So, so that was, that was, that's sort of like Jeff Hawking's basis for
+how a neuron is predicting that it's going to fire without actually firing completely.
+Um, and, uh, thank you for like, and, and then, so I also wanted to ask you, so I, so when
+I asked about dendritic spikes, you, you answered a question that I wanted to ask, but I, I, my,
+I was actually asking about dendritic hairs and how they affect voltage hoses.
+Spines. Yeah. The, the, the hoses are like the things that I was calling dendrite hoses.
+Yeah. And then the hairs are actually called spines, the dendritic spines. Spines. So I
+said spikes instead of spines. And, uh, you answered a second question for me before the
+first question. And hopefully it doesn't delete the first question from my memory, but I'm
+just kidding. Uh, so how, so how would the dendritic hairs affect the, the voltage of the
+hoses? Would that, would that cause the, would that mess with the order of?
+Well, actually maybe I should make sure you mean spine. So by dendritic hairs, do you
+mean like the, the length of the dendrite or do you mean the little tiny points on the
+dendrite? Those are spines. Those are the spine where the connections sort of happen.
+I meant the, yeah, the, the, the points on the dendrite, not, not the length of it.
+Okay. Yeah. So those are, uh, dendritic spines and, uh, not most, okay. Most cells have
+them, not all of them. Most neurons have them. Um, and how, how does, how does that
+affect, how do the spines affect the voltage going through the, the, the dendrites themselves?
+Yeah. Because that what you're asking?
+Yeah. Yeah. Because, because, you know, if voltage, uh, if, if voltage travels through
+different materials, it changes how fast voltage can, can move through a material. And if there's
+more material that should slow it down, right?
+Yeah. Okay. So, um, wait, what's your,
+your background, you have like physics background, right? Can I just talk about VI equals IR type
+stuff with you or like how, how, what, like, um, I V equals IR. I I'm not, uh, I can, you're
+just, I can hang with you. I can hang with you a little bit. You gotta be, you gotta use too
+many acronyms.
+Okay. Uh, so you're like CS mostly, right?
+Yeah.
+Okay. That's good. That's good. It's just good for me to know which, which thing you are.
+I have, I've got a lot of, a lot of neuroscience and a lot of CS.
+Okay. Cool. Cool. Uh, so, um,
+And some physics, some, some astrophysics, some, some quantum, but not, but not as much as,
+as other experts out here.
+Okay. Okay. So, um, so, okay. So let's just give some background. I think it was, this was best put
+in, uh, Tim Urban's intro to Neuralink thing, that 80,000 word thing. He, he, you've read
+that, right? Or have you read that?
+Oh, what was it called? Tim?
+So Tim Urban wrote this sort of introducing article for Neuralink when they just came out,
+uh, on his website, wait, blah, blah. And I think he titled it like the brain's magical
+hat or something. It's, it has like a picture of a wizard hat. And he basically, so, so, so,
+uh, the bit, the Silicon Valley is just full of like CS people. Right. So, so, and then
+Elon Musk like putting up this like neuroscience thing in the center of all these tech people
+who don't know what the fuck it's even for. So, so basically Tim Urban wrote this amazing
+article. It's huge. It's like the, it's the same size as like reading a chapter in a book.
+It's 80,000 words, probably like reading 30 pages or something, but he basically condenses
+a Neural 101 class, basically like a two semester class. Like, like literally I remember
+reading it and being like, damn, I didn't have to spend a whole year in, uh, in intro
+neuro. I could have just like read this article and got the same rough idea. Uh, you know,
+um, anyways, I think this is his, I might, this might be from my intro textbook or it might
+be from his article. I can't remember, but you can sort of think of, so yeah, the dendrites
+are leaky. They're like, if you took a hose and you stabbed it a bunch of times with a
+fork and you're trying to shove water on one side, it's going to like lose a bunch of
+water by the time it gets to the other side. But you can also like duct tape the holes and
+then you can keep a little more pressure, you know, keep the voltage lasting a little
+longer. So that's something called the length. The length constant is like how far you can
+get the charge to travel. And then the time constant is like how long it takes for that
+charge to leak out of the holes. And these things are dynamic. You can actually plug some,
+so there's certain holes in the dendrite called like, uh, inward rectifying potassium channels
+or whatever. And so these can act, you can actually shut them. You can send one of these
+signaling molecules I was talking about and sort of just close them all. And then by closing
+them all, you're allowing, uh, less you're, you're plugging the leak. You're sort of like
+duct taping the holes and allowing charge to travel further and leak out slower. And thus,
+uh, the same signal that was weaker, you know, that, you know, was a weak signal because you
+plugged all the, the, the holes in the hose kind of goes further down the hose, you know,
+and the, and the, so, so this is dendrites, right? So, so basically these dendrites can
+be dynamic in a way. So the dendrites can be very leaky or you send some signal, it gets sent
+some signals to it. And then the dendrites become less leaky and now they can transfer charge
+even further. And, and, uh, so normally let's say it would take, you know, in that area, it would
+take like, uh, one, you know, one neuron to spike a bunch of times and a bunch of other neurons
+spiking a bunch of times and them all happening at the same time. So you really need like 15
+inputs to all happen at the same time. And that's barely enough to get push enough charge down to
+the Soma. But if you plug up all these holes, instead of needing 15 inputs all at the same time,
+maybe it'll make it with like nine inputs. So that's the, that's one component of how these
+dendrites are, uh, dynamic. So you can sort of plug the leakiness to them. Uh, uh, the spines is the
+other thing. Okay. So all these inputs are coming in at spines, which are like these little bumps.
+I honestly, there's pictures of all these things in Tim Urban's article too. So like you could actually
+see pictures of spines. Um, and, and he uses like tons of analogies every, like in everything. So,
+and they're all great, you know? Um, I did read his article a long time ago. I just had to look it
+up to make sure, but, um, yeah, it's in front of me right now. Yeah. Yeah. I read that thing. Like
+I, I told my like sister who's like not even a nurse, she's like a physician's assistant to read it,
+you know, like, I, like you, but I think it's mostly directed for like, for like tech people who
+don't have any neuro background, uh, but like who, who know tech, you know? But, uh, so, so, uh, the
+spines are where the inputs come in and the, uh, so, and the inputs are these channels that, that let
+mostly sodium ions in and that those sodium ions depolarize that area. Uh, and the skinnier the
+dendrite is that the more resistance it has. So like some small amount of current actually causes a
+really large voltage in these skinny dendrites, but then once it gets spread out across the
+dendrite, it's sort of like, it all ends up the same. It all just ends up being this charge that
+accumulates and maybe increases the voltage a little bit. So it usually takes a lot of,
+of voltage to cause a spike. And then the, the signaling of like, how do we know what contributed,
+which, which inputs, which receptor areas contributed most to the spike? That's not known,
+but the way it's hypothesized now is, is through these spines. So like if there's signals coming
+in and the spines and there's also these calcium, calcium buffer proteins, and if there's these
+calcium channels going in and it holds calcium enough in those spines for just long enough. And
+then a second later, the cell spikes and sends a back propagating action potential. So now that area
+that got the input now knows that there was a success on the other side, you know, like,
+Oh, we got it to spike. And so maybe it gets that signal from the back propagating action potential.
+And because it still has calcium sitting in the spine together, it's like, it like somehow signals
+that spine, like, Hey, we did it. You should strengthen. Uh, but, but there's no sort of control
+from the cell. That's like, Hey, it was that spine over there. Let's go strengthen. That's fine.
+It's more like that local area is probably holding some sort of information. And probably the idea
+right now is like, maybe it's calcium is being held in the spine. And then if a split second later,
+you get this back propagating action potential, that's the success signal. So the spine kind of
+knows, Hey, we did it. Let's strengthen. And then the way it would strengthen would be like,
+let's put an extra receptor in there. Let's put an AMPA receptor. Let's add another AMPA receptor,
+uh, you know, which will allow, which will just be another input in the exact same spot. So it'll,
+it'll be like two receptors are now there that can, that can, uh, open in response to the
+neurotransmitter across from it. Okay. So let me get, let me get this right. So I, so I thought
+that, that, um, uh, that's, that spines increased and decreased in number, um, rapidly, like all the
+time. Uh, they get like bigger and smaller. And, uh, uh, uh, so this, this receptors on spines,
+the receptors on dendrites, it doesn't have to be spines, but yes, off, uh, many times on spines,
+um, they are constantly getting extra implanted in the membrane and getting removed from the membrane.
+And so, uh, spines also are dynamic, but I don't think you should, as far as, uh, I don't know if
+the, if, uh, it's worth talking about the function right now at this level of the spines being at,
+uh, getting at it or not, because that's a slower process. The spines growing towards a new,
+so it's like if a new axon is coming in and now it's this new cell that it, you know, it's this new
+connection that it hasn't even been made before, then maybe a new spine will grow out to meet it.
+But that's like more of a long-term plasticity thing. That's not like on the terms of likes,
+you know, right now we're talking on the scales of like seconds, uh, milliseconds, seconds, and maybe
+like a minute or a couple of minutes, whereas spine growth is more along those maybe hours or days,
+you know what I mean? So maybe let's skip the spines growing and, and not growing for like,
+just right now. Okay. So, um, so we have, uh, uh, receptors changing on the, on the, on the order of
+either millisecond scales or minutes, um, on. Yeah. Let's just say seconds since that's a good
+middle ground. And then, and then, and the spines might be, um, added or removed, but it's on, it's on,
+it's in terms of hours or days. It's, it's much longer period of time. Now, um, are the, are the
+spines, uh, when, when long-term potentiation happens is, does that part of the process of
+spines getting added or removed? Yes. Yeah. The LTP is, it's first you would see more channels
+getting put in there. So you'd get more AMPA channels, maybe more NMDA channels. And then
+if you're put, putting in a bunch more, then you're probably going to get some more spines
+to meet new connections. Uh, but that's going to be slightly slower. I mean, I say milliseconds and
+seconds and then seconds and hours. I don't actually remember the precise, uh, uh, scale of
+time, but like that in relation to each other, that's what they are. Okay. And then, uh, so when,
+when protein synthesis happens, uh, is that, um, also, uh, so that, so long-term potentiation,
+protein synthesis is a part of it is, can you, can you explain how protein synthesis might be
+connected to spines being added or removed? Uh, so I don't, that's, I don't know the proteins
+involved in spines being added or removed. I know, uh, yeah. So calcium, calmodulin, uh, complex can be
+like a signaling thing that initiates that. Um, and I don't know the details. You're going outside of
+my, okay. And then I, this is, I'll just like, I'll highlight this as a research, uh, area.
+Uh, awesome. And then, um, thank you. Uh, I have more questions. I don't know how much more time you
+have, but I, I, I, I just thought we were going to end up going back to BCIs at some point.
+Yeah, we, yeah, um, yeah, we can. So, um, uh, but I mean, I, you can keep asking me stuff for now
+till, till you run, till we hit a dead point and then, and then we can, I don't know, however you
+want to do it. So, uh, okay, let me just look over my, the notes that I've typed out here. So,
+cause you. Oh shoot, I should have, somebody was raising their hand. I should have called on
+them. I think they left. Oh no. Okay. Whatever. I didn't even notice cause I was looking at my notes.
+I noticed a second ago, but I wanted to finish my thought before I brought, uh, anyways, yeah,
+they're gone. Uh, okay. Let's go back to your question about, um, uh, the, the BCI. So,
+so you wanted to talk about the thalamus, right? Well, were you the one that had brought up artificial
+perception before? Um, yeah, yeah, I was. Okay. So that's something I've been super interested in.
+Um, so, you know, in the, you, you can, uh, in like the AR VR or in VR world, you can solve all
+the visual issues for artificial perception, but then you're missing tactile and, you know,
+auditory and, or no, I guess auditory, but you're missing some stuff, right? You can like put
+yourself, you can wear these gloves that put pressure on things. So it makes it feel like
+you're touching stuff. But what if you could connect in a way where you can just input the
+perception right into the neural activity? I think we were talking about like broccoli one
+day with some guy, right? And somebody didn't believe that you could like imprint broccoli
+in your thoughts. Yeah. Yeah. That's, that's my, that's my example that I, um, I, I, I came up
+with that and, uh, talked about it in the Neural Lays podcast. The idea that, that broccoli, um,
+uh, you, that, that it might have, uh, temporal spatial patterns that are characteristic enough
+that even if your brain was organized completely differently from someone else's brain,
+they could consistently recognize the temporal spatial pattern of broccoli and you could consistently
+recognize the temporal spatial pattern of broccoli. And so you could both talk about broccoli
+and understand what each other was talking about and talk about the properties of broccoli
+together. Um, even if your brain was formatted differently. Um, and, uh, so, so let's just break
+this, break this down into something, uh, half as complex. What if you were just, uh, watching,
+what if you just wanted to, uh, taste broccoli? And so you didn't, you don't need to know what
+somebody else's taste of broccoli is. What if you just wanted to imprint, but let's like,
+let's do something a little more palpable actually. Let's say you wanted, and actually
+this is already a prop, an issue in, um, in prosthetic devices. So let's say you have, you're
+missing an arm, but you want to give the sensation that somebody touched your hand and you're missing
+arm. And I think this, this sort of, uh, this is totally like, it's a very similar issue.
+It's like, if you don't have, if you do have an arm, what if you just want to input the sensation
+of somebody touching your arm directly into the, uh, sensory region for arm and your brain,
+you know, instead of broccoli, let's use that. And so that way you're not translating what it feels
+like for somebody else to be touched and what it feels like for you to be touched. Let's just say
+like, I want it to feel like somebody tapped on my wrist, um, without somebody tapping on my wrist.
+Uh, that's sort of like, I think a simple, like artificial perception issue. Um, is, do you follow,
+like, does that, is that close enough to the broccoli example for you? Yeah. I mean, uh, so, I mean, I,
+so, so, so I, I, I lost focus a little bit. Um, but, um, are you, say, are you basically saying
+that if we, we going back to, I think we talked about this the last time that if you, if you stimulate,
+uh, neurons that correspond, uh, or areas of neurons that, that, that correspond to, um, that
+stimulus that's going to reproduce that, that, um, that sensation, is that sort of where we're
+going here? The artificial perception? Yeah, exactly. Yeah. So if you, if you look at the area
+of the brain that, uh, transmits that, okay, so, so that the area, so that information gets
+transmitted from the neurons in your arm, it goes up through your, your brainstem, it makes one stop
+there, and then it goes to your thalamus where it makes its second stop, and then from the thalamus,
+it goes all across cortex. So what I've been interested in is seeing how, and then, so basically
+everything kind of goes through the thalamus, uh, not smell, of course, but like everything I'm
+talking about here. So what if I could just decode, what if I just could decode what's going on in the
+thalamus and then risk, and then, uh, sort of copy that in. So basically like, okay, whenever you touch
+the wrist, it's like, it's a pattern of like these 700 thalamic neurons and it goes like these 40 and
+then right after it's these 20 and then these 50 and then these 10 and these, you know, it's like this
+pattern. And then when it activates in this way, uh, you know, those thalamic signals get out to
+cortex in this pattern. And so, but, but, uh, you, you figure out like what the pattern is and, and
+there can of course be variability and it's still going to feel similar, the same. And if you can
+reciprocate that, that pattern back onto the, the thalamic outputs, then you can basically evoke
+that artificial, uh, perception. And, and I mean, Neuralink talks about this in their stuff.
+They're like, yeah. And then you can even add in perceptions. Like we can only see red and purple,
+but what if you could see ultraviolet? And so you could do that, you know, I mean, so you, you can add
+to this, uh, so yeah, so, um, for, I mean, we, so I, I talked about this in the Neuralink podcast,
+which was, um, years ago. And, um, you know, yeah, it was, uh, we were, I was doing the Neuralink
+podcast before even Neuralink existed and, and, uh, and talking about this. And so, um, the, yeah,
+so the idea was that, uh, I, I, I brought this up to David Eagleman, a neuroscientist, um, once
+at, at a, at a meetup. And, um, and I said, uh, something like something to the fact that,
+um, if, you know, since you're, since you're, you know, you're the idea was that, uh, well,
+what if, you know, I guess it was, it was an idea of like, well, what if, um, your thalamus
+is like, is like your, your camera? And, uh, you know, like if you're designing like a
+VR program and your, your thalamus is your camera and your, and the neocortex is, is
+the environment that's, that's rendering the image. Right. And, uh, so, so the, the stuff,
+the stuff comes in. And so we, it goes, it goes to the thalamus and, uh, and that's, you
+know, you get, you get to, uh, observe this stuff. Um, but, um, but actually it's like the
+eyes are the camera and the thalamus is more like the wire. So you can still get the
+in, you can still get all the info you need from the thalamus. If you can just hack into
+the wires, you know what I mean? Like, like the, like the detect, like the light detectors,
+the camera lens, it's like the camera and the lens itself and the photo detectors are like
+in, are on the eye. But like, if you can take the, but then the camera sends an electronic
+signal out. And so if you can cut off the signal halfway in its tracks and then just pump
+out the signal, um, you know, on the other side, then, then that's the same scenario.
+Right. Yeah. And I feel like that's the thalamus kind of. So, so, I mean, I felt that, I felt
+that the, uh, the thalamus was kind of like, um, uh, you know, a point where you, let me see
+if I can sit up for a second and just like really think about this. Um, that the, the thalamus
+was like, um, a point where you could, uh, intercept the signal and, uh, you could, um,
+let me just, uh, let's see. It would be like, um, okay. So, so it's, it's kind of like, so,
+so instead of needing to study like every single part of the neocortex to decode the brain,
+if you could just stick a microphone to the, up to the thalamus itself, then you might be able to
+decode what a person is thinking about across, across their brain. No, no, not thinking about,
+not at all. I think the thalamus just gets you the sensory inputs. So it's like, it's like, uh,
+So seeing, seeing and hearing, right? So neural, okay. So it'd be the equivalent to, uh, if you have
+a neural network and, uh, and you feed it like an image, right? And the image all goes to layer one
+of the network. Imagine if you could just record all of what happens in layer two of the network and
+say, you know, it's a 20 layer network. If you can just reciprocate layer two next time, um, it
+should give you the same out. You shouldn't have to show the network, the image again. You should
+just be able to plug in all the values for layer two and then it, it should sort of like, if it
+decodes like dog or cat, right? So if you basically, instead of showing it a dog or cat, what if you
+just knew what the, uh, layer two weight, uh, not weights, the layer two values were for dog, for a
+particular dog, and then you just put them in. Then you now, uh, now the network will, will think dog,
+but you didn't even have to show it dog. I don't know. Maybe that's not basically. So you're not
+knowing what all, you don't know all the, all the thoughts are happening in the upper layer. You
+know, they're happening in layers three, four, five, six, seven. If we're analogizing to, to machine
+learning, uh, to AI, um, all the thoughts are happening in the, in the upper layers. The thalamus
+is sort of like trying to just, just grab what the inputs were, you know, without having to look at
+what the, you know, like the screen. So I, I guess one of the questions that I really wanted to ask
+you, um, had more to do with, with your exploration of the thalamus and how signals travel. So, I mean,
+I obviously I've, um, um, well, and that's not, not so obvious, but you know, I've, I've, I've taken
+Cop Nero 101 and, and they talk about how, you know, the, the, the photon might bounce off your,
+your eye and, and, uh, eventually a signal might travel, um, from your eye along the optic nerve
+to your thalamus and then backwards to the, to the neocortex, to the, to the, um, uh, to
+the, uh, what is it called? The, um, the cortex in the back of your head. Yeah. B1 in the occipital
+lobe. Yeah. But, um, but I wonder, um, there's a lot more detail than that. So do you, would
+you mind maybe like just describing cause you, cause then you, I actually, I thought
+what is conventionally thought of that the, uh, that the, the, the note, the, the gustatory
+system didn't travel to the thalamus, but you found out that one of five pathways do.
+Well, everything. Yeah. So the, yeah, it doesn't, so everything has to go through the thalamus
+before it reaches cortex. Um, yeah, except the olfactory system, the, the smell, the smell,
+has five paths and, uh, and none of the, so of the five nuclei that none of them are the
+thalamus, but one of those five nuclei does go to the thalamus next. So basically in, once
+the olfactory bulb, you know, goes to piriform cortex and olfactory tubercle and all these other
+places, I forget which one, maybe it's the tubercle or something. Then that one goes to
+like anterior dorsal thalamus or something. So the thalamus does get like a copy of the
+information, but it's not the sole router of the, you know, it's not the, it's not the telephone
+operator for, for smell. Okay. Whereas all the other senses, you know, it is like all the other
+senses, but before it goes to cortex, it has to go through thalamus. Okay. And then, um, so,
+so what part of the brain does the, um, uh, do the, does the agusatory system connect with?
+Olfactory bulb. Yeah. Uh, that, so smell, I don't, that's not my area, but it, it, the, the primary area
+that's studied is the piriform cortex. Okay. And then, um, okay. So then, um, so, so information
+comes out of the thalamus, right? And it goes. Yeah. So let's, so let's ignore smell. And so like
+for all the other modalities, yeah. So you get touch, you get taste, vision, hearing, all that
+information comes through like the, the receptors on the outside of the skin and the ear, uh, you know,
+like everything there's, it's like these sensory transducers basically. And then they make, you know,
+they go through the spinal cord or wherever they go through and then they go up to the thalamus
+and the thalamus is sort of like the center station. And then from the thalamus, it just like
+goes all over the core. It doesn't like, once it gets to the thalamus, it no, it no longer follows
+that sort of, we go here and then here and then go here. Um, it's sort of like spreads, it sort of starts
+spreading out like in a, in a way where it's not, it's not that useful to start saying, to keep the
+hierarchy going, you know, I mean, there is some degree of hierarchy, but, uh, it's no, it's not as
+strict as it was before it reached the thalamus before it reached the thalamus. It was very stepwise,
+like all the signals go here and then they, and there's not much, there's not like a ton of
+computation decoding it. It's sort of like just goes there and then gets passed on. There's not like
+a bunch of, uh, algorithmic computation going on, but then once it reaches cortex, now you have all
+these computations going on. So it sort of doesn't make sense to try to hack what the cortex is doing
+because it's so complicated. But if you just want artificial perception, what makes more sense is
+just find out what the input is before the cortex even got it and then copy that. And that way you
+don't have to figure out the, you know, thousands of years of research that it's going to take you
+to figure out what the hell cortex is doing. If you can just grab the signal beforehand.
+Right. But, but what I'm saying is, is, um, so yeah, so I remember now with the Neuralase podcast,
+we were saying that, um, uh, decoding the signal on the thalamus, but also, um, uh, stimulating,
+stimulating the thalamus directly to, to reproduce the, um, the signal right there because then it would,
+then it would just be carried to the rest of the neural network, right? That was, that was the idea.
+And, um, yeah, that would be great. And then the, then it comes to the heart issue. The thalamus
+is like in the center of the brain, the furthest possible thing you could reach, the most dangerous
+thing to go for. And so it's actually the worst target. But what you could do is try to influence
+the term, the thalamic terminals. Yeah. You know, that, that was an idea I was working. I'm
+thinking, I'm constantly thinking about how to approach it that way. Uh, one of the ideas that I came up
+with, um, again, this is the Neuralase podcast if you want to check it out, but it was, I was,
+Yeah, I definitely will. I, I just looked up that guy and he looks like somebody I should look up.
+The, the, the, were you with, were you talking with him? The Stanford professor? Uh, which one?
+Uh, it says, uh, David Eagleman. Uh, I don't have a podcast with him yet, but he's promised that he'll,
+he'll do one with me. Oh, he's not a professor. He's a Stanford alumni. Stanford University. He teaches.
+Oh yeah, he has a professor. Okay. Yeah, yeah, yeah. But, uh, but yeah, I'll, I'll definitely
+check it, check it out, uh, that, that podcast. So, so yeah, we could probably, uh, talk more
+easily if I, if I followed that podcast. Um, but what, what I want to, what I was going
+to go, go for was, um, I, so I, I, I pitched the idea that we could target the, um, we could
+stick the, uh, the, uh, the neural lace up the, of the nostril via like a, a, a nanorobot
+would climb up, up the nose to the underside of the, of the brain as close to the, as close
+to the thalamus as, as we could get it. And that's how, that's how we would decode the,
+um, the thalamus and, and, uh, and, and, and, and stimulate it basically.
+Yeah, and that's a reasonable, like, solution. Like, they are ready, I'm, see the stuff with,
+uh, they're, like, putting in some type of electrode through the vessels, through the
+vessels. Um, and.
+Well, yeah, I'm right about that. That, that's a new, it's a, actually, it's actual neural lace
+that they, they, they, um, they, there's a, it goes through the, it's, you can actually
+stick it in through someone's arm and then routed up the blood vessel into the brain. And
+then when it gets to where it's supposed to be, it expands. I wrote about this as well
+on, so if you, you can see my, you can see, I interviewed the guy who, who was doing it
+actually. And that's, uh.
+Who does, who does do that, by the way? I'm curious.
+Let me check my website. I'll, I'll tell you who it was. Yeah, I covered this news.
+Yeah, I mean, it must have not, I mean, it must have not been that awesome because it came
+out like three, four years, four years ago and I haven't ever seen or heard anybody talk
+about it. You know, at least at, at least at work. I mean, I see, it's talked about all
+the time in the pop science stuff, but like in the neuroscience side, I haven't seen much.
+So maybe it's a slow moving. Maybe they're, maybe it's like in a clinical step or something.
+Uh, hang on. Let me just, um, I think I need to hit the search button for, uh, neuro place
+on my, it may have been so long ago that I, wait, uh, shoot. Uh, oh, here it is. Okay.
+So it's called stentrode. Yeah, that sounds right.
+So virtual reality for pain relief and stentrode, a brain computer interface can be implanted in
+the brain without brain surgery. Um, so I interviewed, uh, at the game developer conference
+of 2019. I spoke to David Petrino. Uh, he's a PhD at Mount Sinai. Um, and I talked about
+his neuralase product called stentrode. Um, and, uh, so if you message me, uh, later,
+I'll send you the link to this article since it's a little bit harder to find, or you can
+just search my website for stentrode and you'll find my article and it has the interview with
+him. And also I linked his talks. You can see his talk at, at GDC, which you, you weren't
+able to find before. Okay. Yeah. No, I mean, I followed you yesterday or two days ago on,
+uh, on Twitter. So I, I can, I can message you and stuff on there. Okay, good. Um, I don't
+know if I'm following you back yet, but I, I, I hope I'm. Yeah. I don't think you're
+following me back, but you'll, you'll, um, I don't, I don't know. Hopefully you didn't
+get too many followers in the last two, three days. No, I mean, I, I've gotten in, in
+the last like four weeks, I've gotten, uh, like a hundred followers and I want to follow
+every single person back, but I just, I, I sometimes I'm not aware. Yeah. I'll message
+you or something. Um, yeah, that's, that's, that's really cool. I mean, so it looks like
+this, this has been like, uh, you, you, you seem to have like done a lot of interviews
+and podcasts about it. Uh, maybe over the, you know, like three years ago and stuff. Um, I'm
+reading your thing right now. I, when I was reading like your, your VR stuff too, I was,
+I thought you were, I was getting the vibe that you were interested in like integrating
+those two things too. Uh, yeah, I am. I, in the, in the earliest podcast, I talk about
+how it opens the door to having VR and AR without, um, direct, uh, brain stimulation. So
+some of the software that I'm writing now for VR applications will, will eventually be,
+um, neural a software. That's great. Yeah. I was trying to learn a frame actually, because
+that seemed like the best thing that could at least communicate between people. But I,
+I, I mean, I don't know, but you know, like I only know how to program in Python and MATLAB
+and stuff. So I'm not like a. So I, I, I'd be happy to help you with a frame stuff because
+I lead a coding meetup and, um, we are, it's really about helping people to, to make WebXR
+code. And, um, in addition to a frame, I'm really excited about, um, there's a, there's
+a class on three days. It's, that's really great that I'm, that I'm taking. And then,
+um, uh, I'm really excited about react through fiber, um, because, uh, it has, um, mainly
+because it has, it's, it's, it's enormously simplified the process of, of creating, uh, really
+awesome, uh, three applications that run on the web, but also it can run natively. Whereas,
+whereas a frame, uh, doesn't run natively at the same speed. It doesn't run at native
+speed if you run it, if you run it in a, in an app, unfortunately. So, um, so I'm excited
+about react through fiber for that reason. And also because of the fact that the, the pool
+of react developers is much, is, is much more massive than in the pool of, um, of a frame
+or 3ds developers. And so that means potentially, um, you know, I think that the Facebook and,
+and, and Twitter and Netflix, all those big companies will, they'll create the AR and VR
+versions of their websites will be the exact same websites they have now, but they'll,
+they'll, they'll be 3d and you'll see them in AR on your phone and with AR with your glasses,
+et cetera. But they'll be built with racks, react through fiber. And, and I think those
+companies don't realize this yet, but I, but I, I, um, I can, I can see this trend happening
+because the, because the masses of, of react developers at Facebook will, will, um, will
+realize that they have really the best tool they have for creating VR is, is with,
+uh, R3F or react through fiber. But so re react should be something that I look into
+more than like it, uh, other things. I think that just the sheer scale of the
+number of, uh, react developers means that it's, it's going to become the dominant technology.
+But, um, but, but in the short term, I'm like, um, you know, maybe I would, I would say recommend
+maybe learn 3ds because 3ds is at the core of both a frame and react. And if you are a master
+of 3ds, uh, then, then, um, then what you can do in both react 3 fiber and an a frame,
+it's going to be, it's going to be a massive, but I can help you a lot more with a frame
+and stuff. There's a, there's a whole community of people who are, who can help with, uh, the
+react 3 fiber stuff as well. So, so as a complete infantile, like I, I don't even know what
+3ds is, what, where, what would be like a good intro? Uh, I mean, I, I, I know like,
+I mean, yeah. So what, what would be a good place to start? Uh, so, um, so one is you can
+join my discord, uh, which is the XR web.com and that will give you the link. That will give
+you an invitation link to my discord. And then, um, two, and that's a developer discord for
+building web XR apps and, and, uh, and we organize meetups around the topic and, and there's lots
+of resources inside the discord to lots of different links to, uh, react 3 fiber to 3ds to
+a frame and, um, lots of great code examples that show you some of the amazing things you can do with
+all of these. And then finally, um, you could just go to 3ds.org. Um, and there's really excellent
+documentation and, um, 3ds journey, you can find on, you can go to 3ds journey, uh,
+you just type it into Google and that's a great class. It costs, it's usually a hundred bucks,
+but if you wait, if you just follow the guy on Twitter and get his notifications, eventually
+he's going to say, okay, it's 40% off today for the first 20 people or something. And then you just
+get it, you get a good discount if you want to discount, but, um, but it's only 90 bucks if you
+don't get a discount. Um, and that's, you know, that's like way cheaper than a university class.
+And the value you're getting from his class is just, um, I think it exceeds many university
+classes, right? They might cost a thousand bucks or it exceeds the value of many conferences
+that cost more than a thousand bucks, I think. So I had no trouble paying it. I was just like,
+yeah, this is worth it. But, um, so 3ds would be something to learn kind of first, uh, just
+cause that will allow me to pivot anywhere. Yeah. That 3ds is the core. And then, um, uh,
+and of course, um, I, so I, I helped create a, um, I co-created an EG application, uh, that
+was working in, uh, web VR and we used a frame to do it. So, um, so you, so my code is open source
+and you can immediately use that in the same application we're using because, uh, basically
+it visualizes time series data. Like it takes the, the, um, uh, we collect the, the voltage
+signals from the sensors on the forehead and, uh, send them in, uh, they're collected as
+hex values by the machine and, um, then they're converted into numbers and then they're, we run
+some programs to, to reduce noise and, and, uh, uh, uh, there's a, there's a, a server.
+Just some low pass, low pass filters basically for the noise.
+Yeah. Low pass filters. Um, I think, uh, then there's, this is like 2018. So I'm like, is it,
+is it, I get, I get a feeling that like we have a lot of non, I, like our, like our skills
+are like just touching, but not almost like not overlapping. Like the things you're saying
+right now, I'm like, Oh God, you're probably like, I'm going to go look and it's going to
+be so above my head at all the things you're telling me right now.
+Uh, well, I'm happy to, I'm happy to like, like, again, like if you, if you connect with
+me in the discord, we can go over the code and, and, uh, and in one of the online coding
+meetups with the, with the community and, and teach everybody at the same time. And if you
+want, we could record it and just share it with everybody, but, um, or whatever, but,
+um, but, uh, but yeah, so, so the, so the signal, I have, I, I, I guess we're kind of winding
+down, but I want to see if I can squeeze in a couple more questions. Um, so, so the signals
+pass into, so just, so Jeff Hawkins, he was talking about, um, the, the fact that the neural
+column, um, is, is now going to represent, uh, you know, an, an, an object in, in front
+of you, like you're, you're holding a bottle and it, it's going to track the rotation of
+the bottle, the appearance of the bottle, the, um, uh, the sounds that the bottle makes and
+all of your expectations of the properties of the bottle. And it's going to sort of create
+a, it's going to, hold on, hold on one second. I'm having a glitch. Okay. So the speakers,
+speakers were playing, the wrong speakers were playing and it was talking over you. Sorry.
+Okay. I'm listening now. Sorry about that. So, so the idea in the thousand brains is that
+a neural column will, um, will, is it every object in the world around you that you're seeing
+right now is going to be sort of managed by, by a different neural column. Um, and, uh,
+so, so, and there's lots of, there's lots of ideas. Um, that's just one of the ideas
+and some of the ideas are sort of conflicting and, and that's why I sort of like, there's
+some good questions. And, um, so that, so that, so one of the ideas is that a neural column
+is going to, uh, manage all the properties of that one bottle. And so that you'll, you'll
+have, um, uh, the, it'll manage all of the, the, the orientation of the bottle is
+distance from you. It's distance from your hand, where your fingers are on the bottle,
+uh, what the bottle looks like, what his appearance is, what the bottle sounds like, if it has
+anything in it. Like all of those different, all of these different, um, sensor streams
+come in through, through different parts of your, of your sensor apparatus. And then they
+get, they go to the thalamus and then, and then, um, and, and then they go to, you know,
+like at the point of the thalamus, you have not yet formed the percept of the existence
+of a bottle that at the point of the thalamus, it's still in the mode of like edge detectors
+and like pixels. Think of it as like pixels are now like a lot are now like, it's like at
+the layer where it's like talking about lines, maybe instead of pixels. It's not, there is
+no cohesive bottle yet. That's probably two or three steps up the ladder. Okay. Um, I, I'm,
+I'm with you on that. Like, you know, but in terms of like, you know, so it's taught,
+it's, it's, it's commonly thought, you know, the, the, the, the hierarchical model of, of
+learning, you know, the V1 might have lines and edges and, and then curves and then, and
+then, and then maybe, uh, the V2 will have a higher level of shapes, right? And then V3
+what would have, um, shapes and would, would, you'd have complex objects with multiple shapes
+connected to them or something. Right. And then, yeah. And so once you get to cortex,
+those models start being like highly debatable, but like at least in thalamus, you know, it's
+like at still at some low level like that, but yeah, that's, that's the idea. So, so he,
+so he was talking about how in the mouse brain, the mouse brain is mostly like a level one cortex.
+It's just, you know, the amount of tissue in level one, uh, it just dominates. And, and
+that, so the idea that he, he was talking about in his book, a thousand brains is that,
+uh, that we could have entire objects, like whole complete objects in just the level one,
+uh, of the cortex. And then, um, I started thinking about, you know, well, you know, people,
+um, uh, sometimes say the eye is really part of the brain because there's so, there's so many
+different layers to when, to, to, um, um, it's, it's great. So that's developmentally, it's,
+it's, um, so like developmentally, there's three types of derm. It's like ectoderm, mesoderm,
+and endoderm. And so like the endoderm becomes like your stomach lining, the mesoderm is like
+in between and the ectoderm becomes your skin and your brain. So, so basically, um, the eyes
+actually come out of the ectoderm, that's not your skin. So it cut your eyes developmentally,
+your eyes literally are your brain. And then the part of your brain, your eyes actually
+developed from is, is the same as the diencephalon, which is the part that also has contains the
+thalamus. So the, so basically when you start describing things in a developmental sense that,
+um, the eye really is brain, the eye is just sort of like a, it's like a part of the brain
+that did its own thing. Um, yeah. So yeah, it is, it is part of the brain, right? It grew
+from the brain from cells that were set aside to be brain cells.
+And it seems like in, in the eye itself, we have these descriptions of, um, you know,
+what, what, like we covered earlier that, uh, there's, there'll, there'll be cones and receptors
+in the eye that only track when an object moves from left to right. Um, and when an object,
+uh, is a certain color and right. And, um, so that means that like at the eye itself,
+maybe I'm thinking, I don't know if this is what it means, but I'm thinking maybe edge detection
+and color detection and like the V1 type of activity is really happening in the eye itself.
+Um, instead of in the V1.
+Um, well, here, Julia, you, you're, you're, you work in the visual system. I don't know
+how to get you up here. All right. Well, it's probably at work.
+No, she's right. She's around here. She's like in the other room. We're, we're in the
+same spot, but I just don't know how to get her edge. Plus? Nope. Julia?
+Oh, she's at your, she's at your house. Like literally.
+Yeah. Yeah.
+It's funny. It's, it's actually also funny to me that I thought of that, like, like, uh,
+20 seconds before I made it through to my language before I said it. That's also funny.
+Invite to speak. There it is. Okay. There. Anyways. So like, uh, too much, uh, context that
+reaches that first of off, the retina gets like basically no input from the brain. It doesn't
+get a lot of input. It doesn't get, I don't think, I mean, maybe, maybe some crazy sparse,
+like non-functional, like vestigial, like one sort of axon gets in there to control the
+muscle or something. But for it, basically the retina doesn't get any information from the
+thalamus or from the brain. And, um, so there's no context. It's literally just like, did this
+pixel get light flashed on it or not? Kind of thing. Uh, there's, there's a little bit more
+going on because like the ones that get light can sort of inhibit the ones next to it.
+So there is a little bit of computation there, but you definitely don't want to think of it
+as at like the level of like it, it can formulate what an object is at that point. It's best
+just, it can basically just detect edges at that point. And then in the thalamus first,
+well, the thalamus sort of doesn't, the thalamus cells sort of don't connect to each other
+really much at all. So there's not a lot of like, I mean, there's modulation that could happen and
+sort of like ignore this or maybe pay more attention to this, but there's not a lot of
+computation happening in terms of decoding what the object is in terms of the thalamus.
+So I don't think any of the actual percept is formed until you get to V1. Once you get to V1,
+there's all sorts of cells that are connected to each other and, and connected outward and inward
+in a circle and just like all sorts of crazy connections that are clearly doing some sort
+of computation. But at least at the level of the retina and then at the level of the thalamus,
+things are sort of like one thing connects to, I mean, I'm exaggerating here, but like,
+it's almost like one thing connects to one thing connects to one thing. And it's just like
+passing it on a little bit with, with some sort of math. Think of it as like a gross structure
+modulation, but not, it's not decoding much. And then, and then there's this huge jump,
+right? When it gets to V1, now it's like really starting to figure out what it is and then V2.
+And now, and since it's actually, since thalamus is sending it to both those areas at the same time
+anyway, maybe V1 and V2 aren't even the best names for it because V2 gets, gets sent stuff directly
+from the thalamus too. It's just, it also gets sent stuff from V1. So now you just start,
+everything starts getting connected to everything. So clearly things are getting decoded there, but
+yeah, I definitely wouldn't start thinking that like the information of bottle is held in the
+retina or in the thalamus. It's definitely the idea of, of bottle, I think sticks in the cortex.
+And if, if the cortex is making some prediction, because the cortex does send a lot of information
+back to the thalamus, um, how much the cortex predicts like bottle and then sends it back to
+the thalamus. Um, but it's, if, if it is getting sent that way, it's definitely not just that because
+the thalamus is also getting the, the, the inputs from the outside world. So, so if the thalamus,
+maybe the thalamus might be matching the actual inputs from the predicted inputs, but that's,
+that's the most I could think of it doing. Okay. So, um, so, so you were saying, so the,
+so the signals trap, so Jeff, the Hawking's idea was that, uh, you have a neural column and,
+uh, it's two ideas. One is that a neural column will be, uh, managing all the properties of an
+object with a reference frame. So you'll have part reference frame is like you have part of the,
+the neural signal will be very stable. That would be like at a higher level. That might be the,
+the V2. And then the, the stuff in the V1, which would be lower level will be
+changing rapidly. And, and so the reference frame idea works like you have like, um, um,
+I guess it's, I guess it's, he described as like the relationship between like, uh, grid cells and
+place cells. And, um, some of the, some of the cells only change, um, a little bit because they're
+about where you are in the grid. And some of them will change, um, uh, rapidly because they're about
+the, the changing context of, of the location where, where you're at, like what's changing while
+you're there. So, so I read, so I did my undergraduate senior thesis on predictive coding
+in visual cortex and my advisor had me read on intelligence, um, which I think I read like
+chapters five or six or whatever the chapters where he's actually describing the structure
+of feedback connections and predictive coding. So I'm familiar with that. What's new to me right
+now? What you're talking about is like, um, I mean, I, I guess, yeah. What, what, what is new
+beyond the, the on intelligence book? I know he's analogizing or make, making columns sound
+similar to some sort of like place cell structure, grid cell structure. Um, and you're saying these
+are columns probably in like V1 or V2. Well, so, I mean, so, so by neural, so neural column of
+course is, um, you know, there's 150 neural columns, large neural columns, right? And, and
+they, and they, um, uh, they, they represent in an, you know, everything from, uh, from V1 to
+V6. It's like, it's like the entire stack, right? And so his, his, in one of his papers, he
+described how that entire stack of columns that might be, um, you know, is it like a, is it
+like a millimeter or a centimeter? I forget the neural column, but, um. So the, the, you
+have like these, like column, these big columns in some sensory areas, like 400 microns. Yeah.
+But there's these things called, and those are only in some places, but there's these
+things called mini columns and they're predicted to be like everywhere. And you can kind of
+just sort of, if you squint your eyes just straight, you can kind of see them in between
+the blood vessels. Um, and so that, that idea of these mini columns or micro columns, uh, is
+that, that, that they're like everywhere in the whole brain is like structured into these
+sort of mini columns. Uh, and I think that's what you're talking about. These, and they're
+like 50 microns, um, wide and like, yeah, there's a gazillion of them, but yeah. Yeah.
+So I, I, basically the one, the, one of the hypotheses on that is that they're like sort of the functional
+unit of the brain, like the way that the layer, you know, layer four cells go to the layer
+two, three cells and the layer two, three cells go into the layer five a cells and those
+go to the five B and six, like that sort of, uh, motif is sort of consistent throughout the
+brain. And, uh, and so there, one thought is that those mini columns are the functional
+unit of the brain.
+Right. Right. And, um, yeah, so that was, um, there's a hundred, about 150, those 150,000
+or 150. Um, no, I don't think there's anything like that. I think maybe in, yeah, maybe he
+gave an example of, of like, if you, if, I don't know, I, I don't know that number.
+No, let me look this up. Uh, so there's about a hundred million cortical cortical mini columns
+in the neocortex. Oh, okay. Okay. I got you. So if the neocortex, if a mini column is 50
+microns wide and you divide the total surface area by that, I can imagine you getting about
+150 million. Okay. Got it.
+And it's also saying that, um, there's, uh, they each have 110 neurons each, um, giving,
+uh, 1 million to 2 million cortical columns. So I'm, I'm like, now I'm like confused. What
+is he talking about? Like 150,000? I'm, I'm sort of confused what he was talking. I need
+to look, I need to compare this data. Um, but, uh, cause, cause definitely there's a big difference
+between like 150,000 and, and, uh, and 2 million cortical columns, but. No, no. Okay. Now that
+you said those things that you just read to me, that sounds right. Like there, did you
+say like a hundred, like a thousand neurons per mini column or 150 neurons per mini column
+or something like that? So 110, um, neurons per mini column. Okay. Yeah. Yeah. That's,
+that sounds, yeah, that sounds right. Okay. So I get what you're talking about. You are
+talking about mini columns and yeah, there's a bunch of them, like, uh, a million, million
+or millions, uh, over the whole brain. Got it. So, so, so, so, so Vernon Mountcastle in
+the, um, in the forties, fifties and seventies, what was doing?
+John Sarkins. Yeah. He, he, he was the first person to describe columns. He described them
+in the somatosensory cortex. Yeah. And it's, it's always funny that Huell and Weisel got
+the Nobel prize for columns and visual cortex when Vernon Mountcastle like discovered it
+first and, and he discovered all this other stuff first. And it's almost like everyone
+knows like that guy like discovered so much stuff, but he somehow didn't win the Nobel prize
+and all these other people did. Yeah. That's just like, that's, uh, that's very strange,
+huh? I didn't know this, but, um, yeah, totally. Oh man. Um, okay. So, so the idea is that,
+um, so, so that you'll have a single neural column will then, um, you know, we'll have
+like activity towards the top that is very stable and the inputs at the bottom of the column
+will be very, will be changing a lot. And that's because the, um, the column itself is
+maintaining the, um, either an object or, uh, or a word and, and at the top, and that's
+the reference frame and the bottom is, um, is the references or the properties of that
+reference frame. So the reference frame can represent an object or, or, um, or the idea
+of an idea, right? And all the, all the connecting, all the multimodal connections to the idea of
+the idea. Um, so superficial layers are holding more contextual information about the thing
+and the deep layers are deep by deep. I mean like lower, uh, are, are, um, holding more
+actual information about the thing. Is that what you're saying? Yeah. So, so the, so the deeper
+layers would be like, um, uh, would be, would be saying that, okay, this, this thought, the
+notion that, uh, this, uh, space is going to hold is going to be the notion of a bottle.
+And then it's almost like, it's almost like the, um, maybe, maybe like an entity component
+system. Well, I don't know if you're, if you're familiar with entity component systems, but,
+um, it's like you have like, um, it's like, um, so I, I guess this won't be a good example.
+Um, but it's, it's, it's, it's like, um, it's like, uh, a way for the brain to track objects.
+Um, so you have like a space, you have like a, uh, a bunch of different spaces. Each column
+will be a space where a different object is tracked. And, um, but that object has a lot
+of properties and the properties are multi-sensory. And like I said, it's like, how is the, how
+close does the object to you? What does it sound like? Um, you've got to, what's it feel
+like? What's it look like? What's it sound like? Yeah. And, and so, well, what I feel
+like those are going to be a different area. So, so each area might have, you know, however
+many mini columns. So there's the visual area, there's the auditory area. And so the visual
+areas just cares about vision, the auditory area just cares about auditory. But then you
+have these higher, so once you go past like V1, V2, V3, V4, then you're getting into all
+these like higher order areas, they're multimodal. So they mix sound with touch, with, with vision.
+And so what, so this is like in the parietal cortex or like, you know, areas where that are
+known for multimodal integration. And so I feel like the context of this conversation might
+be more applicable if we're saying like, maybe in the parietal cortex, the mini columns there
+are integrating all this information and maybe hold the, are holding a concept of, of an
+object. And yeah, I, it's not known. I don't think how, how these different modalities
+like touch, vision, et cetera, get integrated in those areas that, well, you would know
+more, right, Julia, like how they're integrated in those areas. Do you know anything?
+I wish, but I don't feel like enough to contribute to this beyond the fact that yes, there are
+areas that are definitely responsive to some combination of sensory features.
+Well, like, like Wernick's, Wernick's area, you know, it's, it's, it's, it's many, right? Many
+different, uh, cause, cause language has a visual and, and auditory components and they have to come
+together somewhere. Right. So maybe, um, Wernick's area. I only know it from like, if there's an issue
+where somebody has Wernick's aphasia, which is damage to that area, they talk and talk and talk, but they
+don't make sense. So they'll be like, yeah, go to the thing. And like, none of their sentences
+actually mean anything. Um, and, and so like, so they kind of don't know what they're saying.
+Whereas Broca's area, maybe they do know what they're saying, but they can't actually say
+anything. They just say the same word over and over or something. So, so, uh, the, I wouldn't,
+I mean, I don't know enough about it to say for sure, but I kind of want to say that I wouldn't
+call those like language integration areas, but I do think there, there probably do, there do exist
+pre-motor areas that probably do integrate language and maybe they are like where Nicky's are involved
+in it and maybe there's areas around it also involved in it that probably represent what
+you're talking about, where like you're, you have some thought on the edge of your tongue and
+it involves this vision that you have or a sound that you have, you know, like I can imagine that
+somewhere. Um, yeah. I mean, I just realized that the Warnix area, a damage to Warnix area
+could, could, could be, uh, disrupting like, um, the oscillations that allow the, the coordination
+of, of, um, of many different patterns that affects language most, most visibly, most visibly,
+but it may not have anything to do with integrating language.
+Yeah. Oscillations is a super contentious topic and that's right in the middle. That's
+where my project is dead on. And, uh, you know, I can, there's not a lot known in a definitive
+sense about what the hell oscillations are doing, which is why like I've had old, old
+advisors be like, don't do it. Don't go in that field. That field has been studied for
+30 years and it's still like, nobody knows for sure anything, but, but yeah, there's a lot
+of theories about oscillations. That's for sure. Um, just not a lot of, uh, consensus yet.
+Um, okay. So then, so, so, so I, there's a, in terms of how information travel, like my
+whole, my whole, uh, during a question journey was like about how information travels for the
+brain. So then it comes in through the V1 and it comes in through the, uh, um, you know,
+the, the, the, the A1 or the audio cortex one and, and this, and the touch stuff comes in
+through the somatosensory cortex, right? Yeah. Yeah. V1 and A1 and S1. Yeah. That's
+the primary court cortices. And then, um, uh, and, and then what happens is at some point,
+um, which you see here in touch, uh, come together and, um, and I, I'm not exactly sure what,
+where they come together, but, um, but maybe the, where they come together is, um, I have
+to look that up unless you know, but, but where they come. It would be somewhere like
+the parietal cortex or the posterior parietal cortex. Yeah. In general, just, you could just
+refer to it as multimodal areas and just leave it as unknown.
+Proprietal and postproprietal or just, um, multimodal areas.
+Yeah. And that way you don't have to be specific.
+Yeah. Multimodal area is really the keyword.
+Um, so is it possible that, um, that there's, um, any traffic, um, backwards to, uh, to the
+original, the, the primary, um,
+Um, yeah, there, there's probably recursive, like, uh, feedback. Yeah. There's tons of
+it. There's probably even more of it than there is before. It's just like, yeah, there, there,
+there, there, there's almost no place where there isn't.
+There's also like these dual pathways going through the thalamus. So like you think of the
+traditional kind of hierarchy going through the cortex where you have like, okay, the eye
+to the LGN, the first order visual thalamic nucleus, and then primary visual cortex. And then that's
+going to secondary visual cortex, let's say, and then onwards from there. But then you also have
+like these complimentary loops through the thalamus where it's going from primary visual
+cortex to like this higher order part of the thalamus called the pulvinar. And then that's also
+going to V2. So it's like for every cortical kind of hierarchical jump, you also have these,
+like parallel pathways through the thalamus. Yeah. Eference copies.
+Okay. So then, um, I wanted to talk about, okay, so, so when you said that there's more,
+um, feedback than feed forward, um, were you talking about horizontal feedback?
+There's all sorts. So like, so V1 has all these projections to V2, but then V2 has a bunch
+of projections back to feed one or back to V1. And sometimes there'll be more in number,
+but like maybe each one will be weaker. You know what I mean? So you can't, so more is a very, uh,
+loose term there because it's like, yeah, there's more axons, but they make weaker connections. So
+in a, in a functional sense, you know, maybe they're weaker, maybe they're about the same,
+but yeah, basically there's just, think of it as loops. Everything. It's just like
+nested loops, I think is the best way to think about it. Okay. Um, so, so then I was,
+I was reading about, you know, um, the proposal for short-term, short-term memory, a recent,
+recent paper. They were saying that, you know, uh, they were saying that a neuron, I think I may
+have, you may have heard me explain this, but they're, they were saying that a neuron could,
+uh, might, its activity might last, um, uh, for, for 10 milliseconds. It's total activity,
+I guess, is what you clarified earlier. But then if a neuron could talk to another neuron,
+it could remind, they could remind each other. And, and, um, so a neural circuit could carry a memory
+longer than a single neuron could, um, if, if the, if the, the, the loops between, um, you know,
+neurons in, in clusters or micro, micro circuits or micro, uh, so the question is, yeah. So like,
+basically if there's loops of individual neurons or small sets of neurons, they'll be able to maintain
+activity between each other. And oftentimes that activity, uh, will, will result in some
+sort of an oscillatory thing that you can read out on like a EEG electrode and you'll see like
+an oscillation and stuff. Um, are you familiar with that study? Um, do you know if, um, when
+they, when they were talking about like, um, micro, micro and neural circuits, were they talking
+about micro columns? Is that sort of like different or is?
+Micro circuits. Okay. So micro columns is not a term that everyone uses, but it, it, it's,
+it's that term you're talking about. And, uh, micro circuits describes a, a type of neuroscience. So
+it's basically just describing a scale. So like, if you're talking about EEG, you're getting, you're
+sticking a probe down in there and you're getting a readout of like the net of like a hundred thousand
+neurons, right? If you're getting an LFP recording, you stick that probe down there and you're getting
+like a readout of like the nearest, maybe 300 neurons around that LFP recording. Um, and then,
+you know, an image imaging, you can zoom it, you know, you can image like the whole on a growth scale,
+or you can zoom in and actually see individual cells. And I think micro circuit neuroscience basically
+just describes getting really in there and looking at the, the interactivity of individual cells and
+cell types. Whereas, um, you know, uh, a more gross level neuroscience would be like, yeah,
+we scanned the brain and V1 lit up and V2 lit up and V3 lit up, which says nothing about the
+individual cells in that area. Okay. And do you know, so, um, I read something that, uh, the,
+the, the, the micro circuits or the clusters or the micro columns were in, in the mouse where we're
+arranged in it, um, or we're spaced out in a hexagonal pattern. Uh, does that make, does that ring a bell?
+Are you talking about grid cells, which are placed in a, uh, triangular pattern? So, uh, so, so I,
+so I guess I'm not because this is referring to the, the mouse, I believe this is referring to the mouse
+neocortex. Um, and, but it really made me think of grid cells because they were describing, uh, heck,
+I'll have to, maybe you have to dig up the paper and send it to you after, after, after this, but
+there, I was wondering if, if, um, if the hexagonal pattern, uh, so you've, you've got clumps of cells
+and I, I'm, and they're, they're calling them neural circuits, but it sounds to me like they're
+describing these, they, they, they take the shape of clusters and I thought they're describing
+micro columns, but they're not using the language of micro columns. And then someone else is saying
+that these, um, micro columns are arranged in, in hexagonal patterns. And now I'm thinking about
+grid cells in the neocortex of the mouse. Um, and, uh, so this is all like, this is, this is,
+this is actually two different papers and maybe I'll send them to you later, but, but have you heard
+anything about this or maybe I'm just, I'm looking at a paper right now talking about it, but it's not
+something I'm familiar with. It, it like sounded familiar when you mentioned it, but not enough
+for me to comment on it. So please do send those. What? Sorry, please do send those papers that you're
+thinking of. All right. So I'll send those later and then maybe we can have another conversation. Um,
+yeah. And then, um, I, I wanted to ask, um, so, so what about, um, so information also travels,
+uh, we've talked about traveling, you know, vertically and, and up and down and, uh, horizontally,
+uh, um, from the primary to, to, to the, to the other, um, areas of cortex and back. And then,
+um, what about going, uh, up from, from, from the bottom to the top and then back to the thalamus?
+Can, can you describe that pathway? I think that's the pathway we studied. Are you talking
+about the thalamic loops? Yeah. Uh, so yeah, so, um, I'm just, um, so have, have we already covered
+that? So what I was saying is like, so information comes from thalamus to the, to V1 and then goes up
+to V6 and then from V6 back to the thalamus. Is that right? Uh, no, think of it like this. So
+it goes from thalamus to V1, to V2, to V3, to V4, to V5, et cetera, right? Except it's not just
+that V5 or V6 goes back to thalamus. V1 goes back to thalamus. V2 goes back to thalamus. V3 goes back
+to thalamus. V4 goes, so they all go back to thalamus and it's a nested loop like that. Oh,
+they're okay. Okay. So they're all, they're all in their own loop. Yeah. So, so, so it's really
+interesting to sort of think, think of the brain in terms of loops because we were talking about,
+um, the, the, the neuroscientist who was on Clubhouse was, was, uh, who's studying the rhythms of
+the brain in the brainstem. Uh, he was, he was, uh, he, he, he drew out this picture. I don't know
+if you were there for that top for his talk, but yeah, yeah. It was his name like David or something.
+Yeah. That's his name. And, and so he, so he, he, he drew out this, he said, this is how I
+imagine this works that there's, there's a bunch of arrows and they're, and the arrows are, um,
+all arranged in, uh, you know, they're all spaced apart from each other and they're all pointing
+different directions. And if they point inwards and that means that, um, that it's, it's,
+it's able to, the, it's able to retain its, its, its shape. And if they all start pointing
+outwards and then it falls apart and the organism dies because it stops breathing. And the, the
+arrows, the direction of the arrows is represented by a synaptic activity. And, um, and they, and
+they represent, um, you know, like if you inject the mouse with, uh, with an opioid or, or I think
+an, uh, an opiate, opiate simulator, um, some other drug that does accomplishes the same
+effects, but basically it causes the, the synapse to malfunction. Then, um, they're not
+able to make, the mouse is not able to maintain its, its, its equilibrium, uh, at the brain
+stem. And then it sort of like loses control. And then, um, but then, but I, you know, I
+typed it into Google. It does like, I just typed out exactly what he said. And I looked
+at a field of arrows and, and, and, and I, and this is, it was like, this is exactly what,
+um, it's a, it's a sort of description of, of a dipole, of an electrical dipole. And so
+it's, it's so amazing. It's like, this is a description of a dipole. And so here we have
+like the whole brain and, you know, is, you know, has dipole activity and then there's
+like a dipole inside the brain stem, maybe, you know, and sort of like his description.
+And then we've got all these loops and we've got small loops and loops inside other loops.
+And it's like this, and this, um, this fractal of, of loops and, and, um, and maybe a fractal
+of dipoles. And it's just so, so interesting. And I don't know if we should leave it there
+for, for tonight, but then.
+Yeah, totally. And, and, uh, also these, these neurons are being held at a specific voltage
+because they're holding a net, uh, negative charge. And then the, so that means that extracellular
+space is net, you know, to, to the neuron is 60 millivolts more than them. And so each
+of these neurons kind of are like in a way a pole. And then whenever there's current, well,
+I guess once there's currents traveling through them, then you have these poles and then they,
+and since all these neurons are a little, all the, at least excitatory neurons, which
+are, are most of them, they're aligned in the same direction. So, so these poles sort
+of summate, and that's how you get these readouts from the EEG, which is on top of the skull.
+You can think of it as like miles away from all the neurons that you have this giant skull
+separating them, but you're still being able to read out this electrical signal because
+everything is aligned, you know, with each other. So these, these, uh, poles are sort of
+summiting. Wow. Um, and, um, um, okay. So, so there's definitely, there's definitely a lot
+more to talk about in the future, but at some point we've got to, uh, we're going to say that's,
+uh, that's enough for one day. Yeah, totally. Uh, yeah, I, I, I'd love to bug you about like
+other stuff anytime. Um, yeah, follow me back. I don't think I have a picture on my Twitter,
+but I'm, I'm the only Scott prop maybe that followed you yesterday or two days ago.
+Let me see if I, is it on your profile? Let me see if I can find, oh, so it's not, so maybe
+that's why I couldn't find you because it wasn't on your, your, um. Yeah, yeah, it's not on my
+stuff. Okay. Let me look at, uh, Twitter and I'll see if I can find, so. You could probably
+just follow Julia first and then I'll, I'm on her small group of follows. Oh, okay. Let
+me make sure I'm following Julia's view profile.
+I haven't logged in in a while, so I haven't followed you yet, but I will.
+Cool. Um, let me see if I can see followers, followers. No, I need to look at following.
+Um, but I, Scott, it was followed by Scott. So Scott follows you. Okay. I am, is it Scott
+S-U-S-I? Yep. So I am following you. Okay. Oh, you are. Okay, cool. Yeah. And in fact,
+in fact, you're, you're actually, um, uh, one of the people that I receive a hundred
+percent of all notifications from, so.
+I, like, don't ever post anything on there, but yeah. Cool. Well, if you ever do, I'm
+guaranteed to see it. Well, I'll send you that article actually that I wanted to send
+you a couple of days ago that was, cause we were talking about Neuralink and I was like
+kind of making the argument that they're a little heavy on the engineering side and not
+caring as much about the neuro side as, as possible. I know they care about it some, but
+like there was an article I felt like expressed it well that I wanted to share with you, but
+I'm definitely going to look up, uh, those, uh, podcasts that you did. Um, oh yeah. And
+if you, if you send me anything, uh, you, there was a couple of things you said that'd be easier
+to send me. You should totally send a direct message to me on Twitter or whatever. That's
+tough. Sounds good. Um, all right. Cool. All right. All right. Have a good night. Yeah.
+This was really good. Bye. Thank you. Bye.

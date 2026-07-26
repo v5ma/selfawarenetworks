@@ -1,0 +1,1949 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0045y Neurons Photon Inputs (Dec 16, 2021)
+First recorded: 2021-12-17T21:25:28.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/83fb25f3-2995-4910-8d43-334f790573ab
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+It goes to a Y scanner, and then pivots in the other direction.
+So, yeah, we use the resonant scanner to go fast, and then the slow X we use to impart an offset laterally along that same resonant axis, and then another low-speed Y-mirror Y-scan.
+And so the resonant is operated at eight-quarters to it, and it scans bidirectionally, so that's giving us 16,000 lines per second.
+And then those are divided into multiple frames, and then the X galvo is not really moving most of the time.
+It's just a position, the field of view, and then the Y galvo is scanning at whatever our frame rate is, so say 30 or 60 hertz.
+Excellent. I'm sorry to hog bandwidth here, but this is a fascinating field. I'm so delighted to listen to your work.
+I'm just wondering, can you also do this as image, besides imaging, can you change it, let's say, to an NDAG and start using these for a focal ablation in your work?
+Yeah, absolutely. And there have been experiments where they do photoablation of, say, dendrites or different components of a cell,
+and then see how that changes activity in the network. That is manipulation that's used.
+What's used even more often are optogenetics, which maybe some of you are from current flow across the membrane,
+based by the presence or absence of light.
+And so, basically, you can use light to turn neurons on or off.
+And those types of experiments, or let me build this with two independent scan engines,
+the idea being that we could use one of those scan pathways to be turning neurons on and off with light using optogenetics,
+and the other pathway to be imaging neuronal activity, and see how turning on and off individual neurons changes neuronal activity
+across this large length scale, this millimeter length scale, and still maintain that line-form resolution.
+Holy shit.
+What was that?
+May I interrupt, please? I had a few questions, first of all, to both of you professors.
+So, I wanted to ask, how do you guys study in order to grow as a researcher?
+Because Professor Hiroshi, if I'm not butchering your name, I'm so sorry if I am, and Professor Spencer,
+both of you are doing research work, and I am interested in that.
+But, I'm trying to understand how does one grow in that field, one, and two parts, and second part is related to,
+I'm sorry, I got tension shift, because I got into, I was trying to understand the conversation with both of you,
+I was having, and I was having hard time.
+Another part is, I'm so sorry, did I interrupt somewhere?
+Oh, no, go ahead, go ahead, you're doing fine.
+Okay, then, Professor, could you please comment on sensitivity, and as well as noise,
+as we know that it's, I mean, from the stability and the fluctuation point perspective, two aspects,
+and then I would want to understand from signal integrity, and I'm having loss of thought.
+So, I was writing while you were speaking, so, it's okay, so, let me answer a part of that,
+and then, if I miss a part, we can come back and pick that up.
+So, one part was, Jeffrey, right, so, I, I mean, my brief background is I studied physics and math for my undergrad degree,
+and then went to a neuroscience program for my PhD, and there was a, I did a small MEMS project while I was there,
+sort of the tail end of my graduate school, and then my first postdoc started getting into multi-photon imaging,
+and just sort of built what I needed to do the experiments that I wanted, and then, as I got grants,
+and as, like, the brand initiative came along, we elaborated that work.
+It's, you know, it's a lot of learning a job and not everything, you know, I'm, I'm a big believer in people finding their own paths,
+so, I mean, this is what worked for me.
+I'm not endorsing this particular pathway for anybody else, but that's what I did,
+and it was, you know, recognizing the moment that you're in, recognizing what works,
+what you're good at, and, and trying to capitalize on that,
+trying to do the things that you can get traction on doing.
+It's not always going to be what you want to do right off the bat.
+So, that's one small comment on that, that part of your question, about the, the stability of the signals.
+So, it, that's an interesting question.
+So, these pulses are coming at 80 megahertz, and I mentioned that, the, the likelihood of a 200-mile vent is very, very low, right?
+And then, even if one happens, you also have to detect that photon.
+It has to get caught by your, get back to your objective and get caught in your collection pathway
+and make it to whatever photodetector you're using.
+And that's a rare event.
+Most of the time, in most people's two-photon microscopes,
+the average number of detected signal photons per excitation pulse is less than one.
+Oftentimes, it's much, much, much less than one, which is something that, that surprises some people.
+They don't, you know, they build these systems, and they, they don't necessarily quantify that.
+But if you do, that's, that's typically the fluxes that we're dealing with,
+particularly when imaging neural activity and EVO.
+And so, the, the, that's why we need multiples per time point in order to make a decent signal, right?
+You need, you want to have on the order of at least dozens of photons per sample point
+to have something that has a decent signal to the noise.
+So, if you're limited by shot noise anyway, then you're, you're, um,
+the maximum signal to noise you're going to get is, is, is,
+is ending the number of photons you detected.
+So, if you're only detecting a few photons, the signal's going to be so noisy,
+it's going to be hard to make sense out of.
+And so, that's why if we, um, have a, um, the dwell time per pixel or have multiple samples per pixel
+and have multiple samples per neurons, we can pool those together and have enough photons,
+um, to have a signal with fidelity, um, for our measurement.
+That's great.
+Is, is this, um, so, is this, is this what you call, um, optical coherence, uh, tomography?
+So, you're just the more, you're just doing, like, tomography on lots of different, uh, light samples?
+No, no, this is, this is regular, uh, laser scanning two photon microscopy.
+Actually, uh, Roshi, who's, um, who just spoke, um, he, uh, he's doing OCT,
+or it's one of the things that you mentioned.
+Okay.
+Um, and what are you, what are you imaging exactly when you say you're, you can image the brain's oscillation?
+You're talking about blood flow, right?
+No, this is neuronal activity, and, um, usually what we do is we have, um, genetically engineered mice
+that are expressing a calcium indicator, so a protein that, um, has a, uh, fluorescent component,
+um, derived from, from green fluorescent protein from aquaria, uh, victoria jellyfish,
+um, and, uh, calmodulin, a calcium binding protein, and that protein fluoresces more when it is bound
+to calcium, and, uh, it turns out that neurons increase their internal, their intracellular
+calcium concentration, you know, 10 to 1,000 fold, um, during an action potential, very briefly,
+but, and so that's a nice, big, meaty signal, um, that these, uh, um, calcium indicators
+can pick up and give us a decent, uh, signal that we can pick up with microscopy.
+Yeah, the other, um, idea that I heard was that the neuron expands when it fires, and, right,
+and that would be another way to detect it, potentially?
+Yeah, so those signals are really low.
+So I've, I've done, so this sort of family of, um, techniques where you're measuring neuronal
+activity, or brain activity, using these intrinsic, you know, that, where you don't put any indicator
+in, we call it intrinsic imaging, um, and there's lots of different signal sources, this
+one, like you said, is cell swelling, there's changes in birefringence, um, you can also look
+at changes in blood oxygenation that is, that are then correlated, you know, at, at a larger
+length scale, anyway, with, with, uh, neural activity, those signals are on the order of, you
+know, like, one part in 10,000, they're very weak signals, and typically you can't separate
+out individual neurons in vivo, in dense neural pill, um, so the calcium indicators let us
+do that.
+You're right, there are other optical signals there, but they're typically so weak that we
+can't really use it in intact tissue.
+And, and not for cellular resolution, anyway.
+We still do intrinsic imaging in my lab, it's around 700 nanometers, um, blood, deoxygenated
+blood, and oxygenated blood have, uh, fairly different absorbents of 700 nanometer light,
+and we use that as a contrast mechanism for mapping out, kind of, macroscopic brain's,
+um, activity, but that doesn't give us.
+I had a micro-question real quick, what, what did you say, by, by, uh, vibring, vibringence?
+What was that word?
+Oh, birefringence?
+By-refringence, could you spell that?
+Yeah, yeah, sure, um, B-E-N-C.
+Thanks very much.
+So, so, yeah, this, this is just, um, uh, this is the light that has, uh, so it's a property,
+crystals have it, um, any anisotropic material has it, it's, uh, the, um, the numerical,
+uh, um, well, the index of refraction that light experiences depends on its polarization.
+That's what that, um, property refers to.
+So, as, as polarized light, P-polarized light experience different indices of refraction.
+Thanks for that.
+Due to anisotropic.
+A biomedical engineer, a optics person, who is also interested in neuroscience,
+it was very illuminating, sort of like a conflict between what hero she was asking,
+but, uh, she's kind of like taking notes with that.
+So, first thing is that I'm really surprised that you were able to, um, implement adaptive optics.
+It's such a small scale using MEMS, which is, uh, quite a feat unto itself.
+But, um, does that help you to kind of increase the, um, depth information?
+Because that's what, um, adaptive optics is kind of, um, more geared towards to,
+especially, like, in astrophysics.
+Um, so does that increase your, you know, the depth information, uh, or the lack?
+So, uh, yeah, so, first, we're using an off-the-shelf deformable mirror.
+So, this is from Boston Micro Machines.
+Um, I, I didn't build, uh, a novel MEMS, um, deformable mirror for this.
+We, we bought what, what, um, Boston Micro Machines already sells.
+Uh, and, and we also have an Al Powell one.
+Uh, this is a French company, um, that made these, uh, much larger stroke.
+They're not MEMS-based, but they, they have a much larger stroke,
+so that can give you more defocus.
+If you're not familiar with adaptive optics, um, so, really, astronomers, uh, developed this.
+So, the, the atmosphere distorts imaging through it,
+and, and what you can do is you can, um, you can shoot a laser up into the upper atmosphere
+and make sort of a guide star, and then you know that that should be a point source.
+You can measure the, the aberration, making it should be a point source,
+and then make the opposite aberration on a mirror,
+and all of a sudden you get sharper pictures through your telescope.
+Um, and, so this is something that they've developed.
+You can make this whole thing closed loop, so that you measure what the aberration is
+and correct for it right away.
+Or you can have an open loop, where you just kind of step through a, um, um,
+you know, some sort of orthogonal basis set
+to figure out how to deform your mirror to correct whatever aberrations you will have.
+So, in this system, we're using the deformable mirror, um, you know,
+in the middle of the field of view, and, and for most of the, the Z range even,
+it, it doesn't make much of a difference.
+Where, really, um, becomes powerful is if we're imaging a sample
+that has some, some, um, something about it that is causing aberration.
+So, sometimes that's the tissue itself.
+Sometimes it's the way the cover slip is on top of the brain or something.
+Um, the deformable mirror can help a lot with that.
+And the other place that it helps is at the edge of the field of view.
+So, all microscope objectives that you buy, or anybody makes,
+they, they're all optimized to work well on axis.
+And, to some degree, their performance falls off as you go off axis.
+One of the things that we did in the design of, of both this system
+and the Trepon 2P is that we've really optimized all of the optics
+so that they would work as well, at the most extreme edge,
+as they do on axis, which usually you don't do.
+If you're Zeiss or Olympus or Nikon or something,
+you, you want it to work well on axis.
+And, you know, there's going to be a, a degradation of performance
+as you go off axis, but nobody really cares,
+as long as it's not too bad.
+And, uh, what we did,
+usually try to get as good as we could.
+Um, but, you know, there's still a degradation
+as you get off to the edge.
+Once you start, if you've got precision optics,
+you start building stuff, there's, there's limits to real world optics
+and how precise you can position them.
+And so, um, when we're really at the very edge of the field of view,
+actually even outside of where we expected to be in,
+let's see, we're on, so we're up like three and a half.
+This is five millimeters by five millimeters.
+So, off in the corner, we're up like 3.5 millimeters off,
+from the center.
+Um, we had some pretty bad aberrations,
+just regular, um, you know,
+uh, optical aberrations that were well characterized
+by, um, Zernike coefficients.
+And so we were able to kind of step through, um,
+Zernike coefficients and find a, uh,
+a command to send to the deformable mirror
+to cancel out that aberration
+and recover high-resolution imaging
+at the very edge of the field of view.
+Um, and then, that's what we typically use
+a deformable mirror for.
+Um, it's just squeezing out a bit more resolution,
+a bit higher fidelity, um, you know,
+a little bit of brightness, uh, when we're,
+when imaging conditions are not ideal.
+We can also use a fast Z translation.
+Um, but yeah, we, through that paper,
+but in practice, we don't typically need to do that.
+With some kind of, uh, exogenous fluorophores
+as opposed to calcium imaging,
+of course, calcium imaging as we know
+as, um, sort of well-established imaging technique,
+but I've seen some research papers
+where they kind of boosted the amount
+of intracellular calcium
+that would have some kind of trade-off
+between cell toxicity.
+Um, uh, but, but yeah, do you think it says two-photon
+or exogenous fluorophores, and if you've explored
+that, that route?
+So I've done a little bit with, like, trying to, um,
+there is an endogenous autofluorescence,
+and some of it is coupled to metabolism.
+Um, and I've tried to image that before,
+but the, but the endogenous fluorescence
+is really weak.
+Um, so we have done some with, uh,
+second harmonic generation, that, that we've done.
+I don't know if that, um, is of interest to you,
+to you, but that's, uh, um, that's something we've done.
+We've also imaged, um, you know,
+fluorescent proteins that are not reporting,
+that are not calcium indicators,
+so we've, we've done just plain GFP, uh,
+refined structure, so submicron, um, uh,
+dendritic spines.
+Yeah, as far as endogenous fluorescence,
+uh, it, it's typically so weak,
+it's not something that, that we've spent a lot of time on.
+Uh, this system was really built
+for calcium imaging, and what's special about this
+is that it has, you know, 25 square millimeters
+over which we have, um, micron resolution,
+and, um, and, and we can capture things
+simultaneously, we've got multiple beams
+going into sampling.
+Most of the time you don't need that, right?
+So if you're imaging dead tissue
+or something that's, that's happening
+much more slowly, uh, on a multiple seconds
+timescale, you can use other instruments.
+You don't need this, right?
+We had, we had to build this
+because we needed sub-second resolution,
+um, over large field of view
+and high resolution,
+and that particular constellation
+of, of parameters, um, I,
+and so that's why we had to build it.
+...alities along with, uh, I've seen, um,
+acoustics was actually used to kind of
+guide the light, and also stimulation.
+So do you think you can, your system
+can actually benefit from these
+kind of, um, modalities that are...
+Yeah, yeah.
+No, I know some of that work, actually.
+I know some of the people who do that work.
+Um, that's really cool.
+Using ultrasound to kind of make
+sort of a guide star deeper,
+modulate fluorescence, and have that
+tagged so that they could image
+deeper in scattering tissue.
+Yeah, so some of those techniques,
+and to briefly answer your question,
+some of those techniques are compatible
+with this system.
+Uh, not all of them, but some of them are.
+We haven't done much with,
+with implementing them.
+We've been doing mostly vanilla,
+um, two-photon imaging,
+where we are, um, you know,
+it's, it's fairly easy to see
+five, six, seven hundred microns down,
+and that, for our, on the neuroscience
+side of the lab, that gets us
+the, the, the data that we need.
+Um, we haven't done much
+with three-photon imaging,
+although we do have,
+this is all unpublished,
+but we have a, uh, three-photon
+version of this system
+that, that we've recently, uh,
+um, fabricated,
+and are still, um, testing.
+But, uh, we haven't done anything
+with the more exotic kind of,
+like,
+or, um, or some of the,
+the photoacoustic-type techniques
+for imaging even deeper in tissue.
+But, I, I like that work.
+It's, it's fascinating.
+Uh, basically, you need some kind
+of light source, um, diodes
+that are that specific way.
+But, do you think, Nick,
+you can, instead of, like,
+imaging as opposed to imaging,
+you can just, uh, stimulate opsins?
+Well, yeah, I mean, we've, um,
+the field has been doing
+multi-photon excitation of opsins,
+um, for a while now.
+And it's, it's challenging.
+Um, but you can do it.
+The, the challenge is that
+you need to activate.
+So, um, so I,
+I've, I've mentioned before,
+and I just, for other people
+who are listening, um,
+you're, you're clearly
+sophisticated about this,
+but, but for others
+that are listening.
+So, optogenetics are, are a way
+that you can genetically
+engineer neurons
+to express proteins
+that gate ion flow
+across the membrane, um,
+when, when they're
+stimulated by light.
+And there's some
+that suppress neural activity
+and some that activate
+neural activity.
+For most experiments,
+people are doing this
+with one photon excitation.
+They're genetically
+engineering some neurons
+of some board in the brain
+and just, just like, um,
+the, the, um, uh,
+our colleague just
+mentioned, they put a
+fiber optic in there
+to flood the area
+with light, with one
+photon excitation.
+In a smaller number
+of studies, uh,
+multi-photonic excitation
+has been used.
+And what's nice about
+that is that then you
+can target individual
+cells and you can say,
+I want to turn on or
+turn off these three
+cells and leave all the
+rest untouched.
+that's, of course,
+that, that level of
+precision is, of course,
+um, uh, very powerful.
+Um, I think the field
+is still figuring out
+how to use that and,
+and make use out of it.
+Um, most of the
+experiments that I've
+seen to date have
+been, um, you know,
+in, in terms of their,
+their theoretical framework
+have, have been
+fairly basic.
+Um, but the, uh, uh,
+and I don't, I don't
+mean that in a, in a
+negative sense.
+I'm just trying to be
+descriptive.
+It's, um, they've
+been, uh, uh, it's
+still early days of
+figuring out what are
+the good experiments
+and how do we get
+insight from that
+approach.
+But that's what we
+built the system for.
+So we have two scan
+engines going in there.
+We can have one scan
+engine dedicated to
+stimulating or
+suppressing individual
+neurons, um, and
+leaving everything else
+untouched.
+And then the other
+pathway, imaging,
+general activity in that
+same population.
+That is really cool
+with just stimulating
+one neuron, um,
+especially if you
+would have, um,
+expressing different
+inputs coming in
+with a, you know,
+I did that, like I
+injected different
+inputs that come into
+the striatum.
+What I couldn't do
+was, um, stimulate
+them separately very
+well.
+Um, you know, of
+course you can use
+TTX and stuff like
+that, but, um, it
+would be actually
+really very useful if
+you, um, inject,
+um, different options
+and different inputs,
+you know, that are
+excitable at different
+wavelengths.
+You know, nowadays we
+have, like, options
+that you can stimulate,
+um, um, with
+different wavelengths
+that, um, you can
+detangle them apart,
+but then also to, um,
+to be sure that you're
+only stimulating that
+neuron and not the
+other one right now
+or, um, would have
+been very helpful
+for me.
+Yeah.
+But maybe in the
+future again.
+Yeah, you know, um,
+back in 2007 when
+some of this stuff was
+still, was just kind
+of coming out, um,
+Michael Heuser and
+I wrote a little, uh,
+uh, news and views
+for, uh, actually
+the first paper that
+had, uh, by
+control from Diceroth's
+lab of Veng Zhang
+and, and, um, and
+colleagues and, and
+Carl Diceroth.
+And, and we were,
+you know, our mind
+was racing as soon as
+this technology was
+developed.
+We wanted to be able
+to kind of play the
+brain like a piano
+and just kind of, um,
+you know, really
+orchestrate neuronal
+activity and really
+test theories of
+neural coding.
+Um, and what we, we
+being not only Michael
+and I, but the whole
+field have realized is
+that it's much, it's
+much easier to daydream
+about that than it is
+to actually develop
+experiments and execute
+them, um, and, and
+gain insight.
+It's, and, and one of
+the difficulties, there's
+multiple difficulties,
+but one of the
+difficulties is that for
+any neuron that you
+might be looking at,
+it's receiving input
+from not only the local
+area there, but a large
+fraction of this input is
+coming from millimeters
+away.
+A lot of it is
+subcortical.
+Um, you know, it's,
+it's, it's really tough
+to encapsulate what
+makes a particular
+neuron fire and
+neuronal activity or
+neuronal circuitry that
+underlies complex
+behavior is widely
+distributed in the
+brain.
+Most of our tools are
+really designed to
+look at one little
+part of the brain at a
+time.
+And so in
+recognition of that,
+that's why we wanted
+to make a system that
+could capture the
+dynamics across the
+larger field of view,
+but this still doesn't
+solve all the problems.
+It's an improvement.
+It helps, but it's,
+it's still only
+capturing cortical
+activity in this large
+area.
+It's still not
+capturing subcortical
+activity.
+Um, you know, it's,
+I, I like that it's
+giving these individual
+cells with high
+fidelity.
+Um, but it's
+extremely frustrating
+that it's basically
+limited to cortex.
+Um, we could, we can
+also image through
+grand lenses and things
+to look at, at
+subcortical structures,
+structures, but even
+that, then, then
+you're, you're looking
+kind of through a, uh,
+a tunnel at a small
+population of neurons.
+It's still really
+difficult to reconstruct
+the, the large scale
+neuronal activity that
+underlies complex
+behavior.
+Yeah, so could you, under
+anesthesia, I don't
+know, um, is it
+different?
+Is it easier in
+anesthesia?
+I mean, I, I, what I
+was referring to was
+mostly in slice, um, or
+in cultures, you know,
+where you, even
+there, if you could,
+um, easily, um,
+stimulate, uh, one
+or two neurons, but
+separately, you know,
+how that you know
+exactly, just
+stimulating that one
+and not the others.
+Yeah.
+And then look at the
+network and the
+slice that, you know,
+I'll just explain
+really briefly.
+Um, I did, like,
+in vivo experiments
+where I injected, like,
+two regions and then
+looked at, um, which
+two regions combined,
+um, could, um,
+generate an upstate
+easier in, like,
+spiny, uh, projection
+and, um, because I
+saw in vivo that when
+I combined, um,
+behaviors then with
+central and motor
+inputs up to
+genetic, um,
+stimulation, like
+LTP, where does
+LTV stimulation, I
+could, uh, just
+with a few seconds a
+day get it into a
+compulsive behavior, um,
+and then I looked
+into the slice and
+then, um, repeated,
+you know, two
+inputs and then, um,
+I saw that there's
+two different inputs
+like the amygdala and
+the sensory motor
+input would generate
+way higher upstates
+than all other
+combined two inputs
+that I injected.
+I could never
+dissect out, I could
+never make a time or
+dissect out which
+input I'm
+stimulating because I
+injected in two
+and, um, I
+could never
+dissect out, you
+know, doing
+things like this
+timely manner, um,
+I'm stimulating
+this and then, you
+know, a millisecond
+later, I'll
+stimulate that at
+that frequency and
+this is what's
+giving me upstates
+and stuff like
+that, so I was
+thinking about
+those experiments,
+but, um, yeah,
+I would imagine
+it would be, would
+be also cool to
+do that, to, let's
+say, stimulate, um,
+one or two or
+three, um, and
+so on and so
+forth until you
+get that threshold
+to turn things
+into compulsive
+behavior and stuff
+like that, so, can
+you also do that?
+Like, you can, um,
+do, like, one, two,
+three, up to
+whatever you need.
+You're right, and
+I, I think you, you've
+got a good
+experiment, though,
+that you just
+outlined, um, I've
+seen that
+mechanistically, that
+experiment done on
+in cortex, where
+they stimulate one,
+two, three, or
+four, and until
+they get, like, an
+avalanche of
+activity or some
+large amount of
+activity, and they
+just kind of see
+where the threshold
+is, um, but
+that's in a
+cortical region,
+which is not
+necessarily dialed
+into behavior,
+same sort of
+phenomena you're
+talking about, um,
+so that's a great
+example of where
+I think somebody
+should use, you
+know, an optical
+cannula or a
+grand lens or
+something like
+that, um, in
+order to, to
+ask that question
+in vivo in, in, uh,
+in an intact
+animal in that
+subcortical
+structure.
+A single
+photon, I don't
+recall off the
+top of my head
+anybody doing
+single, um,
+doing, you
+know, single
+neuron resolution
+optogenetics.
+That's my
+example, because
+first it's just
+a regular
+behavior, and
+then you'll
+kind of have
+a certain
+of the classes
+going on
+combined with
+those behavior,
+and, you
+know, one could
+repeat those
+experiments, and
+then check out
+how many years
+do you need
+actually, yeah,
+with their
+timing, and
+then make
+some retrograde
+stuff, then.
+So there's
+fret-based
+calcium
+indicators, and
+there's fret-based
+indicators for,
+you know, other
+intracellular
+processes as
+well.
+Most of our
+work to date, we
+haven't used it
+that much, but
+there comes to
+mine who's
+gotten a lot
+of use out
+of fret
+reporters for
+different types
+of biochemical
+cascades that
+take place inside
+of cells, and
+neurons in
+particular, around
+synaptic
+plasticity changes
+and the strength
+of connections
+between neurons.
+So we
+haven't done
+projects on
+that just
+now, but
+that's to
+measure changes
+in calcium
+indicator dynamics,
+and the
+second pathway
+can do the
+exact same
+thing, and
+it's completely
+independent.
+So there's a,
+we're doing
+temporal
+multiplexing, so
+there's tiny
+little time
+windows, so
+6.25
+nanosecond time
+windows that
+switch between
+the two
+pathways so
+that they can
+scan
+simultaneously,
+but they're
+completely
+independent, so
+one can be
+scanning a few
+cells, and
+the other one
+could be looking
+at a completely
+different part of
+the brain and
+imaging that.
+So that's what
+we meant by
+them being
+independent scan
+engines.
+We're not
+trying, we
+don't need any
+kind of
+interference pattern
+between them
+at all, they
+don't need to
+cooperate at
+all, they're
+completely
+independent
+samples of
+everything within
+that same
+field of view.
+So they both
+have access to
+the same optical
+volume, and
+they can
+measure neuronal
+activity in
+whatever neurons
+are in that
+optical volume,
+in that field
+of view.
+Now, we've
+been talking a
+lot about
+optogenetics
+and manipulating
+neuronal
+activity, so
+there's spectral
+separation in
+there, so we
+can have one
+pathway be
+activating
+neurons, and
+the other one
+then imaging
+activity in all
+those neurons.
+neurons.
+Now, the way
+that's been done
+in the past is
+that you have
+sounds like
+you're asking
+what did this
+enable, what
+types of
+experiments this
+device enabled,
+is that right?
+Okay, so
+good question,
+thanks for
+asking it.
+So what this
+enabled is
+making measurements
+of neuronal
+activity across
+large length
+scales.
+So neuronal
+circuitry is
+distributed over
+large length
+scales, and
+instruments prior
+to this were
+limited to
+measuring neuronal
+activity in
+maybe a 500
+micron by 500
+micron little
+field of view.
+And so anything
+that was happening
+outside of that
+was hidden.
+And you could
+measure for a
+while and then
+move to the
+other area and
+then measure
+there.
+It's not like
+you couldn't
+see it.
+You couldn't
+see them both
+at the same
+time.
+And it's kind
+of like eaves
+dropping on a
+telephone call but
+only hearing
+one side.
+So if you just
+go to one
+person's house and
+just hear one
+side of the
+phone call,
+you're getting
+some of the
+information but
+not all of it.
+And what we're
+trying to do is
+trying to listen
+to both sides
+of the conversation
+at the same
+time.
+So we're
+looking at
+rare events
+that will
+disappear if
+you go to
+the other,
+if you weight
+an image area
+serially.
+We're also
+looking at
+measuring correlations
+across these
+large length
+scales, which
+you can't do
+if you are
+just measuring
+one area
+then go to
+the other area.
+Those are the
+types of things
+that we're
+interested in
+capturing.
+Katrina brought
+up a few
+days ago in
+a room about
+a new optical
+oscilloscope that
+can measure
+electric fields at
+a much higher
+resolution and
+speed of
+sampling rate.
+So I was
+wondering, is
+that something that
+fits into the
+methods that you
+use?
+Would that be
+useful in an
+optical oscilloscope
+or is the
+imaging techniques
+that you use
+not something
+that would benefit
+from this sort
+of an oscilloscope
+in particular?
+So that's an
+interesting question.
+There's actually
+some work that
+we're doing.
+So in order to
+get two-photon
+excitation, you
+need incredibly
+intense pulses
+of light.
+And those pulses
+of light have a
+certain bandwidth.
+You think if
+lasers have a
+continuous wave
+lasers have one
+frequency that
+they operate at.
+There's a little
+bit of bandwidth
+there, but not
+much.
+But for
+ultra-fast lasers
+when you're
+putting all of
+your photons
+into 100
+femtosecond
+duration pulses,
+you're now up
+to like 10
+nanometers of
+bandwidth,
+sometimes 20,
+50, 100
+nanometers of
+bandwidth,
+depending on
+what type of
+oscillator you're
+working with.
+And all of
+those wavelengths
+of light have
+to make it to
+the same place
+at the same
+time.
+And as we
+all know,
+different
+wavelengths of
+light experience
+different indices
+of fraction.
+There's dispersion
+through systems.
+And so that
+kind of, you
+know, a lot
+of what we
+do, a lot
+of the optical
+engineering that
+we do is
+trying to keep
+those pulses
+of light
+pristine.
+And a lot of
+that optical
+engineering is
+things you don't
+have to worry
+about when you
+are dealing
+with one
+photon, but
+you do have
+to deal with
+when you're
+working with
+multi-photon.
+And so we
+have done a
+little bit of
+work on pulse
+characterization.
+And there's
+actually, I
+have this NSF
+grant that
+has a bunch
+of sub
+projects on
+it.
+One of our
+sub projects
+is working on
+some nice
+ways to
+assess pulse
+characteristics at
+the focal
+plane.
+So knowing
+when all
+those different
+wavelengths of
+light make it
+to the focal
+plane, make it
+to the point
+of focus, and
+what their
+relative phases
+are.
+And so knowing
+that we can
+adjust our
+precompensation
+and table
+optics to
+ensure that
+we have a
+high fidelity
+pulse, you
+know, a
+very intense
+pulse of light
+at the focal
+plane so that
+we're able to
+get efficient
+multi-photon
+excitation.
+So that's
+where I think
+we're getting
+to what you're
+talking about,
+so this ultra-fast
+pulse characterization.
+So there are
+things like
+frequency-resolved
+optical gratings,
+frog techniques,
+tadpole is
+another technique
+where you can
+actually really
+measure the
+full electromagnetic
+field at the
+plane of focus.
+So we do
+work with some
+of that to
+make sure that
+our optics are
+working correctly
+and that we
+have nice
+intense pulses
+of light at
+the focal
+plane.
+Amazing,
+amazing how
+it's done.
+This is rare to
+see a person
+with such clarity
+and ability to
+express that
+in language
+that's easy
+for whether
+they're scientifically
+oriented or not
+has learned a lot
+from this room.
+So I'm very
+grateful to be
+here.
+Thank you.
+Wow, thank you
+so much.
+That's the kindest
+thing I've heard
+all week.
+Thank you so much.
+Thanks for coming.
+Thanks for the
+questions.
+Hi, can I ask
+a question?
+Yeah, go ahead.
+Can you say
+this again?
+You were able
+to measure the
+electromagnetic field
+with light?
+You can reconstruct
+the field?
+Yeah, so there's
+techniques for
+reconstructing the
+field.
+So, you know,
+I mentioned frog
+and tadpole.
+Another one is
+F-sharp, which is
+kind of a cool one
+that my friend
+Benjamin developed.
+I'm happy to send
+references on any
+of this stuff if
+anybody wants to
+email me.
+Oh, yeah.
+I don't know.
+Oh, sorry.
+Lala's, which is
+actually, uh, based
+on sounds, and, uh,
+so I'm trying to
+understand, uh, when
+you added the, uh,
+fluorescence and
+you part of it as
+well, um, because
+when you are forming
+a bond between, uh,
+first of all, what
+kind of bond would
+give us a little
+rusty at the
+moment.
+So, uh, when
+you are adding, uh,
+because, uh, you
+understand...
+If it doesn't work
+or your app crashed,
+maybe leave really
+quick the room and
+then come back in
+that sometimes it
+works again.
+Sometimes I have to
+bring this.
+...project that you
+have is still part of
+the BRAIN Initiative
+and that, uh, this
+paper that you have,
+you had put in
+an open source and
+that, you know, as
+your paper was
+being published, I
+think other
+researches and other
+universities are also
+building up on the
+work that you have.
+So having this very
+significant work, which
+has a lot of
+implications, uh, how
+do you go, uh, what
+is your next step
+moving forward?
+Um, are you building
+up more on this
+work?
+Yeah, so this is a
+question that I would
+like to ask.
+Thank you.
+Thank you very much
+for that question
+because this is
+something that I have
+fun talking about and
+we don't necessarily
+get to get into it
+in a scientific
+paper where we just
+report it.
+But yeah, um, so I
+didn't patent this, um,
+and it's all open
+source.
+Anybody can do this.
+Um, they don't even
+have to tell me we, in
+the supplement of this,
+we have the full
+prescriptions for all
+the lenses.
+Um, it's, we're not
+holding anything back.
+It's very common to
+develop technology and
+patent things or hold,
+hold some information
+back, um, to try and
+make it proprietary or,
+or limit competition.
+And that's not what we're
+trying to do here.
+We're trying to make it
+as easy as possible for
+people to build on
+this.
+And when this paper
+came out, actually
+it's, um, you know, I,
+I moved from North
+Carolina to Santa
+Barbara while we're
+kind of finishing this
+thing up and that was
+a little bit of a
+delay, but, uh, a
+colleague, um, a
+collaborator of mine,
+Jerry Chen, uh, wanted
+to, to build, you
+know, wanted to use some
+of the modules from
+this to build his own
+microscope.
+And so we did and we
+ended up co-publishing.
+So there's a partner
+publication, uh, with
+this from, uh, Jerry
+Chen's lab, um, at
+Boston University.
+And, um, they, they
+built one so that they
+could look at four
+different regions at
+the same time.
+And there's some
+engineering trade-offs
+they had to do, to,
+to do that, but then
+that let them make the
+measurements that they
+wanted to.
+And it was essential to
+have the components of
+this diesel 2P system.
+And I, you know, I want
+this to be useful.
+Um, I also have, uh,
+you know, what, one
+route is to patent
+something and then have
+a company make it.
+And that's totally fine.
+I don't, I don't want
+anybody to get the idea
+that that's a bad way of
+doing things.
+It's not, it's a really
+good way to do things to
+patent stuff and then
+have a company release
+it and then they can
+provide support to it
+and everything, but it's
+not the only way.
+And so the way that we
+chose to do this is to,
+uh, not patent it, have
+it all be completely
+open source.
+Anybody can build off
+of it.
+They can, they can take
+those designs, they
+can take it to any
+optics house, they can
+build it for them.
+Um, you can go, you
+can use the same
+optic house we did as
+well, but, um, you
+don't have to, um, and
+and you can make your
+own variations of it or
+you can recreate the
+same thing.
+So there's actually a
+couple of, um,
+companies run by, by
+friends of mine that
+basically their whole,
+uh, business model is
+that they build, uh,
+rigs for neuroscience
+labs, specifically for
+neuroscience labs.
+I think they've worked
+for other people as
+well, but they, but
+their expertise is
+specifically in
+neuroscience and they
+build two photon
+microscopes and, uh,
+both of these
+companies have already
+sold these diesel two
+piece systems to, um,
+the, uh, to, to their
+customers and they didn't
+have to do any licensing
+or anything.
+Um, so that's, that's
+the model that we've
+decided to go with.
+And I find it exciting
+that, you know, another
+neuroscience lab is
+already kind of taking
+these parts and make
+their own variation on
+it and that there's
+companies that can get
+this equipment into
+other people's labs and
+it's affordable, you
+know, relatively the
+lasers are expensive
+and custom objects are
+expensive, but, you
+know, it's relatively
+affordable, um, and,
+and there's no, you
+know, anybody can do
+it and any company can
+offer it.
+There's no, I'm not
+controlling that at all.
+Thank you so much,
+Dr. Spencer.
+I really admire the
+path that you take and
+that's, you know, how
+science progresses when
+it's open.
+So that's why, um, other
+companies and other
+people, um, try to do
+that, um, open source.
+So, yeah, thank you.
+Yeah.
+Yeah.
+Thank you, Cecile.
+Yeah.
+We're not the only ones
+that do it.
+Uh, that's a good point
+that you make that
+there's, uh, um, you
+know, the UCLA
+miniscope program makes
+a little miniature
+head-mounted
+microscopes and anybody
+can make those.
+Um, there's, there's
+lots of, of models of
+this kind of open
+science and, you
+know, it's, it's not
+like I hate money or
+anything, but I, but I
+just don't want to run
+a company right now.
+So, um, but I, but I
+want this stuff to be
+useful.
+I, I have experiments
+that I want to do
+with it, but you know,
+other people probably
+have even better
+experiments than I
+can think of that
+they want this for.
+And so I want them to
+be able to get it.
+And I don't want to,
+uh, I, I want to
+lower whatever
+barriers I can.
+I think, yeah, go
+wonder if you could
+share with us any
+interesting, um, I
+mean, I think up
+until recently, we
+haven't been able to
+image anything within
+the neuron.
+So, um, you could
+share anything
+interesting that
+probably no one else
+in the room knows
+about, about, um,
+things that happen
+within a neuron that
+maybe we have, maybe
+digital level signals, we
+have subcellular
+resolution, but we're
+typically looking at
+cellular resolution, um,
+or, or bending
+pixels in to be
+individual cells.
+But there's a lot of
+interesting stuff that
+happens in individual
+cells.
+So, you know, neurons
+in cortex, layer two,
+three neurons, they may
+receive 10,000 synaptic
+inputs.
+And the way that they
+respond to those
+inputs are, are not
+equal, right?
+It's not a democracy.
+They, um, those inputs,
+um, some of them have
+preferential influence
+over the activity of
+that neuron.
+And some of them, um,
+if they come in at the
+right time and the
+right combination, they
+can have an outsized
+influence on the
+activity of that
+neuron.
+And this is something
+that, you know, you
+don't, you don't get a
+deep learning or a lot
+of neuron models.
+They'll, they'll treat
+all of the inputs as
+equal and like a
+democracy, but, uh, it,
+in real neurons, there
+are, um, you know,
+privileged pathways and
+things that happen.
+So non-linear synaptic
+integration is sometimes
+what we call it.
+So if there's a pattern
+of synaptic input to a
+cell that depolarizes it
+enough in one little
+portion of the dendrite,
+that dendrite becomes
+depolarized.
+And not only is it, um,
+responding to that
+synaptic input, but it's
+also depolarized
+enough that voltage-gated
+calcium channels and
+voltage-gated sodium
+channels, they're in the
+dendrite, will get
+activated and start
+passing current.
+And all of a sudden,
+something that looked
+like a relatively small
+synaptic input, because,
+you know, three or four
+small synaptic inputs,
+because they came to the
+right place at the right
+time, that neuron
+responds with a much
+larger depolarization
+than it otherwise
+would have.
+And I think this is,
+oh, go ahead, yeah.
+So, uh, so if I'm
+understanding you
+correctly, not only is
+it looking at the
+magnitudes of the
+signals, but also the
+sequence in which the
+inputs are coming in,
+um, a combination of,
+uh, it's like, um, uh,
+it's not just if I have
+A, B, C, it's not just
+if I get A, then B, then
+C, I'll get a different
+result, but also if I get
+A, then 2B, and then C,
+I'm going to get a very
+different result, and
+these are both
+individually coded.
+Yeah, basically, so, um, to
+state it in very simple
+terms, say there's only two
+synaptic inputs that we're,
+that we're paying attention
+to, um, A, depolarizes by
+one millivolt, B, depolarizes
+by two millivolts if they
+just happen in isolation,
+you know, seconds away from
+each other, but if they
+happen within, say, 10
+milliseconds of each other,
+they both come in, the sum
+should be three millivolts,
+right, depolarization, one
+plus two, but actually you get
+five millivolts of depolarization
+because once it gets that
+three millivolt depolarization,
+there are some nearby
+voltage-gated, uh, calcium
+channels, uh, you, you can
+have, you can relieve the
+magnesium block from NDA
+receptors that can, can
+recruit additional current
+flow into the cell, and you
+can get a much larger
+response, a super linear
+response, and, you know, this
+is something that people have
+known is possible for a long
+time, um, in slight, not a
+long time, but, you know,
+let's do a long time, in a
+slice experiments, but the
+degree to which it happened
+in vivo was unclear, and my
+wife, Ikuko, and I did, uh,
+some direct electrical
+recordings from dendrites, so
+this wasn't, we used a two
+photon microscope to, to
+find the dendrites and make
+sure we're on a dendrite and
+see what we're doing, um, but
+the actual measurements were,
+were electrical, from, um,
+wholesale patch plant
+recordings from, from thin
+distal dendrites, and we
+saw this happen all the
+time, so we think that, uh,
+um, you know, that this,
+this sort of non-linear
+component of synaptic
+integration is, is really an
+obligate step in synaptic
+integration, it's not
+something exotic that
+happens under unusual
+circumstances, it's
+basically, you know, an
+essential part of neuron
+function.
+Are you talking about
+inhibition?
+No, I haven't mentioned
+inhibition, yeah, although
+inhibition can modulate
+what I just talked about,
+and we actually, you
+could go, and I just
+published a paper on that
+earlier this year, on how
+inhibition can modulate that
+process, but this is, I'm
+just talking about
+excitatory input and
+voltage-gated mechanisms
+that can, um, that can
+non-linearly amplify
+synaptic inputs.
+Also sequential, as in, if
+I did the, uh, if you
+went one, uh, the first
+volt, the first input and
+the second input, you get a
+different result, or if you
+went the other way and
+went the second input
+first, and then the first
+input, you get a different
+result, or is it more
+like, I'm just going to
+look at the average
+voltages of the inputs?
+That's a good question.
+So, so the order can
+matter.
+It doesn't, it doesn't,
+it doesn't always, it
+doesn't always, you know,
+I'm not, I'm not going to
+argue that this is like a
+really critical thing, um,
+but it can matter, and
+actually my friend Tiago
+is, as I, I think the
+best, um, uh, data on
+this, he had a, uh, so
+Tiago Bronco, um, he had
+a, uh, it was a science
+paper and a neuron paper
+both kind of talking about
+this, where he was doing
+uncaging and slices, so
+this was, this wasn't a
+people, this isn't a
+slice, but he was doing a
+focal uncaging of caged
+glutamate, so activating
+individual synapses either,
+you know, in order along a
+dendrite, either from the
+soma out to the tip of
+the dendrite or from the
+tip of the dendrite towards
+the soma, and found that, um,
+even activating this same
+synapses, if you do it in
+one direction or the other
+direction, you get
+different amounts of
+depolarization, and he has
+some nice modeling and
+stuff trying, you know,
+explaining what's going
+on to that, so that the
+sequence can't matter, yes.
+I just want to say, wow,
+this is incredible, thank
+you for sharing this
+tonight, this is really
+great, a great night.
+Oh, thanks, I'm having
+fun, thanks for all the
+questions.
+Do you want to ask
+another quick question?
+Um, if not, maybe
+Spencer wants to take
+away, and, uh, oh,
+just smile for someone
+else.
+Yeah, you, no, you,
+you're the person that
+didn't ask the question
+yet, so I wanted to
+give you a chance, I
+hope you enjoyed it.
+As, um, Vash already
+said, he, um, really
+glad you came and learned
+a lot, and you developed
+an amazing, you, um,
+toy, so play
+for everyone, and, um,
+you know, it's a really
+great, amazing tool, I
+wish I was, you know,
+and, I like to, I don't
+do much of my
+functionality, but not
+anymore, but I go back
+to, um, I'll recommend
+it to everyone, of my
+colleagues.
+And maybe you'll get
+something else, I
+don't know, so, yeah,
+thank you so much,
+it was really great
+having you, come back
+anytime, um, thank,
+yeah, thank you so much
+for the invitation, and
+please, uh, anybody,
+send me an email, I'm
+happy to, uh, chat more
+about this, as, as you
+can tell, I enjoy
+talking about it.
+Yeah, come, come back
+anytime, like, if you
+have something to share,
+what, you know, come
+back anytime, or listen
+to, um, we'll have
+on Saturday, um, uh,
+another guest coming
+in, she did, she was
+a postdoc at the
+business research, where
+she combined, um, AI,
+and, um, going through
+all kinds of, some of
+physiology, and so on,
+beta, on all kinds of
+levels, you know, genetics,
+gene expression, protein,
+and so on, and, um,
+discovered new art
+amounts, and, um, this
+was, like, a big creep,
+and she's coming on
+Saturday, and then next
+week, we have a
+physics room, um, this
+will be also amazing, um,
+room, I don't know, uh,
+Cecilia wants to know
+that, and then in
+January, we'll have, um,
+after, uh, this is,
+scene of robots that
+replicate themselves, um,
+he will be here with
+this college, presenting
+his work, so, um, yeah,
+please come back, everyone,
+all of the products of
+Tonics Club, we will have
+more opportunities to talk
+with all kinds of
+amazing scientists, and
+thank you so much,
+Dr. Spencer, thank you so much,
+Dr. Spencer, um, I just
+want to ask, are you
+familiar with Dr. Dr.
+Ivan Sikya, from
+University, and I just
+thought about him when I
+saw your work, because
+yeah, yeah, and
+yeah, this one is a
+character, and then later
+on, I think your works
+will complement each
+other, anyway, thank you
+so much, thank you so
+much, thank you so much,
+okay, great, um,
+Dr. Spencer, we usually
+do, like, like, a
+single countdown thing,
+to not just weirdly
+close to room, but if you
+need to read, and don't
+want to be part of it,
+that's not something
+to try, um, but now
+I'm curious about
+if I'm totally going to
+stay, okay, we just
+count down in a silly
+way, so to not just
+close the room, and
+everyone has just gone
+with us, Isaac, you
+want to count down
+too, or you want to
+say, oh, no, I just
+didn't want to miss
+out on the front
+count, with Dr.
+Oh, okay, sure,
+okay, Dr.
+Cecil, what number
+is it?
+Number nine.
+Oh, nine, okay.
+Nine.
+Here we go,
+Cecil started.
+Oh, shit.
+Eight.
+How's that?
+But then I, then I
+disworked it.
+The detail.
