@@ -1,0 +1,438 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: Bitcoin Cameras Cryptocurrency
+First recorded: 2021-09-24T02:54:24.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/413e26b2-58b5-4b60-a80b-5c2dc5d0176e
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+What is consciousness? What is the mind? These are the things, these are the big questions I've been thinking about since, probably since 1985, when I saw Short Circuit.
+And, and the movie, that movie I think was the first one that caused me to imagine that a robot could have a human-like mind, right?
+That's when I really, I think that's when I really started to become, become invested in this idea that robots could have human-like minds, right?
+And, um, so then at the age of 16, I, I, uh, I stumbled across a psychedelic drug called LSD.
+And, uh, somewhere around that time, that's when I learned about the Doors of Perception and Aldous Huxley and, uh, the whole history of the tradition of psychedelics in San Francisco.
+At the time, I was living in Southern California, but I, but that history just really, like, made San Francisco a fascinating place.
+And, and eventually I, I ended up moving to San Francisco and spending more than a decade of my life here.
+At the same time, I, I moved to San Francisco, actually, to start a new feedback business.
+Because I never, because I never, because from the movie Short Circuit and from trying LSD and, and thinking about LSD as a way to, to go beyond the doors of perception to understand how my mind actually works.
+Um, that idea just fascinated me and it drove me to be attracted to, um, to, to, to, uh, neuroscience.
+To, uh, to, machine learning.
+To computational neuroscience.
+Uh, at the point that I, you know, I wasn't clearly focused right away on what I wanted to do.
+I thought, well, maybe I want to be an author.
+And write a science fiction book.
+And then I, and then I, I had, you know, I had similar thoughts at an early age as I wanted to be a writer of a magazine at an early age.
+Like, when I was still in elementary school, I had this idea that I would play all the video games.
+Because, because, because all the console makers would send me all the games for free.
+So I could review their games for them.
+And that was my, that was one of my dreams.
+And then, and then I, I said, okay, well, I, I like writing.
+And I, I eventually started, uh, of course, Silicon Valley Global News.
+And before it was Silicon Valley Global News, it was Virtual Reality Media.
+VR made it out.
+And, um, so, I, okay, let's talk.
+Um, one of the major questions with the book was, okay, well, how do I present this if it turns out that some,
+um, something that was described by someone else turns out to be inaccurate?
+Okay.
+How can I say, well, this is for sure how consciousness works.
+And it turns out that one theory that I cited turns out to be, gets retracted because it's wrong.
+And there's another engineering explanation.
+Okay.
+And I thought of a way around that.
+Okay.
+So, I'm not, so, I'm going to say that the engineering, I'm going to say that the, one of the statements that my book is trying to make
+is that the, is, um, is that the functions of the brain are in part a mechanical engineering problem
+that needs to be, that needs to be solved.
+Mechanical engineering.
+But what I can provide is, is a framework that based on what we, based on what is known about the brain so far,
+I can provide a framework that I call a self-aware network or, or one possible way in which self-awareness
+could emerge from something that is brain-like.
+So, I'm going to describe basically, um, what I call a self-aware network based upon how I think the brain works
+today.
+And we'll just call it like a mark one concept, right?
+Like, I'm creating a model and then I'm sharing it called mark one.
+And then, and then what will happen is as I learn more about how the brain actually works, like the mechanics of it,
+I'll update it.
+I'll update my book.
+I'll update, I'll come out with model two.
+So, it'll be, there'll be self-aware networks model two.
+It'll be improvements on the original.
+So, so there are things like, the self-aware network has such great complexity and
+some of the ideas that I have about how to make it now will turn out, may turn out to be, uh,
+amazingly, uh, prescient and accurate.
+Some of them may turn out to be wrong and it seems like it's plausible and likely that most of it will be wrong.
+Even if you could actually make an actual self-aware network out of a machine like this, like the one I'm describing.
+But, I mean, I'm saying it's probably wrong in terms of like, there's, there's probably something about how the brain does what it does that
+escapes even the mark one vision of a self-aware network.
+Um, so, I, there's, I, I, the reason I say that is because, like, um, the, the, the number of things that even, like, neurons can do, uh, may continue to stun us and surprise us.
+Just, the, the, the, just, like, the sheer number of things that even one neuron can do.
+Um, and, so I, let me pause it for there.
+So, um, yeah, so, like, the world will see a day when, uh, when Russians rise up against the, Vladimir Putin and, um, and the dictator of Belarus.
+And, uh, they will, uh, forcibly remove these men from power.
+Like, I, I foresee a day when the people of Russia will rise up and, and, they'll, people of Russia will awaken to the evil that their government has sown around the world in terms of right-wing fascism.
+Um, and the terror that comes from right-wing fascists, um, including, you know, supporting, like, the rise of Donald Trump and, um, but also right-wing fascism in America and throughout Europe and in Asia, just, like, everywhere in the world.
+Like, they just want, because if you look at the history of the oil companies, well, the United States is the biggest polluter in terms of oil.
+And then, um, and then, beyond that, um, Russia's entire economy is dependent on oil.
+And, um, you know, China is a huge consumer of fossil fuels as well.
+And so these are the, these are the big brothers.
+And I imagine, like, all the big brothers are the big countries in the world, including the, including the, the nuclear powers is how I start my thinking there.
+But then next is in terms of economic power, um, access to high technologies, advanced technologies, the ability to innovate on the cutting edge, um, but, uh, purchasing power, economic purchasing power, um, and, um, and the, the, the GDP, the global, uh, gross domestic product.
+Uh, but it's, it's like everyone has guns and everyone is, is potentially rivals, but we've, we've all, all of these countries, everyone in the world has sort of co-invested in one another.
+Like, for example, you know, the world, there's, there's all these U.S. bonds that have been bought by other countries.
+And the thing is, like, U.S. consumers, uh, are committed to paying their taxes, uh, which will eventually pay for the U.S. bonds.
+And so, we very much need, like, and so that situation's like, yeah, well, I mean, I have guns that could blow your country away, but I kind of need you to fulfill your contract so I get my money back.
+Like, everyone is invested in everyone else in the real world, right?
+So, like, it's, it doesn't seem, um, it seems that there are, there are, uh, some reasons for huge conflicts between large groups of people.
+And, um, one of those is, you know, when, when, uh, you know, one country decides to seize, uh, businesses, cancel contracts, and, um, you know, they, they deny, they, um, they void past agreements, right?
+And so, um, they create economic barriers, or they create economic barriers, or conflicts with other countries.
+And, um, and so there's, you know, countries can, like, create, like, fake currencies, and, and, um, you know, there's all sorts of things that, that can go wrong.
+Well, I think that, you know, with, with Bitcoin, or cryptocurrencies in general, but, um, but, but I'm, you know, thinking of, like, the top, you know, Bitcoin, Ethereum, like, the top coins, that you have, uh, potentially a kind of, um, stability in that kind of ledger system to be sort of like a global financial stability situation.
+Such that, like, um, it would be hard for one country to pressure another country.
+It would be, it would be harder in some sense for one country to financially leverage, uh, pressure against another country.
+So, so sanctions would be, um, possible, um, but also it would be possible for people to get around sanctions.
+Different things you can do.
+It's a cryptocurrency, it's like, it's like a nationless currency, right?
+It can't really be controlled and manipulated by one, by one actor.
+And so that, like, takes only one point of leverage for a country.
+And, and, like, an individual country can't just, like, inflate the supply, right?
+And so the amount of, of cryptocurrency is going to be very, like, right now the prices have seemed to be unstable, but it's going to be, like, gradually stabilizing over time.
+Um, like, um, like, it would be the most stable price because it is, because it's the, it will be the most stable thing.
+Like, the, what's, the instability is, what's happening is, is the dollar is unstable.
+The dollar is, is wobbling.
+The dollar is, is, uh, destabilizing.
+Um, and, um, so that's why the cryptocurrency is sort of jumping in value, but in reflection, it's like, yeah, well, actually everything else is less valuable than we thought, given how, what shaky ground is.
+Like, the more you realize that, you know, we've lost, like, the dollar's inflated a thousand percent since it went off the gold reserve.
+It's inflated a thousand percent, so it's like, um, you're getting to a point where, um, the dollar is destabilizing because it's on shaky ground.
+It's just going to keep inflating, you know, at the same rate, two or three percent per year.
+So that in another 70 years, it's going to be worth one thousandth again of what it's worth today.
+But by contrast, Bitcoin will never inflate.
+It can't inflate.
+You can't oversupply it.
+There's a, there is a finite supply of it.
+Um, yeah.
+Right.
+And, uh, so it can't inflate.
+It's money that doesn't inflate.
+And it can't be, it can't be manipulated the way a currency can.
+And the Treasury can't just print more of it.
+So that, that puts governments, that puts organizations in, like, like, so right now, like, a government can inflate it.
+Like, if it, if it runs out of money, it could, it could borrow more money.
+It could inflate itself to be even larger.
+Right.
+Government could inflate itself to be even larger.
+And so it couldn't inflate to be even larger.
+But, but if, but in a Bitcoin world where a government doesn't control money,
+um, then a government can't just, if a government spends too much money and needs to borrow more,
+it, um, it has to borrow from the people who have Bitcoin instead of a bank that it, that it,
+uh, instead of from the Federal Reserve, a bank that it sort of pseudo-controls, right?
+Like, like, Congress just declares, we're going to borrow this much, and then they borrowed it, right?
+But, if, if the Federal Reserve can say no, it could be like, no, we're not going to lend you money.
+Because it's like, that's not how it works, right?
+It doesn't, it doesn't make decisions like that.
+Federal Reserve could say, no, we're not going to lend you any money.
+If they could do that.
+But it's, it's like, um, instead of needing to ask permission from the Federal Reserve,
+they disordered it, they just, they just, you know, they disordered the money, okay?
+We're just, we're going to make this decision on behalf of the people that we're going to borrow this amount of money.
+The Federal Reserve can't sell Congress now.
+But maybe that should exist.
+Like, maybe it should be in a situation where Congress has to apply for a loan.
+And then financial strategists will analyze it, analyze the financial worthiness of it.
+If it's not financially worthy, then they're obligated.
+If it doesn't, if it doesn't make sense, if it doesn't make financial sense for a government to be getting a loan
+to do what, to do something that it is asking to have a loan for,
+then, um, we need dramatically lower cost national policing.
+Where we use, um, a combination of satellite, drone,
+and a combination of cameras from satellites,
+from, uh, high-flying drones, from low-flying drones,
+from cameras on the ground,
+attached to buildings,
+through, um, you know, community,
+um,
+community, uh, surveillance programs,
+right, where we're protecting the community by installing police cameras in certain areas.
+Um,
+including, in some instances, they can be,
+depending on, on the vendor's, uh,
+the vendor's, uh, level of cooperation,
+they could be hidden cameras,
+hidden police cameras.
+And then, also, um,
+we can have cars,
+basically, like, the,
+we can have, um,
+self-driving car companies do a buy-in where they have to collect,
+um,
+camera data,
+that,
+can be sold,
+and,
+so that the police can buy,
+um,
+the camera data,
+from all the self-driving Ubers,
+Lyfts,
+Teslas,
+and,
+then what happens is,
+we'll use AI to look for,
+uh,
+we'll use deep,
+three deep learning to look for,
+uh,
+and tag,
+situations that look like they're dangerous for real people,
+for human beings.
+all the things that we want medical responders to respond to quickly.
+Okay?
+That's first of all.
+Second of all,
+um,
+they'll look for,
+uh, crimes in progress,
+and,
+um,
+especially violent crimes.
+Okay?
+Third,
+the AI will look for
+people who have warrants,
+who are out for them,
+but,
+specifically focusing on
+the most dangerous and most violent people,
+who will cause the most physical harm down on people.
+And from there,
+there's different priorities on that.
+This is just one example of how it can work,
+but,
+the,
+the point is that
+we create a national program
+that is
+going to
+vastly lower the cost
+of policing,
+and,
+uh,
+the cost of national security.
+A lot of,
+a lot of the intensity about,
+um,
+around border patrols
+will be relaxable
+with this new policing system,
+because,
+uh,
+AI will help us
+more,
+more rapidly,
+and more intelligently
+distribute the resources
+of the nation's police forces
+and military forces,
+so as to,
+um,
+protect the nation,
+both locally and,
+uh,
+and on a national scale
+from,
+um,
+from anyone who would cross the border,
+legally or illegally.
+Right?
+We're just like,
+instead of trying to focus our eyes on the border,
+it's time to broaden our eyes,
+and just,
+uh,
+focus on,
+um,
+keeping the peace,
+um,
+in,
+in,
+in the national sense,
+with,
+without,
+um,
+without so much,
+uh,
+I think there has to be some,
+some protection of,
+of individuals in the sense of,
+of,
+we don't need to be,
+besides people who have learned software,
+for them.
+We don't need to be storing,
+like,
+the,
+um,
+we don't need to be looking for people's identities.
+Right?
+Let them be,
+sort of like,
+vaguely anonymous.
+Right?
+There's no reason that that has to come,
+that their personal privacy has to be violated.
+AI can be written in a way that,
+that,
+that,
+the people can improve of,
+knowing that,
+their personal privacy is not going to be violated by the government.
+It's not like,
+the idea is to,
+make a system that citizens accept,
+because they can see,
+that,
+um,
+that no one,
+that,
+it's not like a policeman is over their shoulder,
+uh,
+trying to copy their homework,
+or,
+learn the password on their credit card,
+or,
+or,
+um,
+see what they're typing on their computer,
+if they want to,
+write a paper on something,
+or if they want to,
+you know,
+work on a secret project at,
+Facebook,
+the Apple employee,
+the Facebook employee,
+can know,
+that,
+the computers that are part of the national security program,
+are,
+are designed to not pass on,
+personal information,
+about non-suspects,
+to,
+to hire,
+to,
+uh,
+to,
+device to,
+device to,
+devices above their level in the network.
+They,
+the people at Facebook,
+are,
+trying to,
+okay,
+so this is,
+this idea is like,
+um,
+what if I just,
+you know,
+as SFVR,
+like,
+what if I just pipe business,
+like,
+anyone who needs a booth,
+like,
+go talk to this artist,
+we're gonna like,
+load up this artist,
+and this artist,
+and this artist,
+with work,
+okay,
+and then,
+so what you're gonna do is,
+you're gonna make a booth,
+in Blender,
+and you're gonna send it to me,
+and that's how you're gonna be part of the San Francisco virtual reality,
+event,
+is you're gonna make a booth,
+or you're gonna hire an,
+an artist,
+who's gonna work with you to make a booth,
+based upon your graphics,
+like a 3D booth,
+it'll have like your,
+uh,
+billboard,
+with your graphics,
+and your titles,
+but it'll be a new original art,
+like a 3D space,
+that users can explore in WebVR,
+and WebXR,
+which is how,
+um,
+I'm going to deliver the event,
+okay,
+like these are the instructions,
+for how to,
+participate in the San Francisco virtual reality immersion summit,
+okay,
+this is what you do,
+this is how you make a booth,
+if you,
+you can make it in Blender,
+you can make it yourself,
+or you can hire one of these artists,
+um,
+this is the style we're looking for,
+and then just put your company logo,
+then just like change from there,
+like make your company's logos,
+and,
+you know,
+reinterpret the style for yourself,
+for your company,
+but,
+you know,
+here are the artists you can hire,
+to help you make that,
+all you need to do,
+is deliver the 3D model to us,
+um,
+and,
+if you create,
+like shaders,
+and so forth,
+you can share those,
+and we'll incorporate them,
+uh,
+if you,
+have special animations,
+you can share them,
+like you can animate this,
+your,
+your booth can have a video,
+you can have interactive points,
+we're gonna deliver it to the customer,
+in WebXR,
+we're gonna ask you to,
+basically do all the compression,
+we're gonna show you how,
+um,
+and,
+you're going to,
+uh,
+link your page,
+and we'll create a representation,
+of,
+your page,
+that links to your page,
+from,
+our conference page,
+so our conference page,
+will be the link,
+to all the pages,
+in the conference,
+once the,
+consumer is on your website,
+they're on your website,
+so you're gonna host it.

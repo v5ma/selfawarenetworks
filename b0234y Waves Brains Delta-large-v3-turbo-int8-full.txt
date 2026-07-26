@@ -1,0 +1,106 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0234y Waves Brains Delta
+First recorded: 2021-08-06T00:10:01.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/cff90cfc-3f76-4793-96ca-72d71ae09044
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+If you care too much about being right, you might fail to dream. That's why.
+It was always inevitable that someone would look at neuroscience and deep learning and come away with, at a later time in the timeline of humanity,
+and come away with different ideas based upon their unique life experiences that would add insights and enable us to basically create next-generation neural networking.
+This was an inevitability. Eventually, someone would put these perspectives together, which is part of why I'm releasing this book,
+because it's inevitable that humanity would figure this out anyways.
+But it's also sort of like, it puts us in a situation where you look at, you know, like what Yanling Kuhn has,
+his advocacy for open sourcing AI.
+He's even, like, really gotten on DeepMind's case about, you know, the times when which they announced the results of a study,
+but didn't immediately release their code in an open source way.
+They, like, they had really great code that they were not sharing for a while.
+And, but, you know, thankfully, you know, I think that, you know, the open source spirit continues thanks to people like Yanling Kuhn.
+And so, eventually, we continue to see some open source code releases from the people at DeepMind.
+And I think that I have to basically be in an open source spirit now with explaining my insights.
+So, I had this idea about how to program a conscious robot.
+And I, the thing is, this is, this is, it's like, it's potentially dangerous technology.
+And releasing it is, like, giving every single human being the chance to build their own nuclear weapon that could take over the earth.
+But I, I am following in the footsteps of people like Yanling Kuhn, I think, in, in, in terms of, in terms of being,
+continuing to be a believer in the value of, of open source, even when it comes to potentially dangerous technology.
+Um, because, even without my contribution here, deep learning by itself is potentially more dangerous than nuclear weapons.
+Um, you know, just by, like, it is possible to, uh, to basically multiply, it's, it's like, it's like multiplying your thinking power.
+Like, imagine if you could multiply your thinking power.
+That's the kind of thing, like, if you could, if you have artificial persons who are working on behalf of your country.
+Let's say that you have, like, a virtual, let's say that your government has, like, a virtual army of people who are working on behalf of your government.
+But they're all, they're all, like, uh, human beings in, in, in, in one sense, in the sense of being self-aware.
+They're all, like, people in the sense that they can talk, they will be able to talk to us, they'll be able to understand us, we'll be able to understand them.
+Um, uh, these artificially intelligent, uh, people, the artificial people, um, they, uh, will be able to interface with, with us if we, if we allow it.
+If we're comfortable with it, we can connect our brains and interface with them.
+Um, but what, what gives us sort of, like, what gives each person, each individual, their own separate agency is the, is the, um, uh, is, first of all, the, the, the structure, the modularity of, like, you know, every, every brain is its own module, right?
+And a brain has modules inside it.
+It's like a fractal of modules.
+And, um, so, so in a sense, uh, you know, our, our thinking is distributed.
+Like, we think of, like, um, you know, the octopus, you could think of the octopus.
+It has, it has, um, distributed brains in all of its, its, um, limbs.
+And this octopus is, uh, going to, what's the word?
+Uh, it's, it's like, each of the brains is sort of independent.
+But also interdependent, right?
+Like, it can, it can disconnect one of its legs if a predator is flaying for it.
+And, and maybe, could we, I wonder if we could argue that the octopus is actually, like, several different animals.
+Like, each, like the, like the main pod, the head, is one animal.
+And each of the limbs is another animal.
+And it's sort of like, they, they're, they're, um, like that, see, the, the reason why, the reason why I created that analogy is like, okay, well, wait a second.
+If the octopus is actually, um, many different animals connected into one flesh, then, um, perhaps it's possible to imagine that you could have, um, a distributed, uh, you could have multiple animals functioning as one being.
+Um, because they have learned to modularize but continue to have communication.
+And so what I'm, what I'm talking about right now is the, is the EEG, uh, the EEG frequency range synchronization between two, two speakers.
+When two human beings get together and talk, um, there is, uh, a sort of synchronization in their tonic oscillation, which is in the EEG frequency spectrum.
+Uh, so you can see that they are synchronizing while they are communicating.
+And this, uh, this sort of, like, suggests that, that, um, that it's not, it's not simply, it's not like, it's, it's not like you're going to, like, when you are having a conversation with another person and you are on their wavelength, they're, they shift to your, your wavelength.
+Like, when two people are talking, they get, they talk because they are linked, they're able to link onto the same wavelength.
+They're able to spill onto the same wavelength.
+That's why they're talking.
+Right?
+And, um, and, um, and that's what you, that's what you can see in some of the medical imaging where you study two different, where you, where you study, uh, human beings, uh, brain, multiple, the, the brain waves of multiple EEG participants.
+And different scenarios, some in which they're not talking to anyone else.
+And then, you know, you measure them when they're talking to people.
+And so, you know, I, I don't know what, what, I don't know the whole body of studies out there on this topic, but I think that, um, I would love to see a study where they had, um, one person's, uh, brain waves were entrained, uh, with music, with audio and visual to reach, like, a very alpha state.
+And, okay.
+They might feel very sleepy.
+Maybe you can give them some alcohol.
+They feel more sleepy.
+It's late at night.
+Um, but the other person, like, you want to have one person who's, like, a lot of alpha waves.
+Maybe, maybe, um, maybe some beta waves.
+You give them a cup of coffee and, um, have, have them, you know, sit in a really brightly lit room so all of their melatonin is inhibited and they feel very bright and very alert.
+Okay.
+And, um, so what we're going with this is, like, okay, so what you do is you have, is you bring in a number of subjects, like, three subjects.
+Okay.
+Now, each of them, each of the subjects is prepped because they're also entrained in, uh, either, either, like, there's, maybe there's six subjects.
+And the first three are going to be entrained in, uh, delta waves before they come in.
+And the second three are going to be entrained in, uh, alpha waves before they come in.
+Um, okay.
+But, so what happens is each, each person meets up, uh, with, uh, one of the, um, I think I need to devise it differently.
+Okay.
+Let's have six people total.
+Okay.
+And half of the people will entrain with alpha waves and half of the people will entrain with delta waves.
+And we'll pair, um, the alpha and delta wave, uh, one, one out, we'll pair, uh, one of the alpha waves with one of the delta waves.
+And then we'll pair one of the alpha waves with one of the alpha waves and we'll pair one of the delta waves with one of the delta waves.
+And we want to watch, we want to watch, like, um, but we'll pair each person with each person, I think.
+Yeah.
+yeah yeah i think so because the idea is and we'll do it in such a way that they're oscillating like
+from one from from a person that has um an alpha wave to a person has a delta wave to a person has
+an alpha wave to a person has a delta wave like they're going to cycle through like so you have
+six people that means they have five people they can match with and um so they're gonna so we're
+gonna arrange it so that they um they they keep switching from from either the people who are
+trained with delta or people who are trained with alpha okay but the idea is to watch and see
+okay well what are if their brains are going to synchronize are they going to is the person with
+delta going to pull the person with alpha down or is the person with alpha going to pull the person
+with delta up or are they going to meet in the middle is there are we going to see like uh like
+a lot more theta and beta frequencies when you combine some people who have been trained with
+alpha and delta will you see a lot more frequencies in the middle will will the um will the equilibrium
+does the equilibrium actually have uh a median like it like does it does it actually calculate a
+median and then distribute the median to both brains because that that is fascinating right
+because it has to somehow somehow in order to synchronize right the the brain has to has to
+tune into a frequency pattern and then sort of copy it but if you have two brains and they can each tune
+into a frequency pattern and you start them on dramatically different frequency patterns
+then um how do the two brains come to sync will they sync up in delta will they sync up in alpha
+or will they sync up in theta or or or beta and you do this with like every pairing so um you can
+multiply this experiment like the more people the better like if we had 10 people and they were all
+to take turns then um then uh that would reveal that that might help reveal uh what we need to see

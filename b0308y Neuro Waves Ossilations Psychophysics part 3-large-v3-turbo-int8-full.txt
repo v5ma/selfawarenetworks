@@ -1,0 +1,701 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0308y Neuro Waves Ossilations Psychophysics part 3
+First recorded: 2021-04-21T08:36:57.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/20affb9c-033a-4a58-9f38-6e3225e9141c
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Um, I left, I left because I had, I had to go to sleep. I think I left around midnight, so I don't know if everyone left at the same time as I did, but I'm, I don't know. Uh, yeah, but Ram, Ram, we can manage to pull him in for that part of the conversation at some point, because he's just, oh yeah, now he knows a ton of stuff. What was your question for him? I remember, I remember, yeah, I was there. I remember you, you were asking for Ramsey.
+I didn't actually have a question. It was somebody, I didn't want to like call them out by name, you know, but they were like right above, right above me, uh, with a mic and they were kind of, uh, um, asking when I heard hippocampus and then there's all sorts of chemical reactions and I'm not really sure what all of those are. That's when I pinged Ramsey and was like, oh, he'll know, you know. Um, but then when he got there,
+uh, the other people who had been engaged in that part of the conversation had already left and, you know, that person wasn't speaking up and I didn't really want to call them out by name and be like, oh, so-and-so was talking about, you know, because, yeah, just so many reasons.
+Um, um, so I was just going to say, you know, I, I could take on the, the, the, the question if you remembered what it was, but I, but if not, that's okay.
+Um, yeah, it wasn't really mine, but definitely it's surprising, you know, like very surprising to me and now I feel super naive, um, that, you know, I underestimated by like 20,000 times the number of neurons.
+Yeah. So, um, so that book, by the way, so I, so we were listening to an excerpt from a book called, uh, Rhythms of the Brain and, uh, what I did was, um, at certain points, uh, so I was just having my Kindle, uh, I was having Alexa read from my Kindle.
+And that's what, uh, at the point that I was in the book. And, um, but while we were listening to it, I started, I started making notes and I could share, I could share some of those notes with folks if you want.
+Like I took screenshots and I'm sort of like, um, I'm super interested because I've been doing things like around the house and with the dog and everything.
+So I didn't make any notes. So please.
+All right. So I'm just like looking at this one note right here. So the, one consequence of decreased interconnectedness in larger brains is the increased segregation of the neuronal pool.
+Uh, so Ringo, uh, 1991 suggested that this segregation may be the force for more specialization in larger brains.
+Uh, for example, the functional differences between hemispheres.
+And then, uh, let's see, uh, I'm trying to remember what, it's like, so like I'm, I'm learning to use the highlighter in the book when I do screenshots.
+Cause like sometimes it's like, oh, what did I save that for?
+Do you already have that? Okay. Uh, let's see.
+Oh yeah. So it's interesting to hear that. Um, so basically the neuroscientists didn't invent, uh, in a sense they didn't, uh, I guess they didn't invent EEG.
+It's basically like, um, it's basically like the same sort of, uh, thing that is used, uh, that was created by seismologists.
+So they, they, they wanted to measure earthquakes.
+And that's, that's basically the technology behind, um, the scalp EEG.
+And, um, uh, but so the, yeah, so the seismologist task is literally identical to that of a neurologist who attempts to localize the source of an epileptic seizure from scalp recordings.
+The source localization problem, as engineers call it, the inverse problem, is the task of recovering elements and location of the neurofuel generators based upon spatially average activity detected in scalp electrodes.
+Um, so I actually got into an argument, um, that lasted several months because I couldn't understand, uh, exactly the, this, uh, the limitations of source localization.
+It wasn't a real, I mean, it wasn't a real argument.
+It was like, it was like a series of, uh, discussions around a paper.
+Uh, see, there was a paper, um, that came out and I think I linked it on Twitter a while back, but let me see, it was called, um, EEG source, uh, localization with, um, with, uh, oh, with, um, uh, DBS.
+So do you know DBS is a deep range simulation device, right?
+Uh, and EEG, so that has to be surgically implanted.
+And so the idea of, of, of, you know, basically source, EEG source localization is, um, is a technique that comes from, uh, trying to predict earthquakes, uh, which was super cool.
+So I had no idea this was true.
+This is something I learned today.
+Um, but I, uh, I saw this paper, um, comparison of imaging modalities.
+I think this might be it.
+Okay.
+Let's see.
+If it, if it is, I'll link it to it.
+I'll link it to Twitter.
+Uh, let's see.
+P, Denoising Depth EEG Signals.
+Oh, this might be it.
+Okay.
+So, oh, wait, here it is.
+No, it's, it's okay.
+It's called, so the name of the paper is called Subcortical Electrophysiological Activities Detectable, uh, with high density ED source imaging.
+Okay.
+So this paper, I'm going to link on my Twitter.
+And, uh, let me go ahead and open up Twitter in another window.
+And I'll copy this.
+So this paper came out in January of 2019.
+No, February, sorry, February of 2019.
+And I took this to a neuroscientist who, what, who I knew who was, uh, at, uh, UCSF.
+Uh, he was a guy that I talked to every day for, like, more than a year.
+Uh, and, um, and I, and the argument was this.
+It's like, it's like, well, look, if you can use, if we can prove that with, with source localization, that with EEG, that we can figure out that signals are coming from the thalamus, right?
+Uh, or we can figure out where they're coming from in the brain, then we could use this basically to reconstruct, um, the, the origin points of, of signals within the, the brain.
+And then, um, and then we could, um, use that to basically do, uh, you know, something like, uh, um, psychophysics, right?
+Where you're comparing what someone is, uh, seeing to their brain activity.
+And, but we could do it, like, in a high-dimensional, three-dimensional way, and we could take the three-dimensional model, and we could, we could, uh, do analysis of the three-dimensional activity with the three-dimensional world.
+And he's like, no, no, no, no, no, no.
+We don't need to make this 3D because, uh, because, uh, because we're not getting, we're not getting any new information, uh, from, from it.
+We, like, everything that, like, the whole 3D plot is from the 2D information.
+By making it 3D, we're not getting any more information.
+So there's no, there's no point in doing that.
+And I was like, but I want to do it.
+And, uh, and I thought, well, if it's 3D and we can visualize it in 3D, we might gain more insights by looking at it, right, than, versus having it in 2D.
+Um, but, um, but also there's many other, um, arguments that came up in the call today, basically explaining why, um, you know,
+uh, in fact, it's here, it says, it says here on this page, this is why it says this page.
+It says, the difficulty of source localization has to do with the low, uh, recitivity of, um, of neuronal tissue to electrical current flow,
+the capacity currents produced by the livid cell membranes, and the distorting and attenuating effects of glia, blood vessels, pia, dura, scalp muscles, and skin.
+Um, uh, so the result is that EEG recorded by a single electrode is a spatially smooth version of local field potentials under scalp on the order of 10 to the, uh, 10, uh, centimeters squared.
+Under most conditions, it has little discernible relationship with the specific, uh, patterns of activity that the neurons, uh, of the neurons that generate it.
+Um, and this is kind of what he was saying.
+In fact, this is almost exactly what he was saying, which is me, which makes me think he read this exact book.
+No, he's been...
+Well, holograph...
+Go ahead.
+Oh, no, I was just asking, like, is it such a feat to, uh, construct 3D holographically from the two-dimensional imaging?
+Well, um, uh, so, like, with this paper that came out in February 2019, they basically proved that the, um, the, the, that the, uh, source localization that they were doing was, uh, was correct because they compared it to DBS, uh, imaging.
+So DBS also, um, did a measurement, and they compared the two measurements, and DBS is implanted, uh, deep in the brain, and, uh, and they were able to verify the, the, the prediction of the source localization.
+Um, but, um, I guess you could make an argument that, um, that, uh, being able to do that once doesn't mean you're doing it, you're doing it right every time, and it may be every time you try to do it, it's gonna, it might, you might be close one time, you might be way off the next time.
+It's just like, it's like trying, maybe it's like trying to convert, um, you're, you're trying to convert something that's 2D into 3D, and there's just too many different ways to, for, for that 2D thing to be reconstructed in 3D.
+That, um, maybe, maybe you can be right some of the time, but too, but too, but too much of the time, you might be wrong, and, and, um, and, uh, so maybe that takes, like, this, like, the experience of someone who's, who's been doing medical imaging with MEG and EG for 30 plus years.
+Like, he was, like, no, no, no, this is too complicated, um, in terms of, like, you know, there's, like, too many things moving around, like, like, like, like, the thing about, like, yeah, like, you know, you can stick these, these, uh, Neuralink electrodes in your head, um, and, um, but they're gonna move around every time you breathe.
+I mean, that, that is something, like, I didn't learn from reading. Somebody, you know, well, actually, no, okay, I did, I did learn that from reading.
+Is that, like, that is something that, like, you might not, um, you might not learn it, like, in the, in your first year, that you might, it might take, it's, like, that's, like, really deep knowledge, you know, um.
+Sure, sure, but I, I sort of feel like we fail our way to success, right? So, if, if we, if we build something and we know that it's wrong, that's great, because if we know why it's wrong, then we have more direction of what's right, so.
+Yeah.
+Um, let's see another one.
+Long-term, long-term, definitely, long-term, big team, long-term thing.
+Yep.
+Let's see another thing, uh, oh, so, um, I, I guess I took a note that, so, magnetoencephalography, uh, Berger, uh, so this is a funny point.
+So, he was a physician, not a physicist.
+Had he understood Maxwell's equations, he, he might not have started electric, uh, recording electricity from his son's scalp in the search for the, um,
+Oh, that was his son, no, no, no, oh, that, no way, oh, no, okay, no, yeah, no, okay, I understand.
+So, so the story with, with, um, with, uh, Hans Berger, uh, was, he was, uh, he was the physician who, uh, sort of pioneered, uh, scalp EEG.
+And, um, the story was that there was, uh, there was a story about, in his day, a woman had a, um, a, um, she had a dream that her boyfriend fell off a horse and she wrote a letter, uh, right when she had the dream.
+And, um, um, and, uh, at the same time, around the same time, her boyfriend fell off a horse.
+And the, and the, and the letter could not possibly have moved fast enough, um, for him to, uh, have received it or gotten word of it before he fell, he fell off a horse.
+So, um, so Hans Berger thought, well, that, um, that telepathy was, was involved.
+He thought that her brain had, through the air, sent a message to his brain.
+And, um, so, so that, that's sort of missing from this part of the story that we heard today.
+But the part of the story that we heard today was that, yeah, it's, it's kind of funny, like, if he had, if, um, if Berger had been a physicist,
+instead of studying electricity, uh, he would have, um, he would have studied, uh, electromagnetism.
+And, uh, so that, I thought that was really just a funny, funny point.
+The story of Hans Berger is really hilarious.
+He was trying, he was trying to prove, uh, telepathy.
+But he ended up, you know, being, like, the, one of the most important figures in, in, uh, in medical imaging.
+You know, the founder, the founder of EEG, basically, in a way.
+I don't know if that's the, the right, the right phrase to use, but, but basically.
+Um, one, uh, one, I, I guess it was really good to hear something.
+Like, a lot of people have been asking questions.
+Like, well, how clear is, uh, how, how's, how's the spatial resolution of, of, you know, EEG versus, um, you know, ECOG versus, um, uh, Neuralase.
+And, uh, here we got this, like, this, this book really just, like, whenever, uh, there's, like, okay, here's, here's all these questions that, that, uh, you're going to be asking in the year, uh, 2021 on Clubhouse.
+And here's all the answers.
+And they're all in this book.
+And on top of that, we're going to, we're going to tell you about the spatial resolution of MEG and, um, and, uh, all these other different centers, too.
+I was like, oh, great.
+That's what, good time.
+Good timing.
+Um, if I can, I, I, I don't want to sidetrack too much from tonight, um, but I am wondering, uh, if you would consider doing a book club, uh, to do, like, a, maybe, like, a weekly chapter by chapter and, um, you know, just to try and get, like, a really broad, broad array of perspectives on it.
+And, and, um, because, as you said, I think this all does relate to so many, uh, room topics that I find myself in.
+Yeah, um, so, I mean, I, well, I've got to be careful because it's, like, you know, um, but, um, I've been thinking about that a lot, um, actually, because, because, uh, see, there, see, there are people who, uh, are doing, they're trying to do book clubs, right?
+But what they're doing is, like, they're going to, like, take turns reading the book, and then, uh, and they don't get to it.
+And, uh, and then you go back the next week, and it's a different book.
+You're like, wait, how did you get through an entire book?
+So you go back the next day, and it's a different book.
+It's, like, a different book every day.
+It's too much jumping around.
+Um, I think Roy has a pretty good layout.
+Um, so, like, I'm in, I, I'm, uh, in that book club for Minsky's, um, Society of Mind.
+And it's, it's, you know, it has been everybody taking turn, well, not everybody, but, you know, uh, maybe half a dozen people each week taking turns, reading, um, chapter sections, and then usually several hours of discussion.
+Um, but it's been going pretty smoothly, uh, as a model, where it, you know, uh, we're getting through a chapter each week.
+And then, of course, there's the discussion for several hours, and then there's the after-party discussions for several more hours.
+And then there's the part, you know, part two after-parties.
+Um, but I'm really enjoying that, and I don't know, like, I wouldn't try to set it up, but I'd definitely love to participate.
+Um, okay, right on.
+Um, I, yeah, I've been thinking about doing that a lot, so, um, but it's good for me to hear what you're saying about, um, about someone else's project, uh, being very successful.
+Because, uh, because, um, I haven't seen a very successful version of that yet, so maybe that could be served as a model, uh, to, to try to, um, do it, do it well.
+Um, okay, so, so, tetrodes, um, tetrodes, uh, when this came up, this was really cool, because, um, this almost has, like, a direct, direct correlation to, to Neuralink.
+And it's sort of, like, I felt like this part of the book really kind of, like, explained, um, what they were trying to solve with, uh, with Neuralink, in terms of, like, um, like, the different kinds of, like, um, let me see it here.
+I'm just looking for something specific on my note here.
+Uh, so, tetrodes are especially useful in areas with high packing density of neurons, where isolating, isolation of individual neurons from nearby peers is, uh, nearby peers is difficult with single wires.
+Under ideal conditions, a tetrod can record up to 20 well-isolated neurons.
+Uh, so, and then it says, um, okay, but then it says, for this reason, uh, so, so the, the, the pyramidal cells, cortical pyramidal cells,
+generate extracellular fields that flow mostly parallel to their soma-gendritic axis, uh, so, for this reason, the, uh, action potentials can be detected several hundred micrometers from the selma, uh, in the proximity of thick apical dendrites.
+The lateral spread of current is more restricted.
+Nevertheless, tetrodes can hear pyramidal cells as far away as 100 micrometers lateral to the cell body.
+Okay, and an extracellular spike amplitude decreases rapidly the function of distance from the neuron.
+Uh, and then, so, so, so this is like, so I'm, so right when he said 140 micrometers, I'm like, I'm typing that into the computer and I'm looking it up.
+I'm like, okay, so how much is that distance?
+And then right after that, he says, he says, he says, he says,
+A cylinder with a radius of 140 micrometers contains approximately 1,000 neurons in the rat cortex, right?
+So, so, like, okay, so that means that, like, that means, like, the Neuralink, a Neuralink electrode, maybe, each one of them may be able to, to listen to a thousand neurons, uh, depending upon how tightly packed they are, right?
+That's interesting, right?
+And then he, then when he, he starts to describe, like, the, basically the limitations of, of, um, of the, uh, so this is like something I want to kind of revisit.
+Because he's describing, like, all that, he's, you know, basically you can triangulate the position, you can attempt to triangulate the position of a neuron.
+And he describes how you, how you triangulate the, um, uh, the, uh, electrical, um, I forget, how they use triangulation with, uh, with EKG, right, with the heart, uh, to, um, but he was, he was making that analogy, okay, if you've got more than, if you've got three or more electrodes and you can, you can, you can try to figure out where, where the neuron is.
+But then, then he starts to go into all these, like, different problems, well, you know, different parts of the neuron, it could, could, um, could, uh, an action potential could, could come from different parts of it, from any part of it.
+Uh, and, um, which was interesting, because, like, you know, like, an example, his examples were, yeah, well, so it could be, like, the, the, the dendrite and, and the, and the soma have to sum together to create the action potential.
+Any part of it, like, I guess, I guess, I guess, I guess, um, the, the spike, uh, reading could come from any physical part of the neuron, which is, which is a little bit weird, I'm not sure why, but, um, but, but, but, but, like, if a neuron is really long and it, it, it, it, it intertwines with a lot of other things, and, you know, that, that means that, um, and, you know, sometimes the spike might come out over here, and sometimes it might come out over there,
+And then, if you're, if you just have, like, you know, you know, 20, you know, um, three different wires in there, and you're trying to figure out, well, where is this neuron exactly?
+It's just, it's making your job a lot more difficult, right?
+So, like, now I'm thinking again about, okay, well, um, the fact that, that, uh, a hair in the neural link is, like, 16 different electrodes, right?
+And they're putting in hundreds of them, right?
+They're putting in, like, I guess, no, not hundreds, they're putting in hundreds of hairs, but it's, like, you know, they're putting in, like, um, like, you know, 3,000 electrodes at once.
+And, and there's a really good, this is, like, the really good reason for why.
+Because if you're trying to, like, really get precise about, um, you know, which, about which, uh, neuron is firing exactly, you know,
+then, uh, then you're going to want to have a lot of electrodes to be doing triangulation and, and, uh, and, uh, yeah, yeah, that's basically it.
+It's built, like, a really sort of, like, yeah, but did he say something about a frequency versus timing issue?
+Um, in different, yeah, he did, um, that, he was talking about, um, uh, when you're doing, uh, like, so he, that, that came up in the context of, uh, the scalp,
+uh, measurements with EG, and he was trying to say that, um, uh, you, with the, uh, uh, you're getting, like, um,
+I think, I think it was something to the fact, like, you get it, you're, you can get a time series,
+but when you're talking about the power bands, you're not, you're not, you're getting a frequency,
+and it's not also, it's not, like, sort of disconnected from the time series.
+And, like, if you just use a Fourier transform, it's, like, just frequency, it's not also time.
+But then, like, if you use, like, wavelets and use, um, the, uh, the, uh, the other kind of Fourier transform,
+I forget what it's called, but then you can, um, oh yeah, so, like, so if you're doing, like, a Fourier transform on,
+not on, not on the whole, uh, not all of time, but basically on a very discrete amount of time,
+or if you're doing, like, wavelet, um, then you could, um, then you could have, um, both, uh,
+time and frequency domain, if that makes sense. Um, is that, uh, sort of, but, but I'm just sort of,
+like, I think that's, that's an area where I have more questions. I don't know if you, I don't know
+about you, but I, that's, like, uh. Yeah, yeah, that's, I, yeah, I mean, I'm, thank you for doing
+this. I'm, I, you know, right now I'm just trying to think of, like, who are all the people that I
+hope don't have anything else to do with, you know? All right, uh, so let's see. Because I know that
+between all of the minds that kind of float around in these circles on here, I know that everybody has,
+you know, a little bit of data here and a little bit of data there, and, um, yeah. And isn't that
+great, isn't that great when, like, you're talking about something and neither one, neither person
+can, can really knows the answer, and then someone else says, oh, I know the answer, and they, like,
+pop up on stage. Yeah, yeah, yeah, absolutely. I love that. Um, but that's not every, I guess it's
+not all the time, but I guess, let's see. Um, okay, so there's one, okay, so there's, I saved a note
+because, um, there was a page where they said, in other words, the brain does not operate
+continuously, but discontinuously, using temporal packages or quanta. And, um, the designers of
+general-purpose programmable computers recognized a long time ago that networks with cycles have
+orders of larger capabilities than networks without cycles. Um, the wavelength of the
+oscillatory category determines the temporal windows of processing and, indirectly, the size
+of the neuronal pool involved. It follows from this speculation that different frequencies favor
+different types of connections and different levels of computation. In general, slow oscillation
+can involve many neurons in large brain areas, whereas the short time windows of fast oscillations
+facilitate local integration, um, largely because of the limitation of the axon conduction delays.
+So, I mean, I guess, so, there's, there's some of this, like, I feel like I need to read this
+again tomorrow, but some of this, I'm like, yeah, so, like, like, yeah, the fact that it is discrete,
+um, so, I wrote this, I wrote this article, uh, called, um, called Humans Are, uh, Metal Robots,
+and, uh, you can find, I think, I think that's the title, let me look at it, so let me go to
+svgn.io, and I'll see if I can find it on Twitter, but, um, but the reason I said that is, it's not,
+it's not a joke, it's, it's, uh, humans are metal robots in a valid sense. It's because our neurons
+are full of, uh, metal, like the calcium, uh, our neurons have, uh, potassium and, uh, sodium,
+and, uh, and they use calcium, and these are metals, and, but not only that, let me, I'm going
+to link this article on Twitter, uh, but we process things, uh, not in an analog way, but in a discrete
+way, and I, I still have, uh, that we have, uh, these, a lot of neuroscience groups, uh, and people
+will say things like, well, humans don't, like, we don't know what consciousness is, and,
+and, uh, and, uh, and I'm like, you just say, I don't know, because, because, uh, there's a lot
+that, um, I, well, anyway, that's, that's the whole point of what I'm writing, but anyway, so,
+so here, so here is, um, the book that I'm writing, I'm writing a book that basically points
+out that human, I believe human beings have, with the current research, have already solved
+what consciousness is, but if you look at this article that I just posted on Twitter,
+let me just put, hang on a minute, let me hit it right now, okay, so that article is
+Humans are Metal Robots in a Valid Sense, um, here's the thing, so.
+Sweet, thank you.
+Yeah, yeah, so this is, like, this is full of research papers that I referenced.
+I didn't just, like, this is not, like, I didn't reference, like, some holy book, this
+is, like, there's research papers in here, like, written by major scientists, and one
+of the things that comes up is, is that, um, uh, the brain, uh, processes information, uh,
+in discrete, um, steps, discrete forms, so here, so, point number three, the brain is
+digital, it's not analog, it processes discrete information like a computer, a recent paper
+changes the dominant paradigm of neuroscience for at least 50 years, so that was in May 4th
+of 2018, but what's interesting is, he's saying that in this book, and his book predates that
+paper, so I, I, so that's really cool for me, because now that there's an older source,
+and now I need to, like, um, I believe in, he, he, he put the reference in the back of
+the book, so I, I think I, I may either have to go back and, and get the source, or, or I
+did, or I took a screenshot, I don't know, but, but, um, but yeah, that's really cool.
+Um, so my article, uh, references a later source, and, and, uh, his book is much older,
+so, uh, I have to, I have to change the, uh, I have to do an update and say, okay, no,
+the actual credit, uh, for, for the origin of the human brain processing things in a discrete,
+uh, step, uh, another thing.
+Yeah, take the, take the cue from, uh, J.G.
+Frazier, and, um, just make that the second edition has all of the new footnotes you've
+found since the first.
+Yeah, yeah, this, this book is, this book is one of the best books, I mean, I've read
+some great books, this book is one of the best books that, that I've read, uh, so far.
+Um, I'm really excited about this book, and I'm really excited about the sequel to this
+book, because it is just, like, it's shock full of, like, great references, and clear writing,
+and it has this broad scope, uh, it covers a vast number of topics, I mean, I, so, I mean,
+I also have on my Kindle, I have the, I have the, the book, um, when I was, I started reading
+about how he, in the earlier part of the book that wasn't, uh, in the call today, uh, earlier
+this week, I think yesterday, I was, I was reading about his, um, he was, he was talking about
+the, the, um, how the brain is constructed, um, how the, how the network, the network, um, the network
+of the brain is, is constructed, and, and I was like, this sounds like Olaf Sporn's, and I'm, I
+like, so I, Olaf Sporn's book is also on my Kindle, it's another book that I've read part of the way
+through, and I'm still finishing, but, um, I flipped back to Olaf Sporn's, and I'm reading it, I was like,
+yeah, this is like, this is like, he's like the same, there's a lot of same ideas here, and I, and then,
+and then I flipped it back to this book, and he mentions Olaf Sporn's, like, five or six times,
+it's like, oh, okay, so, all right. Yeah, where, where, what time zone are you in? You should jump
+in on the, um, the Minsky book club, I think you'd find it interesting, we're, we're, I think it's
+chapter eight this week, uh, so, you know, it's already cruising through, but, um, yeah, I think
+Pacific, I'm, I'm in Eastern, so I think it's 8 30 on Thursdays, p.m. I see, it must be getting
+really late for you right now, yeah. Oh, no, I, I sleep at odd times, um, but the, no, I was just
+saying, if you jump in on that, on the, on the Minsky book club for Society of Mind, um, comes at it,
+you know, would you, would you, um, would you consider sending me, uh, the time, the time to
+show up on Twitter, and, uh, that'll remind me, if you, oh, yeah, yeah, yeah, I'll hit you on
+Twitter, thanks, yep, so one, one thing is, like, um, you know, like, I love it when people, like,
+the show up in a group that, where the topic is neuroscience, and people will say, scientists have
+no idea what qualia is, it's this magical thing, and we don't like magic, and all this, here it is,
+on page, here it is, like, in, in the page, it says, if so, then, one over F dynamics,
+maybe use the functional architecture of underlying qualia, what, okay, so, no, it has
+been covered, if the people, this is in a, this is in neuroscience, it, it's not something
+that, um, it's magical, this is, uh, like, an actual thing that, that, uh, they cover in
+a neuroscience textbook, okay, so, and on top of that, like, you know, I was looking at this
+reference for, um, basically, uh, this guy, he, he talked about this, like,
+five or six times, I think, during this, during this, uh, recorded call, he, he says, uh,
+so, LaBette, uh, was this, um, you know, this guy, he's saying that basically, like, that conscious
+experience requires the engagement of the appropriate, uh, brain networks for hundreds
+of milliseconds, and I'm like, yeah, I've heard, I've heard this idea before, right, right, like,
+so, like, if someone is unconscious, or someone is conscious, like, like, okay, what's the
+difference, you know, about the anesthesiologist with their, their theories of the brain
+leaving the body, it's very amusing, but, um, but then, it's like, yeah, but, okay, so,
+but what is, more precisely, what's different, right, and, uh, what, what, what about when
+I'm awake, and there's some things I'm not conscious of, and some things that I am conscious
+of, like, what, you know, there's, um, you know, how does, how does something go from,
+you know, being something that's outside my awareness, to something that I'm suddenly
+aware of, you know, and, and the, this was answered in 2004, by, by Labette, and he's
+like, yeah, this is, like, he nailed it, this is, like, consciousness is a temporarily,
+a temporarily active pattern, done, like, they solved consciousness in 2004, like, I told
+you, well, there's still a lot of good debate to flesh out these ideas, right, there's still
+a lot of good debate to be had, um, but, uh, I, there was, there was a bit of a joke there
+and there, but, I, but the point is, I think, um, yeah, there's, like, this book is chock full
+of, like, great references, right, it's one of the best, my, my major point by saying
+that, and, and the other thing was that this book is just amazing for, like, this, the scale
+of all the different topics that it covers, and all the different research papers that
+it covers, and, and, like, the, you know, when I pointed out that, basically, it was, like,
+this, this whole chapter sounds like the entire, like, he summarized the entire work of Olaf
+Sporn's, this is great, and it's, and, and then he references Olaf Sporn's five or six
+times, it was just, it's magnificent, it's, like, this is, like, this is, like, this book
+is, like, if you could, if you could take, you know, 20 years of, uh, 20 plus, 20 plus
+years, I don't know, 200 plus years of neuroscience, really, because, you know,
+Hans Berger is, and, and there was this whole point in the beginning when he was talking
+about, you know, Kajal, and, uh, you know, the, the guy who, one of the guys who, like,
+was, who, like, in first, like, in the 1800s, uh, Ramon and, and, uh, and his rival Kajal
+were both, like, um, you know, the first to be, they were staining neurons, so they could
+image, basically, that, and, and they, they had all this, they drew all these, like, they
+made these drawings, basically, or, or I don't know if they were, like, um, prints or something
+from that, from staining neurons, and they basically created, like, some of the first
+illustrations of, um, of neurons in the brain that, uh, that we, that, that are in the,
+sort of, like, the, the, uh, modern history of neuroscience, right, and this is, like,
+in 1800s, and so he really, like, he covers, like, the past 200 years of, of, um, neuroscience
+in this book, except that this book is, uh, outdated, and there is a newer book, though,
+so this book is, like, um, see, I don't know what, what year it was released, but, uh, it's
+just, let's see, type it up, rhythms, or hy, rhythms of the brain, by the way, uh, so rhythms
+of the brain was, what year was it? If anyone gets there faster, go ahead and shout out the
+answer, what year was the book, why isn't the year up, like, a little bit more obvious,
+let's go back one, and maybe check the Wikipedia, there's a PDF, I think you can get the book
+for free right now, I think it's on the web for free, whoa, okay, let me share the link,
+okay, like, everyone, if you're still here, you can have a copy of the book that, that, that
+Twitter was just, uh, that was just being read, uh, for free, so I'm going to go ahead
+and copy this, and this is called Rhythms of the Brain, I'm going to go ahead and copy
+this, wow, that is awesome, awesome for you guys, I bought a, I bought a copy, I think my
+copy was 40 bucks, um, but yeah, if you look at my Twitter right now, uh, that is the, uh,
+that's the book right there, that we were just playing, um, yeah, and I did not see the year
+when I was checking that out, so I said the year was, uh, it was published in 2006, so this
+is an old book, 2006, uh, for neuroscience, but it is just great, and then he's got a newer
+book, so I, um, after I've done with this, I think, um, come back, so here, so this is a,
+this is another note that I took, this is a remarkable observation, he says, in essence
+the claim is that a collective pattern recorded from a small portion of the cortex looks like
+a pattern recorded from the whole, this scale and variance, or cell similarity, is a decisive
+characteristic of fractals, I almost, like, fell out of my chair when he said that, I was
+like, what? I don't know if you heard me, I made some sort of sound at the time, I was
+like, fractal structures, uh, such as riverbeds, snowflakes, fern leaves,
+trees, tree arbors, and arteries, and fractal dynamic processes, such as pink noise, cloud
+formation, earthquakes, snow and sand avalanches, heart rhythms, and stock market price fluctuations
+are so similar in that any piece of the fractal design contains a miniature of the entire
+thing, and, uh, so that knocked my socks off, I did not expect that to be in this book, um.
+Yeah, that gave me huge smiles, because, and that I want to see modeled three-dimensionally,
+even, you know, just holographic, whatever, because, yeah, so many reasons, yes.
+I'm, I'm with you, big smiles, feeling lots of validation, loving that, yes.
+Uh, all right, so let's see, another note that I took was, uh, the recorded signal, in fact,
+may contain more information about the observer's brain state than about the input, because the
+process is an interpretation or construction rather than a reflection, to use terms borrowed
+from, uh, psychology. In order to predict the present state of the brain, one needs to have
+access to recent history. So, um, and he also mentioned that this term, uh, uh, that I wrote
+down called, um, neuro, neurophysiology. Okay. So the title of this, of, uh, oh, actually it's
+not, so, so I usually titled the, the group, uh, uh, neurophysics, right, and then, um, no,
+no, no, no, no, no, I'm sorry, I'm messing this up, not neurophysiology. Uh, that's not
+what he said. Uh, psychophysics, psychophysics, psychophysics. So the, so the name of this group
+was almost neurophysics, and I changed it at the last second and took out the physics part,
+but then he, because I have a group also on Facebook that's called neurophysics, and,
+um, but he said psychophysics, and I was like, wait a second, what is that? And I looked
+this. So neurophysics here is, you know, when we're talking about Hans Berger and EEG and
+like the actual, you know, the oscillations of the brain, that, that, this is the topic
+of neurophysics. Psychophysics, uh, we're, we're now, like, we're not only talking about
+neurophysics, but we're comparing the neurophysics to someone's real, real, real, real world
+experiences. So psychophysics is like, uh, the real world, uh, we're trying to interpret
+what a person's real life experience is, uh, to, to the neurophysics of their brain, which
+is like really interesting. Cause it's like, I wasn't aware of that term, which is something
+I got that was very valuable. So I could almost like rename the, the, I was thinking about
+rename, renaming the, the, the book, uh, and actually the group in, on Facebook from neurophysics,
+uh, uh, plus to, um, something else. And I was going to go with something like neurophysics,
+uh, plus nerve gear, plus brain, plus brain, plus, I'm sorry, plus brainwaves, plus rhythms,
+plus oscillations, and something like that. But I, but, and, but I, I, I haven't really
+settled on what to name it. And all of a sudden there's this new name, psychophysics. Uh, so
+neurophysics and psychophysics, psychophysics includes neurophysics, right? Uh, wow. And
+then, um, and then, uh, the point was that, uh, the, the thing is like, well, the recorded
+signal is this. Okay. So the recorded signal is not what you just saw right now. He says
+in the book, in order to predict the present state of the brain, one needs to have access
+to its recent history. So what he's saying is like the, the signal that you're seeing in
+the brain, the, the neurophysics that you're detecting with your, uh, with your brain sensors,
+with your neural link or your, you know, your other brain computer interface, um, that doesn't
+represent, um, what you're seeing in that moment. That represents, um, the room and everything
+that happened in the last, you know, minute maybe. It could be every, like the table, the
+chair, the, the mirror, the wall. Yeah. Like all of that stuff is part of the brain signal.
+So you have to take whatever's happening right now and everything that just happened to in
+the, in the, in the brain's recent history. And really, that's really what the brain signal
+is. So that, that really like, it's a, it's, it's not a reflection. It's a construction.
+And that, so I, I, I highlighted that because that is a particularly powerful point to make.
+Um, especially like, you know, in, in, in these, uh, group conversations about, uh, brain
+computer interfaces, you just gotta remind people it's, it's, it's, it's not so easy to
+decode what's in the brain because there's, there's, it's, it's, it's a, it's a, if you
+think about your own sort of conscious space right now.
+It's our recording. Right. So it's our, our own recording and encoding according to what
+we have our attention on. Yeah. Yeah. And, and, and maybe that points to like why, um, you,
+you don't, you don't see the same patterns necessarily repeating over and over again.
+You give someone the same stimulus, but maybe now they're in a different room and, uh, or the
+air is different or the sounds are different and, uh, or the day is different. They're just
+aware of the fact that the day is different. It's not the same day and the, and their brain
+patterns are going to be different. So like, well, that just makes your job as a person trying
+to like decode what brainwave brainwaves are a lot more difficult because it's like, it's
+not the same picture from one moment to the next, uh, with the same signal. So this is like
+a really complicated, um, so, so here we go. Uh, there's another note. I said, experience
+requires the engagement of appropriate brain networks for hundreds of milliseconds. The
+delay between Lebet's mind time relative to physical time is the favorite argument of philosophers
+to question the unity of the mind. Experience requires, oh, no, no. So that was, okay. So
+that was specifically a conscious experience. So I already made that point right there. Um,
+okay. So then, yeah, that was the point about Lebet's self-inconscience, which was humor. Uh,
+there's obviously a lot more to it than, uh, you know, we're not only talking about conscious,
+uh, just being like aware of something. Um, that's, that would be more like awareness, right?
+So the generalization of, uh, the relationship between physical stimuli and cognitive events has
+come to be known as psychophysics, right? That was, that was another note. And psychophysics
+was the term. Uh, so let's look at the, another note. So several recent experiments provide evidence
+for a scale-free and spatial fractal nature of scalp EEG recorded over extended durations. That
+was the reference, I believe, to the, uh, the fractal. Scale-free and spatial-free. So here
+was this idea that basically, like, every mammal, like, every, every brain that's similar to our
+brain is basically a fractal, like a fractal of the same program. That, that was like, that was
+mind-stretching in an alarming sort of way. I was like, what? Wait, what? What? Like, think about
+it. Like, it's like someone saying, okay, basically, okay, like, every part of your brain is the same
+and every piece of your brain is, like, basically the same as the whole of your brain. And every animal
+basically got there is like a, there's like a copy of your, basically your brain. And do you, like, do
+you, like, I mean, do you, are like, is your, like, are you? Yeah, we're, we're verging on field theory
+here, you know? And I love it. I actually really love it. It's also, it's a, it's a little bit
+frightening though, because like, think about, like, all the pigs and the cows trapped in, in, in, in the,
+and they basically all have your brain, right? I mean, this, I, it, this goes, yeah, this is why
+I say I'm studying quantum, you know, um, applied quantum field woo. And, you know, but that's why
+I always phrase it that way. Because yeah, if you look at, if you, if you look at the fractal nature,
+you can't, you can't really divorce one discipline from another. Just each discipline focuses on
+specific aspects. But if you, you know, if you take this to heart, then yeah, it is all just
+copies of, or not copies, but you know, it is all just a fractal array, right?
+Yeah, no copies. Yeah, it's a self-repeating pattern. It's all copies of the same sort of,
+uh, cognitive structure. Um, let's see, we've got, I think I like template better than,
+yeah, I don't know. I don't know. I haven't decided yet.
+So, uh, there's, there's some, there's some things that, uh, were really good. Like,
+uh, he was talking about like phase locking, phase modulation, and, and he was talking about like, um,
+how the oscillations are not, they don't synchronize. Um, and one part was because the
+brain is very big. Um, but also because some, some, uh, oscillations are pulling on other oscillations
+and they're keep, they're preventing, uh, you know, oscillations are like, they're sort of bouncing
+off each other. And like, I'm just like imagining, like when he says, I'm like imagining like, you
+know, if you've got like, uh, you know, have you seen like those binary star systems where there's
+two stars that are just like rotating around and they're not like merging. They're just like,
+they keep forcing each other to like rotate somehow, but they're not like they're, they're
+orbiting each other, but they're not like, um, they're not colliding. And it's, it's just like,
+are, it's like you might, a person might think, well, if you bring oscillators together, they're
+going to synchronize and they might, they might become a single oscillation, but maybe also the
+another, other situations might happen. And what's happening is that like they're, they're
+preventing the, you have oscillations that are preventing other oscillations, uh, from,
+from, you have slow oscillations and fast oscillations. And there's, there's, um,
+um, well, isn't it always like an approximate, um, sync, sync, sync, sync, you can finish that word
+for me, but isn't it always approximate? Like it's net, it's never exactly synchronized, right?
+So they can push each other towards being sync, synchronous, but it's never exactly, um,
+I'm taking this from other, I'm, I'm trying to, uh, yeah, I'm trying to make consistency across
+broad strokes here, so. Yeah, so I mean, the, sort of like, well, the big, the big picture that I got
+was that, um, you know, he, he was, he was saying that the, when he was saying that the brain was
+operating on multiple timescales, and I started to think about this, um, I was talking to, uh,
+one of the neuroscientists on Clubhouse a while back, um, someone, some named, his name's like F.
+Scott or something, but, but, uh, I was talking to him about, like, well, how does, how, how does the,
+um, how does the, you know, when, when you go from, like, the neocortex, uh, I'm sorry, when you go from,
+like, you go from, like, the, um, from the thalamus to the neocortex and back to the, you know, you go
+through, go through each of the layers and then back to the neocortex, how does this, how does the flow of
+information work, and he started, he began to lay out, so, okay, so he's like, it's, it's like, you
+have connections that go from the thalamus to the B1, you have connections that go from the
+thalamus to the B2, and basically from the thalamus to each of the other layers, and then you have
+connections that go from the B1 to the B2, and then you have, so you have, you have data going
+from B1 to B2, and then from B2 back to B1, and we kept going into it, it's like, okay, so it turns
+out, like, like, like, everywhere you go, you've got stuff that is, is going in six different,
+uh, directions, it's going, it's going, it's going up, it's going down, it's going left,
+it's going right, it's going forward, and it's going back, right, like, it's, uh, uh, and
+everything is connected to everything else, and it's sort of, oh, right, and it has its own
+internal up and down, so, yeah, yeah, we've got, like, we've got, we've got two different
+horizontal directions, and we've got the up and down, right, and, um, and so that's,
+that gives you, like, six different directions for information to go in, so it's, like, these
+are, so, like, it's, like, um, oh, I, I was gonna, I was trying to throw, um, I was trying
+to throw spin in there, oh, spin, spin, yeah, so, yeah, so, um, how would spin work again,
+a little bit, um, um, I mean, different people phrase it differently, but I usually think of
+it as that internal push outward or pull inward, or, but I think it's, you know, it's usually
+spin up or spin down, but, so, I think there's eight, I think there's eight instead of six
+directions, so, okay, I'm choosing, I'm choosing right now to think of it as eight rather than
+six, because I'm thinking that there's, like, an internal compass, okay, so, yeah, so, I'm
+thinking, I'm thinking, okay, so, not only do we have, like, six different directions plus
+two additional directions for spin, so maybe, maybe there's, maybe, okay, we'll just say,
+okay, there's, like, six to eight directions, okay, because we've got spin, which I don't
+really understand what, what you mean, but I, maybe I should type that down, that head
+down, so, so, so, so spin, spin would give you two additional directions, um, it's just
+one value, so, but, yeah, okay, so, there's six different directions, okay, that it, that it
+all has to, yeah, I'm, I'm, I'm sorry, I, I, I should have kept that little, uh, internal
+tangent, more internal, apologies.
+No, that's, that's fine, uh, but, so, I was, I was going to try to complicate the picture
+anyways, um, so, so, then we, then we're hearing today that, um, we've got, um, things happening,
+we've got oscillations happening on multiple timescales, so the brain's operating on multiple
+timescales, so, so, um, I don't know exactly what that means, in terms of, like, is, are the
+multiple timescales, uh, sort of, like, happening at, um, at every layer of the cortex, um, you
+know, layers, like, one through six, if you're going to divide it up that way, um, are there
+multiple timescales there, or are the multiple timescales, like, um, you know, like, the brain,
+like, the brainstem might be the, the start of the brainstem might be the slowest, like
+he was saying, like, the brain evolved to have, like, a slower timescale, and then over time,
+as you get up to the, you know, cortex, the timescale, it gets faster, right, sort of like
+an evolutionary, uh, perspective that he brought up in the book was that, that when, when we
+were, uh, when, you know, if you go back in time, organisms didn't, didn't need to move
+very fast, they didn't need to, need to move, uh, very much, because, uh, the food was plentiful
+and, and life was easy, and then as things got, as things got harder, organisms became,
+um, much more highly coordinated and, and had much bigger brains, because they had to
+try a lot harder to get food.
+I mean, I feel like that would just be too easy to say that each, um, each kind of layer
+has its own, um, I just feel like that would be too easy, I feel like it has to be more complicated
+than that, like, each zone, if you want to call it that, is operating at multiple, you
+know what I mean?
+Okay.
+I mean, well, I, I'm saying this is, this is sort of, I mean, it, it, it, um, you know,
+beyond theory, someone, someone may have, uh, already, like, uh, done the research on
+this, and, uh, so that, so I don't know if anyone in the room knows, but, but we may
+be, this may be a paper that's already been done.
+Yeah, so let me just make a note, uh, to figure out.
+Yeah, if you're gonna laugh at us, at least jump up here and clarify for us.
+Yeah, so let's see, let's see.
+The question is, um, uh, does, uh, does the brain, uh, operate on multiple time scales,
+uh, vary between layers, or between, uh,
+Function.
+Cortical regions?
+I think it's the same, yeah.
+Or, uh, between, uh, old brain and, uh, new brain?
+So this, these are questions to look up, so we don't have an answer today, it sounds like.
+Uh, yeah, and then, and then, of course, you know, so there's, there's, uh, we were talking
+about the other day that there's, see, who's the guy?
+There's a guy who, he's got this new technology that's super cool.
+He's in Clubhouse, and, and, um, he was in the last, um, the last, uh, podcast that I,
+recorded, and, uh, he was saying that, um, uh, he was saying that he's got this, uh, new sensor
+technology that can, uh, it can detect, basically, it can, it can identify DNA, it can identify
+a virus, by its DNA, by, like, uh, blasting it out with, uh, uh, an electromagnetic wave,
+blasting it with an electromagnetic wave, and that, that EM wave is going to, um, he was
+saying that it's going to, uh, so, so, yeah, so he was saying that basically the EM waves
+can, can change the, uh, temporal, uh, spatial, and phase characteristics of, uh, of, uh, bacteria,
+viruses, and DNA, and, uh, that, uh, and, and because of that principle, he's able to basically
+use electromagnetism to detect, uh, DNA.
+So he's going to, so he's going to involve a device, he's, he's, he's invented a device
+that he says will be able to detect, uh, you know, you put your finger on it, and it could
+tell you if you have, um, uh, uh, a virus, a very specific virus that everyone, it's been
+the topic of news for the past couple years, right?
+Do you, do you remember who this is, or if they have their own club or anything?
+Yeah, yeah, no, um, yeah, he's, uh, he's, uh, uh, he's, uh, uh, he's, he doesn't
+have his own club, he has his own company, he's got his own patents, he does not have
+his own club, because that's trivial when you're, when you're this guy, you know, his
+kind of, his company is, like, raising hundreds of, hundreds of millions of dollars, something
+like that, but, um, well, his fans should make him a club then, his, his interns.
+Oh, I see.
+All right, well, you can make him a club.
+Uh, my, my Twitter is down at the moment, is your Twitter up?
+Uh, but I have him, I have him on my computer, and, uh, if you send me a message, I'll send,
+I'll send you his info when, when my, my stuff is, uh, back online.
+Okay, let me see if I can get to the, to the final notes.
+Um, oscillations allow for temporal predictions.
+That was something that I heard, I was like, oh yeah, of course, uh, how are you gonna make
+a temporal prediction if, if there's no oscillation, right?
+That means it's like, yeah, if you're not, if you're, if your memories are not temporally
+active, how are you gonna make, uh, a time-based prediction?
+Uh, just, I feel like there's like, like a self, it's like, it's a statement that seems
+like it's true, like, with, you don't need to prove it, like, you know, self-evident,
+it seems like a self-evident statement.
+We hold these truths to be self-evident.
+Yeah, that oscillations allow for temporal predictions.
+So, am I the only one who thinks that's funny?
+But, all right, moving on.
+So, the brain states are labile, and I, I said, what is labile, self-organized state?
+Does labile mean self-organized state, or what does it mean?
+Let me look this up.
+That was another thing he said.
+Open to change, readily changeable, or unstable, fluctuating wildly, or decomposing readily.
+Um, so the brain states are open to change.
+We'll go with that.
+That's interesting, because he says, yeah, they're unstable, but they're also a self-organized
+state.
+Okay.
+All right.
+Yeah.
+I get it.
+Uh, so the brain...
+Dynamically self-organizing, maybe?
+Hmm, okay.
+Yeah, sure, we'll go with that.
+Yeah, I mean, I think he mentioned the old idea, or it's made with an old idea, and now
+it's kind of a new idea, that the brain is always on, um, on the edge, or the brain is
+always, like, um, it's always, uh, at the, at the tipping point, uh, like, um, like, basically,
+like, uh, you know, if you have, like, uh, um, what do you call it?
+If you have, like, uh, like, uh, like, like, sand on a hill, and all it takes is, like,
+one more, one more, uh, grain of sand, and you get the avalanche, right?
+And, like, an avalanche of sand, and so the brain is always moving towards that tipping
+point, so it can react quickly to incoming data.
+So, so, so, yeah, so he was like, yeah, so the brain has all this oscillation happening,
+all this regularity happening, and all these, like, regular patterns, which is something
+I read about in, in another book, where basically, you know, he was saying, yeah, it looks like,
+people are saying that, that what's happening temporally, uh, sorry, I'm sorry, what's
+happening, um, on the, on the, uh, the tonic scale of things, basically between, like, zero
+and 200 hertz, there's a lot of, a lot of, um, tonic oscillations that don't, they don't
+seem like they, they might contain information, they might, they might seem like they're, like
+they're made of pink noise, right, like the 1 over f spectrum, you might, they seem like,
+well, there's not, there's not, there's not, how can this contain information?
+It's just a lot of regular, regular firing patterns, um, right, and you think about
+it, well, yeah, all this oscillation is very regular, and if you try to change one, the
+activity of one neuron, the rest of the neurons pull it back into alignment, and if it goes,
+if it gets, if it's faster or slower, they, the, the, the oscillator, there's no, no, you
+can't, you can't get away from us, you have to, like, it's like you have these large
+groups of neurons that are all managing the same oscillation, okay, well, when does information
+happen, right, if it's just, like, this, this, like, when, when does the brain react to, to,
+uh, to, uh, but, so, I mean, I guess you have to start, you have to start there, at the,
+at the base of understanding the brain is a sort of, like, of a lot of, as, like, a lot
+of oscillating patterns that, um, that is, they're, that are ready for information to happen,
+they're ready to react to information, right, and, uh, and that's, like, and, that is, it's
+a powerful idea, um, but I think, I think, I think it's one that you want to, like, sit
+and think about it, the idea of the brain as being, like, a fast clock, um, but it's got
+this time division, uh, because time division would work best, oh, there was this point that
+he made that, so, so, so, yeah, he was saying the idea, he says, he says that ideally, if
+you were to, if you were to design the brain from scratch, like, an artificial brain, maybe
+the idea would be that, that you'd have a fast clock in a time division feature, because that
+would work best, um, but by contrast, he's saying that fast, faster oscillators were added
+after, to, to the slower oscillators, because of how evolution happened, and, uh, this is what
+we covered, this is my note that we covered what we just talked about a little while
+ago, um, another point that he, he brought up, which was, like, which is, like, it's one
+of those, it's another one of those statements that sounds kind of, like, obvious, but I
+never thought of it until he said it, and he says, like, computation always means that
+information, computation in the brain means that always means that information is moving
+from one place to another, and, like, when he said, I was, like, yes, that's obvious, but
+I never thought of that, computation always means that information is moved from one
+place to another, isn't that weird?
+Momentum is a powerful thing.
+So, like, that's, that's interesting, because, like, okay, so, if you're gonna have information,
+you're gonna have computation happening, you're, some, some movement needs to be happening,
+uh, so if you have, if you have oscillations happening all the time, that, that could be,
+like, what you need as a minimum for, for there to be, like, live information happening,
+in your brain, uh, in your brain, all the time, right? And, and, like, like, like, I'm saying,
+like, I'm saying these things, and they sound so obvious and so simple, but I didn't think
+of them, right? You know what I mean? Like, didn't think, I didn't think of this exact
+phrase, like, like, yeah, of course, it seems obvious, but that phrase hadn't, it hadn't
+come to me, so this, this is, like, I love this book. Okay, so, I think that we're about the,
+we're about at the end, uh, so, Mark, uh, Pentonin reasoned that if we found a quantifiable
+relationship among the power bands, gamma versus theta, and a fast oscillation, 142 in
+thirds, I don't know, that wasn't, okay, that's not good, no, hang on, so, yeah, so, let me
+skip that, phase log of statistics, uh, and David Cohen, first magnet, oh, yeah, so, this
+is interesting, uh, the, the, the guy who discovered the MEG was David Cohen,
+he discovered the first magnetic waves of the brain, the occipital, uh, in the occipital
+area of the brain, so that was a note that I made just for, um, for the neurophysics group,
+because one of the things I'm doing for the neurophysics group is just, like, um, uh, you
+know, talking about some of the, some of the, basically creating a map of, of some of the,
+uh, the, uh, the researchers who, who, uh, who were, who made, major, who had a major
+impact in history of neuroscience for that, for that group, um, and, uh, so this, this,
+this, uh, again, this is, like, such a good book, and if you checked my Twitter earlier
+and, uh, followed me on Twitter, uh, you got some good information today, and, uh, I didn't
+really post good information there, so, you know, follow if you want.
+I think that's about it for the night, though, because I think it's, it's, uh, past bedtime
+for me, and I want to say thanks to everybody for showing up and hanging out, and, uh, if
+you, anyone wants to raise their hand, uh, you can come up and say something, um, but, uh,
+we'll go ahead and close the group otherwise in a couple minutes.
+Thank you, everybody.
+Well, thanks for doing this.
+I've, uh, downloaded the book.
+I'm going to have more time to sit down and pick through, um, the notes that you've posted.
+I really appreciate it.
+So, I think someone came on up.
+So, someone's here.
+Go ahead and speak.
+So, someone came, so go ahead and speak.
+Oh, hi, guys.
+Hi.
+Yeah, thanks for, uh, for inviting me to the stage.
+Uh, yes, uh, I'm to the website.
+It's, like, conversational with Iceland, and, like, that got me thinking, because, like,
+uh, first of all, you're, like, incredible.
+It's, it's, it's, it's, and I'm just, maybe something, like, like, AI or, or something
+like that to the human being, uh, you know, and to upload all the English.
+So, I, uh, create something like that.
+Thanks, man.
+You're asking me if it's possible to create a, uh, a sentient, uh, uh, AI?
+Yeah, yeah.
+Uh, no, I, I feel like, uh, from, for most people, it's, they, they don't know what the
+right thing to ask is.
+What, what is it?
+What's a conscious AI?
+What's an emotionally aware artificial intelligence?
+What's an artificial general intelligence?
+What's a, uh, a, um, uh, a software network?
+What is, uh, what is, uh, what is an intelligent robot?
+What's iRobot?
+Like, these are all, like, yeah, nobody knows, like, I mean, I don't want to say nobody, like,
+I have an idea, but a lot of people have no idea.
+And, uh, uh, so, um, yeah, yeah, well, um, so, I mean, uh, to be 100% realistic, uh,
+you're going to want to know basically everything about neuroscience and everything about deep
+learning.
+You want, you want to know who all the, the, the leading scientists are in neuroscience and
+what the, what their work was and, and all of the, the, the, uh, the, the biggest names
+in computational neuroscience and in deep, in deep learning specifically.
+You want to know who Yalane Kuhn is, who, who Jeffrey Hinton is, who Yashua Benjo is, who
+Jeff, uh, Jeff Hawking is.
+You want to know, like, uh, who Olaf Spornes is and David Eagleman and, um, you know, there's
+like, yeah, basically it's like, it's like the last, just, you want to know the last,
+you want a really good summary of the last 200 years of neuroscience and the last, uh, 20
+years of, of deep learning and, and, and every subject that's in between, uh, you could definitely
+check out my neurophysics group on, um, on Facebook, uh, for starters and, uh, and look
+at the, the files that I've shared there and the links that I've shared there, uh, you
+could start that way, but, but in general, yeah, it's, it's not, um, there's nothing that
+I, that, that I can ignore, there's nothing that I can ignore, I'm learning from literally,
+like, you know, all of science for the past, uh, since the beginning of science, it's like,
+yeah, you have to, like, it's no, I don't think there's any shortcut in play, uh, you're
+gonna need to, um, that, that's my, that's my, so that's, that's, I mean, if I'm 100% realistic,
+if you're gonna build a really sentient, intelligent, emotionally intelligent, self-aware robot, conscious
+mind, uh, machine, just to throw out a bunch of, you know, verbs in a funny way, you're gonna
+need to know everything, and, uh, that's, that's my, that's my, uh, belief, so, um, you study
+for 20 years, and, uh, yeah, no shortcuts, um, well, uh, um, what I would, what I would
+do is, um, definitely, uh, one of the, one of the most exciting companies, because, because
+you mentioned, you're, you want the, sort of, uh, 30,000, 50,000 foot view as a potential
+investor in, in these technologies, to understand what the options are available in the business
+sense, for someone to get on board with, one of the most exciting companies, uh, in, in
+the world, uh, might be, uh, like DeepMind, and they're, they're part of Google, you too,
+have a good night, and we'll go ahead and close the room there, thank you everybody, good night.
