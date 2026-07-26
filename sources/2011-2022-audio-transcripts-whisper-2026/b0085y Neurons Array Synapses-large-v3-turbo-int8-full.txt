@@ -1,0 +1,3657 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0085y Neurons Array Synapses
+First recorded: 2021-11-01T16:11:13.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/7b892ac9-0b5e-4876-a76e-8c8d000819d9
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Um, because of functional isomorphisms, um, the patterns can be, uh, in the phase field can be compared to other patterns. They can be, um, collected of different sizes.
+So what I mean to say is I can, is that, is that I can compare patterns of different scales in my mind because, um, the functional isomorphism, uh, can reduce patterns of any scale down to the, down to, um, into basically like, um, it makes, it makes a pattern into a voxel.
+It makes, you can scale a pattern to any size. So you can compare large patterns and small patterns, uh, simply because the functional isomorphism, or the, the, uh, the, um, the difference in the change between, uh, one, one stage of the pattern and the next stage of the pattern can be, um, can be easily compared
+compared to another pattern in terms of, um, the, um, the changes in, um, the changes in scale, uh, or the change, sorry, the changes in relative scale between functions.
+So you can have, uh, uh, the patterns. So you can have, uh, a pattern that has, that is about planets and, uh, stars. And it can be like a, um, a pattern that has about the, the, uh, the different, different scales, um, between stars and planets.
+in terms of, like, what is the frequency of planets of a certain size
+with planets of a certain, with stars of a certain size
+and in a certain order, like, if there is one.
+And you could compare that to numbers, for example.
+Say, well, if the planet is a 6 and a star is a 60
+and you're just basically assigning a number to the geometry
+but it's like, to be more general, it's like
+if you saw a sequence, basically
+let's say that for some weird reason
+a star that was, um, number
+that had a size of n
+often, let's say that a star that had a size of n
+has an average of 3 planets
+and then a star the size of x
+typically has no planets
+if somehow you plotted out, you know, a representation of what that pattern is
+if you were able to then look on, look in the ocean
+and find out some weird pattern about
+about, um, eggs
+about the distribution of
+of large eggs
+from a certain species
+where you have, um
+if the species is a certain size
+then they're going to have a certain
+number of eggs
+and if the species is another certain size
+then they're going to have a different age
+I'm literally, um, brainstorming
+a stupid
+example
+of comparing to, um
+patterns of different scales
+and discovering that there's a functional
+isomorphism between them
+some sort of like
+you know
+if, um
+it's actually a really bad example
+but the point is that
+if you had
+two sequences
+like let's say that
+let's say that
+you found out
+the Fibonacci sequence
+um
+applied at the
+um
+at a large scale
+and then again
+at a smaller scale
+you can compare that in your mind
+like the pattern occurring
+at a large scale
+and smaller scale
+or the pattern occurring
+functionally
+instead of like
+physically
+I need to pause
+and think about that
+okay
+so the question is
+um
+where is perception happening
+is it happening
+in the neurons
+or is it happening
+in between them
+I'm trying to remember
+oh
+so
+no
+it's
+um
+so then
+so the neuron
+is only receiving
+the um
+frequency
+from
+the
+neurotransmitter
+or
+it's only receiving
+the phase change
+in each of its
+synapses
+and the phase change
+is instructed to
+instruct the
+give the synapse
+instructions
+on what to do next
+there's some sort of rule
+uh
+that synapses follow
+as far as what they do
+if they receive
+different types of signals
+some signals tell them
+to open
+some to close
+some to
+be removed
+and
+and
+some to be added
+now the ones that are added
+the long term ones
+um
+that
+that you
+uh
+reason that could be
+the result of
+simultaneous signals
+being attracted
+to each other
+because they're
+stimulating each other
+because they're
+stimulating each other's
+growth
+in other words
+a stimulus signal
+a scent
+is broadcast
+outwards
+now that stimulus
+signal
+could be
+um
+uh
+could be a
+combination
+of the
+um
+disturbance
+in the
+electromagnetic field
+right
+that
+is
+spread
+so the neuron
+creates
+um
+the action potential
+that's like
+it is now going to
+resonate
+uh
+in the
+electric
+in the electric field
+and the magnetic field
+and the mechanical field
+the mechanical
+uh
+is
+a mechanical wave
+and that vibration
+is
+going to
+resonate
+um
+through
+through
+the
+uh
+glial connection
+uh
+across to
+another neuron
+that's also connected
+via click
+glial connection
+so you're gonna have
+mechanic
+mechanical waves
+and
+electric waves
+um
+magnetic waves
+that
+they are
+they are
+at least in part
+going to travel
+from a neuron
+to a glial cell
+and maybe
+and then
+to uh
+to another neuron
+and
+so
+through like
+a combination
+of physical shaking
+and electromagnetic shaking
+neurons are gonna
+vibrate at the same time
+and then that
+it's like receiving
+a stimulus
+to grow
+in the direction
+of the stimulus
+and so you're gonna have
+um
+dendrites going
+towards each other
+but
+it's possible that
+there's some sort of
+um
+if dendrites
+grow towards each other
+that could be
+symbolically like
+um
+a
+type of oscillation
+called
+um
+I mean
+a type of oscillation
+pattern
+uh
+that
+uh
+that causes
+synchronization
+um
+and
+when
+when you have
+a desynchronization
+when you
+so that would be
+long-term potentiation
+when neurons
+physically
+wire together
+after
+after the spines grow
+but
+long-term depression
+means that
+the
+the physical connection
+between those neurons
+breaks apart
+and
+you could
+categorize that
+as
+as um
+as a
+as a
+as a
+splay state
+or an
+antiphase
+uh
+uh
+state
+so basically
+that is like
+um
+you know
+the
+splay state
+would be
+an oscillatory state
+where
+the
+uh
+synchronization
+between two signals
+instead of being
+closest together
+is now the farthest apart
+and
+um
+so
+a
+splay state
+would
+would
+uh
+disassociate
+two neurons
+that had previously
+linked together
+it would destroy
+a
+long-term
+uh
+memory
+and
+uh
+and that could be helpful
+if you
+if you had the facts
+wrong the first time
+and you needed to update
+them in your mind
+and you realize that
+you know
+a and b are not actually
+connected together
+like you thought
+when you saw the new piece
+of evidence
+that shed light
+on the
+a real
+uh
+pattern
+in which a is not
+connected to b
+and so you had to
+um
+so you
+in order to change
+your memory
+um
+something
+the
+the physical
+connections
+and
+and
+uh
+that
+form
+the pattern
+that is the basis
+of your long-term
+memory of
+of
+the
+the structure
+of a real pattern
+that you're observing
+the
+the
+the inner
+uh
+pattern
+uh
+that the synapses
+represent
+has a change
+and that means that
+some new connections
+are formed
+and
+those connections
+are
+basically
+become
+they become
+the synchronized
+firing
+uh
+stimulates
+dendrites
+to
+a row
+between them
+and
+desynchronized
+uh
+and
+a desynchronized
+um
+firing
+pattern
+um
+would be
+um
+basically
+like a pattern
+that leads
+to a
+a
+splay state
+or
+so
+so
+so what I'm saying
+is that
+the LTD
+and
+uh
+uh
+uh
+LTP
+are both
+accomplished
+with
+oscillatory signals
+and the
+oscillatory
+signal
+uh
+the oscillatory
+coupling
+um
+and decoupling
+is basically
+like
+um
+accomplished
+either through
+the
+uh
+mutual
+stimulation
+or
+um
+a
+an
+oscillatory
+splay state
+which accomplishes
+like
+a
+de-stimulation
+uh
+frequency
+pattern
+and
+um
+which is
+weird
+it's almost
+like
+uh
+a
+yeah I guess
+that's just
+an oscillatory
+decoupling
+so
+so
+um
+yeah
+over time
+if you get
+each of
+each
+each version
+of the
+pattern
+to
+um
+fire
+uh
+at different
+times
+fire
+really at
+opposite
+times
+that's
+that's the
+key
+if the
+if the
+fire
+almost
+if
+if one
+if when
+one fires
+the other
+is inhibited
+and when
+the other
+fires
+the other
+one's
+inhibited
+maybe that's
+maybe that's
+it
+then
+they become
+decoupled
+if one
+gets inhibited
+by the
+other
+fires
+um
+because it's
+like
+um
+sending a
+signal out
+and not
+finding
+match
+not
+not
+finding
+like
+it's like
+at one
+point
+yeah
+so the
+inhibition
+is like
+at one
+point
+the
+um
+so yeah
+so it
+could be
+that
+inhibited
+neurons
+are
+possibly
+creating
+um
+display
+states
+with
+with
+um
+neurons
+that they
+were previously
+um
+linked to
+and
+that means
+that
+inhibitions
+uh
+that happen
+inhibitions
+that are
+are timed
+to
+um
+let's say
+that you
+have two
+neurons
+that learn
+to fire
+together
+across the
+brain
+and let's
+say that
+um
+now a
+different neuron
+on one
+side of the
+brain
+learns to
+learns that
+it needs to
+fire
+essentially
+with a
+different
+pattern
+that
+updates
+to the
+pattern
+that
+another
+pattern
+you
+synchronize
+with
+so if
+the
+representation
+of
+the
+pattern
+changes
+um
+then
+uh
+that may
+require a
+different
+firing
+sequence
+and a
+different
+inhibitory
+sequence
+and a
+different
+inhibitory
+sequence
+is part
+of how
+that
+pattern
+decouples
+from some
+of its
+previous
+associations
+and
+couples
+with
+and couples
+to make
+new
+associations
+so
+um
+in one
+sense
+as that
+as that
+pattern
+ricochets
+around the
+brain
+it's going
+to be
+decoupling
+with
+with
+some
+learned
+patterns
+and
+coupling
+with
+other
+learned
+patterns
+and that's
+the process
+of LTD
+happening
+as a
+pattern
+ricochets
+around the
+brain
+and
+and by
+ricocheting
+I mean
+that
+it is
+being
+identified
+at the
+synapse
+level
+and projected
+to an
+array
+and then
+that array
+is going
+to
+amplify
+the pattern
+by
+by
+by having
+the cells
+in that
+array
+respond
+by either
+becoming
+activated
+or
+inhibited
+and
+the
+inhibited
+cells
+are going
+to be
+decoupled
+decoupling
+from
+cells
+that are
+firing
+at the
+same
+time
+at that
+point
+in time
+across
+the brain
+so
+let's
+say
+that
+you
+have
+cells
+1
+through
+4
+in
+the
+array
+let's
+have
+a set
+of
+all
+cells
+in
+array
+that's
+between
+1
+and
+200,000
+in the
+exit
+terminal
+so
+a cell
+could be
+connected
+up to
+200,000
+other
+neurons
+right
+so
+let's
+say
+that
+you
+have
+25%
+of
+these
+200
+of
+this
+200
+exit
+terminal
+array
+and
+it
+is
+sorry
+we need
+a sparse
+distributed
+representation
+so
+we're
+just
+going
+to
+have
+a
+small
+number
+of
+cells
+fire
+so
+maybe
+we
+need
+6
+we
+to
+fire
+in
+order
+to
+create
+a
+sparse
+distributed
+representation
+right
+maybe
+it's
+6
+I don't
+know
+it could
+be
+higher
+or
+lower
+but
+it's
+a
+small
+number
+and
+so
+so
+in a
+sense
+the
+array
+is
+temporarily
+representing
+the
+pattern
+of
+one
+neuron
+plus
+a
+pattern
+one
+neuron
+plus
+the
+pattern
+of
+several
+other
+neurons
+because
+so
+the
+neurons
+in the
+exit
+terminal
+are not
+just
+connected
+to
+one
+neuron
+oh
+no
+wait a
+second
+no
+wait
+the
+synapse
+so
+okay
+so
+the
+exit
+terminal
+at the
+very
+least
+the
+exit
+terminal
+is
+the
+receiving
+synapse
+so
+that
+is
+a
+unique
+array
+so
+that
+there's
+a
+unique
+exit
+terminal
+provides
+a
+unique
+array
+and
+then
+that
+array
+itself
+which is
+represented
+in
+synapses
+is
+going to
+store
+the
+distributed
+form
+of
+the
+synaptic
+array
+right
+it's the
+exit
+terminal
+array
+and
+now
+so
+those same
+neurons
+are receiving
+multiple
+arrays
+right
+so
+if
+you
+think
+about
+okay
+so
+now
+you
+have
+multiple
+arrays
+going
+to
+the
+same
+neuron
+so
+what
+I'm
+imagining
+is
+like
+so
+there's
+like
+let's say
+there's a
+row of
+spheres
+that represent
+different
+neurons
+that are
+in the
+x
+terminal
+and
+then
+there's
+a row
+another
+a row
+and
+then there's
+a
+column
+there's
+okay
+so
+there's
+a row
+of
+spheres
+that run
+horizontal
+and then
+a column
+of spheres
+that run
+vertical
+okay
+now
+the
+row
+of spheres
+that runs
+horizontal
+that
+represents
+that
+represents
+the
+the
+different
+neurons
+that are
+firing
+or being
+inhibited
+and
+the
+row
+the
+column
+of
+neurons
+that's
+running
+vertically
+that
+represents
+the
+neurons
+that are
+in
+that
+represents
+the
+synapses
+of the
+exoterminal
+and the
+neurons
+behind
+those
+synapses
+so
+we're
+presuming
+that
+let's
+say
+that
+if you
+go back
+to the
+horizontal
+row
+of neurons
+which
+just imagine
+as a
+sphere
+okay
+so
+horizontal
+row
+of spheres
+in the
+first
+sphere
+that
+has its
+own
+line
+of
+projections
+that
+just imagine
+like
+you know
+like
+when you draw
+a picture
+of the
+sun
+you draw
+a circle
+and then
+you draw
+lines
+going out
+in every
+direction
+well in this
+case
+we're going
+to draw
+a circle
+and the
+lines
+are going
+to go
+from
+one of
+the nodes
+on the
+horizontal
+line
+and so
+one of the
+spheres
+in a horizontal
+line
+so the
+horizontal
+line
+consists of
+spheres
+that represent
+neurons
+that are firing
+or not firing
+and
+so
+then
+the
+vertical
+row
+represents
+the synaptic
+connections
+in the
+exaterminal
+so it's
+sending
+its
+phase
+state
+the exact
+same
+phase
+state
+that it
+has
+to each
+of the
+neurons
+in its
+exaterminal
+so that is
+like
+right
+so sending
+that
+and then
+when it
+fires
+and then
+when the
+next
+neuron
+fires
+that is
+when the
+next
+neuron
+fires
+the
+let's say
+that it
+is
+connected
+to
+another
+column
+of
+cells
+right
+but
+but it
+share
+but let's
+say
+it also
+let's say
+that there's
+now we're
+imagining
+like
+two
+to
+200,000
+columns
+that
+correspond
+to
+two
+to
+200,000
+horizontal
+spheres
+so
+let's
+just say
+that there's
+two to
+200,000
+a set
+that's
+between
+two and
+200,000
+of
+horizontal
+spheres
+and each
+of them
+is connected
+to a
+set
+of
+columns
+now
+the
+column
+now
+here's
+thing
+some
+of the
+columns
+it's
+like
+okay
+but it's
+not
+it's
+really
+not
+connected
+to all
+the
+columns
+or
+what I
+mean
+is
+that
+like
+so
+a pyramidal
+cell
+would be
+really
+great
+at transferring
+a
+phase
+state
+a
+sequence
+of
+phase
+states
+everywhere
+at once
+right
+because
+the pyramidal
+cells
+they have
+huge
+exit
+terminal
+right
+but if
+here's the
+thing
+it's
+like
+if
+if
+the
+phase
+states
+coming
+out
+of
+the
+exit
+terminal
+are
+all
+receiving
+the
+same
+pattern
+right
+if
+the
+neuron
+is
+just
+communicating
+its
+phase
+then
+it's
+up
+to
+the
+um
+this is
+like
+compression
+it's
+like
+a neuron
+receiving
+all of
+its
+signals
+200,000
+signals
+and
+then
+compressing
+it
+down
+to
+one
+signal
+but
+then
+distributing
+that
+one
+signal
+to
+many
+different
+signals
+but
+the
+only
+way
+that
+becomes
+different
+a
+differentiable
+pattern
+again
+is
+if
+that
+one
+signal
+then
+becomes
+layered
+with
+other
+signals
+so
+you'd
+have
+many
+neurons
+right
+so
+let's
+say
+that
+you
+have
+an
+array
+and
+it's
+horizontal
+I think
+we're
+leaving
+the
+original
+drawing
+but
+the
+array
+is
+like
+the
+array
+is
+we're
+talking about
+what the
+array
+is receiving
+from all
+of
+the
+neurons
+so
+they're
+all
+firing
+together
+and
+each
+one
+of
+them
+is
+receiving
+a
+pattern
+that
+is
+a
+phase
+state
+from
+a
+phase
+state
+in each
+of its
+synapses
+and
+is
+tracking
+the
+phase
+state
+by
+physically
+opening
+closing
+adding
+and removing
+dendrites
+synapses
+spines
+synaptic
+spines
+so it
+opens or
+closes
+synaptic
+spines
+it
+opens
+synaptic
+spines
+and
+that
+represents
+a
+certain
+firing
+pattern
+and
+so
+the
+synaptic
+connections
+represent
+the
+pattern
+the
+phase
+represents
+the
+how
+excited
+that
+pattern
+is
+right
+so
+the
+thing
+is
+that
+the
+array
+only
+receives
+how
+excited
+that
+pattern
+is
+it's
+not
+necessarily
+receiving
+what
+that
+pattern
+is
+just
+that
+there
+is
+a
+pattern
+that's
+excited
+it's
+actually
+creating
+a new
+pattern
+of
+excitement
+that
+represents
+another
+learned
+pattern
+in another
+area
+of
+cortex
+if that
+makes
+sense
+so
+it's
+like
+the
+the
+excitement
+has
+what
+the
+the
+excitement
+of
+one
+particular
+pattern
+has
+been
+functionally
+reduced
+to
+so
+one
+learned
+pattern
+has been
+reduced
+to
+like
+an
+LED
+light
+that
+is
+bright
+or
+not
+or
+brighter
+or
+brightest
+or
+dark
+sorry
+the
+LED
+is
+like
+the
+atomic
+firing
+would
+be
+like
+it's
+just
+light
+is
+on
+and
+then
+the
+physical
+firing
+is
+the
+light
+is
+bright
+or
+brighter
+and
+then
+so
+that
+is
+going
+to
+basically
+appear
+to
+it's
+like
+a
+light
+that
+appears
+to
+so
+I'm
+just
+imagining
+darkness
+like
+a
+light
+appears
+and
+there's
+many
+eyes
+in
+the
+darkness
+and
+these
+represent
+the
+array
+that's
+the
+exit
+terminal
+but
+multiple
+exit
+terminals
+are
+each
+eye
+is
+the
+receptive
+field
+of
+a
+neuron
+is
+its
+active
+synaptic
+connections
+right
+and
+so
+it
+needs
+so
+it's
+active
+synaptic
+connections
+are
+going to
+be
+the
+neurons
+that
+it's
+firing
+physically
+with
+because
+tonic
+firing
+is
+going
+to
+form
+the
+it's
+going
+I guess
+I guess
+tonic
+firing
+could
+could
+I guess
+if
+I don't
+know
+if spines
+are going
+to grow
+with tonic
+firing
+or not
+based
+on the
+principle
+of
+stimulation
+but
+maybe
+it's
+just
+that
+spines
+would
+grow
+in a
+broad
+pattern
+towards
+every
+neuron
+in their
+network
+instead
+of
+in a
+particular
+direction
+or
+it
+could
+be
+that
+spines
+are
+going
+to
+grow
+slightly
+towards
+any
+neuron
+that
+fired
+but
+if
+they're
+tonic
+then
+the
+growth
+is
+going
+to
+be
+weak
+because
+the
+activity
+rate
+of
+growth
+is
+going
+to
+be
+slower
+in a
+literal
+sense
+but
+maybe
+stronger
+in
+terms
+of
+bonding
+to
+its
+community
+but
+slower
+to
+bond
+with
+neurons
+that
+are
+oscillating
+at
+higher
+phase
+rates
+so
+it's
+really
+the
+neurons
+that
+are
+firing
+at
+faster
+phase
+rates
+that
+are
+growing
+spines
+faster
+and
+they're
+growing
+spines
+towards
+energy
+stimulus
+where
+they
+think
+energy
+which
+is
+like
+where
+energy
+is
+coming
+from
+like
+plants
+growing
+towards
+sunlight
+and
+then
+if
+neurons
+are
+firing
+in
+desynchronized
+patterns
+then
+or
+spay
+states
+then
+they're
+going
+to
+decouple
+almost
+and
+the
+decoupling
+almost
+might be
+like
+sort of
+magnetic
+like
+you know
+how
+like
+you
+have
+you know
+how
+like
+if you
+have
+like
+magnet
+dust
+or
+pieces
+of
+metal
+that
+form
+between
+magnets
+that
+you know
+they
+become
+attracted
+to
+the
+poles
+of
+the
+magnet
+but
+they
+form
+but
+dust
+forms
+like
+this
+floating
+change
+or this
+dendrite
+like a
+magnetic
+dendrite
+just
+consisting
+of dead
+materials
+though
+think
+I think
+of that
+as like
+a
+spine
+like
+magnetic
+dust
+that
+links
+together
+synchronized
+firing
+because
+the
+synchronized
+firing
+might be
+attractive
+like
+like
+let's
+see
+that's
+interesting
+because
+in magnetism
+it's like
+yeah
+it's
+it's
+I'm
+saying
+that
+there's
+oscillation
+right
+but
+it's
+like
+right
+how
+do
+magnets
+work
+again
+is it
+opposite
+the
+tract
+or
+same
+attract
+hang on
+okay
+so
+in magnetism
+it is
+definitely
+opposites
+the
+tract
+so
+north
+poles
+are
+attractive
+to
+south
+poles
+so
+we're
+with the
+brain
+we're
+thinking
+of
+oscillatory
+coupling
+it's
+not
+a
+magnetic
+event
+yeah
+so
+there's
+that
+it's
+it's
+stimulation
+event
+stimulation
+and
+growth
+the
+neuron
+because
+it's
+firing
+faster
+is
+growing
+faster
+its
+activity
+is
+faster
+it's
+or
+basically
+like
+the
+pace
+of
+its
+growth
+has
+been
+accelerated
+it's
+doing
+stuff
+it's
+more
+active
+and
+the
+and
+it's
+going to
+grow
+where
+it's
+receiving
+stimulation
+and
+it's
+going
+to
+be
+receiving
+stimulation
+from
+other
+neurons
+that are
+firing
+simultaneously
+or
+firing
+within
+a
+close
+firing
+pattern
+and
+so
+I'm
+just
+imagining
+as
+a
+sequence
+of
+neurons
+plays
+out
+like
+the
+first
+neurons
+will be
+connected
+to the
+neurons
+in the
+second
+stage
+and the
+neurons
+in the
+second
+stage
+will form
+connections
+to the
+neurons
+in the
+third
+stage
+and the
+third
+stage
+form
+connections
+in the
+fourth
+stage
+and so
+sequences of
+neurons
+can be
+established
+with close
+firing
+synchrony
+by
+growing
+towards
+the
+stimulation
+that each
+is providing
+at each
+step
+so the
+growing
+dendrites
+towards
+each
+stimulation
+signal
+and the
+stimulation
+signal
+could be
+received
+electrically
+magnetically
+through
+mechanical
+vibration
+or just
+through
+the
+increased
+transmission
+of
+neurotransmitters
+but
+in the
+case
+that
+we have
+to
+solve
+for
+well
+what
+if
+there
+aren't
+any
+neurotransmitters
+between
+two
+neurons
+how
+does
+it
+receive
+a
+signal
+to
+grow
+a
+neurotransmitter
+in that
+sense
+a
+signal
+has to
+propagate
+without
+a
+neurotransmitter
+in order
+to establish
+a neurotransmitter
+and so I'm
+saying that's
+where
+a mechanical
+vibration
+a magnetic
+signal
+and
+or an
+electric
+signal
+could
+so the
+so the
+mechanical
+signal
+the mechanical
+electric
+and vibration
+signal might
+travel over
+the
+the glial
+cells
+between
+the neurons
+and
+but then
+that tells
+them
+that tells
+them to
+grow
+together
+so the
+so the glial
+cells are
+going to be
+essential
+for
+establishing
+long term
+potentiation
+and long term
+depression
+which I
+believe is
+consistent
+with literature
+so you're
+going to
+have to
+have the
+glial cell
+to
+transfer
+all
+you know
+the glial
+cell could
+transfer
+also
+chemical
+synapses
+so
+and that
+is interesting
+because if
+you had
+since a
+glial cell
+sort of
+like has
+to be
+involved
+in
+in creating
+new
+LTP
+there could
+be a
+magnetic
+process
+because
+the
+the two
+neurons
+might be
+creating a
+positive
+signal
+and the
+glial cell
+connection
+between
+them
+might be
+or probably
+would be
+negative
+by comparison
+and so
+the two
+positive
+signals
+would be
+attracted
+to
+the same
+glial
+network
+right
+magnetically
+the same
+glial cell
+magnetically
+because they
+would both
+be sending
+positives
+to a
+negatively
+charged
+glial
+cell
+and
+so a
+magnetic
+connection
+could form
+between
+one
+negative
+glial
+and two
+positive
+neurons
+magnetically
+positive
+and
+but yeah
+so there
+could be
+but then
+but then
+what that
+what that
+suggests
+is that
+the
+the link
+with
+the
+the link
+through the
+glial network
+could be
+magnetic
+or electromagnetic
+and
+mechanical
+or it
+just
+could be
+the
+chemical
+synapse
+but
+but I
+like the
+idea of
+mechanical
+waves
+traveling
+through
+the
+to
+mechanical
+and electromagnetic
+waves
+traveling
+through the
+glial network
+between
+neurons
+establishing
+links
+long term
+links
+so the
+neuron
+can
+basically
+function
+as a
+so the
+glial could
+function as
+a pattern
+transmitter
+that forms
+between neurons
+that forms
+long term
+connections
+and
+or decouples
+long term
+connections
+in a very
+specific way
+that's a lot
+more like
+like a
+direct
+wiring
+and that
+the
+transmission
+between
+neurons
+and the
+chemical
+transmission
+between neurons
+can be
+can be
+described
+as a
+way of
+creating
+pattern
+fields
+and the
+pattern
+field
+is
+in
+the
+dendrite
+and
+it's
+the
+dendritic
+connections
+it's in
+the
+synapses
+of the
+dendrite
+that is
+receiving
+the
+signal
+that's
+where the
+pattern
+field
+is
+and
+then
+what
+creates
+a
+pattern
+what
+propagates
+a
+reduced
+pattern
+or a
+sparse
+pattern
+so the
+dendrite
+that
+fires
+represents
+just
+one
+okay
+so you
+have
+a
+whole
+array
+and
+the
+whole
+array
+you have
+a whole
+like
+what's
+called
+a
+v2
+or m2
+or s2
+or whatever
+it's
+not
+it's
+not the
+first level
+of the
+cortex
+it's the
+second level
+of the
+cortex
+and
+so this
+array
+is
+like
+it
+consists
+of
+multiple
+so
+okay
+so
+imagine
+that
+their
+dendrites
+their
+dendritic
+synapses
+represent
+multiple
+arrays
+and
+then
+the
+but
+what we're
+doing
+is
+we're
+taking
+the
+pattern
+that
+each
+neuron
+is
+learning
+and
+we're
+turning
+it
+into
+a
+an
+LED
+light
+and
+so
+the
+idea
+is
+that
+the
+LED
+information
+but
+if
+you
+have
+a
+if
+you
+have
+a
+string
+of
+neurons
+that
+are
+each
+contributing
+so
+it's
+like
+so
+you have
+multiple
+LED
+lights
+that
+are
+appearing
+to
+many
+different
+neurons
+simultaneously
+in
+the
+V2
+area
+so
+many
+different
+LEDs
+from
+V1
+are
+appearing
+in
+V2
+or
+L2
+it's
+just
+layer
+2
+so
+many
+different
+neurons
+in
+layer
+1
+are
+there
+it
+sees
+a
+pattern
+and
+it
+reduces
+that
+pattern
+to
+a
+light
+but
+there
+is
+another
+neuron
+in
+the
+in
+the
+basically
+it reduces
+it to
+a
+light
+that
+is
+collected
+by
+it's
+seen
+by
+many
+different
+neurons
+and
+so
+you
+have
+many
+lights
+that
+are
+simultaneously
+seen
+by
+many
+different
+neurons
+and
+so
+the
+whole
+array
+is
+so
+while
+a
+single
+neuron
+is
+reducing
+a
+pattern
+to
+a
+single
+output
+change
+single
+phase
+change
+right
+you
+have
+many
+neurons
+are
+creating
+many
+phase
+changes
+simultaneously
+and
+so
+you
+have
+a
+whole
+array
+of
+phase
+changes
+happening
+so
+while
+a
+dendrite
+represents
+one
+pattern
+it
+is
+basically
+you
+know
+collectively
+working
+with
+the
+entire
+with
+its
+entire
+layer
+to
+to
+produce
+a
+collective
+pattern
+which
+represents
+a
+reduced
+representation
+of what
+the
+previous
+layer
+learned
+or
+maybe
+it's
+a
+transformed
+representation
+of what
+the
+previous
+layer
+learned
+so
+the
+layer
+is
+receiving
+a
+pattern
+and
+then
+it
+transforms
+a
+pattern
+for
+another
+layer
+to
+perceive
+a
+pattern
+and
+then
+that
+layer
+transforms
+that
+pattern
+for
+another
+layer
+to
+perceive
+the
+pattern
+and
+it's
+like
+so
+each
+layer
+is
+receiving
+a
+pattern
+and
+then
+transforming
+the
+pattern
+and
+the
+organization
+of
+patterns
+is
+going
+to
+develop
+to
+represent
+the
+key
+features
+of
+learned
+patterns
+because
+the
+key
+features
+are
+basically
+what are
+going to
+emerge
+when you
+take the
+whole
+pattern
+and you
+reduce
+it to
+its
+sparsest
+configuration
+sparsest
+configuration
+and the
+process of
+a dendrite
+receiving a
+signal
+and then
+transmitting
+a phase
+signal
+the process
+of a whole
+array of
+dendrites
+doing that
+same thing
+is the
+result
+of
+basically
+higher level
+pattern
+at each
+stage
+of the
+process
+like
+it's
+creating a
+sparse
+representation
+of the
+pattern
+and then
+magnifying
+that sparse
+representation
+to the
+next
+layer
+so
+you have
+patterns
+are changing
+in scale
+so it's
+like you
+have
+so again
+that goes
+back to
+like
+maybe
+the
+first
+layer
+of the
+brain
+is going
+to be
+focused
+on the
+most
+detailed
+stuff
+but
+the
+can I
+say
+that
+the
+patterns
+that the
+first layer
+is receiving
+are going
+to become
+reduced
+to
+reduced
+in scale
+and
+that
+allows
+the
+reduced
+representation
+scales
+out
+from
+detail
+to
+to
+higher
+level
+feature
+recognition
+or higher
+level
+detail
+so it
+shrinks all
+the
+detail
+so it
+can
+contain
+more
+detail
+so
+so each
+layer
+in the
+neural
+network
+is
+magnifying
+the
+scale
+of
+detail
+that it
+has
+of
+the
+scale
+of the
+detail
+of
+patterns
+that it
+has learned
+so it's
+integrating
+the
+lower level
+patterns
+at a
+higher level
+and
+that is
+like
+feature
+learning
+and deep
+learning
+I guess
+I'm
+I guess
+I'm
+sort of
+describing
+in an
+accidental
+way
+semi
+accidental
+way
+it's
+that
+the
+reduced
+representation
+of
+neural
+firing
+the
+sequence
+is
+causing
+the
+sort of
+binding
+together
+of lower
+level
+features
+into
+higher
+level
+features
+at each
+subsequent
+stage
+of
+transmission
+but you
+can
+imagine
+that
+transmission
+can
+flow
+that you
+have
+arrays
+that are
+you know
+the
+V2
+is right
+behind
+the
+V1
+but you
+also
+have
+so that's
+like
+the
+you have
+arrays
+that are
+aligned
+vertically
+but then
+you have
+arrays
+that are
+aligned
+horizontally
+and
+arrays
+that are
+you know
+I guess
+patterns
+might
+emerge
+orthogonally
+and
+there's
+also
+besides
+there's
+two
+horizontal
+directions
+directions
+right
+there's
+sort
+of
+like
+the
+x
+y
+and
+z
+it's
+like
+the
+x
+and
+the
+z
+are
+both
+horizontal
+directions
+one is
+to your
+left and
+right
+one is
+in front
+of you
+and back
+and
+then
+the
+y
+is
+a
+vertical
+direction
+and
+then
+you
+might
+also
+have
+like
+you know
+an array
+could be
+any set
+of neurons
+that's
+aligned in
+an orthogonal
+direction
+so that
+could be
+any
+vector
+along the
+x, y, z
+grid
+that is
+not
+lined up
+with x, y, and z
+but could go
+in any
+direction
+so that
+would be
+an
+orthogonal
+pattern
+array
+pattern
+and
+so
+I mean
+I guess
+that basically
+so since
+any neuron
+could connect
+to any
+neuron
+in theory
+you can
+have
+arrays
+that
+of
+receiving
+neurons
+that are
+basically
+just
+novel
+they just
+have novel
+connection
+paths
+right
+so they're
+just like
+so the
+real
+receptive
+field
+is being
+redefined
+and the
+inceptive
+field
+is
+when you
+when the
+receptive
+field
+compiles
+its
+inputs
+that
+it's
+symbolically
+like
+the nodes
+represent
+that a
+pattern
+has been
+detected
+and
+but I
+what I
+want to
+say is
+like
+okay
+so
+if
+the
+synapses
+are saying
+that the
+nodes
+have been
+detected
+how does
+that
+translate
+into a
+representation
+of my
+in my
+mind
+and
+like
+where's
+the observer
+and I'm
+just saying
+like
+that is
+creating
+a pattern
+that
+is
+being
+broadcast
+to
+an array
+ray
+the ray
+is
+then
+broadcasting
+its
+patterns
+to
+other
+rays
+and
+that
+the
+patterns
+inside
+have
+such a
+high
+temporal
+frequency
+correlation
+that as
+soon as
+one
+fires
+it fades
+away
+but
+many
+other
+parts
+of the
+brain
+simultaneously
+they catch
+it
+and then
+they
+they catch
+it
+and then
+they
+transmit
+it
+and
+then
+their
+transmission
+is
+caught
+by
+other
+parts
+of the
+brain
+and
+then
+they
+catch
+it
+and
+transmit
+it
+and
+this
+process
+of
+catching
+patterns
+and
+transmitting
+patterns
+happens
+in space
+fast
+enough
+at a
+certain
+pace
+that
+results
+in a
+continuous
+flow
+continuous
+flow
+of
+patterns
+in space
+that
+are
+representing
+space
+and
+representing
+the
+what the
+organism
+sees
+and
+representing
+what the
+organism
+hears
+and
+the
+key
+thing
+is
+that
+there
+is
+a
+representation
+of
+the
+observer
+self
+which
+is
+the
+body
+of
+causation
+which
+is
+your
+muscles
+but
+there's
+no
+separate
+observer
+that
+these
+patterns
+are
+appearing
+physically
+appearing
+physically
+in
+cells
+that
+are
+acting
+in
+unison
+sort
+of
+like
+with
+their
+firing
+together
+and
+maybe
+their
+synchronized
+firing
+creates
+some
+that
+aligns
+their
+receptive
+field
+of
+all
+the
+neurons
+temporally
+so
+they're
+all
+acting
+as a
+single
+receiver
+a
+single
+sensor
+array
+because
+their
+representations
+are
+aligned
+temporally
+they can
+all
+relate
+to
+what
+one
+another
+is
+detecting
+it's
+a
+combined
+detector
+and
+the
+combined
+detector
+which is
+an
+oscillator
+is
+going to
+be
+receiving
+the
+patterns
+and
+then
+creating
+its
+own
+output
+immediately
+which
+is
+in
+the
+own
+set
+of
+patterns
+and
+those
+patterns
+reflect
+what
+it
+has
+seen
+touched
+hurt
+and
+felt
+and
+that's
+that's
+like
+one
+component
+of
+one
+stage
+of
+one
+interval
+of
+time
+of
+consciousness
+it's a
+pattern
+that emerged
+in space
+that
+affected
+another
+sensor
+array
+and
+the
+other
+sensor
+array
+and that
+creates
+so you
+have
+that
+are
+firing
+off
+patterns
+for
+other
+sensor
+arrays
+and
+it
+allows
+the
+organism
+to
+have
+this
+sort
+of
+constant
+array
+of
+patterns
+that
+are
+being
+developed
+and
+detected
+by
+its
+own
+brain
+as
+a
+as
+the
+brain
+would
+function
+because
+oscillators
+can receive
+patterns
+from other
+oscillators
+the brain
+functions
+as a
+sort of
+pattern
+detector
+and pattern
+transmitter
+where patterns
+are fused
+together
+and
+detectors
+are fused
+together
+and then
+detectors
+and
+transmitters
+and so
+by detectors
+being fused
+together
+I mean
+when they're
+oscillating
+together
+I wonder
+if
+the
+Bose-Einstein
+condensate
+principle
+you know
+the principle
+of like
+a laser
+like if
+a laser
+if
+light is
+combined
+together
+it becomes
+a laser
+right
+if you get
+light to
+oscillate
+together
+it fuses
+together
+and
+synch
+what
+we
+when
+we
+it
+we
+have

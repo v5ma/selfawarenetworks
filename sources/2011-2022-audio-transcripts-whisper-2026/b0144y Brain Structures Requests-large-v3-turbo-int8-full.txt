@@ -1,0 +1,9 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0144y Brain Structures Requests
+First recorded: 2021-10-11T03:34:02.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/c37c8a38-c026-435e-85ef-a1c7f796796b
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So with mind uploading, I'm like, okay, instead of needing to copy the brain exactly, we can query the brain's data structure from some point in the network, once we understand the protocols of networking and the data structures.
+So you wouldn't need to copy the brain perfectly, you would just need to, I mean, you wouldn't need to scan it, you would, or you could, or you could, I mean, you could potentially scan it through queries, like, like HTTP requests, you know, or FTP requests.

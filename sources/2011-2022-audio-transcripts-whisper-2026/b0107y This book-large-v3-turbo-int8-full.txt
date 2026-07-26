@@ -1,0 +1,12 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0107y This book
+First recorded: 2021-10-21T18:53:39.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/85f902c2-d58c-4533-a4a9-3917efdf10f0
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+I want to use this book as a starting point to start a series of conversations with neuroscientists and people in machine learning and people who are working on brain-computer interface technologies and people who are working on quantum physics and basically people in virtual reality.
+I want to start a conversation, basically a continuation of the Neural Lace podcast with people who are interested in these topics and brain function, connecting the computer to the human brain and connecting AI to the human brain and in making artificial cortex, extending the human mind out into a computer and also connecting two human beings together.
+There are more or many human beings together, like Nexus, like the Nexus Trilogy by Roman Nons.
+And I think that...
+Or did I say that wrong?

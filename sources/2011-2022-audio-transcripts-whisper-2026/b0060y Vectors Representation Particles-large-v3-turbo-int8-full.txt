@@ -1,0 +1,79 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0060y Vectors Representation Particles
+First recorded: 2021-11-08T20:41:35.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/a8363fa1-2577-46e7-9986-84d392693d2a
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So, I'm saying that we should have, like, the Metaverse, the Metaverse should be basically a web standard, right?
+Because, you know, John Carmack talks about how, you know, like, it seems like the idea of a Metaverse is to have, like, one app that sort of, like, is sort of the interface, sort of, like, controlling everything, like, one app, but then you don't want to have, like, this, but then, like, but anyway, so, just to get to the point, it's like, the idea is,
+that you want to have yourself, and so what we need is, so my proposal for, is to create a web standard for the Metaverse, which is basically, like, a representation of your web browser inside virtual reality that stores your,
+your, um, stores, like, uh, an interface for you to have a representation of your personal information that you can share and un-share at will with any, uh, website.
+And you can definitely, like, and it comes with, like, um, the, like, AI-generated, um, uh, personal information that you can share instead with websites instead of your own personal information.
+Like, it generates, like, random AI identities, um, on the, uh, on the fly, and, um, so the, uh, program is, um, sort of, like, um, it gets some of the input, some of its input from, from, uh, uh, a, uh,
+simple, uh, simple, uh, web host that it, that it checks with, okay? But, um, even if it's cut off, um, like, um, it has a model, it has a model of, of, I guess it has, like, this encrypted model of the, um, the, uh,
+Yeah, that would be, it has, so it has, so it has, like, a homomorphically encrypted model of the, um, original application, uh, so that it can run computations, uh, on the original application without decoding the original application.
+All right, so the, so the code is effectively, um, disguised. The original code is effectively disguised.
+And, but all that remains, basically, are the functions that, uh, so that's an interesting way to do it, but, like,
+but using the principle of sparsity to, um, to learn to encode functions could, uh, result in, basically,
+um, computer code becoming, uh, more efficient, um, because, basically, instead of storing things in ones and zeros,
+um, like, which is, um, um, um, like, that's, like, um, a two, it's, like, a two-bit, um, interface.
+What we would do is, um, store, like, high-dimensional vectors, um, um, um, high-dimensional vectors.
+Uh, high-fidelity vector representations. So, uh, I mean, I wonder if what I'm thinking is, like,
+a computer that's, like, baseboard, like, somehow baseboard, because it's, because, uh, see, that's not,
+it's not exactly what I was thinking. I was thinking that, like, between the on and off,
+that there's, like, this, an ability to, um, have, like, a fractional encoding. Do you know what I mean?
+That's what I'm, that's what I'm thinking. Like, we could have, we could have the, um, we could be, like, um,
+see that, see the thing is, like, um, the idea of the, um, the sparse representation is to, uh, find the
+smallest possible, um, difference, um, that accomplishes the, the transformation between
+two, two, uh, sequences. Um, that would mean, like, um, if you have, that would mean, like,
+if you have, um, if your eyes are rolling across the surface and then there's, like, a piece of cloth
+on top of it, it's, like, what is the shortest possible path, uh, between transitioning between
+these two patterns, right? And, and, um, um, so what's happening is, um, with the computer,
+you're getting two patterns. It's, like, okay, here's a sequence, right? But the computer is
+not, like, learning the shortest possible paths between the two sequences. That's a higher
+dimensional, uh, level of representation. When you could, um, encode, basically when you can
+encode functions in, in the most sparse way. Like, when you refactor your code so that basically
+you, um, your functions are expressed in the simplest way possible. So the purest computation
+is necessary, uh, which means your code runs leaner and faster, right? And, um, so yeah,
+so, so that, that actually is, um, so that would be, like, sparse coding. Like, sparse coding
+is, like, okay, how can I refactor my code until I, the code is, like, so short that it, that
+it, it, it accomplishes a, it accomplishes a function, but it's, like, not even clear how
+because, um, anymore because, um, it's, like, um, I mean, it's, I guess it's, it's clear
+how, but it's, like, it's been, like, the representation, uh, it's clear how, but it's clear how in a, in
+a way that you haven't, like, necessarily, like, understood yet. But once it becomes clear
+how there's, like, a shorter, easier way to represent the, the, that function, then you
+get to a point where, um, like, even your, like, your understanding of the transformation
+that actually happened between two different steps in a, in a, in a, in a, in, in one example
+could be, like, between, you know, um, two different steps in a, in a conversation, two
+different steps in, um, a song, or two different steps in, like, a physics, like, um, like, two
+different steps, like, a person, like, literally taking two different steps. Like, if you understand,
+if you understand, like, the sequence of how one step became another, like, that is, um,
+you're learning, uh, sort of, like, a function, or you're predicting the function of certain,
+the functions, uh, uh, uh, between different steps in a moving pattern. So, um, different steps
+in any moving pattern of anything in your line of sight, anything that you see, um, that is
+basically, um, going to, um, cause you to, um, um, uh, basically your, your brain is going
+to learn the sequence patterns between, um, the, the, the causal bodies, or the, or, like,
+what is, where is the cause of the body? Like, in a body is, um, uh, a bunch of particles
+that are moving together, like, a human body, or an animal body, or a chair. It's a, it's
+a, an object that, that has joint causation, because, because if you, if you pushed on a
+chair, you move the whole, from any part of the chair, you move the whole chair. So, it's
+a body that is causally linked, uh, spatially and temporally. Like, if, if affecting any part
+of it, it affects the whole thing. So, therefore, it's, it's, it's, it's embodied particles, right?
+And, so, we are all embodied quantum particles, right? We've, we've, um, we've become embodied.
+Um, we're all embodied, uh, maybe, maybe it's, maybe, maybe it's a little bit less confusing
+to say we're all embodied atoms, right? Quantum particles, it's, it's true, uh, that we're
+embodied quantum particles, but it's a little bit more grounding to say we're embodied atoms,
+or we're embodied molecules, or we're embodied chemicals, or we are embodied, um, um, but
+we're specifically embodied with the configuration of a dissipative system, which is a vortex.
+Uh, a dissipated system is like a hurricane, it's like a tornado, it's like a whirlpool, it's
+like a galaxy, it's like an atom. And, um, so, and even the human brain is a dissipated
+system, even a neuron is a dissipated system, because a neuron has to, um, take in energy,
+um, and a human being has to take in energy, so neurons have to eat, and a human being has
+to eat, so we're fractals of neurons in one sense. I need to take in energy, and I also
+need to dissipate energy to the surrounding environment, in order to maintain my equilibrium.
+It means, um, you know, in, in the sense of life forms, cells need to get rid of their
+waste, and human beings need to get rid of their waste, so cells need to prove, human
+beings need to prove that poop, right? Because a human being is basically, like, a bunch of
+cells that are, um, uh, that have, that are, uh, um, that are acting as a, as a body of
+pulsation, a combined body pulsation. And, um, and this means that, um, okay, let's pause it.

@@ -1,0 +1,155 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0006y Gravity & Neurons
+First recorded: 2022-02-24T05:35:50.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/6683416a-0de8-431c-855e-5c1a6dbc8fa5
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+What is reality?
+So I had this, I've had another idea about how the particle lanes, electric and magnetic fields emerging from a large body like a planet, like Earth, they're creating electromagnetic fields in space, right?
+But those fields are going to create force that is going to, they're going to create an electric field, those particle lanes are going to create changes to the electric field in between those particle lanes
+that are going to be creating directional force on all the particles moving through those lanes.
+So, like, you know, I hypothesized in my gravity equation that there's going to be, like,
+there's going to be, like, a lot of particle collisions that will be going vertical between, like, directly to the planet and directly to space.
+But then there's going to be, like, basically, like, imagine, like, the fanning out of lines, right?
+Where there's, if you go to, if you go, if you connect the two different points on the surface of the sphere,
+but you had, and then each one is 90 degrees away from the surface,
+that is, the surface has a horizon, right?
+And then 90 degrees away from the horizon, so that's called vertical.
+But if you go, you know, if you go a mile over, the vertical direction from the sphere into space is a different direction.
+It's a different direction because it goes, because really it starts from the center of the sphere
+and then projects outwards.
+And so, if you are, if you're basically, like, if you go over a little bit, maybe a mile on Earth,
+and I'm just, like, for the sake of convenience, I'm like, okay, let's go,
+imagine a sphere the size of the Earth, and a mile over it's going to be, a perpendicular line is not going to be parallel
+to any other line that's perpendicular to the Earth, to the center of the Earth.
+It's going to be fanning out, right?
+And so, the idea was that these lines are going to be lanes for particles, you know, like electromagnetic lines in space.
+And that in between them, they're going to be shaping the, they're going to be shaping the statistical behavior
+of all particles that pass through that field.
+So, let's say that particles have a random walk, just like the intro to neural computation
+talks about how, you know, particles have a drift that is the square of the amount of time.
+They have a drift, so they move very slowly.
+They move at a rate that is, you take the amount of the time interval, and you find the square root of it,
+and that's the amount that the particle has drifted.
+So, the square root, I guess that means you need to take a number times another number to get time.
+So, if time was equal to 4, and that would mean that the square root, 4 is 2, so 2 times 2 is 4, right?
+So, if you have, so, if time is 4, then the particle has drifted by 2, by a distance of 2.
+So, in that, so in that case, it's, it's, it's, it's, it's, it's, it's, it's, it's, uh, it's moved by about half.
+So, if the particle, if the time was 9, then you would say, well, it's, it's, uh, the square root of time, 9 intervals of time is, it's going to be 3, 3 times 3 is 9, right?
+So, you could say, well, it's, it's, it's moved by about a third, uh, but the point is that, so, let's just say that there's, that's, that's, that's, that's like the, the, the, in the random walk, it's like, we're talking about the distance because, you know, the particle could move in any given direction, randomly.
+You could randomly move to the left or to the right, um, it's not, uh, it's not likely to move in a straight line because, because it's, uh, because it's, uh, because it's, it's movement is like, it's almost like the flip of a coin, it's almost chance.
+It's like, it's a chance, it is, it is a chance-like mechanism where the particle doesn't have a deliberate direction to go in, so it will go in any random direction as it diffuses.
+So, this is, this is, this is, this is, this is, but we're talking about, this is an essence of, like, the rate of diffusion of, of, of an ion in a, in a cell.
+So, this is different from, like, the rate of diffusion of, the rate of diffusion of, of an electron in space.
+It's, it's, it's, it's, I don't know that it's going to be, I don't know that it's not going to be, uh, you know, the, moving at, uh, defu, defu, defu, uh, defusing in space at a rate that is, uh, the square root of time.
+But, but, I think, my high, my, my hunch is that, that, it, it can, it's, it's totally different depending on, like, the, uh, you know, what's going on in the electric field.
+So, what I'm thinking is that the closer you are to the planet, to Earth, to, or to the center of the Earth, then the more, basically, then you're going to have more, um, space is going to be more excited.
+Right, right, it's going to be a lot more particle collisions.
+And then, like, as you, sort of, like, you know, head up into the atmosphere, the, um, instead of, like, you know, the chances of, of space, uh, of movement, right, are in a, um, in a horizontal and vertical, in a horizontal versus vertical direction, um, are effectively,
+uh, uh, splitting, splitting, split, split apart.
+So, at some point, the chances, like, at some point when you're close to the center of the Earth, the chances of moving horizontally or vertically, uh, in any given direction are about the same if you're close to the center of a, of a, of a planet or singularity or, or black, or star or black hole.
+But the farther you get away from the center, the, um, the more you're going to have a, sort of, like, separation in the, in, in the odds of a particle moving in a vertical or horizontal direction.
+And, uh, so, somewhere high up in the atmosphere, like, you're going to, uh, be, let's just say that there's going to be, like, if you're in a, if you're in a vertical particle lane,
+that, and then, um, movement in a vertical direction up or down is going to be faster, uh, and movement to the left or right is going to be slower.
+And, and some of that is because the, is because the collisions, because there are, there are more excited collisions happening in the vertical direction.
+So they may, so you might have two different particles colliding and bouncing off in a vertical cascade at a slightly higher frequency than, than, than, than, uh, horizontal cascade.
+Um, but if, uh, the, I'm just talking about in general.
+Like, the trends are, you're going to have particles moving in all directions no matter what, especially when it comes to particles colliding,
+but you're going to potentially have more trends of, uh, and so you're basically creating, in space, you're creating basically, um,
+almost like the equivalent of having two metal plates in an aqueous, uh, saline solution, right?
+Where you have basically, between the two plates, between the lanes, you're creating a, um, an electric field that is applying force to all particles that are moving through that field.
+All particles at all scales.
+So this goes, this, this, this, this is applying, it's going to apply a physical force to all particles at all scales.
+So that means atoms as well.
+Um, and so you're going to have, so electric and magnetic fields are going to apply a physical force to atoms because they are, in fact, um,
+um, because that's, that's analogous to drift, uh, caused by an electric field inside a neuron.
+And we're talking about particle drift, but, but I think that we're talking about the movement of sodium,
+sodium, not just ions, but, but also sodium and potassium, I think, that the, the electric field is going, the electric field, if it's,
+so that's, that's essentially what's happening in their muscles, is the electric field is causing the, the, it's causing,
+it's a force, it's causing the, I forget what it's called, something to walk across the muscles that are
+contracting or tightening the muscles.
+The current is creating a physical force that causes the muscles to, muscles to contract.
+But I, I also, it's interesting because I think about how the action potential when, when it curbs up, I think it's like,
+I think that is like a multiplication because it's like, it's like multiplication in the sense that you,
+you have a, you have a cascading effect of, of, of, of an, of an acceleration of particle movements that results in a rapid, um,
+turning on of, of current, right?
+From, from a, from a, from a, if you have, you know, the voltage, if the voltage is sufficiently displaced,
+um, the depolarization is coincident, depolarization is coincident with, with the neuron turning on briefly.
+But it's, it's, it's, it's interesting in a hot, in Hodgkin and Huxley,
+they're sort of suggesting that the, um, the sodium basically is decaying rapidly,
+but there's a delay in the onset of, of the, um, what's it called, the activation and this, and disactivation of the current.
+Um, and, but that delay doesn't match what's going on in the human being in terms of like,
+the, the squid, the giant squid neuron, the, um, the disactivation, uh, the activation and disactivation.
+There's a, there's a mechanical delay in it that's not true for the human, for the, for mammalian neurons.
+So, so I guess we're talking about, like, uh, you know, the brains of rats.
+Right, but, um, it's not true, but perhaps it's, it's because, um, there are different,
+there's different sizes, perhaps there's different, perhaps we should see, like, the, the, the rapidity of the, um, sodium decline.
+Um, it's, it's, it's, it's considered to be a special feature of sodium, but it doesn't, but it doesn't match,
+but it doesn't, but what's happening with the decline of the electric charge in the squid neuron doesn't match the,
+the delay in the, and the, the delay for the, for the rise and fall to activation, um, doesn't match human neurons.
+And, um, I guess I had, it, it, it, it, what I'm, what I'm getting at is, is, is that it's not a feature of the sodium itself,
+but there is a, in the Hodgkin-Hutchley model, there is a, a coincident event happening, the H-infinity event,
+which is the closing of sodium channels.
+So it's, it's like, imagine that the sodium channels turn on, but immediately the, the, they're just on,
+and then they, immediately they run out of charge, right? So immediately, but at the same time,
+immediately, as soon as they turn on, uh, the dissipation happens, and then the, the sodium channels
+that all opened up simultaneously all start to close simultaneously.
+And, um, so the argument is that, that I, that I am thinking about is that the, the, um, H,
+because H-infinity starts at the same time, basically it starts, um, it's, the, the, those sodium channels
+open up in a cascade, in a multiplying, it's, I, I think of it as a multiplication effect,
+because they're, because the cascade is like the same pattern is now being repeated multiple times
+where all these sodium gates open, but then they all, immediately, basically, they all start closing.
+So they all open very briefly, and they all start closing.
+And that, that's, um, that's almost like, you know, it's like, imagine, uh, you know,
+a bunch of gates are just releasing, but then closing back up again, right?
+It just, there's, they're all, but they're all opening up in a cascade at the same time.
+Like, oh, an event happens, we're all going to open up.
+And so that's, it starts and it stops, but the rate is not consistent because it's not
+a feature of sodium, but instead it is a, a feature of, of, um, channels closing right
+after they open.
+So it's a feature, it's a feature of the, the, the structure, the protein structure, um, perhaps.
+And, um, that's interesting because, um, the, yeah, I don't, I, so, I don't know why
+it's, so, sodium, why, why would, so, like, if you didn't have the channels closing, it's
+kind of like, the question is, would the sodium current continue?
+Um, but regardless, it, it appears that, that, um, it does stop, and, and, but the current
+is continuing because, uh, there's a potassium, uh, current that's happening that's different
+from the sodium current, but, but at the, at the, at the, at the, so the potassium current
+is, um, sort of gives us the decay time of the, uh, action potential, which is going to
+determine the, the, the magnitude of the, of the neurons signal to other neurons, right?
+So, it's this potassium, uh, rate, uh, potassium diffusion rate.
+So, um, so, here we have a, uh, potassium diffusion rate that can produce basically, um, one of,
+one of four different possible, um, realities per action potential, right?
+The zero, one, two, and three, um, and so that is going to, so, going back to, how, how, you
+know, so, the idea is that the neuron, the neuron shape, which is defined by its connections,
+neuron shape would be known to the network because it's, it's like, it's, if it fires, it's like,
+well, what is, what is, what parts of the network are listening to when it fires?
+And so, you have, the distinction between two different neurons is that they each speak to the
+network differently, and, um, but you're going to have multiple, so you have multiple, so you have
+many different neurons that are connected to both of those neurons that fire, but each one of those
+neurons, when it fires, it is, in some sense, a representative of its connections, because
+when it fires, there's only some neurons that are going to fire, and that's going to, and, and,
+so you're going to have, you're going to be changing the whole oscillating array of patterns
+by, by each neuron that does fire, because that is, each one is sending out, is, is sending out, it's,
+it's, uh, its own representation to the collective, so, in a sense, a, the neuron is communicating its
+connections to the network if it fires, it's communicating its existing connections to the
+network if it fires, and that's how, it's, that's how each and every neuron is distinct, um, is that,
+from, from any other neuron, so each neuron is capable of producing a distinct pattern, um, but you're
+also going to have situations where, you know, basically, like, um, sort of, like, the network has learned,
+uh, pattern invariant, so you could have different types of, uh, you could have, you could have
+different types of modalities in different regions of the brain, or even in the same, same, uh,
+cortical column, playing back the same melody with different notes, that the network could recognize,
+because it can recognize patterns invariant from, uh, uh, who's, who's, which, invariant from which piano is
+playing those patterns, so you could have a piano that represents a different neuron that sounds
+different, but it could play, uh, the same pattern as, uh, the original, and so, in effect, you have, um,
+messages that are, um, that can be, that can be, sort of, like, uh, stored as tempo-spatial oscillations
+of unique network nodes that are unique because of their connections to the network, and so, the, the, the neuron is,
+is, um, expressing a note that, that is, to the network, that is, it's, um, it's learned connections,
+and it's learned connections are, what are the entities that are perceiving that note, but it's, in fact,
+but because, um, the signal, the energy of signals, uh, uh, dissipates in a cascading fashion
+across all of the oscillators, the, the, the, the patterns are, the patterns that, that each area
+of the brain learns are, are essentially transmitted all over the place, transmitted to every neuron.
+So, the, so, the, so, it's the idea of, of, of all the fireflies, if they're oscillating, that means
+that, that, the, the, the energy differences between them are, um, basically, um, that basically, um,
+uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh
+Thank you.

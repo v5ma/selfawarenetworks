@@ -1,0 +1,26 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0121y Voltage Neurons Synapse
+First recorded: 2021-10-17T09:22:43.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/ed65703b-dcaa-462c-92f2-9ac8c122e161
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So as the neural circuit fires in sequences, which means you have a neuron will go off in an area and it will inhibit the rest of the receptive field that can see it because it is, because they're connected to its exoterminal.
+So the neuron will, so one neuron goes off and it blocks a whole bunch of others from firing.
+So there's an inhibitory reaction involving a lot of neurons.
+And there's a third group of neurons that are just watching all this happen via the neurotransmitters they're receiving on their membrane.
+That's a lot, that is, by allowing ions to flow through the synaptic, through the synapse, to, to, to move the voltage towards either depolarization or repolarization.
+Um, you know, to, to either move the voltage towards an action potential or towards, uh, just being very inhibited from being able to fire and not being able to, not firing, right?
+Because it has to be just not able to fire for a time.
+That's the, that's the, it's the, um, inhibitory phase.
+So it also is between these three phases.
+It's like, yeah, sometimes it's, uh, in the talking phase, which is when the action potential has fired.
+Um, and sometimes it's in the listening phase when it is just in, in, in the interval where it's just collecting, uh, where it's, it's voltage is going up and down, but below a threshold.
+Right.
+Right.
+So there's, there's, there's above threshold phase, there's a below threshold phase, and then there's like, um, inhibited and unable to fire.
+So, I mean, there has, there's like a reset, there's like a, it's like a sleep cycle, I think, maybe.
+Um, but what happened, but because, um, so this means that, um, there's always some neurons speaking, there's always some neurons observing, or listening, uh, or, and then there are always some that are inhibited.
+Like, like, they can't, they can't, they can't, maybe they can't listen because the synapses are clogged, or, you know, they're, too many of the K channels get opened.
+It just gets inhibited from firing, because it's, because the K channels have been, uh, because the K, um, because, because the, the, the, um, I don't know how long that can work, though, but, um, and it doesn't work.
+Thank you.

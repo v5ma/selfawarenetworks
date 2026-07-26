@@ -1,0 +1,9 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0057y Oscillators Gps Idea
+First recorded: 2021-11-10T08:47:59.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/2bbf2fac-1a70-4045-bbb8-85700bebb731
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Let's talk about, like, um, so I definitely want to go back over the Sink novel and do some research on GPS, because it's, like, just talking about GPS is really, like, an interesting way to, like, tie in my grandfather, but also the, um, the idea that we're, that patterns are, um, in our brains are, are sort of, like,
+um, being transferred between oscillators, but the effects of oscillators are being felt at all scales, and that is, like, the point that I, I wanted to drive, I didn't create, I didn't, like, I'm not the first person to come up with this, this, this idea, but I just want to drive that point home, how interesting it is.

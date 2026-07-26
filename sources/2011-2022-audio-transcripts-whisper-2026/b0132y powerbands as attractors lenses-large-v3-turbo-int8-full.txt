@@ -1,0 +1,118 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0132y powerbands as attractors lenses
+First recorded: 2021-10-14T08:46:00.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/e432ab02-f723-4c30-9cdd-f66c8ab7894b
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Okay, so just imagine, um, power bands converging. Um, so, I mean, imagine you had five instances of alpha, or five instances of beta, and they're all just a little bit different. You know, beta 1, 2, beta 3, beta 4, beta 5, and beta 6. And, let's say that each one of them was, like, a representation of, I don't know, a room, and one of the representations was off, it was wrong.
+Um, and, let's see, if you have five, five of them happening simultaneously, then they can sort of average each other out. Or the, or the truth is, like, this tomographic, this sum of the, of the intersections that are true for, are true most of the time.
+Like, um, like, like, like, um, like tomography. Um, like agricultural impedance tomography. You know, where it's like the intersection, to a Fourier slice transfer, where you can take, you can take, um, take a slice of a 2D picture.
+I mean, take a picture of, uh, you know, that 2D slice represents, of a 3D object, that, um, that 2D slice represents, like, the midpoint of that 3D object.
+But anyway, if you have pictures from all around, a 3D object, where those images intersect,
+if you line them up correctly, it helps you reconstruct the original three-dimensional
+image.
+And I'm really interested to see the combination of like, you know, deep learning plus tomography,
+electrical computer tomography specifically.
+Because that's like, that's closer to what the human brain gets to do with representing
+information in multiple lines, multiple streams of incoming information, multiple kinds of
+representations in multiple areas of the cortex, multiple sensory representations simultaneously
+that are core-linked, interrelated, interconnected, associated, distributed, distributed and associated
+temperate spatial failure representations over time.
+And, um, but like, what I'm saying is like, if power bands like easily converge in oscillatory
+dynamics, and electrons are attracted to power bands, then the power bands might be serving
+as a, um, the power bands of low-frequency oscillators, like between 0.2 Hz and, I think, 70 Hz, like everything
+that's like, um, below high gamma, so like low gamma, and high, and all the betas, and alpha, theta, and delta, like those power bands are, perhaps, um, they're like low amplitude
+neural circuits that attract cooperation, because they're, um, low amplitude, widespread firing results in, um, neurons that sort of like, send a, a low frequency, sort of, uh, broad engaged,
+much, more broadly engaging, um, community-driven, um, community-driven, um, pulse that contrasts with the, um, uh, less often, infrequent, spontaneous, um, phasic neural firing that is somewhat driven from outside-in
+simuluses, through the sensory organs, right? So, there's this, like, there's this, like, there's this active state, or ready state, which is, like, low
+atomic firing, and then incoming simuluses are, are, like, fast jolts to the system, and I'm saying that, um, the stuff that
+defines the fabric of consciousness is the divergence between the, uh, high frequency, um, neural activity, um, neural pattern, and the low frequency oscillating,
+uh, uh, pattern of observer neurons, they're just ready for them, they're observing them, and that interaction, that cyclic interaction, is,
+what prints, um, that's where, um, that's where the canvas of consciousness is printed, and it's, uh, what it's printed with,
+in oscillators with, with neural, with, um, phasic, with phasic neural firing, and also, um, and, and, and also inhibitory patterns,
+right, right? Inhibitory variations, right? So, with, with the, um, uh, inhibitory interneuron, the inhibitory interneuron system,
+we have the ability to have a vast, vastly greater, vastly greater number of variations of the number of patterns
+that the neuron, of the network can take on, and, um, but the idea is, um, you know, I have this idea that, um,
+your mind is representing information at multiple scales, so that you have, like, a sort of,
+that's able to predict, perhaps, the, um, scale invariances, in addition to position invariances, and, uh, orientation invariances,
+in terms of learning what objects are, like, uh, uh, it can form, basically, virtual representations of
+objects that are not dependent on their location, and not dependent on their size, and not dependent on their position.
+So, that allows you, basically, your imagination to run free inside your imagination.
+It means you can imagine infinities, because, um, your brain is able to represent any pattern somewhat independent of any other pattern.
+But, sort of like, it's sort of like, um, you know, you can imagine that two different items are on the same canvas,
+or you can imagine you have multiple canvases, each with their own set of items, each with slightly different rules.
+And, um, I mean, this helps better if you have some experience in, like, game development, or, or WebXR development,
+because you might, because, dealing with 3D canvases, is, this, some of this language might be a little alien, too, but, um,
+you know, we're talking about WebGL, related terminology,
+WebGPL,
+or just, um,
+computer graphics, related terminology.
+But, yeah, so, like, there's, there's a potential binding.
+See, it's binding because oscillators are, oscillating power bands are going to attract information together,
+so information's going to converge, so you can have multiple representations, or multiple viewpoints,
+or multiple renderings, or the same object for multiple sides.
+And those multiple representations, in a sense, get to vote as they converge,
+because the, there's, the thing that there's more instances of, has a greater likelihood, than something that there's fewer instances of.
+And so, when you say, oh, well, I thought I saw, well, that was, like, that was, like, a version of reality that your mind rejected,
+it could be kind of the other versions of your, of reality were, were, um, were seeing something different,
+and there was too many of the ones that were seeing the right thing, or seeing the thing that you end up believing.
+You know, and, and, not enough versions represented a thing that you don't, that you think is not real.
+Like, that you think was just an illusion, or a trick for your eyesight.
+Like, that was just, that disappeared for a second.
+And that, that version of reality was, like, sort of discarded.
+So, in a way, different regions of your mind represented different views, and your mind sort of voted through convergence.
+And the convergence, uh, might be, um, a converging power band.
+Or just, um, you could, you could also look at it as, you know, convergence would include the, um, the deviation of, would include,
+so, when a neuron fires and the phasing pattern escapes, the tonic frequency pattern is running faster.
+Or, or it's inhibited.
+And, um, but it's, it's not firing with the oscillator, at this point.
+The thing is, so, let's say it, it fires again, and maybe it's, it's still not firing with the oscillator,
+but it's firing a little bit closer to the oscillator.
+The oscillator itself is going to exert a sort of, um, attraction to pulling that smaller oscillating neuron back into the same tonic frequency plot.
+So, it just readies it for being ready for a phase of firing, for the phase of firing to be called for.
+Um, but, it happens because of physics, the physics of oscillators.
+And, you know, oscillation is sort of like, um, part of the process.
+It is part of, it goes with the fact that the rest of the neurons in that network have sort of, through the exit of the time, listened.
+And through, yeah, through their connections, through anything they can receive, through any kind of, um, change caused by one neuron that affected nearby,
+its nearby buddies, that they could potentially perceive as coming from this neuron.
+Um, or perceived and, and not come from this neuron, but just was, just, um, causes a change to their structure.
+Like, change to their perceptive field somehow.
+The very sensitive things neurons are.
+Like, that is, um, it's, it's, the idea is that, um, you know, all the different possible ways in which neurons attack each other,
+I am not 100% sure on it.
+I, I am not, I wanna know, but, but it's, they're complicated.
+And, um, and so right now, I just, you know, I just, you know, I just, I leave open the possibility that there's,
+there's some ways those neurons are, are, um, influencing each other that, that, uh, have yet to be, sort of, described.
+Or, or, or I'm, or I'm just not aware of where they're described.
+There might be other descriptions of neurons that I haven't encountered yet.
+I've described their capabilities in different ways.
+Um, certainly when you read a book that's not, that's just about what cells can do in general.
+Cells are very impressive.
+And, in, in the context of all the amazing things that cells do, neurons are very impressive.
+But you wouldn't necessarily hear that from, from a class on computational neuroscience 101.
+But the perceptron, which is the over, oversimplified and definitely wrongly simplified neuron.
+I mean, um, the idea, I guess, is that power, power bands, uh, in the spectra could be not only just, um, you know, converging information.
+I guess, I guess it, I guess it symbol, I guess it could symbolize ver-, converging information, uh, if an oscillator is collectively reading out, uh, a face, a face, a temporal spatial phase pattern.
+Um, coinc, at the same time that it is being absorbed by the, um, by, by basically, you know, like, I'm just imagining, like, if you had, if you had a brainwave that's, like, being passed along a network, it's, like, each subsequent row is going to, um, to have a different variation.
+Uh, like, uh, like, game telephone.
+Like, every time you pass a signal along, along a telephone, uh, along a connection in the telephone game, uh, each person makes a tiny variation.
+So, the signal changes, uh, quite a lot from the first person to the last person.
+Um, but, the idea is that, um, because of the way the, the brain's graph is kind of randomized, we have very short connections between one point and the other point.
+And you have, uh, uh, you also have multiple, like, the pattern is, um, has multiple lines that are being, uh, where the patterns are being communicated across multiple lines.
+And, let's, those multiple lines are variations in the same pattern, but they can be added up, like, the way you add up tomography, look for the intersections in order to find, to define the object.
+But, this gives a chance for multiple lines of pattern replication to converge in a power band type of configuration.
+Which, um, you know, automatically takes the, um, you know, the high, the high instances of the same pattern repeating as, uh, a greater likelihood that, um, that a pattern is a real pattern.
+And that's going to overrule, it's probably, probably going to overrule, it doesn't have to overrule, it's probably going to overrule in some cases, in many cases, like, the, um, a deviation where a certain representation of the incoming pattern was, um, was not, uh, captured correctly.
+So, this, this, in a sense, is, like, one of the latest, uh, backpropagation, uh, research papers, um, put out by Facebook, um, where they have, basically, a neural network that is creating two representations.
+One is, like, the, um, the main representation, one is, like, an imaginary prime, uh, imaginary prime of the same representation, right?
+But anyway, it's, like, an imaginary variation, and it compares the two variations, and, like, computes the average in order to get rid of the, um, imperfections in either model, I guess.
+It's, like, it's, like, making multiple, it's, like, having multiple neural networks simultaneously learn the same thing, but then having them compare results, and keep the results that are in common, so that the results that are less common can be considered as, um, mistakes.
+And the consistency of the, of, of, of the results that were in common can be, can basically make the recognition of the pattern that was learned more robust, and it sort of creates, like, a biologically plausible form of black propagation.
+It basically has, um, multiple incoming sensor streams, each taking, sort of, like, sensory readings, and then, like, independent sensory readings.
+And then having those different sensory readings, sort of, like, um, combined in the brain.
+But also, um, I think that, you know, in terms of, like, yeah, the file system of the brain, the idea that, um, when we're focused on something, it's basically being amplified on multiple scales.
+Um, which is, uh, sort of, like, taking, like, it's sort of, like, making a projection out of something tiny.
+And projecting it to the global, to, uh, to, uh, to the macro topic.
+So, I'm, I'm suggesting that all of our big thoughts are stored in, in small, in small areas.
+And then they get amplified, uh, during the time that we're thinking about them.

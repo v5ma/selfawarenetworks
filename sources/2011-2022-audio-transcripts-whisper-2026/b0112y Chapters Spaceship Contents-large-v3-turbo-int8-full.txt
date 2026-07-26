@@ -1,0 +1,105 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0112y Chapters Spaceship Contents
+First recorded: 2021-10-20T22:14:55.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/ffd80d7b-8e48-43bd-be62-52b8011ca340
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Okay, so the next step is that I'm going to listen to transcripts.
+Yeah, don't worry, I was going to remind you.
+So the next step is that I'm going to listen to the transcripts, or I'm going to read the transcripts as I'm listening through the audio recordings.
+And then while I'm listening, basically what I'm going to do is I'm going to paste the transcripts into a note, so I can edit the errors while I'm listening to them.
+And select the relevant portions of the notes that are going to fit into the book.
+So I'm just going to start to slot them into the book under the topics that exist already.
+So even though the topics are not completely outlined, I'm going to start slotting stuff in.
+And this sort of fits in with the vision, like, yeah, I can keep adding stuff to the table, adding and subtracting stuff from the table of contents.
+But basically I can begin to fill in the sections of the book with the content that I have so far.
+And that will help me sort of, like, figure out how I need to grow and expand the table of contents even more.
+So I'm basically creating a workflow where I developed, like, a prototype of the table of contents.
+And now that I've done that, it's not complete.
+And I understand why I feel like it's been hard to complete it.
+It's been hard to do a complete table of contents because I have too many concepts to go over.
+But what will happen, I think, if I follow this process of, okay, now let me just listen to the content that I have and make a new note with it and begin to, like, slot in, you know, content by topic into the chapters that are designed for those topics.
+What will happen is that I will think of new sort of things to add to the table of content that will come from, like, right now I think I'm hitting a wall on adding to the table of contents.
+Because I have, like, five or six different tables of contents in five different places.
+And they each include, like, a ton of different topics and they reference a ton of different materials.
+But right now, what I ought to do is go through my existing stack systematically so that I can pull out content and begin to arrange it in the chapters that I have decided I need to have.
+Because I have, like, said, okay, I need a chapter about this, I need a chapter about that, but I haven't done all the chapters because part of the development of the chapters sort of needs to sort of, like, be flexible.
+So some of the content has to, some of the, it's like, it's like the chapters represent the synaptic structure.
+If the brain, synaptic memory structure in a fractal sense.
+Like, chapters are like, and I guess that could represent the cortical column, you know, so the cortical columns could be fractal of,
+of the, uh, the synapses on the, on the, on the, on the, on the, on the dendrite.
+Like, the boutons on the dendrite.
+Right?
+Like, I guess it's the, the, what I'm saying is, like, so if you imagine, like, the, so the cortical columns are, like, analogous to boutons.
+Right?
+And, uh, with the point being that, like, um, they are, you could see them as, like, um, basically able to, they're able to play back memories because of their firing sequences.
+So the firing sequence of, of the synapse, um, by itself is, like, playing back memories.
+Or it's like playing, it's like playing a memory to a cell.
+But then the idea is that the cell is going to play back that memory and, um, or that configuration.
+It's going to play, like, so there's a synaptic configuration.
+And then it gets played.
+Right?
+Like a piano being played.
+So it produces, um, an information-carrying wave, a soliton, that is, and the shape of which is defined by, um, the, by the arrangement of the, the boutons.
+And, uh, but in a similar sense, like, the, so the arrangement of the cortical columns, sort of, if that, if you could consider that,
+the cortical, the active, the active, uh, components of a cortical column as being, like, um, the, the, the changes in what's active in terms of, of, um, uh, the, the boutons, of, uh, uh, the activity sequence of boutons, of boutons,
+that, that, that would be the basis of memory for the, um, for the, um, for, um, long-term potentiation.
+Like, you could say that, um, that basically at a larger scale, like the, the firing inside cortical columns at the pyramidal scale, uh, I'm sorry, at the, at the pyramidal level,
+the pyramidal cell level, the, the, the fifth, the sixth layer of the, fifth or sixth layer of the, um, neocortex,
+where the pyramidal cells are connecting to, um, they're helping to connect the, the, the cortical columns together, right?
+And I like to compare it to the analogy of, like, the retina on the inside of your eyeball because, um, because, uh, they're both, it's like, it's like a nervous system wrapped around, uh, the interior of, of a sphere or a half dome, right?
+If you, like, if you, like, that's, that's, that's why they're, the, you can see the retina, it wraps around the inside of your spherical eyeball, about, but not, um, not the, not for the entire sphere, but just, you know, there's, there's a, you know, you, just for, like, the, I think it's just the back half.
+Um, I don't know how, I don't know the exact, uh, uh, uh, the exact length of the, uh, the exact, sorry, surface area of, of the retina, but, um, that'd be good to look up.
+Um, but yeah, so then you have, like, you know, the neocortex is not the, um, is not the entire brain, but it's, like, the, uh, top two-thirds of, uh, it's, like, 90%.
+And then if you're, um, of your, of your brain, uh, at least, it's, it's at least the top two-thirds.
+I have to, gosh, why am I, like, confused about that?
+I need to look it up, but, uh, okay.
+And so the pattern complexity, uh, uh, of the, of all the different, uh, modality representations combined.
+So if you can represent the feeling of touch, the feeling of wet water, feeling of a hard surface, feeling of a rough surface, smooth surface, soft surface, like, um, different kinds of feelings.
+When you have all these different patterns and you can see bricks and you know how bricks feel and you can, you know how bricks sound and you can see, uh, you know, the ground and the, the asphalt, the concrete, the trees, the dirt.
+And you have all these different sensory modalities in your, um, uh, from the somatosensory cortex, the visual cortex, and the audio cortex.
+When you're focusing on something, when you're, uh, uh, aware of it in a way that combines multiple sensory realities together,
+that, um, that, um, it's gonna, that's gonna, that's gonna probably light up your, your temporal parietal, uh, uh, sorry, your, yeah, your temporal parietal junction,
+which is, um, associated with attention, with associated with, that's the, that's the part of your brain that lights up.
+It's like a convergence point between the, uh, three primary sensory cortices.
+And so if there's activity in all, if there's coordinated activity in all of them, it does make sense that, um, given its, its location, uh, in the brain, like, you know, like, that energy is gonna be, uh, flowing towards it.
+Like, like, like, I'm just, like, yeah, imagining that electromagnetic energy, uh, would, would converge there, not only because it's in the center, uh, but precisely because it's in the, in the center.
+Um, it's like an average point between the three areas.
+And, um, so it is a natural convergence point in a physical way.
+Like, like, in, you know, I don't know how much electromagnetism would, would sort of bounce off the interior surface of the human skull and back, sort of, like, converge back towards the, um, center of the brain or towards the temporal parietal junction, uh, which is what, what lights up when you're paying attention to something.
+But, um, it's an interesting idea.
+It's sort of like the idea that the, that the, uh, the funny idea that the, um, the pyramid of Giza actually concentrates, uh, because of the, the, uh, the dimensions of a tetrahedra, that they, they might reflect electromagnetic energy back towards the center of the pyramid and also beneath the pyramid.
+And, um, which is, like, you know, it, it, like, for, like, second, for a second, you're like, well, so could the pyramid of Giza basically function like, uh, a spaceship?
+All right, if it, if it's basically, uh, able to concentrate, it's, it's, it's, it's, it's, like, a really slow spaceship, I guess, but if it's able to, like, like, sort of concentrate or reflect electromagnetic energy back towards the focal point, the same way a dome would, right, like, all these plates or satellite dish, um, then, um, yeah, then, like, what are the potential?
+Uh, reasons why someone would, would, uh, would do that or use that technology.
+Like, maybe they were imagining they would create a spaceship or something when they built it.
+They thought, yeah, we're gonna, we're gonna, this is gonna be like a rock.
+And then, and then the guy who, uh, what, who's building this spaceship, the pyramid of Giza, maybe he, he wasn't able, maybe he died before he could, uh, before he could tell other people how the spaceship actually works.
+And so, instead of, uh, um, launching him into space, they just buried him in it, right?
+And that, like, and, like, and then they'd be, and then, like, so people, like, forgot that it was supposed to be a spaceship when they built it.
+Uh, one, they probably didn't have enough thrust, uh, and, uh, because the physics of, uh, the flight hadn't been figured out.
+And so, um, uh, they forgot that it was a spaceship and they just said, oh, no, this was a tomb.
+It was a tomb for a great king, right?
+And, uh, and that wasn't the original intention.
+Maybe, maybe they wanted a spaceship, so, I don't know.
+It's really silly, but, like, that would require, you know, them to have, like, an understanding of electromagnetism,
+which, which doesn't seem likely or plausible at all.
+Uh, I think it's more likely that they like pyramid shapes.
+And that each pyramid shapes are easier to build.
+And it's probably a temple.
+And it's probably coincidental that it reflects, uh, electromagnetism back towards the center.
+Um, yeah, but it's interesting, the idea that your brain might, might, might kind of do that.
+This, like, the skull, because it's a sphere, it, it, like, it might increase the, um, the, uh, the chances that, um,
+electromagnetic energy bounces back towards the center of your brain.
+You know, just, uh, sort of, uh, if your skull, like, is kind of, um, at all reflected to your electromagnetic place field.
+So, I'm not sure that it is, or, or isn't, actually.
+That's an interesting question to, uh, to research later on.
+Um, but, uh, but I, but I, like, I suspect that is a second, that could be a second reason for why the temporal parietal, uh, junction,
+uh, lights up when we're paying attention.
+Because, I guess, logically, when we're paying attention, something, uh, maybe, maybe our, our, our brain activity is, is, is picking up.
+Especially, especially in certain areas.
+You know, so, some activities is happening.
+And, and, uh, so, I mean, the, the, the physics of, the physics of it being a central, like, location in an electromagnetic network is,
+uh, is, uh, something I'd like to know even a lot more, more about, but, um, but not necessarily something I need to cover in, in this book.
+So, for, for another, for another, uh, another book.
