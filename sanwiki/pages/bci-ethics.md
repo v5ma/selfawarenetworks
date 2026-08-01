@@ -1,0 +1,34 @@
+# Bci Ethics
+
+**Bci Ethics** is a [[Self-Aware-Networks]] reference to the survey-level slot in the SAN red-link map for "the ethical, legal, and rights questions raised by [[brain-computer-interface]] hardware and [[neural-lace]] deployment" — i.e. the surface that [[neural-data-sovereignty]], [[cognitive-privacy-xr-bci]], the [[neuralink-ethics-panel-b0303y]] reportage entry, and the [[ai-creator-rights-fair-use-platforms]] adjacent thread already cover at finer grain. The slug appears in the SAN red-link suggestions and in the [[selfawarenetworks-github-repository]] dump as a companion entry to [[bci-industry-landscape]], [[bci-delivery-mechanisms]], [[bci-expanded-sensory-range]], [[bci-science-fiction-references]], [[brain-computer-interface-neural-readwrite]], and the [[three-network-neural-lace-architecture]] / [[neural-lace]] / [[neural-lace-brain-port]] / [[neural-lace-ar-vr-no-glasses]] / [[neural-lace-deep-learning-anikeeva]] cluster, but the body content for this exact title is not yet present in the indexed corpus. No direct quotations were captured in the Lane B concept-packet sweep for this slug, so this entry currently sits as a no-evidence placeholder rather than an excerpted concept page.
+
+Lane B's concept-packet generator returned `evidence_count: 0` and `status: "no-evidence"` for all four match-phrase variants of the title (`"Bci Ethics"`, `"bci ethics"`, `"bci-ethics"`, `"bci_ethics"`), with `source_count: 0`, `dead_link_count: 1`, and an empty `suggested_wikilinks` list. The match-phrase list never branched out to the spelled-out frames the SAN corpus actually uses for this idea — phrases like "BCI ethics", "neuroethics", "neurorights", "cognitive liberty", "mental privacy", "neural data rights", "[[neural-data-sovereignty|neural data sovereignty]]", "informed consent for implants", "BCI regulation", or the [[neural-data-sovereignty]] / [[cognitive-privacy-xr-bci]] / [[neuralink-ethics-panel-b0303y]] phrasings the SAN corpus actually carries — which is why the indexed search came up empty even though closely related phrasing is reachable elsewhere in the [[selfawarenetworks-github-repository]] dump. A future Lane B re-run that broadens the match-phrase list to include those un-abbreviated forms, plus the [[ai-creator-rights-fair-use-platforms]] / [[neural-lace-podcast]] vocabulary the SAN program treats as its primary BCI-ethics reportage corpus, should successfully populate this packet.
+
+Until that re-sweep lands, the body should be read as a structural placeholder that prevents `[[bci-ethics]]` references in adjacent SAN pages — most importantly the [[brain-computer-interface]] hub, [[bci-industry-landscape]], [[bci-delivery-mechanisms]], [[bci-expanded-sensory-range]], and the [[neural-lace]] cluster — from becoming dangling links, and as a navigational hub from which a reader can reach the closely related concrete entries. When evidence is attached, the body is expected to articulate the [[bci-ethics]] taxonomy in three layers: a rights/privacy layer covering [[neural-data-sovereignty]], [[cognitive-privacy-xr-bci]], and the broader "neurorights" framing of mental-data ownership, intrusion, and consent; a clinical/regulatory layer covering implant-grade safety, reversibility, equitable access, and the [[neuralink-ethics-panel-b0303y]] reportage on industry [[gh-a0206z|self]]-regulation versus external review; and a societal/agency layer covering [[oscillatory-computational-agency]], [[fractal-agency]], and the [[ai-creator-rights-fair-use-platforms]] question of whether generative outputs derived from BCI-mediated cognition belong to the user, the platform, or the model. The body should also relate the concept to the application surfaces the SAN program tracks — [[augmented-reality-bci]], [[webxr-bci-integration]], [[digital-native-economy-xr-bci]], [[eeg-xr-neurofeedback-bci]], [[eeg-vr-biofeedback]], [[eeg-biofeedback-self-reflective-loop]], [[brain-to-brain-eeg-synchronization]], [[inter-brain-eeg-synchronization]] — and to the [[bci-science-fiction-references]] / [[neural-lace-podcast]] / [[neural-lace-podcast-ep2-blaze-sanders]] / [[neural-lace-podcast-ep3-eric-matzner]] / [[neural-lace-podcast-4-andre-watson]] / [[neural-lace-podcast-5-jules-urbach-otoy]] / [[neural-lace-podcast-s2e1-jean-rintoul-openeit]] / [[hack-days-sf-neural-lace-2018]] reportage that grounds the SAN view of which ethical questions are actually live in current deployments. Any concrete factual claim — specific regulatory frameworks, jurisdictional differences, named cases, or quantitative claims about consent rates or adverse-event statistics — must be sourced from the original [[gh-a0206z|Self]]-Aware-Networks wiki page or its archival copies once those are folded into the Lane B-indexed Markdown corpus, rather than inferred from the slug name here.
+
+## Related concepts
+
+- [[Self-Aware-Networks]] — parent theoretical container; BCI ethics is part of SAN's responsible-deployment surface.
+- [[brain-computer-interface]] / [[brain-computer-interface-neural-readwrite]] — the technology surface that BCI ethics governs.
+- [[neuralink-ethics-panel-b0303y]] — companion SAN reportage entry on a specific industry ethics panel.
+- [[neural-data-sovereignty]] — finer-grained companion entry on neural-data ownership and rights.
+- [[cognitive-privacy-xr-bci]] — finer-grained companion entry on mental-privacy questions in XR/BCI deployment.
+- [[ai-creator-rights-fair-use-platforms]] — adjacent rights/agency entry on platform-mediated cognition outputs.
+- [[oscillatory-computational-agency]] / [[fractal-agency]] — SAN agency framings that BCI ethics intersects with.
+- [[bci-industry-landscape]] / [[bci-delivery-mechanisms]] / [[bci-expanded-sensory-range]] / [[bci-science-fiction-references]] — sibling BCI taxonomy entries that BCI ethics sits inside.
+- [[neural-lace]] / [[three-network-neural-lace-architecture]] / [[neural-lace-brain-port]] / [[neural-lace-ar-vr-no-glasses]] / [[neural-lace-deep-learning-anikeeva]] — concrete neural-lace form factors whose deployment raises the questions catalogued here.
+- [[augmented-reality-bci]] / [[webxr-bci-integration]] / [[digital-native-economy-xr-bci]] / [[eeg-xr-neurofeedback-bci]] — XR/AR application surfaces that consume BCI signals and inherit the ethics questions.
+- [[neural-lace-podcast]] / [[hack-days-sf-neural-lace-2018]] — primary SAN reportage corpus on BCI ethics in current deployments.
+- [[selfawarenetworks-github-repository]] — the corpus that Lane B searches; this slug currently has no quotation hits.
+
+## Source Provenance
+
+- Generated: 2026-04-24T18:17:02
+- Lane: C.draft (from packet)
+- Packet: `wiki/automation/packets/bci-ethics.json`
+- Evidence count: 0
+- Source ids: 
+
+---
+
+*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*

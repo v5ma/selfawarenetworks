@@ -1,0 +1,70 @@
+# Neuroplasticity
+
+**Neuroplasticity** is, in [[self-aware-networks|Self-Aware Networks]], the operational identity between [[coincidence-detection|coincidence detection]] and synaptic re-wiring — the Hebbian "neurons that fire together, wire together" principle that [[gh-resnote04|Micah]] has been running clinical [[fnirs-biofeedback|neurofeedback]] practice around since at least **2011**, and that the SAN program treats as the spike-level mechanism through which [[phase-wave-differentials|phase wave differentials]] become stored structure. It is, in `a0449z--md` line 34's compact [[gh-formulation|formulation]], "Famously [[coincidence-detection|coincidence detection]] is neuroplasticity. When neurons fire together they wire together! The wiring is the spike, and it's very short term temporal wiring."
+
+## Roots
+
+The packet establishes chronological priority for [[gh-resnote04|Micah]]'s *clinical neuroplasticity practice* — `chronology_markers.pre_sit_evidence_count` is 3, `earliest_year` is 1997, and the practice/protocol thread runs from a 2011 web-published Neuroplasticity Protocol forward continuously into the SAN era. The earliest dated source is a 1997 academic review note (`house-dlfolder--NNBrainFunc-1997`, line 13803, note, 1997): "Ito, M. (1979) Neuroplasticity. Is the cerebellum really a computer? *Trends in Neurosciences*" — i.e. [[gh-resnote04|Micah]]'s library contained Ito's 1979 review in his pre-2000 reading set, anchoring his neuroplasticity vocabulary in the foundational cerebellar-plasticity literature long before SAN was named. The earliest *[[gh-resnote04|Micah]]-authored* anchor is the 2011 private dated source archive-imported Neuroplasticity Protocol page from his MindUpdate.com site (`house-documents--old_My_Documents--private dated source archive--http---www-mindupdate-com-2011-12-neuroplasticity-protocol-`, line 4, note, 2011) — the URL slug itself (`/2011/12/neuroplasticity-protocol/`) date-stamps [[gh-resnote04|Micah]]'s clinical neuroplasticity protocol to December 2011, before any SAN paper existed. The 2012 Christian Winder documentary footage independently corroborates: `core-set--Neurofeedback___Closed_Eye_Intense_Mind_Machine` line 62 (note, 2012) — "This technology takes advantage of a key principle of neuroplasticity" — and line 74 — "That's neuroplasticity" — record Winder narrating [[gh-resnote04|Micah]]'s practice. In the SAN repo, `a0062z--md` line 24 ([[gh-a0062z|on github]]) names the clinical lineage: "We use a modern Neuroplasticity Protocol inspired by the work of Dr. Len Ochs and Dr. Ruth Olmstead. This protocol is for increasing plasticity in the brain" — Len Ochs being the inventor of LENS / Low-Energy Neurofeedback System and Ruth Olmstead a major clinical-neurofeedback researcher, fixing [[gh-resnote04|Micah]]'s protocol in the established clinical-neurofeedback lineage. By 2017 the practice was being narrated continuously across the [[neural-lace-podcast|Neural Lace Podcast]] / NLP series (`core-set--NLP_Transcripts_from_2017-2019`, lines 4222–4223, transcript, 2017): "if we're using neuroplasticity changes and neurogenesis changes" and "Neutropics facilitate neuroplasticity, the change between connections and neurons." The mid-2010s mainstream literature shows the same vocabulary moving in parallel: Voytek, Davis, Yago, Barceló, Vogel & Knight's "Dynamic Neuroplasticity after Human Prefrontal [[cortex]] Damage" (`pdf-review-3--Voytek-NatureNeurosci2015-1`, line 414, note, 2015; `pdf-review-aug-a--2022.11.07.515418v1.full`, line 744, note, 2022) — but [[gh-resnote04|Micah]]'s hands-on clinical protocol predates these neuroscience-paper publications by half a decade.
+
+## Position
+
+Within [[gh-a0206z|Self]]-Aware Networks, **neuroplasticity** is named as the operational identity between [[coincidence-detection|coincidence detection]] and Hebbian wiring: `a0449z--md` line 34 ([[gh-a0449z|on github]]) — "Famously [[coincidence-detection|coincidence detection]] is neuroplasticity. When neurons fire together they wire together! The wiring is the spike, and it's very short term temporal wiring, meant to" — fixes neuroplasticity inside SAN's [[neural-spikes|neural-spike]] timing account. `a0150z--md` line 294 ([[gh-a0150z|on github]]) embeds it inside the [[fnirs-biofeedback|neurofeedback]] practice: "the clients begin to recognize their [[brainwaves]], and because of the principles of neuroplasticity (when neurons fire together they wire together) this tech creates new connections across regions of" the [[cortex]]. `a0068z--md` line 8 ([[gh-a0068z|on github]]) names the program identity: "helping people to learn successful core strategies based on neurophysics & neuroplasticity," fixing neuroplasticity as one of the two pillars of [[gh-resnote04|Micah]]'s coaching practice. `a0270z--md` line 64 cites Jon Lieff M.D. on extracellular-matrix mediation: "Extracellular Matrix critical to neuroplasticity" (Jon Lieff M.D. https://jonlieffmd.com/blog/extra-cellular-matrix-is-critical-to-neuroplasticity), bringing the [[bridging-molecular-mechanisms|molecular-mechanism]] layer into the SAN reading. `a0284z--md` line 27 ([[gh-a0284z|on github]]) gives the experiential reading: "all the new connections mean more [[gh-a0206z|self]] coordination, improved neuroplasticity, which is your ability to flexibly react to whatever happens in life, more creativity." `a0333z--md` line 115 places neuroplasticity inside the [[neomindcycle|Neo Mind Cycle]] non-profit framing: "A not for profit group dedicated to Brain Health, Nutrition, Fitness with [[neurotechnology|Neurotechnology]], Neuroplasticity, [[brain-rhythms|Neurophysics]], Nutrition, [[fnirs-biofeedback|Neurofeedback]], [[brainwave-entrainment|Brainwave Entrainment]], Mind Machines, Physical Exerc[ise]." `a0453z--md` line 118 cites the empirical base: "There are over 40 years of studies under the umbrella topic of neuroplasticity, via EEG, [[fmri]], implanted electrodes, and other brain scanning technology." `a0470z--md` line 5 catalogs the technique stack: "transcranial direct current stimulation, and transcranial magnetic stimulation, 3d brain visualization, neuroplasticity, neurophysics, nootropics, [[brainwave-entrainment|brainwave entrainment]] with light and or sound." Most importantly, `a0487z--md` line 4 ([[gh-a0487z|on github]]) frames the [[gh-a0206z|self]]-as-narrative consequence: "I think [[gh-a0206z|self]] is something of an illusion, a social contract, a story written in [[hebbian-learning|hebbian learning]] patterns via neuroplasticity ie when neurons fire together they wire together, thus stories are" — i.e. SAN treats personal identity itself as a neuroplasticity-stored pattern. The SAN-internal connection to `a0233z--md` line 31's bare keyword listing (within the "Vibrations & Oscillations" topic stack of the [[nervegear-show-podcast|NerveGear/Neurophysics Happy Hour]] series) confirms neuroplasticity sits permanently inside the standard SAN topic spread.
+
+## Chronology
+
+The practice traces from a 1979 reference (Ito, *Trends in Neuroscience*) cited in [[gh-resnote04|Micah]]'s 1997 reading-list capture, to a 2011 web-published Neuroplasticity Protocol on MindUpdate.com, to the 2012 Christian Winder documentary capturing [[gh-resnote04|Micah]]'s clinical practice, to 2013 reference material (`house-not-vr--NotVR--old_My_Documents--notvr--box--StahlEssPsychopharm-2013`, lines 8210, 8908, 17607, note, 2013: "neuroplasticity triggered by NMDA receptors"), to the 2015–2022 mainstream neuroplasticity literature converging on similar vocabulary (Voytek et al. 2010/2015), to 2017 NLP-transcript continuous narration (`core-set--NLP_Transcripts_from_2017-2019`, lines 4222–4223, transcript, 2017), to 2023 retrospective integration into the SAN repo and 2025–2026 SIT-era papers. The 41 source-id list in the packet's Source Provenance — spanning `a0062z`–`a0625z`, `b0197y`–`b0321yGPT`, GPT-2023/2024, `Hex_7`, `nlp3`, `vecA`–`vecB`, plus Christian Winder's documentary capture — testifies to neuroplasticity being a continuous operational frame for the SAN practice, not a late-stage theoretical addition. The packet contains no `paper-external` evidence — `chronology_markers.external_paper_count` is zero — so this article does not attempt a side-by-side review with the published clinical-neuroplasticity literature; the priority claim is for *[[gh-resnote04|Micah]]'s continuous clinical neuroplasticity-protocol practice* from 2011 onward, not for the discovery of neuroplasticity itself (which goes back to Ramón y Cajal and was named by Konorski in 1948).
+
+## Related concepts
+
+- [[neurofeedback]] — the closed-loop measurement-and-driven-stimulation practice that drives [[gh-resnote04|Micah]]'s neuroplasticity protocol.
+- [[neomindcycle]] — the program name under which neuroplasticity, neurofeedback, [[brainwave-entrainment|brainwave entrainment]], and nutrition were combined.
+- [[brain-rhythms]] — the substrate-level rhythms whose phase-locked feedback drives plasticity.
+- [[brain-plasticity]] — the broader plasticity vocabulary.
+- [[brainwave]] — the wave-vocabulary used in the consumer-facing salon model.
+- [[coincidence-detection]] — `a0449z--md` line 34 names neuroplasticity as identical to [[coincidence-detection|coincidence detection]].
+- [[coincidence-pattern-neural-bit]] — the SAN-coded bit produced by coincidence-driven plasticity.
+- [[hebbian-learning]] — the canonical "fire together / wire together" principle that grounds the SAN-version neuroplasticity claim.
+- [[long-term-potentiation]] — the empirical plasticity outcome.
+- [[synaptic-plasticity]] — the synaptic-level reading of the same operation.
+- [[neural-spikes]] — the spike events whose timing drives plasticity.
+- [[phase-wave-differentials]] — the SAN-internal name for the differential signal that phase-locked feedback drives.
+- [[criterial-causation]] — the SAN-internal causation framing that neuroplasticity validates.
+- [[engram]] — the memory effect that repeated phase-locked plasticity induces.
+- [[engrams]] — plural-form sibling [[engrams]] page.
+- [[neural-array]] — the spatial unit whose internal spike timings determine plastic outcomes.
+- [[neural-array-projection]] — the projection operation aggregating plasticity-stored patterns.
+- [[napot-neural-array-phase-tomography]] — the projection-and-tomography model whose discriminative dimensions plasticity carves into the [[cortex]].
+- [[bridging-molecular-mechanisms]] — the molecular-mechanism layer (extracellular matrix, NMDA receptors, etc.) referenced in `a0270z--md`.
+- [[neurotechnology]] — the technology category neuroplasticity protocols sit within.
+- [[brain-machine-interface]] — the BMI category neurofeedback-driven plasticity practice instantiates.
+- [[brain-computer-interfaces]] — the BCI umbrella.
+- [[building-sentient-beings]] — the longer-horizon goal that plasticity-driven SAN architectures inform.
+- [[artificial-cortex]] — the [[cortex]]-prosthesis aim that requires plasticity-respecting interfaces.
+- [[advaita-vedanta]] — co-listed in suggested-wikilinks; the philosophical adjacent for the [[gh-a0206z|self]]-as-narrative reading.
+- [[attractor]] — the dynamical regime engaged plasticity drives.
+- [[attention]] — the cognitive function whose engagement licenses plasticity.
+- [[self-aware-networks]] — the umbrella program; neuroplasticity is its empirical anchor.
+- [[super-information-theory]] — the physics-side theory whose informational predictions plasticity outcomes are positioned to test.
+- [[gh-a0062z|a0062z]] — the Len Ochs / Ruth Olmstead lineage citation.
+- [[gh-a0068z|a0068z]] — "neurophysics & neuroplasticity" core-strategies framing.
+- [[gh-a0150z|a0150z]] — neuroplasticity-via-neurofeedback technical description.
+- [[gh-a0449z|a0449z]] — "[[coincidence-detection|coincidence detection]] is neuroplasticity" identity statement.
+- [[gh-a0487z|a0487z]] — [[gh-a0206z|self]]-as-Hebbian-pattern reading.
+
+## Source Provenance
+
+- Generated: 2026-04-24T17:41:38
+- Lane: C.draft (from packet)
+- Packet: `wiki/automation/packets/neuroplasticity.json`
+- Evidence count: 91
+- Source ids: [[gh-gpt2023x|GPT2023X]]--md, [[gh-gpt2024jan1tojan22|GPT2024Jan1toJan22]]--md, Hex_7--md, SAOv9--md, [[gh-a0062z|a0062z]]--md, [[gh-a0068z|a0068z]]--md, [[gh-a0150z|a0150z]]--md, [[gh-a0233z|a0233z]]--md, a0270z--md, [[gh-a0284z|a0284z]]--md, [[gh-a0333z|a0333z]]--md, [[gh-a0449z|a0449z]]--md, [[gh-a0453z|a0453z]]--md, [[gh-a0470z|a0470z]]--md, [[gh-a0487z|a0487z]]--md, [[gh-a0491z|a0491z]]--md, [[gh-a0492z|a0492z]]--md, [[gh-a0502z|a0502z]]--md, [[gh-a0561z|a0561z]]--md, [[gh-a0563z|a0563z]]--md, a0597z--md, [[gh-a0625z|a0625z]]--md, [[gh-b0197y|b0197y]]--md, b0302ywhisper--md, [[gh-b0304y|b0304y]]--md, [[gh-b0309ywhisper|b0309ywhisper]]--md, b0310ySci--md, b0311ySci--md, b0313ySci--md, b0314ySci--md, b0321yGPT--md, [[gh-nlp3|nlp3]]--md, original_archive_b0311ygoogle--md, original_archive_b0313y--md, original_archive_b0314y--md, original_archived_b0302ytimecode--md, original_archived_b0309ytimecode--md, original_archived_b0310yGoogle--md, original_archived_b0321y--md, [[gh-veca|vecA]]--md, vecB--md
+  - `a0062z--md` line 24 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0062z.md
+  - `a0068z--md` line 8 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0068z.md
+  - `a0150z--md` line 294 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0150z.md
+  - `a0233z--md` line 31 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0233z.md
+  - `a0270z--md` line 64 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0270z.md
+  - `a0270z--md` line 64 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0270z.md
+
+---
+
+*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*

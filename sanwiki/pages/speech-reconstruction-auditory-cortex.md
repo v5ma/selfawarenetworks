@@ -1,0 +1,55 @@
+# Speech Reconstruction Auditory Cortex
+
+**Speech Reconstruction [[auditory-cortex|Auditory Cortex]]** is the slug-level placeholder for the [[self-aware-networks|Self Aware Networks]] (SAN) page on the experimental [[neuroscience]] finding that speech can be reconstructed from neural activity recorded in the [[auditory-cortex|auditory cortex]] — and on the SAN-side reading of that finding as a confirmation of the [[neural-rendering-of-qualia|neural-rendering]] / [[brain-as-rendering-engine|rendering-engine]] picture in which auditory percepts are not merely *represented* but actively *rendered* by [[neural-circuits|neural circuits]] in a tomographic [[napot-neural-array-phase-tomography|NAPOT]] register. The slug names the empirical pivot point — speech is reconstructable from [[auditory-cortex|auditory cortex]] — that the SAN-side rendering claims have to account for.
+
+## Origin
+
+The slug encodes three pieces of information: the operation (*reconstruction* of stimulus from neural activity), the modality (*speech* — the perceptual content reconstructed), and the brain region (*[[auditory-cortex|auditory cortex]]* — the neural-substrate layer the reconstruction is performed from). It points at the experimental-[[neuroscience]] body of work in which spectrograms or words are decoded from intracranial / ECoG / [[fmri]] recordings of human [[auditory-cortex|auditory cortex]] — a literature whose most-cited experimental results entered the public record in the 2010s and grew through the 2020s. No primary-source evidence has been packetized for this slug yet; the upstream packet is empty (`evidence_count: 0`), so the specific cited papers, their dates, and the SAN-corpus reading of them cannot be quoted from this packet's primary text.
+
+## Position
+
+Within [[self-aware-networks|SAN]] the *Speech Reconstruction [[auditory-cortex|Auditory Cortex]]* slug sits inside the rendering-and-reconstruction cluster alongside [[neural-rendering-of-qualia|neural rendering of qualia]] (the umbrella claim that the brain *renders*, not merely encodes), [[brain-as-rendering-engine|brain as rendering engine]] (the energy-efficient rendering claim), [[consciousness-as-persistent-rendering|consciousness as persistent rendering]] (the continuous-rendering reading), [[consciousness-multimodal-rendering-loop|consciousness multimodal rendering loop]] (the multi-modal integration claim), [[sensory-stabilized-volumetric-rendering|sensory-stabilized volumetric rendering]] (the volumetric-rendering side), [[phase-differential-rendering|phase differential rendering]] (the phase-differential reading of [[qualia]]), and [[continuous-neural-rendering|continuous neural rendering]] (the continuous-side companion). On the substrate side the cluster includes the [[auditory-cortex|auditory cortex]] page itself (which describes the thalamocortical relay through the medial geniculate nucleus of the [[thalamus|thalamus]] to layer 1 of primary [[auditory-cortex|auditory cortex]]), the [[auditory-gating-spring-camp|auditory gating spring]] page (the cochlear-side mechanical-transduction page), [[spatiotemporal-neural-firing-patterns|spatiotemporal neural firing patterns]] (the firing-pattern substrate that a reconstruction reads off), [[oscillatory-temporal-memory-window|oscillatory temporal memory window]] (the temporal-window machinery), and [[hierarchical-temporal-memory|hierarchical temporal memory]] (the HTM/sequence-memory framework that organises the time dimension). On the SAN-architecture side the [[napot-neural-array-phase-tomography|NAPOT]] page is where the *tomographic* reading of population activity lives, and the [[sparse-distributed-representation|sparse distributed representation]] page is where the substrate-level encoding scheme lives — a successful speech-reconstruction-from-[[cortex]] experiment is, in the SAN reading, a successful *external* tomographic readout of the same SDR substrate that the brain itself is internally tomographically reading. The SAN claim is sharper than the standard "speech is decodable" finding: under [[neural-rendering-of-qualia|neural rendering of qualia]], the [[auditory-cortex|auditory cortex]] is not just a *site where speech is reconstructable from the outside* but a *site where speech is being rendered for the listener from the inside* — i.e., the experimental decoding succeeds precisely because the rendering is already happening. Closely related neighbours include [[memory-prediction-cycle|memory–prediction cycle]] / [[memory-prediction-framework|memory–prediction framework]] (the [[prediction]]-machine framing that explains why the rendering is robust to noise), [[spectral-graph-temporal-consciousness|spectral graph temporal consciousness]] (the spectral-graph-side temporal-[[consciousness]] companion), and [[consciousness-as-temporally-active-loop|consciousness as temporally-active loop]] (the loop framing for the rendering process).
+
+## Chronology
+
+The slug carries no encoded year, and the upstream packet is empty, so a dated chronology cannot be sourced from this packet's primary text alone. The *speech reconstruction from [[auditory-cortex|auditory cortex]]* experimental literature is mainstream [[neuroscience]], with widely-cited intracranial / ECoG decoding studies appearing through the 2010s and brain-to-speech / brain-to-text studies expanding into the 2020s; specific paper-id citations require a populated packet. The SAN-corpus chronology of *when SAN started using speech-reconstruction findings as a rendering-side confirmation* will reference both the mainstream-experiment date and the SAN-corpus date once a packet is re-acquired. Re-acquisition by Lane B should pull SAN-corpus mentions of *speech reconstruction* and *[[auditory-cortex|auditory cortex]]* together into a populated packet so the rendering-side reading can be authored from primary text rather than reconstructed from manifest neighbours.
+
+## Stub stewardship
+
+This page is a **stub-stewardship** prose draft, not a fully sourced article. The Lane C+ author found the upstream packet empty (`evidence_count: 0`, `source_ids: ∅`) and no `chronology_markers` were available, so no `chronological-priority` claim is inscribed. All claims above derive either from the slug name itself (the three-token sequence *speech reconstruction* / *[[auditory-cortex|auditory cortex]]*), from the manifest [[gh-b0049y|summary]] of the [[auditory-cortex|auditory cortex]] page (which is quoted on the thalamocortical relay only, no specific paper cited), or from manifest-validated neighbour slugs in the rendering-and-reconstruction, substrate, and SAN-architecture clusters ([[auditory-cortex|auditory-cortex]], [[auditory-gating-spring-camp|auditory-gating-spring-camp]], [[spatiotemporal-neural-firing-patterns|spatiotemporal-neural-firing-patterns]], [[oscillatory-temporal-memory-window|oscillatory-temporal-memory-window]], [[hierarchical-temporal-memory|hierarchical-temporal-memory]], [[neural-rendering-of-qualia|neural-rendering-of-qualia]], [[brain-as-rendering-engine|brain-as-rendering-engine]], [[consciousness-as-persistent-rendering|consciousness-as-persistent-rendering]], [[consciousness-multimodal-rendering-loop|consciousness-multimodal-rendering-loop]], [[sensory-stabilized-volumetric-rendering|sensory-stabilized-volumetric-rendering]], [[phase-differential-rendering|phase-differential-rendering]], [[continuous-neural-rendering|continuous-neural-rendering]], [[napot-neural-array-phase-tomography|napot-neural-array-phase-tomography]], [[sparse-distributed-representation|sparse-distributed-representation]], [[memory-prediction-cycle|memory-prediction-cycle]], [[memory-prediction-framework|memory-prediction-framework]], [[spectral-graph-temporal-consciousness|spectral-graph-temporal-consciousness]], [[consciousness-as-temporally-active-loop|consciousness-as-temporally-active-loop]], [[thalamus|thalamus]], [[self-aware-networks|self-aware-networks]]). **No specific speech-reconstruction paper, experimental finding, or year has been invented; the 2010s / 2020s reference points are pointed at as well-known mainstream [[neuroscience]] without a specific cited paper.** Re-author once Lane B re-acquires SAN-corpus mentions of *speech reconstruction [[auditory-cortex|auditory cortex]]* into a populated packet.
+
+## Related concepts
+
+- [[auditory-cortex|Auditory Cortex]] — the substrate region whose activity is reconstructed.
+- [[auditory-gating-spring-camp|Auditory Gating Spring]] — the cochlear-side mechanical-transduction companion.
+- [[thalamus|Thalamus]] — the relay station upstream of [[auditory-cortex|auditory cortex]].
+- [[spatiotemporal-neural-firing-patterns|Spatiotemporal Neural Firing Patterns]] — the firing-pattern substrate the reconstruction reads off.
+- [[hierarchical-temporal-memory|Hierarchical Temporal Memory]] — the HTM / sequence-memory framework for the time dimension.
+- [[oscillatory-temporal-memory-window|Oscillatory Temporal Memory Window]] — the temporal-window machinery.
+- [[neural-rendering-of-qualia|Neural Rendering of Qualia]] — the umbrella SAN rendering claim.
+- [[brain-as-rendering-engine|Brain as Rendering Engine]] — the energy-efficient-rendering claim.
+- [[consciousness-as-persistent-rendering|Consciousness as Persistent Rendering]] — the continuous-rendering reading.
+- [[consciousness-multimodal-rendering-loop|Consciousness Multimodal Rendering Loop]] — the multi-modal integration claim.
+- [[sensory-stabilized-volumetric-rendering|Sensory-Stabilized Volumetric Rendering]] — the volumetric-rendering side.
+- [[phase-differential-rendering|Phase Differential Rendering]] — the phase-differential reading of [[qualia]].
+- [[continuous-neural-rendering|Continuous Neural Rendering]] — the continuous-side companion.
+- [[napot-neural-array-phase-tomography|NAPOT Neural Array Phase Tomography]] — the SAN tomographic-rendering machinery.
+- [[sparse-distributed-representation|Sparse Distributed Representation]] — the substrate-level encoding scheme.
+- [[memory-prediction-cycle|Memory–Prediction Cycle]] — the [[prediction]]-machine framing for robustness.
+- [[memory-prediction-framework|Memory–Prediction Framework]] — the broader framework.
+- [[spectral-graph-temporal-consciousness|Spectral Graph Temporal Consciousness]] — the spectral-graph-side temporal-[[consciousness]] companion.
+- [[consciousness-as-temporally-active-loop|Consciousness as Temporally-Active Loop]] — the loop framing for the rendering process.
+- [[consciousness|Consciousness]] — the phenomenon the rendering produces.
+- [[self-aware-networks|Self Aware Networks]] — the parent research programme.
+
+## Source Provenance
+
+- Generated: 2026-04-24T18:51:12
+- Lane: C.draft (from packet)
+- Packet: `wiki/automation/packets/speech-reconstruction-auditory-cortex.json`
+- Evidence count: 0
+- Source ids: 
+
+---
+
+*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*

@@ -1,0 +1,51 @@
+# Gravity As Oscillator Effect
+
+**Gravity As Oscillator Effect** is the SAN-corpus / [[gh-qgtcd|QGTCD]] reference to reading gravity as a derived effect of underlying oscillator dynamics rather than as a primitive curvature of spacetime — a [[oscillating-spacetime-theory|spacetime-as-oscillating]] reading in which the [[gravity-as-gradient-time-dilation|gravitational gradient]] is the macroscopic signature of differential oscillator rates, and in which mass concentrates because oscillators synchronise locally. It is the field-based gravity reading that the corpus places alongside [[gravity-as-gradient-time-dilation|gravity-as-gradient-time-dilation]], [[gravity-as-information|gravity-as-information]], [[gravity-quantum-diffusion-ficks-law|gravity-via-Fick's-law-quantum-diffusion]], [[gravity-time-wave-electrical-force|gravity-time-wave-electrical-force]], [[atomic-cyclone-gravity-model|atomic-cyclone-gravity-model]], [[particle-gravity-time-density|particle-gravity-time-density]], and [[particle-interaction-time-density|particle-interaction-time-density]] as alternative or refining accounts. The current acquisition pass returned an empty packet for this exact slug (Source Provenance below: `Evidence count: 0`), so this draft stays at the definitional level and threads to the documented gravity / oscillator neighbours rather than asserting a primary quotation that was not captured.
+
+## Origin
+
+No primary [[self-aware-networks]] / [[gh-qgtcd|QGTCD]] passage was returned by Lane A acquisition for this exact slug, and no Lane G transcript or paper was matched. The concept is referenced through wikilinks in adjacent pages — the same field-based gravity bundle that includes [[gravity-as-gradient-time-dilation]], [[gravity-as-information]], [[gravity-time-wave-electrical-force]], and [[gravity-quantum-diffusion-ficks-law]]. The honest position for this Lane C+ stub is to mark the concept as documented-by-reference rather than documented-by-quotation, and to leave a clear pointer for the next acquisition: the [[gh-qgtcdmainoutline|QGTCD main outline]], [[gh-qgtcdsuperreduction|QGTCD super-reduction]], [[gh-qgtcdarreduct1|QGTCD AR Reduct 1]] / [[gh-qgtcdarreduct2|2]] / [[gh-qgtcdarreduct3|3]], [[gh-qgtcdmath|QGTCD math]], [[gh-qgtcd46equations|46 equations]], [[gh-qgtcdsix|QGTCD six]], [[gh-qgtcdsuperinformation|super-information]], and [[gh-qgtcdpostulates|QGTCD postulates]] threads where oscillator-based gravity is the implied substrate.
+
+## Position
+
+By definitional consequence of the title and consistent with the corpus's neighbouring physics-side commitments, "Gravity As Oscillator Effect" denotes a programme in which gravity is *not* a primitive feature of spacetime curvature but a *derived* macroscopic effect of underlying oscillator dynamics — most plausibly the same [[multiscale-fractal-neural-oscillators|multiscale fractal oscillator]] / [[oscillating-network-of-oscillators|oscillating-network-of-oscillators]] machinery the corpus uses on the brain side, run on the physics side over a different substrate. The reading lines up with [[oscillating-spacetime-theory|oscillating spacetime theory]] (spacetime itself made of oscillator content) and with [[gravity-as-gradient-time-dilation|gravity-as-gradient-time-dilation]] (gravity expressed as a gradient in the rate at which oscillators tick). In this framing, mass concentrates where oscillators synchronise locally — which is a [[oscillatory-synchrony-multimodal-integration|synchrony]] / [[oscillatory-neural-coupling|coupling]] reading transposed from neural to cosmological scale through the corpus's [[fractal-pattern|fractal-pattern]] / [[fractal-oscillation-cosmos|fractal-oscillation-cosmos]] bridge.
+
+The position has structural neighbours throughout the [[gh-qgtcd|QGTCD]] corpus. [[gravity-as-information]] places gravity inside an information-theoretic frame; [[gravity-quantum-diffusion-ficks-law]] derives gravity from quantum diffusion analogous to Fick's law; [[gravity-time-wave-electrical-force]] places gravity, time-wave dynamics, and electrical force in a unified vocabulary; [[atomic-cyclone-gravity-model]] supplies a cyclone-style atomic / sub-atomic geometry the oscillator effect would run on; [[particle-gravity-time-density]] and [[particle-interaction-time-density]] supply the time-density vocabulary on the particle side; [[neurons-warp-spacetime]] supplies the brain-side commentary that uses the same physics. On the brain side proper, [[multiscale-fractal-neural-oscillators]], [[oscillating-network-of-oscillators]], [[fractal-oscillatory-tree]], [[oscillator-environmental-encoding]], [[oscillator-level-awareness]], [[oscillator-consciousness-threshold]], [[global-oscillator-entanglement-mediator]], [[grid-cells-place-cells-oscillators]], and [[brainwave-vortex-attractor]] supply the oscillator vocabulary the cosmological reading inherits. The cosmological extension runs through [[fractal-oscillation-cosmos]], [[metaverse-consciousness-spacetime-merger]], and [[oscillating-spacetime-theory]] — the corpus's named bridge between brain-side and cosmology-side oscillator readings.
+
+## Chronology
+
+With zero packet evidence for this exact slug, no chronological priority claim can be anchored on this page. The packet's pre-2013 evidence count is 0; there is no transcript, paper, or note returned for `gravity-as-oscillator-effect`. The chronological context that *does* sit around it — the corpus's broader [[gh-qgtcd|QGTCD]] programme, the field-based gravity bundle ([[gravity-as-gradient-time-dilation]], [[gravity-as-information]], [[gravity-quantum-diffusion-ficks-law]], [[gravity-time-wave-electrical-force]]), and the [[fractal-oscillation-cosmos|cosmological extension]] of brain-side oscillator vocabulary — is documented under those neighbouring pages and should be read across as the chronological placeholder until a primary source is recovered for this exact phrase.
+
+## Post-SAN
+
+External literature on emergent / derived gravity is mature: entropic-gravity readings (Verlinde 2010 onward); thermodynamic-gravity readings (Jacobson 1995); [[gh-qgtcd-causal-fermion-systems|causal fermion systems]] (Finster) which the [[gh-qgtcd-causal-fermion-systems|QGTCD CFS]] page engages; emergent-gravity-from-quantum-information readings; analog-gravity systems in condensed matter where wave dynamics produce effective curvature. The SAN / [[gh-qgtcd|QGTCD]] reading converges on the broad strategy of *deriving* gravity from underlying dynamics rather than positing it as a primitive, and adds two distinctive moves: (i) it makes the underlying dynamics specifically *oscillatory* — not entropic, not informational in the Verlinde sense, but oscillator-rate-based — paralleling the brain-side oscillator vocabulary; (ii) it ties the derivation to the [[fractal-pattern|fractal]] / [[fractal-oscillation-cosmos|fractal-oscillation-cosmos]] frame, where the same oscillator pattern recurs at every scale and mass concentration is a synchronisation signature. A more confident comparison should wait on a Lane G acquisition that lands a paper-external evidence quote.
+
+## Related concepts
+
+- [[oscillating-spacetime-theory]] — closest neighbour: spacetime-as-oscillating
+- [[gravity-as-gradient-time-dilation]] / [[gravity-as-information]] / [[gravity-quantum-diffusion-ficks-law]] / [[gravity-time-wave-electrical-force]] — sister field-based gravity readings
+- [[atomic-cyclone-gravity-model]] / [[particle-gravity-time-density]] / [[particle-interaction-time-density]] — sub-atomic / particle-side neighbours
+- [[neurons-warp-spacetime]] — brain-side commentary using the same physics
+- [[gh-qgtcd]] / [[gh-qgtcdmainoutline]] / [[gh-qgtcdsuperreduction]] / [[gh-qgtcdarreduct1]] / [[gh-qgtcdarreduct2]] / [[gh-qgtcdarreduct3]] / [[gh-qgtcdmath]] / [[gh-qgtcd46equations]] / [[gh-qgtcdsix]] / [[gh-qgtcdsuperinformation]] / [[gh-qgtcdpostulates]] / [[gh-qgtcdred1]] / [[gh-qgtcdred2]] / [[gh-qgtcdnote]] / [[gh-qgtcdmanyeqfulltext]] / [[gh-qgtcdlegacy]] / [[gh-qgtcdegrti01]] / [[gh-qgtcdegrti02]] / [[gh-qgtcd2015]] — [[gh-qgtcd|QGTCD]] corpus the gravity-as-oscillator reading sits in
+- [[gh-qgtcd-causal-fermion-systems]] / [[gh-qgtcd-sit]] / [[adelic-foundations-sit]] / [[jacobs-ladder-sit-renormalization-group]] / [[baez-compositional-markov]] / [[category-theory-biological-state-transitions]] — formal / mathematical neighbours
+- [[multiscale-fractal-neural-oscillators]] / [[oscillating-network-of-oscillators]] / [[fractal-oscillatory-tree]] — oscillator stack the cosmological reading inherits
+- [[oscillator-environmental-encoding]] / [[oscillator-level-awareness]] / [[oscillator-consciousness-threshold]] / [[oscillatory-qualia-imprinting]] — oscillator-content readings on the brain side
+- [[global-oscillator-entanglement-mediator]] / [[brainwave-vortex-attractor]] / [[grid-cells-place-cells-oscillators]] — coupling / [[attractor]] neighbours
+- [[fractal-pattern]] / [[fractal-oscillation-cosmos]] / [[metaverse-consciousness-spacetime-merger]] — fractal-cosmology bridge
+- [[coherence-field]] / [[magnetic-phase-field]] / [[action-potential-magnetic-phase-field]] / [[color-as-phase-field-contrast]] / [[color-perception-phase-field]] — wave-field substrate vocabulary
+- [[oscillatory-binding-problem]] / [[oscillatory-synchrony-multimodal-integration]] / [[oscillatory-neural-coupling]] / [[cortical-column-oscillatory-synchronization]] / [[cortical-column-oscillatory-collaboration]] / [[cortical-column-oscillatory-transmission]] — synchrony machinery (analogue of mass-as-synchrony reading)
+- [[attractor]] / [[attractor-memory]] / [[attractor-loop]] — [[attractor]] neighbours
+- [[self-aware-networks]] / [[consciousness]] / [[conscious-awareness]] / [[attention]] — system frame
+- [[criterial-causation]] — causal frame the oscillator effect respects
+
+## Source Provenance
+
+- Generated: 2026-04-24T17:52:58
+- Lane: C.draft (from packet)
+- Packet: `wiki/automation/packets/gravity-as-oscillator-effect.json`
+- Evidence count: 0
+- Source ids: 
+
+---
+
+*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*

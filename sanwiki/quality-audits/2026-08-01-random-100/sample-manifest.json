@@ -1,0 +1,909 @@
+{
+  "generatedAt": "2026-08-01T23:24:02.997Z",
+  "seed": "san-wiki-random-100-20260801-v1",
+  "population": 2372,
+  "sampleSize": 100,
+  "selectionMethod": "Pages were ranked by SHA-256(seed + ':' + slug) and the first 100 unique indexed pages were selected.",
+  "sample": [
+    {
+      "sampleNumber": 1,
+      "slug": "brain-computer-interface-neural-readwrite",
+      "title": "Brain-Computer Interface Neural Read/Write",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/brain-computer-interface-neural-readwrite.md",
+      "sampleHash": "0006b9fadfd57c45ac028e4c3296c0a39426214eb7da361474cd47572b4e4f13",
+      "screenshot": "screenshots/001.png"
+    },
+    {
+      "sampleNumber": 2,
+      "slug": "quantum-supertimeposition",
+      "title": "Quantum Supertimeposition",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/quantum-supertimeposition.md",
+      "sampleHash": "001060aa92a42968ecd751c3bf6810adb00b5507623c230c95a252cc003c2858",
+      "screenshot": "screenshots/002.png"
+    },
+    {
+      "sampleNumber": 3,
+      "slug": "gh-b0091y",
+      "title": "Gh B0091Y",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0091y.md",
+      "sampleHash": "0011b700d6d9d3d7cd9345a514dc31da3976caaf9c608c8ad19c597ea45e3648",
+      "screenshot": "screenshots/003.png"
+    },
+    {
+      "sampleNumber": 4,
+      "slug": "saov9-cycle-10-emotion-dreams",
+      "title": "SAOv9 Cycle 10: Emotion, Dreams, Spirit, World Views, Distortions",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/saov9-cycle-10-emotion-dreams.md",
+      "sampleHash": "003cf39dfebfa09658808eca87fad9354a3acbb33051858a77bf7f16c5bb37ea",
+      "screenshot": "screenshots/004.png"
+    },
+    {
+      "sampleNumber": 5,
+      "slug": "thalamo-cortical-information-flow",
+      "title": "Thalamo Cortical Information Flow",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/thalamo-cortical-information-flow.md",
+      "sampleHash": "004b1c28fa49807618c884010ac4b71751abc6bae5c94bfab3a32ca60e4252a1",
+      "screenshot": "screenshots/005.png"
+    },
+    {
+      "sampleNumber": 6,
+      "slug": "happiness-makeover-brainwave-chart-2012",
+      "title": "Happiness Makeover Brainwave Chart 2012",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/happiness-makeover-brainwave-chart-2012.md",
+      "sampleHash": "00537d802dcb95529454b75068ed2b59fc92adba62c6cf60d980c2449345985e",
+      "screenshot": "screenshots/006.png"
+    },
+    {
+      "sampleNumber": 7,
+      "slug": "gh-a0391z",
+      "title": "Gh A0391Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0391z.md",
+      "sampleHash": "005b8c68b4d6bf1383cf0aeea57149ae01a1ba25b3f5609e704370bb6a3c648b",
+      "screenshot": "screenshots/007.png"
+    },
+    {
+      "sampleNumber": 8,
+      "slug": "hebbian-engrams",
+      "title": "Hebbian Engrams",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/hebbian-engrams.md",
+      "sampleHash": "00acf597ebede8455eb6e1634a6db285df8305ca62dc6542748427ea26319d8f",
+      "screenshot": "screenshots/008.png"
+    },
+    {
+      "sampleNumber": 9,
+      "slug": "self-aware-networks-book-overview",
+      "title": "Self Aware Networks Book Overview",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/self-aware-networks-book-overview.md",
+      "sampleHash": "00bc3de5ef6548331fc640cadc703856c0ed1401b057611014f37942e148ed0c",
+      "screenshot": "screenshots/009.png"
+    },
+    {
+      "sampleNumber": 10,
+      "slug": "gh-b0148y",
+      "title": "Gh B0148Y",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0148y.md",
+      "sampleHash": "00be5e640641088115e0dcede302cf86bc8bd4f4d366a85bbab60edcef5b4ebf",
+      "screenshot": "screenshots/010.png"
+    },
+    {
+      "sampleNumber": 11,
+      "slug": "neural-lace-journal",
+      "title": "Neural Lace Journal",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/neural-lace-journal.md",
+      "sampleHash": "00c0b8a331f8976f062e87b1be3cb3450e3fae4ea600c7b87b3850ce19cf9f82",
+      "screenshot": "screenshots/011.png"
+    },
+    {
+      "sampleNumber": 12,
+      "slug": "gh-a0224z",
+      "title": "Gh A0224Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0224z.md",
+      "sampleHash": "00ddb2884dc621f7d0e4fd6e372d0c894bec3f8088de9b626d594c8c11be72c0",
+      "screenshot": "screenshots/012.png"
+    },
+    {
+      "sampleNumber": 13,
+      "slug": "holographic-brain",
+      "title": "Holographic Brain",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/holographic-brain.md",
+      "sampleHash": "00eb9e5b431351eee0611988fb90e78e73cf099a255ae1330d079d178b755aa9",
+      "screenshot": "screenshots/013.png"
+    },
+    {
+      "sampleNumber": 14,
+      "slug": "coincidence-as-a-bit",
+      "title": "Coincidence as a Bit",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/coincidence-as-a-bit.md",
+      "sampleHash": "00f0119394371d5d291efcd71a3c6380aaf46f0b35962843dc24f904a1c59483",
+      "screenshot": "screenshots/014.png"
+    },
+    {
+      "sampleNumber": 15,
+      "slug": "sit-v76-gap-filling-svgn",
+      "title": "SIT V76 Gap Filling (SVGN)",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/sit-v76-gap-filling-svgn.md",
+      "sampleHash": "00f5c637f5e099141ef70aace0c42ab691d1ccbaa6d3ef21a4dc55805c8114ce",
+      "screenshot": "screenshots/015.png"
+    },
+    {
+      "sampleNumber": 16,
+      "slug": "gh-a0533z",
+      "title": "Gh A0533Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0533z.md",
+      "sampleHash": "00ff87fb39c1fed551b21b5468be99ffcc4221f2208669a6e96aaec84c2b21a0",
+      "screenshot": "screenshots/016.png"
+    },
+    {
+      "sampleNumber": 17,
+      "slug": "gh-a0324z",
+      "title": "The neural basis of psychedelic action",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0324z.md",
+      "sampleHash": "0114ad7e44c352630aa0ea13292e16e3afcea162256bff7c40142996b690b638",
+      "screenshot": "screenshots/017.png"
+    },
+    {
+      "sampleNumber": 18,
+      "slug": "gh-oldhome",
+      "title": "The Self Aware Networks Institute Wiki on github!",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-oldhome.md",
+      "sampleHash": "0144f58da446f8114387fad89b9260bdc5a7a8612e936cbb62a72eb0b05ebcfb",
+      "screenshot": "screenshots/018.png"
+    },
+    {
+      "sampleNumber": 19,
+      "slug": "gh-rexnote01",
+      "title": "Document 1",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-rexnote01.md",
+      "sampleHash": "016509caee703ebdf9bdc5b1caf617e2c9a5c7fd639213b63cd5583869903491",
+      "screenshot": "screenshots/019.png"
+    },
+    {
+      "sampleNumber": 20,
+      "slug": "neural-array-projection-oscillation-tomography",
+      "title": "Neural Array Projection Oscillation Tomography",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/neural-array-projection-oscillation-tomography.md",
+      "sampleHash": "017c46ba93abcd78df44907588f30cd0593edf4aa466d7322ae73f59182540f1",
+      "screenshot": "screenshots/020.png"
+    },
+    {
+      "sampleNumber": 21,
+      "slug": "oscillation-memory-reinstatement",
+      "title": "Oscillation and Memory Reinstatement",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/oscillation-memory-reinstatement.md",
+      "sampleHash": "0194a8769a4534da3cff49e37d6d6bd5731c2bab1a89a1b3b54228e65763f459",
+      "screenshot": "screenshots/021.png"
+    },
+    {
+      "sampleNumber": 22,
+      "slug": "dissipative-system-cognition",
+      "title": "Dissipative System Cognition",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/dissipative-system-cognition.md",
+      "sampleHash": "01a142c163465e267c1884cab5dd429d5de45d265c1d7e1091afcf29be85e16c",
+      "screenshot": "screenshots/022.png"
+    },
+    {
+      "sampleNumber": 23,
+      "slug": "gh-a0010z",
+      "title": "Oscillators, Electromagnetic Phase Fields, and Spacetime Curvature",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0010z.md",
+      "sampleHash": "01b6c1e16a53c475fbf1780adcabe3ae55b081ffc0304f9db116331de351bd21",
+      "screenshot": "screenshots/023.png"
+    },
+    {
+      "sampleNumber": 24,
+      "slug": "contentless-observer",
+      "title": "Contentless Observer",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/contentless-observer.md",
+      "sampleHash": "01d279ad94787a7aea8d03272ad382e8fd154b11f2154b04106a6cb6b4ba9eef",
+      "screenshot": "screenshots/024.png"
+    },
+    {
+      "sampleNumber": 25,
+      "slug": "gh-original-archive-b0316yrecorder",
+      "title": "Gh Original Archive B0316Yrecorder",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-original-archive-b0316yrecorder.md",
+      "sampleHash": "01f9017864eab9a3c057ca4ed324b61ab8bac4fbfdb641dfaabd2f1b9578fe81",
+      "screenshot": "screenshots/025.png"
+    },
+    {
+      "sampleNumber": 26,
+      "slug": "gh-a0400z",
+      "title": "Gh A0400Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0400z.md",
+      "sampleHash": "02254f3769da355bd3a6cb2dcdad8569b7e4621441010a758fa280608de25147",
+      "screenshot": "screenshots/026.png"
+    },
+    {
+      "sampleNumber": 27,
+      "slug": "long-term-potentiation",
+      "title": "Long Term Potentiation",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/long-term-potentiation.md",
+      "sampleHash": "02539368cca1e13b32e7154557f3989d84208e0ec055bd5dbe051ff03ec9b5d4",
+      "screenshot": "screenshots/027.png"
+    },
+    {
+      "sampleNumber": 28,
+      "slug": "neuron-analogies-telegraph-clock-geiger",
+      "title": "Neuron Analogies Telegraph Clock Geiger",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/neuron-analogies-telegraph-clock-geiger.md",
+      "sampleHash": "025c2283a80701ead07dfec0b2071b3279c13be1e52de6cd0ee0b0948aa367bb",
+      "screenshot": "screenshots/028.png"
+    },
+    {
+      "sampleNumber": 29,
+      "slug": "intention-detection",
+      "title": "Intention Detection",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/intention-detection.md",
+      "sampleHash": "027ee7a4ae8c30b97f6a1e1a4bc91ba1c16a55f30d19bb042ca7a392b1e4d5b3",
+      "screenshot": "screenshots/029.png"
+    },
+    {
+      "sampleNumber": 30,
+      "slug": "gh-b0233y",
+      "title": "Gh B0233Y",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0233y.md",
+      "sampleHash": "02897a0f588b2b6384de2c071c1d24e7f74e386382e9add058a517a3ae417f27",
+      "screenshot": "screenshots/030.png"
+    },
+    {
+      "sampleNumber": 31,
+      "slug": "fourier-slice-theorem",
+      "title": "Fourier Slice Theorem",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/fourier-slice-theorem.md",
+      "sampleHash": "02910a04a57f32cda05497c31142f398de7ec1fb23d798ebb4f265c8431c4f6e",
+      "screenshot": "screenshots/031.png"
+    },
+    {
+      "sampleNumber": 32,
+      "slug": "gh-b0070y",
+      "title": "Gh B0070Y",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0070y.md",
+      "sampleHash": "02b0720726d2ac9cb841398305ebf536f0c34769f73fd15c744ead8de70300c9",
+      "screenshot": "screenshots/032.png"
+    },
+    {
+      "sampleNumber": 33,
+      "slug": "action-potential-magnetic-phase-field",
+      "title": "Action-Potential Magnetic Field",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/action-potential-magnetic-phase-field.md",
+      "sampleHash": "0312da93d82ed91fa3cc839e18f83fa1474b13a5511eabce829d954d522eda38",
+      "screenshot": "screenshots/033.png"
+    },
+    {
+      "sampleNumber": 34,
+      "slug": "oca-glossary",
+      "title": "OCA Glossary",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/oca-glossary.md",
+      "sampleHash": "03494868ff3fb9167bf9127acf516310fca2544a3cd176c4e51375aa815a3d23",
+      "screenshot": "screenshots/034.png"
+    },
+    {
+      "sampleNumber": 35,
+      "slug": "neurophysics-definition",
+      "title": "Neurophysics Definition",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/neurophysics-definition.md",
+      "sampleHash": "034b2865967abb99883692f9c15bcd66cd3f61732c3c5977bea8d844e2d25511",
+      "screenshot": "screenshots/035.png"
+    },
+    {
+      "sampleNumber": 36,
+      "slug": "gh-b0306y",
+      "title": "Gh B0306Y",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0306y.md",
+      "sampleHash": "036ed6b25360913d45b2ffc3645d6ac7316a10a5c3379c7a157fb0a75cd33b0a",
+      "screenshot": "screenshots/036.png"
+    },
+    {
+      "sampleNumber": 37,
+      "slug": "gh-a0265z",
+      "title": "Gh A0265Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0265z.md",
+      "sampleHash": "03704595e790ea74d7b06f204240372a7c56676e60c8441425c0ef0d66c15acb",
+      "screenshot": "screenshots/037.png"
+    },
+    {
+      "sampleNumber": 38,
+      "slug": "gh-a0321z",
+      "title": "Gh A0321Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0321z.md",
+      "sampleHash": "038cf1fec8e649f8718dfec6f18a1bc4a56bf46d9473e2eb98b819b4c5c83a1a",
+      "screenshot": "screenshots/038.png"
+    },
+    {
+      "sampleNumber": 39,
+      "slug": "neural-coincidence-detection",
+      "title": "Neural Coincidence Detection",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/neural-coincidence-detection.md",
+      "sampleHash": "03986f83ae32793045bb358638da9abc637b4352e69853b0541363b40cdee245",
+      "screenshot": "screenshots/039.png"
+    },
+    {
+      "sampleNumber": 40,
+      "slug": "cellular-coincident-detection",
+      "title": "Cellular Coincident Detection",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/cellular-coincident-detection.md",
+      "sampleHash": "039e5026538ccba577c1adc5084b722ba52460dfc5d144e7a7131548dd8f4705",
+      "screenshot": "screenshots/040.png"
+    },
+    {
+      "sampleNumber": 41,
+      "slug": "gh-b0084y",
+      "title": "Gh B0084Y",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0084y.md",
+      "sampleHash": "03b10767879d7a5f126abfa03fee92658033358b8a860d3cb2aacb7e3e97b921",
+      "screenshot": "screenshots/041.png"
+    },
+    {
+      "sampleNumber": 42,
+      "slug": "observer-observed-entification",
+      "title": "Observer-Observed Entification",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/observer-observed-entification.md",
+      "sampleHash": "03b41404e68ff8982d78b01a7483e6c9629a1d53fdb6123884f606f5d01dc513",
+      "screenshot": "screenshots/042.png"
+    },
+    {
+      "sampleNumber": 43,
+      "slug": "volumetric-predictive-rendering",
+      "title": "Volumetric Predictive Rendering",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/volumetric-predictive-rendering.md",
+      "sampleHash": "03ce9f6b668bc443186e5b3250addc48524065b853525b9a1af5b77f2daa0d87",
+      "screenshot": "screenshots/043.png"
+    },
+    {
+      "sampleNumber": 44,
+      "slug": "gh-a0541z",
+      "title": "Gh A0541Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0541z.md",
+      "sampleHash": "03e05524c75bce182e849e2bf176a39b4eb94f83f6c0a0f2a538036b4b68b4b6",
+      "screenshot": "screenshots/044.png"
+    },
+    {
+      "sampleNumber": 45,
+      "slug": "camkii",
+      "title": "Camkii",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/camkii.md",
+      "sampleHash": "03e91b843b5ccf6b9f3c1901c6e9bbc6475380c6700ca383873cf624906eca84",
+      "screenshot": "screenshots/045.png"
+    },
+    {
+      "sampleNumber": 46,
+      "slug": "gh-b0229y",
+      "title": "Gh B0229Y",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0229y.md",
+      "sampleHash": "03fa986c0fbf4eb577c54e7b64e128546f7dd32ae7d614badb62041544fa7d77",
+      "screenshot": "screenshots/046.png"
+    },
+    {
+      "sampleNumber": 47,
+      "slug": "gh-b0095ydone",
+      "title": "realization is a differential pattern in the phase field of the brain",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0095ydone.md",
+      "sampleHash": "04724d0b209ef5342e9d4c98bdd279c80e3b129bf7565c45e56703fa379c704f",
+      "screenshot": "screenshots/047.png"
+    },
+    {
+      "sampleNumber": 48,
+      "slug": "fractal-oscillatory-tree",
+      "title": "Fractal Oscillatory Tree",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/fractal-oscillatory-tree.md",
+      "sampleHash": "04aa66600e3b0450a7bdfb03c926ba20d21cc60ac7d1e4e15ba383cc6febaaed",
+      "screenshot": "screenshots/048.png"
+    },
+    {
+      "sampleNumber": 49,
+      "slug": "coincidence-to-structure-activity-directed-spinogenesis",
+      "title": "Coincidence Becomes Geometry: Activity-Directed Spine Formation",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/coincidence-to-structure-activity-directed-spinogenesis.md",
+      "sampleHash": "04b40e634e0f7bdd7124de044a0fe1beb284745438c11df1e574647ee16d9665",
+      "screenshot": "screenshots/049.png"
+    },
+    {
+      "sampleNumber": 50,
+      "slug": "thalamocortical-network",
+      "title": "Thalamocortical Network",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/thalamocortical-network.md",
+      "sampleHash": "04b8f894cb1d7f0bf2f8613620d30ad522c6c2bfed4dc73860090aa390a1b79b",
+      "screenshot": "screenshots/050.png"
+    },
+    {
+      "sampleNumber": 51,
+      "slug": "mixed-selectivity",
+      "title": "Mixed Selectivity",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/mixed-selectivity.md",
+      "sampleHash": "04bd4a78b5f7c4a18b991aa8e78c0fbc79e082e96e66172a42d26db73322c641",
+      "screenshot": "screenshots/051.png"
+    },
+    {
+      "sampleNumber": 52,
+      "slug": "speech-reconstruction-auditory-cortex",
+      "title": "Speech Reconstruction Auditory Cortex",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/speech-reconstruction-auditory-cortex.md",
+      "sampleHash": "04c13a9f440b23d5005b6681e34aa118193d2937d45fb6cd575bcb139695e8bc",
+      "screenshot": "screenshots/052.png"
+    },
+    {
+      "sampleNumber": 53,
+      "slug": "wavefront-collision",
+      "title": "Wavefront Collision",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/wavefront-collision.md",
+      "sampleHash": "04e8a4f3bfd74e563980a9fe7e2f7d0be44a2b2c23a82f9401203152d58304f6",
+      "screenshot": "screenshots/053.png"
+    },
+    {
+      "sampleNumber": 54,
+      "slug": "gh-y0030",
+      "title": "Temporal-Spatial Neural Rendering and Conscious Operation",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-y0030.md",
+      "sampleHash": "054b0b7177ec212476fe112b09ee77d35ee3d652c6355ef644733ab8a0d7092b",
+      "screenshot": "screenshots/054.png"
+    },
+    {
+      "sampleNumber": 55,
+      "slug": "gh-b0146yhand",
+      "title": "Confusing Cortical Columns (Hand-Modified Transcript)",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0146yhand.md",
+      "sampleHash": "05543d64e8d3e49040086052a692b7a7832f8a7ac0d762ac66455e15454969f9",
+      "screenshot": "screenshots/055.png"
+    },
+    {
+      "sampleNumber": 56,
+      "slug": "neural-lace-podcast-ep2-blaze-sanders",
+      "title": "Neural Lace Podcast Ep2 Blaze Sanders",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/neural-lace-podcast-ep2-blaze-sanders.md",
+      "sampleHash": "05a3fc04d24f7546ca2167f60b776bcf752b523a5b70de710c3e6f0f711860d1",
+      "screenshot": "screenshots/056.png"
+    },
+    {
+      "sampleNumber": 57,
+      "slug": "gh-a0359z",
+      "title": "Gh A0359Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0359z.md",
+      "sampleHash": "05bca403fd41f184481dfec260df9f7ae5830f6776075bfdbe2b63435315b9e4",
+      "screenshot": "screenshots/057.png"
+    },
+    {
+      "sampleNumber": 58,
+      "slug": "neuroplasticity",
+      "title": "Neuroplasticity",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/neuroplasticity.md",
+      "sampleHash": "05d35f1d5845762ff924fcc8101465e6080d7140059337019cb9fc46495f5597",
+      "screenshot": "screenshots/058.png"
+    },
+    {
+      "sampleNumber": 59,
+      "slug": "gh-a0126z",
+      "title": "memories scale up (reference back to note a0001z \"Closing the mechanistic gap\")",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0126z.md",
+      "sampleHash": "05f9d27fb0e4c576ece6b88771139361f0dc770e1dc214483ba8631155dc6b64",
+      "screenshot": "screenshots/059.png"
+    },
+    {
+      "sampleNumber": 60,
+      "slug": "neural-drift",
+      "title": "Neural Drift",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/neural-drift.md",
+      "sampleHash": "060db35670a0ebe6cd1f57491e692ff830c3be4995aa60761cdc80f317cd0a6e",
+      "screenshot": "screenshots/060.png"
+    },
+    {
+      "sampleNumber": 61,
+      "slug": "rhythms-of-the-brain",
+      "title": "Rhythms Of The Brain",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/rhythms-of-the-brain.md",
+      "sampleHash": "062904b8180a849a241efd43c1c7557aaa2585a31b5c57a69597142c9fc9d0c0",
+      "screenshot": "screenshots/061.png"
+    },
+    {
+      "sampleNumber": 62,
+      "slug": "gh-b0006y",
+      "title": "Gh B0006Y",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0006y.md",
+      "sampleHash": "06292d914f5f2991215813d613d142864e2eb64150c3e9f12291aa069b585b4d",
+      "screenshot": "screenshots/062.png"
+    },
+    {
+      "sampleNumber": 63,
+      "slug": "phase-wave-differential-calculus",
+      "title": "Phase-Wave Differential Calculus",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/phase-wave-differential-calculus.md",
+      "sampleHash": "062fe788f23f908562d1abdde6787797d2f76626f64af6b728d4520c31cccc64",
+      "screenshot": "screenshots/063.png"
+    },
+    {
+      "sampleNumber": 64,
+      "slug": "phase-precession",
+      "title": "Phase Precession",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/phase-precession.md",
+      "sampleHash": "0649a453941990ace1a0423d44c1269a219feccdd58e625fb47c746bd59420f8",
+      "screenshot": "screenshots/064.png"
+    },
+    {
+      "sampleNumber": 65,
+      "slug": "saov9-cycle-14-consciousness-problem",
+      "title": "SAOv9 Cycle 14: The Consciousness Problem, Next Generation Problem Solving",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/saov9-cycle-14-consciousness-problem.md",
+      "sampleHash": "064bc0550546145b761b1fba607d392025f4d9458c4fd7f60124fbeb6b312a4b",
+      "screenshot": "screenshots/065.png"
+    },
+    {
+      "sampleNumber": 66,
+      "slug": "temporal-parietal-junction",
+      "title": "Temporal Parietal Junction",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/temporal-parietal-junction.md",
+      "sampleHash": "064c025b66bac7752d5e7203c88277381deeac659344c3ede14d5acb8630aed2",
+      "screenshot": "screenshots/066.png"
+    },
+    {
+      "sampleNumber": 67,
+      "slug": "gh-a0185z",
+      "title": "Gh A0185Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0185z.md",
+      "sampleHash": "0681d1a7135d0d25702f0b96306b79235307ac881043636955bb9e0ed1dd44ba",
+      "screenshot": "screenshots/067.png"
+    },
+    {
+      "sampleNumber": 68,
+      "slug": "gh-a0151z",
+      "title": "Gh A0151Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0151z.md",
+      "sampleHash": "06aaee20fab542b4df1addac31c3328159246eb72a978564d65858a338ace88b",
+      "screenshot": "screenshots/068.png"
+    },
+    {
+      "sampleNumber": 69,
+      "slug": "continuous-dynamics-discrete-neural-information",
+      "title": "Continuous Dynamics and Discrete Neural Information",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/continuous-dynamics-discrete-neural-information.md",
+      "sampleHash": "06b824e31eccb65fa6e3cea941af2ae5e9fac919e2817c87055dec40b6dce214",
+      "screenshot": "screenshots/069.png"
+    },
+    {
+      "sampleNumber": 70,
+      "slug": "gh-b0165y",
+      "title": "Gh B0165Y",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0165y.md",
+      "sampleHash": "077414362ae5d85b751a905caebfdbd6c52c345c209c48e02aec1a2e49d27b8b",
+      "screenshot": "screenshots/070.png"
+    },
+    {
+      "sampleNumber": 71,
+      "slug": "sit-v71",
+      "title": "Sit V71",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/sit-v71.md",
+      "sampleHash": "07d5f501068295a42cfbca7c1ba87dc8cdbcbf3b41aaf598f52f7436d11598d9",
+      "screenshot": "screenshots/071.png"
+    },
+    {
+      "sampleNumber": 72,
+      "slug": "jacobs-ladder-rg-flow-sit",
+      "title": "Jacob's Ladder RG Flow (SIT)",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/jacobs-ladder-rg-flow-sit.md",
+      "sampleHash": "0803c8d40671777375c9eee6f259933c945510241a6c605730872461c5ea602f",
+      "screenshot": "screenshots/072.png"
+    },
+    {
+      "sampleNumber": 73,
+      "slug": "gh-a0036z",
+      "title": "Gh A0036Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0036z.md",
+      "sampleHash": "0816d4fc1e8e4a13427f2b3a08d76c2d87e197739eeb581fc8baa99cd8efc432",
+      "screenshot": "screenshots/073.png"
+    },
+    {
+      "sampleNumber": 74,
+      "slug": "self-as-oscillatory-construct",
+      "title": "Self As Oscillatory Construct",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/self-as-oscillatory-construct.md",
+      "sampleHash": "081840e3bee3cdfbd53f08e835f38b6ab154e46328758d8be9365b2419b07083",
+      "screenshot": "screenshots/074.png"
+    },
+    {
+      "sampleNumber": 75,
+      "slug": "phase-space-dynamics",
+      "title": "Phase Space Dynamics",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/phase-space-dynamics.md",
+      "sampleHash": "08268ea6e7150b57aac62b92130848a1c958416bf3e7a32b52563edbb26917f3",
+      "screenshot": "screenshots/075.png"
+    },
+    {
+      "sampleNumber": 76,
+      "slug": "3d-neural-network-brain",
+      "title": "The Brain as a Three-Dimensional Neural Network",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/3d-neural-network-brain.md",
+      "sampleHash": "08516a8c2dd5393e105e58941954e3fa70202150724783d7390a00a6e431a592",
+      "screenshot": "screenshots/076.png"
+    },
+    {
+      "sampleNumber": 77,
+      "slug": "gh-a0133z",
+      "title": "Gh A0133Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0133z.md",
+      "sampleHash": "086648df8f1a058d031d197d98194ce0a578f120a334811c7eef8d396d92e11f",
+      "screenshot": "screenshots/077.png"
+    },
+    {
+      "sampleNumber": 78,
+      "slug": "transcript-riemann-papers",
+      "title": "Transcript Riemann Papers",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/transcript-riemann-papers.md",
+      "sampleHash": "0889cdb36df2895e7c689cd04e1951473d5dfc95e729982c78503314c97c0e3b",
+      "screenshot": "screenshots/078.png"
+    },
+    {
+      "sampleNumber": 79,
+      "slug": "cortical-circuit-development-category-theory",
+      "title": "Cortical Circuit Development Category Theory",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/cortical-circuit-development-category-theory.md",
+      "sampleHash": "0890c0581c18dd5a3d4d1267a26dedf5ebe03fd563f40698f56b7e458d40ce2a",
+      "screenshot": "screenshots/079.png"
+    },
+    {
+      "sampleNumber": 80,
+      "slug": "gh-a0386z",
+      "title": "Gh A0386Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0386z.md",
+      "sampleHash": "0899e359f99a5a2869d831cd0d14e956b45a6d120265a31b8ef175251d1ceec4",
+      "screenshot": "screenshots/080.png"
+    },
+    {
+      "sampleNumber": 81,
+      "slug": "eeg-bci-limitations",
+      "title": "Eeg Bci Limitations",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/eeg-bci-limitations.md",
+      "sampleHash": "08ab085aa76a2b801e2233ef23c45627f8c8a4ffc16c106426302bde20b3b010",
+      "screenshot": "screenshots/081.png"
+    },
+    {
+      "sampleNumber": 82,
+      "slug": "gh-nlp7",
+      "title": "Gh Nlp7",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-nlp7.md",
+      "sampleHash": "08ce833af4fb9a3c64348f87c963bbc3fca5082eaa04141edbde7f08d3a57c96",
+      "screenshot": "screenshots/082.png"
+    },
+    {
+      "sampleNumber": 83,
+      "slug": "new-law-of-thermodynamics",
+      "title": "New Law Of Thermodynamics",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/new-law-of-thermodynamics.md",
+      "sampleHash": "090730ce193e7cd4f0a44df9966c5b6458482ee91174405c800abb531f4b4d43",
+      "screenshot": "screenshots/083.png"
+    },
+    {
+      "sampleNumber": 84,
+      "slug": "gh-a0086z",
+      "title": "Gh A0086Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0086z.md",
+      "sampleHash": "0907c9783b99f44d4cb65eb215136f1c187b23c9ee06be61d8f5e0f7b2669c91",
+      "screenshot": "screenshots/084.png"
+    },
+    {
+      "sampleNumber": 85,
+      "slug": "jules-urbach-rtx-vr-xr-ai-rendering",
+      "title": "Jules Urbach Rtx Vr Xr Ai Rendering",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/jules-urbach-rtx-vr-xr-ai-rendering.md",
+      "sampleHash": "091674db6aef85c9e98db9b50a8649e429016a2a2adb1e5a340be328c23f2882",
+      "screenshot": "screenshots/085.png"
+    },
+    {
+      "sampleNumber": 86,
+      "slug": "recorder-transcript-human-source-atom-map-t07",
+      "title": "Recorder Transcript Human Source-Atom Map - T07",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/recorder-transcript-human-source-atom-map-t07.md",
+      "sampleHash": "092701bf5f937e29620e83e921bf7ea4c2830f3dbe0a8749d54f6d509233877f",
+      "screenshot": "screenshots/086.png"
+    },
+    {
+      "sampleNumber": 87,
+      "slug": "super-information-theory",
+      "title": "Super Information Theory",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/super-information-theory.md",
+      "sampleHash": "093d125fbd8ac4815c85b8d55b75fa2479693df8af913c9083d8269dba7e4b89",
+      "screenshot": "screenshots/087.png"
+    },
+    {
+      "sampleNumber": 88,
+      "slug": "gh-a0591z",
+      "title": "Gh A0591Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0591z.md",
+      "sampleHash": "093efb394d10c4154bad31f8e1d67b69b8eac2dd8f0a2fd1a12aee7032ff31d9",
+      "screenshot": "screenshots/088.png"
+    },
+    {
+      "sampleNumber": 89,
+      "slug": "working-memory",
+      "title": "Working Memory",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/working-memory.md",
+      "sampleHash": "0949263885cb3b613729c4e222035984a8831b2df377385253d79ae517f0abd8",
+      "screenshot": "screenshots/089.png"
+    },
+    {
+      "sampleNumber": 90,
+      "slug": "teleonomic-principle",
+      "title": "Teleonomic Principle",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/teleonomic-principle.md",
+      "sampleHash": "097c56224e9bae66b3ddeef0d8ea21d0e5f631107b611a70cc20ea0e4d17ecda",
+      "screenshot": "screenshots/090.png"
+    },
+    {
+      "sampleNumber": 91,
+      "slug": "gh-a0014z",
+      "title": "Gh A0014Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0014z.md",
+      "sampleHash": "099915e4b751712f126fefe357740ce3337c96494cc893e8fbe9ddc18b80f44a",
+      "screenshot": "screenshots/091.png"
+    },
+    {
+      "sampleNumber": 92,
+      "slug": "gh-a0575z",
+      "title": "Gh A0575Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0575z.md",
+      "sampleHash": "099b997030707e68fa3d653c32e190d08c08a91c5ee05ffafeeca67c2e330588",
+      "screenshot": "screenshots/092.png"
+    },
+    {
+      "sampleNumber": 93,
+      "slug": "sit-v75",
+      "title": "Sit V75",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/sit-v75.md",
+      "sampleHash": "09b278b0eb8efb6b9f55dfcedd7156bba7cfda61bdfbc22a4ab060dd98ce31e1",
+      "screenshot": "screenshots/093.png"
+    },
+    {
+      "sampleNumber": 94,
+      "slug": "gh-a0531z",
+      "title": "Gh A0531Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0531z.md",
+      "sampleHash": "09dee83ee7047768fbf17a359b6ffddc82ad1824177e23e1fe47a0575c213b4e",
+      "screenshot": "screenshots/094.png"
+    },
+    {
+      "sampleNumber": 95,
+      "slug": "gh-b0159y",
+      "title": "Gh B0159Y",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0159y.md",
+      "sampleHash": "09fbe512422225bda1f40fb29a66e06ffeced61b635d9f7b3af65148ffad51c5",
+      "screenshot": "screenshots/095.png"
+    },
+    {
+      "sampleNumber": 96,
+      "slug": "gh-a0102z",
+      "title": "Gh A0102Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0102z.md",
+      "sampleHash": "0a5224b97d3a7fd2afab55fdba774434cb89ba900c03a694b2904cf67d46151a",
+      "screenshot": "screenshots/096.png"
+    },
+    {
+      "sampleNumber": 97,
+      "slug": "gh-a0123z",
+      "title": "Gh A0123Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0123z.md",
+      "sampleHash": "0a65d4ee13a580952cc77c59b84b236c0cdefbaea7689e0cf174131e4f270e33",
+      "screenshot": "screenshots/097.png"
+    },
+    {
+      "sampleNumber": 98,
+      "slug": "gh-b0104y",
+      "title": "Gh B0104Y",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-b0104y.md",
+      "sampleHash": "0a75ca80681b7c45e978c5c2f9f110c3ff5ae0c0b61c4c66d52d69585ab44495",
+      "screenshot": "screenshots/098.png"
+    },
+    {
+      "sampleNumber": 99,
+      "slug": "gh-a0205z",
+      "title": "Gh A0205Z",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/gh-a0205z.md",
+      "sampleHash": "0a98a3152a3cb41af0b05c840ae13b90036fc3ee8b693a53db7f0a9535f2e76f",
+      "screenshot": "screenshots/099.png"
+    },
+    {
+      "sampleNumber": 100,
+      "slug": "glial-modulation",
+      "title": "Glial Modulation",
+      "topic": "san",
+      "sourcePath": "/v5ma.github.io/wiki/content/glial-modulation.md",
+      "sampleHash": "0aa56cfe1af89320cc3bdc99a8b9e4523fa670ab47e33bb57d0dbe94d3cb6bf8",
+      "screenshot": "screenshots/100.png"
+    }
+  ]
+}

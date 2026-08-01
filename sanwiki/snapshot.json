@@ -1,0 +1,22 @@
+{
+  "schema": "sanwiki-public-provenance-snapshot-v1",
+  "publicationDate": "2026-08-01",
+  "generatedAt": "2026-08-01T23:31:22.887Z",
+  "repository": "https://github.com/v5ma/selfawarenetworks",
+  "canonicalReader": "https://selfawarenetworks.com/wiki/",
+  "sourceCorpus": "v5ma.github.io/wiki/content plus wiki/data/page-index.json",
+  "pageCount": 2372,
+  "sourceIndexSha256": "4215be407ff95002aff37b7479b83799197e577cd90241233c48a6ee5d4615c3",
+  "archiveIndexSha256": "ee314685c7479cda67e65fec6754d673216f7a8eb45f8656b3816a20e178fbf8",
+  "manifestSha256": "962679323ad022d1aca8373a162ffb9856c07e076d06184f6843a43879cf5a9d",
+  "publicProjection": {
+    "transformationTotals": {
+      "routeBlocksRemoved": 398,
+      "localPathsWithheld": 34,
+      "privateArchiveNamesGeneralized": 28
+    },
+    "sourceHashesPreserved": true,
+    "rule": "Reader content is retained while generated internal route blocks are removed, private local filesystem paths are withheld, and private source-archive names are generalized."
+  },
+  "note": "The Git commit dates this public snapshot. It does not assign the snapshot date to wording or claims developed earlier or later; dated source evidence inside each page governs historical chronology."
+}

@@ -1,4 +1,9 @@
 # The Self Aware Networks Institute (Independent Research Group)
+
+## Self-Aware Networks Wiki Public Corpus
+
+The machine-readable SAN Wiki corpus is published in the [`sanwiki/`](sanwiki/) folder. Its Git history and SHA-256 manifest provide a public record of each published Wiki version, while the dated sources cited inside the pages govern the chronology of individual ideas and claims.
+
 The Self Aware Networks Institute is an independent research group—an Institute for short—hosted on GitHub. It represents a new kind of peer-review and preprint server for open-access science. The Institute is now officially designated as both a preprint platform and a new model for peer-reviewed scientific publication. Anyone may peer-review the posted notes and PDFs, submit comments, and offer corrections.
 
 I recommend publishing your articles and notes on GitHub first. Functionally and structurally, this is isomorphic to publishing in any scientific journal. GitHub records the exact time of upload and maintains a timestamped history of all changes as a matter of public record. This provides the same evidentiary function as submitting to arXiv, a journal like Nature, publishing a book, or even printing in a newspaper. In each case, the material evidence proving your authorship carries identical weight.

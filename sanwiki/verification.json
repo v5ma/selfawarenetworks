@@ -1,0 +1,15 @@
+{
+  "verifiedAt": "2026-08-01T23:32:29.520Z",
+  "status": "pass",
+  "sourcePageCount": 2372,
+  "archivePageCount": 2372,
+  "manifestRowCount": 2372,
+  "archivePageFileCount": 2372,
+  "sourceIndexSha256": "4215be407ff95002aff37b7479b83799197e577cd90241233c48a6ee5d4615c3",
+  "archiveIndexSha256": "ee314685c7479cda67e65fec6754d673216f7a8eb45f8656b3816a20e178fbf8",
+  "manifestSha256": "962679323ad022d1aca8373a162ffb9856c07e076d06184f6843a43879cf5a9d",
+  "prohibitedMarkerCount": 14,
+  "scannedPublicTextFileCount": 2379,
+  "failureCount": 0,
+  "failures": []
+}
