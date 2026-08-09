@@ -1,8 +1,0 @@
-=== TRANSCRIPT PROVENANCE ===
-Recording name: b0297y CHINATOWN SONG
-First recorded: 2021-05-07T20:56:39.000000Z
-Recording-date evidence: Embedded M4A creation_time metadata
-Original Google Recorder recording: https://recorder.google.com/067f6144-5686-455d-a39e-889dbbf23d55
-Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
-=== END TRANSCRIPT PROVENANCE ===
-Thank you so much for joining us today.

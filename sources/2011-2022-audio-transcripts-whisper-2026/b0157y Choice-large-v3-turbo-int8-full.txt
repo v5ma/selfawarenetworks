@@ -1,9 +1,0 @@
-=== TRANSCRIPT PROVENANCE ===
-Recording name: b0157y Choice
-First recorded: 2021-10-09T06:17:44.000000Z
-Recording-date evidence: Embedded M4A creation_time metadata
-Original Google Recorder recording: https://recorder.google.com/b60aa528-bb5c-47c6-8c54-6dc3d011c67e
-Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
-=== END TRANSCRIPT PROVENANCE ===
-So the receptive field, or sensory space, is where some physiological stimuli can evoke a sensory neuronal response in specific organisms.
-That's from Wikipedia.
