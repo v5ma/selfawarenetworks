@@ -7,6 +7,10 @@ write a controlled change back? Across eleven recovered transcripts, that questi
 dendritic computation, object recognition, VR and embodiment, EEG feedback, volumetric rendering,
 and the strengths and limitations of several brain-imaging methods.
 
+The September 2012 [[neuron-shape-information-storage|neuron-as-program proposal]] is an earlier
+ancestor of the podcast's state-dependent transformation and structured-output questions. It is
+not counted as a podcast episode and is not retroactively assigned the later protocol vocabulary.
+
 This page maps the complete downloaded transcript family. The conversations are valuable both as
 dated intellectual history and as mechanism donors. They are not substitutes for independent
 biological or engineering evidence.
@@ -69,10 +73,10 @@ appropriate, not reduced to art and not inflated into a clinical validation prog
 ## Source layers
 
 - **Public recording:** strongest source for exact wording, speaker identity and public date.
-- **Downloaded raw transcript:** exact local source under
-  `[private local source path withheld]`; searchable but automatically transcribed.
-- **Per-episode proof page:** preserves date, recording URL, omnibus source identity and transcript
-  extraction under `[private local source path withheld]`.
+- **Downloaded raw transcript:** searchable transcription aid whose wording must be checked against
+  audio before exact quotation.
+- **Per-episode evidence page:** preserves the recording URL, stated date, transcript identity, and
+  source boundaries without exposing private filesystem locations.
 - **Processed SAN page:** interprets the episode and connects it to later concepts; useful but
   secondary to the recording and transcript for attribution.
 
@@ -82,6 +86,15 @@ scientific statement in the discussion is correct.
 
 ## Corrections and open recovery
 
+- The current detailed `nlp1` founding monologue routes to
+  <https://youtu.be/YrX_68oKuVs> and was first added to the public Git repository on June 21, 2025.
+  Its April 11, 2017 date belongs to the recorded episode and public media lineage, not to that Git
+  transcript's first commit.
+- An earlier, different file also named `nlp1.md` entered Git in October 2022. It describes a guest
+  episode associated with Shannon Aral and <https://youtu.be/h2OLBUIQouI>. It preserves a broad
+  protocol question but does not establish the exact ATP/TCP/UDP and present-versus-desired
+  difference passage in the current founding monologue. The two source identities must not be
+  merged merely because their filenames match.
 - Season 2 Episode 1 is dated **2018-08-02**, not the older July 29 estimate.
 - Season 2 Episode 2 is dated **2018-09-11** and routes to
   <https://youtu.be/wgMKMn7srHM>, not the alternate URL in the older summary.

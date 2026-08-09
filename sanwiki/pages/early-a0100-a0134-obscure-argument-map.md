@@ -147,4 +147,3 @@ its model of the system, intervention policy, feedback, uncertainty, and corrigi
 - [[extended-brain-thought-density-hypertime|Extended Brain and Thought-Density Hypertime]]
 - [[artificial-neurology-states-stages-development|Artificial Neurology]]
 - [[cerebellar-embodied-prediction-conscious-participation|Cerebellar Embodied Prediction]]
-

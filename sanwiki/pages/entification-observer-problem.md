@@ -90,6 +90,7 @@ not required.
 
 ## Read next
 
+- [[self-aware-networks|Self-Aware Networks]]
 - [[early-a0531-a0561-obscure-argument-map|Early a0531-a0561 Obscure Argument Map]]
 - [[voluntary-shared-cognitive-environment-retained-personhood|Voluntary Shared Cognitive Environments and Retained Personhood]]
 - [[multimodal-neuron-signal-correlate-channel|The Multimodal Neuron: Signal, Correlate, or Channel?]]

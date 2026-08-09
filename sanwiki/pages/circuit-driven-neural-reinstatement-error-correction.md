@@ -46,4 +46,3 @@ working paper. It is not a separate new paper.
 - [[oscillatory-plasticity-group-potentiation-depression|Oscillatory Plasticity]]
 - [[coincidence-to-structure-activity-directed-spinogenesis|Coincidence Becomes Geometry]]
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]]
-

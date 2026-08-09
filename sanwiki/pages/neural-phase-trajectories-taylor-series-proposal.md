@@ -59,35 +59,26 @@ universal brain coordinate system or a single array that contains the complete p
 
 ## Formal separation
 
-Let \(\mathbf{x}_R(t)\) be an analyst-defined state vector for receiver population \(R\). If the
-estimated trajectory is sufficiently smooth over a short interval \(\Delta t\), an analyst can
+Let `x_R(t)` be an analyst-defined state vector for receiver population `R`. If the
+estimated trajectory is sufficiently smooth over a short interval `delta_t`, an analyst can
 write a finite local approximation:
 
-\[
-\mathbf{x}_R(t+\Delta t) \approx
-\mathbf{x}_R(t)
-+ \dot{\mathbf{x}}_R(t)\Delta t
-+ \frac{1}{2}\ddot{\mathbf{x}}_R(t)(\Delta t)^2
-+ \cdots .
-\]
+```text
+x_R(t + delta_t) ~= x_R(t) + x_R'(t) delta_t
+                    + 1/2 x_R''(t) delta_t^2 + ...                [1]
+```
 
 That equation is mathematics applied to measurements. A more biologically explicit receiver model
 is:
 
-\[
-\mathbf{x}_R(t+\Delta t)=
-F_R\!\left(
-\mathbf{x}_R(t),
-\mathbf{u}_{S\rightarrow R}(t),
-\mathbf{c}_R(t),
-\mathbf{h}_R(t);
-\boldsymbol\theta_R
-\right)+\boldsymbol\varepsilon_R(t),
-\]
+```text
+x_R(t + delta_t) = F_R(x_R(t), u_(S->R)(t), c_R(t), h_R(t); theta_R)
+                   + epsilon_R(t)                                  [2]
+```
 
-where \(\mathbf{u}_{S\rightarrow R}\) is measured input from source pathway \(S\),
-\(\mathbf{c}_R\) is current context, \(\mathbf{h}_R\) is relevant history, and
-\(\boldsymbol\theta_R\) represents the receiver's anatomy and tuning. The SAN-specific hypothesis
+where `u_(S->R)` is measured input from source pathway `S`,
+`c_R` is current context, `h_R` is relevant history, and
+`theta_R` represents the receiver's anatomy and tuning. The SAN-specific hypothesis
 is that typed phase-wave-differential features in the source sequence add predictive and causal
 value for the receiver's next state.
 
@@ -142,6 +133,8 @@ its physiology.
 ## Read next
 
 - [[phase-wave-differential-calculus|Phase-Wave Differential Calculus]]
+- [[ndca-nonlinear-differential-continuous-approximation|NDCA]]
+- [[category-theory-neuroscience|Category Theory and Biological State Transitions]]
 - [[tonic-phasic-phase-wave-differential|Tonic Baseline, Phasic Update, and PWD]]
 - [[continuous-dynamics-discrete-neural-information|Continuous Dynamics and Discrete Neural Information]]
 - [[receptive-inceptive-dendritic-projection|Receptive, Inceptive, and Dendritic Projection]]

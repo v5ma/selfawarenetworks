@@ -137,6 +137,7 @@ prediction, and conscious content as separate outcomes.
 
 ## Related
 
+- [[volumetric-predictive-rendering|Volumetric Predictive Rendering]]
 - [[napot-overview|NAPOT]]
 - [[3d-semantic-segmentation|3D Semantic Segmentation]]
 - [[static-map-vs-active-render]]

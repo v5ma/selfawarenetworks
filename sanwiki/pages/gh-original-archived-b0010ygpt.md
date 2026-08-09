@@ -550,4 +550,3 @@ type of consequence, rewards or penalties but basically new consequences. So you
 as an organism navigates the environment with this neural computation the development
 
 of these [pathways](neural-circuits.md) continues and yeah it's basically it.
-

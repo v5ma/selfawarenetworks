@@ -27,18 +27,10 @@ Five earlier 2022 routes also belong to the genealogy: array-to-array transforme
 
 For event `i` at receiver `r`, a candidate feature vector is:
 
-\[
-\mathbf p_{r,i}=
-[
-\Delta\phi,
-\Delta f,
-\Delta A,
-\Delta\tau,
-\Delta q,
-\Delta V,
-\Delta\mathbf x
-]_{r,i}.
-\]
+```text
+p_(r,i) = [delta_phi, delta_f, delta_A, delta_tau,
+           delta_q, delta_V, delta_x]_(r,i)                      [1]
+```
 
 The terms represent declared differences in phase, frequency or event rate, amplitude, duration, transmitted quantity, variability, and spatial or network state. They are not interchangeable:
 
@@ -55,9 +47,9 @@ A measured vector becomes a candidate token only when a named receiver preserves
 
 For positive inter-event intervals:
 
-\[
-CV_{ISI}=\frac{\sigma_{\Delta t}}{\mu_{\Delta t}}.
-\]
+```text
+CV_ISI = standard_deviation(delta_t) / mean(delta_t)             [2]
+```
 
 CV is one useful descriptor, not a complete PWD measure. It is unstable when the mean approaches zero and is not appropriate for circular phase. A PWD study should compare global interval CV, local `CV2`, local variation `LV`, count Fano factor, circular variance, and covariance across the full event vector.
 
@@ -67,16 +59,15 @@ Shinomoto, Shima, and Tanji found that local interspike-interval variation disti
 
 Let a receiver's transformation depend on current input `u`, context `c`, and tuning state `theta`:
 
-\[
-\mathbf y_{r,n}=F_r(\mathbf u_n,\mathbf c_n;\boldsymbol\theta_{r,n}).
-\]
+```text
+y_(r,n) = F_r(u_n, c_n; theta_(r,n))                             [3]
+```
 
 The SAN hypothesis is that some PWD events contribute to a subsequent update:
 
-\[
-\boldsymbol\theta_{r,n+1}
-=U_r(\boldsymbol\theta_{r,n},\mathbf p_{r,i},\mathbf c_n,\mathbf y_{r,n}).
-\]
+```text
+theta_(r,n+1) = U_r(theta_(r,n), p_(r,i), c_n, y_(r,n))          [4]
+```
 
 Immediate state dependence, temporary effective connectivity, and persistent synaptic or intrinsic plasticity must be tested separately. Functional connectivity is not created automatically whenever a firing frequency changes.
 
@@ -84,12 +75,9 @@ Immediate state dependence, temporary effective connectivity, and persistent syn
 
 Near a declared operating point, a smooth receiver model can be approximated by successive Taylor polynomials:
 
-\[
-P_K(\Delta\mathbf z)=
-\sum_{k=0}^{K}\frac{1}{k!}
-D^kF_r(\mathbf z_0)
-[\Delta\mathbf z^{\otimes k}].
-\]
+```text
+P_K(delta_z) = sum(k=0..K) D^k F_r(z_0)[delta_z^(tensor k)] / k! [5]
+```
 
 The sequence `P0, P1, ..., PK` is the proposed **Taylor Sequence of Polynomials**. The biological claim is not that a neuron writes the equation. It is that ordered physical departures may supply samples from which a cell, circuit, or external model realizes progressively higher-order local correction.
 
@@ -131,6 +119,9 @@ PWD calculus is a candidate update mechanism inside NAPOT. NAPOT adds the strong
 ## Read next
 
 - [[phase-wave-differentials|Phase-Wave Differentials]]
+- [[neural-phase-trajectories-taylor-series-proposal|Neural Phase Trajectories and the Taylor-Series Proposal]]
+- [[ndca-nonlinear-differential-continuous-approximation|NDCA]]
+- [[category-theory-neuroscience|Category Theory and Biological State Transitions]]
 - [[neural-tuning|Neural Tuning]]
 - [[tonic-phasic-canvas|Tonic Canvas and Phasic Ink]]
 - [[canvas-is-the-receiver|The Canvas Is Also the Receiver]]

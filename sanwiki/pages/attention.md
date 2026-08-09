@@ -84,6 +84,7 @@ The earlier phase-coherence selection-gate image is preserved in the failed-medi
 
 ## Read next
 
+- [[volumetric-predictive-rendering|Volumetric Predictive Rendering]]
 - [[neural-path-selection-interneurons-choice]]
 - [[neural-tuning]]
 - [[agency-valuation-action-feedback]]

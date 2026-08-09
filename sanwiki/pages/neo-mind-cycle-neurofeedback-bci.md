@@ -1,4 +1,4 @@
-# Neo Mind Cycle, Neurofeedback Salon, and the BCI Bridge
+# Neo Mind Cycle to External Cortex: The Closed-Loop BCI Bridge
 
 ## The problem before SAN
 
@@ -23,6 +23,10 @@ The core operation is measurable without accepting every later interpretation:
 This is a closed-loop human-machine system. It supplied practical experience with the limits of
 EEG, artifacts, fixed classifiers, participant variability, and sensory feedback before SAN and
 NAPOT were published.
+
+The canonical program overview is [[neo-mind-cycle|Neo Mind Cycle]]. The complete dated source
+family is maintained in [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle Source
+Genealogy]].
 
 The same loop also supplies a disciplined way to turn a personal observation into a research
 question. Record a baseline, declare the feedback rule or other intervention, predict which
@@ -70,6 +74,57 @@ reciprocal human-machine system that could expand accessible thought, add new se
 and alter subjective temporal resolution. The separate [[extended-brain-thought-density-hypertime]]
 page keeps that proposal distinct from ordinary tools, autonomous artificial minds, physical time
 dilation, and biological lifespan extension.
+
+## What "external cortex" means here
+
+External cortex is a proposed functional role, not a claim that a computer display becomes cortical
+tissue. A tool is a candidate temporary cognitive extension only when the coupled loop does work
+that the participant learns to use and that cannot be preserved after the transformation is
+delayed, scrambled, substituted, or removed.
+
+The proposed operation is:
+
+```text
+measured brain-body state
+    -> declared machine transformation
+    -> returned sensory or stimulation pattern
+    -> distributed neural interpretation
+    -> decision and action
+    -> new body-world consequences
+    -> next measured state
+```
+
+Six tests keep that proposal bounded:
+
+1. **Contingency:** the returned signal must depend on the participant's measured state.
+2. **Information:** the transformation must preserve or compute a task-relevant relation.
+3. **Learning:** performance must improve specifically with the coupled mapping.
+4. **Perturbability:** delay, scrambling, remapping, or removal must impair the learned operation.
+5. **Transfer:** tests must distinguish online assistance from durable biological learning.
+6. **Controls:** sham, yoked, active, and artifact-aware conditions must separate neural contingency
+   from sensory stimulation, expectation, movement, and ordinary practice.
+
+Bidirectional intracortical experiments establish that neural control and returned artificial
+sensory feedback can participate in one learned loop ([O'Doherty et al.,
+2011](https://doi.org/10.1038/nature10489)). Other closed-loop BCI work shows that learning depends
+on existing neural population structure and user-decoder adaptation ([Sadtler et al.,
+2014](https://doi.org/10.1038/nature13665); [Orsborn et al.,
+2014](https://doi.org/10.1016/j.neuron.2014.04.048)). These results establish relevant component
+operations. They do not prove the stronger SAN external-cortex hypothesis or retrospectively
+validate Neo Mind Cycle.
+
+## The 2018 spatial implementation bridge
+
+[[gh-a0636z|a0636z]] records an April 2018 effort to unite BCI, AI, and XR in an open workshop.
+[[gh-a0546z|a0546z]] later reports that the group connected changing electrical measurements to a
+WebVR scene through a local signal pipeline, WebSocket, Three.js, and A-Frame, with July and October
+2018 demonstrations. [[neural-lace-podcast-s2e1-jean-rintoul-2018|Neural Lace Podcast Season 2
+Episode 1]] and [[neural-lace-podcast-s2e3-kyle-mathewson-2020|Season 2 Episode 3]] preserve public
+accounts of that work and its measurement limits.
+
+This step matters because the returned consequence became spatial and action-linked rather than
+only an audio-light display. It is still evidence of an EEG-to-WebVR feedback pipeline, not of
+thought reconstruction, clinical efficacy, or literal cortical incorporation.
 
 ## Neural Lace expansion into registered world and body models
 
@@ -139,8 +194,12 @@ representation to the person, and determine whether learning transfers beyond th
 session?
 ## Read next
 
-- [Live Neo Mind Cycle genealogy](neo-mind-cycle-neurofeedback-bci-genealogy.md)
-- [[flow-of-information|The Flow of Information in the Brain]]
+- [[neo-mind-cycle|Neo Mind Cycle]]
+- [[neo-mind-cycle-neurofeedback|Neo Mind Cycle Neurofeedback]]
+- [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle Source Genealogy]]
+- [[bci-instrument-atlas|BCI Instrument Atlas]]
+- [[neural-lace-podcast|Neural Lace Podcast]]
+- [[flow-of-information-in-the-brain|The Flow of Information in the Brain]]
 - [[early-a0333-a0351-obscure-argument-map|Early a0333-a0351 Obscure Argument Map]]
 - [[entification-observer-problem|Entification and the No-Inner-Observer Problem]]
 - [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]]

@@ -43,4 +43,3 @@ itself validation of SAN neurobiology.
 - [[neural-lace-podcast-s2e2-jules-urbach-2018|Season 2 Episode 2]]
 - [[fnirs-neural-lace-podcast-s2e4-2019|Season 2 Episode 4: fNIRS]]
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]]
-

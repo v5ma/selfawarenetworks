@@ -173,4 +173,3 @@ artifact, safety, and inference boundary.
 - [[field-cell-self-bioelectric-information-entity|The Field-Cell Self]]
 - [[bci-instrument-atlas|BCI Instrument Atlas]]
 - [[world-body-brain-semantic-coregistration|World-Body-Brain Co-Registration]]
-

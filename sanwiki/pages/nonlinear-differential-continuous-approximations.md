@@ -67,4 +67,3 @@ The earliest dated evidence for the explicit NDCA / Equilibriations terminology 
   - `resnote05--md` line 27 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/resnote05.md
   - `vecB--md` line 1526 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/vecB.md
   - `vecC--md` line 443 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/vecC.md
-

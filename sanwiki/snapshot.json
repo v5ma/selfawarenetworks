@@ -1,22 +1,30 @@
 {
-  "schema": "sanwiki-public-provenance-snapshot-v1",
-  "publicationDate": "2026-08-01",
-  "generatedAt": "2026-08-01T23:31:22.887Z",
+  "schema": "sanwiki-public-provenance-snapshot-v2",
+  "firstSnapshotDate": "2026-08-01",
+  "publicationDate": "2026-08-09",
+  "generatedAt": "2026-08-09T14:47:16.877Z",
   "repository": "https://github.com/v5ma/selfawarenetworks",
   "canonicalReader": "https://selfawarenetworks.com/wiki/",
   "sourceCorpus": "v5ma.github.io/wiki/content plus wiki/data/page-index.json",
-  "pageCount": 2372,
-  "sourceIndexSha256": "4215be407ff95002aff37b7479b83799197e577cd90241233c48a6ee5d4615c3",
-  "archiveIndexSha256": "ee314685c7479cda67e65fec6754d673216f7a8eb45f8656b3816a20e178fbf8",
-  "manifestSha256": "962679323ad022d1aca8373a162ffb9856c07e076d06184f6843a43879cf5a9d",
+  "sourceRepositoryHead": "f0625509d03f913656d8e620bc102d1316dd155d",
+  "sourceAuthorityIncludesUncommittedChanges": true,
+  "sourceAuthorityStatusEntryCount": 2693,
+  "pageCount": 2378,
+  "sourceIndexSha256": "0d808a378a76077979e89b4b9488ff0a7b9e44c2576735943ff58cb8b13436e9",
+  "archiveIndexSha256": "1dc3a8f209d37131493f24aac88797892a63874af312f9c03ca93afa88ad6483",
+  "manifestSha256": "11fdf8baec86272ee3b489466c4b9f9e119724ddab70707cd6aa6731a1a506e5",
   "publicProjection": {
     "transformationTotals": {
-      "routeBlocksRemoved": 398,
-      "localPathsWithheld": 34,
-      "privateArchiveNamesGeneralized": 28
+      "lineEndingsNormalized": 314890,
+      "trailingBlankLinesRemoved": 92,
+      "finalNewlineAdded": 40,
+      "routeBlocksRemoved": 392,
+      "localPathsWithheld": 24,
+      "privateInternalRoutesWithheld": 1,
+      "privateArchiveNamesGeneralized": 27
     },
     "sourceHashesPreserved": true,
-    "rule": "Reader content is retained while generated internal route blocks are removed, private local filesystem paths are withheld, and private source-archive names are generalized."
+    "rule": "Reader content is retained while text line endings are normalized for Git, generated internal route blocks are removed, private local filesystem paths and internal review routes are withheld, and private dated source-archive names are generalized."
   },
   "note": "The Git commit dates this public snapshot. It does not assign the snapshot date to wording or claims developed earlier or later; dated source evidence inside each page governs historical chronology."
 }

@@ -109,4 +109,3 @@ These papers support components. They do not validate the joined SAN architectur
 - [[field-cell-self-bioelectric-information-entity|The Field-Cell Self]]
 - [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]]
 - [[early-a0100-a0134-obscure-argument-map|Previous fixed queue]]
-

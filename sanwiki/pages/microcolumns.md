@@ -61,4 +61,3 @@ Compared with mainstream cortical-microcolumn literature -- which treats microco
 ---
 
 *Auto-generated draft (Lane C, deterministic synthesis from packet). Reader-safe links are present in this page. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
-

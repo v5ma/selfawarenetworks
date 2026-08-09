@@ -45,6 +45,24 @@ and attribution boundaries.
 - **Instrument discipline:** The later episodes make clear that EEG, EIT, fNIRS and optical imaging
   have different observables and limitations.
 
+## From mirrored feedback to a candidate external cortex
+
+The series connects two engineering stages that should not be collapsed. [[neo-mind-cycle|Neo Mind
+Cycle]] returned transformed EEG-related variation as changing light and sound so the participant's
+brain could learn the closed loop. The 2018 NeurotechSF and Noisebridge work then routed changing
+electrical measurements into WebVR, making the returned consequence spatial and action-linked.
+
+That sequence motivates the [[neo-mind-cycle-neurofeedback-bci|external-cortex bridge]]: a machine
+is not a cognitive extension merely because it displays neural data. It becomes a candidate
+temporary extension only if reciprocal, task-relevant transformation is learned and causally
+necessary for the coupled operation. Delay, scrambling, remapping, removal, sham feedback, and
+artifact-aware controls provide ways to test that stronger claim.
+
+This is a transition in the SAN research program, not proof that the historical systems decoded
+thoughts, reconstructed a complete percept, or incorporated software into biological cortex. The
+[[bci-instrument-atlas|BCI Instrument Atlas]] tracks the later move toward multimodal measurement,
+world-body co-registration, and controlled intervention.
+
 ## Evidence boundary
 
 The recordings establish public intellectual history. Automated transcripts help discovery but
@@ -54,6 +72,9 @@ evidence.
 
 ## Read next
 
+- [[neo-mind-cycle|Neo Mind Cycle]]
+- [[neo-mind-cycle-neurofeedback-bci|Neo Mind Cycle to External Cortex]]
+- [[bci-instrument-atlas|BCI Instrument Atlas]]
 - [[neural-lace-podcast-source-genealogy|Episode-by-episode source genealogy]]
 - [[neural-lace-podcast-archive|Archive and public recording routes]]
 - [[neural-lace-podcast-transcripts-2017-2019|Transcript source layers]]

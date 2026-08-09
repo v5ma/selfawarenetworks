@@ -44,4 +44,3 @@ speculative physics branches are established.
 - [[cascaded-array-perspective-transformation|Cascaded Array Perspective Transformation]]
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]]
 - [[san-archive-ordering-and-research-intake-map|SAN Archive Ordering and Research Intake Map]]
-

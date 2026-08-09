@@ -94,6 +94,7 @@ Without those elements, the observation establishes biological richness, not sem
 
 ## Read next
 
+- [[tonic-oscillation|Tonic Oscillation]]
 - [[observer-mechanism|Observer Mechanism]]
 - [[screen-metaphor-no-inner-viewer|Distributed Observer and the Screen Metaphor]]
 - [[phase-language-firewall|Phase Language Firewall]]

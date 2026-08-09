@@ -203,4 +203,3 @@ training program rather than demonstrated treatment efficacy.
 - [[bci-instrument-atlas|BCI Instrument Atlas]]
 - [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle Genealogy]]
 - [[neural-path-selection-interneurons-choice|Neural Path Selection and Choice]]
-

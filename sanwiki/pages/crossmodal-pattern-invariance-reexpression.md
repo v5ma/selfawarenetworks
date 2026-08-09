@@ -75,4 +75,3 @@ recurrent models while unimodal discrimination remains intact.
 - [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]]
 - [[cerebellar-embodied-prediction-conscious-participation|Cerebellar Embodied Prediction]]
 - [[early-a0100-a0134-obscure-argument-map|Early a0100-a0134 Obscure Argument Map]]
-

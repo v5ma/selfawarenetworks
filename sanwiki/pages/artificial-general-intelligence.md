@@ -64,4 +64,3 @@ Micah Blumberg's public and recorded SAN work repeatedly connects the explanatio
 - [[sentient-self-aware-neural-network]]
 - [[san-implementation-evidence-gates]]
 - [[entification]]
-

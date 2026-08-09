@@ -62,4 +62,3 @@ Compared with mainstream [neuroscience](neuroscience.md), SAN's treatment of syn
 ---
 
 *Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D has added resolved links. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
-

@@ -39,6 +39,8 @@ Neo Mind Cycle is a historical and engineering precursor to SAN because it made 
 
 ## Read next
 
+- [[neo-mind-cycle|Neo Mind Cycle]]
+- [[neo-mind-cycle-neurofeedback-bci|Neo Mind Cycle to External Cortex]]
 - [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle, Neurofeedback Salon, and the BCI Bridge]]
 - [[neomindcycle-cognitive-audio-control|Neo Mind Cycle Cognitive Audio Control]]
 - [[brain-interface-bci-map|Brain Interface BCI Map]]

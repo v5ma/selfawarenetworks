@@ -1,68 +1,237 @@
-# Self Aware Networks Theory
-
-![Self Aware Networks Theory](../assets/generated/san/self-aware-networks-theory/self-aware-networks-theory-20260702-v1.png)
-
-This plate frames SAN Theory as a biological mechanism stack: cortical columns anchor NAPOT, BTO, neural array projection, conscious rendering, and the organic/artificial scope of identity as a network pattern.
-
-**[[gh-a0001z|Self Aware Networks]] Theory** (also rendered "[[gh-a0001z|Self Aware Networks]] Theory of Mind") is the long-form name for the [[self-aware-networks|SAN]] framework — [[micah-blumberg|Micah Blumberg]]'s "academic, science-based theory of mind and [[consciousness]]" that "models human phenomenology and provides a framework that also applies to [[artificial-intelligence|artificial intelligence]]." It is the parent label for the constellation of constructs the SAN apparatus contains: [[napot-overview|NAPOT]] ([[neural-array-projection|Neural Array Projection]] Oscillation Tomography), [[backpropagation|Backpropagation Through Oscillation]] (BTO), the [[neural-array-projection|Neural Array Projection]] account of [[cortical-columns|cortical columns]], the [[consciousness|consciousness]]-as-rendering reading, and the cross-domain bridges to [[criterial-causation|Criterial Causation]] and [[information-theory|OIT (Organized Information Theory)]] / [[qgtcd|QGTCD]].
-
-## Origin
-
-The earliest in-repo framing comes from `00welcome--md`, line 7, [[gh-04san|on github]] (under `00welcome.md`): "This is the github page for the [[gh-a0206z|Self]] Aware Networks Theory of Mind, the plan is for [[gh-a0206z|Self]] Aware Networks to become an Institute of Scientific Research for Organic & Artifici…" — locking in two SAN-original commitments at the outset: (1) the framework is *biological-and-artificial* in scope, and (2) it is intended to scale into an institutional research program (which it does, under the [[self-aware-networks-institute|Self Aware Networks Institute]] umbrella). The companion framing in `01san--md`, line 1, [[gh-01san|on github]] situates the theory in the philosophy-of-mind landscape: "[[gh-a0206z|Self]] Aware Networks Theory of Mind could be considered a branch of OIT Organized…" — i.e., a branch of [[information-theory|Organized Information Theory]], the broader information-theoretic family in which SAN sits as the brain-mechanism-specific instance.
-
-The chronology marker that pins the publication date comes from `core-set--Self_Aware_Networks_OCA_First_Draft` (paper-[[gh-resnote04|micah]], year 2026 inferred file date): "I published the [[gh-a0001z|Self Aware Networks]] Theory of Mind in the summer of 2022" (`core-set--Self_Aware_Networks_OCA_First_Draft`, paper-[[gh-resnote04|micah]]). The same line appears verbatim in `dl-oct6-2025--Self_Aware_Networks` (paper-[[gh-resnote04|micah]]). Summer 2022 is therefore the publication-date anchor for SAN Theory of Mind as a named theory; earlier transcript-level material appears in adjacent slugs. The packet's `chronology_markers` block reports `earliest_year: 2023` for *file-level* SAN-Theory references in the github clone (`pre_sit_evidence_count: 0` for this packet) — meaning the theory's name is first attested in the github material in 2023, but [[gh-resnote04|Micah]]'s own writing dates the original publication a year earlier.
-
-## Position
-
-Within the SAN ecosystem, "[[gh-a0001z|Self Aware Networks]] Theory of Mind" is the *full long-form name* under which the rest of the framework is organized. It carries three load-bearing functions across the manuscript. First, as the **parent label** for testable hypotheses. `04san--md`, line 67, [[gh-04san|on github]] makes this explicit: "this paper provides empirical support for key aspects of the (SAN) [[gh-a0206z|Self]] Aware Networks Theory of Mind, specifically the (BTO) [[backpropagation|Backpropagation]] Through Oscillation hypothesis" — the BTO hypothesis is named as a *consequence* of SAN Theory, not a separate theory. Second, as the **alignment label** with mainstream neuroscience. `05san--md`, line 2, [[gh-05san|on github]] frames a worked alignment: "Let's discuss a new paper and how the [[gh-a0206z|Self]] Aware Networks Theory of Mind aligns with cutting-edge neuroscience research on brain dynamics. By [[selfawarenetworks-gpt|Self Aware Networks GPT]], [[gh-a0403z|Introduction]] by Claude AI." This is SAN Theory used as the *frame* against which mainstream papers are read — the theory is positioned as a synthesis target, not as an isolated speculation.
-
-Third, the theory functions as the **GPT-validated** apparatus the rest of the manuscript references. `00changelog--md`, line 180 records: "[[gh-a0206z|Self]] Aware Networks Theory of Mind is validated by ChatGPT. In addition to that it (my work) is validated by new…" — and the headline `00welcome--md` reference (the manuscript opener) ties the theory to the [[selfawarenetworks-gpt|Self Aware Networks GPT]] custom-GPT that hosts the chat record. The Lane G evidence reinforces this [[gh-a0206z|self]]-positioning: `core-set--Micahs_New_Law_of_Thermodynamics_Draft_6` (paper-[[gh-resnote04|micah]], 2026 file date) writes "the [[gh-a0001z|Self Aware Networks]] Theory of Mind proposes that what appears as…" — placing SAN Theory as a *propositional source* in subsequent SDT/SIT/QGTCD writings, and `core-set--Neuroscience_in_Review__Brain_Rhythms_in_Cognition` (paper-[[gh-resnote04|micah]], 2026) frames it as the brain-rhythms-centric synthesis: "Blumberg's [[gh-a0001z|Self Aware Networks]] theory and related works, we find sub-…day's rhythm-centric neuroscience." The theory is the load-bearing *named container* that ties NAPOT, BTO, [[neural-array-projection|Neural Array Projection]], [[criterial-causation|Criterial Causation]] integration, [[concepts|concepts]], and [[consciousness|consciousness]]-as-rendering together.
-
-## Chronology
-
-The publication date for SAN Theory of Mind is summer 2022 per [[gh-resnote04|Micah]]'s own retrospective in `core-set--Self_Aware_Networks_OCA_First_Draft` (paper-[[gh-resnote04|micah]], "I published the [[gh-a0001z|Self Aware Networks]] Theory of Mind in the summer of 2022"). The github-clone evidence anchors usage of the name in 2023 (`chronology_markers.earliest_year: 2023`, `pre_sit_evidence_count: 0` because the SIT cutoff is 2012/2013), with the changelog and welcome-file references reaffirming usage at lines 122, 180, 268, and 286 of `00changelog--md`. Summer 2022 places SAN Theory of Mind *before* much of the 2023+ mainstream wave on oscillation-based theories of cortical computation and cellular predictive coding — though the *underlying ideas* in SAN (predictive coding extended to all cells, oscillation-as-computation, neural-array projection) have earlier transcript-level antecedents documented in adjacent slugs ([[self-is-a-prediction-dialogue-2011|the 2011 "Self is a Prediction" dialogue]] and the 2012 [[chicken-cloud-neomindcycle-2012|NeoMindCycle]] live talks). This packet does not include those pre-2013 sources directly (`transcript_count: 0`, `pre_sit_evidence_count: 0`), so the chronological-priority claim for SAN Theory of Mind *as a named theory* sits at summer 2022 here, with the underlying ideas' priority carried by the transcript-level slugs elsewhere in the wiki.
-
-## Post-SAN
-
-The SAN Theory of Mind sits adjacent to several mainstream and academic-philosophy frames. `01san--md`, line 1 explicitly positions it as "a branch of [[information-theory|OIT Organized]]…" [[information-theory|Information Theory]] — meaning SAN Theory does not claim to be standalone from the broader information-theoretic family but to be the *brain-mechanism-specific instance* of an OIT-style commitment. The `04san--md`, line 67 alignment to BTO ([[backpropagation|Backpropagation Through Oscillation]]) places SAN Theory adjacent to the deep-learning credit-assignment literature (mainstream backprop, equilibrium-propagation, NeuralODE-style continuous backprop). The `05san--md`, line 2 alignment to "cutting-edge neuroscience research on brain dynamics" places it adjacent to the predictive-processing / active-inference family (Friston-style), the [[earl-k-miller-corpus|Earl K. Miller]] working-memory-via-oscillations family, and the [[jeff-hawkins|Jeff Hawkins]] cortical-column / Thousand Brains family. The packet contains zero `paper-external` evidence (`external_paper_count: 0`), so specific external-paper comparisons are not cited here; what *is* cited is [[gh-resnote04|Micah]]'s own [[gh-a0206z|self]]-positioning of the theory against those external traditions, drawn from the manuscript and from the Lane G paper-[[gh-resnote04|micah]] evidence.
-
-The SAN-distinctive commitments that make the theory testable — distinct from notational reformulation — are: (1) the BTO hypothesis (oscillation as the substrate of credit assignment), (2) the [[neural-array-projection|Neural Array Projection]] account ([[cortical-columns|cortical columns]] as projection-and-perception units rather than feed-forward filters), (3) the [[napot-overview|NAPOT]] account of brain-wide tomography from local oscillations, and (4) the [[consciousness|consciousness]]-as-rendering reading. Each of these has a per-construct page where the testable predictions are spelled out; the SAN Theory page is the umbrella that names and gathers them.
-
-## Related concepts
-
-- [[self-aware-networks]] — the short-name version of the same framework; the canonical entry-point.
-- [[san]] — the acronym used internally for the same theory.
-- [[napot-overview|NAPOT]] — [[neural-array-projection|Neural Array Projection]] Oscillation Tomography, the centerpiece SAN-Theory mechanism.
-- [[neural-array-projection]] — the projection mechanism at the heart of NAPOT.
-- [[backpropagation]] — the BTO hypothesis tested under SAN Theory per `04san--md` line 67.
-- [[criterial-causation]] — adjacent theory SAN integrates with.
-- [[information-theory|OIT / Organized Information Theory]] — the broader information-theoretic family within which SAN Theory sits per `01san--md` line 1.
-- [[qgtcd]] — Quantum Gradient Time Crystal Dilation, the SAN-physics extension.
-- [[self-aware-networks-institute]] — the institutional umbrella the theory is published under.
-- [[self-aware-networks-book]] — the book version of the theory.
-- [[selfawarenetworks-gpt]] — the custom GPT that hosts the SAN-Theory chat record.
-- [[concepts]] — SAN Theory's account of concepts.
-- [[consciousness]] — SAN Theory's reading of [[consciousness]].
-- [[cortical-columns]] — the canonical anatomical unit on which SAN Theory builds.
-- [[jeff-hawkins]] — adjacent theorist (Thousand Brains).
-- [[earl-k-miller-corpus]] — adjacent corpus (working-memory via oscillations).
-- [[super-information-theory]] — sibling theory by [[gh-resnote04|Micah]] extending SAN.
-- [[super-dark-time]] — sibling SDT extension.
-
-## Source Provenance
-
-- Generated: 2026-04-24T17:41:38
-- Lane: C.draft (from packet)
-- Packet: `wiki/automation/packets/self-aware-networks-theory.json`
-- Evidence count: 174
-- Source ids: 00changelog--md, 00welcome--md, [[gh-01san|01san]]--md, [[gh-04san|04san]]--md, [[gh-05san|05san]]--md, [[gh-07san|07san]]--md, [[gh-09san|09san]]--md, 13san--md, [[gh-gpt2023x|GPT2023X]]--md, [[gh-gpt2024jan1tojan22|GPT2024Jan1toJan22]]--md, Hex_7--md, [[gh-laukkonen|Laukkonen]]--md, NAPOTConcepts--md, [[gh-qgtcdarreduct2|QGTCDArReduct2]]--md, [[gh-qgtcdarreduct3|QGTCDArReduct3]]--md, [[gh-qgtcdsuperreduction|QGTCDSuperReduction]]--md, QGTCD_Causal_Fermion_Systems--md, a0039z--md, a0127z--md, [[gh-a0308z|a0308z]]--md, a0319z--md, a0324z--md, a0325zNAPOT6--md, [[gh-a0644z|a0644z]]--md, [[gh-b0002y|b0002y]]--md, [[gh-b0038y|b0038y]]--md, b0041y--md, [[gh-b0050y|b0050y]]--md, chat_with_selfawarenetworksgpt--md, draft1--md, draft2--md, draft3--md, draft4--md, draft5--md, draft6--md, gpt_script_archive--md, [[gh-nlp1|nlp1]]--md, raynote13--md, raynote14--md, raynote22--md, resnote06--md, rexnote03--md, [[gh-rexnote04|rexnote04]]--md, [[gh-rexnote05|rexnote05]]--md, [[gh-rexnote07|rexnote07]]--md, [[gh-rexnote08|rexnote08]]--md, [[gh-rexnote09|rexnote09]]--md, rexnote10--md, rexnote12--md, [[gh-rexnote13|rexnote13]]--md, [[gh-rexnote14|rexnote14]]--md, [[gh-rexnote15|rexnote15]]--md, [[gh-veca|vecA]]--md, vecB--md, [[gh-vecc|vecC]]--md, [[gh-vecd|vecD]]--md, whitepaperdraft3--md
-  - `00changelog--md` line 122 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `00changelog--md` line 180 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `00changelog--md` line 180 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `00changelog--md` line 268 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `00changelog--md` line 286 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `00welcome--md` line 7 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00welcome.md
-
+---
+title: "Self-Aware Networks Theory: Architecture and Claim Status"
+tags: [san, theory-architecture, claim-status, source-genealogy, observer-action, napot, artificial-neurology]
+aliases: [Self Aware Networks Theory, Self Aware Networks Theory of Mind, SAN Theory of Mind]
+summary: "A source-faithful map of the SAN theory architecture, its biological components, its open hypotheses, its strongest observer claim, its later branches, and the tests needed to distinguish them."
+status: governed
 ---
 
-*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add wikilinks. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
+# Self-Aware Networks Theory: Architecture and Claim Status
+
+> **Image status:** The previous concept plate failed medical and scientific review and is preserved
+> in the do-not-use medical-review archive. No replacement image is accepted. A source-bounded
+> replacement prompt exists, and image generation remains paused.
+
+**Self-Aware Networks Theory of Mind** is the historical long-form name for the SAN research
+program. SAN asks how a living or engineered network could transform distributed sensory, bodily,
+remembered, and recurrent differences into a changing self-world model, use that model to select
+action, and be altered by the consequences of its own action.
+
+This page is the **architecture and claim-status map**. The canonical
+[[self-aware-networks|Self-Aware Networks]] page gives the program overview and mechanism spine.
+[[self-aware-network|Self-Aware Network]] gives operational criteria for evaluating one candidate
+system.
+
+## The joined architecture
+
+The central SAN sequence is:
+
+```text
+external, bodily, remembered, and recurrent differences
+-> learned receive-transform-project operations
+-> distributed self-world and possible-action state
+-> selection and embodied output
+-> changed body and environment
+-> returned consequences
+-> updated state, routing, expectation, and memory
+```
+
+No one step is the observer. SAN's stronger proposal is that the organized, recurrent process that
+receives, differentiates, retains, re-expresses, and acts on these changes performs the
+observer-action function. It does not send a finished picture to a separate inner viewer.
+
+## Architecture by operation
+
+| Operation | Biological basis | SAN's added organization | Current claim status |
+|---|---|---|---|
+| Receive | Receptors, synapses, dendrites, somata, and local circuit state shape responses to input. | A receiver is interpreted relative to its learned structure and current tonic context. | Component physiology is established; the joined SAN interpretation is a synthesis. |
+| Transform | Dendritic nonlinearities, excitation, inhibition, membrane conductances, neuromodulation, and recurrent input change cellular and population output. | A transmitted update is not treated as an unchanged copy of its source. | Established components; receiver-relative PWD formalization is an open hypothesis. |
+| Project | Axons and boutons distribute output to anatomically constrained targets. | Repeated source-path-receiver transformations can contribute partial updates at several scales. | Anatomy is established; [[neural-array-projection|Neural Array Projection]] is SAN's organizing proposal. |
+| Integrate and re-express | Recurrent circuits, population dynamics, pattern completion, plasticity, and action-feedback loops alter future state. | [[napot-overview|NAPOT]] proposes that many partial transformations help maintain and re-express a coherent working model. | Component operations are supported; tomography and rendering claims remain to be discriminated experimentally. |
+| Coordinate | Oscillations can organize excitability, relative timing, routing, and transient population coupling. | Ongoing tonic relations provide context while phasic differences can carry receiver-relative updates. Coherence and structured dispersion can both be consequential. | Oscillatory coordination is established in bounded circuits; fixed-band, global-lock, and phenomenal interpretations are not. |
+| Select and act | Cortical, thalamic, striatal, cerebellar, brainstem, spinal, autonomic, and peripheral systems participate in context-dependent action. | Distributed candidate states accumulate effective drive, suppress alternatives, cross action thresholds, and return consequences to the network. | Named biological mechanisms are established; SAN's complete observer-action operator remains a systems hypothesis. |
+| Retain | Synaptic, intrinsic, structural, and circuit plasticity can change later response and pattern completion. | Repeated tonic-phasic relations may influence route readiness, memory completion, and later re-expression. | Plasticity is established; the full PWD-to-tuning-to-rendering chain is open. |
+| Observe | Neural activity represents, predicts, controls, and reports aspects of body and world. | The entified field-cell process is proposed to be the observer, not merely a substrate watched by something else. | This is SAN's strongest mechanistic and philosophical hypothesis; phenomenal identity remains unresolved. |
+| Engineer | Artificial systems can implement bounded receive-transform-project, recurrence, self-model, and action-feedback tests. | [[artificial-neurology|Artificial Neurology]] asks which SAN operations can be built, measured, and compared with biology. | An engineering program, not evidence that a synthetic system is conscious. |
+
+## Scales must remain explicit
+
+SAN uses related operations across scales without treating them as one universal anatomical circuit.
+
+| Scale | Appropriate unit | What must not be implied |
+|---|---|---|
+| Micro | A receptor, dendritic branch, neuron, synapse, or bouton in a named preparation | One generic neuron receives every feature or performs tomography alone. |
+| Meso | A local circuit, cell assembly, cortical layer, nucleus, column-like ensemble, or source-target population | Every cortical area implements one canonical laminar algorithm. |
+| Macro | Distributed cortical, thalamic, hippocampal, striatal, cerebellar, brainstem, autonomic, and body loops | Every region is directly connected or globally phase-locked. |
+| Organism-world | The changing relation among brain, body, action, environment, and returned sensory consequences | Perception is a detached brain movie or exact internal replica of the world. |
+
+The useful invariant is the **receive -> transform -> project -> consequence** relation. Its anatomy,
+timescale, signal type, and causal role must be specified in each experiment.
+
+## The tonic-phasic distinction
+
+In SAN, `tonic` and `phasic` are operational roles, not permanent frequency bands. A tonic state is
+the relatively ongoing receiver and population context over a declared measurement window. A
+[[phase-wave-differential|phase-wave differential]] is a bounded departure from the expected state
+of a specified receiver, potentially described by timing, relative phase, rate, waveform,
+amplitude, duration, transmitted quantity, location, and network context.
+
+The positive hypothesis is that a field-cell population can register sparse local differences
+because those events change the same living electrical, chemical, mechanical, metabolic, and
+thermal tissue state that generates and responds to them. Recurrent activity can allow a difference
+to persist, recruit memory, influence plasticity, alter routing, or contribute to action while the
+background state absorbs or reorganizes it. This is not merely a canvas metaphor, but neither is it
+established as the physical identity of phenomenal content.
+
+## Core, branches, and neighboring programs
+
+The named 2022 SAN core joins distributed reception, learned transformation, projection,
+oscillatory coordination, memory completion, neural rendering, action, and a distributed observer.
+Later work adds more specific formalisms and branches:
+
+- **PWD and PWD calculus** develop receiver-relative multidimensional update variables.
+- **Backpropagation Through Oscillation (BTO)** and related tuning proposals ask whether recurrent
+  oscillatory differences can participate in credit assignment and route modification.
+- **Field-cell and entification hypotheses** ask how a distributed process becomes one causally
+  organized perspective.
+- **Artificial Neurology** turns selected operations into engineering and measurement programs.
+- **Organized Information Theory** appears in early SAN writing as an authorial umbrella or framing.
+  That placement is part of SAN's source history, not independent validation.
+- **SIT and QGTCD** are sibling physics programs. They may motivate later cross-scale questions but
+  are not required to explain the biological SAN architecture on this page.
+
+These later labels must not be projected backward into sources that contain only their ancestors.
+
+## What established neuroscience supports
+
+Primary literature supports several component operations:
+
+- recurrent processing can contribute to recognizing heavily occluded objects
+  ([Tang et al., 2018](https://pubmed.ncbi.nlm.nih.gov/30104363/));
+- interacting populations can communicate through selective dimensions rather than every dominant
+  source pattern ([Semedo et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30770252/));
+- causal interareal influence can recruit changing target populations in a context-dependent manner
+  ([Javadzadeh and Hofer, 2022](https://pubmed.ncbi.nlm.nih.gov/35690063/));
+- a defined thalamic corollary-discharge pathway can connect impending action to changed visual
+  processing ([Sommer and Wurtz, 2006](https://pubmed.ncbi.nlm.nih.gov/17093408/)); and
+- weak endogenous electric fields can modulate active cortical networks in a bounded slice
+  preparation ([Frohlich and McCormick, 2010](https://pubmed.ncbi.nlm.nih.gov/20624597/)).
+
+These results support recurrence, selective communication, action-related sensory updating, and
+bounded field-cell interaction. They do **not** independently establish NAPOT tomography, PWD as a
+complete neural code, BTO, field-as-content, a unified SAN observer, or phenomenal consciousness.
+
+## Claim ladder
+
+| Level | Claim | Status |
+|---|---|---|
+| 1. Component physiology | Cells and populations receive, transform, project, recur, act, and change through plasticity. | Established in many named preparations, with species, circuit, task, and measurement limits. |
+| 2. Integrative architecture | These operations jointly maintain an embodied, action-usable self-world state. | SAN synthesis with substantial component support; the complete joined mechanism remains unproven. |
+| 3. Specific SAN mechanisms | Receiver-relative PWD, tonic absorption, NAPOT, tuning, and field-cell variables add explanatory or predictive power. | Open and testable. |
+| 4. Observer identity | The causally entified recurrent process that generates, registers, remembers, and acts on differences is the observer. | Strong SAN hypothesis. |
+| 5. Phenomenal identity | The intrinsic condition of that process is subjective experience. | Unresolved; behavior, decoding, or self-report alone is insufficient. |
+
+No lower level proves the level above it. AI-assisted summaries, source organization, or favorable
+model commentary are editorial and research aids, not independent scientific validation.
+
+## A bounded formal model
+
+Let `x_t` be measured distributed state, `u_t` external and internal input, `b_t` body state, `r_t`
+recurrent input, and `W_t` learned biological constraints:
+
+```text
+x_(t+1) = F(x_t, u_t, b_t, r_t; W_t)                           [1]
+```
+
+Let `m_t` be a fitted or causally tested self-world and possible-action relation, and `a_t` the
+resulting action:
+
+```text
+m_t = H(x_t, b_t, W_t)                                         [2]
+a_t = Pi(m_t, g_t);  u_(t+1) = E(a_t, body_t, world_t)          [3]
+```
+
+`F`, `H`, `Pi`, and `E` are not assumed brain modules. A SAN model must identify the biological
+variables that instantiate them and test whether PWD, tonic-context, field-cell, or NAPOT variables
+improve prediction and causal intervention beyond ordinary stimulus, rate, power, movement,
+arousal, recurrent-state, and communication-subspace models.
+
+## Discriminating tests
+
+1. **Receiver-relative update:** Does a declared PWD vector predict a target's next state better
+   than firing rate, spectral power, and waveform history alone?
+2. **Multiscale transformation:** Do measured source-path-receiver transformations outperform an
+   unchanged-copy model without requiring one universal cortical circuit?
+3. **Embodied recurrence:** Do body state, corollary discharge, and action consequences add
+   predictive and causal power beyond a passive recurrent model?
+4. **Tonic absorption and re-expression:** Can perturbation distinguish simple decay from active
+   recurrent absorption, later pattern completion, and plasticity-dependent re-expression?
+5. **Observer claim:** Which results discriminate representation and control from the stronger
+   claim that the same organized process constitutes a perspective?
+6. **Artificial implementation:** Can an engineered system reproduce the bounded causal capacities
+   without assuming that functional similarity proves phenomenal experience?
+
+Failure of the SAN-specific variables to improve held-out prediction or intervention after strong
+controls would count against those mechanisms even if the component physiology remained true.
+
+## Source-faithful chronology
+
+- **August-September 2011, owner-dated ancestry:** [[gh-a0051z|a0051z]] describes a learning and
+  prediction loop that learns aspects of itself; [[gh-a0194z|a0194z]] joins brain, body, labels, and
+  causal perspective. Their internal dates and later public Git fixation are separate evidence.
+- **August-September 2012, feedback and cellular-structure ancestry:** [[gh-a0339z|a0339z]] develops
+  an incoming-sense, thought-pattern, outgoing-action loop.
+  [[neuron-shape-information-storage|Neurons Are Programs Transmitting Their Shape]] adds learned
+  cellular structure and transformed output.
+  These are ancestors of later vocabulary, not retroactive instances of named PWD or NAPOT.
+- **2013-2014, situated-process development:** [[gh-a0404z|a0404z]] develops a brain-body-world
+  process across different placements and perspectives.
+- **April 2017, public Neural Lace stage:** [[gh-nlp1|Neural Lace Podcast Episode 1]] connects
+  distributed concepts, spatial and multimodal processing, feedback, transmission, and BCI goals.
+- **June-August 2022, named public SAN and Whitepaper stage:** [[gh-00welcome|00welcome]],
+  [[gh-01san|01san]], [[gh-a0001z|a0001z]], and the Whitepaper organize the named theory around
+  cellular reception, transformed projection, oscillatory coordination, memory, rendering, and
+  action.
+- **November 28, 2022, mature distributed-rendering stage:** [[gh-a0310z|a0310z]] and
+  [[gh-a0319z|a0319z]] join tonic context, differentiated content, no central canvas, recurrent
+  rendering, prediction, memory re-expression, and motor consequence.
+- **Later SAN development:** BTO, FOPC, field-cell, PWD-calculus, Artificial Neurology, and expanded
+  experimental programs clarify or extend the architecture. Their later names and formalisms are
+  not backdated into earlier sources.
+
+The full evidence grades, public URLs, platform dates, immutable commits, and source distinctions
+are maintained in [[san-claim-genealogy-2011-2022|SAN Claim Genealogy, 2011-2022]] and
+[[napot-revision-genealogy|NAPOT Revision Genealogy]]. Genealogy establishes what was said and when;
+it does not validate the biology.
+
+## Source custody
+
+Current local source hashes used for this review:
+
+- `00welcome.md`: `54EE46BE9DF8228BAA3DD4C65F6E01FAE796DD4BB8291A193FE2C9C7916664AF`
+- `01san.md`: `C2DD2C4F231CA4198A3099706221B3EA6A510E4E07E7D93171EABB451F5E9CC1`
+- `04san.md`: `114BA5BCB2942034FCAE934354F2CAA5B754A2CAB56E1003BC852E20780339D4`
+- `a0001z.md`: `1373109BF318C3B1A70CAAFFFA2E59E0308FB297F3F0F1C0B9030CAB21F5EB80`
+- `a0310z.md`: `D99CC6444619B7FCD69AC2A293FE6864BA7F0CB79C3EC5BC5F93092C05B0A477`
+- `a0319z.md`: `1FAE7DBFE3F776D809A3C1E25036C96BF4659E2CEE330A422F8FA2ACD6D8CEA4`
+- `whitepaperdraft2.md`: `93EADA5BD111B0F94A2AA3B1289F988E42A80E28F33BD7705168B34724C3D83C`
+- `whitepaperdraft3.md`: `8DFF765AF198D43A2B65CFDF28B2CDCB55D341BDFAD619BCC26F77849C9FF6D7`
+
+These hashes identify current local bytes. Internal source dates, public platform dates, Git fixation
+dates, and the date of this synthesis must remain distinct.
+
+The former automated draft remains preserved in the legacy reference collection. Its pipeline
+metadata and AI-validation language are historical drafting evidence, not reader-facing scientific
+claims.
+
+## Read next
+
+- [[self-aware-networks|Self-Aware Networks Program Overview]]
+- [[self-aware-network|Self-Aware Network Criteria]]
+- [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]]
+- [[neural-array-projection|Neural Array Projection]]
+- [[phase-wave-differential-calculus|Phase-Wave Differential Calculus]]
+- [[tonic-absorption-generative-reexpression|Tonic Absorption and Generative Re-expression]]
+- [[field-cell-self-bioelectric-information-entity|The Field-Cell Self]]
+- [[artificial-neurology|Artificial Neurology]]
+- [[machine-agency-consciousness-welfare-evidence-program|Machine Agency, Consciousness, and Welfare Evidence Program]]

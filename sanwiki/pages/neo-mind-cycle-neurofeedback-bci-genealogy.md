@@ -1,4 +1,4 @@
-# Neo Mind Cycle, Neurofeedback Salon, and the BCI Bridge
+# Neo Mind Cycle Source Genealogy: Neurofeedback Salon to BCI
 
 Neo Mind Cycle was a real San Francisco neurofeedback program and research practice, not a later
 metaphor invented to decorate Self Aware Networks. The recovered sources describe EEG use,
@@ -158,6 +158,9 @@ copied third-party protocol material; its broad clinical claims are not inherite
 
 ## Read next
 
+- [[neo-mind-cycle|Neo Mind Cycle]]
+- [[neo-mind-cycle-neurofeedback-bci|Neo Mind Cycle to External Cortex]]
+- [[bci-instrument-atlas|BCI Instrument Atlas]]
 - [[early-a0531-a0561-obscure-argument-map|Early a0531-a0561 Obscure Argument Map]]
 - [[neural-lace-podcast-source-genealogy|Neural Lace Podcast Source Genealogy]]
 - [[brain-interface-bci-map|Brain Interface BCI Map]]

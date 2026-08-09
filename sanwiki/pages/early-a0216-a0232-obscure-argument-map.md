@@ -125,4 +125,3 @@ model development; it is not scientific validation of a recurrent-consciousness 
 - [[bci-instrument-atlas|BCI Instrument Atlas]]
 - [[world-body-brain-semantic-coregistration|World-Body-Brain Co-Registration]]
 - [[neo-mind-cycle-neurofeedback-bci|Neo Mind Cycle and the BCI Bridge]]
-

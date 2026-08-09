@@ -156,4 +156,3 @@ simpler memory, behavior, connectivity, or social-identity models.
 - [[mechanistic-emergence-model-adequacy|Mechanistic Emergence and Model Adequacy]]
 - [[voluntary-shared-cognitive-environment-retained-personhood|Retained Personhood During Coupling]]
 - [[recorder-transcript-human-source-atom-map-t13|Recorder Transcript Source Map T13]]
-

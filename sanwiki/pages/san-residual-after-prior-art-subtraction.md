@@ -107,4 +107,3 @@ This bridge supplies the interpretive rule for Book 2's prior-foundation and con
 - [[phase-wave-differentials]]
 - [[artificial-neurology]]
 - [[san-manuscript-series-genealogy]]
-

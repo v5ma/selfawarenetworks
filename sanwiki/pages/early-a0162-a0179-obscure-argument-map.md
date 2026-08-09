@@ -64,4 +64,3 @@ this review.
 - [[neural-path-selection-interneurons-choice|Choice]]
 - [[mechanistic-emergence-model-adequacy|Mechanistic Emergence]]
 - [[receptive-inceptive-dendritic-projection|Receptive and Inceptive Projection]]
-

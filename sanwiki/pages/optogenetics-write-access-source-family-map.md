@@ -26,4 +26,3 @@ The source family establishes a long-running neural read/write research directio
 that arbitrary memories, concepts, or qualia can currently be written; that external electrical
 stimulation can target one neuron through intervening tissue; or that a replacement neuron recovers
 the private memory of a lost cell.
-

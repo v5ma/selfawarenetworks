@@ -124,4 +124,3 @@ require independent mathematical and physical review. They do not validate the n
 - [[neural-path-selection-interneurons-choice|Neural Path Selection and Choice]]
 - [[cascaded-array-perspective-transformation|Cascaded Array Perspective Transformation]]
 - [[continuous-dynamics-discrete-neural-information|Continuous Dynamics and Discrete Neural Information]]
-

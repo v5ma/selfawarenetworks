@@ -45,4 +45,3 @@ percept.
 - [[neural-lace-podcast-s2e1-jean-rintoul-2018|Season 2 Episode 1]]
 - [[fnirs-neural-lace-podcast-s2e4-2019|Season 2 Episode 4: fNIRS]]
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]]
-

@@ -75,4 +75,3 @@ Graceful degradation alone is insufficient because redundancy, attractor complet
 - [[tonic-oscillation]]
 - [[phase-wave-differentials]]
 - [[san-scale-ladder-and-claim-boundaries]]
-

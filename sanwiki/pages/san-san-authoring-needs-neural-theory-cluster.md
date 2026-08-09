@@ -53,4 +53,3 @@ This hub organizes candidate companion pages so the reader can move through the 
 ## Reader Note
 
 This map preserves candidate relationships as navigation evidence. Follow the linked SAN pages for the underlying concepts and sources; the map itself does not certify a scientific claim or publication decision.
-

@@ -2,6 +2,7 @@
 title: "Multimodal Neural-State Reconstruction and Perturbation"
 tags: [san, napot, bci, multimodal-imaging, source-localization, inverse-problem, perturbation]
 aliases: [Multimodal Neural-State Tomography, Multiple-Source Localization for NAPOT, NAPOT Measurement Stack]
+summary: "A source-faithful measurement and perturbation program for testing SAN and NAPOT without treating any instrument as a complete readout of neural state."
 status: governed
 ---
 
@@ -64,6 +65,25 @@ atlas whose equivalence claims always name the variables, tolerance, context, an
 See [[multimodal-biosensor-fusion]].
 
 ## Source genealogy
+
+The experimental target predates the 2022 multimodal-tomography formulation. On September 19,
+2012, *Neurons are Programs transmitting their shape theory* proposed that learned whole-neuron
+topology functions as a program and that an outgoing analog electrical packet carries a compressed
+representation of the cell's structure and temporal pattern. In that preserved discussion,
+`Cloudy Mayajuana` is Micah Blumberg's alternate account, not a separate theorist. This is an early
+morphology-to-output and compressed-re-expression ancestor. It is not an early use of PWD, NAPOT,
+or proof that a neuron transmits its complete geometry. See
+[[san-claim-genealogy-2011-2022|SAN Claim Genealogy, 2011-2022]].
+
+A May 5, 2017 public Neural Lace dialogue then used broccoli to ask how a learned object-related
+pattern might remain recognizable across changing views, how a related neural pattern might be
+identified, and how an artificially introduced pattern would interact with the receiver's current
+state. A March 25, 2021 recorded discussion reduced that ambition to a bounded question: could
+stimulation evoke a tap-like sensation at the wrist without an external tap? These are recognition,
+write-in, and state-reconciliation ancestors. They are not early uses of NAPOT, evidence for a
+complete thalamic object code, or demonstrations of object-level neural reconstruction. See
+[[broccoli-shared-recognition-artificial-perception|Broccoli, Shared Recognition, and Artificial
+Perception]].
 
 `a0115z.md` contains the strongest early joined formulation. Its June 8, 2022 Git state already
 proposes Neural Oscillatory Tomography for network reconstruction, TMS-EEG as artificial
@@ -135,9 +155,13 @@ subjects, states, and interventions.
   this does not establish whole-human-brain, noninvasive cellular reconstruction.
 - TMS-EEG can measure state-dependent and network-level responses to controlled perturbation,
   subject to sensory artifacts, source uncertainty, and recurrent-network alternatives.
-- Ultrasound-modulated optical tomography and off-axis holography have demonstrated imaging
-  feasibility through ex vivo human skulls. That result does not reconstruct synapses or conscious
-  content.
+- Ultrasound-modulated optical tomography with single-shot off-axis holography recovered a
+  one-dimensional profile of an absorbing object in vitro through a human-skull specimen. It did
+  not image neural activity or a living brain.
+- Intracortical microstimulation has evoked localized, graded tactile percepts in a person with a
+  spinal cord injury. That is a bounded sensory write-in result, not object-level reconstruction.
+- Visual-adaptation and phase-targeted TMS studies show that stimulation effects can depend on the
+  receiver's ongoing neural state. They do not supply a universal state decoder.
 
 ### SAN synthesis
 
@@ -146,6 +170,8 @@ subjects, states, and interventions.
 - Include the sensed world, eye and body movement, task, and action consequence in the model.
 - Use stimulation as system identification: perturb a declared component and predict the spatial,
   temporal, physiological, behavioral, and reported response.
+- Validate a local feature or sensation before attempting multimodal object reconstruction; a
+  decoder and a write model are different operations.
 - Compare the fitted state with the NAPOT receive-transform-project sequence and PWD variables
   without presuming that either is correct.
 
@@ -200,7 +226,8 @@ percept verification, and conscious-state assessment are progressively different
 
 ## Decisive program
 
-1. Choose one bounded target such as a visual transition, remembered cue, vocal act, or reach.
+1. Choose one bounded target such as a localized tactile percept, visual transition, remembered
+   cue, vocal act, or reach.
 2. Register anatomy, sensors, stimulus, eye and body movement, and behavior in one coordinate and
    time system.
 3. Fit modality-specific forward models and quantify latency, resolution, artifact, and
@@ -221,9 +248,14 @@ percept verification, and conscious-state assessment are progressively different
 - [Momi et al., 2022](https://doi.org/10.1113/JP282393): state-dependent TMS-EEG effects on
   distributed sensorimotor synchronization.
 - [Liu et al., 2020](https://doi.org/10.1364/OL.390920): ultrasound-modulated optical tomography
-  using off-axis holography through ex vivo human skulls.
+  using off-axis holography to recover an absorbing-object profile in vitro through a human-skull
+  specimen.
 - [Garcia-Rosales et al., 2022](https://doi.org/10.1038/s41467-022-31230-6): a bounded
   pre-vocal, action, and returned-feedback directionality target in bats.
+- [Flesher et al., 2016](https://doi.org/10.1126/scitranslmed.aaf8083): localized and graded tactile
+  percepts evoked through intracortical microstimulation in one human participant.
+- [Silvanto and Muggleton, 2008](https://doi.org/10.1016/j.neuroimage.2008.02.002): initial-state
+  dependence of TMS effects in functionally selective visual populations.
 
 ## Candidate paper boundary
 
@@ -248,5 +280,6 @@ number.
 - [[agency-valuation-action-feedback|Agency, Valuation, Action Selection, and Returned Consequence]]
 - [[infogenetics-content-addressed-neural-write-access|Infogenetics and Neural Write Access]]
 - [[adaptive-multimodal-bci-command-decoding|Adaptive Multimodal BCI Command Decoding]]
+- [[broccoli-shared-recognition-artificial-perception|Broccoli, Shared Recognition, and Artificial Perception]]
 - [[gh-a0115z|a0115z source note]]
 - [[gh-a0121z|a0121z source note]]

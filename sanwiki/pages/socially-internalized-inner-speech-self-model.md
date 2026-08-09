@@ -109,4 +109,3 @@ the SAN synthesis before it can enter the paper register.
 - [[artificial-neurology|Artificial Neurology]]
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]]
 - [[neural-path-selection-interneurons-choice|Neural Path Selection and Choice]]
-

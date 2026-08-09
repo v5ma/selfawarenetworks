@@ -43,4 +43,3 @@ reconstructed; the surviving public synthesis is the current evidence anchor.
 - [[conscious-state-perturbation-tomography|Conscious-State Perturbation Tomography]]
 - [[agency-valuation-action-feedback|Agency, Valuation, Action, and Feedback]]
 - [[gh-00abstractbump|00abstractbump]]
-

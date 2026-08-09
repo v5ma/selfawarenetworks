@@ -15,10 +15,13 @@ SAN proposes that ongoing tonic population activity supplies a shared differenti
 The medically and scientifically defensible formulation is receiver-relative:
 
 [
-R_{j,t}=F_j(T_{j,t},P_{iightarrow j,t},C_{iightarrow j},B_t,A_t),
+R_{j,t}=F_j(T_{j,t},P_{i
+ightarrow j,t},C_{i
+ightarrow j},B_t,A_t),
 ]
 
-where (T_{j,t}) is the receiving population's ongoing state, (P_{iightarrow j,t}) is a bounded transmitted update, (C) is the route, (B_t) is body state, and (A_t) is current or planned action. A named frequency band becomes mechanistically relevant only if its perturbation selectively changes the declared receiver relation and behavior.
+where (T_{j,t}) is the receiving population's ongoing state, (P_{i
+ightarrow j,t}) is a bounded transmitted update, (C) is the route, (B_t) is body state, and (A_t) is current or planned action. A named frequency band becomes mechanistically relevant only if its perturbation selectively changes the declared receiver relation and behavior.
 
 ## What would support the hypothesis
 

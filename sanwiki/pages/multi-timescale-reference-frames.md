@@ -44,5 +44,3 @@ A useful multi-timescale model should predict when a representation survives dis
 - [[phase-language-firewall|Phase Language Firewall]]
 - [[ndca-nonlinear-differential-continuous-approximation|NDCA]]
 - [[memory-prediction-as-intelligence|Memory and Prediction]]
-
-

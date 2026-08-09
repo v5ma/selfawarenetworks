@@ -37,6 +37,7 @@ action, and experience must remain separate outcomes.
 
 ## Read next
 
+- [[machine-self-report-active-canvas-consciousness-test|From Machine Self-Report to an Active-Canvas Test]]
 - [[phase-wave-differentials|Phase-Wave Differentials]]
 - [[tonic-phasic-canvas|Tonic and Phasic Roles]]
 - [[neural-rendering-of-qualia|Neural Rendering and Qualia]]

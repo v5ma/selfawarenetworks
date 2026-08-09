@@ -244,6 +244,7 @@ end in a distributed, revisable body-world/action state.
 
 ## Read next
 
+- [[volumetric-predictive-rendering|Volumetric Predictive Rendering]]
 - [[3d-neural-network-brain|The Brain as a Three-Dimensional Neural Network]]
 - [[inside-out-vision-model|Inside-Out Vision Model]]
 - [[visual-cortex|Visual Cortex]]

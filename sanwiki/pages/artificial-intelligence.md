@@ -79,4 +79,3 @@ Micah Blumberg's SAN sources connect biological computation, artificial neural n
 - [[sentient-self-aware-neural-network]]
 - [[artificial-cortex]]
 - [[phase-wave-differentials]]
-

@@ -161,4 +161,3 @@ Primary routes:
 - [[receptor-to-phase-sensory-quantification|Receptor-to-Phase Sensory Quantification]]
 - [[neural-rendering-of-qualia|Neural Rendering and Qualia]]
 - [[memory-prediction-rendering-sequence|Memory Prediction Rendering Sequence]]
-

@@ -159,6 +159,7 @@ are successors, not wording backdated into the 2021 event.
 
 ## Read next
 
+- [[machine-self-report-active-canvas-consciousness-test|From Machine Self-Report to an Active-Canvas Test]]
 - [[consciousness-claim-and-evidence-ladder|Consciousness Claim and Evidence Ladder]]
 - [[artificial-neurology|Artificial Neurology]]
 - [[artificial-neurology-states-stages-development|Artificial Neurology: States and Stages]]
@@ -168,4 +169,3 @@ are successors, not wording backdated into the 2021 event.
 - [[conscious-state-perturbation-tomography|Conscious-State Perturbation Tomography]]
 - [[pragmatic-agency-consequence-sensitive-meaning|Pragmatic Agency]]
 - [[recorder-transcript-human-source-atom-map-t09|Recorder Transcript Source Map T09]]
-

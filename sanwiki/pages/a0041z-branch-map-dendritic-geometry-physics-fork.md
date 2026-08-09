@@ -69,4 +69,3 @@ selects an adult dendritic spine's path.
 - [[plasticity-cluster-local-memory-update-substrate|Plasticity Cluster]]
 - [[neural-path-selection-interneurons-choice|Neural Path Selection and Choice]]
 - [[gh-a0041z|Reader mirror of a0041z]]
-

@@ -1,44 +1,359 @@
-# Brain Rhythms
-
-![Brain Rhythms temporal scaffold diagram](/v5ma.github.io/wiki/assets/generated/san/brain-rhythms/brain-rhythms-temporal-scaffold-20260628-v1.png)
-
-This image maps the page's core SAN reading: brain rhythms are a conserved timing scaffold, not a passive EEG byproduct. Frequency bands coordinate thalamocortical loops, synchronize cortical arrays, reset perceptual frames, and set plasticity windows for oscillatory tomography.
-
-**Brain Rhythms** are the periodic, frequency-banded oscillations of neural activity that, in [[self-aware-networks]], serve as the temporal scaffolding on which [[biological-oscillating-tomography]] and [[neural-array-projection-oscillation-tomography]] reconstruct conscious experience. They are not a passive epiphenomenon of [[cortex]]; they are the carrier on which [[oscillatory-tomography]] writes [[3d-semantic-segmentation]] of percepts, and the SAN sources insist that their evolutionary preservation across mammalian brain sizes signals a load-bearing computational role rather than a circumstantial one.
-
-The [[gh-04san|04san]] page locates brain rhythms inside the larger story of [[predictive-coding]] as active inference, noting that "Oscillatory synchronization: When brain rhythms align across different areas. This synchronization helps coordinate neural activity, potentially binding together different" streams of information ([[gh-04san|04san]]--md, line 609). [[gh-07san|07san]] reinforces this with a citation to Buzsáki and colleagues — "Scaling brain size, keeping timing: evolutionary preservation of brain rhythms. Neuron, 80(3), 751–764. (Shows that the relative structure of brain oscillation frequencies is" preserved ([[gh-07san|07san]]--md, line 45) — a finding the SAN corpus uses to argue that the [[gamma-oscillations]], [[theta-oscillation]], alpha, and slower bands form a phylogenetically conserved alphabet for [[neural-arrays]] coordination. This conserved structure is what lets [[hebbian-learning]] and [[long-term-potentiation]] hook reliably onto [[coincidence-detection]] events at the [[nmda-receptor]] regardless of brain volume.
-
-The thalamocortical scaffolding of brain rhythms is foregrounded in [[gh-08san|08san]] and [[gh-09san|09san]]. [[gh-08san|08san]] describes thalamic nuclei "as essential for maintaining consciousness, relaying sensory information, and generating various brain rhythms, including alpha and sleep spindles" ([[gh-08san|08san]]--md, line 62), while [[gh-09san|09san]] makes the loop explicit: "**Thalamocortical Loops:** These loops are essential for maintaining consciousness and generating brain rhythms. The SAN book description refers to 'synchronized oscillatory feedback loops' being fundamental" ([[gh-09san|09san]]--md, line 53). 13san then ties cortical micro-architecture into this picture by recalling Fries' work: "cortical neurons in relation to Fries' work indicates their importance in shaping and coordinating brain rhythms to facilitate efficient information processing and communication between brain regions" (13san--md, line 240). Together these sources position brain rhythms as the medium across which [[cortical-columns]], [[micro-columns]], [[apical-dendrites]], and [[dendritic-spines]] negotiate the timing of [[action-potential]] firing — modulated by [[gaba]]-driven [[inhibitory-circuits]], [[acetylcholine]], [[dopamine]], and [[camkii]] cascades — so that [[engrams]] form, persist, and are recalled in phase with the rhythm that wrote them.
-
-In the broader SAN frame, brain rhythms also bridge to instrumentation and theory beyond neurons proper. [[eeg]] is the dominant readout of these rhythms, and [[neurofeedback]], [[fmri]], [[neuralink]], and [[braingate]] all derive their interpretive grip from rhythm-locked features. The same rhythmic structure underwrites [[attention]], [[expectation]], [[intention]], and the [[attention-schema]] in the SAN account of [[consciousness]] and [[qualia]], while open theoretical questions extend toward [[microtubules]], [[quantum-entanglement]], and the [[hard-problem-of-consciousness]]. Phase resets — moments when "brain rhythms suddenly shift timing. Like resetting a metronome" — function as event markers that synchronize [[neural-circuits]], a mechanism the SAN sources cite repeatedly when explaining how percepts, decisions, and [[engrams]] become discrete despite a continuous oscillatory substrate. Read alongside [[bridging-molecular-mechanisms]] and the [[criterial-causation]] account of agency, brain rhythms are SAN's preferred explanation for *why* timing, not just connectivity, is what makes brain activity [[gh-a0206z|self]]-aware.
-
-## Related concepts
-
-- [[biological-oscillating-tomography]] — the whole-brain framework for which brain rhythms supply the carrier waves.
-- [[neural-array-projection-oscillation-tomography]] — the projection-tomography specialization that uses rhythm phase as its slice axis.
-- [[gamma-oscillations]] — the high-frequency band most associated in SAN with binding and 3D reconstruction.
-- [[theta-oscillation]] — the slower band coupled to memory addressing and episodic timing.
-- [[oscillatory-tomography]] — the umbrella principle that brain rhythms instantiate at the network scale.
-- [[predictive-coding]] — the active-inference framework [[gh-04san|04san]] couples directly to oscillatory synchronization of brain rhythms.
-- [[eeg]] — the principal non-invasive readout for studying brain rhythms in vivo.
-- [[hebbian-learning]] / [[long-term-potentiation]] — the plasticity rules whose timing is set by the rhythmic substrate.
-- [[cortical-columns]] — the structural units whose coordinated firing 13san ties to rhythm shaping.
-- [[hard-problem-of-consciousness]] — the explanatory target SAN claims brain rhythms partially address by binding qualia to phase structure.
-
-## Source Provenance
-
-- Generated: 2026-04-24T17:57:02
-- Lane: C.draft (from packet)
-- Packet: `wiki/automation/packets/brain-rhythms.json`
-- Evidence count: 59
-- Source ids: [[gh-04san|04san]]--md, [[gh-07san|07san]]--md, [[gh-08san|08san]]--md, [[gh-09san|09san]]--md, 13san--md, [[gh-gpt2023x|GPT2023X]]--md, [[gh-gpt2024jan1tojan22|GPT2024Jan1toJan22]]--md, Hex_7--md, NotebookML_6_Collection--md, SAOv9--md, a0069z--md, a0196z--md, [[gh-a0232z|a0232z]]--md, [[gh-a0233z|a0233z]]--md, [[gh-a0244z|a0244z]]--md, [[gh-a0294z|a0294z]]--md, b0047y--md, [[gh-b0277y|b0277y]]--md, [[gh-b0309ywhisper|b0309ywhisper]]--md, b0311ySci--md, b0318yLatest--md, b0319ySage--md, b0321yGPT--md, draft1--md, original_archive_b0311ygoogle--md, original_archived_b0309ytimecode--md, original_archived_b0321y--md, [[gh-veca|vecA]]--md, vecB--md, [[gh-vecc|vecC]]--md
-  - `04san--md` line 463 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/04san.md
-  - `04san--md` line 609 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/04san.md
-  - `07san--md` line 45 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/07san.md
-  - `07san--md` line 60 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/07san.md
-  - `07san--md` line 303 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/07san.md
-  - `07san--md` line 394 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/07san.md
-
+---
+title: "Brain Rhythms: Measurement, Coordination, and the SAN Hypotheses"
+tags: [san, brain-rhythms, oscillation, coherence, dispersion, plasticity, pwd, medical-review]
+aliases: [Brain Rhythms, Neural Rhythms]
+summary: "A scale-aware account of neural rhythms, their measurement, their established coordination and plasticity roles, and SAN's distinct tonic-phasic and coherence-dispersion hypotheses."
+status: governed
 ---
 
-*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
+# Brain Rhythms: Measurement, Coordination, and the SAN Hypotheses
+
+> **Image status:** The previous temporal-scaffold plate failed medical and scientific review and
+> is preserved in the do-not-use medical-review archive. No replacement image is accepted. A
+> source-bounded replacement prompt exists, and image generation remains paused.
+
+**Brain rhythms** are recurrent or approximately recurrent patterns in neural activity. Depending
+on how they are measured, they can describe membrane-potential changes in one cell, spike timing,
+local synaptic-current patterns, traveling activity across tissue, or electrical and magnetic
+signals generated by populations.
+
+Rhythms are not one substance and a frequency-band label is not a diagnosis of function. Before a
+rhythm is assigned a computational role, the signal, spatial scale, reference, duration, anatomical
+source, and behavioral condition must be named.
+
+## Three questions before assigning meaning
+
+1. **What was measured?** A membrane voltage, spike train, local field potential, EEG, MEG,
+   hemodynamic signal, or model variable is not interchangeable with the others.
+2. **At what scale?** A resonant neuron, a local circuit, a cortical area, and a scalp sensor can
+   show related timing without carrying identical information.
+3. **Over what time window?** A brief burst, a phase reset, a traveling wave, and a sustained
+   oscillation can occupy the same nominal frequency range while reflecting different events.
+
+## Measurement scale
+
+| Measurement | What it most directly reflects | Boundary |
+|---|---|---|
+| Intracellular membrane potential | Voltage across the membrane of one recorded cell or compartment | It does not report the state of an entire area. |
+| Extracellular unit activity | Action potentials from one or several nearby neurons | Spike timing is not the same signal as an LFP or EEG waveform. |
+| Local field potential and ECoG | Spatially weighted extracellular currents, dominated in many settings by transmembrane synaptic currents | Source geometry, distance, filtering, and reference choice affect the waveform. |
+| Scalp EEG | Broadly mixed extracellular current sources conducted through brain, skull, and scalp | Spatial localization is limited and high-frequency activity is strongly filtered. |
+| MEG | Magnetic fields generated by neural current flow, with source-orientation and geometry constraints | It is not a direct image of individual neurons or a complete electromagnetic field state. |
+| fMRI and fNIRS | Hemodynamic and metabolic consequences coupled to neural activity | They do not directly measure millisecond neural phase or conventional EEG bands. |
+
+The biophysics connecting synaptic currents, spikes, LFP, ECoG, EEG, and MEG is reviewed by
+[Buzsaki, Anastassiou, and Koch (2012)](https://pubmed.ncbi.nlm.nih.gov/22595786/). The distinctions
+matter for SAN because a valid cross-scale claim must show how a cellular event contributes to a
+population signal rather than treating the two as identical.
+
+## A spectral peak is not automatically a continuous oscillator
+
+Electrophysiological spectra contain both periodic peaks and aperiodic structure. Conventional
+band-power estimates can mix them. [Donoghue et al. (2020)](https://pubmed.ncbi.nlm.nih.gov/33230329/)
+showed why periodic and aperiodic components should be parameterized separately rather than
+interpreting every power change as a change in a named rhythm.
+
+Rhythmic activity can also be intermittent. In primate prefrontal cortex, beta and gamma activity
+during working memory often appeared as brief, variable bursts rather than continuous clocks
+([Lundqvist et al., 2016](https://pubmed.ncbi.nlm.nih.gov/26996084/)). Human MEG, animal laminar
+recordings, and biophysical modeling likewise support transient neocortical beta events in defined
+somatosensory and frontal preparations
+([Sherman et al., 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4995995/)).
+
+An analysis should therefore distinguish:
+
+- periodic peak from aperiodic background;
+- transient burst from sustained oscillation;
+- sinusoidal rhythm from a non-sinusoidal repeated waveform;
+- local event from propagated or traveling activity; and
+- induced activity from an average evoked response.
+
+## Frequency bands are ranges, not fixed cognitive channels
+
+Delta, theta, alpha, beta, and gamma are useful conventional labels. Their numerical boundaries
+vary across species, brain structures, laboratories, tasks, and analysis methods. A band can contain
+multiple generators and a generator can change frequency with state.
+
+Research supports conserved timing constraints and related rhythm families across mammalian
+brains, including adaptations in conduction and myelination
+([Buzsaki, Logothetis, and Singer, 2013](https://pmc.ncbi.nlm.nih.gov/articles/4009705/)). This does
+not establish one universal alphabet in which every alpha event means attention, every beta event
+means thought or motor output, and every gamma event means binding or consciousness.
+
+The medically defensible rule is:
+
+> **Band plus anatomy plus event type plus task plus direction of effect plus receiver consequence.**
+
+Band power alone cannot identify a thought, percept, memory, prediction, or phase-wave
+differential.
+
+## Oscillators, resonators, and networks
+
+Some neurons have intrinsic membrane conductances that support rhythmic firing; others respond
+preferentially to particular input frequencies. Rodolfo Llinas described these cellular oscillator
+and resonator properties in 1988
+([Llinas, 1988](https://pubmed.ncbi.nlm.nih.gov/3059497/)) and later emphasized that sensory input
+modulates rather than simply dictates activity in several cell classes
+([Llinas, 2014](https://pubmed.ncbi.nlm.nih.gov/25408634/)).
+
+At the network scale, recurrent excitation, inhibition, cellular resonance, conduction delays,
+neuromodulation, and common or reciprocal input can generate and reshape rhythmic activity.
+Thalamocortical systems contribute to several sleep and waking rhythms, but there is no single
+universal thalamocortical loop that generates every rhythm in every cortical area
+([Steriade, McCormick, and Sejnowski, 1993](https://pubmed.ncbi.nlm.nih.gov/8235588/)).
+
+## Coordination and separation
+
+Rhythms can organize when inputs arrive relative to a receiver's changing excitability.
+[Buzsaki and Draguhn (2004)](https://pubmed.ncbi.nlm.nih.gov/15218136/) summarized evidence that
+network oscillations can bias input selection, temporally link neurons into assemblies, and
+facilitate plasticity. [Fries (2015)](https://pubmed.ncbi.nlm.nih.gov/26447583/) proposed that
+synchronization can make presynaptic input arrive at a receiver in an effective temporal relation.
+
+The terms still require care:
+
+- **Near-synchronous firing** is the simplest case of cells firing together in time.
+- **Phase locking** means a relatively stable phase relation. It can include a nonzero phase lag;
+  events need not occur at exactly the same instant.
+- **Coherence** is a frequency-resolved statistical relation between signals. Common input,
+  reference choice, and volume conduction can contribute to it, so coherence alone does not prove
+  direct communication.
+- **Desynchronization** is reduced shared timing or correlation. It can accompany active sensory
+  processing and is not automatically noise or failure.
+- **Structured dispersion** preserves organized phase separation. A formal splay state is one
+  specific distributed phase configuration, not a synonym for every asynchronous state.
+- **Traveling waves** contain spatial phase gradients, so different locations can participate in
+  one organized event without zero-lag global synchrony.
+
+In behaving mice, active whisking reduced nearby membrane-potential correlations and
+desynchronized population signals while improving the signal-to-noise relation of sparse sensory
+responses ([Poulet and Petersen, 2008](https://pubmed.ncbi.nlm.nih.gov/18633351/)). This is an
+important empirical example of useful reduced synchrony.
+
+## Timing and plasticity
+
+Precise relative timing can influence lasting synaptic change, but there is no universal rule that
+every coherent pair undergoes LTP or every phase-separated pair undergoes LTD.
+
+- In cultured hippocampal neurons, the order and timing of pre- and postsynaptic firing affected
+  whether correlated activity produced LTP or LTD, with dependence on initial strength and cell
+  type ([Bi and Poo, 1998](https://pubmed.ncbi.nlm.nih.gov/9852584/)).
+- In layer II/III rat visual-cortex slices driven at 20 or 40 Hz, EPSPs paired near membrane-
+  oscillation peaks produced LTP, while pairing near troughs produced LTD under the stated
+  preparation ([Wespatat, Tennigkeit, and Singer, 2004](https://pubmed.ncbi.nlm.nih.gov/15483125/)).
+
+These results give SAN a legitimate experimental bridge from oscillatory phase to plasticity. They
+do not prove that a whole percept is written by one phase rule. Voltage, calcium, receptor state,
+neuromodulation, recent history, synapse type, inhibition, and circuit state also matter. See
+[[synaptic-plasticity|Synaptic Plasticity: Timing, Oscillation, and SAN's Coherence-Dispersion Hypothesis]].
+
+## Endogenous fields are physical, but the stronger SAN claim remains open
+
+Neural transmembrane currents generate extracellular electric fields. In a neocortical-slice slow-
+oscillation preparation, weak applied fields within the range of measured endogenous field
+strengths modulated and entrained network activity; activity-dependent field feedback changed the
+rhythmic structure ([Frohlich and McCormick, 2010](https://pubmed.ncbi.nlm.nih.gov/20624597/)).
+
+This supports a bounded proposition: endogenous fields are generated by tissue and can, under
+defined conditions, feed back on excitable tissue. It does not prove that one global field carries
+all neural content, that field strength directly equals consciousness, or that a field can be
+separated from the cells, membranes, ions, synapses, and geometry that generate and detect it.
+
+## The recovered SAN operator
+
+SAN's distinctive proposal is not simply that synchrony is useful. The source genealogy joins two
+directions of organization:
+
+```text
+ongoing receiver-relative tonic context
+-> phasic excitation, inhibition, or waveform departure
+-> phase-compatible summation, locking, or propagation
+   together with structured dispersion, inhibition, and boundary formation
+-> changed receiver, local-field, and population state
+-> recurrent redistribution and possible embodied consequence
+-> timing- and state-dependent plasticity
+-> updated context for the next event
+```
+
+In SAN's simplest pairwise language, **coherence** means that cells fire together and continue in a
+compatible timing relation until a change reorganizes them. **Structured dispersion** means that
+cells fire apart and preserve a separated timing relation until another event changes it. Modern
+measurement language makes this more precise without discarding the idea: compatible timing need
+not be zero-lag, and organized separation must be distinguished from random phase.
+
+The June 2022 source [[gh-a0142z|a0142z]] explicitly assigns binding, convergence, and coupling to
+coherence, while assigning distinction, deconvergence, and decoupling to decoherence. It also
+proposes that repeated timing and inhibitory relations can be stabilized through plasticity. The
+first part is a source-defined SAN synthesis; the complete mapping from population phase structure
+to LTP, LTD, inhibition, rendered content, and qualia remains a hypothesis.
+
+[[coherence-dispersion-sculpting-hypothesis|The Coherence-Dispersion Sculpting Hypothesis]] develops
+that proposal in detail.
+[[tonic-phasic-phase-wave-differential|Tonic Baseline, Phasic Update, and Phase-Wave Differential]]
+defines tonic and phasic as receiver- and window-relative roles, not fixed frequency bands.
+
+## From coordinated timing to action
+
+Motor and vocal action requires action potentials in relevant motor pathways, neuromuscular
+transmission, muscle-fiber excitation, and ATP-powered contraction. Appropriately timed excitatory
+inputs can summate at a receiver, while inhibition and neuromodulation change whether threshold is
+reached. Population coordination can therefore increase or redirect effective drive through a
+specific circuit.
+
+SAN calls this accumulated receiver-relevant consequence **electrical valence**. The medically
+bounded interpretation is net effective depolarizing or inhibitory influence at a declared receiver
+and pathway. It is not a claim that an EEG wave travels into a muscle or that spectral power itself
+is converted into mechanical energy.
+
+## Brain rhythms and the distributed observer
+
+SAN proposes that ongoing tonic population and field state supplies a differentiating context,
+while phasic departures alter that state and are detected, transformed, and redistributed by cells
+and circuits. Coherent relations can group activity; structured dispersion and inhibition can mark
+differences and boundaries. The distributed network, including its bodily and motor consequences,
+is the proposed observer-action process. No hidden viewer watches a neural display.
+
+Established neuroscience supports the component operations: oscillation, resonance, phase-
+sensitive communication, state-dependent synchronization and desynchronization, field generation,
+recurrence, inhibition, and timing-sensitive plasticity. The claim that their organized phase and
+field differences constitute rendered qualitative content is an open SAN hypothesis. See
+[[entification-observer-problem|Entification and the Distributed Observer]] and
+[[field-cell-self-bioelectric-information-entity|The Field-Cell Self]].
+
+## A bounded mathematical vocabulary
+
+An illustrative measured signal can be separated into an oscillatory component and a residual or
+aperiodic component:
+
+```text
+x(t) = a(t) cos(phi(t)) + u(t)                               [1]
+```
+
+This is a local analysis model, not a claim that every neural signal contains one sinusoid. For two
+signals, receiver-relative phase difference is:
+
+```text
+Delta_phi_ij(t) = wrap(phi_i(t) - phi_j(t))                  [2]
+```
+
+A common population order parameter is:
+
+```text
+R(t) = | (1/N) sum_n exp(i phi_n(t)) |                       [3]
+```
+
+`R` near one indicates strong phase concentration. `R` near zero can result from either random
+phase or an organized splay pattern, so `R` alone cannot identify SAN's proposed structured
+dispersion.
+
+For a declared receiver `r`, a candidate PWD starts from a difference between an observed event
+vector and an expected local reference:
+
+```text
+PWD_r(t) = X_observed,r(t) - X_reference,r(t)                [4]
+```
+
+`X` must state its components, such as phase, frequency, amplitude, duration, waveform, spatial
+position, excitation or inhibition, and receiver consequence. Plasticity then requires a separate
+state-dependent update rather than an automatic coherence rule:
+
+```text
+Delta_w_ij = F(Delta_t_ij, V_post, calcium, state, history)   [5]
+```
+
+## Discriminating experiments
+
+1. **Separate signals and scales.** Record intracellular voltage, spikes, LFP/ECoG, EEG or MEG,
+   and hemodynamics where feasible. Test the transformations among them rather than naming all of
+   them one rhythm.
+2. **Separate periodic, aperiodic, and transient activity.** Compare band power with spectral-
+   component and burst-event models on held-out trials.
+3. **Coherence versus common input.** Test directionality and perturb a named pathway while
+   controlling for volume conduction, reference choice, power, and firing rate.
+4. **Structured dispersion versus random desynchronization.** Match mean firing rate and global
+   order parameter while varying the spatial phase arrangement. Test whether organized separation
+   better predicts perceptual boundaries, route selection, or behavior.
+5. **Plasticity consequence.** Impose defined phase relations and measure later synaptic efficacy,
+   excitability, inhibition, assembly recruitment, and behavior. Do not infer LTP or LTD from
+   oscillatory state alone.
+6. **PWD increment.** Test whether a preregistered multidimensional, receiver-relative PWD predicts
+   later activity or behavior beyond firing rate, phase, spectral power, prediction error, and
+   ordinary connectivity baselines.
+7. **Field contribution.** Compare sham, matched extracellular-field perturbation, and synaptic or
+   cellular controls at measured field strengths. A causal field effect must remain anatomically
+   and biophysically bounded.
+8. **Observer boundary.** Keep discrimination, report, action, learning, wakefulness, and subjective
+   experience as separate outcomes. Success on one is not automatic proof of the others.
+
+## Claim ladder
+
+| Claim | Status |
+|---|---|
+| Some neurons can be intrinsic oscillators or resonators. | Established for named cell classes and conductances. |
+| Neural populations produce recurrent, transient, traveling, periodic, and aperiodic activity measurable at several scales. | Established broadly; interpretation remains method- and circuit-dependent. |
+| Relative timing and rhythmic state can affect communication, sensory processing, and plasticity. | Supported in bounded experimental preparations. |
+| Useful computation can involve both increased coordination and reduced or structured coordination. | Supported broadly; the relevant measure and circuit must be stated. |
+| Each conventional frequency band has one fixed cognitive function. | Not supported. |
+| Coherence and structured dispersion jointly organize grouping, distinction, routing, and later plasticity as one SAN operator. | Open, testable SAN synthesis. |
+| Tonic context and phasic PWD patterns constitute a distributed neural render. | Strong SAN hypothesis. |
+| The organized field-cell pattern is the observer or phenomenal content itself. | Stronger SAN identity hypothesis; unresolved. |
+
+## Source-faithful chronology
+
+- **July-August 2012, public Neo Mind Cycle stage:** the EEG feedback recordings describe
+  coordinated neural sequences and a two-way brain-to-light-and-sound loop. The August 23
+  [[chicken-cloud-neomindcycle-2012|Chicken Cloud dialogue]] states that neurons firing out of sync
+  will not link. This is a coherence-gating ancestor, not PWD or NAPOT terminology.
+- **June 8, 2022, public Git fixation:** [[gh-a0041z|a0041z]] compares phase alignment and
+  cancellation with possible neural reinforcement and plasticity. The comparison to Feynman's
+  path integral is an analogy, not evidence that neural learning is quantum path integration.
+- **June 8-11, 2022, explicit SAN synthesis:** [[gh-a0142z|a0142z]] distinguishes coherence for
+  coupling from decoherence for distinction and joins this to proposed LTP, LTD, inhibition, and
+  oscillator-configuration roles.
+- **July-August 2022, NAPOT and PWD development:** public Git and Whitepaper sources develop
+  oscillating neural arrays, distributed rendering, tonic context, and phase-wave differences. The
+  exact mature terms keep their own dates.
+- **September 18, 2022, public long-form explainer:** the fifth NAPOT revision joins tonic and
+  phasic relations, excitation and inhibition, phase differences, memory, rendering, and action in
+  one spoken architecture.
+- **November 28, 2022, mature source cluster:** [[gh-a0296zwhisker|a0296z Whisker]] uses active-whisking
+  desynchronization as an empirical bridge to rendered distinction; [[gh-a0310z|a0310z]] develops
+  tonic context, phasic departures, recurrent propagation, absorption, reconstruction, and action.
+- **2024-2025, later formalization:** `02san.md` and `13san.md` extend PWD, resynchronization,
+  coefficient-of-variation, and multiscale update language. They are later human-AI dialogue and
+  synthesis sources and do not backdate their mature equations into 2022.
+
+## Source custody
+
+- `Chicken Cloud.txt` SHA-256: `F6D63A24CE27F9EF5FC63DEBA1ED50F15D78086D1F50FE6DEC56E7D5AEAB2ABC`
+- `a0041z.md` SHA-256: `45F120F288BD7C3FFCE86830301CC35EB2B988F12AE44A62B1B22BE0A156E01C`
+- `a0142z.md` SHA-256: `601BA2C6812BB00EC460F98F2F45274FFEC789F100F67BB62CF4C0DFBC371A0C`
+- `a0296zWhisker.md` SHA-256: `A5C5DEF19182FE925CF50290885E8744BBBCEE5D9C1EAC053D75C6FDCB10C341`
+- `a0310z.md` SHA-256: `D99CC6444619B7FCD69AC2A293FE6864BA7F0CB79C3EC5BC5F93092C05B0A477`
+- `02san.md` SHA-256: `ADD0F593BC0BA289907749D2D290A59556410046D7203A2F94DFEB2CDC6D8706`
+- `13san.md` SHA-256: `D5F54BB81D9F6ABDADE7078D3C1A165D85FB8A1B3742E523A271861F7FD69A6F`
+
+Internal source dates, public Git fixation, current bytes, and later formalization remain separate.
+`genealogydata.txt` was used only as a cross-reference link pack; no claim was accepted from that
+file without opening the underlying source or governed genealogy record.
+
+## Read next
+
+- [[brainwave|Brainwave: Common Term, Measured Signal, and SAN Translation]]
+- [[brainwaves|Brainwaves in SAN Source History]]
+- [[brain-rhythms-in-cognition|Brain Rhythms in Cognition]]
+- [[neural-oscillations|Neural Oscillations]]
+- [[coherence-dispersion-sculpting-hypothesis|Coherence-Dispersion Sculpting Hypothesis]]
+- [[synaptic-plasticity|Synaptic Plasticity]]
+- [[tonic-phasic-phase-wave-differential|Tonic Baseline, Phasic Update, and PWD]]
+- [[phase-wave-differential|Phase-Wave Differential]]
+- [[traveling-waves-neural-oscillations|Traveling Waves in Neural Oscillations]]
+- [[cross-frequency-coupling|Cross-Frequency Coupling]]
+- [[brain-state|Brain State]]
+- [[thalamocortical-network|Thalamocortical Network]]
+- [[eeg|EEG]]
+- [[fnirs-brain-imaging|fNIRS Brain Imaging]]
+- [[rhythms-of-the-brain|Rhythms of the Brain]]
+- [[napot-overview|NAPOT Overview]]
+- [[entification-observer-problem|Entification and the Distributed Observer]]
+- [[san-claim-genealogy-2011-2022|SAN Claim Genealogy, 2011-2022]]

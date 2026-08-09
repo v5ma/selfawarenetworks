@@ -1,3 +1,11 @@
+---
+title: "Tonic Baseline, Phasic Update, and Phase-Wave Differential"
+tags: [san, tonic, phasic, phase-wave-differential, electrical-valence, motor-action]
+aliases: [Tonic and Phasic PWD, Tonic Baseline and Phasic Update]
+summary: "A source-faithful account of how ongoing receiver context and typed phasic changes can alter circuit recruitment, effective drive, and embodied action without becoming a global clock or universal phase code."
+status: governed
+---
+
 # Tonic Baseline, Phasic Update, and Phase-Wave Differential
 
 SAN begins from a simple fact: the brain is already active before any new event arrives. A useful
@@ -42,6 +50,12 @@ or receiver-specific effect.
 At the synaptic scale, the [[synaptic-unreliability-mvr-2021|ionotropic information-channel]] keeps
 waveform, calcium, release statistics, receptor state, and the receiver's response visible. MVR is
 a candidate PWD component under a declared measurement, not proof of PWD by itself.
+
+Some historical SAN notes additionally proposed that action-potential-associated fields could
+reinforce active routes through flavin chemistry, mitochondrial ATP production, and altered firing.
+That distinct idea is preserved and bounded in
+[[action-potential-mitochondrial-reinforcement-hypothesis]]. It is not required for the established
+summation, motor-neuron, neuromuscular-junction, or ATP-powered contraction chain used here.
 
 ## What `1/f` contributes
 
@@ -109,12 +123,18 @@ pattern supplies the control signal; it does not donate the mechanical energy. N
 transmission recruits calcium-dependent muscle activation, and ATP powers contraction. Vocal action
 also requires coordinated respiratory, laryngeal, and articulatory motor pools.
 
-Bat vocalization studies already measure many of these observable ingredients. Pre-vocal beta and
-high-gamma power changes, theta fronto-striatal coupling, and frontal gamma spike-LFP phase locking
-predicted whether echolocation or communication would occur. A companion study found predominantly
-frontal-to-auditory information flow before vocalization and returned auditory-to-frontal flow
-after echolocation. SAN joins those measurements as a candidate building-PWD/electrical-valence
-process whose causal role can be tested by selectively changing timing or phase alignment.
+[[electrical-valence-receiver-relative-drive|Electrical Valence: A SAN Hypothesis About Receiver-Relative Drive]] recovers the term from its 2022 source and keeps it distinct from affective
+valence, a measured electrical field, and the energy used for muscle contraction.
+
+Bat vocalization studies measure several relevant ingredients in the bat frontal auditory field
+(FAF), caudate, and auditory cortex. The 2020 study found call-related pre-vocal beta and high-gamma
+power changes, theta-band FAF-caudate coupling, and pre-vocal gamma spike-LFP locking; the locking
+differences between call conditions were small and variable. The 2022 study used directed
+phase-transfer entropy to estimate predominantly FAF-to-auditory-cortex directionality before
+vocalization and an auditory-to-FAF shift after echolocation. FAF should not be relabeled as
+prefrontal cortex, and the directionality result is a statistical estimate rather than direct axonal
+flow. SAN joins these measurements as a candidate building-PWD/electrical-valence process whose
+causal role can be tested by selectively changing timing, phase relation, or receiver state.
 
 ## From PWD to DPWDR
 
@@ -200,6 +220,10 @@ relative PWD formalism.
 
 ## Read next
 
+- [[tonic-oscillation|Tonic Oscillation]]
+- [[tonic-absorption-generative-reexpression|Tonic Absorption and Generative Re-expression]]
+- [[phase-wave-differentials|Phase-Wave Differentials]]
+- [[action-potential-mitochondrial-reinforcement-hypothesis|Action-Potential and Mitochondrial Reinforcement Hypothesis]]
 - [[early-a0531-a0561-obscure-argument-map|Early a0531-a0561 Obscure Argument Map]]
 - [[multimodal-neuron-signal-correlate-channel|The Multimodal Neuron: Signal, Correlate, or Channel?]]
 - [[expert-data-structures|Expert Data Structures]]

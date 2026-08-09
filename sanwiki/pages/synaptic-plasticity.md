@@ -164,6 +164,7 @@ No present evidence establishes that a universal coherence/LTP and splay/LTD rul
 
 ## Related SAN concepts
 
+- [[tonic-absorption-generative-reexpression]]
 - [[coincidence-as-a-bit]]
 - [[phase-wave-differentials]]
 - [[computational-phase-synchronization]]

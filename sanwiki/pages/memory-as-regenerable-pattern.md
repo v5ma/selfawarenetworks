@@ -1,3 +1,10 @@
+---
+title: "Memory as Regenerable Pattern"
+tags: [san, memory, engram, pattern-completion, memory-retrieval, distributed-memory, reinstatement, pwd]
+aliases: [Memory As Regenerable Pattern, Procedural Memory Reconstruction, Regenerated Memory Pattern]
+status: governed
+---
+
 # Memory as Regenerable Pattern
 
 Memory as Regenerable Pattern is SAN's source-faithful distinction between a persistent learned biological substrate and the temporary, context-sensitive distributed activity reconstructed during retrieval.
@@ -75,6 +82,7 @@ Model 2 should be rejected for this mechanism if those variables add no robust o
 
 ## Read next
 
+- [[tonic-absorption-generative-reexpression|Tonic Absorption and Generative Re-expression]]
 - [[engram]]
 - [[engrams|Holographic Engrams]]
 - [[expert-data-structures]]
@@ -83,4 +91,5 @@ Model 2 should be rejected for this mechanism if those variables add no robust o
 - [[distributed-memory]]
 - [[ltp-ltd]]
 - [[conscious-access]]
+- [[telescoping-network-neighborhood-reinstatement|Telescoping Network-Neighborhood Reinstatement]]
 - [[gh-a0345z|Primary SAN source record]]

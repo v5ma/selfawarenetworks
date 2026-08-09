@@ -1,3 +1,10 @@
+---
+title: "NAPOT Overview"
+tags: [san, napot, neural-rendering, reconstruction, oscillations, distributed-processing]
+aliases: [napot]
+status: governed
+---
+
 # NAPOT Overview
 
 **Neural Array Projection Oscillation Tomography (NAPOT)** is SAN's proposal that distributed neural systems repeatedly gather partial signals, transform them through learned and current biological state, redistribute the result, and update perception and action without a separate inner viewer.
@@ -16,17 +23,36 @@ The next cycle begins from the changed state. No single input, neuron, column, o
 
 ## Three scales that must remain separate
 
-| Scale | Candidate SAN motif | Scientific boundary |
-|---|---|---|
-| **Micro** | One neuron gathers many synaptic inputs, integrates them, and projects an axonal update. | This is a receive-integrate-project motif, not literal tomography by one neuron. |
-| **Meso** | A local circuit or cortical population combines neuron-level updates and redistributes a population state. | Local recurrent computation is established; a universal cortical-column algorithm is not. |
-| **Macro** | Distributed cortical, thalamic, association, memory, and motor systems combine partial state and update many systems. | Distributed recurrent processing is established; a complete NAPOT reconstruction mechanism remains hypothetical. |
+### Micro
+
+- **Candidate SAN motif:** One neuron gathers many synaptic inputs, integrates them, and projects an axonal update.
+- **Scientific boundary:** This is a receive-integrate-project motif, not literal tomography by one neuron.
+
+### Meso
+
+- **Candidate SAN motif:** A local circuit or cortical population combines neuron-level updates and redistributes a population state.
+- **Scientific boundary:** Local recurrent computation is established; a universal cortical-column algorithm is not.
+
+### Macro
+
+- **Candidate SAN motif:** Distributed cortical, thalamic, association, memory, and motor systems combine partial state and update many systems.
+- **Scientific boundary:** Distributed recurrent processing is established; a complete NAPOT reconstruction mechanism remains hypothetical.
 
 See [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]] for the full claim ladder.
+
+## Memory completion inside the cycle
+
+During recall, a local learned state need not contain or transmit a complete scene. A partial cue can change selected receivers; direct projections, recurrent excitation, interneuron-mediated inhibition, and present context can then recruit a larger distributed pattern. [[oscillating-group-completion|Oscillating-Group Completion and Re-expression]] describes the 2022 SAN route, while [[telescoping-network-neighborhood-reinstatement|Telescoping Network-Neighborhood Reinstatement]] separates its 2012 structural-transfer ancestor, 2022 local-to-network mechanism, and later geometric analogy.
+
+This is a candidate NAPOT memory operation, not an established universal retrieval circuit. Its phase- and PWD-specific terms earn explanatory status only if they predict or control reinstatement beyond cue identity, firing rate, learned connectivity, inhibition, and ordinary recurrent sequence models.
 
 ## Why call it tomography?
 
 In medical tomography, many partial measurements constrain a reconstruction that no single measurement contains. NAPOT uses that as a computational analogy: multiple time-varying neural projections may jointly constrain a working body-world model.
+
+The Encyclopedia calls that candidate distributed, action-ready working state the
+[[san-tomogram|SAN Tomogram]]. NAPOT names the proposed operation that repeatedly revises it; the
+Tomogram is not a second object located behind the operation.
 
 The analogy does **not** imply that the brain performs a CT scan, stores an optical hologram, reconstructs Euclidean 3D space in one location, or gives a complete image to an inner observer. See [[napot-tomography-not-holography|NAPOT: Tomography, Not Holography]].
 
@@ -67,6 +93,7 @@ None of these studies demonstrates NAPOT, PWD content, or the complete SAN accou
 ## Read next
 
 - [[neural-array-projection-oscillation-tomography|Neural Array Projection Oscillation Tomography]]
+- [[san-tomogram|SAN Tomogram: A Distributed, Action-Ready Reconstruction]]
 - [[neural-rendering|Neural Rendering]]
 - [[receptive-inceptive-dendritic-projection|Receptive and Inceptive Dendritic Projection]]
 - [[screen-metaphor-no-inner-viewer|Screen Metaphor, No Inner Viewer]]

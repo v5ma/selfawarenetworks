@@ -96,6 +96,7 @@ named receiver causally uses the distinction in the proposed observer-action loo
 
 ## Read next
 
+- [[machine-self-report-active-canvas-consciousness-test|From Machine Self-Report to an Active-Canvas Test]]
 - [[screen-metaphor-no-inner-viewer|Distributed Observer and the Screen Metaphor]]
 - [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]]
 - [[tonic-phasic-canvas|Tonic and Phasic Roles]]

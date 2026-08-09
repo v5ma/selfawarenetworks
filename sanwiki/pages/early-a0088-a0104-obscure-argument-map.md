@@ -94,4 +94,3 @@ Multi-speaker records remain attributed by speaker rather than rewritten as a si
 - [[multimodal-neuron-signal-correlate-channel|The Multimodal Neuron]]
 - [[microtubule-to-circuit-scale-translation|Microtubule-to-Circuit Scale Translation]]
 - [[coincidence-to-structure-activity-directed-spinogenesis|Coincidence Becomes Geometry]]
-

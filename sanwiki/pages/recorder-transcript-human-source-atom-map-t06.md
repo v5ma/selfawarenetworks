@@ -279,4 +279,3 @@ See [[extended-brain-thought-density-hypertime]] and
 
 The governed review is recorded at
 `wiki/san/knowledge-graph/reviews/recorder-human-source-atom-review-tranche-06-20260725.md`.
-

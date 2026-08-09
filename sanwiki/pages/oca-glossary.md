@@ -26,4 +26,3 @@ Some entries below name established neuroscience topics; others name SAN's inter
 - Start with [[self-aware-networks]], [[napot-overview]], and [[phase-wave-differentials]].
 - Continue to [[neural-rendering]], [[coincidence-detection]], and [[observer-mechanism]].
 - For action and agency, continue to [[criterial-causation]] and [[artificial-neurology]].
-

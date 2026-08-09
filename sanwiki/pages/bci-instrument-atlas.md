@@ -1,5 +1,9 @@
 # BCI Instrument Atlas: From Neo Mind Cycle to NerveGear
 
+For the source-faithful program overview and the precise functional-extension test, begin with
+[[neo-mind-cycle|Neo Mind Cycle]] and [[neo-mind-cycle-neurofeedback-bci|Neo Mind Cycle to External
+Cortex]].
+
 The Self Aware Networks archive contains more than a list of brain-computer interfaces. It records
 a development path: hands-on EEG feedback, a public Neural Lace research program, a working
 EEG-to-WebVR pipeline, interviews with instrument builders and researchers, and a continuing
@@ -141,12 +145,12 @@ They remain in the golden corpus as review-routed material, not as medical autho
 
 | Recording | Duration | Source status |
 |---|---:|---|
-| `[private local source path withheld]` | 70:52.9 | Primary WAV; transcript, event date, and speakers still need verification. SHA-256 `095DD374E047489D7942BF60ADC0E937D6254E533EC65EA99C2DFE3B0CB8B81D`. |
-| `[private local source path withheld]` | 42:39.7 | Primary WAV; transcript and exact event date still need verification. SHA-256 `DD99C0BD3DE0347F538A14528D8E8959D014903842B61BC785FCFD8E927DAE09`. |
+| `Morgan Hough at Red Victorian.WAV` | 70:52.9 | Primary WAV in private source custody; transcript, event date, and speakers still need verification. SHA-256 `095DD374E047489D7942BF60ADC0E937D6254E533EC65EA99C2DFE3B0CB8B81D`. |
+| `Micah gives talk at Internet Archive.WAV` | 42:39.7 | Primary WAV in private source custody; transcript and exact event date still need verification. SHA-256 `DD99C0BD3DE0347F538A14528D8E8959D014903842B61BC785FCFD8E927DAE09`. |
 
-Both files were recorded on a Zoom H5 whose embedded date reads `2014-01-01`. The containing paths
-and user history point to later events, so the recorder date is treated as unset and is not used as
-chronology evidence.
+Both files were recorded on a Zoom H5 whose embedded date reads `2014-01-01`. Their private custody
+context and user history point to later events, so the recorder date is treated as unset and is not
+used as chronology evidence.
 
 ## Matching the world, body, behavior, and brain
 

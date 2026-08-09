@@ -108,4 +108,3 @@ architecture.
 - [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]]
 - [[cellular-oscillating-tomography|Cellular Oscillating Tomography]]
 - [[early-a0180-a0197-obscure-argument-map|Early a0180-a0197 Obscure Argument Map]]
-

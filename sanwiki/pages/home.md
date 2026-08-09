@@ -1,77 +1,189 @@
-# Self Aware Networks Institute Wiki
+---
+title: "Self Aware Networks Encyclopedia"
+tags: [san, encyclopedia, start-here, source-genealogy, books, neuroscience, artificial-neurology]
+aliases: [Self Aware Networks Institute Wiki, SAN Wiki Home, SAN Encyclopedia]
+summary: "The canonical public orientation page for the expandable SAN knowledge system: theory, mechanisms, books, source history, evidence boundaries, experiments, and engineering routes."
+status: governed
+---
 
-The Self Aware Networks Institute Wiki is the public reading surface and knowledge graph for SAN, NAPOT, neural lace, biological computation, and the archive trail that connects early 2011-2012 work to the 2021 conversations, the 2022 GitHub theory revisions, later books, and formal papers.
+# Self Aware Networks Encyclopedia
 
-The wiki preserves the complete intellectual record while the book selects and explains. Its governing rule is that every SAN artifact is retained, dated, connected, and given an evidence posture; front-page priority determines placement, not worth.
+> **Image status:** No medically reviewed home-page image is accepted. A replacement prompt has
+> been drafted, and image generation remains paused.
 
-## Start with the theory and its source graph
+The **Self Aware Networks Encyclopedia** is the expandable knowledge system for SAN. It connects
+the books, dated source record, recordings, podcasts, videos, GitHub writings, papers, biological
+mechanisms, images, experiments, and engineering proposals without forcing all of that material
+into one book or one simplified theory page.
 
-| Route | What it answers |
-|---|---|
-| [[self-aware-networks|Self-Aware Networks overview]] | What problem SAN is trying to solve and how its main operations fit together. |
-| [[san-knowledge-graph|SAN Knowledge Graph]] | How to find SAN ideas by ordinary problem, exact source, development history, evidence posture, and downstream use. |
-| [[san-golden-corpus-map|SAN Golden Corpus Map]] | What has been recovered, how sources become graph nodes, what remains unclassified, and how the no-surprise test works. |
-| [[saov9-source-inventory-book2-routing|SAOv9 Source Inventory and Book 2 Routing]] | What all 700 SAOv9 prompts asked, how the five local source objects relate, where every prompt is editorially routed, and which semantic reviews remain open. |
-| [[memory-state-drift-virtual-mind|Memory, Engrams, Representational Drift, and the Virtual Mind]] | How durable memory substrate, active engram ensembles, reconstructed content, longitudinal drift, and SAN's stronger phase and conscious-access hypotheses differ. |
-| [[attention-hallucination-self-model-dissolution|Attentional Selection, Hallucination, and Self-Model Dissolution]] | How selection, perceptual content, and self-model stability can change independently without requiring one anatomical center or inner observer. |
-| [[agency-valuation-action-feedback|Agency, Valuation, Action Selection, and Returned Consequence]] | How coherence-weighted candidate recruitment may become a building PWD, a distributed motor route, and a returned sensory or bodily consequence without reducing choice to one brain region or frequency band. |
-| [[flow-of-information-in-the-brain|The Flow of Information in the Brain]] | How the BCI and information-flow problem was framed in the March 2021 conversation before the mature vocabulary. |
-| [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]] | How distributed tissue can construct and use a coherent percept without a literal screen or inner viewer. |
-| [[entification-observer-problem|Entification and the No-Inner-Observer Problem]] | What SAN means by a coordinated observer and what recurrence, self-state, action, and feedback must contribute. |
-| [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle and the BCI Bridge]] | What Micah actually built and described with EEG, adaptive light/sound, and the Neurofeedback Salon before SAN was published. |
-| [[bci-instrument-atlas|BCI Instrument Atlas]] | What EEG, EIT, fNIRS, MEG, MRI, implants, body sensors, and stimulation each expose, and how the 2018 EEG-to-WebVR work leads to the NerveGear measurement problem. |
-| [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and Phase-Wave Differential]] | How SAN describes meaningful change relative to ongoing activity, when the terminology entered the source history, and what a measurable PWD or DPWDR would require. |
-| [[receptive-inceptive-dendritic-projection|Receptive, Inceptive, and Dendritic Projection]] | How many inputs converge, dendrites transform them, axons distribute consequences, and SAN's screen metaphor survives anatomical correction. |
-| [[perceptron-deep-learning-metatron|Perceptron, Deep Learning, and Metatron]] | How SAN moves from a successful artificial-neuron compression to a testable richer unit without misrepresenting modern deep learning or biological evidence. |
-| [[napot-revision-genealogy|NAPOT Revision Genealogy]] | What changed across NAPOT 1-10 and which later version labels remain unresolved. |
-| [[theory-of-redness|Theory of Redness]] | How a familiar color experience turns Neural Rendering and PWD into a concrete, testable problem. |
-| [[broccoli-shared-recognition-artificial-perception|Broccoli and Artificial Perception]] | How shared recognition, multimodal object knowledge, and neural read/write engineering connect. |
-| [[neural-tuning|Neural Tuning]] | How learned selectivity differs from state-dependent routing and the stronger SAN phase-routing hypothesis. |
-| [[cellular-oscillating-tomography|COT and the route to SET]] | How the theory extended from neurons toward ordinary-cell computation and evolution. |
-| [[early-a-series-golden-corpus-map|Early A-Series Map]] | Where each `a0001z` through `a0020z` source belongs and why. |
-| [[early-b-series-golden-corpus-map|Early B-Series Map]] | Where each extant `b0001y` through `b0020y` source belongs, with missing identities preserved. |
-| [[neural-lace-podcast-source-genealogy|Neural Lace Podcast Genealogy]] | What each recovered 2017-2020 episode contributed to BCI, rendering, recognition, and instrumentation. |
-| [[san-manuscript-series-genealogy|SAN Manuscript Series Genealogy]] | What `01san` through `13san` contain, who is speaking, and which concept or evidence route each serves. |
-| [[san-archive-ordering-and-research-intake-map|Archive Ordering and Research Intake]] | How the 14-cycle order views, source compilations, and link backlog organize the larger corpus. |
-| [[san-repository-front-door-spine|Repository Front-Door Spine]] | How README, Welcome, Changelog, NAPOT map, Todolist, and Abstract Bump divide the work of explaining and operating the archive. |
+The Encyclopedia aims to preserve the intellectual record while making it readable. The books give
+ordered narratives. The Encyclopedia lets a reader stop at any concept, recover its sources, see
+its biological scale and evidence status, and follow its relationships to other mechanisms,
+experiments, revisions, and applications.
 
-## Start with the two master source maps
+## Choose a reading path
 
-| Source map | Main pages | What it contributes |
+| Reader goal | Start here | Continue with |
 |---|---|---|
-| SAOv9 | [[saov9-source-inventory-book2-routing|SAOv9 Prompt Atlas]], [[gh-saov9]], [[self-aware-networks-outline-v9]], [[saov9-self-aware-networks-overview]] | The reconciled 700-prompt theory-of-mind outline: Neo Mind Cycle, BCI, fractal brain networks, neurophysics, NAPOT, COT, artificial neurology, and global medical-justice vision. |
-| Bridging Molecular Mechanisms | [[gh-rexnote12]], [[bridging-molecular-mechanisms]], [[gh-rexnote14]] | The molecular-to-oscillatory bridge: KIBRA/PKMzeta, ion channels, synaptic plasticity, neural arrays, phase wave differentials, and memory persistence. |
-| Legacy GitHub wiki | [[selfawarenetworks-github-repository]], [[selfawarenetworks-repository-intro]], [[napot-legacy-wiki-map]], [[intro-fractal-legacy-wiki]], [[intro-gravity-legacy-wiki]] | The 2022 public surface and the older SAN vocabulary that must remain linked to newer pages. |
-| Chronology and evidence | [[history-of-sit]], [[coincidence-as-a-bit]], [[history-of-super-information-theory]], [[cortical-traveling-waves-san-submission]] | Dated priority, theory evolution, and evidence routes for public claims. |
+| Understand SAN in ordinary language | [[self-aware-networks|Self-Aware Networks]] | [[self-aware-networks-theory|Theory Architecture and Claim Status]] -> [[self-aware-network|Candidate System Criteria]] |
+| Understand the core mechanism | [[neural-array-projection|Neural Array Projection]] | [[napot-overview|NAPOT]] -> [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]] |
+| Examine consciousness without an inner viewer | [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]] | [[entification-observer-problem|Entification and the Distributed Observer]] -> [[field-cell-self-bioelectric-information-entity|The Field-Cell Self]] |
+| Check scientific and medical boundaries | [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]] | [[self-aware-networks-theory|Claim Status]] -> [[machine-agency-consciousness-welfare-evidence-program|Agency, Consciousness, and Welfare Evidence]] |
+| Trace what was said and when | [[san-claim-genealogy-2011-2022|SAN Claim Genealogy, 2011-2022]] | [[napot-revision-genealogy|NAPOT Revision Genealogy]] -> [[san-golden-corpus-map|Golden Corpus Map]] |
+| Follow the books | [[self-aware-networks-book-overview|Book and Encyclopedia Overview]] | [[bridging-molecular-mechanisms|Bridging Molecular Mechanisms]] -> [[self-aware-networks-book|Self Aware Networks Book Program]] |
+| Follow the BCI and engineering line | [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle Source Genealogy]] | [[bci-instrument-atlas|BCI Instrument Atlas]] -> [[artificial-neurology|Artificial Neurology]] |
+| Decode unfamiliar terminology | [[san-plain-language-glossary-and-acronym-index|Plain-Language Glossary and Acronym Index]] | Return to the linked concept and source pages. |
 
-## Combined SAN reading spine
+## SAN in six questions
 
-| Spine section | SAOv9 route | Bridging route | Core wiki links |
-|---|---|---|---|
-| Origin and mission | [[neo-mind-cycle]], [[neomindcycle-legacy-wiki]], [[brain-interface-bci-map]] | [[gh-rexnote12]] cycles 1-7 | [[institute-mission]], [[brain-as-hard-drive-vrma-2017]], [[neural-lace-podcast-transcripts-2017-2019]] |
-| Fractal brain networks | [[fractal-pattern]], [[pattern-neurons]], [[functional-fractal-isomorphism]] | cycles 8-13 | [[neural-tomography]], [[fractal-retinotopic-mirroring]], [[multiscale-fractal-neural-oscillators]] |
-| NAPOT and conscious rendering | [[napot-overview|NAPOT]], [[napot-theory|NAPOT theory]], [[neural-oscillatory-tomography]], [[phasic-tonic-relationship]] | cycles 14-18 | [[oscillatory-dynamics]], [[neural-oscillatory-synchronization]], [[inter-brain-eeg-synchronization]] |
-| Molecular memory bridge | [[cell-as-chemical-neural-network]], [[every-cell-chemical-neural-network]], [[dendritic-pattern-detection]] | cycles 19-32 | [[coincidence-pattern-neural-bit]], [[graded-neural-firing]], [[brain-as-memory-prediction-machine]] |
-| Gravity and time-density | [[qgtcd]], [[quantum-gradient-time-crystal-dilation]], [[super-dark-time]] | molecular stability as time-linked persistence | [[particle-gravity-time-density]], [[time-density]], [[time-density-field]], [[gravity-as-information]] |
-| Formal and comparison layers | [[sit]], [[math-sit]], [[super-information-theory-v76]] | book-to-paper synthesis | [[biological-computation]], [[prospective-learning]], [[computational-phase-synchronization]], [[cortical-traveling-waves]] |
+### 1. What does a living network receive?
 
-## How to use this page
+Sensory receptors, synapses, dendritic branches, cells, local circuits, and larger systems receive
+external, bodily, remembered, and recurrent differences. Their response depends on anatomy,
+learned structure, current membrane and chemical state, inhibition, neuromodulation, and recent
+history.
 
-1. Use the table above as the SAN table of contents, not the raw page list.
-2. When improving SAN pages, add wikilinks back to the relevant spine section.
-3. When importing notes or private dated source archive remnants, dedupe against [[selfawarenetworks-github-repository]], [[gh-saov9]], and [[gh-rexnote12]] first.
-4. When a source explains the same operation in different words, mark it as an operational-equivalence candidate rather than creating another duplicate page.
+Start with [[neural-array-projection|Neural Array Projection]] and
+[[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]].
 
-## Public quality rules
+### 2. How is input transformed rather than copied?
 
-- Every major SAN concept page should point back to at least one master source map, one theory page, and one evidence or chronology page.
-- Long source pages like [[gh-saov9]] and [[gh-rexnote12]] should be used as source anchors; shorter explainer pages should carry the public-reader prose.
-- Sensitive/private note sources stay out of public pages until reviewed.
-- Future 3D wiki cards should be generated from accepted wikilinks and source anchors, not from raw file paths.
+SAN emphasizes receive-transform-project operations. The relevant output is shaped by the receiver,
+not transmitted as an unchanged miniature of its source. [[neural-tuning|Neural Tuning]] develops
+learned and state-dependent selectivity. [[phase-wave-differential-calculus|PWD Calculus]] develops
+the stronger proposal that multidimensional departures from a receiver's expected state can act as
+measurable update variables.
 
-## First reader paths
+### 3. How can partial activity support a coherent working model?
 
-- New readers: [[institute-mission]] -> [[napot-overview|NAPOT]] -> [[bridging-molecular-mechanisms]] -> [[qgtcd]].
-- Theory readers: [[self-aware-networks-outline-v9]] -> [[gh-saov9]] -> [[gh-rexnote12]] -> [[math-sit]].
-- Evidence readers: [[history-of-sit]] -> [[coincidence-as-a-bit]] -> [[neural-lace-podcast-transcripts-2017-2019]] -> [[selfawarenetworks-github-repository]].
-- Worker sessions: use this home page as the cluster seed before matching SAN pages, SAN sources, current notes, or archive candidates.
+[[napot-overview|NAPOT]] proposes a multiscale many-to-one-to-many process in which partial neural
+states are integrated, transformed, redistributed, and updated. It does not require one neuron to
+perform tomography, a literal picture stored in a dendrite, or one universal cortical-column
+algorithm.
+[[memory-state-drift-virtual-mind|Memory, Engrams, Representational Drift, and the Virtual Mind]]
+separates durable substrate, active reconstruction, drift, and conscious access.
+
+### 4. What supplies content and differentiation?
+
+SAN distinguishes relatively ongoing tonic context from receiver-relative phasic differences.
+The positive hypothesis is that changing cellular and population activity alters the same living
+electrical, chemical, mechanical, metabolic, and thermal tissue state that generates and registers
+it. Coherence can support transient recruitment; structured dispersion can preserve differences
+and boundaries. Neither global synchronization nor one frequency band is treated as consciousness.
+
+See [[tonic-phasic-phase-wave-differential|Tonic Baseline, Phasic Update, and PWD]] and
+[[theory-of-redness|Theory of Redness]].
+
+### 5. Who or what observes the result?
+
+SAN rejects a hidden viewer. Its stronger claim is that the causally organized recurrent process
+that generates, registers, remembers, predicts, and acts on distributed differences performs the
+observer-action function. Whether that process is also sufficient for phenomenal experience
+remains an unresolved scientific and philosophical question.
+
+See [[entification-observer-problem|Entification and the Distributed Observer]] and
+[[field-cell-self-bioelectric-information-entity|The Field-Cell Self]].
+
+### 6. How does a working state become action and later learning?
+
+Candidate states can recruit or suppress routes, accumulate effective drive, cross action
+thresholds, change the body and environment, and return new sensory and bodily consequences.
+Plasticity then changes later response.
+[[agency-valuation-action-feedback|Agency, Valuation, Action Selection, and Returned Consequence]]
+follows that complete loop.
+
+## Theory and mechanism spine
+
+| Layer | Principal routes | What the layer contributes |
+|---|---|---|
+| Program and criteria | [[self-aware-networks|Self-Aware Networks]], [[self-aware-networks-theory|Theory Architecture]], [[self-aware-network|Candidate System Criteria]] | The problem, joined architecture, evidence ladder, and criteria for a candidate system. |
+| Cellular and pathway operations | [[neural-array-projection|Neural Array Projection]], [[neural-tuning|Neural Tuning]] | Receive-transform-project anatomy, receiver state, pathway constraints, and changing target recruitment. |
+| Population dynamics | [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]], [[phase-wave-differential-calculus|PWD Calculus]] | Ongoing context, differentiated update, timing, waveform, variability, coupling, and testable comparison variables. |
+| Rendering and memory | [[napot-overview|NAPOT]], [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]], [[memory-state-drift-virtual-mind|Memory and the Virtual Mind]] | Distributed integration, reconstruction, re-expression, and the no-inner-screen boundary. |
+| Observer and action | [[entification-observer-problem|Entification]], [[field-cell-self-bioelectric-information-entity|Field-Cell Self]], [[agency-valuation-action-feedback|Agency and Returned Consequence]] | Causal unity, perspective, selection, action, and feedback. |
+| Measurement and implementation | [[bci-instrument-atlas|BCI Instrument Atlas]], [[conscious-state-perturbation-tomography|Conscious-State Perturbation Tomography]], [[artificial-neurology|Artificial Neurology]] | What different instruments expose, what interventions could test, and what bounded operations can be engineered. |
+
+## Source history and provenance
+
+SAN did not begin as one finished manuscript. It developed across several source families that must
+remain dated separately.
+
+| Source family | Main route | Role in the Encyclopedia |
+|---|---|---|
+| 2011-2012 dialogues and notes | [[san-claim-genealogy-2011-2022|SAN Claim Genealogy]] | Early self-prediction, feedback, brain-body perspective, observer-action, and cellular-structure ancestors. |
+| 2017-2020 Neural Lace Podcast | [[neural-lace-podcast-source-genealogy|Neural Lace Podcast Source Genealogy]] | Public BCI, spatial computation, recognition, multimodal processing, rendering, and instrumentation development. |
+| 2022 public GitHub theory and Whitepaper | [[selfawarenetworks-github-repository|SelfAwareNetworks GitHub Repository]], [[san-manuscript-series-genealogy|SAN Manuscript Series Genealogy]] | Named SAN/NAPOT architecture, revisions, source language, and immutable public Git history. |
+| Neo Mind Cycle and neurofeedback | [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle Source Genealogy]] | The earlier closed-loop BCI and New Mind Loop translated into later SAN instrumentation questions. |
+| Early A- and B-series source files | [[early-a-series-golden-corpus-map|Early A-Series Map]], [[early-b-series-golden-corpus-map|Early B-Series Map]] | File-by-file routing, missing-identity preservation, and bounded source recovery. |
+| Larger archive and current intake | [[san-golden-corpus-map|SAN Golden Corpus Map]], [[san-archive-ordering-and-research-intake-map|Archive Ordering and Research Intake]] | Coverage, classification, source status, unresolved items, and downstream use. |
+
+Internal dates, recording dates, platform publication dates, Git fixation dates, and dates of later
+synthesis are different evidence fields. Genealogy establishes what was expressed and when; it does
+not by itself validate a biological claim.
+
+## Books and long-form explanations
+
+The SAN book program and the Encyclopedia are connected but not interchangeable.
+
+- [[bridging-molecular-mechanisms|Bridging Molecular Mechanisms and Neural Oscillatory Dynamics]]
+  develops the molecular-to-synaptic-to-oscillatory bridge.
+- [[self-aware-networks-book|The Self Aware Networks Book Program]] develops the broader story of
+  living neural tissue, perception, memory, action, consciousness, measurement, and engineering.
+- [[self-aware-networks-book-overview|Book and Encyclopedia Overview]] explains how the ordered book
+  narrative and expandable concept graph divide their work.
+- [[saov9-source-inventory-book2-routing|SAOv9 Source Inventory and Book 2 Routing]],
+  [[self-aware-networks-outline-v9|SAOv9 Fourteen-Cycle Reader Map]], and
+  [[saov9-self-aware-networks-overview|Historical SAOv9 Overview]] preserve the large planning and
+  source architecture without treating every old prompt as an accepted claim.
+
+## Scientific reading rules
+
+Every improved concept page should make four layers visible:
+
+1. **Established science:** findings supported in named species, preparations, circuits, tasks, and
+   measurement conditions.
+2. **Supported SAN interpretation:** a source-defined synthesis that organizes established
+   operations but is not yet proven as one joined mechanism.
+3. **Open SAN hypothesis:** a discriminating proposal with declared variables, controls,
+   predictions, and rejection conditions.
+4. **Stronger identity or phenomenal claim:** a proposition that cannot be inferred from decoding,
+   behavior, oscillation, self-report, or model similarity alone.
+
+An apparent anatomical or medical error begins as a source-recovery question. The review first
+checks surrounding context and dated sources for a typo, transcription error, compressed analogy,
+older vocabulary, or incomplete expression. The reader page then distinguishes recovered intent
+from current science instead of silently replacing the historical idea.
+
+## What the Encyclopedia is not
+
+- It is not limited to a fixed top-100 collection. A curated public entry path does not cap the
+  larger source and concept graph.
+- It is not a raw transcript dump. Source pages preserve wording; concept pages explain and connect.
+- It is not an AI validation record. AI can help recover, organize, critique, and test sources, but
+  scientific support comes from evidence and reproducible analysis.
+- It is not a homunculus theory. Neural rendering is performed and used by the distributed process,
+  not watched on a screen by another agent.
+- It is not the Comparison Wiki. External theories may appear when they clarify SAN or occur in its
+  source history, but comparison research and verdicts have their own authority.
+- It is not the SIT physics program. SIT and QGTCD remain discoverable where SAN sources or later
+  cross-scale questions require them, but they do not organize this front page.
+
+## Public and private boundaries
+
+Public chronology, source citations, explanatory pages, and scientific evidence should remain
+machine-readable and independently inspectable. Private notes, unpublished research, operational
+systems, personal archives, and access-controlled member material must not be exposed merely
+because the public Encyclopedia links across a larger internal source universe.
+
+The public site explains SAN. Internal tools route research attention. Search rank, graph proximity,
+AI commentary, and private-source recall are not evidence until the owning source is reviewed.
+
+## Continue exploring
+
+- [[san-knowledge-graph|SAN Knowledge Graph]]
+- [[san-golden-corpus-map|SAN Golden Corpus Map]]
+- [[san-plain-language-glossary-and-acronym-index|Plain-Language Glossary and Acronym Index]]
+- [[self-aware-networks-book-overview|Book and Encyclopedia Overview]]
+- [[neural-lace-podcast-source-genealogy|Neural Lace Podcast Source Genealogy]]
+- [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle Source Genealogy]]
+- [[artificial-neurology|Artificial Neurology]]

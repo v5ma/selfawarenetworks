@@ -79,4 +79,3 @@ Micah's public SAN notes use grid cells as a bridge from hippocampal-entorhinal 
 - [[entorhinal-cortex|Entorhinal Cortex]]
 - [[reference-frames-cortical-knowledge|Reference Frames and Cortical Knowledge]]
 - [[grid-cells-place-cells-oscillators|Grid, Place, and Oscillatory Coding]]
-

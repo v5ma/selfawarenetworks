@@ -1,11 +1,27 @@
+---
+title: "Phase-Wave Differentials"
+tags: [san, phase-wave-differential, tonic-phasic, receiver-relative, neural-rendering]
+aliases: [PWD, Phase Wave Differential]
+summary: "A phase-wave differential is SAN terminology for a typed, receiver-relative neural change with a declared reference, route, physiological denominator, and measurable consequence."
+status: governed
+---
+
 # Phase-Wave Differentials
 
-> **Image status:** The earlier figure failed medical review and has been moved to the failed-medical-review archive. Its intended SAN claim and the nearest medically accurate mechanism must be reconstructed from sources before replacement.
+> **Image status:** The historical 2026 plate failed medical review and is preserved in the non-reader `archive-do-not-use-medical-review/br005-pwd-20260808` folder. It must not appear in a reader or public projection. A source-faithful replacement is specified by `IMG-SAN-BR005-PWD-RECEIVER-RELATIVE-001`; image generation remains paused.
 
+## What the rejected figure was trying to say
 
-> **Image status:** This plate requires scientific revision. It can illustrate changing relations
-> against ongoing activity, but it must not imply that any phase offset is semantic content, that one
-> field is the observer, or that consciousness follows automatically from a dominant waveform.
+The recoverable SAN idea is that an ongoing [[tonic-phasic-phase-wave-differential|tonic context]]
+defines a receiver's current readiness, while phasic changes can alter a named downstream receiver.
+Compatible excitation, inhibition, timing, waveform, and recurrent state may support or suppress a
+transition; their receiver-specific net consequence is related to the proposed
+[[electrical-valence-receiver-relative-drive|Electrical Valence]] bridge.
+
+The medically accurate version must not turn that proposal into one stable phase reference across
+the cortex, a universal laminar circuit, an absolute open-or-closed communication channel, or a
+single rendered field that is automatically conscious. Each scale requires its own cells,
+population, anatomical route, reference signal, measurement units, and downstream consequence.
 
 A **phase-wave differential (PWD)** is SAN terminology for a typed, receiver-relative change in
 neural activity that has a measurable downstream consequence. Candidate dimensions include phase
@@ -17,8 +33,7 @@ gamma burst, electric field, or functional connectivity.
 
 A defensible PWD statement has this form:
 
-> Relative to reference state R, source system A changes along a declared route to receiver B. The
-> change has a declared typed feature vector, biological route, and measurable consequence C.
+> Relative to reference state R, source system A changes along a declared route to receiver B. The change has a declared typed feature vector, biological route, and measurable consequence C.
 
 The differential is the declared change relative to the declared reference. The wave component
 requires evidence of spatial organization or propagation. The information claim requires a receiver
@@ -111,9 +126,9 @@ hypothesis and must be separated from representation, access, report, and action
 - [[phase-wave-differential-calculus|Phase-Wave Differential Calculus]]
 - [[phase-language-firewall|Phase Language Firewall]]
 - [[tonic-phasic-canvas|Tonic and Phasic Roles]]
+- [[coherence-dispersion-sculpting-hypothesis|Coherence-Dispersion Sculpting Hypothesis]]
 - [[present-moment-salience|Present-Moment Salience]]
 - [[computational-phase-synchronization|Computational Phase Synchronization]]
 - [[cortical-traveling-waves|Cortical Traveling Waves]]
 - [[napot-overview|NAPOT Overview]]
 - [[observer-mechanism|Observer Mechanism]]
-

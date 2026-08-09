@@ -68,4 +68,3 @@ This candidate remains unnumbered pending prior-art, nonduplication, safety, and
 - [[broccoli-shared-recognition-artificial-perception|Broccoli and Artificial Perception]]
 - [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]]
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]]
-

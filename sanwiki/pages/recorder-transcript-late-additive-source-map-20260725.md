@@ -179,4 +179,3 @@ not connected to SAN concepts, quoted, or used for priority.
 
 The governed review is recorded at
 `wiki/san/knowledge-graph/reviews/recorder-human-source-atom-review-late-addendum-20260725.md`.
-

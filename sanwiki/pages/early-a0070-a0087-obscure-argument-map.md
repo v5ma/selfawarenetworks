@@ -81,4 +81,3 @@ No new paper number is created by this audit.
 - [[memory-prediction-rendering-sequence|Memory Prediction Rendering Sequence]]
 - [[artificial-neurology-states-stages-development|Artificial Neurology]]
 - [[scale-invariant-patterns|Nested Invariance Across Neural Scales]]
-

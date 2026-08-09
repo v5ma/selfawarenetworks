@@ -88,8 +88,7 @@ retained state and learned criteria alter later action beyond the current input.
 asks what the available output channels let the system change. Text can have social or digital
 effects; embodiment can add physical effects. Neither dimension is a sentience verdict.
 
-See [[machine-agency-consciousness-welfare-evidence-program|From Machine Output to Candidate
-Agency, Consciousness, and Welfare]].
+See [[machine-agency-consciousness-welfare-evidence-program|From Machine Output to Candidate Agency, Consciousness, and Welfare]].
 The research task is comparative: test whether the proposed joined architecture predicts behavior, adaptation, report, perturbation response, and failure better than recurrent, attention, state-space, spiking, compartmental, and world-model baselines under matched resources.
 
 ## Human-machine loops
@@ -141,6 +140,7 @@ These records establish the development and breadth of the proposal. They do not
 
 ## Related pages
 
+- [[machine-self-report-active-canvas-consciousness-test|From Machine Self-Report to an Active-Canvas Test]]
 - [[san-implementation-evidence-gates|SAN Implementation Evidence Gates]]
 - [[gh-a0347z|Superconducting Artificial-Synapse Source Intake]]
 - [[napot-sentient-ai-architecture|NAPOT Artificial-System Architecture]]

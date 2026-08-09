@@ -86,4 +86,3 @@ Micah's public notes repeatedly use EC as a bridge among grid cells, hippocampal
 - [[place-cells|Place Cells]]
 - [[hippocampal-reference-frames|Hippocampal Reference Frames]]
 - [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]]
-

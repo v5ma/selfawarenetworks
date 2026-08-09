@@ -64,6 +64,8 @@ Evidence for one row does not automatically establish the rows below it.
 
 - [[napot-overview|NAPOT]] asks whether many partial states are combined and redistributed through a
   tomography-like multiscale cycle.
+- [[san-tomogram|SAN Tomogram]] names the candidate distributed, action-ready working state revised
+  by that cycle; it is not a picture inside one neuron or area.
 - [[ndca|NDCA]] names the continuity problem: maintaining useful derivatives and trajectories despite
   sampling, noise, delay, movement, and representational drift.
 - [[gamma-wave-consideration-sandwich|GCS]] is SAN's more specific historical proposal about sensory,
@@ -94,4 +96,4 @@ biological validation.
 - [[screen-metaphor-no-inner-viewer|Distributed Observer and the Screen Metaphor]]
 - [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]]
 - [[napot-tomography-not-holography|NAPOT: Tomography, Not a Literal Hologram]]
-
+- [[san-tomogram|SAN Tomogram: A Distributed, Action-Ready Reconstruction]]

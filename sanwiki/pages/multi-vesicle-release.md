@@ -60,4 +60,3 @@ Compared with mainstream MVR / synaptic-unreliability literature -- which typica
   - `b0114y--md` line 63 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/b0114y.md
   - `b0267y--md` line 274 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/b0267y.md
   - `original_archive_b0311ygoogle--md` line 748 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/original archive b0311ygoogle.md
-

@@ -43,4 +43,3 @@ downloaded family, so Episode 6 remains a recovery question rather than an infer
 - [[neural-lace-podcast-source-genealogy|Complete episode genealogy]]
 - [[nervegear-show-2017|The NerveGear Show]]
 - [[fnirs-neural-lace-podcast-s2e4-2019|fNIRS Season 2 Episode 4]]
-

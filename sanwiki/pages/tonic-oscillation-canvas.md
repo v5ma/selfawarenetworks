@@ -19,6 +19,7 @@ same coupled system carries that change into later processing, body control, and
 
 ## Read next
 
+- [[tonic-oscillation|Tonic Oscillation]]
 - [[tonic-phasic-canvas|Tonic and Phasic Roles: Canvas and Ink]]
 - [[screen-metaphor-no-inner-viewer|Distributed Observer and the Screen Metaphor]]
 - [[observer-mechanism|Observer Mechanism]]

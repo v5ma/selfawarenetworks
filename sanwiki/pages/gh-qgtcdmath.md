@@ -972,4 +972,3 @@ Discrete Differential Geometry: Explore advanced mathematical tools from this fi
 Quantum Gravity Rethink: If limitations persist, it might be necessary to move beyond both GR's smooth geometry and standard QFT's fixed background. [[gh-qgtcd|QGTCD]] might be hinting at the need for a more fundamental, fully quantum theory of gravity that incorporates discreteness and time frame varying properties from the very beginning.
 
 Remember, even if current attempts using Christoffel symbols yield non-standard or seemingly flawed results, it doesn't mean the theory is wrong. Highlighting where existing frameworks break due to [[gh-qgtcd|QGTCD]]'s core ideas is valuable, as it guides the development of next-generation unification models that can accommodate these new perspectives.
-

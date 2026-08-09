@@ -87,8 +87,7 @@ sometimes restore function through different routes. One instantaneous field map
 neither a hidden viewer nor the whole personal self.
 
 SAN preserves this as a testable continuity hypothesis rather than defining identity by one
-signal. See [[conscious-episode-diachronic-self-continuity|Conscious Episodes and the Continuity
-of a Person]].
+signal. See [[conscious-episode-diachronic-self-continuity|Conscious Episodes and the Continuity of a Person]].
 
 ## Relation to existing SAN concepts
 
@@ -107,9 +106,10 @@ of a Person]].
 - [[theory-of-redness|Theory of Redness]] supplies a concrete qualitative test.
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]] supplies the multiscale rendering
   architecture and its historical revisions.
-- [[conscious-episode-diachronic-self-continuity|Conscious Episodes and the Continuity of a
-  Person]] separates the active episode from longer-lived memory, embodiment, and policy
+- [[conscious-episode-diachronic-self-continuity|Conscious Episodes and the Continuity of a Person]] separates the active episode from longer-lived memory, embodiment, and policy
   continuity.
+- [[machine-self-report-active-canvas-consciousness-test|From Machine Self-Report to an Active-Canvas Test]] translates the biological field-cell criteria into a declared synthetic
+  mechanism test without presuming substrate equivalence.
 
 ## Source spine
 
@@ -280,3 +280,6 @@ This does not make one oscillatory signature a person. It converts the historica
 each participant remains situated in a continuing neural process into a multi-variable,
 falsifiable criterion. See
 [[voluntary-shared-cognitive-environment-retained-personhood]].
+
+See [[self-aware-networks|Self-Aware Networks]] for the program overview and full observer-action
+mechanism spine that precedes this stronger field-cell identity thesis.

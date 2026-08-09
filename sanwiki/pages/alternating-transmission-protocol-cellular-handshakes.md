@@ -21,6 +21,10 @@ TCP and UDP on computer networks. He named the proposed hybrid **Alternating Tra
 This was a question about how a brain-computer interface could discover the brain's communication
 rules. It was not a claim that neurons literally run Internet software.
 
+The earlier 2012 [[neuron-shape-information-storage|neuron-as-program proposal]] contributes a
+state-dependent transformation and structured-output ancestor. It does not yet name ATP or compare
+brain signaling with TCP and UDP.
+
 ## From brain networks to immune cells
 
 A 2022 SAN note applies the same comparison to immune communication. A naive T cell can require
@@ -58,9 +62,19 @@ The TCP/UDP comparison is a modeling analogy. It does not prove that conscious i
 one regime, that unconscious information uses another, or that particular sensory modalities
 belong to fixed frequency bands. Those claims require direct measurement and perturbation.
 
+## Source dates and custody
+
+- The ATP/TCP/UDP proposal belongs to the April 2017 podcast episode and public media lineage. The
+  current detailed transcript was first Git-fixed in June 2025; recording date and transcript
+  fixation are separate facts.
+- The immune-cell extension is in [[gh-a0621z|a0621z]], first publicly Git-fixed on June 8, 2022.
+- T-cell antigen recognition and costimulation provide a bounded comparison. They do not establish
+  a universal two-packet biological protocol or prove that ATP is the native language of cells.
+
 ## Read next
 
 - [[brain-tcp-udp-analogy|Brain TCP/UDP Analogy]]
+- [[neuron-shape-information-storage|Neuron Shape as Information-Bearing State]]
 - [[cellular-communication-graph-neural-network|Cellular Communication and Graph Models]]
 - [[gh-nlp1|Neural Lace Podcast 1 transcript]]
 - [[gh-a0621z|a0621z source note]]

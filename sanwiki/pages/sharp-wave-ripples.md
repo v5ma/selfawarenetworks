@@ -96,6 +96,7 @@ Evidence would weaken the proposed extension if:
 
 ## Read next
 
+- [[tonic-absorption-generative-reexpression|Tonic Absorption and Generative Re-expression]]
 - [[memory-consolidation|Memory Consolidation]]
 - [[memory-as-regenerable-pattern|Memory as Regenerable Pattern]]
 - [[engram|Engrams]]

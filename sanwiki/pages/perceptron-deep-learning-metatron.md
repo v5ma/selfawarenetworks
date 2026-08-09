@@ -1,3 +1,11 @@
+---
+title: "From the Perceptron to Deep Learning to the Metatron"
+tags: [san, perceptron, metatron, artificial-neurology, san-tomogram]
+aliases: [Perceptron to Metatron, Post-Perceptron SAN Architecture]
+summary: "A source-faithful bridge from point-unit abstractions through modern neural networks to SAN's proposed Metatron unit and distributed SAN Tomogram, with matched baselines and explicit rejection tests."
+status: governed
+---
+
 # From the Perceptron to Deep Learning to the Metatron
 
 The Perceptron is one of computing's great simplifications. It turns a set of inputs into a
@@ -7,6 +15,8 @@ machine learning implementable. It was never a complete description of a living 
 Self Aware Networks asks what must be put back when the objective is no longer only
 classification, but continual embodied learning, multimodal recognition, sensorimotor prediction,
 neural rendering, and self-aware control. SAN calls its proposed richer unit the **Metatron**.
+The engineering specification is maintained at [[metatron-computational-unit|Metatron Computational
+Unit]], while [[metatron|Metatron]] separates that unit from the name's future-agent use.
 
 ## Begin with the successful abstraction
 
@@ -63,9 +73,13 @@ findings justify testing richer artificial units, but they do not prove SAN's hi
 
 ## The Metatron proposal
 
-In the 2022 SAN whitepaper, the Metatron can be a neuron or a bounded oscillating group of cells.
-It is intended to preserve information that a simple scalar unit discards. A testable version must
-name its state rather than rely on metaphor.
+The 2022 sources use the Metatron at two related scales. `a0053z.md` calls it a proposed new model
+of the neuron. The August 2022 whitepaper places its functional location across an oscillating
+assembly whose cells learn related pattern variants, and says that a bounded assembly can itself
+act as a Metatron relative to another assembly. A testable implementation must therefore declare
+whether its unit is one artificial cell, a compartmental model, or a bounded population. It is
+intended to preserve information that a simple scalar unit discards, but it cannot rely on an
+undefined "floating" location.
 
 ```text
 M_t = {dendritic state, activation state, phase/timing, waveform,
@@ -88,6 +102,29 @@ contract.
 | Learning | Parameter update | Parameters plus thresholds, structure, state, and routing |
 | Risk | Omits useful biology | Adds complexity without an identifiable benefit |
 
+## From a Metatron to a SAN Tomogram
+
+A Metatron is not the complete render. It contributes one stateful, receiver-specific
+transformation to a larger recurrent process. The **SAN Tomogram** is the present-day Encyclopedia
+name for the distributed, action-ready working state jointly constrained by many such partial
+transformations, sensory and bodily signals, memory, and recurrent context.
+
+```text
+stateful local unit or bounded assembly
+-> partial transformed output
+-> named downstream receivers
+-> recurrent composition across many routes
+-> distributed SAN Tomogram
+-> action, reafference, and the next update
+```
+
+The 2022 sources use *tomogram*, *Tomograms*, and *tomographic rendering*. The exact compound
+**SAN Tomogram** is a current disambiguating label and is not backdated. The distinction prevents a
+medical and computational scale error: no one neuron, Metatron, cortical column, or frequency band
+contains a complete three-dimensional percept.
+
+See [[san-tomogram|SAN Tomogram: A Distributed, Action-Ready Reconstruction]].
+
 ## The SAN development path
 
 ### 2015: models and patterns
@@ -96,7 +133,7 @@ contract.
 Perceptrons, backpropagation, and reduction. It is valuable history, but each statement remains
 attributed to its speaker.
 
-[Open `a0038z.md`](gh-a0038z.md)
+[[gh-a0038z|Open a0038z]]
 
 ### 2017: Hawkins, Numenta, molecules, and gradients
 
@@ -106,8 +143,8 @@ the problem to dendritic computation, multimodal recognition, and future BCI wri
 automatic transcript contains obvious errors: "Unintelligence" means *On Intelligence*,
 "Reading Institute" means Redwood Neuroscience Institute, and "POMP" means Palm.
 
-- [Open the podcast transcript](gh-nlp4.md)
-- [Open Micah's episode synopsis](gh-a0006z.md)
+- [[gh-nlp4|Open the podcast transcript]]
+- [[gh-a0006z|Open Micah's episode synopsis]]
 - [Hawkins, Ahmad, and Cui's later cortical-column model](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2017.00081/full)
 
 ### 2018: deep learning as BCI infrastructure
@@ -116,7 +153,7 @@ automatic transcript contains obvious errors: "Unintelligence" means *On Intelli
 networks and semantic segmentation to relate volumetric world data to volumetric medical-imaging
 data for future neural interfaces.
 
-[Open the 3D CNN and NerveGear source](gh-a0223z.md)
+[[gh-a0223z|Open the 3D CNN and NerveGear source]]
 
 ### 2022: biological delta and named architecture
 
@@ -126,12 +163,12 @@ error correction. The whitepaper then names a multiscale computational unit: the
 `a0644z.md` makes Perceptron history and Metatron introduction the first planned chapter, and
 `a0053z.md` consolidates the term.
 
-- [Biophysical and Neurogrid critique](gh-a0008z.md)
-- [Neuron-model donor](gh-a0177z.md)
-- [Multimodal transmission donor](gh-a0286z.md)
-- [Metatron consolidation](gh-a0053z.md)
-- [Whitepaper Draft 1](gh-whitepaperdraft1.md)
-- [Whitepaper Draft 2](gh-whitepaperdraft2.md)
+- [[gh-a0008z|Biophysical and Neurogrid critique]]
+- [[gh-a0177z|Neuron-model donor]]
+- [[gh-a0286z|Multimodal transmission donor]]
+- [[gh-a0053z|Metatron consolidation]]
+- [[gh-whitepaperdraft1|Whitepaper Draft 1]]
+- [[gh-whitepaperdraft2|Whitepaper Draft 2]]
 
 ### 2024: full artificial-neurology book route
 
@@ -139,7 +176,7 @@ error correction. The whitepaper then names a multiscale computational unit: the
 networks, modern deep learning, real neurons and glia, Metatron perception, and future artificial
 neurology. It is an editorial architecture rather than a completed account.
 
-[Open the tracked SAOv9 outline](gh-saov9.md)
+[[gh-saov9|Open the tracked SAOv9 outline]]
 
 ## Two uses of the name
 
@@ -155,15 +192,18 @@ the architecture and the envisioned agent distinct.
 
 ## How to test whether the extra complexity is worth it
 
-Compare a rate-only network, a spiking network, a nonlinear-dendrite model, a recurrent
-phase-aware Metatron model, and a bounded multiscale model on the same tasks. Remove one proposed
-feature at a time: dendritic subunits, recurrence, inhibition, timing, waveform proxy, plastic
-structure, or body feedback.
+Compare a point-unit feedforward network, a gated recurrent or selective state-space network, a
+spiking network, an active-dendrite or compartmental model, a Metatron-inspired model, and a bounded
+multiscale model on the same tasks. Match training data, trainable parameters, persistent-state
+memory, compute, latency, hyperparameter-search budget, and calibration as closely as the model
+families permit. Report unavoidable mismatches. Remove one proposed feature at a time: dendritic
+subunits, recurrence, inhibition, timing, waveform proxy, plastic structure, or body feedback.
 
 The relevant outcomes are not only accuracy. Measure sample efficiency, continual-learning
-interference, robustness, multimodal binding, sensorimotor prediction, calibration, biological
-fit, and compute cost. The Metatron earns its name only if its additional state creates a
-repeatable advantage or a more accurate mechanistic account.
+interference, robustness, multimodal binding, latent-state reconstruction, sensorimotor prediction,
+calibration, biological fit, and compute cost. The Metatron earns its name only if the proposed
+organization of state creates a repeatable advantage or a more accurate mechanistic account after
+capacity and resource advantages are controlled.
 
 The [[synaptic-unreliability-mvr-2021|ionotropic information-channel]] route supplies one concrete
 benchmark: compare a scalar synaptic weight with models that retain release probability,
@@ -180,10 +220,13 @@ continue developing after deployment?
 ## Continue through the graph
 
 - [[multimodal-neuron-signal-correlate-channel|The Multimodal Neuron: Signal, Correlate, or Channel?]]
-- [Synaptic Unreliability, MVR, and the Ionotropic Information Channel](synaptic-unreliability-mvr-2021.md)
-- [Receptive, Inceptive, and Dendritic Projection](receptive-inceptive-dendritic-projection.md)
-- [Tonic, Phasic, and Phase-Wave Differential](tonic-phasic-phase-wave-differential.md)
-- [Neural Tuning](neural-tuning.md)
-- [Broccoli and Artificial Perception](broccoli-shared-recognition-artificial-perception.md)
-- [BCI Instrument Atlas](bci-instrument-atlas.md)
-- [SAN Golden Corpus Map](san-golden-corpus-map.md)
+- [[metatron-computational-unit|Metatron Computational Unit]]
+- [[metatron|Metatron]]
+- [[artificial-neurology|Artificial Neurology]]
+- [[synaptic-unreliability-mvr-2021|Synaptic Unreliability, MVR, and the Ionotropic Information Channel]]
+- [[receptive-inceptive-dendritic-projection|Receptive, Inceptive, and Dendritic Projection]]
+- [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and Phase-Wave Differential]]
+- [[neural-tuning|Neural Tuning]]
+- [[broccoli-shared-recognition-artificial-perception|Broccoli and Artificial Perception]]
+- [[bci-instrument-atlas|BCI Instrument Atlas]]
+- [[san-golden-corpus-map|SAN Golden Corpus Map]]

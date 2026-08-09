@@ -1,44 +1,352 @@
-# Brainwave
-
-![Brainwave in SAN phase-carrier tomography diagram](/v5ma.github.io/wiki/assets/generated/san/brainwave/brainwave-san-phase-carrier-tomography-20260628-v2.png)
-
-This page-specific image shows the SAN reading of a brainwave as a singular phase-bearing carrier: cellular oscillators coordinate into a cortical phase field, phase variance supplies the tomographic slice, and EEG or neurofeedback only reads or tunes the active pattern.
-
-**Brainwave** is the singular form of the SAN core primitive — the rhythmic, phase-bearing signal of [[neural-arrays]] activity that, in [[self-aware-networks]], constitutes the carrier on which [[biological-oscillating-tomography]] and [[neural-array-projection-oscillation-tomography]] write the volumetric tomogram of conscious experience. Where [[brain-rhythms]] names the population-level structure, the singular *brainwave* names the operative substrate: the moment-to-moment phase pattern in which "reality is rendered in the phase variances of your brainwave activity" ([[gh-08san|08san]]--md, line 9).
-
-The [[gh-08san|08san]] and [[gh-09san|09san]] sources state SAN's core claim almost verbatim. [[gh-08san|08san]] frames perception as "tomography (not holography) of your brainwaves" and reiterates that "reality is rendered in the phase variances of your brainwave activity" ([[gh-08san|08san]]--md, line 9), and [[gh-09san|09san]] elaborates: "sensory renderings akin to a 3D audio/visual/sensory tomogram (distinct from a hologram) derived from brainwave oscillations. This process creates internal patterns, pictures, sounds, and feelings" ([[gh-09san|09san]]--md, line 9). This is the SAN [[oscillatory-tomography]] thesis at its most compressed: a brainwave is not merely a measurable signal — it is the medium of [[qualia]] and [[consciousness]], with the [[3d-semantic-segmentation]] of perception being a function of phase rather than of fixed spatial coding.
-
-A second thread in the corpus binds brainwave activity to encoded plans and behaviour. [[gh-02san|02san]] notes that "behavior termination relates to the stopping or modification of behaviors when oscillations in brainwave patterns signal a shift in the encoded memory or motor plan" ([[gh-02san|02san]]--md, line 65), placing brainwaves at the gating point between [[engrams]] and action. 03san extends this socially: "people who spend time talking with one another and then enjoin with the same brainwave frequency is the principle of sync at work but it is also the principle of link, in order to pass information" (03san--md, line 7), pulling the brainwave into a relational register where shared phase entrains shared meaning. The 00changelog adds an instrumentation thread, recalling work that "brought EEG into WebVR (a 3D visualization of brainwave activity signals displayed in a VR headset via the web or a local server)" (00changelog--md, line 573), tying the brainwave to [[eeg]] readout, [[virtual-reality]] visualization, [[augmented-reality]] use cases, and [[neurofeedback]] practice.
-
-Mechanistically, the SAN account threads the singular brainwave through every cellular and subcellular layer it touches. [[gamma-oscillations]] and [[theta-oscillation]] activity provide the dominant frequency bands; [[apical-dendrites]], [[dendritic-spines]], [[cortical-columns]], and [[micro-columns]] provide the spatial distribution; [[nmda-receptor]] gating, [[gaba]]-mediated [[inhibitory-circuits]], [[acetylcholine]] modulation, [[dopamine]] signalling, and [[camkii]] cascades shape how a phase event becomes an [[action-potential]] and contributes to [[long-term-potentiation]] under [[hebbian-learning]]; [[microtubules]] supply the long-conjectured non-classical layer toward which the SAN sources point in their open questions about [[quantum-entanglement]]. Read alongside [[predictive-coding]], [[criterial-causation]], [[bridging-molecular-mechanisms]], the [[hard-problem-of-consciousness]], the [[attention-schema]], and the engineering counterparts [[neuralink]], [[braingate]], and [[nervegear]], the brainwave in SAN is exactly the unit on which the entire programme stands or falls — the differential of phase from which "Standard A Tones are differentials in the phase pattern (between the inhibited, the tonic baseline brainwave activity, the phasic & high phasic bursts.)", and so the unit on which [[ndca]] and the Fourier-slice mathematics of NAPOT operate.
-
-## Related concepts
-
-- [[brain-rhythms]] — the population-level companion concept; brainwaves are its singular instance.
-- [[biological-oscillating-tomography]] — the framework whose tomogram is rendered "in the phase variances of your brainwave activity" ([[gh-08san|08san]]).
-- [[neural-array-projection-oscillation-tomography]] — the projection-tomography specialization that treats individual brainwaves as slices.
-- [[oscillatory-tomography]] — the umbrella principle SAN distinguishes sharply from holography and ties to brainwave phase.
-- [[gamma-oscillations]] — the high-frequency band most implicated in binding phenomena written into the brainwave.
-- [[theta-oscillation]] — the slower band coupled to memory addressing and inter-area entrainment.
-- [[eeg]] — the dominant readout modality for individual brainwave traces.
-- [[neurofeedback]] — the closed-loop practice in which a measured brainwave drives [[gh-a0206z|self]]-modulation.
-- [[predictive-coding]] — the active-inference frame the SAN brainwave story extends rather than replaces.
-- [[hard-problem-of-consciousness]] — the explanatory target SAN claims the brainwave-as-tomogram thesis addresses.
-
-## Source Provenance
-
-- Generated: 2026-04-24T16:29:34
-- Lane: C.draft (from packet)
-- Packet: `wiki/automation/packets/brainwave.json`
-- Evidence count: 499
-- Source ids: 00changelog--md, [[gh-02san|02san]]--md, 03san--md, [[gh-08san|08san]]--md, [[gh-09san|09san]]--md, [[gh-10san|10san]]--md, [[gh-12san|12san]]--md, [[gh-gpt2023x|GPT2023X]]--md, [[gh-gpt2024jan1tojan22|GPT2024Jan1toJan22]]--md, Hex_7--md, NAPOTConcepts--md, NotebookML_6_Collection--md, SAOv9--md, [[gh-whitepapernotes|WhitepaperNotes]]--md, a0001z--md, [[gh-a0003z|a0003z]]--md, a0004z--md, a0005z--md, [[gh-a0006z|a0006z]]--md, a0007z--md, a0008z--md, a0010z--md, a0011z--md, [[gh-a0017z|a0017z]]--md, [[gh-a0021z|a0021z]]--md, [[gh-a0031z|a0031z]]--md, [[gh-a0036z|a0036z]]--md, [[gh-a0048z|a0048z]]--md, [[gh-a0052z|a0052z]]--md, a0053z--md, [[gh-a0057z|a0057z]]--md, [[gh-a0058z|a0058z]]--md, [[gh-a0060z|a0060z]]--md, [[gh-a0062z|a0062z]]--md, [[gh-a0064z|a0064z]]--md, [[gh-a0066z|a0066z]]--md, [[gh-a0068z|a0068z]]--md, a0069z--md, [[gh-a0078z|a0078z]]--md, [[gh-a0082z|a0082z]]--md, [[gh-a0083z|a0083z]]--md, [[gh-a0084z|a0084z]]--md, [[gh-a0085z|a0085z]]--md, [[gh-a0086z|a0086z]]--md, [[gh-a0089z|a0089z]]--md, [[gh-a0090z|a0090z]]--md, [[gh-a0091z|a0091z]]--md, [[gh-a0093z|a0093z]]--md, [[gh-a0095z|a0095z]]--md, [[gh-a0099z|a0099z]]--md, [[gh-a0116z|a0116z]]--md, [[gh-a0117z|a0117z]]--md, [[gh-a0122z|a0122z]]--md, [[gh-a0123z|a0123z]]--md, a0127z--md, a0149z--md, [[gh-a0150z|a0150z]]--md, [[gh-a0156z|a0156z]]--md, [[gh-a0166z|a0166z]]--md, [[gh-a0178z|a0178z]]--md, [[gh-a0184z|a0184z]]--md, a0206z--md, [[gh-a0216z|a0216z]]--md, [[gh-a0218z|a0218z]]--md, [[gh-a0224z|a0224z]]--md, [[gh-a0229z|a0229z]]--md, [[gh-a0232z|a0232z]]--md, [[gh-a0233z|a0233z]]--md, a0238z--md, [[gh-a0239z|a0239z]]--md, [[gh-a0249z|a0249z]]--md, [[gh-a0250z|a0250z]]--md, [[gh-a0254z|a0254z]]--md, [[gh-a0258z|a0258z]]--md, [[gh-a0261z|a0261z]]--md, [[gh-a0264z|a0264z]]--md, a0270z--md, [[gh-a0284z|a0284z]]--md, a0288zslow--md, [[gh-a0291z|a0291z]]--md, [[gh-a0299z|a0299z]]--md, a0306z--md, [[gh-a0308z|a0308z]]--md, a0309z--md, a0310z--md, [[gh-a0314z|a0314z]]--md, a0319z--md, a0324z--md, a0325zNAPOT6--md, [[gh-a0326z|a0326z]]--md, [[gh-a0328z|a0328z]]--md, [[gh-a0333z|a0333z]]--md, [[gh-a0352z|a0352z]]--md, [[gh-a0354z|a0354z]]--md, [[gh-a0381z|a0381z]]--md, [[gh-a0393z|a0393z]]--md, [[gh-a0402z|a0402z]]--md, [[gh-a0404z|a0404z]]--md, [[gh-a0411z|a0411z]]--md, [[gh-a0412z|a0412z]]--md, [[gh-a0434z|a0434z]]--md, [[gh-a0435z|a0435z]]--md, [[gh-a0464z|a0464z]]--md, [[gh-a0469z|a0469z]]--md, [[gh-a0470z|a0470z]]--md, [[gh-a0480z|a0480z]]--md, [[gh-a0491z|a0491z]]--md, [[gh-a0492z|a0492z]]--md, [[gh-a0496z|a0496z]]--md, [[gh-a0502z|a0502z]]--md, [[gh-a0509z|a0509z]]--md, [[gh-a0510z|a0510z]]--md, [[gh-a0511z|a0511z]]--md, [[gh-a0521z|a0521z]]--md, [[gh-a0526z|a0526z]]--md, [[gh-a0541z|a0541z]]--md, [[gh-a0552z|a0552z]]--md, [[gh-a0561z|a0561z]]--md, [[gh-a0563z|a0563z]]--md, [[gh-a0569z|a0569z]]--md, [[gh-a0580z|a0580z]]--md, [[gh-a0588z|a0588z]]--md, [[gh-a0591z|a0591z]]--md, [[gh-a0595z|a0595z]]--md, a0597z--md, [[gh-a0603z|a0603z]]--md, [[gh-a0606z|a0606z]]--md, [[gh-a0607z|a0607z]]--md, [[gh-a0608z|a0608z]]--md, [[gh-a0611z|a0611z]]--md, [[gh-a0614z|a0614z]]--md, [[gh-a0624z|a0624z]]--md, [[gh-a0633z|a0633z]]--md, [[gh-a0634z|a0634z]]--md, [[gh-a0638z|a0638z]]--md, a0645z--md, [[gh-a0646z|a0646z]]--md, [[gh-a0649z|a0649z]]--md, [[gh-b0002y|b0002y]]--md, [[gh-b0017y|b0017y]]--md, [[gh-b0038y|b0038y]]--md, b0041y--md, b0042y--md, b0047y--md, b0054y--md, b0075ydone--md, [[gh-b0077y|b0077y]]--md, [[gh-b0098y|b0098y]]--md, [[gh-b0100y|b0100y]]--md, [[gh-b0103ywhisper|b0103ywhisper]]--md, [[gh-b0131y|b0131y]]--md, [[gh-b0132y|b0132y]]--md, [[gh-b0158y|b0158y]]--md, [[gh-b0195ywhisper|b0195ywhisper]]--md, [[gh-b0234y|b0234y]]--md, [[gh-b0252y|b0252y]]--md, [[gh-b0263y|b0263y]]--md, [[gh-b0300y|b0300y]]--md, [[gh-b0308y|b0308y]]--md, b0310ySci--md, b0314ySci--md, [[gh-b0315ywhisper|b0315ywhisper]]--md, [[gh-b0316ywhisper|b0316ywhisper]]--md, b0319ySage--md, b0321yGPT--md, [[gh-b0328ywhisper|b0328ywhisper]]--md, [[gh-c0000x|c0000x]]--md, c0001x--md, c0004x--md, draft1--md, draft2--md, draft3--md, draft4--md, draft5--md, draft6--md, map--brain--interface--md, map--napot--md, [[gh-nlp1|nlp1]]--md, [[gh-nlp2|nlp2]]--md, [[gh-nlp4|nlp4]]--md, [[gh-nlp7|nlp7]]--md, [[gh-nlpnervegear|nlpnervegear]]--md, [[gh-nlps2e1|nlps2e1]]--md, [[gh-nlps2e3|nlps2e3]]--md, oldhome--md, original_archive_b0314y--md, original_archive_b0315ytimecode--md, original_archived_b0004y--md, original_archived_b0067yrecorder--md, original_archived_b0101y--md, original_archived_b0103ygoogle--md, original_archived_b0103ytimecode--md, original_archived_b0195ygoogle--md, original_archived_b0195ytimecode--md, original_archived_b0268ygoogle--md, original_archived_b0276y--md, original_archived_b0321y--md, original_archived_b0328ygoogle--md, original_archived_b0328ytimecode--md, resnote06--md, resnote07--md, [[gh-rexnote06|rexnote06]]--md, [[gh-rexnote07|rexnote07]]--md, [[gh-rexnote13|rexnote13]]--md, [[gh-veca|vecA]]--md, vecB--md, [[gh-vecc|vecC]]--md, [[gh-vecd|vecD]]--md, whitepaperdraft1--md, whitepaperdraft2--md, whitepaperdraft3--md, y0031sci--md, y0037--md
-  - `00changelog--md` line 489 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `00changelog--md` line 573 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `00changelog--md` line 613 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `02san--md` line 65 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/02san.md
-  - `03san--md` line 7 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/03san.md
-  - `03san--md` line 22 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/03san.md
-
+---
+title: "Brainwave: Common Term, Measured Signal, and SAN Translation"
+tags: [san, brainwave, brain-rhythms, eeg, phase, measurement, medical-review]
+aliases: [Brainwave]
+summary: "A scale-aware translation of the common word brainwave, what EEG and related methods measure, and how SAN uses the term without turning one waveform into a single carrier of experience."
+status: governed
 ---
 
-*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
+# Brainwave: Common Term, Measured Signal, and SAN Translation
+
+> **Image status:** The previous phase-carrier diagram failed medical and scientific review and is
+> preserved in the do-not-use medical-review archive. It treated a brainwave as one carrier moving
+> through a fixed cellular-to-cortical-to-tomographic chain. No replacement image is accepted;
+> image generation remains paused.
+
+**Brainwave** is an informal singular word for a rhythmic-looking feature of recorded brain
+activity. It is not the name of one anatomical object, one electromagnetic packet, one cortical
+column output, or one signal that travels intact from a neuron to an EEG electrode.
+
+The scientifically more precise term is usually **brain rhythm** or a named feature of a declared
+measurement: an intracellular oscillation, spike-timing pattern, local field potential, ECoG event,
+EEG component, MEG component, transient burst, or traveling wave. These measurements can be
+related, but they are not interchangeable. See [[brain-rhythms|Brain Rhythms]] for the full
+measurement and mechanism account.
+
+## What the word can mean
+
+| Use of "brainwave" | More precise description | What must not be inferred |
+|---|---|---|
+| A visible deflection in one EEG channel | A voltage difference between a recording channel and its reference, produced by spatially mixed neural and non-neural sources | It is not one neuron's action potential or a direct photograph of one brain region. |
+| Power in a named band | Spectral power within an analysis range after declared preprocessing | It does not by itself identify an oscillatory generator, cognitive function, or diagnosis. |
+| A repeated local pattern | A periodic, quasi-periodic, or transient event in an intracellular, LFP, or ECoG signal | It need not appear as the same waveform at the scalp. |
+| A traveling wave | An organized spatial phase gradient across recording sites | It is not a single object passing unchanged through tissue. |
+| A SAN "brainwave" | Source-language shorthand for distributed, time-varying neural activity and its relative phase organization | It is not proof that one global field or one EEG trace constitutes experience. |
+
+## What EEG measures
+
+Neural transmembrane currents generate extracellular potentials and fields. Synaptic currents are
+major contributors in many preparations, while action potentials, voltage- and ligand-gated
+currents, intrinsic membrane activity, geometry, and return currents can also shape the measured
+signal ([Buzsaki, Anastassiou, and Koch, 2012](https://pubmed.ncbi.nlm.nih.gov/22595786/)).
+
+Scalp EEG records voltage differences after those sources have been spatially mixed and conducted
+through brain, cerebrospinal fluid, skull, and scalp. Electrode position, head geometry, source
+orientation, distance, reference choice, filtering, artifacts, and cancellation all affect the
+trace. Volume conduction therefore makes a scalp waveform topographically ambiguous without a
+forward model and other constraints
+([Tenke and Kayser, 2012](https://pubmed.ncbi.nlm.nih.gov/22796039/)).
+
+A useful schematic measurement model is:
+
+```text
+V_e(t) = sum_k w_e,k I_k(t) + A_e(t) + epsilon_e(t)            [1]
+```
+
+`V_e(t)` is the voltage at electrode `e`; `I_k(t)` represents contributing neural current sources;
+`w_e,k` represents geometry and conduction; `A_e(t)` represents physiological or instrumental
+artifacts; and `epsilon_e(t)` represents residual error. Equation [1] is a measurement abstraction,
+not a complete head model.
+
+MEG measures magnetic fields generated by neural current flow and has different source-orientation
+and geometry sensitivities. LFP, ECoG, EEG, and MEG should not all be labeled one electromagnetic
+signal. Hemodynamic methods such as fMRI and fNIRS provide still different, slower consequences of
+neural activity rather than direct millisecond phase measurements.
+
+## A wave-looking trace is not always an oscillator
+
+Electrophysiological power spectra contain periodic peaks and aperiodic structure. A change in
+power inside a conventional frequency band can reflect a change in oscillatory power, peak
+frequency, bandwidth, broadband offset, or aperiodic exponent. These possibilities should be
+separated before assigning physiology or cognition
+([Donoghue et al., 2020](https://pubmed.ncbi.nlm.nih.gov/33230329/)).
+
+Rhythmic events can also be brief. Beta and gamma activity recorded during primate working-memory
+tasks often appeared as transient, variable bursts rather than continuously sustained clocks
+([Lundqvist et al., 2016](https://pubmed.ncbi.nlm.nih.gov/26996084/)). A conventional band label is
+therefore a search range, not a universal cognitive channel.
+
+## What phase means
+
+For a sufficiently resolved oscillatory component, an analysis can estimate instantaneous phase.
+For two declared signals:
+
+```text
+Delta_phi_ij(t) = wrap(phi_i(t) - phi_j(t))                   [2]
+```
+
+This relative phase can help describe locking, lag, traveling activity, or structured dispersion.
+It does not automatically reveal direct communication, because common input, volume conduction,
+reference choice, filtering, and low signal-to-noise ratio can produce or distort apparent phase
+relations. Different phase-estimation methods agree most reliably when an actual rhythm is present
+and uncertainty is low
+([McClain et al., 2023](https://pubmed.ncbi.nlm.nih.gov/37833061/)).
+
+Phase is therefore an analysis of a declared signal at a declared scale. It is not a free-standing
+substance or a tomographic slice by definition.
+
+## Recovering the SAN intent
+
+The rejected generated page transformed a real SAN proposal into the stronger claim that one
+singular brainwave is a "phase-bearing carrier." The dated source supports a different reading.
+
+On July 31, 2022, `map.napot.md` stated that reality is rendered in phase variances of brainwave
+activity and immediately located the observing process in distributed neural arrays, circuits, and
+oscillating cell groups. The important source operations are:
+
+```text
+expected, common tonic timing distribution
+-> excitation or inhibition produces an uncommon departure
+-> receiver-relative phase-wave differential
+-> greater conditional surprisal than the repeated tonic event
+-> local detection, transformation, and recurrent redistribution
+-> distributed perceptual, learning, or embodied consequence
+-> gradual absorption into, or later re-expression from, updated tonic context
+```
+
+That is a hypothesis about **relations among many changing neural processes**. It does not require
+one EEG waveform to be the percept, one field to contain every feature, or a little viewer to read a
+screen. The network's receivers, transmitters, recurrent pathways, field-cell interactions, and
+motor consequences collectively form the proposed observer-action process.
+
+The source-faithful translation is:
+
+> In SAN, "brainwave" is sometimes used as compact language for an organized population pattern.
+> A regular, expected synchronized pattern supplies a low-surprisal context. The proposed
+> information-bearing object is the sparser, distributed pattern of receiver-relative differences
+> caused by excitation, inhibition, or other state changes, not an isolated sinusoid or scalp trace.
+
+## Tonic context and phasic difference
+
+SAN distinguishes an ongoing **tonic context** from relatively differentiated **phasic events**.
+These are functional, receiver- and time-window-relative roles rather than fixed EEG frequency
+bands. A tonic state can supply a maintained context; excitation, inhibition, burst structure,
+waveform change, or altered timing can supply a phasic departure; recurrence can then redistribute
+and gradually absorb or re-express that departure.
+
+### The Shannon-information distinction
+
+The SAN source is explicit that the tonic/phasic distinction is also statistical. A repeated,
+predictable tonic event has low self-information under the receiver's learned baseline. An uncommon
+departure has greater self-information because its baseline probability is lower. For event `x_i`,
+receiver `r`, tonic baseline model `p_0`, and context `C`:
+
+```text
+I_r(x_i | C) = -log2 p_0,r(x_i | C)                           [3]
+```
+
+This is Shannon surprisal. It formalizes the source statement that common tonic events are low in
+information while rare phasic or high-phasic departures are higher in information. It does not by
+itself establish what the event means. A rare artifact can have high surprisal without being useful;
+SAN additionally requires a receiver that is tuned to detect the departure and a reproducible
+downstream consequence.
+
+For inter-event intervals `Delta_t`, ordinary coefficient of variation is:
+
+```text
+CV_r = sigma(Delta_t_r) / mean(Delta_t_r)                     [4]
+Delta_CV_r = CV_event,r - CV_tonic,r                          [5]
+```
+
+`Delta_CV_r` is one candidate measure of departure from a regular tonic cadence. CV is not itself a
+number of information bits, and ordinary CV does not measure circular phase. Phase difference,
+circular dispersion, frequency, amplitude, duration, waveform, transmitted quantity, spatial
+position, and receiver consequence may each be separate dimensions.
+
+The later SAN term [[phase-wave-differential|phase-wave differential]] names that proposed typed,
+multidimensional departure from a receiver's expected state. The mature formulation is therefore:
+
+```text
+PWD_r,i = X_r,i - E_0,r[X | C]                                [6]
+```
+
+where `X` must declare its measured dimensions and scale. The PWD is proposed to become meaningful
+through the receiver's learned tuning and its causal effect, not merely because a signal is unusual.
+
+### Synchrony is context, not automatically content
+
+A highly regular, phase-locked gamma pattern can be low-surprisal **when that pattern is the expected
+tonic state for the declared receiver and interval**. Excitatory or inhibitory events that disrupt
+that expectation can carry more conditional information. This is the source-faithful sense in which
+desynchronization can be meaningful.
+
+Gamma is not intrinsically low-information, however. A rare onset of gamma coordination can itself
+be informative in another context, and a desynchronized pattern can be random noise. The SAN claim
+is conditional and receiver-relative:
+
+> Expected coordination supplies the canvas; statistically uncommon, causally effective departures
+> supply differentiated ink.
+
+This formulation preserves both sides of the SAN operator: coordination supports shared timing and
+coupling, while excitation- or inhibition-driven differentiation supplies contrast, boundary, and
+potentially higher-surprisal content.
+
+## What the gamma-consciousness literature established and left open
+
+SAN enters a long scientific conversation rather than inventing the connection between gamma and
+consciousness. Crick and Koch proposed coherent oscillations around 40-70 Hz as a possible mechanism
+for binding features into visual awareness in 1990. Later human studies associated conscious
+perception with transient long-distance gamma synchronization
+([Melloni et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC6672558/)) and with theta-organized
+gamma-synchronous assemblies during binocular rivalry
+([Doesburg et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19582165/)). Gamma synchrony has also been
+studied in visual grouping, attention, memory, selective transmission, and plasticity
+([Tallon-Baudry, 2009](https://pubmed.ncbi.nlm.nih.gov/19273069/)).
+
+Those findings make gamma timing a serious empirical bridge, but they do not make gamma the unique
+seat of consciousness. Gamma activity can reflect task relevance or post-perceptual processing
+rather than awareness itself
+([Pitts et al., 2014](https://pubmed.ncbi.nlm.nih.gov/25063731/)), and greater gamma power has occurred
+without awareness in a masking preparation
+([Aru and Bachmann, 2009](https://pubmed.ncbi.nlm.nih.gov/19071195/)).
+
+The source-defined SAN addition is not merely "gamma correlates with consciousness." It is the
+joined explanatory move:
+
+```text
+common coordinated state
+-> low-surprisal tonic reference
+-> excitation- or inhibition-driven timing departure
+-> higher-surprisal PWD at a tuned receiver
+-> differentiated content, routing, or action consequence
+-> recurrence, dissipation, and possible plasticity
+```
+
+This applies Claude Shannon's conditional self-information to the problem that synchrony theories
+leave open: how a coordinated population can supply a common context while differences within that
+population carry distinguishable content. Information theory had already been used widely in
+neuroscience; the SAN claim concerns this particular integration of tonic coordination, uncommon
+phase-wave differentials, receiver tuning, rendering, and recurrent consequence.
+
+## Fields are physical; the constitutive claim remains open
+
+Endogenous neural currents generate electric fields. In one neocortical-slice slow-oscillation
+preparation, weak fields within measured endogenous ranges modulated and entrained network activity
+([Frohlich and McCormick, 2010](https://pubmed.ncbi.nlm.nih.gov/20624597/)). This provides a bounded
+empirical bridge for field-to-tissue feedback.
+
+It does not establish that a macroscopic brainwave is separable from the cells, membranes, ions,
+synapses, and geometry that generate and respond to it. It also does not establish SAN's stronger
+identity hypothesis that organized field-cell differences constitute qualitative experience.
+
+## Neurofeedback does not write a waveform directly
+
+Neurofeedback is a closed loop: a selected feature of EEG, fMRI, or another signal is estimated and
+returned to a participant as sensory feedback; learning, strategy, attention, reward, and physiology
+may then alter future measurements. The feedback feature is a proxy chosen by the protocol, not a
+complete reading of a thought or direct control knob for one brainwave
+([Sitaram et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28003656/)).
+
+This distinction preserves the legitimate Neo Mind Cycle and brain-computer-interface program:
+measured state can participate in a two-way adaptive loop without claiming that the display exposes
+or rewrites the full neural render.
+
+## Discriminating tests
+
+1. **Estimate the baseline before scoring the event.** For a named receiver, circuit, task, and
+   behavioral state, estimate the tonic event distribution on training data. Test surprisal on held-
+   out events rather than labeling every phasic event informative after inspection.
+2. **Compare representations.** Test whether the preregistered multidimensional PWD predicts the
+   receiver's next state, behavior, or report beyond spike rate, band power, phase alone, prediction
+   error, ordinary CV, and aperiodic spectral parameters.
+3. **Perturb excitation and inhibition separately.** Use pathway- and cell-type-bounded interventions
+   to create matched advances, delays, suppressions, and waveform changes. Measure whether the
+   receiver consequence follows the predicted direction rather than merely correlating with power.
+4. **Separate uncommon coordination from uncommon dispersion.** A rare gamma-locking onset and a rare
+   loss of locking can both have high surprisal in different contexts. Match probability and signal-
+   to-noise ratio, then test whether spatial organization and receiver tuning explain their distinct
+   consequences.
+5. **Separate structured PWD from artifact or random noise.** Match event probability and CV while
+   scrambling spatial phase, source identity, or pathway timing. SAN predicts that tuned,
+   causally organized departures should outperform equally rare but structurally irrelevant events.
+6. **Track recurrence, dissipation, and learning.** Measure whether an effective departure propagates,
+   changes local or distributed state, decays into an updated baseline, or biases later synaptic and
+   behavioral responses. Do not infer plasticity from one transient event.
+7. **Cross the measurement scales explicitly.** Simultaneously record cellular or laminar activity,
+   LFP/ECoG, and EEG or MEG where feasible. Fit the transformation among scales rather than treating
+   all traces as the same brainwave.
+
+## Claim ladder
+
+| Claim | Status |
+|---|---|
+| Neural activity generates measurable extracellular electrical and magnetic signals. | Established, with modality- and geometry-specific constraints. |
+| Recorded signals can contain recurrent, transient, traveling, periodic, and aperiodic structure. | Established broadly. |
+| Relative phase can help characterize neural coordination when the rhythm and estimator are valid. | Supported in bounded preparations and analyses. |
+| An event that is less probable under a declared baseline has greater Shannon self-information. | Mathematically established; the baseline and event alphabet must be declared. |
+| A regular phase-locked pattern can be low-surprisal context while an uncommon departure carries more information. | Valid conditional information-theory statement; its proposed neural-rendering role is SAN-specific. |
+| Every gamma event is low-information, or every desynchronization is meaningful. | Not supported; probability, receiver, context, and causal consequence matter. |
+| One scalp EEG waveform is a direct copy of one local neural process. | Not supported. |
+| A singular brainwave is the physical carrier on which all perceptual content is written. | Not a medically supported formulation and not required by the recovered SAN source. |
+| Distributed receiver-relative phase and state differences participate in recurrent rendering. | Open, testable SAN hypothesis. |
+| Organized field-cell differences constitute qualitative experience. | Stronger SAN identity hypothesis; unresolved. |
+
+## Source-faithful chronology
+
+- **July-August 2012, Neo Mind Cycle stage:** public EEG-feedback material describes coordinated
+  neural sequences and a two-way brain-to-light-and-sound loop. This is a neurofeedback and
+  coherence-gating ancestor, not yet NAPOT or PWD.
+- **June 2022, public Git sources:** SAN notes develop oscillating groups, tonic and differentiated
+  activity, coherence and separation, cellular reception, recurrent transmission, and possible
+  field feedback. Individual claims retain their exact source dates.
+- **July 31, 2022, public Git fixation:** `map.napot.md` explicitly joins brainwave phase variance,
+  distributed neural arrays, volumetric experience, and the absence of a centralized viewer. The
+  phrase first appears in commit
+  [`f36a268`](https://github.com/v5ma/selfawarenetworks/blob/f36a26890aaac06fef614e94e37f31b7799e08c8/map.napot.md#L98).
+- **August 22, 2022, explicit information-theory fixation:** `a0004z.md` states that high-phasic
+  events are rare and therefore higher in information, while common tonic activity is low in
+  information; it also proposes gradual oscillatory absorption of the differential. The wording
+  appears in commit
+  [`9911b61`](https://github.com/v5ma/selfawarenetworks/blob/9911b61b401aeb9aab74cd765a18e7b7019eff5e/a0004z.md#L24).
+- **September-November 2022, NAPOT development:** `a0296zWhisker.md` and `a0310z.md` develop tonic
+  context, phasic difference, useful desynchronization, recurrent rendering, dissipation, and
+  embodied action. On November 28, `a0310z.md` explicitly identifies irregular intervals as
+  information in Claude Shannon's sense
+  ([commit `4e0cf1e`, line 126](https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0310z.md#L126)).
+  Some physiological details in those working notes remain hypotheses or require translation; their
+  intended operators are not discarded.
+- **2025, later synthesis:** `08san.md` and `09san.md` restate the perceptual-screen and phase-
+  variance argument. They are later synthesis, not the 2022 origin of the claim.
+- **June 15, 2025, coefficient-of-variation extension:** `13san.md` describes phase or traveling-wave
+  signals that differ in coefficient of variation from the mean synchronization pattern. This is a
+  later formal extension, not a backdated 2022 term
+  ([commit `5a59de9`, line 16](https://github.com/v5ma/selfawarenetworks/blob/5a59de90de6554cb35a253af68a7ba9cd6927705/13san.md#L16)).
+- **2026, generated-page correction:** the Lane C page and its figure incorrectly promoted the
+  shorthand into one singular carrier. This governed page restores the distributed, scale-aware
+  interpretation.
+
+## Source custody
+
+- `map.napot.md` SHA-256: `B78B8B786D15E597128E0F11422BEE85D64ECB31CB197AA23F25B508E6C30702`
+- `a0004z.md` SHA-256: `D402B3B33D0B1D067FF2B18398E8E4F808E32EE333D6BF66CB4F061EB72CAB44`
+- `a0296zWhisker.md` SHA-256: `A5C5DEF19182FE925CF50290885E8744BBBCEE5D9C1EAC053D75C6FDCB10C341`
+- `a0310z.md` SHA-256: `D99CC6444619B7FCD69AC2A293FE6864BA7F0CB79C3EC5BC5F93092C05B0A477`
+- `13san.md` SHA-256: `D5F54BB81D9F6ABDADE7078D3C1A165D85FB8A1B3742E523A271861F7FD69A6F`
+
+The current files, their internal dates, their public Git fixation dates, and later synthesis dates
+remain separate. `genealogydata.txt` was used only as a cross-reference link pack; no scientific or
+historical claim was accepted from it without opening the underlying source.
+
+## Read next
+
+- [[brain-rhythms|Brain Rhythms: Measurement, Coordination, and the SAN Hypotheses]]
+- [[brainwaves|Brainwaves in SAN Source History]]
+- [[brain-rhythms-in-cognition|Brain Rhythms in Cognition]]
+- [[eeg|EEG]]
+- [[neural-oscillations|Neural Oscillations]]
+- [[traveling-waves-neural-oscillations|Traveling Waves in Neural Oscillations]]
+- [[tonic-phasic-phase-wave-differential|Tonic Baseline, Phasic Update, and PWD]]
+- [[phase-wave-differential|Phase-Wave Differential]]
+- [[neural-array-projection-oscillation-tomography|Neural Array Projection Oscillation Tomography]]
+- [[entification-observer-problem|Entification and the Distributed Observer]]
+- [[neo-mind-cycle|Neo Mind Cycle]]

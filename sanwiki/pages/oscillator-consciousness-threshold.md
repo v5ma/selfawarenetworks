@@ -54,6 +54,7 @@ tests among sensitivity, memory, access, report, flexible control, and phenomena
 
 ## Read next
 
+- [[machine-self-report-active-canvas-consciousness-test|From Machine Self-Report to an Active-Canvas Test]]
 - [[minimum-observer-circuit|Minimum Observer Circuit]]
 - [[observer-mechanism|Observer Mechanism]]
 - [[field-cell-self-bioelectric-information-entity|The Field-Cell Self]]

@@ -123,4 +123,3 @@ the whole intercellular message.
 - [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]]
 - [[neural-path-selection-interneurons-choice|Neural Path Selection and Choice]]
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]]
-

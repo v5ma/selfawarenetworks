@@ -95,6 +95,7 @@ The PWD-specific extension is weakened if rate-only recurrence and reference-sta
 
 ## Read next
 
+- [[volumetric-predictive-rendering|Volumetric Predictive Rendering]]
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]]
 - [[neural-rendering|Neural Rendering]]
 - [[tonic-phasic-phase-wave-differential|Tonic Baseline, Phasic Update, and PWD]]
@@ -103,4 +104,4 @@ The PWD-specific extension is weakened if rate-only recurrence and reference-sta
 
 ## Image status
 
-No medically accepted image is assigned to this page. A bounded replacement specification is recorded as `IMG-SAN-CASCADE-PERSPECTIVE-001` in the SAN medically accurate image-prompt ledger.\r\n
+No medically accepted image is assigned to this page. A bounded replacement specification is recorded as `IMG-SAN-CASCADE-PERSPECTIVE-001` in the SAN medically accurate image-prompt ledger.

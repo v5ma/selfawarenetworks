@@ -60,4 +60,3 @@ recurrent routing, and receiver-specific transformation.
 - [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]]
 - [[early-a0374-a0396-obscure-argument-map|Early a0374-a0396 Obscure Argument Map]]
 - [Williams and Stuart, 2000](https://doi.org/10.1523/JNEUROSCI.20-22-08238.2000)
-

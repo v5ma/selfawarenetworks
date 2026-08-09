@@ -1,23 +1,69 @@
-Umami taste detection is not accomplished by a single receptor type. Research cited in a0272z establishes that umami detection "may involve multiple receptors expressed in different subsets of taste cells," meaning no single receptor encodes the complete umami stimulus — instead, the flavor sensation emerges from the combinatorial coincident activation pattern across distinct receptor-expressing cell populations.
+---
+title: "Umami Receptor Diversity and Coincident Sensory Inputs"
+tags: [san, taste, receptors, sensory-transduction, coincidence-detection]
+aliases: [Umami Multi Receptor Coincidence Detection]
+summary: "How receptor diversity in taste supports a source-faithful SAN question about distributed sensory transformations without treating one peripheral code as a complete experience."
+status: governed
+---
 
-## SAN Significance
+# Umami Receptor Diversity and Coincident Sensory Inputs
 
-This is a peripheral sensory implementation of [[coincidence-pattern-neural-information]]: just as cortical [[cellular-oscillating-tomography]] (COT) builds internal representations from coincident oscillatory inputs at the single-cell level, taste discrimination at the receptor sheet uses combinatorial coincidence detection across cell types to encode flavor complexity.
+Umami detection is not exhausted by one receptor type. Work cited in `a0272z.md` describes evidence
+that multiple receptor families and different taste-cell subsets can contribute to umami responses.
+That supports a combinatorial peripheral input problem: different mixtures can change the pattern of
+receptor and taste-cell activation. It does not establish that one receptor population contains the
+complete taste experience.
 
-The key SAN insight: a **single receptor model** is insufficient at every level of the nervous system. Richer representations always emerge from *distributed* activation patterns — here, which subset of taste receptor cells fire together determines perceived flavor quality, not simply how strongly any individual receptor fires.
+Primary routes include [Chaudhari, Pereira, and Roper (2009)](https://doi.org/10.3945/ajcn.2009.27462H)
+on multiple proposed umami receptors and [Taruno et al. (2013)](https://doi.org/10.1038/nature11906)
+on CALHM1-dependent ATP release in tested mouse sweet, bitter, and umami taste cells.
 
-## The Transduction Chain in Taste
+## SAN significance
 
-For umami specifically, the multi-receptor signal passes through metabotropic G-protein-coupled receptors → G-protein activation → cAMP cascade → ion channel modulation → modified neurotransmitter release → upstream neural encoding. This is the same cAMP-mediated phase-modulation chain as in auditory hair cells (see [[auditory-gating-spring-camp]]) — demonstrating that receptor-level phase tuning is a general sensory strategy, not specific to hearing.
+This is a peripheral sensory analogue for [[coincidence-pattern-neural-information]]. Several receptor
+and taste-cell responses can contribute partial information to an afferent pathway. It is not a
+demonstration that a taste bud performs cortical COT, that peripheral cells bind a full conscious
+object, or that all cell populations oscillate together in one shared way.
 
-## Why Subsets Matter
+The source-faithful SAN question is whether receptor diversity, cellular state, downstream timing,
+and later network context provide a richer account of sensory discrimination than a one-receptor or
+one-scalar description. That is a hypothesis about linked transformations across levels, not a claim
+that every sensory quality is already specified at the receptor sheet.
 
-Receptor expression in distinct cell *subsets* means the detection is inherently comparative: activation of receptor-type A without type B (or vice versa) produces a different coincidence pattern than co-activation. The brain receives a combinatorial code, not a scalar signal. This maps directly to the COT principle: distributed receptor populations function as a biological [[coincidence-pattern-neural-bit]] array.
+## The transduction boundary
 
-## Outbound Links
+Taste transduction is cell-type- and receptor-specific. Some umami pathways use G-protein-coupled
+receptors and intracellular signaling; Type II taste cells can release ATP through CALHM-family
+channels. These mechanisms should not be collapsed into a generic sequence of cAMP change ->
+potassium-channel duration -> action-potential duration -> vesicle count. The 2022 source was asking
+whether intracellular state could shape later output; the medically defensible version is that the
+route, transmitter, and output mode must be measured for the named taste-cell preparation.
 
-- [[cellular-oscillating-tomography]] — COT: oscillatory coincidence detection at cell level
-- [[coincidence-pattern-neural-information]] — the general principle of coincidence-based coding
-- [[auditory-gating-spring-camp]] — the analogous cAMP phase-tuning mechanism in hearing
-- [[camp-neural-phase-modulation]] — cAMP as modulator of phase output across sensory systems
-- [[napot]] — how peripheral sensory patterns propagate to neural array projections
+The rat outer-hair-cell cAMP/gating-spring finding is a distinct auditory result, not proof of an
+identical umami cascade. See [[auditory-gating-spring-camp|Auditory Gating-Spring Modulation]] for
+that boundary.
+
+## Why subsets matter
+
+Receptor expression in distinct cell subsets makes the input comparative: activation of one subset,
+another subset, or both can produce different peripheral response patterns. Those patterns are
+candidate inputs to later sensory pathways rather than a scalar quantity. SAN uses this as one
+possible starting point for its broader receive -> transform -> project account.
+
+## SAN and experimental boundary
+
+SAN proposes that a learned sensory quality depends on receiver-relative changes across later neural
+arrays and recurrent body-world action loops. The peripheral umami pattern is therefore one input
+stage, not a standalone qualia mechanism. A useful test would measure a declared tastant mixture,
+taste-cell or afferent response, central response, discrimination, and action, then compare models
+that use single-receptor, multi-receptor, and broader state-dependent variables.
+
+## Read next
+
+- [[receptor-to-phase-sensory-quantification|Receptor-to-Phase Sensory Quantification]]
+- [[gh-a0272z|Taste and Hearing: Sensory Input Quantification]]
+- [[broccoli-shared-recognition-artificial-perception|Broccoli and Artificial Perception]]
+- [[bci-instrument-atlas|BCI Instrument Atlas]]
+- [[cellular-oscillating-tomography|Cellular Oscillating Tomography]]
+- [[coincidence-pattern-neural-information|Coincidence Pattern and Neural Information]]
+- [[auditory-gating-spring-camp|Auditory Gating-Spring Modulation]]

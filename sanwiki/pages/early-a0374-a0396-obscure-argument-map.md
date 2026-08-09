@@ -188,4 +188,3 @@ two requirements:
 - [[microtubule-to-circuit-scale-translation|Microtubule-to-Circuit Scale Translation]]
 - [[conscious-state-perturbation-tomography|Conscious-State Perturbation Tomography]]
 - [[bci-instrument-atlas|BCI Instrument Atlas]]
-

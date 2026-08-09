@@ -114,6 +114,10 @@ prediction of route commitment after firing rate, spike timing, task variables, 
 state are included, the PWD-specific extension loses support even if the broader distributed-choice
 account remains viable.
 
+[[electrical-valence-receiver-relative-drive|Electrical Valence]] names the proposed receiver-
+relative effective drive in that route-to-action bridge. It does not rename affective valence,
+field power, or muscular energy.
+
 ## Read next
 
 - [[neural-path-selection-interneurons-choice|Neural Path Selection, Interneurons, and Choice Across Scales]]

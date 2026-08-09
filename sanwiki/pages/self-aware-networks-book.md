@@ -1,29 +1,72 @@
-*[Self Aware Networks](self-aware-networks.md): [Neo Mind Cycle](neo-mind-cycle.md), Artificial Neurology* is [Micah Blumberg](gh-resnote04.md)'s core theoretical work - approximately 300 pages covering the human brain, brain-computer interfaces, and neural networks. Work began April 2021; notes are published incrementally on GitHub as an open-access form of release.
+---
+title: "The Self-Aware Networks Book Program"
+tags: [san, book, book-1, book-2, source-genealogy]
+aliases: [Self Aware Networks Book, SAN Book Program]
+summary: "The SAN book program developed from a 2022 neurophysics-BCI-artificial-neurology scope into a molecular bridge volume, a 31-chapter Self-Aware Networks research edition, and the expandable SAN Encyclopedia."
+status: governed
+---
 
-## Structure
+# The Self-Aware Networks Book Program
 
-Three major sections:
+The SAN book program asks how living neural tissue receives differences, changes through experience,
+constructs an actionable body-world model, considers alternatives, and acts. It also asks how those
+operations can be measured through brain-computer interfaces and translated into testable
+artificial systems.
 
-1. **The human brain** - oscillatory encoding, [cellular oscillating tomography](cellular-oscillating-tomography.md), [NAPOT](napot-overview.md), and the SAN theory of conscious perception.
-2. **Brain-computer interfaces** - connecting the theory to BCI design; neural correlates visualized as audio via fNIRS and electrode arrays.
-3. **Neural networks** - implications for artificial systems; path toward [conscious neural networks](conscious-neural-networks.md).
+## Dated development
 
-The full argument builds from thousands of pages of notes dating back to 2010, organized around a table of contents developed in 2021-2022.
+| Stage | Preserved role | Boundary |
+|---|---|---|
+| [[gh-b0075ydone|The Scope of the Book]], June-August 2022 Git history | Joins the neurophysics of consciousness, read-write brain interfaces, artificial neural networks, and human-machine interaction. | A spoken and written scope source. Its tentative physiology and device ideas require later source and medical review. |
+| [[saov9-self-aware-networks-overview|SAOv9]], publicly Git-fixed January 4, 2024 | Expands the program into fourteen cycles and 700 prompts spanning Neo Mind Cycle, neurophysics, and Artificial Neurology. | A planning and source-discovery artifact, not the current manuscript and not evidence that every prompt is correct. |
+| *Bridging Molecular Mechanisms and Neural Oscillatory Dynamics*, 2024 | Develops the molecular-to-oscillatory bridge behind memory and network dynamics. | A separate volume with its own argument; it should not be collapsed into the later book. |
+| *Self-Aware Networks: How Living Neural Tissue Builds a World, a Self, and a Way to Act*, 2026 research edition | Organizes the broader SAN account into thirty-one chapters and six parts. | Current editorial architecture, not an earlier historical claim. |
+| [[self-aware-networks|SAN Encyclopedia]] | Preserves deeper concepts, source genealogy, evidence, experiments, applications, and image specifications. | Expandable authority, not a fixed chapter count and not a substitute for source review. |
 
-## Key hypothesis (from a0087z)
+## Two books, connected jobs
 
-Meditation and sleep reduce body/mind activity, lowering [ATP](atp.md) and oxygen consumption and reducing pro-inflammatory signaling. This connects contemplative practice to cellular health via metabolic downregulation - a biological grounding for the meditative states that SAN theory treats as revealing the brain's oscillatory baseline.
+**The molecular bridge volume** focuses on how receptor state, intracellular signaling, synaptic
+change, metabolic support, and cellular morphology can affect oscillatory neural dynamics. Its
+Encyclopedia entry route is [[bridging-molecular-mechanisms|Bridging Molecular Mechanisms]].
 
-## Vision: [SAN Institute](self-aware-networks-institute.md)
+**The Self-Aware Networks volume** follows the larger causal journey:
 
-Alongside the book, the project envisions:
-- **WebXR book interface** - 3D carousel for navigating the content, aligned with the v5ma carousel project.
-- **fNIRS biofeedback VR/AR** - real-time neural correlate visualization.
-- **Conscious artificial neural networks** - the long-term goal stated in 2012.
+```text
+historical BCI and neurofeedback problem
+-> multimodal sensing and embodied reference
+-> cellular and dendritic recognition
+-> tonic context and differentiated updates
+-> recurrent reconstruction and memory re-expression
+-> consideration, value, inhibition, and route selection
+-> action and returned sensory consequence
+-> artificial-neurology implementations and discriminating tests
+```
 
-## See also
+## What changed from earlier descriptions
 
-- [NAPOT](napot-overview.md) - the central theoretical framework of the book.
-- [Neo Mind Cycle](neo-mind-cycle.md) - the cycle model of conscious processing, one of three named components.
-- [Self Aware Network](self-aware-network.md) - the foundational concept.
-- [SAN Institute](self-aware-networks-institute.md) and v5ma platform bridge - how the Institute vision maps onto the v5ma platform; no approved local route was found for the v5ma bridge concept in this bounded repair pass.
+Earlier reader pages described the book as an approximately 300-page, three-section object. That
+description captured a real stage of the project, but it no longer defines the current edition.
+SAOv9's three parts remain historically important; the current book uses six parts and thirty-one
+chapters to separate sensory systems, cellular mechanisms, rendering, action, engineering, and
+evidence boundaries more clearly.
+
+The same source-faithful rule applies to scientific language. An early metaphor, device idea, or
+compressed anatomical statement is first treated as an intent-recovery question. The strongest
+source-supported version is then separated into established physiology, bounded compatibility,
+SAN interpretation, and open experiment.
+
+## Relationship to the Encyclopedia
+
+The book earns the main argument in sequence. The Encyclopedia supports several reading paths at
+once:
+
+- mechanism: [[receptive-inceptive-dendritic-projection|receive, transform, and project]];
+- representation: [[tonic-phasic-phase-wave-differential|tonic context and differentiated updates]];
+- reconstruction: [[napot-overview|NAPOT Overview]];
+- memory: [[memory-as-regenerable-pattern|Memory as Regenerable Pattern]];
+- agency: [[choice|Choice]] and [[actions|Actions]];
+- engineering: [[brain-computer-interface|Brain-Computer Interface]] and [[artificial-neurology|Artificial Neurology]];
+- evidence control: [[consciousness-claim-and-evidence-ladder|Consciousness Claim and Evidence Ladder]].
+
+See [[self-aware-networks-book-overview|Self-Aware Networks Book and Encyclopedia Overview]] for the
+current navigation spine and [[saov9-source-inventory-book2-routing|SAOv9 Source Inventory and Book 2 Routing]] for the historical prompt reconciliation.

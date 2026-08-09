@@ -1,56 +1,376 @@
-# Qualia
-
-![Qualia medical-textbook plate showing tonic cortical canvas, phase-wave differentials as ink of qualia, persistence threshold, redness as a stable rendered qualia pattern, and altered tonic oscillation changing subjective content](/v5ma.github.io/wiki/assets/generated/san/qualia/qualia-phase-differential-cortical-canvas-20260705-v1.png)
-
-This SAN plate maps qualia as phase-differential render changes on a cortical-column canvas: tonic oscillation supplies the baseline, phase-wave differentials modify the canvas, and only patterns above the persistence threshold stabilize as subjective content.
-
-**Qualia** in [[self-aware-networks|Self-Aware Networks]] are the subjective contents of [[consciousness]] — "the redness inside human experience" — formalized by [[gh-resnote04|Micah]] as oscillatory [[phase-wave-differentials|phase-wave differentials]] etched onto the [[cortical-columns|cortical-column]] canvas. The signature SAN slogan, from [[12san|12san]], is that [[cortical-columns|cortical columns]] are "the canvas of [[consciousness]]" and the [[phase-wave-differentials|Phase Wave Differentials]] are "the Ink of Qualia that modifies that canvas temporarily" — a [[neural-rendering-of-qualia|neural-rendering]] account that relates [[brain-as-rendering-engine|brain rendering]] to the non-dualist [[ground-of-being|Ground of Being]].
-
-## Origin
-
-The earliest dated material in the packet is a 2023 part-1 manuscript fragment (`dl-oct6-2025--part_1`, paper-[[gh-resnote04|micah]], 2023) where [[gh-resnote04|Micah]] introduces the framing: "There is a new explanation for internal representations or qualia. Note a0306z explores the question of Qualia: Internal Representation: ie What is the redness inside human experience?" A 2024 GPT-era memo gives the operational definition [[gh-resnote04|Micah]] will keep through the SIT manuscript family: "Sensory Input Qualia I consider to be a set of distinct oscillating isomorphic [[phase-wave-differentials|phase wave differentials]], above a certain threshold of activity persistence" (`dl-oct6-2025--GPT2024Jan1toJan22`, paper-[[gh-resnote04|micah]], 2024). [[a0011z|a0011z]] situates the same idea behaviourally: "change the active tonic [[brainwave]] [[tonic-oscillation|oscillation]], your memory/awareness/model of reality & your internal qualia or representations, what you see hear taste smell and feel" (`a0011z--md`, line 108, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0011z.md)) — the testable claim that altering tonic oscillations alters qualia.
-
-## Position
-
-Qualia in SAN are [[oscillatory-qualia-imprinting|oscillatory phase patterns imprinted]] on a steady-state cortical canvas. [[02san|02san]] gives the painter's metaphor: "Imagine the paint (or qualia) of your thoughts, feelings, hearts and desires is made with variations in the frequencies of synaptic firing" (`02san--md`, line 5, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/02san.md)). [[01san|01san]] frames the engineering inverse — that an artificial brain "engine, that will coordinate artificial brain activity, to produce the same inner renderings, inner qualia, by changing what the program has learned" (`01san--md`, line 14, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/01san.md)) — making qualia a target of [[self-aware-networks|engineered SAN]] systems. [[09san|09san]] gives the canvas [[gh-formulation|formulation]]: "in the steady state produced by [[brainwaves]], which is a render change. The content of the mind, or qualia, are described as oscillatory phase patterns etched onto this [[continuous-neural-rendering|canvas of consciousness]]. These are differentiated patterns" (`09san--md`, line 15, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/09san.md)). And [[12san|12san]] supplies the SAN-canonical line: "[[cortical-columns|cortical columns]] is the canvas of [[consciousness]]. The [[phase-wave-differentials|Phase Wave Differentials]] are the Ink of Qualia that modifies that canvas temporarily. Then relate this back to the non-dualist concept of the [[ground-of-being|Ground of Being]]" (`12san--md`, line 7, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/12san.md)). The mechanism is fine-grained: [[a0037z|a0037z]] notes that signals "of difference … help shape both unconscious mental patterns and conscious mental qualia" (`a0037z--md`, line 17, on github), tying qualia to the [[phase-wave-differentials|differential]] structure SAN uses pervasively. The full canonical tag list in [[a0030z|a0030z]] places qualia alongside "optogenetics, [[cortex]], synap, Graph, [[long-term-potentiation|LTD]], Perception, perceptron, oscillat, field, [[neuralink|neuralink]], [[dendrite]], emotion, vector, fourier, qualia" (`a0030z--md`, line 91, on github) — qualia as one of the SAN primitives. [[00changelog|00changelog]] line 562 codifies the binding side: "interval relative to the group oscillation is the paint of the minds internal representations or qualia inside the mind that is perceived by the observer that is the oscillating group of cells" (`00changelog--md`, line 562, on github).
-
-## Chronology
-
-Material on qualia is concentrated in 2023–2025: [[a0306z|a0306z]] is repeatedly cited as the authoritative early note on "qualia: internal representation" (`00changelog--md`, line 470, on github; `a0004z--md`, line 42, on github), and the 2023 part-1 fragment (`dl-oct6-2025--part_1`, paper-[[gh-resnote04|micah]], 2023) records the framing in book-length form. By 2024 the operational definition — "distinct oscillating isomorphic [[phase-wave-differentials|phase wave differentials]], above a certain threshold of activity persistence" — is locked in (`dl-oct6-2025--GPT2024Jan1toJan22`, paper-[[gh-resnote04|micah]], 2024). The "[[bridging-molecular-mechanisms|Bridging Molecular Mechanisms]] and Neural Oscillatory Dynamics" review copy from 2025 (`core-set--REVIEW_COPY_Bridging_Molecular_Mechanisms_and_Neural_Oscillatory_Dynamics__1_`, paper-external) externalizes the same SAN framing in journal-ready prose: "Qualia, the subjective experiences of sensory perceptions, are represented as intricate phase patterns in [[neural-oscillations|neural oscillations]]. These [[phase-wave-differentials|phase wave differentials]] …" — making the qualia-as-phase-pattern thesis explicit in a peer-review-track artifact.
-
-## Post-SAN
-
-Compared with mainstream [[consciousness]] studies, SAN's qualia treatment makes three commitments. First, it accepts the standard framing of the puzzle: per the Kuhn 2024 review (`dl-oct6-2025--A_landscape_of_consciousness_..._Kuhn_...`, paper-external) the "conundrum of explaining [[consciousness]] — accounting for 'qualia,' our" subjective sensory experience — is the canonical [[hard-problem-of-consciousness|hard problem]]. Second, where most accounts treat qualia as either explanatorily primitive (panpsychism, Chalmers) or functionally identifiable (global workspace, higher-order views), SAN offers a *substrate-level* identity claim: qualia *are* phase-wave differential patterns above a persistence threshold, on the [[cortical-columns|column]] canvas — a claim that is in principle testable through [[transcranial-magnetic-stimulation|TMS]] perturbation, optogenetic manipulation, and high-resolution oscillatory phase reconstruction (the [[napot-neural-array-phase-tomography|NAPOT]] reconstruction protocol [[gh-resnote04|Micah]] develops). Third, where mainstream [[predictive-processing|predictive processing]] tends to talk about qualia as model-mediated content, SAN inverts: the model is the steady-state canvas; qualia are the *render-change* applied to it, in line with the [[neural-rendering-of-qualia|neural-rendering-of-qualia]] page and the [[phase-differential-rendering|phase-differential rendering]] mechanism. The 2025 BMMNOD review copy (`dl-oct6-2025--REVIEW_COPY_BMMNOD`, paper-external; also `dl-oct6-2025--REVIEW_COPY_Bridging_Molecular_Mechanisms_and_Neural_Oscillatory_Dynamics`, paper-external) articulates this in publication-track form: qualia "are represented as intricate phase patterns in [[neural-oscillations|neural oscillations]]. These [[phase-wave-differentials|phase wave differentials]] …" — the very phrase [[gh-resnote04|Micah]]'s note files have been using since the 2024 GPT-era memo, now exported into external scientific literature.
-
-## Related concepts
-
-- [[neural-rendering-of-qualia]] — direct sibling page: the rendering account of qualia.
-- [[phase-wave-differentials]] — the SAN substrate qualia are identified with.
-- [[oscillatory-qualia-imprinting]] — the mechanism by which qualia are written onto the canvas.
-- [[cortical-columns]] — the canvas itself per [[gh-12san|12san]].
-- [[brain-as-rendering-engine]] — the rendering pipeline that produces qualia.
-- [[phase-differential-rendering]] — the SAN-specific rendering mechanism.
-- [[ground-of-being]] — the non-dualist limit [[gh-12san|12san]] connects qualia to.
-- [[hard-problem-of-consciousness]] — the canonical contrast SAN's account is offered against.
-- [[brainwaves]] — the substrate Whose differentials encode qualia.
-- [[self-aware-networks|engineered Self-Aware Networks]] — the engineering inverse: producing qualia in synthetic SAN systems.
-- [[consciousness-as-persistent-rendering]] — the persistence axis qualia depend on.
-- [[transcranial-magnetic-stimulation]] — the canonical perturbation for testing the SAN qualia hypothesis.
-
-## Source Provenance
-
-- Generated: 2026-04-24T17:52:58
-- Lane: C.draft (from packet)
-- Packet: `wiki/automation/packets/qualia.json`
-- Evidence count: 175
-- Source ids: 00changelog--md, [[gh-01san|01san]]--md, [[gh-02san|02san]]--md, [[gh-09san|09san]]--md, [[gh-12san|12san]]--md, [[gh-gpt2023x|GPT2023X]]--md, [[gh-gpt2024jan1tojan22|GPT2024Jan1toJan22]]--md, Hex_7--md, [[gh-laukkonen|Laukkonen]]--md, NotebookML_6_Collection--md, QGTCD_Causal_Fermion_Systems--md, [[gh-qgtcdlegacy|QGTCDlegacy]]--md, README--md, SAOv9--md, a0004z--md, a0011z--md, [[gh-a0030z|a0030z]]--md, [[gh-a0037z|a0037z]]--md, [[gh-a0038z|a0038z]]--md, [[gh-a0063z|a0063z]]--md, [[gh-a0066z|a0066z]]--md, [[gh-a0095z|a0095z]]--md, a0111z--md, [[gh-a0119z|a0119z]]--md, [[gh-a0143z|a0143z]]--md, [[gh-a0171z|a0171z]]--md, [[gh-a0191z|a0191z]]--md, [[gh-a0193z|a0193z]]--md, [[gh-a0216z|a0216z]]--md, a0288zslow--md, a0296zWhisker--md, [[gh-a0308z|a0308z]]--md, a0319z--md, a0325zNAPOT6--md, [[gh-a0336z|a0336z]]--md, [[gh-a0337z|a0337z]]--md, a0361z--md, [[gh-a0378z|a0378z]]--md, [[gh-a0404z|a0404z]]--md, [[gh-a0412z|a0412z]]--md, [[gh-a0468z|a0468z]]--md, [[gh-a0599z|a0599z]]--md, [[gh-a0600z|a0600z]]--md, [[gh-a0602z|a0602z]]--md, a0616z--md, [[gh-a0644z|a0644z]]--md, [[gh-a0649z|a0649z]]--md, [[gh-b0002y|b0002y]]--md, [[gh-b0038y|b0038y]]--md, b0075ydone--md, [[gh-b0100y|b0100y]]--md, [[gh-b0195ywhisper|b0195ywhisper]]--md, [[gh-b0281y|b0281y]]--md, [[gh-b0282y|b0282y]]--md, b0302ywhisper--md, b0324y--md, [[gh-c0000x|c0000x]]--md, c0001x--md, c0004x--md, cnote_artificialmorality--md, draft1--md, map--napot--md, oldhome--md, original_archived_b0195ygoogle--md, original_archived_b0195ytimecode--md, original_archived_b0302ytimecode--md, [[gh-resnote03|resnote03]]--md, rexnote03--md, [[gh-rexnote08|rexnote08]]--md, rexnote12--md, [[gh-rexnote13|rexnote13]]--md, [[gh-rexnote14|rexnote14]]--md, [[gh-veca|vecA]]--md, vecB--md, [[gh-vecc|vecC]]--md, whitepaperdraft1--md, whitepaperdraft2--md, whitepaperdraft3--md
-  - `00changelog--md` line 470 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `00changelog--md` line 562 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `00changelog--md` line 577 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `00changelog--md` line 609 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/00changelog.md
-  - `01san--md` line 14 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/01san.md
-  - `02san--md` line 5 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/02san.md
-
+---
+title: "Qualia in SAN: Receiver-Relative Difference and Distributed Neural Rendering"
+tags: [san, qualia, consciousness, neural-rendering, shannon-information, phase-wave-differential]
+aliases: [Qualia, Neural Qualia, Qualia in Self-Aware Networks]
+summary: "A source-faithful account of SAN's proposal that expected tonic coordination supplies context while uncommon, receiver-usable phase-wave differentials help specify distributed phenomenal content."
+status: governed
 ---
 
-*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D adds graph links. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
+# Qualia in SAN: Receiver-Relative Difference and Distributed Neural Rendering
+
+> **Image status:** The former cortical-canvas plate failed medical review and is preserved in the
+> `archive-do-not-use-medical-review/br031-qualia-20260809` folder. It must not appear in a reader or
+> public projection. A medically bounded replacement description is maintained in the SAN image
+> prompt ledger; image generation remains paused.
+
+**Qualia** are the felt qualities of experience: the appearance of red, the taste of umami, the
+feel of textured contact, or the character of an internally heard tone. Neuroscience can correlate,
+decode, and perturb aspects of these experiences, but it has not established one accepted physical
+identity for subjective quality.
+
+Self Aware Networks proposes a specific identity hypothesis. It does not place an inner viewer
+behind a neural display. Cells and populations receive, transform, transmit, inhibit, recur, and
+alter one another. The distributed network undergoes the state change and produces its perceptual,
+mnemonic, emotional, and motor consequences. SAN asks whether the organized differences within that
+distributed field-cell activity are not merely correlated with qualia, but constitute their
+physical form.
+
+That final identity claim is open. The pathway leading to it can be divided into testable steps.
+
+## Three claim levels
+
+| Level | Claim | Status |
+|---|---|---|
+| Established neuroscience | Sensory content is represented by distributed, pathway-specific neural activity; timing and phase can carry information; recurrence, inhibition, plasticity, and behavioral state can alter perception. | Supported in bounded preparations. |
+| SAN mechanistic interpretation | A receiver's expected tonic state supplies context, while uncommon excitation- or inhibition-driven phase-wave differentials are detected, transformed, and redistributed through tuned recurrent circuits. | Open, testable synthesis. |
+| SAN identity hypothesis | The organized tonic and phasic field-cell differences across the active network constitute the qualitative experience itself. | Strong unresolved hypothesis. |
+
+No result about gamma power, decoding accuracy, a local field potential, one cortical column, or one
+stimulation site establishes all three levels at once.
+
+## The gap left by gamma-consciousness theories
+
+Gamma-band coordination became a serious candidate mechanism for feature binding and conscious
+perception. Distributed gamma synchronization was reported during face perception, followed by a
+desynchronization during transition toward motor response
+([Rodriguez et al., 1999](https://www.nature.com/articles/17120)). Other studies found that induced
+gamma could track task relevance or post-perceptual processing rather than awareness itself
+([Pitts et al., 2014](https://pubmed.ncbi.nlm.nih.gov/25063731/)).
+
+The historical problem was not a shortage of gamma-consciousness proposals. Coordination could
+explain how selected populations become temporarily related, but synchrony by itself did not say
+why the related content was red rather than green, remembered rather than ignored, or routed to one
+action rather than another.
+
+The missing SAN move is a receiver-relative application of Claude Shannon's self-information. It is
+not the claim that neuroscience never used information theory. Phase-of-firing research already
+showed that spike timing relative to an ongoing field phase could carry visual information beyond
+spike count ([Montemurro et al., 2008](https://pubmed.ncbi.nlm.nih.gov/18328702/)). SAN instead makes
+the tonic-versus-phasic probability contrast part of the proposed content mechanism itself.
+
+For event `x`, receiver `r`, current context `C`, and the receiver's expected tonic probability
+model `p_0,r`:
+
+```text
+I_r(x | C) = -log2 p_0,r(x | C)                              [1]
+```
+
+If a repeated phase relation is expected while a structured departure is less probable:
+
+```text
+p_0,r(x_pwd | C) < p_0,r(x_tonic | C)
+=> I_r(x_pwd | C) > I_r(x_tonic | C)                         [2]
+```
+
+A perfectly repeated gamma relation can therefore contribute little **new** information under the
+model that already expects it. This does not make gamma intrinsically low-information. A rare gamma
+onset can have high surprisal, and a tonic network state can contain substantial contextual
+structure. It means only that a repeated expected event adds little conditional surprise.
+
+Rarity is also insufficient. Random desynchronization can be surprising without being meaningful.
+The event becomes a candidate neural symbol only when a named, tuned receiver uses it and a
+reproducible consequence follows.
+
+See [[gamma-oscillation|Gamma Oscillation]] and
+[[oscillatory-binding-problem|Oscillatory Binding Problem]] for the wider evidence and critique.
+
+## The source-faithful SAN operator
+
+SAN's proposed mechanism can be stated without assuming one universal frequency band, cortical
+column circuit, or global clock:
+
+```text
+specialized sensory or internally generated activity
+-> pathway-specific reception and transformation
+-> bounded phase-compatible coordination
+-> expected tonic receiver context
+-> uncommon excitation- or inhibition-driven PWD
+-> receiver-specific detection and transformation
+-> recurrent redistribution through selected pathways
+-> perceptual, mnemonic, affective, or motor consequence
+-> gradual dissipation, persistence, or context update
+```
+
+A candidate phase-wave differential is multidimensional:
+
+```text
+PWD_r,i = X_r,i - E_0,r[X | C]                               [3]
+```
+
+`X` may include timing, circular phase, frequency, amplitude, duration, waveform, transmitted
+quantity, spatial relation, and local network state. Equation [3] is a typed comparison against an
+expected state, not literal subtraction of incompatible units.
+
+Coefficient of variation can describe one interval dimension:
+
+```text
+CV_r = sigma(Delta_t_r) / mean(Delta_t_r)                     [4]
+```
+
+CV is not Shannon information in bits, is not a circular-phase statistic, and is not the whole PWD.
+The stronger SAN proposal is that a tuned receiver interprets the joined event in context.
+
+One compact model is:
+
+```text
+Q_r(t + Delta_t) = F_r(T_r(t), PWD_r(t), H_r(t), A_r(t))      [5]
+```
+
+`T` is tonic context, `H` is recent history, `A` is anatomical and functional routing, and `Q` is a
+candidate content-state variable. Equation [5] is a research model. It does not assume that a
+neuron symbolically computes a formula or that `Q` is already a direct measurement of experience.
+
+## Coherence and structured dispersion
+
+SAN does not equate coherence with consciousness and decoherence with failure. At its simplest,
+coherence means that two or more cells maintain a stable relative timing relation until a change
+arrives. A splay state means that cells maintain a structured distribution of relative phases. It is
+not the same as random timing noise.
+
+| Relation | Proposed function | Scientific boundary |
+|---|---|---|
+| Stable relative timing | Temporary coupling, communication readiness, or coalition membership | Need not be zero-lag and does not specify content alone. |
+| Excitation-driven advance or burst | Positive or activating PWD | Can be noise unless a receiver uses it. |
+| Inhibition-driven delay or omission | Negative or suppressive PWD | Absence is informative only relative to an expected event. |
+| Structured phase dispersion or splay | Separation, boundary formation, competition, or transition | Random coherence loss is not a code. |
+| Return toward a coordinated baseline | Dissipation, reset, or incorporation into updated tonic context | A transient may instead disappear without learning. |
+
+This gives SAN a Hebbian historical backbone without reducing the proposal to "cells that fire
+together wire together." Phase-sensitive plasticity is experimentally real: in oscillating rat
+visual-cortex slices, synapses potentiated when EPSPs arrived near oscillation peaks and depressed
+near troughs ([Wespatat et al., 2004](https://pubmed.ncbi.nlm.nih.gov/15483125/)). That result does not
+prove SAN's qualia mechanism. It supports the narrower bridge from relative timing to directionally
+different synaptic consequences.
+
+The SAN extension is that locally coherent recruitment and structured separation jointly sculpt
+which differences can recur, bind, remain distinct, influence action, and eventually bias plasticity.
+See [[coherence-dispersion-sculpting-hypothesis|Coherence-Dispersion Sculpting Hypothesis]].
+
+## Redness is not a red waveform
+
+Redness was Micah's principal 2022 worked question: what is the redness inside experience?
+`a0306z.md` proposed that redness is a phase-pattern differential from tonic context, detected and
+reprojected through successive arrays
+([immutable August 23, 2022 source](https://github.com/v5ma/selfawarenetworks/blob/35f2162450f775e51448adb091f91793d120145b/a0306z.md#L3)).
+
+The medically bounded version must preserve the distributed visual pathway. Color depends on
+retinal cone-opponent processing, thalamocortical transmission, multiple visual areas, context,
+attention, memory, and recurrent interaction. Human fMRI work decoded colors from spatially
+distributed activity in V1, V2, V3, V4, and VO1, with later areas better reflecting perceptual color
+space ([Brouwer and Heeger, 2009](https://pubmed.ncbi.nlm.nih.gov/19890009/)). Single-neuron work also
+found distributed chromatic tuning in macaque V1 and strong context dependence
+([Wachtler et al., 2003](https://pubmed.ncbi.nlm.nih.gov/12597864/)).
+
+Those results support distributed, relational color representation. They do not show that redness is
+one sinusoid, one wavelength in cortex, one neuron, one cortical layer, or one local electromagnetic
+shape. SAN's testable question is whether a receiver-relative multidimensional PWD model predicts
+reported color content and downstream consequences better than firing rate, gamma power, phase
+alone, or conventional population state models.
+
+## Broccoli as a multimodal qualia laboratory
+
+The 2022 broccoli example is not a decorative object example. It expands a single property into a
+multimodal learned bundle: color, shape, texture, feel, crunch, taste, smell, expected action, and
+consequence. `a0306z.md` explicitly proposed that these partial patterns are detected and
+redistributed through receptors, dendrites, neurons, arrays, thalamic nuclei, cortex, and
+hippocampal-entorhinal systems
+([immutable August 23, 2022 source](https://github.com/v5ma/selfawarenetworks/blob/fc922f143b68f3c058e8fdc54ceed7b9d6a54749/a0306z.md#L9)).
+
+The scale-safe interpretation is:
+
+- **Micro:** receptor, synapse, dendritic compartment, and cell state transform a local signal.
+- **Meso:** local populations coordinate, compete, and preserve feature and pathway distinctions.
+- **Macro:** recurrent sensory, association, thalamic, mnemonic, affective, and motor systems update
+  a shared object-and-body model.
+
+No generic neuron receives all broccoli features, and no single thalamic site contains the complete
+experience. The thalamus contains multiple nuclei with distinct and overlapping pathways.
+Corticothalamocortical information transfer is physiologically viable in declared circuits
+([Theyel et al., 2010](https://pubmed.ncbi.nlm.nih.gov/19966840/)), and human connectivity work
+supports integrative roles for thalamic subdivisions
+([Hwang et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28450543/)). These findings do not make the
+thalamus a universal multisensory screen.
+
+The historical note then asks whether a measured tempo-spatial bundle could be translated into a
+stimulation pattern that evokes a corresponding experience in another brain
+([immutable June 12 and August 23, 2022 formulation](https://github.com/v5ma/selfawarenetworks/blob/24761c80f09aacecb4108d5178459e3fe8ce6765/a0306z.md#L25)). Sensory-substitution research shows that
+people can learn to use camera-derived information delivered through another sensory surface
+([Bach-y-Rita and Kercel, 2003](https://pubmed.ncbi.nlm.nih.gov/14643370/)). Human sensory-thalamus
+microstimulation can evoke focal somatic percepts whose location and intensity depend on target and
+stimulation pattern ([Swan et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29126946/)). Neither result
+demonstrates arbitrary read-and-write reconstruction of a broccoli-like multimodal experience.
+
+## Active sensing, umami, and the molecular bridge
+
+The broader SAN source chain uses several modalities to test the same architecture rather than
+assuming vision is the universal template.
+
+- **Whisking:** active whisking in behaving mice reduced nearby membrane-potential correlation and
+  desynchronized LFP and EEG while increasing the signal-to-noise ratio of sparse spikes
+  ([Poulet and Petersen, 2008](https://www.nature.com/articles/nature07150)). The November 2022 SAN
+  note interprets the discriminative departure and later return toward coordination as a candidate
+  qualia-rendering cycle
+  ([source](https://github.com/v5ma/selfawarenetworks/blob/55cb3bcb0ea8653087b424444e2f1cf66ca1d580/a0296zWhisker.md#L5)).
+- **Umami:** the SAN source uses multiple taste receptors and intracellular signaling as an example
+  of receptor-specific transformation before population-level rendering. The proposed path from
+  metabotropic signaling through conductance, action-potential waveform, calcium entry, and
+  synapse-specific release remains a mechanistic hypothesis, not a universal established chain.
+- **Action-potential duration:** spike waveform and duration can affect calcium dynamics and
+  plasticity, but they must not be presented as a unique code for recognition or surprise. See
+  [[action-potential-duration|Action Potential Duration]] and
+  [[neural-code-transmission|Neural Code Transmission]].
+
+These cases define a common research program:
+
+```text
+external property or active sample
+-> receptor-specific transduction
+-> conductance and membrane-state change
+-> timing, waveform, release, and population-state difference
+-> receiver-relative PWD
+-> recurrent distributed consequence
+-> candidate qualitative distinction
+```
+
+## The distributed observer and the field-cell boundary
+
+SAN's observer is sparse and distributed. It is not a little localized witness. The ongoing tonic
+activity of many cells supplies the active receiver context against which synaptic and population
+changes occur. Dendrites and receptors participate in reception; axons and terminals transmit;
+recurrent pathways return transformed activity; inhibition and excitation alter which differences
+persist; motor and autonomic consequences close the loop.
+
+Neural activity also generates extracellular electric fields. Experiments show that weak fields can
+modulate and entrain network activity in bounded preparations
+([Frohlich and McCormick, 2010](https://pubmed.ncbi.nlm.nih.gov/20624597/)) and can affect nearby
+cortical neurons through ephaptic coupling
+([Anastassiou et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21240273/)). This supports a real
+field-to-cell feedback route. It does not establish that one macroscopic field is a complete scene,
+that fields replace synaptic transmission, or that an electromagnetic pattern is conscious by
+itself.
+
+The stronger SAN hypothesis is that the observer-action process is the recurrent field-cell system
+as a whole, and that its organized tonic and phasic differences are the physical form of the
+experience. See [[observer-mechanism|Observer Mechanism]], [[neural-rendering|Neural Rendering]], and
+[[napot-overview|NAPOT Overview]].
+
+## Source-faithful chronology
+
+- **2012 source-gated ancestor:** the surviving "neurons are programs transmitting their shape"
+  material proposes learned cellular form and transmitted pattern. It is an ancestor of
+  receive-transform-project language, not yet qualia, PWD, or NAPOT.
+- **June 8, 2022:** `a0066z.md` joins internal renderings, external models, body movement, learned
+  consequences, and modality-specific tempo-spatial-phasic patterns
+  ([immutable source](https://github.com/v5ma/selfawarenetworks/blob/7d1431213cd4ac9788848a5396ec2992ece11cfd/a0066z.md#L21)).
+- **June 8, 2022:** `a0142z.md` says coherence can support coupling while decoherence supplies
+  distinction and connects timing organization to LTP/LTD hypotheses
+  ([immutable source](https://github.com/v5ma/selfawarenetworks/blob/37da575ba33f85cef4239295be161066d8d39f4c/a0142z.md#L9)).
+- **June 8, 2022:** `a0143z.md` explicitly proposes human-equivalent internal representations and
+  links modality-specific short-term phase patterns to longer-term plasticity
+  ([immutable source](https://github.com/v5ma/selfawarenetworks/blob/37da575ba33f85cef4239295be161066d8d39f4c/a0143z.md#L16)).
+- **August 21-24, 2022:** `a0004z.md` distinguishes tonic context from higher-information phasic
+  departures and identifies redness as a PWD from tonic baseline
+  ([immutable source](https://github.com/v5ma/selfawarenetworks/blob/b56ae48e8abac67f3c3e89ee641c360f34b39f02/a0004z.md#L40)).
+- **August 23, 2022:** `a0306z.md` supplies the mature redness, broccoli, reception-projection,
+  thalamic read/write, and distributed-observer formulation
+  ([immutable source](https://github.com/v5ma/selfawarenetworks/blob/e076d8aa1688f8c1168af0fedc9f3d91ee618f4c/a0306z.md#L39)).
+- **November 28-29, 2022:** `a0310z.md` and `a0296zWhisker.md` join Shannon-relative irregularity,
+  rendering, recurrence, dissipation, active sensing, and structured desynchronization
+  ([immutable source](https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0310z.md#L126)).
+- **2024-2025 extensions:** later notes add detailed ion-channel, coefficient-of-variation, NDCA,
+  diffusion, and canvas/ink formulations. These extensions clarify the model but are not backdated
+  into the 2022 source record.
+
+The former page incorrectly placed the origin mainly in 2023-2025 and treated later AI-era prose as
+the authoritative source. The dated 2022 Git record is the governing public genealogy.
+
+## Discriminating experiments
+
+1. Define the source, receiver, pathway, reference signal, event dimensions, and behavioral context.
+2. Estimate tonic probabilities from held-out data before calculating event surprisal.
+3. Compare rate-only, gamma-power, phase-only, recurrent-state, and full PWD models on held-out
+   reports, forced-choice behavior, and nonverbal physiological consequences.
+4. Match event rarity while scrambling source identity, pathway timing, or spatial organization to
+   test whether structured PWDs outperform equally surprising noise.
+5. Perturb coordination and structured dispersion separately. Predict specific content changes,
+   misbinding, route transitions, memory effects, and action errors rather than a generic loss of
+   consciousness.
+6. Test whether the declared receiver changes state and whether restoring the relation rescues the
+   predicted perceptual or behavioral consequence.
+7. For color, determine whether the full receiver-relative PWD model explains reported hue and
+   context effects beyond conventional distributed population models.
+8. For BCI reconstruction, separate decoding, stimulation-evoked sensation, learned sensory
+   substitution, and recreation of a specific naturalistic experience.
+9. Test field effects against synaptic, firing-rate, arousal, movement, and volume-conduction
+   controls before attributing a causal field-cell role.
+
+The SAN mechanism would be weakened if the full PWD model adds no reproducible prediction beyond
+these controls, if receiver identity is irrelevant, if matched random departures perform equally
+well, or if the proposed field variable has no independent causal effect.
+
+## Why the earlier image failed medical review
+
+The quarantined image was useful as a record of the intended concept, but not as medical art. It:
+
+1. reused one stylized cortical slab as tonic canvas, integrator, and rendered qualia;
+2. routed theta, alpha, beta, gamma, delta, and a red sinusoid into one universal cortical column;
+3. represented redness as a literal red waveform rather than distributed pathway-specific activity;
+4. assigned a single unsupported persistence threshold as the gate to conscious content;
+5. implied that changing one global tonic frequency selects which qualia survive;
+6. omitted retina, thalamic nuclei, recurrent visual pathways, association systems, memory, action,
+   and the micro-meso-macro scale distinction;
+7. made decorative field lines look like established anatomical projections.
+
+The replacement prompt is `IMG-SAN-QUALIA-SHANNON-PWD-DISTRIBUTED-001`. It requires a declared color
+pathway, distributed recurrent receivers, tonic probability context, structured excitation and
+inhibition departures, measurable consequences, and no inner screen or universal cortical slab.
+
+## Claim ladder
+
+| Claim | Status |
+|---|---|
+| Distributed population activity can encode color and other sensory variables. | Established in bounded systems. |
+| Relative phase can carry information beyond spike count. | Established in bounded recordings. |
+| Recurrent processing, behavioral state, inhibition, and thalamocortical interaction can affect conscious perception. | Supported in bounded tasks and pathways. |
+| Weak endogenous electric fields can influence neural activity. | Supported in bounded preparations; strength and role vary. |
+| Gamma synchrony is necessary and sufficient for consciousness. | Not supported. |
+| An expected event has lower conditional surprisal than a less probable event under the same declared model. | Mathematically established. |
+| Tonic context plus receiver-usable PWDs differentiates neural content. | Open, testable SAN hypothesis. |
+| Coherence and structured dispersion jointly sculpt qualitative boundaries and later plasticity. | Open SAN synthesis with partial physiological support. |
+| Distributed field-cell phase differences constitute qualia. | Strong unresolved SAN identity hypothesis. |
+| A naturalistic multimodal qualia state can be decoded from one person and written into another. | Unproven engineering hypothesis. |
+
+## Read next
+
+- [[consciousness|Consciousness]]
+- [[gamma-oscillation|Gamma Oscillation]]
+- [[oscillatory-binding-problem|Oscillatory Binding Problem]]
+- [[phase-wave-differentials|Phase-Wave Differentials]]
+- [[tonic-phasic-phase-wave-differential|Tonic Baseline, Phasic Update, and PWD]]
+- [[coherence-dispersion-sculpting-hypothesis|Coherence-Dispersion Sculpting Hypothesis]]
+- [[distributed-phase-representations|Distributed Phase Representations]]
+- [[neural-tuning|Neural Tuning]]
+- [[neural-rendering|Neural Rendering]]
+- [[neural-rendering-of-qualia|Neural Rendering and Qualia]]
+- [[oscillatory-qualia-imprinting|Oscillatory Qualia Imprinting]]
+- [[phase-differential-rendering|Phase-Differential Rendering]]
+- [[consciousness-as-persistent-rendering|Consciousness as Persistent Rendering]]
+- [[observer-mechanism|Observer Mechanism]]
+- [[napot-overview|NAPOT Overview]]
+- [[neural-array-projection-oscillation-tomography|Neural Array Projection Oscillation Tomography]]
+- [[object-segmentation|Object Segmentation]]
+- [[broccoli-shared-recognition-artificial-perception|Broccoli, Shared Recognition, and Artificial Perception]]
+- [[umami-multi-receptor-coincidence-detection|Umami Receptor Diversity and Coincident Sensory Inputs]]
+- [[gh-a0296zwhisker|Whisker Active-Sensing Source Note]]
+- [[action-potential-duration|Action Potential Duration]]
+- [[thalamus|Thalamus]]

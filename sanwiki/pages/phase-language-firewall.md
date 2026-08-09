@@ -121,6 +121,7 @@ That distinction makes the theory harder to dismiss and easier to test.
 
 ## Related
 
+- [[tonic-oscillation|Tonic Oscillation]]
 - [[tonic-phasic-phase-wave-differential|Tonic Baseline, Phasic Update, and Phase-Wave Differential]]
 - [[phase-wave-differentials|Phase-Wave Differentials]]
 - [[embodiment-vision-gamma-consideration-sandwich|Embodiment and Vision - Gamma Consideration Sandwich]]

@@ -226,6 +226,7 @@ embodied network.
 
 ## Read next
 
+- [[self-aware-networks|Self-Aware Networks]]
 - [[early-a0531-a0561-obscure-argument-map|Early a0531-a0561 Obscure Argument Map]]
 - [[multimodal-neuron-signal-correlate-channel|The Multimodal Neuron: Signal, Correlate, or Channel?]]
 - [[entification-observer-problem|Entification and the Distributed Observer]]

@@ -89,4 +89,3 @@ Because `chronology_markers.external_paper_count` is 6 in this packet, the **Pos
   - `09san--md` line 19 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/09san.md
 
 ---
-

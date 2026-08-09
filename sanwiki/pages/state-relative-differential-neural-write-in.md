@@ -82,4 +82,3 @@ paper number or publication action.
 - [[conscious-state-perturbation-tomography|Conscious-State Perturbation Tomography]]
 - [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]]
 - [[early-a0233-a0253-obscure-argument-map|Early a0233-a0253 Obscure Argument Map]]
-

@@ -65,4 +65,3 @@ External literature in the packet engages the same coupled-oscillator framework 
 ---
 
 *Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add wikilinks. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
-

@@ -311,4 +311,3 @@ deployment.
 
 The source bodies remain private until speaker, medical, autobiographical, copyright, quotation,
 and author-release gates are independently closed.
-

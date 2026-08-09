@@ -64,4 +64,3 @@ The NDCA chapter exists in `draft1` through `draft6` of the SAN manuscript, with
   - `draft3--md` line 433 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/draft3.md
 
 ---
-

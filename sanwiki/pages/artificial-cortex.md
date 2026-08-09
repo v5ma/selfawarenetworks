@@ -130,6 +130,6 @@ An artificial cortex could expose neural, behavioral, identity-linked, and healt
 - [[brain-computer-interface]]
 - [[brain-computer-interfaces]]
 - [[san-implementation-evidence-gates]]
-- [[external-cortex]]
+- [[perspective-conditioned-rendering-external-cortex-loop|external-cortex loop]]
 - [[nervegear]]
 - [[artificial-perception]]

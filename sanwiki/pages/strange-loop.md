@@ -66,4 +66,3 @@ Compared with mainstream Hofstadter scholarship and the broader strange-loop tra
 ---
 
 *Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D converted wikilinks to reader-safe Markdown links. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
-

@@ -41,4 +41,3 @@ has one fixed mental meaning or that the system has decoded a thought.
 - [[eeg-vr-fifer-garbesi-2017|EEG and VR at AWE 2017]]
 - [[nervegear-show-2017|The NerveGear Show]]
 - [[neural-tuning|Neural Tuning]]
-

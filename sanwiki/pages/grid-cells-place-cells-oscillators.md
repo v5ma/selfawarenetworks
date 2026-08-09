@@ -81,4 +81,3 @@ Record spikes and field signals simultaneously in connected hippocampal-entorhin
 - [[hippocampal-reference-frames|Hippocampal Reference Frames]]
 - [[phase-language-firewall|Phase Language Firewall]]
 - [[phase-wave-differentials|Phase-Wave Differentials]]
-

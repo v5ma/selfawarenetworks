@@ -209,4 +209,3 @@ constraint. Book 2 remains paused under the current mutation boundary.
 - [[memory-state-drift-virtual-mind|Memory, Engrams, and the Virtual Mind]]
 - [[neo-mind-cycle-neurofeedback-bci|Neo Mind Cycle and the BCI Bridge]]
 - [[body-model-as-control-surface|Body Model as Control Surface]]
-

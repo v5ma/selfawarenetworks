@@ -12,6 +12,12 @@ The stages are not ten equally validated theories. They are dated changes in a d
 
 ## Before the numbered revisions
 
+The September 2012 [[neuron-shape-information-storage|neuron-as-program proposal]] is an earlier
+architectural ancestor. It describes learned morphology as a state-dependent transformation,
+structured neuronal output, recurrent expectation-versus-input correction, and cooperative
+networks of neural programs. It does not use the terms NAPOT, PWD, NDCA, tomography, or phase-wave
+differential, and this genealogy does not backdate those later names into it.
+
 `b0153y.md`, Git-fixed on June 19, 2022, distinguishes transformed neural slices from a complete
 image copied everywhere and develops the neural-oscillatory-tomography wording.
 
@@ -59,12 +65,14 @@ revision number.
 
 ### The pre-revision ensemble receiver
 
-[[gh-a0136z|a0136z]], first current-path Git-fixed June 11, 2022, already names NAPOT and describes
-an output population receiving many signals, transforming them through learned synaptic and
-dendritic state, and emitting a new population update. [[gh-a0137z|a0137z]], internally dated July
-12, 2021 but first Git-fixed in 2022, adds a mesoscopic phase-reset proposal: enough coordinated
-excitation or inhibition changes an ensemble's collective timing and therefore its effect on
-another ensemble.
+[[gh-a0136z|a0136z]], first current-path Git-fixed June 11, 2022, uses the near-name **Neural
+Array-Projection Tomography** and describes an output population receiving many signals,
+transforming them through learned synaptic and dendritic state, and emitting a new population
+update. The full phrase **Neural Array Projection Oscillation Tomography** was added to that file
+later; it must not be attributed to its June 2022 version. [[gh-a0137z|a0137z]], internally dated
+July 12, 2021 but first Git-fixed in 2022, adds a mesoscopic phase-reset proposal: enough
+coordinated excitation or inhibition changes an ensemble's collective timing and therefore its
+effect on another ensemble.
 
 This is a substantive bridge from a dendritic receiver to a population receiver. It is not given a
 retroactive revision number. Established phase reset and entrainment make the bridge testable, but
@@ -112,11 +120,12 @@ Event date, claimed development date, first Git date, publication date, and scie
 
 ## Recovered NOAT-to-NAPOT bridge
 
-[[gh-a0043z|a0043z]], Git-fixed on June 10, 2022, says the proposal had previously been called
-**Neural Oscillating Array Tomography (NOAT)** before becoming NAPOT. It compares overlapping
-anatomical sensor/transmitter arrays with functional edge communities while explicitly noting that
-functional connectivity is not anatomical connectivity. This records a name and problem-history
-transition; it does not validate neural tomography or anatomical arrays. The later spacetime and
+The June 10, 2022 version of [[gh-a0043z|a0043z]] uses **Neural Oscillating Array Tomography
+(NOAT)**. The sentence saying that NOAT became NAPOT was added on December 12, 2023. The source also
+compares overlapping anatomical sensor/transmitter arrays with functional edge communities while
+noting that functional connectivity is not anatomical connectivity. This preserves a name and
+problem-history transition without misdating the later edit, validating neural tomography, or
+treating functional and anatomical arrays as identical. The later spacetime and
 programmable-matter discussion in the same note belongs to the QGTCD/SIT history branch.
 
 ## Why NAPOT 11 is not registered as stable
@@ -141,6 +150,7 @@ The detailed donor audit remains in the private Book 2 development workspace. Th
 
 ## Read next
 
+- [[volumetric-predictive-rendering|Volumetric Predictive Rendering]]
 - [[napot-overview|NAPOT overview]]
 - [[napot-theory|NAPOT theory]]
 - [[neural-tuning|Neural Tuning]]

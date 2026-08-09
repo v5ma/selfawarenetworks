@@ -156,6 +156,7 @@ The story can remain vivid because each metaphor is bound to a measurable operat
 - [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]]
 - [[body-model-as-control-surface|Body Model as Control Surface]]
 - [[phase-language-firewall|Phase Language Firewall]]
+- [[machine-self-report-active-canvas-consciousness-test|From Machine Self-Report to an Active-Canvas Test]]
 - [[napot-overview|NAPOT]]
 - [[san-paper-v2-revision-brief|SAN Paper v2 - Governed Revision Brief]]
 - [[san-whitepaper-3rd-draft|SAN Whitepaper 3rd Draft]]

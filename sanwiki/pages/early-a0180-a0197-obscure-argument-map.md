@@ -77,4 +77,3 @@ Their first verified current-path Git fixation is in June 2022.
 - [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]]
 - [[field-cell-self-bioelectric-information-entity|The Field-Cell Self]]
 - [[memory-state-drift-virtual-mind|Memory, Engrams, and the Virtual Mind]]
-

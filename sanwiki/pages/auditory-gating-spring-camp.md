@@ -1,29 +1,66 @@
-![Auditory Gating Spring cAMP](../assets/generated/san/auditory-gating-spring-camp/auditory-gating-spring-camp-20260702-v1.png)
+---
+title: "Auditory Gating-Spring Modulation: A Source-Faithful Boundary"
+tags: [san, hearing, hair-cells, mechanotransduction, camp, sensory-transduction]
+aliases: [Auditory Gating Spring cAMP, Auditory Gating Spring Camp]
+summary: "A source-faithful correction of the 2022 auditory example: state-dependent hair-cell transduction is real, but it is not one universal receptor-to-spike-to-phase cascade."
+status: governed
+---
 
-This plate shows auditory receptor-level gain control: sound deflects stereocilia, the gating spring opens mechanotransduction channels, cAMP softens the spring, and altered K+ influx propagates through Ca2+ duration, vesicle release count, and phase-coded auditory spikes.
+# Auditory Gating-Spring Modulation: A Source-Faithful Boundary
 
-The **gating spring** is a nanometer-scale protein structure in auditory hair cells that mechanically opens and closes an ion channel in response to sound vibrations. Its stiffness controls how much the channel opens per vibration — effectively setting the gain of the auditory sensor. Crucially, cyclic AMP (cAMP) can reduce gating spring stiffness, decreasing channel sensitivity. This is the first identified physiological mechanism for controlling gating spring stiffness.
+The 2022 SAN auditory note asked a legitimate question: can the current molecular state of a sensory
+cell alter how the next sound-related input is transformed and passed onward? Its original wording
+compressed hair-cell transduction, action-potential duration, calcium entry, and vesicle release
+into one chain. The intended operation survives, but the anatomical translation needs to remain
+cell-type-specific.
 
-## SAN Relevance: Receptor-Level Phase Tuning
+## What the cited auditory result established
 
-Within [[cellular-oscillating-tomography]] (COT), sensory reception is not a binary event but a **phase-modulated coincidence detection**: multiple receptor activations bind via oscillation to produce sensory patterns. The gating spring exemplifies the bottom of this stack — the molecular point where physical stimulus amplitude is transduced into ionic current magnitude.
+In rat outer hair cells, Mecca, Caprara, and Peng found that experimentally increasing cAMP reduced
+mechanotransduction sensitivity in a manner consistent with decreased gating-spring stiffness.
+Their result concerns a defined preparation and a modulation of mechanical-to-electrical
+transduction; it does not establish a universal cAMP phase code for all sensory cells.
 
-The cAMP → gating spring pathway maps to the broader [[camp-neural-phase-modulation]] mechanism: cAMP modulates potassium channel open-duration, which modulates calcium channel duration on exit terminals, which changes vesicle release count, which changes the phase pattern emitted by the neuron. In hair cells, this chain starts one step earlier — cAMP softens the gating spring, reducing how many potassium ions enter per vibration.
+- [Mecca, Caprara, and Peng (2022), PNAS](https://doi.org/10.1073/pnas.2107567119)
 
-## The Chain (Auditory)
+## The medically bounded auditory sequence
 
-Sound vibration → hair cell deflection → gating spring moves → ion channel opens (K⁺ influx) → cAMP modulates spring stiffness (gain control) → modified K⁺ flux → modified [[action-potential-duration|action potential duration]] → modified Ca²⁺ channel duration → variable vesicle release → phase-encoded spike train → upstream neural array.
+```text
+sound-driven hair-bundle deflection
+-> mechanotransduction-channel opening and receptor-potential change in a hair cell
+-> cell-type-specific calcium-dependent transmitter release at a ribbon synapse
+-> auditory-afferent excitation and spikes
+-> later circuit and population processing
+```
 
-Each link is a site for [[phase-wave-differential]] modulation. Gain at the receptor level propagates as phase-pattern shifts through the entire oscillating cell assembly.
+Mature cochlear inner hair cells use graded receptor potentials and calcium-dependent glutamate
+release at ribbon synapses. Auditory-nerve fibers generate action potentials downstream. The
+sequence should therefore not depict an inner hair cell as a generic spiking central neuron whose
+action-potential width directly controls an exit-terminal array.
 
-## Relation to Taste
+- [Brandt, Khimich, and Moser (2005)](https://doi.org/10.1523/JNEUROSCI.3411-05.2005) describes
+  CaV1.3-dependent calcium nanodomain control of exocytosis at mammalian inner-hair-cell ribbon
+  synapses.
 
-An analogous story applies to taste (umami): multiple metabotropic glutamate receptors expressed in different subsets of taste cells perform coincidence detection. The perceptual complexity of flavor is encoded in the combinatorial activation pattern across receptor types, not in a single receptor's output. See [[coincidence-pattern-neural-information]] for the shared pattern-detection logic.
+## What SAN adds
 
-## Outbound Links
+SAN uses the auditory example as a candidate receive -> transform -> project motif: a physical
+change is filtered by receptor structure and cell state, creates a bounded output, and contributes
+partial information to later receivers. The SAN extension is not that one gating-spring event is a
+complete sound, a PWD, or a conscious experience. Any PWD claim must specify the receiver,
+reference state, measured change, route, and downstream consequence.
 
-- [[cellular-oscillating-tomography]] — COT: oscillatory binding of distributed receptor activations
-- [[camp-neural-phase-modulation]] — cAMP as modulator of neuronal phase output
-- [[coincidence-pattern-neural-information]] — coincidence detection as the basis of neural information
-- [[phase-wave-differential]] — how phase relationships encode information
-- [[napot]] — [[neural-array-projection|Neural Array Projection]] Oscillation Tomography, the cortical-scale extension
+## Image boundary
+
+The earlier generated plate is preserved as a historical asset but removed from reader use. It
+incorrectly showed a hair-cell action-potential-duration chain and a direct phase-coded output. A
+replacement must distinguish rat outer-hair-cell gating-spring modulation, cochlear inner-hair-cell
+graded release, and downstream auditory-nerve spikes in separate panels.
+
+## Read next
+
+- [[receptor-to-phase-sensory-quantification|Receptor-to-Phase Sensory Quantification]]
+- [[umami-multi-receptor-coincidence-detection|Umami Receptor Diversity and Coincident Sensory Inputs]]
+- [[camp-neural-phase-modulation|cAMP and State-Dependent Cellular Modulation]]
+- [[phase-wave-differentials|Phase-Wave Differentials]]
+- [[gh-a0272z|Original 2022 source note]]

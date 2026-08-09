@@ -26,4 +26,3 @@ short-term memory.
 - [[neural-tuning|Neural Tuning]]
 - [[memory-state-drift-virtual-mind|Memory and the Virtual Mind]]
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]]
-

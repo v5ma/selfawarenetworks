@@ -141,3 +141,9 @@ Book 2 can use this page as a short reader bridge before or after the first full
 The book should not ask the reader to infer scale from context. It should explicitly say when a
 paragraph is discussing cellular physiology, local-circuit computation, whole-brain rendering, or
 historical comparison evidence.
+
+See [[neural-array-projection|Neural Array Projection]] for this scale contract applied to the
+receive-transform-project-update operation.
+
+See [[self-aware-networks|Self-Aware Networks]] for the cross-scale observer-action program that
+uses this contract.

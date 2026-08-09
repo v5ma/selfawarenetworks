@@ -1,3 +1,11 @@
+---
+title: "Metatron Computational Unit"
+tags: [san, metatron, artificial-neurology, dendritic-computation, model-comparison]
+aliases: [Metatron Research Unit]
+summary: "A testable SAN specification for a stateful artificial-neurology unit whose added spatial, temporal, inhibitory, recurrent, and plastic variables must outperform capacity-matched contemporary baselines."
+status: governed
+---
+
 # Metatron Computational Unit
 
 The **Metatron** is SAN's name for a proposed artificial-neurology unit that restores selected
@@ -72,6 +80,11 @@ adaptation beyond equal-capacity recurrent and state-space controls.
 No inner viewer is added. Observation is attributed to the distributed loop that maintains state,
 registers differences, predicts consequences, acts, receives reafference, and updates.
 
+The unit should also remain distinct from the reconstructed state it helps produce. The
+[[san-tomogram|SAN Tomogram]] is the current name for the distributed, action-ready relation across
+many participating units, circuits, body variables, and recurrent consequences. A Metatron may
+contribute a partial transformation; it does not contain the complete percept or observer.
+
 ## Rejection test
 
 Compare the proposed unit with strong point-unit, recurrent, spiking, active-dendrite, and
@@ -82,6 +95,7 @@ improve held-out performance, robustness, adaptation, biological fit, or explana
 ## Read next
 
 - [[perceptron-deep-learning-metatron|From the Perceptron to Deep Learning to the Metatron]]
+- [[san-tomogram|SAN Tomogram: A Distributed, Action-Ready Reconstruction]]
 - [[artificial-neurology|Artificial Neurology]]
 - [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and Phase-Wave Differential]]
 - [[receptive-inceptive-dendritic-projection|Receptive, Inceptive, and Dendritic Projection]]

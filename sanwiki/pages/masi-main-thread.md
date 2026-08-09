@@ -60,19 +60,3 @@ Mainstream signal-processing literature has long treated post-measurement comput
 ---
 
 *Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
-
-<!-- P34MS3-MASI-SVI-RIEMANN-READNEXT:START -->
-
-## Riemann / HSIT Source-Recovery Route
-
-The later Google AI Studio MASI/SVI continuation is routed in the Riemann Wiki
-as [[masi-svi-google-ai-studio-source-recovery]] and reviewed in
-[[masi-svi-openai-counterpart-fit-jigsaw-review]].
-
-This read-next link is source routing only. It connects the MASI/SAN phase
-synchronization thread to the HSIT/engine theory-history cluster; it does not
-promote a concrete HSIT witness, source-lock, relation-law discharge,
-method-risk exclusion, bridge discharge, infinite HSIT, SIT/Riemann, RH, or
-theorem claim.
-
-<!-- P34MS3-MASI-SVI-RIEMANN-READNEXT:END -->

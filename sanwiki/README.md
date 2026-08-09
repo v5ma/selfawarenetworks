@@ -5,14 +5,15 @@ This folder is the machine-readable public corpus for the Self-Aware Networks Wi
 ## Snapshot
 
 - First corpus snapshot in this folder: **2026-08-01**
-- Indexed pages in this snapshot: **2,372**
+- Current corpus snapshot: **2026-08-09**
+- Indexed pages in this snapshot: **2,378**
 - Canonical reader: [Self-Aware Networks Wiki](https://selfawarenetworks.com/wiki/)
 - Machine-readable index: [page-index.json](page-index.json)
 - Exact file hashes: [manifest-sha256.csv](manifest-sha256.csv)
 - Snapshot metadata: [snapshot.json](snapshot.json)
 - Browser quality sample: [random 100-page visual audit](quality-audits/2026-08-01-random-100/)
 
-The Git commit date establishes when this complete snapshot was made public. It does **not** retroactively assign 2026-08-01 to claims, terminology, or wording developed at other times. Historical priority must be evaluated from the dated sources and provenance identified within the pages.
+The Git commit date establishes when this complete snapshot was made public. It does **not** retroactively assign that date to claims, terminology, or wording developed at other times. Historical priority must be evaluated from the dated sources and provenance identified within the pages.
 
 ## Structure
 
@@ -24,7 +25,7 @@ The Git commit date establishes when this complete snapshot was made public. It 
 
 ## Public Projection
 
-The published Markdown retains the reader-facing content while removing generated internal route blocks, withholding private local filesystem paths, and generalizing the name of a private source archive. The manifest preserves the original source hash as well as the published-file hash, so the relationship between the internal source and public projection remains verifiable without publishing private infrastructure details.
+The published Markdown retains the reader-facing content while normalizing line endings for Git, removing generated internal route blocks, withholding private local filesystem paths and internal review routes, and generalizing the name of a private dated source archive. The manifest preserves the original source hash as well as the published-file hash, so the relationship between the internal source and public projection remains verifiable without publishing private infrastructure details.
 
 ## Scientific Status
 

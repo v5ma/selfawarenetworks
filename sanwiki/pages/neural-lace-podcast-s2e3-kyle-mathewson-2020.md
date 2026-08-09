@@ -46,4 +46,3 @@ thought or validated consciousness measurement.
 - [[neural-lace-podcast-s2e1-jean-rintoul-2018|OpenEIT and BCI-XR]]
 - [[fnirs-neural-lace-podcast-s2e4-2019|fNIRS Season 2 Episode 4]]
 - [[neurofeedback-closed-eye-mind-machine|Neurofeedback history]]
-

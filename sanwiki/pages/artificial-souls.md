@@ -100,6 +100,7 @@ Machine transcripts require audio-level verification before exact quotation.
 
 ## Read next
 
+- [[machine-self-report-active-canvas-consciousness-test|From Machine Self-Report to an Active-Canvas Test]]
 - [[artificial-neurology|Artificial Neurology]]
 - [[sentient-self-aware-neural-network|Sentient Self-Aware Neural Network]]
 - [[artificial-morality|Artificial Morality]]

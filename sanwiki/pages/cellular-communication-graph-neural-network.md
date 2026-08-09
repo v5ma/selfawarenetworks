@@ -70,4 +70,3 @@ they are not substitutes for molecular and physiological measurements.
 - [[category-theory-biological-state-transitions|Category Theory Biological State Transitions]]
 - [[cellular-oscillatory-tomography|Cellular Oscillatory Tomography]]
 - [[gh-a0621z|a0621z source note]]
-

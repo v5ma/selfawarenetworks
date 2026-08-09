@@ -59,6 +59,8 @@ The clearest SAN-specific route appears in Micah's [July 31, 2022 NAPOT video](h
 
 This is not a claim that every group member is interchangeable or that one cue deterministically retrieves one complete scene. It is a hypothesis about redundant access, inhibition-sensitive recruitment, and distributed re-expression.
 
+Two June 2022 notes supply an earlier mechanistic precursor. [a0111z on June 10](https://github.com/v5ma/selfawarenetworks/blob/84f9d0a56a47fec4b427ac6422062902f39776dd/a0111z.md#L18-L22) proposes local-to-network magnification through changed downstream timing and inhibition. [a0129z on June 11](https://github.com/v5ma/selfawarenetworks/blob/ed4d6d5341bed45eff614967634dbdc617893f5a/a0129z.md#L2-L24) proposes a cascade in which another receiving array recognizes the changed pattern and recruits a further population. The source calls this a *photocopier* effect, but the source-faithful biological recovery is ordered recurrent recruitment, not copying a lossless memory image.
+
 Later 2024-2025 files use terms such as *oscillatory pattern completion* and attractor-state convergence. Those later formulations can clarify the current model, but they are not backdated into the 2014 or 2022 record.
 
 ## The SAN scale ladder
@@ -121,6 +123,7 @@ Successful retrieval does not by itself establish conscious access. That require
 
 - **September 28, 2014:** owner-dated discussion places pattern completion beside state-dependent recurrent computation while Micah argues that biological architecture cannot be replaced by neuron count or vague emergence.
 - **June 8-11, 2022:** that discussion is publicly Git-fixed and moved to canonical a0088z.md.
+- **June 10-11, 2022:** a0111z and a0129z add the local-to-network magnification and ordered receiver-cascade precursor.
 - **July 31, 2022:** the public NAPOT video states the inhibited-member, alternate-access, learned-group recruitment route.
 - **August 19-22, 2022:** a0018z.md connects CA3 organization and a hippocampal-entorhinal spatial scaffold to distributed content reconstruction, while using the hippocampus-as-column language as an analogy.
 - **October 2024 and May 2025:** later 04san.md and 08san.md files add oscillatory-pattern-completion and attractor-state language. These are later synthesis layers.
@@ -136,3 +139,4 @@ Successful retrieval does not by itself establish conscious access. That require
 - [[dendritic-computation|Dendritic Computation]]
 - [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]]
 - [[conscious-access|Conscious Access]]
+- [[telescoping-network-neighborhood-reinstatement|Telescoping Network-Neighborhood Reinstatement]]

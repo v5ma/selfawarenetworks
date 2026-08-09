@@ -4690,4 +4690,3 @@ all righty catch you catch you guys later okay i'm just gonna uh say good night 
 i think we'll probably close the room good night yeah good night good night all right good night
 
 cool thanks see y'all thank you
-

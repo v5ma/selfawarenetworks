@@ -8,7 +8,7 @@ status: governed
 
 # Brain TCP/UDP Analogy
 
-![Brain TCP/UDP analogy medical-textbook plate showing contrasting communication regimes](/v5ma.github.io/wiki/assets/generated/san/brain-tcp-udp-analogy/brain-tcp-udp-analogy-cortical-traffic-regimes-20260705-v1.png)
+> **Image status:** The earlier cortical-traffic plate has been removed from display and preserved in the failed-medical-review archive. It assigned predictive coding, plasticity, rhythms, neurotransmitter release, and sharp-wave ripples to TCP-like or UDP-like classes without source support. A replacement prompt is retained for a route-specific BCI diagram; image generation is paused.
 
 ## The actual source idea
 
@@ -49,10 +49,13 @@ neurons literally implement Internet protocols.
 
 ## Development path
 
-The 2017 protocol question precedes later SAN mechanisms. [[tonic-phasic-phase-wave-differential|PWD]]
-supplies a candidate receiver-relative signal description. [[napot-revision-genealogy|NAPOT]]
-supplies a receive-transform-re-express architecture. A 2022 immune-cell note extends the
-handshake analogy to cellular communication and the COT/SET line.
+The 2012 [[neuron-shape-information-storage|neuron-as-program proposal]] supplies an earlier
+state-dependent transform-and-re-express ancestor, but it does not use the TCP/UDP analogy. The
+2017 protocol question introduces that comparison and the differential write-back operation.
+[[tonic-phasic-phase-wave-differential|PWD]] later supplies a candidate receiver-relative signal
+description, while [[napot-revision-genealogy|NAPOT]] supplies a receive-transform-re-express
+architecture. A 2022 immune-cell note extends the handshake analogy to cellular communication and
+the COT/SET line.
 
 ## Read next
 

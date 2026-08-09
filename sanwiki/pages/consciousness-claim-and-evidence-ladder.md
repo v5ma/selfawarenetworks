@@ -46,8 +46,7 @@ should therefore preserve behavior as one stream while joining it to versioned a
 persistent state, endogenous transitions, causal use, self-monitoring, perturbation, recovery, and
 independent theory-derived indicators.
 
-See [[machine-agency-consciousness-welfare-evidence-program|From Machine Output to Candidate
-Agency, Consciousness, and Welfare]].
+See [[machine-agency-consciousness-welfare-evidence-program|From Machine Output to Candidate Agency, Consciousness, and Welfare]].
 ## Apply the scale ladder
 
 Every level must also declare scale:
@@ -98,6 +97,7 @@ Before promoting a claim, state:
 
 ## Read next
 
+- [[machine-self-report-active-canvas-consciousness-test|From Machine Self-Report to an Active-Canvas Test]]
 - [[san-knowledge-graph|SAN Knowledge Graph]]
 - [[consciousness|Consciousness]]
 - [[conscious-access|Conscious Access]]

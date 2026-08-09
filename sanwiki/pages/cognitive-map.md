@@ -122,4 +122,3 @@ This canonical page was created on July 27, 2026, so there is no earlier `cognit
 - [[hippocampal-reference-frames|Hippocampal Reference Frames]]
 - [[reference-frames-cortical-knowledge|Reference Frames and Cortical Knowledge]]
 - [[neural-array-projection-oscillation-tomography|NAPOT]]
-

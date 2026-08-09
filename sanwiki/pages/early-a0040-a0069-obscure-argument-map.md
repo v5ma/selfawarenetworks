@@ -81,4 +81,3 @@ and consciousness-measurement work.
 - [[detection-rendering-interlace|Detection-Rendering Interlace]]
 - [[field-cell-self-bioelectric-information-entity|The Field-Cell Self]]
 - [[conscious-state-perturbation-tomography|Conscious-State Perturbation Tomography]]
-

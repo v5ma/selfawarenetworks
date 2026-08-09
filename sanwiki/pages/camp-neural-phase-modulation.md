@@ -1,53 +1,58 @@
-**cAMP-mediated neural phase modulation** is the molecular mechanism by which
-cyclic adenosine monophosphate (cAMP) — a second messenger — allows individual
-neurons to [[gh-a0206z|self]]-regulate the duration and pattern of their oscillatory output.
+---
+title: "cAMP and State-Dependent Cellular Modulation"
+tags: [san, camp, ion-channels, cellular-state, sensory-transduction]
+aliases: [cAMP-mediated neural phase modulation, Camp Neural Phase Modulation]
+summary: "How cAMP can alter signaling in named cells and preparations, and how SAN treats those state-dependent transformations without claiming a universal molecular phase code."
+status: governed
+---
 
-![cAMP neural phase modulation cascade diagram](/v5ma.github.io/wiki/assets/generated/san/camp-neural-phase-modulation/camp-neural-phase-modulation-cascade-20260627.png)
+# cAMP and State-Dependent Cellular Modulation
 
-This SAN image shows cAMP as a local second-messenger control signal: sensory gain changes cAMP tone, cAMP tunes potassium-channel duration and action-potential width, calcium open time changes vesicle release quantity, and the exit-terminal array receives an altered phase pattern. The bottom strip captures the page's tonic-phasic claim: Ca2+ can drive CAN pacemaker current while cAMP-dependent phosphorylation can damp the same channel family.
+cAMP is an intracellular second messenger. In particular cells and preparations, it can regulate ion
+channels, excitability, mechanotransduction sensitivity, secretion, or other downstream processes.
+Its effect is receptor-, channel-, cell-type-, state-, and timescale-dependent. cAMP is not itself a
+universal oscillation, phase token, or proof that a cell represents a complete sensory quality.
 
-## The chain
+## Source-faithful recovery
 
-Sound vibration → gating spring stiffness change in hair cells → cAMP release →
-potassium channel duration modification → [[action-potential-duration|action potential duration]] change →
-calcium channel open-time change → vesicle release quantity variation →
-**phase pattern passed to exit-terminal array altered**.
+`a0272z.md` linked receptor activation, cAMP-sensitive channel regulation, action-potential duration,
+calcium entry, and variable synaptic output while asking whether local cellular state could alter
+what a network receives. That is a plausible research program. The mature medical statement must
+not turn it into one obligatory chain for taste cells, hair cells, glia, and central neurons.
 
-This chain links sensory input directly to the phase pattern a neuron emits,
-without requiring any external regulator. The neuron [[gh-a0206z|self]]-tunes.
+In a defined rat outer-hair-cell preparation, cAMP up-regulation reduced mechanotransduction
+sensitivity in a manner consistent with reduced gating-spring stiffness. In a different family of
+experiments, intracellular messengers altered more than one ion-channel class in identified
+neurons. These findings support conditional cellular modulation, not a generic receptor -> cAMP ->
+spike-width -> vesicle-count rule.
 
-## Significance for SAN
+- [Mecca, Caprara, and Peng (2022)](https://doi.org/10.1073/pnas.2107567119)
+- [Adams and colleagues (1982)](https://pubmed.ncbi.nlm.nih.gov/2428903/)
+- [Swandulla and colleagues (1991)](https://pubmed.ncbi.nlm.nih.gov/1703569/)
 
-This is the molecular substrate for [[cellular-oscillating-tomography]]: each
-step of the chain is a signal transformation that contributes to the oscillatory
-binding described in COT. The cAMP cascade proves the mechanism by which "what a
-neuron is tasting" (receptor inputs) modifies what the neuron emits — a feedback
-loop at the cellular level.
+## Established operation and SAN interpretation
 
-The key finding: **neurons can [[gh-a0206z|self]]-regulate**. Via cAMP, a single neurotransmitter
-acting through a single intracellular messenger can modulate several classes of ion
-channels simultaneously. This contradicts the simpler model where neurons are mere
-threshold gates with fixed output patterns.
+**Established:** a cell's current biochemical and electrophysiological state can change how a later
+input is transformed. The relevant variables and consequences must be measured in the named cell
+and route.
 
-## cAMP in the auditory system
+**SAN interpretation:** state-dependent cellular transformations may supply local differences that
+later receivers use during distributed reconstruction, learning, and action. This interpretation
+does not make cAMP a stand-alone PWD, prove tonic-phasic organization in every cell, or establish a
+universal sensory code.
 
-In auditory hair cells, cAMP specifically reduces gating spring stiffness, decreasing
-channel sensitivity to sound vibrations. This mechanism provides gain control at the
-earliest sensory stage — the hair cell acts as an adaptive input filter before signals
-even reach the neural array. See [[napot]] for how input-filtered signals propagate
-through subsequent arrays.
+## Image boundary
 
-## cAMP dual control: pacemaker and damper
+The earlier generated cascade plate is preserved as a historical asset but removed from reader use.
+It incorrectly merged outer-hair-cell transduction, central-neuron action-potential waveform, and
+universal phase output. A future plate must use separate, labeled examples and show the SAN layer as
+a proposed cross-scale interpretation.
 
-In bursting neurons, Ca²⁺ activates CAN (calcium-activated non-specific cation)
-channels, generating the tonic pacemaker current. cAMP-dependent phosphorylation
-**down-regulates** these same channels — modulating whether the neuron bursts or
-beats. The dual Ca²⁺/cAMP control of CAN channels is the molecular instantiation
-of the tonic–phasic balance in [[napot]].
+## Read next
 
-## Outbound links
-
-- [[cellular-oscillating-tomography]]
-- [[napot]]
-- [[neural-functional-fractal]]
-- [[neural-oscillatory-synchronization]]
+- [[auditory-gating-spring-camp|Auditory Gating-Spring Modulation]]
+- [[umami-multi-receptor-coincidence-detection|Umami Receptor Diversity and Coincident Sensory Inputs]]
+- [[receptor-to-phase-sensory-quantification|Receptor-to-Phase Sensory Quantification]]
+- [[action-potential-waveform|Action Potential Waveform]]
+- [[synaptic-unreliability-mvr-2021|Synaptic Unreliability, MVR, and the Ionotropic Information Channel]]
+- [[phase-wave-differentials|Phase-Wave Differentials]]

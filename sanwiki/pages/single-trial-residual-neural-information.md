@@ -102,4 +102,3 @@ machine-consciousness-measurement manuscripts.
 - [[tonic-context-rare-deviation-tomographic-language|Tonic Context and Rare Deviations]]
 - [[continuous-dynamics-discrete-neural-information|Continuous Dynamics and Discrete Neural Information]]
 - [[bci-instrument-atlas|BCI Instrument Atlas]]
-
