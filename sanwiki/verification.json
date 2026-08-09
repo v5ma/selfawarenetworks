@@ -1,15 +1,24 @@
 {
-  "verifiedAt": "2026-08-09T19:17:33.275Z",
+  "verifiedAt": "2026-08-09T20:00:53.908Z",
   "status": "pass",
   "sourcePageCount": 2378,
   "archivePageCount": 2378,
   "manifestRowCount": 2378,
   "archivePageFileCount": 2378,
-  "sourceIndexSha256": "93d0f72e8e9deeb06d645998d1080eda94facd99bd42ded2cba21009da6057d2",
-  "archiveIndexSha256": "216427b89dbb335200806086e04bf07956fa4b762e6140439e577e0a96611ab7",
-  "manifestSha256": "e90f8aea917569ab6000ee7a2cc9f0a25f3f2cdae33bd65004a42af7855f05ff",
-  "prohibitedMarkerCount": 14,
-  "scannedPublicTextFileCount": 2385,
+  "sourceIndexSha256": "12d82ad77dc09a8a30d7dc4b4a0563d4d55a4c538980328135ba453ef93f8c65",
+  "archiveIndexSha256": "b280da25cf90e6c25019d0c3c5b9e9f597cd3052cdf67f59167c0b7acffa5996",
+  "manifestSha256": "4a0f7aa719da2af4a61c81f59db3534cc2f22e43517e02de3d8f8e49d24b3a4f",
+  "prohibitedMarkerCount": 0,
+  "scannedPublicTextFileCount": 2382,
+  "transformationTotals": {
+    "lineEndingsNormalized": 314347,
+    "trailingBlankLinesRemoved": 103,
+    "finalNewlineAdded": 39,
+    "routeBlocksRemoved": 396,
+    "localPathsWithheld": 24,
+    "privateInternalRoutesWithheld": 1,
+    "privateArchiveNamesGeneralized": 27
+  },
   "failureCount": 0,
   "failures": []
 }

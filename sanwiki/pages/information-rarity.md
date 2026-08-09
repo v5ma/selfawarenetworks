@@ -204,6 +204,7 @@ image session.
 - [[dendritic-spines|Dendritic Spines]]
 - [[neural-distinction-consciousness|Neural Distinction and Consciousness]]
 - [[gh-a0590z|a0590z source note]]
+- [[gh-13san|13san: Computable Consciousness, Phase Variability, and Self-Modifying Timing]]
 - [Shannon, 1948, part I](https://doi.org/10.1002/j.1538-7305.1948.tb01338.x)
 - [Shannon, 1948, part II](https://doi.org/10.1002/j.1538-7305.1948.tb00917.x)
 - [Olshausen and Field, 1996](https://doi.org/10.1038/381607a0)

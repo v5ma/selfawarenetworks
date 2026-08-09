@@ -127,3 +127,4 @@ PWD calculus is a candidate update mechanism inside NAPOT. NAPOT adds the strong
 - [[canvas-is-the-receiver|The Canvas Is Also the Receiver]]
 - [[napot-overview|NAPOT Overview]]
 - [[phase-language-firewall|Phase Language Firewall]]
+- [[gh-13san|13san: Computable Consciousness, Phase Variability, and Self-Modifying Timing]]

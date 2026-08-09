@@ -25,7 +25,7 @@ The Git commit date establishes when this complete snapshot was made public. It 
 
 ## Public Projection
 
-The published Markdown retains the reader-facing content while normalizing text line endings, removing generated internal route blocks, withholding private local filesystem paths and internal review routes, and generalizing the name of a private source archive. The manifest preserves the original source hash as well as the published-file hash.
+The published Markdown retains the reader-facing content while normalizing line endings for Git, removing generated internal route blocks, withholding private local filesystem paths and internal review routes, and generalizing the name of a private dated source archive. The manifest preserves the original source hash as well as the published-file hash, so the relationship between the internal source and public projection remains verifiable without publishing private infrastructure details.
 
 ## Scientific Status
 
