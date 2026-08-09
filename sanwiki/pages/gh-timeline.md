@@ -1,5 +1,11 @@
 # Comprehensive All-Inclusive Timeline
 
+> **Historical chronology preserved:** This page records an earlier timeline reconstruction and
+> remains available for provenance. Later source recovery identified public or publicly described
+> 2011, 2012, and 2017 evidence that this page did not yet include. Use the
+> [[san-dynamic-timeline|SAN Dynamic Timeline, 2011-2026]] for the current source-graded chronology;
+> consult this page when auditing how the older reconstruction was stated.
+
 Below is a single, unified timeline in chronological order covering major public milestones, earliest known references to [Micah Blumberg](./micah-blumberg.md)'s ideas, and relevant activity across GitHub, YouTube, Medium, SVGN.io, and X/Twitter, under the names **Micah Blumberg**, **micahsun**, **worksalt**, **Death Star Robot**, **[Self Aware Networks](./gh-a0001z.md)**, **micah1**, **micah8**, **n5ro**, and **v5ma**.
 
 ---

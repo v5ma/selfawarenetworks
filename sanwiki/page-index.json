@@ -46381,6 +46381,7 @@
     "xrRoomId": "san-gh-timeline",
     "xrDeckId": "san-reader",
     "related": [
+      "san-dynamic-timeline",
       "micah-blumberg",
       "gh-a0001z"
     ],
@@ -49512,6 +49513,7 @@
       "field-cell-self-bioelectric-information-entity",
       "san-scale-ladder-and-claim-boundaries",
       "machine-agency-consciousness-welfare-evidence-program",
+      "san-dynamic-timeline",
       "san-claim-genealogy-2011-2022",
       "napot-revision-genealogy",
       "san-golden-corpus-map",
@@ -71154,9 +71156,50 @@
       "neuron-shape-information-storage",
       "brain-networking-protocol",
       "multimodal-neural-state-reconstruction-perturbation",
+      "san-dynamic-timeline",
       "san-knowledge-graph"
     ],
     "archivePath": "pages/san-claim-genealogy-2011-2022.md"
+  },
+  {
+    "slug": "san-dynamic-timeline",
+    "title": "SAN Dynamic Timeline, 2011-2026",
+    "summary": "An interactive, source-graded map of SAN's development from 2011 through 2026, with filters for concept family, source type, stage, evidence grade, scale, medium, and publication state.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "timeline",
+      "genealogy",
+      "provenance",
+      "source-recovery",
+      "books",
+      "neural-lace",
+      "napot",
+      "pwd"
+    ],
+    "path": "/v5ma.github.io/wiki/content/san-dynamic-timeline.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/san-dynamic-timeline.md"
+    ],
+    "xrRoomId": "san-san-dynamic-timeline",
+    "xrDeckId": "san-reader",
+    "related": [
+      "san-claim-genealogy-2011-2022",
+      "neo-mind-cycle-neurofeedback-bci-genealogy",
+      "neural-lace-podcast-source-genealogy",
+      "selfawarenetworks-github-chronology",
+      "napot-revision-genealogy",
+      "san-manuscript-series-genealogy",
+      "san-golden-corpus-map",
+      "bridging-molecular-mechanisms",
+      "gh-13san",
+      "gh-timeline",
+      "home",
+      "san-knowledge-graph",
+      "self-aware-networks-book-overview",
+      "san-authorship-provenance-and-ai-assistance"
+    ],
+    "archivePath": "pages/san-dynamic-timeline.md"
   },
   {
     "slug": "san-golden-corpus-map",
@@ -71545,6 +71588,38 @@
       "napot-revision-genealogy"
     ],
     "archivePath": "pages/san-repository-front-door-spine.md"
+  },
+  {
+    "slug": "san-research-publication-source-map",
+    "title": "SAN Research Publications and SVGN/VRMA Source Map",
+    "summary": "A bounded map from Micah Blumberg's research-paper index and historical SVGN/VRMA articles into the Self Aware Networks Encyclopedia.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "publications",
+      "research-papers",
+      "svgn",
+      "vrma",
+      "provenance",
+      "source-map"
+    ],
+    "path": "/v5ma.github.io/wiki/content/san-research-publication-source-map.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/san-research-publication-source-map.md"
+    ],
+    "xrRoomId": "san-san-research-publication-source-map",
+    "xrDeckId": "san-reader",
+    "related": [
+      "flow-of-information-in-the-brain",
+      "gamma-wave-consideration-sandwich",
+      "neural-tuning",
+      "san-archive-ordering-and-research-intake-map",
+      "san-golden-corpus-map",
+      "san-claim-genealogy-2011-2022",
+      "neural-lace-podcast-source-genealogy",
+      "selfawarenetworks-github-repository"
+    ],
+    "archivePath": "pages/san-research-publication-source-map.md"
   },
   {
     "slug": "san-residual-after-prior-art-subtraction",

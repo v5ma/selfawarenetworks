@@ -27,6 +27,36 @@ The word *sandwich* therefore names a recurrent relationship: incoming evidence 
 
 This is a distributed loop. No band is the whole sensory stream, thought stream, consideration process, or motor command.
 
+## The cortical traffic beneath the sandwich
+
+GCS becomes more concrete when it is placed over Micah's earlier and later information-flow work.
+The March 2021 [[flow-of-information-in-the-brain|Flow of Information in the Brain]] recording asks
+how signals are transformed through receptors, dendrites, recurrent circuits, thalamus, cortex,
+action, and sensory return. The January 2024
+[Cortical Dynamics & Neurocircuitry](https://www.svgn.io/p/cortical-dynamics-and-neurocircuitry)
+article adds a proposed traffic map: local laminar and corticothalamic recurrence intersects with
+longer-range feedforward and feedback traffic across cortical hierarchies.
+
+The three pages divide the explanatory work:
+
+- [[flow-of-information-in-the-brain|The Flow of Information in the Brain]] supplies the receive-transform-route-act-return topology.
+- [[neural-tuning|Neural Tuning]] proposes how learned state, deep-layer recurrence, inhibition, and neuromodulation change which routes and receivers are effective.
+- **GCS** proposes how receiver-relative oscillatory timing may coordinate sensory evidence, maintained context, consideration, action, and returned consequence across that traffic graph.
+
+```text
+sensory evidence
+  -> laminar and interareal transformation
+  <-> corticothalamic and corticocortical feedback
+  -> timing-sensitive consideration and route selection
+  -> distributed motor or vocal realization
+  -> proprioceptive, interoceptive, and external sensory return
+```
+
+The 2024 article's vertical/horizontal and front/back language is a teaching geometry, not a claim
+that all cortical traffic follows one anatomical axis or one six-layer sequence. The relevant
+laminar origins, termination patterns, thalamic relays, and oscillatory relationships must be
+specified for each circuit and preparation.
+
 ## Tonic canvas and phasic ink
 
 GCS becomes clearer when the SAN **tonic canvas / phasic ink** distinction is kept receiver-relative. Tonic activity is the receiving population's current operating state. Phasic activity is a change that matters relative to that state. Either may contain several frequencies, and a signal can be tonic for one receiving timescale while phasic for another. Gamma is therefore a possible carrier of some fast updates, not a synonym for all phasic information.
@@ -53,6 +83,8 @@ These studies support circuit-specific oscillatory and sensorimotor coordination
 ## Related pages
 
 - [[consideration-sandwich]]
+- [[flow-of-information-in-the-brain]]
+- [[neural-tuning]]
 - [[oscillatory-feedback-circuits]]
 - [[phase-wave-differential]]
 - [[proprioceptive-feedback]]

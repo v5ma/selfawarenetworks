@@ -29,7 +29,7 @@ experiments, revisions, and applications.
 | Understand the core mechanism | [[neural-array-projection|Neural Array Projection]] | [[napot-overview|NAPOT]] -> [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]] |
 | Examine consciousness without an inner viewer | [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]] | [[entification-observer-problem|Entification and the Distributed Observer]] -> [[field-cell-self-bioelectric-information-entity|The Field-Cell Self]] |
 | Check scientific and medical boundaries | [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]] | [[self-aware-networks-theory|Claim Status]] -> [[machine-agency-consciousness-welfare-evidence-program|Agency, Consciousness, and Welfare Evidence]] |
-| Trace what was said and when | [[san-claim-genealogy-2011-2022|SAN Claim Genealogy, 2011-2022]] | [[napot-revision-genealogy|NAPOT Revision Genealogy]] -> [[san-golden-corpus-map|Golden Corpus Map]] |
+| Trace what was said and when | [[san-dynamic-timeline|SAN Dynamic Timeline, 2011-2026]] | [[san-claim-genealogy-2011-2022|SAN Claim Genealogy]] -> [[napot-revision-genealogy|NAPOT Revision Genealogy]] -> [[san-golden-corpus-map|Golden Corpus Map]] |
 | Follow the books | [[self-aware-networks-book-overview|Book and Encyclopedia Overview]] | [[bridging-molecular-mechanisms|Bridging Molecular Mechanisms]] -> [[self-aware-networks-book|Self Aware Networks Book Program]] |
 | Follow the BCI and engineering line | [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle Source Genealogy]] | [[bci-instrument-atlas|BCI Instrument Atlas]] -> [[artificial-neurology|Artificial Neurology]] |
 | Decode unfamiliar terminology | [[san-plain-language-glossary-and-acronym-index|Plain-Language Glossary and Acronym Index]] | Return to the linked concept and source pages. |
@@ -97,7 +97,7 @@ follows that complete loop.
 | Layer | Principal routes | What the layer contributes |
 |---|---|---|
 | Program and criteria | [[self-aware-networks|Self-Aware Networks]], [[self-aware-networks-theory|Theory Architecture]], [[self-aware-network|Candidate System Criteria]] | The problem, joined architecture, evidence ladder, and criteria for a candidate system. |
-| Cellular and pathway operations | [[neural-array-projection|Neural Array Projection]], [[neural-tuning|Neural Tuning]] | Receive-transform-project anatomy, receiver state, pathway constraints, and changing target recruitment. |
+| Cellular and pathway operations | [[neural-array-projection|Neural Array Projection]], [[flow-of-information-in-the-brain|Flow of Information]], [[neural-tuning|Neural Tuning]], [[gamma-wave-consideration-sandwich|Gamma Consideration Sandwich]] | Receive-transform-project anatomy, recurrent cortical traffic, receiver state, timing, pathway constraints, and changing target recruitment. |
 | Population dynamics | [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]], [[phase-wave-differential-calculus|PWD Calculus]] | Ongoing context, differentiated update, timing, waveform, variability, coupling, and testable comparison variables. |
 | Rendering and memory | [[napot-overview|NAPOT]], [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]], [[memory-state-drift-virtual-mind|Memory and the Virtual Mind]] | Distributed integration, reconstruction, re-expression, and the no-inner-screen boundary. |
 | Observer and action | [[entification-observer-problem|Entification]], [[field-cell-self-bioelectric-information-entity|Field-Cell Self]], [[agency-valuation-action-feedback|Agency and Returned Consequence]] | Causal unity, perspective, selection, action, and feedback. |
@@ -108,6 +108,9 @@ follows that complete loop.
 SAN did not begin as one finished manuscript. It developed across several source families that must
 remain dated separately.
 
+The [[san-dynamic-timeline|SAN Dynamic Timeline]] provides the public zoomable overview. The source
+family routes below preserve the denser evidence and wording needed to audit individual events.
+
 | Source family | Main route | Role in the Encyclopedia |
 |---|---|---|
 | 2011-2012 dialogues and notes | [[san-claim-genealogy-2011-2022|SAN Claim Genealogy]] | Early self-prediction, feedback, brain-body perspective, observer-action, and cellular-structure ancestors. |
@@ -115,6 +118,7 @@ remain dated separately.
 | 2022 public GitHub theory and Whitepaper | [[selfawarenetworks-github-repository|SelfAwareNetworks GitHub Repository]], [[san-manuscript-series-genealogy|SAN Manuscript Series Genealogy]] | Named SAN/NAPOT architecture, revisions, source language, and immutable public Git history. |
 | Neo Mind Cycle and neurofeedback | [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle Source Genealogy]] | The earlier closed-loop BCI and New Mind Loop translated into later SAN instrumentation questions. |
 | Early A- and B-series source files | [[early-a-series-golden-corpus-map|Early A-Series Map]], [[early-b-series-golden-corpus-map|Early B-Series Map]] | File-by-file routing, missing-identity preservation, and bounded source recovery. |
+| Research papers and SVGN/VRMA articles | [[san-research-publication-source-map|SAN Research Publications and SVGN/VRMA Source Map]] | Exact publication identity, historical article custody, concept routing, and the remaining completeness boundary. |
 | Larger archive and current intake | [[san-golden-corpus-map|SAN Golden Corpus Map]], [[san-archive-ordering-and-research-intake-map|Archive Ordering and Research Intake]] | Coverage, classification, source status, unresolved items, and downstream use. |
 
 Internal dates, recording dates, platform publication dates, Git fixation dates, and dates of later
@@ -180,6 +184,7 @@ AI commentary, and private-source recall are not evidence until the owning sourc
 
 ## Continue exploring
 
+- [[san-dynamic-timeline|SAN Dynamic Timeline, 2011-2026]]
 - [[san-knowledge-graph|SAN Knowledge Graph]]
 - [[san-golden-corpus-map|SAN Golden Corpus Map]]
 - [[san-plain-language-glossary-and-acronym-index|Plain-Language Glossary and Acronym Index]]

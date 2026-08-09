@@ -42,6 +42,59 @@ including its sensory and motor consequences, is the observer-action process.
 | Macro: interareal and thalamocortical | Feedforward, feedback, corticothalamic, thalamocortical, and cortico-thalamo-cortical routes are heterogeneous and cell-type specific. | How are partial representations transformed and coordinated without one universal cortical-column circuit? |
 | Organism: perception and action | Perception changes choice and movement; movement changes sensory input through reafference. | Can the complete recurrent observer-action loop be measured and causally perturbed? |
 
+## The joined cortical traffic model
+
+The March 2021 recording and Micah's January 2024 article
+[Cortical Dynamics & Neurocircuitry](https://www.svgn.io/p/cortical-dynamics-and-neurocircuitry)
+describe complementary parts of one proposal. The recording asks what happens to information as it
+is repeatedly transformed by living receivers. The later article tries to map that transformation
+onto three interacting traffic systems:
+
+Its principal contribution is this proposed traffic cycle, not a static assignment of functions to
+Layers 5 and 6. It tries to join bottom-up and top-down traffic, local laminar transformation,
+front-to-back and back-to-front interareal exchange, recurrent feedback, action, and sensory return.
+
+1. **Laminar and thalamocortical recurrence:** modality-specific sensory pathways enter cortical circuits through thalamic and non-thalamic routes; local layers transform those inputs; deep corticothalamic and corticofugal populations influence later cortical and subcortical states.
+2. **Interareal feedforward and feedback traffic:** sensory evidence can propagate toward successively more integrative cortical areas while task state, expectation, attention, memory, and contextual influence return through feedback pathways.
+3. **Action and reafference:** cortical and subcortical outputs contribute to motor, autonomic, or vocal action; the changed body and world then provide the next sensory evidence.
+
+The article's **vertical** and **horizontal**, **back-to-front** and **front-to-back** language is a
+useful spatial teaching shorthand, not a literal universal wiring rule. Thalamocortical targets,
+laminar origins and terminations, feedforward and feedback routes, and cortical hierarchies vary by
+area, pathway, cell class, species, and task. In particular, sensory traffic does not always move
+through every cortical layer in one fixed top-to-bottom sequence, and corticothalamic return does
+not simply terminate in layer 1.
+
+The medically bounded joined chain is:
+
+```text
+sensory and bodily transduction
+  -> thalamic, brainstem, and direct cortical routes
+  -> area-specific laminar transformation
+  -> corticocortical feedforward evidence
+  <-> feedback from context, memory, attention, and current goals
+  <-> layer-6 corticothalamic and other recurrent modulation
+  -> local selection, amplification, suppression, and integration
+  -> layer-5 corticofugal and other distributed action pathways
+  -> motor, autonomic, or vocal consequence
+  -> reafferent sensory and bodily update
+```
+
+This is where three SAN concepts meet without becoming synonyms. This page supplies the proposed
+traffic topology. [[neural-tuning|Neural Tuning]] asks how learned cellular state, inhibition,
+neuromodulation, and corticothalamic recurrence change which traffic is effective.
+[[gamma-wave-consideration-sandwich|The Gamma Consideration Sandwich]] proposes a
+receiver-relative timing organization across sensory evidence, maintained context, consideration,
+action, and returned consequence. GCS is therefore a timing-and-routing hypothesis over this
+heterogeneous traffic graph, not a replacement for its anatomy.
+
+Primate visual-cortex experiments provide one bounded example rather than a universal law:
+feedforward influence has often been associated with gamma-range activity and feedback influence
+with alpha/beta-range activity in those preparations. Cortico-thalamo-cortical reviews likewise
+show extended, cell-type-specific chains of cortical, thalamic, and local loops. These findings
+support recurrent traffic and direction-specific coordination; they do not prove the complete SAN
+cycle or assign one frequency to every feedforward or feedback pathway.
+
 ## What established neuroscience supports
 
 The March 2021 conversation correctly resisted two oversimplifications.
@@ -194,7 +247,9 @@ part of the structure; activity from spikes through larger rhythms helps bind th
 registrations with body representation and action. This is a distributed-observer formulation, not
 a literal picture watched by one array.
 
-[[gh-a0403z|a0403z]], first Git-fixed in January 2024, is a later composite cortex-and-thalamus map.
+[[gh-a0403z|a0403z]], first Git-fixed in January 2024 and published as
+[Cortical Dynamics & Neurocircuitry](https://www.svgn.io/p/cortical-dynamics-and-neurocircuitry),
+is a later composite cortex-and-thalamus map.
 Its strongest accurate form is a heterogeneous circuit graph: excitatory intratelencephalic,
 pyramidal-tract, and corticothalamic projection classes interact with thalamocortical cells and
 local inhibitory circuits in area- and cell-type-specific loops. The anatomy supports recurrent
@@ -226,6 +281,7 @@ recurrent feedback and reafference, without drawing a single universal pathway o
 - [[recursive-neural-array-perception|Recursive Neural Array Perception]]
 - [[neural-array-projection|Neural Array Projection]]
 - [[broccoli-shared-recognition-artificial-perception|Broccoli, Shared Recognition, and Artificial Perception]]
+- [[gamma-wave-consideration-sandwich|Gamma Wave Consideration Sandwich]]
 - [[neural-tuning|Neural Tuning]]
 - [[brain-interface-bci-map|Brain Interface and BCI Map]]
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]]
