@@ -73,3 +73,4 @@ not proof of experience.
 - [[metatron-computational-unit|Metatron Computational Unit]]
 - [[napot-tomography-not-holography|NAPOT: Tomography, Not Holography]]
 - [[self-modeling|Self-Modeling]]
+- [[simulation-consciousness|Simulation and Consciousness]]

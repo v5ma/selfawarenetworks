@@ -55994,6 +55994,7 @@
     "xrDeckId": "san-reader",
     "related": [
       "san-implementation-evidence-gates",
+      "simulation-consciousness",
       "artificial-neurology",
       "metatron-computational-unit",
       "napot-tomography-not-holography",
@@ -71221,6 +71222,7 @@
       "san-knowledge-graph",
       "artificial-neurology",
       "napot-sentient-ai-architecture",
+      "simulation-consciousness",
       "metatron-computational-unit",
       "self-modeling",
       "comparison-evidence-is-not-biological-validation"
@@ -74955,11 +74957,14 @@
   },
   {
     "slug": "simulation-and-consciousness",
-    "title": "Simulation And Consciousness",
-    "summary": "The slug encodes two coupled claims that recur across SAN: first, that conscious experience itself is partly a [[brain-as-rendering-engine|rendering]] / simulation process performed by [[neural-circuits|neural circuits]] that predict and re-render their inputs",
+    "title": "Simulation and Consciousness: Canonical Entry Alias",
+    "summary": "A preserved historical route pointing to the canonical source-faithful Simulation and Consciousness entry; the earlier evidence-empty generated distinction was not source-supported.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "alias",
+      "simulation",
+      "consciousness"
     ],
     "path": "/v5ma.github.io/wiki/content/simulation-and-consciousness.md",
     "sourceFiles": [
@@ -74968,42 +74973,26 @@
     "xrRoomId": "san-simulation-and-consciousness",
     "xrDeckId": "san-reader",
     "related": [
-      "consciousness",
-      "self-aware-networks",
-      "holographic-universe-procedural-reality",
-      "simulation-consciousness",
-      "brain-as-rendering-engine",
-      "neural-circuits",
-      "neural-rendering-of-qualia",
-      "undecidability-does-not-kill-simulation",
-      "consciousness-as-persistent-rendering",
-      "consciousness-as-frames",
-      "consciousness-as-oscillatory-feedback-loop",
-      "consciousness-as-information",
-      "consciousness-as-temporally-active-loop",
-      "consciousness-as-high-bandwidth-choice-mechanism",
-      "consciousness-as-prediction-determinism",
-      "memory-prediction-cycle",
-      "memory-prediction-framework",
-      "building-sentient-beings",
-      "napot-sentient-ai-architecture",
-      "virtual-models-consciousness",
-      "virtual-models-theory",
-      "brain-as-self-watching-movie",
-      "consciousness-multimodal-rendering-loop",
-      "self-aware-network",
-      "qualia",
-      "oscillatory-dynamics"
+      "simulation-consciousness"
     ],
     "archivePath": "pages/simulation-and-consciousness.md"
   },
   {
     "slug": "simulation-consciousness",
-    "title": "Simulation Consciousness",
-    "summary": "The slug encodes two claims: that *simulation* is one of the relevant substrates for [[consciousness|consciousness]], and that the question of *simulation [[consciousness]]* is worth its own SAN entry rather than being subsumed under generic AI-[[consciousness",
+    "title": "Simulation and Consciousness: Internal Rendering, Artificial Implementation, and Evidence Gates",
+    "summary": "A source-faithful SAN treatment of biological internal rendering and possible artificial implementation that separates model equivalence, causal equivalence, and phenomenal consciousness while preserving the 2012-2025 source genealogy and defining falsifiable evidence gates.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "simulation",
+      "consciousness",
+      "artificial-neurology",
+      "substrate-independence",
+      "neural-rendering",
+      "distributed-observer",
+      "implementation-evidence",
+      "source-genealogy",
+      "medical-review"
     ],
     "path": "/v5ma.github.io/wiki/content/simulation-consciousness.md",
     "sourceFiles": [
@@ -75012,19 +75001,21 @@
     "xrRoomId": "san-simulation-consciousness",
     "xrDeckId": "san-reader",
     "related": [
-      "consciousness",
-      "self-aware-networks",
-      "building-sentient-beings",
-      "virtual-models-consciousness",
+      "phase-wave-differentials",
+      "brain-as-rendering-engine",
+      "neural-rendering",
+      "entification-observer-problem",
+      "substrate-independence-neural-computation",
+      "gh-a0409z",
+      "gh-a0206z",
+      "gh-a0127z",
+      "gh-13san",
+      "san-implementation-evidence-gates",
       "napot-sentient-ai-architecture",
-      "consciousness-as-information",
-      "consciousness-as-oscillatory-feedback-loop",
-      "consciousness-as-persistent-rendering",
-      "consciousness-as-frames",
-      "consciousness-as-high-bandwidth-choice-mechanism",
-      "consciousness-as-temporally-active-loop",
-      "undecidability-does-not-kill-simulation",
-      "virtual-models-theory"
+      "simulation-and-consciousness",
+      "biological-computation",
+      "building-sentient-beings",
+      "artificial-neurology"
     ],
     "archivePath": "pages/simulation-consciousness.md"
   },

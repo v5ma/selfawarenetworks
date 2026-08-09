@@ -74,6 +74,7 @@ resemblance is not engineering superiority, and engineering success is not biolo
 - [[san-knowledge-graph|SAN Knowledge Graph]]
 - [[artificial-neurology|Artificial Neurology]]
 - [[napot-sentient-ai-architecture|NAPOT Artificial-System Architecture]]
+- [[simulation-consciousness|Simulation and Consciousness]]
 - [[metatron-computational-unit|Metatron Computational Unit]]
 - [[self-modeling|Self-Modeling]]
 - [[comparison-evidence-is-not-biological-validation|Comparison Evidence Is Not Biological Validation]]
