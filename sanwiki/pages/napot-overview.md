@@ -42,7 +42,7 @@ See [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundarie
 
 ## Memory completion inside the cycle
 
-During recall, a local learned state need not contain or transmit a complete scene. A partial cue can change selected receivers; direct projections, recurrent excitation, interneuron-mediated inhibition, and present context can then recruit a larger distributed pattern. [[oscillating-group-completion|Oscillating-Group Completion and Re-expression]] describes the 2022 SAN route, while [[telescoping-network-neighborhood-reinstatement|Telescoping Network-Neighborhood Reinstatement]] separates its 2012 structural-transfer ancestor, 2022 local-to-network mechanism, and later geometric analogy.
+During recall, a local learned state need not contain or transmit a complete scene. A partial cue can change selected receivers; direct projections, recurrent excitation, interneuron-mediated inhibition, and present context can then recruit a larger distributed pattern. [[neural-magnification|Neural Magnification]] names the bidirectional local-to-population and population-to-local scale transition inside that cycle. [[oscillating-group-completion|Oscillating-Group Completion and Re-expression]] describes the 2022 SAN route, while [[telescoping-network-neighborhood-reinstatement|Telescoping Network-Neighborhood Reinstatement]] separates its 2012 structural-transfer ancestor, 2022 local-to-network mechanism, and later geometric analogy.
 
 This is a candidate NAPOT memory operation, not an established universal retrieval circuit. Its phase- and PWD-specific terms earn explanatory status only if they predict or control reinstatement beyond cue identity, firing rate, learned connectivity, inhibition, and ordinary recurrent sequence models.
 

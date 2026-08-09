@@ -82,6 +82,7 @@ Model 2 should be rejected for this mechanism if those variables add no robust o
 
 ## Read next
 
+- [[neural-magnification|Neural Magnification]]
 - [[tonic-absorption-generative-reexpression|Tonic Absorption and Generative Re-expression]]
 - [[engram]]
 - [[engrams|Holographic Engrams]]

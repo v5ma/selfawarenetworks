@@ -117,6 +117,7 @@ The SAN claim becomes experimentally useful if it predicts that:
 
 ## Related concepts
 
+- [[neural-magnification|Neural Magnification]]
 - [[dendritic-morphology-memory]]
 - [[dendritic-spine-temporal-memory]]
 - [[memory-as-regenerable-pattern]]

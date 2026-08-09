@@ -28,7 +28,7 @@ transcripts remain private custody objects.
 | 104 | `Bitcoin Cameras Cryptocurrency` | 2021-09-24 | 12 | lifelong artificial-consciousness motivation and SAN as a versioned, revisable engineering model |
 | 105 | `y0036 Playing chess and talking about book` | 2023-11-04 | 48 | the intended three-cycle/fourteen-part book, phase arrays, distributed rendering, and source-to-chapter method |
 | 106 | `b0143y Neuron Memory Oscillation` | 2021-10-11 | 26 | BCI read/write asymmetry, sensory substitution, structural memory, and state-dependent reactivation |
-| 107 | `b0102y Photocopier Neurons Oscillator` | 2021-10-23 | 44 | bidirectional scale magnification, sparse reconstruction, current-view rendering, and NAPOT ancestry |
+| 107 | `b0102y Photocopier Neurons Oscillator` | 2021-10-22 local / 2021-10-23 UTC | 44 | bidirectional scale magnification, sparse reconstruction, current-view rendering, and NAPOT ancestry |
 | 108 | `Six Minutes On Space` | 2021-12-05 | 0 | complete reviewed exclusion; no SAN atom admitted |
 | 109 | `b0081y Holodeck Mind` | 2021-11-02 | 50 | the embodied personal-holodeck model, distributed observer, semantic segmentation, and action-ready viewpoint |
 | 110 | `b0003y it is phase changes, not spikes` | 2022-07-21 | 42 | immediate PWD precursor: a contextualized spike-to-receiver transformation after correcting the false spike-versus-phase binary |
@@ -215,6 +215,11 @@ See [[world-body-brain-semantic-coregistration]],
 Rank 107 begins with a practical problem: a receptor, dendrite, or cell changes locally, but
 perception and action depend on distributed populations. The population context must also return
 to change what its participating cells do next.
+
+The recording title's "Oct 22" date agrees with its embedded
+`2021-10-23T00:23:43Z` creation time: at UTC-07:00, that instant was still October 22. The transcript
+was first publicly Git-fixed on June 8, 2022 as
+[`b0102y ctpr.txt`](https://github.com/v5ma/selfawarenetworks/blob/9324fe74e40cf4134395edfc4cc3320fa99e18be/b0102y%20ctpr.txt).
 
 ```text
 local receptor, dendritic, or cellular difference

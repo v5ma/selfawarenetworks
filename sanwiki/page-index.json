@@ -53282,7 +53282,8 @@
       "expert-data-structures",
       "ltp-ltd",
       "conscious-access",
-      "telescoping-network-neighborhood-reinstatement"
+      "telescoping-network-neighborhood-reinstatement",
+      "neural-magnification"
     ],
     "aliases": [
       "Memory As Regenerable Pattern",
@@ -55877,7 +55878,8 @@
       "neural-rendering",
       "receptive-inceptive-dendritic-projection",
       "screen-metaphor-no-inner-viewer",
-      "napot-revision-genealogy"
+      "napot-revision-genealogy",
+      "neural-magnification"
     ],
     "archivePath": "pages/napot-overview.md"
   },
@@ -58867,10 +58869,17 @@
   {
     "slug": "neural-magnification",
     "title": "Neural Magnification",
-    "summary": "A synaptic or cellular event is local, but perception, memory, and action depend on distributed populations. Neuroscience therefore needs to explain two linked transitions:",
+    "summary": "SAN's source-faithful term for a bidirectional scale transformation in which a bounded local difference acquires a larger causal footprint and population context changes the next local response.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "source-genealogy",
+      "neural-magnification",
+      "recurrent-circuits",
+      "population-dynamics",
+      "scale-transformation",
+      "neural-rendering",
+      "medical-review"
     ],
     "path": "/v5ma.github.io/wiki/content/neural-magnification.md",
     "sourceFiles": [
@@ -58893,7 +58902,15 @@
       "oscillation-memory-reinstatement",
       "autogenous-associative-memory-retrieval",
       "recorder-transcript-human-source-atom-map-t07",
-      "source-faithful-correction-intent-recovery-protocol"
+      "source-faithful-correction-intent-recovery-protocol",
+      "telescoping-network-neighborhood-reinstatement",
+      "memory-as-regenerable-pattern",
+      "napot-overview",
+      "apme"
+    ],
+    "aliases": [
+      "Bidirectional Scale Magnification",
+      "Local-to-Population Magnification"
     ],
     "archivePath": "pages/neural-magnification.md"
   },
@@ -79503,7 +79520,8 @@
       "oscillation-memory-reinstatement",
       "tonic-phasic-canvas",
       "napot-overview",
-      "oscillating-group-completion"
+      "oscillating-group-completion",
+      "neural-magnification"
     ],
     "aliases": [
       "Telescoping Mind",

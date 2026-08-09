@@ -1,3 +1,10 @@
+---
+title: "Neural Magnification"
+tags: [san, source-genealogy, neural-magnification, recurrent-circuits, population-dynamics, scale-transformation, neural-rendering, medical-review]
+aliases: [Bidirectional Scale Magnification, Local-to-Population Magnification]
+status: governed
+---
+
 # Neural Magnification
 
 ## The Problem
@@ -42,15 +49,41 @@ while the larger context constrains subsequent local responses.
 This definition preserves the source's historical "photocopier," "enlarger," and "megaphone"
 metaphors without asking any one metaphor to carry the mechanism.
 
+## Operational Boundary
+
+"Magnification" names a larger **causal and functional footprint**, not a guaranteed increase in
+electrical energy, firing rate, anatomical size, or representational detail. A bounded experiment
+should test two directions:
+
+```text
+local perturbation at time t -> changed population trajectory over t to t + tau
+population context at time t -> changed local response to a matched later input
+```
+
+The forward effect is supported when a controlled local perturbation improves prediction of a
+later population state beyond matched controls. The return effect is supported when changing the
+population context changes the local cell's response to the same input. Because local and
+population variables have different units, raw amplitudes should not be divided and called a
+universal magnification factor. Standardized causal effect sizes, predictive improvement, spatial
+recruitment, and behavior provide safer measurements.
+
 ## What Established Research Already Supports
 
-Published experiments establish several component operations:
+Published experiments establish several component operations in specific preparations:
 
-- brief high-frequency thalamocortical input can trigger widespread recurrent cortical activity;
-- layer-6 corticothalamic feedback can directly excite relay cells and indirectly inhibit them
-  through the thalamic reticular nucleus;
-- prefrontal activity can exert top-down control over motor-cortex ensembles;
-- task events and recent history can change transitions among cortical population states.
+- In a **thalamocortical slice preparation**, brief high-frequency stimulation of thalamocortical
+  axons triggered recurrent activity in layer 4 that spread into adjacent layers 2/3 and 5. This
+  supports frequency-dependent recruitment within that preparation, not automatic whole-brain
+  propagation.
+- In an **in-vitro somatosensory thalamocortical slice**, layer-6 cortical stimulation produced
+  direct excitation and reticular-nucleus-mediated inhibition of thalamic relay cells. This
+  establishes a circuit capable of bidirectional state influence, not a universal cortical rule.
+- In rats performing a delayed-response task, dorsomedial-prefrontal inactivation reduced
+  delay-related, but not response-related, firing in motor cortex. This supports task- and
+  epoch-specific top-down influence rather than a generic prefrontal command channel.
+- During a mouse virtual-navigation task, events and recent history changed transition
+  probabilities among posterior-parietal population patterns. This supports history-dependent
+  population dynamics without requiring one fixed attractor or winner-take-all mechanism.
 
 These findings support divergence, recruitment, inhibition, feedback, and state-dependent
 population dynamics. They do not by themselves establish Neural Magnification as SAN defines it.
@@ -123,6 +156,21 @@ logic; they are comparisons, not evidence that cortex runs the same algorithm.
 See [[perceptual-screen-neural-rendering]], [[world-body-brain-semantic-coregistration]], and
 [[sensory-stabilized-volumetric-rendering]].
 
+## Relationship To Neighboring SAN Concepts
+
+These pages answer different questions and should remain separate:
+
+| Concept | Owning question |
+|---|---|
+| **Neural Magnification** | How does a bounded local difference acquire a larger functional footprint, and how does the larger population context alter the next local response? |
+| [[neuron-shape-information-storage|Neuron Shape as Information-Bearing State]] | How do learned morphology, synaptic organization, intrinsic state, and projection structure constrain what a cell can receive, transform, and cause downstream? |
+| [[telescoping-network-neighborhood-reinstatement|Telescoping Network-Neighborhood Reinstatement]] | How might learned local cellular and dendritic constraints help regenerate a larger, previously organized network neighborhood or viewpoint? |
+| [[memory-as-regenerable-pattern|Memory as Regenerable Pattern]] | What persists biologically after learning, and what is newly reconstructed as temporary distributed activity during retrieval? |
+| [[napot-overview|NAPOT]] | How might repeated receive-transform-project operations integrate and redistribute partial state across neural arrays as a current, embodied rendering? |
+
+Neural Magnification can participate in the other three operations, but it is not identical to
+memory storage, pattern completion, volumetric rendering, or consciousness.
+
 ## Cellular Variables Remain Distinct
 
 Ion-channel state, action-potential waveform, terminal calcium entry, vesicle fusion, receptor
@@ -158,12 +206,21 @@ See [[multi-scale-memory]], [[oscillation-memory-reinstatement]], and
 
 ## Genealogy And Source Boundary
 
-- Recording event: October 23, 2021. The inherited source name says "Oct 22"; both facts are
-  preserved rather than silently merged.
-- First currently verified Git fixation: `b0107.md`, commit
-  `711bfd004bfff8b964c9368eca55ebd758cfe9a6`, June 16, 2022.
-- Edited scientific synthesis: `b0102ySci.md`, created in commit
-  `3e877719a9c896b027412c7b5ef092246726030e`, September 14, 2023.
+- **October 22, 2021 local / October 23 UTC:** the M4A metadata records
+  `2021-10-23T00:23:43Z`, which is October 22 at UTC-07:00. The inherited title "Oct 22" and the
+  embedded timestamp therefore agree rather than conflict. The recording develops local-to-group
+  magnification, its reverse direction, and a separate sparse-view reconstruction analogy.
+- **June 8, 2022:** the transcript was first publicly Git-fixed as
+  [`b0102y ctpr.txt`](https://github.com/v5ma/selfawarenetworks/blob/9324fe74e40cf4134395edfc4cc3320fa99e18be/b0102y%20ctpr.txt).
+- **June 16, 2022:** substantially the same transcript was copied and renumbered as
+  [`b0107.md`](https://github.com/v5ma/selfawarenetworks/blob/711bfd004bfff8b964c9368eca55ebd758cfe9a6/b0107.md).
+- **June-August 2022:** the separate
+  [`a0111z`](https://github.com/v5ma/selfawarenetworks/blob/84f9d0a56a47fec4b427ac6422062902f39776dd/a0111z.md)
+  sequence joined local-to-network magnification to phase rendering and later named the
+  [[telescoping-network-neighborhood-reinstatement|Telescoping Mind]]. This is a later bridge, not
+  wording projected back into the 2021 recording.
+- **September 14, 2023:** an edited scientific synthesis was created as
+  [`b0102ySci.md`](https://github.com/v5ma/selfawarenetworks/blob/3e877719a9c896b027412c7b5ef092246726030e/b0102ySci.md).
 - Current source review: 44 bounded atoms, with improved transcript and audio retained in private
   custody.
 
