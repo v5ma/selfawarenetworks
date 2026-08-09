@@ -1,0 +1,394 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0309y Neurons Stimulation Electrodes
+First recorded: 2021-04-20T08:59:24.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/61dc165c-5124-4567-a91a-545db1afb886
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+A world that the human body cannot. And also kind of explores the idea in a natural way with the navi who can exchange electrochemical information with one another and achieve a certain connectivity as a group to maintain the balance in the environment.
+So that's almost an example of a science fiction film where it shows the positivity, the positive aspect of having a certain kind of neural link.
+I'm optimistic about that idea. I'd like to say that I am sometimes I'll read a book, a current book that I'm getting through, for example, is Rhythms of the Brain.
+And also I'm alternating that with Networks of the Brain by Orloff Sporns.
+And I'm listening to, I'm reading it on Kindle and I've got the audio going, but it's like every 10 minutes I get distracted by something.
+And if I, if I, if I could have a neural link that would like sort of like predict when I'm about to get distracted and like pull me back in and, and help me to focus that on the book, you know, basically by, by creating a stimulation that countered that distraction, like before I became aware of it.
+And, and, and, and cause I'm sure the neural activity of the distraction is happening before I become conscious of it.
+Right.
+And so the machine would notice before.
+And I've also like, so I've had, I've had dreams where like, I realized that the dream, when the dream is going really well, it's cause my, my mind somehow wants me to stay asleep.
+But then when the dream starts to go really bad, it's like, it's, it's like my mind wants me to wake up.
+So it's like, so those, so like if the neural link could watch those dreams, it could figure out, you know, maybe strategies to keep me focused or to, to pull me out of, out of being focused.
+Hey, I just wanted to mention, I, oh, and you just left again.
+Um, when we were talking about, uh, neural chemistry earlier, uh, I had pinged someone who was quite knowledgeable, but I see that they, uh, kind of popped in and left.
+Sorry.
+Who was it?
+Um, Ramsey.
+Oh, no, he's on stage.
+Oh, there you are.
+Sorry.
+I'm not looking at the, I only like glanced at it.
+I'm sorry.
+See, there's those cognitive difficulties again.
+Uh, let me tell you just, what about neural chemistry?
+We, we, we, we've talked about, uh, avatar earlier that the biochemistry could, uh, change, uh, and how it's going to influence the exchange of information and everything.
+And personally, to me, there's a lot of hype about neural link, but I, I really don't think that it's very far and that maybe in the future you'll be able to download maybe four gigabytes.
+Maybe now we can download what, uh, someone can clear this to me.
+Right now it's just reading data, right?
+Just like signal, you can see where, what's happening.
+We can see positioning stuff, things.
+We can surely influence certain parts of the brain.
+And the, the problem is that, how the, how the, the question I think was how the biochemistry would react to the auto stimulus.
+The, the biochemistry was built with the intention of being capable of doing closed loop therapy.
+So that means, uh, also stimulating your brain and, and watching to study what the simulation is doing.
+I think stimulation before it's truly effective is going to be a lot, uh, quite a bit longer than, uh, just, there's been so much research on reading, uh, neural activity.
+And then, uh, so, so that's come a long way already.
+So they're, they're kind of on the shoulders of giants, uh, as far as that's concerned.
+So, uh, and, and all of these old tech has been using, you know, 100 or 200, uh, channels to, to do it.
+And so now they just engineered this amazing thing that can just implant tons and tons of, of, of probes.
+So it's, uh, so basically it's like, okay, now that we can increase the numbers, what, what can the existing tech kind of give us already?
+And so, and, you know, like their accomplishment, it gets, I think the things that get most hyped are the things that are least impressive, but the things that get least hyped are actually pretty impressive.
+So they're actually putting all 2048 channels, uh, they're, they're communicating it through Bluetooth, which is, is pretty cool.
+Like, uh, Bluetooth can't handle that, or at least I think it's Bluetooth 2.0 can't handle that amount of information, but, um, they're binning the spikes into, I don't know, like five millisecond bins.
+So that way it can, uh, come close to handle it.
+So like, that's never been done before in science, you know, that's, and that's pretty cool.
+But, um, yeah, I think stimulating is, is still quite, uh, a while away.
+I mean, if they're going to mass distribute this product, they're just going to like tell everyone in the world, oh, you can't use this stimulating part of this product and everyone's just going to obey them.
+Well, the thing with stimulating is, is, uh, you can stimulate a contact, but, uh, you're not, so when you're reading, uh, an electrical signal, the loudest part of the cell is like, so think of it as the loudest part of the cell is the axon hillock.
+Um, it, it has the most like multigated channels.
+And so that's like sending out most of, most of the, uh, the, the kind of signal that it's picking up.
+Uh, the problem is if you start stimulating an area, you're not just near a cell body or an axon hillock, you're near like hundreds of axons.
+And those axons are coming from cells from very near to like extremely far away.
+So you stimulate one contact, you're not just going to stimulate one cell or five cells around it or 10 cells around it.
+You're going to be stimulating like 18 cells around it, you know, 10 cells on the left, 15 cells on the right, two cells, like a mile away, basically.
+And, you know, like you're, you're just going to be, you don't have any control, uh, when you start stimulating, uh, using, uh, you know, electrodes.
+Well, this is similar, this is similar to, to, uh, pharmacological manipulation.
+It's, it's a real blunt instrument.
+Absolutely.
+Yeah.
+That's, that's what I'm saying.
+And it's, it's even more random because with pharmacology, you sort of like the drug kind of goes everywhere evenly.
+I'm going to say we're probably much further along on the pharmacological end than we are from, uh, uh, say, say something like the Utah Ray.
+Like, obviously we can do a lot of the Utah Ray, which one thing I don't think people are pointing out enough is that what it seems that Neuralink has been able to do is things like neuroprosthetic manipulation.
+Like we saw with, with the, uh, the, the, the, the, the chimp recently, um, playing pong, but it's, it's hopefully not having the same types of deleterious effects that the Utah Ray has.
+For people that aren't familiar, we usually plug, um, the Utah Ray, people that are, uh, you know, uh, missing limbs and, uh, say like a quadriplegic is able to operate, uh, a prosthetic limb.
+Um, and, you know, uh, uh, uh, I've seen videos of, of monkeys feeding themselves, uh, using this, um, and, and that's kind of the more impressive thing because the Utah Ray is this huge machine.
+You can't just walk around with it.
+And, and that's, that's one of, that's one of the advancements that I'm seeing with, with Neuralink.
+That's, that's extraordinarily impressive.
+Not the actual neuroprosthetic manipulation, but the fact that it's so small.
+Um, yes, the Utah Ray, uh, for the, I know, is also called, or the BlackRock Ray, or I was calling it the BrainGate device earlier.
+Um, and that's just, uh, 10 by 10 contacts.
+The electrodes, I believe are 400 microns, so like pretty thick.
+Um, but they're FDA approved and that's where a lot of the energy went for those, uh, in like the mid 2000s.
+So this is like almost 20 year old device, but it can be used in humans, already approved.
+Um, and it's, uh, effective at reading out, uh, signals and then tons and tons of research have gone into the decoder, which has made it more effective.
+Um, put one or two implants in, uh, and, uh, and it's pretty effective.
+Like, uh, locked in patients can now control a cursor and sort of surf the web.
+Um, well, the, the, the real challenge with, with, uh, Utah Ray's material science is because, um, it, it almost certainly causes some, some damage to the brain the more you use it.
+Um, oh, absolutely.
+Absolutely.
+Yeah.
+Not as well, it depends.
+So like, I have a bunch of lab or, uh, I guess cohort mates that are in different monkey labs that use it.
+And sometimes they work great into like six year six or seven or eight.
+Um, but, uh, but yeah, there's always going to be sort of, uh, glial scarring and just all the sort of, uh, body reactions that occur due to that.
+I don't know how thick the Neuralink ones are, maybe 25 microns or so, which is a pretty thin compared to 400 microns.
+So those, um, and then I think they're using like some sort of, I don't know, they're using interesting technology lasers or something to, to sort of combat the typical immune responses.
+I don't know what they are.
+So what, what you said about simulating many different neurons and not having any, any control over it and it being a very blunt instrument.
+Um, I, uh, I, I was, I was just reading the, uh, the, uh, a section of the, the, the book, uh, Rhythms of the Brain, where they were talking about how if you had, if the brain had only excitatory, um, uh, neurons or, or basically if it, if there was no inhibition, if, if, um, then it would just,
+like excite itself, you know, endlessly until it became exhausted and, and the whole, and so the whole, uh, the, the, the way that the brain is able to sort of orchestrate, um, its rhythms are basically to have like cycles of, of, um, activity that, uh, are not out of control is, is through the process of inhibition.
+And, and, and that involves a lot of, uh, interneurons and, and this is stuff that I'm sort of just learning about, but it's like there's this, this interneuron inhibitory system that is, um, that is helping to sort of regulate, uh, re, um, uh, brain activity.
+So, so you're not just like, you know, going into an epileptic seizure every time one part of you gets excited, you, you have this, um, sort of like, uh, this, this, this, um, uh, controlled sequence.
+And, and it's really, like, complex and I'm, I'm probably messing up the description of it.
+But, um, so I'm just, like, imagining that if you, if you, if, if the, if the electrodes in Neuralink really meant that you are creating a lot of, uh, excitement in, uh, in the brain in, in a lot of different areas simultaneously,
+I think that would, that wouldn't necessarily cause your brain to go out of control, but, but it might change the, um, the oscillation frequency of, of your, of your, um, of your brain rhythms, which, which would be, um, interesting.
+But I, but I just wanted to sort of dial down on that and, and just ask you, um, if you really know if it's not possible to, like, uh, for Neuralink specifically to reduce the amount of electrical stimulation to where you're just stimulating, like, one neuron at a time.
+Because that seems like that ought to be a feature and, uh, it'd just be a shame if, if, if it's actually not.
+It's the kind of two different points you made, uh, not necessarily related.
+So, yeah, the, if you have, if you overstimulate the brain, the, the 20% of neurons that exist are interneurons, uh, so interneurons are inhibitory, they express GABA, they kind of put the brakes on of excitement.
+Um, and so, yes, if you overstimulate an area, you're probably also going to stimulate some of those inhibitory interneurons and they're going to over put the brakes on, which is going to even it out.
+It's something, uh, called EI balance, excitatory inhibitory balance that's talked about so much in neuroscience papers now.
+Um, what, and so, when, when you say the brain out of control, you know, that's called epilepsy when it's overexcited.
+That's not what I meant by lack of control.
+What I meant by lack of control was lack of spatial control.
+So, you may want to activate a neuron in the location of space that correlates with the left middle finger.
+So, that way, the, uh, person can feel like somebody touched their left middle finger.
+However, if you put the, a very small stimulation there, I think people, I read papers, 80 microvolts, I think, stimulation, which is called a microstimulation.
+You put it in that very small area, um, you know, and these are tungsten probes.
+So, these, so, like, usually there's probes that are either good for reading or good for stimulating.
+And then when you start getting into probes that can do both, you're going to lose, you lose a lot there too.
+But anyway, so, if you start stimulating in that area, um, let's say you stimulate and what gets activated isn't the cells in that area.
+What gets activated is the axon of some cell way far away that was maybe, uh, going from the medial forebrain bundle to, like, the, basically, like, an acetylcholine cell, which is, like, uh, you know, an arousal cell, basically something that's completely non-related.
+But because it had a, an axon of passage kind of going through that area, and that's what you stimulated, you're, you're kind of getting the result you didn't want, um, in terms of spatial control.
+That, that's what I meant by you don't have that.
+And because any area has more axons going through it than it has cell bodies, uh, you're, you're just literally activating, you know, instead of activating the one cell body that you wanted, you're activating 200 random neurons at random distances away.
+Um, you know, and, and if the probes didn't move around in, in the brain, then you could just say, like, okay, it's, we, it activates 200.
+And we figured out, like, when that helps, and when it doesn't, we used machine learning, and that's fine.
+But because it moves kind of as around in the brain, um, you can't even make use of it, because the next time it's activating another random set of 200 neurons, uh, you know, or you turn it down, so it's activating a random set of 20 neurons.
+But, like, because it's constantly moving around, you're not getting the same effect, whereas if you were recording, and even if it's constantly moving around, you're basically recording from either the same cell or the cell right next to it, you know, so you can rough, you can get more data out of it that way.
+The stimulation problem, it needs, I think it needs a new solution.
+I don't think the solution is going to be with electrical, but, but, you know, uh, people use electrical stimulation, and they, they have effects for certain things.
+It's just, I, I know the idea where Neuralink wants to go, and they want to go into, like, some sort of very precise, like, artificial perception thing.
+Um, and that's, that's going to require the kind of stuff I'm talking about, where you have, like, really precise control.
+But if you just want to sort of stimulate in a really rough sense, you know, um, has everyone heard of, like, uh, I lost the name now.
+Anyways, if you look at the old stimulation research, uh, people have reported when you stimulate the, the hand area, it feels kind of like, it doesn't feel like somebody touched your hand.
+It feels like, sort of like a, uh, a buzz or something.
+So, you know, so, like, that's the level of, of sensory input that you're going to get from, from just broad electrical stimulation.
+So, uh, Scott, is it sort of true in a, also in a way, in a very sort of layman's way, that if you're using the sensors that are more developed, um, and I'm talking about the, the electrodes here to, um, to sense, uh, it's the, it's the system.
+It's the machine system that's doing the bulk of the learning.
+Whereas if you stimulate, if you're reversing that, stimulating, even if you, to some degree, reduce that sort of over, over sensing or over loading of particular areas, that it's almost the, the reverse in a big way that it's actually the human brain.
+It's got to do the, the rewiring around these new stimuli.
+So there, there's a, there's even a different, um, uh, biological, um, problem there.
+Is that, uh, is that, is that true or am I just, uh, talking out my ass?
+No, no, that's true.
+But I think it's also true that the brain's always doing learning.
+So even if it's reading a signal, your brain, your, your brain is plastic enough to like sort of help it fire the, the, it will become plastic to, if, if the decoder was really crappy and it couldn't adjust to how fast you learned, your brain would just learn to like do what the decoder does.
+So even a static decoder, like the old 15 year old decoder, like if you left it in there long enough, your brain would just figure out how to control it too.
+It's basic.
+I think it's more like learning how to play a difficult instrument or something.
+It would learn how to do that.
+But with the new decoders, it's learning you too.
+Like it's learning your brain as well.
+Uh, as far as for stimulation, all I meant to say was that, uh, the machine learning part, I think will be harder because the, there's a bigger effect of the electrode moving around in your brain.
+So it's not affecting the same thing over and over.
+So the machine learning part can't really learn that well.
+Does that make sense?
+It does.
+It does.
+We've got quite a few new people in the, in the room.
+I sort of almost have the sense that, uh, some other rooms ended and, uh, and people have come in because we've got a little bit of an influx.
+Um, welcome.
+There's a bunch of people that I've shared rooms with before.
+This is a, um, sort of a general chat room on the question, would you plug your brain into, uh, into Neuralink?
+And, uh, I guess at what point you might do that and what ethical and other concerns you might have.
+We started to get into some detail.
+Thankfully, we've got some people in the room who have, um, some expertise in the area.
+I know we've got some other people on stage down the bottom who also do.
+We've probably heard, um, some opinions from everyone to about the two-third mark.
+We haven't really been going through in PTR order.
+So if anyone, especially towards the lower end who's joined the room, wants to ask any questions, make any comment, or just, uh, state whether they, what their level of, uh, where they put themselves in the queue for signing up for Neuralink, um, please feel free to, um, to just have a chat.
+That's what this room is about.
+It's really evidence gathering for a room that we're going to be running next Monday.
+Thanks.
+I'm David, and I'm going to hand back to the people on the stage.
+I have a question.
+Uh, this is related to cybersecurity.
+I'm not aware of any devices that can't be hacked right now.
+Um, if it was controlled by a phone or some other device or plugged into charge, most of those devices that exist on the earth today can be hacked.
+And is that a concern?
+And I'll leave that back to somebody that might be able to answer that.
+It probably should be.
+Um, the, the only descriptions I've heard, uh, connecting your brain to what, you know, from, from, from, from A to B, B is, is almost certainly going to be something like your iPhone.
+Um, and, uh, the medium would be, uh, something like a Bluetooth connection, which, if you know anything about cybersecurity, you know that all you need to do to hack, uh, Bluetooth is proximity.
+So, yes.
+Right, and there's plenty of back doors to every single cell phone that's out there, so that would be a high concern.
+So, I would say no right now.
+I agree, and just a quick comment.
+Um, having, uh, things stick out of your body is a huge, uh, uh, problem for the immune system.
+So, uh, this, it only is really going to work if there is something wireless.
+So, that way, something is inside the body communicating wirelessly to something outside the body.
+If there's any tech that does that in a safe way, then maybe it is feasible.
+What about the risk of cancer?
+If you're, if you're concerned about, um, uh, if, if, if, if specifically were to, uh, what Neuralink could do is sort of, is, is not a question mark.
+So, if you just, if you just look up something like foreign body response, Utah Ray, um, there's a lot out there with regards to the problems they're having.
+And, and that's what, that's, one of the things, like, I think I've already said this, but one of the things people are underappreciating about Neuralink is that they're working to overcome this.
+Does anybody know if it's done anything to help cure, um, paralysis of individuals yet and how far along they are with that?
+Well, that's the stated aim, Bridget, is, is initially that it is to deal with neurological and physical conditions, especially things like paraplegia and quadriplegia, but also some other conditions.
+And it is stated, um, very clearly in Neuralink's aims that once they develop technologies, um, to assist people who, um, who have various conditions that could be, um, assisted, that they would move into applications where it was for able-bodied and able, uh, otherwise able people, um, to be augmented.
+So they haven't drawn the line at only, um, medical support, but the, the, the early ambition of Neuralink is in terms of, uh, helping exactly the sort of people that you described.
+Yeah. And I, I just want to say, um, if I may, um, two, so two really great points were just made. Um, one is that, um, yeah, you can look at other devices.
+You can look up, um, you can read about DBS and look at the risks, uh, and, uh, that patients are, are dealing with in terms of, if you want to know how much DBS has caused cancer.
+There's, I'm sure there's been a ton of, of documentation of, of that, um, and other, and other, like that, those are areas where you can research.
+Whereas those answers may not exist yet for, for Neuralink, they, they would exist for other brain implants.
+And, um, I forgot the second part, but I'll go ahead and pause.
+DBS graphene? Is that graphene?
+Uh, no. So deep brain stimulation is, is not graph, uh, graphene based yet.
+It ought to be, because I've heard that, uh, uh, graphene is, is good for, is going to prevent your immune system from attacking if you, if you build a brain implant out of graphene.
+But, I, but it's not, it's not being used that way yet, as far as I know.
+Evolution. Um, how do you all see human beings evolving as a result?
+Evolution itself is too slow. You might be thinking of something like, um, uh, neuroplasticity.
+Uh, someone said, I think, uh, Scott said earlier something about neuroplasticity.
+Um, but, um, specifically when Elon was, was asked about this on the Lex Friedman podcast, um, he spelled out that they're, that they're relying more on the machine side and much less on the neuroplastic side.
+Um, with respect to making these connections, um, he, he doesn't think that we can rely much on neuroplasticity.
+I think the evolution question was supposed to be, uh, on a longer time scale.
+Yes, yes, thank you.
+Um, so, basically, the readout is perfected, the writeout is, the writing is perfected, so maybe we're not even using, uh, electrodes anymore.
+Maybe we're using hydrogels with cell type specificity, you know, like, some, some sort of living electrode.
+Um, and, uh, and so now that's perfected, so now you have, like, complete input and output.
+Basically, you could hook up to the AR and, you know what I mean, and have all the sensation or something like that.
+Like, like, well, okay, maybe not that far, but, like, how, how do we start to evolve once we have an extra layer that's directly wired?
+Uh, yeah, that's so speculative.
+I, I would not want to comment.
+I can comment on that.
+So, um, but the other thing that, that David said was that, uh, so about it being the initial use cases, because they've been sort of emulating with the monkey video.
+They've been sort of, like, doing what BrainGate did, and, in which the initial uses would be to help people to overcome paralysis.
+So that, that was the second thing that I was thinking about.
+Um, using this device to help people overcome paralysis seems like one of the first, uh, things that they want to do so that they can win with investors and create a product that's going to basically, um, so, so, like, so even if the product, like, if you look at DBS and you look at, um, you know, the Utah Array and you look at all the health, uh, conditions that people who have accepted these devices are dealing with as a result of those implants.
+Well, the thing is, like, it'll be, like, a trade-off.
+So, if a person is, is paralyzed and they know that they can have so much more increased brain function, then they may want to sign off on some acceptable amount of risk for cancer and other, uh, surgical risks, um, and as a, as a, basically as a trade-off.
+Um, whereas people who, who don't need this at all may want to wait until this is, like, really perfected to a next level extent.
+And as far as, you know, human evolution, what I wanted to say was that I'm, I'm really starting to dive a lot deeper into, um, like, laser Doppler and, like, I guess open water, I guess what I didn't understand about open water, uh, Mary Lou Jefferson's technology, open water.cc.
+Is that, um, it's not just FNIRs, it's, like, it's, like, it's also a laser-based system.
+And so, what I'm seeing is, like, people, um, are talking about using, uh, laser and Doppler or laser FNIRs because you can, you can do, um, when you combine it with holography and you're, and you're basically doing, like, uh, using really big camera sensors.
+And you're capturing, um, the brain, you're capturing images of, of the brain so fast that you're able to basically, um, image the brain as fast as EEG, like, or faster.
+Like, that's what, that's kind of, like, what we're talking about.
+If you're going to do, like, holography, then you do want to have, like, the best quality images, like, with really huge camera sensors.
+And you want to be doing it, uh, almost faster than EEG.
+And, um, so that, and then, you know, and then for stimulation, they're combining that with ultrasound.
+So, I see, like, no chance that within 20 years, we're going to, anyone's going to be getting brain surgery anymore because, because we're going to have devices that are cheap and affordable and external.
+And there'll be, like, laser-based telegraphy, uh, with ultrasound.
+And you'll just, you'll have, like, this wearable that'll do everything the Neuralink could do in terms of reading and ultra, ultra precise, uh, super, um, you know, uh, basically ultrasound-based stimulation of very precise areas of your brain to, to, uh, read and write to your brain.
+Like, like, it's, like, it's a hard drive, but without any surgery in a very precise way.
+That's, that's, for me, in under 20 years, that's, it's not possible that, that we'll not be, have, we'll not have this by then.
+Stuff that we're going to have because of that is, is, I guess, what, is, you know, the question.
+I, I mean, that just replaces Neuralink, uh, completely because you, it gives you all the functionality that Neuralink has and promises to have.
+But in a, basically, in a completely wireless system that you can just, um, you can just wear on your head.
+Uh, delve a little bit deeper into the, the right part.
+So, certainly, you know, we've used a lot of, uh, neuroimaging techniques, uh, including EEG, fMRI, e-cog, electrocorticography, and things like that, um, successfully.
+Um, but when you say write, so we haven't ever, at least in the way that I understand, right, we haven't done that successfully, um, at all with any sort of,
+technology, uh, so it's maybe an open question of whether that, that is, uh, at all feasible.
+So, can you talk a little bit more about, uh, what you mean by write?
+Yeah, so every time you do, every time you're going to do a brain scan, you're going to get, like, a perfect scan of, um, of a, of a person's brain.
+I figured exactly where everything is, and you're going to be able to dial down to stimulating individual neurons, or, or making more, uh, you know, you, you, you can do, like, you'll be able to do, like, um,
+um, basically, um, uh, it'll, it'll be like, you know, the, the point of, of, uh, stimulating individual neurons will be to stimulate, um, neural circuits, I think,
+and also to, so, you know, so you get neural circuits going, but then also you can manipulate the oscillatory cycles in, in local and macro, uh, uh, ways, uh, in, in terms of, like, um,
+local micro circuits, but also you can, you can manipulate the brain's oscillatory activity on a larger scale, um, by, uh, by targeting, uh, um, inhibitory, uh, uh, circuits, and sort of, um, you know, basically the inhibitory and excitatory system, and, uh, you know, you can, you'll be able to, uh, target the, the brain stem,
+the thalamus, like, like, there, there's a whole bunch of, you know, things that we still need to discover about what, what areas to stimulate and why we want to stimulate those areas, but, um, the, but we'll be able to make huge leads forward, um, in the next 20 years in terms of, in terms of understanding where and, and what we want to stimulate, and we'll have the precision to stimulate basically anything.
+So, that's, those are my thoughts, in terms of the, in terms of the long-term evolution question that Olivia, Olivia was asking.
+Yeah, I guess I'm, I'm, uh, a little bit more skeptical, um, I mean, it, you know, it'll be interesting to see, um, and certainly things like deep brain stimulation, uh, have shown promise, uh, for medical, uh, um, function, but, um, it doesn't seem like there's necessarily an obvious way
+to stimulate anything to, like, to, like, evoke thoughts or communicate or, you know, create images or anything like that.
+It doesn't seem like we have a good enough understanding of the brain yet to do anything like that, um, uh, and we don't even know if it's actually possible, right?
+So, uh, I mean, we, um, you know, hypothesize that stimulate, and, and, you know, first of all, we're talking single neurons as well, and, uh, uh, 20 years seems like a stretch to be able to get to the single neuron level.
+Um, but, um, you know, we, I guess we have this hypothesis that if stimulating a neuron is all that's needed to, like, create some sort of subjective experience, um, and we don't even know if that's true.
+So, um, I mean, I don't know why you keep saying we, uh, I'm sorry, but, but people, uh, you know, if you look at the NeuroDust experiment or optogenetics, there's lots of people who, and lots of people who are using electrodes to stimulate, uh, single neurons.
+There's a long history to that.
+I, I think he means we, as in, like, neuroscience, uh, don't know if stimulating neurons, uh, will elicit the percept that's, uh, that we're talking about here.
+Yeah, but, so, so, um, all I'm saying is that, um, there's a long history to stimulating, uh, single neurons, so I'm not sure what you're saying, that you're, that you're skeptical that we can't stimulate single neurons.
+This has been happening for hundreds of years.
+I mean, I mean, I think, I think he's talking about creating, uh, consciousness of thoughts, memories, rather than, you know, movements or, or other, I guess, lower order, um, mental activities.
+I'm reading what you, uh, was saying, Matt.
+Yeah, yeah, that, that, that, that's kind of what I'm getting at, um, and so, yeah, in, in vivo with a device in our head as well, um, uh, it's not clear that that's, you know, a short-term, uh, thing that we'll be able to do, uh, with something like Neuralink.
+So, what, what you're saying, um, it sounds like, uh, you said that it's not going to be possible to, uh, to stimulate single neurons to change, uh, thoughts.
+That's, it sounds like, uh, it's, you've ruled out that it's going to be possible to do that.
+Just, like, you know this already.
+No, not at all.
+I'm just saying there hasn't been any evidence for it.
+Um, so it seems like, uh, a pretty strong claim to say we'll be doing it in 20 years when we don't even know if it's, uh, uh, feasible.
+Like, like whether, you know, a proof of concept even.
+I see.
+Well, I mean, uh, you know, I, I, I think there is evidence to it.
+And, uh, in fact, that's the, the, the book that I'm writing right now is that, um, there actually is evidence to it.
+So maybe there, maybe there are some things you haven't reviewed yet.
+That's what I would suggest.
+Let me push back a little bit on both sides here.
+Uh, so, so I'll push towards the middle.
+Um, so, uh, the most, uh,
+uh, similar thing we have to being able to stimulate individual neurons, uh, in an intact brain, uh, of a mouth, of a, something that we have genetic control would be, uh, something that's been around for maybe five years.
+Um, I think are very recent and that's SLM.
+And so with two photon imaging, uh, and two photon stimulation, you can, uh, direct light to individual neurons.
+Now that same problem that I mentioned earlier, where you could actually stimulate axons too, by stimulating that area was solved by engineering a optogenetic protein that only lives in the soma.
+So now you don't have, so now in this very mutated mouse, uh, you have the ability to, uh, stimulate individual neurons in an intact awake mouse using, uh, basically really cool holography.
+Um, and that's been around for like just a couple years and just a couple labs are doing it.
+Uh, and, um, so, so that, yeah, so the ability to stimulate individual neurons in a human where you don't have genetic control and, and, you know, people, reasonable people are very resistant to having genes put in them.
+Um, so, so I don't think that's going to be, uh, a probable solution, but, uh, um, now as far as, uh, can you evoke a percept in a mouse?
+I think that's been shown a little bit more basically sounded, I mean, a little bit, so it's debatable, but I think like the, the Tanagawa lab shown some like fear, uh, memory things.
+And, uh, so basically if you stimulate the right neurons that the mouse supposedly feels like they're in a place that they actually are not in, they feel like they're in the place when you recorded that activity.
+Um, so, so I, I lean a little bit more towards you should be able to evoke a percept and there was some research where if you stimulate, uh, layer four of certain mice, you, you, they do, uh, act or at least behave in a way as if you like, uh, gave them the whisker stimulus that, that you trained them on.
+So there's some evidence. So to me, I would lean more that that's possible, but I would lean more away from the, that it's going to, that we're ever going to get that type of single neuron, uh, resolution control in the next 20, yeah, 20 years would be pretty ambitious for that.
+So I have two really great examples, um, that sort of contradict what Scott and Mark are saying, and they both come from David Eagleman.
+And one of those examples is taking basically, David Eagleman talked about the experiment where they took the rat's eyeball out of, uh, the eye socket and they plugged it into the audio cortex and the rat began to perceive, uh, or see, began to see through the audio cortex when the eyeball was sent.
+So you just basically, um, plugged in the eye and that began to stimulate the audio cortex and the rat began to see.
+That is an example of, uh, like causing the rat to see in a part of the brain that was never meant to see before.
+And then another example is, um, there's the, uh, there's basically the example of, um, uh, what it was called when, when you, gosh, don't blank now.
+Uh, the, it's the example of, uh, when you, oh my God, I'm going to remember in like one minute.
+Um, yeah, no, I mean, and I think, I think what, uh, maybe, maybe we are sort of coalescing along this idea that certainly with rats and sort of stimulus response type behavior, uh, you know, we might be making decent progress, but given how little we understand, uh, about the human brain in terms of the relationship between neural activity and like subjective experience.
+Um, and, um, you know, even just basic perception, um, you know, it, it, it, it seems like maybe 20 years is a reasonable goal to start to have an idea of just, um, you know, the neural representation of, uh, you know, of percepts in a more concrete way.
+Um, let alone being able to, um, you know, stimulate them to evoke those, those percepts.
+And, you know, we've been working at it and, and, sorry, by we, I, you know, I come from a cognitive neuroscientist perspective and not, uh, not on the anatomy side or not even, you know, not on the, um, you know, single cell recordings and, in animals and things like that.
+But from the cognitive neuroscience side, um, it's, um, you know, we're still kind of in, in the dark ages in terms of understanding the relationship.
+Between neural activity and, um, you know, and thought and like what we're thinking and what we're seeing and things like that.
+So it seems like we need to, you know, solve that, um, much more convincingly to be able to use Neuralink.
+Again, you know, it has a lot of promise for, for, you know, um, dealing with, um, um, you know, um, you know, injuries and, and, and, you know, you know, going from the brain out.
+Um, but for, going from out to the brain in, uh, I guess, uh, for the human brain, it seems like we, it seems, to me, it seems very, very, very far away.
+So the hypothesis of my book is that basically this has already been solved if you looked at the research as a whole.
+And the second thing that was, was about how, um, David talks about how stimulating the tongue, like if you attach a camera on, to someone's head and you, you wire the, uh, the pixels to an electrode stimulus pack on their tongue or on their back.
+They'll begin, they'll begin, that person will begin to see through the camera if they're blind, they'll begin to see like a crude image, which is basically their brain converting the electrodes that are on their back or their tongue into an image because those electrodes stimulus represent, uh, the stimulus from the pixels on the camera.
+And, um, there's also a case of, uh, conjoined twins who, um, they, they could see through each other's eyes and they did many experiments where, where they, um, they asked the girl, what is your sister looking at?
+Because their brains were literally connected by the thalamus.
+And, um, the girls were able to report what the other twin was seeing, even though they, they could not at the same time face the same direction.
+Uh, so these are two, these are two examples of, um, uh, basically, well, the, the main example is that with, uh, by stimulating the tongue or the back, you can cause a person to see.
+And so that, again, points to if we're able to stimulate, um, just someone's skin or their tongue, uh, then we could cause, uh, perceptual changes.
+And if you, if you just, uh, if you get into their brain, um, um, you know, more specifically, uh, then you're, I mean, there's, there's no reason why you could do it to their tongue or to their back and cause them to see images.
+But you couldn't also just stimulate neurons directly and also cause them to see images.
+There's just no, so, so my hypothesis is that is that all this research that you're saying doesn't exist, it does exist, and that's really the purpose of my book, to point all this out.
+Hi.
+Can I just, just, I'll just grab the room for a second.
+And just to make a point, we've heard a lot from, um, the neuroscience side, which I think is fantastic, and I want that to continue, but to draw an analogy for the computer science and the, the, I guess, the information architect sort of side of the, the room, it sounds like we're, we're playing around if we were to draw an analogy to a computer is in the input and output connections.
+We haven't yet got to stimulus that goes directly into the processor or into the memory, if we were using that as an analogy, and that's sort of the question that was raised, whether we'll actually be able to do that or not.
+Obviously, you have to pursue something if you're going to achieve it, if you give up before you try, you won't get there, but we're talking about that sort of second order level, and then there's a third order above that, which is, um, one that's, uh, fills a lot of the rooms on Clubhouse, which is, are we going to get into consciousness and those even higher, um, orders?
+But, uh, I, I think, uh, you were, you're making a lot of points there.
+Yeah, no, I just wanted to chime in, um, from the perspective of an affective framework, um, may not necessarily be, uh, in terms of trying to stimulate an unusual neuron, um, depending on whether you're talking about the parasympathetic nervous system versus an entering nervous system.
+Uh, the ability, uh, the ability, uh, was demonstrated already by just, uh, uh, inducing different kind of prebiotics, uh, into your entering nervous system can have an affective change.
+Um, just curious, uh, in terms of the analog pixels, uh, that are required, are they always necessarily required, uh, you know, as, uh, as, uh, as, uh, uh, uh, you know, uh, induction into, uh,
+to the brain versus any other part of the body, uh, that's, uh, one thought process that I would like to, uh, induce to discuss.
+The second aspect of it is the analog pixels that we're discussing right now is just in probably 200, 300s.
+If you really had to come up with an affective framework and also, um, come up with, uh, compute capacity, uh, the consciousness is really far away.
+And even, uh, trying to understand, uh, the methylation process, uh, uh, if you have to actually talk about memory is a bit far away.
+But if you're talking just about basic, uh, you know, electrical impulses to control, uh, I do not know whether we really need, um, individual neural level, you know, individual neuron level activities to be controlled.
+Um, probably if you just increase the number of analog pixels, uh, and, uh, if we can, uh, the neuromorphic chips, uh, and also then, I think the current chip is at one,
+but given, given the neuromorphic chips actually, um, you know, doubling in its capacity, um, probably, um, more complex, uh, activities, uh, can be controlled externally.
+Um, and also internally, um, and also internally, the impulses, um, can go beyond just, uh, paraplegic or, you know, um, what do you call this, um, you know, paralysis, uh, based, uh, feedback to something more transhumanistic.
+Uh, and by that, what I mean is primarily, uh, in, in, in spatial vision or better speech or correcting, um, impediments in terms of, uh, uh, something that you inherit from spectrum.
+So, uh, there's a lot of work that's already happening in terms of the externality, uh, of, uh, once the analog pixel actually increases, how can, uh, reinforcement learning, uh, can come into play?
+How can we actually use, uh, you know, affective and, you know, uh, perceptive control theory, uh, and game theoretical models, uh, that can be applied, uh, which can circumvent, uh, the need for expensive computers.
+Um, but again, just from a thought process, I want to ask the neuroscientists and neurobiologists in this room, um, can, can the electrodes be also implemented throughout, uh, the nervous system, including entric as well as parasympathetic?
+Or, um, or, um, is, is it limited, uh, from its perspective for its effectiveness only from a cranium or, or, or, or the current set of, uh, neuron-based inputs?
+I'm just curious, um, uh, would love some thoughts.
+For sympathetic or sympathetic, I think the way that, uh, uh, sorry, neurotransmitters are released from, are in a very volumetric way.
+So, they're released, and then they sort of travel long distance, and they have, uh, effects that last over long distance.
+You need this kind of precision, uh, that you do when you're trying to get at, uh, cortical microcircuit con, where there's tons of cells getting both convergent and divergent inputs.
+Just, uh, a lot of processing is happening in a very small space in the cortex, which is why you would want the high-density probes.
+I think in the, uh, is that you mentioned you don't need that sort of high-density, so you, you don't need this sort of new technology.
+And your, your, uh, your theory is that, anyway, the, um, the, uh, the, um, the, um, the, the fact, the fact that there's enough density at the cortex, um, actually, um, takes care of the need for any kind of, uh, unique pulses as well as person.
+Is that how I, I need to understand?
+Because you were cutting off, uh, maybe it's my network.
+Uh, would that be a fair, uh, summary, uh, F?
+Uh, yeah, no, sorry, my name's Scott, I just, uh.
+My apologies, you see, I just saw you.
+Sorry, no, I haven't even, I haven't even mentioned that.
+No, no, I keep forgetting.
+Um, so, uh, in the cortex, there's just a lot of computation that's going on, and that computation's going on through this connectivity, where lots of neurons are converging onto one neuron, and then one neuron is converging back onto lots of neurons.
+Uh, in other parts of the brain, you see more, uh, what's, uh, you see more of, like, uh, some neurons connecting to some neurons, and it's just sort of propagating in a fashion where it's not so convergent or divergent.
+And in the, uh, sympathetic and parasympathetic nervous system, on top of that, you have this sort of neurotransmitter release where it sort of diffuses, uh, over a large space.
+So, um, you, you kind of don't need the precise control to manipulate their activity, um, to, to get the, to increase parasympathetic or de-parasympathetic.
+Um, so basically, I, I, I'm going to make it, to oversimplify.
+To, uh, parasympathetic or, or sympathetic can be just sort of, you can turn it up, you can turn it down, and you can do that with a very gross signal.
+Um, in terms of doing anything, uh, sort of functionally relevant in the cortex.
+...place signals, and it means that to happen in a very precisely time.
+...in terms of, uh, vagus nerve, uh, so, uh, we, we make a large assumption that we have a fully functional, uh, I mean, nothing's cut.
+There's no path, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.
+...that are disrupted, uh, the vagus nerve is intact, uh, and hence, uh, we are, uh, in phase one, or whatever we call it right now, the draft, um, you know, we are, we are working on an assumption that the cortex density, uh, is reasonably good enough, uh, for making any significant impact.
+Is, uh, is that a good summary?
+Sorry, you keep saying the cortex density, uh, the, there's, do you mean density of electrodes?
+I mean the density of electrodes, uh, in terms of the analog pixel that actually comes out.
+In terms of, I'm sorry, the analog pixel?
+The density of the electrode actually determines the analog pixels that comes out for, uh, the computation, that's the electric bus, which actually goes into the N1 chip for doing a computation, so I was, uh, more curious from that perspective.
+The readout, so, so, so what's being read out from the neural activity is, is coming from a, uh, yeah, it's, you, it's, uh, you're reading out from a space that has lots of neurons and lots of connectivity there, um, that's a readout.
+I thought you were talking about, and is, at least in terms of sympathetic, parasympathetic, you were talking about stimulation, and, and you're comparing it to cortex readout?
+So there are two ways, right?
+One is a stimulation that goes into your, um, into your system, whatever that system we call, uh, is, um, the, the, the brain or the, or the nervous system or the cortex or, um, wherever the electrodes currently are actually, um, inhibited both from, uh, mice or chimps or humans.
+And the second one is reading out, uh, uh, as against, um, trying to make, uh, you know, a stimulation into the system.
+So the readout from the system, um, uh, is, uh, just an, is a, is an output from the system, and reading into, for the stimulation is the input into the system.
+But that's how I'm looking at it.
+I see.
+You're, we're just looking at it from the opposite, but I, I, I thought.
+Fair enough.
+Either way.
+Either way.
+So, when I say reading, I just mean recording, and then when I say writing, I mean stimulating, and, in terms of cortex.
+But, uh, yeah, so, you, I, I think in terms of the, if, if you're talking about the vagus nerve or, I mean, I could be wrong, this isn't my field of study, but I, I am fairly confident that there's not much to read out in those areas, in those areas, or, or, I don't think, uh, putting a high-density probe is really going to get you a lot of additional information that you can make useful.
+I, I could be wrong, unless somebody let me know if I am, but in the cortex, for sure, the more density, or, that you can get in there, that you're probably going to get a more useful signal out of that, um, and then be able to convert that into some sort of, of finer scale, uh, uh, motion, or, or, so, so, that's all.
+I just wanted to demarket, when you said sympathetic, parasympathetic, versus other areas, I just wanted to say, like, the, the, uh, you don't need new technology, you can use old technology, I guess, to read out.
+Uh, activity from sympathetic, parasympathetic nervous system, um, and I think this is more, uh, the, the purpose of this is more to get, like, some sort of fine-scale, uh, cortical neural activity, uh, and, and get some sort of, uh, you know, really fine, detailed, uh, control, uh, um, so, so you could control, like, a cursor, uh, arm, or something in fine detail.
+No, it, it also, I mean, there, uh, there's also a secondary, uh, correct me if I'm wrong, there's also a secondary, uh, you know, implication when you're actually looking at, um, incisions, and you, you have to, you know, consider, uh, the, the, the surface materials of the electrode that will actually be left, uh, into, uh, a barrier, like the brain, versus if the same amount of impulses can be actually both induced and actually read out from a different part, uh, of your, of your system.
+are not necessarily incisive.

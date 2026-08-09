@@ -1,0 +1,13 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0014 Perceptron deep networks
+First recorded: 2022-08-20T15:31:05.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/cebeaf07-9b3a-4460-8e5b-a4cedba45066
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So yeah, the whole, you know, you've heard of deep learning and deep neural networks, and they're based off this idea of the perceptron that comes from, I think it's at least 70 years old, the idea that with all the stuff that the complex branches of the dendrite collect, it all gets summed into like a one or a zero, all of that gets summed up.
+That's called synaptic unreliability, and it led to the perceptron, which is the basis of deep neural networks today.
+And it's actually, that concept is actually not correct, and so what I did was I went and looked at the research, and I put together all the research I could find that would show what's really happening with the neuron.
+And that's going to lead to next generation neural networks.
+It'll take us far beyond the deep neural networks of today.
+Neural networks that are conscious and capable of so much more.

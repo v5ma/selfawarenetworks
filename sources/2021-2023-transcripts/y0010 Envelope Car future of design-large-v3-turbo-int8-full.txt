@@ -1,0 +1,83 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0010 Envelope Car future of design
+First recorded: 2022-09-12T22:47:00.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/45ed3d86-aa29-4a6c-a667-e70431a991f2
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+The new Ford Focus Tibsy had only three buttons, and it was like four, the whole panel was like, you know, you put your key in to start it, and then you tap forward, there's a middle button, and a back, it's kind of like a mouse.
+And that's all it has, so you can press on the forward, you can press on the middle, and you can press on the bottom.
+That's how you drive the car. So you look where you want to go, you wave if you want to turn, you press forward if you want to go forward, you know.
+If you look behind you and press backwards, you go backwards. I'm not sure what the middle button does. Something to that effect. Anyway, this is a dream that I had.
+The middle button was like a stop button, or a warning button, and there were no indicators as to the speed you were going, your mileage.
+But I thought, well, wait a second, this would be perfect for augmented reality glasses to be your dashboard.
+Right? And also, it would work if the car is mainly a self-driving car. And the only thing you need to press is like, go, and stop, and, you know, reverse.
+Or you could say those words. But yeah, you could reduce the car to three buttons if it's a self, if it's a level five self-driving car.
+Or you could just talk to the car as well. And you could have an augmented reality dashboard, if you want, with your glasses.
+Or, you know, there could be other cues, like, by the chair could vibrate different messages.
+And Tibsy was spelled like T-L-I-B-S-I, something like that.
+There may have been one more letter in there.
+And this was, like, the consumer car, and it was sort of, like, shaped like an envelope, which is just, like, this really easy-to-manufacture shape that also had very good structural integrity.
+So, the people inside were very safe. It was like, it was almost like a little boat.
+And people were making soups that looked like the car, like little envelopes.
+And so there was, like, an onion soup that they were making, onion and cheese soup, in an envelope.
+And they were serving this at restaurants.
+So, what I'm imagining is the future of automotive design.
+There's not only level 5 self-driving cars with self-aware neural networks, but also headsets, glasses, and VR glasses, and AR glasses that you wear.
+Um, and they might have panels on the outside so other people can get a sense of what you're looking at.
+Um, but, importantly, they, um, you know, or they could, yeah, they could communicate something.
+If you're standing in front of somebody, they could send an image of your eyes to the front of the glasses or something.
+Um, to make your face, like, to make it look like they're transparent glasses.
+So, it's like a box in front of your eyes where your eyes are not blocked from the world because there's, like, reproduction of your, of your eyes on the front of the glasses.
+Or it could be some other message.
+It could be some, some other graphics.
+It could be something interesting, like my AI paintings.
+But the future is that, you know, you have companies, um, that have been doing volumetric video.
+Uh, like, like, uh, every point they've been doing LiDAR capture volumetric spaces.
+And now they're, now they're looking at, uh, technologies like, um, planoxels and NERF, no radiance fields.
+And they're also, you know, contemplating, um, stable diffusion and mid-journey.
+And they're thinking, and the thinking is, you know, at some point you're going to be able to, um, you know, people are already talking about, hey, you, you know, if you look at, if you look back at, at, um, how style transfer became video transfer, um, well, that's going to happen with stable diffusion is that, you know, you can, you say a few words, you type a few words, and you could, you know, we move to speech instead of typing at some point.
+That'll be another option.
+But you can ask the computer to create images, but you also be able to ask the computer to create, um, uh, videos.
+Because in the same way they figured out how to make style transfer apply to videos, you'd be able to, like, you know, you know, say, okay, here's a sample video.
+And I want you to come up with, I want you to, like, you can have it, you say, change this person, identify this person in the video, and change this person into an elephant with, um, with, uh, with a crown.
+You know, you make up an image, and so it can generate an image, but now it's going to use something like a style transfer to apply this style or this transformation, the style of transformation, to this person in every frame of the video.
+So it's like, now you're combining style transfer with video, but then you can also do, like, um, there's, uh, there's AI where you can take a 2D image and construct a 3D world from the 2D image.
+Right? So you could, you can, um, basically predict what the, basically, that's, um, that's, uh, 2D to 3D.
+So you're, so all of your 2D art that you made with, with stable fusion, stable diffusion, that, there is an AI that can, that can, uh, figure out what that looks like in 3D.
+And that's, that's technology that this book has worked on.
+And so, at some point, you're looking at something like, uh, a fusion between plinoxals and stable diffusion, or, uh, um, or between something like Nerf, no radiance fields, and Dolly 2.
+Where, basically, you're creating, like, a VR world, and at this, at this point, you're basically creating 3D volumetric VR videos based upon your works.
+And, at, at, at this point, it's, like, this is how you, this is, this is closer to what your mind is doing when you're dreaming, is you're sort of, like, you know, inventing, you're designing, you're designing your dreams, basically.
+Um, and, so, this becomes, like, the next generation brain computer, uh, uh, interface, in a sense, because, because, because it's more intuitive for you to just talk to the computer.
+Um, and, you know, for how, to have the computer, like, create what you say.
+And so, the, so this is where, like, and then, now, the computer can be sentient as well.
+So, you can have really good conversations to dial in with the computer exactly what you want.
+And so, that, that's when we start to see, like, um, you know, next generation self-driving cars that might be shaped like an envelope, or, you know, because it's, like, really aerodynamic, and it's really easy to manufacture.
+And, you know, and you don't need windows anymore, and it's really safe, you know, it's, like, a little, it's, like, an envelope, or it's, like, a boat, right?
+Look, the car is, it's, sort of, sort of, like, it's, like, if you're sitting inside a letter that goes to the post office, you know, but it's, but it's, it's, like, open, like, a boat.
+It's, like, an open, so it could float in the water, theoretically, but it just, sort of, cuts through the air real simply, and, like, um, the windows are probably digital.
+I mean, you could put glass in there, glass windows, right?
+But, but, uh, or the whole thing could be made out of glass, I guess, but, um, or it could just be some other material that's really, um, uh, just really, a really good material.
+Um, I think that, um, that's just really durable, and really safe, and really strong, and, and it's not, and the thing is, like, somehow the design is not going to pass the shocks, uh, like, if there's a collision, the shocks will be distributed along the outside of it, and, uh, uh, like, it'll harmonize on the outside of it, so that the impact isn't felt by the, by the piece in the interior.
+It's very, like, um, for the people in the middle, it's very impact safe, because it's, like, um, there's all these, these, um, um, it's designed to, like, resonate, to distribute, um, collisions around its shell.
+So that if there are people in the interior, they're, like, um, they're, they're seated in a way that, that, uh, any impact that's felt is felt in a very light way, in a very gentle way.
+Um, and so, in that sense, it'll be, like, the safest vehicle, and if that vehicle gets, like, it'll be safe for, even for missiles, like, you can even, like, you can even hit the vehicle with a missile.
+But it, like, protects, I think, importantly, it could protect the, um, uh, yeah, it could be, you could be, like, at, at this point, like, you don't have to worry about, um, speeding anymore.
+The only, the only thing you need to do is, like, there's, like, there's, like, there's basically, like, you know, for three buttons, you can stop the car, you could, you could, um, you know, you have an indicator to go forward, or an indicator to go backwards, but mostly you might just, you know, talk to the car, uh, you might, you could wave the car, you could look behind you, you could look where you want to go, and the car will figure out the optimal speed and the, um,
+and, and, in essence, so there could be, like, uh, this is, this is, this, in this concept, like, you have, like, a hybrid situation between self-driving and your intention, so your intention and your, and self-driving are coupled, so, basically, like, um, while the car can be self-driving, you can still, like, signal your intention about where you want to go, so it's, so it's, like, a combination of self-driving and, um, user-directed intention, so the car doesn't have to follow the maps,
+um, you could still have, like, it could be separated from the grid, and you could still have autonomy over the vehicle, like, it doesn't, like, it doesn't have to be connected to the internet, or to Google Maps, or to any sort of mapping system, um, that Tesla puts in there, like, you, you could not, you could drive it, like, um, like, anywhere you want, so that, so if you went off-roading, for example, where there is no, there's no map,
+you could, um, you could, um, sort of, like, intuitively direct the car with your, with your hands and arms and voice, and, um, and the car just sort of, like, learned to interpret, it, like, it studies you, because it has, you know, sensing AI, so it learns to interpret what you want,
+so it watches where you look, because that's where you want to go, it knows your hand gestures of where, what you're gonna, you know,
+it has hand tracking, so it knows if you want to, if you want to stop, and if you want to, um, if you want to turn,
+and, and it's, you know, basically going where you want, it's about looking where you want, and, um, and if you want to go, you know,
+faster, maybe, maybe there's, maybe the surf, probably all the surfaces are touch sensitive, so you could, um, you know, slide your, your hand forward on, on your,
+on the, on the, uh, on the armrest, or on the panel in front of you, to go forward faster, um, if you're in an area with a speed limit,
+and, uh, that will be automatically calculated by the computer, but basically, the car would be capable of, you know, of, of, of all,
+it's an all-terrain vehicle, um, and, um, yeah, so you could, you could navigate any,
+and, and, and, I guess it could work in the water as well, but, yeah, you could, you could, uh, I'm just imagining you have, like, uh,
+it could have, like, it could be modified with, like, six giant wheels, or something, so that you can, um,
+you can really do, like, all-terrain, like, up and down mountains, and, and into the canyons, and, and, I don't know,
+I guess you could, you could build a car that climbs walls and cliffs, as well, I mean, with, with Sensei AI,
+you could, you could build, um, you could build that, and then, um, you know, I suppose we have, uh, flying vehicles
+that are shaped like, like, um, envelopes.

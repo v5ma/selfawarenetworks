@@ -1,0 +1,94 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0130y The missing opportunities in multi-modal eeg eit neural networking
+First recorded: 2021-10-14T18:59:56.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/11c6c5d9-8b74-4e4d-a9af-a7c508753ef7
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So, um, maybe, I would expect, and I could be wrong, but maybe like one step before we get to, um, iRobot, I would expect someone to come out with a line of self-driving helmets, right?
+Uh, self-driving helmets are like, uh, a helmet that, so, so we have, uh, with VR, there's position tracking by detecting edges in the environment, right?
+The AI is looking for identifiable markers in the environment, and that is, uh, allowing a headset to predict its, its position in space.
+There's also position tracking via, um, time of flight sensors, um, simultaneously, uh, simultaneous, uh, location, uh, and mapping.
+Based on, uh, when signals are received, so a depth, uh, uh, the depth of a space can be calculated with time of flight sensors, um, or by recognizing features in the world.
+I think that if you get, if you, like, basically, um, you know, it seems like you could describe, uh, position tracking of the Oculus Quest as kind of like a sparse version of cement, of 3D semantic segmentation, or 3D, uh, 3D object segmentation.
+But really, it's like, um, it's like, um, 3D edge detection.
+Yeah, it's kind of like 3D edge detection, or 3D, yeah.
+Um, but, but scaled up, it could be 3D object detection, instead of 3D edge detection.
+3D object detection.
+I mean, I guess that would be competitionally more expensive, right?
+But, but, so, like, a self-driving helmet is one that can, uh, give you directions on where to go.
+And then, um, you know, suggestions on where to go, when to go, when to stop.
+If you can go forward, when you need to take a step back to avoid a collision.
+So, basically, it would, it would monitor, um, the goal is for it to monitor the, the world around you,
+and basically act like a self-driving car, slash AI, slash augmented reality guidance system.
+Right.
+And, um, like, you know, humans will test it, and improve it, and so, um,
+um, the idea is that it has, it sort of, like, has a guidance system that learns from also watching what humans do
+when humans deviate from its guidance system.
+Right, so it's, so it's, it's, uh, learning to predict what the user might do,
+and incorporating that, blending that into its predictions.
+Or by becoming aware, it's, like, so the idea is, like, yeah, you can have a stage where you have a device that is,
+um, making predictions of both the environment and, uh, of the user.
+Uh, which would be, like, as if the car was, like, really monitoring its own movements.
+But the goal, yeah, but the goal is, and, and able to, and, and able to, like, imagine what
+their consequences of various combinations of patterns might be.
+Like, what if the user does something unexpected?
+Can I predict, or can I predict the user so that if they do something that has some sort of consequence
+that, uh, affects the, um, the metrics of the, uh, the driving unit to make the, you know,
+it could be, like, the efficiency of the route better or worse, or more dangerous or less dangerous.
+These could be things that the effect, like, influencing user behavior so as to avoid certain, uh, you know,
+triggering the user to, to execute certain patterns and encouraging the user to execute certain patterns
+depending upon which types of, um, um, motion patterns are consistent with the type of maneuver
+that fits the computer, that fits the computer's, uh, uh, goals.
+So the user, so, in effect, the self-driving helmet would help the user navigate.
+Now, now you say, well, okay, well, it's similar, it is similar to a concept to having, like,
+augmented reality navigation on a, on a phone, you're just putting it on, on a headset.
+It's the same idea, but want to use really, um, sort of advanced world recognizing,
+um, object recognizing 3D semantic segmentation, um, operations so that, um,
+um, the, the, the function of the experience has, has maximum value for both the individuals
+and, and, uh, for the collective users who use the system, and also for people who don't use it.
+We're trying to improve our scores across multiple domains for users, non-users, and for, um, for, um, for individuals and the collective.
+But, um, but, this transition, transitionary device is essentially, like, building the building blocks of what will be iRobot
+into, um, uh, a, into wearable glasses so that there is this sort of, like, transition and convergent.
+There's a, there's, there's, there's an opportunity for, basically, this convergence between, you know, uh, AI
+and, uh, humans through a VR-like device, through an AR, a glasses-type device.
+And, um, but not, but not necessarily through direct electric magnetic stimulation.
+All the direct stimulation, uh, or close, close, close feedback therapy to, um, to, via direct neuronal stimulations, uh,
+simulations and readouts is, um, is, um, is, uh, plausible both, both with, um, non-invasive and invasive methods.
+The, um, the, um, the, the potential for, uh, for non-invasive neurofeedback, uh, or, or, um, close with therapy or medical imaging is, is, um, we, no, no one can say that it's reached its potential, uh,
+uh, peak, in terms of what can be done or can't be done.
+There is, you know, it's, it's, I think that, um, it will be seen as one of the greatest mistakes, perhaps, in the history of medical research, that, um,
+that, um, that so much research has, has been siloed, uh, separated, segregated into different compartments with, uh, so much focus on, on, on these money printing MRI machines,
+and, uh, basically to the dearth of all other modalities of study, which, which is a tragedy on multiple scales,
+because the potential for, um, for taking, uh, some of the newer, uh, innovations in, in computer science
+and applying them to the long, the long history of, uh, uh, uh, medical, medical imaging technologies,
+there's a vast number of medical imaging technologies that, that are understudied and are grossly being ignored by the major universities,
+because, um, they, they sort of, like, have embodied the attitude of, like, all the good ideas have been thought of here,
+so we're not going to look for any more good ideas, and we're not going to fund any more research in this area,
+because we don't think that new discoveries are going to be forthcoming.
+And it's, it's, um, that by itself is ridiculous and stupid, but it's also, um, it's also missing the, the greater point,
+which is that there is, there is, uh, a huge potential value, uh, being overlooked in, sort of, like, in multimodal,
+that, I'm sorry, a huge potential value that has historically been overlooked, may not, it may not be, um, being overlooked right now,
+but in the past it was overlooked, and that's multimodal studies.
+Um, you know, there, there have been a lot of multimodal studies, well, I'm sorry, multi, multimodal,
+I mean, what, what I mean by that is, like, you know, so, so, a study that combines, uh, uh, two different, two or more, um,
+different medical imaging technologies together.
+This is, this has actually happened, these kinds of studies have happened a lot.
+Um, but, there is a, but the new opportunity is, comes with, you know, um, I think, you know, combining, uh,
+uh, uh, innovations in, in, in neural networks, uh, with, um, with, um, with multimodal studies,
+and, uh, uh, more ambitious, um, devices that attempt to take things beyond just, um, you know,
+uh, hemispheric or lateralization studies, and, um, really, like, so, you know, some sort of,
+like, large-scale, um, uh, 3D modeling of whole-brain activity, um, uh, doing, like, you know,
+large-scale studies that combine, um, EIT with, with, with EEG, with, with MEG, with, we want to, uh, perhaps think about, um,
+um, you know, also doing, uh, uh, you know, correlations that include, uh, voice and behavior, um,
+um, and, uh, you know, so there are studies that, uh, that would fit the bill of what I'm talking about,
+such as the, such as the, um, you know, the research being done by the Child Mind Institute,
+uh, that I've heard, I've heard people talking about in terms of, like, the multimodal nature of the study,
+and, sort of, like, it's a massive study, they're giving away the stuff for free, but they're also
+very specific about how, you know, about, you know, uh, describing the math, the methods of the study
+in sufficient detail that they can be, that someone, that someone else who has never met those researchers
+can, um, can continue the study by producing results in the same way.
+Um, so this is, so this kind of, like, rigorously defined study can be repeated at larger scales
+with independent researchers because the researchers are producing it in sufficient detail.
+Thank you.
+Thank you.

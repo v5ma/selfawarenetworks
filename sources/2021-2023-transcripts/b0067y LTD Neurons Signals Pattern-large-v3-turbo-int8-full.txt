@@ -1,0 +1,247 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0067y LTD Neurons Signals Pattern
+First recorded: 2021-11-07T04:50:46.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/6c96f1e6-6217-43f2-ab1f-8f8658edb473
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+The one thing that I want to note that I am taking away from the discussion of how fireflies sink and the book sink, I guess there's different ways that fireflies can sink, and there's different species that can sink, where they all fire in a sequence right after one another, but then they're all silent for a period of time.
+And so it looks like synchronous firing or firing one after another.
+And I'm kind of making the argument that this amplifies the receptive field of the organism, or allows a receptive field that includes all the parts of the organism to alert the entire organism.
+Because they have a synchronized sensor system, they're all going to notice faster when one of them falls out of sync.
+Like that would cause a change to the regularity of the entire pattern.
+Like something that would normally, that would cause a rippling, basically, yeah, like a rippling pattern.
+Because the syncs are based upon thresholds being reached, and on a regular basis, and when that's interrupted by an inhibited bug or by an excited bug,
+then that's going to cause a rippling pattern across the entire oscillation that eventually balances out.
+It eventually gets absorbed, and then they all start oscillating, really, and they all start sinking normally again.
+And so in that sense, you could think of like the group oscillation, the group oscillating activities of fireflies as sort of like allowing the emergence of a higher level receptive field is like a shared computation.
+It allows the bugs to basically have a collective mind that is not really a mind so much as it's a collective sensor that's aware of things that can pass information to each of them.
+And so each of them can help create this sort of collective sensor just because, and so the weird thing is that it's not actually just living animals that can do this.
+Like sync happens with things that are not organic, right?
+Things that are just dead, right?
+But essentially, you could have robots that can send signals to each other to reach a threshold that they dissipate to other robots or send to other robots, but in increasingly smaller amounts.
+Like it gets a signal, and then it absorbs some of it, and then it sends some of it onward.
+So it's stopped from sending its normal signal.
+So the key is that there has to be sort of like a regular tonic signal being broadcast, and that's their synchronization rate, like the alpha frequency rate.
+And disruptions to that are events that all of the cells are going to notice.
+So any disruption is like a phase change or a coincidence pattern.
+And so any of the fireflies in a group of fireflies, they're going to notice, they're all going to notice when any of their phases is disrupted.
+Because each of them effectively now fires at a slightly different interval than they were firing before.
+And that difference is going to cause a reaction or a change in the artificial structure or in the organism of the bug.
+So this could also happen to a sort of machine that's completely made of dead parts.
+And that's the key distinction is that the reason that machines can be conscious is that the nature of the oscillation is taking a bunch of separate parts, but allowing them to affect one another.
+Like, like, like, like a bunch of, it's like, it's like having a bunch of, of tuning forks or a bunch of drums that can, that when you hit one drum, all the others start vibrating.
+Right.
+And so what you have normally is like, they're all sort of like vibrating, like one of them will, you will hit and then, and they'll all sort of like react to that one that got hit.
+Right. Right.
+There's this reaction that happens in the brain.
+What happens is one gets hit and there's this, there's this attention schema that this, this effect that, that is described very well with the attention schema where one gets hit and that inhibits a lot of the others in its own array.
+And that one that, um, that, um, that fired hits a, it, it, it probably hits a lot of others in its own array, but then it's probably sending, um, excitatory signals to, um, to the secondary cortex.
+So I would imagine that, um, when a signal goes from the, uh, olfactory bulb to the, to the, um, temporal lobe, um, that signal is going to, um, be like, that's going to be an exciting signal.
+Right. So what, so what would happen is one is you might have one, one of the, the neurons in the oscillator of the, uh, layer one of the occipital lobe, uh, is going to, uh, I'm sorry, of the, um, not the occipital lobe.
+It's the temporal lobe. So, like, it's like, imagine, like, what I'm thinking is, like, imagine, like, the, the first layer of cells, like, um, they're all, like, sort of, like, sent up, up, up, up, an excitatory pattern that bumps all of them up a little bit.
+But one of them fires first, reaches this threshold before the others. And then it sends out an inhibitory signal to all of the other ones that were, uh, were receiving the excitatory signal.
+Like, those are the same ones in the, in that first layer. And then what, what then would pass is it's going to pass at some point, um, a signal, it's going to pass signals in a couple different directions.
+One of them is towards the thalamus. And the, the other direction is towards the, um, and, and the signals go from the thalamus and they go towards the orbital frontal lobes.
+But there's also signals that go from the temporal lobes to the orbital frontal lobes. So there's two paths that the signals travel.
+So there's, like, a circuit being created, of sorts, where the information is divided up. One, one, part of the information goes to the,
+um, um, the thalamus and then to the, to the, um, to the, um, the frontal lobes, the orbital frontal lobes.
+And then the other part goes directly to, skips the thalamus and goes directly to the orbital frontal lobes.
+And, um, so that situation is one where, um, as, that's one where, um, you have, uh, you have signals that, um, went through the thalamus which will, uh, modulate the signals in some way.
+Um, it's not, it's not just, it's not, it's just a, um, it's not just gonna just pass signals through itself without modulating them.
+It's not just a, you know, like a Cisco router, as was once imagined.
+You know, it's not a, it's not a networking, uh, router that doesn't, uh, that passes things without making changes to those things.
+It, it, it changes the signals.
+But then, in, like, I'm imagining, like, oh, what if that's, like, um, uh, what if that's sort of, like, what if that adds the kind of robustness that, um, to the signals, to learning, to learning those signals, uh, by having them sort of, like, travel through one path, get modulated,
+and then get sent back to rejoin, it's, the, the, um, the, the rest of the signals.
+Like, I, I'm not exactly sure how the neural, how the, how the, uh, wiring is, except that it's, um, probably different for every, it's, it's going to be different for every person's brain.
+Um, so you might have, so I'm not sure, like, I guess initial connectivity, there's some amount of randomness in the initial connectivity.
+Um, and then the changes to the connectivity would reflect that, that person's experiences would, would be, or would be one kind of reflection of that person's experiences.
+Um, but the, um, so the changes in connectivity would sort of, like, encode, uh, a long-term, uh, potentiation or long-term, uh, memory.
+Um, and then, uh, but the, I would say the firing sequences in terms of, like, you know, in terms of, like, uh, firing sequences are going to oscillate, they're going to cycle.
+And what's going to set those firing sequences are incoming sensory patterns, novel, novel incoming sensory patterns.
+And so you're going to have novel incoming sensory patterns that are going to oscillate in the brain.
+And they're going to oscillate several times before they, um, because, uh, they're, basically, they're firing faster than the rest of the neurons.
+And the rest of the neurons are going to slow them down, but they're, they're going to slow them down slowly.
+Like, because, because the rest of the neurons are firing at a slower rate.
+So that neuron is, like, gradually calmed down.
+So it's like a decaying, uh, it's like a decaying oscillator or a resonator is another word for it.
+So it's like a drum that, it's like you hit the drum, and the sound is loud, like, boom.
+But then, it's like, it's, it's not just boom, but it's like, it's like boom, and then there's a smaller boom because it oscillates around.
+And, but as it's, it's, it's, it's energy is being drained, uh, by the, by the rest of the oscillator, um, in one sense.
+Because they're passing, um, signals to it that are, um, going to bring it back in sync with the rest of the oscillation.
+Because that's what oscillators do.
+Whether it's, like, they're living or dead, oscillators will, um, will dissipate their energy across other neurons.
+But, but, and so they'll dissipate their energy across this neuron.
+And so it's going to, like, repeat its, its signal.
+But, but, so if it does, so if there's, like, a high phasing signal, like, ah, I recognize the pattern.
+That's going to fire, right?
+But then the recognition of that pattern is going to fire again.
+And it's going to loop.
+So that phase sequence is going to loop in time and gradually fade out.
+It's like, so it's like, and that would be true for anything that you can think of.
+Like, if you are looking at something, the pattern of what you're looking at very intensely is going to be, like, this high phasic burst, right, of activity.
+Now, you can look at anything else if you want.
+But you're probably still going to be thinking about that one thing that you were looking at intensely, periodically, for, for a little bit longer.
+And I think of that as short-term memory.
+I think of that as, like, that's, like, it's, like, an imprint on your mind that is fading, like a fading imprint.
+Like, I guess if you've ever seen, like, you compress your hand into a material, like a soft foam, and then if you let go, the foam doesn't immediately turn to being flat, return to being flat.
+And instead, it's sort of, like, slow, like, for a while it represents your hand, but that representation becomes flatter and flatter and flatter until it fades away.
+Right? It's like a, it's like, it's like the foam representation.
+Now, so that means that the, that the short-term memories are just going to fade away into nothing.
+They're going to sort of cease to exist.
+But what happens, though, is that the short-term oscill, the short-term oscillations, they, they're going to change the synaptic connections.
+They're going to cause the, they're going to cause synaptic connections to grow towards them, and they're going to grow towards other neurons that fire fast, fast.
+They're going to grow towards the neurons that fire the fastest, in a sense, at the same time.
+Because it's like, if you have two, if you have two, um, it, if you have, like, so because, because, like, like, um, I think in one sense, like, um, yeah.
+Yeah, so being, so for a neuron to, um, I'm trying to, I'm trying, so the argument that I, that I created before was that, um, it's like a planet growing towards the sun.
+That something that's growing is accelerating in, in, uh, it's, in, it's growing that, it's like accelerating in its, um, oscillation, but it, it, but like as a periodic strange attractor, or a chaotic strange attractor.
+That, that, that oscillates because it oscillates faster in that, in, in a particular direct, in, it, it, it, it oscillates faster, so relative to other things it grows faster.
+So it grows spines when it fires.
+And, um, but it's also going to be, um, sort of, like, attracted to, uh, other.
+Um, spines.
+And so, so, I mean, there is, there is, there's, there's, there's, what's really interesting is in the, um, uh, by Richard Feynman, let me look this up, about configuration space.
+Because it's the idea that particles will sort of, like, um, the trajectory of the, of the particle is going to be, like, the shortest possible distance between, um, between two, hang on.
+I need to look this up.
+And, um, so, uh, so I was just going to say that, um, while a neuron is, like, um, is, so, so when a neuron fires, it creates this, uh, it inhibits a lot of other neurons that could have fired from firing, um, in its own layer.
+So that's, like, the first neuron, it's, like, it's, like, okay, so imagine it's, like, the whole, um, oscillator, oscillating, the whole layer is oscillating together, right?
+The whole layer is oscillating together.
+And one of them fires, and the rest of them, uh, are, and a lot of them are inhibited by the one that fires, okay?
+So that's, like, imagine that's a, it's, like, one bright light with a lot of darkness.
+And I say it's a lot, it's, like, a lot of darkness because usually the oscillator, it has this, it's this one, um, pattern that they all light up at the same time, they're all dark at the same time.
+And now this pattern has an interference pattern.
+They're not, they're not in oscillation anymore.
+Now, um, there's this, uh, there's a slowdown in some of them, and there's a speed-up in a smaller number of them.
+But it's interesting, there's, so there's, like, a, it's, like, a sparse and distributed representation in one sense,
+and that, and that it's very efficient because the amount of energy, uh, to represent, is, uh, to represent a pattern, um, is, um,
+to represent part of a pattern is one neuron plus, uh, that sped up, balanced out by all the neurons that it slowed down by inhibiting.
+So there's, like, um, that one neuron simultaneously speeds up and the rest of them get inhibited.
+So it's, like, um, they, the, um, but then, um, but then it passes its own excitatory signals to the second layer.
+So that sort of, like, creates, um, the one that fired first now is effectively transferring its synaptic pattern to the next layer
+because its synaptic pattern is the reason why its, its, uh, its, um, cells filled up first.
+So the synaptic pattern, oh, shit, this is really good.
+Okay.
+Let's try to go over this one more time.
+So you have, um, so one neuron fires and it inhibits a whole bunch of others.
+But because there's a tonic field, um, all of those neurons are coordinated together.
+So basically, the, um, the neuron's signal is, uh, it looks like one tiny noise, but it's slowing down a whole bunch of neurons.
+And so that is, um, also the, so the ones that, so the neurons that slow down, it's, it's kind of like, um, that, that, that represents, like,
+like, so the neuron, so a neuron's, so what I was saying was that a neuron's memory is stored in its synaptic connections.
+I didn't invent that idea.
+Um, that's the prevailing idea.
+Okay.
+Um, that's where that, that, uh, synaptic connections are where the memories are stored.
+And, and that's because, um, the, uh, the synaptic connections, they form in response to cells firing, um,
+at the same time, and they, they unform in response to cells firing out of sync.
+And so a cell that is, um, inhibited, um, is going to, um, be out of sync with a cell that fired.
+And so the link, and so in, in, in some, in some sense, like, um, so that means that if you look at the oscillating group as a whole,
+um, that neurons that were, uh, wired together before will become sort of like, uh, uh, they will, uh,
+I'm trying to, like, understand why, like, like, this mechanism a little bit more precisely.
+But so something in between, um, when the neurons fire out of sync, um, they, the, um, the spines that were growing beneath them
+will be, um, will be, um, sort of deconstructed, um, the, they'll, they'll stop linking to each other.
+And it's, there, that is, okay, so if you have, like, so the, so I had this idea that the, you know,
+it's sort of like the, um, it's like a, a splay state, right?
+A splay state is now the, the, the oscillations are, um, opposite.
+And so they're going to, like, so, um, that means if that one neuron keeps, is the one that is going to fire first,
+then it's going to inhibit the others.
+And so the, um, I don't know, I guess it's kind of like, I guess it's, I'm just trying to imagine,
+I'm just, like, trying to imagine the decay process.
+Like, is it, is it analogous to a cell wilting?
+Is it because, um, nutrients are being deprived from that spine to be shifted towards where the cell is growing?
+Because that's sort of like saying that, um, that the, the, um, it's like, imagine that, okay,
+so imagine that the plant can grow in any direction in any, in any given time.
+Like, but because there's stimulus in one of the directions, that is, um, sort of like changing the, the likelihood,
+like, uh, that it's adding, it's adding, like, um, it's speeding up that, um, time.
+It's speeding up time in that direction.
+So there are more possible paths in the direction, there are more possible paths in the direction of, uh,
+in which time is accelerating faster.
+It's like, it's like, if time is accelerating faster in one direction,
+then you have, like, one, two paths for every one path.
+It's like, it's like, it's like, in one direction, life is moving at 60 frames per second very fast,
+and in another direction, it's moving at 30 frames per second.
+So that means that you have, there's, there are, there are, in a sense, twice as many directions,
+uh, for that particle to go towards.
+Um, and so if it's gonna random, if it's gonna, like, if the chances of that it going in any particular direction
+are, like, um, completely random or Gaussian, then, um, it's more likely, it's, then it, then it may grow in any,
+it may go in any different direction, but the chances, the chances are, the chances that it goes in the direction,
+um, but if, but, but if you have, but if two of the three possible directions are the same direction,
+then, um, the chances that, um, it grows in one direction are, are, um, two times the chance that it's growing in, um,
+um, the other direction, and so that increased chance, um, sort of, like, teases out, uh, a trajectory,
+which is like, like, attracting the particle in a particular direction, because it's just, it's just, um,
+the greater activity, um, increases the, the, uh, the, or the greater activity is, is a greater interval of time happening,
+which multiplies the, um, number of possible paths that, um, that growth could go to, that growth could happen,
+and, uh, and, um, growth is happening faster, because, uh, in cells that are firing,
+and so because growth is happening more slowly, and cells that aren't firing, um, then, um,
+um, the, uh, the energy of the plant sort of, like, uh, pulls, like, is not, stops being sent to,
+to the spine, to the spines that are not being used, right? It's, and, and, and I think they must be
+decaying, like, the way a plant decays, um, when it doesn't receive nutrients, right? And then,
+because the nutrients are going in the direction of where it's firing, and that's why, so that,
+so that would be LD, LDT, which is long-term depression, which is when the plant is not
+growing in a particular direction, the signals are going, not going in a, in a particular direction,
+and so that's, that memory fades, fades away, or gets, like, etched away over time. Okay, so what I
+want to get at is that the, um, the, the pattern of a neuron, so the pattern of a neuron, we know that
+the neuron that fires is the one, is, like, so, so it's, like, um, the neuron that fires first, so, um,
+so a pattern that I think is going to resonate again a few times, and because it resonates a few
+times, there's time to stimulate, um, the growth, uh, cells in, in between those patterns, right? It's,
+like, they can grow a little, and they can get another stimulus to grow a little more, and then
+another stimulus to grow a little more, okay? So, so, if it resonates a lot, then, um, the, the growth can
+be a lot, and so it's, like, energy, it's, like, a lot of energy can flow in, certain, towards certain
+patterns, and, um, those certain patterns, you know, dense connect, patterns that have dense
+connections, uh, have a lot of attractive power. They're, um, they're combined, as a combined
+oscillator, um, they're a more, they're, um, a more powerful attractor to, um, smaller oscillators,
+and so they can, um, so, like, as a memory, so memory, like, grows, almost like a tumor, right? If
+something is, like, if you're, if there's something that's really important to you, then, um, you'll, like,
+have all of these, like, powerful connections will, um, help you, it's, like, how psychedelic
+medication is, like, it excites your whole brain, and, um, and that causes a lot of, uh, cell
+growth, so you're, so you're a lot of, a lot of new connections between neurons. It causes,
+um, your, your, uh, an increase in your activity, right? You see what I'm saying?
+It's kind of, I think that's what I need, is, like, some psychedelics, but, basically, I wanted
+to say that the, um, the, the LTD is, uh, creating a pattern, and the, the, um, it's, it's helping,
+it's helping a single cell to create, to magnify its patterns, so that patterns are being created
+in terms of, um, by the total representation of the, uh, sparse representation. So the sparse
+representation is not just what fired, but it's also what was inhibited, right? Those are
+just distinct from, um, cells that are still firing tonically, so there's multiple layers
+of representation, right? And then, um, because there's, like, there's, like, uh, gamma and
+high gamma, like, there's, uh, there's definitely, uh, I would say there's a range of, uh, pattern
+representation. There's a range of pattern representation, that's four bits, that's basically, um, inhibited
+tonic, basically, bright and brighter. Um, and, and, and you could also say it's, like, um, silent,
+um, regular sounds, and, and then loud and louder, right? And so, but, and then you could have,
+for touch, you could have different, um, intensities of texture, right? There's, like, a light touch,
+there's a harder touch, like, in a mechano, mechanoreceptor. There's, you know, the tactile
+sensations, there's heavy touch, there's, like, hard grips, you know, like, you can have a hard
+handshake, it's, like, a hard grip, and, um, uh, you know, you can have, like, um, basically
+different, different levels of, of sensitivity detection that our, our senses can, um, process,
+like, you know, we can have different sensory sensitivity, but it's because, um, so the patterns
+can have different magnitude, and that's important because it's, like, well, how much does this
+pattern want to, do we, does this pattern resonate? Some patterns should resonate more than other
+patterns, right? Because the idea is, like, well, what are, what are we going to be paying attention
+to? That's, that, that's where the pattern that is resonating the most is happening, is, that's
+where our attention is, um, it's, I'm talking about temporal, uh, resonation, um, so it's,
+like, um, yeah, so it's, like, patterns are resonating in our heads, right, and, uh, over
+time, and, but they're, but they, they, they, like, they peak for a time, and then they fade
+out, and then they, they come back, because the whole brain is oscillating, so they come back
+again, and they peak, and then they fade out again, right, and, but then, um, you know,
+you just, it's like a robot in a loop, but the loop changes just a little bit every time,
+you know, like, you know, it's, like, um, it's, the loop is, the loop is, of, of consciousness
+is, like, a loop, it just loops, and loops, and loops, and loops, but the thing is, it's
+also, like, um, all of the, all of the move, all of the changes to its movement are, are sort
+of, like, causing changes to ripple through it that adjust its movements, and so, um, it's,
+it's, it's literally just reacting to physics, right, like, human being is just literally
+a bunch of particles that are reacting to physics. Human being is literally just a bunch
+of particles that are reacting to physics. That's what I'll say. This, this allows the
+entire oscillation to, uh, represent, uh, a unique pattern code that represents the synaptic
+arrangement of one neuron, or the synaptic configuration of one neuron, because that's
+the only neuron, like, if that neuron fires, whether, that, that it's going to create a
+pattern that is distinct, that, to its, its, um, itself, because it's going to inhibit its
+neighbors. It's going to cause, basically, a disruption to the pattern that, that is
+distinguished, is, distinguishes itself in a large way by, by inhibiting other neurons from
+firing, and by slowing them down. So it speeds up, and it slows down a whole bunch, and that
+magnifying pattern, that energy-efficient magnifying pattern, um, changes, like, that's
+like a paint brush on a canvas, and the entire ray is that canvas. So you can have, maybe, multiple
+firing patterns simultaneously in different areas of that one ray, and they each inhibit
+a different area to magnify themselves. And so you're going to have, like, um, you're going
+to have a few light up, and a lot of them are going to be dark. But you're going to
+detect the dark ones as a difference from the tonic firing rate, from the regular, it's
+like the growth, it's like relativity, so think of it this way, the growth relative to you
+is that the growth declined, and, um, it's like, the growth declines as you get older, right?
+And it's faster when you're younger.

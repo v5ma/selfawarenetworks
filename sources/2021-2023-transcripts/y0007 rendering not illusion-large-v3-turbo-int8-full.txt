@@ -1,0 +1,229 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0007 rendering not illusion
+First recorded: 2022-10-14T03:34:23.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/bfe2e9af-d160-4aca-b5cc-92cbb0b04886
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+There's an argument out there that phenomenological consciousness is an illusion that most vocally espoused by Daniel Dennett, someone I know named Matt Mahoney wrote on my Facebook wall.
+He said, GP3 claims to have phenomenal consciousness. Prove that it doesn't. I suggested that he read all of my work that I've shared on GitHub.
+And then he replied, Phenomenal consciousness is an illusion. We all have it. Thinking feels like something because you get positive reinforcement every time you experience something and form memories.
+And this motivates you to not die, which results in more offspring.
+And, you know, I don't, it's not that I'm not going to do a hard disagreement.
+That's, it's like a very, very sparse napkin sketch argument for what consciousness is. It's not, it's not very detailed or robust. I mean, basically, but why, but I use different words to describe it.
+Instead of saying it's an illusion, instead of saying it's an illusion, I say it's a rendering. It's a computational rendering.
+And I think that phenomenological consciousness is a computational rendering.
+It's like, it's like imagine that you're holding an apple and you're looking at an apple and now we want to understand how inside your brain there's an image of an apple.
+So, imagine my head is, imagine I'm with my thumb underneath the apple and my index finger on top of the apple.
+I'm holding a red apple up to my face, up to my eyeball, a short distance away from my face so that I can see the apple clearly.
+And the idea I want to describe for people is that, imagine that inside my brain there's a representation of that apple that's being rendered.
+And it's being rendered by a part of the brain to another part of the brain via, via a feedback loop, right?
+It's like, and it's, it's rendered as a sparse and distributed representation in a, in a 3D biological neural network.
+And so the way that works is like your, um, you know, light bounces off of the apple and it, and some of the light, uh, enters your, enters your eye.
+Um, you know, you know, we can talk about the, uh, the, the lens of the eye and then we can talk about light, um, hitting, hitting the, the retina.
+Um, and then, um, we can talk about, um, photons, uh, causing the proteins to, to move.
+And this is gonna, um, in this movement, I need to go into more detail exactly in terms, in terms of what, what exactly is, is happening there actually.
+Um, so the, so the story I've heard, which I need to confirm now because I'm sort of like questioning that a little bit, is that the photons cause the proteins to flip.
+Um, and the movement of the proteins, um, is going to, is going to cause a, a charge accumulation, but it, but it, it doesn't fit with my other work.
+So I need to look that up, um, but the, um, but the basic, the basic idea that I'm not sure is correct was that photons bounce off of the, off the proteins, causing them to flip back and forth, and then that triggers, um, it somehow triggers a separation of positive and negative charges.
+But, um, I think there must be something missing from my description, um, so, yeah, okay, let me look this up.
+Okay, so I looked it up, um, there's a paper called The Biological Basis of Vision, the Retina, How Photoreceptors Operate.
+Um, the basic idea is that the light enters the photoreceptor through its inner segment, and then passes into the outer segment, where it might be absorbed by the photopigment molecules.
+Otherwise, it goes along its path and exits the photoreceptor through the other side.
+The photoreceptors are neurons, of course, and the information they need to encode is light intensity, um, or, or precisely the difference in light intensity with respect to an average level that depends on the ambient light intensity.
+By the way, all this is quoted, what I'm saying right now is quoted from the article, and it's determined by feedback from horizontal cells,
+in a crucial process called light adaption, and that will be discussed later.
+Light intensity is a quantity of various contenders and rapidly.
+An increase in, of light intensity makes the photoreceptor reduce its release of the excitatory neurotransmitter glutamate,
+causing the membrane to reduce its potential to hyperpolarize.
+Um, that's interesting.
+The release of the excitatory neurotransmitter glutamate, causing the membrane potential to reduce its potential.
+So that sounds like the glutamate is triggering, could be triggering, um, potassium receptors, um, to potassium channels, potassium channels open up.
+Um, which does fit with my theory.
+So it's not about protein flipping, it's about, um, light, it's about the quantity of light being absorbed, um, by the pigments,
+and the pigments causing the excitatory release of glutamate, um, a neurotransmitter,
+which is going to hyperpolarize the cell probably via opening, um, potassium channels.
+I guess, I guess it could be injecting chloride, I don't know, but probably potassium channels are opening up and releasing potassium to the extracellular space, it sounds like.
+So, um, going back to, basically, someone said it was a short description of what your theory puts forward.
+Um, at a high level, um, it's, my theory is, is going beyond Daniel Dennett's idea of consciousness as an illusion,
+to say that consciousness is a rendering and a feedback loop, a temporarily consistent rendering that the brain is both making and perceiving.
+Um, the theory compares, I mean, I guess I would compare my theory to, um, first of all, Daniel Dennett's theory,
+um, but also to, um, you know, integrated information theory, um, to global workspace theory,
+um, to attention schema theory, and, uh, to Neil Seth's work, which builds on Daniel Dennett's theory.
+Um, and, um, um, I would say that it differs from information theory, um, a lot, because it's a lot more specific.
+Um, and I'm, I'm going beyond information theory.
+I'm going beyond neuroscience, because regular neuroscience, you know, talks about representation,
+but they don't talk about, they don't talk about materially what representation actually is.
+And I'm saying materially what representation actually is, is a phase wave change, um, in the magnitude and frequency of the phase wave
+that, um, is, um, accomplished with variations in, in, in, uh, primarily the potassium, a quantity of potassium,
+and that the, the receptors on the cell can, in a non-linear or gradient, um, computation, sort of spatially, um, detect and measure
+or sense, um, the signals in their receptive field,
+and then compute a sort of tensor, uh, through the, um, uh, that has a, uh, the tensor has a, um, a, uh, sort of, uh, sort of, uh, context
+that is defined by the branches of the exit terminal and what the, what it's connected to.
+So, the front of the, uh, the front of the neuron is the sensor and, um, um, and the exit terminal
+is going to, uh, encode the, the responses that are paired with that, that sensor.
+So, it's like, yeah, it's like the cell is answering the question, like, if I detect this pattern
+on the, before the soma, then my reaction is this pattern, which is what is encoded, which is the memory
+that's encoded, um, after the soma.
+And, um, through feedback loops, the, um, the two patterns can, uh, become increasingly more in sync
+over time, like, the, in sync in, um, in a behaviorally functional way.
+It's like if, it's like if you, over time, you, the patterns in between your, what you're sensing
+and what you're acting sort of harmonize and become efficient, um, because the neuron is
+learning, um, in both towards its inputs and, uh, and from its output, its own outputs.
+Um, and the, the flow of information in the brain, the cyclical flow of information in the brain,
+um, helps to, um, allow, helps to make this computation possible.
+And so, for a conscious person, it's like you have a rendering, like whatever you're seeing
+is being rendered, like, like it's being, like a 3D model being created in a computer, but
+it's being rendered, it's being rendered, but it's like, but the computer screen, right,
+is, um, like the pixels of the, of the computer screen are distributed all over.
+It's like the synapses in the inceptive field, which is the part of, which is the, the part
+of the neuron that's after the soma, the synapses represent, um, like, for the visual area,
+they represent, like, the pixels on a TV screen, there is a distinct pattern, and it's encoded
+in those synapses, and the context of that pattern is the inceptive field, or what they're
+connected to, the other, the neural array that that inceptive field defines.
+Um, and so, that neural array is the TV screen, and from that one neuron, it's getting, um, all
+those neurons are getting, like, one pixel, but those, but all those neurons are from that
+one neuron, so that one neuron is representing, like, one pixel, but then the neurons in the
+receptive field are also getting input from many other neurons, and those other neurons are
+representing the other pixels to those, to that second array of neurons, and so the second
+array of neurons is, is, like, each of those neurons is receiving many, um, independent
+synaptic connections from neurons in the first, in the first, in the, in the arrays in front
+of it that are defined, the array defined by the receptive field, and so each neuron has
+its own sort of, like, personalized television screen that's sort of defined by its personal
+connections, and what it sees are, what it sees or what it's measuring are these, these gradient,
+uh, responses that are, uh, uh, it's great, these, um, um, um, these, uh, independent
+activation synaptic, uh, up-regulations and down-regulations of individual synapses in its
+receptive field, and, um, to make a long story short, like, to sort of, like, illustrate this
+in diagrams, it's like, yeah, I need to illustrate, uh, one, one, I need to illustrate, um, a diagram
+of, like, imagine, um, let's, we'll do a picture of myself looking at an apple, okay, and then
+we'll have an apple in the mind, like, we'll do, like, an image of an apple in the mind, but
+then we're gonna chop up the apple into, like, lots of little bits, and we're gonna spread
+the apple out, and we're gonna put the apple sort of, like, streaming in from the retina,
+but we're gonna have, like, little bits streaming in temporarily, and I'm gonna have, like, an
+animation that shows, like, okay, we're gonna just chop up the apple, but we're gonna show,
+we're going to activate just like one frame of the apple at a time so we're going to rotate the
+apple and we're just going to like have like that one frame is going to be chopped up into little
+bits and little bits of each frame are going to arrive consecutively so it's an animation
+of an apple chopped up into little bits that are playing through the brain it will show the path
+from photons the intensity of photons causing the pigment to react to release more glutamate
+and then we'll show the potassium channels opening and the action potential duration changing
+in the signal that's being passed the phase wave variation that represents the sparse and distributed
+version of the apple that that neuron is going to represent is to its inceptive field it's going to
+pass along that and then and then we can combine this with like examples of you know three like
+different approaches to 3d semantic segmentation and how to show that what a computer needs to do
+to connect you know to recognize that one object is separate from another is to is to look for
+associations between points in the field okay so you run so there's an algorithm this is okay well
+these two points are associated and event and eventually you know you can say that all these
+points belong to this object and all those points belong to that object and if you do another neural
+network program called semantic segmentation or or you know I guess it starts with classification right
+so I think of like 3d semantic segmentation as a combination of classification which is just like a
+standard like you know like it if you look at the mnest example set for deep learning when they
+were trying to train a computer to recognize numbers on checks like did the person write you know
+three thousand dollars or four thousand dollars we want the computer to automatically detect what this check
+has written on it and so they have the need to the check needs to detect the differences in the numbers
+that are written and so this is like you know deep learning 101 example of the mnest is is you have
+you know the computer is is learning different it might well one of them approaches it might be learning
+different combinations of if you slice the image up into sections which parts of the image are light
+which parts of the image are dark and then and then the neural network is supposed to predict if that's a two or three
+and um and it can do this after after being trained on uh labeled data you know you say okay well this is a two
+these are many examples of twos these are many examples of threes and um hopefully what you want to get is is
+in that oversimplified you know is you want to get a neural network that can uh that can have its weights
+um sort of like um adjusted in a way that if you feed it uh two or three it's going to correctly predict
+that that has been fed a two or three um and so that so its ways are like um sort of like learned
+preferences that are like learned by tiny changes to individual nodes in the neural network and there are
+tiny changes to individual neurons that are happening in the human brain um but the but it's a little bit
+different right it's a little bit different in terms of like how dynamic um
+the uh the human brain is in terms of like um
+um what it's passing on it's it's um and how it changes over time so um so artificial neural networks
+are really kind of straightforward by comparison um we get uh with the human brain we get non-linear
+uh computation which is like um which is sometimes referred to as uh like it learns from a gradient
+or it learns from some people like to use the word uh analog but it's not quite it's not quite right
+it's not quite wrong it's it's more like um i think that might confuse people if you say the brain
+the brain is analog because we can say more precisely like there's a good model of the brain
+called the clostron and the clostron um is makes this argument that you know they show that
+um you know an example of non-linear computation is that any of the synaptic inputs can react in any
+order uh so they can receive any part of the neuron can receive input and if you have and another thing
+is that if you have you know two one example was if you have two nmda receptors on the same branch
+not on different branches on the same branch then they'll they will spike
+uh in a multiplicative way like the spike is much higher than um than some other
+combination so they so it's like there's a proximal boost to the to the neuron's activity
+if um the coincident activity is like like really close together on the same branch
+um and so there's this enormous amount of like customizability in terms of what kinds of
+patterns the neuron can react to and what kind of patterns the neuron can ignore
+on the sensor side on the dendritic side and then the same the same process is sort of like happening
+on the um you know on the exaterminal side or on the other side of the soma in in the case of
+pyramidal cells we're talking about apical dendrites where the apical dendrite is learning to predict
+um you know when when signals are coming from the soma and that alters it's it's a it's a it's
+pattern and its synaptic connections alter its its pattern like it's you know up regulating and
+down regulating and then um and then the timing of that like if it is the apical learns an expectation
+of like when certain conditions are in a certain way like you know there's a certain kind of reward
+as being expected and so it sends it sends a it sends a the narrow correlate of that as a back
+propagating potential towards the um towards the soma and if that coincides with you know what's
+on the sensor side if you're you're in a you're in the same place as usual and there's that apple that
+that you were hoping would be there like if you're a mouse right there's that little bit of apple
+it's in the it's in the place that it was last time and um and you get more of that apple this
+time and so if that happens then you get what's called a burst firing well the burst firing is just
+a trigger for um um a what's called a sharp wave wave ripple which is where you the burst firing
+initiates a sequence of of action potentials and each of those action potentials initiates a sequence of
+inhibited uh inhibited waves uh brain waves and those um those those matter to the brain because the
+brain has a has a tonic firing sequence and that has just slowed down oscillation
+and magnified um a memory it's taking a memory that is stored in synaptic connections
+in the inceptive field and the post and the post somatic side of the neuron and it's magnified it
+so that when the action potential fires um it can it can you know do like a high phasic low magnitude
+signal that that um has good distance so it can trigger a sequence of of neurons across the brain
+but each of those action potentials is going to create like a shorter distance brain wave
+that has a higher magnitude and reaches a lot more cells and and sort of like creates a um a pattern
+that scales to a larger to to your whole brain it's sort of like um your brain is rendering patterns
+constantly but the patterns that it's rendering are being altered by your incoming senses
+and so there's like this ground state where your brain is like rendering um just like your past
+expectations just like rendering that are based on you know whatever is oscillating your brain at the
+current moment so it's like it's like um there's this consistent picture that just keeps oscillating
+over time so your sense of reality is persistent and consistent and but it is a it is an oscillating
+rendering like a computational rendering that's split into lots of different parts
+and in one part of my notes i argue that you can imagine the the the bird in the cage where
+um you have a piece of paper and on one side of the paper there's a cage and the other side of the
+paper there's bird and if you flip the page fast enough you'll see the bird in the cage but the
+bird is only in the cage um when that flipping is happening and as soon as you stop as soon as the
+paper stops moving there's either a cage or a bird but the bird in the cage is not there anymore
+and the idea is that um with sparse distributed representation it's like okay well we we established
+a piece of we established an illusion by flipping the um by flipping the um the paper back and forth but
+in the brain to get even further you have to imagine that each um that the each part of the picture each
+um like if we go back to ms you know so you slice the two or the three the image of the two or three
+into little squares and say is this square light or dark and and if we slice the picture of the bird up
+into little images you know the you say okay well um so we're not we're not trying to recognize a two
+or a three but we're stupid the idea is that um is that you just like the neuron is just going to
+represent like a sort of like to its inceptive field it's going to represent like a pixel
+it's going to it's going to be the light or the darkness uh for the inceptive field for its for the
+for the neural array that neural rays that it's reaching and um and um the uh so the point is that
+there is in the brain images that are being uh images or sensory representations or sounds
+or um sensations of touch and feeling that are being created in the brain um through um sort of uh
+it's it's a combination it's you know i like to say i like the phrase i use is it's it's neural array
+projection oscillating tomography and um and that means that the the projections from the
+neurons are hitting arrays in feedback loops and they're oscillating and your brain is binding all
+this all these patterns that it's creating with oscillations and these patterns are distinct from
+the sort of ground state patterns of the phase these are phase wave differations from the ground
+uh state of brain activity so they're distinct and your brain is creating a mapping
+between the sensation side and the action side in the feedback loop of both sides of both the
+patterns that are being represented on the sensory side and the actions that are being created on the
+exit side in a feedback loop result in um the organism experiencing itself or the computer experiencing
+itself if you have that process the process the process i just described you put in a computer the computer will
+will experience itself because the computer will be uh creating a uh a rendering
+of its sensory inputs that's active temporally on the same sort of like um time span as you know human
+consciousness right um you know it's and it's so it's oscillating temporally and and its internal representations um
+are independently connected to this is napot six neural array oscillating tomography neural array
+projection oscillating tomography is the idea that a neuron's individual memory is paired with
+um an individualized response that like a choice like that neuron is detecting criteria but then it's outputting
+a choice that's associated with that criteria and the reason this is useful it's a useful um way to to think about what's
+happening is because um this allows for you to detect the same criteria but do but to have
+refined choices um over time to refine your choices it allows the neuron so as the neuron's activity goes in a loop
+the the signals move towards synchrony so the patterns between the the basal dendrite and the apodendrite
+for example um might not make a lot of sense at first and in a baby that they don't make a lot of sense that
+the baby has a perception and then a baby has an action and the same thing for like a student learning
+to drive a car there's a perception of the vehicle and then there's the motor controls and it's not your
+brain has to make changes but those but the changes don't have to happen necessarily well i mean changes do
+happen on both on both on both the perception and the action side
+but the idea is that they both that over time because there is an oscillating feedback loop and
+because in oscillations um there's a sort of like uh imperative defined by gravity for oscillations to
+sort of become in sync so that your observations become more in sync with your actions
+over time and that is because of physics
+um yeah

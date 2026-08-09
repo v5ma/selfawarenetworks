@@ -1,0 +1,82 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0293y Bloomberg Viruses Test
+First recorded: 2021-05-13T01:28:16.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/99ffe6ed-dfc8-4644-92a2-a387699a0dc8
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Engineered aspirin with hydrogen sulfide. And that, when given, completely reverses that process. But more importantly, because we've worked out the pathway, we've also identified biomarkers that we've done 400 patient prospective study.
+This is not published, but it's all in that pattern. Prospective study where we can predict with 98% certainty who will get preeclampsia from area under the curve. The rock curve is 97.6 or something like that.
+And so, you can stratify. So, I don't know if you know, I'm the one who did the world-first randomized control trial on pravastatin. It's called the STAM trial. It's published in the Journal of Ops and Gynae in December, I think, last year.
+So, yeah, I mean, it's just, but, you know, we've got to go through lots of regulatory and first-in-man studies and all that stuff. I'm getting geared up.
+We've done sort of seed right out, and we're now going to go ready for Series A, B kind of funding.
+And once that's done, so that's why I feel comfortable, well, I felt comfortable enough to give up being dean and, you know, pro-vice chancellor and stuff to do this now full-time this year.
+Because I think, I know I can solve this problem within this decade, and therefore it makes, that's why I feel happy on Mother's Day, but the next day I'm very sad.
+Professor Asif and Carol, not out of, not being disrespectful, just only like following our, it's really very interesting discussion.
+Yeah, no, no, no, go ahead. It's one o'clock, two in the morning, so I'm going to stop talking.
+No, no, no, we do not want you to stop talking. It just only would like to recognize new people on the stage and those who return to us.
+And if anybody would like to just only jump into the conversation, feel free to unmute your mic, jump in.
+Welcome back to the lobby, and those who are the new ones, please feel free to introduce yourself.
+I know that Mika Bloomberg, I never saw you before, would you like to introduce yourself to the group?
+And I think we know, like, all of other people, but please, I think Karina, maybe she would like to introduce herself again, in case, for those who don't know her.
+So, thank you so much. My name is Victoria, I'm done speaking.
+Sure. Karina, do you want to go first?
+No problem. How's everybody doing?
+Good, thank you. Welcome back.
+Thank you. It's been a long time. We're on our last day of Ramadan, so getting to the end of it and really exhausted now.
+Yeah, so I have been in the healthcare space for 20 years, primarily the first half of those two decades.
+I spent working on helping nutraceutical companies grow their consumer base, but we took a very patient-driven approach to help them find products that could help them with their chronic health conditions.
+And as our company matured and the data matured, we moved into healthcare and started helping pharmacies, durable medical equipment providers, laboratories, and so on and so forth, essentially connect them with patients at their point of need.
+Over the last five years, we've been working on a lot of tech, one of them primarily to implement multilingual chronic care management services as well within our suite of services.
+So that's kind of where we're at at the moment. For me personally, I'm in Vancouver, loving sunshine today. I would say I'm a health hacker. I get my blood results done very often as I've shared with the entire team.
+And just, you know, looking for that healthy longevity. And as I learn things, I'm trying to share it with the users in our applications. I'm Corinne, and I'm done speaking.
+Okay. Hi, everyone. I'm Michael Bloomberg. I am, I have been both a journalist and a programmer, but my focus is on neuroscience.
+So since about 2005, I've been focusing on neuroscience and machine learning. But that includes microbiology, computational biology, cognitive psychology, cognitive neuroscience, computational neuroscience, machine learning.
+I study neuro, I study neural circuits. I studied how viruses affect the, well, you know, viruses, cancer, immunology. I can go deep. We can talk dendrites.
+I'm currently writing a book about the brain. I also co-created, I have, I, in terms of programming, I co-created software for neuroimaging, basically EEG and VR.
+I'm currently working on software that brings functional neuroferred spectroscopy into virtual reality and augmented reality.
+And the plans are really advanced and I'm working with a, a really exciting company that does functional neuroferred spectroscopy.
+It's too early to, to make any, to announcements about, about that project. But, but basically, I love talking to neuroscientists and, or neurolog, and also neurologists and people in the medtech community because I write software for medtech devices.
+In a sense. Not, not, not, not so much on the patient clinical care side, but on the research side.
+And so I'm also researching, you know, how to make next generation brain computer interfaces.
+So there's been a lot of focus on stuff like Neuralink and, and also this computational science company, computational neuroscience company called Numenta.
+So, but yeah, that's a, that's, I think that's a good summary. I don't know if I'm, I'm probably leaving out a lot, but yeah, I'll pause there.
+Oh, thank you.
+So talk to you later.
+I, by the way, Professor Asif, I really wanted to see if I could, um, talk to you, uh, at a future time. Maybe, maybe we, maybe I could, uh, record your story for, for, uh, for journalism purposes.
+Oh, sorry. Uh, I didn't quite understand.
+Oh, I, I'd love to talk to you, um, at a time, sometime to perhaps make a podcast, a video podcast, and we could, we could talk about your work and, uh, just, uh, create, create a, a story that we can, that we can share.
+I just want to, basically, as a journalist, capture, capture what you were talking about earlier and, and share it with people.
+Sure. I'll be, DM me, and I'll connect you to my chief of staff, and then we can do it. I mean, I actually just did one, funny enough, uh, where it's gone up to, I'm told, 800 million viewers. It was a TV thing.
+Yeah, I, I, I have ADHD. I'm deaf in one year. I'm dyslexic. If I can do anything, then you can do everything.
+Wow.
+So, I'll be delighted to, yeah, take care. See you soon.
+Eve Mubarak, professor.
+Eve Mubarak.
+Good night.
+Good night.
+I'm just not going, I'm just going to Greg Duffy's room to, I see, uh, Jason is in there, so I was just going to go in there.
+Oh, okay. What are you talking about in that room?
+I have no idea. I mean, I'd be here, so, just go for a little, I'll probably fall asleep when I'm, well, I'll be there.
+Okay, find your room for your sleep, so good luck.
+Okay, bye.
+Um, Mika, welcome to this room. We have some, many interesting people who come here, so if you're hanging out around, you may be, will be interested to find other people from whom you would like to take interviews.
+Well, Jackson, I was freaked out by the photo.
+But I do not, I do not know what should we talk about. We can just be a little bit quiet, or, um, if you would like to start any conversation, or share anything, feel free to unfold your mic, and share anything.
+Like, whenever you will feel comfortable to talk about, it's like this time of the time, Wednesday, for everyone to just only find their safe space.
+Thank you so much.
+Yeah, like that one. Let me take this photo for myself.
+It's dark, with how I do my dad's floors, and energy reaction, and alcohol, so my body accepts just only, just only, like, several types of wine, and that's it.
+And, and, of course, hard liquor to some of them. But, yeah, I cannot drink too much, because my body started eating, and I'm starting to have some rashes, unfortunately.
+Relaxing. And I just come to my brain a moment. I was searching about this home testing kit for COVID, smartphone, in a way that we can track, you know, people, you know, possible, you know, having corona, especially in congregation, like at the airport,
+and in the malls, but for some reason, it seems not to be that reliable for the authority, for this home testing kit.
+So I was thinking, do you have any idea about some sophisticated machine, let's say with the size of the ATM machine, that can do the test more reliable, and maybe people could go, let's say, to the mall, or the airport, or even to the work,
+and scan themselves before entering a place or congregation, and they get the result attached to their cell phone.
+It's like, um, uh, accelerated lab, if you know what I'm doing.
+Without blood tests, just only, like, vital signs, and without any mucous tests?
+Usually, you, uh, use, uh, saliva, I believe so, for this, uh, testing kit, and the, the takes about five, uh, to ten minutes, but it's not reliable for this home.
+So I wonder if this is something, like, it's more sophisticated, like, you know, a lab outside the laboratory, you can check and give accurate result of having corona before you enter, place your publication?
+Yes, and I think, like, when I actually, in Turkish airport, Turkey has been great, so, um, I know that Turkey in airport, they open all of this fast test lab results for COVID,
+and lots of people who were traveling, and lots of people who were traveling, they were using Turkey airport as a, as a, as a transaction airport.
+So, they do have tests like that, but the results are still, like, if you, like, the results are still sometimes, like, the lab results are still will be more accurate.
+Okay.

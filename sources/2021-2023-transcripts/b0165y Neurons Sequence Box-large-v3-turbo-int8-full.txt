@@ -1,0 +1,111 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0165y Neurons Sequence Box
+First recorded: 2021-10-03T19:47:58.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/d4b29b0d-01df-4d4a-9ee0-1c885b49e860
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So, the idea is that patterns converge together because, um, because, uh, okay, so it's like, okay, so imagine that you have, so imagine that you have a repeating pattern, okay?
+It's not, it's not that it's a repeating pattern, it's that the same pattern is happening a lot, and a lot of different areas of the brain are taking turns, rendering their part of that pattern when it's their turn to render that pattern.
+So, if you move your head left and right, and anything you see, like I'm seeing a box, if I move my head left and right, the box is moving, is, in my visual field, it's moving from the left to the right, because my, because relative to my, to my, um, to my head.
+In my, in my field of vision, the left side, uh, the boxes are on the right side, and then the boxes are on the left side, and as I move my head back and forth, boxes move from the left side to the right side, so left side to the right side.
+And I move my head at the same time, right? So you're picturing that. I, I just, I overstated it because I wanted to picture the same thing.
+And, so the idea is that as it moves, as it moves from left to right, with each frame of that video stream, that, that each frame is going to be, um, basically rendered by a different, uh, part of the brain.
+Right. And, and the idea is that one part of the brain fires to represent that one moment, and the next part of the brain fires to represent the next moment.
+And, and this is measured out, um, you know, neuron, when a neuron fires, that's a millisecond event.
+Right? So you're going to have to have a, a large sequence of neurons to represent, you know, the pattern of a box on your left side.
+Right? Right? The large, there's, there's, there's, there's a lot of different pattern associations with that box.
+But, but interestingly, it's like, the box itself is made up of smaller patterns.
+And, and the box is in a larger pattern, which is, the box is in a room, the smaller patterns could be like, well, are there any markings on the box?
+What's, what's the, um, is the box in good condition? Is there anything wrong with the box?
+Is there anything stuck to the box? Are there any stickers on the box?
+Is there any writing on the box? Does, does the box have multiple colors?
+What color is the box? What material is the box? Like, all the different properties are associations with the box.
+And, if you're going to think about one of those properties, then what would probably happen is, it's like, okay, so if you're going to think about the box at all,
+that's going to increase the chances that you're going to think about one of the box's properties, which is like, it's, and, and it's location in the room,
+and orientation to you, and location relative to you, these are all sort of, like, things you might think of, just because they, um,
+they're properties that are associated with the box, but they're, they're, they're, they're properties that are linked to the box because they,
+because they fired at the same time that the box fired, and there was a neuron at a higher level up
+that was triggered to fire because you had the neurons lower down that were, um, noticing what, you know,
+one group of neurons was putting together the image of a box, and one group of neurons was putting together the sound of a box,
+and one group of neurons was putting together, you know, that there's a sticker on the box, and one group of neurons was putting together
+that there's a line on the box, and so what happens is, you have, at some, at some, uh, at some higher level,
+you have, um, uh, you have that, so, so you have these micro patterns that fire off, and they fire off, and
+because there's a high, there's a hierarchical thing happening, right, so what's happening is, is, is that in of itself
+is, like, a sequence of micro patterns, and then you're going to have whatever neurons are, um, able to be triggered
+by that, by that, you know, lower level sequence of micro patterns, right, um, any neurons that are going to be triggered by that
+that are going to store the representation of that memory as the connection between different cells of fire at the same time,
+but it's, but it's stored as, um, like, it's, like, uh, as, as the hurts signal that is going to be, as a play,
+as the playback signal in, in, in terms of hurts, in terms of, like, when it's going to fire, and what, what, what is the, um, strength of the neuron,
+you know, like, how, what is the readiness of the neuron, and what is, and then what is, um, so the point of what I was saying
+was that the, imagine, go back to the brain, you've got the 3D grid, you've got different sequences, each of neurons firing up,
+each sequence represents a frame in the movie, the movie view, right, but this is not a movie, it is something that is,
+um, like, note-taking, like, uh, like a memory representation of something, but the, but it's, as a 3D neural network,
+it's just very, like, um, it represents the kinds of patterns that it encounters very well,
+like, that's, because there's really, um, like, it represents those patterns many times,
+and it represents different parts of those patterns many times, and it represents those patterns, like,
+sort of, like, through independent neural firing sequences, but what happens is, is that you have
+oscillators of lots of neurons that are listening to these independent firing sequences, and it's, like,
+they're, so they're recording, I'm, in a sense, recording my own thoughts,
+but deciphering my own thoughts, and then playing back the recording, while recording, then, and then
+recording again, and in some sense, like, okay, so, if I learn a sequence for hand movement, okay,
+right, then hand movement is, um, accomplished just sort of, like, by playing back the learned sequence
+that, that equates to hand movement, so it's, like, playing back a new sequence, so every time I want
+to accomplish a goal, I'm, sort of, like, playing back a previously learned skill set, and many
+different skill sets are linked together to accomplish what happens during the course of
+the day, it's many different tasks, right, but what my mind is doing is it's playing back a sequence,
+a sequence of, of, um, it could be words, it could be, uh, very visual, a very visual sequence where you're
+seeing images, many, some people, not all people see images in their mind, or they picture what they want
+to do, what they want to achieve, they use their imagination to, to, to visualize, uh, and predict
+their life, some people, um, you know, it's, it's the story, you know, some people, uh, are touchy-feely,
+they want to, you know, hold on to other people, um, they're very, very kinesthetic in, in terms of,
+in terms of the language they use, and their behavior, you, you know, you can, you can sometimes
+guess when someone is, is kinesthetic, or, or maybe more kinesthetic than another person,
+um, in terms of what, what, in modalities their brain is, is, uh, preferring during the time that you're
+observing them, and, um, you know, it is, it is, it would be perfectly normal if someone's brain
+sort of shifted to using, uh, different modalities at a different, at a different time, but I think
+that there's, like, if you're talking to someone with the modalities that they're using, right,
+then, um, maybe that's one way to, sort of, connect with them, and synchronize with them
+through dialogue, by using the kinds of modalities that they use, and maybe that will help you,
+sort of, to establish successful communication with that person, creative communication with
+that person, maybe, maybe that's, that's part of it. So, I mean, there's definitely, um,
+um, modalities can, I guess, if you're, if you're, if you're, you know, if you're talking to a visual
+person, so maybe that sort of, like, that ties into, that ties into, like, temples, like, I, so before I
+was saying, okay, we need temporal synchronic, uh, but that's not, that's not the only thing, there's
+also, like, you know, pattern secreting, right, so you could, so it's, so tempo spatial pattern
+secreting, uh, as well, you know, like, volumetric movies, things from certain angles, things from
+certain angles over time, you can have, like, basically, like, four-dimensional patterns, so
+3D patterns, 2D patterns, um, yeah, 2D patterns, 3D patterns, um, and, um, 4D patterns, you know,
+patterns that change over time, but it's still a time, it's still a pattern in time, like, uh, like,
+like, um, like predicting sequences, when people say, okay, the first number is three, the second
+number is four, the third number is five, what's the fourth number, and so you predict
+the fourth number would be six, I guess, I don't know what else you'd pick, but the idea
+is that, um, you know, like, okay, so let's say the first number is two, the second number
+is four, the third number is six, what's the fourth number, and, uh, I hope you're gonna pick
+eight, because that makes the most sense, right, and then you say, okay, what is, um, first
+number is three, the second number is five, the third number is eight, the fourth number
+is, uh, 13, what's the fifth number, and so then you gotta go from, like, okay, so we went
+from three to five, so that's two, that's, that was a plus two, we went from five to eight,
+that was a plus three, we went from eight to, um, twelve, but, so plus four, so eight plus
+four, um, would be twelve, and then, um, eight, and then twelve plus, why did I say thirteen,
+uh, did I, did I, okay, so I said plus two, plus, plus two from, from, yeah, I messed, I
+confused it, uh, okay, all right, so I confused myself, maybe I should have had a notepad,
+right, a consciousness notepad, not living up to, to the, uh, so yeah, so interesting, yeah,
+so, like, the whole idea that, that, um, you know, consciousness is a sample spatial notepad
+for, for the organism to remember sequences of complex tasks in order to accomplish even
+more complex tasks, and, um, you know, at, at some point there needs to be a sort of, uh,
+way to facilitate lots of different sequences for really complex, for accomplishing really
+complex tasks, and so, in order to facilitate, sort of, like, a strategy that involves long,
+complex sequences, um, I mean, that's essentially, that's, that, I think that's really, like, the
+defining, um, feature of human intelligence, is, is, is, is, the, uh, I mean, maybe it's
+a defining feature of, uh, feature of, of the, of the organism's intelligence, is that organisms
+with their, with their brains are learning lots of patterns, okay, and they're, they're learning
+to then combine and organize and sort these learned patterns, uh, so that, um, they can, so that
+they, they want to organize these patterns, uh, at a high level, so that, uh, they can produce
+the best results, right, because that's what, what is going to motivate the organism the most,
+is the best results, or, in, but the motivation is sort of driven by natural selection, so the
+best, the best results are the ones that, um, our results are effectively maintaining survival
+and progressing with natural selection, so that leads us to the situation of where, um, you know,
+what, what happens when, um, the organism's actions, the organism's actions are no longer in alignment
+with, with the goals of natural selection, and I think that sort of takes us back to
+the, uh, the global warming problems that we're having.

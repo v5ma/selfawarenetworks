@@ -1,0 +1,10 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0046y Equations Electricity Cells
+First recorded: 2021-12-16T19:28:48.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/b548fd3c-681a-4045-b7c3-f01199ff64b3
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Math equations for how much electricity at each level of current or at each voltage, how much electricity would be required, you know, like, if electricity is streaming through at a certain rate, right, if it's a certain, I don't know, if the current is, like, five or something, right,
+and then it's going to, then it's going to take, um, then if the cell's like a, like, um, has a threshold for firing, right, then it's going to take a certain amount of current for it to be, to pass from the electric battery, uh, to the cell, and, anyway, get those equations, get those numbers, because then you can sort of, like, have that in the book, like, what is the, like, what is the amount of electrical charge?
+needed to fire off a neuron.

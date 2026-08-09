@@ -1,0 +1,218 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0187y Brain Compunds Patterns in Oscillations
+First recorded: 2021-09-26T03:08:16.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/c3e11dea-d780-4b15-afae-619cf738b79d
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+It's pretty obvious that the brain is rendering the experience of consciousness with frequencies, because that would cover it. That would be enough.
+And that's what we can see the brain doing with each action potential, is creating exactly that.
+And so what we need is, okay, so besides intaking patterns and turning them into other kinds of patterns and generating specifically frequencies,
+besides that, what we need is a theory of how all the different, what we need is a theory of how all the different,
+how the brain can turn all these different disparate frequencies, how the brain can recognize them, ingest them, and combine them to cognitive patterns.
+So, we're saying that, yeah, the brain is spreading out all of these frequencies at, with time intervals, and the rest of the brain is watching.
+And so what we need is a pattern.
+We need to just show different ways, different mechanics, mechanical possibilities for how these micro-pattern frequencies could be combined.
+And the answer is, there is an illustration of this process happening with point net++, which basically is, uses deep learning opportunities to figure out which points in a 3D scene belong together,
+which points belong to this object, and how do we classify this object.
+So we want to do object segmentation and classification, and you can also call that semantic, 3D semantic segmentation.
+The analogy is sort of an explanation for how this can be done, but in addition to that,
+you can say that, well, knowledge can be inferred not just from that method, that's not the only method,
+but there's also tomography, but there's also, you know, if you look at the Fourier slice transform,
+that's another tomographic-like pattern recognition machine, where you can take and then combine them together.
+You know, I think a pretty good example of, you know, the, like, how to relate one set of data to another,
+two unstructured sets of data that are common besides basic, besides either, like, a basic frequency pattern,
+or they might have a temporal and inspiration frequency pattern, it's not like there's isomorphisms,
+it's not like there's obvious isomorphisms between two different sets of data,
+because there's electron encephalogram data, which is different.
+And so the approach that was created for that pipe, the pipe, pipe, it's able to, to create a link,
+basically, between two different unstructured sets of data, by having the, um, the, the data, basically, time-coded.
+Like, if we have a time-code for when your heartbeat, and we have a time-code for when your brainwave spikes,
+then we can make an association between a wild heartbeat pattern,
+2D convolutional neural networks, to get at, uh, the, 2D convolutional CNNs,
+and they want to get at, uh, the data that's really hard to parse,
+so they create an imaginary dimension, an imaginary vector, so they're using imaginary numbers,
+and it makes, it ends up making the memory robust, so they're less susceptible to dropouts,
+that, I mean, they're less susceptible to the problem that you dropouts solves,
+which is, um, which is, the problem that dropouts solves is, uh, it's called, um, overfitting.
+So, that's the thing, so, there's one thing about, you know, PointNet++,
+it's because the data is, the data being fed into the machine, it's possible that because it's more robust,
+because it's, it's 3D, because there's, like, multiple angles that you could see with tomography,
+if you have multiple angles, you can predict the, the concept, which is the 3D object,
+that is beyond the slices of the Fourier slice, uh, projection theorem.
+You can predict the 3D object from the slices, you could predict, which is analogous to predicting the concept,
+from, uh, from, uh, just pieces of the concept.
+Say, oh, there is, uh, there is a way that all these different disparate ideas fit together,
+that's the concept, right?
+The concept of the concept is that this concept represents a map of how all these lower level pieces of information fit together.
+And, um, so, the concept of, of, uh, yeah, I'm not gonna go this far.
+And, think of, um, how, if you imagine the field of view of a VR headset,
+like, there's been a lot of discussion over the years,
+with the 90 field of view, 110 field of view, what's the right trade-off for Oculus?
+Should Oculus try to do, to put a larger field of view inside the Oculus?
+So, they've tried to put a larger field of view inside the Oculus Quest.
+Uh, uh, two.
+Would that have affected, would that have, well, how would that, how much would that have affected the price?
+Like, if you think about, you know, the description, the Master Magically came along, and he had this great description.
+He, the founder of Magically had, uh, this great description of what a light field was.
+He sort of introduced the concept to a lot of people who hadn't really heard the concept of a light field before.
+But, like, everything in your field of vision is, that you're seeing is, is the light field.
+It's the, it's the field of photons that are bouncing off of everything, causing the, the, uh, the, uh, the light to change its frequency
+based upon the color of what is refracting off of.
+So that your eyes can collect that frequency and then interpret the world as a beauty model that you, the character, are walking around inside.
+You know, crawling around inside, or lying around inside.
+And so the, um, so the light field is, at the point, so you, see, your brain doesn't capture, it doesn't bring in the light field raw.
+It doesn't have a direct import.
+It has to use your eyes to bring in the light field.
+And the eyes can only, like, the only thing that happens with your eyes is that the light field hits the, the proteins in the ganglia neurons
+and it causes them to flip. And that's, that, when, when you have enough, uh, of the, the ganglia neurons flipping,
+then you get to a situation where, uh, the, the, the eye has recognized something and a pattern is sent inward.
+Or maybe, I don't know how, I don't know how, if the eyes work like that, or if the, or if the ganglia neurons will just,
+or maybe they're more, like, passive gated, right, and they just send the signals onward, you know?
+I don't know. I have to find out more exactly.
+But the point is that your, your brain is just collecting, like, a lot of dots.
+It's tracking, tracking dots.
+It's figuring out its position, uh, with multiple, multiple kinds of senses.
+But one of those senses is just, you know, noticing visual clues in the environment, right?
+Noticing some sort of environmental feature or some feature of the room or space that it's in.
+That helps the creature, helps the brain of the organism to orient itself within that room and to figure out which room it's in.
+And its brain, like, its memories store little representations of each room in specific sections.
+And that's why when you see a, when a mouse moves through a maze,
+the neuroscientist who's looking at the mouse's brain will see different place cells and grid cells light up corresponding to,
+the place cells corresponding to what place the, uh, the mouse is in relationship to the room that it's in.
+Like, what its orientation is. Like, where, close to which wall.
+Those are what the place cells are, are indicating.
+And that way, if there's a memory that's, like, noticed.
+If, if there's now, if now there's, like, food received at one, uh, of the, that can be seen.
+If it's food that can be seen from one of the positions in one of the place cells that's been activated,
+then that, uh, then the location of that food is now, is now able to, with he being learning,
+to wire with the, with the place of, uh, that the, that the mouse has learned to recognize as a place.
+Uh, or, not, not a place, but as, as a, uh, position inside a place.
+And then we have the grid cells will help the mouse to remember which room it was out of all the different rooms.
+Alright, so it has a way of categorizing, uh, spaces.
+What, oh, by using the, the, the topology of the substrate of the brain
+to plot out, um, spatial memories and temporal memories.
+But using, actually, the actual space of the brain to plot out the knowledge of spaces
+and the memory of being in different spaces.
+And, um, so that memory is conducive to the functioning of, of the brain.
+In fact, um, already with virtual reality, uh, we have a, we have a new next generation brain computer interface.
+Right?
+The brain is learning to, the brain, potentially, depending on how virtual reality is used,
+the brain is, is, is learning to, um, communicate with, with, uh,
+communicate its intentions into the computer.
+And right now, it's like, the input is very simplified.
+Like, you know, we've got controllers and buttons and, um, and they're really great.
+The six dock controllers, you, you, you can bring your whole hands and arms into VR.
+Um, but soon your entire body.
+I mean, what I'm saying is, like, if all, if the other thing you've tried is the Oculus Quest 2,
+then you, you wouldn't know why we're so excited about virtual reality.
+Because we see, because, um, the people in the VR industry have seen, have gone to trade shows,
+and they've seen, um, stuff that hasn't come out yet.
+That is just, you know, for whatever reason, for mostly, a lot of times it's for economics,
+but also it's just for, you know, it's hard to, this is a difficult,
+it's hard to coordinate a business in a world like this, right?
+For a business to, uh, continue to launch products and to succeed and to innovate
+and to deliver new services in a timely way, it is actually a really hard thing to do.
+And, um...
+A compounded, um...
+It's actually, okay, so a compounded, uh...
+A compounded series of representations.
+A compounded series of, of megahertz, of hertz and megahertz, uh, patterns.
+Uh, over, uh...
+Detected by, um, Tempo Spatial Pattern Acquisition System.
+So, the Tempo Spatial Pattern Acquisition System is projecting,
+is also projecting Tempo Spatial Pattern predictions for the rest of the network to detect.
+And the pattern, it has, uh, sort of, meta-stability that's accomplished by oscillations.
+Temporal stability accomplished by oscillations in coordination with other oscillations.
+So, what each of the oscillations is making is being passed around.
+But the key for one oscillation to update the information to another oscillation
+is that they have to be synced temporally, which is similar to neural pipes.
+A way to synchronize data by, by matching them, by putting them on matching, uh, uh, timescales.
+So you could convert a peak that's in one dataset to a peak in another dataset,
+as long as both peaks happen at the same time.
+But then in and of itself is kind of like the Fourier Slice Transform,
+in that you can make a connection between one, um, object and...
+One, one, one slice of an object and another slice of an object,
+and another slice of an object because of where those slices, um, intersect.
+Or with, or with tomography, it's like, or with electrical and penis tomography, it's like,
+well, it has to, the signal has to travel through each material at different rates,
+and so that affects the amount of time it takes for the signal to be received on the following end.
+And so, um, so you have, you have one transmitter and a whole bunch of receivers,
+and they all receive a signal at a different time,
+and that creates a sort of image of density, of the density that it has to travel through.
+Because it's how much it's going to be slowed down before it gets to a certain sensor.
+And then the next, the next sensor is going to transmit,
+and it's going to create another image of the density of what it had to travel through.
+Those two, those two slices, those two images, if you combine them,
+you can find that there are certain intersections where there's more density,
+and certain intersections where there's less density.
+And you keep, you keep adding more and more of these, um, slices,
+and you can start to, uh, identify objects inside the materials.
+And combine it with deep learning, and, you know, it begins, you know,
+you basically do object detection.
+But it, you know, imagine that you can take slices not just from, like, left or right,
+but from above or below, or from any direction.
+And, and, so you see that if the brain can line up what's going on with your eyes and with your ears,
+such as through, if you can line up both temporarily,
+then if a lightning strike, like, lightning strike happens within close proximity of a thunder strike,
+then the brain can link them together, because there's a proximal connection.
+But then, what emerges from that is a concept of, you know,
+wait a second, these, the thunder, the thunder and lightning, they always come together,
+so they must be part of one single fundamental force.
+And, and the development of the concept of what that is,
+of what that could be, is, um, is sort of like, you know,
+that, it's sort of like, that, that's, that question is sort of begged.
+Human is, the human being is, is sort of asked to puzzle,
+well, what is lightning and thunder if they're connected?
+And eventually, we have electricity, right?
+The brain compounds patterns, um, meaning, which essentially means that, like,
+the same patterns are learned everywhere.
+And, because, they're learned everywhere because there's a coordinated structure
+that needs to repeat the patterns on a large scale when they become part of the active,
+uh, become part of the active, uh, rendering.
+So, we have to.
+So, I'm looking into an art store.
+There's, like, a metal dog.
+It's, looks like it was made of sheet metal and rivets.
+It's really ugly, actually.
+But, it's also impressive in a strange way.
+So, yeah, like, I can see, okay, this is gonna make part of a living room,
+but, it's a ridiculous waste of space.
+There's all this, like, ornamentation, I guess, is good.
+If you have a vast amount of space, who has a vast amount of space in San Francisco, though?
+I mean, I guess somebody does.
+And then, like, so when I'm looking at this art in the art store,
+especially, like, striking, sort of like, um, almost like, impressions of something that's real, but just exaggerated a little bit.
+Like the Rasa concept.
+Like the concept of Rasa.
+Before your, your eyes are sort of like, caught in this like, in this surreal, it's like, slightly surreal, and like, what the fuck.
+Like, there's no purpose for that fucking thing at all.
+It's a fucking paperweight.
+But it's art, actually.
+It's a paperweight, but it's art.
+And so, you like, you get to sort of like, have this like, you know, what the fuck?
+We've got something useless here.
+Just for the entertainment of your eyeballs.
+Yeah, I mean, that's, it's, it's, it's, it's annoying and interesting at the same time.
+Um, I think that if you have a lot of visitors, then, um, you have something new and novel to show people that you didn't have.
+And, uh, I'm just gonna have to ask everybody to stay the fuck away from me.
+But the whole point is that the art is like, because it's, uh, it's off by just an amount, just an exaggeration.
+It's out of place just enough.
+Interesting just enough.
+The, your awareness sort of lingers on it a little longer than something that was not art.
+It's more interesting than something that's not art.
+And so, because it sort of like, engages your psyche and triggers some sort of pattern in your, pattern recognition in your, in your brain that cascades around,
+it's basically compounding multiple pattern recognition points, multiple points of pattern recognition.
+Like, are compounded together with that art experience.
+And, uh, so that is why, so that is why, uh, um, it's like, yeah, what if you have like, a room that is like, has a unique art experience, unique lighting experience, unique sound experience, and unique smell experience.
+And unique vibrations from the floor.
+And you have a room that's like a coffee room where there's like, the whole point of it is to divest yourself of the memory of the previous room as much as possible.
+It's like black and boring, brown, white, all these different like, non, just like, boring colors, grays, and different shades of gray.
+And the whole point is that, uh, you're supposed to divest yourself of like, the resonance of the art that you just experienced in the other room.
+Then you go into one more room, and once again, we've got bright lights, but say, maybe like, the first room was like, sort of like, maybe reddish purple.
+Now we're like, blue and green.
+It's just like, the point is that it's a different light spectrum, different like, show, different art style, different music, completely different smell.
+Maybe the room temperature is different.
+And you have like, you know, one of them like, it evokes something.
+Like the colors and the shapes and the images, they're evoking something colorful and something beautiful.
+And the whole point of that is to, um, yeah.

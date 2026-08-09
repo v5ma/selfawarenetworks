@@ -1,0 +1,195 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: a0277y Explaining the brain to Dad Neurons Spikes Dendrite
+First recorded: 2021-06-02T17:56:16.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/14286da0-733b-4f7b-aed5-53f1fdcf51a9
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Okay. So I'm recording, but I'm recording because I want to capture myself. You're free to talk as well. I'm just, it's just an audio recording. But look at this, look at this. Look at this. This comes with my Google phone. Everything I say is transcribed instantly. Everything you say is transcribed instantly. Go ahead and say something.
+Why would I want to say something? Isn't that cool? It's really useful. So if you have a brainstorming session, you don't just have an audio recording of it, but it makes notes for you. Right? So that's extremely useful if you like, if you've ever like, you know, wanted to get, if you've ever got stoned and thought you had a great conversation, but you weren't sure it was great.
+Well, you have a transcript maker, and I don't have to pay anybody for the transcripts. So I can play my old audio interviews, and it will transcribe them for me.
+That's pretty good.
+So, um, so I've been reading some books. Let me show you. Some neuroscience books. There's this book called, um, my Kindle. Let's go to library. Rhythms of the Brain. Rhythms of the Brain.
+And the Brain from Inside Out. And, um, this, they're both made, both of these books are from the same author.
+But he's talking about brain oscillators. And I read, I read the book, um, I'm like learning so much.
+But, like, I already have, the thing is, look, I have a, I have a hypothesis about how the brain works.
+And I've, I'm reading the best brains in the world. And none of them are contradicting my hypothesis. They're just enriching my hypothesis.
+So I think my hypothesis is correct. And the more I read, the richer it gets. Because they're not, there's nothing that I'm reading that's,
+I, I guess I'm repeating myself. There's nothing that I'm reading that's contradicting what I think is true.
+But in one instance, let's see, you know what I'm calling?
+Yeah.
+So, no, so I've had a hypothesis about how the brain works for several years.
+But, so, like, for, for example, like, so I wrote this paper, I mean, I wrote, um, not a paper, but I wrote an article called, um, let's see if I can find it.
+V-R-M-A-I-O.
+So, okay, so I wrote, I wrote an article called Synaptic Unreliability, a foundational concept that's found in deep learning and in computer science.
+It has been undermined by a math proof that shows that MVR, multivesicular release, is widespread in neocortical synapses.
+So the concept of synaptic unreliability, um, that is a foundation for computational neuroscience, spike timing models, and deep neural networks.
+It's fundamentally, um, undermined by MVR, multivesicular release.
+And here's why.
+So what it is, it's like, um, synaptic unreliability, uh, is about the amount of information that is transmitted by spiking neurons.
+And what it suggests is that synapses in a neuron, you see, do you know what a synapse is?
+Mm-hmm.
+A synapse is a connection between two neurons?
+Yeah.
+So this...
+Synapses fire, they're sending information.
+Well, they're, well, they're, they're suggesting that the synapses represent the primary bottleneck limiting the amount of information, of, limiting the faithful transmission of information through cortical circuitry.
+The post-synaptic neuron can be viewed as an input-output element that converts the spike train from many presynaptic neurons into a single output spike train.
+Like, this input-output transformation is the basic computation performed by neurons.
+It's the foundation upon which cortical processing is based.
+You see what I'm saying?
+Like, so, like, if you have a, if you have a whole...
+So a neuron can receive a lot of different inputs, right?
+And it's going to crunch all of those inputs into a single spike, right?
+So people, so imagine you're a neuroscientist, right?
+You say, well, how do we, how do we, let's say, a neuron, if you're trying to say, okay, a neuron's like a computer, but we take, and it takes all this information, it takes, it takes, like, let's say you have, let's say all the different connections.
+Let's say a neuron is like a tree, okay?
+And the top of it is like a single spike.
+It's like a, the trunk of a tree.
+But down you have these roots, right?
+All these roots.
+And what they're saying is, like, the roots are like a keyboard.
+Any of the keys on the keyboard could be pressed.
+But all the keys, all the text that you type into it adds up to a single spike.
+So that means you've had just, like, this incredible loss of meaning, right?
+You could have written Shakespeare's poem down here, but when it spikes, it's been reduced to a single word, right?
+Do you see the problem there?
+It's like, well, how, well, how, how, how is the computation in the brain possible if you're taking all this, like, diverse input and you're reducing it into a single spike?
+How is it possible?
+How is it possible?
+The thing is, it's not true.
+This proves that it's not true.
+But what's interesting is they built the whole architecture for neural networks, artificial neural networks, based on this wrong content.
+So the fundamental design of the perceptron is based upon a misunderstanding of the human brain.
+They fundamentally bottleneck to neural networks.
+And I know how, and I, not only did I write an article about this, right?
+But I checked with neuroscientists, and I'm right.
+I'm right.
+This is right.
+Because what happened was, I found out that what you get, if, I found out, I mapped exactly how it works, right?
+So there were some papers, a whole bunch of papers.
+And I looked at these papers, and I put them together, and I painted the picture of how it works.
+And so I think we can design a new artificial neuron that doesn't have the bottleneck here.
+And here's how it will work.
+So you have, so you have, you have, imagine your tree, and it collects all these diverse inputs.
+Now, what happened was, in computational neuroscience, they reduced, they reduced down that single spike.
+Like, because it's not, because spike is like, it's not just a spike.
+It's a frequency rate of spikes.
+So you had, you reduced down the spike, you're like, well, well, okay, well, we could pass along more information if we do, like, you know, you know, five spikes instead of one spike.
+Or 30 spikes versus five spikes.
+Or 100 spikes versus 30 spikes.
+Like, that is a way to transfer information, right?
+By doing more spikes or less spikes.
+Faster spikes or slower spikes.
+Those are other ways to transfer information.
+You can push information through the neuron that way.
+And another thing was amplitude.
+Well, you, so they came up with the idea of, okay, well, we're going to store, the neuron is either going to fire or it's not going to fire.
+But what we're going to do is, if it fires, we're going to give it a vector by giving it a number between 0 and 1.
+And so it's like, so it could be like 0.45 or something like that.
+It's like almost to 1.
+And the vector will transmit a sort of amplitude.
+So we're sending more information through into the neural network that way.
+That's what they're doing.
+But then, okay, so it's not just on or off.
+So they got more out of a neural network.
+So the original perceptron was just on or off.
+And like, okay, we'll use a vector representation.
+We'll get more information out of it.
+But you're still only getting frequency information or time domain information.
+And so multi-vesicle release means spatial information.
+So you have temporal information and you're missing spatial information.
+And this is a hypothesis that I had that it means spatial information.
+And in fact, that's true because if you, your neuron has between 0 and, a neuron has, a neuron in the neocortex has between 0 and 3 vesicles.
+Okay.
+And so 0, 1, 2, or 3 vesicles get released.
+And it's, I think it's actually on average is 2.6.
+The average neuron in the neocortex has 2.6 vesicles, right?
+There's no such thing as a 0.6 vesicle.
+It's either a vesicle or not, right?
+But the thing is, okay, so a vesicle contains a whole bunch of neurotransmitters.
+Okay.
+Now, the neurotransmitters, it's like releasing a bunch of chemicals that affect that from one synapse to another synapse.
+Okay.
+So there's chemicals that are being transmitted.
+But the big thing, the big, so the change is like, okay, so in the pre-synapse, we have going down to the branches of the tree.
+If you have a lot of stuff happening, then there's going to, then you're like a lot of, basically, a lot of, a lot of synapses down below are sending up signals.
+And so there's a lot of stuff happening that the dendrite is not throwing away.
+So human beings have super large dendrites that are capable of being very selective about what information they respond to and what information they throw away.
+So a dendrite doesn't have to, you can stimulate a dendrite all day, it doesn't have to respond.
+It can throw away information until it sees the information that it wants to respond to.
+That's, that's why it's like, a dendrite is like a computer.
+Because it only, it's only going to respond to certain information.
+It will, it will throw out stuff that it doesn't respond to.
+It's, you can't just like, a human dendrite.
+It's different for animal dendrites.
+But you just, you can't, you, a human dendrite is selective.
+And the, the weird thing they don't, they don't really explain, they don't really explain very well, is that, so your brain is 100% made out of cells, right?
+And then the cells, the cells are different kinds of, different kinds of cells.
+There's, there's, there's 100,000 different kinds of cells, right?
+The cells are divided into different groups.
+So there's the, there's the blood cells or the blood vessels, there's, you know, the blood vessel walls.
+There's the neurons, there's the glia.
+The glia are, like, kind of like this fatty myelin, laxy stuff that goes around the neurons and helps them to, helps them to, like the oligodendrocytes, helps them to fire faster and supports the, supports, supports the neuron metabolism.
+The neurons are very hungry, they need to eat constantly, otherwise they die.
+And the glia helps the neurons survive.
+And they help the signals to travel faster.
+So, so the, so the glia also, uh, you know, the, the, um, most of the, uh, if you, if you are able to get a, uh, uh, uh, if you're able to look at the anatomy of the brain, most of the gray matter is on the outside of the brain, uh, like the outer shell.
+And that's, that's, that's basically a lot of, of, of neurons.
+And then inside that outer shell, there's mostly white matter tracks that, that are, that are, they're, they're, they're, they're, they're, the white matter is covering neurons.
+neurons. But the white matter
+is not really on the outside. It's mostly about
+covering the neurons and covering the
+connections between neurons.
+And most of the neurons are
+interneurons, which
+have an inhibitory role.
+So most of the brain is inhibiting
+the brain.
+And that means interneurons are neurons
+between neurons that are
+sensory input neurons.
+So that makes sense
+because
+the neurons that are not interneurons
+are neurons that are directly connected to your senses
+like your eyes and your ears
+and your nose and stuff.
+And then you have a somatosensory cortex.
+Your brain basically has
+its brain has been sliced up
+in a lot of different ways.
+But I prefer to slice it up in that
+you have the somatosensory cortex
+you have the visual cortex
+you have the audio cortex. And these are the primary
+sensory cortices, right? These three areas.
+So the somatosensory
+and visual cortex overlap.
+But basically
+somatosensory
+is
+where you're going to have
+touch
+and you're going to have taste
+happen.
+So touch and taste
+is somatosensory.
+Part of that overlaps
+with the visual cortex.
+That's where your eyes are happening.
+And then the audio cortex
+starts in the brain.
+Your ears
+hit your brainstem first
+the oldest part of your brain
+and then it goes up
+into your neocortex.
+And then
+Can you wait a few minutes?
+I have to go with that.
+Yeah, yeah. Let me pause.
+Thank you.
+Thank you.
+Thank you.
+Thank you.

@@ -1,0 +1,201 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0273y Revent Property Companies Convention
+First recorded: 2021-06-04T01:36:31.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/def8ec94-d21e-402e-b072-b3580cb26bcc
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Alright, so my big business idea is like, okay, so do you remember Decentraland, where it was like virtual reality property and you buy like the property, and then they came up with CryptoVoxels. CryptoVoxels was like a copy of Decentraland. It's like basically you buy virtual property.
+Are you talking about a game?
+Are you buying virtual land with crypto? Cryptocurrency?
+Yeah, yeah, there's like a number of Decentraland, there's Earth2, there's one called like VRland, one is called CryptoVoxel.
+Anyway, what you do is you buy a virtual land.
+So there's a main website that takes you to like the land that's at 0-0-0.
+And then you, what you do is you buy a lot that's adjacent to, that's relative to the base land.
+So you have like, there's a lot that's next to 0-0-0 and that's like 0-0-1 or something.
+And right now, on CryptoVoxel, like each piece of land is like worth like an Ethereum or an Ethereum and a half.
+Like it used to be a lot cheaper, but all the land went up in value, like a lot.
+But it's all virtual land, so anybody could start their own sort of virtual land.
+Not that many companies are doing it.
+It's sort of like, you know, like anybody can start like a CryptoCoin, but there's only like a few companies that are like, like really well known.
+Like Bitcoin is really well known, Ethereum is really well known, Litecoin is really well known.
+There's like a handful of like, Shiba is really well known, Bitcoin Cash.
+And then there's lots of like, there's lots of, you know, Dogecoin is like a handful of.
+There's no WebAR virtual property, right?
+There's no augmented reality virtual property thing.
+So I was thinking of making an augmented reality virtual property thing, right?
+Where you see like a little, there's like a little house.
+It's like a, it's like a WebAR cafe, actually.
+It starts out with WebAR cafe.
+And so I got the domain WebAR.cafe.
+You start off and it looks like the, you've seen this like, do you remember how mom was really into the, like those collectible dolls from McDonald's?
+Yeah.
+Do you remember what those were called?
+They're like little animal dolls.
+I know what they are.
+They're collectibles.
+So there's this, um, I went to the, I walked past the toy store and there was like these little, uh, you could buy like a, it looked like a Lego set.
+And it was like this little, um, shop from Japan or something that was in, it was in, uh, something that was like Legos, but smaller.
+It was like a copy of Legos.
+And, um, but anyway, they're like, there was like a bunch of like little shops.
+And, uh, I was like, okay, that's, that looks cool.
+And then like the class I'm taking was just, which is 3JS Journey.
+They like teach you to use Splendor to make like basic, like really cool graphics.
+Let me show you the, um, so what, are we going anywhere?
+Or are you just driving me for, for, to my humans?
+All right.
+Uh, so, okay, so you see how there's this like 3JS Journey has like this.
+You see these graphics?
+Yeah.
+All right.
+So the point is that I make like, um, uh, a WebAR cafe.
+And the WebAR cafe teaches people how to build stuff in WebAR.
+But it's, it's built in WebAR.
+And it's like, okay, so it is a, it is a community resource for people who want to build stuff in WebAR.
+But it's also like, you can, it's also like, it's got built in like a Decentraland type of thing.
+Where, um, Decentraland is where you can sell property.
+Virtual, virtual land space.
+So you have the main website, which is like WebAR Cafe.
+And someone can build their own, it's like, um, it teaches people how to build like a virtual reality property.
+Like 3D property and stuff.
+And so, but it has a homeowners association.
+So there's a homeowners association, which is, um, managed by a smart, smart contract.
+So if you're one of the homeowners in this virtual, uh, thing that you get a voting,
+then you get voting power for a new homeowners.
+So they have to apply to be a homeowner.
+But they can, but they can purchase virtual property.
+And then they have to have their house approved by the homeownership or something.
+Right?
+Before it can be accepted.
+So what happens is you have the virtual property.
+And then, uh, adjacent to that is you have some other people's virtual property.
+It would be, would be nearby.
+And it's, it's kind of like, you know, like, well, how does, it's like, well, you know, Jeff Bezos and Mark Zuckerberg could have houses next to each other in virtual reality.
+And they could have a neighborhood.
+And so other people would want to have houses next to Jeff Bezos' house.
+And they'd want to have houses next to Mark Zuckerberg's house.
+But the closer you get, the more expensive that property is.
+Right?
+And it's just like, it's like a virtual association.
+Like, you're only close to them virtually.
+But that's the thing is like, yeah, so the, that you have your property value is, is sort of like established by your proximity to other people.
+Proximity to who you, who you want to be in proximity to.
+Right?
+And so there's this homeowners association type of thing, where it's like, you're buying a virtual property, but it has value because it's close to someone that you want to be close to.
+Or it's close to some company.
+Or some company that wants to be close to your brand.
+Right?
+So like, if you're a magazine, if you're Silicon Valley Global News, then you're going to want to have, then, then, there's a company, like, that wants to be associated with, with, if you're like, if you're doing cool stuff, if you're like a magazine, then you have a company like Unity that says, okay, hey, wait a second.
+And we're all about games.
+And so we want to be close to all the magazines.
+And so we'll have, like, we'll pay ads on, on VentureBeat and all these different magazines so we can have an association.
+And so that's the idea, is that these, instead of companies, that companies will buy ads in a magazine because they're sponsoring the magazine.
+One, the same way, if a magazine has virtual property, then companies can buy, instead of ads, it's like they're buying floor space.
+So if you have a convention, if I have the San Francisco Virtual Reality Convention, then companies can buy floor space.
+And that is like buying virtual property in Decentraland.
+But instead of it being in VR, it's in AR.
+And it's in Web AR.
+So they're buying virtual reality property in augmented reality, right, with cryptocurrency.
+And so they're leasing.
+It could be that they're, in the case of a convention, they're leasing it because it's for the duration of the convention.
+But then the convention itself could have, like, virtual booths.
+So there's, like, lots of different 3D booths that these companies can purchase at different, different, like, there's, because, like, at a regular convention, companies want to purchase the biggest booth.
+And that is going to be, like, an $80,000 booth, right?
+But then there's companies that want to purchase a cheap booth, and that's, like, a $1,000 booth, right?
+So when you have virtual convention, and you have, like, basically, you want to have, you have conventions that, okay, we're going to do, like, we're going to have, like, a regular convention, a show floor convention.
+So we want to have a website, and the website is, like, the virtual representation of the physical convention.
+And all the conventions moved online because of the pandemic, but now they're starting to, we're starting to have conventions that are both online and in the real world.
+And so I think that will be the future is you want to have, as companies will want to have, like, so the thing is I can do all this, right?
+And this is what I think is, like, a winning idea, is to basically be able to create, like, a Web AR Cafe and begin to get involved in the business of selling virtual land, right?
+Selling virtual land in the context of different businesses.
+And basically, in the virtual land, it's basically, like, it's two things.
+One is you're creating cryptocurrency, right?
+You're, like, printing money, in a way.
+But you're selling, but you're creating crypto art because it's creating NFTs.
+So, like, the NFTs are the art that is being purchased by the virtual land.
+Or the virtual property is an NFT, in a sense.
+It's a virtual asset.
+Selling virtual assets, selling NFTs, and selling virtual land.
+All three things.
+And selling, but not only that, but also selling the cloud, the cloud business, which is where the store is, like, the online storage, where this virtual property is stored.
+Because there's value in it for these people who want to be associated with other people in augmented reality.
+Yeah.
+Yeah, I'm going to do it.
+Because I need a lot of money.
+Do I need investors, really?
+I mean, it's really dangerously close to the cars.
+Why don't you head back?
+Do you still know where you are?
+You didn't happen to head towards Austin by accident, did you?
+Because if you're going to drive around for three hours and we don't go to Austin, that kind of makes me angry.
+I don't want to drive around for two hours if we're not going to Austin.
+I'm driving around for two hours.
+Okay.
+What's he saying?
+I would like to go to Austin.
+Let me figure out where I am.
+On trips without telling me, because I may have to go to the bathroom or something.
+You're distracting me again.
+Stop doing that.
+22503 Bonita.
+So just keep going straight.
+And you're going to make a right on the 410.
+Oh, we're about to pass the ATB.
+Okay.
+Yep.
+Right up ahead.
+On the left.
+Should be an ATB on the left up ahead.
+Keep an eye out for it.
+I think we passed it.
+Maybe it was the warehouse.
+But any case, there's a Whataburger up ahead on the right.
+Yep.
+On the right before the freeway.
+There's also McDonald's.
+You're going to go.
+There's McDonald's.
+On the right also.
+So.
+Before the freeway or on the right?
+Before the freeway.
+But you want to be on the right.
+So you'd rather go to McDonald's than Whataburger?
+You know what the food tastes like.
+Whataburger's not always the same.
+If you go to McDonald's, I've been thinking about getting something.
+They don't serve breakfast past 1030 though, huh?
+They stopped that in May.
+So it looks like there's an ATB right there.
+Interesting to get all this rain, huh?
+Huh?
+Interesting to get all this rain, huh?
+What are you doing puppies?
+Cece has her head on the door.
+As if the door was a pillow.
+There's Whataburger up there.
+See that?
+There's new Whataburger.
+And then McDonald's is after Whataburger.
+Yeah, I think you're in the hotel.
+Looks like there's a long line from McDonald's.
+You want to wait in that long line?
+I said, yes you do.
+You're looking to see if they're going to McDonald's?
+The promised land.
+McDonald's.
+Land of milk and honey.
+Is this your zip code again?
+$2.59.
+It looks like Uber Eats is still delivering breakfast at this hour.
+Do we check to see if they're doing breakfast?
+Maybe they aren't.
+Or I can just make some eggs when I get back.
+The spicy crispy chicken sandwich seems like it would be good to try.
+What are you thinking about getting?
+Lay a fish?
+Quarter pounder.
+Oh, they're parking lot too.
+Okay.
+That's interesting.
+Bye.

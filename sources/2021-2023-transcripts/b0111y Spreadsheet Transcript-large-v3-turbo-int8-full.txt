@@ -1,0 +1,20 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0111y Spreadsheet Transcript
+First recorded: 2021-10-20T22:35:31.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/b42e5e8b-8749-48a6-a981-5a549463cf77
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So another idea with the chapters is that as I am transcribing the Neural Lace podcast, what I can do is watch the transcription but also follow along with a spreadsheet and pause the transcription when there's something that I want to fix in the text,
+but then basically fix it in the spreadsheet where the number on the spreadsheet matches the time in the transcript.
+So that way I can transport the edits in the spreadsheet back to the time in which they were made in the transcript, and that sort of would help me fix the transcript faster.
+The other thing is I could just, of course, write the time down, the time of the edit down.
+It's just the same, I guess I would achieve the same goal.
+I guess I thought, well maybe, the spreadsheet's numbered, so maybe I would use that.
+But that's interesting, the idea of using the rows as seconds, because then pretty much you're off the first page in 10 seconds, or no, is it like 30 rows per page?
+Then basically in 30 seconds you're not on the front page anymore.
+So it's like, that's like a lot of scrolling.
+So I'm like, okay, well, what if we did something like where a number could represent, you know, like a minute?
+So you're like, you have, like you use one different row per minute.
+But in retrospect, yeah, just writing down the time of the edit.
+Just be like, oh, I'm going to make an edit, write down the time, and type the edit out, and then, you know, press return to start a new line in a document, and that seems like it might be faster for editing the Neuralaf Podcast transcripts.

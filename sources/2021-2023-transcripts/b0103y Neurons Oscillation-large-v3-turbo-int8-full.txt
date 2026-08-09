@@ -1,0 +1,568 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0103y Neurons Oscillation
+First recorded: 2021-10-22T07:51:38.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/11465b96-dc7f-4a5b-89dd-2fe0f91617fe
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Einstein condensation is an oscillation when a bunch of atoms, an oscillator, sink and sink.
+So the idea that the probability cloud of an atom is a little bit like an oscillator in the sense that the Bose-Einstein condensate is like if you have many atoms and they're all,
+oscillating as one.
+I'm just like, so what I just started to imagine was like, well, what if, what if, what if a particle was like many microparticles, right?
+Like, what if it was like, in a sense, like a matrix of particles all sort of like oscillating together,
+but oscillating together in a way that would cause the, um, like one part of, one part of that oscillator to light up at a time?
+And you say, well, that's like the, that's, that's where the particle is, but, but it really seems like it's,
+the particle's location is all over the place because that is just like one possible phase state for that space.
+So represent, so like the one, the location where it's at in one moment is kind of like, that's like, that's like the neuron that fired.
+And the, um, the rest of the space is like, uh, the part that listened or the part that was inhibited in a sense.
+And so it seems to be moving around, it seems like the particle's moving around, but maybe it's not really moving so much as there is basically this, um,
+like what if it like represents this compression of space that is actually made out of, um, yeah, what if it's like a fractal space?
+Like, like what if, like what if the particle of a phase field has its own phase field, right?
+And so the reason its behavior is so mysterious is because its micro phase field inside the phase field is basically, um,
+repeating the same patterns as the larger phase field on a smaller, smaller scale.
+So, uh, so, um, yeah, like, like, like, like, like, like, like, like, like, like, imagine that you are, you are rolling around, like, it's like, it's like, it's like when energy is spiking, right?
+Then, then everything is in disarray and then if you roll around that disarray, like, let's say you have, like, a ball, like, a sphere
+and you roll it around and it's this, you move it around real fast, right?
+So it's like the liquid inside is spinning around, you have a sphere and you've got liquid inside and it's spinning around.
+And if you, um, when you slow down the shaking, the, the liquid inside is going to, uh, gradually slow down from, like, moving around really crazy.
+It's going to start, it's going to start, it's going to be, you know, waving back and forth for a while, but eventually it will become very still as long as you don't, don't move.
+Um, and so that's what I think of in terms of, like, what is kind of, like, why, you know, oscillatory states, like, a move, uh, I'm sorry, why oscillatory, why, why neuron, why, why neurons eventually move towards being an oscillatory state.
+Where they're, it's, it's because, as a reaction to the action potential, it's like the action potential is, is, uh, a drop in the, in the ocean and the rest of the neurons are, um, absorbing and redistributing that wave everywhere until it runs out of energy, sort of.
+So they're, like, they're bouncing that wave all around until it runs out of energy, basically.
+Um, and that's, like, it's, well, it's not that it runs out of energy, it's that, um, uh, the, the network, uh, reaches a new equilibrium, right?
+Which is, like, um, it represents the, maybe it represents the acquisition of that energy, I guess.
+It's, it's, like, it's, like, now we went up, like, one point of voltage or something, uh, and so there's this tiny modification to, to the, um, to the, um, to the oscillation, uh, phase frequency.
+See, and then that, so that oscillation's collective phase frequency, um, is, uh, you know, that is, like, that's a, that's a brainwave, right?
+The phase frequency emerging from net, from, uh, cortical columns and oscillators, groups of neurons, um, those are, um, those are brainwaves, right?
+And they don't, and, um, and they're reflective of the collection action of, the collective action of neurons that are oscillating together.
+So, um, so, I'm arguing that those brainwaves are containing, um, basically, it's the, uh, the oscillation phase changes, um, are containing the, sort of, like, those are the screens, those are the 4K screens that are being presented to your thalamus.
+That, and collectively, um, they're, um, and they're being presented to the, um, to the default network, right?
+Which just connects the, the default, you know, the major connections, the major connective areas, uh, between the different, uh, parts of the neocortex are acting like a fractal, uh, screen for your, um, for your, uh, thalamus.
+Right, and for your, um, but in, in any case, it's just, though, it's, it's, it's, your whole brain is a screen, right?
+I mean, your whole, the whole brain is, but what I'm saying is, like, um, the center of your focus, like, like, imagine your focus has three different levels, right?
+So, the, so, the center of your focus would be, um, you know, like, where the brain's major connections are.
+So, I was thinking, like, the, the thalonic, the thalonic bridges, um, are major connections between brain areas.
+Um, so that would make sense if, you know, that is, like, a, a, a convergence point where that, that's where you would get your, um, basically, that would be the center of your focus, theoretically, where information is seen from the largest scale.
+Um, at the, at the, at the top of the hierarchy, and, in, in a sense, you know, there's, like, um, you know, the, the signals come in from your senses to the nuclei on the, uh, thalamus.
+And then they go, um, from the thalamus to the, to, to, to the re-, the neocortex, and there's these narrow paths that go throughout the neocortex, where the information goes to the occipital lobes, uh, from your, from your, from information from your eyes goes to the, um, along the optic nerve to the lateral gen, uh, gen talonucleus, and, um, the, that is a collection of nuclei.
+Um, uh, and they, uh, then that's routed to your occipital lobes, and that goes, connects to, that splits off into, um, the, the parietal lobes above, and the, and, uh, signals, um, are, you know, have a path that go towards the temporal lobes below, uh, below, and, um, and, in general, like, everything connects to everything, uh, in the brain.
+And, um, you know, in a, um, you know, in a sort of, like, random graph away, so that there, there's, um, mathematical proof that the distance between any two points in the brain isn't that great, isn't that, uh, far away.
+There's very few hops between any, any two distances in the brain.
+Um, and, um, yeah, so, um, but the idea is that, uh, I'm positive.
+Um, but I'm just, like, imagining, like, um, if you had, um, if you had, like, sand, right, like, like, um, I'm just saying, like, I'm just, like, imagining, like, sand, it's, like, or, I mean, if you imagine, like, water, right, yeah, well, actually, water is the, probably the best analogy.
+It's, it's, it's going to sort of, like, settle.
+It's going to look for an equilibrium.
+The signal's going to spread out, right, that's what happens with water.
+But we're thinking more like, okay, so, we've got three different oscillators, and they have three random initial voltages.
+And, um, they each, um, you know, collect a little bit of voltage each round.
+Um, and they get moved up, um, and then, so, they each, uh, reach a threshold, and they fire, and when they fire, they kick the other two.
+Which means, in addition to the voltage they're getting each round, they get an additional amount of voltage.
+And the idea is that, um, this keeps happening over and over again, where, where, you know, one neuron will fire, and it will kick the other two.
+And eventually, they get to the point where all three of them, um, fire at the same time.
+So, eventually, all the oscillators end up firing in sync, because, um, eventually, they're, um, what they're distributing, um, is, like, reaches equilibrium.
+It's, like, they, they each, they're each, see, it's the, it's, like, the richest one is, is, um, gonna give to the other two.
+And then, when the next person becomes the richest one, they're gonna give to the other two.
+And when the next person becomes the richest one, they're gonna give to the other two.
+And eventually, you know, if they're just constantly giving to each other, um, then eventually, they all have the same amount.
+Right?
+If they're giving, like, if they're each giving, like, one each turn to the other two, every time they fire, eventually, they all have the same amount.
+If this just happens a long enough, for a long enough time.
+And in that sense, like, um, you can send signals to an oscillator, but anything you send it, like, what happens eventually, if you stop sending signals to an oscillator, is that they all eventually oscillate together.
+Right?
+And it just becomes, like, uh, an array, a sensor array.
+Like, the, um, the entire, uh, oscillate, oscillating group of neurons becomes, like, a sensor array that, um, can remember, uh, its own activations.
+Because that, um, sort of, like, uh, creates, it creates cascading reactions.
+Right?
+Right?
+And, and, um, the cascading reactions, uh, that happen are the memories of that, of that, uh, they're human memories.
+Those are human memories.
+So the cascading reactions are the activation of, that's the activation, sorry, that's the activation of memories.
+The formation of, uh, uh, that's the rendering.
+So that pattern is the point of rendering that is what, what I'm actually seeing in my head when I look at something outside of me, like, a wall.
+But, um, but at the same time, that entire oscillation, right, um, that is, um, something that is observed at an even higher level.
+So, right, it's, um, patent, what I'm saying is, like, there, there are other oscillators who can interpret the output of that, of that one oscillator.
+Like, that's, that's, so that's when we're going from, like, you know, to the pyramid cell that now collects to the interneuron that connects to another cortical column.
+All right, so the idea is that the, the output of one oscillator, so the oscillator magnifies the, the pattern that, um, and if you look at this book called Sync, in chapter two, it's really great.
+Let me share something.
+Each oscillator is distributing its extra energy each time.
+It's, like, dissipating, each one is dissipating the energy, and the collective work of all the dissipating energy is going to even out the, the amount of energy that each has.
+The entire system is going to even out the energy, so that's why oscillation happens.
+Equilibrium happens.
+Okay, so what I just imagined was the, um, that basically the, the neuron, the neuron is, yeah, so, um,
+so, um, so oscillators synchronize because they're basically dissipating, um, energy.
+They're taking, um, uh, a lot of energy that one of them receives, um, and each one is, like, saying,
+okay, well, I need to dissipate this energy because a charge has built up.
+So, um, and the amount of, of energy that's being dissipated, uh, is the signal pattern.
+So, the signal pattern, um, is, uh, at the very least it's with neurotransmitters, like, at the root of it.
+Neurotransmitters can do, that, can do, like, uh, they can, there's four, there's four possible signals, and, and I call those, uh, signal zero, which is an inhibited neuron.
+It sends nothing. Uh, signal one is a tonically firing neuron.
+Signal two is, and that would be, that would be transmitted with release of one, uh, vesicle sac.
+It might have, it might have 2,000 neurotransmitters in it.
+Um, and, um, the signal two is when the, um, that's a, that's a, aphasic burst, so it's not a tonic.
+So, neurons fire tonically all the time, but when they fire, because, um, they've received, they've recognized a pattern, a pattern, which means that, um, the pattern is, is stored in, in the, in the walls of their synaptic branches.
+Like, there's synaptic, there's synaptic, synaptic connections.
+The, the synaptic connections that a neuron has is constantly, are constantly changing.
+Um, and that's the, the pattern that that neuron is ready to receive.
+It's going to reject patterns that, that, that it's not looking for because, that it's, because, um, because it just won't see patterns that it's not looking for.
+Because those won't, um, go to its, its, its, its active synaptic connections.
+Like, it's only going to receive patterns from its, um, synaptic, from its active synaptic connections.
+So, inhibited connections, it's not going to receive a pattern to an inhibited synapse.
+And, um, and what happens is, um, if it gets three times the, um, uh, if it gets three microvesicle sacs, it's like 6,000, uh, neurotransmitters.
+That's going to activate a lot more of its potassium channels simultaneously.
+And that will inhibit the cell, uh, because, uh, that will inhibit the cell, um, and, uh, so one action potential will inhibit its neighbors, uh, its neighboring cells.
+And so, those cells, like, you know, if they, um, it's, it's, it's, but it's, but it's not necessarily the same, it's going to inhibit a selection of its neighbors.
+And, um, but it, it matters a lot in terms of, like, not necessarily all of them, uh, because some of them might be, um, uh, some of them actually might not.
+Like, it might, so the thing is, like, it might, it, that is one possibility, but it's also, it's also possible that the way that they're connected to another cell could instead excite another cell.
+Um, so, instead of, like, maybe they have only one synaptic connection to another cell, and there's no potassium, uh, it's just, there's just a lot of sodium receptors in that synapse.
+So, in that sense, if, if, if it's a, if it's a, if it's a sodium receptor, uh, synapse, um, then if you sent, um, a, you know, a huge, uh, you know, number three, three multivesicle, three vesicles released, then that cell is going to get excited faster.
+But it also matters, it also matters a lot whether that pattern is something that speaks to that cell or not.
+Because if that cell is not looking for a pattern that involves, um, what I'm saying is, like, what pattern speaks to that cell?
+Is, is that cell is only going to fire, um, if, um, if it gets enough, if it gets enough charge.
+And the charge has to come from all of its synapses, all of its synaptic connections, right?
+Uh, or, I'm sorry, not, it doesn't have to come from all of them, but it has to come from enough of them.
+So, if enough of them are receiving, if enough of the sodium receptors are, are active, and the sodium is, is filling up faster than potassium is, is leaving.
+So, like, if there's a one, if there's a one, or if the, or if the receptors that are, that are receiving are just, like, sodium receptors, right?
+On the, in that synapse.
+And, um, and so if it's, it could be, like, a three, a three vesicle release.
+And, um, that just, like, I, I don't know that, it's not, it's not so relevant, it's not so relevant, um, I mean, yeah, it actually would be, it'd be relevant.
+Yeah, because, uh, the rush of sodium opening would cause, would cause the action potential to start faster, and, um, and the rush of potassium opening would, would either inhibit the cell, or it would cause the cell to shorten the action potential, right?
+And if you have, if you have, if the, if the frequency of, of the action potential is shorter, then, uh, the amplitude of its radius is going to be larger.
+Because there's a, there's a, there's an inverse relationship.
+So if the, if the, um, if the frequency is smaller, the amplitude is larger.
+If the amplitude is smaller, the frequency is longer, or larger.
+Yeah, so that would be, like, a longer frequency.
+Or a larger frequency.
+I'm not sure how to, how to, um, it's a higher, it's a higher frequency, I think.
+Yeah, higher frequency.
+Yeah, so we're talking, like, hertz.
+So, if, if we're sending out, um, so there are high, so the gamma, gamma ray bursts, you know, the frequencies of gamma ray, of gamma, of, sorry, the gamma frequency of brain waves.
+You know, because the brain can oscillate between, like, 0.02 hertz and 600 hertz.
+And the high gamma bursts, the phasic bursts, those are high frequency bursts.
+So, tonic oscillations are low frequency bursts.
+And the idea is that, um, to understand the oscillation, um, the oscillations tend to, like, get divided into power bands that are, um, they maintain a, a distance between themselves of, like, 2.17.
+And, um, and it can differ a little bit between different animal species, how, exactly what, what, um, you know, what defines each, each power band, in terms of which frequencies belong, you know, it typically stays between.
+Um, and, um, and, like, theta for rabbits is different than theta for humans, right?
+Um, but, I, but there's still, like, these power bands.
+These power bands are, like, the horizontal, um, I mean, these are, like, the, these, these power bands are, like, I, you know, I think that they're probably, like, the, the, um, the result of, of your cortical cause.
+Uh, like, the alpha in, you know, synchronizing patterns, um, maybe, uh, across layers.
+So, the lowest layers, I think, would be, um, I, I think they might be, um, the lowest, the lower layers might be, like, alpha band, or just, like, alpha band beta, higher frequency.
+Um, maybe even, like, um, maybe even, like, you know, higher frequency, it would be gamma.
+Um, that's what, I, I imagine that you're going to have a little bit more of that.
+I have to check.
+Um, and then, uh, the, um, the, uh, towards the, you know, the, um, the top, the, at the pyramidal cell level.
+Um, actually, when you get into, you know, I would expect to have more delta up there, um, because, I, because, well, when you get into, because the, when you get to the thalamic, uh, bridges, you know, the, the thalamus is, like, this, this, um, delta firing circuit.
+Right, right, it is, um, go on, it's, it's sort of, like, um, you want to be in the same frequency range for, um, data, data, data, um, comparability, I, I think.
+Like, like, like, and I think you need, I think, um, if, if one oscillator is going to be able to receive and interpret the signals of another oscillator, I think you want some sort of, like, frequency matching in terms of the rate of information for it, just for, so that, um, there's an apples, there's a way to compare apples to apples.
+Right, so, if you look at, like, basically the, the book, I mean, sorry, if you look at Neuropipe, you know, the idea is, well, how can we relate different sets of unstructured data, like heart data?
+And EEG data, and you kind of need to, um, you know, figure out how to create, like, create a relatable time series, right?
+How to relate the time series of, of, of heart activity and, and, and the signals you're getting at each, at each interval exactly to brainwave activity by, by a time interval.
+And so, if you have a way to compare, like, you know, I got this, this heart, this, basically this heartbeat at the one minute mark, and this brainwave at the one minute mark, and then I got another, like, you know, super big heartbeat phenomena happening at the, at the, at the one minute, 50 second mark, and at that exact time, there was another, like, really strange, curious brainwave.
+And, and I'm, I'm, I'm, like, wondering if there's a correlation between this brainwave and this, this, like, surprising, what was happening at the time, you know, was there, there was a surprise.
+Somebody, somebody, it was, it was their, it was, like, a happy birthday surprise.
+A bunch of people came out and, and said, surprise, and, and there was, and there was a birthday party, and, and then that's why, and, and the, and right when they said surprise, that was the one minute mark.
+And then, and then, and then someone in particular came out at the one minute and 50 second mark that just was, it was shocking to see them because that person had been dead for three years, and now they were back.
+Okay, man, I'm just joking.
+Just trying to create a funny surprise, but, um, no, I, I've had dreams where I'm, like, I realize I've, I'm talking to someone that had passed.
+on and uh but i don't realize it right away it's like it's it's like my mind is trying to allow me
+to enjoy their presence without the horror of of their presence right it's like my mind is like
+okay forget the part where they died and just like you're just like talking to someone all of a sudden
+you realize you're talking to someone who died like three years ago in a dream that's like that
+is that's i i i appreciate those dreams because it reminds me of people that i've lost
+but they're uh they are something you know i i'm like i'm like i hope that like that would be amazing
+if like you know someday i get to get to have a really great dmt experience and and i meet people
+who who passed on right that would be a wonderful that could that could be a wonderful and perhaps
+even like frightening a little bit frightening uh dmt our ayahuasca experience i would that'd be
+amazing yeah to meet people who passed on and sort of a trip um psychedelic trip so basically you know
+fireflies um are as oscillators they are sending each other a book like a bolt of energy basically
+they're they're um like you don't think of it i actually is is sending energy but if you like if
+you like blink a light at a light receptor you're sending um something that is is is um
+you're dissipating you're it's almost like you're dissipating information
+if that makes sense you're dissipating information um and so if one fireflies um pattern stops working
+like um either like they're that firefly becomes inhibited then maybe like that it has been eaten
+by like a frog or something and the whole um oscillate oscillation is disturbed and it's like
+it's i mean maybe that means it flies away really fast like if there's a swarm and they're just hanging
+out all of a sudden like one of them disappears they're all going to notice it because they were
+all expecting to receive uh a signal at exactly the same time and they and they didn't so it's like
+whoa something is different the entire oscillation notices the pattern and then um
+yeah because that that that creates a disturbance in the force basically and then at the same time
+we have this situation where um maybe one of them finds food but now they all know it because that
+one uh that one it burst faster and that that it burst out of sync and um that caught that's going to
+cause this it now has to dissipate that extra energy into the oscillator so it has extra energy so
+that's going to give away some of those energy by beaming beaming it out and that triggers the other
+um the other bugs to receive that signal and that causes them to release their energy
+and this and this point this is the functional expression of energy it's like each one is releasing
+its energy as light and what's in the signal that's being received um it's weird to say that
+that's energy but i guess it kind of is it's like receiving a really little amount of energy that's
+increasing its its voltage or something or exciting it a little bit more um but even if it's like it's
+a really subtle amount of energy maybe what it's triggering is just just enough to trigger neural
+activity right uh it's tracking a change basically so it turns energy into receiving receiving the energy
+of the photon in a sense is like it's being it's being um converted into information um which
+is like it's like um it's like um the information is encoding the pattern of energy release
+right so it's not necessarily like it's i'm like i'm trying to say well maybe this isn't like an
+energy transfer but um but the inner but there is like energy that is being spent
+both for the transmission and for receiving for like in receiving uh a signal some some some
+energy is being like spent um because the signal is there's a collision and then that is causing
+something to move uh which generates um a signal that that starts traveling through starts traveling
+through the network it sets off a cascading signal right and if there's some if there's a neuron that
+is specifically like receptive synaptically to that incoming signal pattern then that's going to fire
+and so now you have pattern recognition in terms of synaptic connections right um and
+so the but the synaptic connections will um also lead to a situation where um the action potential is
+going to depolarize uh other neurons causing them to fall silent it's going to have like um
+um an effective range right like um it's like uh it's recept it's going to have a receptive range
+so an effective range is like the inverse of a receptive range right so the neuron's dendrite is
+its receptive field what it's paying attention to and the neuron's exit terminal is its um effective
+range in terms of who it's speaking to um and of course you know of course signals can travel in
+reverse across across the uh the gap and i'm not exactly sure yet what happens when that happens but
+neurons that fire together oscillate together so each each oscillator is going to add a geometric effect
+this is from chapter two of sync so a large bundle of neurons oscillating is going to have like a
+like a geometric pattern of enormous complexity that's going to represent its um its collective
+observation power perhaps a resolution the larger the oscillator the more complex its uh its geometric
+patterns could be potentially as interesting i mean i think of that as like um like a fort like a
+4k screen versus an 8k screen like if you have a larger oscillation than happening then that is going to
+have a lot more complexity to it and so like when i think of the global oscillation um of the brain
+you know like basically like thanks to the interneurons and the thalamic bridges and the corpus
+collosum and the other major connective areas the temporal parietal function and so on that there are
+um you know warnix area and brokis area there there are basically the default mode network
+the rich clubs because of the global because of the the the way the brain is connected globally
+you know at the pyramidal cells in the sixth layer like then um you know i think of it as the global
+so um in the book he's saying like basically like the transformation of you know sending um
+uh a spike from one neuron to other neurons um that it's it's or sending you know basically having one
+oscillator not the other two oscillators and the example of three oscillators like you know each
+oscillator like fills up with electricity and then fires and it distributes its energy to the other to
+the other um and uh to the other two and then eventually like they all they all um like it's like
+imagine that he's like imagine there's um a point of energy that's moving from one oscillator to another
+and um you know eventually they all uh end up um firing at exactly the same time but what happens is when
+two of them fire at the same time they become in sync with each other and um so you know at some point
+but they all but they all become in sync at the same time like you have like all three of them will
+like so like so a is always firing at zero but um in the into b and c are always firing at like
+you know between zero and one right but eventually you know b and c uh will both fire at zero at the
+same time as a um and from then onwards they will always all three of them always fire at zero right
+because they've sort of like they've reached a sort of like equilibrium right where the dot is now sort
+of like evenly this this um distributed to all three of them he was saying that like sort of like the
+way i interpret like the reason there's no bad points is like if you have a point that's never
+absorbed it's um even if that point moves around as long as it's never absorbed anywhere because it's a
+bad point it's as if that point doesn't exist it's as if it's part of the architecture that the other
+points are moving around um and that's why the system will still reach oscillation it's why bad
+points don't actually have any area because they'll just um they don't interfere and that is sort of
+like this interesting because it's sort of like that idea could apply to building a robust network
+like if you have if one of the network stations is inhibited there's like this automatic um switch
+over to another network because it's um it's it's like there is um there's multiple different nodes
+and it's going to automatically like skip over um the bad point in the situation like like the the
+network is set up so that if one of them goes down uh the signal is automatically routed to
+the one that's up so it's like checking for whether the network is up before passing the signal
+positive at each at each point when the point moves it it's a little bit more a little bit of it is
+absorbed so like the point the point eventually gets to zero because it's been completely absorbed
+by the by the whole oscillator so it eventually reaches its its low number when it's basically
+its energy has been divided evenly among all the oscillators and that's sort of the point in which
+they've all sort of like eaten right they've all received energy right and um now they're just like
+waiting for the next uh sort the next source but yeah they're basically sharing energy um
+like whatever whenever i have extra energy i'm gonna like fire and i'm gonna send it i'm gonna
+spike and then that's gonna send energy onward and so those neurons will be inhibited because they've
+been sort of like fed i mean imagine if your neurons are like a swarm of fish sort of like they're
+all like um opening their mouths their dendritic mouths for for atp but then they start to fill
+up with charge which uh is some sort of like oh it's it maybe it's symbolic of i've been on full and
+i've got that atp and now i need to release some energy so it dissipates some energy to the surrounding
+environment and what it's doing then is passing on energy to another group of neurons but that but
+but it's information is being magnified by that oscillation it's encoding a pattern in the whole
+oscillator because um all the the receiving neurons are receiving you know it's causing what it's
+causing cascades of energy releases in neurons and so there there's a there's a physical tracking
+there's a physical reaction that is cascading throughout the the um oscillator that eventually
+reaches equilibrium but but but but the equilibrium is sort of tilted just a tiny amount right and
+and if you that happens enough times and eventually the equilibrium's phase changes
+right and those phase changes then are are going to be um tracked by the default mode network
+um so it's like taking it's like now you take something uh big and make it small again so you
+basically have the same process you know like you have uh you're going to have um basically dendrites
+and synapses again but now they're they're creating connections between large-scale patterns right so
+that the large-scale patterns can um basically you know repeat in slides like imagine like you're playing
+a movie it has multiple frames and each frame of the movie um is one of the cortical as a pattern in a
+cortical column and you have all these cortical columns so you're capable of of playing a lot
+of different frames of the movie um and so and so the movie is um it's just like uh it's like four
+dimensional uh matrix or tensor right it's it's a it's um uh time space space time and it's it's like a field
+array uh sensor modalities intersecting in this in the different field arrays of your sensor modalities
+uh being related to one another right let's say that your your internal modality uh modality
+interpretations of hearing uh are very like amplified for you maybe you're very like you're very into like
+your acoustic way or a vocal way of processing information like audio books are much easier for
+you than textbooks and um it's like your mind is very efficient in processing uh audio information
+and so um we have this um you know sort of synchronization pattern so with ltd um i'm i'm like
+you know i'm i'm thinking that the inhibitory like like the inhibitory uh process is taking the
+the single the oscillation of the action potential and it's dissipating it um across the network so
+the action potential inhibits many neurons simultaneously and the um this might
+uh trigger uh trigger uh it should trigger uh an eventual oscillation but it triggers the oscillation
+of the of the network in in um in stages because what happens is it's only going to affect like the
+downstream uh field effect of of the neuron actions actions potential is only going to affect a select group of
+of downstream neurons so only a select only select group within the oscillator will be inhibited but that
+that um it magnifies that one neuron's pattern because that group is now sort of like out of oscillation
+for around with the rest of the neural circuit um in terms of like they are
+desynchronized in one sense from the rest of the oscillation so they mat they are magnifying the um
+um there there are they are they are in a way magnifying the action potential but magnifying it
+with with a um with a signature that's in the negative so that is it just places them out of
+step it changes the phase but it changes the phase of a group the group that were so it creates an um
+like the the chance for a negative wave right um a negative wave that decreases the chances that
+like that pushes like the potential pattern of what is activated in another layer uh it narrows
+down and narrows down what gets activated because um because if you look at the the um in the book sync
+they said there's basically there's no um there's no like there could be like terrible spots uh or
+terrible points in in in the network but they would what's going to happen is that their location has no
+normal area because um if they were a terrible point in one in one point then the system just moves
+around them and if they move to another point they're they're not absorbing energy when they're
+inhibited basically so if it's completely inhibited that that's i think that's the argument is that
+is that if if the neuron is completely inhibited uh to the point that it's a terrible point that it's
+not absorbing anything then the signal is just going to
+you and i think the best situation would be like if the actual synapse was inhibited so it just doesn't
+open right um so i'm curious how that would work but i mean like if it's inhibited it's not going to
+fire and um my question before when i was trying to figure out well does that mean that some other neuron
+would get more um more signal or via pressure like with more sodium or something and i realized it
+didn't it doesn't it doesn't make sense um so not a pressure-based uh redistribution of patterns but
+but the um but maybe that increases the likelihood of where let's say that the signals let's say that
+signals are coming in okay signals are coming in um and they have to go somewhere right so you're
+increasing the likelihood um that a another neuron gets gets gets triggered gets so like if if the
+if there's a chance that any neuron in the group could receive a signal that results in it getting
+fired the question is can if you have a whole bunch of neurons uh if they become awesome uh
+basically depressed uh that means they can't fire but does that also mean that another neuron
+next to them that wasn't inhibited has a greater chance of firing right so the question is is the
+energy distributed sort of like everywhere evenly or is um if one neuron is depressed does that mean
+other neurons around the depressed area are more likely to fire right so the depression the question
+is like yeah is the depression increasing the chances that other neurons will fire or is it part of
+um creating like a sparse pattern so that let's say that the neuron that does see that there's a
+neuron that does fire um and there's just a couple of there's a few of them like it's a sparse distributed
+representation and most of the neurons uh don't fire so well okay actually there is an interesting way
+that could be worked out so and the neurons that don't so let's say that yeah so the neurons that don't
+fire constitute a pattern in a sense in terms of like they're not going to be sending a signal onward
+so you let's say that there's the um their effective field is not saying anything longer but let's say
+that the combined effective field in the receptive field of of of more post-synaptic neurons um that
+that you can define a pattern not just by what fires but also by what doesn't fire
+and um so going back to sparse distributed representations if you um are inhibiting a lot
+of stuff from firing then maybe oh yeah so okay so i thought so maybe that's going to make it um more
+likely that the neurons that are firing are going to uh in in the next in that moment when those neurons
+are are inhibited from firing the neurons are firing might be more likely to um to uh form a bond that
+make that an oscillatory bond so in a sense the um the inhibited neurons help define um
+um which uh the likeliness of oscillatory bonds for the neurons that do fire perhaps because there's
+less to because by being inhibited there's they're they're removing themselves from potentially being
+linked from potentially being part of a pattern and by removing themselves from being part of a pattern
+they're there helping to define a pattern and so in that sense the neurons so if a bunch of neurons
+inhibit that one um are inhibited by one neuron then that is a group that is going to help define
+a pattern um not in the not in the the second layer but in the layer beyond the second layer
+so they're helping to well actually no they're helping to define a pattern the inhibited neurons
+aren't let's assume that the inhibited neurons aren't uh let's say that let's say for the sake of an
+example let's say there's a neuron fires in layer one and that causes um a whole bunch of neurons in
+layer two to to not fire right but so only a few neurons in layer two end up firing most of them are not
+firing but the total sparse distributed representation to um to the um the layer that's even above the
+second layer and i don't know in the visual cortex that's v4 they skip the i don't get why they skip v3
+seemingly but they go so v v1 to v2 to v4 and um so in the third layer is v4 and um if v4 is uh
+capturing a pattern let's say that it's like a tv screen and it's about it's about which areas of
+the screen are black in which areas of the screen are lit up right it's a black and light tv screen
+which which areas have light and which areas have bright light okay and so it's the neurons that fire
+physically in high gamma that have bright light and the neurons that fire physically in low gamma have
+uh perhaps um just regular light and um the neurons that fire tonically have just really like
+you know just really boring light it's just like yeah it's really like uninteresting
+uninformative right so but the but then we have these these phasic bursts and these are lighting up but
+they're also defining which areas of the screen are dark and the next layer and so the combined
+information pattern that trans because transferred that defines the next layer the information pattern
+defines the next layer let's say that the pattern is defined by both the spots that light up and the
+spots that don't light up because that ultimately they ultimately somehow um impacts the final
+calculation of of what is going to cause neurons in the next layer to fire in terms of like for that
+for each neuron synapse in the third layer it's going to be activated by the by the coincidences that
+are below it and so it can detect so it becomes like a sparse pattern detector right it's looking for
+really just like um connections between uh two points that it's paying attention to within within a certain
+frequency range right and it's going to have some clarity about whether the pattern is specifically
+those two points if there's a whole bunch of other points that are inhibited so that it's like
+if you reduce if you reduce representation to as few points as many there's there's less there's
+there's a reduced chance that you're going to confuse one kind of pattern with another
+because you have too many points firing at once um yeah and so you need to and so yeah so the idea is
+to reduce the number of points that are firing simultaneously but um but still have the neuron ready to
+basically on the tipping point ready to fire uh because it's like it's constantly moving towards a tonic position
+of firing right and so you just you would just need just the right amount just the right amount of signal to a
+a sparse just a sparse signal you know with most of the signal most of the potential signal coming
+into the neuron inhibited uh and um so just so just a sparse signal is enough to push the neuron over the
+tipping point a sparse signal that is very very very specifically one specific pattern that the neuron
+is able to perceive um that is defined by what fires and what doesn't fire and so if you have um
+yeah like i said there's there's a problem if you have too many things firing the neuron may um
+fire for a different pattern it's not really it's not related to one specific pattern there could be
+multiple patterns that could trigger that neuron to fire if too many if too many um downstream neurons
+are activated so i think it's really essential for your clarity for your sense of clarity for your
+in terms of the you being having a very robust pattern detection to be able to in to be able to have
+you know lots of your neurons inhibited so that that basically defines like a like a short-term memory
+expression which is a which is that helps it helps define a short-term memory expression i think is by
+having um basically ltd so one neuron inhibits a bunch of others it helps define um which sort of
+patterns make it to the synapses of v3 um and so the brain can be very selective in detecting and reacting
+the patterns in fact that's the whole point of the the reconfiguration of synapses uh in terms of like
+what signals they're open to listening to it depends on what connections they have and which of their
+synapses aren't active um and um but but the same thing is is that that's true i think for the
+oscillator being able to learn invariant patterns because i think that
+the membrane of the synapse also has to be able to learn invariant patterns because if you have
+um a synapse that is um sort of inactivated when you get a pattern that's similar to a previously
+learned pattern it is plausible that you that a different synapse could um fire instead it's possible
+a different synapse could fire instead and that you could have a pattern that's similar enough to um
+to cause to to create um maybe in a not to create maybe in and out an analogy to the original pattern
+right so maybe you maybe you have an analogy will trigger things that are sort of um
+they create synaptic patterns that resemble other synaptic patterns it's like that would be like an analogy
+could be like you have a certain uh pattern sequence of firing and inhibitions that appear to some to
+several uh downstream neurons in different ways and that gives basically like all the exoterminal neurons
+are are you can argue well if they're sending the same pattern wouldn't they all develop the same picture
+it's the thing is like the differences between each neuron it's like they're it's like
+on the one hand they are all trying to render the same picture but because their their connections
+are all unique they're all going to be rendering a different perspective on the same picture
+and so that's really useful if you are physically moving around an object that's in space in front
+of you to see it from different sides um if your if your brain is already like in the habit of rendering
+like multiple unique perspectives of an object um because each each um each area is sort of like
+receiving a different a different um they slightly differentiate differentiated data stream it's like
+the data streams disperse right you have the signals come in and they trigger inhibitions and
+the inhibitions help to find um help to clarify you know uh they they help to amplify it's it's it's
+it's sort of like the attention schema right the attention schema what was this thing where
+the brain is able to focus more clearly on the information that's coming in because um
+you know some some areas of the brain also become inhibited now i i have to look at you know whether
+um the neuron is inhibiting neurons in the same i think it's i think it's that the neurons the
+neuron that fires is supposed to inhibit the neurons in its same receptive field right like it's like
+they're all competing for the one who sees the signal first and the one who sees the signal first
+is going to fire inhibit all the others and so there can be focus in that sense like it's it's it's
+the neuron that fires is going to inhibit the receptive field of the rest of neurons or something
+like that so that would imply that that one neuron is defining that one entire stream
+i don't know if that's the case but that sounds like that one neuron's um
+exit terminal feeds back into the same layer right that's that is a little bit mysterious
+but maybe there's like maybe it's a situation where the exit terminals synapses so maybe they're
+synaptic terminals so one maybe one neuron has synaptic outputs to its own layer and the next layer
+and the synaptic outputs to its own layer um might be inhibitory and like basically mostly with potassium
+receptors um and um the uh synapses to layer two might be uh more excited excited for it where it's it's
+could send basically um either well basically it sends it's going to be able to send either excitation
+or inhibition but that the idea here is that the excitation or inhibition would be layer based because
+it wants to inhibit stuff in its own layer but it wants to excite stuff in the next layer
+um so i have to look that up i want to say real quickly the reason i i think of lcd as something
+that's related to inhibition um is that it's the opposite of this opposite in a sense like um because
+ltp is related to excitation in a sense neuron it's the idea that neurons that fire together
+become wired together so fire together again
+um and it is about links between neurons and fired and that's the opposite process would be like um
+links don't fire together and maybe they be and maybe that leads to so links have i mean yeah so this is
+like i mean like the thing is like yeah so um if neurons are inhibited from firing together then then um
+the neurons that were inhibited potentially uh their synchronization with neurons they were
+firing with is is is um potentially erased so they so the inhibition process has a process of taking
+all those inhibited neurons and desynchronizing them from the rest of the group simultaneously
+um so any like synchronizations they had before um are now sort of like temporary at least temporarily
+desynchronized and that that of course um is going to uh that's also going to affect the tonic oscillator
+because the tonic off because because in the tonic oscillation because now you've changed
+now you've changed a small oscillation you've moved a small oscillation out of sync with the global
+oscillation pattern and so the principles of oscillators interaction of the principles of the
+interactions of oscillators it's going to say now wait a second now these two oscillators have to
+resolve each other and to come back in sync with each other and that process is going to eventually
+um if that process happens enough the the global phase state of the global oscillator
+once the two once the two different oscillators are re-emerged is going to be altered and in in
+that sense that is basically like also it's like imagine an oscillator is past is is um is a is a point
+passing between um different nodes and each time it passes to a different node it gets absorbed by a little
+bit until until eventually there's no more energy to pass around because all the neurons are and that's
+and that literally defines like all the all the neurons firing at the same time like if one is firing ahead
+of the others and it has um it has more energy and so it throws and it throws some energy around it
+knocks some other neurons and it's losing energy and every time it does that and those neurons have
+extra energy for a little bit but they throw it around and so eventually the energy is just evenly
+distributed everywhere and they're all firing at the same time but the uh but the fact but the um so
+the action of inhibiting a group of neurons now makes that demand now makes those those neurons uh slower
+in terms of their phase relative to to the global oscillator so the global oscillator now has to combine with
+the group of neurons that are moving slower that is going to uh cause the um the the total
+oscillation to um to decrease um in an amount that is um sort of adjusting sort of like
+balancing out the increase of one of one um so let's just say that you know the action potential fires
+the overall the overall the overall thing is that the action potential excite um
+is adding in new energy to the system and what's happening is inhibition is part of the process of
+the whole system dissipating that energy in a cascade of activity
+and the cascade of activity continues until all the neurons in that group are offset at the same
+in the same rate and um so if neurons if the whole group is oscillating slower then um
+what happens is all the rest of the neurons and then oscillation have more energy to give
+relatively speaking their charge has increased in that to relative to that that that their phase charge
+is increased relative to the phase charge of that inhibited group right so that inhibited group
+is not passing anything on to the next group and so that is like a bunch of neurons whose clocks have been
+slowed so their oscillations have been slowed because they didn't receive something
+and so what you have if you have a bunch of stuff that becomes inhibited all of a sudden
+is you have a bunch of clocks that get slowed and they get slowed in reaction to something that was
+moving faster so it's like aphasic is a faster rate that causes a bunch of neurons to become
+slow but slowed by a tiny amount right and it's sort of shifting the spike into
+um the spike the spike in one area is become is is a really fast increase of one in one neuron but it's
+creating it's it's it's it's creating a high amplitude uh but low frequency uh depression a low frequency
+uh um ltd is long term potentiation and ltd is long term depression it's creating a low frequency depression
+but the whole oscillator is tracking that in terms of the depression uh depression so the global oscillation
+would still like uh increase um um in its time in the timing of its firing uh unless a lot of unless
+yeah yeah i think it would be because the oscillation is just
+dissipating the energy from the activation but there's still like more energy but still like with
+every um when the neuron fires like that is pulling in uh energy but those but those um uh downstream
+neurons are like take a break and so the rest of the system the rest of the system
+is gaining uh energy at a faster rate and so the rest of the system uh now becomes more likely to fire
+next um so there is an impact so when yeah so on balance the um well okay i'm trying to i was
+say the rest of the system has more energy but but it's more like the rest of the system has um
+more of the charge during that interval um or no it's it's that the rest of the system's charge
+grows relative relatively in in not because some something is being passed to them but because um
+their charge is going relatively because it's like they're getting an extra interval of charge
+versus the the the depressed neurons are not getting that they're not getting charged for that interval
+um or they're not passing they're not passing charge along for that interval right so um
+the depressed neurons so that that is um that means that relatively speaking it's it is as if the rest of
+the network is getting more charge and uh so because relatively the rest of the network is getting more
+charge um because it can even if it continues to accept charge at the same rate um it's as if it got charged
+charged it's as if it's as if that that inhibition um
+pattern actually distributed a charge to the rest of the network the charge to the rest of i'm sorry not to
+the rest of the network to the rest of the um oscillator that that might so that might um
+sure the rest of the oscillator could could relative to the relative to the brain
+the rest of the oscillator could be in a situation where its charge its total charge is exactly the same
+or increasing yeah so i'm okay so this is what i need to get clear about
+i'm wondering okay so maybe the ltd doesn't because yeah it's the question is does it does the ltd
+process is it causing the total charge to increase
+or or maybe it's a situation where the total charge is not increasing
+um but the charge concentration is changing so so the charge in certain other patterns
+relative to the patterns that have been inhibited those other patterns are
+uh increasing without increasing the total charge of the oscillators the total charge of the oscillator
+can stay at the same sort of at the same the charge can the the total charge of the oscillator
+may not change at all that seems it seems possible so if one neuron fires inhibits
+it inhibits a larger set of neurons and they cause a charge displacement
+so that the rest of those neurons need to
+will so that so maybe this increases the chances that the uh of a of a cascade of of a temporal cascade
+of firing right so you um so but what is interesting is that you know in experiments with um you know like
+low frequency trains um so so they used high frequency uh to to um high frequency stimulation to evoke
+long-term potentiation right to evoke action potentials which have um that's when you're going to have more spikes
+more high frequency spikes and um it's going to create inhibitions i guess as a reaction to those spikes but
+when you feed the brain a lot of low frequency trains like of electrical simulation like one hertz
+um that that might um inhibit basically inhibit um short-term memories in the sense that
+the low frequency is going to trigger uh higher amplitude low frequency
+um
+uh oscillations because low because low frequency is like it affects a wider area and what low frequency
+signals are going to affect a wider area because they have a higher amplitude
+they're going to and allow neurons to um basically are going to be more likely to join up into a single
+oscillator with low frequencies um and um but going from uh basically
+but yeah so the inhibition
+the inhibition process so so going back to what's the inhibition process that comes as a result of the
+the action potential is going to magnify sort of like matt it's going to in a sense magnify the impact of the action
+potential on the oscillator but it's an in-between step between um the action potential
+which is which is a which is a high phase uh high frequency activity to the oscillation which is a low
+oscillation is going to be a low frequency activity and the in-between step is that a set of neurons
+are inhibited the set of neurons that weren't a set of neurons that were um connect that were connected to
+the firing neuron that were inhibited to the so
+um okay but yeah i mean recent researchers like really um have done
+have been have have studied ltp and ldp as like basically
+you know the high amplitude low frequency ltd signals basically stimulating the brain with like a one hertz
+uh frequency uh frequency um that is going to desynchronize groups of neurons right that is going to um
+not desynchronize it's going to synchronize them but there's okay so but the in-between stage so the action potential
+passes like an ltd signal to a group of neurons right
+an inhibitory signal so they become desynchronized in a sense but their desynchronization as a group
+is a magnification of the action potential uh moment
+that is that's basically the um attention schema
+mechanism right so that is it's clarifying which of the action potential is fired
+because it's obscuring the ones that didn't fire first but then eventually but then so that's like
+at that point that that group of inhibited neurons is not at like they're just slowed down relative to
+the rest of the oscillation but eventually that group um is going to cause the rest of the oscillator to
+pass their phase to pass their phases around so and until um
+you know so basically like the slowed down neurons are going to it's like it's like when you so when
+an oscillator pass passes um a phase around the idea is phase is like a box that gets absorbed a little
+bit uh it gets passed by neurons it gets passed by oscillators that have more to neurons that have
+less and each time each of the neurons that receives something from what is being what's being passed to
+it is going to absorb a little bit of that it's been passed something and then and then if that neuron
+fires it starts passing um what it learned around and eventually um they they all are passed around um
+this the sort of like they're all like the same amount is distributed to all of them so that they're
+all like lined up temporarily temporarily like at the point at which all neurons are lined up so that
+they fire at the same time is the point in which they have distributed um uh that that shrinking uh
+point that point that keeps getting absorbed until that that point which is like the excess energy it
+keeps getting distributed like they fire because they're deep they're depolarizing to get rid of that
+like sort of like energy tension like the the energy tension is like a split between
+positive negative and so they're firing to get rid of their attention that's about the tension that
+like yeah their threshold has peaked and they're firing to get rid of it and they pass it on but
+they don't they only pass on a little bit and so each neuron like reaches its limit and passes on
+a little bit and they keep doing this until um the amount that's being passed on um is just going to
+um is going to um is going to basically cause them to um begin to fire in groups like because they're just
+like because they all they're all like receiving like the same amount of energy at the same time
+eventually like like their balances like their voltages all become in alignment
+eventually because they keep just distributing the energy to dissipate it
+until it until it until it gets like evenly absorbed by the whole oscillator and then they all
+then they're all their timing is all aligned and not in the and um they are as an oscillator
+they are a sensor array that's waiting for um for more and more energy to come into the oscillator
+from from um from um from the neuron that is going to spike next so after i had this idea about the

@@ -1,0 +1,72 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0025 3D Sensory Representations
+First recorded: 2023-03-17T22:27:23.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/36465a2f-53b2-470c-a6ab-540bd8ff3d6a
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Okay. Uh, so, uh, do you know about, uh, uh, tomography, or do you know about, um, the euphoria slice transform? No. Um, do you know about photogrammetry? No. Okay, so you know about 3D models, like, in virtual reality and augmented reality? Yes. Okay. You know, people can, like, um, use a camera to take photographs around something, where you can use your phone to, like, scan around something? And it becomes, like, a model. It becomes a 3D model? Yeah.
+And the way, the way that works is, it's, it's, uh, the, the same principle behind, uh, photogrammetry phases is the principle behind tomography and the Fourier slice transform. Okay. It's basically like, if you capture 2D images around the 3D object. Yeah. The computer can't piece that together into a 3D object from the 2D images because it's, it notices all the correlations, all the areas where the images are similar. Yeah. It can draw lines. And from those lines, it can statistically determine what the 3D object was from the 2D snapshots. It's not, like, how we perceive, like,
+the third dimension in a similar sense. I'm getting to that, yeah. Okay. So, basically, every sensory organ has, um, like, so in your, so in your eyeball, for example, your eyeball is an example of a sensory organ. Yes. Uh, and, uh, in your eyeball, there is, uh, there's a, an array of, there's an array of tiny sensors.
+It's, like, your eye is one big sensor, but if you zoom in, there's a whole bunch of tiny sensors. Okay. And each sensor is made of a ganglia neuron that's smaller than a human hair. Okay.
+So, you have an array of neurons, and each of those neurons is, um, detecting when light hits it because the light is going to cause a protein to flip, and that's going to cause a signal to pass.
+Okay. So, you have an array of 2D sensors, and what neurons are doing individually and collectively is they're noticing coincidence detections. Basically, when, uh, a signal that received is a higher threshold than a non-signal.
+So, um, so that means, a coincidence detection is, like, you get, the neuron gets, uh, let's say that you see red more than once, just, just doing, like, a very simplified version of what a coincidence is.
+Yeah.
+If you see red more than once, that is a coincidence detection. What time is it?
+It is 4.44.
+Yeah.
+Um, and so that causes, uh, the neuron to fire at a different rate than normal because it detected red.
+And some neurons only detect certain things, like, especially the game day neurons, they only detect when it, when the signal is traveling from left to right, or from right to left, or from up to down.
+So, the, the criteria for what a neuron is, uh, fires for, uh, is, it's criteria specific to a certain kind of information that it's looking for, based on its previous experiences of looking for that kind of information.
+Oh, wow.
+So, when the neuron does fire because of a coincidence detection, because of a coincidence detection, that means it is doing patterns, it's pattern, it's doing pattern detection.
+So, only fire is when it receives a certain component of a pattern.
+You get an array of neurons, and they all fire at the same time at a higher level that represents a pattern that's been detected.
+It's no longer just a coincidence, it's a pattern at a higher level, right?
+Okay.
+Um, individual neurons, through the dendritic branches, like, the very complex, individual neurons can actually do pattern detection.
+But the whole point is that, um, pattern detection, which is what neurons do, or coincidence detection, which is what neurons do, is identical to the process of how a computer does photogrammetry because it's like taking multiple 2D slices of reality and noticing all of the correlations or coincidences between the different images.
+And that's how human sense organs are able to pull together a 3D representation of the, of the, of the, of the reality they're sensing.
+Oh, shit.
+And this, the same thing happens in your eyes and your ears, you're getting 3D representations of sound.
+Yeah.
+Where's that sound coming from?
+That's a 3D representation.
+Your, your taste, what is the, this is umami, like, texture or taste, that's a 3D sensation.
+All of your sense organs are creating 3D sensations of the world around them, in just, like, the first layer of cells, in just the game day of cells.
+But then they, what they do is they pass those signals on to another layer of cells.
+And so you have the first layer of cells is like, is like, uh, it's like, uh, it's like, imagine it's like an, like an, like an, like a, like a row of eyes.
+And what it outputs to the next row of eyes, which is the next neural array, is like a TV screen.
+Because this whole array is passing a whole bunch of LEDs to the next array.
+And so you have a row of eyes behind the first row of eyes.
+And the second row of eyes is receiving a TV screen to the second row.
+And then it's outputting a TV screen to the third row.
+And that's how putting a TV screen to the fourth row.
+And so you have rows of eyes on the front and rows of TV screens on the back.
+And what the brain does is it takes all those signals and they, they, they become synchronized together.
+This is the same, the principle of synchronization is the same if you're talking about clocks.
+You put two metronomes next, next to each other, but they'll send tiny vibrations to each other until both of them are in sync.
+Right? Same thing with fireflies, they all, they all, um, start linking together because they're passing tiny amounts of, of, of signals to each one of them.
+And that, that changes the tiny amounts of light changes when the next firefly is going to fire just a little bit because it's like, well, I have more energy.
+So that, that upsets my, when I'm going to fire next, right?
+Because it's receiving a tiny amount of energy from the light that it's receiving.
+So eventually all, a herd of, a flock of fireflies will end up syncing, synchronizing together.
+And it's because they're dissipating their, the amount of energy that one of them gets to the rest of the hive.
+And so if you have a firefly that gets eaten by a bug and it's like, they're all synchronizing together.
+If Bill goes missing, everyone else eventually notices because now all their timing has been adjusted.
+Like, wait a second, I was expecting a blink from Bill and he's not there.
+So the, so the whole hive of fireflies becomes like a single unified entity, conscious entity, like a living sensor system.
+And it's basically all of your cells, they're collecting 3D data about the world and they're passing that data to other arrays of cells that you have throughout your whole body and brain.
+And all of the signals are synchronizing together, turning you into a single unified sensor.
+So you're not just a bunch of separate neurons, but because your neurons are synchronized, you're like a sensor transmitter system.
+Wow, wow, that's like, so, okay, and that's kind of like a, like, change, smell, sight, everything adds up to a single experience, right?
+Like, understanding, okay, wow.
+Wow, holy shit.
+Yeah.
+I'm excited to read this.
+That's just the beginning.
+Oh my god.
+I, I love this kind of stuff.
+So you can always, you can always, you can always talk to me on it.
+I, I don't have like a piece of understanding of it, so you might have to explain some of the basic things that they come up from my house, but like, okay.

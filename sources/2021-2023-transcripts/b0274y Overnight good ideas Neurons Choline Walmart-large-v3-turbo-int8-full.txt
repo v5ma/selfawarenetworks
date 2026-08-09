@@ -1,0 +1,269 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0274y Overnight good ideas Neurons Choline Walmart
+First recorded: 2021-06-03T16:33:34.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/41dbe54e-5225-40a7-88b6-5f82edfff0b8
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+And it's not just the detection of coincidence, but also the detection of breaks and coincidences.
+So you can have coincidence patterns that are very regular, but then if there's a change, if that coincidence stops happening, that's when you notice it.
+Because if it's very regular, then maybe you tune it out.
+But if the coincidence stops happening, so it's actually not a coincidence detection, that's a change detector.
+It's going to be detected either by new coincidences or new patterns, or basically by new patterns.
+So it takes many neurons to register what a single neuron has seen.
+And because a neuron transmits what it sees in terms of how many neurons it talks to when it talks,
+whether it's, am I going to, like, continue to oscillate every 10 seconds, or am I going to oscillate every 11 seconds, or every 12 seconds, or every 13 seconds?
+Right? Right? Wait. That's not right.
+So, no, no, no, am I going to continue to oscillate every...
+Because what I'm saying is the oscillation is changing. I know, it's oscillation is changing.
+That's what I'm saying.
+But I'm also saying that those are two different things.
+So the oscillation is changing, and the transmitting.
+So it's frequency change, which is time.
+And it's spatial change, which is, like, the two different ways the neuron can change.
+Holy shit.
+That's a multiplier, because it's not four bits.
+That's four bits times the...
+So if you have five bands of frequencies, okay, let's say we have delta, theta, alpha, beta, and gamma,
+and then we have high gamma, so we have six bands of frequencies.
+Or seven, you know, from zero...
+It's really from, what, 0.002 hertz, all the way up to 600 hertz, right?
+And anything in between.
+We have all these different phases.
+Phase oscillations.
+So we can register any phase, and it can affect 0, 1, 2, or 3 neurons simultaneously.
+Actually, that's not right.
+So it's more like it affects either 10, 20, 30, or 40 neurons.
+Plus it's going to fire regularly.
+It's going to fire regularly, no matter what.
+Let's say that when it fires, it's either going to fire 0, 1, 2, or 3.
+So that would mean that the neuron actual potential sometimes fires and transmits 0 to neurotransmitters.
+That would be interesting.
+That would be equivalent to not firing.
+Because if it fires every 10 seconds, is it firing like a 1, 2, or 3 every 10 seconds?
+Or is that a 0?
+Because maybe there's like this state of 0, and then you can fire as 1, 2, or 3 every 10 seconds?
+1, 2, or 3.
+But that 10 seconds could change to 11 seconds, 12 seconds, 13 seconds, or 12 seconds.
+It could change as hertz from 2.002 hertz.
+So 2 up to 600 hertz.
+So it could change in oscillation there.
+Maybe I'm going to fire very slowly, or fire very fast.
+I hit 1, 2, or 3.
+Why are you at 30?
+I do this idea.
+It's like, yeah, I could fire really fast and hit 30 every time.
+Or I could fire really fast and just hit 10 every time.
+If you're a super weak, or, um, slow frequency but strong.
+Boom.
+Frequency but weak.
+Frequency but strong.
+So you have, like, high frequency.
+The other neurons are recognizing, they're necessary to recognize the amplitude and the frequency
+that's being transmitted.
+A bunch of neurons to recognize what a neuron is recognizing.
+Okay, so, a neuron detects a certain amplitude and frequency.
+Each neuron is detecting, and the microcolumn is considering what each neuron has detected,
+because it's transmitting, turn from spatial frequency.
+Spatial.
+So, it's kind of like, um, okay, let's just keep an incoming census, and you're creating
+a representation.
+Then that's creating another representation.
+And every time you go past from one layer to another, the layer that is, I see one neuron
+that is representing the information that it's seeing.
+And, but it's communicating devil's spatial patterns.
+So, it's communicating what it's seeing, and what it's seeing.
+So, it's like a movie, it's like a, it's like a movie player inside VR, where it has
+textures, it's got textures over time.
+So, a movie player in VR has textures over time.
+Um, alright, so you're just playing a sequence of textures, alright, so, like, each neuron
+is playing a sequence of textures.
+That reference and textures represent what was fired below, but, here's the thing.
+It's only, it's not connected, so it's, so it's looking for a certain sequence of textures.
+Okay?
+I'm going to probably see a certain sequence.
+And so, if it fires, then that means that it's part of a sequence that represents another
+sequence that receives.
+So, when it fires, it fires as part of the whole group of cells that are firing.
+Let's say it's deviation from this normal routine.
+Deviation is like a pencil mark.
+If all these neurons are deviating, so we have this pencil mark.
+And all the pencil marks together, they add it to a picture, it's detected by another
+neuron, by another group of neurons.
+So, they all detect a different angle on the picture.
+So, it's like, okay, so it's like, it's like one layer of neurons that becomes a representative
+of the previous layer of neurons.
+So, in that sense, the first layer represents the picture, and then the layer behind that
+represents the, the, the picture that the first layer represents.
+And the layer behind the, the, the first two layers represents the picture of the first
+two layers.
+And so, the picture is like replicated in, in, in, with each subsequent layer.
+Okay?
+But the way each subsequent layer recognizes that information is a little bit different.
+It becomes, um, a compressed representation.
+And it becomes distilled.
+So, with each layer, like, the stuff that is actually, uh, truly, that object becomes crystallized
+and deduced.
+And the stuff that that object is, it becomes reduced from noise, right?
+So, like, let's say the three layers are just noise.
+And the object emerges at a higher level because, as it, as it moves through, let's say the object's
+pattern, it moves through, or it becomes, it becomes cleaned up.
+Because the things that are not truly that object, they don't pass deep into, into the, uh, matrix.
+Only things that are actually that object pass deep into it.
+Because they keep getting registered.
+Because they're the most consistent.
+That consistency helps the recognition of what the object is.
+As opposed to what the object is and does it move around.
+Because it's the most consistent thing, it get, it travels the furthest through the, through
+the matrix in terms of what gets replicated.
+So the brain, the brain begins to know what that actually does.
+And how it's distinguished from the rest of the world.
+Because it's, it's triggering multiple layers.
+And so the multiple layers are, like, it's like everything in your space is made up of balance.
+The fan represents, the 3D fan represents multiple layers, and it happens to fire at the same
+time.
+And if that moves closer to me, that means that the image of the brain is different, like,
+so let's say, like, let's say that every pixel, represented to two.
+Let's say that every pixel of the fan are, because we know that even though a neuron will fire,
+you're gonna have a lot of neurons, you're gonna have a thousand neurons,
+it's like, okay, it's like all the neurons represent the cop, uh, parts of the coffee cup,
+well, each of the neurons is recognizing the coffee cup, specifically, it's like you're
+representing, specifically, it's recognizing the temple spatial pattern.
+The feature detectors, I'm gonna say that here, is that you're gonna have, uh, each neuron is
+going to transmit, transmitters, right?
+So it's going to affect a different number, one, two, or three.
+It's gonna, it's gonna, it's gonna, it's gonna, it's gonna affect one, two, or three, layer
+one, two, or three.
+Receive patterns, when it receives a certain pattern, it's gonna transmit a frequency to
+a different area.
+So, it depends, it could transmit to a larger area, which means a lot of neurons could activate,
+or a middle amount, or the least amount.
+So, technically, like, that could vary, like, it could do, I could do, you could do, like,
+a, yeah, so it's like, um, an A, B, C.
+So, like, you get three letters, A, B, and C, so you can have a sequence that's A, A, A,
+B, B, B, or C, C, or you can have, like, an A, B, A, A, A, C, C, and you can have
+C, B, A, B, A, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, C, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B
+I've been trying to do like a lot of walking today yeah so I was thinking I
+could take the DOGs out for the initial part and then bring them back bring them
+back here but I can't take them out for the entire walk because I might be
+walking for a long time yeah the smart drugs yeah it's legal because it it
+accelerates my choline uptake which is why it improves the memory but if I
+don't replace the choline with more choline then I become then basically the
+period of like of amped up intelligence gets followed by a period of reduced
+intelligence but that you mitigate that by taking choline at the same time you take
+the pill it's like you're using up your supply of choline faster and if you
+replace it then you continue to have a supply of choline in which you but you
+if you use up your supply of choline you don't take it I was gonna finish the smoothie but I am like
+I'm full so I don't know what to do I can't finish it my stomach is full I didn't realize it's like
+bigger than my stomach Joey come here it was actually um one of the dog plates that
+they eat with and using that to scoop it up the poop grab two dog plates scoop up
+the poop and then put that in the plastic bag and seal it they're cheap they're cheap
+these are all reused plastic bags but the dog plates are cheap so you could you could reuse the dog
+plates too you could take the dirty dog plates and use those to increase your uptake of
+choline so that means you'll use your your brain your brain will use this choline faster and so
+for that time your brain will have better memory and better performance right the
+choline I think you can I was thinking I was looking at trying to see if they had
+choline at Target I don't know if I found it or not let me look I can Austin why not
+drive to Austin and back loop six ten four it's suggesting the Austin store the
+Austin store yeah there was a zip code again seven oh I found it fifteen fifteen so
+they have like prenatal vitamins but these are for bait these are for pregnant mothers
+but they have choline in them so they're just vitamins it's like vitamin d3 vitamin b12
+vitamin k1 k2 choline this is acceptable it's just a vitamin product and it's ten
+bucks there's nothing really prenatal about it just a package of vitamins anybody good
+good for pregnant women we're good for anybody actually they're good for you good for everything
+are you seeing these people just kidding this Walmart thing hang on a second
+yeah yeah you're distracting me for no reason you're like hey can you look up
+something at Walmart hey can you look at the trees hey give me a second let me
+look at the one thing that you suggested before you ask me to look at something
+else you're distracting me don't drive my attention somewhere like hey Micah look at
+this hey Micah look at that hey Micah look at this like wait a second I'm not done looking at the
+last thing I'm trying to look at both at the same time I'm like looking at the
+street and the reading Walmart at the same time which is funny like why am I trying to
+do both at the same time so I like the second one because it has DHA or Omega 3 DHA and Omega 3 is
+probably one of the most important things you should know about I don't know if you're
+qualified to disagree the thing about my diet that people don't appreciate is that
+I'm getting is that I've been I've been spending vitamins for like you know since
+I was getting I was getting really good health results in 2010 right really good
+so I lost 10 pounds I was eating the kosher's oats oatmeal every morning right and so I was getting
+this high fiber slow carb but I wasn't building muscle but I was doing incredible math exercise
+like the oats sustained me to do incredible math exercise so I lost weight but I didn't build muscle
+because I didn't have the coaching so I'd almost like to have a I mean I can use the microwave in the
+fridge in the common area of the building right or you just rent like a garage space to someone
+like basically a garage space but it's like you have a big storage facility and if they fail to pay
+then that stuff goes up to auction right and that would be a good space I mean a good business
+because then you'd have security 24 7 you'd have huge spaces for yourself right so you'd be able
+to rent out these huge spaces for other people but you'd also have huge spaces for yourself you'd have
+your own like sort of like um on the second level you'd have your own like studio like your own like
+house so you'd have and you'd have like you know so you could see you could have like security cameras
+all over your facility so you could see them from your own house you'd have your own like like giant
+space on top of the facility that's what I'm gonna imagine people did that no you have to build it
+I'm talking about like a uh it's a place that's like up to the fire code why did you build new
+property yeah what I just described is not what people did in Oakland that was like a fence that
+was like an attack on my idea it's like if someone's building a sandcastle and you come over
+and you just push it over that's that's what you did metaphorically speaking you're like yeah well
+someone took your good idea you said there's a bunch of warehouses you said there's a bunch of
+I just described my fantasy idea and you're like oh yeah someone did your fancy idea and they all
+died okay I'm like no I that you just like insulted me like you just pushed over my my metaphorical
+sandcastle you're like the kid who comes over and says oh you built a sandcastle yeah right
+okay sorry I'm a downer well your fantasy sucks that's when people die okay
+debbie downer okay you think you you think that's a good idea well I heard that that's when
+right now they have a lot of offices spaces because a lot of companies moved out right
+but when they moved out those offices needed to those companies need to stick their stuff in storage
+so a warehouse could probably be bought for cheap in san francisco
+with two with like um way cheaper than a house a warehouse and then the warehouse itself
+could be turned into like a storage space where these companies need to store their stuff
+but if they don't pay the bill then uh what happens is the stuff needs to be there's like companies
+that will buy the lot wholesale and what the companies buy like they'll buy like a whole bunch of stuff
+that the that um a warehouse can't store anymore and they'll get shipped to the east coast and then
+it'll be off it'll be auctioned off but there's like whole businesses that buy like junk that people
+were soaring that those people stop paying for if a business you know goes out of business it gets
+they're like basically like they're not like they get they sell it to people who sell it
+and so yeah like if a gym goes out of business like what that's what happened to my to my gym
+my gym went out of business actually they were evicted they were evicted and so they sold all their
+stuff yeah and um and my lockers went to this warehouse and i went and chased down my stuff at this
+warehouse and they made me come back the next day and but i eventually got my stuff out of my locker
+which included like my backup hard drives and stuff but the point is that i was like wow okay so
+that's what happens when uh if a business goes down in san francisco you know it's not like you're
+gonna like move all your gym equipment to your home right it's not like you're gonna rent another
+office um you know at um at the turn of a key if you're like if your business is evicted or if you
+have to shut if you like if you're a big company and you have to shut down an office because of
+covid because you don't want to have small offices anymore right then you send and all your stuff
+gets sent it gets picked up by truckers by movers and moved to a warehouse and um and the thing is
+that the warehouse itself pays for the um where the cost of the property like the storage the company's
+amount that companies are paying to store stuff that pays for the property in san francisco so the
+property is like paying for itself or the business that's there it's like a business underneath
+that pays for the um for the property to itself but so i was so i was thinking that in the long term i'd
+like to um what a better a more interesting business would be would like be like a cloud source
+business right where you just you just um you just have like hard drives like arrays of hard drives
+and people are paying to store uh a virtual copy of their of their data it's like a backup they make
+like a backup on your server and then they pay you a month to store their data on your server that's
+actually a good business at my all the companies that are doing like cloud storage are making some
+of them it's like it's like it's like an insurance type of business because you're just storing it
+you're just like you're doing something that doesn't require like any mechanical power and it's
+just collecting money that's it like there's no work you're just like yeah you're just receiving
+a check to run a computer on a piece of land that's a good business i want to be in that business
+cloud storage because then your hard drive is just printing money and everything the more hard drives
+you have you're just they're all your hard drives are just printing money because they're just
+storing data it's like people people say um the fmri machine just prints money so universities will
+only buy fmri machines yeah yeah uh mri machines fmri fmri i just mean mri the big magnetic machine
+that they use for body scanning well those machines they just print money you buy it and it just prints
+money but that's the sort of like that's what the cloud business is right now that's why microsoft
+is like yeah we're gonna like we're gonna get to the point where we're serving cloud instances
+of microsoft windows to people on every platform so you can use microsoft windows on your phone on
+your tablet on your ipad then we're gonna stream cloud instances of microsoft windows because it's
+just like that's printing money if you're in if your business is supplying a hard drive that people
+are paying rent to then that's a lot more money than showing someone a copy of princess one time
+you're renting windows instead of selling windows but people say people see the value because oh yeah
+well i'm storing my stuff on the cloud it's accessible on all my devices i've got windows on every
+computer i no longer have to have a powerful computer because like all the power is in the cloud
+like i can run the fastest games i can run ray tracing and give ray tracing
+a cloud server no but it's um it's it's uh it's something that you do and it's like you start off like a
+you start off like a small uh a small cloud server and as you grow in clients you grow in hardware
+it's like it's like a it's like a business that can grow from like a small business to like a big
+business you need you just need to start with like one client like one business like okay we're gonna
+like i'm gonna have one client i'm gonna set up a cloud server for them then you go after another
+client and then you have a hundred clients and at some point you'll have you know you have enough
+money from all of your clients to where you can uh you can buy a bigger facility and that's how you'd
+have to do it if you don't have like a million dollars to invest up front you'd have to start
+small that's not my big business idea my big business idea is different let me get out my uh
+notepad so i can record what i'm saying um okay here we go so my um

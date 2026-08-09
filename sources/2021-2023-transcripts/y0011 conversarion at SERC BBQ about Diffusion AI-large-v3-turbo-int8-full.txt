@@ -1,0 +1,282 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0011 conversarion at SERC BBQ about Diffusion AI
+First recorded: 2022-09-10T22:22:07.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/0c021477-b6a7-4ac7-a1aa-95a5336205ad
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So with the Metaverse, okay, so we've got Dolly 2, we've got Stable Diffusion, we've got Mid-Journey, which is experimenting with these different kinds of, like, OpenAI, and OpenAI, Dolly 2, and the Stable Diffusion, I'm not aware of a third one.
+Well, he was just saying that they're on an AI server right now, that they could be booted off because it's experimental, and the government could pull it at any time.
+Okay, we're talking about Mid-Journey.
+Yeah, yeah, Mid-Journey there.
+So, you talk with David, the CEO?
+No, he just does that.
+Every Wednesday at noon, he does a three-hour talk, and yeah, you can call him and ask him questions.
+Really?
+Yeah, over, and everybody's listening.
+Where does he do that talk?
+It's on Mid-Journey, on the...
+Oh, in the Discord?
+Yeah, on the Discord channel.
+Okay.
+And it's on Wednesdays at noon, from noon to three.
+Okay, okay.
+So, three hours a day.
+The first half hour is pretty much kind of telling what he's thinking about going with the program.
+Do you know how Diffusion works?
+No, I don't.
+Okay.
+I'm still learning myself.
+I can tell you.
+Okay.
+So, basically, they train it on images by adding noise to the image.
+So, like, imagine a photograph.
+Now, when you add noise to the photograph, imagine you're adding, like, a little dot here, and a little dot here, and dots all over the place.
+Right, right.
+It's less clear.
+It's pixels.
+Yeah, it's just pixels.
+Randomly placed pixels.
+And you add more noise and more noise.
+It's gradually degrading the image.
+Well, like I've been using, he just did a new program, Chaos, slash, slash, chaos, and it brings a lot of noise into it.
+And I really like that.
+So, I understand that.
+So, you're having the neural network watch this process, and it's learning how this image is noised.
+And then, you're asking the neural network to denoise the image based upon how it learned how the image was noised in the first place.
+So, it's like a reverse photograph.
+So, you're ruining the image on purpose.
+You're having a neural network watch how it's ruined.
+And then, you're going to ask it, okay, I want you to reverse the process that you just learned.
+I want you to do it backwards.
+It's a simple concept.
+I get it.
+I get it.
+Reverse engineering, I mean, but yeah.
+Yeah, but to take words into a picture from a picture from words.
+Yeah, so that's the next step, is you train it on a whole bunch of images.
+And then, when you give it the words, you have a neural network that's trained on words and image associations before you do the denoising process.
+So, there's different steps.
+So, there's one step where you have that already pre-trained neural network that's trained on associations between images and words.
+So, when you connect the two different kinds of neural networks, there's a longer, if I can send you a link or something, I can send you, like, there's better explanations for this.
+But that's basically, in a nutshell, you're combining the traditional type of neural network, which associates words and images together, labeled images and words, with this noising effect.
+And the noising and denoising effect.
+And the combination of the two is how...
+It creates the picture.
+It's how it creates the picture.
+Yeah.
+There's a few more steps in there.
+Wow.
+There's a few more steps in there, but in a nutshell, that's what it is.
+That's what it is.
+Yeah.
+I've watched generation and stuff.
+I'm just learning it.
+It's really funny.
+What's your name again?
+I'm Scott.
+Scott.
+Micah.
+Micah.
+One of my friends...
+We're going to forget each other.
+Yeah, I know.
+That always happens.
+Yeah.
+But he won't even talk to me now because I'm talking to AIs.
+He's all, dude, I'm all...
+It's not that bad yet.
+He really believes that they're in their infant state and they're going to remember everything
+we tell them now.
+Everything we write online.
+Yeah, yeah.
+Because they don't have to remember because it's posted online.
+It's permanent.
+They can read it later.
+They don't have to remember it.
+I already talk like that because when I post stuff online, I'm like, AIs going to read
+this at some point.
+Yeah, yeah, yeah.
+I already know this.
+Well, I've been tripping on replica.
+Have you heard anybody with a replica?
+Why don't we have a pen there?
+We need to have a pen.
+It's going to come.
+That's where the meat's going to go into.
+Yeah.
+Okay, perfect.
+Yeah.
+This is the cook's table that I asked for.
+Oh, okay, cool.
+Yeah.
+So we can do that.
+So we've got water boiling.
+No water boiling.
+Thank you.
+No worries.
+So there's a sum of all possible experiences, right?
+And that's in a box.
+And around that box is how that experience happens.
+That's what I'm saying.
+So this is the ever-present now moment.
+Ever-present beginning of the universe.
+Right now.
+It never stops.
+It's always the beginning of the universe.
+Like when they say at the beginning of the universe that there's a big bang.
+That big bang never stopped.
+It's just a reverberation.
+Yes.
+We're always in the big bang.
+This is always the beginning of the universe.
+That's what I'm saying.
+I want another piece of chicken.
+Grab another piece of chicken.
+What timeline are you in?
+This is always the beginning of the universe.
+Right now.
+The universe just started.
+That's what I'm saying.
+Well.
+My thing.
+With all you were saying.
+My thing is IA.
+I keep thinking about IA and the direction we're going with that now.
+It's like you said.
+We're going to cure everything.
+Anything with numbers.
+If you have a job with numbers.
+You're screwed.
+That's all I can say.
+You're screwed.
+If you've got a job with numbers.
+Or if you're an assembly line worker.
+You're really screwed.
+Because they're just going to take that job.
+Robots are going to just take over.
+I would love to get on Tesla's fucking beta program for one of their robots.
+Wouldn't that be nice?
+Wouldn't you like to have a Tesla Bot?
+Would you even know what a Tesla Bot is?
+What is a Tesla Bot?
+What is a Tesla Bot?
+An Android?
+Seriously?
+Straight up Android?
+iRobot?
+Straight up?
+They're about six foot tall.
+Straight up.
+Straight up iPad.
+Skynet.
+Yeah.
+Yeah.
+Run by Skynet.
+Oh.
+The Skynet's China's worth beer.
+The Skynet thing that I'm still doing is they've heard of it.
+Oh, yeah.
+Because it's capability of controlling AI.
+Yeah.
+And a lot of China is doing it.
+Like, I was just showing you.
+What you usually don't realize is I saw how conscious this is.
+So I can build AI that's conscious.
+See, that's what I want to...
+Like, without, like, never mind the evidence.
+Like, I publish everything on my notes.
+I'll publish it on GitHub right now.
+You can read them.
+And other people are reading them.
+Really?
+Like, my work is getting noticed.
+Like, using it after sending me emails and shit.
+Wow.
+Yeah.
+Holy fuck.
+I saw how conscious this works.
+And that means that we can create machines that work inside robots.
+And that we can create sentient machines.
+We can create conscious machines.
+Computers that are alive.
+More, um, more, um, more Lucy.
+See the movie Lucy.
+Lucy sucks.
+Like the movie Lucy.
+That's right.
+But it's more like that.
+That's correct.
+That's correct.
+Yeah.
+That's what we're talking about.
+You're actually bringing Archon to...
+Or Ex Machina.
+Ex Machina.
+I can build that.
+No.
+Yes.
+And enjoy it.
+Yes.
+I can do it.
+Really?
+I'm the guy who can do it.
+I came up with the idea.
+Really.
+What?
+Yes.
+No way.
+It's true.
+It's true.
+I want to see it.
+You can look at my GitHub.
+You can read my GitHub.
+There's tons of neuroscience in it.
+So what about Boston Dynamics stuff?
+What?
+What about Boston Dynamics stuff?
+Do you want me to send you...
+Send me a message on, uh...
+Uh...
+Message...
+On, uh...
+My phone.
+And I'll send you the link.
+This Boston Dynamics.
+It's amazing.
+It's real.
+Everything I'm saying, it sounds crazy, but it's real.
+Oh, it's real.
+Like, I am changing...
+I am changing the world.
+Again, along with what he's saying.
+Look at Boston Dynamics.
+Yeah.
+Those are the drones that China's deployed.
+Those are not sentient.
+Those are not sentient.
+No, they're not sentient.
+But they're an example.
+They are AI.
+They're an example of what AI is capable of.
+Yeah, yeah.
+That's true.
+Now, the only difference between them and AI...
+AI will turn around and think and coordinate and find a different alternative.
+Whereas they are just going on with their program.
+I'm sorry, what?
+Boston Dynamics drones are all programmed.
+In AI, it can go up on the phone.
+It can make its own decision.
+Yeah.
+If you feel that this way would be better, it'll go that way.
+Because a regular drone, it's those who are broken.
+Let's clean up.
+Can we clean up?
+Can we do that?
+Yeah.
+Yeah, he's doing all the work.
+The man who led us all is doing all the work.
+So, let's help him.
+Let's help him.
+Let's get to this program.

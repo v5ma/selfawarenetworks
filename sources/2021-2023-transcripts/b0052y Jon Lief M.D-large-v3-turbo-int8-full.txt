@@ -1,0 +1,876 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0052y Jon Lief M.D
+First recorded: 2021-11-27T17:53:37.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/cd973c0f-3bfb-4d48-9775-fe9eae0ac030
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So, the reason I ask people to read the book, Cells by John Leaf, is that the book specifically outlines the fact that it specifically describes the extraordinary things that cells do,
+that scientists have, I should clarify that, it describes just some of the things that cells do, and scientists don't really understand how cells can do these things, in terms of how they can communicate.
+For example, when a white blood cell finds its way from its origin point to the site of a wound, there is a communication happening back and forth, constantly, between the neuron that sent that white blood cell, that guides that white blood cell to its target.
+And the white blood cell literally moves through the tissue with something that seems analogous to limbs, like it's like, it's almost like walking through your tissue, right, stepping over things.
+And it changes its body to do that. So, it's like you have one cell that's coordinating logistics of another cell to send it to a wound.
+That's what it looks like.
+Um, and I would say that the coordination is, wow.
+Because see, the point of the wound is going to be sending a lot of signals, right?
+It's like, it's a, it's a crisis point.
+And that's going to be triggering a lot of other cell activity.
+Because it's a, it's a, it's a, it's a, it's a, it's both a mechanical and a chemical and a heat-based oscillatory signal.
+So, it's a, so, the wound itself is transmitting like, a constant signal, right?
+And, um, and then the cell that responds is also sort of like sending a constant signal that is almost initiated by the wound.
+but then the wound
+I would say
+I think maybe the wound and the cell that's responding
+to the wound
+are both
+firing in a way that's
+helping to
+helping the
+white blood cell to get to
+the origin point
+of the wound
+I'm sorry not from the origin point to the wound
+and
+of where it was emitted
+and
+it seems like that could work
+via the same
+principle
+of
+the path integral theory
+and gravity
+where we're basically
+creating the
+so interesting
+but let's revisit this later
+but the
+okay
+so we're going to finish the white blood cell
+theory later
+but the
+the point is that
+this
+this cuts to
+the idea that
+maybe neurons can
+do more
+than what we think they can
+and this
+and this
+and this connects to deep learning
+because
+the
+the question is
+so if you
+so if you look at the
+perceptron
+right
+so the perceptron
+is like a simplified
+is
+the perceptron is an artificial neuron
+it's the
+I'm sorry
+it's the model of an artificial neuron
+that was
+created to
+be simulated
+in a computer
+in order to
+adapt some of the properties
+of a neural network
+and bring them
+into a computer
+they tried to
+just
+say
+what's the most
+what is the most
+functional
+way
+of
+of looking at
+at
+of a neural network
+what is it
+what is the
+the basic functionality
+of a neural network
+and
+it was
+at the time
+that the
+perceptron was created
+there was this idea
+that
+whatever inputs
+a neural network
+whatever inputs
+the brain received
+to a neuron
+that
+it would be summarized
+in an output
+like
+like a one
+or a zero
+like either fired
+or didn't fire
+and
+and so
+that sort of
+analogy
+is like
+oversimplified
+so it's like
+it's like a neuron
+is connected
+to a bunch
+of other neurons
+and either fires
+or doesn't fire
+and
+and somehow
+that
+that
+is going to
+await it
+it's going to become
+a weight
+it's going to become
+weighted by the fact
+that it fired
+the firing
+represents
+a
+a lower level
+coincidence
+that
+that the
+that the neuron
+detected
+from its
+from a sensor
+array
+which could
+which could be
+a lower
+it could be
+the input data
+or it could be
+just the
+the layer
+of neurons
+beneath it
+and
+by firing
+it's representing
+that coincidence
+that
+as a
+learned thing
+and then
+so once it's been
+trained
+the vector
+the vector
+that represents
+its
+learned weight
+based upon
+learned patterns
+and
+anyway
+so
+it's a
+it's a long
+story
+but
+it's a longer
+story than that
+but the
+but the
+but the idea
+is
+that
+we want
+to see
+if
+there is
+in fact
+a greater
+level
+of detail
+that can
+be
+captured
+by a neuron
+and then
+transmitted
+from a neuron
+in
+in
+in the
+real
+biological
+sense
+because
+it is
+in
+it is in
+one sense
+about the
+so
+so there's
+this idea
+that
+a dendrite
+could function
+as a neural
+network
+you can look
+that up
+in a search
+engine
+and
+so some
+people have
+proposed
+that a dendrite
+could be
+similar to
+a two-layer
+neural network
+I think
+there was
+someone mentioned
+to me
+that there
+was
+some sort
+of paper
+that a dendrite
+could be
+a five-layer
+similar to
+a five-layer
+neural network
+it gets
+really interesting
+when you consider
+the complexity
+of pyramidal
+neurons
+and they have
+the dendrites
+there's
+like
+there's
+it's
+the body
+of a pyramidal
+neuron
+is different
+from other
+neurons
+in that
+there's
+like
+there's a
+soma area
+that's distinct
+from
+the
+dendrite
+area
+and then
+the dendrite
+might have
+multiple
+sort of
+sub-areas
+that
+can each
+fire
+it's like
+it's like
+the
+it's like
+having multiple
+dendritic arbors
+and multiple
+somatic
+arbors
+connected
+to a single
+neuron
+right
+so like
+instead of
+a neuron
+having like
+one
+dendrite
+that leads
+directly to
+the
+soma
+it's like
+you can
+separate
+the
+soma
+and the
+dendrite
+into two
+different
+areas
+so that
+their charges
+could be
+adjusted
+independently
+and you
+could have
+independent
+basically
+sort of
+areas
+where
+charge
+in a
+pyramidal
+neuron
+can
+collect
+and
+diffuse
+which
+just
+really
+complicates
+the
+number
+of
+things
+that
+can
+cause
+a
+the
+number
+of
+ways
+the
+number
+of
+patterns
+the
+number
+of
+ways
+that
+a
+pyramidal
+neuron
+could be
+connected
+and
+the
+number
+of
+ways
+to
+cause
+a
+pyramidal
+neuron
+to
+respond
+to
+in a
+dynamic
+way
+cause
+it's like
+well
+maybe
+a
+pyramidal
+neuron
+could
+detect
+multiple
+patterns
+right
+and then
+make a
+decision
+whether or
+not to
+respond
+to those
+multiple
+patterns
+by
+the
+way
+it's
+set
+up
+and
+so
+the
+pyramidal
+neuron
+is
+just
+really
+fascinating
+from
+a
+neural
+architecture
+standpoint
+in terms
+of
+what if
+we
+captured
+that
+but
+one
+of
+the
+things
+that
+I
+want
+to
+bring
+up
+are
+some
+of
+the
+some
+of
+the
+many
+ideas
+that
+have
+fallen
+to the
+wayside
+of how
+neurons
+could
+communicate
+and
+so I
+have
+some
+new
+ideas
+but I
+also have
+some
+ideas
+about how
+to
+integrate
+some
+old
+ideas
+together
+and
+so that's
+part of
+the
+book
+so
+I
+need
+to
+talk
+about
+the
+capabilities
+of
+neurons
+the
+ways
+they
+can
+talk
+to
+each
+other
+the
+kinds
+of
+things
+they
+can
+do
+part
+of
+that
+is
+from
+John
+structure
+and
+features
+of
+what's
+going
+on
+in
+a
+human
+neural
+network
+one
+of the
+things
+that
+is
+really
+interesting
+is that
+the
+explanation
+for
+what's
+happening
+in
+a
+real
+or
+an
+artificial
+neural
+network
+in
+terms
+of
+like
+I
+think
+it's
+not
+really
+clear
+to
+people
+what's
+happening
+and
+so I
+have
+some
+new
+thoughts
+there
+in
+terms
+of
+what's
+happening
+and
+and so
+that's
+about
+looking
+at
+how
+one
+how
+one
+edge
+community
+is
+perceiving
+and then
+representing
+patterns
+to another
+edge
+community
+which is
+then perceiving
+and representing
+patterns
+to another
+edge
+community
+and then
+you have
+basically
+at some
+point in
+the brain
+you have
+cortical
+columns
+that are
+also
+receiving
+and learning
+virtual
+representations
+of information
+and
+we can
+describe
+this
+as
+as
+akin
+to
+holography
+but
+also
+this
+is
+the
+key
+to
+why
+the
+human
+brain
+has
+awareness
+and
+why it
+generates
+self
+awareness
+and
+part
+of
+that
+comes
+from
+connecting
+what
+your
+muscles
+are
+doing
+to
+what
+you're
+sensing
+and
+there's
+really
+interesting
+neural
+pathways
+that are
+just
+for
+the
+senses
+and
+neural
+pathways
+that are
+just
+for
+muscular
+movement
+and
+the
+thing
+is
+these
+are
+neural
+pathways
+that run
+from your
+head
+down to
+your
+fingers
+down to
+your
+toes
+throughout
+your
+entire
+nervous
+system
+throughout
+your
+entire
+body
+but
+what's
+really
+interesting
+is
+the idea
+that
+these
+signals
+not
+only do
+they
+have
+a
+path
+but
+they
+are
+I
+think
+colliding
+with
+something
+and
+that's
+what
+makes
+it
+really
+interesting
+because
+you
+think
+they
+have
+to
+collide
+with
+something
+in
+order
+to
+be
+detected
+right
+they
+have
+to
+collide
+into
+detectors
+basically
+and
+that's
+a
+big
+part
+of
+what
+this
+book
+is
+about
+what
+those
+detectors
+are
+how
+they
+how
+that
+that
+is
+and
+then
+we
+have
+to
+look
+at
+the
+observer
+effect
+okay
+and
+we
+have
+to
+look
+at
+the
+observer
+effect
+and
+then
+we
+have
+to
+look
+at
+space
+time
+because
+because
+we
+have
+to
+be
+able
+to
+because
+if
+you
+can
+if
+you
+to
+properly
+explain
+what
+is
+happening
+in
+terms
+of
+the
+observer
+effect
+and
+we
+have
+to
+understand
+space
+time
+and
+that's
+why
+this
+leads
+to
+a
+new
+theory
+of
+gravitation
+and
+some
+new
+ideas
+on
+the
+Higgs
+field
+and
+special
+relativity
+and
+some
+new
+ideas
+for
+brain
+computer

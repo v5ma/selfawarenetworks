@@ -1,0 +1,42 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0189y Columns Oscillations Neurons
+First recorded: 2021-09-20T22:56:13.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/7e99a948-bf67-453b-bab1-3db9a5604423
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+One thought is, interview an expert on oscillations in physics, especially in terms of like how oscillations relate to other oscillations and really like strange, bizarre oscillation dynamics and like I think I need to finish Rhythms of the Brain to see what else is in there, but I definitely need to dive deeper into the theoretical properties of oscillators.
+Okay, and then I want to dive, I want to do a deep dive into how, um, how, uh, tomography works. We'll do like all the different kinds of tomography in terms of like how tomography works throughout medical imaging, in terms of like electrical impedance tomography, um, but then we'll do tractography and then we'll do Fourier slice, uh, projection theorem, and then, um,
+we'll have to, uh, we'll have to, uh, we'll have to, uh, the point is to like discuss all the different ways, and this included the topic of like holography, but also like, um,
+um, it's all about, it's really about all the different ways that, uh, uh, that we can do imaging now that are causing huge advances in like LIDAR, there's like LIDAR, uh, RGB fusion, uh, there's deep learning on LIDAR RGB fusion in terms of like 3D semantic segmentation of objects, plotting the velocity of objects for self-driving cars, um,
+um, the velocity and momentum of objects, uh, there's, um, yeah, so this, this is like, this is really important because it goes into how, uh, out of many parts, uh, out of many pieces, uh, from many different angles, uh, sensory data can be collected and combined and formed and, uh, and then we, we need to like dive deep in from,
+um, to go from medical imaging into neural networking in terms of like, you know, the neural network is, is, uh, putting together really massive images, but also transmitting, uh, apparently, apparently we're transmitting, uh, virtual, we're transmitting information about both sensory data and, and motor data all over the brain, like throughout the neural networks at a high level.
+From, from, from, from, from, and I say high level because I'm talking about like, uh, one cortical area to the thalamic bridge to another cortical area.
+That's a high level, uh, transfer because, um, because most of the traffic coming in from the census is going to go up through the bottom, uh, columns and it's not, it's, it's like, it goes up through the bottom columns.
+It's not, it's, it's, it's columnized traffic.
+It's traffic that's been narrowed down to a column and, and the stuff that goes, you know, between columns, that's, that's less common data.
+That's at the peak.
+That's at the, that's when you get to the six, the fifth and sixth layers of the neocortex and you find the, the apical, uh, you find the pyramidal, uh, uh, pyramidal cells and pyramidal cells are linking together, uh, different, um, cortical columns.
+And these cortical columns are not just sending information across to synchronize with one another, but they're sending actual sensory and motor information back and forth, right?
+So they're all, and, and the majority of them are modulating, the majority of the, of the thalamic bridge pathways are actually modulating the sensory motor activity.
+And, um, so, the hypothesis here is that, you know, we have, hey, it's a simultaneous projector, uh, between the, um, like, what I'm saying is, like, you have, you're sending sensory data.
+So it's like you're sending, it's like sending, uh, the light of a projector, right?
+So you have the ability to capture enormous images and concepts spatially and then transmit them, like, transmit, like, five rockets, right?
+You're transmitting sensory information through, through the, the thalamic bridge, uh, between cortical areas and you're sending, like, sensory information.
+The sensory information is, like, projector information, right?
+It's, it's information signals, discrete, uh, patterns of information signals encoded in the, in the firing activity of neurons.
+It's being transmitted across regions.
+So that's like a, that's, it's almost like fiber optics, right?
+It's like fiber optics between computers.
+It's like, it's like, it's like, um, it's like we have this, uh, it's like imagine each neuron, each, each, you know,
+neuron is, uh, its own recognition, pattern recognition, pattern creation system.
+But they, they can work collectively with other neurons to, to create larger patterns.
+So patterns that have, uh, distinctions temporally and spatially and phasic, phasic differences, okay?
+And so these patterns, uh, contain, basically, it's like saying that the brain, uh,
+captures reality, bottles it, and then virtualizes it so it can flow all around the brain.
+And as the flow is, as reality flows around the brain, then you're picking up on, uh,
+and you have different areas, different areas of the brain that are recognizing that.
+And, uh, coordinating their, their responses.
+But the key thing is that they have to coordinate their responses for your brain to work.
+And in order for them to coordinate their responses, they have to listen to what's being created.
+And that is the whole key to why it works the way it does.

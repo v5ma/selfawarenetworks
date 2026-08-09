@@ -1,0 +1,181 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0271y Milliseconds Neuron Calcium
+First recorded: 2021-06-04T15:59:04.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/f60bc858-8775-4421-a84d-5d1ad6cf3c95
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So we're talking about, like, a spike being a millisecond. A millisecond between, like, in terms of a spike, whether a spike is half a millisecond to 0.7 milliseconds is a huge difference.
+So if a spike lasts, you know, from half a millisecond to 0.7 milliseconds to 1.5 milliseconds to 2 milliseconds, that's a huge difference.
+When we're talking about 10 milliseconds, we're talking about, like, the full time it takes to reset the cell back to its starting point.
+10 milliseconds is the whole process after the cell went back down. That's, like, after, so you have the sodium creates the positive way and the positive spike.
+The potassium creates the negative energy that brings the cell back down to below where it started.
+It's hyperpolarized.
+So 10 seconds is the whole, 10 milliseconds is the whole time window.
+So from 0.5 to, I guess, as much as 2 milliseconds, we're talking about just the time when the cell is very positive, that's when the calcium will be let in.
+So what we're talking about is the length of time that the cell is positive is going to determine how much calcium gets let in.
+So if the calcium is, so if the positive, so if K is modified so that it's delayed so that it takes longer for the negative to start, or if it's, like, basically, like, yeah, so it's, like, the idea is that the calcium, if there's more time for the positive charge, if the spike lasts longer,
+if the spike is slowed down, then that means that there's more calcium that's going to be released, and that's going to bind to the synaptic tagmin.
+So by messing with the K channels, you're changing the shape of the spike in terms of, like, it's going to go from, you know, a spike that takes half a millisecond to 0.7 to a full millisecond to 1.5 milliseconds to 2 milliseconds.
+Because you're changing the shape of that positive spike by messing with the K channels, because the K channels are going to come on later or sooner, but they're going to change, and that's going to change the duration of the spike.
+And the duration of the spike, I'm guessing, is part of the shape of the spike.
+It's going to, yeah, it's going to determine the beginning and end point of the spike, so that's the arc of the spike.
+And then, so you have to, like, I think, yeah, I guess you have to say that the timing of the spike is part, and the amplitude of the spike.
+So there's the time of the spike, but then there's also the amplitude, which is, I guess, the amplitude could be how much energy is being released at once, or maybe it's a fixed amount of energy per time interval.
+And so the time interval itself determines the amplitude of the spike, and so the amplitude would have all of the, in that case, the amplitude of the spike would have all the amplitudes of the shape of the spike.
+Because it translates, because it would translate one to one, if it's always the same amount of voltage per time interval, then the time interval would contain the amplitude information, and it would contain the shape information.
+But if not, then if the voltage can vary, the voltage rate can vary, so you could have more amplitude or less amplitude in the same time window.
+Or let's say it's, like, open for one millisecond exactly.
+If you could have one millisecond, but you could have higher voltage during that one millisecond.
+But the point is that if it's open for longer, then you're going to have more calcium that is going to bind.
+But we're talking about spreading the spike of, the shape of the spike.
+So the shape of the spike is going to be more spread out by time.
+It's going to be spread out by time.
+So the shape is relative, is it's, we're spreading out the shape by spreading out the duration of how long it's going to take for the spike to happen.
+But that allows for enough time, so it's not just one vesicle that gets released, but it's like all of them get released over that much time.
+So you're going to have between 0, 1, 2, or 3 vesicles.
+I guess it could be as many as 4, but the average number of vesicles is 2.6.
+But it's like 0, 1, 2, or 3.
+Maybe 2 vesicles, maybe 3 if it has 3 vesicles.
+And so if you have a longer spike, maybe you have a 2 vesicle spike because you have enough calcium that comes in that opens the, opens enough channels.
+And you're only going to get enough calcium to come in if the channels are open for longer, which is why variations in the amount of potassium open the channels, open the, so delays in the start of when potassium starts to bring the spike down.
+So if the spike lasts longer, it means more calcium comes in, more calcium binds, that means that the channels are open longer, which means that the, um, uh, the, the, the, the spike lasts longer, and the, the, the spike lasts longer, then that means that, um, uh, more vesicles will be released.
+So vesicles, so if you have, if the spike lasts a very short of time, maybe no vesicles would be released.
+Maybe one vesicle, maybe one vesicle, if it's longer, maybe one vesicle gets released.
+If it's longer than that, then, then maybe two vesicles get released.
+If it's a super long spike, you know, a two millisecond spike, maybe three, three vesicles get released.
+And if, if the, if the cell has four vesicles, then it's going to take a pretty long, uh, positive spike for all that four vesicles to be released.
+But that, but then what happens is, uh, the, the brain is going to basically, like, if more vesicles get released, then there's more neurotransmitters that are released.
+And that means that, um, that cells that would not otherwise have received neurotransmitters from this, from this neuron are going to receive neurotransmitters.
+So if you can imagine that, uh, the radius of what is, of, of, of cells that, that, um, that are receiving neurotransmitters from that one cell, like, the radius is a lot larger.
+So the network itself is going to register, uh, a larger event in terms of more neurons are going to be affected by, um, by the, uh, larger, by the longer, so if there's a long reaction potential, then a greater number of neurons are going to be aware, are going to be detected, uh, that they're receiving neurotransmitters.
+It's an event that affects the network in a larger way.
+So the network would be aware of a larger, uh, release, it would be more notable, it would be louder, um, I don't know, maybe I'll go over here for a second.
+And, um, yeah.
+So it is the calcium channels that are opening for longer.
+The calcium channels open for longer, and that causes more of the vesicles to be released.
+So before the action potential, let's zoom in to the very tip of the axon terminal.
+The, the very tip of the, the axon, it's just sitting there in what's called the docked state.
+So you have this vesicle inside the membrane.
+It's right up against the, the membrane, and think of two oil droplets.
+So if the two oil droplets touch, they're going to come together and one, and make one bigger oil droplet.
+So you've got two oil droplets, and if they come together, they're going to make a bigger oil droplet.
+So the droplet holds the neurotransmitter.
+The thing that allows the oil droplet to get enough force to be pushed into the membrane is the synaptotagmin molecule.
+And that's the synaptotagmin linker.
+Think of it like a linker.
+But there's other, other names in there, um, that are being skipped.
+This is just a short version to make it more comprehensive.
+But the synaptotagmin molecule doesn't do its job until calcium reaches it.
+And the calcium has to come from outside the cell.
+So there's very little, uh, calcium inside the cell.
+Uh, so that calcium channel has to open, um, so that the calcium comes from outside the cell,
+goes inside the cell, and reaches that synaptotagmin, and releases the, the oil sacks, which are the,
+um, the, um, the, the vesicles.
+That duration is usually like a split millisecond less, which only allows enough to come in to release, like, one vesicle.
+It's usually just enough to release one from the docking site.
+If you let that channel open long enough, it would just keep doing it, and it would release a bunch from the same site.
+Every vesicle has, uh, roughly 2,000 neurotransmitters.
+So if those things float up into the synapse, and they bind to things, you know, predominantly the receptor on the other cell.
+But if you release five times that amount, so instead of 2,000, you're getting 10,000.
+The lateral spread is going to increase to the point where receptors very far lateral,
+which it would have never diffused without that far before, because there's now 10,000 of them instead of 2,000.
+Now they're diffusing further and further laterally.
+You're activating receptors that probably weren't getting activated in normal cases, and that's what you're talking about.
+Yeah, so, so, so, so if the action potential is open longer, the calcium channels are open longer,
+more calcium binds to the synaptic tagmin, which causes more vesicles, which are like oil droplets, to be released.
+So maybe the regular neural activity is one vesicle gets released, but now you're releasing a bunch more.
+Maybe it's, it's, uh, two or three vesicles that are getting released.
+And so they're being pushed out by the synaptic tagmin.
+It's, of course, it's pushing this oil droplets.
+The oil droplets are merging.
+And, uh, let's say that every one of these oil droplets or vesicles has 2,000, which you have now, uh, instead of 2,000 being released, you have, uh, 10,000 being released.
+Uh, well, we're talking about, like, you know, twice as much, three times as much, but one, two, or three.
+So, so, so 4,000, 6,000, but then there's, like, you know, maybe, maybe there's, uh, 6,000, maybe there's 12, maybe in a small area now, instead of the usual 2,000 or 4,000, uh, you know, there's multiple sites.
+Uh, and, uh, there, uh, now there's, uh, 6,000 to 12,000, but the point is that whether there's 6,000 or 12,000 neurotransmitters, uh, these things are now, uh, floating.
+And, uh, normally they would hit some of the receptors on the other side, but if there's, if there's five times that amount, or if there's twice the amount, um, you're going to, uh, the lateral spread of these, of these neurotransmitters,
+the neurotransmitter droplets, is going to increase to the point where you have receptors, uh, that would have never diffused, because they, because, uh, they're going to be, uh, diffused further and further because the spread of the neurotransmitters is going to move laterally.
+It's going to affect, uh, uh, receptors that normally wouldn't be reached, um, they're going to be receiving these neurotransmitters.
+And so, uh, in that case, so the idea in machine learning is that every neuron has a connection to every neuron and has a neural already.
+For artificial neural networks, we're talking about, instead of a neuron talking to all neurons, uh, above it, um, what would happen is that a neuron's, what a neuron transmits would be localized.
+So, uh, neurotransmitter based, so, um, that's like, it's like saying that, uh, maybe it would, maybe it's, okay, so maybe it's connected to all neurons, um, but not all receptors, right?
+So, not all receptors of all neurons, and so, uh, so what we're saying is like, yeah, we, um, we're going to, we're going to disperse a signal to all neurons, uh, that are connected, but not all neurons, not all, um, uh, receptors of all neurons.
+So, if we have, if the neuron has a, a longer, uh, spike, then what happens is that we can, we can transmit spatial information by activating more receptors on each of the downstream neurons.
+Or, or, we could have a situation where we're purposely limiting the number of neurons that, uh, each neuron reaches, and we're limiting by scale.
+So, we could say like, yeah, so this is like the receptor effect, right?
+But, so, that'd be like, yeah, each neuron has multiple receptors, and so, you could have a situation where each, uh, neuron has four connections to each extreme neuron.
+And so, they're going to activate zero, or three, like, yeah, it's like zero, uh, it's either going to activate, um, one, two, three, or four of those, uh, connections to the upstream neuron, right?
+So, it's going to, um, so, or you could just say one, let's say each neuron has three connections.
+It's either going to activate one, two, or three, or it's not going to activate.
+Um, so that's the idea of the artificial neuron, is it's going to convey spatial information by, uh, by, uh, by touching that same neuron three times, uh, instead of in one instance, three times in one instance, as opposed to, so it can, so yeah, so that's spatial information.
+So, it's like, yeah, we have a frequency information, and frequency is like, I can tap you three times, uh, or I can tap you, uh, one time in three places, right?
+So, you're conveying, or I can tap you two times, and, uh, I can tap you in two places at one time, uh, or I can tap you, uh, in two places at one time, in three places at one time, in one place at one time, in no place at one time, and then in two places at one time.
+And so, I can send, uh, spatial, I can encode spatial patterns, uh, among the frequency patterns.
+I can encode spatial patterns among the frequency patterns.
+And so, I can be like, okay, I'm going to send you a two, I'm going to send you a one, I'm going to send you a two, I'm going to send you a three, I'm going to send you a zero, I'm going to send you a three, I'm going to send you a two, I'm going to send you a one, I'm going to send you a two, a one, a three, a zero, a two, a two, a zero,
+A one, a two, a three, a three, a one, a two, a one, a three.
+I'm going to send you a spatial pattern with every frequency pattern.
+So it's like, you get a frequency pattern, you get a spatial pattern.
+You get a frequency pattern, you get a spatial pattern.
+You get a, okay.
+But see, that's the thing.
+It's not such, the frequency pattern can also have an amplitude.
+So you can have, basically, a tempo, a spatial, and a phase.
+So you can have, I'm going to send you a low two, I'm going to send you a high two,
+I'm going to send you a high three, I'm going to send you a low three.
+Right, so you have all these phases that you can send.
+So it's not just a two, it's a rough two, it's a rough two, it's a soft two, it's a rough two,
+it's a soft two, it's a rough two, it's a soft two, it's a rough two, it's a soft two.
+Right, that's the phase information.
+I'm going to send you a hard three. A hard three. Like, three fingers touching you. Two
+fingers touching you. Three fingers touching you hard. Two fingers touching you soft. Three
+fingers touching you soft. Two fingers touching you hard. Three fingers touching you hard. One
+finger touching you soft. No fingers touching you. So that's an example of like phase or
+frequency or amplitude it's the hardness of it and so now you have three
+dimensions you've got the frequency which is the rate you've got the spatial
+which is how much contact and then you've got the hardness how much pressure or
+amplitude what's interesting is that is that in the book on intelligence he
+talks a lot about that how there's their tempo patterns and there are frequency
+patterns and it's really but really there's three types of patterns there's
+temporal there's frequency and there's phase okay and the thing is like okay so
+the reason those are different is because I'm sorry no I'm sorry
+it's so actually so there are so there's temporal there's frequency but those can
+be converted into like you can have a wavelength that can convey combine
+temporal frequency so it's actually there's temporal there's spatial where
+you're taking spatial information okay you can you could decode spatial
+information as frequency information you could okay but the problem is that that
+you're taking something that is you're convert you're converting right so
+anyway so you have the phase information so basically yeah so you have so if you
+have a frequency a frequency could encode beats like binary beats and you could
+decode spatial information from frequency information right but
+you're still but you're still losing a lot so what I'm talking about is like yeah it's but here's the
+thing say so you're you're you're you're but the point is that the the the neuron is transmitting
+uh it's transmitting okay so but here's but here's the real question okay so is the is what being
+transmitted is it only a matter of the frequency of the oscillation and the size of it because then
+you're back to two different patterns one is like how much like and that could be like that could be
+like a bridge that could be interpreted as like force right it could be interpreted this force
+because you're because there's more force that's being forcing that's forcing uh so the time window
+opens and the more calcium comes in synaptic tagman is forcing out the oil so that could be an indicator
+of force or pressure so maybe um yeah so maybe the uh your because there is actually there's actual force
+happening and the force could be registered uh by pushing the the neuro the vesicles so there's a force
+that's pushing the vesicles and that force is going to be like uh that force is going to be counted uh
+because more of the network is going to be activated so more of the network is going to be changed
+and that change is the accounting of the the change of the of the network registering
+the vesicles is going to account for the change in the force of the release of the vesicles
+so it's the the so the change in the quant in the in the amount of k is going to affect the time
+so time is being uh the the time uh that so there's a there's a time duration and the time
+do so the so you have time that's being converted into force uh but the time is being converted into force
+from force so you have a force which is you have a force which is the potassium uh right but that's
+changing the the the time and then the time is changing another force you have a force it's changing into time
+and that's changing into another uh force um and then uh which is being which is being registered as um
+so uh yeah okay so um what i learned earlier in this call which is interesting that i sort of glossed over
+when i was talking to him was that he was saying that uh you have the sodium releases this positive sodium
+when it starts getting released releases a positive charge and then the potassium releases a negative
+charge but the potassium there's too much passing it gets it gets released it creates a hyperpolarization
+with it where the neuron is more negative than when it began so if the neuron is more negative than
+when it began that sort of matches the idea that hey well the same neuron or the same group of neurons
+could fire could be more likely to fire again because they are at a lower negative and that's going that you
+know like the like the that may attract a future signal like this because it's at a lower negative
+that's gonna change that might change uh that might attract a future signal even faster because it
+because it fired it's it's it's more ready to to fire again um or or maybe it's maybe it's gonna maybe
+it's actually uh gradually slowing down over time i don't know so it's nice

@@ -1,0 +1,55 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0006 NAPOT 6
+First recorded: 2022-10-14T03:46:38.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/b8ede638-f165-4890-b2e6-e0eabdc9be5d
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So to Darren Reynolds and Darren Reynolds, he wrote, and I have a note on this, he wrote, sadly my attendance span can't manage 1 hour and 44 minutes.
+I did get a couple of minutes in. It's hard to see how qualia, which are physical phenomena, can be created by means so vastly different to the means that we know how to produce them.
+Imagine that instead of qualia, you're trying to produce a magnetic field. It doesn't matter how fancy you're software, you're not going to get the desired results.
+The idea that you can abstract away the physical layer, it doesn't matter. It's like trying to connect to Wi-Fi by doing the calculations with a pencil and paper.
+My argument is that the oscillating magnetism is helping to bind the qualia together
+So it's helping to bind the projections from neural arrays to other arrays in oscillating feedback loops.
+And the physics of the oscillations transform the signals that are being passed.
+They even out. The sensory inputs are disruptive to the synchronous field, and the synchronous field wears them down.
+And through the iterations, it's kind of like noising, kind of like the concept in diffusion neural networks, where the input gets gradually noised, but the neural network changes through each iteration of the noising.
+And those changes reflect the learning. And those changes reflect the learning of what that pattern was, and that affects the sort of like the individual synaptic connections of each neuron.
+And what patterns that neuron, and what patterns that neuron is going to respond to, and what that neuron's responses are going to be.
+And there's, you know, the oscillating activity helps to harmonize what the neuron is receiving, what it's detecting, and helps to harmonize a reaction from the neuron on the output side of the neuron by changing the weights of the, by changing the, by up-regulating or down-regulating the activity of individual synapses.
+And the post-synaptic side, which is on the post-synaptic side, on the transmission side of the neuron, the post-synaptic side of the neuron, the transmission side.
+I said post-synaptic, because it's thinking about the neuron as having, you know, a front and a back, pre-synaptic side, which is like the basal dendrite or the receiving dendrite, and the post-synaptic side, which is the apical dendrite or the axoterminal.
+And, um, the, the concept is that, um, you have sparse and distributed representations that, you have sparse and distributed memories, and then you're, you're, um, uh, on the front of, on the pre-synaptic side of the neuron, and you have sparse and distributed actions that are learned by the post-synaptic side of the neuron.
+And, um, and, um, and the, the quality of the signals at the synapse level is, is, is, it's really simple.
+It's like a variation in, in, um, the, um, the, um, it's a variation in the synaptic, um, valence, um, like it can be up-regulated or down-regulated.
+So the synapse could be increased or decreased, and, um, um, that individual synapse is, is, uh, activity is going to sort of like, that is like the pixel.
+Those are the pixels on the screen in your mind.
+Those are the individual synaptic activities.
+And they're perceived by the, um, by the receptive fields.
+And they're created by the inceptive fields.
+And so, um, it's like, um, there's a lot of different TV screens and the computations that, the, the, of the neurons in the brain, the neural computations.
+And I'm not, and I'm not forgetting about the glial computations.
+I'm just focusing on the neural computations for a moment.
+Because there are other kinds, there are other types of cells.
+But in general, um, uh, there's good reason to, to, uh, in order to get this concept across to focus on neurons.
+And, um, but the same concept applies with, uh, glial cells and other types of cells.
+They're just, they just do things differently.
+They do things more, um, when I say one of the main, main differences.
+Um, I don't want to describe it like that.
+Um, but like, okay, let's, I don't want to get into the discussion.
+So, um, the point, the point was that, um, if we understand the essential process of what's happening.
+Okay. Okay.
+We understand that, you know, I think I wrote that if you, the idea is to create a temporarily consistent pattern that, um, through a process.
+What I'm saying is we can separate the, if, if we could create a different process that achieves the same result.
+Which is where, um, which is where a robot has the same sort of, like, feeling of being conscious.
+Through, uh, through a different, uh, without, without, um, we're just simulating, we're just simulating magnetism.
+Right? If we could, because we, we have game engines, and game engines have physics.
+So we can simulate physics, we can simulate, uh, the process of how signals travel, and how signals combine, and how signals transform, and how signals are transformed by other signals.
+And we can recreate simulation of feedback with the brain activity of a person in a digital environment with one-to-one physics.
+And we could even, like, like, have sensors, have a computer, you know, use actual sensors that, um, that allow the, um, the digital agent to collect real sensory, uh, activity in a virtual world or in the real world.
+And then, uh, can, through, by defining the flow of information in an organic way that matches the way information flows in our brain,
+we can create the kinds of transformations to the information that our brains are doing organically, we can do it artificially.
+And so, um, what matters is that the, um, the stages of the results that are essential are identified and separated from the, um, the stages of the results that are, um, essential to the function but can be simulated but aren't essential to the observation or the experience.
+Um, of, um, of the, of entification, of being an entity.
+And, um, so, uh, so this, uh, this connects with the note on NAPOT 6 and, um, and the note to Darren Reynolds.
+Thank you.

@@ -1,0 +1,779 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0005 bill harris neural strategies
+First recorded: 2022-10-14T05:23:03.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/da16af24-d5e3-40a9-8379-7d4e430272a8
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Another thing to note is, um, so I'm the one who's proposing that basically all of our sensory inputs are, um, volumetric representations. Now, there's some inspiration for this. Like, I was inspired by a class I took called, um, Life Principles Integration Process at Centerpoint by Bill Herons, where they talked about, um,
+he talked about seeing, he talked about using your awareness, and your awareness expands with his, his audio meditation program, his brain-waving trainment. Um, the idea is to just watch how you do things. Watch how your mind creates, um, strategies that consist of sequences of modalities that your, that your mind
+produces so that you accomplishes so that you accomplish a task. And then pay attention to feelings around those strategies so you can help identify, um, the, both, you know, so you can help identify the whole process from when they begin as a feeling to when they end up as a result.
+That's interesting. Um, but, you know, it was, and then I was also inspired by the, um, you know, I read the book On Intelligence, and he talked about how basically the operation of, uh, the operations across the whole cortex.
+And he, and he, and this is like, uh, uh, there's a research paper that I referenced that first, you know, shared this idea of sort of uniformity of function across, um, the neocortex, across the cerebral cortex.
+And, um, and, um, and, um, and there's sort of a uniformity. There's a, a function that extends into the, the hippocampus, um, which, um, Usaki, uh, will, uh, has argued is like a, uh, is like another cortical column.
+Um, and so then you go back to Jeff Hawking, and that's book A Thousand Brain, and he's argued that, um, that certain things that, like, place cells and grid cells, certain functions that are associated with the, um, with the hippocampus, uh, also seem to exist in the neocortex.
+And so he describes the cortical column, a cortical column of the neocortex, as having, uh, sort of rapid sense of inputs, and, um, slower, like a slower, uh, frequency at the top, which is sort of like the reference frame for the incoming inputs.
+And so he describes that a cortical column is something that might represent something in receptive fields, and the coordination of, of a cortical column.
+Um, I think it's the, and, and, and, and, I don't think that, I, I, I, I don't know what he would say, but I don't think he would disagree with the idea that, that, that you're going to have multiple cortical columns, uh, working together to represent different aspects of the information that's, that's, that's, um, that's integrated together.
+So the idea is the, the, the representations of touch, um, might be, um, might be, um, active in the somatosensory, uh, area, uh, columns, cortical columns.
+And the, the, what you're seeing, when you see what you're touching, when you hear what your, what your hands are interacting with, um, those will be represented in the auditory cortex and the visual cortex, respectively, or irrespectively.
+But, but, the idea is that, and then, maybe in the temporal prior junction, you have a cortical column that is communicating with and coordinating and synchronizing with the, um, with the other brain areas to make the, the incoming sensory inputs have a context, which is the, which is the reference frame, right?
+And then, so the, so the, so the reference frame is, like, try, the, the concept of reference frame is, like, there's a representation that's being tracked in the long term, which is, um, the very stable representations, and there are changes to those very stable, change, to those very stable representations that are, that are unstable that are coming from the sensory inputs.
+And that's, and that concept of, of sensory inputs and reference frames, um, is sort of the, um, that matches the concept that I, that I have separately come to, on a different path, of the ground of being, being, where, uh, so I read this book called, there's a concept in Eastern religion on the ground of being, but I read a book, uh, called The Neural Basis of Free Will, by,
+Peter C. And, um, and, um, and, um, and a lot of, and a lot of, and a lot of think a lot of people avoided that book, a lot of serious neuroscientists may have avoided that book because it's, because it, because it, because it has a topic, uh, the topic of free will is the main topic, and it's not very popular, because neuroscientists are, tend to, tend to be leaning towards, like, leaning towards, um, uh, determinism,
+and, uh, so it's, on the surface it's, it's a philosophical argument, but in reality, like, in perspective of what everyone else is saying, it's an extremely, um, heavy neuroscience book.
+So it's like neuroscience, philosophy, really, um, because it's trying to cover both really hard neuroscience and philosophy at the same time.
+And, um, so I never, I, so I don't exactly agree with, I don't exactly, I mean, it's, it's weird to say, like, I don't exactly agree, I don't exactly disagree, it depends on what we're talking about specifically, because the book covers a lot of things.
+Um, I don't think that, um, his argument can rule out determinism, because you can have, you know, you can have, uh, random activity in the brain, you can have indeterminate, um, activity, you can have quantum interactions, you can have probabilistic quantum interactions, you can have probabilistic classical interactions,
+and all the randomness, and all the randomness, and all the randomness, and chaos, and uncertainty, and probability in the direction of,hin, the chaos in the direction of the, of what competition might be outputted by the brain, um, doesn't erase a concurrent possibility,
+which is that it's also at the same time deterministic
+because things that appear to be random or probabilistic
+can have, or chaotic.
+In Stephen Storgett's book, I think, addresses this.
+Stephen Storgett's book is saying that something that appears to be chaotic
+may actually have like a boundary.
+It's only chaotic within a certain boundary.
+And then after you get outside that boundary,
+it's predictable.
+I think it's like, you know, there's somewhat predictable half-lives
+for nuclear radiation, even though it's sort of unpredictable at the moment.
+What's going to happen on a short-term scale?
+I don't know if it's always going to be unpredictable.
+I mean, we're talking about, you know,
+will quantum physics become, you know,
+it is, quantum physics is pretty predictable,
+even though it's probabilistic.
+It's predictably probabilistic, right?
+I don't know.
+I'm spinning a little bit of any pauses.
+So Peter C.'s book led to this discussion of tonic frequencies,
+really, like, you know, phaser firing and tonic firing.
+And so he was trying to describe, like, you know,
+a neuron as a coincidence detector,
+where the coincidence happened, you know,
+at the receptor level, like at the NDMA receptor,
+or the AMPA receptor.
+And everything happens on him.
+And from the neuroscientists at Dartmouth,
+you know, a lot of the research has been trying to, like,
+understand how the brain does something
+at the millisecond timescale,
+and we get its output at behavioral timescale.
+And there was this whole, so this whole paper,
+behavioral timescale synaptic plasticity,
+shows how even a single neuron can track events
+that happen over multiple seconds.
+But before BTSB, you know, this book,
+the big search was, well, how does, you know,
+neural activity at the millisecond scale
+turn into behavior and thought
+that happens over the scale of seconds?
+And some people say, well, in order to remember a thought,
+if all of the activity of your neurons happens
+on a scale of milliseconds,
+then how are you able to remember
+a phone number for 10 seconds?
+Right?
+Like, just pick 10 numbers
+and remember them for 10 seconds.
+But, well, if you're converting them to milliseconds,
+like, if your neurons have to, you know,
+the idea is, the idea is that somehow, you know,
+if your neuron can only remember something
+for a millisecond, you know,
+which is one thousandth of a second,
+something like that,
+I hope that's right,
+and then how do you remember something
+for 10 milliseconds?
+It was an idea is that the information
+has to be keeping passed around,
+passed back and forth again and again
+and again and again and again
+so that it lasts for, you know,
+I don't know what the exact calculation is,
+but I guess it's like about,
+if you want it to last for one second,
+then it has to be passed back and forth
+a thousand times in that one second
+at the millisecond ring between neurons.
+And that's a lot of redundant,
+it seems like a note,
+it should be a lot of redundant activity,
+very inefficient way,
+but that is actually not,
+it is not the case
+that information has to move that fast
+in order for you to remember,
+move that fast and that often
+in order for you to remember something
+over the scale of seconds.
+With behavioral time-scale synaptic plasticity,
+we see there is a mechanism
+for you to, for playback to be much slower,
+for playback of memories.
+Memories can be played back
+by individual neurons
+on a multi-second time scale
+and the more, I think I covered this
+in NAPFL5, but the more neurons are involved,
+the greater the time scale can be increased.
+We can talk about remembering things
+over hours and days and weeks and years
+and over a lifetime.
+And so, but in thinking about Peter C's work
+about the difference between tonic,
+pre-quint tonic firing and basic firing,
+I had the idea that somehow
+the tonic firing, the tonic frequencies
+represented the ground of being,
+which comes from the Eastern religion.
+But I think that it connects
+with the idea of tonic firing
+that Peter C talks with,
+and the idea of reference frames
+that Jeff Hawking talks with.
+So imagine if you take,
+if you take the reference frame
+out of the cortical column
+and just consider the slow tonic waves
+that are at the tops
+of all the cortical columns.
+Now you're not just considering
+one cortical column,
+like in Jeff Hawking's book,
+you're considering that all of them
+are collectively a reference frame,
+like, which I compare, you know,
+the outer sort of like the gray matter
+of the brain to be like the retina
+in terms of, and the retina is like
+a fractal of the brain, you know,
+the gray matter on the outside.
+And so in that sense,
+you can think of like a reference frame
+as something that is not just receiving data,
+but it's sort of focused,
+it's helping to focus the data
+back towards the center.
+The center.
+In the center, you know,
+we might be talking about the thalami.
+Those are pretty central.
+We could talk,
+there's other areas that are pretty central,
+like there's many like major intersections,
+like a temporal parietal junction
+is pretty central.
+There's the hippocampus is pretty central.
+But the idea is not that there's,
+the idea is that the mind
+is not in a specific location,
+or it's not consistently
+in a specific location.
+It's in a specific location temporarily.
+But in the next frame,
+it's in a different location.
+It's like the location of the mind
+within the mind,
+the location of activity within the mind,
+is virtual.
+It's virtual because it's,
+because the activity is moving around.
+And the representations are moving around,
+and they're being transformed
+as they move around,
+because each area of the brain
+remembers and re-renders
+its representation differently.
+And so the idea is that the tonic idea is that
+the different sensory regions
+that receive the sensory inputs,
+like the somatosensory cortex,
+that receives your touch input,
+taste input,
+the visual cortex,
+that receives your visual input,
+and the auditory cortex,
+that receives your hearing input,
+and you have,
+the point is that
+each of those regions will be sort of,
+the neurons will be more
+specially tuned
+to represent renderings
+from that sensory organ
+over time.
+And you could,
+you can,
+this has been proven,
+David Eagerman,
+the neuroscientist,
+talks about in his book,
+Incognito,
+he says,
+you know,
+you can take the rat's eyeball out
+of the eye socket
+and plug it into the ear socket,
+and the rat will learn to see
+through the audio cortex pathways.
+And that is accomplished
+because
+the sensory input begins to,
+begins to make specific changes
+and then,
+signals from,
+from the eye
+are different from the signals
+coming in from the ear.
+And the differences in those signals
+cause the differences in
+how the neurons react
+and so they form
+different connections
+and over time
+they learn to represent
+the signals that were coming from,
+from,
+from a different kind of organ
+to a new kind of organ,
+but
+they're not going to represent
+those signals in exactly
+the same way
+because they have
+previously learned
+auditory signals.
+signals.
+And so now
+the brain is blending
+what it learned
+from,
+from the study
+of auditory signals,
+basically from the changes
+of auditory signals.
+And
+it's blending them
+with
+the changes
+from
+visual signals.
+When,
+when an eye
+is put into
+part of the brain
+that was
+learning signals
+from the ear.
+And so
+those signals
+are transformed
+and they get
+noisier
+as they move
+towards the
+tonic frequency,
+which is like
+the reference frame
+or the ground of being.
+See,
+I'm like merging
+these different metaphors
+together.
+And
+so the general idea
+is
+sort of like
+the uniformity
+of function
+across the whole
+cortex,
+across every
+colon column,
+including the
+hippocampus,
+is this
+idea
+that basically
+all of our
+sensory representations
+are represented
+in a volumetric way,
+which means
+they're
+spatial patterns
+that have
+a time element
+immediately.
+They're spatial patterns
+that transform
+all the time.
+So,
+you know,
+through
+the practice
+of self-awareness,
+I,
+you know,
+in taking this class
+and doing meditation,
+I began to think
+of
+my
+feelings,
+and the class
+helped,
+and the meditation
+helped,
+but I began to
+think of my
+feelings as having,
+I almost hear
+Bill Harris' words
+talking about this,
+feelings as having
+like a place,
+a location.
+It could have been,
+you know,
+I could be feeling
+feelings in my heart,
+I could be feeling
+feelings,
+and really feeling
+feelings everywhere
+all the time.
+The intensity
+of feelings
+can increase
+or decrease,
+it has a start,
+it has a duration,
+it has a peak,
+it has a fade,
+it can be sudden,
+it can be slow,
+it can be
+in front of me,
+behind me,
+to my right,
+to my left,
+feelings can come
+from anywhere,
+they can be big
+and dramatic,
+they can be light
+and easy,
+and
+same thing
+with smells,
+like smells
+have
+a dimension.
+you know,
+you know,
+for me,
+like,
+like,
+there's,
+it's like a lot
+of little particles
+that are spread
+all over the place.
+And,
+um,
+so it's like,
+imagine if volume,
+if you're going to
+represent it,
+what that feeling is
+that you just,
+that I just described,
+just imagine like
+a point field,
+like a 3D point field,
+like a volume
+natural point field.
+and so for smell,
+we've got a lot
+of different particles
+all over the place.
+And imagine that's
+happening in circles.
+The whole idea is
+that all of our
+sensory inputs,
+the,
+what you see,
+what you hear,
+what you feel,
+what you taste,
+what you see,
+um,
+you know,
+the texture on,
+on your,
+on your,
+uh,
+the texture of your food,
+the texture of your,
+of your utensils,
+like chopsticks,
+or forks,
+or,
+or,
+you know,
+the sound of glass,
+all of these are patterns
+that are volumetric patterns,
+which means they exist in,
+you know,
+like,
+like,
+imagine an XYZ graph
+that defines a 3D space.
+They exist in space,
+and in each
+interval of time,
+their existence in space
+is transformed
+or rendered differently.
+And so the idea
+is that your whole brain
+is rendering
+a concurrent pattern
+consistently
+when you're conscious.
+And that conscious pattern,
+which is the tonic
+brainwave frequency,
+is,
+is disrupted
+and defined
+by
+sensory inputs
+that sort of
+shape that pattern
+into your perception
+of the world.
+They shape it
+in live and real time.
+And so when you're
+experiencing a room
+and, like,
+lights and candles
+or you're experiencing
+outdoors,
+what's happening
+is that you're,
+you have,
+um,
+this,
+this, uh,
+cyclic wave,
+cyclical wave
+that's oscillating
+and it has a regular
+pattern
+and it's being
+changed by the
+incoming sensory
+input patterns.
+Those are more waves
+and they're defining
+what your perception is.
+And then
+they continue
+to resonate
+after, like,
+like,
+the patterns
+are persistent.
+It's like,
+um,
+but as you
+move,
+as you move,
+the, um,
+the sensory inputs
+drive new patterns.
+And so it's,
+it's sort of like
+imagining that
+your consciousness
+is like this
+very milky substance
+that can change
+very quickly.
+But it's consisting of,
+like,
+it's consisting of,
+um,
+I want to say
+pixels,
+but it's consisting
+of synapses
+that are active.
+The brain's
+flow of information
+in the brain
+is a loop
+so that
+the brain
+is transmitting
+these,
+um,
+these, uh,
+these pixels
+in a loop.
+It's like,
+it's like if a TV
+was,
+um,
+broadcasting
+its screen
+to its own
+sensors
+in a very abstract way.
+And, um,
+nice.
+This is good.
+Yeah, so
+that's why,
+um,
+you know,
+the uniformity
+of the,
+um,
+of the functions
+of the cortical
+column,
+which is an idea
+that I'll have to
+find in the article
+where that came from,
+but it was talked about
+in,
+in Jeff Hawking's
+program on
+intelligence.
+And, um,
+so I saved the article
+where that came from
+in my notes.
+But the idea is
+that all of our
+sensory inputs
+that are very distinct
+in terms of the
+patterns that they take
+are similar in the way
+that, um,
+they're all
+volumetric representations.
+But they're all
+different volumetric
+representations.
+Which means that
+they are representations
+that we can compare
+to other representations
+because there's
+a sort of
+baseline,
+which is this
+x, y, and z,
+uh, matrix.
+I mean, uh,
+matrix is not
+the most useful
+for an x, y, and z,
+um, uh, graph
+plot, like a 3D plot.
+That's transformed
+over time.
+And your 3D brain
+is capable
+of having a,
+of managing a
+3D plot
+of information
+that transforms
+over time
+with each,
+each interval
+of time.
+You know,
+at the millisecond,
+we're talking about
+milliseconds,
+um, but also seconds.
+And, uh,
+and also hours
+and days.
+We're talking about
+transformations
+of
+a pattern
+that is
+rendered
+and fed
+upon itself.
+And the self-awareness
+part
+comes from
+when the
+computer
+has,
+is able to,
+um,
+sort of, like,
+build a model
+of the
+cyclical
+physical
+entity
+that's basically,
+like,
+um,
+representation
+of you
+in terms
+of
+what you do
+and what
+your actions
+are.
+And so,
+in a sense,
+you're like a
+flowing river
+that loops,
+loops on,
+loops on
+itself.
+Process,
+the physical
+process
+of this
+strange loop,
+which is
+described so
+well by
+Douglas Hofstadler.
+Um,
+you know,
+here's this book,
+Gold,
+Asher,
+and Bach,
+and I'm a
+Strange Loop,
+two books,
+The Eternal
+Global Brain.
+So this,
+this process
+of this
+information
+looping,
+not just
+inside your
+brain,
+but also,
+um,
+as you
+study your
+own actions
+and observe
+the consequences
+of your actions
+in the ecosystem
+around you,
+it's also
+a part of it.
+So it's not,
+it's not simply
+your brain
+activity inside
+the brain,
+it's your
+brain activity
+inside the
+world,
+inside your
+ecosystem,
+inside the
+universe,
+whatever.
+That sort
+of,
+like,
+flow of
+information
+between the
+universe and
+your brain
+is,
+um,
+is a
+pattern that
+leads to the
+rise of
+self-awareness.
+But the
+self-awareness
+is this
+loop.
+And, um,
+so in that
+part of it,
+I think that,
+you know,
+Douglas Hobbs
+ever,
+uh,
+really
+nailed,
+um,
+the essential
+concept of
+self-awareness
+better than,
+better than
+anyone.
+I mean,
+I've heard
+that,
+you know,
+people say,
+well,
+I think
+they're
+before I
+am.
+That was,
+that was
+pretty,
+that's a pretty
+impressive
+phrase.
+There's other
+many historical
+phrases that,
+um,
+that,
+uh,
+collective
+they were
+pointing,
+pointing
+this off,
+you know,
+um,
+and,
+um,
+that,
+Thank you.

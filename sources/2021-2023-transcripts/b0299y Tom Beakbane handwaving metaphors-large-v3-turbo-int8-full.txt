@@ -1,0 +1,443 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0299y Tom Beakbane handwaving metaphors
+First recorded: 2021-05-05T21:23:34.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/9ce04666-98fd-41cc-8625-8a0acdbed799
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Using the bridge term. And, of course, there's the other one, which me and a lot of other scientists and engineers do, is like, well, but how does that work? How do we actually get to that point? Then that's the reductionist point, and that's a lot messier. So, I'm done talking.
+Thanks, Michael, for coming back. Garrett was responding to you, so I pinged you.
+Yes. So, Michael, I was replying to you that it wasn't holism I was trying to, but a level of description, and especially more along the lines of propositional states or propositional attitudes that were to really have been championed by John Searle in regards to I have an attitude or I have a thought, feeling about the world, and I've decided to take action on it, those type of things.
+It not even has to be conscious, it just has to be, it's along those, it's along that propositional line, and it's essentially more of a description, it's more of a type of description than it is a science or a model.
+Cool.
+So, that was it.
+Can I riff off what we've just heard from Garrett and earlier from Chris and also Wayne's incredible story there about...
+Yeah, and I'm also very interested in Wayne's question with respect to the title of the room, right?
+What do we really mean by the truth about ourselves?
+Like, even this questioning of our understanding of objective reality implies that maybe it's a little ridiculous to even posit that there is a particular truth about ourselves.
+Like, there's a bit of a contradiction there.
+Cool.
+Okay, I'll try and bring some clarity as I see it.
+Okay, so Wayne was mentioning Edward O. Wilson and consilience, and so I believe that we're at a point in time, a point in history,
+where developments in a lot of different fields are coming together, they're jumping together in Edward O. Wilson's terminology,
+or in William Pugh's terminology from 1840,
+and that biology and chemistry and physics and computation is now offering different ways of looking at the world that weren't obvious to us 20, 30, 50 years ago.
+So when behaviorism was the rage, and Chomsky was railing against that,
+the sort of the two mathematical ways of viewing the world were on the one side view randomness that can be modeled very effectively using math,
+and then you had the mechanistic ways of thinking about the world where everything has a cause and an effect that you can measure.
+After the last 30, 30 or 40 years, this huge new realm of mathematics has opened up between those two extremes,
+and that is the whole realm of complexity, chaos, fractals, you know, deterministic randomness,
+like there's just so much that has been provided to us by mathematicians.
+And now, of course, we have the computational folk like Stephen Wolfram,
+who's saying that they can come up with rules of the universe from the ground up using sort of cellular automata type ways of thinking to re-conceptualize physics.
+So the world has advanced from the 1900s,
+and that that enables us to re-conceptualize the way we think about the human mind in that the human brain and every single neuron in it is a complex critical system.
+It's every single neuron is operating on a knife edge of either reacting or not reacting.
+So we're actually tipping towards liking something or disliking it.
+And we observe this in the public domain to an unbelievable extent these days,
+in that the human brain is what I call instantly and fluidly tribal.
+Whenever you encounter anything, and of how our neuronal systems work,
+we are, every single organism is all the time anticipating what's going to be happening next.
+Now, is this thing good for eating, or is it like poisonous?
+Is this person going to kill us, or are we going to procreate with them?
+So, this question, can humans accept the truth about themselves?
+We find it very, very difficult, almost impossible,
+to acknowledge the depths of our instant and fluid tribalism.
+And if we actually look at how the human brain is not fantastically different from every other animal brain on Earth,
+we're going to educate out of ourselves this instant and fluid tribalism.
+It is how we come at everything.
+And every single one of you, you know, when you're hearing me talk, you're making the judgment,
+you know, is this guy an idiot, or is he someone I can agree with?
+It's ourselves that we find very, very difficult to acknowledge.
+So, Tom, I will challenge you a bit on that.
+So, I still am not completely clear on the exact, like, critique or claim or observation that we're analyzing.
+So, I would say you're certainly not polarizing, just because we haven't found anything really clear, I think,
+to agree or disagree with.
+Yeah, maybe you could just define what truth is.
+If I can, I can talk about it.
+Well, I think I want to hear Tom's definition of truth.
+Sorry, I don't mean to cut you off, Fernando.
+Sorry, yeah, I do want to hear Fernando's thoughts, because he's been on stage for a while.
+Well, can we, maybe Tom can spend a few minutes kind of thinking about his answer,
+and we can hear Fernando, and then go back to Tom.
+Great, and just one more point of clarity.
+When you say humans, you mean all the humans on the planet, correct?
+You're not talking about small groups that might be able to get to somewhere, right?
+Yeah, all humans, that's what I'm saying.
+Okay, thank you, thank you.
+I'm Portuguese, so sorry for that my English can't be so fluent, but I'm very interested in this discussion,
+because I'm a behavioral data scientist, and I study human behavior, and the question about this question,
+for me, is this word, the truth.
+What is truth under human behavior, and under our discussion, and right now,
+it's a very large discussion, and starting in philosophy, in all philosophies,
+but the question is, ourselves, it's different beyond each one of us,
+because truth is based on beliefs.
+As Tom said, I believe, it's about beliefs, and this belief is based on information.
+So, what information do I have that constructs my beliefs?
+And then, this discussion that Alec told about top-down processes and bottom-up processes,
+I believe it's like Simon Sinek says, an infinite game in our brain,
+because we start with a bottom-up process that, after, for example,
+dopamine released in our brain makes us to believe in a better world this moment, right now,
+but then, like Wayne, for example, it has a problem in their life,
+and everything changes in this process that is a bottom-up, a top-down process.
+It's a mixing, it's not a hierarchy based on our brain.
+So, we cannot accept the truth about ourselves, or can we?
+This is based on our beliefs and the way we see the world.
+And it's very difficult to find a formula for the human brain to understand
+if anything goes exactly happen at the same time, in the same brain, in the same happening.
+It's not possible.
+When we study behavior, pure behavior, it's a singularity.
+What happens at this moment in this room, for example, our speech, it changes in the next speech.
+So, I will change the speech about other person, and some people, like Wayne, like Alec,
+change my ideas about what I'm going to talk about.
+And this mix-up became in this own singularity that we call behavior.
+So, the question is, that I give to the room, truth is a singularity,
+or do we have a Cartesian problem that everything is predicted,
+we can predict that this cell will make this synthesization about this protein,
+and then we'll form a memory in this neuron,
+and then this memory will predict this behavior, and this behavior will predict this belief.
+It's not possible for now.
+So, the question is, who is, who owns this truth about everyone or about himself?
+This is the question that I like to propose in this analysis,
+because in my work, when we work with behavioral data science,
+with all the knowledge that we have about Kahneman and others,
+it's very difficult to predict or to understand what is this mainstream prediction about human behavior,
+and that's the good part of this process, I believe.
+I think those are great questions, Fernando and Lilith.
+And I would respond by saying this.
+When you use a word like truth, you're dealing with people who think like you.
+It's very clear what it means.
+It's socially constructed.
+And so, if you acknowledge that the meaning of the word truth is dependent on our collective understanding,
+then you acknowledge the significance of social interaction
+and thinking similarly to the people around you.
+If you, however, think the word truth has some symbolic that is dissociated from our social beings,
+then you step into the world of Chomsky, and I think Stephen Pinker as well.
+You step into the world of believing that this thing has a call that is separate from biology, tribal loyalties.
+And I would argue that to believe that truth is somehow dissociated from our biological selves
+is something that we, mythology of science.
+Can you go deeper into that area?
+Because that's where I think I'm...
+It's an axiomatic pattern for you?
+Can you just explain what you mean by axiomatic pattern?
+When we believe that we don't discuss something, because, for example, a chair, it's a chair for everyone.
+So, we accept this chair is something with four legs and something placed to sit.
+But the characteristics of that chair and the use could be different.
+But we all accept this chair is a chair for everyone.
+And this is an axiomatic pattern, like one plus one, it's two, for example.
+So, it's a kind of Kurt Godel, in complex, of systems theory that can change this vision.
+But, for example, when we talk about mathematics, it's based on axiomatic patterns.
+Correct?
+Yeah, okay.
+The matter of a chair aside, because, frankly, that's easy to demolish.
+I mean, there are thousands of different types of chair.
+And it gets really blurry.
+You know, is a log a chair?
+But if you, you know, hack out a little chair?
+So, it's a blurry notion.
+So, that one's an easy one to demolish, I mean, because it's socially constructed.
+And you can show a thousand people a thousand different types of chairs.
+And you're not going to find that everyone has exactly the same convention of a chair.
+It's a hot dog a sandwich.
+It's a hot dog a sandwich.
+Oh, sorry, guys.
+Tom, do you mind if I just jump in here to ask one or two points of clarification?
+Sure.
+Thanks.
+So, I came in a moment ago.
+And you were talking about the biological basis of truth versus the idea that truth is a social construct.
+And I heard a bit of Noam Chomsky thrown in there.
+And I'm trying to figure out the connection between that and the question of whether humans can accept the truth about themselves and consilience.
+And I just heard a gentleman talk about certain types of truth or inference being axiomatic.
+Now, I'm trying to piece together what's going on here.
+I think what the gentleman might have been suggesting is that there are certain patterns of thinking that are intuitive enough and perhaps ingrained enough in human psychology that most people can agree on them.
+So, I agree with you, Tom, that, you know, a chair, this is sort of an emergent tendency, right?
+Chair isn't a fact of nature.
+But the guy probably has a point that most of us are predisposed to recognize certain patterns well enough that, you know, you would probably be able to identify what counts as a chair and what doesn't.
+And that does remind me of Plato's notion of carving nature at its joints.
+The idea that there are certain intuitive categories that come naturally to us when we try and recognize combinations of stuff in the world.
+And maybe what the gentleman means by axiomatic here, because, you know, his example of the chair is actually pretty different from 1 plus 1 equals 2, which is not axiomatic.
+That's an act of what Kant would have called, I believe, synthetic a priori reasoning, right?
+It's making a logical inference that doesn't require any knowledge of the outside world and that you can't verify empirically.
+You can't look under a microscope to prove that 1 plus 1 equals 2.
+It's built into our conceptual architecture.
+And what he's suggesting, I think, is that we are born with certain innate patterns of thinking that are intuitive to most people.
+Now, whether this gets at some fundamental language of thought, like mathematics, and language of thought is a term from the philosopher Jerry Fodor,
+or whether it just refers to certain patterns and tendencies that are pretty common and reliable, like most reasonable people would recognize that a chair is a chair, but not everybody, as you pointed out.
+It sounds like we're getting at the question of whether certain ways of thinking are intuitive and more or less innate for us and whether that ties into the idea that truth is somewhat of a biological phenomenon.
+That maybe truth is real, but the categories and concepts that we use to assess whether something is true or not do depend on preexisting psychological tendencies that are partly biological, partly socially constructed,
+and have to do with tendencies that are innate, or at least intuitive and automatic for most people.
+So maybe that helps to explain, I think, some of the overlap between your point and the gentleman's point.
+But just to zoom out for a minute, I'm trying to get a better sense of why this has to do with consilience.
+Is it that we're talking about whether truth is a purely scientific concept and whether other ways of thinking, like those in the humanities, have something to say about truth?
+Right there, right there, right there, right there, right there, right there, when he went into consilience.
+Like, that was perfect.
+I'm speculative.
+I did just want to step in.
+Yeah, I think a lot of the STEM people in the room are going to have really strong reactions and thoughts to some of what Jonathan just said.
+Joseph, you've been on stage for a while.
+We haven't heard from you.
+Can you share some of your thoughts?
+Thanks for calling me out, though.
+Well, it's cool.
+I missed, I came in at the tail end when Al was talking earlier, and from what I gathered, I was just completely on board with what he was saying.
+And I'm still trying to figure out, like, if the question is, can humans accept the truth about themselves?
+Like, I feel like we're not doing a good job of defining what that even means in terms of, like, what truth, like, what is the truth?
+What are we talking about?
+I'm having a really hard time figuring out, because, like, in some philosophies, right, like, accepting the truth, it just leads to ego death and, like, a dissolution of beliefs.
+And, like, in that sense, yes.
+The answer is just yes.
+Can humans accept the truth about themselves?
+Sure.
+And then there's an ego death.
+And then there's, like, another truth that they accept.
+And then that gets demolished.
+So, I mean, in one sense, the answer is yeah, sure.
+And I like to think that I accept the truth about myself, but what, there's so many truths.
+What truth are we talking about?
+I respond to some of these points, like, and Jonathan's point, and to your point, Joseph, asking for some clarity.
+I didn't 100% understand Vimy's point, so at some point, a number of mentioning information and symbolic ways of thinking, absolutely, of understanding the brain.
+Because if we imagine that the brain handles information and handles symbolic ways of understanding the brain, for a definition of under-definition to what it means to understand, what does understand, how would we define understand?
+Sure.
+Well, understand is a metaphor, which means, you know, to grasp, which is comprehendra, comprendra, which comes from basically the Latin.
+But understand comes from the Germanic, old Germanic word understanden, which means to stand amidst.
+And it means basically to be in the midst of, to grasp.
+So, a word like understand is a metaphor, just as truth is a metaphor.
+And if you acknowledge, which is that it doesn't operate in symbols, it operates in the moment, and it is muscles, or not controls, but works along with muscles to move us, okay?
+So, when, when we're using words, whether it's speaking or writing, it's a physical activity.
+We don't think of it as a physical activity.
+We think of it as some sort of a mental process, but it's physical.
+It's exactly the same thing as, as moving and dancing and, and all of the things that we do as we move through the day.
+And it, and it, and it's for animals to step away from the whole idea that the brain is handling information and symbols, and acknowledge that it is a device similar to the, the brains of animals, and actually get to the point where you acknowledge that words are created socially.
+So, a word like truth, or understand, it, it, it, it, it comes about because of a shared understanding.
+And in, in, in, in the case of truth, when some, when Sam Harris uses it, for instance, he's thinking about it in terms of it being like the opposite of a lie or a mistruth.
+And, and, and you can grasp that.
+And the reason he, he, he, he can't come to any, uh, shared agreement with Jordan Peterson, for instance, is that Jordan Peterson uses the word, uh, in, in a, in a, in a slightly more religious, biblical sense.
+Uh, the, uh, I'm sorry, Tom, do you, do you think the word rain is true or not?
+Can you go to a word that's more factually based to try to pin off of this?
+Because when you use symbols that are abstract, like human language, that's representing human language, you're losing your argument, I think.
+But what about rain? Is rain true?
+I would say most, um, English speakers, you know, if they're standing outside and it's raining, everyone could agree what rain is.
+Uh, if you go to different cultures and, um, and, and, and say, is this rain?
+They wouldn't even know what you mean by the word rain.
+So it, it, it, it, it's a socially constructed, uh, idea.
+And, and, and, you know, is, is drizzle rain or not?
+So I, I want to, I want to agree with, with Tom here is in that there, there is a tribe, for example, that sees a different color spectrum.
+Um, they have, like a whole bunch of blues and greens that we can't even see, but they, they don't recognize many of the colors that we recognize.
+Their, their, their culture, uh, their language, um, allowed their brains to recognize different parts of the color spectrum that they can see and they have trouble with the color spectrum we can see.
+So their reality, their experience of reality is different because of their language and culture.
+Their, their perceived reality is different, but that doesn't diminish the fact that those wavelengths exist, right?
+Like there, there's still this objective electromagnetic spectrum that has nothing to do with our language.
+So again, like, uh, I'm really lost, uh, as to what you're saying, Tom, like I, I, I, we haven't, we still haven't talked about what truth is.
+So like, I, I, I get that it's hard to define because we are human and we are using language, but like, but if the question is, can we accept truth?
+Like we need to be able to talk about what truth is.
+So like, in what context are we talking about truth?
+Are we talking about this like religious truth, this overarching, like truth is axiomatic, crowned up, whatever, like, what are we talking about?
+I mean, this has been really interesting, but I think maybe the, the most, uh, um, the revelation that we're, we're getting at through this conversation is that the, just the question itself and the way that we're posing it and meaning it is very contradictory, right?
+So if we're kind of making this claim that, uh, that there isn't a, an objective truth that like, that we can study scientifically, um, then just the very nature of the question, can we accept the truth about ourselves to suppose that there's some objective truth about ourselves, um, is just like a complete paradox.
+Um, what are your thoughts on all that?
+Yeah, I think, I think this is a fascinating point.
+Uh, it, it, it seems as though broadly speaking, we've been using the word truth in, in two different ways in this particular concept, in this context, one, one way is.
+Thank you so much for, uh, for considering all of these questions and, and reconsidering, uh, any of your original, um, thoughts and, and positions.
+I do have to step away for a bit.
+Is it, is it okay if I, if I make a few of the, the participants moderators and hopefully I can come back later and see where the conversation is?
+We'll miss you, Lilith.
+Yeah, of course you can make, um, other folk moderators.
+But you have to come back because you're the moderating force and, and, and you keep me in check.
+I'll, I'll do my best.
+Um, all right.
+Yeah, I, I may stay in the room, but I might not be able to respond.
+As long as your face is there, then, uh, then we'll all behave, or at least I'll behave.
+Get a sense of our time.
+What time do we have?
+I'm just curious, Tom, like, um, where, how are we doing on time?
+Um, I personally have to go at five, like 5.35, but, but you, you folk can carry on.
+Eastern, Pacific, Central, Mountain Standard.
+Oh, Eastern, Eastern Time.
+So, another 40 minutes, in other words.
+Um, I'd love to respond to this idea, uh, that Tom is, is sharing that, so, by the way, um, I just wanted to preface this by saying it's, it's really an honor and a pleasure to hear you speak, uh, Tom.
+It's, it's been really great.
+But, um, I, I really don't, I think I have, uh, a really good argument that counter, is a counter argument for what you're saying.
+Um, and I, I won't share the whole, the whole argument today, but, but, um, but, but the idea, so basically, you know, you're, you're saying that if, if the idea that you, the brain contains words and, and logic and ideas and knowledge is, it makes the, it makes the brain impossible to understand.
+That's, that's, that was sort of my, um, so we have to throw out that idea because you, because you, you find it impossible to understand that the brain could contain knowledge and, and that, that, I mean, maybe I'm misunderstanding your position or maybe not, but I, I think that, um, that it is possible to understand the brain as, as containing knowledge and words and symbols.
+Um, and so that's where my, my, my argument is, is, uh, differing.
+And I can go into that in, in a lot more detail, but, um, I think that the way, you know, the brain, uh, stores information is different.
+Uh, the way, like, for example, if we have a word, it's not necessarily going to be, it's going to, it's going to have a virtual representation in our brain that, that may not be in the same place at the same time or represented the same way at the same time.
+And so our, um, the, our, our, our data structures are different from the way, are, are a little bit different from, from how, uh, people hope that they would work where you, like, um, someone else here was saying that in the course of a conversation, hearing someone else talk, the arguments that you're going to make begin to change based upon the new things you were hearing.
+And so your responses change based upon, uh, what you're hearing.
+And so, like, that, that, that was an argument for, well, who, who controls truth and how, or how these arguments being developed if, if, um, if you have one argument and then someone says something and your argument changes just because of whatever they said, no matter what it said.
+But, and it comes back to what is truth, I think, I just want to answer that too, um, for a human brain, I think that truth is going to be, uh, the most consistent pattern.
+Neurons and cortical columns and brains are detecting information from coincidence patterns and, uh, from the sensory inputs and, uh, in, in, from internal, uh, signals passing.
+And the most consistent pattern is the one that becomes accepted as being true, um, without, without, um, a social context.
+If you lived alone in a forest for a thousand years, maybe, maybe you would leave notes to yourself, develop your own language by yourself just so you could remember where things are.
+Um, and, and so that, that, uh, construction of truth would be a solo construction, a non-social construction.
+And I also think about the development of Zen, the origins of Zen, um, as a religion, um, and I think of, you know, there's elements of truth that are, uh, relative, that are, like, illusions that you will, um, believe in in a certain development stage of yourself as a human being that will fall away later on in life.
+But I think there's also the absolute, um, and that comes down to things like mathematics and, and, uh, uh, the fundamental realities of physical nature, whatever they are, uh, you know, there's a lot of upsetting stuff in physics, right?
+Quantum physics, but anyway, I'll just stop there.
+If I could, I'll just respond to that and then maybe anyone who wants to win, please do, please do.
+So, um, mathematics, which takes us, uh, is beyond words.
+I, I, I'm fully on board with that.
+And, and I would say that the, the, the notion that the human brain, that, so I'll just finish this point where dog's brain, our sense of what's going on around us, that we, our skin and through our eyes.
+So, words and, and.
+Can I respond?
+Um, I, I just want to say that, um, I agree that the human brain is not fundamentally different from animals.
+That fundamentally, the neocortex across, um, uh, all the mammals is, is, is essentially doing the same thing.
+Uh, but I, my argument is that, um, well, so, in the moment is not a counter-argument.
+And responding to physical cues is not a counter-argument.
+And responding to what we sense is not a counter-argument to the brain being computational.
+I would argue that the dog and, and the mouse, these are also, uh, computational beings.
+And they're taking in the moment, uh, sensation that, uh, their brains are, um, that is data.
+That, you know, uh, uh, a, a, a sensation is data in a sense that if you think about an emotion, an emotion has dimensions.
+It has a peak, it has a rise, it has, uh, a dissipation, it has a moment of intensity.
+It has physical, it has four-dimensional characteristics, uh, to a tempo-spatial, uh, scale.
+The, the same thing can be applied to a smell sensation.
+Smells have strong points.
+They have, they have textures.
+They have, um, distribution.
+Everything that we sense, every, uh, uh, uh, every emotion, every feeling, every smell, every, everything we touch,
+it all has four-dimensional characteristics.
+And, and so, if you can model a four-dimensional characteristic in a computer, like a volumetric video or 3D sound,
+um, then these things are, it's, it's, it's easier to understand that these things are, uh, are information.
+They're computed sensory information modalities in four dimensions that a computer is processing almost in a volumetric way.
+And so, a dog is like a robot.
+That's my argument.
+I try to absorb all the difference without, to confess, I, I don't understand them.
+I think that we now collectively, when I say collectively, uh, ethologists, geneticists, biochemists, paleobiologists,
+we now know enough about the actual material things of the world and evolution and how things have gotten here over,
+over the last 1.3 billion years, that we, we, we don't need.
+We don't need to, to, to use strange theories about consciousness.
+We can just, uh, look at how, look at how our eyes work, look at how our ears work, look at how the,
+the sympathetic nervous system works and how muscle spindles work.
+You, you, you don't need, uh, Sheldrake-like theories.
+And, and, and if, if you try and explain human behavior using things like, uh, computational metaphors,
+and free will, and, and, and, and sort of this, this notion that consciousness is some, some higher realm,
+it, it just doesn't make sense.
+But if you look at what scientists, uh, of all the different types have, have been laying out in front of us,
+the, the human brain is, is readily comprehensible.
+But you said that you didn't understand them and that you disagreed with them.
+How can you disagree with something which you don't understand?
+Well, because, um, you know, you know, because, for instance, if, if someone comes to you and says
+that your computer works with, uh, you know, various mystical forces and, and, um, you know,
+air blowing in and out of the keys and, and, and sort of strange things that are happening
+and, and you go, well, I just cannot understand that way of, uh, comprehending a computer.
+You don't understand it.
+That doesn't mean to say that you can't understand how a computer works because you just look, you know,
+in your own way, you look at...
+Someone else was, you were saying you were, someone asked you a question about someone else's theory
+and then someone else is telling you how it's working and then rather than trying to understand
+how it works, you just say, I disagree.
+I, I don't understand.
+Like, there has to be an effort, at least to some extent, to understand the theory and it's fully
+and that's what science is doing because also something you brought up is you said,
+well, we know enough and you can, and we continually bring up this point of enough.
+And so I would also ask, you know, in this regard, in terms of understanding and understanding
+things, if you can understand things more than you understood them previously with this definition
+of time, then how can you ever understand something enough?
+What is enough and what is the point?
+I mean, in this case, like, what is enough and how can we disagree without understanding?
+We're trying to understand generally in any way possible.
+Sure.
+So, uh, Alec, let's just use the computer as a metaphor.
+Okay, I'm sitting in front of the computer as it happens, a laptop.
+And I mean, if one doesn't understand about what's happening, uh, you know, with electricity
+and circuits and, and, and microprocessors, and you just look at the pixels on a screen
+and try and learn those things without using words that I would call try.
+So when you hear a word like science, you know, the question is, do you believe in science
+or do you not believe in science?
+And I would say just the notion of believing in a thing, a word like science, it is, is,
+is a, is a crazy notion.
+And, and, and I'd say the same goes for vaccines, climate change, socialism, uh, all of these
+words I would call, uh, tribal banners.
+And in every case, in every case, we can tear those words apart and they mean different
+things to different people.
+And in many cases, um, experts can devote a whole life to understanding what those words
+mean and how those, how the meaning of those words has been changing.
+And so, um, existentially and, and very importantly for society, we need to, uh, understand the
+realities of our, of the, the human brain.
+And, and we should, glancing understanding of, of linguistics, which it's, it's very clear
+that the meaning of words is changing all the time, you know, even from the beginning of
+a conversation to the end of a conversation.
+So I'm not sure if I've answered your question, Nathan, but, but no, that's actually what
+I was suspicious of, Tom.
+I think I have more to ask you, but, um, I want, that's exactly what I was sort of intrigued
+about.
+Yep.
+Bonsa, like I, this whole binary thinking, there's not enough room for discussion and really
+coming to a deeper understanding and kind of ending, like, you know, every, in our busy
+lives, it's like, you know, discussion is reduced to Twitter fights.
+And I feel like the pressure to speak concisely, especially in our professional lives, limits
+our ability to acknowledge nuance.
+Like, you just get these nuggets from each other to overanalyze and make judgments about
+each other.
+People haven't been afraid to say anything or even be in public because we're judged on
+these short interactions.
+And I think that really limits our ability to understand each other and learn from each
+other.
+Can I just say one thing?
+I think there needs, I think what you're, what I'm hearing you say, Tom, is there needs
+to be kind of a re-examination of how we label things to make them a little less frightening
+frightening to approach the subject with any kind of inquisitive mind on how this, this
+idea or theory works globally?
+Is that what I'm hearing?
+Very much.
+Yes.
+Can I expand on that if you wish me to?
+Or let's, let's hear from some other people in the room because I have been hogging, hogging
+the time here, but, but, you know, to Tara's point and to your point, Amy, I believe that
+once you understand the way the human brain works and how it itself programs and when it
+comes to words, how, how it programs through social interaction and the nature of social
+interaction and how, how deeply social we are and how tribal we are, once you understand those
+realities, you become very much more open and accepting of different ways of looking at
+the world. And, and that's what I believe consilience is all about. Consilience is the jumping together
+of all of these different disciplines, like academic disciplines and scientific disciplines that
+enable us to actually acknowledge the reality of what's happening inside our brain, the reality
+of how we've evolved and, and, and some of the nastiness that is characteristic of the
+last, let's say, three to five million years of our evolution, because that's become
+very clear, geologists and ontologists that, um, once you, once you start to acknowledge
+those realities, uh, it, it, it, you, you become a lot less of a believer in the sanctity of science
+and objectivity and logic. So, in a strange way, by being brutally scientific without one's understanding
+different ways of looking at the world, including scientific. Tom, can I just say that I, I really,
+um, I love this conversation and I really like hearing from you. Um, your, your, uh, your thoughts
+are brilliant on this topic, but there is something that I'm having, uh, an idea that I'm having a little
+bit of a hard time with and maybe, maybe you can help out. It's, uh, what I'm trying to say is like,
+um, so your statement was that if the brain contains knowledge and information,
+it's incomprehensible, but, um, but then a little bit later you said the brain self-programs and
+understands, and presumably that means it's self-programming and understanding without knowledge
+and without information because it doesn't contain knowledge or information because that would make
+it incomprehensible. This is, I, I can't understand what you're saying. So, if you want to explain how
+the brain self-programs it understands without knowledge or information, I'd love to hear that.
+If you really want to find out what I think, just buy my book. It's called How to Understand
+Everything, Consilience and New Age to the World. Uh, I, it was just published like two or three months
+back, uh, and, um, the audio book is fantastic. It's narrated by, um, a fellow called Philip Batley,
+was a British, uh, actor. So, and, and I, I do explain all of these things in very matter-of-fact ways,
+uh, and, uh, and, uh, committed to this whole idea because I really do believe that as a society
+we're suffering an existential crisis. But wait, wait, Tom, sorry, I, and I do, I appreciate the plug,
+but I, I think Micah's question really deserves an answer. Like, even if you've written about it,
+if you can kind of maybe summarize what you've written, um, in, in response to his question.
+Sure. So, Micah, uh, to understand the human brain, you've got to recognize that, uh, like the human
+brain, you've got to recognize it's not a whole lot different from brains of animals. And let's say
+if you have a dog, I'm, I'm, I'm sure you don't believe, or maybe you do, but a better way of
+understanding a dog brain is to acknowledge that at every moment it's responding to the movements,
+uh, and the things around it. Not, not in a robotic way because, uh, robots aren't, aren't, for, um,
+once you actually look at how your dog is moving, or for instance, uh, I, I look, once you understand
+what's happening on the tennis court where you're not using words, you're not using, but you're
+responding to the ball, uh, from moment to moment, uh, their ability to move in different ways into
+the brains working with 600 muscles in your body. I mean, the systems are absolutely remarkable.
+And once you understand the, the complexities of those systems, it, it enables you to step away
+from these age old, well, not age old, these metaphors that we've been using for the last couple
+of hundred years since Helmholtz imagined that, you know, the brain was, uh, something, you know,
+like a telephone exchange. And then, you know, prior to that, you know, we have fountains that
+were used as metaphors. And I think, I forget who mentioned it earlier, but you know, there'd be no
+end of metaphors that have been used for the human, to help people understand the human brain. And right
+now the predominant metaphor is, um, is a computational metaphor, you know, where the brain handles
+information. Step away from those, uh, metaphors and actually look at the reality of what no one
+has discovered information in the brain. No one. So, so why are we still talking about, uh,
+information in words? I will definitely contest that, uh, the last several years they have found
+neural representation. Time check, uh, just to manage the time of other people on the stage that
+haven't talked. Tom, uh, I know you had to leave in 20 or so minutes.
+Lilith, Alfonso, Tom, are we going to extend the room beyond that? Or are we going to end at that
+time? What do you want to do? I defer to everyone else. I also have a meeting at six.
+We usually stay, um, with a discussion. Um, I'm happy to stay with it. Yeah. I mean,
+it might go off topic as well, but I mean, as long as, uh, okay, people are on stage and
+interested in pursuing the conversation. I'm happy to stay and support me. Okay. You'll keep it going.
+That's great. But I did want to call out Jeff, uh, Jeff Ram. And also,

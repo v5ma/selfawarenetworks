@@ -1,0 +1,430 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0070y Cortex Neuron Model Book
+First recorded: 2021-11-05T06:29:00.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/06543045-b26a-4d37-86cd-b44862a47d95
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Not for surgery, for the ultrasonography test at the moment, yeah.
+Got you, understood. And so the follow-up question to that is when our brains are thinking and, you know, the neurons are doing their thing and the electrical signal, is it frequency, you know, what is it?
+Yeah, at the moment, we think about it as the electrical, but some of my colleagues at the EPFL, they think maybe something to do with the chemical, but at the moment, we just have to wait for the...
+Oh.
+I'm humbled to be in the room with... No, actually, I'm here to learn, but anyway, yeah.
+Thank you, I'm humbled to be here with all of you. Definitely.
+I'm just curious, Kyle, because you have that image, is there a paper or an article where you got that image? Because if so, I would like to read it.
+So I did a little deep dive after it was done, and then Quantum Photonics did a spirit tech room as well, and they were discussing a meditation device that sits on the head and does transcranial-focused ultrasound.
+That was Muse.
+Yeah, and so this image came from one of the research studies that I found. I'm driving, I've got to find it, the link there.
+Okay, if that was Muse, maybe I can just search for a study on that.
+So, I mean, I personally would love to learn more about the prefrontal cortex and the gusatory bulb and how smell is connected to the neocortex.
+Did we lose the neurosurgeon? Oh, man.
+Oh, well. I was hoping he would answer that one. Kyle, do you know?
+I was, it says we still have four people, but he appears to be gone, so.
+No, I was saying, I definitely want to learn more about the prefrontal cortex and the olfactory bulb
+and how your sense of smell enters into the neocortex.
+I guess there's also a thalamic pathway for the nose.
+And so I just wanted to hear about the connections there, but I don't know, if you know, that would be wonderful to learn about.
+But we lost the guy who would have had the expert on the topic, right?
+Yeah, it does. So, the sense of taste is going to go, I believe, to the somatosensory cortex.
+It's going to go through, it's the sense of taste is just like, I hope I'm not getting this wrong,
+but I think it's going to go from the tongue and then travel to the thalamus and then it's going to, to the thalamic nuclei
+and then it's going to go to the somatosensory cortex, just like your sense of touch.
+That's where your sense of touch is going to be in the somatosensory cortex.
+I think that's right, but I'll have to look it up to be sure.
+And then also, the same is true for, you have an auditory cortex,
+and then so the signals from your ears are going to travel to the thalamus and then to the auditory cortex.
+And then you're going to have, obviously, the signals travel from your eyes along the optic nerve to the thalamus
+and then to the visual cortex, and then these three pieces of cortex or regions of the cortex
+are all interconnected with one another, so they're all linked together, but it's,
+did that, I forget what your question was, did that answer it?
+You sure did, you absolutely did, but we're still looking for the smell
+and how the smell converts in our minds.
+Yeah, you know, it's weird, so the prefrontal cortex is in front, right?
+And there's, so I think of the brain as having, as having, like, really four main regions.
+And there's, like, it's like a pie that you can slice up in different ways.
+So if you slice the pie up in four ways, you could slice up the pie in a lot of different pieces,
+but if you just slice it up into four, we lost the guy who asked that question.
+Oh, well.
+I don't know if I should continue.
+Welcome, we've got B.A. Feldman on the stage.
+Did you want to, did you want to say something?
+Hey, yeah, no, I'm doing morning things around the house,
+and seems like an interested in conversation.
+There's a lot of just going, am I coming in at the beginning?
+Um, yes, you're a beginner.
+Uh, this is, I mean, you're at, what I, wait, no, no, no, sorry, let me reverse what I just said.
+You're at the beginning of the room.
+That's what I meant to say.
+Sensory, you know, this subject becomes increasingly more interesting for me
+because it's funny, I found that some of the ways that we describe things
+make sense differently, like most things.
+It makes sense in such a different way after the experience than prior to the experience.
+Um, so, yeah, it's, yeah, the way we describe the experiences
+from the experiencer point of view and the non-experiencer point of view
+still, uh, I don't know, that dang consciousness,
+that dang missing piece of the puzzle that puts it all together.
+So, what, what, um, I was looking at your, uh, the, uh, the club for B.A.,
+like, I was looking at the, it says on your, um, clubhouse profile, uh, spatial reasoning.
+What, what, how would you define spatial reasoning?
+Well, so, okay, let me just say, what I put on there, those are, um,
+so as far as, like, um, uh, spatial reasoning, pattern prediction,
+and single-point data integration, um, that's, like, a little private joke I have with myself
+because these are things that the human brain just does.
+Like, we all look for patterns and try to predict them, right?
+That's, like, a normal function.
+We all reason, um, about, we all build these spatial models
+and reason about where things are in relation to one another, right?
+And we all take in environmental data and integrate it within our single point of existence.
+So that, uh, the bio's kind of a little joke that no one gets,
+where it's, like, um, my favorite things to do are basically just being human.
+Right, that's awesome.
+Yeah, no, you basically, you've basically described a perspective on, uh, consciousness,
+which is very, which is very, uh, very cool.
+So, um, yeah, that's definitely one way to, to, to, so, yeah, so, I mean, I like that.
+It's, um, it's a little joke, but, but it's very, um, it's, uh, it's food for thought, right?
+You can think about that.
+You can chew on it.
+It's, like, what if, it's, like, what, uh...
+I just thought it was more interesting than saying, you know, like, hey, I'm a human,
+and I do all the same stuff, right?
+Yeah, I mean, I know, so I like, you know, in the, in the movie, the, uh, the Matrix,
+the, the, the Matrix is, um, uh, there's a, there's a, there's, uh, the character Nia works
+at the Metacortex, right?
+And it's, like, Metacortex, why is the word Cortex in there?
+And they're, like, Cortex is, like, is the Matrix the mind?
+I mean, this is, and you start to, like, I, I, I remember that, that movie had so many,
+like, um, sort of, uh, teasing, um, concepts, uh, embedded in it that you could look up and,
+and, uh, and, and find connections to, uh, philosophy and, and, uh, it was just embedded
+with so many things to think about.
+Um, and, um, so, I, go ahead.
+There's something rubbing up against your microphone.
+What? Oh, um, I wonder if I was, because of how I was holding it in my hand, or, is it
+gone?
+Oh, yeah, yeah, it's dark.
+Okay, so, maybe, maybe it just, maybe I was just, it was just sliding a little bit in my
+hand, I guess.
+Um, no, big deal.
+If you can repeat the last, like, nine seconds.
+Oh, yeah, so, uh, no, I was just, when, uh, when you described, uh, the, the joke on
+your profile, spatial reasoning, I, I just thought of the Matrix as a representation of
+the mind.
+Like, it's the idea that, um, you're, you're, uh, you're simulating the entire, the entire
+universe from your perspective inside your brain.
+And, uh, that's, that seems like a topic that I keep bringing up with lots of people.
+Yeah.
+Oh, no, and also, I mean, yes, no, I, I mean, yeah, that's quite super intriguing.
+We don't interact with the world directly.
+We interact with our model of the world.
+But, what trips me out is that the, the mind kind of doesn't interact directly with the
+body either.
+We kind of interact with our mental model of our body also, right?
+Yeah, I'm on board.
+Like, we don't say, like, oh, my liver hurts.
+We say, like, oh, I drank too much.
+You know, the mind is interacting with the model.
+Like, oh, something's off balance somewhere here.
+But, like, the liver's not saying, like, danger, danger, you've done damage.
+Um, so, so, yeah, like, it's all, all mine.
+But it's, yeah, we don't, it's, our, it's interesting that we don't, we don't say that
+the, the world is interacting with the body through our minds, or, and we don't say that
+our bodies are interacting with the world through our minds.
+It's, our minds are, um, do you know, like, I'm just like, like, the, the, the agent is
+the mind in this scenario as, as it's being written.
+Yeah.
+Instead of the world being the agent and the, and the mind being the, the, the means.
+Uh.
+Well, yeah, yeah.
+Like, so much of our perception depends upon those models that we've built, right?
+And our expectations, right?
+When we do these little experiments where, um, you know, you taste something, knowing
+what it is, you taste something, not knowing what it is, or you feel a sensation knowing
+what it is, or not knowing what it is, right?
+Oh, man, a monster just brushed by my foot, I freaked out, now I have to jump out of the
+lake, right?
+Or, um, you see that there are fish around you, and so when you feel it, you think, oh,
+that was just a little fish brushing by.
+And then you look down and realize it's a big monster, but, you know what I mean?
+Like, um, what we're looking for has a lot to do with what we're fine with our senses.
+With these empirical, um, quantifiable, you know, exactingly measured senses of ours, they're
+still super subjective.
+It still depends on what you expect, how you perceive good.
+But, and then, uh, let me see, and, um, you also mentioned that, um, the Gravitron, favorite
+fairground rides include, oh, that's a fairground ride.
+I was like, I, I, I was like, what is the Gravitron?
+And, um, I was, I, it made me, I started to think about the, um, uh, the idea of a gravity
+particle.
+Do you buy that there's a gravity particle, or would you say that there's, there's no
+gravity particle, and it's just, um, like Einstein said, just a curvature of space somehow?
+What, what do you think?
+Yeah, I mean, I have a lot of different thoughts on it.
+The one that I, um, like the perspective that I'm taking for the last few days, um, because
+it's really fun to explore from this perspective of something like this, it's all made of light.
+Um, so, and so, we're looking at, like, the Solitaire model, right, where it's, like, um, like,
+a guinea pig with the, um, management system and, you know, the electorate.
+Um, so, um, and this model, you would say that, like, um, we were going to, like,
+we don't even need to specify what it's all made of.
+It would function something like this, that time is kind of a mother dimension, and that
+gravity forces space to conform to the shape of time, which is emergent.
+But, I had tried to have this conversation last night about, you know, different kinds
+of emergence, like, is it emergent to our perception because it's comprised of the things, is the
+structure already there, but it's not revealed to our perception, to the parts are in motion,
+or do the parts, uh, going into motion actually produce something completely new?
+So, there's, like, all of these.
+So, I look at time as emergent, and then gravity, um, beating, you know, kind of forcing space
+into the shape of time so that the time would be continuous, the space would be discreet,
+and, um, the fabric would be.
+So, I like, when I look at it that way, I mean, there are a lot of different models
+that are intriguing, but when I look at it that way, it seems, right now, at least, to
+make the most sense to think of everything as being made of one, right?
+Everything to be, like, electromagnetism.
+And, um, it's just that sometimes, that we are not, like, we can't perceive them as such.
+Now, I don't want to go down the road, I don't want to go down the road of saying, like,
+there's no difference between one thing and the other.
+No.
+So.
+But, you know, light, gravity, and time.
+Have you ever.
+Just, like, putting them in different positions and supposing different properties and something
+with that.
+But right now, I think I, like, for, like, the last 48 hours, I've been really digging
+that.
+So, um, at the, at the, when you think about, like, the universe at a fundamental, you know,
+particle level, I mean, I'm just, like, I was thinking about the, the Feynman lectures that
+I, I recently, uh, uh, listened to that I've heard about for years, but never had the chance
+to listen to because, uh, Cecile, Cecile, uh, shared them.
+That was, uh, it was good to get a chance to listen to them finally.
+And, um, you know, listening to Richard Feynman describe what's happening at the, at the,
+at, um, you know, with particles, it's, um, I'm trying to remember if he used the word,
+uh, like, like, um, the, the balls on a pool table, like, just like, like, or just almost
+like a lot of interacting, like, imagine just a lot of spheres just interacting with each
+other.
+That's what I, that's how, I guess he didn't say that, but that's sort of like, it's
+a lot of mechanical things bumping around in, in a chaotic way.
+And, and, um, do you, what do you think about that?
+Is, do you, is that plausible?
+I mean, so light would be, like, would you, can you see light as, like, um, as, like,
+a billiard ball on a, on a pool table?
+In that model, light would be the fabric.
+It would be literally as consistent as it would be the electromagnetic motion.
+It's an obscure, I mean, it's been, like, two days, so what, what happens if we think about
+it that way?
+That is all of the electro, that is the fabric of science.
+Like, as you see, um, studies about that are getting interdisciplinary now, and, um, um,
+the concepts in physics and modeling of this is related to, um, what is now becoming popular,
+um, this is, that is being used by, um, physicists and also, um, biologists and, um, doing AI.
+And so, yeah, um, these are combinations of different disciplines that we have now.
+And that reminds me as well of, you know, random walk in mathematics and also chaos theory.
+Yeah.
+And also, um, what do you call that?
+Is that the polyas urn or something like that?
+Yeah.
+I think it's a polyas urn.
+There's, there are images about that.
+So, yeah, um, we could equate it, uh, to that.
+If, you know, you talk about what, uh, Feynman was talking about.
+In fact, I'm just thinking about doing, um, happy art Feynman room sometimes.
+That, I was just gonna say, that sounds lovely, Cecil.
+Just, um, invite me to those.
+I, I would love to have, uh, some physics, uh, conversations.
+Um, I, I'm, um, you know what's weird is I, I started writing a book that I'm working
+on, uh, that, um, I, I didn't intend to write about physics in the book, but I, but I, but
+I'm, like, that's where my, that's where, that's the direction I'm going in right now.
+So I'm just, like, really fascinated with the topic.
+And, um, uh, it's, it's sort of going from neuroscience back towards physics is, is kind
+of, um, is, is interesting.
+What, what, what, what, how would you apply physics to, to neural networks, right?
+Like, um, um, in terms of, like, but also to artificial neural networks.
+Yeah, um, you know, um, first I would like to comment on what you're saying about the
+billiard walls bumping.
+Um, there was a study on this when we were looking at, um, um, quantum noise and also quantum
+biology and I remembered it was the paper about photosynthesis and they were trying to like,
+and, um, um, what's happening in both photosynthesis to, um, what's happening in a quantum computer.
+And, uh, um, it is said that, um, basically if you do, um, a random walk, um, in a classical
+computer, which they also would like to equate as to what's happening in photosynthesis, it's
+just that, uh, you know, whenever you do an entanglement, usually it's a one-to-one
+correspondence, but when you do, um, um, some kind of direction, going into many directions,
+all of the same, that is how I would like to, um, go back to physics to talk about finance
+concept.
+And as regards to neurons, there was a recent study about, I think, by Idansi Kemp, uh,
+because, you know, Idansi Kemp was my, um, was my teacher in neuroscience before I, I really
+locked him, um, I think it was seven years ago.
+What's up is he else?
+You cut out a little bit.
+Can you hear me now?
+Yes, yes.
+You just had a little nothing here and there.
+Yeah, because, um, I see, uh, um, red lines in terminology.
+So, yeah, um, so Idansi Kemp is a neuroscientist, um, so he's a great one, uh, from Israel, and,
+um, recently he did a paper with the one, an artificial neuron, uh, on a one-to-one correspondence
+because they wanted to understand the brain even more.
+And, um, what they found out is that if the artificial neuron think about, you know, then
+what they're human, um.
+Uh, I just, for a minute, I was looking through the list to see if I could invite, like, a neuroscientist
+so I could ask some neuroscience questions.
+Um, I don't know if, uh, B.A., do you know a lot about the, about neuroscience?
+No, not a lot.
+Okay, cool.
+But not on the neurological level.
+I mean, the book that you and I went through, you know, where I was like, oh, I thought there
+would be one pair.
+Oh, but there are 20,000.
+All right, so I have this idea.
+I want to make a room that's really about, like, exploring the prefrontal cortex and the
+olfactory bulb.
+But that, I guess we'll do that.
+I guess we can do that, uh, tomorrow or something.
+Um.
+Okay, well, maybe, no, I mean, maybe, yeah, maybe we need to schedule it, like, a week
+in advance so people can, um, yeah.
+Even just a day or two ahead, um.
+Okay, so two days, you think, would be good?
+Yeah, I think a day or two ahead.
+Just, just enough time for people to see it on the notifications and, like, add it to the
+computer, and, you know, because if I, if there's nothing on my calendar that I'm looking
+forward to, that, um, yeah, I may just not even come on the app for a while.
+In fact, yeah.
+Oh, man, I just have a really good focus station.
+Interesting.
+Um.
+So, Cecile, do you want to, uh, I don't know, maybe, maybe I should ask you offline, but,
+um, if you want to, if you want to co-organize that with me, we could both, we could both
+create that room.
+It depends on if you're interested in it, but, um, you know, we can discuss more, and
+um, later on, I guess.
+Yeah, uh, that's, that's, uh, yeah, that's good.
+So, Cecile would like to, um, message me, uh, tagline, or some, uh, focal points that you
+would like to discuss, so that we can prime up some people for a later room, um, to talk
+about this.
+You can also do, uh, reach out to Hazel, um, who does a neuroscience thing on Mondays.
+So that it's on a lot of people's, um.
+Okay, so I just, uh, proposed a name for the room.
+I don't know if it's, if it's too long.
+I guess we could just chop off the last word if it's too long.
+I sent that to Cecile.
+It's, it's, um, uh, I can share it out loud if you guys want to hear.
+Let's see.
+Then maybe we could chop it down.
+Sometimes there are relay parts.
+Maybe we can also discuss it.
+So, of course, uh, when I do neuroscience, Micah, you know me very well, because we shared
+a lot in the past years, you know, that I really do hard neuroscience.
+So, experts to discuss about this, because I know that your, your intent is not just to
+focus upon our sensory perceptions.
+And, um, I mean, that, we can take, we can take that and, uh, throw it into a couple
+of different fields.
+Okay, yeah, that sounds cool.
+Um, would you like to expand on that even more and just, um, maybe describe, like, what,
+what, uh, what direction did you want to take that?
+Um, what question, I guess, I guess the, I guess the, is what questions are, are driving
+you the most that, that you want to find the answers to?
+I'm not sure that I'm questing for answers.
+I'm just questing for, um, more knowledge and, like, um, um, ways of looking at things.
+Um, so, but yeah, I mean, I, I, I, like I said, I'm, uh, literally, like, uh, losing my
+sensory nerves, right?
+Um, so this gives a whole new perspective to this idea of, um, finding what we're looking
+for and how we're, how our predictions, um, interact with our perception.
+Um, so, yeah, like the, the whole, is the, is the brain, the brain isn't really interacting,
+uh, directly with the body.
+It's really interacting with us, actually interacting with the world.
+And, you know, it goes down to that same idea of, when you're swimming, are you going to
+scream loudly and run away when something brushes your foot?
+Or are you going to smile and think it's very sweet?
+And, you know, and continue on?
+Well, what do you, what are you expecting that to be?
+Or, I, I, I, well, yeah.
+Or the illustration a lot, like the child who sees the monster outside the window.
+And there are very few data points upon which we build our models of this world.
+And so the child gets these data points and sees a monster.
+And you're not going to convince the child that that is a tree until you can provide more
+data points.
+So, yeah, I'm just...
+So, I, I mean, I, I prefer the argument, I prefer to make the argument, um, not just tonight,
+but, like, in general, like, I, I usually prefer the argument that the brain is actually in direct
+connection with, with, with the world, uh, in one sense.
+But it's, it's, like, it's, it's part of the universe, right?
+It's, like, physically connected with the world.
+And, and, um, yes, there's, there's, uh, the brain is, is making models of, of reality
+that are not, um, it's not that these, it's not that these models are not reality.
+They're just a, they're just, um, a, one perspective on reality, right?
+And, and, but, but I'm saying, like, the, this, these models do represent reality, and
+the brain is interacting with the world in a direct way, but it's just, uh, it's just,
+uh, uh, a perspective, uh, from a unique perspective.
+So, the brain has a unique perspective that's, that's directly, uh, driven by its experience
+with the world.
+Um.
+Yeah, yeah.
+Uh, I just, if we start talking about the direct interaction, then, I mean, I, I, I roll
+right into field theory from there, right?
+It's, like, um, just talk about the, um, neurological aspect.
+Are you talking about field theory from psychology or, or quantum field theory?
+No, like, QFT, right?
+Um, but, so, to just talk about, like, um, from a neurological, um, and kind of, like, staying
+away from.
+I, like, I guess I'm, I'm, I guess I'm very multidisciplinary, and I don't, I make
+it makes, it makes different fields of study together.
+Sweet!
+I love that.
+Yeah, I'm actually writing a book that combines many different fields of study together.
+It's, it's, I, I think that, um, yeah, I hope you read it, because I think you'll really
+like this book.
+Uh, not, it's not everyone's cup of tea, but if people are interested in certain ideas,
+then they're going to like this book.
+So.
+Um, Google box, waiting for you to save any title?
+What does that mean?
+You're sitting in with an open Google box, waiting for you to save any title?
+I'm sorry, you said that there was a book that you thought that we would enjoy, and
+I'm waiting for the title so I can put it into Google.
+Oh, no, I'm saying I'm writing a, I'm writing a book.
+Oh, you're, the one you're writing.
+Oh, absolutely.
+Absolutely.
+Yeah, yeah, no, I'm sorry, it's, it's, uh, it's not, it's not done yet.
+But, um, uh, but I, but I think that, uh, people who are interested in how the mind works
+are going to dig the, they're really going to like my book, because I go into a lot of
+the neuro, the neurophysics, uh, the human mind, and also the physics, and the math, and
+the, um, and brain-computer interfaces, and, uh, also, um, artificial intelligence is another
+topic in the, in the book.
+How we can make new kinds of, uh, neural networks that are conscious, conscious, like, like human,
+human beings are.
+So I, I have good ideas that I'm working on, but that, a lot of it is, um, is coming together
+nicely, and, but there are certain areas where I still have work to do, so it's like, what
+I've got is, I mean, I don't know if you guys want to hear about this, but, um, I, I've
+got, like, I've got an enormous amount of material written, and I've got an enormous amount of
+organization work that I've done in terms of, like, organizing the structure of the
+book, and the contents of the book, and deciding what's going in the book, and what's not going
+in the book, and I've got all these notes, and all these audio recordings that I'm going
+to turn into, um, uh, chapters that, um, you know, like, I've, like, I've, in some cases,
+recorded a chapter with my microphone, or typed a chapter into a note, and now I'm, like,
+integrating them into, like, the body of the book, and it's all, like, there's, like, a
+ton of, a ton, it's, like, I don't think there's going to be, there's any other book out there
+that's like my book in terms of how, in terms of, like, how many different, um, because the
+reason I brought this up is because, because, is, is the idea of, like, you know, we accidentally
+started talking about a different, um, area of research, and you're, like, oh, wait a second,
+that's not my, not, uh, where I go, usually, and I was just, I was just making the point
+that, um, uh, I'm bringing together, like, a lot of different industries into this book,
+like, there's, there's, there's, it's weird, like, you know, I'm talking about, you know,
+virtual reality, and augmented reality in a context of, of the brain, and, and, of course,
+you know, we already talked about the matrix, well, the matrix is, like, a virtual reality,
+um, in, in one sense, so there's, anyway, that's part, that's, uh, that's, that's a part
+of the discussion that I'm putting together, so that's why, that's why I think that's, that's
+a good way to explain why, um, if you like this discussion, you'll like the book.
+Yeah, yeah, I have two thoughts, and one of them, um, is, are you sure it will just be
+one book when you're finished collating all of the bits and pieces? It sounds like a couple
+volumes. Um, yeah, no, I'm already, like, I'm already, like, eyeballing 300 pages, but
+also considering, like, well, I, you know, like you said, multiple volumes and stuff.
+Yeah, my second thought is, this is something that recently I've been really rallying against
+again, or rallying on again, every once in a while, I just get super annoyed with how,
+um, separated, um, all the fields, uh, are becoming, or have, are, and are getting even
+more and more separated. Like, I understand that it's necessary to sort things so that people
+can go very deeply into very specific areas.
+This is another genre, but I didn't know that this new one falls into the old, and I feel
+like that, I'm like, wait a minute, is that, or is this so, like, you know, molecular biopic,
+you know, like, what, it's, um, yeah, yeah, so I really, really, that was my second thought
+because I do believe that I hope you're in. Sweet. Um, I have to confess that my, uh, my,
+uh, I'm about to fall asleep over here, so, uh, I should say goodnight to everybody, and
+Cecile, I don't know when you were gonna go, but I think you said you... Yeah. I have to,
+like, an organizer better, you know, to really target what you would like to do. So I saw it
+already, but I was, you know, a little deeper on that concept, but I also have to go soon,
+and I would like to thank you guys today, and Micah, I hope you have a good rest, um, yeah.
+Okay, uh, goodnight everybody.

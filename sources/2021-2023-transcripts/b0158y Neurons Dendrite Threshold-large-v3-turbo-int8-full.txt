@@ -1,0 +1,155 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0158y Neurons Dendrite Threshold
+First recorded: 2021-10-08T07:29:53.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/a95f84aa-9a86-4d84-8a1c-e00cce130581
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+How does a brainwave become an action potential that we can measure?
+I mean, how does an action potential, how do two action potentials, and how do ten action potentials join up to become a brainwave?
+Or is it not the action potentials, but instead the electricity that the dendrite, that the cell membrane leaks?
+Is it the electricity that the cell membrane leaks?
+The neuron's membrane leaks?
+Is that what's creating the brainwave?
+Or is it the action potentials?
+I think it's the action potentials.
+It would make more sense, because there's energy leaking from the neuron.
+It's in the process of dissipating out of the neuron, right?
+The neuron is constantly dissipating out electricity.
+But sometimes it gets too much electricity, and then it really shoots out the electricity, like, nervously.
+Neurons nervously shoot out energy in an action potential.
+And they are shooting out the entire action potential, but it's getting broken up, it's getting broken up into little bits and pieces so that it can be distributed radially along its branches instead of along a single cable.
+You see, each neuron is branching out the signal, and that's the reason for the chemical transmitters.
+The chemical transmitters, the goal isn't to slow down the speed of the neuron.
+The goal of the neurotransmitters is to spread the signal radially to many different upstream neurons, or downstream neurons, or both, actually.
+Because a backwards action potential would also spread radially along the branches of a dendrite.
+But what's interesting is that you could have, the dendrite could just shoot signals down one of its channels.
+You could have one's dendritic branch fire backwards, right?
+And so that gives a higher level neuron the ability to pass special information along the single branch of the dendrite to other neurons.
+So there's some selection, like instead of sending the signal radially to all branches simultaneously in equal amounts,
+the path of the signal, when it goes backwards, at least if it's initiated in the branch of the dendrite,
+and going backwards, is not going to be going out of all the dendritic branches.
+Just one of them, right?
+So if that event happens.
+So, the, that would, I mean, I guess, you know, you could even have like one neuron could pass on,
+could be passing signals upstream to a dendrite,
+and that dendrite may, if it doesn't, could represent a second threshold.
+Because like if that, so the first threshold is like, yeah, passing some signals onward.
+And the dendrite on the receiving end could just be counting.
+It could just say, each branch, each branch could be counting the individual.
+So imagine, yeah, each branch of the dendrite is an excitatory branch.
+Or, yeah, so just imagine that.
+So, well, so technically, each branch could be an excitatory branch or an inhibitory branch,
+depending on whether it is full of calcium, or depending on whether it's full of potassium or sodium, right?
+Because if you have potassium receptors, now, yeah, I need to know.
+Is there, is there, because, yeah, because if you have potassium receptors,
+do the dendritic branches, they're going to be intaking an X,
+and they're going to, the dendritic receptors are going to be exchanging potassium and sodium, right?
+So you, so invariably, you might have some dendritic branches that can depolarize,
+and some that can repolarize, but they can basically act as a sort of, like, tracker for the signals down below.
+So, like, how many, like, each branch could be collecting, like, how many sodium ions am I receiving?
+And it's, the physical transference of sodium ions is the literal manifestation of counting.
+In terms of, like, there's an event that happens when it goes above a certain threshold, like an excitatory neuron.
+But that an event could be an inhibitory event or an excitatory event.
+Right?
+But either way, there's an event that happens when that dendritic branch goes over a certain threshold
+in terms of the electricity it gets, because the branch itself can fire.
+And the synapse itself can spike, synaptic spike.
+So the synapse itself has a threshold for when it will spike in order to...
+So the synapse must be also, like, constantly dissipating energy at a certain rate.
+And if it receives enough energy, then it's going to dissipate it.
+If the synapse receives enough energy, it's going to dissipate it.
+And, uh...
+But here's the thing.
+If a synapse can spike, but it's not always spiking, that means it's...
+There's a certain threshold for when it spikes.
+So, therefore, the synapse, by virtue of being below threshold, is able to count.
+Right?
+And that threshold can be modified.
+An example of the threshold of a neuron being modified on the macroscale with a pyramidal neuron
+is that the likelihood of it that it's going to fire, how close it is to the tipping point,
+can be increased or decreased based upon modifications to the soma or the dendritic branches
+by different neurons that are connected either to the soma or to the dendritic branch or to the dendritic feet.
+Right?
+So you have...
+So you have...
+With the pyramidal neuron, there's...
+There's neurons that are connected at the dendritic feet of the neuron.
+And then there's neurons that are sort of branching in to the soma from the side.
+And the idea is that they can shift the neuron from being ready to fire
+or from being very resistant to firing.
+And so they can, like...
+But what's interesting is that
+what you're getting
+with each of the branches or synaptic connections
+between neurons
+is a way for
+one side...
+is a way for
+maybe each side of the neuron
+to count
+what the activity of the other neurons...
+To count the activity it's received from the other neurons
+or to track
+or to be
+physically
+the embodiment of a...
+To be a physical
+manifestation of
+of awareness
+through movement
+manifestation of awareness through movement
+that becomes...
+that becomes a reflector
+where it gets...
+a physical manifestation of movement
+that changes
+the...
+the reflections
+in terms of
+uh...
+electromagnetic frequencies
+in terms of the shape
+the shapes of electromagnetic frequencies
+and then in turn
+and that reflection
+and then in turn
+is detected by
+the...
+and
+transform...
+and
+encoded by
+by...
+detected by
+and encoded by
+and embodied by
+the...
+the chemical substrate
+that is
+being impressed
+upon
+by
+the
+electromagnetic
+reflection
+that it's generating
+so it's the
+interaction
+between
+the
+electromagnetic
+reflection
+and the chemical
+foundation
+of the brain
+that is
+creating
+the experience
+of consciousness
+consciousness
+awareness
+you
+you
+can't
+see you

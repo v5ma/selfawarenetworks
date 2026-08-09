@@ -1,0 +1,14 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: a0260y Conanheatseatsthematrix Matrix O'brien Collage
+First recorded: 2021-06-24T02:33:46.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/8bd0da39-405b-42e8-a974-51397a560d39
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Conan O'Brien Eats, Eats, The Matrix. Okay. So you basically, like, create a WebXR experience where Conan O'Brien heats and eats the Matrix. And it says, the title is Conan O'Brien Eats, Eats, The Matrix. And then, so now you have to, like, create a story that contains those four words.
+And so you pick Conan O'Brien, you look at the recent news about Conan O'Brien, you look at the recent news about Matrix, Matrix, and then you could have, like, Matrix can be, like, about algebra and math.
+It's just, like, so anything that's associated with The Matrix, it could be about the film The Matrix, it's coming out, make The Matrix 4, right? Heats and eats the Matrix.
+So we think of heating and eating, so we'll get, like, pictures of frying pans, stoves, eggs, people eating stuff, Conan eating stuff, and we'll put those pictures in WebXR, in, like, a collage, like, a collage format.
+Okay? Conan O'Brien Eats, Eats, The Matrix.
+All right, so, yeah, so then you, um, you basically create a WebXR experience and a news article, and it's, like, people get to explore this, like, abstract art, like, you get to go into a VR experience, and you get to consume the article, Conan O'Brien Eats, Eats, The Matrix, okay?
+That's it.

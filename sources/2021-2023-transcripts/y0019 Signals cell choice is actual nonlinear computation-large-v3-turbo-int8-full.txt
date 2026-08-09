@@ -1,0 +1,27 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0019 Signals cell choice is actual nonlinear computation
+First recorded: 2022-03-31T20:03:09.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/24f6fe4a-1299-44f9-b90d-31757073594e
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+So, my feeling is that cells, so, you know, the secret language of cells, basically what it boils down to is that the signals that cells exchange, that, the signals that cells communicate with other cells,
+are triggering the changes in cell size, cell aging, cell decision-making, but to say that a cell is making decisions, to me, it feels like it's sort of anthropomorphizing the cell,
+but the consequence would be anthropomorphizing the cell to say, well, wait a second, the cell is just a physical system that is physically computing what the next action is based upon actual chemical physical interactions, right?
+It's a, it's a, the cell, the, the physical interactions are causing the cell to, to, um, compute a response, right?
+So there's, it receives a number of, uh, you know, some quantity of signals from its ecosystem, and that determines, uh, the trajectory of the cell's behavior.
+You can call it a, a choice that the cell's making, but it's only reacting to the signals that it's receiving, and, and, and, the, the, and the signals that it's producing.
+So, uh, so it's receiving, and, uh, in, uh, in a feedback loop with other cells, and that the, uh, the aggregate physical outcome looks like a choice,
+but that is sort of the anthropomorphizing, what is just a physical process.
+or, say, at a high level, the consequence of many smaller chemical physical processes
+results in something that appears to be the cell making a choice about what to do
+based upon the data that it receives.
+But if I follow my own logic to its logical conclusion,
+then there's no choice being made at any level.
+It's just simply that the human being, as a fractal of the cell, is literally responding to the signals that it's preceding
+from both the sensory environment and from within the brain.
+So, it's a very problematic realization, or it seems like it is.
+Because it's like, it's like, wait a second, I'm only making choices based on the data that I have.
+But at some point, it's like, okay, well, what kind of data, imagine data, right?
+What kind of data has imagined data?
+Like, really, okay, pause.

@@ -1,0 +1,16 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0133y What your eyes see. Dots Reality
+First recorded: 2021-10-13T18:22:07.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/6f6fe19e-a376-4cf7-9490-f5976d14f8fa
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Tom Beakbang's idea that we're, I mean, the idea that we're only getting sparse information from our eyes is sort of, like, contradicted from, like, trying to give someone only sparse information in virtual reality.
+Because if your eye is taking sparse information and turning that into a rich model somewhere inside the brain, because you're only getting, like, the hint of things, then you should be able to just give someone the hint of something with virtual reality, for example, or with a photograph, and their mind would fill in the gaps.
+It's like, how come you can't give someone, it's like, why is it that someone would see, like, a really, like, sparsely populated dot canvas, right?
+If you just see, like, a bunch of dots, how come you're not turning that into an image every time if those dots suggest an image?
+Why are you not, like, why are you not, like, right?
+It's not, you're not just getting this sparse field of dots, you're getting a rich source of data from your eyes.
+It's just that the process for which the data collection works is not completely outlined in excruciating detail.
+Like, there's not even, like, a concept yet, really.
+And that's what this book is about.

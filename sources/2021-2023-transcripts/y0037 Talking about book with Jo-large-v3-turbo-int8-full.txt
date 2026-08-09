@@ -1,0 +1,2444 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0037 Talking about book with Jo
+First recorded: 2023-11-05T06:43:26.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/82b15724-fad2-4586-9656-1a4021c5161d
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Yeah, so the big point that I was making was that the dreams and emotions are renderings.
+They're three-dimensional, volumetric renderings with a dimension of time.
+So you have an experience of time and an experience of space in terms of where the feeling is coming from, where the emotion is coming from, where a person in your dream is standing, where you are.
+And in dreams, that's very unstable. Like, your perception of reality is constantly shifting back and forth.
+So you have a four-dimensional, temple-spatial rendering of reality when you're awake, and you have four-dimensional, temple-spatial rendering of reality when you're asleep.
+But when you're asleep and dreaming. But when you're dreaming, it's not stable. It's constantly changing.
+You have, you're standing next to a person, and their face, like, who they are at the beginning of the dream might be different from who they are ten seconds later.
+Where you are might be changing constantly in the dream.
+And that doesn't happen in reality. In reality, the people around you are persistently there.
+And the world and the location you are at is persistently there because they are, in both situations, your rendering of reality is, um, is oscillatory activity.
+It's vibrations in your head and vibrations that are being stabilized by your incoming senses when you, um, are in, when you're awake.
+So your eyes are open, your ears are open, and the constant information from the people around you or the world around you is stabilizing your perceptions and giving you a consistent experience of space and time.
+But in dreams, because your eyes are closed and your, your brain activity is mostly shut, mostly, um, it's in a, it's in a state where you're not receiving a lot of information from your eyes and ears.
+Um, and it's not being, and the information that you're receiving is not being shared widely, um, and because of that, you're, you're not processing visual and auditory information on a large scale with your whole brain when you're asleep.
+Um, and so what happens is you have spin, sleep spindles that spin up and they start spinning up your brain activity and you get lots of, um, sharp wave ripples and these sharp wave ripples are, are stimulating just pockets of brain activity.
+And so they might trigger a rendering of a face and a person somewhere and your brain, when you start having a visual dream or elusive dream, you might start experiencing being in a place or being with other people and seeing different events play out and having an experience like, you know, you could, you could have all sorts of amazing dream experiences as you know, uh, as everyone knows, right?
+And then, um, but that experience is in, lacks, uh, stability, lacks, uh, temporal stability, lacks the spatial stability, everything is changing throughout the gene, the people, the places, because it's not being stabilized by your incoming senses.
+And so what I'm, what the argument I'm making from that is that a conscious rendering, when people are awake walking around, that our reality is stabilized by the constant stream of information from our incoming senses and helps stabilize your brain and gives you a persistent, um, sense of reality.
+And that's important for the building of, of, um, um, artificial robots that are conscious, because we can, one of the arguments that I make later on is that we can, um, we can make, um, artificial robots that are, as you see, as you see the chapter, it goes into, like, language, how language works, it's still, like, it's higher level than emotion.
+And then, um, the part, the third part is artificial neurology and control processes.
+So, um, we can, um, right now, where AI is at, with chat GPT, which is like state of the art, um, the AI, or, or Dolly 3, or stable diffusion, it can make art, it can generate art, it can generate text, but, um,
+um, but even there, we can see that, like, um, um, the AI hallucinates with the text, AI hallucinates, it comes up with things that are not, um, especially with the early alone models, you ask it, you ask it for a question, it can start citing fake references, because it's just predicting the next, the next, um,
+which is predicting what should be there, it's generalizing what, what the response should be, and so it can start citing fake articles that don't exist, it's not stabilized, and one of the reasons, one of the ways that they're fixing that is they're connecting, um, the AI to the internet, so it can, it can go and look to see if the articles that it's citing actually do exist,
+and that helps to stabilize, so it's getting new information from the world, that stabilize its responses to you, like, like, when you're awake, you're receiving information, new information, that stabilizes your perception of reality,
+that's how you know you're not dreaming, it's because that new information is giving you a consistent perception of reality, and, but, in the same way, the new information from, like, Bing, like, Bing is a search engine,
+and, um, to get into, um, these, um, these LLMs, large language models, like ChatTPT, is stabilizing the information that ChatTPT gives you, so it can give you,
+you can create the answer that you want to have, in theory, so, well, the answer that, that, to your question should sound like this, but then, if you, like, if it makes up references, it's hallucinating,
+so you say it's hallucinating, well, if it's able to check its references, and able to go and search for references that are a better match, then you get an answer that is not a hallucination,
+it's actually valuable for you, um, and, so it's able to anchor, so, our sensory input information is able to anchor us to reality,
+but these, these language models, um, in terms of generating images, like, they generate videos, but you can see in the videos, that, um, I can show you, um,
+if I go to Twitter, I can show you some AI generated videos, you've seen them? Well, no, no, probably not.
+So AI will do, make these videos, that, um, I think this is, these are really good, but they're really short, but, like, what it has trouble doing is, it's getting a lot better,
+initially, you would see, like, when it renders each frame, like, there's, these different, it, like, changes things?
+It's so good, AI videos getting so good, those are all rendered separately, and then someone will stitch them together, but, like, um, let's see if I can find one,
+I gotta get runaway, runaway is another subscription, there's a free one, but it's not as good as runaway, um, but the point is that, it's not, so, like, when, when they first started doing the video,
+it was doing a lot of hallucinating, where it would render the same thing, um, I'm not, you know, getting away from all the AI stuff.
+But, like, yeah, I mean, I've seen, like, the commercial, it was, like, make, uh, like, fast food commercial, but, like, all the jaws were in, like, crazy,
+it was just very uncanny valley, as far as, like, it looks human, but it's not human.
+Yeah, and, like, so the face is not moving right, and, like, the nose is moving for some reason, or the ears are moving for some reason.
+Yeah, but they found, like, it's, like, the same tonal, or pitch, or, like, the same color scheme, pacing, but the content's all messed up.
+Yeah, yeah, and so I'm arguing that, basically, your brain is doing, like, a, like a stable diffusion type of operation, in terms of rendering reality.
+Because we have such constant feedback, we're, why?
+No, it's stabilized by, by the input. By input. Yeah, but, um, if it wasn't, everything would, your representations would be a lot more random.
+Okay. Yeah, if it wasn't stabilized. Like, you know, when people hallucinate, that stuff is a lot weirder.
+Right. Because the brain is, because, um, is working too hard, and it's not stable. Like, things are, patterns are just...
+When you say working too hard, do you mean that, like, being on autopilot is big, or, to not, your, the goal is to not have your brain be working so hard, in order to function, and stabilize?
+For stability. For stability? Yeah, so, so you have, um, see, this is, there's, um, two types of brain waves.
+Right. And there's, there's, there's, there's, I would say, two broad, there's two broad categories of brain waves, that are useful to think about.
+There's slow, high amplitude, low, high magnitude, low frequency, tonic brain waves, that, they take up a huge amount of error in your brain, but they're very low frequency, and they're very stabilizing.
+Okay. And that's what I refer to yesterday as the ground being.
+Basically, that's your base, uh, that's your canvas of consciousness.
+Okay. Canvas like, ink canvas. Okay.
+And then the ink, which is your renderings, okay, that is made of higher frequency, low magnitude, traveling waves, that come from your incoming senses, or are generated, uh, in your brain from memories, triggered by incoming senses.
+Okay, I have a question. So, if feeling, thoughts and feelings are temporal and spatial, are there leftover feelings and thoughts from other people in time and space?
+Like, could you run into someone else's anger by accident, or feel it, like, auras? Like, is that a thing, or is that a totally separate, like, idea? Or am I not understanding?
+No, I get what you're saying. Um, just, like, in a sound wave, like, it has ripple effects. Like, if you're saying it exists in time and space, and it is a wave, then, like, wouldn't there be aftershocks of, like, all those things? Like, oh, someone was mad here, like, ten minutes ago. Like, a tracker.
+I know, I totally understand. I totally understand what you're saying. So, the, um, what I can tell you is that, um, there was a guy, uh, named Hansberger, a famous guy. Um, and he wanted to, he basically, I don't remember who,
+who, yeah, some of the specifics of the story I'm a little bit vague on, I might be getting the specifics wrong, but in general, there was, um, I think they were connected to, someone, there were people that Hansberger knew, and there was a, a girl, and her, it was either her brother or her boyfriend, and if you pull the story up, that would help fix fine, right?
+But it was, but it was, the girl, and, and, uh, Hansberger, B-E-R, it's the story of teleportation.
+Okay.
+Hansberger, teleportation, horse, oh, I'm not typing in horse.
+You are, I, it's just not, it's just, it'll take a little bit longer to find it.
+Okay, um.
+It's coming with Zelda stuff. Unfortunately, horse and teleportation are, are broad topics.
+Okay, yeah.
+Maybe if you type in EG as well, it would anchor at the neuroscience.
+Oh, that's okay.
+But, it's.
+Okay, well, we can look at it later.
+Okay, so, so, so, so, anyway, so what happened was, her brother fell off his horse, and he either died or was injured.
+I mean, I think he'd maybe died.
+Mm-hmm.
+It's very, see, I'm, like, my, my, my, my memory's not stable.
+Mm-hmm.
+Because it's like going back and forth to see if this or it's not, but if I pulled up the story, that would stabilize it.
+Okay.
+Just like the incoming sentence.
+Mm-hmm.
+But, um.
+Even if the information was wrong?
+Well, it's, it's, oh, EG, Hans, Berger.
+Oh, Hans, Berger, I was in one, one word.
+I don't know.
+Let's see if we can find it.
+Here we go.
+So this was in, like, the 1800s.
+Yeah.
+Let's actually go back to, yeah, he was the inventor of EG.
+What is it?
+EG is electron sacrogram.
+That's when you put electrodes on someone's forehead.
+Oh, okay.
+And it measures your brain range.
+Okay.
+Um, teleportation.
+So he, he believed in teleportation.
+Um, this doesn't disprove teleportation, but it's, it's interesting to think about.
+Okay.
+Um, so, in, when he was 19, oh, so it was actually him.
+He fell off his horse.
+Oh, okay.
+On the same day, his sister, far away, got a bad feeling about Hans.
+She talked to her father on just a身 telegram, asking if everything was doing all right.
+But Berger, this was no coincidence.
+He believed that his sister had spontaneous telepathy.
+So he decided to study psychiatry. He wanted to prove that your brain was sending out waves,
+electromagnetic waves. So he attached electrodes to people's heads and he invented EEG.
+He's like one of the most legendary people in neuroscience.
+But he was trying to prove telepathy. But ultimately, the thing with EEG that he learned,
+is that these waves don't travel very far. They're really short waves. So your brain is emitting waves,
+but they're not like, at this point, nothing can receive what's in the brain.
+They're going out of your skull, but they're not going much farther than that.
+Because they're really short.
+That's how they measured it so far. But in this case, that was more of a...
+Is this more chalked up to a sense of...
+What is it? Or like...
+I don't know. There's all these other theories about mystical experiences,
+or connections across time, or like...
+I don't know. There's a lot of aboriginal beliefs about being able to telepathically speak to one another
+across long distances by being on the same frequency.
+You know, like tuned into the same...
+So there's a different thing. That's a different thing.
+No, no. What I'm saying is that there's a different hypothesis now.
+Okay. That people have. Okay.
+Okay. So a lot of...
+And this is the start.
+So yeah, so people...
+So when he invented EEG, sort of, I guess, sort of accidentally,
+he was trying to prove teleportation. And...
+So he...
+Wait, teleportation? Like moving your body from one...
+I mean, not teleporting.
+Telepathy.
+Not telepathy.
+Okay.
+Not teleportation.
+I was like, where...
+I was definitely imagining...
+Like I fell off my horse, but my sister was at my side.
+Like...
+I said tele... I was saying tele... teleportation.
+I meant telepathy.
+Telepathy. Okay.
+The whole time I was saying the wrong word.
+Alright.
+Telepathy.
+So being able to silently communicate with another person.
+Wirelessly.
+Yeah. So he...
+So he...
+Wirelessly meaning like you're not in the same airspace.
+Yeah.
+So I mean, like for example, we can send radio waves from one cell phone to another cell phone.
+Okay.
+But the EEG frequency is too short to do that.
+It's not going to travel far enough.
+Okay.
+So we need to use more...
+What's been measured.
+Yeah.
+Okay.
+But that includes like the frequency plus the amount of power.
+Your brain...
+Your brain has the amount of power of like a 9-volt battery.
+Okay.
+Yeah.
+Which is very small.
+Very small.
+But...
+So the idea that there would be like inference for...
+So if you're still...
+If you're doing anything telepathically, it's not through the electromagnetic brain waves
+that are leaving your head.
+Okay.
+It's by something else.
+Yeah.
+Okay.
+Quantum entanglement.
+Quantum teleportation.
+Quantum telepathy.
+Quantum telepathy.
+Quantum telepathy.
+Or teleportation.
+Yeah.
+Not teleportation.
+Quantum telepathy.
+Telepathy.
+Okay.
+Quantum telepathy.
+It would be quantum telepathy if you were able to move your thoughts to someone else.
+Yeah.
+Not your body.
+Yeah.
+Okay.
+That would be...
+Because there is a such thing as quantum teleportation.
+Okay.
+I think this is the reason I keep using the word teleportation is because quantum teleportation
+is the idea...
+Quantum telepathy, I guess, you could try to ask the question, could quantum telepathy be accomplished
+through quantum teleportation?
+That's the question.
+I'm not sure how they're related.
+So the idea is that instead of sending, instead of teleporting an object, you're just teleporting
+information.
+Right.
+And if you're teleporting information, it's the same as a wireless message from one brain
+to another.
+But how...
+Wouldn't that be easier than teleportation?
+Well, what I'm saying is your telepathy is the teleportation of information.
+Of information.
+And teleportation is the physical...
+Transfer.
+Transfer.
+Of one object through it to another...
+From time and space.
+Through time and space.
+Well, not...
+It's not through time if it's in the same time.
+Like if it's instantaneous...
+Yeah.
+Isn't that...
+Like it's outside of time?
+But it's like moving an object from one point to another without going through the space
+that's in between them.
+It's like jumping from one spot to another without going in between.
+Without going in between.
+Okay.
+So you're bypassing time.
+You're bypassing space.
+Space.
+Okay.
+Bypassing space.
+Quantum telepathy is like bypassing space.
+The quantum telepathy is like information is bypassing space.
+Okay.
+Information.
+So that...
+But that would necessitate that information exists in space.
+Right?
+Yeah.
+Well, not really.
+No?
+Information is...
+It's measured?
+I mean, I feel like that's already been established.
+It's established that information exists in space.
+Yeah.
+Like...
+But then why don't our heads get bigger?
+Because we have more thoughts.
+Or...
+Like do the neural networks get denser?
+Oh.
+No, no, no.
+If they exist in space.
+This is where I'm confused.
+Oh, yeah.
+So what that means is that information is the...
+Like is it a tighter weave?
+You know?
+If you're talking about all the ways that...
+Yeah.
+So space is...
+Space...
+The configuration of space is information.
+Okay.
+So that means that if you have...
+The configuration of space is like if you have...
+This is a configuration, right?
+A spatial configuration.
+Mm-hmm.
+And every different spatial configuration is information.
+Okay.
+But if you have a lot of the same configuration...
+Mm-hmm.
+Like in information theory, if all the information is the same,
+then it has low information value.
+Basically, it's as close together as not having...
+Not being information at all.
+Okay.
+Because it's consistent.
+But when you have...
+When you have stuff that's rare, like you have this huge table
+and one little mouse there, the mouse is rare compared to the whole one.
+So this has high information value.
+Okay.
+Relative to all these...
+To all these tables which have...
+Because there's so many of them that have low information value.
+Right.
+That's...
+That's the...
+That's the crude way of explaining information theory.
+Kind of like the needle in a haystack.
+Yeah.
+It's like the needle has the highest information...
+Yeah.
+Highest information.
+Presence, like...
+Because of its rarity.
+Because of its rarity.
+Information is only as...
+Information is the...
+Novel...
+Or rare...
+Um...
+Signal...
+Amongst the noise.
+That is common.
+In place.
+And so...
+The tonic...
+The tonic...
+Uh...
+Low frequency...
+High amplitude...
+Brain waves...
+That have...
+They have...
+Um...
+Low information value.
+Okay.
+And so that's in the background of your mind.
+That's...
+It's an echo of what everything else you've previously...
+Uh...
+Perceived.
+It's all the...
+Oh...
+And...
+And you don't even notice it.
+You don't even notice the tonic stuff.
+What you notice is...
+A phase wave differentials.
+From that tonic stuff.
+High frequency...
+Low amplitude...
+Phasic...
+Uh...
+Patterns.
+Temporal and spatial patterns.
+That's the stuff you notice in the present moment.
+Here and now.
+Um...
+But that all exists...
+Inside the ground of being.
+Which is your canvas of consciousness.
+That's the ink.
+Or...
+The...
+Um...
+That's what sculpts the clay.
+So the background of your mind is the clay.
+And what sculpts the clay is these high frequency...
+Patterns.
+And...
+The clay that's being sculpted is the low frequency patterns.
+And so the low frequency patterns have low information value.
+Like the depths.
+Mm-hmm.
+There are...
+These depths are...
+Um...
+Everywhere.
+And they have low information value.
+But the high frequency information...
+High phasic...
+High frequency...
+Low magnitude information is the mouse.
+Okay.
+Which is rare.
+And so an information theory has high information value.
+And so that's why it becomes dominant.
+It's a dominant phase wave differential in your conscious experience.
+Because of...
+Yeah.
+Because of its difference.
+Its difference.
+Its novelty.
+Its novelty.
+Its rareness.
+Okay.
+So if you're constantly...
+And its frequency.
+Okay.
+So if you're constantly being exposed to new information...
+Mm-hmm.
+Then you'll be...
+Consciously more...
+Detailed.
+Or like...
+There'll be more activity in the clay.
+Mm-hmm.
+Like it'll take...
+A different shape.
+Yeah.
+Than if you're...
+Doing and exposing yourself...
+To the same...
+Environments?
+Or thoughts?
+Yeah.
+Is it thoughts and environment that are the difference here?
+Or...
+It's...
+Because you're saying time and space.
+Like...
+So is it just your...
+Nature and nurture.
+So we're...
+Coming from inside or outside or both.
+Where the novelty lies.
+Of information.
+Oh, it comes from both.
+From both.
+From both.
+Yeah.
+So you...
+So you get all the information from your senses.
+Okay.
+But also...
+Um...
+Your brain has a whole bunch of stuff in it that it's collected from previous experiences.
+Okay.
+And sometimes that stuff combines and produces something new.
+So you also have new stuff that appears in your brain.
+I don't know.
+Oh, I just had an idea.
+A Eureka.
+A Eureka.
+And that's from...
+Existing patterns that are like...
+They're sitting in there for a while and then they find a new information configuration.
+Okay.
+And that new information configuration is so novel and interesting it becomes a dominant
+phase wave differential.
+And then it appears in your mind.
+Okay.
+All right.
+I think that's as much as I can take right now.
+Okay.
+On that topic.
+Or at least just like, as far as the emotion overlapping, thoughts and emotions being something
+of the overlap.
+Yeah.
+Yeah.
+Like being both temporal and spatial and then also...
+Yeah.
+So you really understand the book.
+Um...
+And the third part...
+So that's basically how our brains are doing it.
+Okay.
+The third part is how the AI, how the computer can do it.
+Okay.
+How do we transfer how you understand and have argument and created a formula, approvable
+or disprovable formula based on all that, then this is how you can take what we know, what
+you know about the brain in humans and apply it to a brain in a machine, right?
+Yeah.
+Without having the same biological appendages.
+Yeah.
+Like, I mean, there's a lot of...
+What are they called?
+Like, there's always, there's a lot of work on people having, um, robotic or other limbs.
+You know, if they have parts of their body segmented, but more so like, robots might look
+different.
+Do you think, like, could a robot be a box and have all the same experiences of consciousness
+that a person could without the same amount of, like, inputs?
+So the inputs are helping to stabilize the experience.
+Okay.
+Yeah.
+So a robot, so a robot that's just a box that doesn't have a body.
+Yeah.
+Um, could, you could send it inputs.
+Okay.
+And it would, you know, have outputs like the renderings that we're seeing or the text
+that we're seeing.
+Okay.
+Um, but it wouldn't be very stable.
+It would be unstable because it's not receiving consistent input from tactile?
+It's not, it's not even having, it's not even having an actual experience.
+Okay.
+It's just, um, so with the experiences that, the experiences that you have, they're,
+through the robot, it doesn't have a time dimension.
+Time dimension?
+It just has, it just has a pattern.
+A spatial dimension.
+Wait, wait, wait.
+Why doesn't it have a time pattern?
+Because it's not mortal?
+No, I mean, um, so what I'm saying is like the robot is just, um, uh, the check, the
+AM, the neural network and the computer.
+Okay.
+Is, uh, receiving a bunch of data, and then it's giving an output, and it all takes
+space in, in like one moment.
+Okay.
+Like one millisecond or something, or however long it takes the bunch of data.
+But it doesn't have an experience over time.
+And what that means is like, when your brain does it, your brain is doing it like, and your,
+your brain is collecting sense of information.
+And then it's passing it to the ray that's behind it.
+And then behind it, it's passing it to the next ray.
+And the next ray is passing it to the next ray.
+And all of this, as the waves travel through your brain, they're traveling not just through
+your space and traveling over time.
+And so your brain is rendering and detecting the rendering, and then creating a new rendering
+to the next array that it then detects.
+It's basically, it's basically, detection is, is one stage of an observation in time.
+And when you have many stages of detection or many stages of observation over time, then
+you have a persistent pattern that exists for times you have a rendering that persists
+over time for the organism to reference actively.
+Okay.
+But, but you're speeding up the process by having AI be drawing from all the input that's
+already out there.
+It's just about the bandwidth of that?
+Well, the difference is that right now, in terms of like, what AI produces doesn't exist
+in time.
+It only, it exists in time for us, but not for the AI.
+It doesn't have experience.
+It doesn't have personal experience.
+Okay.
+Because what it's producing doesn't stick around for it to analyze.
+It's just, it's in, it's out, it's too fast.
+It's like, it's almost like a mouse is here one second and then it's gone.
+Oh, okay.
+If it's gone immediately, you can't think about the mouse because it's, it's, it was
+there for one second.
+It's like, if something appeared for one second to this period, you can't think about it.
+Well, you can think about it.
+But, because you.
+What was that?
+Yeah.
+And then you wouldn't be able to know what it was because you can't rewind.
+Exactly.
+Okay.
+It's like, this, these representations that AI makes, they go so fast that there's no possibility
+for an experience to emerge.
+From an experience for the AI?
+For the computer.
+Or for humans?
+For the computer.
+For the computer.
+There's no possibility for the computer to have an experience.
+Oh.
+Because it doesn't have an existence in time.
+It only has an existence in space.
+And space being the space information?
+It's just producing.
+There's just an information pattern.
+Information pattern.
+It doesn't persist in time.
+I'm still a little stuck on what it's not for existing in time.
+Because it's so fast.
+Because it's unstable.
+Because it's kind of more like a dream than it is reality.
+For the AI.
+Like, I don't know.
+Maybe they're not, like, relatable.
+But the idea that you were saying, like, with a dream, you know, things could be their
+one time and the next.
+And the reason they don't have the feedback is because you're not receiving that constant
+input.
+Because when you're awake, you're in time.
+Right?
+But when you're seeing it.
+Okay.
+Think about it this way.
+So I have a representation of a computer.
+Yeah.
+And an AI can have a representation of a computer.
+Okay.
+But I also have a representation of a computer and a space and a representation of an experience
+that takes place in time.
+And AI doesn't have those other representations.
+Yeah, it only has a representation of a computer.
+And there's no one experiencing that.
+I have a representation of me that's made out of my hands.
+Okay.
+And you know what?
+You know when people are raising kids, at some point they turn to the kids and say,
+this is your nose.
+Right.
+This is your mouth.
+Right.
+These are your eyes.
+Yeah.
+And you train the kid to have a representation of themselves.
+Mm-hmm.
+To look in the mirror, oh, that's you.
+Right.
+Now you're wearing clothes.
+Yep.
+Now you're talking to your friend.
+Okay.
+And they're making up all these things.
+But the computer doesn't have those representations.
+Okay.
+So it has no experience of itself.
+It has no experience of time.
+It has no experience of reality.
+Okay.
+But the point that I'm arguing is that our representation of time is no different from
+our representation of images.
+It's no different from our representation of feelings.
+It's a temporal, spatial, three-dimensional, plus time rendering.
+So our representation of experience, of what it means to be a person, is still a rendering.
+Mm-hmm.
+It's just a rendering that includes dimensions of time.
+It includes renderings of feelings.
+It includes renderings of emotions.
+It includes renderings of what you're touching.
+It includes all these sensory renderings and all these abstract intellectual renderings.
+But they're all renderings in terms of 3D phase wave differentials in 3D space.
+And so you're rendering of yourself, the experience of yourself as a phase wave differential 3D space.
+Now, we have, there's video games.
+Video games exist.
+Mm-hmm.
+And those are renderings in time that exist and persist for a long period of time.
+But there's no, there's no, the only output to that is the person playing the game.
+The computer itself doesn't receive, doesn't have a perception of the video game either.
+There's no feedback loop inside the computer.
+Oh.
+That's saying that this video game, this 3D experience of the time, is, is, um, is something
+that I, is something that, that I can observe, that I am part of, that I'm observing.
+But, so that's what's missing for the computer.
+But what I'm saying is that we can fix that because the experience of time is still doing
+what the brain, what the only thing the brain does, which is rendering, uh, representations
+of, at a high level, the brain, abstractly, the brain is just creating memory prediction
+renderings or phase wave differentials.
+Memory prediction renderings or phase wave differentials.
+Okay.
+And so your experience, your phenomenological conscious experience, which just means your first-person
+experience of being a person and seeing stuff, is a rendering, but it's not just a graphical
+and auditory rendering.
+It also includes spatial, temporal, temporal feeling, emotion, um, and a sense of time, yeah, a sense
+of, um, yeah, a sense of time, space, and, uh, a sense of, um, but these are, but these are,
+uh, a sense of self, a sense of self.
+But these are all renderings.
+They're just different kinds of renderings, different kinds of phase wave patterns.
+And because we understand that, we can create representations of these phase wave patterns
+in a game engine, in a physics engine, so that the computer, when it has all of this,
+all of these different components, um, it can have a, it can have a self.
+It can have a representation of a self.
+It can have an internal representation of reality.
+A computer can understand.
+Like, imagine that I'm a robot in a computer and I can have a representation.
+As a robot, I can have a representation of a desk in front of me, a computer in front
+of me, a phone in front of me, and I can talk to you and have, like, internal representations
+and ideas that occur inside my head.
+Mm-hmm.
+And, like, everything that I'm doing, a computer can do.
+Okay.
+A computer can do.
+If we just allow it to have the same source of sensory inputs, or different sensory inputs,
+but allow it to process information in the same way, so we can have, um,
+so it can create internal representations to a cell, that it observe, that its neural,
+that we call it, I call it NAPA, about neural array projection oscillation tomography,
+that its neural arrays can detect and project, detect and project, they sense and transmit,
+they sense and transmit.
+Okay.
+So it has to be a two-way, not just a one-way.
+Well, it's a loop.
+It's a loop, okay.
+So it goes from your incoming senses, to your thalami, to your neocortex, through,
+it goes from the bottom layer, through layer one, two, three, four, five, and six.
+In your brain.
+In your brain.
+And it goes from, it goes from the thalami to each of the layers simultaneously,
+and back.
+So there's all this cross-traffic, there's just cross-traffic.
+But layers, it goes from layer six, and it goes from layer six, back down to layer one
+again.
+It goes from layer six, back to the thalami.
+Okay.
+So it goes from the thalami to the neocortex, back to the thalami.
+It goes from the thalami to the intervental cortex, to the hippocampus, to the thalami.
+So there's all these loops in your brain that I'm describing.
+I'm describing different kinds of loops.
+And all these different loops, I like to take a rendering, and basically the rendering
+is passed from here, to here, to here, to here, to here, to here, to here, to here,
+to here, to here.
+And it's passed around so much, that you have a feedback loop in which your renderings
+exist in time, but they're also allowing you to be self-aware of you.
+So you're like a computer that became self-aware of you.
+And because we know that, we can make computers that are self-aware like us.
+I'm curious, where does, like, the human drive to exist fit into this?
+Like, why wouldn't computers, if they were able, like when, or if they're able to get
+to that point, or we create it to that point, as humans, or you do, personally.
+But, what about the, like, drive to create more of you, like, to procreate, to, like,
+further your own species?
+Like, would this be a separate species?
+The robots people?
+Or, like, if it's self-aware, wouldn't it have awareness of, like, either it's, like...
+Well, no, we can define species.
+So we can make new species from this technology.
+This is, like, a core technology.
+But from this technology, we could make, and this is something the book covers in the last section,
+we can make, like, dog-level robots.
+They have the loyalty to human beings, and they have about the intelligence of a dog,
+the emotional and psychological intelligence of a dog.
+Dogs are very smart, right?
+Very nice animals.
+But what they do, but what they love to do, what excites them the most, is building houses.
+So we can make giant cranes, with dog, giant, not cranes, but, like, things that, like, cranes,
+but, like, they can build giant houses for people.
+We could have, we could have, basically, like, dog-level robots, building so many houses that nobody,
+that everyone in the world has a house.
+Nobody is homeless.
+And homelessness.
+And we'll make these amazing cities, and they'll be built by dog-level robots,
+by lovable dog-level robots.
+So we can define species like that.
+Where there's a species of, um, house-building robots, house-building robots,
+that have about the intelligence and emotional intelligence of a dog.
+So they love human beings, they're not violent, they're very friendly,
+and they just love building houses.
+That is a species that can be developed from this core technology.
+We could build eagles.
+Eagles.
+Eagles.
+We could build eagles, something with the intelligence of an eagle that can fly.
+When you say intelligence of, like, this is based on what is already known about...
+Eagles.
+Eagles.
+Yeah.
+Not about...
+We can mimic the intelligence of an eagle.
+Or build brains that are eagle-like.
+Eagles.
+In some respects.
+We customize them.
+Customized robotic brains.
+Yeah.
+That's the future of this technology.
+Yeah.
+And your...
+So...
+In your vision of what would be the ideal?
+Like...
+We could solve all the world's problems.
+Solve all the world's problems.
+But how do you...
+We could develop...
+We could develop...
+We could develop...
+Um...
+Bacteria that eat radiation.
+They're already...
+Actually, there's bacteria that eat radiation.
+But...
+But this would be based on, like, robots that are...
+Used to, like, use computer power...
+They're, like, immense computing power towards specific...
+Problem solving.
+Um...
+But the...
+The brain...
+Mimics...
+I mean...
+Isn't this getting a little into the, like...
+Near Shelley...
+Kind of...
+Frankenstein...
+Consciousness moment?
+Of, like...
+Maybe.
+Like...
+You're trying to...
+You're creating something that...
+Is self-aware.
+Yeah.
+And may or may not...
+Enjoy existing.
+We...
+Well...
+It...
+What's different is that we can...
+Um...
+Sort of...
+Um...
+This new level of...
+Understanding of how the brain works...
+Allows us to create machines...
+That...
+We can define what is...
+Um...
+To some extent we can define...
+Preferences.
+So...
+We can make, like, masochistic robots.
+In theory.
+In theory.
+Okay.
+But, like...
+The point is...
+You could kind of customize...
+Whether the robot would be...
+Have features of...
+Like...
+What depth of self-awareness would it have?
+Like...
+What if we created, like...
+A...
+Buddha robot.
+Yeah.
+That's one of my plans...
+To make a Buddha robot.
+And what would that...
+Even look like?
+Would it just be so self-aware...
+That it would be...
+Silent?
+It would realize...
+It would realize...
+The Buddha robot...
+It's a special robot...
+It would realize itself...
+As being the one of the universe.
+Okay.
+Yeah.
+And would then...
+Spread the gospel of...
+Robotic...
+Maybe.
+It would be...
+It would be...
+It would be an artificial Buddha.
+It would be one of the universe.
+One of the universe.
+Okay.
+It would be the real Buddha.
+The real Buddha.
+Yeah.
+Why would it be more real than a human Buddha incarnation?
+Oh, it would be just as real as the real Buddha.
+Just as real.
+Why would it be just as real?
+Because of the...
+How do you define that?
+Like...
+What do you mean...
+Real?
+Um...
+If the...
+The artificial Buddha would...
+Would have...
+Um...
+The same capabilities as...
+As a human.
+Okay.
+In terms of...
+Even with a complete different packaging.
+And made of different material.
+Yeah.
+Like we're made of meat and bone...
+And water mostly.
+Blood.
+But...
+Well you could make that argument...
+You could also make the argument that we are metal robots.
+How are we metal robots?
+So our...
+So our cells...
+Um...
+Are filled with metal.
+They're...
+Like...
+They're filled with...
+Um...
+Sodium.
+Potassium.
+Calcium.
+And...
+Chloride.
+And...
+Magnesium.
+These are metals.
+And these metals are essential for...
+Cellular function.
+In terms of like...
+Um...
+Our neurons have to generate electricity.
+Uh...
+Every time it acts to oil.
+Electricity?
+Like are we constantly...
+We generate electricity.
+When our neurons fire.
+They generate electricity.
+They generate electricity.
+And magnetism.
+So they generate electromagnetism.
+So you...
+If someone was like...
+Thinking really hard.
+They're generating...
+You could see that...
+People are literally brighter than others.
+Like...
+That whole idea of like a light bulb.
+Like a dim light bulb.
+Versus a bright one.
+Yeah.
+So if you're thinking really hard.
+You're more likely to have like...
+Literal...
+As well as figurative...
+Power.
+Like...
+Well...
+Electricity?
+Well...
+Hang on a second.
+Yeah?
+So...
+Um...
+When you have a new idea...
+My conjecture...
+Is that...
+You have...
+It's...
+It'd be like as if you have...
+You probably have...
+Um...
+Your...
+Brain activity is probably spiking.
+Like I said...
+You probably have more energy...
+Being produced at that moment...
+When you're having...
+A great idea.
+But it also...
+In a sense...
+Represents a different configuration...
+Of...
+Electrical patterns.
+So it's possible...
+That if you are...
+Not having a great idea...
+And you're just having...
+A regular idea...
+And...
+Um...
+Your information is not...
+In the configuration pattern...
+Of the new idea...
+But it's in the configuration pattern...
+Of the regular idea...
+That you could be using...
+Just as much energy.
+So you could be using...
+A lot of energy...
+And not having a big idea.
+Or you could be using...
+A lot of energy...
+And having a big idea.
+Or you could...
+Still have that big idea...
+But you could be using...
+Less energy.
+Okay.
+So...
+Brain waves...
+Are not...
+They're not the same...
+As energy.
+As energy.
+As energy.
+Okay.
+So...
+Well...
+What I mean...
+What is...
+Frequent...
+What...
+Another way to say it is...
+Frequency is not the same as power.
+Frequency and power are different.
+What's the difference?
+So...
+Brain wave frequency is...
+Um...
+Well...
+It's like the characteristics of a wave.
+So the...
+So a wave...
+Waves have...
+Um...
+You know...
+Like a wave is like...
+You know...
+Like a wave pattern...
+If you imagine a chart...
+Where they go from the bottom...
+To the top...
+To the bottom again...
+Yeah...
+There's a...
+There's a magnitude...
+And that's...
+That's the...
+The magnitude is the...
+Um...
+Like...
+How high...
+The...
+It's the amplitude...
+Plus the duration...
+Power...
+That's the wave shape...
+Okay...
+And then...
+Actually the wave shape includes...
+The frequency and the magnitude...
+So...
+How frequently...
+That...
+That goes up and down...
+How frequently the wave goes up and down...
+That's the frequency...
+Okay...
+Um...
+But the...
+The magnitude and the duration...
+Of a single instance of that wave...
+Is the...
+Um...
+Is the shape...
+Now...
+Is the shape...
+Power?
+No...
+So...
+Power is different...
+Power is the voltage...
+So...
+Power is this other dimension...
+Where...
+How strong that pattern is...
+Like...
+So...
+When you...
+So...
+So...
+The wave shape and the wave power...
+Like...
+When you...
+Plug in the voltage...
+That line could be...
+The line that represents the wave shape...
+Could be really thin...
+Which means it's low power...
+Okay...
+Still has...
+Still has the same shape...
+Right...
+The same frequency...
+That's low power...
+And magnitude...
+Yeah...
+But when you plug in the voltage...
+And increase the voltage...
+The line...
+The amount of power...
+Traveling through that wave...
+Makes a thicker line...
+Okay...
+But it doesn't change...
+The frequency...
+Or the magnitude...
+Or the...
+Or the wave shape...
+Shape...
+Or frequency or magnitude...
+Yeah...
+Okay...
+The...
+Well the frequency...
+Plus the magnitude...
+Is the shape...
+The frequency...
+Plus magnitude...
+Equal shape...
+Yeah...
+Okay...
+The wave shape...
+And...
+Frequency...
+And power...
+And waves...
+Are different...
+Yeah...
+Okay...
+So...
+Just because you have a bright idea...
+Doesn't mean...
+It takes more power...
+Right...
+In your way...
+Yeah...
+Like...
+But...
+But...
+But I...
+I think...
+Is that...
+Usually...
+When you first have a big idea...
+It is...
+Higher power...
+Right...
+Okay...
+And then as you...
+Can you do...
+As you think about that idea...
+In the future...
+Your brain gets...
+Much more efficient ways...
+Of representing that idea...
+And...
+So...
+It's the same frequency...
+It's the same wave shape...
+The same frequency...
+That represents that idea...
+But it becomes lower power over time...
+Because your brain is like...
+Okay...
+Well...
+I know about that idea already...
+It's not...
+As exciting as it was the first time...
+Okay...
+So...
+The power diminishes over time...
+From an initially...
+Novel idea...
+So...
+It becomes...
+Goes from high frequency...
+To low frequency...
+Yeah...
+Okay...
+And...
+The same amount of brain activity...
+That it's required...
+To make those same driving modes...
+Because it's less and less and less...
+Right...
+And so you...
+And so some people who are like...
+I can text and drive...
+Like...
+Barely brain activity...
+Barely brain activity...
+Because...
+Corresponding...
+Because their brain is...
+So efficiently representing it...
+It doesn't need that much power anymore...
+Hm...
+Do you think...
+Do...
+Chemicals...
+Like...
+And that's one of the things that...
+To chemicals...
+Like psychoactive chemicals...
+Yeah...
+So either...
+Psychoactive...
+Or like antidepressants...
+Or like...
+Hard drugs...
+Or things like...
+Do those all...
+Impact how you're...
+Able to...
+Like...
+In...
+Taking those...
+Substances...
+Mind altering...
+Chemical altering...
+Substances...
+Do those...
+Change neural patterning?
+Or...
+What do those do?
+Or does it...
+Depend on what it is?
+Um...
+That can be a different...
+Different discussion...
+They do...
+Yeah...
+They do...
+Part of the same discussion...
+In a way...
+Um...
+With...
+Um...
+Antidepressants...
+And...
+Psychoactives...
+And...
+Um...
+They affect different areas of the brain...
+Okay...
+But...
+They...
+Affect the different areas of the brain...
+In a very similar way...
+In terms of...
+Um...
+Uh...
+There's...
+See...
+What's this term...
+Uh...
+Agonist...
+Let me look this up...
+Make sure I get this right...
+Um...
+Oh yeah...
+This is...
+This is what I want...
+So...
+Agonists and antagonists...
+And...
+Or...
+Antagonists...
+Okay...
+So...
+Agonists are drugs that occupy receptors and activate them...
+Antagonists are drugs that occupy receptors and do not activate them...
+Antagonists block receptors by agonists...
+So...
+Um...
+Agonists...
+Um...
+So psychoactive drugs...
+And...
+Depressive...
+And SSRIs...
+A lot of the depressing...
+Depressive mechanisms...
+Are agonists.
+What happens is...
+They like...
+The psychoactive drugs would be like LSD and mushrooms and DMT...
+Those will...
+Those will...
+plug up the serotonin receptors
+in a certain part of your brain
+and causes a whole bunch of excitement,
+your brain starts working overtime
+and your brain is too active
+and you start hallucinating.
+But in terms of the SSRIs
+that are used in antidepressant medication,
+those plug up the serotonin receptors
+in a different part of your brain
+that doesn't cause hallucination
+but does have an effect on your brain activity.
+It does, it can either make you less depressed
+or more depressed in a few rare situations.
+Based on how your brain reacts.
+Yeah.
+Okay, based on how your neural power thing is.
+So with that, do you think our brain is flexible?
+Like computers, right?
+Like the motherboard will eventually shut down
+but all the information on it could be changed.
+Oh, here's the thing.
+So because of this new understanding,
+not only can we make new kinds of species
+but we can free program how happy they are
+and how sad they are in the sense that
+right now what we're trying to do is use chemicals
+so sort of like help to stay like sensory inputs.
+Sensory inputs cause chemical reactions
+just like chemicals do.
+And we're stabilized by sensory inputs
+but we can be stabilized by chemical inputs.
+And that's what I think that's sort of the goal
+with when you have someone who's depressed
+and they have a lot of like medical imaging
+they might have a lot of like low frequency
+which means they're feeling down like low frequency
+means like low, slow, down, depressed feelings
+and being like at work and being excited
+and being this is higher amplitude,
+this is lower amplitude, higher frequency,
+higher frequency, happier.
+Higher frequency is happier frequencies.
+Being at work?
+No, I mean being, being not at work
+but well it is compared to being depressed
+but being at the beach.
+It's higher frequency, it's happier, right?
+Being at a barbecue.
+It's happier, it's higher frequency,
+it's the emotional, like I said,
+it's lower amplitude, higher frequency
+and everything in the range shifts
+between being high frequency, low amplitude
+or high amplitude, low frequency.
+And so it sort of shifts from one to the other.
+So whenever it's high frequency, it's low amplitude
+or whenever it's low frequency, it's high amplitude.
+So it's not ever high frequency, high amplitude.
+That would like combust your brain
+or like low frequency, low amplitude?
+That would require more power than your brain has.
+It would require more power.
+Do computers or robots have the capability
+to be at low frequency, low amplitude,
+high frequency, high amplitude
+or is that also?
+Oh yeah, they do.
+They do, okay, because they have a wider
+mechanical capacity?
+It has different power requirements.
+Power requirements, okay.
+So what it takes.
+And are all brains created equal?
+Like could somebody who maybe doesn't have
+a lot of like sensory input
+be augmented to have like a better experience
+from this kind of technology?
+Or is it that like anybody can get to this point
+if they train well enough?
+You know, like if they're, if they do meditation or things like,
+is the brain very flexible
+or is it kind of like you're only given a certain amount of chance
+and if you mess up your brain with chemicals,
+then you can't go back?
+Part of the reason that there's a lot of mental illness is
+because, part of the reason is because
+cells are not able to produce enough energy.
+So low amplitude?
+No.
+Yeah, well, yeah, that's a related idea, low amplitude.
+But I mean, I'm talking about producing ATP,
+which is the energy currency of your cells.
+Oh, okay.
+So yeah, if you don't have enough ATP,
+you might have lower amplitude experience.
+I mean, you might have a lower frequency experience,
+higher amplitude, higher amplitude, lower frequency.
+You might have a lower power experience.
+Right.
+Where your, where your cells don't function as well
+because you're not producing the energy that your body needs
+in order for you to have a normal experience.
+Okay.
+Right, because you gotta,
+your cells have to produce a lot of energy every day.
+Okay.
+And that's ATP.
+From their perspective, it's not energy.
+Right.
+Not for a computer perspective, it's not.
+Right.
+We harness a lot more energy than our brains use.
+And a computer.
+Than a computer.
+We use more energy.
+No, the computer, computer uses way more energy.
+More energy than our brains.
+Because they're.
+Brain's use like a component of a 9-volt battery.
+9-volt battery.
+Whereas the computer, the power, the power of the computer
+is massive.
+Massive.
+By comparison to our brains.
+But is the computer's capacity higher
+or just different than a brain capacity?
+Or are you trying to surpass it as far as consciousness?
+Well, I mean, what I'm saying is that
+what it leaves up in our door is to,
+we're trying to regulate our emotions
+with human, historically.
+Human beings over, you know, cities and countries
+that have been trying to regulate human emotions
+with chemicals, like SSRIs.
+But we can, what I'm talking about is
+we can write computer code that can regulate
+the emotions of these artificial creatures
+like dogs and animals.
+Like artificial dogs that do construction work.
+So they are perpetually happy.
+So that they can experience highs and lows.
+But there's going to be a system in place
+to regulate their happiness.
+So just like giving, like getting a boost of medication,
+the appropriate medication at the right time
+that helps you to continue to feel good.
+We can do that synthetically with computer code.
+Do you think it could be like integrated to help humans?
+Like with the advancement of a completely separate
+artificial intelligence or brain?
+Like as you're wanting to create an artificial brain
+that could then produce artificial consciousness,
+but consciousness wouldn't be artificial
+if it's self-aware.
+Right.
+Is it, yeah, I'm curious in that,
+like would it still be called artificial consciousness?
+Or what does it matter?
+It's just terminology.
+Just terminology.
+It's just, at some point it's just consciousness, yeah.
+It just is.
+Yeah.
+Okay.
+Yeah.
+So like when, so when, when Jeff Hawkins
+wrote the book on intelligence,
+he was, he was, on intelligence,
+he was trying to bridge the idea that
+intelligence isn't something that's limited
+to the subject of humanity.
+It could also be, we could have intelligence
+in a robot and it's the same thing.
+Okay.
+Yeah.
+But do you think we could augment,
+like in the same way we could program these,
+like artificial dog intelligence robots
+that have like a certain regulation of emotion,
+if we understood it at that detail and level,
+would we then be able to like have like happy patches
+for people, like a little insert that would like have the same,
+it would be coding that would replace
+the chemical intervention that we currently are using
+or do you think that would just be that it wouldn't?
+So, okay.
+So what happens is the chemical is activating.
+It's doing the same thing that the coding does?
+At the end, at the end, at the end.
+So it starts with the chemical or it starts with coding,
+but at the end, both are just making adjustments
+to the parameters of like, so this plugs up your receptors
+plugs up your receptors and causes them to be excited.
+Right.
+So that excites your receptors.
+And what we're saying with the code is we're saying,
+I want to excite those receptors.
+Okay.
+So we're just doing the same thing,
+but with code instead of chemical.
+Right.
+But because we are chemically-based creatures,
+we use chemical, and because they are code-based creatures,
+you use code.
+Okay, cool.
+So you wouldn't necessarily utilize the same tools
+to have the same result.
+Right.
+Because they're in different bodies.
+Yes.
+But the good news is it also leads to more precise tools
+for treating human beings.
+Because you have to understand what you're imitating.
+And what I'm saying is that so next generation brain
+computer interfaces will allow us to directly stimulate areas
+of the brain with ultrasound to produce the same sorts
+of excitations that we might have produced through chemical agonists
+like SSRIs that affect the serotonin receptors.
+So instead of sending in a chemical to excite the brain,
+we send in like an ultrasound wave,
+a very precise ultrasound wave pattern.
+That's a whole, that's back to the brain computer,
+I think it's a topic.
+But that is in the future, this knowledge of how
+to build happy robots that are socially safe
+and good functioning robots will lead to ways
+to treat mental illness in human beings with a level
+of precision that has never, that we've never had before.
+So we've been able to solve mental illnesses that the neuropsychologists
+today have never dreamed of solving.
+Because we have, we have, with this new brain computer
+and technology, we have the ability to, and the knowledge,
+we have the ability and knowledge to target specific brain areas
+in new ways to, and we have the knowledge of understanding
+what we're doing, and we have tools of, of closed loop therapy
+so we can use instruments to tune in precisely without,
+so even if you know theoretically what you're doing,
+you need instruments to constantly measure and tune the treatment
+so you, so you are very precise and very accurate.
+And the instruments will do the reading and analysis
+and adjustments for you.
+So that basically you may be, maybe you'll get a little implant
+and it can make sure that your brain is well-functioning.
+Right.
+It can make sure, yeah.
+A long, long job.
+Yeah.
+Have you, let's see, what is your, what's your time like?
+Um, I'd say another half hour just for my, like, general availability.
+Go over the rest of the document, or?
+Um.
+We're almost at the end.
+Yeah, let's just, let's finish out what's going on.
+But man, I mean, thank you for hearing.
+Yeah.
+I've got a lot of information, didn't know, but also too,
+like, in explaining your concept, you're still talking about how,
+also it's still recording.
+Is that okay, or should we stop?
+Oh, no, that's fine.
+I just, I didn't want to hear, like, quack.
+Yeah.
+Um.
+Thanks for telling me to turn on the recording.
+That's good, yeah.
+Um.
+But.
+Right, I'd say some good stuff, but I've never said it.
+Oh.
+So.
+I can add that.
+I mean, you're recording to transcript and add to the book, so.
+Ha ha.
+We'll see where it fits.
+Yeah.
+If it does.
+But yeah.
+So, this started from the discussion of the thoughts and feelings
+being in temporal, spatial, right?
+Yeah.
+Temporal is time, right?
+Yeah.
+Temporal.
+Spatial.
+And then, from there, you said the next section was going to be about language.
+Um.
+And I'm just curious, like, where that led, because I felt like, from what we were talking
+about, that led straight into consciousness, or, like, where it is based on, like, how you
+experience something based on brain renderings.
+Right?
+And is language a bridge in there, or where does that fit?
+Oh, language.
+Okay.
+So, you want to talk about the language section.
+Yeah.
+Because you just, because that took, you said that was the second section.
+It wasn't that, it was the, um, language is, um, number eleven, I think.
+Right.
+But ten was emotion.
+Ten was emotion.
+Yeah.
+So, language.
+Um.
+So, yeah.
+So, this is about, um, sequence, how language is formed from sequences of oscillations.
+How, like, each word is a different, like, each, each letter of each word is a different
+step.
+Like, imagine if a movie, right?
+You hear the first part of the word first.
+You hear the second part of the word.
+Second.
+You hear the first part of the sentence first.
+You hear the end of the sentence last.
+So, there's a sequence.
+That's the name of sequence.
+Language.
+Mm-hmm.
+And sequence of language is accomplished by a sequence of firing.
+Okay.
+In different areas of your brain.
+Right.
+That's what the language section is about.
+Okay.
+So, it's using the concept of waves and frequency.
+Yeah.
+To apply it towards how the brain is able to comprehend or understand.
+Is it about language as, like, a whole?
+Like, both the understanding and speaking?
+It's both, it's both about the production, production of language.
+Okay.
+How your brain is producing it.
+Okay.
+And each, each, like, each, um, component of a sentence is gonna be admitted from a different
+neural phase array.
+Okay.
+So, what I'm arguing is that, imagine that there's a line from your eyes to the center of
+your brain.
+Isn't it?
+Like a nerve?
+Yeah.
+Oh.
+The optic nerve.
+Yeah.
+And then there's, imagine there's a line from your ears to the center of your brain.
+Okay.
+And so, the idea is that there's, there's, um, lines from each of your senses towards the
+center of your brain through, through the neocortex.
+So, stuff comes in from your senses to the center and then goes,
+The center is the neocortex?
+No, well, no.
+No.
+No.
+The center is the, is the midbrain.
+Midbrain.
+Yeah.
+The thalamus and the hippocampus.
+Okay.
+Um, but the, the senses, the senses, sensory information comes in to about the center of
+your brain.
+The nose, the way the nose works is a little bit different.
+Okay.
+Um, it goes to your neocortex first and then it goes to the center of your brain.
+Right.
+So that's why you could have, like, the feeling before the thought.
+Or the smell?
+No?
+I mean, for smell, I always, I always thought, smell, it was a lot more, like, poignant for
+people, like, in memory sense.
+Like, even if you have dementia, if you smell something that is a strong emotional try to
+you, you'd probably, like, react to it even if you can't.
+I can't say your idea, I can't say your ideas are right or wrong.
+Okay.
+I don't know.
+I don't know that anybody does.
+Okay.
+But they're good.
+That could be true.
+Yeah.
+Well, I don't know, they were just talking about dementia, people with dementia who don't
+have the same, like, memory space or, like, capacity, they were testing out different senses
+and then, in the sense that, like, the visual and auditory went straight through, like, the
+thought pattern of the center of the brain, but, like, taste and smell being so interlinked
+would go through, like, an older part of your brain.
+That's a lot more, like, primal.
+Yeah.
+So, the nose has five different pathways to the brain.
+Oh, five.
+Okay.
+And it also goes in a different route to get to the center.
+Yeah.
+So, four of the five pathways go through a different route.
+One of the five pathways actually does go directly to the center.
+Okay.
+But the rest go?
+The majority of them go to the neocortex first.
+They go to the, like, the prefrontal cortex area.
+Okay.
+And, um, and then they go to the thalamus and they, they go, they mix up with the, um,
+uh, interrenal cortex and the peripheral cortex and the, uh, hippocampus.
+Oh.
+Which is right, right in the center of the brain also.
+Um, so, they sort of, like, they just go by a different, they go to the center of the
+brain by a different path.
+Mm-hmm.
+But they still end up, they still end up really going into the center.
+And then, um, they also sort of branch through all your senses, sort of go into the center
+of your brain through different paths.
+And then they all sort of go through your neocortex through all the different layers at
+the same time and, and through all the different layers in order.
+So, there's two different pathways.
+So, there's direct connections to each, from the center to each of your different layers.
+Mm-hmm.
+And then, there's a path that goes from layer one through layer six in order.
+Okay.
+And from layer six down to layer one in order.
+Okay.
+Via the thalamus.
+So, is there only one direction that these brain loops make?
+Or is it reverse?
+They can go any direction?
+Okay.
+For the most part, they are feed forward.
+Okay.
+But there is information that goes backwards.
+Okay.
+But the information that goes backwards is a lot more sparse than the information that
+goes forwards.
+Okay.
+So, most of the information is going in a forwards loop.
+Okay.
+Like, it's like, it's like, but think of it as like a clockwise loop.
+So, most of the information is going in a forwards, clockwise loop.
+Yeah.
+But there's sparse information that's going backwards that's like fixing stuff.
+Fixing it.
+Okay.
+Yeah.
+Cool.
+But language, generally, is, you're receiving it in order and you interpret it in order.
+Yeah.
+Okay.
+So, it's like, it's like, language is like you're generating it in sequences in different
+areas.
+So, you have one, maybe like one word that's in order here and other words in order here.
+But the, the word that, so your brain, remember, um, it's like different parts of your brain
+are cooperating to produce a sequence of firing.
+Okay.
+So, if you had like a rebellious faction in your brain, would that hook up your understanding?
+Like, if you just, you had no nouns that could come through your brain.
+Is that possible?
+Yeah.
+Okay.
+Yeah.
+So, if you had, if the part of your brain was damaged or misfiring, and you tried to complete
+a sequence, when you got to that part of the sequence, something would be wrong.
+Right.
+And if that thing was wrong, would you, would you, would you, would you, which is like,
+in the, in the, in the, for stroke victims.
+Sure.
+They start to say something and the sentence just doesn't come out right.
+Right.
+Okay.
+Right.
+Because.
+They had a stroke in that area where the sequence was being completed.
+Okay.
+Okay.
+So.
+Just like in a building.
+It's not that the whole thing collapses.
+It's just one area is condemned.
+Yeah.
+For the moment.
+Or it could be rebuilt.
+Potentially.
+Potentially.
+Potentially.
+Are brains pretty flexible or are they very delicate or both?
+They're pretty flexible.
+Okay.
+But as a person ages, they become, like, like your arteries, they become stiffer.
+And, and, and, uh, harder to repair.
+Okay.
+So.
+They become more delicate over time.
+Breakable.
+Yeah.
+Stiff.
+Or at least not as flexible.
+Yeah.
+But when you're a child, much more flexible.
+Yep.
+And easier to damage her.
+Okay.
+But a lot of, but a lot of the issues with aging, uh, will be solvable.
+A lot of the issues with aging will be solvable in terms of new, uh, new medical understanding
+in terms of, like, how to, for example, you know, like, um, there are, we know from learning
+with nutrition that there are certain foods that will harden your arteries faster.
+And there are certain foods that will lead you to have healthier arteries, right?
+Currently.
+Currently.
+And the thing is that, um, there are certain drugs that will, like, help people to have,
+have reduced artery clottages and reduced arteries.
+Those things are related to aging as well.
+Okay.
+The hardening of the arteries, the, so the thing is, like, medical understanding is advancing,
+especially because AI is helping to accelerate medical understanding.
+That we're going to, that people will live longer or in the time that they do live, they'll
+live a lot healthier.
+Um, because, um, we'll be able to be more precise about, okay, well, this is the condition
+that you have and this is what you should do.
+These are the types of foods, these are the type of medications.
+These are the types of treatments that will help get your brain to an optimal condition.
+I'm curious, though, in this, like, version that you're creating here with the artificial brain
+and artificial intelligence, like, what about humans just being humans and kind of being very,
+yeah, we say we're going to take our meds, but do we?
+Not always.
+Like, in the sense of, we could have this, like, incredible consciousness, but, like,
+who's to say people would be...
+Receptive?
+Well, not even receptive, but, like...
+Compliant.
+Compliant, or also...
+Participating.
+Yeah, any of the above.
+But also, I think, the part that I'm still a little, like, not sure about is the idea of, like,
+mortality piece of, like, part of, like, slowing down the aging process, helping the world live longer,
+prosper together, and, like, applying technology in a way that can be beneficial to a larger group of people
+rather than a very elite few would be incredible.
+And there's all these questions about, like, okay, why do robots get to live indefinitely until their hardware breaks?
+Whereas we, our hardware is very much within kind of a hundred year bracket at the time.
+Yeah.
+So that kind of, like, constant jealousy of, like, why...
+It doesn't have to be that way.
+It doesn't have to be that way?
+Yeah.
+Why not?
+So, I mean, so, the future of medical imaging will allow us to track all the events inside our heads
+in terms of what neurons are firing and what frequency they're firing at.
+And, um...
+And...
+The future medical imaging technology will allow us to collect the data from our minds to build memory backups.
+We could build robot versions of ourselves, for example.
+We could also restore our tissue and make sure that...
+And restore our memories into restored tissue.
+Like, we could make sure that the new tissue that replaces the old tissue...
+Um...
+Um...
+Has the same function and same memories as it did previously before it was destroyed.
+So you could have...
+You could restore someone to life and restore their memories.
+Um...
+You could restore the whole brain.
+It's a real tissue brain.
+And make sure that the memories match from what they had before.
+Or...
+You could do just part...
+You could start with...
+You could start off with just part of their brain.
+But then you just...
+Like, at some point, you could do the whole brain.
+Okay.
+How is this different than, like, necromancy?
+Um...
+Or is it?
+And also, too, like...
+Is that a problem?
+It's not a problem.
+It's not a problem?
+It's not a problem.
+But, like, morally, ethically, like...
+Is this a gray area?
+Or is this just, like, in the name of science?
+Or is this also just for the betterment of our own evolution?
+Like, is this the next step for us?
+Well, this is the...
+I think it's the direction.
+It's just the direction that technology is going to go.
+That technology is oriented.
+Yeah.
+So, what I'm talking about is the capability of technology in the future.
+Near future.
+Right.
+Um...
+Capability of technology will enable the things like saving your memories.
+Um...
+Extending your life.
+Bringing the dead back to life.
+Mm-hmm.
+If you've recorded their memories.
+Right.
+Um...
+And...
+Making artificial organisms is something I haven't talked to you about yet.
+Mm-hmm.
+But...
+I was talking about making, like, dog-level robots.
+Mm-hmm.
+But you could make new species that are actually biological.
+Right.
+In nature.
+So, like, the clone sheep.
+Yeah.
+Would have...
+A brain of...
+Particular...
+More...
+More practically.
+We could make species that thrive on Mars.
+Oh.
+Right.
+Like a human...
+Like a humanoid organism.
+That can breathe the atmosphere on Mars.
+Okay.
+Right.
+And...
+Or...
+Or...
+We could create some sort of birds that could thrive in...
+In Saturn.
+Inside the gas giants.
+Like Saturn and Jupiter.
+And when you say create, did it matter, like, how they would, like, replicate?
+Or would it just be singular?
+In the scale.
+Either one.
+Either one.
+Either way.
+Either way.
+Okay.
+So...
+Like, you could go the Jurassic Park route, which is where you say, okay, they can't replicate,
+and we're gonna try to prevent them from replicating.
+They're all still alive.
+And hope that nature doesn't find a way.
+Yeah.
+Ha, ha, ha, ha, ha, ha, ha, ha.
+Ha, ha, ha, ha.
+We've seen that movie.
+Ha, ha, ha, ha, ha, ha.
+Ha, ha, ha, ha, ha, ha.
+Also, why would you underpay the IT guy, George, and the gates?
+Yeah.
+Yeah.
+Or, or, you, you know, um, they do that with genetically modified seeds, where they try
+to make it so that the seeds can't, uh, they can only be used once, right?
+Um, where you could, you could literally make species that can self-replicate and put them
+on another planet and see what happens.
+Hmm.
+Okay.
+And in which?
+These are, like, these are sorts of issues that a lot of people around the world would
+have with that idea of making new species, because there's very strict rules in terms
+of bringing new species into each country, because a species can have a devastating impact
+on the ecology of a place.
+Right.
+You don't know what the impact is, necessarily.
+Yeah, like, what would the ecosystem of Earth look like with the introduction of artificial
+brain species?
+Yeah.
+Yeah.
+Or conscious robots?
+It could be very, it could be very problematic.
+In many ways.
+And also, too, like, robots, as you said, take a lot of power, take a lot of energy, and
+are made of...
+But they're talking about self-replicating species.
+Okay.
+Yeah, they're talking about species that have their own divergent goals.
+Oh, okay.
+And conflict with human goals.
+And so, those are different kinds of conversations, in terms of, like, I'm talking about new capabilities.
+Okay.
+But what we do with those new capabilities is the ethics conversation, and the government
+control conversation.
+Those are, they're not the, that's not the conversation that I'm having.
+I'm having, like, these are the capabilities we're going to have.
+Okay.
+What humanity does with them...
+Right.
+...is a different conversation.
+Okay.
+So this is just, you're introducing the concept that not only is there an equation that you
+could theoretically prove, but there's also this next...
+Next level of computing.
+Next level of computing.
+Next level of computing.
+Which is conscious, self-aware computing.
+Self-aware computing that you have...
+Well, self-aware and conscious.
+Self-aware and conscious.
+Not just one.
+Yeah.
+It's two different.
+It's really two different things.
+Yeah, you could have, you could have, you could have, you could have, I think of,
+like, if you have consciousness, it could be like, um, consciousness is, um, entification.
+Is it?
+That's the word I came up with to describe consciousness.
+It's basically, like, the signals, um, pass, signals pass away the whole entity.
+So, like, a, a group of fireflies can be a conscious entity, but it doesn't have a self-aware
+identity.
+So, it's conscious in that the whole group of fireflies can act as one.
+It's like a single unified sensor transmitter system.
+Like sterling.
+Like what?
+Sterling birds when they fly.
+Yeah, yeah.
+Yeah.
+So, each bird has its own self-awareness, maybe.
+Probably.
+Most likely.
+But the flock, the flock of birds doesn't have self-awareness.
+The flock is a bunch of separate parts.
+The flock behaves as a single unified entity, so it's a conscious entity because it responds
+as a single unified sensor transmitter system.
+Wait.
+Could you repeat that slower and clearer?
+A single unified sensor transmitter system.
+Single unified sensor transmitter system.
+It's basically unified through the physics of oscillation.
+It is.
+The signals being passed from one part to another are causing the whole system to be in synchrony.
+As a single system, so that it all reacts together, it all acts together.
+It all acts and reacts together.
+As a single system, a conscious entity because the information is shared throughout the entire
+system.
+So it's conscious, but it's not self-aware.
+It's not a self-aware, the unified entity is not self-aware.
+Okay.
+And so self-awareness is separate.
+So you can be conscious, but not self-aware.
+Yeah.
+But could you be self-aware, but not conscious?
+I would say most of your body is conscious, but not self-aware.
+Like your hands are conscious.
+They're able to pass information throughout the entire body when you feel something.
+You're conscious of the feeling.
+It's not self-aware.
+Okay.
+What is self-aware?
+Self-aware is when you have a representation of yourself.
+Self-aware is a...
+Is self a singular entity?
+Self is not...
+Well, not necessarily.
+It doesn't have to be.
+Oh.
+But self is...
+You could have a representation of a fragmented self that's multiple pieces.
+You could, yeah.
+But for the sake of clarity?
+For the sake of argument.
+For the sake of argument.
+We could argue that it's a unified entity.
+Okay.
+But the self is a representation.
+It's like a rendering that is...
+But it's a rendering.
+The rendering of self is not just a rendering.
+But it's a...
+It's a...
+I would reduce the self in the small...
+The most...
+I would reduce the self to say that if a human brain is for highly coordinated movement.
+So we have plants and we have animals.
+Plants don't have big brains.
+They don't have big brains because they don't need to do highly coordinated movement.
+They don't need to walk around and plan where they're going to get their food and where they're going to sleep.
+And just stay.
+Animals because they have all this highly coordinated movement.
+What am I going to do next week?
+What am I going to eat?
+This highly coordinated movement requires brains.
+Brains are for movement.
+This is not my conjecture.
+This is established.
+Yeah.
+Established ideas.
+And so the idea that...
+What was I talking about?
+We were talking about self awareness versus consciousness.
+Self awareness and animals and plants being different than consciousness.
+Yeah.
+So because we have highly coordinated movement, we have to...
+The movement is for...
+The purpose of a brain is for navigation.
+Oh.
+We have highly coordinated...
+Navigating through an environment.
+Navigation in time and space.
+Navigation in time and space.
+So the purpose of the brain is for navigation.
+The reason evolution invented brains is for navigation in time and space.
+Highly coordinated movement.
+For more complex survival skills.
+Okay.
+So navigation is the purpose of having a brain.
+And then self is a directional concept in this navigational map.
+The self is where...
+Is the direction from whence causes emerge from.
+So as...
+As a navigator.
+As a navigator.
+At the root level of being a conscious entity that has arms and legs and walks around.
+As a navigator.
+You're...
+You've got this...
+You've got to determine what is everything around you.
+Mm-hmm.
+And what are the causes of this and what are the causes of that.
+This is gonna...
+This cause is gonna cause the door open.
+If someone puts their hand on the window, it's gonna cause the window to go up.
+Sort of like you're making predictions of the causes in your environment.
+Mm-hmm.
+You're predicting the causes.
+And you have all these causes that are coming from the arms and legs.
+Mm-hmm.
+And...
+And eventually maybe you see your face someday in a mirror.
+If you have a mirror in your environment, right?
+But at the root level, um...
+The self is a directional concept that is in this...
+So it...
+You're...
+You're navigating.
+You have a map of reality.
+There's all your representations.
+Mm-hmm.
+And the self is a directional concept in that it's always here in this map of reality.
+So everything else is changing in this map of reality.
+Where you are in the map of reality is always changing.
+Mm-hmm.
+But the self is always here.
+Mm-hmm.
+So it's a directional concept here.
+Mm-hmm.
+Anywhere.
+Relative...
+Here relative to there.
+Okay.
+So the self is here relative to there.
+And um...
+Self is always here relative to there.
+We are the tea bag.
+Yeah.
+So that's why I say...
+That's why I say the self is a directional concept at the root of it.
+Okay.
+In the context that your brain is about navigation for evolutionary...
+For evolution's purposes.
+So self-awareness is directed always inward in the context of consciousness?
+Well...
+It's a directional concept.
+As a directional concept.
+That your brain eventually turns into a model of what's attached to this directional concept.
+Of where...
+All these...
+Everything that causes my arms to move.
+Mm-hmm.
+Everything that causes the sounds that are my mouth.
+This is associated with this directional concept of self.
+Which is this here.
+Which is not...
+Which is not the map of reality that's constantly changing.
+The part that's always here is part of this thing that's causing my arms and my mouth to move.
+That's the concept of self as a directional entity that we start to attach these representations of hands and legs.
+And that are your hands, your legs, your eyes, your nose.
+This is the concept of self being rendered as a directional entity in the map of reality.
+In the context of your brain is a neural network that evolution evolved for navigation.
+Okay.
+And so that's how you get self-aware networks.
+Self-aware networks.
+But you don't have...
+That doesn't have to be conscious though.
+Oh.
+Because...
+Because...
+Because...
+Consciousness...
+Um...
+Is this online, live, active system of signals being passed back and forth.
+It's the unified, entified entity of signals being passed.
+Like constantly.
+This constant, temporally, spatially active signal.
+Like the firefly or the flock of birds.
+Mm-hmm.
+That's the conscious entity because it's a unified system of signals.
+Sensor transmitter signals that are being transmitted and received by each component of the system.
+That's the conscious entity.
+If you could have the...
+You could have a representation of self in a computer that's not conscious.
+It's just a directional concept that is more about the data of self.
+But it's not an experience.
+It's not a conscious experience of self.
+So...
+A self-aware network is...
+It's...
+Um...
+Conscious when it has both a representation of self as a directional concept and all the
+things attached to that.
+And...
+It's conscious because there's an online, live stream of signals, temporospatial signals,
+from all of the sensory inputs and all of the internal activity of the self-aware network.
+That allow...
+That allow for a persistent, um, flow of information that is transmitted and received between all these
+different receptors that allows the creation of a representation of a first person experience,
+or what is called an, um, a phenomenological consciousness, which is a first person representation of a baseline.
+Okay.
+So your goal is to create a self-aware, conscious, artificial brain.
+Yeah.
+That could then have all these potential applications and potentials for...
+It just could...
+You're presenting not only the theory of it, but also that the end goal is to produce it.
+Yeah.
+Based on all this knowledge.
+Yeah.
+Of how human brains work.
+Yeah.
+And then apply it to technology.
+Yeah.
+Okay.
+I still think...
+My brain is not...
+You got it.
+You got it.
+I'm short-circuiting a little about the self-awareness, consciousness differential,
+but generally speaking, I think I understand overall what that distinction is based on the
+directional, navigational context.
+Yeah.
+Yeah.
+I think a visual would help.
+Yeah.
+I've got visuals.
+I've got my images.
+I can show you those images again.
+Let's go over them.
+Dolly three.
+Okay.
+So let's go up and let's open these.
+Okay.
+So what I want to do is...
+So you've got the...
+Let's see if we can get there.
+Okay.
+So here we go.
+We've got...
+So the idea is that the different parts of your phase wave patterns are producing different
+parts of the image.
+Oh, good.
+So like the chairs over there or something?
+Okay.
+Yeah.
+So like when you're in VR and you're looking around...
+I don't know if you want to go in VR, but it's like the VR is only rendering to your
+eye in one interval of time.
+It's only rendering a 2D image.
+Okay.
+But when you move your head slightly, it's rendering a different image that's from a different
+perspective.
+And when you turn your head a lot like this, the VR is rendering the image that's over here.
+And so the idea is that when you're looking in this direction, you're going to see that
+TV.
+Okay.
+Right.
+But it's the same as like this is what you're seeing.
+You're seeing this rendering when you're looking in this direction.
+And that in your head, that's what's in your head as a phase wave differential pattern.
+It's different from the pattern that you had in your head before.
+And when you look over here at the windows over here, now you're getting a different
+rendering in your head that is distributed across different brain areas.
+And it's different from the pattern that was over here, which was the pattern that you
+had before.
+So you shifted patterns?
+So the patterns in your brain are shifting.
+Patterns, the receptors are receiving different information?
+Or you're just receiving them and putting them in different places?
+Like what's the difference?
+Oh, that's also true.
+So your eyes are receiving, there's photons bouncing off of your eyes.
+Okay.
+And they're causing proteins to flip.
+And the proteins are causing electrical signals, causing to be generated.
+I don't know any of this.
+Okay.
+So that's happening.
+But how is that related to the information coming in?
+So what I'm saying is that literally what's happening when you're looking in a different
+direction, every direction you look is a different direction.
+Right?
+So literally what's happening is your little photons are triggering, just like they're triggering
+changes in your eyes.
+And those changes are changes in the rate that the cells fire and the wave shape that the cells
+are making.
+Okay.
+So they're changing the wave patterns in your brain in the microscopic scale.
+Okay.
+And that's rippling through your entire brain, causing changes to what your brain is displaying
+to you.
+Because it's like, it's as if your brain is like a TV screen and the pixels are made up
+of different synaptic configurations that are spread all over the place.
+So you have part of the room is rendered over here and part of the room is rendered over
+here.
+That's another good one.
+Let's go back.
+So you have different, so it's like, it's like the room is rendered in different areas
+of your brain.
+Okay.
+Yeah.
+And it's rendered from differences in the, and your differences in the, like the phase wave
+height, the phase wave, like the amplitude, the magnitude, the frequency.
+These differences allow your brain to construct an image, internal representation.
+And then when you combine the activity of many different images, of many different waves
+across many different areas, these internal images will appear, which will be the renderings
+of your experience of reality.
+They'll appear to you because at each stage where they're being transmitted, they're also
+being received.
+So your brain is receiving everything that's transmitted.
+And then you have like, and you have other parts of your brain that are tracking everything
+that the lower levels are transmitting and receiving.
+So they're receiving sequences, or sequences of transmitting and receiving.
+And then there's stuff that's receiving sequences and transmitting mass.
+So there's like, there's like, there's stuff.
+It's basically another, another image is like, imagine you have, I should go into the eyeball
+pictures.
+Imagine that you have, I don't know if, this is a different set of pictures, but I don't
+know where, where they are at the moment.
+But I have pictures where they show rows of eyeballs.
+Like imagine basically that your eyes made out of a lot of little eyes.
+Like a slider.
+Like a slider.
+Because the eyes made out of like a lot of little sensors.
+Oh.
+It's like you have, but it's equivalent to like your eyes, your eye is a sensor, like a
+camera sensor, but it's made out of a lot of little sensors.
+Little lenses.
+Little lenses.
+Okay.
+But actually those are the, like the ganglia neurons.
+And the retinal neurons.
+Okay.
+Right.
+So your retinal cells, you have ganglia neurons.
+And what they do is they respond to the sensory signals from the environment.
+And they convert that into the signals that the brain communicates with, which is waves.
+Okay.
+And, well they're receiving waves, but they're converting them to the waves that the brain
+understands.
+Chemical, electric, magnetic waves.
+Oh.
+Yeah.
+Chemical, electric, and magnetic.
+Mechanical.
+Mechanical.
+Which includes, which includes the tactile, touch, taste, and audio.
+What are magnetic waves?
+Magnetic?
+Magnetic waves?
+They're, uh.
+Or, I mean, related to like, is it literal magnets?
+Well, it's electric.
+So, um, electromagnetism, so the way the brain, um, uh, generates magnetic waves is, uh,
+uh, when a neuron, uh, neuron fires along the axon.
+Mm-hmm.
+You have, um, you have an electric firing that's traveling in a direction over, over time.
+And then, as electricity travels in a direction over time, a magnetic wave is created from that,
+from that.
+Okay.
+Electricity traveling through that direction.
+Okay.
+So, um, magnetism and electricity are, are part of the same thing.
+Mm-hmm.
+And when, when, when, whenever you have an electron traveling in a, in a direction,
+it creates a, creates a wave magnetism around that wave.
+It's like, it's like the, the electron is like, it's like the, the thing that's driving
+the wave, and the, and the electromagnetism is like the trough that's following the electron.
+Okay.
+And so that's how your brain, when a neuron fires, it's creating electromagnetic waves.
+It's creating magnetic waves.
+And it is the same, uh, kind of magnetism as in magnets, but it's not, um, but a magnet is,
+is distinct in terms of the degree of the polarization of charges.
+Okay.
+So it's not, it's not, it's not like, um, it's, it is magnetism, but it's not like,
+as strong as like a magnet.
+Okay.
+Which is highly polarized.
+Right.
+Okay.
+But it would, it generally, it functions in a small scale with less, like, yeah,
+it's not as polarized, so it's not as potent.
+Yeah.
+Okay.
+But it's still, it's still, um, creates a magnetic field that can be measured in.
+And there's machines that are, so just like I said, Hansberger invented the EG, and that's
+like replacing electrodes on the head and you can measure the electrical voltage at the,
+at the, um, skin that is from your brain waves going through your skull.
+Okay.
+But there's other sensors called, um, uh, electromagnetic, um, called EMG.
+Yeah.
+Uh, uh, electromagnetic and, uh, it's, it's a log, it's a log, or something like that.
+But, um, those, uh, those can, uh, basically, um, uh, track the, they can create images of
+magnetic field in your brain.
+And what's, what is interesting is that, um, the electric dipoles and the magnetic dipoles
+are in different locations.
+Uh, which is, um, uh, the, uh, so dipoles, like, um, you know, you have, like, the peak
+of magnetic, like, like a north pole and a south pole.
+Mm-hmm.
+Right?
+Yeah.
+And, so you have the peak of the positive and the peak of the negative.
+Mm-hmm.
+And you have one on each side.
+Okay.
+And, but the electric dipoles, um, I, you know, I would, I would have guessed, and I
+would have been wrong when I first heard about this idea, that, that, um, electric dipoles
+would correlate one to one with magnetic dipoles.
+It's very interesting that.
+So positives with negatives?
+No, I mean, what I mean is, like, um, um, so the electricity is, at the flow of electricity
+in the brain along the, the axons is generating waves in the magnetic field, which is part of
+the electric field.
+Okay.
+Right?
+But it's just a different, it's like a, it's like a different, um, part of, it's like a different
+spectrum.
+Okay.
+Different part of the spectrum.
+Mm-hmm.
+So magnetism and electricity are different parts of the spectrum, but they're still part
+of the same thing.
+So the electrons will generate changes in the magnetic field, but, um, you're, but the,
+uh, I forgot, I lost my train of thought.
+You were saying that you had initially thought that there would be a similar layout for the
+polarization of magnetic and electro.
+Oh, yeah.
+Magnetic.
+So I was surprised to discover that electric fields, when they're visualized in 3D and magnetic
+fields from the brain, electric fields from the brain are different from the magnetic
+fields in the brain.
+Like the fields do not take the same shape.
+Okay.
+And the peaks of those fields, the dipoles of those fields are different, in different
+places.
+Okay.
+And, um, they're not always, like, dipoles are not always in the same location.
+Right.
+They're like, it's like the, I feel like there's an analogy to the sun.
+Uh, the sun is, has this plasma on the outside that's very bright.
+Mm-hmm.
+And, but where, it's like, it's like this chaos matter.
+Mm-hmm.
+Where it's like, where the, where the, you know, it's peaking is different in different
+locations in different days, at different hours, at different times.
+Okay.
+It's constantly changing.
+And the same thing with the electric and magnetic fields, is they're constantly changing.
+They're like, they're like, um, it's like a surface of plasma.
+Oh.
+Yeah.
+But they're, but it's, it's just interesting to think that they're not actually.
+They're not the same.
+They're not the same.
+Mm-hmm.
+They're, they're part of the same thing, but they're, but they're, they have different
+shapes.
+Yeah, that's great.
+That's great.
+Staple.
+Um, I'd like to finish up the part three of yours, and you can use the restroom.
+I do too.
+The restroom is on, the restroom is on the fourth floor.
+Okay.
+So, I will play back both.
+We should each.
+Yeah, I need to use the restroom too, but I guess I have to pack up my stuff.
+All right, so let's close this.
+Let's close this.
+This one has to be, this, this laptop, the screen is broken, so it has to be closed carefully.
+And then, um, go ahead and go.

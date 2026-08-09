@@ -1,0 +1,1049 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: b0303y Neuralink talk Technology Ethics Brain
+First recorded: 2021-04-26T09:19:27.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/b0ff1d34-741b-4d26-85f0-b24acf574f79
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+What it means is that if we're decoding the visual cortex or the audio cortex or the visual cortex from the audio cortex or vice versa or the somatosensory cortex or the prefrontal cortex, whatever part of the brain we're decoding, we can get information from any other part of the brain and we'll be able to basically listen to your thoughts and to download what you're seeing and download what you're hearing into the computer.
+And reconstruct them in the computer.
+So that it's like, it's like, then your brain is like an open book, like a hard drive that we can just access.
+And that has profound implications in the long run.
+So that's like maybe what is the ethical, what is the, what is the European legal system going to do then?
+Right.
+And the other thing is that Neuralink is going to be a mass produced technology.
+So Neuralink will be everywhere.
+That means that, you know, the European legal system can pass laws about it, but it will be, this device will be everywhere.
+So, so what are other countries going to do with it?
+And what are people who just decide they don't need to follow the European laws do?
+Even people in Europe.
+I mean, this is like, this technology is potentially more dangerous than a gun.
+And it's, it's, it's, it's definitely a new world.
+Do you think it's everywhere?
+So I don't, I don't think it can be stopped, actually.
+Um, the reason is this, uh, that, um, what's going to ultimate, what drives, um, the advancement
+of medical technologies is, uh, is pain, uh, human pain.
+Uh, so for example, um, you know, a lot of people have, uh, mental, mental injuries and
+they, they're paying into the healthcare system.
+Uh, they want relief from their symptoms and they're willing to pay for it.
+In fact, the medical system is huge in the U.S.
+It's a huge, huge, uh, problem as, as, as, as people in Europe, Europe know.
+It's, and, um, and there's, you know, there's huge, there's huge desire around the world for
+relief from pain, uh, and, and treatment for medicine and medicine that's more effective,
+cost effective, uh, everywhere in the world, uh, people need better medicine and we need
+innovations in medicine and that can, um, and, uh, so Neuralink along with other medical
+imaging technologies basically are, uh, being pulled forth into existence, uh, by the money
+that is summoned by a human pain and because of that, there is no, uh, no law that can stop
+it.
+Maybe I can ask something, um, do you think that then, um, there will something happen or
+they will be developed like, uh, let's say, to class society, these ones who have the money
+and these ones who can't pay it?
+Well, I mean, so that's, that's like a market economics, uh, uh, market discussion.
+I mean, uh, I think that, you know, that there's always, uh, examples of people trying
+to control, uh, the supply of a product to jack up the prices and, and, and get as much
+money as they can.
+And those people will try to do that.
+Um, but, um, at the same time, what we're talking about here is it's not that you can,
+it's not like the things that are possible with Neuralink now, you can do them, uh, like
+any, any, um, sufficiently skilled neuroscience, uh, neuroscientist could, uh, sufficiently
+knowledgeable and, and skilled neuroscientists could do these already without a Neuralink
+device, but, um, in theory, but, um, but the Neuralink device is like the latest and greatest
+and they don't, it will be duplicated in other countries.
+I think there'll be like the Chinese version of Neuralink I'm sure, but, um, the, um, but
+the thing is like, yeah, so if you can, if you can make something cheap enough and you
+can make it economical and that, that's what we're talking about.
+It's not just Neuralink by the way, there's, there's many other brain computer interface
+technologies that are being developed in parallel to Neuralink, um, by other companies that I
+know about.
+And, um, these technologies will become cheap and economical and mass produced and shipped
+everywhere in the world, um, just because, because they're needed and because they're,
+they're, they're, um, they're going to be, uh, mass produced and so that for a price
+for, for money.
+Thanks, Mika.
+Thank you.
+Yeah, Liz.
+Great question.
+That leave us states, um, tramitory in the UK.
+People, you're quite right.
+People want relief from their pain and this is the route to drug addiction.
+In inverted commas is some kind of enslavement.
+So that I think is a real ethical danger is that if you enable people to have implants
+or even external implants of a device that simply gives them pleasure for no work or anything
+like that, you, you, it's a fast way to enslave the human race.
+Um, so I think you raised that just coming back on that point, I think the, the, that's
+a, yeah.
+I think we will get into that in quite a bit of detail.
+I think, um, Elon himself said, uh, famously in one interview that he thought, um, he thought
+that we were on the precipice of virtual realities that would be totally addictive and have people
+by the simulation, um, which is sort of an irony when you think that he's now leading the way
+with, uh, with a view of effectively removing pain and creating the same, uh, outcome and
+the same drive.
+And as you said, Liz, at an extreme enslavement, uh, do you really want to be living inside the
+simulation that's inside the simulation?
+I guess is, uh, is a sort of almost philosophical question about, about this technology, um, because,
+you know, if of the, uh, almost like the instrument, this method is, uh, kind of IT, IT technology,
+but, uh, the technologies could be of any kind.
+It could be biological technologies.
+It could be just no power and other knowledge.
+Uh, it's, uh, it's, uh, just, uh, just, uh, in essence, uh, what concerns, uh, basically, uh,
+the perfect size for the rest of the mainstream, uh, and, uh, are interconnected and, uh,
+including each other and, uh, the ethics in general.
+The process, uh, technological and the quality of technology and the way it developed, uh, the level
+of development and how efficiently it could interact with the brain, how it could hit, uh,
+to increase pain, to increase efficiency of the brain's work.
+It also could be a become problem because they will interact in ways really
+objects you could interact with the brains that could bring some problems.
+If the technology is not sufficient, and it's not quite advanced, it's the first question.
+Uh, the second question is biological.
+How, um, human body, biological body, should not reject, uh, interaction?
+with IT, microelectronics
+with some kind of
+outside technology.
+I think
+the microphone's not that clear.
+I'm not sure if you're on the road
+or you can get a bit closer to your microphone.
+We'll try to
+do each other with microphones.
+Is it just me?
+I think we lost him.
+We lost him.
+We might come back to Misha.
+Sorry, do you hear me?
+Excuse me?
+Yes.
+And the third one, the main question,
+when we solved technological problems
+and biological problems in ethics,
+what concerns this?
+Do you remember
+the ancient Greek myth
+about Pygmalion
+when the sculptor
+made a
+sculpture of Lady
+and became alive
+after the goddess became alive
+and it was replayed
+by Pernovskow
+and he played Pygmalion?
+I suppose
+the much difference
+between artificial intelligence
+and human being
+is a kind of
+exaggerated
+the much information
+we could put into robots
+and artificial intelligence
+could be similar to us
+and the same ethics
+and the same ethics
+could be used to robots
+and it's like
+just if creating us
+not to distract and so on
+the human beings
+could make
+robotic devices
+similar to human beings
+and the danger
+is extreme
+the hybrid technology
+between what's happening
+in robotics and AI
+and biology
+and the integration
+of the two
+that we find ourselves in
+thanks Michelle
+we'll table
+but Asa
+if you'd like to
+tell us a little bit
+about yourself
+and your view
+on the ethics
+of Neuralink
+and any related
+Hi David
+thank you so much
+yes thank you so much
+for the space
+it's been really interesting
+listening to everyone
+so far
+so
+my background
+when it comes to
+things that relate
+to Neuralink
+is very limited
+but I guess
+I do have a question
+particularly for the
+round table segment
+to do with
+I guess
+how will
+Neuralink
+and as it's widely adopted
+how will that change
+the face of
+I guess
+since
+there may be
+a greater danger
+to humanity
+which is posed
+by us
+being in conflict
+over resources
+and land
+territory
+and so forth
+the one thing
+about a simulated
+reality
+or unreality
+if you like
+is that
+as long as you have
+hardware
+there's nothing
+really to fight over
+you
+you might think
+that
+you would think
+of the problem
+in this way
+is a separation
+between
+human beings
+ability
+to
+marshal
+the forces
+of the material world
+which increases
+and is increasing
+at such a rapid pace
+and leaving behind
+our ability
+Nisha
+touched on this
+to understand
+and solve
+ethics
+deal with
+the
+potentially
+annihilating
+aspects
+of our nature
+and
+in some sense
+placing us
+in a sandbox
+where the damage
+that we did
+with virtual
+where the
+you know
+yeah you could
+always reset
+quote unquote
+the sandbox
+maybe the only
+option that we have
+not to wipe
+ourselves out
+that comes of course
+with
+you know
+I kind of
+just like
+Gloucester
+we're a world
+of complexity
+there
+but
+if you
+if you at all
+buy the notion
+that
+the fact
+that we
+are divided
+into different
+nations
+and we're
+at a moment
+in history
+where we have
+the rise
+of you know
+one potential
+superpower
+overtaking another
+or even just
+a standoff
+between two
+potential
+technological
+superpowers
+who are armed
+with artificial
+intelligence
+and you know
+synthetic biology
+and so on
+that not
+having to
+fight over
+resources
+and land
+and have
+conflicts
+of the
+traditional
+sort
+not having
+to
+yeah
+have the
+you know
+the notion
+of like
+ghettos
+and more
+desirable
+parts of
+cities
+and all
+the things
+which have
+vitiated
+societies
+at the
+level of
+just nations
+but also
+between
+nation states
+that there
+is in that
+dystopian
+idea
+but potentially
+the only
+salvation
+or hope
+that humans
+stand as
+a species
+so
+while I agree
+with everything
+that Mike has
+said and he said
+very very well
+I thought
+I'm posing
+the other end
+of the spectrum
+dark as it may
+sound
+as perhaps
+the sunny option
+if we get it
+right
+yeah we're
+in interesting
+times as the
+as the saying
+goes
+and it's
+you know
+we've evolved
+you know
+according to
+one world
+one view
+that to
+maximise
+our survivability
+and compete
+not just
+among ourselves
+but in the
+environment that
+we're in
+for resources
+and faces
+the technology
+that we're
+developing
+as sort of
+the ultimate
+expression
+it'd be nice
+to think
+it leads to
+some sort
+of egalitarian
+utopian
+future
+but as a
+couple of
+speakers have
+said
+it's going
+to come
+down to
+the countries
+the corporations
+the people
+that can afford
+the technology
+for embedded
+competitive advantage
+both against
+the environment
+which is I guess
+the shared human
+condition
+but also against
+each other
+which is what
+you look at
+when you look
+at its application
+to the
+the military
+industrial complex
+and state
+based
+competition
+for control
+so we're
+and I think
+it was Mika
+that said
+other people
+it might be
+well and good
+for
+signaling around
+AI legislation
+but it
+won't stop
+corporations
+or other
+countries
+or other
+people
+from developing
+technology
+whether it's
+inside or
+outside of
+that legislative
+framework
+but if our
+pain centers
+are the thing
+that physically
+stop us
+from doing
+things
+and if that
+can be
+adjusted
+by these
+interfaces
+and drugs
+and remove
+that
+then I guess
+the only other
+resistance
+we have
+as humans
+rather than
+our physical
+impulses
+and pain
+are our
+ethical
+standing
+and value
+sets
+so if you
+can use
+a human
+computer
+interface
+to adjust
+values
+and change
+memories
+then not
+only can
+you
+layers
+of objects
+saying
+dexter
+could lead
+to a pretty
+scary
+future
+even the
+utopian
+version
+so thank
+you
+for that
+Melissa
+I think
+you're the
+last on
+stage
+for the
+moment
+so if
+you'd like
+the perspective
+of pain
+and how
+that interferes
+with people's
+lives
+having been
+someone who
+suffered pain
+for the last
+nearly nine
+years
+I think
+people are
+still suffering
+pain at the
+moment
+it's about
+whether or
+not we're
+doing interfaces
+with our
+bodies at the
+moment
+but I think
+if we can
+do them
+better
+I think
+we should
+and I
+think that
+developments
+along these
+lines are
+fantastic
+I think
+there's
+differences
+we need
+to learn
+in language
+between
+people
+relieving
+pain
+and then
+confusing
+that with
+being
+addicted
+to
+painkillers
+there's
+two different
+worlds
+there
+but
+definitely
+being able
+to understand
+our nervous
+system better
+and its
+interactions
+and just
+what I've
+learnt
+even in the
+last four
+months
+to understand
+my pain
+better
+I wish
+I knew
+before
+but it
+would have
+been amazing
+if people
+could have
+managed
+pain better
+would have
+been able
+to get on
+with people's
+lives better
+I think
+one in five
+suffer from
+pain
+and I think
+developments
+in this area
+I'm looking
+forward to
+yeah great
+so it's your
+future
+it's your
+point
+I should
+get your
+future
+welcome
+out anymore
+you know
+and
+I hope
+we'll
+say
+it won't
+be around
+journey
+the human
+experience
+and like
+the human
+consciousness
+and like
+um
+relation
+um
+like
+we've already
+seen
+that like
+we have
+lost our
+humanity
+a little
+bit
+um
+in social
+media
+and like
+how technology
+is so
+addicting
+to us
+um
+I think
+someone mentioned
+this earlier
+I
+I don't know
+I guess
+this is more
+like an
+unpersonal
+opinion
+uh
+we're just
+entering
+more and
+more
+into like
+this
+and everything
+can be
+bought
+sold
+and
+you're
+kind of
+like
+I guess
+anything
+that's wrong
+with you
+you can
+just fix
+with technology
+to change
+let me not
+comment on
+that
+but let me
+go back
+in history
+and I
+let me
+think of
+a case
+where
+technology
+is there
+and it's
+I think
+whatever
+happens
+with it
+could
+or bad
+it's
+not only
+itself
+it's
+notation
+attached
+to it
+how
+as much
+as we
+as it
+incentivizes
+going back
+to the
+club
+I see
+it says
+responsibility
+to lead
+ethical
+lives
+of
+personal
+fulfillment
+so when I
+think of
+greater good
+of humanity
+I'm thinking
+maybe
+survival
+of the
+human
+species
+it's
+probably
+necessary
+because
+if we
+don't exist
+I mean
+there's
+everything
+I struggle
+a bit
+so I
+think
+in general
+we
+typically
+place
+ourselves
+as mentioned
+and her
+human
+sapiens
+in general
+I don't
+have the
+exact
+numbers
+but I
+think
+humans
+in general
+have been
+and then
+I think
+of
+I
+was
+in
+another
+room
+and
+it's
+almost
+a feature
+of her
+intelligence
+a pessimistic
+view
+so that's
+one aspect
+I see
+the other
+aspect
+I see
+is
+whether
+when I
+mentioned
+survival
+of the
+human
+species
+the
+granular
+aspect
+is
+the
+self
+because
+of
+these
+and
+I
+think
+it's
+all
+kind
+of
+a
+moot
+point
+it's
+going
+to
+to
+do
+how
+do
+it
+properly
+because
+it
+is
+going
+to
+even
+if
+it is
+banned
+even
+if
+regulation
+either
+on level
+bans it
+other
+research
+will
+still
+continue
+like
+interfacing
+with the
+eyes
+how do
+you cure
+blindness
+how do you
+cure deafness
+and those
+kind of research
+that kind of research
+operates on the same level
+that Neuralink
+operates on
+so
+it's not like all research
+on how to interface
+into the brain
+will stop
+and will be protected
+from that kind of
+technological advancement
+it's going to still happen
+so it's not something
+that we can avoid at all
+it absolutely will happen
+and I think
+conversations
+I think
+we'd be able to have
+much more productive
+conversations
+if we sort of just said
+okay
+there's definite dangers
+with this
+but everybody understands
+that it is absolutely
+going to happen
+at some point
+how do we do this
+properly
+and
+you know
+to combat
+the
+the cons of it
+you know
+there's a lot of ways
+that it could go wrong
+there's a lot of ways
+that we could lose ourselves
+but there's also a lot of ways
+you know
+that it could help
+it can
+easily aid
+things like
+helping people
+judge
+misinformation
+and I'm talking about
+going further down the line
+of when we actually have
+sort of commercially viable
+options
+for having a neural interface
+you know
+like a patch on the back
+of the head
+behind the ear
+that kind of thing
+it can help
+with things like
+dietary
+and habitual feedback
+you know
+it can
+it can help
+with things like
+addiction management
+and
+you know
+how you're
+the things that you're
+consuming online
+and that sort of thing
+and also
+another thing
+that's kind of
+going to happen
+irrelevant of whether
+we want it to or not
+is AI
+and I think
+there's a lot of talk
+about the singularity
+and how AI
+will get to a point
+where AI
+completely outpaces
+and the only way
+the only way
+that we can remain
+relevant in a world
+like that
+is by enhancing
+our own cognitive
+functions
+and evolution
+just doesn't operate
+on a fast enough
+scale to keep up
+with the changes
+that AI is going
+to bring
+so like
+these two things
+are going to happen
+irrelevant
+and we kind of
+have to make
+the decision
+of whether
+we want to
+whether we want
+to embrace it
+and talk about
+instead doing it
+the right way
+and doing it
+in the most optimal
+way
+and protecting
+ourselves
+ethically
+and societally
+or whether we
+just sort of
+want to
+want to shut it
+again
+and shut it
+completely
+and you know
+going even
+further
+going much
+much much
+much further
+on a more
+ridiculous concept
+but you know
+you know
+far far far
+in the future
+when potentially
+you know
+and this is
+ridiculous
+but you know
+potentially
+when you start
+talking about
+maybe
+sort of
+a multi-galactic
+kind of
+civilization
+you know
+again
+it's going to be
+the only way
+to stay relevant
+you know
+so we kind of
+just have to
+sort of accept it
+and instead
+talk about
+how we do it
+correctly
+instead of
+hoping that
+we can stop
+the progress
+because it's
+it's not
+going to stop
+at all
+I don't think

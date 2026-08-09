@@ -1,0 +1,168 @@
+=== TRANSCRIPT PROVENANCE ===
+Recording name: y0024 Phase wave differential rhythms
+First recorded: 2023-01-22T00:24:04.000000Z
+Recording-date evidence: Embedded M4A creation_time metadata
+Original Google Recorder recording: https://recorder.google.com/cc139b3d-ebda-40a0-bcf6-63c1cb82b2c4
+Transcript method: openai/whisper-large-v3-turbo (int8); verify against audio before quotation or publication.
+=== END TRANSCRIPT PROVENANCE ===
+Imagined the category of the stimulus filling their entire visual field, or maybe bigger, smaller, or more eccentric, as they were talking about in the paper, than the original stimulus, and not encoding anything about space.
+Or, and maybe that would explain blurriness, or maybe they didn't do this, and it was all about space.
+They could make the association by location, and not have to worry about the features, right?
+So, yeah, the authors rightly pointed out that, see here, they make a couple comments about this.
+Yeah, so, they said here, the responses we observed during memory retrieval better characterized, are the responses observed during memory retrieval better characterized by long-term memory reactivation, or as attention?
+There are a number of reasons why we don't think it's useful to attribute our findings to attention alone.
+First, our characterizing our results as spatial attention does not explain them.
+We report that the precision of spatial tuning in memory differs from the precision of spatial tuning during perception.
+To the best of our knowledge, there is no parallel finding in the spatial attention literature.
+And then, this other quote I wanted to grab, he said, they said,
+So, in other words, they couldn't demonstrate, they couldn't decode which stimulus the subject was seeing from the fMRI alone.
+They couldn't, they couldn't tell them that they saw a radial pattern with three lobes or five lobes or seven lobes or nine lobes.
+So, basically, they see this, they see that you could explain this with attention.
+And, basically, their argument is, even if that's the case, the result here is still novel, it's still interesting.
+And, they don't think just bringing attention up or using attention to it, bringing attention into the discussion alone will explain what they showed.
+But, I'm just pointing it out because the relationship between awareness and attention is exactly the thing that I've been focusing on lately and what Black is getting at.
+And, yeah, I think we can stay out of the weeds here.
+The last thing I'll say that I thought was, I brought it up earlier, but this is interesting because it stands out from the working memory literature.
+Actually, now that I'm saying this out loud, I'd have to think about this more, but it might inform this discussion about attention.
+Because the working memory literature says the opposite.
+It shows these highly spatially tuned representations in the sensory areas.
+And, the current understanding of how working memory works is you have whatever, I'll try to strip this down from my view and try to say this more generally.
+So, the memory buffers in which perception is happening, when percepts become bound to awareness, those memory buffers interact.
+When they interact with top-down attention, the memory buffers, so those memory buffers are larger than working memory buffers.
+Attention acts as a way of stabilizing memory in these buffers into more stable but smaller working memory buffers.
+And so, there's this notion, working memory, and what I'm trying to say is working memory is dependent upon attentional mechanisms.
+And, at least in the working memory case, we have attention working, and we have a very different empirical result.
+You have a much more precise, perception-looking representation going on in the sensory areas.
+So, the most general thing I can say is this result definitely stands out from the results in the working memory literature.
+Hey, Micah.
+Hey, Mazam.
+Now, I wanted to bring up the work of Dario Nardi.
+He wrote this book called The Neuroscience of Personality.
+And in that, he discusses medical imaging that he did with EEG, where he manages to create a map of the functionally active brain areas
+so that he can sort of make an argument as to what the strategy might be of a person for solving a particular kind of problem by which brain areas.
+So, basically, strategy in this context is their personality.
+Their personality associates with what brain areas light up when they try to solve certain tasks.
+And I think that you, to go back to what you're saying, you have to redo this study where you segment people into their sort of, like, categories of what brain areas become functionally active during the tasks that they're having
+in order to get closer to a one-to-one comparison of the amount of effort or the strategy process that each person is putting into the memory recall task.
+Otherwise, you're not – otherwise, your results are going to be messier than – well, you pointed out the problem already.
+So, ultimately, are you saying the study's just underpowered?
+Well, if you're going to try to reach a conclusion based on, you know, comparing how different responses to memory stimulus,
+but they might be using different strategies to recall their memory, then reduce the number of extraneous factors
+that make the comparison, more apples to apples and less apples to oranges.
+Because if you can have – for example, if you have a lot of – if you have left-handed people in the study,
+that's going to throw off your results.
+And so, the data that you're collecting and compiling is going to be messier than it would be otherwise.
+So, that was my point.
+Yeah, definitely.
+I'll say a few things that they did say.
+They couldn't implicate the hippocampus because of the design of the experiment.
+The experiment was intended to reduce variance in, like, the quality of episodic memory recall.
+So, they didn't get a lot of variance in the activity in the hippocampus,
+but they did see widespread activity throughout the brain during the task, right?
+So, the question of how this got initiated exactly, you know, they've generalized this idea of cascading layers on the way back,
+but, you know, which – where it starts, what layers got activated in what order and all this kind of stuff was just very not understood from this study.
+At least, you would need a design study specifically for that.
+Like, I think that's what you're getting at.
+It's interesting what you bring up, though, right?
+Like, you get these different strategies for memory recall, but, you know, in a way, I question whether we should be restricting the strategy, right?
+If we're trying to study memory in general, isn't this a part of what we mean by memory?
+There's many different ways one can take to recalling a memory.
+Some of that variance is something we should be studying, right?
+I guess that's what you're getting at.
+So, last thing I was going to say, because this will kind of set us up for – this is the important stuff for setting us up for block.
+This is about the stages of perception.
+Just to – because we brought up working memory and attention and interaction between awareness and attention and all this kind of stuff,
+I think it's worth saying, I think it's worth saying this.
+There's a debate about how this works, and this ends up interacting with some of what he left.
+That's what Merod was talking about earlier with interpreting what is being called at the moment, inattentional blindness.
+So, another way to think about this, I was talking about memory buffers.
+You can measure the capacity for the memory buffer of awareness and compare it to the capacity of the memory buffer for working memory.
+And there's some comments in the chat about all of the studies about how many objects we can retain, be aware of, how many we can hold in working memory, and et cetera.
+That's one way of thinking about this, and I've read some papers on the app from Ned Block and from Victor Lam, Block being the philosopher and Lam being an experimentalist,
+about how they've made arguments about separating awareness and attention conceptually because of this.
+But another way of saying this is this debate about richness or sparseness in perception and in cognition.
+And what's not debated is that cognition is sparse.
+Cognition happens in smaller memory buffers.
+The debate is about whether perception is rich or sparse.
+So, in one model, you could say conscious perception is rich, and then attention is like a bottleneck that gives you sparse cognition.
+And the other way to think about this is to say that perception is rich, attention bottlenecks, and that gives you conscious perception that is sparse, which then is inherited by cognition.
+So, there's a debate about the stages of perception that are very relevant for whether or not you end up with a cognitive or a non-cognitive theory of consciousness.
+I think I got the main points I wanted to pull out of the article.
+There's definitely more to say about the work if anyone has questions, but we can look to wrap up soon.
+I can say that one of the latest things that I've been writing about on my GitHub, on my blog that's dedicated to self-aware networks,
+is this idea that what becomes conscious memory is something like a combination of a burst that leads to a sharp wave ripple that can start from any area of the brain
+and go to any other, any area of the brain, from any, from any area of the brain to any other area of the brain.
+And it's like, I can, I'm arguing that this is what, this is a memory being activated, a sharp wave ripple.
+And, and that what becomes a conscious sharp wave ripple or conscious memory is when that phase, it's a, I'm calling it a phase wave variation from like the standard tonic brain wave.
+And what makes it conscious is when that, uh, becomes a dominant rhythm, when it become, when it's, when it becomes bolder in terms of its, um, intensity compared to the, the other phase wave rhythms in the brain.
+Um, and so this sort of fits in with the idea that we have, and, and I've written, I've written this up on, uh, you can, you can see it on my GitHub, um, which is, uh, v5 ma slash self-aware networks.
+That's the repo. Um, but the idea is that if you have a different, like, so when, when you're talking about perception, are you talking about incoming sensory information and all the, all the information flowing to the, uh,
+to the, to the, to like the thalamus from the incoming senses, like your visual information and then out to the neocortex?
+Um, is that the perception, uh, that we're talking about when we say perception?
+Um, and then memory, I'm assuming memory in this context would be something that's not coming from your incoming senses, but it's sort of like spontaneous, it's like a spontaneous activation somewhere in the brain that's initiating brain activity, but it's not coming from your incoming senses.
+Is it, is it, are these like in alignment with what the paper is talking about?
+Cause I didn't have a chance to read, read the paper.
+Sorry.
+How did you define perception?
+Just that it's external input?
+That it, yeah.
+So external input that comes in through our incoming senses comes into the, uh, thalamus, uh, you know, in the case of visual information and, and, um, and then into the neocortex.
+And that would be perceptive, perception information and then memory information is information that's spontaneously activated somewhere in the brain, but not coming from, um, our, uh, incoming senses.
+So it's not sensory input information.
+Yep.
+Something like this is compatible.
+So the, the, the argument that authors made, they should, they did, they built this little, this like super general model.
+Um, the memory gets activated from the, the higher, um, they, they, they're talking about it as a hierarchy, but, uh, so the higher levels of the, the network hierarchy.
+And then propagates back through the layers and, uh, the recall and, and the way they're conceiving it happens when those activations finally reach the, the primary sensory areas.
+So it's like you're saying initiated, uh, internally and right.
+Perception is, um, a sensory periphery into the.
+So is the question better set basically about whether or not perception at its beginning has to be solely at the sensory transducer or is perception in some neurons just shy of being the sensory transducer itself?
+Uh, I would ask Micah what, how you define perception.
+Oh, and could you repeat that?
+Well, I think kind of sounded like what you were trying to get a differentiation between with the paper.
+And I'm a little confused too, is would they, or do you perceive perception as being something at its maximum?
+You'd have to say something that has to be the sensory transducer neurons.
+Otherwise your perception is about something in neurons after the sensory transducer neurons.
+Arguably it's, um, it's a memory if it's not going from incoming senses, right?
+Yeah, I think if, if that's what you're trying to draw, uh, if that's the, the general distinction, yes, I think the authors agree that the distinction between an endogenous, endogenously invoked mental image and an exogenously invoked stimuli.
+So I, uh, so I wanted to add that if our perception is, um, has a lot more detail, like my, like, I feel like my visual perception is very rich, but then if I try to recall the image of something I ate yesterday, I feel like that it's not as, it's not as rich as my perception.
+It's, it's more like a, it's more like a, it's more like a, like I can visualize like a burrito for example, but the burrito that I visualize is not as sharp as like a, like a, like a, like a, a coffee cup that I'm holding in my hand that I can, that I can see because my sensory information is more vivid.
+And the hypothesis that I, uh, that, um, uh, that sort of like connects this paper to what I've been writing about is, is that, um, the sensory information is just, you're just getting a lot more of it.
+You're getting a constant flow of it.
+And so the phase wave difference is a lot bolder.
+It's the rhythm is a lot stronger because you're getting this constant flow of sensory information from your senses, where if you just trigger a memory of a burrito or a memory of a coffee cup, then you're just getting like this one time, this limited time activated pattern.
+And it could be an oscillating pattern that, that persists over a length of time, but it's not this constant inflow.
+And so it's going to be weaker for, for that purpose, because there's not a lot of, um, energy going into reproducing that memory.
+Not as much as there, there is from what's constantly coming in from your eyes into your brain.
+That's the hypothesis.
+So what would your, what would your model predict with respect to the topic of the paper?
+So I haven't had a chance to read the whole paper in detail.
+I think I joined the room a little bit late, but, but I think that, um, I would predict that recalled memories would, would be weaker because a, because that seems to be my experience.
+And also because, um, uh, I would think that because the flow of information from the incoming senses is constant and they're going to be dominant.
+They're going to create dominant phase wave, uh, differentials that establish what is the sort of fabric of the rendering of my mind.
+And then any, any attempt to recall something that's not, uh, present in my sensory awareness, it's going to be faded because it doesn't have enough, enough, as much juice pumping that phase wave differentiation through it.
+So it's going to be faded in comparison.
+I think that, um, it's a useful thought experiment to think about sensory deprivation tanks and how, uh, in total absence of drugs, our minds can become, can start to hallucinate very vivid images, um, because we've deprived the other senses.
+Actually, uh, the case, I, I, I, I'm on board with what you're saying.
+The, uh, I think the cases that blow this up is what happens when you, you close your eyes on a psychedelic trip, you see brighter, more vivid things than you've ever seen with your eyes open, which kind of, uh, at least for me evokes some, some, some questioning of, of, um, I'm just completely running with what's going on.
+What's being argued here, but it's interesting to think about.
+All right.
+So unless anybody has additional questions, comments, thoughts, um, we can go ahead and close the room.
+And later tonight, uh, Artemisia is going to be reading for us, um, from MetSinger on mental autonomy that's on the calendar already.
+So, um, I'll, I'll, I'll be joining her for that when she's reading, uh, but any other closing thoughts?
+Comments?
+In the long run, at a later point, I'd love to have a follow-up and before block and talk about all these pre, pre readings and put them into application.
+But yeah, I think that's about it.
+Yep.
+Yep.
+I got a little, uh, if you're interested by her, I have a little Google doc organizing everything.
+So you can kind of get a better wide angle view of what I'm doing here, getting ready for block.
+Awesome.
+That'd be great.
+Thanks for another room, man.
+Awesome.
+Thanks for coming.
+Thanks for all that joined, uh, and chimed in on the discussion.
+And for those that listened, um, this was, this was fun.
+Um, I penned above, uh, the link for Artemisia's room.
+If anyone was interested in that and, uh, I'll close the room and I'll see you.
