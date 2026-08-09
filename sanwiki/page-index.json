@@ -50048,11 +50048,17 @@
   },
   {
     "slug": "information-rarity",
-    "title": "Information Rarity",
-    "summary": "The Information Rarity term enters the SAN corpus through a single, sharp evidence quote that ties the concept to a specific neural circuit motif: \"neuron row 2 [[dendrite]] spines grow towards first neuron, a new neuron fires inhibiting several others (that m",
+    "title": "Information Rarity: Tonic Context, Neural Surprise, and PWD",
+    "summary": "A source-governed account of SAN's proposal that rare receiver-relative neural deviations can be more informative than a common tonic state, while keeping Shannon information, inhibition, PWD, and biological meaning distinct.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "information-theory",
+      "shannon",
+      "surprisal",
+      "sparse-coding",
+      "inhibition",
+      "pwd"
     ],
     "path": "/v5ma.github.io/wiki/content/information-rarity.md",
     "sourceFiles": [
@@ -50061,29 +50067,15 @@
     "xrRoomId": "san-information-rarity",
     "xrDeckId": "san-reader",
     "related": [
-      "pyramidal-cell",
-      "inhibitory-interneurons-plasticity-gating",
+      "tonic-context-rare-deviation-tomographic-language",
+      "phase-wave-differentials",
       "coincidence-as-a-bit",
-      "coincidence-detection-neural-bit",
-      "gh-a0206z",
-      "dendritic-spines",
+      "coherence-dispersion-sculpting-hypothesis",
       "receptor-inhibition-pattern",
+      "inhibitory-interneurons-plasticity-gating",
+      "dendritic-spines",
       "neural-distinction-consciousness",
-      "consciousness",
-      "dendrite",
-      "gh-a0590z",
-      "ltp-structural-memory-encoding",
-      "super-information-theory",
-      "information-as-physical",
-      "gh-coincidenceasabit",
-      "gh-resnote04",
-      "neural-coincidence-patterns",
-      "coincidence-pattern-neural-information",
-      "apical-pyramidal-neurons",
-      "dendritic-spine-temporal-memory",
-      "dendritic-computation-pyramidal-representation",
-      "distinction-as-root-of-perception",
-      "integrated-information-theory"
+      "gh-a0590z"
     ],
     "archivePath": "pages/information-rarity.md"
   },
@@ -52865,6 +52857,39 @@
       "recorder-transcript-human-source-atom-map-t09"
     ],
     "archivePath": "pages/machine-agency-consciousness-welfare-evidence-program.md"
+  },
+  {
+    "slug": "machine-self-report-active-canvas-consciousness-test",
+    "title": "From Machine Self-Report to an Active-Canvas Test",
+    "summary": "A source-faithful SAN bridge from observable machine self-report to a typed, causal test of persistent state, recurrent access, self-modeling, action-return closure, and an active tonic-context analogue without treating any pass as proof of experience.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "artificial-neurology",
+      "machine-consciousness",
+      "self-report",
+      "tonic-canvas",
+      "observer-mechanism",
+      "tcnr"
+    ],
+    "path": "/v5ma.github.io/wiki/content/machine-self-report-active-canvas-consciousness-test.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/machine-self-report-active-canvas-consciousness-test.md"
+    ],
+    "xrRoomId": "san-machine-self-report-active-canvas-consciousness-test",
+    "xrDeckId": "san-reader",
+    "related": [
+      "machine-agency-consciousness-welfare-evidence-program",
+      "consciousness-claim-and-evidence-ladder",
+      "artificial-neurology",
+      "observer-mechanism",
+      "field-cell-self-bioelectric-information-entity",
+      "consciousness-canvas-wave-differential",
+      "oscillator-consciousness-threshold",
+      "artificial-souls",
+      "screen-metaphor-no-inner-viewer"
+    ],
+    "archivePath": "pages/machine-self-report-active-canvas-consciousness-test.md"
   },
   {
     "slug": "magnetic-phase-field",
@@ -82241,6 +82266,47 @@
     "archivePath": "pages/tomography.md"
   },
   {
+    "slug": "tonic-absorption-generative-reexpression",
+    "title": "Tonic Absorption and Generative Re-expression",
+    "summary": "SAN's two-direction proposal: transient phase-wave differences are progressively integrated into an evolving tonic network state, while learned recurrent circuitry can later reconstruct or re-express a distributed pattern. The diffusion-model comparison is an analogy and testable formal hypothesis, not established brain anatomy.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "tonic-phasic",
+      "pwd",
+      "memory",
+      "replay",
+      "plasticity",
+      "diffusion-analogy",
+      "neural-rendering"
+    ],
+    "path": "/v5ma.github.io/wiki/content/tonic-absorption-generative-reexpression.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/tonic-absorption-generative-reexpression.md"
+    ],
+    "xrRoomId": "san-tonic-absorption-generative-reexpression",
+    "xrDeckId": "san-reader",
+    "related": [
+      "bistable-synaptic-plasticity",
+      "sharp-wave-ripples",
+      "memory-as-regenerable-pattern",
+      "pattern-completion",
+      "oscillating-group-completion",
+      "gh-a0310z",
+      "gh-gpt2024jan1tojan22",
+      "gh-b0010y",
+      "tonic-oscillation",
+      "neural-array-projection",
+      "tonic-phasic-phase-wave-differential",
+      "tonic-oscillation-canvas",
+      "phase-wave-differentials",
+      "synaptic-plasticity",
+      "napot-overview",
+      "neural-rendering"
+    ],
+    "archivePath": "pages/tonic-absorption-generative-reexpression.md"
+  },
+  {
     "slug": "tonic-canvas-phasic-paint",
     "title": "Tonic Canvas, Phasic Paint",
     "summary": "The canvas is not one slow shared oscillation or pure awareness. The paint is not a fixed burst, phase, waveform, or 0/1/2/3-vesicle symbol. Synaptic release is probabilistic and target-specific, and each postsynaptic cell combines the event with many other in",
@@ -84600,79 +84666,5 @@
       "oca-overview"
     ],
     "archivePath": "pages/zeta-curriculum.md"
-  },
-  {
-    "slug": "machine-self-report-active-canvas-consciousness-test",
-    "title": "From Machine Self-Report to an Active-Canvas Test",
-    "summary": "A source-faithful SAN bridge from observable machine self-report to a typed, causal test of persistent state, recurrent access, self-modeling, action-return closure, and an active tonic-context analogue without treating any pass as proof of experience.",
-    "topic": "san",
-    "tags": [
-      "san",
-      "artificial-neurology",
-      "machine-consciousness",
-      "self-report",
-      "tonic-canvas",
-      "observer-mechanism",
-      "tcnr"
-    ],
-    "path": "/v5ma.github.io/wiki/content/machine-self-report-active-canvas-consciousness-test.md",
-    "sourceFiles": [
-      "/v5ma.github.io/wiki/content/machine-self-report-active-canvas-consciousness-test.md"
-    ],
-    "xrRoomId": "san-machine-self-report-active-canvas-consciousness-test",
-    "xrDeckId": "san-reader",
-    "related": [
-      "machine-agency-consciousness-welfare-evidence-program",
-      "consciousness-claim-and-evidence-ladder",
-      "artificial-neurology",
-      "observer-mechanism",
-      "field-cell-self-bioelectric-information-entity",
-      "consciousness-canvas-wave-differential",
-      "oscillator-consciousness-threshold",
-      "artificial-souls",
-      "screen-metaphor-no-inner-viewer"
-    ],
-    "archivePath": "pages/machine-self-report-active-canvas-consciousness-test.md"
-  },
-  {
-    "slug": "tonic-absorption-generative-reexpression",
-    "title": "Tonic Absorption and Generative Re-expression",
-    "summary": "SAN's two-direction proposal: transient phase-wave differences are progressively integrated into an evolving tonic network state, while learned recurrent circuitry can later reconstruct or re-express a distributed pattern. The diffusion-model comparison is an analogy and testable formal hypothesis, not established brain anatomy.",
-    "topic": "san",
-    "tags": [
-      "san",
-      "tonic-phasic",
-      "pwd",
-      "memory",
-      "replay",
-      "plasticity",
-      "diffusion-analogy",
-      "neural-rendering"
-    ],
-    "path": "/v5ma.github.io/wiki/content/tonic-absorption-generative-reexpression.md",
-    "sourceFiles": [
-      "/v5ma.github.io/wiki/content/tonic-absorption-generative-reexpression.md"
-    ],
-    "xrRoomId": "san-tonic-absorption-generative-reexpression",
-    "xrDeckId": "san-reader",
-    "related": [
-      "bistable-synaptic-plasticity",
-      "sharp-wave-ripples",
-      "memory-as-regenerable-pattern",
-      "pattern-completion",
-      "oscillating-group-completion",
-      "gh-a0310z",
-      "gh-gpt2024jan1tojan22",
-      "gh-b0010y",
-      "tonic-oscillation",
-      "neural-array-projection",
-      "tonic-phasic-phase-wave-differential",
-      "tonic-oscillation-canvas",
-      "phase-wave-differentials",
-      "synaptic-plasticity",
-      "napot-overview",
-      "neural-rendering"
-    ],
-    "archivePath": "pages/tonic-absorption-generative-reexpression.md"
   }
 ]

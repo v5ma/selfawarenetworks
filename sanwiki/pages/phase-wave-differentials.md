@@ -123,6 +123,7 @@ hypothesis and must be separated from representation, access, report, and action
 
 ## Read next
 
+- [[information-rarity|Information Rarity]]
 - [[phase-wave-differential-calculus|Phase-Wave Differential Calculus]]
 - [[phase-language-firewall|Phase Language Firewall]]
 - [[tonic-phasic-canvas|Tonic and Phasic Roles]]

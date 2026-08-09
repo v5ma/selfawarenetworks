@@ -175,6 +175,7 @@ system.
 
 ## Read next
 
+- [[information-rarity|Information Rarity]]
 - [[criterial-causation|Criterial Causation]]
 - [[dendritic-computation|Dendritic Computation]]
 - [[dendritic-spike|Dendritic Spike]]

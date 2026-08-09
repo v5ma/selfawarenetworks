@@ -1,24 +1,15 @@
 {
-  "verifiedAt": "2026-08-09T14:47:43.978Z",
+  "verifiedAt": "2026-08-09T16:36:50.785Z",
   "status": "pass",
   "sourcePageCount": 2378,
   "archivePageCount": 2378,
   "manifestRowCount": 2378,
   "archivePageFileCount": 2378,
-  "sourceIndexSha256": "0d808a378a76077979e89b4b9488ff0a7b9e44c2576735943ff58cb8b13436e9",
-  "archiveIndexSha256": "1dc3a8f209d37131493f24aac88797892a63874af312f9c03ca93afa88ad6483",
-  "manifestSha256": "11fdf8baec86272ee3b489466c4b9f9e119724ddab70707cd6aa6731a1a506e5",
-  "prohibitedMarkerCount": 0,
-  "scannedPublicTextFileCount": 2382,
-  "transformationTotals": {
-    "lineEndingsNormalized": 314890,
-    "trailingBlankLinesRemoved": 92,
-    "finalNewlineAdded": 40,
-    "routeBlocksRemoved": 392,
-    "localPathsWithheld": 24,
-    "privateInternalRoutesWithheld": 1,
-    "privateArchiveNamesGeneralized": 27
-  },
+  "sourceIndexSha256": "32c1049d2c19b62b57575f6b5506db9e76a85b00ba4a76a416922a3207b8baac",
+  "archiveIndexSha256": "7de78c2d0dd553050ac9eda858352792ceb5b58bb604920a64f5546235f3a6f2",
+  "manifestSha256": "dd850a1be493ca7ac8b415ba532ca8e65cb46d6650af52a648a7209c5fea32bc",
+  "prohibitedMarkerCount": 14,
+  "scannedPublicTextFileCount": 2385,
   "failureCount": 0,
   "failures": []
 }

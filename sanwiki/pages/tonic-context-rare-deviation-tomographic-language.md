@@ -170,6 +170,7 @@ paused until a dedicated image session.
 
 ## Read next
 
+- [[information-rarity|Information Rarity]]
 - [[continuous-dynamics-discrete-neural-information|Continuous Dynamics and Discrete Neural Information]]
 - [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]]
 - [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]]
