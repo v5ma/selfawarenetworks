@@ -1824,6 +1824,10 @@
     "xrRoomId": "san-artificial-neurology",
     "xrDeckId": "san-reader",
     "related": [
+      "brain-as-queryable-network",
+      "neuron-shape-information-storage",
+      "neural-code-functions",
+      "neural-code-transmission",
       "napot-overview",
       "neural-tuning",
       "criterial-causation",
@@ -4361,11 +4365,15 @@
   },
   {
     "slug": "brain-as-queryable-network",
-    "title": "Brain As Queryable Network",
-    "summary": "This diagram makes the page's query-model claim explicit: mind upload is framed less as copying a static brain and more as decoding an addressable neural protocol. A targeted perturbation probes local cortical thresholds, response traces travel through a trans",
+    "title": "Brain as Queryable Network: Historical Proposal and Experimental Boundary",
+    "summary": "A source-faithful reconstruction of Micah's 2021 proposal to interrogate neural organization through controlled requests, separated from established stimulation-response modeling and from unsupported claims of HTTP-like biological protocols or memory extraction.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "artificial-neurology",
+      "brain-computer-interface",
+      "tms",
+      "system-identification"
     ],
     "path": "/v5ma.github.io/wiki/content/brain-as-queryable-network.md",
     "sourceFiles": [
@@ -4374,12 +4382,13 @@
     "xrRoomId": "san-brain-as-queryable-network",
     "xrDeckId": "san-reader",
     "related": [
-      "transcranial-magnetic-stimulation",
-      "convolutional-neural-networks",
-      "self-aware-network",
-      "gh-a0206z",
+      "gh-b0144y",
+      "neural-code-functions",
       "neural-code-transmission",
-      "action-potential"
+      "transcranial-magnetic-stimulation",
+      "brain-computer-interfaces",
+      "artificial-neurology",
+      "san-implementation-evidence-gates"
     ],
     "archivePath": "pages/brain-as-queryable-network.md"
   },
@@ -4610,6 +4619,7 @@
     "xrRoomId": "san-brain-computer-interfaces",
     "xrDeckId": "san-reader",
     "related": [
+      "brain-as-queryable-network",
       "brain-computer-interface",
       "brain-interface-bci-map",
       "artificial-perception",
@@ -11327,6 +11337,7 @@
     "xrRoomId": "san-dendritic-encoding",
     "xrDeckId": "san-reader",
     "related": [
+      "neuron-shape-information-storage",
       "self-aware-networks",
       "gh-10san",
       "dendritic-architecture",
@@ -36609,11 +36620,15 @@
   },
   {
     "slug": "gh-b0144y",
-    "title": "Gh B0144Y",
-    "summary": "b0144y ctpr",
+    "title": "Brain Structures Request (b0144y): Corrected Source Record",
+    "summary": "The corrected 2021 recording and separately dated 2022 notebook additions behind the brain-query and neural-code-transmission pages.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "source-record",
+      "artificial-neurology",
+      "neural-code",
+      "tms"
     ],
     "path": "/v5ma.github.io/wiki/content/gh-b0144y.md",
     "sourceFiles": [
@@ -36622,11 +36637,10 @@
     "xrRoomId": "san-gh-b0144y",
     "xrDeckId": "san-reader",
     "related": [
-      "san-san-time-google-recorder-codes-cluster",
-      "start-here",
-      "gh-a0631z",
-      "gh-a0638z",
-      "gh-a0643z"
+      "brain-as-queryable-network",
+      "neural-code-functions",
+      "neural-code-transmission",
+      "artificial-neurology"
     ],
     "archivePath": "pages/gh-b0144y.md"
   },
@@ -57269,6 +57283,8 @@
     "xrRoomId": "san-neural-array-projection-oscillation-tomography",
     "xrDeckId": "san-reader",
     "related": [
+      "neural-code-transmission",
+      "neuron-shape-information-storage",
       "san-scale-ladder-and-claim-boundaries",
       "neural-oscillatory-tomography",
       "napot-tomography-not-holography",
@@ -57584,9 +57600,11 @@
     "xrRoomId": "san-neural-code",
     "xrDeckId": "san-reader",
     "related": [
+      "neural-code-functions",
+      "neural-code-transmission",
+      "neuron-shape-information-storage",
       "cortical-columns",
       "self-aware-networks",
-      "neural-code-functions",
       "spatiotemporal-neural-firing-patterns",
       "dendritic-coincidence-detection",
       "continuous-neural-rendering",
@@ -57606,7 +57624,6 @@
       "neural-array-projection-oscillation-tomography",
       "cortical-column-voting",
       "cortical-column-oscillatory-synchronization",
-      "neural-code-transmission",
       "memory-prediction-as-intelligence",
       "brain-as-rendering-engine",
       "gh-07san",
@@ -57631,11 +57648,15 @@
   },
   {
     "slug": "neural-code-functions",
-    "title": "Neural Code Functions",
-    "summary": "Four essential functions of neural coding, as identified in Nature Neuroscience literature and discussed in SAN context: **stimulus representation**, **interpretation**, **transformation**, and **signal transmission**.",
+    "title": "Neural Code Functions: Representation, Interpretation, Transformation, and Transmission",
+    "summary": "A source-faithful account of the four neural-code functions used in SAN, separating the 1968 Perkel-Bullock taxonomy, established propagation physiology, SAN's receive-transform-project interpretation, and a later artificial-neurology query analogy.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "neural-code",
+      "neural-transmission",
+      "dendrites",
+      "neural-arrays"
     ],
     "path": "/v5ma.github.io/wiki/content/neural-code-functions.md",
     "sourceFiles": [
@@ -57645,23 +57666,29 @@
     "xrDeckId": "san-reader",
     "related": [
       "neural-code",
-      "self-aware-network",
-      "tonic-oscillation",
-      "phasic-bursts",
-      "gh-b0144y",
-      "gh-resnote04",
-      "mind-uploading",
-      "transcranial-magnetic-stimulation"
+      "neural-code-transmission",
+      "neuron-shape-information-storage",
+      "neural-array-projection-oscillation-tomography",
+      "phase-wave-differentials",
+      "brain-as-queryable-network",
+      "artificial-neurology",
+      "gh-b0144y"
     ],
     "archivePath": "pages/neural-code-functions.md"
   },
   {
     "slug": "neural-code-transmission",
-    "title": "Neural Code Transmission",
-    "summary": "In SAN theory, the brain operates as a [[self-aware-network]] — a network of networks where meaning arises from the routing and relay of phase-encoded signals across cortical and subcortical layers. Without transmission fidelity, local computations in one regi",
+    "title": "Neural Code Transmission: From Cellular State to Receiver Consequence",
+    "summary": "A multiscale account of how neural activity reaches and changes named receivers, separating established axonal and synaptic physiology, SAN's receive-transform-project hypothesis, and speculative artificial-neurology interfaces.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "neural-code",
+      "transmission",
+      "dendrites",
+      "synapses",
+      "pwd",
+      "napot"
     ],
     "path": "/v5ma.github.io/wiki/content/neural-code-transmission.md",
     "sourceFiles": [
@@ -57671,12 +57698,13 @@
     "xrDeckId": "san-reader",
     "related": [
       "neural-code-functions",
-      "self-aware-network",
-      "attractor",
-      "gh-resnote04",
-      "gh-b0144y",
-      "dendrite",
-      "fractal-pattern"
+      "neuron-shape-information-storage",
+      "action-potential-waveform",
+      "multi-vesicular-release",
+      "dendritic-coincidence-detection",
+      "phase-wave-differentials",
+      "neural-array-projection-oscillation-tomography",
+      "brain-as-queryable-network"
     ],
     "archivePath": "pages/neural-code-transmission.md"
   },
@@ -58851,6 +58879,7 @@
     "xrRoomId": "san-neural-magnification",
     "xrDeckId": "san-reader",
     "related": [
+      "neuron-shape-information-storage",
       "napot-revision-genealogy",
       "neural-arrays",
       "perceptual-screen-neural-rendering",
@@ -60497,6 +60526,11 @@
     "xrRoomId": "san-neuron-shape-information-storage",
     "xrDeckId": "san-reader",
     "related": [
+      "neural-code-transmission",
+      "neural-code-functions",
+      "dendritic-encoding",
+      "neural-magnification",
+      "artificial-neurology",
       "phase-wave-differentials",
       "napot-overview",
       "nonlinear-differential-continuous-approximation",
@@ -66373,6 +66407,9 @@
     "xrRoomId": "san-phase-wave-differentials",
     "xrDeckId": "san-reader",
     "related": [
+      "neural-code-transmission",
+      "neuron-shape-information-storage",
+      "information-rarity",
       "tonic-phasic-phase-wave-differential",
       "electrical-valence-receiver-relative-drive",
       "phase-wave-differential-calculus",
@@ -82822,6 +82859,7 @@
     "xrRoomId": "san-transcranial-magnetic-stimulation",
     "xrDeckId": "san-reader",
     "related": [
+      "brain-as-queryable-network",
       "self-aware-networks",
       "eeg",
       "fmri",

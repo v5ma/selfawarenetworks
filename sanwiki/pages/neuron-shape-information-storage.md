@@ -36,6 +36,14 @@ learned neuronal structure and current input
 -> activity-dependent change to later transformations
 ```
 
+In this source, *shape* is broader than a cell outline. It includes dendritic and compartment
+geometry, synaptic locations and states, receptors and conductances, recent electrical history,
+and the destinations that can receive the output. The discussion initially uses music, sound, and
+acoustic language, but then corrects its own metaphor: the proposed signal is **not literal sound**.
+It is an analog data packet or sparse output consequence of the larger cellular state. The
+source-faithful claim is therefore closer to a constrained projection or fingerprint than to a
+lossless copy of the neuron.
+
 This is an early ancestor of SAN's later sensor-transformer-transmitter, pattern-completion, and
 receiver-relative update language. It is not retroactively called [[phase-wave-differentials|PWD]],
 [[napot-overview|NAPOT]], or [[nonlinear-differential-continuous-approximation|NDCA]]. Those terms
@@ -75,12 +83,16 @@ the complete SAN interpretation:
 
 - Dendritic structure can strongly influence modeled neocortical firing patterns
   ([Mainen and Sejnowski, 1996](https://doi.org/10.1038/382363a0)).
+- Dendritic morphology can change action-potential propagation through modeled dendritic trees
+  ([Vetter, Roth, and Hausser, 2001](https://pubmed.ncbi.nlm.nih.gov/11247988/)).
 - Thin dendritic branches can act as nonlinear computational subunits in layer-5 pyramidal cells
   ([Polsky, Mel, and Schiller, 2004](https://doi.org/10.1038/nn1253)).
 - Long-lived dendritic spines can be associated with persistent memory in the studied mouse-cortex
   preparation ([Yang, Pan, and Gan, 2009](https://doi.org/10.1038/nature08577)).
 - Axonal ion channels can alter action-potential waveform and synaptic efficacy in a defined
   neocortical circuit ([Kole, Letzkus, and Stuart, 2007](https://doi.org/10.1016/j.neuron.2007.07.031)).
+- Presynaptic action-potential waveform can regulate calcium-current and release timing in a
+  defined synapse ([Chao and Yang, 2019](https://pubmed.ncbi.nlm.nih.gov/30872753/)).
 
 These findings support morphology- and state-dependent neural computation. They do not show that an
 action potential losslessly contains a neuron's full geometry, that one neuron stores an arbitrary
@@ -92,11 +104,38 @@ The defensible descendant of the 2012 proposal is:
 
 > Learned cellular structure and current physiological state constrain a neuron's transformation of input, while the resulting temporal and synaptic output provides a compressed, receiver-dependent expression of that state. Recurrent populations may use many such expressions to reconstruct a larger distributed pattern.
 
-This can be tested by asking whether multidimensional output variables predict prior cellular state
-or later receiver state beyond spike count alone, and whether perturbing the relevant morphology or
-conductance changes the predicted reconstruction. Such a result would support a bounded
-structure-to-output operator; it would not by itself prove NAPOT, conscious rendering, or complete
-memory transmission.
+One finite formulation makes the boundary explicit. Let the effective state of neuron `i` be:
+
+```text
+S_i(t) = {M_i, W_i, C_i(t), R_i(t), H_i(t)}                    [1]
+```
+
+`M` is morphology; `W` is synaptic connectivity and efficacy; `C` is conductance and membrane
+state; `R` is receptor and release state; and `H` is relevant history. The neuron's output is:
+
+```text
+o_i(t) = G_i[S_i(t), input_i(t)]                              [2]
+```
+
+A downstream receiver does not recover `S_i` directly. It transforms the arriving output through
+its own state:
+
+```text
+delta S_j(t) = F_j[S_j(t), o_i(t - tau_ij)]                   [3]
+```
+
+Equations [1]-[3] express a bounded claim: structure changes output, and output changes receivers.
+They do not assign infinite physical precision to a biological curve.
+
+The stronger SAN descendant predicts that multidimensional output variables carrying information
+about learned cellular structure and recent state will improve prediction of downstream response
+beyond firing rate alone. A rigorous test would compare held-out receiver predictions from spike
+count, timing and burst structure, waveform and terminal-specific release, measured morphology and
+conductance history, and the later receiver-relative PWD model. If structural and state variables
+do not improve prediction after conventional variables are controlled, the transmitted-shape
+interpretation is weakened. If a compact output signature predicts receiver-specific consequences
+across changing contexts, the hypothesis gains support without proving NAPOT, conscious rendering,
+or complete memory transmission.
 
 ## Source custody
 
