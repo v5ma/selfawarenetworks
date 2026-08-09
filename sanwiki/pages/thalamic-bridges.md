@@ -1,53 +1,60 @@
 # Thalamic Bridges
 
-> **Boundary note (2026-07-18):** ?Thalamic bridges? is SAN vocabulary, not a standard single anatomical tract name. White-matter, thalamocortical, corticothalamic, callosal, association, and rich-club pathways must not be collapsed into one display-bandwidth channel unless the passage names the actual tract, nucleus, cortical target, direction, and measurement. Treat ?human-retina-display? and ?consciousness portal? language as metaphor or hypothesis, not established thalamic physiology. See [[san-scale-ladder-and-claim-boundaries]], [[thalamic-cortical-loop]], and [[phase-language-firewall]].
+> **Definition:** "Thalamic bridges" is recurring SAN vocabulary for functionally important routes involving the thalamus. It is not a standard name for one tract, one bottleneck, or one display cable. Each use must be translated into a named nucleus, projection direction, cortical target, species, state, and measurement.
 
-**Thalamic Bridges** are, in [[self-aware-network|Self-Aware Networks]] vocabulary, the long-range white-matter connections that link the [[thalamus|thalamus]] bidirectionally with the [[neocortex|cortex]] and across [[cortical-columns|cortical columns]] in distant regions, treated by SAN as one of the brain's principal *intersections of traffic* alongside the corpus callosum and the [[temporal-parietal-junction|temporo-parietal junction]]. The page collects the SAN claim that these bridges are not merely a relay layer but a high-bandwidth display surface — a "human-retina-display"-class channel for the [[thalamic-bridge-consciousness-portal|consciousness portal]] that runs the [[thalamo-cortical-information-flow|thalamocortical loop]]. Thalamic bridges therefore sit at the intersection of [[thalamocortical-network]] anatomy and [[sensor-array-consciousness|sensor-array consciousness]] in the SAN account.
+## What Micah's sources were trying to name
 
-## Origin
+The 2022 SAN corpus repeatedly places thalamic bridges beside the corpus callosum, highly connected cortical regions, long-range neural routes, and hippocampal-entorhinal coordination. The common idea is not that these structures are anatomically identical. It is that distributed neural populations require routes through which partial activity can influence other populations, return, and change the next cycle.
 
-The term recurs across the SAN GitHub manuscript as a named anatomical commitment: [[cortical-columns|cortical columns]] are connected across the brain "thanks to the activity of interneurons and major intersections of traffic such as the thalamic bridges, the corpus callosum, the tempo-parietal junction, Werneck & Broca's areas and other areas of the…" (`a0079z--md`, line 19, [[gh-a0079z|on github]]). The same enumeration recurs in `a0126z`: "the pathways for cortical connections include thalamic bridges, the corpus callosum, and long interneurons. The [[cortex]] is also connected together and held…" (`a0126z--md`, line 17). The term appears as a standalone heading "Thalamic Bridges" in `a0627z` (`a0627z--md`, line 27, [[gh-a0627z|on github]]), confirming that SAN treats it as a first-class concept rather than an incidental phrase.
+The earliest source currently bound to the phrase is a September 17, 2021 recording, publicly fixed in June 2022 as [[gh-b0190y|b0190y]]. It calls thalamic bridges possible paths between brain regions and separately asks how the corpus callosum relates. [[gh-a0005z|a0005z]] then develops bidirectional thalamus-neocortex signaling as a receiver-and-return motif. The 2022 sources [[gh-a0079z|a0079z]], [[gh-a0199z|a0199z]], and [[gh-a0627z|a0627z]] preserve the broader network term.
 
-## Position
+This makes **route family** the source-faithful medical translation.
 
-Within [[gh-a0206z|Self]]-Aware Networks, thalamic bridges play three connected roles. First, they are the *connectivity backbone* that lets distributed [[cortical-columns|cortical columns]] participate in the same [[oscillatory-binding-problem|binding]] event: "highly connective brain areas. Including the corpus callosum, the parietal temporal junction, the thalamic bridges and this high level horizontal pattern might be coordinated with help from the [[hippocampus]] and the…" (`a0199z--md`, line 12, [[gh-a0199z|on github]]). Second, they are catalogued in SAN's anatomical inventory of the brain-as-sensor-array — alongside "cavities (skull, eyes, ear), sensory arrays (dendrites, circuits, columns, [[default-mode-network|default networks]], thalamic bridges, interneurons, corpus callosum, rich clubs, major brain network junctions.)" (`a0616z--md`, line 48) — making them part of the [[sensor-array-consciousness|sensor-array consciousness]] geometry rather than a separate motor-control system. Third, they are the carrier of the *display-class* signal that the SAN draft frames as a "32k or human retina display for a virtual reality experience" running through the [[thalamic-bridge-consciousness-portal]], with the bridges "running its signals to the [[neocortex|neocortex]] and receiving the output of the neocortex on the other side of…" the loop. Together these three roles place thalamic bridges at the center of the [[thalamo-cortical-information-flow|thalamocortical information flow]] in SAN — wide-band, bidirectional, and entangled with binding rather than peripheral to it.
+## Translate the umbrella term into anatomy
 
-## Chronology
+| SAN phrase | Anatomically declared route | What can be measured |
+| --- | --- | --- |
+| sensory bridge | sensory afferent -> first-order thalamic nucleus -> primary cortical target | spikes, synaptic currents, timing, gain, receptive fields |
+| recurrent bridge | cortex -> thalamic nucleus -> the same or a related cortical population | directionality, persistent activity, state dependence, perturbation effects |
+| higher-order bridge | cortical layer 5 -> higher-order thalamus -> another cortical area | transthalamic influence, integration, routing, behavior |
+| gating bridge | thalamic relay cells plus thalamic reticular and local inhibitory control | burst/tonic mode, inhibition, gain, timing, selection |
+| interhemispheric route | corpus callosum and other cerebral commissures | callosal transfer and disconnection effects; this is not thalamic anatomy |
+| direct cortical route | association, projection, and commissural axons between cortical populations | corticocortical influence independent of the thalamic leg |
 
-Within the SAN corpus the term recurs across at least seventeen distinct source files — the long-form `a0…z` manuscript chapters (`a0005z`, `a0079z`, `a0126z`, `a0199z`, `a0616z`, `a0627z`, `a0640z`), the Whisper transcriptions (`b0059ywhisper`, `b0103ywhisper`), the `c0…x` notes (`c0002x`, `c0004x`), the GPT-era exposition (`GPT2023X`, `GPT2024Jan1toJan22`), the legacy `oldhome` page, the timecoded archive of `b0103y`, [[gh-rexnote13|rexnote13]], and the [[saov9-self-aware-networks-overview|SAOv9]] overview — indicating that the concept is stable across the SAN exposition rather than confined to one chapter. The packet contains 22 evidence rows in total. No pre-2013 transcript evidence is included in this packet, so chronological priority claims relative to mainstream thalamocortical literature are deferred to a later evidence pass.
+The original notes sometimes use **interneuron** for broad connectivity. In current anatomical language, most cortical interneurons are local inhibitory cells; long-range communication is usually carried by projection-neuron axons. The intended connectivity claim can be preserved without using those terms interchangeably.
 
-## Post-SAN
+## Established examples
 
-The mainstream cognate is the broader [[thalamocortical-network]] literature — Llinás and colleagues' thalamocortical resonance, Sherman & Guillery's first-order/higher-order thalamic relay distinction, and the more recent "thalamus as a cortico-cortical relay" line. Where that literature treats the thalamus largely as a routing and gain-control hub, SAN's *thalamic bridges* framing is geometrically stronger: it treats specific bridge tracts as carriers of a display-bandwidth, bidirectional signal that participates directly in conscious rendering rather than merely modulating cortical state. The testable difference is bandwidth and direction: SAN predicts that thalamic-bridge tracts should carry coherent high-rate patterns matching [[cortical-column|cortical column]] populations on both ingoing and outgoing legs of the loop, whereas the standard relay account predicts a more asymmetric, gain-modulated traffic profile dominated by ascending sensory input.
+- A layer-5 corticothalamocortical route can drive higher-order somatosensory cortex even when the direct corticocortical route is interrupted in a mouse slice preparation ([Theyel et al., 2010](https://pubmed.ncbi.nlm.nih.gov/19966840/)).
+- Pulvinar activity can regulate attention-dependent communication among interconnected visual cortical areas in macaques ([Saalmann et al., 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3714098/)).
+- Reciprocal frontal-thalamic activity can sustain motor preparation in a declared ALM-VM/VAL circuit in mice ([Guo et al., 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC6431254/)).
+- Higher-order POm neurons can receive convergent layer-5 input from somatosensory and motor cortex ([Sampathkumar et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34282018/)).
 
-## Related concepts
+These examples justify treating thalamic routes as active circuit participants. They do not imply that every route carries the same code or a complete percept.
 
-- [[thalamic-bridge-consciousness-portal]] — the display-class framing of the bridge as a [[consciousness]] portal.
-- [[thalamo-cortical-information-flow]] — the loop the bridges carry.
-- [[thalamocortical-network]] — the broader anatomical network the bridges anchor.
-- [[cortical-columns]] — the targets the bridges connect across distant cortical regions.
-- [[cortical-column-oscillatory-collaboration]] — the collaboration the bridges enable across distance.
-- [[sensor-array-consciousness]] — the SAN framing that lists thalamic bridges in the sensor-array inventory.
-- [[oscillatory-binding-problem]] — the binding problem long-range bridges are positioned to solve.
-- [[hippocampus]] — co-coordinator of high-level horizontal patterns alongside the bridges.
-- [[default-mode-network]] — adjacent to thalamic bridges in SAN's connectivity catalogue.
-- [[neocortex]] — the receiving and sending surface on the cortical side of the bridge.
-- [[brainwave-vortex-attractor]] — the oscillatory regime the bridges' signals participate in.
+## SAN mechanism
 
-## Source Provenance
+The medically bounded SAN operation is:
 
-- Generated: 2026-04-24T18:17:02
-- Lane: C.draft (from packet)
-- Packet: `wiki/automation/packets/thalamic-bridges.json`
-- Evidence count: 22
-- Source ids: [[gh-gpt2023x|GPT2023X]]--md, [[gh-gpt2024jan1tojan22|GPT2024Jan1toJan22]]--md, SAOv9--md, a0005z--md, [[gh-a0079z|a0079z]]--md, a0126z--md, [[gh-a0199z|a0199z]]--md, a0616z--md, [[gh-a0627z|a0627z]]--md, [[gh-a0640z|a0640z]]--md, [[gh-b0059ywhisper|b0059ywhisper]]--md, [[gh-b0103ywhisper|b0103ywhisper]]--md, [[gh-c0002x|c0002x]]--md, c0004x--md, oldhome--md, original_archived_b0103ytimecode--md, [[gh-rexnote13|rexnote13]]--md
-  - `a0005z--md` line 87 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0005z.md
-  - `a0079z--md` line 19 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0079z.md
-  - `a0126z--md` line 17 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0126z.md
-  - `a0199z--md` line 12 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0199z.md
-  - `a0616z--md` line 48 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0616z.md
-  - `a0627z--md` line 27 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0627z.md
+`partial population state -> selected thalamic route -> receiver-specific transformation -> cortical return -> changed network state -> memory or action consequence`
 
----
+SAN adds the hypothesis that tonic context, phasic departures, and receiver-relative timing across many such routes contribute to the distributed rendering and updating of a body-world model. Direct cortical, callosal, hippocampal, basal-ganglia, cerebellar, and brainstem routes remain part of that model; the thalamus is not promoted into a lone executive or viewer.
 
-*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane C+ rewrote body into prose. Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
+## What would distinguish the SAN claim
+
+A strong test must compare direct corticocortical communication with the specified transthalamic route while controlling sensory input, movement, arousal, and common drive. The route should be recorded in both directions and perturbed leg by leg. SAN's stronger timing model should predict a receiver's subsequent state and the embodied outcome better than firing rate, power, or connectivity alone.
+
+## Related pages
+
+- [[thalamic-bridge-consciousness-portal]] - historical portal metaphor and its distributed interpretation.
+- [[thalamic-convergence-zone]] - bounded cellular convergence, not one whole-brain zone.
+- [[thalamo-cortical-information-flow]] - directional signal-flow and BCI questions.
+- [[thalamocortical-network]] - established anatomy and circuit diversity.
+- [[cortical-column-oscillatory-collaboration]] - SAN's broader inter-population coordination proposal.
+- [[screen-metaphor-no-inner-viewer]] - the network itself is the observer-action process.
+
+## Source genealogy
+
+- **September 17, 2021 recording; public Git fixation June 8, 2022:** [[gh-b0190y|b0190y]] introduces the bridge and interface language while leaving the corpus-callosum relation unresolved.
+- **June 8, 2022:** [[gh-a0005z|a0005z]] develops bidirectional thalamus-neocortex signaling.
+- **June-August 2022 corpus:** [[gh-a0079z|a0079z]], [[gh-a0199z|a0199z]], [[gh-a0627z|a0627z]], and the later [[saov9-self-aware-networks-overview|SAOv9]] outline retain "thalamic bridges" as a network-level SAN term.

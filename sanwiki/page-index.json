@@ -80386,8 +80386,8 @@
   },
   {
     "slug": "thalamic-bridge-consciousness-portal",
-    "title": "Thalamic Bridge Consciousness Portal",
-    "summary": "The thalamic bridge is proposed as a portal through which conscious experience passes between cortical regions — a convergence point where distributed multi-scale neural activity is compressed and transmitted as a unified pipeline.",
+    "title": "The Thalamic Bridge Metaphor",
+    "summary": "A source-faithful translation of SAN's thalamic-bridge and portal language into named recurrent routes, distributed rendering, engineering hypotheses, and decisive anatomical boundaries.",
     "topic": "san",
     "tags": [
       "san"
@@ -80399,23 +80399,26 @@
     "xrRoomId": "san-thalamic-bridge-consciousness-portal",
     "xrDeckId": "san-reader",
     "related": [
-      "san-scale-ladder-and-claim-boundaries",
+      "thalamic-bridges",
+      "thalamic-convergence-zone",
+      "thalamocortical-network",
       "screen-metaphor-no-inner-viewer",
+      "san-scale-ladder-and-claim-boundaries",
       "phase-language-firewall",
-      "gh-resnote04",
-      "gh-a0206z",
-      "gh-b0190y",
-      "dendrite",
+      "phase-wave-differentials",
+      "neural-rendering",
       "dendritic-mvr-cognition",
-      "nervegear",
-      "self-aware-network"
+      "gh-b0190y",
+      "gh-a0005z",
+      "gh-a0206z",
+      "gh-resnote04"
     ],
     "archivePath": "pages/thalamic-bridge-consciousness-portal.md"
   },
   {
     "slug": "thalamic-bridges",
     "title": "Thalamic Bridges",
-    "summary": "The term recurs across the SAN GitHub manuscript as a named anatomical commitment: [[cortical-columns|cortical columns]] are connected across the brain \"thanks to the activity of interneurons and major intersections of traffic such as the thalamic bridges, the",
+    "summary": "SAN's recurring thalamic-bridges vocabulary translated into named thalamocortical, corticothalamic, transthalamic, callosal, and direct cortical route families without inventing one universal tract.",
     "topic": "san",
     "tags": [
       "san"
@@ -80427,44 +80430,27 @@
     "xrRoomId": "san-thalamic-bridges",
     "xrDeckId": "san-reader",
     "related": [
-      "san-scale-ladder-and-claim-boundaries",
-      "thalamic-cortical-loop",
-      "phase-language-firewall",
-      "self-aware-network",
-      "thalamus",
-      "cortical-columns",
-      "temporal-parietal-junction",
       "thalamic-bridge-consciousness-portal",
+      "thalamic-convergence-zone",
       "thalamo-cortical-information-flow",
       "thalamocortical-network",
-      "sensor-array-consciousness",
-      "gh-a0079z",
-      "cortex",
-      "gh-a0627z",
-      "gh-a0206z",
-      "oscillatory-binding-problem",
-      "hippocampus",
-      "gh-a0199z",
-      "default-mode-network",
-      "gh-rexnote13",
-      "saov9-self-aware-networks-overview",
-      "cortical-column",
-      "consciousness",
       "cortical-column-oscillatory-collaboration",
-      "brainwave-vortex-attractor",
-      "gh-gpt2023x",
-      "gh-gpt2024jan1tojan22",
-      "gh-a0640z",
-      "gh-b0059ywhisper",
-      "gh-b0103ywhisper",
-      "gh-c0002x"
+      "screen-metaphor-no-inner-viewer",
+      "phase-language-firewall",
+      "san-scale-ladder-and-claim-boundaries",
+      "gh-b0190y",
+      "gh-a0005z",
+      "gh-a0079z",
+      "gh-a0199z",
+      "gh-a0627z",
+      "saov9-self-aware-networks-overview"
     ],
     "archivePath": "pages/thalamic-bridges.md"
   },
   {
     "slug": "thalamic-convergence-zone",
-    "title": "Thalamic Convergence Zone",
-    "summary": "This page exists because adjacent SAN pages — most centrally [[thalamic-bridge-consciousness-portal]], [[thalamo-cortical-information-flow]], [[thalamocortical-network]], and [[artificial-perception-via-thalamic-stimulation]] — repeatedly refer to the thalamus",
+    "title": "Thalamic Convergence: Bounded Integration, Not One Global Zone",
+    "summary": "Separates demonstrated cell- and nucleus-specific thalamic convergence from an unsupported whole-brain bottleneck, then states the bounded SAN recurrent-integration hypothesis and its tests.",
     "topic": "san",
     "tags": [
       "san"
@@ -80476,26 +80462,12 @@
     "xrRoomId": "san-thalamic-convergence-zone",
     "xrDeckId": "san-reader",
     "related": [
-      "san-scale-ladder-and-claim-boundaries",
-      "phase-language-firewall",
-      "comparison-evidence-is-not-biological-validation",
-      "self-aware-networks",
-      "cortical-column",
-      "fractal-brain-scale-hierarchy",
-      "thalamocortical-network",
-      "consciousness",
+      "thalamic-bridges",
       "thalamic-bridge-consciousness-portal",
-      "thalamus-modular-agi-architecture",
-      "thalamo-cortical-information-flow",
-      "artificial-perception-via-thalamic-stimulation",
-      "multimodal-integration",
-      "brainwave",
-      "cortex",
+      "thalamocortical-network",
       "coincidence-detection",
-      "oscillatory-synchrony-multimodal-integration",
-      "neural-rendering-of-qualia",
-      "coincidence-as-a-bit",
-      "gamma-oscillation"
+      "multimodal-integration",
+      "san-scale-ladder-and-claim-boundaries"
     ],
     "archivePath": "pages/thalamic-convergence-zone.md"
   },
@@ -80701,7 +80673,7 @@
   {
     "slug": "thalamocortical-network",
     "title": "Thalamocortical Network",
-    "summary": "The medically safe base claim is that many cortical areas participate in closed thalamocortical and corticothalamic loops. These loops can regulate gain, timing, attention, sleep-wake state, sensory routing, and recurrent cortical dynamics. They are not interc",
+    "summary": "An established family of reciprocal, nucleus-specific thalamus-cortex circuits, separated from SAN's stronger timing, rendering, convergence, and artificial-interface hypotheses.",
     "topic": "san",
     "tags": [
       "san"
@@ -80713,6 +80685,8 @@
     "xrRoomId": "san-thalamocortical-network",
     "xrDeckId": "san-reader",
     "related": [
+      "thalamic-bridges",
+      "thalamic-bridge-consciousness-portal",
       "san-scale-ladder-and-claim-boundaries",
       "thalamic-cortical-loop",
       "phase-language-firewall",

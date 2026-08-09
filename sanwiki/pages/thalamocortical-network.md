@@ -21,10 +21,12 @@ When this wiki links thalamic relay, display-screen, convergence-zone, bridge, a
 3. SAN interpretation: NAPOT/GCS timing, rendering, convergence, and phase-differential hypotheses.
 4. Engineering analogy: BCI, artificial perception, and AGI routing proposals inspired by the biological motif.
 
-A strong Book 2 treatment should keep those layers visible on the page instead of letting ?thalamus? become a placeholder for every integration function.
+A strong Book 2 treatment should keep those layers visible on the page instead of letting "thalamus" become a placeholder for every integration function.
 
 ## Related Concepts
 
+- [[thalamic-bridges]] - SAN route-family vocabulary translated into named anatomy.
+- [[thalamic-bridge-consciousness-portal]] - historical portal metaphor and distributed-rendering hypothesis.
 - [[thalamic-cortical-loop]] - reciprocal loop framing.
 - [[thalamo-cortical-information-flow]] - directional signal-flow framing.
 - [[thalamus-as-relay-station]] - low-risk textbook starting point.
