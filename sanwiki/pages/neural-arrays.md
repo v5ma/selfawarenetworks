@@ -22,6 +22,7 @@ traveling waves, reconstruction, behavior, and consciousness.
 ## Read next
 
 - [[neural-array|Neural Array]]
+- [[recursive-neural-array-perception|Recursive Neural Array Perception]]
 - [[neural-array-projection|Neural Array Projection]]
 - [[napot-overview|NAPOT Overview]]
 - [[neural-rendering|Neural Rendering]]

@@ -223,6 +223,7 @@ recurrent feedback and reafference, without drawing a single universal pathway o
 ## Read next
 
 - [[synaptic-unreliability-mvr-2021|Synaptic Unreliability, MVR, and the Ionotropic Information Channel]]
+- [[recursive-neural-array-perception|Recursive Neural Array Perception]]
 - [[neural-array-projection|Neural Array Projection]]
 - [[broccoli-shared-recognition-artificial-perception|Broccoli, Shared Recognition, and Artificial Perception]]
 - [[neural-tuning|Neural Tuning]]

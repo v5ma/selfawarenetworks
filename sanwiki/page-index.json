@@ -16942,6 +16942,7 @@
     "xrDeckId": "san-reader",
     "related": [
       "synaptic-unreliability-mvr-2021",
+      "recursive-neural-array-perception",
       "brain-interface-bci-map",
       "gh-b0327ywhisper",
       "broccoli-shared-recognition-artificial-perception",
@@ -57416,6 +57417,7 @@
     "xrDeckId": "san-reader",
     "related": [
       "neural-array",
+      "recursive-neural-array-perception",
       "neural-array-projection",
       "napot-overview",
       "neural-rendering",
@@ -61796,6 +61798,7 @@
     "xrDeckId": "san-reader",
     "related": [
       "machine-self-report-active-canvas-consciousness-test",
+      "recursive-neural-array-perception",
       "screen-metaphor-no-inner-viewer",
       "san-scale-ladder-and-claim-boundaries",
       "tonic-phasic-canvas",
@@ -70447,11 +70450,16 @@
   },
   {
     "slug": "recursive-neural-array-perception",
-    "title": "Recursive Neural Array Perception",
-    "summary": "This plate shows recursive observation as a biological cortical stack: one neural array renders a pattern, the next array perceives that rendering, and higher arrays stabilize identity as an oscillatory pattern across layers.",
+    "title": "Recursive Neural Array Perception: Distributed Reception, Transformation, and Return",
+    "summary": "A source-faithful account of SAN's proposal that neural populations receive partial activity patterns, transform them in receiver-specific ways, project selected updates, and alter one another recurrently without a hidden viewer or universal cortical stack.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "neural-arrays",
+      "recurrence",
+      "napot",
+      "distributed-observer",
+      "population-coding"
     ],
     "path": "/v5ma.github.io/wiki/content/recursive-neural-array-perception.md",
     "sourceFiles": [
@@ -70460,10 +70468,15 @@
     "xrRoomId": "san-recursive-neural-array-perception",
     "xrDeckId": "san-reader",
     "related": [
-      "self-aware-network",
-      "gh-a0206z",
-      "neural-oscillations",
-      "substrate-independence-intelligence"
+      "neural-arrays",
+      "flow-of-information-in-the-brain",
+      "neural-rendering",
+      "napot-overview",
+      "tonic-phasic-phase-wave-differential",
+      "distributed-phase-representations",
+      "observer-mechanism",
+      "screen-metaphor-no-inner-viewer",
+      "neural-tuning"
     ],
     "archivePath": "pages/recursive-neural-array-perception.md"
   },
