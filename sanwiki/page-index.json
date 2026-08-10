@@ -694,7 +694,10 @@
       "criterial-causation",
       "memory-prediction-cycle",
       "neural-rendering",
-      "neural-array-projection-oscillation-tomography"
+      "neural-array-projection-oscillation-tomography",
+      "consideration-sandwich",
+      "gamma-wave-consideration-sandwich",
+      "gamma-consideration-sandwich-diagram"
     ],
     "archivePath": "pages/actions.md"
   },
@@ -3413,11 +3416,16 @@
   },
   {
     "slug": "bci-industry-landscape",
-    "title": "Bci Industry Landscape",
-    "summary": "A taxonomy of [[brain-computer-interface|brain-computer interface]] (BCI) technologies organized by modality and invasiveness, compiled by [[micah-blumberg|Micah Blumberg]] as background research for [[self-aware-networks]].",
+    "title": "BCI Industry Landscape: Historical SAN Research Map",
+    "summary": "A source-faithful reconstruction of Micah Blumberg's 2022 BCI map, separating its historical device-and-research inventory from the current SAN measurement, intervention, and closed-loop testing program.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "bci",
+      "neo-mind-cycle",
+      "neural-lace",
+      "neurotechnology",
+      "source-genealogy"
     ],
     "path": "/v5ma.github.io/wiki/content/bci-industry-landscape.md",
     "sourceFiles": [
@@ -3427,13 +3435,16 @@
     "xrDeckId": "san-reader",
     "related": [
       "brain-computer-interface",
-      "micah-blumberg",
-      "self-aware-networks",
-      "neural-oscillations",
-      "neural-array-projection",
-      "gh-a0206z",
-      "attention",
-      "gh-resnote04"
+      "bci-instrument-atlas",
+      "neo-mind-cycle",
+      "neo-mind-cycle-neurofeedback-bci",
+      "multimodal-neural-state-reconstruction-perturbation",
+      "napot-overview",
+      "3-medical-imaging-technologies-2018",
+      "neural-lace-podcast-source-genealogy",
+      "adaptive-multimodal-bci-command-decoding",
+      "xmark-theory",
+      "artificial-neurology"
     ],
     "archivePath": "pages/bci-industry-landscape.md"
   },
@@ -3452,6 +3463,8 @@
     "xrRoomId": "san-bci-instrument-atlas",
     "xrDeckId": "san-reader",
     "related": [
+      "bci-industry-landscape",
+      "brain-computer-interface",
       "neo-mind-cycle",
       "neo-mind-cycle-neurofeedback-bci",
       "neo-mind-cycle-neurofeedback-bci-genealogy",
@@ -3810,6 +3823,8 @@
     "xrRoomId": "san-biological-computation",
     "xrDeckId": "san-reader",
     "related": [
+      "bci-industry-landscape",
+      "bci-instrument-atlas",
       "artificial-neurology",
       "metatron-computational-unit",
       "tonic-canvas-phasic-paint",
@@ -4090,7 +4105,8 @@
       "body-ownership-statistical-matching",
       "predictive-processing",
       "3d-semantic-segmentation",
-      "volumetric-predictive-rendering"
+      "volumetric-predictive-rendering",
+      "gamma-wave-consideration-sandwich"
     ],
     "archivePath": "pages/body-model-as-control-surface.md"
   },
@@ -4579,6 +4595,7 @@
       "virtual-reality",
       "artificial-perception",
       "neural-tuning",
+      "napot-overview",
       "feedback-strange-loops-self-model"
     ],
     "archivePath": "pages/brain-computer-interface.md"
@@ -5406,11 +5423,17 @@
   },
   {
     "slug": "bridging-molecular-mechanisms",
-    "title": "Bridging Molecular Mechanisms",
-    "summary": "This page-specific image shows the bridge asserted by the reader-backed SAN page: molecular-scale memory persistence mechanisms stabilize potentiated synapses, and those stable synaptic gains support phase-coded neural oscillations, phase wave differentials, a",
+    "title": "Bridging Molecular Mechanisms and Neural Oscillatory Dynamics",
+    "summary": "A source-faithful map of Micah Blumberg's 2024, 302-page, 43-cycle book and its routes into the Self Aware Networks Encyclopedia.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "book",
+      "book-1",
+      "molecular-memory",
+      "neural-oscillations",
+      "napot",
+      "source-map"
     ],
     "path": "/v5ma.github.io/wiki/content/bridging-molecular-mechanisms.md",
     "sourceFiles": [
@@ -5420,36 +5443,31 @@
     "xrDeckId": "san-reader",
     "related": [
       "self-aware-networks",
-      "micah-blumberg",
-      "neural-oscillations",
-      "gh-08san",
-      "gh-09san",
-      "gh-qgtcd-causal-fermion-systems",
-      "tonic-phasic-neural-oscillation",
-      "gh-qgtcd",
-      "gh-qgtcdarreduct2",
-      "synaptic-computation-ltp",
-      "phase-wave-differentials",
-      "phase-differential-rendering",
-      "entification",
-      "fractal-modular-consciousness",
-      "fractal-brain-scale-hierarchy",
-      "agentic-general-intelligence",
-      "gh-a0001z",
-      "gh-rexnote01",
-      "gh-rexnote02",
-      "ltp-bouton-synaptic-memory-traces",
-      "super-information-theory",
-      "sensory-stabilized-volumetric-rendering",
-      "brain-as-rendering-engine",
-      "continuous-neural-rendering",
       "self-aware-networks-book",
-      "gh-rexnote09",
-      "gh-rexnote14",
-      "gh-rexnote15",
-      "gh-veca",
-      "gh-vecc",
-      "gh-vecd"
+      "self-aware-networks-book-overview",
+      "gh-rexnote12",
+      "memory-persistence",
+      "camkii",
+      "multi-frequency-processing",
+      "synaptic-plasticity",
+      "kibra-pkm-zeta-memory-anchor",
+      "neural-array-projection",
+      "napot-overview",
+      "biological-oscillating-tomography",
+      "fourier-slice-theorem",
+      "ndca-nonlinear-differential-continuous-approximation",
+      "phase-wave-differential",
+      "neural-tuning",
+      "bistable-synaptic-plasticity",
+      "neural-oscillations",
+      "entification-observer-problem",
+      "artificial-neurology",
+      "continuous-neural-rendering",
+      "brain-as-rendering-engine",
+      "san-claim-genealogy-2011-2022",
+      "neural-lace-podcast-source-genealogy",
+      "neo-mind-cycle-neurofeedback-bci-genealogy",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/bridging-molecular-mechanisms.md"
   },
@@ -8350,11 +8368,15 @@
   },
   {
     "slug": "consideration-sandwich",
-    "title": "Consideration Sandwich",
-    "summary": "The *consideration sandwich* is a model of gamma waves functioning as mediators between two distinct cortical processes: sensory input (alpha waves from occipital cortex) and cognitive output (beta waves from prefrontal cortex). Gamma sits in the middle, trans",
+    "title": "Consideration Sandwich: Historical SAN Formulation",
+    "summary": "The source-faithful history of Micah Blumberg's consideration-sandwich metaphor and its current interpretation as a circuit-specific sensory-context-choice-action-return hypothesis rather than a literal alpha-beta-gamma anatomy map.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "gamma-consideration-sandwich",
+      "oscillations",
+      "sensorimotor-loop",
+      "source-genealogy"
     ],
     "path": "/v5ma.github.io/wiki/content/consideration-sandwich.md",
     "sourceFiles": [
@@ -8363,13 +8385,22 @@
     "xrRoomId": "san-consideration-sandwich",
     "xrDeckId": "san-reader",
     "related": [
-      "attention",
-      "self-aware-networks",
-      "oscillatory-coupling",
-      "phase-wave-differential",
-      "neural-array-projection-oscillation-tomography",
-      "consciousness-as-persistent-rendering",
-      "predictive-coding"
+      "gamma-wave-consideration-sandwich",
+      "gamma-consideration-sandwich-diagram",
+      "flow-of-information-in-the-brain",
+      "neural-tuning",
+      "tonic-phasic-phase-wave-differential",
+      "neural-path-selection-interneurons-choice",
+      "electrical-valence-receiver-relative-drive",
+      "actions",
+      "proprioceptive-feedback",
+      "gh-rexnote06",
+      "embodiment-vision-gamma-consideration-sandwich",
+      "latent-pattern-conscious-rendering-transition"
+    ],
+    "aliases": [
+      "Consideration Sandwich",
+      "Gamma Mediation"
     ],
     "archivePath": "pages/consideration-sandwich.md"
   },
@@ -15386,7 +15417,9 @@
       "choice",
       "neural-path-selection-interneurons-choice",
       "actions",
-      "gh-a0271z"
+      "gh-a0271z",
+      "consideration-sandwich",
+      "gamma-wave-consideration-sandwich"
     ],
     "archivePath": "pages/electrical-valence-receiver-relative-drive.md"
   },
@@ -15598,7 +15631,9 @@
       "napot-revision-genealogy",
       "self-as-motor-sensory-rendering",
       "coincidence-as-a-bit",
-      "oca"
+      "oca",
+      "consideration-sandwich",
+      "gamma-wave-consideration-sandwich"
     ],
     "archivePath": "pages/embodiment-vision-gamma-consideration-sandwich.md"
   },
@@ -16971,7 +17006,10 @@
       "napot-revision-genealogy",
       "san-golden-corpus-map",
       "cascaded-array-perspective-transformation",
-      "early-a0397-a0419-obscure-argument-map"
+      "early-a0397-a0419-obscure-argument-map",
+      "consideration-sandwich",
+      "gamma-wave-consideration-sandwich",
+      "gamma-consideration-sandwich-diagram"
     ],
     "archivePath": "pages/flow-of-information-in-the-brain.md"
   },
@@ -18791,11 +18829,15 @@
   },
   {
     "slug": "gamma-consideration-sandwich-diagram",
-    "title": "Gamma Consideration Sandwich Diagram",
-    "summary": "This page is a backfill stub: other SAN articles cite the diagram as a presupposition of [[consideration-sandwich|Consideration Sandwich]] and [[gamma-wave-consideration-sandwich|Gamma Wave Consideration Sandwich]] discussions, but no primary source has yet be",
+    "title": "Gamma Consideration Sandwich Figure Specification",
+    "summary": "A source-bounded specification for a future medically accurate GCS figure; no accepted figure currently exists and image generation is paused.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "gamma-consideration-sandwich",
+      "medical-figure",
+      "image-prompt",
+      "sensorimotor-loop"
     ],
     "path": "/v5ma.github.io/wiki/content/gamma-consideration-sandwich-diagram.md",
     "sourceFiles": [
@@ -18805,25 +18847,20 @@
     "xrDeckId": "san-reader",
     "related": [
       "consideration-sandwich",
-      "gh-a0206z",
       "gamma-wave-consideration-sandwich",
-      "graded-neural-firing",
-      "coincidence-pattern-neural-bit",
-      "brain-as-memory-prediction-machine",
-      "tonic-phasic-canvas",
-      "four-dimensional-phase-tracking",
-      "oscillator-environmental-encoding",
-      "neural-oscillation-hierarchy",
-      "cortical-column-oscillatory-transmission",
-      "gh-resnote04",
-      "phasic-tonic-relationship",
-      "criterial-causation",
-      "neo-mind-cycle",
-      "fractal-oscillators",
-      "neural-ensemble-phase-reset-communication",
-      "napot-theory",
-      "self-aware-networks-book-overview",
+      "flow-of-information-in-the-brain",
+      "neural-tuning",
+      "tonic-phasic-phase-wave-differential",
+      "latent-pattern-conscious-rendering-transition",
+      "self-as-motor-sensory-rendering",
+      "proprioceptive-feedback",
+      "actions",
+      "gh-rexnote06",
       "embodiment-vision-gamma-consideration-sandwich"
+    ],
+    "aliases": [
+      "Gamma Consideration Sandwich Diagram",
+      "GCS Diagram"
     ],
     "archivePath": "pages/gamma-consideration-sandwich-diagram.md"
   },
@@ -18899,10 +18936,14 @@
   {
     "slug": "gamma-wave-consideration-sandwich",
     "title": "Gamma Wave Consideration Sandwich",
-    "summary": "The **Gamma Consideration Sandwich (GCS)** is SAN's historical metaphor for coordination among sensory evidence, ongoing thought or prediction, proprioceptive state, and action. It is most useful as a proposed timing-and-routing model, not as a literal three-b",
+    "summary": "A source-faithful SAN timing-and-routing hypothesis connecting sensory and body evidence, maintained context, selective consideration, action, and returned consequence without assigning one universal role to alpha, beta, or gamma.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "gamma-consideration-sandwich",
+      "oscillations",
+      "neural-tuning",
+      "sensorimotor-loop"
     ],
     "path": "/v5ma.github.io/wiki/content/gamma-wave-consideration-sandwich.md",
     "sourceFiles": [
@@ -18915,11 +18956,24 @@
       "body-model-as-control-surface",
       "san-scale-ladder-and-claim-boundaries",
       "consideration-sandwich",
+      "gamma-consideration-sandwich-diagram",
+      "flow-of-information-in-the-brain",
+      "neural-tuning",
+      "tonic-phasic-phase-wave-differential",
+      "phase-wave-differentials",
+      "neural-path-selection-interneurons-choice",
+      "electrical-valence-receiver-relative-drive",
       "oscillatory-feedback-circuits",
-      "phase-wave-differential",
       "proprioceptive-feedback",
       "self-as-motor-sensory-rendering",
-      "actions"
+      "actions",
+      "gh-rexnote06",
+      "embodiment-vision-gamma-consideration-sandwich",
+      "latent-pattern-conscious-rendering-transition"
+    ],
+    "aliases": [
+      "Gamma Consideration Sandwich",
+      "GCS"
     ],
     "archivePath": "pages/gamma-wave-consideration-sandwich.md"
   },
@@ -46036,7 +46090,9 @@
       "consideration-sandwich",
       "gh-raynote17",
       "attention",
-      "actions"
+      "actions",
+      "gamma-wave-consideration-sandwich",
+      "gamma-consideration-sandwich-diagram"
     ],
     "archivePath": "pages/gh-rexnote06.md"
   },
@@ -59305,7 +59361,9 @@
       "choice",
       "consciousness-as-high-bandwidth-choice-mechanism",
       "saov9-cycle-06-memory-state-drift",
-      "early-a0457-a0481-obscure-argument-map"
+      "early-a0457-a0481-obscure-argument-map",
+      "consideration-sandwich",
+      "gamma-wave-consideration-sandwich"
     ],
     "archivePath": "pages/neural-path-selection-interneurons-choice.md"
   },
@@ -59779,7 +59837,10 @@
       "early-a0180-a0197-obscure-argument-map",
       "san-golden-corpus-map",
       "infogenetics-content-addressed-neural-write-access",
-      "coherence-dispersion-sculpting-hypothesis"
+      "coherence-dispersion-sculpting-hypothesis",
+      "consideration-sandwich",
+      "gamma-wave-consideration-sandwich",
+      "gamma-consideration-sandwich-diagram"
     ],
     "archivePath": "pages/neural-tuning.md"
   },
@@ -63845,7 +63906,8 @@
       "consciousness-as-neurofeedback-loops",
       "eeg-biofeedback-self-reflective-loop",
       "gh-a0206z",
-      "traveling-waves-neural-oscillations"
+      "traveling-waves-neural-oscillations",
+      "gamma-wave-consideration-sandwich"
     ],
     "archivePath": "pages/oscillatory-feedback-circuits.md"
   },
@@ -65832,7 +65894,8 @@
       "gamma-oscillations",
       "cross-frequency-coupling",
       "computational-phase-synchronization",
-      "cortical-traveling-waves"
+      "cortical-traveling-waves",
+      "gamma-wave-consideration-sandwich"
     ],
     "archivePath": "pages/phase-language-firewall.md"
   },
@@ -66437,7 +66500,8 @@
       "cortical-traveling-waves",
       "observer-mechanism",
       "coherence-dispersion-sculpting-hypothesis",
-      "present-moment-salience"
+      "present-moment-salience",
+      "gamma-wave-consideration-sandwich"
     ],
     "archivePath": "pages/phase-wave-differentials.md"
   },
@@ -68185,7 +68249,9 @@
       "self-as-motor-sensory-rendering",
       "embodiment-in-cognition",
       "san-scale-ladder-and-claim-boundaries",
-      "phase-language-firewall"
+      "phase-language-firewall",
+      "consideration-sandwich",
+      "gamma-consideration-sandwich-diagram"
     ],
     "archivePath": "pages/proprioceptive-feedback.md"
   },
@@ -72211,7 +72277,8 @@
       "comparison-evidence-is-not-biological-validation",
       "san-residual-after-prior-art-subtraction",
       "neural-array-projection",
-      "self-aware-networks"
+      "self-aware-networks",
+      "gamma-wave-consideration-sandwich"
     ],
     "archivePath": "pages/san-scale-ladder-and-claim-boundaries.md"
   },
@@ -73197,7 +73264,9 @@
       "neural-array-projection-oscillation-tomography",
       "self-as-learning-loop",
       "self-as-directional-concept",
-      "embodiment-vision-gamma-consideration-sandwich"
+      "embodiment-vision-gamma-consideration-sandwich",
+      "gamma-wave-consideration-sandwich",
+      "gamma-consideration-sandwich-diagram"
     ],
     "archivePath": "pages/self-as-motor-sensory-rendering.md"
   },
@@ -82808,7 +82877,10 @@
       "early-a0333-a0351-obscure-argument-map",
       "san-golden-corpus-map",
       "infogenetics-content-addressed-neural-write-access",
-      "early-a0040-a0069-obscure-argument-map"
+      "early-a0040-a0069-obscure-argument-map",
+      "consideration-sandwich",
+      "gamma-wave-consideration-sandwich",
+      "gamma-consideration-sandwich-diagram"
     ],
     "archivePath": "pages/tonic-phasic-phase-wave-differential.md"
   },
@@ -84835,7 +84907,10 @@
       "functional-connectivity",
       "tonic-phasic-canvas",
       "observer-mechanism",
-      "neural-rendering"
+      "neural-rendering",
+      "consideration-sandwich",
+      "gamma-wave-consideration-sandwich",
+      "gamma-consideration-sandwich-diagram"
     ],
     "archivePath": "pages/latent-pattern-conscious-rendering-transition.md"
   }

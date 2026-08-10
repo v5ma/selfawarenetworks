@@ -1,3 +1,11 @@
+---
+title: "Gamma Wave Consideration Sandwich"
+tags: [san, gamma-consideration-sandwich, oscillations, neural-tuning, sensorimotor-loop]
+aliases: [Gamma Consideration Sandwich, GCS]
+summary: "A source-faithful SAN timing-and-routing hypothesis connecting sensory and body evidence, maintained context, selective consideration, action, and returned consequence without assigning one universal role to alpha, beta, or gamma."
+status: governed-current-synthesis
+---
+
 # Gamma Wave Consideration Sandwich
 
 The **Gamma Consideration Sandwich (GCS)** is SAN's historical metaphor for coordination among sensory evidence, ongoing thought or prediction, proprioceptive state, and action. It is most useful as a proposed timing-and-routing model, not as a literal three-band anatomy map.
@@ -16,6 +24,21 @@ The early SAN vocabulary grouped four ideas:
 | Proprioceptive and Layer-5 action closure | Body-state feedback changes the next motor and sensory state | Movement depends on distributed cortical, basal-ganglia, cerebellar, brainstem, spinal, and peripheral loops, not Layer 5 alone. |
 
 The word *sandwich* therefore names a recurrent relationship: incoming evidence and ongoing context constrain a changing middle computation, whose motor consequences return as new sensory evidence.
+
+## Source genealogy and attribution
+
+The concept developed in stages, and its current interpretation should not be projected backward:
+
+- The March 25, 2021 [[flow-of-information-in-the-brain|Flow of Information in the Brain]] recording supplies a receive-transform-project-act-return ancestor. It does not yet name GCS.
+- The January 4, 2024 [Cortical Dynamics & Neurocircuitry](https://www.svgn.io/p/cortical-dynamics-and-neurocircuitry) article supplies a later cortical-traffic teaching geometry.
+- [`rexnote06.md`](https://github.com/v5ma/selfawarenetworks/blob/7bbb9e317793480ab2a08781f8801ee224f37d44/rexnote06.md), publicly Git-fixed October 21, 2024, is the earliest currently recovered public source in which Micah calls the tentative relation a **consideration sandwich** and asks whether it could coordinate proprioceptive feedback.
+- [`raynote22.md`](https://github.com/v5ma/selfawarenetworks/blob/117337d01e3d5d04941b54cdde0a4b67f748f6c6/raynote22.md), publicly fixed January 21, 2025, develops an intermediate Layer-2/3 version. Its treatment of PV interneurons as peripheral proprioceptive afferents is retired; PV interneurons can shape local timing but do not carry the ascending peripheral afferent route.
+- [`draft1.md`](https://github.com/v5ma/selfawarenetworks/blob/0dc8e48747b784d9dd5ad5af145f633571a7d91e/draft1.md), publicly fixed February 21, 2025 local time / February 22 UTC, contains the exact **Gamma Consideration Sandwich** name and the expanded sensory, top-down, and proprioceptive composite.
+
+The 2024 source is a mixed-authorship dialogue. Passages labeled **Micah Blumberg said** establish
+Micah's tentative hypothesis. Passages labeled **ChatGPT said** are developmental context, not
+Micah-authored claims and not independent validation. See [[consideration-sandwich|the historical
+source entry]] for the wording and evidential boundary.
 
 ## A medically bounded interpretation
 
@@ -52,6 +75,14 @@ sensory evidence
   -> proprioceptive, interoceptive, and external sensory return
 ```
 
+This traffic model also needs a conscious-membership boundary. Phase compatibility may help a
+candidate interact with an active assembly, but gamma power or coherence alone does not admit content
+to consciousness. The current SAN synthesis requires recurrent recruitment, reciprocal influence,
+relative causal dominance, and a new capacity for flexible consequence. Inhibition, detuning,
+competition, adaptation, or loss of reciprocal influence can let content leave while learned memory
+constraints remain. See [[latent-pattern-conscious-rendering-transition|From Latent Pattern to
+Conscious Rendering]].
+
 The 2024 article's vertical/horizontal and front/back language is a teaching geometry, not a claim
 that all cortical traffic follows one anatomical axis or one six-layer sequence. The relevant
 laminar origins, termination patterns, thalamic relays, and oscillatory relationships must be
@@ -83,6 +114,7 @@ These studies support circuit-specific oscillatory and sensorimotor coordination
 ## Related pages
 
 - [[consideration-sandwich]]
+- [[gamma-consideration-sandwich-diagram]]
 - [[flow-of-information-in-the-brain]]
 - [[neural-tuning]]
 - [[oscillatory-feedback-circuits]]
@@ -90,3 +122,4 @@ These studies support circuit-specific oscillatory and sensorimotor coordination
 - [[proprioceptive-feedback]]
 - [[self-as-motor-sensory-rendering]]
 - [[actions]]
+- [[latent-pattern-conscious-rendering-transition]]

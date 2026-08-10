@@ -275,6 +275,8 @@ individual calibration, uncertainty models, and returned behavior instead of ask
 be the whole decoder.
 ## Read next
 
+- [[bci-industry-landscape|BCI Industry Landscape: Historical SAN Research Map]]
+- [[brain-computer-interface|Brain-Computer Interface]]
 - [[early-a0531-a0561-obscure-argument-map|Early a0531-a0561 Obscure Argument Map]]
 - [[multimodal-neuron-signal-correlate-channel|The Multimodal Neuron: Signal, Correlate, or Channel?]]
 - [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle and the BCI Bridge]]

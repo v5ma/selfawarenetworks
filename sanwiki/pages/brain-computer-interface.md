@@ -89,7 +89,7 @@ If alpha power changes a cube's height, the application designer supplied the ma
 
 SAN treats an interface as a recurrent person-device-environment system. It asks whether receiver-relative timing, waveform, duration, magnitude, learned state, and route improve prediction or control beyond strong source-informed recurrent and state-space alternatives.
 
-[[napot|NAPOT]] would add scientific work only if its repeated receive-transform-project account improves a declared inverse or intervention model under matched measurements, labels, calibration, feedback, capacity, and compute. A positive result in one loop would remain evidence for that bounded interface relation, not consciousness in general.
+[[napot-overview|NAPOT]] would add scientific work only if its repeated receive-transform-project account improves a declared inverse or intervention model under matched measurements, labels, calibration, feedback, capacity, and compute. A positive result in one loop would remain evidence for that bounded interface relation, not consciousness in general.
 
 This is one engineering bridge into [[artificial-neurology]]. Artificial Neurology additionally asks how perception, memory, value, action, development, and governance should be joined in an artificial system. BCI success does not automatically supply that complete architecture.
 
@@ -114,11 +114,13 @@ The tracks can advance independently. Their integration is an additional claim. 
 
 ## Related pages
 
+- [[bci-industry-landscape|BCI Industry Landscape: Historical SAN Research Map]]
+- [[bci-instrument-atlas|BCI Instrument Atlas: From Neo Mind Cycle to NerveGear]]
 - [[artificial-neurology]]
 - [[neo-mind-cycle]]
 - [[virtual-reality]]
 - [[nervegear]]
 - [[artificial-perception]]
 - [[neural-tuning]]
-- [[napot]]
+- [[napot-overview|NAPOT Overview]]
 - [[feedback-strange-loops-self-model]]

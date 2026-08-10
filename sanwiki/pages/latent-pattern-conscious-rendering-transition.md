@@ -72,7 +72,8 @@ The complete formulation developed in stages:
 
 - `a0122z.md`, publicly Git-fixed in 2022, distinguishes long-term structural memory from active oscillatory memory and connects both to choice.
 - The October 2021 `b0146yhand.md` recording, publicly fixed in November 2022, distinguishes unattended tracking from conscious access and develops distributed convergence, pattern completion, suppression, report, and action.
-- `a0325zNAPOT6.md`, publicly fixed in November 2022, explicitly asks what makes an engram conscious. It proposes persistent or dominant PWD rhythms, states that weaker patterns can still affect behavior, and describes conscious content fading into the background as relative dominance changes.
+- [`a0325zNAPOT6.md` at its November 28, 2022 fixation](https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0325zNAPOT6.md) asks what makes an engram conscious and proposes persistent or dominant PWD rhythms as the consciously rendered aggregate.
+- [The May 17, 2023 expansion of `a0325zNAPOT6.md`](https://github.com/v5ma/selfawarenetworks/blob/4ca0566bf9ede982e0fe4af9e2e7b7d929b333c2/a0325zNAPOT6.md) adds the explicit claims that weaker patterns can still affect behavior and that their content can fade into the background as relative dominance changes. Those additions are not backdated into the November 2022 formulation.
 - The current version of `a0056z.md` asks how content processed without contemporaneous awareness can later support memory that enters conscious experience. That paragraph entered the tracked source in 2023 and is not backdated into the earlier record.
 - [[memory-state-drift-virtual-mind|Memory, Engrams, Representational Drift, and the Virtual Mind]] recovers the carrier-substitution and virtual-engram hypothesis: stable relational content may be reconstructed despite changing participating cells.
 
