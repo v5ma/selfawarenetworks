@@ -20,6 +20,12 @@ Studies using masking, attentional blink, and no-report designs show that stimul
 
 SAN proposes that access occurs when receiver-relative changes are preserved and re-expressed across enough recurrent pathways to affect memory, comparison, report, and action. [[phase-wave-differentials|Phase-wave differentials]] and [[neural-array-projection-oscillation-tomography|NAPOT]] are candidate descriptions of this propagation, not established names for the access mechanism.
 
+[[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]]
+develops the missing transition in greater detail: a latent or reconstructed candidate can gain
+reciprocal influence with the active distributed state, enter flexible consequence, and later
+leave that state through inhibition, detuning, competition, or reduced coupling while its memory
+substrate remains.
+
 The term **render** is acceptable only as an operational shorthand for a distributed, action-ready state. It is not a screen and does not create an inner viewer. The same participating cells and circuits that carry and transform the content are part of the system that later uses it.
 
 ## Testable formulation
@@ -43,6 +49,7 @@ The phase-aware model must outperform matched rate, connectivity, recurrent-stat
 
 ## Read next
 
+- [[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]]
 - [[consciousness-claim-and-evidence-ladder|Consciousness Claim and Evidence Ladder]]
 - [[attention-awareness-consciousness-triad|Attention, Awareness, and Consciousness]]
 - [[neural-rendering-of-qualia|Neural Rendering of Qualia]]

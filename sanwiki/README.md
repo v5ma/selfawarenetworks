@@ -6,7 +6,7 @@ This folder is the machine-readable public corpus for the Self-Aware Networks Wi
 
 - First corpus snapshot in this folder: **2026-08-01**
 - Current corpus snapshot: **2026-08-09**
-- Indexed pages in this snapshot: **2,380**
+- Indexed pages in this snapshot: **2,381**
 - Canonical reader: [Self-Aware Networks Wiki](https://selfawarenetworks.com/wiki/)
 - Machine-readable index: [page-index.json](page-index.json)
 - Exact file hashes: [manifest-sha256.csv](manifest-sha256.csv)

@@ -47,6 +47,12 @@ Both accounts reject an extra inner observer and distinguish attention from a mo
 
 AST asks whether a simplified model of attention helps a system control attention, attribute awareness, and generate awareness reports. SAN asks an additional implementation question: how do distributed receivers, learned assemblies, ongoing context, event-related changes, inhibition, recurrence, body state, and action jointly instantiate and revise the model?
 
+[[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]] makes
+that implementation difference explicit. Early AST supplies an attention-model and control
+problem; SAN's current bridge asks how a latent virtual engram is reconstructed, selectively joins
+an active distributed state, gains flexible consequence, and later leaves without erasing the
+underlying memory.
+
 The source-faithful SAN comparison is:
 
 **current sensory and bodily state + ongoing context -> candidate learned patterns -> selective recruitment or suppression -> model and prediction of the attended relation -> partial completion or revision -> memory, report, or action -> returned consequences update the next cycle**
@@ -90,6 +96,7 @@ A medically accurate comparison should use two overlapping feedback loops. The A
 
 ## Read next
 
+- [[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]]
 - [[attention|Attention]]
 - [[attention-schema|Attention Schema]]
 - [[attention-awareness-consciousness-triad|Attention, Awareness, and Consciousness]]

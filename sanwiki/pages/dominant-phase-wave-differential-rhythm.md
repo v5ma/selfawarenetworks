@@ -25,6 +25,7 @@ Every DPWDR claim must name:
 
 ## Read next
 
+- [[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]]
 - [[dominant-phase-wave-differential|Dominant Phase-Wave Differential]]
 - [[phase-language-firewall|Phase Language Firewall]]
 - [[consciousness-as-persistent-rendering|Consciousness as Persistent Rendering]]

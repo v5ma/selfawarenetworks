@@ -2247,7 +2247,8 @@
       "conscious-access",
       "conscious-awareness",
       "consciousness",
-      "phase-language-firewall"
+      "phase-language-firewall",
+      "latent-pattern-conscious-rendering-transition"
     ],
     "archivePath": "pages/attention-awareness-consciousness-triad.md"
   },
@@ -2464,7 +2465,8 @@
       "attention-awareness-consciousness-triad",
       "conscious-access",
       "screen-metaphor-no-inner-viewer",
-      "distributed-observer-vs-consciousness-module"
+      "distributed-observer-vs-consciousness-module",
+      "latent-pattern-conscious-rendering-transition"
     ],
     "archivePath": "pages/attention-schema-theory.md"
   },
@@ -6501,7 +6503,8 @@
       "actions",
       "criterial-causation",
       "attention",
-      "volition"
+      "volition",
+      "latent-pattern-conscious-rendering-transition"
     ],
     "archivePath": "pages/choice.md"
   },
@@ -7688,7 +7691,8 @@
       "consciousness-claim-and-evidence-ladder",
       "attention-awareness-consciousness-triad",
       "neural-rendering-of-qualia",
-      "observer-mechanism"
+      "observer-mechanism",
+      "latent-pattern-conscious-rendering-transition"
     ],
     "archivePath": "pages/conscious-access.md"
   },
@@ -13016,7 +13020,8 @@
     "related": [
       "dominant-phase-wave-differential",
       "phase-language-firewall",
-      "consciousness-as-persistent-rendering"
+      "consciousness-as-persistent-rendering",
+      "latent-pattern-conscious-rendering-transition"
     ],
     "archivePath": "pages/dominant-phase-wave-differential-rhythm.md"
   },
@@ -18621,7 +18626,8 @@
       "gh-rexnote08",
       "gh-veca",
       "gh-vecc",
-      "gh-vecd"
+      "gh-vecd",
+      "latent-pattern-conscious-rendering-transition"
     ],
     "archivePath": "pages/functional-connectivity.md"
   },
@@ -53589,7 +53595,8 @@
       "early-a0333-a0351-obscure-argument-map",
       "early-a0352-a0372-obscure-argument-map",
       "early-a0040-a0069-obscure-argument-map",
-      "early-a0420-a0453-obscure-argument-map"
+      "early-a0420-a0453-obscure-argument-map",
+      "latent-pattern-conscious-rendering-transition"
     ],
     "archivePath": "pages/memory-state-drift-virtual-mind.md"
   },
@@ -59438,7 +59445,8 @@
       "screen-metaphor-no-inner-viewer",
       "san-scale-ladder-and-claim-boundaries",
       "napot-tomography-not-holography",
-      "3d-neural-network-brain"
+      "3d-neural-network-brain",
+      "latent-pattern-conscious-rendering-transition"
     ],
     "archivePath": "pages/neural-rendering.md"
   },
@@ -61843,7 +61851,8 @@
       "tonic-phasic-canvas",
       "receptive-inceptive-dendritic-projection",
       "napot-overview",
-      "minimum-observer-circuit"
+      "minimum-observer-circuit",
+      "latent-pattern-conscious-rendering-transition"
     ],
     "archivePath": "pages/observer-mechanism.md"
   },
@@ -82575,7 +82584,8 @@
       "phasic-tonic-relationship",
       "present-moment-salience",
       "receptive-inceptive-dendritic-projection",
-      "san-scale-ladder-and-claim-boundaries"
+      "san-scale-ladder-and-claim-boundaries",
+      "latent-pattern-conscious-rendering-transition"
     ],
     "archivePath": "pages/tonic-phasic-canvas.md"
   },
@@ -84794,5 +84804,39 @@
       "neural-rendering"
     ],
     "archivePath": "pages/tonic-absorption-generative-reexpression.md"
+  },
+  {
+    "slug": "latent-pattern-conscious-rendering-transition",
+    "title": "From Latent Pattern to Conscious Rendering",
+    "summary": "SAN's source-faithful account of how a latent or nonconscious pattern may be reconstructed, selectively coupled to an active distributed rendering, recruited into flexible consequence, and later decoupled without erasing its memory substrate.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "consciousness",
+      "unconscious-processing",
+      "virtual-engram",
+      "choice",
+      "functional-connectivity",
+      "phase-wave-differential"
+    ],
+    "path": "/v5ma.github.io/wiki/content/latent-pattern-conscious-rendering-transition.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/latent-pattern-conscious-rendering-transition.md"
+    ],
+    "xrRoomId": "san-latent-pattern-conscious-rendering-transition",
+    "xrDeckId": "san-reader",
+    "related": [
+      "memory-state-drift-virtual-mind",
+      "conscious-access",
+      "attention-awareness-consciousness-triad",
+      "attention-schema-theory",
+      "choice",
+      "dominant-phase-wave-differential-rhythm",
+      "functional-connectivity",
+      "tonic-phasic-canvas",
+      "observer-mechanism",
+      "neural-rendering"
+    ],
+    "archivePath": "pages/latent-pattern-conscious-rendering-transition.md"
   }
 ]

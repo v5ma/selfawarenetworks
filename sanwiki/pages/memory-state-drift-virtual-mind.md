@@ -70,6 +70,10 @@ claim that a conscious engram becomes a persistent or dominant phase-wave-differ
 further hypothesis. It needs a measurable dominance criterion and matched conscious/unconscious
 conditions; it cannot be inferred from reactivation alone.
 
+[[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]] joins
+this virtual-engram problem to selective recruitment, reciprocal coupling, choice, and the later
+departure of content from the active rendering without erasing its learned substrate.
+
 ## What SAN means by a virtual mind
 
 **Virtual** should mean dynamically instantiated rather than immaterial. The mind has no fixed inner
@@ -268,6 +272,7 @@ proposed microtubule-bit substrate open.
 
 ## Read next
 
+- [[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]]
 - [[early-a0531-a0561-obscure-argument-map|Early a0531-a0561 Obscure Argument Map]]
 - [[early-a0503-a0530-obscure-argument-map|Early a0503-a0530 Obscure Argument Map]]
 - [[engram|Engram legacy page]]

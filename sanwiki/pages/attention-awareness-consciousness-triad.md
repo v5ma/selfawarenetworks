@@ -69,6 +69,7 @@ A medically accurate successor should use parallel, overlapping axes for cellula
 
 ## Read next
 
+- [[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]]
 - [[conscious-access|Conscious Access]]
 - [[conscious-awareness|Conscious Awareness]]
 - [[consciousness|Consciousness]]

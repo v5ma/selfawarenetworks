@@ -62,6 +62,9 @@ perform tomography, a literal picture stored in a dendrite, or one universal cor
 algorithm.
 [[memory-state-drift-virtual-mind|Memory, Engrams, Representational Drift, and the Virtual Mind]]
 separates durable substrate, active reconstruction, drift, and conscious access.
+[[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]] then
+explains selective joining and leaving: how a reconstructed candidate may enter flexible
+consequence and later depart without erasing its learned substrate.
 
 ### 4. What supplies content and differentiation?
 
@@ -91,6 +94,9 @@ thresholds, change the body and environment, and return new sensory and bodily c
 Plasticity then changes later response.
 [[agency-valuation-action-feedback|Agency, Valuation, Action Selection, and Returned Consequence]]
 follows that complete loop.
+[[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]]
+connects that action route back to latent candidates, current conscious context, and changing
+functional topology.
 
 ## Theory and mechanism spine
 

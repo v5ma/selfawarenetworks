@@ -114,12 +114,19 @@ prediction of route commitment after firing rate, spike timing, task variables, 
 state are included, the PWD-specific extension loses support even if the broader distributed-choice
 account remains viable.
 
+[[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]] adds
+a current synthesis: choice can be modeled as the changing functional topology through which a
+latent candidate temporarily joins the active distributed rendering, competing content leaves,
+and one route becomes available for action. This joined wording is a 2026 synthesis and is not
+backdated into the earlier Choice sources.
+
 [[electrical-valence-receiver-relative-drive|Electrical Valence]] names the proposed receiver-
 relative effective drive in that route-to-action bridge. It does not rename affective valence,
 field power, or muscular energy.
 
 ## Read next
 
+- [[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]]
 - [[neural-path-selection-interneurons-choice|Neural Path Selection, Interneurons, and Choice Across Scales]]
 - [[agency-valuation-action-feedback|Agency, Valuation, Action Selection, and Returned Consequence]]
 - [[actions|Actions]]
