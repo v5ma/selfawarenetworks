@@ -1,12 +1,12 @@
 ---
-title: "SAN Dynamic Timeline, 2011-2026"
+title: "SAN Dynamic Timeline, 2010-2026"
 tags: [san, timeline, genealogy, provenance, source-recovery, books, neural-lace, napot, pwd]
 aliases: [Self Aware Networks Dynamic Timeline, SAN Genealogy Timeline]
-summary: "An interactive, source-graded map of SAN's development from 2011 through 2026, with filters for concept family, source type, stage, evidence grade, scale, medium, and publication state."
+summary: "An interactive, source-graded map of SAN's development from its 2010 public precursors through 2026, with filters for concept family, source type, stage, evidence grade, scale, medium, and publication state."
 status: governed
 ---
 
-# SAN Dynamic Timeline, 2011-2026
+# SAN Dynamic Timeline, 2010-2026
 
 The **SAN Dynamic Timeline** turns the source genealogy into a navigable public record. It follows
 the changing language of Self Aware Networks across dialogues, recordings, articles, podcasts,
@@ -16,9 +16,18 @@ The timeline is not a claim that every event introduced a scientifically validat
 separates the date of the wording from later public fixation, distinguishes ancestors from mature
 operators, and keeps source custody separate from conceptual fit.
 
+> **Visual status:** The exact static atlas below passed fixed-input rendering checks at desktop and
+> mobile sizes and primary six-lens source-semantic review for bounded local Wiki integration. It
+> preserves all 61 governed public-route events as dated marks and uses 29 labeled anchors only to
+> expose five parallel lineages; those labels are not a ranking or a substitute for the full event
+> record. The figure is non-biological, so the medical-art gate does not apply. Any pixel, label,
+> caption, source, or claim-scope change requires a fresh review.
+
+![SAN Genealogy and Bridge Atlas showing all 61 governed public-route events from 2010 through 2026, including empty 2015 and 2016 positions; 29 labeled anchors trace five non-ranked lineages for PWD, NAPOT, observer and action loops, BCI and Artificial Neurology, and custody and publication. The figure keeps PWD as a core SAN concept and prevents mature terminology from being backdated into functional ancestors.](assets/generated/san/san-genealogy-and-bridge-atlas/san-genealogy-and-bridge-atlas-001.png#compact-html)
+
 ## How to read the timeline
 
-- **Zoom and pan** to move from the full 2011-2026 span into individual source clusters.
+- **Zoom and pan** to move from the full 2010-2026 span into individual source clusters.
 - **Group by idea or evidence property** to inspect concept families, source types, stages,
   evidence grades, biological scales, media, or publication states.
 - **Filter without changing the record.** Empty years remain empty rather than being filled with
@@ -45,6 +54,7 @@ proof. Likewise, a 2017 functional ancestor is not renamed PWD or NAPOT before t
 The initial event set is deliberately bounded. It includes reviewed public or publicly described
 source stages from the following routes:
 
+- [[early-san-facebook-genealogy-2010-2013|Early SAN Facebook Genealogy, 2010-2013]]
 - [[san-claim-genealogy-2011-2022|SAN Claim Genealogy, 2011-2022]]
 - [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle and BCI Genealogy]]
 - [[neural-lace-podcast-source-genealogy|Neural Lace Podcast Source Genealogy]]
@@ -56,8 +66,9 @@ source stages from the following routes:
 - [[gh-13san|13san: Computable Consciousness and Self-Modifying Timing]]
 
 The older [[gh-timeline|Comprehensive All-Inclusive Timeline]] is preserved as a historical source
-page. Later source recovery found earlier public 2011, 2012, and 2017 evidence that the old page did
-not yet contain. This dynamic timeline supersedes it for current chronology without deleting it.
+page. Later source recovery found public 2010-2013 Facebook precursors as well as additional 2011,
+2012, and 2017 evidence that the old page did not yet contain. This dynamic timeline supersedes it
+for current chronology without deleting it.
 
 ## Scope boundary
 

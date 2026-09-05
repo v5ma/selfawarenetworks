@@ -16,6 +16,16 @@ common event. SAN proposes that this contrast helps explain why an ongoing tonic
 a reference while rarer [[phase-wave-differentials|phase-wave differentials]] carry changing
 content.
 
+![Information Rarity in a Neural Receiver](/v5ma.github.io/wiki/assets/generated/san/information-rarity/information-rarity-neural-receiver-20260811-v1.png)
+
+[Open the full-resolution figure](/v5ma.github.io/wiki/assets/generated/san/information-rarity/information-rarity-neural-receiver-20260811-v1.png)
+
+*The solid teal pathways summarize established measurements: context-dependent auditory responses,
+excitation-inhibition timing, phase-sensitive coding, and a specific pulvinar-VIP-SOM-pyramidal
+prediction-error circuit. The dashed green pathway is the SAN hypothesis under test. The question
+mark in the held-out comparison is deliberate: the figure defines how a receiver-relative PWD
+model could be tested, not a result that it has already outperformed conventional models.*
+
 ```text
 tonic receiver context -> expected distribution of events
   -> common event: lower conditional surprisal
@@ -96,6 +106,7 @@ into the first note.
 
 | Public fixation | Source | Contribution |
 |---|---|---|
+| July 24, 2013 (platform date) | [public Facebook provenance post](https://www.facebook.com/photo/?fbid=692805844079399&set=a.103297033030286) | early ancestor describing cycling synchrony, learned oscillatory patterns, internally rendered vectors, sounds, and worlds, and smaller oscillations joining larger brainwaves to "knit the canvas of conscious experience"; not yet the later information-rarity, Shannon, or PWD mechanism |
 | June 8, 2022 | [a0590z](https://github.com/v5ma/selfawarenetworks/blob/5360f6414909a2474129b2140ee0dc3112c93b6b/a0590z.md) | inhibition, spine change, phase-rate change, and the phrase "information rarity" in one proposed sequence |
 | June 8-11, 2022 | [a0142z](https://github.com/v5ma/selfawarenetworks/blob/ff8d45af7706a29baaef326fcc4fbcbaa0ed0f06/a0142z.md) | coherence as coupling or convergence, contrasted with decoherence or separation as distinction-making |
 | June 21, 2022 | [b0131y](https://github.com/v5ma/selfawarenetworks/blob/b2b7084fb754a3553b3468087aed963a1224ab1b/b0131y.md) | repeated "hmms" as context and a rarer "hey" as a more surprising event under an information-theory reading |
@@ -189,9 +200,11 @@ predictive value after probability, adaptation, firing rate, and circuit state a
 
 ## Image status
 
-No medically reviewed image is accepted for this page. A future publication-grade data-and-circuit
-plate is specified as `IMG-SAN-INFORMATION-RARITY-001`; generation remains paused until a dedicated
-image session.
+A publication-grade companion figure specified as `IMG-SAN-INFORMATION-RARITY-001` is installed in
+the local SAN build. It passed internal review for the named auditory and visual circuit claims,
+anatomical direction, information-theory boundaries, and separation of established evidence from
+the SAN hypothesis. Owner review and independent specialist review remain open; the figure has not
+been published or deployed.
 
 ## Read next
 

@@ -8,8 +8,12 @@ status: governed
 
 # Self Aware Networks Encyclopedia
 
-> **Image status:** No medically reviewed home-page image is accepted. A replacement prompt has
-> been drafted, and image generation remains paused.
+> **Visual status:** The product-construction map below passed fixed-input mechanical QA and primary
+> source-semantic review for bounded local Wiki integration. It depicts the Encyclopedia's evidence,
+> review, certification, and reader architecture; it is not biological evidence or scientific
+> validation.
+
+![SAN Encyclopedia construction map from evidence donors through routing, atom review, certification, reader surfaces, parallel visual programs including core PWD, and distinct local-to-public states.](assets/generated/san/san-wiki-product-construction-map/san-wiki-product-construction-map-001.png#compact-html)
 
 The **Self Aware Networks Encyclopedia** is the expandable knowledge system for SAN. It connects
 the books, dated source record, recordings, podcasts, videos, GitHub writings, papers, biological
@@ -21,14 +25,25 @@ ordered narratives. The Encyclopedia lets a reader stop at any concept, recover 
 its biological scale and evidence status, and follow its relationships to other mechanisms,
 experiments, revisions, and applications.
 
+> [!important] PWD is core SAN architecture
+> A [[phase-wave-differentials|Phase-Wave Differential]] (PWD) is SAN's typed, receiver-relative
+> departure from a declared tonic or reference pattern. It may involve excitation, inhibition, a
+> missing expected event, delay, or interactions among them; it is not excitation minus inhibition.
+> [[napot-overview|NAPOT]] uses PWD throughout recurrent receive-transform-project-update operation,
+> and the [[gamma-wave-consideration-sandwich|Gamma Consideration Sandwich]] is one bounded cortical
+> model that uses PWD. Neither contains, defines, or outranks PWD. The
+> [[phase-wave-differential-calculus|PWD Calculus]] is an optional formalization, not PWD's source or
+> definition.
+
 ## Choose a reading path
 
 | Reader goal | Start here | Continue with |
 |---|---|---|
 | Understand SAN in ordinary language | [[self-aware-networks|Self-Aware Networks]] | [[self-aware-networks-theory|Theory Architecture and Claim Status]] -> [[self-aware-network|Candidate System Criteria]] |
-| Understand the core mechanism | [[neural-array-projection|Neural Array Projection]] | [[napot-overview|NAPOT]] -> [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]] |
+| Understand the core mechanisms | [[phase-wave-differentials|Phase-Wave Differentials]] and [[neural-array-projection|Neural Array Projection]] | [[napot-overview|NAPOT]] -> [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]] |
 | Examine consciousness without an inner viewer | [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]] | [[entification-observer-problem|Entification and the Distributed Observer]] -> [[field-cell-self-bioelectric-information-entity|The Field-Cell Self]] |
 | Check scientific and medical boundaries | [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]] | [[self-aware-networks-theory|Claim Status]] -> [[machine-agency-consciousness-welfare-evidence-program|Agency, Consciousness, and Welfare Evidence]] |
+| Audit how a claim becomes certified | [[san-wiki-evidence-to-certification|Evidence-to-Certification Method]] | [[consciousness-claim-and-evidence-ladder|Claim and Evidence Ladder]] -> [[san-scale-ladder-and-claim-boundaries|Scale and Claim Boundaries]] |
 | Trace what was said and when | [[san-dynamic-timeline|SAN Dynamic Timeline, 2011-2026]] | [[san-claim-genealogy-2011-2022|SAN Claim Genealogy]] -> [[napot-revision-genealogy|NAPOT Revision Genealogy]] -> [[san-golden-corpus-map|Golden Corpus Map]] |
 | Follow the books | [[self-aware-networks-book-overview|Book and Encyclopedia Overview]] | [[bridging-molecular-mechanisms|Bridging Molecular Mechanisms]] -> [[self-aware-networks-book|Self Aware Networks Book Program]] |
 | Follow the BCI and engineering line | [[neo-mind-cycle-neurofeedback-bci-genealogy|Neo Mind Cycle Source Genealogy]] | [[bci-instrument-atlas|BCI Instrument Atlas]] -> [[artificial-neurology|Artificial Neurology]] |
@@ -49,17 +64,20 @@ Start with [[neural-array-projection|Neural Array Projection]] and
 ### 2. How is input transformed rather than copied?
 
 SAN emphasizes receive-transform-project operations. The relevant output is shaped by the receiver,
-not transmitted as an unchanged miniature of its source. [[neural-tuning|Neural Tuning]] develops
-learned and state-dependent selectivity. [[phase-wave-differential-calculus|PWD Calculus]] develops
-the stronger proposal that multidimensional departures from a receiver's expected state can act as
-measurable update variables.
+not transmitted as an unchanged miniature of its source. Core PWD architecture names the typed
+departure a declared receiver registers relative to its declared tonic or reference pattern.
+[[neural-tuning|Neural Tuning]] develops learned and state-dependent selectivity. The optional
+[[phase-wave-differential-calculus|PWD Calculus]] proposes candidate feature vectors and comparison
+models for measuring some PWD-bearing relations; it does not define PWD or make it a later stage.
 
 ### 3. How can partial activity support a coherent working model?
 
-[[napot-overview|NAPOT]] proposes a multiscale many-to-one-to-many process in which partial neural
-states are integrated, transformed, redistributed, and updated. It does not require one neuron to
-perform tomography, a literal picture stored in a dendrite, or one universal cortical-column
-algorithm.
+[[napot-overview|NAPOT]] proposes a recurrent, multiscale many-to-many process in which partial neural
+states are integrated, transformed, redistributed, and updated through PWD-bearing receiver
+relations. Many inputs may converge on one local receiver, and one receiver may affect many targets,
+but the larger architecture is not one global many-to-one-to-many bottleneck. It does not require one
+neuron to perform tomography, a literal picture stored in a dendrite, or one universal cortical-
+column algorithm.
 [[memory-state-drift-virtual-mind|Memory, Engrams, Representational Drift, and the Virtual Mind]]
 separates durable substrate, active reconstruction, drift, and conscious access.
 [[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]] then
@@ -68,7 +86,10 @@ consequence and later depart without erasing its learned substrate.
 
 ### 4. What supplies content and differentiation?
 
-SAN distinguishes relatively ongoing tonic context from receiver-relative phasic differences.
+SAN distinguishes relatively ongoing tonic context from receiver-relative phasic differences. PWD
+is the core typed relation between a declared departure and the declared receiver's tonic or
+reference pattern; it can include excitatory, inhibitory, missing-expected, delayed, and interaction
+effects.
 The positive hypothesis is that changing cellular and population activity alters the same living
 electrical, chemical, mechanical, metabolic, and thermal tissue state that generates and registers
 it. Coherence can support transient recruitment; structured dispersion can preserve differences
@@ -100,11 +121,15 @@ functional topology.
 
 ## Theory and mechanism spine
 
-| Layer | Principal routes | What the layer contributes |
+These are coupled reader views, not ordered processing layers or concept ranks. PWD spans cellular,
+local-circuit, population, distributed-network, rendering, and action relations whenever the
+receiver, reference, variable, route, scale, and consequence are declared.
+
+| Reader view | Principal routes | What the view contributes |
 |---|---|---|
+| Core differentiated architecture | [[phase-wave-differentials|Phase-Wave Differentials]], [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]], optional [[phase-wave-differential-calculus|PWD Calculus]] | Receiver-relative departures across excitation, inhibition, missing expectation, delay, and interaction; optional measurement formalisms remain subordinate to the core concept. |
 | Program and criteria | [[self-aware-networks|Self-Aware Networks]], [[self-aware-networks-theory|Theory Architecture]], [[self-aware-network|Candidate System Criteria]] | The problem, joined architecture, evidence ladder, and criteria for a candidate system. |
-| Cellular and pathway operations | [[neural-array-projection|Neural Array Projection]], [[flow-of-information-in-the-brain|Flow of Information]], [[neural-tuning|Neural Tuning]], [[gamma-wave-consideration-sandwich|Gamma Consideration Sandwich]] | Receive-transform-project anatomy, recurrent cortical traffic, receiver state, timing, pathway constraints, and changing target recruitment. |
-| Population dynamics | [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]], [[phase-wave-differential-calculus|PWD Calculus]] | Ongoing context, differentiated update, timing, waveform, variability, coupling, and testable comparison variables. |
+| Cellular and pathway operations | [[neural-array-projection|Neural Array Projection]], [[flow-of-information-in-the-brain|Flow of Information]], [[neural-tuning|Neural Tuning]], [[gamma-wave-consideration-sandwich|Gamma Consideration Sandwich]] | Receive-transform-project anatomy, recurrent cortical traffic, receiver state, timing, pathway constraints, and changing target recruitment; GCS is one bounded PWD-using cortical model. |
 | Rendering and memory | [[napot-overview|NAPOT]], [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]], [[memory-state-drift-virtual-mind|Memory and the Virtual Mind]] | Distributed integration, reconstruction, re-expression, and the no-inner-screen boundary. |
 | Observer and action | [[entification-observer-problem|Entification]], [[field-cell-self-bioelectric-information-entity|Field-Cell Self]], [[agency-valuation-action-feedback|Agency and Returned Consequence]] | Causal unity, perspective, selection, action, and feedback. |
 | Measurement and implementation | [[bci-instrument-atlas|BCI Instrument Atlas]], [[conscious-state-perturbation-tomography|Conscious-State Perturbation Tomography]], [[artificial-neurology|Artificial Neurology]] | What different instruments expose, what interventions could test, and what bounded operations can be engineered. |
@@ -148,7 +173,7 @@ The SAN book program and the Encyclopedia are connected but not interchangeable.
 
 ## Scientific reading rules
 
-Every improved concept page should make four layers visible:
+Every improved concept page should make four claim-status layers visible:
 
 1. **Established science:** findings supported in named species, preparations, circuits, tasks, and
    measurement conditions.
@@ -163,6 +188,12 @@ An apparent anatomical or medical error begins as a source-recovery question. Th
 checks surrounding context and dated sources for a typo, transcription error, compressed analogy,
 older vocabulary, or incomplete expression. The reader page then distinguishes recovered intent
 from current science instead of silently replacing the historical idea.
+
+The source-reconstruction, six-lens atom review, and exact-page certification workflow is documented
+in [[san-wiki-evidence-to-certification|SAN Wiki Evidence-to-Certification Method]].
+The six required checks are full-context reconstruction, strongest-form/no-strawman review, source
+fidelity, scientific fidelity, narrative preservation, and protocol/release integrity. A later
+challenge remains non-operative unless it passes the same anti-compression and fidelity checks.
 
 ## What the Encyclopedia is not
 

@@ -7,19 +7,34 @@ also backpropagate into the soma and dendrites.
 
 > **Scientific boundary:** A spike is a real cellular output event, but it is not a universal semantic quantum, a fixed vesicle-count symbol, or consciousness by itself. At a chemical synapse, terminal voltage is transformed into local calcium entry, probabilistic vesicle fusion, transmitter action, and a receiver-specific postsynaptic consequence.
 
-> **Image status:** Three previous plates failed the stricter source-faithful medical review and are excluded from publication. One used incorrect output anatomy and a deterministic 0/1/2/3 vesicle ladder. Two later variants improved the axonal sequence but presented invented quantitative bouton values as if measured; one also assigned exclusively receptive and integrative roles to apical and basal dendrites. Both dendritic domains receive and integrate input. All three plates are preserved outside the public build in the medical-review quarantine. Future figure prompt: `IMG-SAN-ACTION-POTENTIAL-CONDITIONAL-ARBOR-001`.
+> **Image status:** Three previous plates failed the stricter source-faithful medical review and remain
+> preserved outside the public build in the medical-review quarantine. The replacement below passed
+> internal anatomy and claim-boundary review on 2026-08-11; independent cellular-neurophysiology,
+> synaptic-physiology, and neuroanatomy review remains open. It is an explanatory plate, not clinical
+> evidence or a settled SAN mechanism.
+
+![Action potential: conditional axonal-arbor transformation](/v5ma.github.io/wiki/assets/generated/san/action-potential/action-potential-conditional-axonal-arbor-20260811-v1.png)
+
+*The plate separates established AIS-to-axon and bouton physiology from bounded waveform and
+receiver-specific consequences. PWD is a core SAN concept; only applying it to this action-potential
+mechanism is marked as an open hypothesis and test. Apical and basal dendrites are both shown
+receiving and integrating input; no single neuron is presented as a complete percept or tomography system.*
+
+[Open the full-resolution figure](/v5ma.github.io/wiki/assets/generated/san/action-potential/action-potential-conditional-axonal-arbor-20260811-v1.png)
 
 ## The established cellular sequence
 
 1. Synaptic currents, active dendritic conductances, inhibition, and somatic state alter membrane
    voltage across a neuron.
 2. In cortical pyramidal cells, the AIS normally initiates the axonal action potential. Its
-   specialized sodium-channel organization supports rapid, precise initiation
-   ([Kole et al., 2008](https://doi.org/10.1038/nn2040)).
-3. The spike usually propagates reliably through the axonal arbor under ordinary conditions, but
-   reliability and waveform can depend on branch geometry, channel state, recent activity, and
-   preparation. Propagation failure is possible; it is not the default explanation for every
-   synaptic difference.
+   specialized sodium-channel organization supports initiation with high temporal precision
+   ([Kole et al., 2008](https://doi.org/10.1038/nn2040);
+   [Lazarov et al., 2018](https://doi.org/10.1126/sciadv.aau8621)).
+3. In young rat layer 2/3 pyramidal cells, single spikes reliably invaded the imaged axonal arbor
+   ([Koester and Sakmann, 2000](https://doi.org/10.1111/j.1469-7793.2000.00625.x)). More generally,
+   propagation reliability and waveform can depend on neuron class, branch geometry, channel state,
+   recent activity, species, and preparation. Propagation failure is possible; it is not the default
+   explanation for every synaptic difference.
 4. At a chemical terminal, the arriving waveform opens voltage-gated calcium channels.
 5. Local calcium, active-zone organization, vesicle-pool state, and release machinery determine
    probabilistic vesicle fusion.
@@ -67,7 +82,9 @@ while calcium transients varied by as much as tenfold among boutons on the same 
 Active-zone size, calcium-channel organization, vesicle availability, modulation, recent activity,
 and target-cell identity can all contribute to local differences
 ([Holderith et al., 2012](https://doi.org/10.1038/nn.3137);
-[Eltes et al., 2017](https://doi.org/10.1523/JNEUROSCI.2024-16.2017)).
+[Eltes et al., 2017](https://doi.org/10.1523/JNEUROSCI.2024-16.2017);
+[Sheng et al., 2012](https://doi.org/10.1038/nn.3129);
+[Lipstein et al., 2021](https://doi.org/10.1016/j.neuron.2021.09.054)).
 
 This supplies the medically accurate operation behind part of SAN's older "print function"
 language: one regenerative event can be transformed into a spatially distributed pattern of
@@ -89,12 +106,22 @@ not a universal basal-sensory plus apical-prediction gate.
 
 ## Physical consequences are not automatically separate codes
 
-Action potentials have electrical and ionic dynamics with measurable magnetic, mechanical,
-metabolic, and thermal consequences. Magnetic detection of a single-neuron action potential has
-been demonstrated under specialized close-range conditions
-([Barry et al., 2016](https://doi.org/10.1073/pnas.1601513113)), and electromechanical coupling has
-been modeled and measured as a physical accompaniment
-([El Hady and Machta, 2015](https://doi.org/10.1038/ncomms7697)).
+Action potentials have electrical and ionic dynamics accompanied by several physically distinct
+effects. Their evidence and scale must remain separate:
+
+- Magnetic fields associated with single action potentials have been detected under specialized
+  close-range conditions in invertebrate giant-axon preparations
+  ([Barry et al., 2016](https://doi.org/10.1073/pnas.1601513113)).
+- El Hady and Machta modeled electromechanical surface waves associated with action-potential
+  propagation and related the model to earlier displacement measurements; that paper is not itself
+  a universal direct measurement of mechanical waves in every neuron
+  ([El Hady and Machta, 2015](https://doi.org/10.1038/ncomms7697)).
+- Initial heat production and absorption were measured in desheathed rabbit vagus nerves at 5
+  degrees C, a preparation-specific thermal result
+  ([Howarth et al., 1968](https://doi.org/10.1113/jphysiol.1968.sp008434)).
+- Sustained presynaptic activity engages energy-homeostasis mechanisms; this tissue and repeated-
+  activity evidence does not establish a separately decoded metabolic symbol for one spike
+  ([Li et al., 2020](https://pubmed.ncbi.nlm.nih.gov/33020662/)).
 
 Those findings establish physical correlates. They do not by themselves show that the brain
 independently decodes each correlate as a semantic communication channel.
@@ -111,7 +138,7 @@ The source record contains several related proposals that should not be merged i
 | [August 3, 2022: Action Potential Magnitude Effect](https://github.com/v5ma/selfawarenetworks/blob/b79351a4fe3667296952c483e6beb68732bf3865/a0053z.md) | Waveform and burst history may condition release and downstream effect. | Fixed 0/1/2/3 vesicle symbols and a universal inhibitory consequence are not established. |
 | [August 28, 2022: print-function thought experiment](https://github.com/v5ma/selfawarenetworks/blob/29956416cb7c074bbfb8c32e13611a6568cc290e/a0001z.md) | Learned somatodendritic state can influence a one-to-many output pattern across downstream targets. | The apical dendrite is not an exit terminal, and bouton output is not freely programmable like pixels. |
 | [September 18, 2022: dendritic coincidence and output](https://github.com/v5ma/selfawarenetworks/blob/894b4d4ea3f23d4d1d526e123b5744283ff9cd5d/a0007z.md) | In bounded pyramidal-cell cases, dendritic coincidence can alter spike or burst output. | The cited layer 5 motif is not a universal cortical circuit. |
-| [June 16, 2025: coefficient-of-variation extension](https://github.com/v5ma/selfawarenetworks/blob/172e778a01b06357e5921d772f8ff18f9818a7d3/13san.md) | Recent event variability may be modeled as part of a receiver-relative update. | This later formalization is a SAN hypothesis and must not be backdated into 2022 physiology. |
+| [June 16, 2025: coefficient-of-variation extension in a mixed dialogue/synthesis](https://github.com/v5ma/selfawarenetworks/blob/172e778a01b06357e5921d772f8ff18f9818a7d3/13san.md) | Recent event variability may be modeled as part of a receiver-relative update. | This later formalization is a SAN hypothesis and must not be backdated into 2022 physiology or presented as an unambiguously single-speaker passage. |
 
 The recovered SAN operator is:
 
@@ -123,11 +150,11 @@ a picture." It preserves the proposal that a neuron can contribute a structured 
 without turning an apical dendrite into an output terminal or treating stochastic synapses as a
 deterministic display.
 
-## What SAN adds as an open hypothesis
+## Core PWD role and the open action-potential systems hypothesis
 
-Established physiology already supports mixed analogue-triggered transmission, waveform-dependent
-terminal effects, bouton heterogeneity, and receiver-specific consequences. [[self-aware-networks|SAN]] adds the joined
-systems proposition that:
+PWD is a core SAN concept. The open claim here is its application to this action-potential and
+population mechanism. Established physiology supports the cellular footholds below; [[self-aware-networks|SAN]] joins
+them into this systems proposition:
 
 1. learned cellular structure and ongoing state can make the spatial output pattern reproducible;
 2. receivers interpret each consequence relative to their own tonic state;

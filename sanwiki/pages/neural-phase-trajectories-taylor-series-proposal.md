@@ -1,5 +1,11 @@
 # Neural Phase Trajectories and the Taylor-Series Proposal
 
+> **Replacement image status (2026-08-11):** A medically bounded candidate is installed for local review. It separates measured population activity, analyst-defined state-space trajectories, receiver-specific biological transformation, the finite local Taylor approximation, and the source-faithful SAN hypothesis. It does not depict a literal polynomial, a complete percept, or a universal cortical circuit. Independent systems-neuroscience, dynamical-modeling, neuroanatomy, and visual-communication review remains open.
+>
+> [![Neural Population Trajectories: Measurement, Receiver Transformation, and the Taylor-Like SAN Hypothesis](../assets/generated/san/neural-phase-trajectories-taylor-series-proposal/neural-phase-trajectories-receiver-transformation-20260811-v1.png)](../assets/generated/san/neural-phase-trajectories-taylor-series-proposal/neural-phase-trajectories-receiver-transformation-20260811-v1.png)
+>
+> [Open the full-resolution local image](../assets/generated/san/neural-phase-trajectories-taylor-series-proposal/neural-phase-trajectories-receiver-transformation-20260811-v1.png)
+
 ## The idea in plain language
 
 A moving hand, an unfolding sound, a changing feeling, or a planned action is not represented by

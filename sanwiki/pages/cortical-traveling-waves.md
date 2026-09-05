@@ -4,6 +4,12 @@
 
 > **Figure status:** The existing v6 and v7 figures are preserved as historical working assets but are not approved for the public reader. The v6 figure turns wave interaction into an established match/error detector and NAPOT readout. The v7 figure improves the evidence boundary but still merges preparations and uses a cup-like reconstruction example associated with another theory. A source-faithful replacement prompt is registered as IMG-SAN-CORTICAL-TRAVELING-WAVES-001.
 
+> **Replacement image status (2026-08-11):** A medically bounded candidate is installed for local review. It separates measured phase-gradient analysis, recording preparations, bounded examples, the source-faithful SAN extension, and the decisive test. The image does not treat a fitted wave as a literal object, a complete percept, or a universal cortical route. Independent electrophysiology, oscillation-analysis, neuroanatomy, and visual-communication review remains open.
+>
+> [![Cortical Traveling Waves: Measured Phase Gradients and the Open SAN Hypothesis](../assets/generated/san/cortical-traveling-waves/cortical-traveling-waves-measured-phase-gradients-20260811-v1.png)](../assets/generated/san/cortical-traveling-waves/cortical-traveling-waves-measured-phase-gradients-20260811-v1.png)
+>
+> [Open the full-resolution local image](../assets/generated/san/cortical-traveling-waves/cortical-traveling-waves-measured-phase-gradients-20260811-v1.png)
+
 ## What researchers measure
 
 A traveling wave is a spatially organized change in the phase or activity of a neural signal over time. With electrodes or imaging sites arranged across tissue, researchers can ask whether nearby locations show a systematic phase progression rather than unrelated local oscillations.

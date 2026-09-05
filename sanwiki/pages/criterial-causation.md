@@ -4,6 +4,12 @@
 
 > **Figure status:** The existing criterial-causation-20260701-v1.png figure is preserved but is not approved for the public reader. It contrasts established neuroscience with a false fixed-threshold strawman, assigns a universal 3 ms upper-gamma code, depicts a canonical laminar cascade as universal cortex, and implies that individual neurons define sufficiency and propagate mental causation through one hierarchy. A bounded replacement prompt is registered as IMG-SAN-CRITERIAL-CAUSATION-001.
 
+> **Replacement image status (2026-08-11):** A medically bounded candidate is installed for local review. It separates state-dependent cellular physiology, mechanisms that alter future response conditions, Tse's model, the distributed SAN extension, and the scale-specific test. Independent cellular-neurophysiology, synaptic-plasticity, circuit, agency, and visual-communication review remains open.
+>
+> [![Criterial Causation: How Current Neural State Changes Future Response](../assets/generated/san/criterial-causation/criterial-causation-state-dependent-response-20260811-v1.png)](../assets/generated/san/criterial-causation/criterial-causation-state-dependent-response-20260811-v1.png)
+>
+> [Open the full-resolution local image](../assets/generated/san/criterial-causation/criterial-causation-state-dependent-response-20260811-v1.png)
+
 ## The central distinction
 
 Neural responses depend on current physical state. That state can also change, making the same later input more or less effective. Criterial causation gives a higher-level name to this future-directed relationship:

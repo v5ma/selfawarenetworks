@@ -9,6 +9,14 @@ status: governed
 
 **Cellular Oscillating Tomography (COT)** asks which receive, integrate, retain, and transmit operations attributed to neurons in SAN also occur in other living cells. It is a bridge from Self-Aware Networks to the later Super Evolution Theory (SET) program. It is not a claim that every cell is a miniature brain, constructs a literal medical image, or is individually conscious.
 
+> **Image status:** The replacement plate below passed internal cell-signaling, developmental-biology, systems-biology, visual-communication, and claim-boundary review on 2026-08-11. Independent specialist review remains open. It is an explanatory figure, not clinical evidence and not a claim that COT is established biology.
+
+![Cellular Oscillating Tomography: stateful signaling, reconstruction, and collective consequence](/v5ma.github.io/wiki/assets/generated/san/cellular-oscillating-tomography/cellular-oscillating-tomography-stateful-signaling-20260811-v1.png)
+
+*The plate separates measured state-dependent signaling and collective dynamics from the open COT reconstruction hypothesis across molecular, cellular, tissue, and organismal scales.*
+
+[Open the full-resolution figure](/v5ma.github.io/wiki/assets/generated/san/cellular-oscillating-tomography/cellular-oscillating-tomography-stateful-signaling-20260811-v1.png)
+
 The source-faithful question is:
 
 > Can receptor configuration, cellular history, internal state, signaling dynamics, and intercellular feedback jointly preserve relations among partial inputs well enough to change a cell's later output, and can that proposal predict behavior beyond an ordinary pathway model?

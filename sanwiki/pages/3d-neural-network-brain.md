@@ -7,6 +7,16 @@ location, directed connectivity, changing population state, learned structure, a
 representation may interact. The phrase means more than "the brain occupies volume," but each kind
 of three-dimensionality must be declared separately.
 
+![The brain as a three-dimensional neural network: anatomy, analytical graphs, represented body-world space, and the SAN closed-loop hypothesis](/v5ma.github.io/wiki/assets/generated/san/3d-neural-network-brain/brain-three-dimensional-network-20260811-v1.png)
+
+[Open the full-resolution figure](/v5ma.github.io/wiki/assets/generated/san/3d-neural-network-brain/brain-three-dimensional-network-20260811-v1.png)
+
+*This plate separates physical tissue, structural connectivity, momentary effective routing,
+population-state projections, represented body-world geometry, and the stronger SAN hypothesis.
+The solid teal relations summarize established anatomy or measured relations. Dashed green routes
+are analytical mappings or SAN hypotheses. The mouse inset is a sagittal teaching view; the memory
+and action insets depict distributed networks rather than single storage or control centers.*
+
 ## Six meanings that must not be collapsed
 
 1. **Physical embedding:** neurons, glia, vessels, extracellular space, nuclei, layers, tracts, and
@@ -27,6 +37,36 @@ of three-dimensionality must be declared separately.
 
 Physical volume, graph topology, population geometry, represented space, and experienced space need
 not use the same coordinates. Evidence for one does not automatically prove the others.
+
+## The 2017 Neural Lace bridge
+
+The June 2017 article and Neural Lace Podcast Episode 7 with Android Jones called the brain a
+**"special kind of hard drive."** In context, this was an engineering analogy for a biological
+medium whose changing state might eventually be measured, modeled, and influenced. It was not a
+claim that the brain stores block-addressed files or that one location contains a complete memory.
+
+The same source states a more precise operation: a neural interface should first estimate the
+receiver's present pattern and then introduce only the difference required to approach a desired
+pattern. It also describes an EEG-driven audiovisual environment whose output returns through the
+senses and changes the next measured state. These are public 2017 ancestors of receiver-relative
+write-back, closed-loop reconstruction, and later SAN differential language. They should not be
+retroactively renamed PWD, NAPOT, or Neural Tuning.
+
+Read scientifically, the useful bridge is:
+
+```text
+learned biological structure and current state
+        -> partial measurement
+        -> estimate of a desired receiver-relative change
+        -> bounded sensory or neural intervention
+        -> distributed network response and reconstruction
+        -> changed behavior and returned sensory evidence
+```
+
+The hard-drive analogy becomes misleading if it implies a passive digital archive, exact semantic
+thought decoding from scalp EEG, or context-free replay. The stronger SAN interpretation is that
+learned physical readiness and distributed recurrent activity jointly reconstruct a state under
+current bodily and environmental constraints.
 
 ## Recovered SAN proposition
 
@@ -125,8 +165,10 @@ representation, and experience, but it reduced the historical SAN proposal to a 
 statement. This revision preserves those boundaries while restoring the dated local-rendering,
 memory-recruitment, distributed-graph, multimodal-field, and observer-action hypotheses.
 
-No existing image has been approved for this page. The quarantined Brain Grid Theory image concerns
-a different claim and must not be reused as evidence for this one.
+The current 2026 figure has passed an internal anatomical and claim-boundary review and is installed
+as a local review candidate. Independent medical-specialist review remains open, so it is not yet a
+certified clinical illustration. The quarantined Brain Grid Theory image concerns a different claim
+and must not be reused as evidence for this one.
 
 ## Sources
 
@@ -142,6 +184,9 @@ a different claim and must not be reused as evidence for this one.
 
 ### SAN provenance
 
+- [The brain as a special kind of hard drive, written June 7 and published June 11, 2017](https://medium.com/silicon-valley-global-news/the-brain-as-a-special-kind-of-hard-drive-4bd3a99dba4c)
+- [Neural Lace Podcast Episode 7 with Android Jones](https://soundcloud.com/user-899513447/the-neural-lace-podcast-7-guest-android-jones)
+- [[neural-lace-podcast-s1e7-android-jones-2017|Source-bounded Episode 7 Wiki page]]
 - [Micah's three-dimensional graph and multimodal volumetric-flow source, publicly fixed June 12, 2022](https://github.com/v5ma/selfawarenetworks/blob/694d2eb4435f8c8b25339b9bb26a2ef8f119983c/a0645z.md)
 - [Micah's distributed partial-representation and action-cycle source, publicly fixed June 2022](https://github.com/v5ma/selfawarenetworks/blob/e2f2885356339f6547bead9a7b95ef662c1a86d5/a0126z.md)
 - [Micah's 3D reconstruction and nested-timescale source, publicly fixed June 2022](https://github.com/v5ma/selfawarenetworks/blob/5360f6414909a2474129b2140ee0dc3112c93b6b/a0601z.md)
@@ -149,6 +194,8 @@ a different claim and must not be reused as evidence for this one.
 
 ## Read next
 
+- [[brain-as-hard-drive|The Brain as a Special Kind of Hard Drive]]
+- [[neural-lace-podcast-s1e7-android-jones-2017|Neural Lace Podcast Episode 7 with Android Jones]]
 - [[brain-grid-theory|Brain Grid Theory]]
 - [[world-body-brain-semantic-coregistration|World-Body-Brain Co-Registration]]
 - [[neural-rendering|Neural Rendering]]
@@ -156,3 +203,4 @@ a different claim and must not be reused as evidence for this one.
 - [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]]
 - [[brain-as-rendering-engine|Brain as a Rendering Engine]]
 - [[napot-overview|NAPOT Overview]]
+- [[neural-lace-podcast-source-genealogy|Neural Lace Podcast Source Genealogy]]

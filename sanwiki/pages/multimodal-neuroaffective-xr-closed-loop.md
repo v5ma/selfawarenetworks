@@ -47,7 +47,7 @@ event, memory, or appraisal
 -> felt state, regulation, choice, or action
 ```
 
-SAN's additional proposal is that the distributed brain-body system registers the transition by
+SAN's additional proposal is that the distributed brain-body system [[neuroaffective-self-registration|registers the transition]] by
 being changed by it. Tonic activity supplies part of the current context; phasic differences alter
 that context; and recurrent interoceptive, neural, autonomic, and bodily loops make some changes
 available to feeling and action. No separate inner observer is introduced.

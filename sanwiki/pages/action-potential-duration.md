@@ -7,7 +7,7 @@ measure different properties.
 
 > **Scientific boundary:** Presynaptic spike duration and shape can alter calcium entry and transmitter release. They do not establish a universal APD code, a deterministic vesicle-count alphabet, or a direct APD-to-consciousness mechanism. SAN treats receiver-decodable information in waveform variation as a circuit-specific hypothesis.
 
-> **Image status:** The current replacement passed the bounded medical and source-operation review. It separates somatic from bouton measurement, APD from the full waveform, calcium transformation from probabilistic release, and presynaptic waveform from receiver-specific consequence. The earlier deterministic 0/1/2/3 plate is preserved outside the public build in the medical-review quarantine.
+> **Image status:** The current replacement is retained as a candidate. Its conditional structure has passed internal source-operation inspection, but final medical acceptance remains pending independent specialist review across cellular neurophysiology, synaptic physiology, neuroanatomy, and medical illustration. It separates somatic from bouton measurement, APD from the full waveform, calcium transformation from probabilistic release, and presynaptic waveform from receiver-specific consequence. The earlier deterministic 0/1/2/3 plate is preserved outside the public build in the medical-review quarantine.
 
 ![Action-potential duration is one waveform coordinate in a conditional synaptic transformation](../assets/generated/san/action-potential-duration/action-potential-duration-waveform-to-conditional-release-20260720-v1.png)
 
@@ -105,7 +105,7 @@ The original APD proposal developed in stages. Later language must not be backda
 | [July 17, 2022: cross-scale magnitude question](https://github.com/v5ma/selfawarenetworks/blob/0a364019d194e0d25795d28fe1ff5a41df28145f/a0115z.md) | The source asks whether constrained spike amplitude plus variable duration supplies a magnitude-like coordinate across scales. | EEG 1/f is a spectral power-frequency relation, not evidence for a universal APD law. |
 | [August 3, 2022: Action Potential Magnitude Effect](https://github.com/v5ma/selfawarenetworks/blob/b79351a4fe3667296952c483e6beb68732bf3865/a0053z.md) | Potassium-channel state, waveform, calcium, and release are joined into one candidate transmission-magnitude mechanism. | Duration alone is not magnitude, and broader is not always stronger. |
 | [August 10, 2022: umami and receptor-history application](https://github.com/v5ma/selfawarenetworks/blob/75b194fb97d2da09fb8bdd4130be98b910a72adb/a0272z.md) | Receptor-specific sensory history was proposed to alter channel state and output duration. | Umami transduction does not establish a characteristic APD symbol for recognition. |
-| [September 8, 2022: APD and multivesicular output](https://github.com/v5ma/selfawarenetworks/blob/26dddd6ff9be0e9460686611f7622cb7873d011a/a0007z.md) | APD-to-calcium-to-variable-release was linked to phase-output consequences. | The fixed 0/1/2/3 alphabet, apical-as-output anatomy, and direct phase-reset claim remain rejected. |
+| [September 8, 2022: APD and multivesicular output](https://github.com/v5ma/selfawarenetworks/blob/26dddd6ff9be0e9460686611f7622cb7873d011a/a0007z.md) | The source explored a receive-integrate-project chain in which dendritic input and recurrent state can shape somatic or axonal waveform, terminal calcium, probabilistic release, and downstream receiver-relative timing or routing. | Apical dendrites are input and recurrent-integration compartments, whereas axons and boutons project output. Vesicle counts are probabilistic rather than a fixed alphabet, and phase consequences require measurement rather than a universal direct reset. |
 | [November 28, 2022: whisker-state application](https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0296zWhisker.md) | Sensory input, membrane state, desynchronization, coincidence, and rendered tactile difference were joined. | This source does not demonstrate whisker novelty broadening a somatic or terminal spike. |
 | [January 4, 2024: mechanoreceptor-duration prediction](https://github.com/v5ma/selfawarenetworks/blob/bf6e02b538ad8c24460fbf63bbd380a4f9ef5eb3/a0011z.md) | Stronger or more distributed receptor activation was proposed to alter potassium state and APD. | This is a stimulus-specific experiment proposal, not established universal mechanoreceptor physiology. |
 | [June 16, 2025: coefficient-of-variation extension](https://github.com/v5ma/selfawarenetworks/blob/172e778a01b06357e5921d772f8ff18f9818a7d3/13san.md) | Recent duration variability was proposed as an input to the next receiver-relative update. | CV is a summary statistic, not a proven cellular controller or a complete PWD measure. |
@@ -116,11 +116,19 @@ The source was not merely saying that potassium channels affect spike width. It 
 **recognized, unusual, or behaviorally relevant input can leave a measurable signature in the
 waveform and its synaptic consequence**.
 
-Established studies support component steps. Recent conductance history can alter waveform; taste
-cell classes differ in action-potential duration and potassium currents; umami receptors activate
-specific intracellular calcium and depolarization pathways; and active whisking changes cortical
-membrane and population state. None of those results proves that recognition or surprise
-universally broadens a spike.
+Established studies support component steps. Recent conductance history can alter cortical-neuron
+waveform ([de Polavieja et al., 2005](https://doi.org/10.1523/JNEUROSCI.0242-05.2005)); rat taste
+receptor cells have shown fast and slow action potentials associated with different potassium-current
+magnitudes ([Chen et al., 1996](https://doi.org/10.1152/jn.1996.75.2.820)); and sweet, bitter, and
+umami transduction depends on shared PLCbeta2/TRPM5 signaling components
+([Zhang et al., 2003](https://doi.org/10.1016/S0092-8674(03)00071-0)). In bounded taste-cell
+preparations, umami stimuli have produced intracellular-calcium responses and oscillating
+depolarization with action potentials
+([Ninomiya et al., 2000](https://pubmed.ncbi.nlm.nih.gov/10736359/);
+[Nakao et al., 2022](https://doi.org/10.3389/fphys.2022.883372)). Active whisking also reduced
+nearby layer 2/3 barrel-cortex membrane-potential correlation and desynchronized population signals
+([Poulet and Petersen, 2008](https://doi.org/10.1038/nature07150)). None of those results proves that
+recognition or surprise universally broadens a spike.
 
 The medically accurate SAN prediction is narrower:
 

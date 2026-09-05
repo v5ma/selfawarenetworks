@@ -61,13 +61,17 @@ The defensible 2022 SAN genealogy is therefore:
 
 > Hebbian co-activity -> phase-aligned reinforcement and phase-separated cancellation -> LTP/LTD stabilization of timing relations -> coherence for coupling and splay/dispersion for differentiation -> Friston-related prediction and multiscale behavior -> SAN rendering, Neural Tuning, and PWD.
 
+### October 2022: oscillatory recruitment and separation
+
+[b0067ywhisper](https://github.com/v5ma/selfawarenetworks/blob/4ef2eebdc3dc01ba1ab2c64417be649186a741fd/b0067ywhisper.md), publicly Git-fixed October 29, 2022, describes unexpected excitation or inhibition perturbing a tonic oscillator, temporary subgroup synchronization or separation, gradual resettling, and repeated together-versus-apart activity changing later route readiness. Some literal biological claims in the recording are speculative. Its recoverable contribution is the operational sequence from timing difference, through temporary coupling or separation, to changed future recruitment.
+
 ### 2024: PWD rendering synthesis
 
 [02san](https://github.com/v5ma/selfawarenetworks/blob/64f018d2d93b7de6718058c4724c43b40e5dd4b7/02san.md), first Git-fixed September 6, 2024, is a human-AI dialogue and must be read by speaker. Micah's opening passage describes phase-wave-differential consequences propagating through both inhibitory and excitatory waves, says synchronized synapses are prepared to receive information, and proposes that breaks in synchronization carve a computed rendering. A later Micah-authored passage describes an oscillator difference being absorbed by the group with which it had been synchronized. AI-generated summaries elsewhere in the file are context, not Micah-authored source claims.
 
 ### 2025: explicit cross-framework synthesis
 
-[raynote16](https://github.com/v5ma/selfawarenetworks/blob/049381ed44008f3e32a259c4aaea6b3b389b60f9/raynote16.md), Git-fixed in January 2025, names Feynman and Friston together and explicitly connects splay-phase states, LTP-driven synchronization, and wave differences aligning or canceling. This is the clearest compact synthesis, but it should not be used to erase the component architecture already public in 2022.
+[raynote16](https://github.com/v5ma/selfawarenetworks/blob/049381ed44008f3e32a259c4aaea6b3b389b60f9/raynote16.md), Git-fixed in January 2025, names Feynman and Friston together and explicitly connects splay-phase states, LTP-driven synchronization, and wave differences aligning or canceling. Its authorship is not resolved by the file alone, so it is treated as a later repository synthesis rather than independent confirmation. It must not erase or backdate the component architecture already public in 2022.
 
 ## Required timing vocabulary
 
@@ -103,6 +107,17 @@ The tonic canvas is the ongoing receiver context at a declared scale. The phasic
 - entry into or exit from a locally coherent assembly.
 
 The useful distinction is therefore not activity versus silence. It is expected population organization versus a receiver-detectable difference that changes later processing.
+
+## Joining and leaving the active render
+
+SAN does not reduce consciousness to coherence. Its stronger current formulation is a selective joining-and-leaving process:
+
+1. A candidate pattern may remain active at weaker, local, or unconscious influence.
+2. Phase-compatible coupling, recurrent recruitment, and rising relative drive let it enter the active distributed render.
+3. Inhibition, detuning, structured dispersion, or loss of reciprocal influence let it leave that coalition without erasing the underlying memory or route.
+4. Choice is the changing functional topology through which one candidate becomes part of the current picture and one route gains sufficient influence to proceed toward action.
+
+The observer is not a separate viewer of this process. The temporarily coupled network is the active observer-action organization, while tonic context and structured boundaries make each recruited difference consequential. This joined wording integrates older SAN sources about inhibitory route selection, dominant PWD rhythms, virtual engrams, and weaker unconscious patterns. The complete formulation is a current synthesis and is not retroactively attributed to any one 2022 source.
 
 ## Plasticity boundary
 
@@ -171,6 +186,7 @@ Even positive results would establish a neural coordination mechanism before est
 
 - [[phase-wave-differentials]]
 - [[synaptic-plasticity]]
+- [[stdp]]
 - [[computational-phase-synchronization]]
 - [[tonic-phasic-phase-wave-differential]]
 - [[neural-tuning]]

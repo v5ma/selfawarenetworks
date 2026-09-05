@@ -41,9 +41,8 @@ The table records first recoverable source placement, not a claim that every mat
 
 ## Governing audit
 
-The claim-level review behind this page is:
-
-`[private local source path withheld]`
+The claim-level review behind this page is maintained in the Book 2 analysis corpus as
+`EARLY-SAN-GOLDEN-CORPUS-AND-FLOW-OF-INFORMATION-DONOR-AUDIT-B2-184.md`. It is not a public reader route.
 
 ## Read next
 

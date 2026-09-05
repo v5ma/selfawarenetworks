@@ -18,6 +18,10 @@ experiment may use a smaller measured subset, but it must not redefine that subs
 PWD construct. The event must travel along a declared biological route to a receiver that uses the
 distinction. It is not any waveform, phase offset, coherent pair, traveling wave, or field pattern.
 
+SAN's differentiated system includes waves of excitation, waves of inhibition, and their interaction;
+a particular measurement may expose one or both. It is the typed departure from the receiver's tonic pattern that matters, not excitation or inhibition taken alone.
+PWD does not abbreviate phase-wave excitation or phase-wave inhibition, and it is not silently defined as excitation minus inhibition.
+
 Historical SAN sources use PWD for several related intuitions: tonic canvas versus phasic update,
 communication through timing, neural rendering, dominant patterns, and observer content. Those
 source roles establish the genealogy of the term. They do not establish one universal phase code or

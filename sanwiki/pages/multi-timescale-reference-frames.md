@@ -2,7 +2,7 @@
 
 > **Evidence boundary:** Neural systems integrate information over many timescales, and oscillatory bands can be associated with different circuit states. A frequency band does not by itself determine a prediction horizon; observing sub-delta activity alone does not establish that years, centuries, or cultural trajectories are encoded by that activity.
 
-A reference frame must be maintained long enough for a receiver to compare new input with prior state. Different biological processes provide different forms of persistence: membrane and synaptic time constants, recurrent activity, short-term plasticity, neuromodulation, sequence replay, consolidation, and structural plasticity.
+A reference frame must be maintained long enough for a receiver to compare new input with prior state. Different biological processes provide different forms of persistence: membrane and synaptic time constants, recurrent activity, [[short-term-plasticity|short-term plasticity]], neuromodulation, sequence replay, consolidation, and structural plasticity.
 
 ## Timescale is not frequency
 

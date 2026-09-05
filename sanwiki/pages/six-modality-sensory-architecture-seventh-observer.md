@@ -53,10 +53,12 @@ what changes when one pathway is perturbed.
 
 ## Relation to GCS
 
-[[gamma-wave-consideration-sandwich|GCS]] is a separate historical proposal about sensory,
-contextual, action, and feedback timing. Its alpha, beta, and gamma assignments remain
-preparation-specific hypotheses. They cannot be used to restore the six-modality band table as a
-universal anatomy.
+[[gamma-wave-consideration-sandwich|GCS]] is a separate SAN proposal: alpha-associated
+primary-sensory-side input and beta-associated prefrontal thought/top-down input form its top bun;
+Layer-2/3 gamma performs consideration and proprioceptive coordination; and Layer-5 theta/gamma
+action output plus returned body input form its bottom bun. The model defines those functional
+assignments, but they remain nonexclusive and circuit-specific and cannot restore the six-modality
+band table as universal anatomy.
 
 ## Read next
 

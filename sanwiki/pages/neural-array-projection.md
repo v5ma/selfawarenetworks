@@ -13,11 +13,20 @@ status: governed
 > dendritic rings, and additive bottom row must not be used as anatomical evidence. A medically
 > bounded replacement prompt exists; image generation remains paused.
 
+> [!important] PWD is core to this operation, not a later extension
+> In SAN, a phase-wave differential (PWD) names the typed departure registered by a declared
+> receiver relative to a declared tonic or reference pattern as projection and transformation
+> unfold. The departure may be expressed through excitation, inhibition, or their interaction.
+> PWD is not excitation minus inhibition and is not a fifth stage added after an otherwise complete
+> receiver model.
+
 **Neural Array Projection** is SAN's name for a source population changing a target population
 through an anatomical projection, followed by receiver-specific transformation and recurrent
 update. The source pattern is not copied unchanged. The receiving cells combine the transmitted
 effects with their own learned structure, membrane state, inhibition, neuromodulation, concurrent
-inputs, and recent history.
+inputs, and recent history. Within SAN, that typed receiver-relative change is a PWD relation; the
+array-to-array operation is one biological realization of the core relation rather than a container
+that precedes it.
 
 ```text
 source-population state + learned source constraints
@@ -28,7 +37,8 @@ source-population state + learned source constraints
 -> recurrent feedback, later projection, or embodied action
 ```
 
-This receive-transform-project-update chain is the page's central operation. Calling its repeated
+This receive-transform-project-update chain is the page's central operation and one expression of
+PWD across declared source, pathway, target, and recurrent receivers. Calling its repeated
 population consequence a *rendering* is a SAN interpretation. Calling one neuron's output a
 complete tomographic image is not.
 
@@ -47,7 +57,7 @@ A source-faithful biological translation is:
 | A neuron projects its phase to an array. | Axonal events from a source cell or population alter a named target population; timing and phase may be measured relative to a declared reference. | A freestanding shaped wave carries the complete source state or percept. |
 | Each receiving neuron reports how much of a pattern it saw. | Each target cell produces a response conditioned by convergent input, learned synaptic and dendritic properties, inhibition, and current state. | A neuron literally sees, assigns a universal confidence score, or acts as an isolated observer. |
 | Arrays pass transformed representations. | Population activity in one circuit can predict or causally alter a selective subset of activity dimensions in another circuit. | Every anatomical projection implements the same transform or cortical-column algorithm. |
-| Each layer adds a delta of detail. | Recurrent stages may add, suppress, route, or re-express task-relevant information. | A fixed anatomical layer sequence performs a proven Fourier reconstruction. |
+| Each layer adds a delta of detail. | Recurrent stages may add, suppress, route, or re-express task-relevant information; in SAN these are typed departures relative to each declared receiver and reference. | A fixed anatomical layer sequence performs a proven Fourier reconstruction, or PWD is one arithmetic subtraction of excitation and inhibition. |
 | An oscillating group represents a 3D or 4D pattern. | SAN proposes that distributed, time-varying population relations contribute to an embodied spatial model. | One cell, column, frequency band, or regular lattice contains the complete experienced scene. |
 
 The useful innovation is therefore not *delivery alone*. It is the claim that projection and
@@ -74,14 +84,16 @@ target, pathway, time window, measured variables, and consequence.
 Several established findings make the receive-transform-project question legitimate without
 proving NAPOT:
 
-1. Action potentials normally initiate near the axon initial segment and propagate through axonal
-   branches toward presynaptic terminals
-   ([Stuart et al., 1997](https://pubmed.ncbi.nlm.nih.gov/9161987/)).
+1. In rat neocortical layer 5 pyramidal neurons in slices, action potentials initiated in the axon
+   before the soma and then propagated orthogradely through the axonal arbor and retrogradely into
+   the dendritic tree
+   ([Stuart et al., 1997](https://pubmed.ncbi.nlm.nih.gov/9457640/)).
 2. Presynaptic boutons along one axon can differ in release probability, and multivesicular release
    can emerge under higher-release-probability conditions in a defined hippocampal preparation
    ([Duerst et al., 2022](https://pubmed.ncbi.nlm.nih.gov/36253353/)).
-3. Dendritic location, active conductances, coincidence, and inhibition can make the receiving
-   transformation nonlinear ([Larkum, Zhu, and Sakmann, 1999](https://pubmed.ncbi.nlm.nih.gov/10360593/);
+3. In bounded rat neocortical and mouse visual-cortex preparations, dendritic location, active
+   conductances, coincidence, and inhibition can make the receiving transformation nonlinear
+   ([Larkum, Zhu, and Sakmann, 1999](https://pubmed.ncbi.nlm.nih.gov/10192334/);
    [Smith et al., 2013](https://pubmed.ncbi.nlm.nih.gov/24162850/)).
 4. Simultaneous macaque V1-V2 recordings showed that interareal population relations occupied a
    selective, low-dimensional communication subspace rather than reflecting every dominant source
@@ -92,7 +104,9 @@ proving NAPOT:
 
 These results support selective, state-dependent population communication. They do not establish
 that the brain performs literal projection-slice tomography, that phase is the exclusive carrier,
-or that the selected population relation is itself conscious.
+or that the selected population relation is itself conscious. They constrain candidate biological
+implementations of PWD; they do not make PWD a secondary concept that appears only after those
+components are assembled.
 
 ## Where the transformation occurs
 
@@ -115,31 +129,35 @@ circuits:
    change the next network and body state.
 
 Synaptic efficacy can have presynaptic and postsynaptic contributors. A bounded trans-synaptic
-mechanism also exists: spine enlargement mechanically enhanced exocytosis from a facing bouton in
-rat slice culture ([Ucar et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34707293/)). That result does
+mechanism also exists: spine enlargement mechanically enhanced evoked glutamate release from a
+facing bouton in rat slice culture ([Ucar et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34819666/)). That result does
 not mean a postsynaptic spine ordinarily programs every incoming presynaptic terminal.
 
 ## Three scales of the proposal
 
 | Scale | Medically bounded motif | SAN interpretation | Required warning |
 |---|---|---|---|
-| **Micro** | One neuron receives many synaptic effects, performs nonlinear integration, and distributes axonal consequences. | A candidate receive-integrate-project motif. | It is not tomography by one neuron, and one generic neuron does not directly receive every named feature or project to every named target. |
-| **Meso** | A local ensemble or circuit transforms population activity through recurrent excitation, inhibition, cell-type diversity, and state-dependent routing. | Multiple cellular motifs may jointly implement an array-to-array transformation. | A canonical laminar diagram is a teaching model, not a universal cortical circuit. |
-| **Macro** | Cortical, thalamic, hippocampal, striatal, cerebellar, brainstem, sensory, autonomic, and body loops exchange partial state. | Repeated transformations may contribute to a distributed working model and observer-action process. | No single region, array, or inner viewer contains or watches the complete render. |
+| **Micro** | One neuron receives many synaptic effects, performs nonlinear transformation, and distributes axonal consequences. | A candidate receive-transform-project-update operation in which the declared cell or compartment registers typed tonic-relative PWDs. | It is not tomography by one neuron, and one generic neuron does not directly receive every named feature or project to every named target. |
+| **Meso** | A local ensemble or circuit transforms population activity through recurrent excitation, inhibition, cell-type diversity, and state-dependent routing. | Multiple cellular motifs may jointly implement an array-to-array transformation whose receiving populations register and redistribute PWD relations. | A canonical laminar diagram is a teaching model, not a universal cortical circuit or a gamma-only PWD stage. |
+| **Macro** | Cortical, thalamic, hippocampal, striatal, cerebellar, brainstem, sensory, autonomic, and body loops exchange partial state. | Repeated PWD-bearing transformations may contribute to a distributed working model and observer-action process. | No single region, array, late-stage PWD box, or inner viewer contains or watches the complete render. |
 
 The scale must be declared every time *array*, *projection*, *rendering*, or *tomography* is used.
+Scale identifies the biological denominator of the claim; it does not rank PWD's architectural
+importance. PWD remains core across each declared receiver relation.
 
-## Established science and the SAN extension
+## Component science, core SAN architecture, and empirical tests
 
-| Evidence level | Claim |
+| Evidence role | Claim |
 |---|---|
 | **Established component science** | Axons project; boutons release probabilistically; dendrites integrate nonlinearly; source-target population relations can be selective, dynamic, and context dependent. |
-| **Supported SAN interpretation** | Array-to-array communication is better understood as an anatomical transmission followed by a receiver-specific transformation than as an unchanged copy. |
-| **Open SAN hypothesis** | Repeated transformations, including receiver-relative timing and phase relations, help construct and update a distributed embodied render used by perception, memory, decision, and action. |
-| **Stronger experimental claim** | A typed SAN model should predict target state and behavior better than rate, connectivity, or conventional population-subspace models alone. |
+| **Core SAN architectural interpretation** | Array-to-array communication is anatomical transmission followed by receiver-specific transformation rather than an unchanged copy; PWD names the typed departure of each declared receiver from its declared tonic or reference pattern. |
+| **Open empirical instantiation** | Particular timing, phase, waveform, duration, excitatory, inhibitory, and interaction variables implement reproducible PWD relations that help construct and update a distributed embodied render used by perception, memory, decision, and action. |
+| **Discriminating experimental claim** | A preregistered PWD feature set should predict target state and behavior better than matched rate, connectivity, receiver-state, or conventional population-subspace models alone. |
 
-This ladder preserves SAN's proposed contribution while preventing established component mechanisms
-from being presented as proof of the complete theory.
+These roles preserve SAN's architecture while preventing established component mechanisms from
+being presented as proof of the complete theory. Architectural rank and incremental empirical
+support are separate questions: failure of one candidate feature set would narrow that
+operationalization, not demote PWD to a secondary stage.
 
 ## A minimal source-to-receiver model
 
@@ -164,9 +182,12 @@ internal, autonomic, or motor consequence `z`:
 (s_(t+1), z_(t+1)) = R(s_t, y_(t+1), b_t; W_R)                  [3]
 ```
 
-Here `P`, `F_T`, and `R` are measured or fitted operators, not assumed brain modules. A PWD model
-may add timing, phase, waveform, duration, release, and receiver-reference variables to these
-operators. It earns explanatory value only if those variables improve held-out prediction.
+Here `P`, `F_T`, and `R` are measured or fitted operators, not assumed brain modules. PWD is not an
+extra operator appended to them: it names the typed departure registered by each declared receiver
+relative to its declared tonic or reference state as these operations unfold. A discriminating PWD
+feature set may parameterize timing, phase, waveform, duration, release, excitation, inhibition,
+their interaction, and receiver-reference variables. That particular feature set earns incremental
+empirical support only if it improves held-out prediction.
 
 ## Decisive experiment
 
@@ -177,12 +198,14 @@ stimulus and target context. Perturb a bounded subset of the source or pathway a
 2. a source population-subspace model;
 3. a source-plus-pathway model;
 4. a receiver-state model including dendritic, inhibitory, and recent-history variables; and
-5. a SAN extension adding receiver-relative PWD variables and recurrent consequences.
+5. the full receiver-state model with a preregistered PWD feature set that types receiver-relative
+   timing, waveform, excitatory, inhibitory, interaction, and recurrent-consequence variables.
 
 Evaluate held-out prediction of the target population, later routing, behavior, and motor output.
-The SAN extension gains support only if it predicts which source relations reach which target,
-how target context transforms them, and what later consequence follows better than the simpler
-models.
+All five models describe receiver relations; the fifth is not the stage where PWD enters the SAN
+architecture. The preregistered PWD feature set gains incremental empirical support only if it
+predicts which source relations reach which target, how target context transforms them, and what
+later consequence follows better than the simpler models.
 
 This formulation should be rejected or narrowed if:
 
@@ -193,6 +216,10 @@ This formulation should be rejected or narrowed if:
 - perturbing the proposed route does not change the predicted target relation or consequence; or
 - a claimed render is localized to one neuron or area rather than distributed across the measured
   system.
+
+Those outcomes would reject or narrow the tested PWD operationalization. They would not establish
+that PWD was architecturally secondary, because architecture and the incremental success of one
+measurement model are different claim types.
 
 ## Source chronology
 
@@ -220,7 +247,9 @@ This formulation should be rejected or narrowed if:
   not literal anatomy.
 - **November 28, 2022, later NAPOT synthesis:** [[gh-a0310z|a0310z]] and
   [[gh-a0325znapot6|a0325zNAPOT6]] extend the proposal across recurrent arrays, plasticity, memory,
-  inhibitory routing, and motor consequence. Those later joins are not backdated into 2012 or 2021.
+  excitatory and inhibitory differentiation, rendering, and motor consequence. In those sources,
+  PWD is a cross-scale core relation, not a late layer added after NAPOT. Those later joins are not
+  backdated into 2012 or 2021.
 
 ## Source custody
 
@@ -241,12 +270,17 @@ A future medically accurate figure should show a named biological source populat
 population connected by axons and boutons. It should distinguish presynaptic variables from target
 dendrites, inhibition, neuromodulation, recurrent input, and current population state. The target
 pattern must be visibly transformed rather than copied. A small scale inset should distinguish the
-micro cellular motif, meso population operation, and macro distributed loop.
+micro cellular motif, meso population operation, and macro distributed loop. At each scale, the
+figure should identify the declared receiver and tonic/reference pattern and depict PWD as a typed
+departure that may use excitation, inhibition, or their interaction.
 
 The figure must not use identical generic cortical columns, radiating interference rings, a literal
 image inside a dendrite, a one-neuron tomogram, a universal laminar circuit, or direct programming
 of all incoming boutons by postsynaptic spines. Its legend must distinguish established physiology
 from the proposed SAN interpretation.
+PWD must not be drawn as a gamma-only signal, excitation-only pulse, arithmetic excitation-minus-
+inhibition result, or final box downstream of an otherwise completed array transform. Any replacement
+containing biology must pass the SAN medical-grade image certification gate before acceptance.
 
 ## Read next
 
@@ -256,6 +290,7 @@ from the proposed SAN interpretation.
 - [[napot-overview|NAPOT Overview]]
 - [[napot-revision-genealogy|NAPOT Revision Genealogy]]
 - [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]]
+- [[phase-wave-differentials|Phase-Wave Differentials]]
 - [[distributed-phase-representations|Distributed Phase Representations]]
 - [[tonic-phasic-phase-wave-differential|Tonic Baseline, Phasic Update, and PWD]]
 - [[tonic-absorption-generative-reexpression|Tonic Absorption and Generative Re-expression]]

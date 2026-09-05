@@ -4,6 +4,14 @@
 
 > **Image status:** The earlier plate is preserved outside the website tree in the failed-medical-review archive. It is not publication-ready and is not displayed on this page. Its useful computational idea and its anatomical errors are documented below so a future replacement can preserve the source without repeating the error.
 
+> **Replacement image status:** The replacement plate below passed internal visual-neuroscience, neuroanatomy, and claim-boundary review on 2026-08-11. Independent specialist review remains open. It is an explanatory figure, not clinical evidence and not a claim that the brain literally implements a named computer-vision algorithm.
+
+![3D semantic segmentation: distributed grouping, identity, body relation, and action](/v5ma.github.io/wiki/assets/generated/san/3d-semantic-segmentation/3d-semantic-segmentation-distributed-grouping-20260811-v1.png)
+
+*The plate separates transformed retinal and body-relative evidence, recurrent grouping, interacting visual pathways, and the bounded SAN/NAPOT interpretation. Solid arrows mark established or bounded neuroscience; dashed arrows mark the open SAN interpretation.*
+
+[Open the full-resolution figure](/v5ma.github.io/wiki/assets/generated/san/3d-semantic-segmentation/3d-semantic-segmentation-distributed-grouping-20260811-v1.png)
+
 The useful SAN question is not whether cortex runs a named computer-vision algorithm. It is how
 distributed neural systems decide which changing features belong together, what those groupings
 mean, where they are relative to the body, and what the organism can do next.

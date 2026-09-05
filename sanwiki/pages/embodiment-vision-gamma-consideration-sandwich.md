@@ -1,13 +1,16 @@
-# Embodiment and Vision — Dendritic Rendering and the Gamma Consideration Sandwich
+# Embodiment and Vision — PWD, Dendritic Rendering, and the Gamma Consideration Sandwich
 
 ![Sight as an active recurrent render: medically corrected retinal pathway to posterior occipital V1, separate dorsal and ventral visual streams, motor commands, prediction, and modality-specific reafference](/v5ma.github.io/wiki/assets/generated/san/embodiment-vision-gcs-napot/sight-active-recurrent-render-20260713-v2.png)
 
 > [!abstract] Bounded synthesis
 > SAN proposes that visual, motor, proprioceptive, tactile, vestibular, and interoceptive feedback
-> continually update a distributed body-related state. A dendritic arbor can be modeled as a spatial
+> continually update a distributed body-related state. Phase-wave differential (PWD) is SAN's core
+> architecture for typing how a receiver's current pattern departs from its declared tonic pattern
+> through excitation, inhibition, or their interaction. A dendritic arbor can be modeled as a spatial
 > receive–transform–re-express field whose overlapping local basis functions form a Gaussian radial-
-> basis field (“splats” as visualization shorthand). The Gamma Consideration Sandwich (GCS) is the hypothesis that phase-structured laminar
-> activity regulates this update. None of these statements is yet an empirical SAN result.
+> basis field (“splats” as visualization shorthand). The Gamma Consideration Sandwich (GCS) is one
+> functional cortical model that uses PWD relations to regulate this update. None of these statements
+> is yet an empirical SAN result.
 
 This note preserves Micah Blumberg's July 2026 clarification and connects it to the dated SAN
 genealogy, established neuroscience components, discriminating alternatives, and falsifiable tests.
@@ -103,6 +106,14 @@ $$
 \Delta d_i^c(r,t)=d_i^c(r,t)-\bar d_i^c(r,t).
 $$
 
+> [!important] PWD is core SAN architecture
+> This scalar field is one local representation of a phase-wave differential, not its definition.
+> PWD is SAN's core term for a typed, receiver-relative departure from a declared tonic pattern.
+> That departure may be carried by excitation, inhibition, or their interaction; neither sign defines
+> PWD, and the equation above does not reduce it to excitation minus inhibition. The Gamma
+> Consideration Sandwich uses PWD relations in one functional cortical model. It does not contain,
+> define, or outrank PWD. See [[phase-wave-differentials]].
+
 > [!important] What “screen” means here
 > “Screen” means that the arbor has a spatially patterned physical state that is available to the
 > neuron's own nonlinear dynamics and changes later output. It does not mean that the neuron contains
@@ -155,10 +166,11 @@ time windows; the table cannot be copied unchanged to agranular motor cortex.
 
 | Role | Candidate population in target $T$ | Candidate band/relation | Required result |
 |---|---|---|---|
-| Sensory/thought context from source $S$ | Layer 4 input population | Alpha/beta; negative relation to Layer-2/3 gamma | $S\rightarrow T$ context precedes/overlaps the comparison and its perturbation shifts body-state error as preregistered. |
-| Motor-context/deep recurrence from source $M$ | Layer 5 excitatory population | Theta/gamma; positive relation to Layer-2/3 gamma | $M\rightarrow T$ follows the motor command/efference-copy event and changes with imposed sensorimotor delay. Established ascending relays still carry peripheral proprioceptive afference. |
+| Top-bun sensory input | Named primary-sensory thalamorecipient/cortical population | Alpha-associated | Sensory-side activity precedes or overlaps consideration, and its selective perturbation changes the declared sensory contribution. |
+| Top-bun thought/top-down input | Named prefrontal and feedback population | Beta-associated | Thought, goal, or expectation activity precedes or overlaps consideration, and its selective perturbation changes the declared top-down contribution. Do not assume every prefrontal area has a canonical granular Layer 4. |
+| Middle consideration and proprioceptive coordination | Layer 2/3 excitatory and inhibitory populations in target $T$ | Gamma-associated, including declared tonic relations and phasic departures | The interaction integrates sensory, thought, and body-state relations and predicts a delay-sensitive update beyond each input, rate, power, and raw-history baseline. |
+| Bottom-bun action output and body return | Layer-5 corticofugal populations plus separately traced ascending body pathways | Theta/gamma-associated action-side relation | The output follows the consideration event, changes with imposed sensorimotor delay, and produces a measurable action or vocal consequence. Established ascending relays carry peripheral proprioceptive/body input back into the loop. |
 | Local inhibitory timing | PV and other inhibitory interneurons in $T$ | No afferent carrier band assumed | Local inhibition may modulate gamma timing; PV interneurons are not the ascending proprioceptive channel. |
-| Comparison/update | Layer 2/3 excitatory population | Tonic gamma with phasic departures | The interaction precedes and predicts a delay-sensitive body-state update beyond each input, rate, power, and raw-history baselines. |
 
 Primate visual studies supply a preparation-specific comparator: feedforward influence tends toward
 theta/gamma and feedback toward alpha/beta. A layer-resolved test must compare the GCS table with
@@ -204,9 +216,9 @@ model. Other endpoints remain secondary until separately preregistered.
 
 | Date | Dated atom | Present role |
 |---|---|---|
-| **2011-08-24/28** | Self as a reinforced prediction pattern; awareness as expectation; no hidden observer. | Predictive embodied-self ancestor; strict public-date grade remains B until owner metadata is preserved in-repo. |
-| **2012-07-31** | Mirror vision changes brain/movement; movement changes the mirror image; the changed image returns through vision. | Explicit self-related sensory–motor feedback ancestor. |
-| **2012-08-23** | Mirror → visual cortex → motor cortex → movement → mirror → visual cortex. | Closed visuomotor loop. |
+| **2011-08-24 recorded / 2011-08-28 upload metadata** | [*The Self Is a Prediction*](https://www.youtube.com/watch?v=9IgcQ7wxfZA): self as a reinforced prediction pattern; awareness as expectation; no hidden observer. | Predictive embodied-self ancestor. The date pair is preserved in the governed source ledger, but strict public-date custody remains Grade B because the 2011 metadata is owner-held and the first verified public Git fixation is later. |
+| **2012-07-31** | [*Happiness Makeover with Brainwaves Orientation*](https://www.youtube.com/watch?v=884XHGlE0X0): mirror vision changes brain/movement; movement changes the mirror image; the changed image returns through vision. | Explicit self-related sensory–motor feedback ancestor. |
+| **2012-08-23 local / 08-24 UTC** | [*Inner Peace, Gratitude, and the Predictive Lens*](https://www.youtube.com/watch?v=QX-0ef31tAU): mirror → visual cortex → motor cortex → movement → mirror → visual cortex. | Closed visuomotor loop. |
 | **2017-04-11** | Spatial computation binds visual features into object and motion predictions. | Distributed spatial-predictive world-model ancestor. |
 | **2022-06 to 08** | Rendered multisensory sensorimotor body model; dendrite-as-sensor, axonal-output-as-display, bright/dark population-grid metaphors. | Mature receive/project/render architecture. |
 | **Public by 2024-01-04** | Cortical body-map magnification, body-attached directional self, distributed synaptic-configuration “pixels.” | Exact body-map/self/rendering bridge. |

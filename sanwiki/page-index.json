@@ -106,7 +106,9 @@
       "brain-as-rendering-engine",
       "3d-semantic-segmentation",
       "san-scale-ladder-and-claim-boundaries",
-      "napot"
+      "napot-overview",
+      "brain-as-hard-drive",
+      "neural-lace-podcast-s1e7-android-jones-2017"
     ],
     "archivePath": "pages/3d-neural-network-brain.md"
   },
@@ -376,6 +378,7 @@
     "xrRoomId": "san-action-potential",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "self-aware-networks",
       "receptive-inceptive-dendritic-projection",
       "synapse",
@@ -390,7 +393,8 @@
       "multi-vesicular-release",
       "synaptic-unreliability",
       "phase-wave-differential",
-      "napot-overview"
+      "napot-overview",
+      "magnetic-phase-field"
     ],
     "archivePath": "pages/action-potential.md"
   },
@@ -509,7 +513,8 @@
       "synaptic-unreliability",
       "oscillation-memory-reinstatement",
       "napot-overview",
-      "early-a0255-a0276-obscure-argument-map"
+      "early-a0255-a0276-obscure-argument-map",
+      "neural-spectra-event-duration-cross-scale-hypothesis"
     ],
     "archivePath": "pages/action-potential-magnitude-via-duration.md"
   },
@@ -540,7 +545,8 @@
       "plasticity-cluster-local-memory-update-substrate",
       "gh-a0101z",
       "gh-a0245z",
-      "gh-a0365z"
+      "gh-a0365z",
+      "magnetic-phase-field"
     ],
     "archivePath": "pages/action-potential-mitochondrial-reinforcement-hypothesis.md"
   },
@@ -611,6 +617,10 @@
       "phase-wave-differential",
       "napot"
     ],
+    "aliases": [
+      "Ion-Channel, Waveform, Release, and Dynamic Network State",
+      "Ion Channel Waveform Release Dynamic Network"
+    ],
     "path": "/v5ma.github.io/wiki/content/action-potential-waveform.md",
     "sourceFiles": [
       "/v5ma.github.io/wiki/content/action-potential-waveform.md"
@@ -624,12 +634,16 @@
       "stimulus-history-and-action-potential-waveform",
       "action-potential-magnitude-via-duration",
       "multi-vesicular-release",
+      "contextualized-spike-receiver-relative-transformation",
+      "synaptic-unreliability-mvr-2021",
+      "neural-lace-podcast-4-andre-watson",
       "membrane-potential",
       "phase-wave-differential",
       "tonic-phasic-phase-wave-differential",
       "information-theory-in-spiking",
       "oscillation-memory-reinstatement",
-      "napot-overview"
+      "napot-overview",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/action-potential-waveform.md"
   },
@@ -685,6 +699,7 @@
     "xrRoomId": "san-actions",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "body-model-as-control-surface",
       "phase-language-firewall",
       "comparison-evidence-is-not-biological-validation",
@@ -697,7 +712,8 @@
       "neural-array-projection-oscillation-tomography",
       "consideration-sandwich",
       "gamma-wave-consideration-sandwich",
-      "gamma-consideration-sandwich-diagram"
+      "gamma-consideration-sandwich-diagram",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/actions.md"
   },
@@ -1018,7 +1034,8 @@
       "conscious-awareness",
       "pattern-neurons",
       "senses",
-      "gh-gpt2023x"
+      "gh-gpt2023x",
+      "neuroaffective-self-registration"
     ],
     "archivePath": "pages/affective-computing.md"
   },
@@ -1099,7 +1116,8 @@
       "tonic-phasic-phase-wave-differential",
       "feedback-strange-loops-self-model",
       "criterial-causation",
-      "gh-b0306y"
+      "gh-b0306y",
+      "neuroaffective-self-registration"
     ],
     "archivePath": "pages/agency-valuation-action-feedback.md"
   },
@@ -1426,18 +1444,27 @@
   },
   {
     "slug": "alpha-wave-sensory-suppression",
-    "title": "Alpha Wave Sensory Suppression",
-    "summary": "This thalamo-cortical gating diagram shows how 8-12 Hz alpha power closes unattended sensory channels through thalamic reticular and layer-6 feedback, while alpha suppression opens attended cortex for gamma-band sensory rendering.",
+    "title": "Alpha Activity: Sensory-Side Input and Circuit-Specific Gating",
+    "summary": "This page preserves two related claims without collapsing them. In Micah Blumberg's **Gamma Consideration Sandwich (GCS)**, alpha-associated primary-sensory-side activity is one part of the input-side top bun. In established neuroscience, a",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "alpha",
+      "sensory-input",
+      "attention",
+      "gamma-consideration-sandwich",
+      "source-genealogy"
+    ],
+    "aliases": [
+      "Alpha Wave Sensory Suppression",
+      "Alpha Sensory-Side Input"
     ],
     "path": "/v5ma.github.io/wiki/content/alpha-wave-sensory-suppression.md",
     "sourceFiles": [
       "/v5ma.github.io/wiki/content/alpha-wave-sensory-suppression.md"
     ],
-    "xrRoomId": "san-alpha-wave-sensory-suppression",
-    "xrDeckId": "san-reader",
+    "xrRoomId": "san-wiki-alpha-wave-sensory-suppression",
+    "xrDeckId": "san-san",
     "related": [
       "self-aware-networks-theory",
       "napot-theory",
@@ -1779,6 +1806,7 @@
     "xrRoomId": "san-artificial-intelligence",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "artificial-neurology",
       "artificial-general-intelligence",
       "san-implementation-evidence-gates",
@@ -2023,7 +2051,7 @@
   {
     "slug": "astrocyte-cognition",
     "title": "Astrocyte Cognition",
-    "summary": "This astrocyte cognition diagram shows how tripartite synapses, gliotransmitter feedback, calcium-wave syncytia, gap junction coupling, ATP/metabolic control, and ion/transmitter bookkeeping help set the slow tonic canvas that biases phasic cortical-column bin",
+    "summary": "A source-faithful review of what astrocytes can contribute to local circuit state, memory access, stability, precision, affect, and the SAN hypothesis of a multicellular tonic context.",
     "topic": "san",
     "tags": [
       "san"
@@ -2036,48 +2064,20 @@
     "xrDeckId": "san-reader",
     "related": [
       "astrocytes",
+      "tripartite-synapse-multicellular-engram",
       "glial-cells",
-      "synaptic-connectivity-dynamics",
-      "neural-oscillations",
-      "olfactory-tripartite-circuit",
-      "gh-a0138zcalcium",
-      "neurotransmitter",
-      "atp",
-      "synaptic-computation-ltp",
-      "synaptic-ion-channel-tone",
-      "phasic-tonic-relationship",
-      "tonic-oscillation",
-      "tonic-oscillation-as-predictive-reference-frame",
-      "tonic-phasic-canvas-of-consciousness",
-      "criterial-causation-atp-neurons",
-      "cortical-column-oscillatory-collaboration",
-      "neural-oscillation-hierarchy",
-      "oscillation-memory-reinstatement",
-      "oscillatory-convergence-memory",
-      "theta-oscillations-background-scripts",
-      "ltp-bouton-synaptic-memory-traces",
-      "synaptic-molecular-complexity-ltp",
-      "napot-theory",
-      "napot-overview",
-      "coincidence-detection-neural-bit",
-      "gh-a0115z",
-      "gh-a0053z",
-      "neural-oscillation-synchrony-deviation",
-      "consciousness-as-oscillatory-feedback-loop",
-      "tonic-phasic-neural-oscillation",
-      "cortical-column-oscillatory-synchronization",
-      "oscillatory-binding-problem",
-      "consciousness-as-dissipative-self-organizing-system",
-      "brain-as-dissipative-system",
       "glial-modulation",
-      "gh-a0597z"
+      "oscillation-memory-reinstatement",
+      "tonic-phasic-canvas-of-consciousness",
+      "napot-theory",
+      "every-cell-chemical-neural-network"
     ],
     "archivePath": "pages/astrocyte-cognition.md"
   },
   {
     "slug": "astrocytes",
     "title": "Astrocytes",
-    "summary": "This image defines astrocytes as the physical glial cell substrate behind adjacent SAN pages on astrocyte cognition and glial modulation. It shows the cell's tripartite synapse contact, ion and transmitter bookkeeping, gap-junction calcium syncytium, vascular",
+    "summary": "A medically bounded overview of astrocyte anatomy and physiology, its 2017-2022 SAN genealogy, and the testable proposal that glial state contributes to multicellular tonic context.",
     "topic": "san",
     "tags": [
       "san"
@@ -2088,7 +2088,16 @@
     ],
     "xrRoomId": "san-astrocytes",
     "xrDeckId": "san-reader",
-    "related": [],
+    "related": [
+      "astrocyte-cognition",
+      "tripartite-synapse-multicellular-engram",
+      "glial-modulation",
+      "glial-cells",
+      "olfactory-tripartite-circuit",
+      "every-cell-chemical-neural-network",
+      "tonic-phasic-canvas-of-consciousness",
+      "napot-theory"
+    ],
     "archivePath": "pages/astrocytes.md"
   },
   {
@@ -2219,6 +2228,7 @@
     "xrRoomId": "san-attention",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "neural-path-selection-interneurons-choice",
       "neural-tuning",
       "attention-awareness-consciousness-triad",
@@ -2963,6 +2973,7 @@
     "xrRoomId": "san-backpropagation",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "neural-backpropagation",
       "neural-burst-backpropagation",
       "action-potential",
@@ -3690,8 +3701,8 @@
   },
   {
     "slug": "beta-wave-cognitive-output",
-    "title": "Beta Wave Cognitive Output",
-    "summary": "This diagram maps the page's core idea: beta-band activity as a visible output signature of active cognition, linking frequency context, cortical traveling waves, cross-frequency nesting, and EEG/BCI-style readout.",
+    "title": "Beta Wave Cognitive Output: Thought and Top-Down Input",
+    "summary": "In the SAN Gamma Consideration Sandwich, beta-associated prefrontal activity carries thought and top-down input into Layer-2/3 gamma consideration; it is not the final motor-output band.",
     "topic": "san",
     "tags": [
       "san"
@@ -3823,6 +3834,7 @@
     "xrRoomId": "san-biological-computation",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "bci-industry-landscape",
       "bci-instrument-atlas",
       "artificial-neurology",
@@ -3831,7 +3843,6 @@
       "cellular-oscillatory-tomography",
       "napot-overview",
       "san-scale-ladder-and-claim-boundaries",
-      "gh-02san",
       "gh-a0011z",
       "gh-a0138zcalcium",
       "gh-c0004x",
@@ -4281,11 +4292,17 @@
   },
   {
     "slug": "brain-as-hard-drive",
-    "title": "Brain As Hard Drive",
-    "summary": "The brain is not merely a biological processor but a read-write memory system — one that [[neural-lace]] technology aims to make externally addressable, enabling upload, download, and selective modification of cognitive and experiential content.",
+    "title": "The Brain as a Special Kind of Hard Drive",
+    "summary": "The verified 2017 Neural Lace proposal, its difference-only closed loop, three EEG-XR modes, later SAN lineage, and the boundary between biological reconstruction and literal file storage.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "source-genealogy",
+      "neural-lace",
+      "bci",
+      "neurofeedback",
+      "memory",
+      "medical-review"
     ],
     "path": "/v5ma.github.io/wiki/content/brain-as-hard-drive.md",
     "sourceFiles": [
@@ -4294,25 +4311,29 @@
     "xrRoomId": "san-brain-as-hard-drive",
     "xrDeckId": "san-reader",
     "related": [
-      "neural-lace",
-      "action-potential-waveform-encoding",
-      "non-invasive-brain-stimulation",
-      "self-aware-networks",
-      "entification",
-      "neural-lace-podcast",
-      "inter-brain-eeg-synchronization",
-      "gh-a0206z",
-      "brain-as-memory-prediction-machine"
+      "neural-lace-podcast-s1e7-android-jones-2017",
+      "3d-neural-network-brain",
+      "gh-nlp7",
+      "neural-lace-podcast-source-genealogy",
+      "brain-as-queryable-network",
+      "distributed-memory",
+      "neo-mind-cycle-neurofeedback-bci",
+      "neural-tuning",
+      "phase-wave-differentials",
+      "napot-overview"
     ],
     "archivePath": "pages/brain-as-hard-drive.md"
   },
   {
     "slug": "brain-as-hard-drive-vrma-2017",
-    "title": "Brain As Hard Drive Vrma 2017",
-    "summary": "The hard-drive analogy treats the brain as passive storage and the [connectome](connectome.md) as a fixed write-once medium where [engrams](engrams.md) and [Hebbian engrams](hebbian-engrams.md) persist as static address-and-data pairs. The 2017 talk uses this",
+    "title": "Brain as Hard Drive: Legacy VRMA 2017 Route Note",
+    "summary": "A preserved legacy route with a provenance correction: no independent VRMA 2017 source was attached, so the route now points to the verified June 2017 AWE article and Neural Lace Podcast Episode 7.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "legacy-route",
+      "provenance-correction",
+      "neural-lace"
     ],
     "path": "/v5ma.github.io/wiki/content/brain-as-hard-drive-vrma-2017.md",
     "sourceFiles": [
@@ -4322,27 +4343,10 @@
     "xrDeckId": "san-reader",
     "related": [
       "brain-as-hard-drive",
-      "self-aware-networks-theory",
-      "micah-blumberg",
-      "nervegear-show-2017",
-      "neural-lace-ar-vr-no-glasses-2017",
-      "mind-code-brain-code-alphago-2017",
-      "neural-lace-podcast-four-episodes-index-2017",
-      "connectome",
-      "engrams",
-      "hebbian-engrams",
-      "self-activating-content-addressable-memory",
-      "memory-wave-recontextualization",
-      "oscillation-memory-reinstatement",
-      "self-aware-network",
-      "traveling-waves-neural-oscillations",
-      "memory-prediction-as-intelligence",
-      "neural-drift-virtual-engrams",
-      "life-as-memory-prediction",
-      "attractor-memory",
-      "memory-as-probability-distribution",
-      "brain-as-queryable-network",
-      "brain-as-fractal-of-modules"
+      "neural-lace-podcast-s1e7-android-jones-2017",
+      "3d-neural-network-brain",
+      "neural-lace-podcast-source-genealogy",
+      "gh-nlp7"
     ],
     "archivePath": "pages/brain-as-hard-drive-vrma-2017.md"
   },
@@ -5811,6 +5815,8 @@
     "xrRoomId": "san-canvas-is-the-receiver",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "phase-wave-differential-calculus",
       "tonic-phasic-canvas",
       "tonic-oscillation-as-predictive-reference-frame",
       "observer-mechanism",
@@ -6014,8 +6020,9 @@
     "xrRoomId": "san-category-theory-neuroscience",
     "xrDeckId": "san-reader",
     "related": [
-      "gh-a0613z",
+      "phase-wave-differentials",
       "phase-wave-differential-calculus",
+      "gh-a0613z",
       "neural-phase-trajectories-taylor-series-proposal",
       "ndca-nonlinear-differential-continuous-approximation",
       "category-theory",
@@ -6376,7 +6383,9 @@
       "gh-a0249z",
       "gh-a0270z",
       "gh-b0272ydone",
-      "gh-b0125ygpt"
+      "gh-b0125ygpt",
+      "electrical-synapse",
+      "retrograde-signaling"
     ],
     "archivePath": "pages/chemical-synapse.md"
   },
@@ -6522,7 +6531,8 @@
       "criterial-causation",
       "attention",
       "volition",
-      "latent-pattern-conscious-rendering-transition"
+      "latent-pattern-conscious-rendering-transition",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/choice.md"
   },
@@ -6732,6 +6742,7 @@
     "related": [
       "phase-wave-differentials",
       "synaptic-plasticity",
+      "stdp",
       "computational-phase-synchronization",
       "tonic-phasic-phase-wave-differential",
       "neural-tuning",
@@ -6861,7 +6872,8 @@
       "tonic-phasic-canvas",
       "phase-wave-differentials",
       "napot-overview",
-      "san-scale-ladder-and-claim-boundaries"
+      "san-scale-ladder-and-claim-boundaries",
+      "electrical-synapse"
     ],
     "archivePath": "pages/coincidence-detection.md"
   },
@@ -8214,6 +8226,7 @@
       "machine-agency-consciousness-welfare-evidence-program",
       "tonic-phasic-canvas",
       "phase-wave-differentials",
+      "home",
       "neural-array-projection-oscillation-tomography",
       "machine-self-report-active-canvas-consciousness-test",
       "san-knowledge-graph",
@@ -8222,7 +8235,8 @@
       "neural-rendering-of-qualia",
       "san-scale-ladder-and-claim-boundaries",
       "phase-language-firewall",
-      "screen-metaphor-no-inner-viewer"
+      "screen-metaphor-no-inner-viewer",
+      "san-wiki-evidence-to-certification"
     ],
     "archivePath": "pages/consciousness-claim-and-evidence-ladder.md"
   },
@@ -8369,7 +8383,7 @@
   {
     "slug": "consideration-sandwich",
     "title": "Consideration Sandwich: Historical SAN Formulation",
-    "summary": "The source-faithful history of Micah Blumberg's consideration-sandwich metaphor and its current interpretation as a circuit-specific sensory-context-choice-action-return hypothesis rather than a literal alpha-beta-gamma anatomy map.",
+    "summary": "The source-faithful history of SAN's two-bun formulation: alpha primary-sensory and beta prefrontal thought/top-down input above Layer-2/3 gamma consideration and proprioceptive coordination, with Layer-5 theta/gamma action-and-body traffic below.",
     "topic": "san",
     "tags": [
       "san",
@@ -8493,6 +8507,7 @@
       "tonic-phasic-phase-wave-differential",
       "continuous-dynamics-discrete-neural-information",
       "action-potential-phase-space",
+      "action-potential-waveform",
       "electrochemical-to-phase-graph-transformation",
       "receptor-to-phase-sensory-quantification",
       "recorder-transcript-human-source-atom-map-t07"
@@ -10569,7 +10584,8 @@
     "related": [
       "gamma-wave-consideration-sandwich",
       "neural-oscillation-hierarchy",
-      "computational-phase-synchronization"
+      "computational-phase-synchronization",
+      "neural-spectra-event-duration-cross-scale-hypothesis"
     ],
     "archivePath": "pages/cross-scale-oscillation-communication.md"
   },
@@ -11733,7 +11749,8 @@
       "neural-backpropagation",
       "action-potential",
       "neural-tuning",
-      "phase-wave-differentials"
+      "phase-wave-differentials",
+      "retrograde-signaling"
     ],
     "archivePath": "pages/dendritic-spike.md"
   },
@@ -14270,7 +14287,8 @@
       "neo-mind-cycle-neurofeedback-bci",
       "bci-instrument-atlas",
       "memory-state-drift-virtual-mind",
-      "artificial-neurology-states-stages-development"
+      "artificial-neurology-states-stages-development",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/early-a0333-a0351-obscure-argument-map.md"
   },
@@ -14855,6 +14873,41 @@
     "archivePath": "pages/early-b-series-golden-corpus-map.md"
   },
   {
+    "slug": "early-san-facebook-genealogy-2010-2013",
+    "title": "Early SAN Facebook Genealogy, 2010-2013",
+    "summary": "Twenty-four SAN-relevant public Facebook stages from 2010-2013, preserved as historical formulations and connected without backdating to later SAN concepts.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "genealogy",
+      "provenance",
+      "history",
+      "facebook",
+      "source-recovery",
+      "neural-rendering",
+      "prediction",
+      "oscillation"
+    ],
+    "path": "/v5ma.github.io/wiki/content/early-san-facebook-genealogy-2010-2013.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/early-san-facebook-genealogy-2010-2013.md"
+    ],
+    "xrRoomId": "san-early-san-facebook-genealogy-2010-2013",
+    "xrDeckId": "san-reader",
+    "related": [
+      "san-dynamic-timeline",
+      "san-claim-genealogy-2011-2022",
+      "neural-rendering",
+      "napot-overview",
+      "distributed-executive-function",
+      "memory-as-regenerable-pattern",
+      "artificial-neurology",
+      "self-aware-networks",
+      "home"
+    ],
+    "archivePath": "pages/early-san-facebook-genealogy-2010-2013.md"
+  },
+  {
     "slug": "eds",
     "title": "EDS — Expert Data Structure",
     "summary": "The packet recovers ten Lane A evidence quotations across nine sources in the `selfawarenetworks` GitHub clone, and the EDS coinage appears verbatim across the white-paper line. The earliest acronym-form mention in the packet is `a0131z--md`, line 3 ([on githu",
@@ -15159,7 +15212,7 @@
   {
     "slug": "eeg-frequency-bands",
     "title": "EEG Frequency Bands",
-    "summary": "This plate shows the SAN reading of EEG bands as coupled carriers in one oscillator hierarchy: slow delta/theta reference waves, alpha gating, beta output, gamma content bursts, theta-gamma nesting, and DPWDR onset as the measurable dominant phase-wave event.",
+    "summary": "A medically bounded guide to EEG bands and SAN's proposed GCS roles: alpha primary-sensory input, beta prefrontal thought/top-down input, Layer-2/3 gamma consideration and proprioceptive coordination, and Layer-5 theta/gamma action-and-body traffic.",
     "topic": "san",
     "tags": [
       "san"
@@ -15393,6 +15446,34 @@
     "archivePath": "pages/eeg-xr-neurofeedback-bci.md"
   },
   {
+    "slug": "electrical-synapse",
+    "title": "Electrical Synapses",
+    "summary": "A source-faithful bridge between established electrical-synapse physiology and SAN's proposal that direct local coupling can contribute to coordinated receiver states.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "neuroscience",
+      "synapse",
+      "gap-junction",
+      "oscillation",
+      "coincidence"
+    ],
+    "path": "/v5ma.github.io/wiki/content/electrical-synapse.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/electrical-synapse.md"
+    ],
+    "xrRoomId": "san-electrical-synapse",
+    "xrDeckId": "san-reader",
+    "related": [
+      "gap-junction",
+      "synapse",
+      "chemical-synapse",
+      "coincidence-detection",
+      "neural-oscillations"
+    ],
+    "archivePath": "pages/electrical-synapse.md"
+  },
+  {
     "slug": "electrical-valence-receiver-relative-drive",
     "title": "Electrical Valence: A SAN Hypothesis About Receiver-Relative Drive",
     "summary": "A source-faithful clarification of Electrical Valence as SAN's proposed name for receiver-relative effective drive, not affective valence, a measured field-power quantity, or the energy used by muscle.",
@@ -15611,11 +15692,15 @@
   },
   {
     "slug": "embodiment-vision-gamma-consideration-sandwich",
-    "title": "Embodiment and Vision — Dendritic Rendering and the Gamma Consideration Sandwich",
-    "summary": "This source-bounded synthesis connects distributed sensorimotor rendering, dendritic integration, body maps, and the Gamma Consideration Sandwich while separating established anatomy from SAN hypotheses and causal tests.",
+    "title": "Embodiment and Vision — PWD, Dendritic Rendering, and the Gamma Consideration Sandwich",
+    "summary": "A source-bounded synthesis of core PWD architecture, distributed sensorimotor rendering, dendritic integration, body maps, and GCS as one PWD-using cortical model, with established components separated from SAN hypotheses and decisive tests.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "pwd",
+      "gcs",
+      "embodiment",
+      "dendritic-rendering"
     ],
     "path": "/v5ma.github.io/wiki/content/embodiment-vision-gamma-consideration-sandwich.md",
     "sourceFiles": [
@@ -15624,6 +15709,7 @@
     "xrRoomId": "san-embodiment-vision-gamma-consideration-sandwich",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
       "san-paper-v2-revision-brief",
       "gamma-consideration-sandwich-diagram",
       "agency-valuation-action-feedback",
@@ -15771,7 +15857,8 @@
       "cellular-oscillating-tomography",
       "gh-b0252y",
       "neural-array-projection",
-      "fractal-consciousness"
+      "fractal-consciousness",
+      "neuroaffective-self-registration"
     ],
     "archivePath": "pages/emotions-as-spatiotemporal-patterns.md"
   },
@@ -15950,17 +16037,25 @@
       "phase-wave-differential",
       "neural-array-projection",
       "oscillatory-binding",
-      "agentic-viewpoint"
+      "agentic-viewpoint",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/entification.md"
   },
   {
     "slug": "entification-observer-problem",
     "title": "Entification and the Distributed Observer",
-    "summary": "SAN asks how a distributed physical system becomes a coordinated observer operation: it detects changes in its own tonic field-cell state, uses those differences to select actions, and is changed by the returning consequences. The observer is sparse and distri",
+    "summary": "SAN's source-grounded operational account of how differentiated recurrent processes may become one bounded observer-action system.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "entification",
+      "distributed-observer",
+      "pwd",
+      "napot",
+      "embodiment",
+      "self-model",
+      "identity-thesis"
     ],
     "path": "/v5ma.github.io/wiki/content/entification-observer-problem.md",
     "sourceFiles": [
@@ -15969,28 +16064,47 @@
     "xrRoomId": "san-entification-observer-problem",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "tonic-phasic-phase-wave-differential",
+      "napot-overview",
+      "gamma-wave-consideration-sandwich",
+      "detection-rendering-interlace",
+      "perceptual-screen-neural-rendering",
       "field-cell-self-bioelectric-information-entity",
+      "self-aware-network",
+      "self-aware-networks",
+      "feedback-strange-loops-self-model",
+      "artificial-neurology",
+      "neural-path-selection-interneurons-choice",
+      "voluntary-shared-cognitive-environment-retained-personhood",
+      "gh-a0051z",
+      "gh-a0072z",
+      "gh-a0632z",
+      "gh-a0119z",
+      "gh-a0239z",
+      "gh-a0482z",
       "gh-a0166z",
       "gh-a0404z",
-      "gh-a0417z",
-      "gh-a0482z",
-      "gh-a0239z",
-      "gh-a0499z",
-      "gh-a0500z",
-      "early-a0156-a0502-obscure-argument-map",
       "gh-a0547z",
       "gh-a0552z",
-      "gh-a0539z",
-      "self-aware-networks",
-      "early-a0531-a0561-obscure-argument-map",
-      "voluntary-shared-cognitive-environment-retained-personhood",
-      "multimodal-neuron-signal-correlate-channel",
-      "neural-path-selection-interneurons-choice",
-      "perceptual-screen-neural-rendering",
-      "detection-rendering-interlace",
-      "flow-of-information-in-the-brain",
-      "napot-revision-genealogy",
-      "early-a0397-a0419-obscure-argument-map"
+      "gh-a0137z",
+      "gh-a0079z",
+      "gh-a0115z",
+      "gh-a0238z",
+      "gh-map-napot",
+      "gh-a0001z",
+      "gh-a0319z",
+      "gh-a0417z",
+      "gh-a0003z",
+      "gh-03san",
+      "gh-08san",
+      "gh-09san",
+      "gh-13san",
+      "gh-a0539z"
+    ],
+    "aliases": [
+      "Entification",
+      "Distributed Observer"
     ],
     "archivePath": "pages/entification-observer-problem.md"
   },
@@ -16817,10 +16931,16 @@
   {
     "slug": "field-cell-self-bioelectric-information-entity",
     "title": "The Field-Cell Self: A Bioelectric Information Entity",
-    "summary": "How can distributed living tissue itself maintain one changing perspective that senses, remembers, predicts, acts, and recognizes its own continuing state?",
+    "summary": "SAN's source-grounded field-cell identity hypothesis, with explicit electric, magnetic, cellular, PWD, embodiment, evidence, and failure boundaries.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "field-cell-self",
+      "bioelectricity",
+      "pwd",
+      "entification",
+      "embodiment",
+      "identity-thesis"
     ],
     "path": "/v5ma.github.io/wiki/content/field-cell-self-bioelectric-information-entity.md",
     "sourceFiles": [
@@ -16829,16 +16949,39 @@
     "xrRoomId": "san-field-cell-self-bioelectric-information-entity",
     "xrDeckId": "san-reader",
     "related": [
-      "conscious-episode-diachronic-self-continuity",
-      "feedback-strange-loops-self-model",
+      "phase-wave-differentials",
+      "self-aware-network",
       "entification-observer-problem",
+      "napot-overview",
+      "gamma-wave-consideration-sandwich",
       "perceptual-screen-neural-rendering",
+      "feedback-strange-loops-self-model",
+      "conscious-episode-diachronic-self-continuity",
       "tonic-phasic-phase-wave-differential",
       "receptive-inceptive-dendritic-projection",
       "memory-state-drift-virtual-mind",
       "theory-of-redness",
       "napot-revision-genealogy",
       "machine-self-report-active-canvas-consciousness-test",
+      "self-aware-networks",
+      "artificial-neurology",
+      "gh-a0051z",
+      "gh-a0072z",
+      "gh-a0339z",
+      "gh-a0194z",
+      "gh-a0166z",
+      "gh-a0091z",
+      "gh-a0360z",
+      "gh-a0404z",
+      "gh-a0001z",
+      "gh-a0417z",
+      "gh-a0443z",
+      "gh-a0445z",
+      "gh-a0310z",
+      "gh-a0319z",
+      "gh-01san",
+      "gh-03san",
+      "gh-13san",
       "gh-a0139z",
       "gh-a0137z",
       "early-a0180-a0197-obscure-argument-map",
@@ -16848,8 +16991,11 @@
       "early-a0457-a0481-obscure-argument-map",
       "early-a0135-a0155-obscure-argument-map",
       "neural-phase-trajectories-taylor-series-proposal",
-      "voluntary-shared-cognitive-environment-retained-personhood",
-      "self-aware-networks"
+      "voluntary-shared-cognitive-environment-retained-personhood"
+    ],
+    "aliases": [
+      "Field-Cell Self",
+      "Bioelectric Information Entity"
     ],
     "archivePath": "pages/field-cell-self-bioelectric-information-entity.md"
   },
@@ -16992,6 +17138,7 @@
     "xrRoomId": "san-flow-of-information-in-the-brain",
     "xrDeckId": "san-reader",
     "related": [
+      "home",
       "synaptic-unreliability-mvr-2021",
       "recursive-neural-array-perception",
       "brain-interface-bci-map",
@@ -18665,7 +18812,8 @@
       "gh-veca",
       "gh-vecc",
       "gh-vecd",
-      "latent-pattern-conscious-rendering-transition"
+      "latent-pattern-conscious-rendering-transition",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/functional-connectivity.md"
   },
@@ -18830,7 +18978,7 @@
   {
     "slug": "gamma-consideration-sandwich-diagram",
     "title": "Gamma Consideration Sandwich Figure Specification",
-    "summary": "A source-bounded specification for a future medically accurate GCS figure; no accepted figure currently exists and image generation is paused.",
+    "summary": "A source-bounded specification for a medically accurate two-bun GCS figure with alpha sensory and beta prefrontal input, Layer-2/3 gamma consideration and proprioceptive coordination, and Layer-5 theta/gamma action-and-body traffic.",
     "topic": "san",
     "tags": [
       "san",
@@ -18936,14 +19084,17 @@
   {
     "slug": "gamma-wave-consideration-sandwich",
     "title": "Gamma Wave Consideration Sandwich",
-    "summary": "A source-faithful SAN timing-and-routing hypothesis connecting sensory and body evidence, maintained context, selective consideration, action, and returned consequence without assigning one universal role to alpha, beta, or gamma.",
+    "summary": "A bounded PWD-using cortical model: alpha primary-sensory and beta prefrontal thought/top-down input; Layer-2/3 gamma consideration and proprioceptive coordination; Layer-5 theta/gamma action output and returned body evidence.",
     "topic": "san",
     "tags": [
       "san",
       "gamma-consideration-sandwich",
       "oscillations",
       "neural-tuning",
-      "sensorimotor-loop"
+      "sensorimotor-loop",
+      "phase-wave-differential",
+      "pwd-using-model",
+      "bounded-cortical-model"
     ],
     "path": "/v5ma.github.io/wiki/content/gamma-wave-consideration-sandwich.md",
     "sourceFiles": [
@@ -18952,6 +19103,9 @@
     "xrRoomId": "san-gamma-wave-consideration-sandwich",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "home",
+      "self-aware-networks-theory",
       "phase-language-firewall",
       "body-model-as-control-surface",
       "san-scale-ladder-and-claim-boundaries",
@@ -18960,7 +19114,6 @@
       "flow-of-information-in-the-brain",
       "neural-tuning",
       "tonic-phasic-phase-wave-differential",
-      "phase-wave-differentials",
       "neural-path-selection-interneurons-choice",
       "electrical-valence-receiver-relative-drive",
       "oscillatory-feedback-circuits",
@@ -19053,7 +19206,8 @@
       "consciousness",
       "conscious-awareness",
       "attention",
-      "criterial-causation"
+      "criterial-causation",
+      "electrical-synapse"
     ],
     "archivePath": "pages/gap-junction.md"
   },
@@ -19311,11 +19465,22 @@
   },
   {
     "slug": "gh-02san",
-    "title": "Gh 02San",
-    "summary": "(Note [[selfawarenetworks-gpt|Self Aware Networks GPT]] is trained on about 1/3 of my notes, which is all I could fit, but it's insights reflect what I have written combined with the general knowledge of humanity as extracted by ChatGPT.)",
+    "title": "02san Source Record",
+    "summary": "Historical September 6, 2024 Micah Blumberg and Self Aware Networks GPT dialogue preserving Micah's tonic-relative PWD source claims separately from assistant commentary, with PWD core rank, bounded component science, and corrected fixation-versus-revision provenance.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "source-record",
+      "historical-dialogue",
+      "speaker-attribution",
+      "phase-wave-differential",
+      "source-faithful",
+      "assistant-output-boundary",
+      "primary-science-boundary",
+      "core-san-architecture",
+      "tonic-reference",
+      "receiver-relative",
+      "source-genealogy"
     ],
     "path": "/v5ma.github.io/wiki/content/gh-02san.md",
     "sourceFiles": [
@@ -19324,8 +19489,9 @@
     "xrRoomId": "san-gh-02san",
     "xrDeckId": "san-reader",
     "related": [
-      "selfawarenetworks-gpt",
       "phase-wave-differentials",
+      "phase-wave-differential-calculus",
+      "selfawarenetworks-gpt",
       "attention",
       "biological-computation",
       "tonic-oscillation",
@@ -19673,10 +19839,10 @@
     "xrRoomId": "san-gh-13san",
     "xrDeckId": "san-reader",
     "related": [
-      "biological-computation",
       "phase-wave-differentials",
-      "information-rarity",
       "phase-wave-differential-calculus",
+      "biological-computation",
+      "information-rarity",
       "action-potential-magnitude-via-duration",
       "coincidence-as-a-bit",
       "neural-magnification",
@@ -19710,6 +19876,7 @@
     "xrRoomId": "san-gh-a0001z",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "advaita-vedanta",
       "gh-a0206z",
       "action-potential",
@@ -19723,7 +19890,8 @@
       "tonic-oscillation",
       "gh-a0232z",
       "attention-schema",
-      "attention"
+      "attention",
+      "napot-revision-genealogy"
     ],
     "aliases": [
       "a0001z"
@@ -19883,7 +20051,8 @@
       "attention-schema",
       "acetylcholine",
       "amygdala",
-      "gh-a0001z"
+      "gh-a0001z",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0007z.md"
   },
@@ -20897,7 +21066,8 @@
       "start-here",
       "cytoskeletal-signal-routing",
       "agentic-viewpoint",
-      "dominant-phase-wave-differential-rhythm"
+      "dominant-phase-wave-differential-rhythm",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0043z.md"
   },
@@ -22981,7 +23151,8 @@
     "xrDeckId": "san-reader",
     "related": [
       "dendrite",
-      "neural-array-projection"
+      "neural-array-projection",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0136z.md"
   },
@@ -23003,7 +23174,8 @@
       "attention",
       "neural-ensemble-phase-reset-communication",
       "start-here",
-      "oscillator-level-awareness"
+      "oscillator-level-awareness",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0137z.md"
   },
@@ -23094,7 +23266,8 @@
       "start-here",
       "gh-a0079z",
       "gh-a0084z",
-      "gh-a0089z"
+      "gh-a0089z",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0141z.md"
   },
@@ -23556,7 +23729,8 @@
       "start-here",
       "gh-a0079z",
       "gh-a0084z",
-      "gh-a0089z"
+      "gh-a0089z",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0159z.md"
   },
@@ -24665,10 +24839,12 @@
     "xrRoomId": "san-gh-a0206z",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "actions",
       "dendrite",
       "action-potential-magnitude",
-      "tonic-oscillation"
+      "tonic-oscillation",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/gh-a0206z.md"
   },
@@ -25631,7 +25807,8 @@
     "xrDeckId": "san-reader",
     "related": [
       "atp",
-      "action-potential"
+      "action-potential",
+      "magnetic-phase-field"
     ],
     "archivePath": "pages/gh-a0245z.md"
   },
@@ -26698,7 +26875,8 @@
       "multimodal-integration",
       "auditory-cortex",
       "sparse-distributed-memory",
-      "sparse-distributed-representation"
+      "sparse-distributed-representation",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0287zstar.md"
   },
@@ -26759,7 +26937,8 @@
       "oscillatory-neural-coupling",
       "brainwaves",
       "neuroimaging-next-generation",
-      "oscillatory-phase-coding"
+      "oscillatory-phase-coding",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0288zslow.md"
   },
@@ -27169,7 +27348,8 @@
       "gh-a0206z",
       "augmented-reality",
       "neural-array-projection",
-      "tonic-oscillation"
+      "tonic-oscillation",
+      "napot-revision-genealogy"
     ],
     "aliases": [
       "a0306z"
@@ -27276,7 +27456,8 @@
       "fractal-pattern",
       "neural-oscillations",
       "gh-a0206z",
-      "gh-a0288zslow"
+      "gh-a0288zslow",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0310z.md"
   },
@@ -27634,7 +27815,8 @@
       "neural-array-projection",
       "thalamocortical-network",
       "auditory-cortex",
-      "amygdala"
+      "amygdala",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0325znapot6.md"
   },
@@ -27910,7 +28092,8 @@
       "neural-array-projection",
       "actions",
       "gh-a0206z",
-      "self-aware-network"
+      "self-aware-network",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0337z.md"
   },
@@ -28249,7 +28432,8 @@
       "start-here",
       "gh-05san",
       "neurotransmitters",
-      "gh-a0321z"
+      "gh-a0321z",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-a0348z.md"
   },
@@ -28565,7 +28749,8 @@
     "related": [
       "dendrite",
       "atp",
-      "choice"
+      "choice",
+      "magnetic-phase-field"
     ],
     "archivePath": "pages/gh-a0365z.md"
   },
@@ -32401,7 +32586,8 @@
     "xrDeckId": "san-reader",
     "related": [
       "atp",
-      "tonic-oscillation"
+      "tonic-oscillation",
+      "magnetic-phase-field"
     ],
     "archivePath": "pages/gh-a0617z.md"
   },
@@ -34082,6 +34268,7 @@
     "xrRoomId": "san-gh-b0049y",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "neural-array-projection",
       "neural-oscillations",
       "inhibitory-interneurons",
@@ -40589,6 +40776,7 @@
     "xrRoomId": "san-gh-draft1",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "agentic-brain",
       "gh-a0001z",
       "neural-array-projection",
@@ -41179,7 +41367,8 @@
       "phase-wave-differentials",
       "gh-c0004x",
       "criterial-causation",
-      "auditory-cortex"
+      "auditory-cortex",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-hex-7.md"
   },
@@ -41916,7 +42105,8 @@
       "artificial-cortex",
       "micah-blumberg",
       "criterial-causation",
-      "artificial-general-intelligence"
+      "artificial-general-intelligence",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/gh-notebookml-6-collection.md"
   },
@@ -45828,7 +46018,8 @@
       "start-here",
       "illusion-of-choice",
       "integrated-information-theory",
-      "micah-blumberg"
+      "micah-blumberg",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/gh-resnote04.md"
   },
@@ -46694,7 +46885,8 @@
       "gh-a0215z",
       "neural-coincidence-patterns",
       "gh-a0258z",
-      "scale-invariant-causation"
+      "scale-invariant-causation",
+      "napot-revision-genealogy"
     ],
     "aliases": [
       "whitepaperdraft1"
@@ -47138,7 +47330,7 @@
   {
     "slug": "glial-cells",
     "title": "Glial Cells",
-    "summary": "The phrase appears across the SAN GitHub corpus in over a hundred lines. The signal-propagation reading is given in `a0007z--md`, line 265, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0007z.md): \"back-pr",
+    "summary": "A cell-type-specific account of glia in neuroscience and SAN, preserving the neural-net/glionet and all-cell architecture while separating neuronal spikes from glial feedback signals.",
     "topic": "san",
     "tags": [
       "san"
@@ -47150,47 +47342,22 @@
     "xrRoomId": "san-glial-cells",
     "xrDeckId": "san-reader",
     "related": [
-      "gh-a0206z",
-      "brain-as-memory-prediction-machine",
-      "hebbian-learning",
-      "atp",
-      "gamma-oscillations",
-      "napot-theory",
+      "astrocytes",
+      "astrocyte-cognition",
+      "glial-modulation",
+      "tripartite-synapse-multicellular-engram",
       "every-cell-chemical-neural-network",
-      "coincidence-pattern-neural-bit",
-      "action-potential-waveform-encoding",
-      "neural-ensemble-phase-reset-communication",
-      "consciousness",
       "cell-as-chemical-neural-network",
+      "napot-theory",
       "neural-tomography",
-      "synaptic-ion-channel-tone",
-      "neuron-shape-information-storage",
-      "gh-07san",
-      "gh-gpt2023x",
-      "gh-gpt2024jan1tojan22",
-      "gh-a0091z",
-      "gh-a0120z",
-      "gh-a0151z",
-      "gh-a0185z",
-      "gh-a0503z",
-      "gh-b0001y",
-      "gh-b0084y",
-      "gh-b0085y",
-      "gh-b0100y",
-      "gh-b0201y",
-      "gh-b0305y",
-      "gh-c0000x",
-      "gh-nlps2e1",
-      "gh-veca",
-      "gh-vecc",
-      "gh-vecd"
+      "synaptic-connectivity-dynamics"
     ],
     "archivePath": "pages/glial-cells.md"
   },
   {
     "slug": "glial-modulation",
     "title": "Glial Modulation",
-    "summary": "This page is a backfill stub: the operational reading of glial activity (modulation of timing, synchrony, and connectivity) is treated as a presupposition by the [[glial-cells]] article and by adjacent SAN pages on [[napot-theory|NAPOT]] readout, but no separa",
+    "summary": "How astrocytes, oligodendrocyte-lineage cells, microglia, and peripheral glia alter circuit conditions through distinct mechanisms, with a source-recovered SAN tonic-context hypothesis.",
     "topic": "san",
     "tags": [
       "san"
@@ -47202,23 +47369,14 @@
     "xrRoomId": "san-glial-modulation",
     "xrDeckId": "san-reader",
     "related": [
-      "gh-a0206z",
       "glial-cells",
-      "action-potential-waveform-encoding",
-      "gamma-oscillations",
-      "hebbian-learning",
+      "astrocytes",
+      "astrocyte-cognition",
+      "tripartite-synapse-multicellular-engram",
       "every-cell-chemical-neural-network",
-      "napot-theory",
       "synaptic-ion-channel-tone",
-      "gh-resnote04",
-      "brain-as-memory-prediction-machine",
-      "coincidence-pattern-neural-bit",
-      "neural-ensemble-phase-reset-communication",
-      "oscillatory-binding-problem",
       "neural-oscillation-hierarchy",
-      "self-aware-networks-book-overview",
-      "cell-as-chemical-neural-network",
-      "atp"
+      "napot-theory"
     ],
     "archivePath": "pages/glial-modulation.md"
   },
@@ -49552,10 +49710,17 @@
   {
     "slug": "home",
     "title": "Self Aware Networks Encyclopedia",
-    "summary": "The canonical public orientation page for the expandable SAN knowledge system: theory, mechanisms, books, source history, evidence boundaries, experiments, and engineering routes.",
+    "summary": "The canonical public orientation for the source-faithful SAN knowledge system, with PWD as core receiver-relative architecture across theory, mechanisms, books, history, evidence, experiments, and engineering routes.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "phase-wave-differential",
+      "core-san-architecture",
+      "napot",
+      "source-faithful",
+      "six-lens-integrity",
+      "evidence-governance",
+      "encyclopedia"
     ],
     "path": "/v5ma.github.io/wiki/content/home.md",
     "sourceFiles": [
@@ -49564,11 +49729,13 @@
     "xrRoomId": "san-home",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
       "self-aware-networks",
       "self-aware-networks-theory",
       "self-aware-network",
       "neural-array-projection",
       "napot-overview",
+      "gamma-wave-consideration-sandwich",
       "tonic-phasic-phase-wave-differential",
       "perceptual-screen-neural-rendering",
       "entification-observer-problem",
@@ -49587,8 +49754,10 @@
       "artificial-neurology",
       "san-plain-language-glossary-and-acronym-index",
       "neural-tuning",
+      "flow-of-information-in-the-brain",
       "phase-wave-differential-calculus",
       "memory-state-drift-virtual-mind",
+      "latent-pattern-conscious-rendering-transition",
       "theory-of-redness",
       "agency-valuation-action-feedback",
       "conscious-state-perturbation-tomography",
@@ -49597,11 +49766,14 @@
       "san-manuscript-series-genealogy",
       "early-a-series-golden-corpus-map",
       "early-b-series-golden-corpus-map",
+      "san-research-publication-source-map",
       "san-archive-ordering-and-research-intake-map",
       "saov9-source-inventory-book2-routing",
       "self-aware-networks-outline-v9",
       "saov9-self-aware-networks-overview",
-      "san-knowledge-graph"
+      "san-knowledge-graph",
+      "san-wiki-evidence-to-certification",
+      "consciousness-claim-and-evidence-ladder"
     ],
     "archivePath": "pages/home.md"
   },
@@ -49911,7 +50083,8 @@
       "apical-dendrite",
       "action-potential",
       "multi-vesicular-release",
-      "napot-overview"
+      "napot-overview",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/inceptive-field.md"
   },
@@ -52070,6 +52243,44 @@
     "archivePath": "pages/landauer-limit.md"
   },
   {
+    "slug": "latent-pattern-conscious-rendering-transition",
+    "title": "From Latent Pattern to Conscious Rendering",
+    "summary": "SAN's source-faithful account of how a latent or nonconscious pattern may be reconstructed, selectively coupled to an active distributed rendering, recruited into flexible consequence, and later decoupled without erasing its memory substrate.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "consciousness",
+      "unconscious-processing",
+      "virtual-engram",
+      "choice",
+      "functional-connectivity",
+      "phase-wave-differential"
+    ],
+    "path": "/v5ma.github.io/wiki/content/latent-pattern-conscious-rendering-transition.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/latent-pattern-conscious-rendering-transition.md"
+    ],
+    "xrRoomId": "san-latent-pattern-conscious-rendering-transition",
+    "xrDeckId": "san-reader",
+    "related": [
+      "home",
+      "memory-state-drift-virtual-mind",
+      "conscious-access",
+      "attention-awareness-consciousness-triad",
+      "attention-schema-theory",
+      "choice",
+      "dominant-phase-wave-differential-rhythm",
+      "functional-connectivity",
+      "tonic-phasic-canvas",
+      "observer-mechanism",
+      "neural-rendering",
+      "consideration-sandwich",
+      "gamma-wave-consideration-sandwich",
+      "gamma-consideration-sandwich-diagram"
+    ],
+    "archivePath": "pages/latent-pattern-conscious-rendering-transition.md"
+  },
+  {
     "slug": "layer-6-grandmother-neuron",
     "title": "Layer 6 Grandmother Neuron",
     "summary": "The earliest dated evidence in the packet is 2023, drawn entirely from [[gh-resnote04|Micah]]'s own papers — `chronology_markers.pre_sit_evidence_count` is `0`, so no chronological-priority claim relative to mainstream concept-cell literature is inscribed here",
@@ -52956,9 +53167,42 @@
     "archivePath": "pages/machine-agency-consciousness-welfare-evidence-program.md"
   },
   {
+    "slug": "machine-self-report-active-canvas-consciousness-test",
+    "title": "From Machine Self-Report to an Active-Canvas Test",
+    "summary": "A source-faithful SAN bridge from observable machine self-report to a typed, causal test of persistent state, recurrent access, self-modeling, action-return closure, and an active tonic-context analogue without treating any pass as proof of experience.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "artificial-neurology",
+      "machine-consciousness",
+      "self-report",
+      "tonic-canvas",
+      "observer-mechanism",
+      "tcnr"
+    ],
+    "path": "/v5ma.github.io/wiki/content/machine-self-report-active-canvas-consciousness-test.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/machine-self-report-active-canvas-consciousness-test.md"
+    ],
+    "xrRoomId": "san-machine-self-report-active-canvas-consciousness-test",
+    "xrDeckId": "san-reader",
+    "related": [
+      "machine-agency-consciousness-welfare-evidence-program",
+      "consciousness-claim-and-evidence-ladder",
+      "artificial-neurology",
+      "observer-mechanism",
+      "field-cell-self-bioelectric-information-entity",
+      "consciousness-canvas-wave-differential",
+      "oscillator-consciousness-threshold",
+      "artificial-souls",
+      "screen-metaphor-no-inner-viewer"
+    ],
+    "archivePath": "pages/machine-self-report-active-canvas-consciousness-test.md"
+  },
+  {
     "slug": "magnetic-phase-field",
     "title": "Magnetic Phase Field",
-    "summary": "This SAN plate shows the magnetic phase field as a restrained biophysical pattern coupled to action-potential propagation: ionic current moves along a myelinated axon, forms a subtle phase signature around nodes of Ranvier, divides at axon terminals, and becom",
+    "summary": "SAN defines the magnetic phase field as the time-varying magnetic coordinate accompanying neural ionic current and asks whether a named biological receiver could use part of that coordinate. The page separates measurable biomagnetism from the open receiver hypothesis and preserves micro, meso, and macro claim boundaries.",
     "topic": "san",
     "tags": [
       "san"
@@ -52970,11 +53214,17 @@
     "xrRoomId": "san-magnetic-phase-field",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-a0365z",
+      "gh-a0245z",
+      "gh-a0617z",
+      "gh-a0010z",
       "action-potential",
-      "fractal-pattern",
-      "jeff-hawkins",
-      "thousand-brains-theory",
-      "self-aware-network"
+      "action-potential-magnetic-phase-field",
+      "action-potential-mitochondrial-reinforcement-hypothesis",
+      "field-coupling",
+      "tonic-phasic-phase-wave-differential",
+      "napot-overview",
+      "san-scale-ladder-and-claim-boundaries"
     ],
     "archivePath": "pages/magnetic-phase-field.md"
   },
@@ -55358,7 +55608,8 @@
       "tonic-phasic-neural-oscillation",
       "phase-language-firewall",
       "ndca-nonlinear-differential-continuous-approximation",
-      "memory-prediction-as-intelligence"
+      "memory-prediction-as-intelligence",
+      "short-term-plasticity"
     ],
     "archivePath": "pages/multi-timescale-reference-frames.md"
   },
@@ -55452,7 +55703,8 @@
       "phase-wave-differential",
       "thalamus-as-relay-station",
       "eeg-bci-limitations",
-      "napot-overview"
+      "napot-overview",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/multi-vesicular-release.md"
   },
@@ -55645,7 +55897,8 @@
       "gh-a0150z",
       "gh-a0160z",
       "gh-a0161z",
-      "gh-a0401z"
+      "gh-a0401z",
+      "neuroaffective-self-registration"
     ],
     "archivePath": "pages/multimodal-neuroaffective-xr-closed-loop.md"
   },
@@ -55896,11 +56149,13 @@
     "aliases": [
       "napot"
     ],
-    "summary": "Neural Array Projection Oscillation Tomography (NAPOT) is SAN's proposed multi-scale receive-transform-project-update architecture for distributed perception, memory, and action without an inner viewer.",
+    "summary": "Core SAN architecture in which repeated receive-transform-project-update relations express typed, receiver-relative PWDs across distributed perception, memory, and action without an inner viewer.",
     "topic": "san",
     "tags": [
       "san",
       "napot",
+      "phase-wave-differential",
+      "receiver-relative",
       "neural-rendering",
       "reconstruction",
       "oscillations",
@@ -55913,23 +56168,27 @@
     "xrRoomId": "san-napot-overview",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "phase-wave-differential-calculus",
+      "neural-array-projection-oscillation-tomography",
+      "neural-array-projection",
+      "napot-revision-genealogy",
+      "napot-theory",
+      "san-tomogram",
+      "neural-rendering",
+      "tonic-phasic-canvas",
+      "receptive-inceptive-dendritic-projection",
       "san-scale-ladder-and-claim-boundaries",
+      "screen-metaphor-no-inner-viewer",
       "oscillating-group-completion",
       "telescoping-network-neighborhood-reinstatement",
-      "san-tomogram",
-      "napot-tomography-not-holography",
-      "phase-wave-differentials",
-      "phase-language-firewall",
-      "tonic-phasic-canvas",
+      "tonic-absorption-generative-reexpression",
       "action-potential-magnitude-via-duration",
       "multi-vesicular-release",
       "synapse",
-      "neural-array-projection-oscillation-tomography",
-      "neural-rendering",
-      "receptive-inceptive-dendritic-projection",
-      "screen-metaphor-no-inner-viewer",
-      "napot-revision-genealogy",
-      "neural-magnification"
+      "magnetic-phase-field",
+      "napot-tomography-not-holography",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/napot-overview.md"
   },
@@ -55990,10 +56249,18 @@
   {
     "slug": "napot-revision-genealogy",
     "title": "NAPOT Revision Genealogy",
-    "summary": "Neural Array Projection Oscillation Tomography (NAPOT) was not written once and merely renamed. Successive versions changed the level of resolution and the problem being addressed: arrays, synapses, inhibition, dynamic subnetworks, multiscale routing, motor co",
+    "summary": "Governed 2011-2024 NAPOT source genealogy separating ancestors, named revisions, and current architecture while preserving PWD as core across every receiver-relative receive-transform-project-update relation.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "napot",
+      "genealogy",
+      "provenance",
+      "revisions",
+      "phase-wave-differential",
+      "receiver-relative",
+      "source-faithful",
+      "revision-record"
     ],
     "path": "/v5ma.github.io/wiki/content/napot-revision-genealogy.md",
     "sourceFiles": [
@@ -56002,18 +56269,17 @@
     "xrRoomId": "san-napot-revision-genealogy",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "napot-overview",
+      "neural-array-projection-oscillation-tomography",
+      "napot-theory",
       "neuron-shape-information-storage",
-      "receptive-inceptive-dendritic-projection",
-      "san-scale-ladder-and-claim-boundaries",
-      "phase-language-firewall",
+      "brain-networking-protocol",
       "tonic-context-rare-deviation-tomographic-language",
-      "gh-a0141z",
-      "gh-a0159z",
       "cascaded-array-perspective-transformation",
-      "gh-a0348z",
-      "gh-a0337z",
       "gh-a0136z",
       "gh-a0137z",
+      "gh-whitepaperdraft1",
       "gh-whitepaperdraft3",
       "gh-a0001z",
       "gh-a0287zstar",
@@ -56024,22 +56290,41 @@
       "gh-hex-7",
       "gh-notebookml-6-collection",
       "gh-a0043z",
-      "napot-overview",
-      "napot-theory",
       "neural-tuning",
       "inceptive-field",
       "entification",
-      "theory-of-redness",
       "cellular-oscillating-tomography",
       "qgtcd",
-      "socially-internalized-inner-speech-self-model",
       "neural-phase-trajectories-taylor-series-proposal",
-      "early-a0135-a0155-obscure-argument-map",
+      "volumetric-predictive-rendering",
       "san-golden-corpus-map",
+      "receptive-inceptive-dendritic-projection",
+      "san-scale-ladder-and-claim-boundaries",
+      "phase-language-firewall",
+      "gh-a0141z",
+      "gh-a0159z",
+      "gh-a0348z",
+      "gh-a0337z",
+      "gh-a0306z",
+      "neural-array-projection",
+      "action-potential-waveform",
+      "multi-vesicular-release",
+      "neural-path-selection-interneurons-choice",
+      "functional-connectivity",
+      "tonic-absorption-generative-reexpression",
+      "reference-frames-cortical-knowledge",
+      "embodiment-vision-gamma-consideration-sandwich",
+      "actions",
+      "field-cell-self-bioelectric-information-entity",
+      "neural-rendering",
+      "nonlinear-differential-continuous-approximation",
+      "choice",
+      "theory-of-redness",
+      "socially-internalized-inner-speech-self-model",
+      "early-a0135-a0155-obscure-argument-map",
       "early-a0040-a0069-obscure-argument-map",
       "early-a0333-a0351-obscure-argument-map",
-      "embodiment-vision-gamma-consideration-sandwich",
-      "volumetric-predictive-rendering"
+      "napot-tomography-not-holography"
     ],
     "archivePath": "pages/napot-revision-genealogy.md"
   },
@@ -56069,11 +56354,16 @@
   },
   {
     "slug": "napot-theory",
-    "title": "Napot Theory",
-    "summary": "At the abstract level, a population receives partial state, transforms it through cellular and recurrent dynamics, and affects downstream receivers. Real pathways are recurrent, target-specific, and not a simple feedforward sequence. The claim that overlapping",
+    "title": "NAPOT Theory: Scope and Reading Route",
+    "summary": "Governed NAPOT reading route preserving typed, receiver-relative PWD as core throughout the receive-transform-project-update synthesis while separating technical mechanism, revision provenance, extensions, and evidence boundaries.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "napot",
+      "phase-wave-differential",
+      "receiver-relative",
+      "navigation",
+      "source-genealogy"
     ],
     "path": "/v5ma.github.io/wiki/content/napot-theory.md",
     "sourceFiles": [
@@ -56082,28 +56372,41 @@
     "xrRoomId": "san-napot-theory",
     "xrDeckId": "san-reader",
     "related": [
-      "neural-array-projection",
+      "phase-wave-differentials",
+      "phase-wave-differential-calculus",
+      "napot-overview",
+      "neural-array-projection-oscillation-tomography",
+      "napot-revision-genealogy",
+      "napot-tomography-not-holography",
       "san-scale-ladder-and-claim-boundaries",
+      "neural-array-projection",
+      "receptive-inceptive-dendritic-projection",
+      "tonic-phasic-canvas",
+      "neural-rendering",
+      "tonic-absorption-generative-reexpression",
       "screen-metaphor-no-inner-viewer",
-      "comparison-evidence-is-not-biological-validation",
-      "space-as-phasefield",
-      "tonic-phasic-neural-oscillation",
-      "self-aware-network",
-      "gh-a0206z",
-      "quantum-gradient-time-crystal-dilation",
-      "gh-qgtcd",
-      "oscillation-synchrony",
-      "dendritic-encoding"
+      "cellular-oscillating-tomography",
+      "bot-biological-oscillatory-tomography",
+      "ndca-nonlinear-differential-continuous-approximation",
+      "qgtcd"
     ],
     "archivePath": "pages/napot-theory.md"
   },
   {
     "slug": "napot-tomography-not-holography",
     "title": "NAPOT: Tomography, Not a Literal Hologram",
-    "summary": "NAPOT uses **tomography** as a reconstruction hypothesis: multiple partial, differently situated, and time-varying signals may jointly constrain a working model that no one input contains. It does not propose that the brain projects a literal optical hologram",
+    "summary": "Bounded NAPOT reconstruction account: partial transformed constraints recur across distributed populations while receiver-relative PWD operates throughout; tomography remains a testable analogy, not literal holography or a localized viewer.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "napot",
+      "tomography",
+      "distributed-reconstruction",
+      "phase-wave-differential",
+      "receiver-relative",
+      "source-faithful",
+      "medical-grade-figure",
+      "discriminating-test"
     ],
     "path": "/v5ma.github.io/wiki/content/napot-tomography-not-holography.md",
     "sourceFiles": [
@@ -56112,13 +56415,18 @@
     "xrRoomId": "san-napot-tomography-not-holography",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "phase-wave-differential-calculus",
       "oscillating-group-completion",
       "napot-overview",
+      "napot-theory",
+      "neural-array-projection-oscillation-tomography",
+      "napot-revision-genealogy",
+      "neural-array-projection",
       "neural-rendering",
       "san-scale-ladder-and-claim-boundaries",
       "receptive-inceptive-dendritic-projection",
-      "ndca",
-      "phase-wave-differential-calculus"
+      "ndca"
     ],
     "archivePath": "pages/napot-tomography-not-holography.md"
   },
@@ -56202,7 +56510,8 @@
       "tonic-oscillation",
       "theta-wave-reality-generator",
       "neural-coincidence-detection",
-      "cortical-column-manifolds"
+      "cortical-column-manifolds",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/ndca-non-linear-differential-continuous-approximation.md"
   },
@@ -56221,10 +56530,11 @@
     "xrRoomId": "san-ndca-nonlinear-differential-continuous-approximation",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "phase-wave-differential-calculus",
       "ndca",
       "napot-overview",
       "qgtcd",
-      "phase-wave-differential-calculus",
       "neural-phase-trajectories-taylor-series-proposal",
       "category-theory-neuroscience",
       "continuous-dynamics-discrete-neural-information",
@@ -56470,7 +56780,8 @@
       "gh-a0578z",
       "early-a0333-a0351-obscure-argument-map",
       "entification-observer-problem",
-      "perceptual-screen-neural-rendering"
+      "perceptual-screen-neural-rendering",
+      "neuroaffective-self-registration"
     ],
     "archivePath": "pages/neo-mind-cycle-neurofeedback-bci.md"
   },
@@ -57240,22 +57551,27 @@
     "xrRoomId": "san-neural-array",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
       "napot-overview",
       "neural-arrays",
       "neural-array-projection",
       "san-scale-ladder-and-claim-boundaries",
-      "cortical-column",
-      "phase-wave-differentials"
+      "cortical-column"
     ],
     "archivePath": "pages/neural-array.md"
   },
   {
     "slug": "neural-array-projection",
     "title": "Neural Array Projection",
-    "summary": "SAN's proposal that an anatomically transmitted source-population pattern is selectively transformed by a receiving population and recurrently re-expressed, rather than copied unchanged from one array to another.",
+    "summary": "Core SAN receive-transform-project-update operation: anatomical source-to-target transmission is transformed by receiver state, while PWD names the typed tonic/reference-relative departure across excitation, inhibition, interaction, recurrence, and consequence.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "neural-array-projection",
+      "napot",
+      "phase-wave-differential",
+      "receiver-relative",
+      "population-coding"
     ],
     "path": "/v5ma.github.io/wiki/content/neural-array-projection.md",
     "sourceFiles": [
@@ -57264,6 +57580,8 @@
     "xrRoomId": "san-neural-array-projection",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "gh-02san",
       "gh-a0136z",
       "neuron-shape-information-storage",
       "gh-a0137z",
@@ -57273,6 +57591,8 @@
       "self-aware-networks",
       "receptive-inceptive-dendritic-projection",
       "napot-overview",
+      "neural-array-projection-oscillation-tomography",
+      "napot-theory",
       "napot-revision-genealogy",
       "san-scale-ladder-and-claim-boundaries",
       "distributed-phase-representations",
@@ -57281,7 +57601,9 @@
       "dendritic-pattern-detection",
       "inhibitory-interneurons-plasticity-gating",
       "flow-of-information-in-the-brain",
-      "screen-metaphor-no-inner-viewer"
+      "screen-metaphor-no-inner-viewer",
+      "napot-tomography-not-holography",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/neural-array-projection.md"
   },
@@ -57324,10 +57646,17 @@
   {
     "slug": "neural-array-projection-oscillation-tomography",
     "title": "Neural Array Projection Oscillation Tomography",
-    "summary": "The earliest dated evidence in this packet is the document `dl-current--history_of_SIT` (`history of SIT.txt`, 2017, paper-[[gh-resnote04|micah]]), which already refers to \"[[neural-array-projection|Neural Array Projection]] Oscillation Tomography Theory 5th R",
+    "summary": "Technical NAPOT mechanism: recurrent receive-transform-project-update relations carry typed, receiver-relative PWDs across cellular, circuit, and distributed scales, with explicit operational variables, source genealogy, and decisive tests.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "napot",
+      "phase-wave-differential",
+      "receiver-relative",
+      "neural-rendering",
+      "reconstruction",
+      "oscillations",
+      "distributed-processing"
     ],
     "path": "/v5ma.github.io/wiki/content/neural-array-projection-oscillation-tomography.md",
     "sourceFiles": [
@@ -57336,83 +57665,26 @@
     "xrRoomId": "san-neural-array-projection-oscillation-tomography",
     "xrDeckId": "san-reader",
     "related": [
-      "neural-code-transmission",
-      "neuron-shape-information-storage",
-      "san-scale-ladder-and-claim-boundaries",
-      "neural-oscillatory-tomography",
-      "napot-tomography-not-holography",
-      "phase-language-firewall",
-      "neural-array-projection",
-      "gh-resnote04",
-      "gh-formulation",
-      "self-aware-networks-book",
-      "gh-00welcome",
-      "gh-a0206z",
-      "fractal-conscious-perception",
-      "cellular-oscillatory-tomography",
-      "bot-biological-oscillatory-tomography",
-      "super-information-theory",
-      "super-dark-time",
-      "qgtcd",
-      "gh-qgtcd",
-      "napot-revision-2-exit-terminal-sdr",
-      "napot-revision-3-anti-spike",
-      "napot-overview",
-      "napot-neural-array-phase-tomography",
-      "adaptive-resonance-theory-napot-comparison",
-      "napot-sentient-ai-architecture",
-      "neural-arrays",
       "phase-wave-differentials",
-      "tonic-oscillation",
-      "phasic-tonic-relationship",
-      "tonic-phasic-canvas-of-consciousness",
-      "consciousness",
-      "wavefront-collision",
-      "recursive-neural-array-perception",
-      "consciousness-as-oscillatory-feedback-loop",
-      "cortical-column-oscillatory-synchronization",
-      "self-aware-networks",
-      "new-law-of-thermodynamics",
-      "3d-semantic-segmentation",
-      "advaita-vedanta",
-      "braingate",
-      "brainwaves",
-      "category-theory",
-      "cortical-columns",
-      "criterial-causation",
-      "dendritic-compartmentalization",
-      "engrams",
-      "perceptual-screen",
-      "gh-02san",
-      "gh-04san",
-      "gh-05san",
-      "gh-06san",
-      "gh-07san",
-      "gh-08san",
-      "gh-09san",
-      "gh-10san",
-      "gh-12san",
-      "gh-gpt2023x",
-      "gh-gpt2024jan1tojan22",
-      "gh-laukkonen",
-      "gh-qgtcdlegacy",
-      "a0018z",
-      "gh-a0036z",
-      "gh-a0043z",
-      "gh-a0136z",
-      "gh-a0254z",
-      "gh-a0308z",
-      "gh-a0328z",
-      "gh-b0038y",
-      "gh-resnote03",
-      "gh-resnote05",
-      "gh-rexnote04",
-      "gh-rexnote05",
-      "gh-rexnote13",
-      "gh-rexnote14",
-      "gh-rexnote15",
-      "gh-veca",
-      "gh-vecc"
+      "phase-wave-differential-calculus",
+      "napot-overview",
+      "napot-theory",
+      "napot-revision-genealogy",
+      "neural-array-projection",
+      "receptive-inceptive-dendritic-projection",
+      "san-tomogram",
+      "neural-rendering",
+      "tonic-phasic-canvas",
+      "tonic-absorption-generative-reexpression",
+      "synaptic-plasticity",
+      "napot-tomography-not-holography",
+      "san-scale-ladder-and-claim-boundaries",
+      "screen-metaphor-no-inner-viewer",
+      "neuron-shape-information-storage",
+      "brain-networking-protocol",
+      "gh-b0131y",
+      "gh-whitepaperdraft1",
+      "gh-a0325znapot6"
     ],
     "archivePath": "pages/neural-array-projection-oscillation-tomography.md"
   },
@@ -58414,11 +58686,20 @@
   },
   {
     "slug": "neural-lace-podcast-4-andre-watson",
-    "title": "Neural Lace Podcast 4 Andre Watson",
-    "summary": "A May 2017 episode of the [[neural-lace|Neural Lace]] Talks podcast hosted by [[micah-blumberg]], featuring Andre Watson (CEO of Ligandal), exploring [[ionic-magnetic-fields]], synaptic physiology, and the biological substrate of [[consciousness]].",
+    "title": "Neural Lace Podcast #4: Andre Watson (2017)",
+    "summary": "A source-faithful May 5, 2017 episode record joining changing sensory scenes, receptor transduction, an action potential, transmitter release, spatial-temporal population patterns, and neural decoding.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "source-genealogy",
+      "neural-lace",
+      "podcast",
+      "synaptic-transmission",
+      "neural-decoding"
+    ],
+    "aliases": [
+      "Neural Lace Podcast S1E4 Andre Watson 2017",
+      "Neural Lace Podcast #4 Guest Andre Watson"
     ],
     "path": "/v5ma.github.io/wiki/content/neural-lace-podcast-4-andre-watson.md",
     "sourceFiles": [
@@ -58428,16 +58709,15 @@
     "xrDeckId": "san-reader",
     "related": [
       "neural-lace",
-      "micah-blumberg",
-      "ionic-magnetic-fields",
-      "consciousness",
+      "neural-lace-podcast",
+      "neural-lace-podcast-archive",
+      "neural-lace-podcast-source-genealogy",
+      "gh-nlp4",
+      "action-potential-waveform",
+      "synaptic-unreliability-mvr-2021",
+      "contextualized-spike-receiver-relative-transformation",
       "self-aware-networks",
-      "ionotropic-signaling",
-      "metabotropic-signaling",
-      "fractal-consciousness",
-      "dendrites-as-computational-units",
-      "quantum-cognition",
-      "xmark-theory"
+      "neural-lace-podcast-s1e4-andre-watson-2017"
     ],
     "archivePath": "pages/neural-lace-podcast-4-andre-watson.md"
   },
@@ -58655,11 +58935,15 @@
   },
   {
     "slug": "neural-lace-podcast-s1e4-andre-watson-2017",
-    "title": "Neural Lace Podcast S1e4 Andre Watson 2017",
-    "summary": "This page is a stub: no primary-source quotation or transcript excerpt has yet been bound to this slug by the acquisition lanes. The companion slug [[neural-lace-podcast-4-andre-watson|neural-lace-podcast-4-andre-watson]] already exists and likely carries the",
+    "title": "Neural Lace Podcast S1E4: Andre Watson (2017)",
+    "summary": "A preserved title variant pointing to the canonical May 5, 2017 episode record without duplicating or extending its claims.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "source-genealogy",
+      "neural-lace",
+      "podcast",
+      "alias"
     ],
     "path": "/v5ma.github.io/wiki/content/neural-lace-podcast-s1e4-andre-watson-2017.md",
     "sourceFiles": [
@@ -58668,19 +58952,14 @@
     "xrRoomId": "san-neural-lace-podcast-s1e4-andre-watson-2017",
     "xrDeckId": "san-reader",
     "related": [
-      "neural-lace",
+      "neural-lace-podcast-4-andre-watson",
       "neural-lace-podcast",
       "neural-lace-podcast-archive",
+      "neural-lace-podcast-source-genealogy",
+      "gh-nlp4",
+      "action-potential-waveform",
       "self-aware-networks",
-      "neural-lace-podcast-4-andre-watson",
-      "gh-resnote04",
-      "hack-days-sf-neural-lace-2018",
-      "fnirs-neural-lace-podcast-s2e4-2019",
-      "neural-lace-podcast-playlist-summary-2017",
-      "neural-lace-podcast-ep2-blaze-sanders",
-      "neural-lace-podcast-ep3-eric-matzner",
-      "neural-lace-podcast-5-jules-urbach-otoy",
-      "neural-lace-podcast-s2e1-jean-rintoul-openeit"
+      "neural-lace"
     ],
     "archivePath": "pages/neural-lace-podcast-s1e4-andre-watson-2017.md"
   },
@@ -58719,11 +58998,17 @@
   },
   {
     "slug": "neural-lace-podcast-s1e7-android-jones-2017",
-    "title": "Neural Lace Podcast Episode 7: Android Jones, Microdose VR and EEG",
-    "summary": "Recorded at AWE on June 7, 2017 and published June 11, this conversation connects Microdose VR, Muse EEG, adaptive audiovisual feedback and Micah's earlier 2012 EEG work.",
+    "title": "Neural Lace Podcast Episode 7: Android Jones, Microdose VR, and EEG",
+    "summary": "The June 2017 source joining EEG-driven immersive feedback, a biological read-write-medium analogy, and a receiver-relative present-state to desired-state differential loop.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "source-genealogy",
+      "neural-lace",
+      "android-jones",
+      "eeg",
+      "xr",
+      "neurofeedback"
     ],
     "path": "/v5ma.github.io/wiki/content/neural-lace-podcast-s1e7-android-jones-2017.md",
     "sourceFiles": [
@@ -58736,7 +59021,9 @@
       "neural-lace-podcast-source-genealogy",
       "eeg-vr-fifer-garbesi-2017",
       "nervegear-show-2017",
-      "neural-tuning"
+      "neural-tuning",
+      "brain-as-hard-drive",
+      "3d-neural-network-brain"
     ],
     "archivePath": "pages/neural-lace-podcast-s1e7-android-jones-2017.md"
   },
@@ -58920,7 +59207,7 @@
   {
     "slug": "neural-magnification",
     "title": "Neural Magnification",
-    "summary": "SAN's source-faithful term for a bidirectional scale transformation in which a bounded local difference acquires a larger causal footprint and population context changes the next local response.",
+    "summary": "A synaptic or cellular event is local, but perception, memory, and action depend on distributed populations. Neuroscience therefore needs to explain two linked transitions:",
     "topic": "san",
     "tags": [
       "san",
@@ -58932,36 +59219,21 @@
       "neural-rendering",
       "medical-review"
     ],
+    "aliases": [
+      "Bidirectional Scale Magnification",
+      "Local-to-Population Magnification"
+    ],
     "path": "/v5ma.github.io/wiki/content/neural-magnification.md",
     "sourceFiles": [
       "/v5ma.github.io/wiki/content/neural-magnification.md"
     ],
-    "xrRoomId": "san-neural-magnification",
-    "xrDeckId": "san-reader",
+    "xrRoomId": "san-wiki-neural-magnification",
+    "xrDeckId": "san-san",
     "related": [
       "neuron-shape-information-storage",
-      "napot-revision-genealogy",
-      "neural-arrays",
-      "perceptual-screen-neural-rendering",
-      "world-body-brain-semantic-coregistration",
-      "sensory-stabilized-volumetric-rendering",
-      "phase-wave-differentials",
-      "signal-duration-coding",
-      "action-potential-waveform",
-      "electrochemical-to-phase-graph-transformation",
-      "multi-scale-memory",
-      "oscillation-memory-reinstatement",
-      "autogenous-associative-memory-retrieval",
-      "recorder-transcript-human-source-atom-map-t07",
-      "source-faithful-correction-intent-recovery-protocol",
       "telescoping-network-neighborhood-reinstatement",
       "memory-as-regenerable-pattern",
-      "napot-overview",
-      "apme"
-    ],
-    "aliases": [
-      "Bidirectional Scale Magnification",
-      "Local-to-Population Magnification"
+      "napot-overview"
     ],
     "archivePath": "pages/neural-magnification.md"
   },
@@ -59231,6 +59503,7 @@
     "xrRoomId": "san-neural-oscillations",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "neural-oscillation",
       "brain-rhythms",
       "brainwave",
@@ -59244,7 +59517,8 @@
       "neural-array-projection-oscillation-tomography",
       "phase-language-firewall",
       "coherence-dispersion-sculpting-hypothesis",
-      "neural-tuning"
+      "neural-tuning",
+      "electrical-synapse"
     ],
     "archivePath": "pages/neural-oscillations.md"
   },
@@ -59363,7 +59637,8 @@
       "saov9-cycle-06-memory-state-drift",
       "early-a0457-a0481-obscure-argument-map",
       "consideration-sandwich",
-      "gamma-wave-consideration-sandwich"
+      "gamma-wave-consideration-sandwich",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/neural-path-selection-interneurons-choice.md"
   },
@@ -59409,11 +59684,12 @@
     "xrRoomId": "san-neural-phase-trajectories-taylor-series-proposal",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "phase-wave-differential-calculus",
       "gh-a0258z",
       "gh-a0149z",
       "gh-a0238z",
       "gh-b0038y",
-      "phase-wave-differential-calculus",
       "ndca-nonlinear-differential-continuous-approximation",
       "category-theory-neuroscience",
       "tonic-phasic-phase-wave-differential",
@@ -59489,6 +59765,7 @@
     "xrRoomId": "san-neural-rendering",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
       "napot-overview",
       "san-tomogram",
       "ndca",
@@ -59504,7 +59781,8 @@
       "san-scale-ladder-and-claim-boundaries",
       "napot-tomography-not-holography",
       "3d-neural-network-brain",
-      "latent-pattern-conscious-rendering-transition"
+      "latent-pattern-conscious-rendering-transition",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/neural-rendering.md"
   },
@@ -59820,13 +60098,14 @@
     "xrRoomId": "san-neural-tuning",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "phase-wave-differential-calculus",
       "gh-a0007z",
       "gh-b0010y",
       "gh-a0310z",
       "gh-napotconcepts",
       "gh-a0183z",
       "gh-a0196z",
-      "phase-wave-differential-calculus",
       "dendritic-pattern-detection",
       "coincidence-detection",
       "cortical-traveling-waves",
@@ -60079,6 +60358,37 @@
       "neural-decoding"
     ],
     "archivePath": "pages/neuro-rendering.md"
+  },
+  {
+    "slug": "neuroaffective-self-registration",
+    "title": "Neuroaffective Self-Registration",
+    "summary": "The SAN proposal that a distributed brain-body system can register an affective transition because the transition changes the system and is recurrently sensed within it.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "affect",
+      "interoception",
+      "brain-body",
+      "self-registration",
+      "neural-rendering",
+      "choice"
+    ],
+    "path": "/v5ma.github.io/wiki/content/neuroaffective-self-registration.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/neuroaffective-self-registration.md"
+    ],
+    "xrRoomId": "san-neuroaffective-self-registration",
+    "xrDeckId": "san-reader",
+    "related": [
+      "multimodal-neuroaffective-xr-closed-loop",
+      "agency-valuation-action-feedback",
+      "tonic-phasic-canvas",
+      "phase-wave-differentials",
+      "neo-mind-cycle-neurofeedback-bci",
+      "emotions-as-spatiotemporal-patterns",
+      "affective-computing"
+    ],
+    "archivePath": "pages/neuroaffective-self-registration.md"
   },
   {
     "slug": "neurofeedback",
@@ -61630,7 +61940,8 @@
       "brainwave",
       "cortical-column-oscillatory-collaboration",
       "self-aware-networks",
-      "gh-qgtcd"
+      "gh-qgtcd",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/nonlinear-differential-continuous-approximation.md"
   },
@@ -61905,6 +62216,7 @@
     "xrRoomId": "san-observer-mechanism",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
       "machine-self-report-active-canvas-consciousness-test",
       "recursive-neural-array-perception",
       "screen-metaphor-no-inner-viewer",
@@ -62645,10 +62957,12 @@
       "tonic-absorption-generative-reexpression",
       "memory-as-regenerable-pattern",
       "dendritic-pattern-recognition",
+      "phase-wave-differentials",
       "phase-wave-differential-calculus",
       "oscillation-memory-reinstatement",
       "canvas-is-the-receiver",
-      "napot-overview"
+      "napot-overview",
+      "napot-tomography-not-holography"
     ],
     "aliases": [
       "Oscillating Group Completion",
@@ -64302,7 +64616,8 @@
       "coincidence-to-structure-activity-directed-spinogenesis",
       "inhibitory-routing-signal-processing-grid-graph",
       "neural-path-selection-interneurons-choice",
-      "gh-b0067ywhisper"
+      "gh-b0067ywhisper",
+      "short-term-plasticity"
     ],
     "archivePath": "pages/oscillatory-plasticity-group-potentiation-depression.md"
   },
@@ -65884,9 +66199,10 @@
     "xrRoomId": "san-phase-language-firewall",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "phase-wave-differential-calculus",
       "tonic-oscillation",
       "tonic-phasic-phase-wave-differential",
-      "phase-wave-differentials",
       "embodiment-vision-gamma-consideration-sandwich",
       "gamma-consideration-sandwich-diagram",
       "san-scale-ladder-and-claim-boundaries",
@@ -65895,7 +66211,8 @@
       "cross-frequency-coupling",
       "computational-phase-synchronization",
       "cortical-traveling-waves",
-      "gamma-wave-consideration-sandwich"
+      "gamma-wave-consideration-sandwich",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/phase-language-firewall.md"
   },
@@ -66441,10 +66758,19 @@
   {
     "slug": "phase-wave-differential-calculus",
     "title": "Phase-Wave Differential Calculus",
-    "summary": "A bounded SAN proposal in which a multidimensional, receiver-relative PWD event contributes to a nonlinear state update, altered tuning or routing, and a measurable downstream consequence, tested against simpler coding models.",
+    "summary": "PWD is core SAN architecture: typed, receiver-relative departures from a declared tonic or reference pattern. The calculus is optional and does not define PWD; NAPOT uses PWD throughout but does not contain, define, or outrank it.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "phase-wave-differential",
+      "core-san-architecture",
+      "receiver-relative",
+      "tonic-reference",
+      "optional-formalization",
+      "neural-tuning",
+      "model-comparison",
+      "source-faithful",
+      "discriminating-test"
     ],
     "path": "/v5ma.github.io/wiki/content/phase-wave-differential-calculus.md",
     "sourceFiles": [
@@ -66454,6 +66780,7 @@
     "xrDeckId": "san-reader",
     "related": [
       "phase-wave-differentials",
+      "gh-02san",
       "neural-phase-trajectories-taylor-series-proposal",
       "ndca-nonlinear-differential-continuous-approximation",
       "category-theory-neuroscience",
@@ -66461,22 +66788,28 @@
       "tonic-phasic-canvas",
       "canvas-is-the-receiver",
       "napot-overview",
+      "napot-theory",
+      "neural-array-projection-oscillation-tomography",
+      "san-scale-ladder-and-claim-boundaries",
       "phase-language-firewall",
-      "gh-13san"
+      "gh-13san",
+      "napot-tomography-not-holography",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/phase-wave-differential-calculus.md"
   },
   {
     "slug": "phase-wave-differentials",
     "title": "Phase-Wave Differentials",
-    "summary": "A phase-wave differential is SAN terminology for a typed, receiver-relative neural change with a declared reference, route, physiological denominator, and measurable consequence.",
+    "summary": "Core SAN architecture: a phase-wave differential is a typed, receiver-relative departure from a declared tonic or reference pattern, including excitatory, inhibitory, missing-expected, delayed, and interaction effects with a measurable consequence.",
     "topic": "san",
     "tags": [
       "san",
       "phase-wave-differential",
       "tonic-phasic",
       "receiver-relative",
-      "neural-rendering"
+      "neural-rendering",
+      "core-san-architecture"
     ],
     "path": "/v5ma.github.io/wiki/content/phase-wave-differentials.md",
     "sourceFiles": [
@@ -66485,23 +66818,47 @@
     "xrRoomId": "san-phase-wave-differentials",
     "xrDeckId": "san-reader",
     "related": [
+      "self-aware-networks",
+      "tonic-phasic-phase-wave-differential",
+      "neural-array-projection",
+      "napot-overview",
+      "napot-theory",
+      "neural-array-projection-oscillation-tomography",
+      "gamma-wave-consideration-sandwich",
+      "neural-rendering",
+      "observer-mechanism",
+      "san-scale-ladder-and-claim-boundaries",
+      "gh-02san",
+      "phase-wave-differential-calculus",
       "neural-code-transmission",
       "neuron-shape-information-storage",
       "information-rarity",
-      "tonic-phasic-phase-wave-differential",
       "electrical-valence-receiver-relative-drive",
-      "phase-wave-differential-calculus",
       "contextualized-spike-receiver-relative-transformation",
-      "neural-rendering",
-      "napot-overview",
       "phase-language-firewall",
       "tonic-phasic-canvas",
       "computational-phase-synchronization",
       "cortical-traveling-waves",
-      "observer-mechanism",
       "coherence-dispersion-sculpting-hypothesis",
       "present-moment-salience",
-      "gamma-wave-consideration-sandwich"
+      "retrograde-signaling",
+      "neuroaffective-self-registration",
+      "tonic-absorption-generative-reexpression",
+      "napot-revision-genealogy",
+      "napot-tomography-not-holography",
+      "selfawarenetworks-gpt",
+      "home",
+      "self-aware-networks-theory",
+      "canvas-is-the-receiver",
+      "neural-array",
+      "neural-tuning",
+      "san-tomogram",
+      "embodiment-vision-gamma-consideration-sandwich",
+      "category-theory-neuroscience",
+      "gh-13san",
+      "ndca-nonlinear-differential-continuous-approximation",
+      "neural-phase-trajectories-taylor-series-proposal",
+      "oscillating-group-completion"
     ],
     "archivePath": "pages/phase-wave-differentials.md"
   },
@@ -68596,7 +68953,8 @@
       "fractal-pattern",
       "self-aware-network",
       "oscillator-synchronization",
-      "xmark-theory"
+      "xmark-theory",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/qgtcd.md"
   },
@@ -68743,7 +69101,8 @@
       "gh-qgtcdsuperreduction",
       "start-here",
       "gh-qgtcdarreduct1",
-      "quantum-gradient-time-crystal-dilation"
+      "quantum-gradient-time-crystal-dilation",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/qgtcd-overview.md"
   },
@@ -69609,7 +69968,8 @@
       "neural-phase-trajectories-taylor-series-proposal",
       "early-a0135-a0155-obscure-argument-map",
       "san-golden-corpus-map",
-      "early-a0397-a0419-obscure-argument-map"
+      "early-a0397-a0419-obscure-argument-map",
+      "napot-tomography-not-holography"
     ],
     "archivePath": "pages/receptive-inceptive-dendritic-projection.md"
   },
@@ -70711,7 +71071,8 @@
       "grid-cells",
       "cortical-columns-reference-frames",
       "san-scale-ladder-and-claim-boundaries",
-      "phase-language-firewall"
+      "phase-language-firewall",
+      "napot-revision-genealogy"
     ],
     "archivePath": "pages/reference-frames-cortical-knowledge.md"
   },
@@ -70862,6 +71223,35 @@
       "self-aware-networks-theory"
     ],
     "archivePath": "pages/retrocausality-neural-complexity.md"
+  },
+  {
+    "slug": "retrograde-signaling",
+    "title": "Retrograde Signaling and Backward Influence",
+    "summary": "A source-recovery bridge separating retrograde messengers, dendritic backpropagation, axonal transport, and recurrent feedback before stating SAN's backward-influence hypothesis.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "neuroscience",
+      "synapse",
+      "retrograde-signaling",
+      "endocannabinoid",
+      "backpropagation",
+      "source-recovery"
+    ],
+    "path": "/v5ma.github.io/wiki/content/retrograde-signaling.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/retrograde-signaling.md"
+    ],
+    "xrRoomId": "san-retrograde-signaling",
+    "xrDeckId": "san-reader",
+    "related": [
+      "synapse",
+      "chemical-synapse",
+      "dendritic-spike",
+      "short-term-plasticity",
+      "phase-wave-differentials"
+    ],
+    "archivePath": "pages/retrograde-signaling.md"
   },
   {
     "slug": "rhythms-of-the-brain",
@@ -71232,14 +71622,15 @@
       "brain-networking-protocol",
       "multimodal-neural-state-reconstruction-perturbation",
       "san-dynamic-timeline",
-      "san-knowledge-graph"
+      "san-knowledge-graph",
+      "san-wiki-evidence-to-certification"
     ],
     "archivePath": "pages/san-claim-genealogy-2011-2022.md"
   },
   {
     "slug": "san-dynamic-timeline",
-    "title": "SAN Dynamic Timeline, 2011-2026",
-    "summary": "An interactive, source-graded map of SAN's development from 2011 through 2026, with filters for concept family, source type, stage, evidence grade, scale, medium, and publication state.",
+    "title": "SAN Dynamic Timeline, 2010-2026",
+    "summary": "An interactive, source-graded map of SAN's development from its 2010 public precursors through 2026, with filters for concept family, source type, stage, evidence grade, scale, medium, and publication state.",
     "topic": "san",
     "tags": [
       "san",
@@ -71259,6 +71650,7 @@
     "xrRoomId": "san-san-dynamic-timeline",
     "xrDeckId": "san-reader",
     "related": [
+      "early-san-facebook-genealogy-2010-2013",
       "san-claim-genealogy-2011-2022",
       "neo-mind-cycle-neurofeedback-bci-genealogy",
       "neural-lace-podcast-source-genealogy",
@@ -71272,7 +71664,8 @@
       "home",
       "san-knowledge-graph",
       "self-aware-networks-book-overview",
-      "san-authorship-provenance-and-ai-assistance"
+      "san-authorship-provenance-and-ai-assistance",
+      "san-wiki-evidence-to-certification"
     ],
     "archivePath": "pages/san-dynamic-timeline.md"
   },
@@ -71318,7 +71711,8 @@
       "neural-lace-podcast-transcripts-2017-2019",
       "selfawarenetworks-github-repository",
       "selfawarenetworks-changelog-public-record",
-      "self-aware-networks-book"
+      "self-aware-networks-book",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/san-golden-corpus-map.md"
   },
@@ -71343,7 +71737,8 @@
       "simulation-consciousness",
       "metatron-computational-unit",
       "self-modeling",
-      "comparison-evidence-is-not-biological-validation"
+      "comparison-evidence-is-not-biological-validation",
+      "san-wiki-evidence-to-certification"
     ],
     "archivePath": "pages/san-implementation-evidence-gates.md"
   },
@@ -71455,7 +71850,8 @@
       "oca",
       "selfawarenetworks-github-chronology",
       "napot-legacy-wiki-map",
-      "selfawarenetworks-changelog-public-record"
+      "selfawarenetworks-changelog-public-record",
+      "san-wiki-evidence-to-certification"
     ],
     "archivePath": "pages/san-knowledge-graph.md"
   },
@@ -71516,7 +71912,8 @@
       "gh-12san",
       "gh-13san",
       "san-golden-corpus-map",
-      "san-archive-ordering-and-research-intake-map"
+      "san-archive-ordering-and-research-intake-map",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/san-manuscript-series-genealogy.md"
   },
@@ -71660,7 +72057,8 @@
       "san-archive-ordering-and-research-intake-map",
       "san-manuscript-series-genealogy",
       "neural-lace-podcast-source-genealogy",
-      "napot-revision-genealogy"
+      "napot-revision-genealogy",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/san-repository-front-door-spine.md"
   },
@@ -71685,6 +72083,7 @@
     "xrRoomId": "san-san-research-publication-source-map",
     "xrDeckId": "san-reader",
     "related": [
+      "home",
       "flow-of-information-in-the-brain",
       "gamma-wave-consideration-sandwich",
       "neural-tuning",
@@ -72052,7 +72451,9 @@
     ],
     "xrRoomId": "san-san-san-brain-summary-google-recorder-cluster",
     "xrDeckId": "san-reader",
-    "related": [],
+    "related": [
+      "selfawarenetworks-gpt"
+    ],
     "archivePath": "pages/san-san-brain-summary-google-recorder-cluster.md"
   },
   {
@@ -72236,7 +72637,7 @@
   {
     "slug": "san-scale-ladder-and-claim-boundaries",
     "title": "SAN Scale Ladder and Claim Boundaries",
-    "summary": "This page is a reader-facing bridge between the cellular mechanism pages, the NAPOT and OCA theory pages, the medically corrected image set, and the comparison evidence pages. Its purpose is to stop four different scales from being collapsed into one picture.",
+    "summary": "Reader-facing firewall separating biological scale, empirical claim strength, and source chronology while preserving PWD as core SAN architecture across declared micro-, meso-, and macro-scale receiver relations.",
     "topic": "san",
     "tags": [
       "san"
@@ -72248,6 +72649,8 @@
     "xrRoomId": "san-san-scale-ladder-and-claim-boundaries",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "phase-wave-differential-calculus",
       "receptive-inceptive-dendritic-projection",
       "dendrites-as-computational-units",
       "camkii",
@@ -72263,6 +72666,8 @@
       "coincidence-detection",
       "computational-phase-synchronization",
       "napot-overview",
+      "neural-array-projection-oscillation-tomography",
+      "napot-theory",
       "oca",
       "tcnr",
       "brain-as-rendering-engine",
@@ -72278,7 +72683,11 @@
       "san-residual-after-prior-art-subtraction",
       "neural-array-projection",
       "self-aware-networks",
-      "gamma-wave-consideration-sandwich"
+      "gamma-wave-consideration-sandwich",
+      "magnetic-phase-field",
+      "napot-revision-genealogy",
+      "napot-tomography-not-holography",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/san-scale-ladder-and-claim-boundaries.md"
   },
@@ -72328,6 +72737,7 @@
     "xrRoomId": "san-san-tomogram",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
       "perceptron-deep-learning-metatron",
       "metatron",
       "metatron-computational-unit",
@@ -72946,7 +73356,8 @@
       "self-aware-networks-outline-v9",
       "saov9-source-inventory-book2-routing",
       "gh-saov9",
-      "self-aware-networks-book-overview"
+      "self-aware-networks-book-overview",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/saov9-self-aware-networks-overview.md"
   },
@@ -73073,7 +73484,8 @@
       "napot-overview",
       "san-paper-v2-revision-brief",
       "san-whitepaper-3rd-draft",
-      "embodiment-vision-gamma-consideration-sandwich"
+      "embodiment-vision-gamma-consideration-sandwich",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/screen-metaphor-no-inner-viewer.md"
   },
@@ -73353,10 +73765,16 @@
   {
     "slug": "self-aware-network",
     "title": "Self-Aware Network",
-    "summary": "A **self-aware network** in SAN is a system whose distributed internal state models consequential relations among itself, its body or boundary, its environment, memory, goals, and possible actions, and uses those relations to change what it does next. This is",
+    "summary": "Operational criteria for evaluating one biological or synthetic candidate as a self-aware network without collapsing self-registration, self-modeling, observer-action organization, and phenomenal experience.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "self-model",
+      "observer-action",
+      "pwd",
+      "napot",
+      "entification",
+      "operational-criteria"
     ],
     "path": "/v5ma.github.io/wiki/content/self-aware-network.md",
     "sourceFiles": [
@@ -73365,11 +73783,27 @@
     "xrRoomId": "san-self-aware-network",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
       "napot-overview",
+      "gamma-wave-consideration-sandwich",
+      "entification-observer-problem",
       "self-aware-networks",
-      "field-cell-self-bioelectric-information-entity",
+      "self-aware-networks-theory",
       "observer-mechanism",
-      "neural-array"
+      "field-cell-self-bioelectric-information-entity",
+      "artificial-neurology",
+      "neural-array",
+      "napot-revision-genealogy",
+      "san-claim-genealogy-2011-2022",
+      "gh-a0051z",
+      "gh-a0632z",
+      "gh-a0119z",
+      "gh-a0079z",
+      "gh-a0115z",
+      "gh-a0238z",
+      "gh-a0319z",
+      "gh-a0317z",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/self-aware-network.md"
   },
@@ -73388,8 +73822,8 @@
     "xrRoomId": "san-self-aware-networks",
     "xrDeckId": "san-reader",
     "related": [
-      "neural-array",
       "phase-wave-differentials",
+      "neural-array",
       "neural-rendering",
       "napot-overview",
       "neural-tuning",
@@ -73421,7 +73855,8 @@
       "neo-mind-cycle",
       "neural-lace-podcast-transcripts-2017-2019",
       "bridging-molecular-mechanisms",
-      "self-aware-networks-book"
+      "self-aware-networks-book",
+      "selfawarenetworks-gpt"
     ],
     "aliases": [
       "selfaware-networks-hypothesis"
@@ -73534,7 +73969,8 @@
       "self-aware-networks-book",
       "self-aware-networks-outline-v9",
       "saov9-source-inventory-book2-routing",
-      "gh-saov9"
+      "gh-saov9",
+      "san-wiki-evidence-to-certification"
     ],
     "archivePath": "pages/self-aware-networks-book-overview.md"
   },
@@ -73621,10 +74057,18 @@
   {
     "slug": "self-aware-networks-theory",
     "title": "Self-Aware Networks Theory: Architecture and Claim Status",
-    "summary": "A source-faithful map of the SAN theory architecture, its biological components, its open hypotheses, its strongest observer claim, its later branches, and the tests needed to distinguish them.",
+    "summary": "A source-faithful map of SAN's core architecture, with PWD as foundational receiver-relative differentiation throughout NAPOT, plus bounded biology, later formalisms, claim status, and discriminating tests.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "phase-wave-differential",
+      "core-san-architecture",
+      "theory-architecture",
+      "claim-status",
+      "source-genealogy",
+      "observer-action",
+      "napot",
+      "artificial-neurology"
     ],
     "path": "/v5ma.github.io/wiki/content/self-aware-networks-theory.md",
     "sourceFiles": [
@@ -73633,12 +74077,15 @@
     "xrRoomId": "san-self-aware-networks-theory",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
       "self-aware-networks",
       "self-aware-network",
       "neural-array-projection",
       "napot-overview",
+      "gamma-wave-consideration-sandwich",
       "artificial-neurology",
       "phase-wave-differential",
+      "tonic-phasic-phase-wave-differential",
       "gh-a0051z",
       "gh-a0194z",
       "gh-a0339z",
@@ -74100,11 +74547,18 @@
   },
   {
     "slug": "selfawarenetworks-gpt",
-    "title": "Selfawarenetworks Gpt",
-    "summary": "The **[[gh-a0206z|Self]] Aware Networks]] GPT]]** is a custom OpenAI GPT assistant built by [[gh-resnote04|Micah]] Blumberg to help researchers navigate and contribute to the [[gh-a0206z|Self]] Aware Networks]] body of work stored at `github.com/v5ma/selfaware",
+    "title": "Self Aware Networks GPT: Historical Research Interface",
+    "summary": "Historical AI research interface for navigating Micah Blumberg's SAN sources. Assistant output is navigation, not Micah authorship or science; speaker labels and exact Git chronology control attribution, and PWD remains core SAN architecture.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "source-navigation",
+      "ai-research-interface",
+      "assistant-output-boundary",
+      "source-genealogy",
+      "historical-interface",
+      "phase-wave-differential",
+      "core-san-architecture"
     ],
     "path": "/v5ma.github.io/wiki/content/selfawarenetworks-gpt.md",
     "sourceFiles": [
@@ -74113,10 +74567,24 @@
     "xrRoomId": "san-selfawarenetworks-gpt",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "gh-02san",
+      "phase-wave-differential-calculus",
+      "self-aware-networks",
+      "napot-overview",
+      "tonic-phasic-canvas",
+      "san-scale-ladder-and-claim-boundaries",
+      "screen-metaphor-no-inner-viewer",
+      "ndca-non-linear-differential-continuous-approximation",
+      "qgtcd-overview",
+      "san-san-brain-summary-google-recorder-cluster",
+      "san-manuscript-series-genealogy",
+      "san-golden-corpus-map",
+      "san-repository-front-door-spine",
+      "saov9-self-aware-networks-overview",
+      "gh-laukkonen",
       "gh-a0206z",
       "gh-resnote04",
-      "qgtcd-overview",
-      "ndca-non-linear-differential-continuous-approximation",
       "neural-array-projection",
       "self-aware-network"
     ],
@@ -75040,10 +75508,10 @@
     "xrRoomId": "san-sharp-wave-ripples",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "gh-a0309z",
       "gh-a0325znapot6",
       "gh-00abstractbump",
-      "gh-02san",
       "gh-06san",
       "tonic-absorption-generative-reexpression",
       "memory-consolidation",
@@ -75056,6 +75524,37 @@
       "san-scale-ladder-and-claim-boundaries"
     ],
     "archivePath": "pages/sharp-wave-ripples.md"
+  },
+  {
+    "slug": "short-term-plasticity",
+    "title": "Short-Term Synaptic Plasticity",
+    "summary": "Established short-lived changes in synaptic efficacy, and their bounded role as a receiver-history mechanism in SAN.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "neuroscience",
+      "synapse",
+      "plasticity",
+      "facilitation",
+      "depression",
+      "temporal-filtering"
+    ],
+    "path": "/v5ma.github.io/wiki/content/short-term-plasticity.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/short-term-plasticity.md"
+    ],
+    "xrRoomId": "san-short-term-plasticity",
+    "xrDeckId": "san-reader",
+    "related": [
+      "synapse",
+      "synaptic-plasticity",
+      "stdp",
+      "multi-timescale-reference-frames",
+      "oscillatory-plasticity-group-potentiation-depression",
+      "retrograde-signaling",
+      "tonic-absorption-generative-reexpression"
+    ],
+    "archivePath": "pages/short-term-plasticity.md"
   },
   {
     "slug": "signal-duration-coding",
@@ -77680,11 +78179,18 @@
   },
   {
     "slug": "stdp",
-    "title": "STDP",
-    "summary": "STDP enters the SAN corpus through the lineage of [[hebbian-learning|Hebbian]] / Markram-style synaptic models, which [[gh-resnote04|Micah]]'s notes explicitly cite: \"STDP \\[Markram et al\\] for additional details\" (`a0366z--md`, line 11, [on github](https://gi",
+    "title": "Spike-Timing-Dependent Plasticity",
+    "summary": "Canonical timing-dependent plasticity, its biological context and limits, and SAN's testable proposal linking local timing to assembly joining, separation, and later route readiness.",
     "topic": "san",
     "tags": [
-      "san"
+      "san",
+      "synaptic-plasticity",
+      "stdp",
+      "ltp",
+      "ltd",
+      "phase-timing",
+      "coherence-dispersion",
+      "pwd"
     ],
     "path": "/v5ma.github.io/wiki/content/stdp.md",
     "sourceFiles": [
@@ -77693,38 +78199,22 @@
     "xrRoomId": "san-stdp",
     "xrDeckId": "san-reader",
     "related": [
-      "hebbian-plasticity",
-      "action-potential",
+      "synaptic-plasticity",
+      "coherence-dispersion-sculpting-hypothesis",
+      "hebbian-learning",
       "long-term-potentiation",
       "long-term-depression",
-      "self-aware-networks",
-      "dominant-phase-wave-differential",
-      "prediction",
-      "ndca",
-      "hebbian-learning",
-      "gh-resnote04",
-      "gh-b0049y",
-      "brain-rhythms",
-      "functional-connectivity",
-      "gh-qgtcdarreduct2",
-      "nmda-receptor",
+      "ltp-ltd",
       "phase-wave-differentials",
-      "micah-blumberg",
-      "free-energy-principle",
-      "neural-oscillations",
-      "gamma-oscillations",
-      "inhibitory-interneurons",
-      "gh-gpt2023x",
-      "ltp",
-      "ltd",
-      "consciousness",
-      "coincidence-detection",
-      "gh-02san",
-      "gh-04san",
-      "gh-a0366z",
-      "gh-a0574z",
-      "gh-veca",
-      "gh-vecc"
+      "tonic-phasic-phase-wave-differential",
+      "computational-phase-synchronization",
+      "coincidence-as-a-bit",
+      "neural-tuning",
+      "memory-consolidation",
+      "oscillating-group-completion",
+      "choice",
+      "neural-rendering",
+      "short-term-plasticity"
     ],
     "archivePath": "pages/stdp.md"
   },
@@ -78455,7 +78945,10 @@
       "long-term-depression",
       "dendritic-spines",
       "phase-wave-differential",
-      "san-scale-ladder-and-claim-boundaries"
+      "san-scale-ladder-and-claim-boundaries",
+      "electrical-synapse",
+      "short-term-plasticity",
+      "retrograde-signaling"
     ],
     "archivePath": "pages/synapse.md"
   },
@@ -79006,6 +79499,7 @@
     "xrRoomId": "san-synaptic-plasticity",
     "xrDeckId": "san-reader",
     "related": [
+      "stdp",
       "tonic-absorption-generative-reexpression",
       "coincidence-as-a-bit",
       "phase-wave-differentials",
@@ -79016,7 +79510,8 @@
       "oscillating-group-completion",
       "chemical-synapse",
       "dendritic-spike",
-      "neural-tuning"
+      "neural-tuning",
+      "short-term-plasticity"
     ],
     "archivePath": "pages/synaptic-plasticity.md"
   },
@@ -79077,7 +79572,8 @@
       "action-potential-mitochondrial-reinforcement-hypothesis",
       "gh-a0329z",
       "gh-b0277y",
-      "recorder-transcript-human-source-atom-map-t07"
+      "recorder-transcript-human-source-atom-map-t07",
+      "neural-spectra-event-duration-cross-scale-hypothesis"
     ],
     "aliases": [
       "synaptic-unreliability-mvr-ionotropic-channel"
@@ -82438,6 +82934,58 @@
     "archivePath": "pages/tomography.md"
   },
   {
+    "slug": "tonic-absorption-generative-reexpression",
+    "title": "Tonic Absorption and Generative Re-expression",
+    "summary": "SAN's two-direction proposal: transient phase-wave differences are progressively integrated into an evolving tonic network state, while learned recurrent circuitry can later reconstruct or re-express a distributed pattern. The diffusion-model comparison is an analogy and testable formal hypothesis, not established brain anatomy.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "tonic-phasic",
+      "pwd",
+      "memory",
+      "replay",
+      "plasticity",
+      "diffusion-analogy",
+      "neural-rendering"
+    ],
+    "path": "/v5ma.github.io/wiki/content/tonic-absorption-generative-reexpression.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/tonic-absorption-generative-reexpression.md"
+    ],
+    "xrRoomId": "san-tonic-absorption-generative-reexpression",
+    "xrDeckId": "san-reader",
+    "related": [
+      "bistable-synaptic-plasticity",
+      "sharp-wave-ripples",
+      "memory-as-regenerable-pattern",
+      "pattern-completion",
+      "oscillating-group-completion",
+      "gh-a0310z",
+      "gh-gpt2024jan1tojan22",
+      "gh-b0010y",
+      "tonic-oscillation",
+      "neural-array-projection",
+      "tonic-phasic-phase-wave-differential",
+      "tonic-oscillation-canvas",
+      "phase-wave-differentials",
+      "synaptic-plasticity",
+      "napot-overview",
+      "neural-rendering",
+      "phasic-signals",
+      "short-term-plasticity",
+      "action-potential-waveform",
+      "multi-vesicle-release",
+      "multi-scale-memory",
+      "telescoping-network-neighborhood-reinstatement",
+      "gh-b0067ywhisper",
+      "gh-nlp1",
+      "neural-lace-podcast-source-genealogy",
+      "self-is-a-prediction-dialogue-2011",
+      "napot-revision-genealogy"
+    ],
+    "archivePath": "pages/tonic-absorption-generative-reexpression.md"
+  },
+  {
     "slug": "tonic-canvas-phasic-paint",
     "title": "Tonic Canvas, Phasic Paint",
     "summary": "The canvas is not one slow shared oscillation or pure awareness. The paint is not a fixed burst, phase, waveform, or 0/1/2/3-vesicle symbol. Synaptic release is probabilistic and target-specific, and each postsynaptic cell combines the event with many other in",
@@ -82506,6 +83054,7 @@
     "xrRoomId": "san-tonic-oscillation",
     "xrDeckId": "san-reader",
     "related": [
+      "gh-02san",
       "tonic-absorption-generative-reexpression",
       "phase-wave-differentials",
       "gh-a0037z",
@@ -82646,6 +83195,8 @@
     "xrRoomId": "san-tonic-phasic-canvas",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "phase-wave-differential-calculus",
       "tonic-oscillation",
       "observer-mechanism",
       "screen-metaphor-no-inner-viewer",
@@ -82654,7 +83205,9 @@
       "present-moment-salience",
       "receptive-inceptive-dendritic-projection",
       "san-scale-ladder-and-claim-boundaries",
-      "latent-pattern-conscious-rendering-transition"
+      "latent-pattern-conscious-rendering-transition",
+      "neuroaffective-self-registration",
+      "selfawarenetworks-gpt"
     ],
     "archivePath": "pages/tonic-phasic-canvas.md"
   },
@@ -82827,6 +83380,8 @@
     "xrRoomId": "san-tonic-phasic-phase-wave-differential",
     "xrDeckId": "san-reader",
     "related": [
+      "phase-wave-differentials",
+      "self-aware-networks-theory",
       "synaptic-unreliability-mvr-2021",
       "action-potential-mitochondrial-reinforcement-hypothesis",
       "electrical-valence-receiver-relative-drive",
@@ -82857,7 +83412,6 @@
       "gh-a0551z",
       "tonic-oscillation",
       "tonic-absorption-generative-reexpression",
-      "phase-wave-differentials",
       "early-a0531-a0561-obscure-argument-map",
       "multimodal-neuron-signal-correlate-channel",
       "expert-data-structures",
@@ -82880,7 +83434,9 @@
       "early-a0040-a0069-obscure-argument-map",
       "consideration-sandwich",
       "gamma-wave-consideration-sandwich",
-      "gamma-consideration-sandwich-diagram"
+      "gamma-consideration-sandwich-diagram",
+      "neural-spectra-event-duration-cross-scale-hypothesis",
+      "magnetic-phase-field"
     ],
     "archivePath": "pages/tonic-phasic-phase-wave-differential.md"
   },
@@ -83303,6 +83859,40 @@
       "oscillatory-agency"
     ],
     "archivePath": "pages/tripoiesis.md"
+  },
+  {
+    "slug": "tripartite-synapse-multicellular-engram",
+    "title": "From Tripartite Synapse to Multicellular Engram",
+    "summary": "A source-faithful bridge from local astrocyte-synapse regulation to changing neuron-astrocyte memory ensembles, SAN tonic context, and a decisive test of PWD routing.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "astrocytes",
+      "glia",
+      "memory",
+      "engram",
+      "tonic-phasic"
+    ],
+    "path": "/v5ma.github.io/wiki/content/tripartite-synapse-multicellular-engram.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/tripartite-synapse-multicellular-engram.md"
+    ],
+    "xrRoomId": "san-tripartite-synapse-multicellular-engram",
+    "xrDeckId": "san-reader",
+    "related": [
+      "astrocytes",
+      "astrocyte-cognition",
+      "glial-cells",
+      "glial-modulation",
+      "engram",
+      "memory-as-regenerable-pattern",
+      "oscillation-memory-reinstatement",
+      "every-cell-chemical-neural-network",
+      "tonic-phasic-canvas-of-consciousness",
+      "phase-wave-differential",
+      "napot-theory"
+    ],
+    "archivePath": "pages/tripartite-synapse-multicellular-engram.md"
   },
   {
     "slug": "triune-harmonic-dynamics",
@@ -84804,114 +85394,79 @@
     "archivePath": "pages/zeta-curriculum.md"
   },
   {
-    "slug": "machine-self-report-active-canvas-consciousness-test",
-    "title": "From Machine Self-Report to an Active-Canvas Test",
-    "summary": "A source-faithful SAN bridge from observable machine self-report to a typed, causal test of persistent state, recurrent access, self-modeling, action-return closure, and an active tonic-context analogue without treating any pass as proof of experience.",
+    "slug": "neural-spectra-event-duration-cross-scale-hypothesis",
+    "title": "Neural Spectra, Event Duration, and the Cross-Scale Magnitude Question",
+    "summary": "Neural activity can be measured at several scales. A recording may describe the width of one action potential, the calcium entering a presynaptic terminal, the number and timing of vesicle-fusion events, the response of a receiving cell, th",
     "topic": "san",
     "tags": [
       "san",
-      "artificial-neurology",
-      "machine-consciousness",
-      "self-report",
-      "tonic-canvas",
-      "observer-mechanism",
-      "tcnr"
+      "neural-spectra",
+      "action-potential-duration",
+      "synaptic-release",
+      "cross-scale",
+      "one-over-f",
+      "qgtcd-genealogy"
     ],
-    "path": "/v5ma.github.io/wiki/content/machine-self-report-active-canvas-consciousness-test.md",
+    "aliases": [
+      "Cross-Scale Frequency-Magnitude Hypothesis",
+      "Neural Spectra and Event Duration"
+    ],
+    "path": "/v5ma.github.io/wiki/content/neural-spectra-event-duration-cross-scale-hypothesis.md",
     "sourceFiles": [
-      "/v5ma.github.io/wiki/content/machine-self-report-active-canvas-consciousness-test.md"
+      "/v5ma.github.io/wiki/content/neural-spectra-event-duration-cross-scale-hypothesis.md"
     ],
-    "xrRoomId": "san-machine-self-report-active-canvas-consciousness-test",
-    "xrDeckId": "san-reader",
+    "xrRoomId": "san-wiki-neural-spectra-event-duration-cross-scale-hypothesis",
+    "xrDeckId": "san-san",
     "related": [
-      "machine-agency-consciousness-welfare-evidence-program",
-      "consciousness-claim-and-evidence-ladder",
-      "artificial-neurology",
-      "observer-mechanism",
-      "field-cell-self-bioelectric-information-entity",
-      "consciousness-canvas-wave-differential",
-      "oscillator-consciousness-threshold",
-      "artificial-souls",
-      "screen-metaphor-no-inner-viewer"
-    ],
-    "archivePath": "pages/machine-self-report-active-canvas-consciousness-test.md"
-  },
-  {
-    "slug": "tonic-absorption-generative-reexpression",
-    "title": "Tonic Absorption and Generative Re-expression",
-    "summary": "SAN's two-direction proposal: transient phase-wave differences are progressively integrated into an evolving tonic network state, while learned recurrent circuitry can later reconstruct or re-express a distributed pattern. The diffusion-model comparison is an analogy and testable formal hypothesis, not established brain anatomy.",
-    "topic": "san",
-    "tags": [
-      "san",
-      "tonic-phasic",
-      "pwd",
-      "memory",
-      "replay",
-      "plasticity",
-      "diffusion-analogy",
-      "neural-rendering"
-    ],
-    "path": "/v5ma.github.io/wiki/content/tonic-absorption-generative-reexpression.md",
-    "sourceFiles": [
-      "/v5ma.github.io/wiki/content/tonic-absorption-generative-reexpression.md"
-    ],
-    "xrRoomId": "san-tonic-absorption-generative-reexpression",
-    "xrDeckId": "san-reader",
-    "related": [
-      "bistable-synaptic-plasticity",
-      "sharp-wave-ripples",
-      "memory-as-regenerable-pattern",
-      "pattern-completion",
-      "oscillating-group-completion",
-      "gh-a0310z",
-      "gh-gpt2024jan1tojan22",
-      "gh-b0010y",
-      "tonic-oscillation",
-      "neural-array-projection",
+      "action-potential-magnitude-via-duration",
+      "action-potential-magnitude",
+      "synaptic-unreliability-mvr-2021",
+      "cross-scale-oscillation-communication",
       "tonic-phasic-phase-wave-differential",
-      "tonic-oscillation-canvas",
       "phase-wave-differentials",
-      "synaptic-plasticity",
-      "napot-overview",
-      "neural-rendering"
+      "neo-mind-cycle-neurofeedback-bci-genealogy",
+      "neural-lace-podcast-source-genealogy",
+      "quantum-gradient-time-crystal-dilation"
     ],
-    "archivePath": "pages/tonic-absorption-generative-reexpression.md"
+    "archivePath": "pages/neural-spectra-event-duration-cross-scale-hypothesis.md"
   },
   {
-    "slug": "latent-pattern-conscious-rendering-transition",
-    "title": "From Latent Pattern to Conscious Rendering",
-    "summary": "SAN's source-faithful account of how a latent or nonconscious pattern may be reconstructed, selectively coupled to an active distributed rendering, recruited into flexible consequence, and later decoupled without erasing its memory substrate.",
+    "slug": "san-wiki-evidence-to-certification",
+    "title": "SAN Wiki Evidence-to-Certification Method",
+    "summary": "How the SAN Wiki preserves complete source meaning, checks each substantive atom through six independent lenses, certifies exact page bytes, and keeps evidence status separate from public release.",
     "topic": "san",
     "tags": [
       "san",
-      "consciousness",
-      "unconscious-processing",
-      "virtual-engram",
-      "choice",
-      "functional-connectivity",
-      "phase-wave-differential"
+      "encyclopedia",
+      "source-faithfulness",
+      "atom-integrity",
+      "evidence",
+      "review",
+      "certification"
     ],
-    "path": "/v5ma.github.io/wiki/content/latent-pattern-conscious-rendering-transition.md",
+    "aliases": [
+      "SAN Wiki Atom Integrity Ledger",
+      "Evidence to Certification",
+      "SAN Wiki Review Method"
+    ],
+    "path": "/v5ma.github.io/wiki/content/san-wiki-evidence-to-certification.md",
     "sourceFiles": [
-      "/v5ma.github.io/wiki/content/latent-pattern-conscious-rendering-transition.md"
+      "/v5ma.github.io/wiki/content/san-wiki-evidence-to-certification.md"
     ],
-    "xrRoomId": "san-latent-pattern-conscious-rendering-transition",
+    "xrRoomId": "san-san-wiki-evidence-to-certification",
     "xrDeckId": "san-reader",
     "related": [
-      "memory-state-drift-virtual-mind",
-      "conscious-access",
-      "attention-awareness-consciousness-triad",
-      "attention-schema-theory",
-      "choice",
-      "dominant-phase-wave-differential-rhythm",
-      "functional-connectivity",
-      "tonic-phasic-canvas",
-      "observer-mechanism",
-      "neural-rendering",
-      "consideration-sandwich",
-      "gamma-wave-consideration-sandwich",
-      "gamma-consideration-sandwich-diagram"
+      "home",
+      "phase-wave-differentials",
+      "san-scale-ladder-and-claim-boundaries",
+      "consciousness-claim-and-evidence-ladder",
+      "san-implementation-evidence-gates",
+      "san-claim-genealogy-2011-2022",
+      "san-golden-corpus-map",
+      "self-aware-networks-book-overview",
+      "san-knowledge-graph",
+      "san-dynamic-timeline"
     ],
-    "archivePath": "pages/latent-pattern-conscious-rendering-transition.md"
+    "archivePath": "pages/san-wiki-evidence-to-certification.md"
   }
 ]

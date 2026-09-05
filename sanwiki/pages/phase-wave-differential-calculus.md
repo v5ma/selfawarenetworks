@@ -1,6 +1,12 @@
 # Phase-Wave Differential Calculus
 
-**Phase-Wave Differential Calculus** is a proposed SAN framework connecting receiver-relative neural departures, variability, Neural Tuning, and successive nonlinear approximation. It is not an established calculus performed symbolically by neurons.
+**Phase-Wave Differential Calculus** is an optional SAN formalization connecting receiver-relative neural departures, variability, Neural Tuning, and successive nonlinear approximation; it is not the definition or architectural source of PWD, which is core SAN architecture. It is not an established calculus performed symbolically by neurons.
+
+> [!important] PWD is core; this calculus is optional
+> PWD is core SAN architecture. This page proposes one calculational formalization of typed,
+> receiver-relative PWD relations; equation order and model-comparison order do not make PWD a
+> later stage, an optional NAPOT component, or a secondary concept. NAPOT uses PWD throughout but
+> does not contain, define, or outrank it.
 
 The candidate operation is:
 
@@ -13,17 +19,53 @@ expected tonic state
 -> improved or altered state approximation
 ```
 
+The arrows are analytical bookkeeping for this candidate formalization, not an architectural rank
+order or a claim that every biological event must pass through six discrete serial stages.
+
 This formulation is broader than phase coding only if the additional variables and receiver consequences provide causal or held-out predictive value.
 
 ## Historical source
 
-The principal 2024 donor document describes PWD as an unexpected spike, burst, inhibition, or transmitted-quantity departure from a tonic group relation. It connects event duration and amplitude to magnitude, compares the departure with a physical derivative or loss-like term, treats events as discrete despite coarse-grained continuity, and joins PWD to Neural Tuning and changing functional routes.
+The principal donor is the public September 6, 2024 composite dialogue
+[`02san.md`](https://github.com/v5ma/selfawarenetworks/blob/64f018d2d93b7de6718058c4724c43b40e5dd4b7/02san.md).
+In its Micah-labeled turns, PWD includes an unexpected spike, burst, inhibition, or
+transmitted-quantity departure from a tonic group relation. Micah connects event duration and
+amplitude to magnitude, compares the departure with a physical derivative or loss-like term,
+treats bounded signaling events as discrete within a coarse-grained continuing process, and joins
+PWD to Neural Tuning and changing functional routes.
 
-The donor is a mixed working dialogue. It establishes the genealogy of the SAN proposal, not independent biological validation. Generated explanatory passages must be separated from Micah-authored claims before quotation or publication.
+The donor is a mixed working dialogue. Its speaker labels matter: assistant-generated
+gradient-descent, predictive-coding, and biological-validation expansions are not Micah-authored
+claims and are not evidence for the proposal. The source establishes SAN genealogy, not independent
+biological validation.
 
-Five earlier 2022 routes also belong to the genealogy: array-to-array transformed representation, early cortical-column assumptions, distributed object/location/body coding, proposed apical/basal evidence-expectation comparison, and distributed rendering. Their bounded modern interpretation must preserve transformation and receiver dependence while rejecting a universal column circuit, fixed basal/apical semantics, a complete object inside one event, or a localized viewer.
+Three public 2022 documents establish earlier parts of the calculus route:
 
-## Operational PWD event
+- [`a0258z.md`, July 5](https://github.com/v5ma/selfawarenetworks/blob/71bbb1aa7cb672d15fbc6e3abf3487fefe4dc8b8/a0258z.md), which compares ordered excitatory and inhibitory phase changes with a Taylor-like approximation;
+- [`a0149z.md`, July 7](https://github.com/v5ma/selfawarenetworks/blob/738abec60a19d3c438ee04d6d6f01c1b110fd981/a0149z.md), which joins phasic, tonic, and inhibited events to receiving arrays, coincidence, and changing phase trajectories; and
+- [`a0238z.md`, July 11](https://github.com/v5ma/selfawarenetworks/blob/dc879b63b6f99778ce0c90c616c9a968d3624304/a0238z.md), which places pattern detection at receiving dendrites and the active observer across a distributed system.
+
+Their bounded modern interpretation preserves ordered transformation, excitation and inhibition,
+receiver dependence, and distributed rendering while rejecting a universal cortical-column
+circuit, a complete object inside one event, or a localized viewer. The donor examples are not
+exhaustive: current SAN uses PWD for typed, receiver-relative departures that may involve
+excitation, inhibition, a missing expected event, delay, or interactions. PWD is not arithmetic
+excitation minus inhibition.
+
+## Architectural rank and evidence status
+
+| Question | Status |
+|---|---|
+| What is core SAN architecture? | PWD: a typed, receiver-relative departure from a declared tonic or reference pattern. |
+| What is optional? | This page's feature vector, Taylor basis, loss-like interpretation, and update equations are candidate formalisms for some PWD-bearing relations. |
+| What does established science support? | Measurable timing, phase, variability, nonlinear history dependence, and receiver input-output transformations in bounded preparations. |
+| What remains an empirical SAN burden? | Showing that the complete typed PWD representation adds reproducible predictive and causal value beyond capacity-matched alternatives. |
+
+Architectural rank and empirical support are different axes. A pending incremental test of this
+calculus cannot demote PWD within SAN, and support for one equation cannot make that equation the
+definition of PWD.
+
+## One candidate operational record
 
 For event `i` at receiver `r`, a candidate feature vector is:
 
@@ -32,7 +74,7 @@ p_(r,i) = [delta_phi, delta_f, delta_A, delta_tau,
            delta_q, delta_V, delta_x]_(r,i)                      [1]
 ```
 
-The terms represent declared differences in phase, frequency or event rate, amplitude, duration, transmitted quantity, variability, and spatial or network state. They are not interchangeable:
+The terms represent one non-exhaustive measurement proposal for declared differences in phase, frequency or event rate, amplitude, duration, transmitted quantity, variability, and spatial or network state. They are not PWD's definition and are not interchangeable:
 
 - phase is circular and requires a reference;
 - frequency depends on an estimator and time window;
@@ -63,7 +105,7 @@ Let a receiver's transformation depend on current input `u`, context `c`, and tu
 y_(r,n) = F_r(u_n, c_n; theta_(r,n))                             [3]
 ```
 
-The SAN hypothesis is that some PWD events contribute to a subsequent update:
+The SAN hypothesis is that some registered PWD relations contribute to a subsequent update:
 
 ```text
 theta_(r,n+1) = U_r(theta_(r,n), p_(r,i), c_n, y_(r,n))          [4]
@@ -81,9 +123,9 @@ P_K(delta_z) = sum(k=0..K) D^k F_r(z_0)[delta_z^(tensor k)] / k! [5]
 
 The sequence `P0, P1, ..., PK` is the proposed **Taylor Sequence of Polynomials**. The biological claim is not that a neuron writes the equation. It is that ordered physical departures may supply samples from which a cell, circuit, or external model realizes progressively higher-order local correction.
 
-Neural systems also have memory. A Volterra functional expansion is therefore an essential comparator rather than a competing vocabulary. Volterra methods already model nonlinear, history-dependent biological transformations ([Korenberg and Hunter, 1996](https://doi.org/10.1007/BF02667354)) and have been applied to neuronal ensembles ([Zanos et al., 2008](https://doi.org/10.1109/TNSRE.2008.926716)) and hippocampal point processes ([Song et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4286344/)).
+Neural systems also have history dependence. A Volterra functional expansion is therefore an essential comparator rather than a competing vocabulary. Volterra methods represent nonlinear, history-dependent biological transformations ([Korenberg and Hunter, 1996](https://pubmed.ncbi.nlm.nih.gov/8678357/)), have been applied to neuronal-ensemble spike-train transformations ([Zanos et al., 2008](https://pubmed.ncbi.nlm.nih.gov/18701382/)), and have been evaluated on point-process transformations in rodent hippocampal data ([Sandler et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25479231/)).
 
-The proposed novelty is the typed, receiver-relative PWD event and its update semantics, not polynomial or Volterra mathematics.
+The proposed novelty of this calculus is an operational formalization of typed, receiver-relative PWD relations and their update semantics, not polynomial or Volterra mathematics. The formalization does not create PWD or make it secondary.
 
 ## Difference from neighboring frameworks
 
@@ -95,6 +137,11 @@ The proposed novelty is the typed, receiver-relative PWD event and its update se
 | Predictive coding | Prediction-error relations update a model | Show which PWD is an error rather than assuming every departure is one |
 | Phase-response curve | Perturbation phase predicts oscillator timing shift | Show downstream receiver and tuning consequence |
 | Volterra model | Nonlinear history-dependent input-output approximation | Show why PWD typing improves explanation or prediction |
+
+Phase-response curves quantify how transient excitatory inputs can advance or delay a repetitively
+firing cortical neuron's next spike as a function of arrival phase ([Gutkin, Ermentrout, and Reyes,
+2005](https://pubmed.ncbi.nlm.nih.gov/15829595/)). That is component evidence and a comparator,
+not PWD semantics.
 
 Phase-of-firing has carried visual information beyond spike count in macaque V1 ([Montemurro et al., 2008](https://doi.org/10.1016/j.cub.2008.02.023)). PWD must outperform that simpler baseline rather than relabel it.
 
@@ -114,7 +161,7 @@ Greater dimensionality alone is not evidence.
 
 ## Relation to NAPOT
 
-PWD calculus is a candidate update mechanism inside NAPOT. NAPOT adds the stronger requirement that many partial projections constrain an identifiable hidden state and redistribute a useful update. Neither a PWD event nor a Taylor approximation alone establishes neural rendering, tomography, consciousness, or observerhood.
+PWD calculus is a candidate formal language for describing PWD-bearing update relations used throughout NAPOT. NAPOT adds the model-specific requirement that many partial projections constrain an identifiable hidden state and redistribute a useful update, but it does not contain, define, or outrank PWD. Neither one PWD operationalization nor a Taylor approximation alone establishes neural rendering, tomography, consciousness, or observerhood.
 
 ## Read next
 
@@ -126,5 +173,9 @@ PWD calculus is a candidate update mechanism inside NAPOT. NAPOT adds the strong
 - [[tonic-phasic-canvas|Tonic Canvas and Phasic Ink]]
 - [[canvas-is-the-receiver|The Canvas Is Also the Receiver]]
 - [[napot-overview|NAPOT Overview]]
+- [[napot-theory|NAPOT Theory]]
+- [[neural-array-projection-oscillation-tomography|Neural Array Projection Oscillation Tomography]]
+- [[san-scale-ladder-and-claim-boundaries|SAN Scale Ladder and Claim Boundaries]]
+- [[gh-02san|02san Source Record]]
 - [[phase-language-firewall|Phase Language Firewall]]
 - [[gh-13san|13san: Computable Consciousness, Phase Variability, and Self-Modifying Timing]]

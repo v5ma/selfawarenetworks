@@ -37,7 +37,7 @@ Because the umbrella label "tonic phasic oscillation" itself receives no direct 
 - [[theta-oscillations-background-scripts]] — theta-band tonic carriers as cognitive scripts
 - [[alpha-wave-sensory-suppression]] — alpha-band tonic suppression of input
 - [[beta-wave-cognitive-output]] — beta-band cognitive output band
-- [[gamma-wave-consideration-sandwich]] — gamma-band phasic events in deliberation
+- [[gamma-wave-consideration-sandwich]] — Layer-2/3 gamma consideration and proprioceptive coordination between the input-side and action-side buns
 - [[dreams-as-theta-wave-sequences]] — theta-band sequences in sleep
 - [[brainwave-entrainment]] — entrainment as tonic-phasic alignment
 - [[neuromodulation-brainwave-entrainment]] — neuromodulator influence on rhythm

@@ -4,6 +4,7 @@ tags: [san, information-flow, dendrites, recurrence, thalamocortical, bci, distr
 aliases: [Flow of Information in the Brain, Brain Information Flow]
 summary: "A source-faithful account of how sensory, cellular, circuit, thalamocortical, and motor transformations form a recurrent observer-action loop in SAN."
 status: governed
+book_atlas_bridge_ids: [B2-BR-017]
 ---
 
 # The Flow of Information in the Brain
@@ -32,6 +33,11 @@ sensory or bodily event
 The same event is therefore **re-expressed through successive physical states** rather than copied
 from neuron to neuron. There is no single final cell, screen, or inner viewer. The changing network,
 including its sensory and motor consequences, is the observer-action process.
+
+> **Book/Atlas bridge B2-BR-017:** This is the Encyclopedia's canonical route from nested cortical and thalamic
+> traffic through Neural Tuning and the Gamma Consideration Sandwich to action and returned sensory
+> evidence. The linked concept pages explain their own mechanisms; this page explains how they fit
+> into one recurrent traffic graph.
 
 ## One question at four biological scales
 
@@ -83,10 +89,15 @@ sensory and bodily transduction
 This is where three SAN concepts meet without becoming synonyms. This page supplies the proposed
 traffic topology. [[neural-tuning|Neural Tuning]] asks how learned cellular state, inhibition,
 neuromodulation, and corticothalamic recurrence change which traffic is effective.
-[[gamma-wave-consideration-sandwich|The Gamma Consideration Sandwich]] proposes a
-receiver-relative timing organization across sensory evidence, maintained context, consideration,
-action, and returned consequence. GCS is therefore a timing-and-routing hypothesis over this
-heterogeneous traffic graph, not a replacement for its anatomy.
+[[gamma-wave-consideration-sandwich|The Gamma Consideration Sandwich]] proposes a more specific
+receiver-relative timing organization: alpha-associated primary-sensory input and beta-associated
+prefrontal thought/top-down input form the top bun; Layer-2/3 gamma performs consideration and
+proprioceptive coordination; and Layer-5 theta/gamma carries action-side output and returned body
+input in the bottom bun. GCS is a timing-and-routing hypothesis over this
+heterogeneous traffic graph, not a replacement for its anatomy or a claim that each band or layer
+has one exclusive role throughout cortex. Here, returned body input names the functional return
+term in the GCS cycle; it does not mean that Layer 5 is the sole anatomical carrier of ascending
+body information.
 
 Primate visual-cortex experiments provide one bounded example rather than a universal law:
 feedforward influence has often been associated with gamma-range activity and feedback influence
@@ -94,6 +105,13 @@ with alpha/beta-range activity in those preparations. Cortico-thalamo-cortical r
 show extended, cell-type-specific chains of cortical, thalamic, and local loops. These findings
 support recurrent traffic and direction-specific coordination; they do not prove the complete SAN
 cycle or assign one frequency to every feedforward or feedback pathway.
+
+Those interareal frequency-direction findings and the GCS band-role hypothesis are not the same
+claim. The visual findings describe directed influence between named cortical areas in specific
+preparations. GCS proposes a receiver-relative local timing organization across sensory and
+top-down input, consideration and proprioceptive coordination, action-side output, and returned
+body evidence. The former constrains and supplies comparison evidence for the latter; it does not
+directly validate GCS or relabel its functional roles.
 
 ## What established neuroscience supports
 
@@ -115,19 +133,44 @@ they do not establish one fixed route or one universal circuit for every cortica
 - [Kar et al. (2019), recurrence in primate object recognition](https://doi.org/10.1038/s41593-019-0392-5)
 - [Bastos et al. (2015), frequency-dependent feedforward and feedback influences](https://doi.org/10.1016/j.neuron.2014.12.018)
 - [Dynamic corticothalamic modulation during wakefulness (2024)](https://doi.org/10.1038/s41467-024-47863-8)
+- [Ledergerber and Larkum (2010), state- and timing-dependent integration in Layer-6 pyramidal dendrites](https://doi.org/10.1523/JNEUROSCI.2254-10.2010)
+- [Manita et al. (2015), an M2-to-S1 route that drives Layer-5 dendritic activity and supports tactile discrimination in mice](https://doi.org/10.1016/j.neuron.2015.05.006)
+- [Michalareas et al. (2016), gamma-dominant feedforward and alpha/beta-dominant feedback influences in human visual cortex](https://doi.org/10.1016/j.neuron.2015.12.018)
+- [Ziegler et al. (2023), opposing Layer-6 corticothalamic and Layer-5 effects on somatosensory gain and behavior in mice](https://doi.org/10.1038/s41467-023-38798-7)
+- [Mo, McKinnon, and Sherman (2024), causal involvement of an S1-Layer-5-to-POm transthalamic route in whisker-based discrimination](https://doi.org/10.1038/s41467-024-50163-w)
+- [Weineck et al. (2020), pre-vocal beta/high-gamma changes and theta frontostriatal coupling that predict bat vocal output](https://doi.org/10.1371/journal.pbio.3000658)
+- [García-Rosales et al. (2022), frontal-to-auditory flow before bat echolocation and auditory-to-frontal return after vocalization](https://doi.org/10.1038/s41467-022-31230-6)
+
+These studies establish component operations in named species, circuits, tasks, layers, and
+measurement bands. They do not establish one universal cortical route, the full Neural Tuning or
+GCS operator, or the claim that oscillatory power is itself the energy that contracts muscle.
+Movement and vocalization require appropriately timed synaptic drive and motor-neuron recruitment;
+the oscillatory measurements are population-level correlates and candidate coordination variables.
+
+## Four-layer claim separation
+
+| Claim layer | What this page says |
+|---|---|
+| Established operation | Cortical processing includes recurrent feedforward and feedback routes, heterogeneous laminar transformations, corticothalamic interactions, state-dependent dendritic integration, descending output, and sensory consequences of action. Particular preparations show route- and frequency-dependent influences. |
+| Micah's documented synthesis | The dated SAN sources progressively join returned sensory consequence, layered-cortex engineering, modality-sensitive write-back, nested cortical-thalamic traffic, receiver preparation, Neural Tuning, GCS, action, and reafference. |
+| SAN extension | Learned and current receiver state tune available functional connectivity; phase-compatible and inhibitory events help select temporary routes; action changes the body and world; returned evidence changes the next rendered and action-ready state. |
+| Decisive test | Identify sender, receiver, route, layer, timescale, and behavioral consequence; then perturb the predicted preparation or return route while controlling sensory input, movement, arousal, mean firing, and gross power. The full model must outperform simpler feedforward, rate-only, and power-only alternatives on held-out prediction and causal intervention. |
 
 ## Terminology repair: MVR is not MVB
 
 The recording briefly confuses two different biological terms:
 
 - **Multivesicular release (MVR)** means that one presynaptic event can release more than one
-  synaptic vesicle at an active zone or connection.
+  synaptic vesicle at an active zone or connection
+  ([Dürst et al., 2022](https://doi.org/10.1038/s41467-022-33565-6)).
 - **Multivesicular bodies (MVBs)** are endosomal organelles containing internal vesicles. They are
-  not the synaptic-release mechanism being discussed.
+  not the synaptic-release mechanism being discussed
+  ([Stahl and Barbieri, 2002](https://doi.org/10.1126/stke.2002.141.pe32)).
 
 The intended SAN question survives the transcription and vocabulary error: a synapse is a stateful
 channel. Presynaptic potassium-channel state and action-potential waveform can alter terminal
-calcium entry and transmitter release under bounded conditions. Release is probabilistic, and MVR
+calcium entry and transmitter release under bounded conditions
+([Hoppa et al., 2014](https://doi.org/10.1016/j.neuron.2014.09.038)). Release is probabilistic, and MVR
 does not establish a fixed vesicle-count alphabet or prove that one spike broadcasts a complete
 memory. See [[synaptic-unreliability-mvr-2021|Synaptic Unreliability, MVR, and the Ionotropic Information Channel]].
 
@@ -140,10 +183,19 @@ than saying that activity merely travels from sensory cortex to association cort
 
 The later SAN vocabulary organizes the 2021 questions without being backdated into the recording:
 
-- **Tonic context:** the ongoing, structured state into which a new event arrives.
+- **Tonic context:** in this SAN usage, the receiver's regular ongoing oscillatory pattern into
+  which a new event arrives.
 - **Phasic difference:** the event-driven departure that changes the receiving system.
-- **PWD:** the open hypothesis that receiver-relative timing, phase, frequency, amplitude, duration,
-  transmitted quantity, and network location can form a richer update variable.
+- **PWD is a core SAN concept:** its proposed operator is a typed, receiver-relative departure from
+  a declared tonic or regular oscillatory pattern. That departure may include waves of excitation,
+  waves of inhibition, or their interaction, alongside timing, phase, frequency, amplitude,
+  duration, transmitted quantity, and network location as a richer update variable. The
+  differential from the tonic reference defines PWD; neither sign alone defines it, and PWD is not
+  excitation minus inhibition. Its naming date is genealogy metadata, not conceptual rank.
+  In rat occipital-neocortical slices, experimentally changing GABAergic inhibition altered the
+  synchronization and spatial complexity of oscillatory waves
+  ([Xiao et al., 2012](https://doi.org/10.1111/j.1460-9568.2012.08132.x)). This is bounded component
+  evidence for retaining inhibition in the wave dynamics, not validation of PWD as a complete code.
 - **NAPOT:** the open hypothesis that many partial transformations can support iterative,
   distributed reconstruction and coordinated action.
 
@@ -187,7 +239,23 @@ The strongest SAN experiment would compare increasingly rich models of the same 
 The richer model must predict held-out receiver activity, perception, action, or reafferent updating
 better than simpler alternatives. Causal perturbation of the predicted route must change the result
 in the predicted direction. If the extra SAN variables do not improve prediction or intervention,
-the stronger account should be rejected or narrowed.
+that particular enriched model must be revised or narrowed. A failed model comparison does not
+erase the dated source record or justify compressing the full SAN argument into the failed
+formulation.
+
+## Source-faithful genealogy of the joined route
+
+| Dated stage | Contribution to this bridge | Boundary |
+|---|---|---|
+| September 21, 2011, owner-dated; public Git fixation June 10, 2022 | [[gh-a0051z|a0051z]] describes sensation changing a learning/prediction process, neural activity contributing to movement or sound, and sensed consequences changing the next state. | Sensory-action-return ancestor; not yet a laminar, thalamic, Neural Tuning, GCS, PWD, or NAPOT account. |
+| May 18, 2012, owner-dated; public Git fixation June 10, 2022 | [[gh-a0083z|a0083z]] joins returned brain-derived light/sound feedback with the engineering problem of a folded six-layer cortex. | Operational ancestor; it does not establish semantic decoding or one universal cortical route. |
+| April 2017 public recording; public Git transcript fixation October 22, 2022 | [[gh-nlp1|Neural Lace Podcast 1]] compares feedback-rich and connectionless protocols, separates modality-sensitive routes, and proposes writing back the difference between present and desired multisensory patterns. | Engineering comparisons and a difference-writeback ancestor; the current transcript source proves the month, not an exact April day, and later SAN terms are not backdated into it. |
+| March 25, 2021 recording | [[gh-b0327ywhisper|The Flow of Information in the Brain]] follows modality-relevant, vertical, horizontal, recurrent, and transthalamic routes. Micah's questions and synthesis remain distinct from F. Scott's explanations of nested loops. | Machine transcript with incomplete diarization; quotations require audio verification, and later SAN vocabulary is not backdated. |
+| September 2-9, 2022 public Git stages | [[gh-a0007z|a0007z]] joins deep-layer dendrites, corticothalamic loops, burst timing, excitation, inhibition, and cooperative recruitment into the Neural Tuning/task-assembly stage. The NAPOT macro-clock formulation appears in the September 2 revision; Neural Tuning and inhibitory assembly selection are explicit in the September 9 revision. | SAN hypothesis built from heterogeneous circuits, not a universal column law. These dates identify stages within a developing file, not the origin of every component it contains. |
+| January 22, 2024 source note; January 24 public article | [[gh-a0403z|a0403z]] and [Cortical Dynamics & Neurocircuitry](https://www.svgn.io/p/cortical-dynamics-and-neurocircuitry) join local laminar, corticothalamic, long-range cortical, output, and return traffic. | Strong authorial evidence for the joined SAN map; rough proportions and universalized anatomy require route-specific replacement. |
+| October 21, 2024 public Git source | [[gh-rexnote06|rexnote06]] adds the consideration-sandwich operation: alpha-associated sensory input and beta-associated thought/decision input meet gamma consideration and proprioceptive coordination. | The detailed Layer-4 top bun, Layer-2/3 gamma middle, and Layer-5 theta/gamma bottom bun are a 2026 author clarification and are not backdated. |
+| May 16, 2025 first draft; August 21, 2025 Zenodo deposit | [The first DOI-backed SAN OCA paper](https://doi.org/10.5281/zenodo.16922401) consolidates receive-transform-project arrays, recurrent traffic, inhibition, Neural Tuning, GCS, output, and returned evidence. | Later consolidation, not the origin date of the earlier stages and not experimental validation. The DOI deposit date is not substituted for the first-draft date. |
+| 2026 Encyclopedia synthesis | This page joins the stages through matching-scale anatomy, claim separation, and decisive tests. | Present synthesis; it preserves the earlier stages without assigning its mature wording to them. |
 
 ## Why the March 2021 recording matters
 
@@ -256,24 +324,31 @@ local inhibitory circuits in area- and cell-type-specific loops. The anatomy sup
 routing without requiring one universal column pathway.
 
 - [Shepherd and Yamawaki (2021), cortico-thalamo-cortical loop cell classes](https://doi.org/10.1038/s41583-021-00459-3)
-- [Cortical glutamatergic projection-neuron subnetworks (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10571488/)
+- [Mohan et al. (2023), cortical glutamatergic projection-neuron subnetworks](https://doi.org/10.1038/s41593-022-01244-w)
 
 ## Earlier state-dependent output branch
 
-[[gh-a0156z|a0156z]] preserves a June 2012 multi-speaker debate over what a one-bit artificial
-neuron discards. Its durable question is whether dendritic and cellular state remains consequential
-through spike timing, burst, waveform, terminal calcium, release, and receiver-specific effects.
+[[gh-a0156z|a0156z]] preserves a multi-speaker debate owner-dated September 19, 2012. It first
+entered the public Git record on June 8, 2022 under the precursor filename `a0365z ctpr.txt` and was
+renamed to `a0156z.md` on June 12, 2022. Its durable question is whether dendritic and cellular state
+remains consequential through spike timing, burst, waveform, terminal calcium, release, and
+receiver-specific effects.
 The period `electron pulse` and all-to-all broadcast language is not needed, and the mature PWD term
 is not backdated. [Li, Poo, and Dan (2009)](https://doi.org/10.1126/science.1169957) and
 [Kwan and Dan (2012)](https://doi.org/10.1016/j.cub.2012.06.007) show that one neuron's influence can
 be consequential under bounded, state- and cell-type-dependent conditions. See the
 [[early-a0156-a0502-obscure-argument-map|full source map]].
 
-## Image status
+## Visual status
 
-No medically reviewed illustration is currently accepted for this page. The replacement should
-show the same event transformed across declared micro, meso, macro, and organism scales, with
-recurrent feedback and reafference, without drawing a single universal pathway or inner viewer.
+This exact figure passed the SAN project medical-art and source-faithfulness protocol; that is not
+clinical or regulatory approval. It shows one event re-expressed across declared micro, meso,
+macro, and organism scales, including a bounded local recurrent excitatory-inhibitory circuit,
+heterogeneous cortical-thalamic routes, distributed action, and reafference. The machine rail is an
+engineering analogy, not anatomy or biological evidence. Any pixel, label, caption, source, or
+claim-scope change requires a fresh exact-artifact review.
+
+![Information is re-expressed, not copied. A medically reviewed SAN infographic tracks one event across receptor transduction, cellular integration, a local recurrent excitatory-inhibitory circuit, heterogeneous cortical-thalamic routing, distributed action, and reafference. A separate machine rail is labeled as engineering analogy only. PWD is shown as a core SAN concept: a typed, receiver-relative departure from a declared tonic pattern that may involve excitation, inhibition, or interaction, and is not excitation minus inhibition.](assets/generated/san/san-brain-machine-flow-comparison/san-brain-machine-flow-comparison-001.png#compact-html)
 
 ## Read next
 

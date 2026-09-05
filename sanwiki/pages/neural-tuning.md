@@ -60,7 +60,7 @@ The same caution applies to basal and apical language. Dendritic compartments ca
 The relationship to the newer Layer 6b attention theory is specific enough to record, but the
 stages should not be collapsed.
 
-1. **Kasevich and LaBerge, 2017:** proposed neuroelectric tuning through layer 5/layer 6 apical
+1. **LaBerge and Kasevich, 2017:** proposed neuroelectric tuning through layer 5/layer 6 apical
    dendrites and corticothalamic loop circuits. This is a predecessor hypothesis, not a consensus
    cortical law.
 2. **Micah Blumberg, 2022:** integrated that precursor into the SAN Neural Tuning account and added
@@ -72,7 +72,7 @@ stages should not be collapsed.
    control over layer-5/higher-order-thalamic attention loops. The perspective discusses
    synaptic facilitation, working memory, perceptual binding, and related thalamocortical functions.
 
-- [Kasevich and LaBerge, 2017](https://doi.org/10.3389/fnsys.2017.00037)
+- [LaBerge and Kasevich, 2017](https://doi.org/10.3389/fnsys.2017.00037)
 - [Micah's public 2022 Neural Tuning source](https://github.com/v5ma/selfawarenetworks/blob/2a428afcab608c434af5c16dac3927c3e2f9ab83/a0007z.md)
 - [Zolnik and colleagues, 2026](https://doi.org/10.1016/j.neuron.2025.11.024)
 

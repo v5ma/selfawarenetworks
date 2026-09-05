@@ -16,7 +16,10 @@ information unit must therefore describe a change relative to an ongoing referen
 **Tonic** is the current reference or background role for a specified cell, population, scale, and
 time window. **Phasic** is a transient, consequential departure from that reference. A **phase-wave
 differential** (PWD) is SAN's name for the structured spatiotemporal difference between the
-reference and changed pattern.
+reference and changed pattern. SAN's differentiated system includes waves of excitation, waves of
+inhibition, and their interaction; a particular measurement may expose one or both. The
+differential from the tonic reference is the operator of interest; neither excitation nor
+inhibition alone defines PWD.
 
 These are relative roles. Tonic does not always mean a fixed slow band, and phasic does not always
 mean gamma. A slower event can be phasic relative to a faster local baseline; a faster rhythm can be
@@ -31,13 +34,14 @@ A PWD claim should identify:
 - frequency or recurrence rate;
 - amplitude, waveform, and duration;
 - spatial location, extent, and propagation;
-- excitation, inhibition, or sign;
+- observed signal sign and, separately, evidence for excitation, inhibition, or their interaction;
 - cross-cell or cross-scale coupling; and
 - a receiver or downstream consequence.
 
 A compact starting point is `Delta X(x,t) = X_observed(x,t) - X_reference(x,t)`, with `X` explicitly
 defined for the experiment. This is a family of candidate measurements, not yet one universal PWD
-equation.
+equation, and it is not shorthand for excitation minus inhibition unless an experiment explicitly
+defines and justifies `X` that way.
 
 ## Strength and persistence
 
@@ -88,9 +92,11 @@ synaptic-current statistics, anatomy, and recording physics are controlled. See
 The key distinction is not simply slow versus fast frequency. A slower or more persistent tonic
 pattern can spread, recur, and coordinate broad populations over repeated cycles. A high-phasic
 event can package a concentrated update into a short interval and rapidly recruit targets through
-the pathways that connect them. Sharp-wave ripples are one established example: their local field
-signature is spatially constrained, while the compressed neural event can quickly affect distant,
-anatomically linked targets.
+the pathways that connect them. Awake hippocampal sharp-wave ripples provide one bounded example
+in rats: simultaneous CA1-prefrontal recordings found ripple-linked excitation and inhibition in
+distinct prefrontal populations, and later dual-site recordings found prefrontal neurons selective
+for non-local hippocampal replay. These findings support circuit-specific hippocampal-prefrontal
+coordination, not a globally broadcast ripple or proof that every ripple is a SAN PWD.
 
 ```text
 tonic oscillation -> broad timing context built across repeated cycles
@@ -101,14 +107,17 @@ high-phasic PWD -> concentrated update and rapid pathway-specific recruitment
 
 The tonic pattern provides recurring windows in which a receiver is more or less ready to respond.
 When several high-phasic PWD contributions reach the same receiver at compatible times and phases,
-their postsynaptic effects can add. Recurrently coupled groups can maintain a stable phase relation,
-allowing their combined pattern to keep reinforcing the same downstream route.
+their effects can combine. Depending on sign and receiver state, excitatory inputs may sum,
+inhibitory inputs may suppress or shunt, and mixed inputs can reshape spike timing. Recurrently
+coupled groups can maintain a stable phase relation, allowing their combined pattern to keep
+repeatedly recruiting the same downstream route.
 
 ```text
 tonic timing context
 -> phase-compatible high-phasic PWDs
--> coincident arrival and summation at a receiver
--> increased effective population drive
+-> coincident arrival and receiver-specific combination
+-> summation, suppression, shunting, or a timing shift
+-> action-side recruitment only when receiver conditions are met
 -> premotor and motor-pool recruitment
 -> motor-neuron action potentials and acetylcholine release
 -> muscle-fiber action potentials and calcium release
@@ -118,23 +127,25 @@ tonic timing context
 
 SAN calls the signed, receiver-specific drive relative to the tonic baseline **electrical
 valence**. Same frequency helps only when arrival time, conduction delay, relative phase, waveform,
-synaptic efficacy, excitation, inhibition, and receiver state also permit summation. The neural
-pattern supplies the control signal; it does not donate the mechanical energy. Neuromuscular
-transmission recruits calcium-dependent muscle activation, and ATP powers contraction. Vocal action
-also requires coordinated respiratory, laryngeal, and articulatory motor pools.
+synaptic efficacy, excitation, inhibition, and receiver state also permit a consequential combined
+effect. The neural pattern supplies the control signal; it does not donate the mechanical energy.
+Neuromuscular transmission recruits calcium-dependent muscle activation, and ATP powers
+contraction. Human vocal production coordinates respiratory and laryngeal motor systems; speech
+additionally recruits articulatory control.
 
 [[electrical-valence-receiver-relative-drive|Electrical Valence: A SAN Hypothesis About Receiver-Relative Drive]] recovers the term from its 2022 source and keeps it distinct from affective
 valence, a measured electrical field, and the energy used for muscle contraction.
 
 Bat vocalization studies measure several relevant ingredients in the bat frontal auditory field
 (FAF), caudate, and auditory cortex. The 2020 study found call-related pre-vocal beta and high-gamma
-power changes, theta-band FAF-caudate coupling, and pre-vocal gamma spike-LFP locking; the locking
-differences between call conditions were small and variable. The 2022 study used directed
-phase-transfer entropy to estimate predominantly FAF-to-auditory-cortex directionality before
-vocalization and an auditory-to-FAF shift after echolocation. FAF should not be relabeled as
-prefrontal cortex, and the directionality result is a statistical estimate rather than direct axonal
-flow. SAN joins these measurements as a candidate building-PWD/electrical-valence process whose
-causal role can be tested by selectively changing timing, phase relation, or receiver state.
+power changes, theta-band FAF-caudate coupling, and pre-vocal gamma spike-LFP locking before both
+call types; its supplementary call-type comparison found only one small locking effect. The 2022
+study used directed phase-transfer entropy to estimate predominantly FAF-to-auditory-cortex
+directionality before vocalization and stronger auditory-to-FAF directionality after echolocation in
+the delta and low-beta bands. FAF should not be relabeled as prefrontal cortex, and the directionality
+result is a statistical estimate rather than direct axonal flow. SAN joins these measurements as a
+candidate building-PWD/electrical-valence process whose causal role can be tested by selectively
+changing timing, phase relation, or receiver state.
 
 ## From PWD to DPWDR
 
@@ -155,13 +166,13 @@ suppression, or a reliable effect on report and action.
 | [[gh-b0153y|b0153y]] | June 19, 2022 transformed-slice, not-holographic, and phase-difference information precursor |
 | [[gh-b0131y|b0131y]] | June 21, 2022 tonic repetition, rare-deviation, context, and "five hmms and one hey" information example |
 | [[gh-b0003y|b0003y]] | July 21 recording and July 24 public Git fixation: contextualized spikes, ongoing relations, receiver-dependent change, morphology, and multidimensional state; an immediate PWD precursor, not the first exact use of the term |
-| [[gh-c0000x|c0000x]] | June 2022 precursor index for tonic/phasic activity, APD, inceptive fields, and the active canvas |
+| [[gh-c0000x|c0000x]] | June 8, 2022 first public Git fixation of a precursor index for tonic/phasic activity, APD, inceptive fields, and the active canvas; later revisions remain separate stages |
 | [[gh-a0306z|a0306z]] | Redness, Standard A, Broccoli, dendritic detection, and the first tracked exact phrase "phase wave differential" on 2022-08-23 |
-| [[gh-whitepaperdraft1|whitepaperdraft1]] and [[gh-whitepaperdraft2|whitepaperdraft2]] | Tonic canvas, phasic update, amplitude/duration wording, receptive/inceptive fields, and Metatron contrast |
-| [[gh-a0287zstar|a0287zstar]] and [[gh-a0288zslow|a0288zslow]] | NAPOT 3 inhibitory and slow-potential branches |
-| [[gh-a0310z|a0310z]] | NAPOT 5 cross-scale routing and Neural Tuning |
-| [[gh-a0325znapot6|a0325zNAPOT6]] | Persistence, conscious dominance, action, and DPWDR |
-| [[gh-napotconcepts|NAPOTConcepts]] | 2024 retrospective routing index; model-generated explanations require source checks |
+| [[gh-whitepaperdraft1|whitepaperdraft1]] and [[gh-whitepaperdraft2|whitepaperdraft2]] | August 5-24, 2022 whitepaper-to-draft consolidation of tonic canvas, phasic update, amplitude/duration wording, receptive/inceptive fields, and Metatron contrast. December 13, 2023 edits are a later persistence stage, not the priority date for the earlier 2022 chain |
+| [[gh-a0287zstar|a0287zstar]] and [[gh-a0288zslow|a0288zslow]] | September 3-4, 2022 NAPOT 3 inhibitory and slow-potential branches |
+| [[gh-a0310z|a0310z]] | September 17-19, 2022 NAPOT 5 cross-scale routing and Neural Tuning; the current filename was fixed later |
+| [[gh-a0325znapot6|a0325zNAPOT6]] | November 28, 2022 persistence, conscious-dominance, action, and DPWDR stage |
+| [[gh-napotconcepts|NAPOTConcepts]] | January 11, 2024 retrospective routing index; model-generated explanations require source checks |
 
 The June sources anticipate the context-and-difference logic. They should not be relabeled as the
 mature typed PWD operator before the wording actually appears in the source history.
@@ -197,6 +208,14 @@ model, and unexpected stimuli can selectively amplify feature-specific V1 respon
 
 - [Human connectome topology and traveling waves](https://www.nature.com/articles/s41467-024-47860-x)
 - [Thalamocortical sensory prediction errors](https://www.nature.com/articles/s41586-024-07851-w)
+- [Jadhav et al., 2016: coordinated prefrontal excitation and inhibition during awake hippocampal ripples](https://doi.org/10.1016/j.neuron.2016.02.010)
+- [Berners-Lee, Wu, and Foster, 2021: prefrontal selectivity for non-local hippocampal replay](https://doi.org/10.1523/JNEUROSCI.1158-20.2021)
+- [Stuart and Hausser, 2001: dendritic coincidence detection](https://doi.org/10.1038/82910)
+- [Katz and Miledi, 1967: calcium timing and acetylcholine release at the neuromuscular junction](https://doi.org/10.1113/jphysiol.1967.sp008183)
+- [Colquhoun and Ogden, 1988: acetylcholine activation of frog end-plate channels](https://doi.org/10.1113/jphysiol.1988.sp016912)
+- [Wang et al., 2022: muscle action potentials and calcium transients](https://doi.org/10.7554/eLife.71588)
+- [Caremani et al., 2015: ATP-driven myosin working strokes](https://doi.org/10.1113/JP270265)
+- [Belyk et al., 2021: human laryngeal-respiratory motor coordination](https://doi.org/10.1016/j.neuroimage.2021.118326)
 - [Weineck, Garcia-Rosales, and Hechavarria, 2020](https://doi.org/10.1371/journal.pbio.3000658)
 - [Garcia-Rosales et al., 2022](https://doi.org/10.1038/s41467-022-31230-6)
 

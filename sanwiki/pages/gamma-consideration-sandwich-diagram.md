@@ -2,7 +2,7 @@
 title: "Gamma Consideration Sandwich Figure Specification"
 tags: [san, gamma-consideration-sandwich, medical-figure, image-prompt, sensorimotor-loop]
 aliases: [Gamma Consideration Sandwich Diagram, GCS Diagram]
-summary: "A source-bounded specification for a future medically accurate GCS figure; no accepted figure currently exists and image generation is paused."
+summary: "A source-bounded specification for a future medically accurate GCS figure showing the alpha/beta top bun, Layer-2/3 gamma middle, and Layer-5 theta/gamma action-and-body bottom bun; no accepted figure currently exists and image generation is paused."
 status: figure-specification-generation-paused
 ---
 
@@ -21,44 +21,55 @@ diagram from being mistaken for anatomy.
 
 ## What the historical figure was trying to say
 
-The historical sandwich placed sensory-associated activity and thought- or decision-associated
-activity on opposite sides of a candidate gamma-mediated consideration process, then connected the
-result to proprioceptive feedback and action. Its recoverable value is a **functional traffic
-geometry**:
+The recovered SAN sandwich has three functional levels. Alpha-associated primary-sensory-side input
+and beta-associated prefrontal thought/top-down input form the **top bun**. Layer-2/3 gamma performs
+**consideration and proprioceptive coordination** in the middle. Layer-5 theta/gamma carries the
+**action-side output and returned body input** in the **bottom bun**:
 
 ```text
-partial sensory and body evidence
-<-> maintained goal, prediction, and memory context
--> timing-sensitive comparison and route selection
--> action
--> returned body and world evidence
+TOP BUN - INPUT SIDE
+alpha primary-sensory-side input + beta prefrontal thought/top-down input
+                              |
+MIDDLE - CONSIDERATION
+Layer-2/3 gamma consideration and proprioceptive coordination
+                              |
+BOTTOM BUN - ACTION/BODY SIDE
+Layer-5 theta/gamma action output <-> returned body input
+                              |
+movement, vocalization, autonomic change, and world consequence -> next cycle
 ```
 
-It should not be drawn as three literal anatomical strata, as alpha entering only from occipital
-cortex, as beta leaving only from prefrontal cortex, or as gamma occupying a consciousness layer.
+These are GCS's defined functional roles, but they are not exclusive band identities or one universal
+cortical anatomy. The image must preserve both facts at once.
 
 ## Required figure design
 
-Create one 16:9 medical-neuroscience plate with four connected panels:
+Create one 16:9 medical-neuroscience plate centered on the sandwich, with medically grounded route
+insets:
 
-1. **Evidence and context.** Show modality-specific sensory and body pathways entering a bounded,
-   named recurrent cortical-thalamic circuit. Show corticocortical and corticothalamic feedback as
-   context. Do not imply one universal route or direct all-to-all connections.
-2. **Consideration and selection.** Show anatomically plausible excitatory and inhibitory
-   populations whose effective coupling changes with timing, task, and state. Use small phase traces
-   as measurements beside the circuit, not glowing waves floating through the brain. Label alpha,
-   beta, and gamma as preparation-specific candidate relationships, not fixed functions.
-3. **Selective joining and leaving.** Show several candidate patterns. One gains recurrent reciprocal
-   influence and flexible consequence; others remain nonconscious, are suppressed, or decouple.
-   Leaving the active rendering must not erase the learned memory substrate.
-4. **Action and reafference.** Carry the selected route through distributed premotor, motor,
-   basal-ganglia, cerebellar, brainstem, spinal, and peripheral systems only where the chosen example
-   justifies them. Return proprioceptive, interoceptive, vestibular, visual, and external consequences
-   to the next cycle.
+1. **Top bun - two distinct inputs.** On the sensory side, show alpha-associated activity in a named
+   primary sensory pathway and its thalamorecipient cortical population. On the thought side, show
+   beta-associated activity in a named prefrontal/top-down pathway. Both arrows point into the
+   consideration stage. Do not collapse alpha and beta into the same semantic role.
+2. **Middle - Layer 2/3 gamma.** Show anatomically plausible superficial excitatory and inhibitory
+   populations coordinating sensory evidence, thought, and current body-state relations. Label this
+   **SAN proposal: consideration and proprioceptive coordination**. Use small measured phase traces
+   beside the circuit, not glowing free-floating waves.
+3. **Bottom bun - Layer 5 theta/gamma action and body return.** Show Layer-5 corticofugal output into a
+   declared motor or vocal route. Show returned proprioceptive/body information arriving through its
+   established ascending route and re-entering a named receiving cortical population. If local PV
+   interneurons are included, place them inside that receiving circuit as inhibitory timing elements
+   that may shape gamma organization after the afferent signal arrives. The visual grammar may group
+   output and return within the bottom-bun function, but it must preserve their opposite directions
+   and distinct cell populations: Layer-5 output neurons, peripheral receptors and afferents, and
+   local PV interneurons are not interchangeable.
+4. **Closed observer-action cycle.** Carry the selected route through only the named premotor, motor,
+   basal-ganglia, cerebellar, brainstem, spinal, and peripheral systems justified by the example.
+   Return body and environmental consequences to the next cycle. No inner viewer appears.
 
-Include a small historical inset labeled **"2024 teaching metaphor, not literal anatomy"**. It may
-show the original alpha / gamma / beta sandwich, but arrows must lead from that inset to the corrected
-traffic model rather than presenting it as the accepted figure.
+Include a small label: **"SAN functional mapping; bands and laminar motifs are not exclusive or
+universal."** If a granular Layer-4 input is shown, identify the cortical area; do not give every
+prefrontal or motor area an obligatory granular Layer 4.
 
 ## Visual evidence key
 
@@ -73,9 +84,10 @@ traffic model rather than presenting it as the accepted figure.
 
 The figure must not depict or imply:
 
-- alpha equals sensory input, beta equals thought, or gamma equals consciousness;
+- alpha, beta, gamma, or theta has its GCS role exclusively in every circuit or task;
 - one universal six-layer cortical algorithm;
 - PV interneurons as ascending peripheral proprioceptive afferents;
+- Layer-5 corticofugal neurons as the direct ascending carrier of peripheral body input;
 - one consciousness center, inner viewer, or literal screen;
 - coherence, anticorrelation, gamma power, or one threshold as sufficient for conscious entry;
 - one generic neuron directly connecting sensory, prefrontal, and motor systems;

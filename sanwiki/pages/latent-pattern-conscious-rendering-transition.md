@@ -4,9 +4,15 @@ tags: [san, consciousness, unconscious-processing, virtual-engram, choice, funct
 aliases: [Unconscious to Conscious Transition, Latent-to-Conscious Promotion, Selective Joining and Leaving]
 summary: "SAN's source-faithful account of how a latent or nonconscious pattern may be reconstructed, selectively coupled to an active distributed rendering, recruited into flexible consequence, and later decoupled without erasing its memory substrate."
 status: governed-current-synthesis
+book_atlas_bridge_ids: [B2-BR-018, B2-BR-019]
 ---
 
 # From Latent Pattern to Conscious Rendering
+
+> **Canonical Book/Atlas bridges:** This page owns the conscious-entry and conscious-exit portion
+> of B2-BR-018 and the choice-coupling portion of B2-BR-019. [[memory-state-drift-virtual-mind|Memory, Engrams,
+> Representational Drift, and the Virtual Mind]] owns the durable-substrate, changing-carrier, and
+> virtual-engram reconstruction operation that comes first.
 
 ## The missing question
 

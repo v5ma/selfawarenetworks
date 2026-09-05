@@ -114,5 +114,5 @@ audio remain outside the public Wiki.
 - [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]]
 - [[continuous-dynamics-discrete-neural-information|Continuous Dynamics and Discrete Neural Information]]
 - [[action-potential-phase-space|Action-Potential Phase Space]]
-- [[ion-channel-waveform-release-dynamic-network|Ion-Channel, Waveform, Release, and Dynamic Network State]]
+- [[action-potential-waveform|Ion-Channel, Waveform, Release, and Dynamic Network State]]
 - [[recorder-transcript-human-source-atom-map-t07|Recorder T07 Source Map]]

@@ -156,6 +156,14 @@ predictive interfaces, interoperability, and democratization to the engineering 
 [[gh-a0541z|EEG source]] documents Micah's neurofeedback practice. [[gh-a0561z|a0561z]] is explicitly
 copied third-party protocol material; its broad clinical claims are not inherited as SAN evidence.
 
+An owner-held Facebook export dated July 18, 2025 binds the exact
+[Self Aware Networks group](https://www.facebook.com/groups/neomindcycle/) and
+[Neurophysics group](https://www.facebook.com/groups/neurophysics/) routes to those names. Public
+2021 posts preserve [IFLNeuro](https://www.facebook.com/groups/IFLNeuro/) as an earlier
+`Neurophysics+` alias. Exported account-activity timestamps are not treated as group-creation dates,
+and the two historical Facebook page URLs remain source-gated. These communities document social
+and program history; they do not validate the apparatus or a SAN mechanism.
+
 ## Read next
 
 - [[neo-mind-cycle|Neo Mind Cycle]]
@@ -170,3 +178,4 @@ copied third-party protocol material; its broad clinical claims are not inherite
 - [[extended-brain-thought-density-hypertime|Extended Brain and Thought-Density Hypertime]]
 - [[early-a0420-a0453-obscure-argument-map|Early a0420-a0453 Obscure Argument Map]]
 - [[early-a0457-a0481-obscure-argument-map|Early a0457-a0481 Obscure Argument Map]]
+- [[early-san-facebook-genealogy-2010-2013|Early SAN Facebook Genealogy, 2010-2013]]

@@ -187,7 +187,7 @@ Boundary notes were added to five sensory/body/action pages where region labels,
 | Page | Boundary added |
 |---|---|
 | [Self As Motor-Sensory Rendering](self-as-motor-sensory-rendering.md) | Keep as model for separating established sensorimotor physiology from SAN/NAPOT self-rendering; do not localize self or treat motor systems as stand-alone command centers |
-| [Gamma-Wave Consideration Sandwich](gamma-wave-consideration-sandwich.md) | GCS is SAN framing, not an established three-band anatomical circuit; alpha/gamma/beta roles vary by circuit, state, task, and measurement |
+| [Gamma-Wave Consideration Sandwich](gamma-wave-consideration-sandwich.md) | Preserve the SAN mapping: alpha primary-sensory-side and beta prefrontal thought/top-down input form the top bun; Layer-2/3 gamma consideration and proprioceptive coordination form the middle; Layer-5 theta/gamma action output and returned body input form the bottom bun. These roles are defined but nonexclusive and circuit-specific. |
 | [Actions](actions.md) | Actions are produced by distributed sensorimotor systems, not brainwaves alone; oscillations, ripples, hippocampal replay, dopamine, criteria, and engrams are not interchangeable causes |
 | [Motor Cortex](motor-cortex.md) | Motor cortex is one node in distributed action control, not the whole action-commit organ; specific findings are preparation-specific, not proof of NAPOT motor rendering |
 | [Visual Cortex](visual-cortex.md) | Visual cortex is an occipital visual-processing system, not established as a literal oscillatory tomographic rendering sheet; V1/LGN/retina, layer-5 events, waves, and binding must stay distinct |

@@ -18,8 +18,9 @@ consequences, act, and incorporate what happens next.
 SAN does not posit a small localized viewer standing outside neural activity. It proposes a sparse,
 distributed **observer-action function** performed by the participating network itself. Cells and
 circuits act as internal receivers and transmitters; learned structure and current state transform
-what they receive; coordinated tonic activity supplies an active context; phasic differences alter
-that context; action changes body or environment; and returning consequences change the next cycle.
+what they receive; coordinated tonic activity supplies an active reference; typed departures in
+excitation, inhibition, or their interaction alter that context; action changes body or environment;
+and returning consequences change the next cycle.
 
 ```text
 external, bodily, and recurrent differences
@@ -111,11 +112,19 @@ denominator, measurement, and intervention must be stated each time.
 
 ## Terms earned by the problem
 
+PWD is core to SAN's architecture, not a secondary layer added after the receive-transform-project-
+update cycle. The terms below name different operations and scopes; their order is not a rank. The
+Gamma Consideration Sandwich (GCS) is one bounded cortical model that uses PWD relations. It does
+not contain, define, or outrank PWD.
+
 - A [[neural-array|neural array]] is a declared cooperating population considered for a particular
   receive, transform, and project operation. It need not form a regular grid.
-- A [[phase-wave-differentials|phase-wave differential]] (PWD) is SAN's proposed
-  receiver-relative difference among timing, phase, rate, waveform, duration, release, inhibition,
-  and network context. It is not one universal frequency label.
+- A [[phase-wave-differentials|phase-wave differential]] (PWD) is SAN's proposed typed,
+  receiver-relative departure from a declared tonic or reference pattern. Candidate dimensions
+  include timing, phase, rate, waveform, duration, transmitted quantity or release, variability,
+  and spatial or network state. The departure may be instantiated by excitation, inhibition, or
+  their interaction. It is not one universal frequency label and must not be reduced to excitation
+  minus inhibition.
 - [[neural-rendering|Neural Rendering]] is the repeated construction and revision of a
   behaviorally usable state across sensory, memory, body, value, and motor systems. The same
   distributed dynamics render and register; there is no second homunculus.
@@ -145,18 +154,29 @@ Established studies support several component operations:
   ([Sommer and Wurtz, 2006](https://pubmed.ncbi.nlm.nih.gov/17093408/)).
 - Weak electric fields can modulate and entrain active neocortical networks in a bounded slice
   preparation ([Frohlich and McCormick, 2010](https://pubmed.ncbi.nlm.nih.gov/20624597/)).
+- Bounded preparations show excitatory propagating waves and inhibition-dependent changes to the
+  spatial dynamics of oscillation, while awake primate V1 can express a suppressive traveling wave
+  ([Huang et al., 2004](https://pubmed.ncbi.nlm.nih.gov/15525774/);
+  [Xiao et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22805065/);
+  [Chemla et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30886010/)). These are typed observations:
+  a suppressive population wave is not by itself proof of a GABAergic inhibitory wave.
 
 These findings support recurrence, selective population communication, action-related sensory
-updating, and bounded field-cell feedback. They do not independently establish PWD, NAPOT
-tomography, field-as-content, a unified SAN observer, or phenomenal consciousness.
+updating, and bounded field-cell feedback. They do not independently establish the complete PWD
+operator, NAPOT tomography, field-as-content, a unified SAN observer, or phenomenal consciousness.
 
 ## Claim ladder
+
+These levels order empirical commitment, not architectural importance. PWD is core to the SAN
+architecture represented at levels 2 and 3. Level 3 asks the narrower empirical question of whether
+a declared PWD feature set and coupled field-cell variables add explanatory or predictive value
+beyond matched alternatives.
 
 | Level | Claim | Current status |
 |---|---|---|
 | **1. Component physiology** | Cells receive and transform inputs; populations interact recurrently; action changes later sensory input; plasticity changes future response. | Established in many named preparations, with species, circuit, and task limits. |
-| **2. Integrative SAN architecture** | Receive-transform-project-update cycles jointly maintain an embodied, action-usable self-world state. | Source-defined synthesis with substantial component support; complete joined mechanism remains to be tested. |
-| **3. PWD and field-content hypothesis** | Receiver-relative phase and other multidimensional differences, within a coupled field-cell context, add content-bearing and routing information beyond rate and connectivity. | Open, measurable SAN hypothesis. |
+| **2. Integrative SAN architecture** | Receive-transform-project-update cycles, including typed departures from declared tonic or reference patterns, jointly maintain an embodied, action-usable self-world state. | Source-defined synthesis with substantial component support; complete joined mechanism remains to be tested. |
+| **3. Distinct PWD and field-content contribution** | Declared receiver-relative PWD feature sets, within a coupled field-cell context, add content-bearing and routing information beyond matched rate, power, connectivity, movement, arousal, and recurrent-state alternatives. | Open, measurable SAN hypothesis about distinctive empirical contribution, not PWD's architectural rank. |
 | **4. Observer identity thesis** | The entified recurrent process that generates, registers, remembers, and acts on those differences is the observer rather than a substrate for another observer. | Strong SAN mechanistic and philosophical hypothesis. |
 | **5. Phenomenal self-awareness** | The intrinsic condition of that process is subjective experience. | Unresolved; behavioral success or self-report alone is insufficient. |
 
@@ -198,7 +218,8 @@ body-state, and recurrent pathways. Compare nested models:
 1. stimulus, behavior, firing rate, and spectral power;
 2. recurrent population state and communication subspaces;
 3. body state, corollary discharge, and action-feedback variables;
-4. receiver-relative timing, phase, waveform, release, and bounded field variables; and
+4. typed departures from a declared tonic reference, including receiver-relative excitation,
+   inhibition, timing, phase, waveform, release, interaction, and bounded field variables; and
 5. the full SAN model linking those variables to a self-world relation and later action.
 
 Perturb one declared route or timing relation while matching sensory input, movement, arousal, and
@@ -210,7 +231,8 @@ The current formulation should be rejected or narrowed if:
 
 - feedforward or conventional recurrent models predict the same outcomes equally well;
 - body and action-feedback variables are not required for the proposed self-world state;
-- PWD or field variables add no reproducible information after matched controls;
+- the declared PWD feature set or field variables add no reproducible information after matched
+  controls;
 - perturbing the proposed observer-action route changes report but not representation, selection,
   action, or later learning;
 - the alleged unified state localizes to one region or output channel rather than the participating
@@ -221,17 +243,17 @@ The current formulation should be rejected or narrowed if:
 ## Source-faithful chronology
 
 - **August-September 2011, owner-dated ancestry:** [[gh-a0051z|a0051z]] describes the self as a
-  learning feedback loop that learns and predicts itself; [[gh-a0194z|a0194z]] treats brain, body,
-  labels, and causal perspective as joined rather than locating an independent inner actor. These
-  files were publicly Git-fixed in 2022; their internal dates and later public fixation remain
-  separate evidence fields.
+  learning feedback loop formed through memory-prediction, action, sensation, and association.
+  [[gh-a0194z|a0194z]] records Micah treating body, brain, mind, labels, and perspective as joined in
+  a dialogue with Mike Dow about an independently acting self. These files were publicly Git-fixed
+  in 2022; their internal dates and later public fixation remain separate evidence fields.
 - **August-September 2012, feedback and structure stages:** Neo Mind Cycle sources describe
   sensory-computer-brain feedback and self-monitoring. [[gh-a0339z|a0339z]] calls the observer a
   thought-pattern loop involving incoming senses and outgoing action.
   [[neuron-shape-information-storage|Neurons Are Programs Transmitting Their Shape]] adds learned
   cellular structure, transformed output, and recurrent network response. These are functional
   ancestors, not retroactively NAPOT or PWD.
-- **2013-2014, no-independent-witness and situated-process stage:** [[gh-a0404z|a0404z]] argues that
+- **November 2013, no-independent-witness and situated-process stage:** [[gh-a0404z|a0404z]] argues that
   cells and changing brain activity exist without another witness and that a copied system would
   diverge under a different body, place, and causal history. Its polemical wording is historical;
   the durable atom is the situated distributed-process problem.
@@ -253,17 +275,19 @@ Genealogy establishes what was said and when. It does not validate the biology.
 
 ## Source custody
 
-- `a0051z.md` SHA-256: `787B276EFB37E4E7424E6B20576FBCA74476556980788230EAA6795BF043B085`
-- `a0194z.md` SHA-256: `C7F602D57715349E8824A5E300AB6B7287AB2C760CF32CB6B39ED48B24FF2B31`
-- `a0339z.md` SHA-256: `835009EAE0FA62D471E5368131806D08C22549AE7C590DDFBA70187FAFE221D8`
-- `a0404z.md` SHA-256: `93072454CF822B9B9A1032B2714981F0481F2C0F903229ED49A59615BC459BE5`
-- `nlp1.md` SHA-256: `6C94B9FAE2A4D617FBC385FE6325FA2C35220A328B0F7AE4F3AE6B316427FEA1`
-- `a0001z.md` SHA-256: `1373109BF318C3B1A70CAAFFFA2E59E0308FB297F3F0F1C0B9030CAB21F5EB80`
-- `a0310z.md` SHA-256: `D99CC6444619B7FCD69AC2A293FE6864BA7F0CB79C3EC5BC5F93092C05B0A477`
-- `a0319z.md` SHA-256: `1FAE7DBFE3F776D809A3C1E25036C96BF4659E2CEE330A422F8FA2ACD6D8CEA4`
+- `gh-a0051z.md` SHA-256: `4DAA934AF82A26A5B781D801DB722197B917EB464D41DCE2E67C4C564813BBB3`
+- `gh-a0194z.md` SHA-256: `B1DFFE05B26A74F2636929D096410EDF56E9219B36E7FE2677432FB73C675468`
+- `gh-a0339z.md` SHA-256: `75214A9AEE1057FD7F6AB6E0818666E20B9276613E4F26AFD420AD5C522B945D`
+- `gh-a0404z.md` SHA-256: `AD933962F6F2E1B25E2DA8B04DEF5CED481C7A949148EDB8D440159E35F535F0`
+- `gh-nlp1.md` SHA-256: `DF4D08D61252EAA6927F71599F91FBB726D3E79BF050931557ED627C731AF879`
+- `gh-a0001z.md` SHA-256: `3D40E7A89BA312D46F8F72DE4AFDE2B4C19F4B811B09BC39A4DFD078888526C7`
+- `gh-a0310z.md` SHA-256: `38B5E668986EF8755CF1BE7604EDFC24E2893BC473E82C15F2AD6325611C33D9`
+- `gh-a0319z.md` SHA-256: `088CCB396B322D5FAC03B83ABB2D428031161FBB26B41F5D7058DFACB1E15C3F`
 
-These hashes identify current local source bytes. Internal source dates, public platform dates, Git
-fixation dates, and current synthesis dates must not be collapsed into one chronology.
+These hashes identify the current linked Wiki source-page bytes reviewed on 2026-08-30. Each source
+page separately records its original public Git custody and immutable commit link. Internal source
+dates, public platform dates, Git fixation dates, current local page hashes, and current synthesis
+dates must not be collapsed into one chronology.
 
 ## Page authority boundaries
 

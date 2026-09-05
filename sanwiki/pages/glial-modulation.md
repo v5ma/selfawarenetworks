@@ -1,43 +1,71 @@
 # Glial Modulation
 
-**Glial Modulation** is the [[gh-a0206z|Self]]-Aware Networks term for the suite of regulatory operations [[glial-cells|glial cells]] perform on neuronal computation — tuning [[action-potential-waveform-encoding|action-potential waveform]] timing through myelin K+-channel control, gating [[gamma-oscillations|gamma]]-band synchrony through metabolic and ionic coupling, and arbitrating which connections survive in the [[hebbian-learning|Hebbian]] grow-and-prune cycle. It is the operational restatement of [[glial-cells|glial cells']] role within SAN's [[every-cell-chemical-neural-network|every-cell-as-chemical-neural-network]] commitment.
+**Glial modulation** is the change in neural-circuit conditions produced by [[glial-cells|glial cells]]. It is not one mechanism and it should not assign every glial class the same operation. Astrocytes, oligodendrocyte-lineage cells, microglia, and other glia affect circuits through different structures, signals, regions, and timescales.
 
-## Origin
+## Established cell-type-specific operations
 
-This page is a backfill stub: the operational reading of glial activity (modulation of timing, synchrony, and connectivity) is treated as a presupposition by the [[glial-cells]] article and by adjacent SAN pages on [[napot-theory|NAPOT]] readout, but no separate primary source has yet been packeted into `wiki/automation/packets/`. The conceptual lineage in adjacent pages — [[glial-cells]], [[every-cell-chemical-neural-network]], [[hebbian-learning]], and [[synaptic-ion-channel-tone]] — establishes that [[gh-resnote04|Micah]] treats glia as active modulators rather than passive support tissue. Lane G acquisition is expected to surface the dialogue or manuscript passages where the modulation operations are explicitly enumerated.
+| Cell family | Selected established operations | Boundary |
+| --- | --- | --- |
+| [[astrocytes]] | Potassium and transmitter clearance, metabolic and neurovascular support, perisynaptic coverage, local calcium and voltage signaling, and context-dependent effects on transmission and plasticity. | Not every synapse is equally covered; calcium and gliotransmitter mechanisms are heterogeneous. |
+| Oligodendrocytes and precursor cells | Myelination, metabolic support of axons, and activity-dependent changes that can alter conduction and circuit performance. | This does not mean one myelin potassium-channel mechanism directly controls every cortical spike waveform or gamma event. |
+| Microglia | Immune surveillance, phagocytosis, and activity- and complement-dependent remodeling in defined developmental and disease contexts. | Microglial pruning is not a universal description of every Hebbian strengthening or weakening event. |
+| Schwann cells | Peripheral axon support and myelination, including channel and axon-glia interactions. | Findings in peripheral Schwann cells cannot be transferred automatically to cortical oligodendrocytes or astrocytes. |
 
-## Position
+Together these operations change extracellular conditions, transmission reliability, conduction timing, metabolic capacity, synaptic structure, and the probability that a circuit will respond in a particular way. That is a legitimate multicellular account of neural computation without treating glia as ordinary neurons.
 
-In [[gh-a0206z|Self]]-Aware Networks Glial Modulation is what makes [[glial-cells|glial cells]] *do work* in the [[brain-as-memory-prediction-machine|memory-prediction]] cycle. Three modulation channels are operative. First, *timing modulation*: myelin-forming glia regulate [[synaptic-ion-channel-tone|K+-channel kinetics]] along axons, which in turn tunes the temporal precision of [[action-potential-waveform-encoding|action-potential waveforms]] — the carriers of [[coincidence-pattern-neural-bit|coincidence-pattern bits]]. Second, *synchrony modulation*: glial metabolic and ionic coupling sets the conditions under which [[gamma-oscillations|gamma]]-band [[neural-ensemble-phase-reset-communication|ensemble phase reset]] can occur, which is the necessary condition for [[oscillatory-binding-problem|feature binding]]. Third, *connectivity modulation*: glia receive the same coincidence-driven signal that neurons receive and act on it by [[hebbian-learning|growing or removing]] connections, which is why SAN treats Hebbian plasticity as a neuron-and-glia process rather than a neuron-only process. The cumulative effect is that glial modulation is a co-determinant of every level of the [[neural-oscillation-hierarchy|oscillator hierarchy]], from single-cell waveforms up to whole-network synchrony, and any [[napot-theory|NAPOT]] readout is reading glial-modulated signal as a matter of course.
+## Source recovery: what SAN was trying to say
 
-## Chronology
+Earlier Wiki prose compressed several distinct SAN sources into the claim that glia directly tune action-potential waveforms, gate gamma synchrony, and receive the same Hebbian instruction. The dated sources support a more precise and more interesting proposition.
 
-A dated chronology cannot be asserted without packeted evidence. Lane G acquisition is expected to surface the earliest mention of the modulation operations in [[gh-resnote04|Micah]]'s transcripts and the [[self-aware-networks-book-overview|Self-Aware Networks]] manuscript family. Until then, the safest claim is the structural one carried by the parent [[glial-cells]] article: SAN treats glia as active modulators of timing, synchrony, and connectivity, and any timeline statement here will be replaced by cited prose once a packet exists.
+In May 2017, Micah Blumberg described an interacting **neural net and glionet** and said that a meaningful brain snapshot would include astrocytes. In June 2022, SAN proposed that phase coincidences in neurons and glia could participate in growth or removal of connections. In August 2022, SAN included multiple glial and immune cell types in the COT-to-[[napot-theory|NAPOT]] interface and interpreted voltage variation in astrocyte networks as potentially relevant to phase-sensitive state.
+
+The September 2022 source that generalized back-propagating action potentials to "all neurons, and glial cells" is best recovered as a **scale-invariant feedback hypothesis**, not as settled anatomy. Canonical dendritic back-propagating action potentials are neuronal phenomena. Glia instead carry other bidirectional voltage, calcium, transporter, metabolic, trophic, structural, and immune signals. The source-faithful scientific formulation is therefore:
+
+> Neural computation includes feedback through neuronal and glial pathways, but the physical carrier and timescale must be named for each cell type.
+
+Similarly, the SAN note on potassium-channel regulation cited myelin-forming **Schwann cells**. Its defensible cross-scale idea is that axon-glia state can change temporal transmission conditions. It is not direct evidence that cortical glia universally reshape action-potential duration or gamma-band synchronization.
+
+## SAN interpretation
+
+SAN proposes that glial state helps determine the receiving conditions for faster neural events:
+
+```text
+recent neural, chemical, metabolic, and behavioral history
+-> cell-type-specific glial state
+-> local clearance, gain, conduction, energy, coverage, or structural eligibility changes
+-> altered response to the next neuronal event
+-> changed recruitment, persistence, or routing in the active network
+```
+
+In SAN language, those slower conditions may form part of the [[tonic-phasic-canvas-of-consciousness|tonic context]] against which a phasic [[phase-wave-differential|PWD]] has a receiver-specific consequence. This is a proposed interpretation, not proof that glia generate one global tonic wave or directly carry conscious content. The network itself remains the distributed observer-action system.
+
+## What would test the SAN extension
+
+A useful experiment would measure neurons and identified glial cell types together while controlling sensory input, behavior, arousal, and neuromodulation. A glial state variable should predict a later, spatially specific change in neuronal response, route selection, memory access, or behavior after rate and general state have been accounted for. Selective perturbation and mechanism-matched rescue should then reproduce and reverse that effect.
+
+For the PWD extension, receiver-relative phase or timing variables must add predictive and causal value beyond firing rate, calcium, cell identity, conduction delay, and broad arousal. A correlation with EEG power or gamma alone is insufficient.
+
+## Dated SAN sources
+
+- [Neural Lace Podcast #4, recorded May 5, 2017](https://github.com/v5ma/selfawarenetworks/blob/09066e4b572ba36e145b3a1e0f31706fcc9388d6/nlp4.md)
+- [June 10, 2022 glia, phase coincidence, structural change, and tomography source](https://github.com/v5ma/selfawarenetworks/blob/a052ab363ca6a2f9538dc5da9f498d5c24365fca/a0115z.md)
+- [August 8-22, 2022 all-cell COT-to-NAPOT and astrocyte-state source](https://github.com/v5ma/selfawarenetworks/blob/9911b61b401aeb9aab74cd765a18e7b7019eff5e/a0011z.md)
+- [September 18, 2022 scale-invariant feedback proposal](https://github.com/v5ma/selfawarenetworks/blob/894b4d4ea3f23d4d1d526e123b5744283ff9cd5d/a0007z.md)
+
+## Primary scientific references
+
+- [Schafer et al. 2012: activity- and complement-dependent microglial remodeling](https://pubmed.ncbi.nlm.nih.gov/22632727/)
+- [Gibson et al. 2014: neuronal activity, oligodendrogenesis, and adaptive myelination](https://pubmed.ncbi.nlm.nih.gov/24727982/)
+- [Armbruster et al. 2022: pathway-specific astrocyte-process depolarization and glutamate clearance](https://pmc.ncbi.nlm.nih.gov/articles/PMC9988390/)
+- [Taylor and Monje 2023: neuron-oligodendroglial interactions and adaptive myelination](https://pubmed.ncbi.nlm.nih.gov/37857838/)
 
 ## Related concepts
 
-- [[glial-cells]] — the parent concept this page operationalizes.
-- [[every-cell-chemical-neural-network]] — the all-cell commitment in which glial modulation participates.
-- [[cell-as-chemical-neural-network]] — the cell-level reading the modulation operations specialize.
-- [[hebbian-learning]] — the connectivity-modulation rule glia and neurons jointly enact.
-- [[synaptic-ion-channel-tone]] — the ion-channel substrate glial myelin tunes.
-- [[action-potential-waveform-encoding]] — the waveform whose timing glial K+ regulation modulates.
-- [[gamma-oscillations]] — the synchrony band glial coupling modulates.
-- [[neural-ensemble-phase-reset-communication]] — the ensemble synchrony glial gating supports.
-- [[neural-oscillation-hierarchy]] — the cross-band hierarchy glial modulation co-determines.
-- [[napot-theory]] — the tomographic readout reading glial-modulated signal.
-- [[coincidence-pattern-neural-bit]] — the elementary bit whose timing glia modulate.
-- [[brain-as-memory-prediction-machine]] — the predictive cycle glial modulation supports.
-- [[atp]] — the metabolic coupling glia supply that underwrites timing modulation.
-
-## Source Provenance
-
-- Generated: 2026-04-24T18:32:04
-- Lane: C.draft (from packet)
-- Packet: `wiki/automation/packets/glial-modulation.json`
-- Evidence count: 0
-- Source ids: 
-
----
-
-*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
+- [[glial-cells]]
+- [[astrocytes]]
+- [[astrocyte-cognition]]
+- [[tripartite-synapse-multicellular-engram]]
+- [[every-cell-chemical-neural-network]]
+- [[synaptic-ion-channel-tone]]
+- [[neural-oscillation-hierarchy]]
+- [[napot-theory]]

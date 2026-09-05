@@ -188,15 +188,18 @@ observer-action process.
 
 ## Gamma in the Gamma Consideration Sandwich
 
-The [[gamma-wave-consideration-sandwich|Gamma Consideration Sandwich]] uses gamma as one candidate
-fast mode for differentiated sensory or local processing while slower activity can provide broader
-state, expectation, or routing context and Layer 5 output can contribute to embodied action.
+The [[gamma-wave-consideration-sandwich|Gamma Consideration Sandwich]] assigns gamma a specific
+middle role: **Layer-2/3 gamma performs consideration and proprioceptive coordination**. Its top bun
+combines Layer-4/input-side alpha-associated primary-sensory-side input with beta-associated
+prefrontal thought/top-down input. Its bottom bun joins Layer-5 theta/gamma action-side output with
+returned body input. Layer 4 is a functional label for the top bun; the selected prefrontal pathway
+must retain its actual, area-specific laminar anatomy.
 
-The medically bounded version is not a fixed frequency-to-function chart. Gamma, beta, alpha,
-theta, and slower activity can have different roles across circuits and tasks. The testable question
-is whether a declared gamma event changes receiver-specific communication or control within a named
-pathway, and whether its effect exceeds what stimulus, firing rate, movement, attention, and other
-state variables already explain.
+This is the GCS functional mapping, not an exclusive frequency-to-function chart. Gamma, beta,
+alpha, and theta can also have different roles across circuits and tasks. The testable GCS question
+is whether declared Layer-2/3 gamma relations integrate the two top-bun inputs with body-state
+coordination and predict the Layer-5 action/return cycle beyond stimulus, firing rate, movement,
+attention, common input, and other state variables.
 
 ## Source-faithful SAN chronology
 

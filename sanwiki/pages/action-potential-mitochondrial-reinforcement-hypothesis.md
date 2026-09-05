@@ -35,9 +35,10 @@ separated from the known calcium and metabolic pathways and tested.
 
 ## Why the distinction matters
 
-Rejecting the untested magnetic-flavin link would not erase the broader insight that local energy
-availability can bias learning. Confirming it would identify an additional activity-to-plasticity
-route.
+Failure of a declared magnetic-flavin implementation would not erase the broader insight that local
+energy availability can bias learning or falsify a different receiver, waveform, geometry, scale,
+or preparation. Confirming a field-specific causal chain would identify an additional
+activity-to-plasticity route.
 
 ## Energy constrains action without becoming willpower
 

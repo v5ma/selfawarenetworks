@@ -27,7 +27,7 @@ The three levels must remain separate.
 | Level | Question | Examples |
 |---|---|---|
 | Established biological donor | What operation has been measured in living nervous systems? | Dendritic integration, inhibition, recurrent population activity, synaptic and structural plasticity, sensory-motor feedback. |
-| SAN interpretation | How might those operations contribute to a maintained, distributed observer-action system? | [[napot]], tonic context and phasic updates, [[neural-tuning]], [[criterial-causation]], and provisional [[entification]]. |
+| SAN interpretation | How might those operations contribute to a maintained, distributed observer-action system? | [[napot-overview|NAPOT]], tonic context and phasic updates, [[neural-tuning]], [[criterial-causation]], and provisional [[entification]]. |
 | Engineered test | Does an implemented mechanism add measurable value over strong alternatives? | Compartmental or recurrent units, neuromorphic hardware, action-conditioned world models, closed-loop robots, VR/AR and [[brain-computer-interface|brain-computer interfaces]]. |
 
 An artificial implementation can outperform a baseline without establishing that the same mechanism operates biologically. A biological resemblance can be interesting without establishing engineering advantage or consciousness.
@@ -145,7 +145,7 @@ These records establish the development and breadth of the proposal. They do not
 - [[gh-a0347z|Superconducting Artificial-Synapse Source Intake]]
 - [[napot-sentient-ai-architecture|NAPOT Artificial-System Architecture]]
 - [[self-modeling|Self-Modeling]]
-- [[napot|Neural Array Projection Oscillation Tomography]]
+- [[napot-overview|Neural Array Projection Oscillation Tomography (NAPOT)]]
 - [[neural-tuning]]
 - [[criterial-causation]]
 - [[entification]]

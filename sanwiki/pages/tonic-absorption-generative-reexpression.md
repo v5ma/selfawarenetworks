@@ -45,13 +45,13 @@ A medically bounded reading is:
 
 | Source term | Source-faithful biological interpretation | What it must not imply |
 |---|---|---|
-| Tonic canvas | The current membrane, synaptic, cellular, population, neuromodulatory, and body-state context against which a change has consequences. | One universal EEG frequency, one literal screen, or a field that is independent of cells and circuits. |
-| Phasic PWD | A receiver-relative transient involving some combination of timing, phase, rate, waveform, duration, release, inhibition, and network position. | One universal high-frequency spike code or a substance poured into a low-frequency wave. |
+| Tonic canvas | The current membrane, synaptic, cellular, population, neuromodulatory, and body-state context against which a change has consequences; the 2022 source specifically hypothesized a higher-magnitude, lower-frequency tonic canvas. | One universal EEG frequency, one literal screen, or a field that is independent of cells and circuits. |
+| Phasic PWD | A receiver-relative transient involving timing, phase, rate, waveform, duration, release, inhibition, and network position; the 2022 source treated both higher-frequency excitatory bursts and slower inhibitory departures as informative irregularities relative to tonic activity. | One universal high-frequency spike code or a substance poured into a low-frequency wave. |
 | Absorption or dissipation | Recurrent mixing, transformation, relaxation, adaptation, and loss of the event's separate decodability while some consequences persist in state or learned structure. | Conservation-law proof that high frequency turns into low frequency, or that EEG power directly measures information content. |
 | Re-expression | Cue- and state-dependent reinstatement or construction by learned distributed circuitry. | A complete sensory movie stored in one neuron, exact replay, or a hidden viewer watching an image. |
 
-This interpretation retains the proposal's operation without preserving every compressed physical
-explanation in the historical note.
+The historical canvas-and-ink relation and its excitatory/inhibitory duality remain part of the
+dated SAN hypothesis; this bounded mapping separates that proposal from what physiology has established.
 
 ## Three biological timescales
 
@@ -75,6 +75,60 @@ The word *absorption* joins mechanisms that should be measured separately.
 These findings establish possible bridges, not the complete SAN chain. A particular PWD does not
 automatically cause short-term plasticity, LTP, LTD, recall, or conscious experience. Each outcome
 requires its own measured induction conditions and endpoint.
+
+## The causal middle: readiness, eligibility, and durable change
+
+Recurrent activity does not jump directly from a transient event to a stored memory. Several
+experimentally distinct states can occupy the interval between them:
+
+1. **Transient receiver or synaptic readiness.** Closely spaced presynaptic events can temporarily
+   alter release and the effect of the next event. At several central synapses, synaptotagmin-7 was
+   required for a calcium-dependent form of short-term facilitation
+   ([Jackman et al., 2016](https://www.nature.com/articles/nature16507)). This is one established
+   preparation-specific mechanism, not a universal account of every recurrent consequence.
+2. **Eligibility and modulatory coincidence.** A recent event can leave a temporary condition under
+   which a later signal matters. In nucleus-accumbens D1-receptor medium spiny neurons, dopamine
+   promoted glutamate-associated spine enlargement only within a measured 0.3-2 second window
+   ([Yagishita et al., 2014](https://pubmed.ncbi.nlm.nih.gov/25258080/)). That result demonstrates a
+   local reinforcement-plasticity window; it does not establish one brain-wide eligibility clock.
+3. **Induction depends on timing and preparation.** In cultured hippocampal neurons, relative spike
+   timing, initial synaptic strength, postsynaptic cell type, NMDA receptors, and calcium-channel
+   conditions affected the direction or extent of persistent change
+   ([Bi and Poo, 1998](https://pubmed.ncbi.nlm.nih.gov/9852584/)). In behaving-rat CA1, stimulation at
+   different phases of theta produced LTP or depression under one declared protocol
+   ([Hyman et al., 2003](https://pubmed.ncbi.nlm.nih.gov/14684874/)). Neither result licenses a
+   universal frequency-band-to-LTP/LTD table.
+4. **Tagging, capture, and expression require additional machinery.** Frey and Morris found a
+   short-lasting synaptic tag that could capture plasticity-related proteins and extend early LTP
+   ([1997](https://www.nature.com/articles/385533a0)). Park and colleagues showed that recycling
+   endosomes supplied AMPA receptors during LTP in their preparation
+   ([2004](https://pubmed.ncbi.nlm.nih.gov/15448273/)). Durable change therefore recruits local
+   molecular and trafficking processes; recurrent timing does not replace them.
+5. **Calcium models organize hypotheses, not one universal switch.** Calcium-based models can join
+   voltage, timing, rate, burst pattern, and dendritic location to bidirectional plasticity outcomes
+   ([Shouval, Bear, and Cooper, 2002](https://pubmed.ncbi.nlm.nih.gov/12136127/);
+   [Graupner and Brunel, 2012](https://pubmed.ncbi.nlm.nih.gov/22357758/)). Their fitted thresholds
+   summarize preparation-dependent signaling cascades and should not be mistaken for a literal
+   three-level rule in every synapse.
+
+The source-faithful SAN bridge is therefore conditional:
+
+```text
+recurrent PWD consequences
+-> transient receiver and synaptic state
+-> eligible or tagged sites under local timing, calcium, and modulatory conditions
+-> recovery, short-term adaptation, or durable plasticity
+-> altered response when a later cue enters the changed tissue
+-> constructive group or relation re-expression
+```
+
+**Established physiology** supplies the transient state, timing dependence, eligibility, tagging,
+and molecular-expression mechanisms above. **The documented SAN synthesis** joins a finite
+recurrence-and-fading interval to repeated receiver encounters and later cue-dependent
+re-expression. **The SAN-specific extension** proposes that typed, receiver-relative PWD
+consequences help distribute those conditional opportunities across recurrent routes. The extension
+is supported only if it predicts which sites change and what is later re-expressed better than
+standard activity-history, replay, and plasticity models.
 
 ## Re-expression is constructive
 
@@ -177,6 +231,25 @@ perturbing the predicted recurrent and plasticity routes does not alter re-expre
 
 ## Source chronology
 
+- **August 24, 2011, owner-metadata recording ancestor:**
+  [[self-is-a-prediction-dialogue-2011|The Self Is a Prediction]] describes repeated experience as
+  changing tissue readiness and thereby altering later expectation. It is a conceptual ancestor;
+  the current public upload does not by itself prove public availability in 2011, and the source
+  does not contain the later recurrence, PWD, or NAPOT operators.
+- **September 19-20, 2012, public neuron-topography/program ancestor:** the public
+  [Neurons Are Programs transmitting their shape post](https://x.com/i/web/status/248495906763177984)
+  proposes that a neuron's topography embodies a program and that its emitted electrical packet
+  represents that topography, analogized to digital music transmission. It does not establish literal
+  copying of anatomy, infinite storage, or the later mature recurrence-to-absorption mechanism.
+- **April 11, 2017, public differential-writeback ancestor:**
+  [[gh-nlp1|Neural Lace Podcast #1]] proposes comparing an active neural pattern with a desired
+  pattern, transmitting the consequential difference, and reconstructing a changed receiver-side
+  state. The [[neural-lace-podcast-source-genealogy|source genealogy]] keeps this as an ancestor
+  rather than retroactively naming it PWD or NAPOT.
+- **November 7, 2021, recorded operational ancestor; October 29, 2022, public transcript
+  fixation:** [[gh-b0067ywhisper|b0067y]] describes a novel timing departure recurring in transformed
+  form and gradually fading during re-entrainment, giving synapses repeated opportunities to change.
+  The recording predates the public transcript; quotation still requires audio readback.
 - **September 18, 2022, author-history stage:** the `a0310zNAPOT5.md` Git history adds the forward
   *Diffusion Networks* analogy: PWDs are progressively distributed or absorbed while the network
   learns from their passage. This is a development timestamp, not by itself proof of public
@@ -193,10 +266,11 @@ perturbing the predicted recurrent and plasticity routes does not alter re-expre
   with Spens and Burgess's generative-memory model. This later comparison clarifies the analogy; it
   is not backdated into the 2022 source.
 
-The raw transcript [[gh-b0010y|b0010y]] is an audio-derived ancestor of `a0310z`. Its current
-ChatGPT summaries are maintenance layers, not Micah-authored 2022 claims. The source hierarchy is
-therefore audio/transcript -> Micah's rewritten `a0310z` -> later owner/AI comparison -> this
-medically bounded Encyclopedia synthesis.
+The 40-minute [[gh-b0010y|b0010y]] audio is the direct drafting ancestor of `a0310z`; `b0067y` is a
+separate earlier operational ancestor for recurrence, fading, and repeated plasticity opportunity.
+Current ChatGPT summaries are maintenance layers, not Micah-authored historical claims. The source
+hierarchy is therefore dated audio or public source -> Micah's rewritten and Git-fixed synthesis ->
+later owner/AI comparison -> this medically bounded Encyclopedia account.
 
 ## Read next
 
@@ -205,9 +279,13 @@ medically bounded Encyclopedia synthesis.
 - [[tonic-phasic-phase-wave-differential|Tonic Baseline, Phasic Update, and PWD]]
 - [[tonic-oscillation-canvas|Tonic Oscillation as Canvas]]
 - [[phase-wave-differentials|Phase-Wave Differentials]]
+- [[short-term-plasticity|Short-Term Synaptic Plasticity]]
+- [[action-potential-waveform|Action-Potential Waveform]]
+- [[multi-vesicle-release|Multi-Vesicle Release]]
 - [[synaptic-plasticity|Synaptic Plasticity: Timing, Oscillation, and SAN's Coherence-Dispersion Hypothesis]]
 - [[sharp-wave-ripples|Sharp-Wave Ripples, Memory Scaling, and the SAN Interpretation]]
 - [[memory-as-regenerable-pattern|Memory as Regenerable Pattern]]
+- [[pattern-completion|Pattern Completion]]
 - [[oscillating-group-completion|Oscillating-Group Completion and Re-expression]]
 - [[napot-overview|NAPOT Overview]]
 - [[neural-rendering|Neural Rendering]]

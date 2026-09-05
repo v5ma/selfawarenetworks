@@ -21,13 +21,13 @@ Semantic mastery is not yet complete. The current governed graph has 134 exact r
 
 Thirty text files are recorded as derived extractions of paired PDFs, and 13 files are repository infrastructure. After excluding those 43 representations and the 134 exact reviewed anchor files, the intellectual-content review queue contains 859 files: 682 a/b/c theory-sequence files, 157 supporting text files, and 20 binary or reference files. Lexical candidates remain in that queue until a human semantic review accepts or rejects their routes. The front-spine queue is zero. Every artifact remains preserved.
 
-Generated audit artifacts:
+Generated audit artifacts, maintained internally rather than exposed as public reader routes:
 
-- `[private local source path withheld]`
-- `[private local source path withheld]`
-- `[private local source path withheld]`
-- `[private local source path withheld]`
-- `[private local source path withheld]`
+- `source-census.jsonl`
+- `knowledge-graph.json`
+- `coverage-report.md`
+- `semantic-review-queue.jsonl`
+- `reader-mirror-gaps.jsonl`
 
 ## The four-layer graph
 

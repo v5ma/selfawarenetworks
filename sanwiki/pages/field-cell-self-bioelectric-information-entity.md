@@ -1,34 +1,63 @@
+---
+title: "The Field-Cell Self: A Bioelectric Information Entity"
+tags: [san, field-cell-self, bioelectricity, pwd, entification, embodiment, identity-thesis]
+aliases: [Field-Cell Self, Bioelectric Information Entity]
+summary: "SAN's source-grounded field-cell identity hypothesis, with explicit electric, magnetic, cellular, PWD, embodiment, evidence, and failure boundaries."
+status: governed
+---
+
 # The Field-Cell Self: A Bioelectric Information Entity
+
+> **Core architectural rule:** A [[phase-wave-differentials|phase-wave differential]] (PWD) is a typed, receiver-relative departure from a declared tonic or reference pattern. It is foundational throughout SAN's recurrent operation. A departure may involve excitation, inhibition, a missing expected event, delay, or an interaction among them. PWD is not excitation minus inhibition, and it is not a later or secondary stage.
+
+> **Image status:** No image is accepted on this page. Any future visual containing anatomy, cells, membranes, currents, fields, or physiology must pass a separate medical-grade image certification before installation.
 
 ## Governing question
 
 How can distributed living tissue itself maintain one changing perspective that senses, remembers,
 predicts, acts, and recognizes its own continuing state?
 
-The **field-cell self** is an editorial name for SAN's joined answer. The self is proposed to be a
+The **field-cell self** is an editorial name for SAN's joined answer. It proposes that a self is a
 temporally continuous information entity constituted by reciprocal activity among living cells,
-their shared bioelectric organization, memory, body regulation, action, and returning
-consequences.
+their electrical and chemical organization, learned structure, body regulation, action, and
+returning consequences. This is SAN's mechanistic identity hypothesis, not an established result
+of cellular electrophysiology, field neuroscience, or consciousness science.
 
 ## The mechanism ladder
 
-1. Cells receive structured sensory, bodily, recurrent, and chemical input.
-2. Learned dendritic, synaptic, molecular, and network state changes what each cell can detect and
-   do.
-3. Cellular currents contribute to extracellular electrical and electromagnetic organization.
-4. Local field effects, synaptic transmission, axonal conduction, gap junctions, and chemical
-   signaling jointly influence later cellular timing and excitability.
-5. Continuing or tonic activity supplies a reference state; consequential departures form
-   structured updates.
-6. SAN calls the relevant receiver-relative update a phase-wave differential (PWD).
-7. Recurrent arrays receive, transform, project, and encounter the consequences of earlier states.
-8. Memory and plasticity preserve some consequences, while action changes the next sensory and
-   bodily input.
-9. The resulting organization maintains an embodied self-world model and constrains its own future
-   trajectory.
+1. Cells receive sensory, bodily, recurrent, synaptic, electrical, and chemical influences.
+2. Membrane, dendritic, synaptic, molecular, and network state changes what a receiver can register
+   and what consequence follows.
+3. Transmembrane and intracellular currents contribute to extracellular potentials and electric
+   fields; neural currents also generate associated magnetic fields.
+4. Synaptic transmission, axonal conduction, gap junctions, neuromodulation, and, under bounded
+   conditions, extracellular electric-field effects can influence later timing and excitability.
+5. Continuing or tonic activity supplies a declared receiver-specific reference. Excitation,
+   inhibition, missing expected activity, delay, and their interactions can each differentiate the
+   later pattern from that reference.
+6. SAN calls that typed, receiver-relative departure PWD. The relation recurs wherever a receiver
+   encounters and transforms a reference-relative difference.
+7. Recurrent arrays receive, transform, project, and encounter consequences of earlier states at
+   multiple scales.
+8. Memory and plasticity preserve some consequences, while action changes the next bodily,
+   environmental, and recurrent input.
+9. SAN proposes that the resulting field-cell organization maintains an embodied self-world model
+   and constrains its own future trajectory.
 
-Steps 1 through 4 contain established biological operations under bounded conditions. Steps 5
-through 9 are an increasingly strong SAN synthesis and hypothesis.
+Steps 1 through 4 summarize established biological operations only within specified preparations,
+scales, and interventions. Steps 5 through 8 join those operations using SAN's PWD and recurrent
+architecture. Step 9 is the stronger field-cell self hypothesis. Evidence for a lower step does not
+establish a higher one.
+
+## What "field" means here
+
+| Term | Bounded meaning on this page | Required separation |
+|---|---|---|
+| **Membrane and cellular bioelectric state** | Transmembrane voltage, ionic current, conductance, excitability, and their spatial and temporal organization. | These variables are related but not interchangeable with an extracellular field measurement. |
+| **Extracellular electric potential and field** | Potentials and gradients produced by current sources in conductive tissue; an electric field can alter membrane polarization, timing, or excitability under demonstrated conditions. | A recorded local field potential can reflect common synaptic drive and volume conduction without proving causal ephaptic feedback. |
+| **Ephaptic coupling** | A causal influence of an extracellular electric field on nearby neural elements that is not reduced to ordinary chemical synaptic transmission. | It must be distinguished experimentally from synaptic, gap-junction, chemical, and common-input routes. |
+| **Neural magnetic field** | The magnetic field generated by neural current, measurable with methods such as MEG. | Measurement does not show that neural tissue senses its own magnetic field or uses it as a content channel. That early SAN proposal remains a separate test. |
+| **Field-cell organization** | SAN's proposed jointly evolving relation among cellular state, electrical organization, recurrence, memory, embodiment, and action. | It is not a claim that every field, oscillation, or electrically active cell is conscious. |
 
 ## The identity claim
 
@@ -40,8 +69,8 @@ Ordinary language separates three things:
 
 SAN's strongest claim is that an appropriately organized living field-cell process does not need
 those to be three separate entities. The ongoing or tonic organization is the active medium, PWDs
-are structured transformations of that medium, and the recurrent system that generates, detects,
-remembers, and alters those transformations is the observer.
+specify typed receiver-relative departures within that medium, and the recurrent system that
+generates, detects, remembers, and alters the consequences of those departures is the observer.
 
 This is a mechanistic identity thesis, not the generic statement that every electromagnetic field
 is conscious. It requires a living or functionally equivalent architecture with differentiated
@@ -82,9 +111,13 @@ durable learned neural and bodily organization
 ```
 
 Sleep can change conscious access without erasing the person, and waking does not reproduce every
-physical detail of an earlier state. Injury can alter the continuity profile, while plasticity can
-sometimes restore function through different routes. One instantaneous field map is therefore
-neither a hidden viewer nor the whole personal self.
+physical detail of an earlier state. Injury can alter the continuity profile. In adult mice after
+corticospinal tract injury, plasticity in intact rubral projections supported partial spontaneous
+motor recovery under the reported lesion and circuit-intervention conditions
+([Siegel et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25632122/)). This is one bounded example of
+functional recovery through changed circuitry, not evidence that personal identity moved to that
+route. One instantaneous field map is therefore neither a hidden viewer nor the whole personal
+self.
 
 SAN preserves this as a testable continuity hypothesis rather than defining identity by one
 signal. See [[conscious-episode-diachronic-self-continuity|Conscious Episodes and the Continuity of a Person]].
@@ -97,15 +130,22 @@ signal. See [[conscious-episode-diachronic-self-continuity|Conscious Episodes an
   observer rather than a coordinated collection.
 - [[perceptual-screen-neural-rendering|Neural Rendering]] describes construction and revision of
   the action-usable self-world state.
-- [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]] describes changing content
-  relative to ongoing activity.
+- [[phase-wave-differentials|Phase-Wave Differentials]] defines the core typed,
+  receiver-relative departure from tonic or reference activity; [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]] gives the complementary
+  contrast language.
 - [[receptive-inceptive-dendritic-projection|Receptive, Inceptive, and Dendritic Projection]]
   supplies the receive-transform-project route.
 - [[memory-state-drift-virtual-mind|Memory and the Virtual Mind]] supplies continuity across
   changing biological implementation.
 - [[theory-of-redness|Theory of Redness]] supplies a concrete qualitative test.
-- [[napot-revision-genealogy|NAPOT Revision Genealogy]] supplies the multiscale rendering
-  architecture and its historical revisions.
+- [[napot-overview|NAPOT]] supplies the multiscale receive-transform-project-update architecture
+  and uses PWD throughout recurrent operation, not only at a final, late, or optional stage;
+  [[napot-revision-genealogy|NAPOT Revision Genealogy]] preserves its historical revisions.
+- [[gamma-wave-consideration-sandwich|Gamma Consideration Sandwich]] is one bounded cortical model
+  that uses PWD: alpha-associated primary-sensory-side input and beta-associated prefrontal
+  thought or top-down input form the functional top bun; layer 2/3 gamma performs consideration and
+  proprioceptive coordination; and layer 5 theta/gamma carries action-side output and returning
+  body evidence. GCS does not define, contain, or outrank PWD or NAPOT.
 - [[conscious-episode-diachronic-self-continuity|Conscious Episodes and the Continuity of a Person]] separates the active episode from longer-lived memory, embodiment, and policy
   continuity.
 - [[machine-self-report-active-canvas-consciousness-test|From Machine Self-Report to an Active-Canvas Test]] translates the biological field-cell criteria into a declared synthetic
@@ -115,35 +155,38 @@ signal. See [[conscious-episode-diachronic-self-continuity|Conscious Episodes an
 
 | Source | Contribution | Boundary |
 |---|---|---|
-| `a0051z.md`, `a0072z.md` | 2011 learning loop that learns itself | Duplicate records of one source atom |
-| `a0339z.md` | 2012 embodied thought-pattern recursion, action, dissipation, and self-updating prediction | Theory history, not neural validation |
-| `a0194z.md` | Internally dated August 24, 2011 body ownership, socially learned self-labeling, brain-body-environment continuity, and no independent inner actor | First current-path Git fixation is 2022; philosophical genealogy, not field-cell identity evidence |
-| `a0166z.md` | Internally dated 2013 no-brain-versus-self argument and changing learned criteria | First Git fixation is 2022; recurrent-field identity remains a SAN hypothesis |
-| `a0091z.md` | Internally dated 2014 field-of-cells, persistent-pattern, equilibrium, and dissipation discussion | Mixed Micah/Chase dialogue; public Git fixation is 2022 and later SAN gives oscillations a more active role |
-| `a0360z.md` | Internally dated 2013 proposal that neural tissue registers its own electric or magnetic patterns | Early field-sensing hypothesis; electric/ephaptic, magnetic, and common-drive routes remain separate tests |
-| `a0404z.md` | Internally dated November 1, 2013 no-inner-witness, situated copy divergence, self as tempo-spatial relation, and cells as the sensing tissue | Philosophical and polemical source first Git-fixed in 2022; medical examples and universal claims require independent review |
-| `a0001z.md` | 2022 self as neural rendering and the concrete Theory of Redness | Integrative SAN source |
-| `a0417z.md` | April 2014 category-theory discussion followed by Micah's explicitly marked 2022 retrospective array-binding and embodied-observer synthesis | The 2022 synthesis remains distinct from the earlier, separately attributed discussion |
-| `a0443z.md` | Relational `I`, `you`, `we`, and `them` distinctions; modality-invariant pattern learning; self as a changing oscillatory configuration | First tracked Git fixation is June 8, 2022; phase and hologram language is genealogy rather than proof of identity |
-| `a0445z.md` | Brain and body treated as one active sensor system whose internal changes participate in perception and action | First tracked Git fixation is June 8, 2022; embodiment is established background, while field-cell identity remains the SAN hypothesis |
-| `a0310z.md` | 2022 tonic canvas, phasic ink, brain detecting and rendering its own information | Mechanistic hypothesis |
-| `a0319z.md` | 2022 distributed no-central-canvas render/detect, context, prediction, and action | Mature SAN proposal |
-| `01san.md` | 2024 field-organized neural activity, field-cell interaction, sense of self, and simulated physics | Drafting-assistance history unresolved |
-| `03san.md` | 2024 entification and recursive-observer synthesis | AI-assisted dialogue |
-| `13san.md` | 2025 self-reference and shared-phase computational branch | Formal distinctions remain open |
+| [[gh-a0051z|a0051z]], [[gh-a0072z|a0072z]] | 2011 learning loop that learns itself | Duplicate or excerpted records of one source, not independent confirmations |
+| [[gh-a0339z|a0339z]] | 2012 embodied thought-pattern recursion, action, dissipation, and self-updating prediction | Theory history, not neural validation |
+| [[gh-a0194z|a0194z]] | Internally dated August 24, 2011 socially learned self-labeling, brain-body-environment relations, and no independent inner actor | First current-path Git fixation is 2022; this is philosophical genealogy, not body-ownership or field-cell evidence |
+| [[gh-a0166z|a0166z]] | Internally dated September 13, 2013 no-brain-versus-self argument and changing learned criteria | First Git fixation is 2022; recurrent field-cell identity remains a SAN hypothesis |
+| [[gh-a0091z|a0091z]] | Internally dated 2014 dialogue about a field of cells, persistent patterns, equilibrium, dissipation, and speculative quantum-field detection or distortion | Mixed Micah/Chase dialogue; Chase adds quantum-entanglement language, and none of this is retrospective evidence for electric ephaptic coupling |
+| [[gh-a0360z|a0360z]] | Undated proposal that neural tissue may register its own electric or magnetic patterns | First Git fixation is June 8, 2022; electric/ephaptic, magnetic-sensing, and common-drive routes remain separate tests |
+| [[gh-a0404z|a0404z]] | Internally dated November 1, 2013 no-inner-witness, situated copy divergence, self as tempo-spatial relation, and cells as the sensing tissue | Philosophical and polemical source first Git-fixed in 2022; medical examples and universal claims require independent review |
+| [[gh-a0001z|a0001z]] | 2022 self as neural rendering and the concrete Theory of Redness | Integrative SAN source |
+| [[gh-a0417z|a0417z]] | April 2014 other-speaker category-theory discussion followed by Micah's explicitly marked 2022 retrospective array-binding and embodied-observer synthesis | The speakers and the 2014 and 2022 layers must remain separate |
+| [[gh-a0443z|a0443z]] | Relational `I`, `you`, `we`, and `them` distinctions; modality-invariant pattern learning; self as a changing oscillatory configuration | No internal date; first tracked Git fixation is June 8, 2022; phase and hologram language is genealogy, not identity proof |
+| [[gh-a0445z|a0445z]] | Source-recovered fragments joining brain and body as an active sensor system whose internal changes participate in perception and action | Reconstruction from early-2022 recordings; the unrelated labor fragment remains separate, and field-cell identity remains a hypothesis |
+| [[gh-a0310z|a0310z]] | 2022 tonic canvas, phasic ink, brain detecting and rendering its own information | Mechanistic hypothesis |
+| [[gh-a0319z|a0319z]] | 2022 distributed no-central-canvas render/detect, context, prediction, and action | Mature SAN proposal |
+| [[gh-01san|01san]] | First Git-fixed in 2024; field-organized neural activity, field-cell interaction, sense of self, and simulated physics | The source itself marks field claims as hypothesis or conjecture; drafting-assistance history remains unresolved |
+| [[gh-03san|03san]] | Direct Micah lines describe entified sensory rendering, synchrony, Hofstadter, and Friston; later lines contain model synthesis | Mixed-author dialogue; model-generated explanations, including an erroneous historical GCS role assignment, are not Micah-source or scientific evidence |
+| [[gh-13san|13san]] | 2025 self-reference and shared-phase computational branch | Composite source; preserve speaker attribution and keep formal distinctions open |
 | 2026 field-cell synthesis | Direct synthesis joining self-learning loop, field-cell process, tonic canvas, PWD content, and identity thesis | Mixed Micah-model dialogue; current synthesis, not chronology proof |
 
 Detailed source handling:
 
 - [The Self: Field-Cell Self Synthesis (2026)](/v5ma.github.io/wiki/san/sources/theself-field-cell-self-synthesis-20260716.md)
 
-The 2014 source records an important change rather than a fully finished theory. It already treats
-thought as a tempo-spatial pattern that can persist while participating matter changes, and it
-links a field of cells to detected differences and dissipation. It can also describe brainwaves as
-residual indicators. Mature SAN later gives tonic and phasic organization an active role in
-rendering, routing, and observation. Both stages belong in the genealogy.
+The 2014 `a0091z.md` dialogue records an important but unfinished and speculative stage. Micah
+considers tempo-spatial patterns, a field of cells, equilibrium, dissipation, and cells detecting or
+distorting a quantum field; Chase separately introduces quantum-entanglement language. The same
+source can treat brainwaves as residual or dissipative indicators. Mature SAN later assigns active
+roles to tonic organization, differentiated patterns, rendering, routing, and observation. The
+later account must not be backdated into the earlier dialogue, and the earlier quantum language
+must not be silently rewritten as evidence for extracellular electric or ephaptic coupling.
 
-`a0360z.md` makes the field proposal experimentally useful by supplying a missing bridge:
+The undated `a0360z.md`, first fixed in Git on June 8, 2022, makes the field proposal experimentally
+useful by exposing a missing bridge:
 
 ```text
 measured endogenous field pattern
@@ -152,9 +195,11 @@ measured endogenous field pattern
 -> circuit and behavioral consequence
 ```
 
-The experiment must distinguish electric or ephaptic effects, magnetic sensitivity, and ordinary
-shared synaptic input. Field orientation, waveform, dose-response, sham, and rescue conditions make
-the SAN proposal stronger and more specific.
+The experiment must distinguish electric or ephaptic effects, magnetic sensitivity, gap-junction
+or chemical signaling, and ordinary shared synaptic input. Field orientation, waveform,
+dose-response, matched sham, selective disruption, and rescue conditions make the proposal more
+specific. Until a magnetic transduction route is demonstrated, evidence that neural currents
+generate measurable magnetic fields cannot fill the proposed magnetic-sensing step.
 
 `a0404z.md` and `a0417z.md` make the no-inner-viewer ancestry unusually explicit. The first says
 that cells sense changing brain activity and that a copied brain would diverge under a different
@@ -193,17 +238,23 @@ self remains the hypothesis to test.
 
 ## Evidence boundary
 
-The Koch-Anastassiou program supplies a named earlier empirical boundary: endogenous extracellular
-fields can affect neural timing and entrainment under bounded conditions. Complementary slice work
-showed that weak fields could enhance and entrain physiological neocortical network activity
-([Frohlich and McCormick, 2010](https://doi.org/10.1016/j.neuron.2010.06.005)), modulate population
-rate and spike timing in active hippocampal networks
-([Reato et al., 2010](https://doi.org/10.1523/JNEUROSCI.2059-10.2010)), and modulate or block
-slow periodic propagation in longitudinal hippocampal slices under conditions consistent with
-ephaptic coupling ([Chiang et al., 2019](https://doi.org/10.1113/JP276904)). These studies use
-different preparations and endpoints; none establishes a universal field mechanism in intact
-human cognition. Together they support a bounded causal field term but do not demonstrate
-field-as-conscious-content, Neural Rendering, PWD, or the field-cell identity thesis.
+The literature supports component operations at specific scales. It does not supply one experiment
+that establishes the joined field-cell self.
+
+| Primary study | Preparation and variable | What the result supports here | What it does not establish |
+|---|---|---|---|
+| [Frohlich and McCormick, 2010](https://pubmed.ncbi.nlm.nih.gov/20624597/) | Ferret neocortical slices during slow oscillation; weak applied sinusoidal and naturalistic electric fields | Applied fields within the reported endogenous range can enhance and entrain network activity in this preparation. | Intact-human cognition, magnetic sensing, content, PWD, consciousness, or identity. |
+| [Reato et al., 2010](https://pubmed.ncbi.nlm.nih.gov/21068312/) | Rat hippocampal slices with carbachol-induced gamma activity; weak applied electric fields | Field waveform and timing can alter population rate and spike timing in an active slice network. | A universal gamma role, endogenous field causation in every circuit, or a conscious observer. |
+| [Chiang et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30295923/) | Longitudinal mouse hippocampal slices; slow activity under pharmacological isolation and field perturbation | Propagation can persist without ordinary chemical synaptic or gap-junction transmission and can be modulated or blocked in a manner consistent with ephaptic coupling. | That all long-range propagation is ephaptic, that the effect occurs unchanged in vivo, or that fields carry subjective content. |
+| [Lakatos et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17224408/) | Awake macaque primary auditory cortex; somatosensory input and laminar oscillatory phase | Cross-sensory input can reset phase and place later auditory input into amplification or suppression phases. | Awareness, identity, PWD as a complete theory, or one fixed frequency-to-function dictionary. |
+| [Johnson et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32917605/) | Awake nonhuman primates; motor-cortical single-unit recording during dose-dependent transcranial alternating-current stimulation | An imposed electric field can entrain spike timing in an intact primate under the reported stimulation conditions. | That endogenous fields perform the same function, or that entrainment is conscious content. |
+| [Rea et al., 2022](https://pubmed.ncbi.nlm.nih.gov/36065147/) | Human optically pumped magnetometer MEG during a handwriting task | Magnetic fields generated by neural current are measurable noninvasively in humans. | Neural magnetic self-sensing, causal magnetic feedback, or a magnetic content channel. |
+| [Graczyk et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29959334/) | Two upper-limb amputees using a neural-connected sensory prosthesis at home | Restored sensory feedback can improve use and reported embodiment under the study conditions. | Transfer of personal identity, prosthesis consciousness, or proof that embodiment alone constitutes a self. |
+
+The first three studies support a bounded causal electric-field or ephaptic evidence base in neural
+tissue. The phase-reset, stimulation, MEG, and prosthesis studies constrain different links
+in the proposed architecture. They must remain separate rather than being compressed into a single
+"bioelectric consciousness" result.
 
 Read the controlling comparison:
 
@@ -211,11 +262,16 @@ Read the controlling comparison:
 
 The SAN claim ladder is:
 
-1. **Established background:** cells generate fields; fields can influence cells.
-2. **Integrative SAN interpretation:** field, cellular, synaptic, recurrent, and bodily processes
-   jointly form a rendering loop.
-3. **Field-as-content hypothesis:** structured field-cell relations carry or embody content.
-4. **Identity thesis:** the intrinsic condition of the entified process is subjective experience.
+1. **Established background:** neural currents generate measurable electric potentials and magnetic
+   fields; under bounded preparations and interventions, extracellular electric fields can influence
+   neural timing and excitability.
+2. **Integrative SAN interpretation:** cellular, synaptic, electrical, chemical, recurrent, and
+   bodily processes jointly participate in one receive-transform-project-update loop in which PWD
+   is the receiver-relative difference relation.
+3. **Field-as-content hypothesis:** some structured field-cell relations are constitutive or causal
+   dimensions of represented content rather than only correlated by-products or timing support.
+4. **Identity thesis:** the intrinsic condition of the appropriately entified field-cell process is
+   subjective experience.
 
 No lower level proves the level above it.
 
@@ -235,14 +291,19 @@ High-value tests include:
 
 ## Book and paper route
 
-This is a root thesis, not only a Chapter 24 strange-loop topic.
+This is a root thesis, not only a Chapter 24 strange-loop topic. SAN Book 2 and Bridge Atlas cards
+BR-015, BR-017, and BR-023 are read-only evidence donors for distributed reception, the corrected
+GCS traffic model, and the learning-loop/action-return route. They may contribute distinctions,
+references, tests, and visual requirements, but they do not overwrite the dated sources or this
+Wiki's atom-level review. The SAN Wiki remains the owning surface for this page.
 
 - Introduce the problem early in ordinary language.
 - Earn feedback and self-model before field-cell terminology.
 - Use Neural Rendering and NAPOT to explain construction and multiscale integration.
 - Use the tonic/PWD distinction to explain medium and changing content.
 - Return to the thesis in memory, embodiment, action, artificial neurology, and experiments.
-- Put detailed evidence, alternatives, and claim status in the Evidence Atlas.
+- Keep detailed evidence, alternatives, and claim status synchronized with the Evidence Atlas while
+  preserving the Wiki's independent source and science checks.
 - Preserve [[early-a0180-a0197-obscure-argument-map|the a0180-a0197 source map]] as the boundary
   between early self-language and the mature field-cell identity thesis.
 - Preserve [[early-a0352-a0372-obscure-argument-map|the a0352-a0372 source map]] for the early
@@ -281,5 +342,6 @@ each participant remains situated in a continuing neural process into a multi-va
 falsifiable criterion. See
 [[voluntary-shared-cognitive-environment-retained-personhood]].
 
-See [[self-aware-networks|Self-Aware Networks]] for the program overview and full observer-action
+Use [[self-aware-network|Self-Aware Network]] for candidate-system criteria and
+[[self-aware-networks|Self-Aware Networks]] for the program overview and full observer-action
 mechanism spine that precedes this stronger field-cell identity thesis.

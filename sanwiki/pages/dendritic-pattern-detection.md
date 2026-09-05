@@ -27,7 +27,7 @@ There is no universal 5 ms integration window. Relevant windows range from submi
 
 NMDA receptors are voltage- and ligand-dependent channels. Coincident glutamate binding and depolarization can relieve magnesium block, permit current, and contribute to calcium-dependent plasticity. A receptor is not simply retimed after one detection event to admit a new pattern class.
 
-Long-term potentiation and depression can alter receptor number, conductance, spine structure, release probability, and network recruitment over multiple timescales. Protein synthesis is required for some longer-lasting forms, not every immediate change in selectivity. [[Criterial-Causation|Criteria causation]] can remain as a conceptual interpretation of how present activity changes future response conditions, but it must not be substituted for a measured molecular sequence.
+Long-term potentiation and depression can alter receptor number, conductance, spine structure, release probability, and network recruitment over multiple timescales. Protein synthesis is required for some longer-lasting forms, not every immediate change in selectivity. [[criterial-causation|Criterial causation]] can remain as a conceptual interpretation of how present activity changes future response conditions, but it must not be substituted for a measured molecular sequence.
 
 ## Apical and basal compartments
 

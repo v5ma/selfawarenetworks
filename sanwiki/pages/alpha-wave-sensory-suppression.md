@@ -1,46 +1,129 @@
-# Alpha Wave Sensory Suppression
-
-**Alpha Wave Sensory Suppression** is the inhibitory gating mechanism by which 8–12 Hz alpha oscillations in cortex actively suppress the processing of sensory input in regions not currently relevant to the attentional focus. Within the [[self-aware-networks-theory|Self-Aware Networks]] framework, alpha suppression is not merely a correlate of reduced sensory engagement but is one of the primary oscillatory mechanisms through which the brain implements selective access to [[napot-theory|NAPOT's]] sensory projection stages — controlling which sensory channels gain entry to the conscious rendering loop and which are held in pulsed inhibition.
-
-![Alpha Wave Sensory Suppression](/v5ma.github.io/wiki/assets/generated/san/alpha-wave-sensory-suppression/alpha-wave-sensory-suppression-thalamocortical-gating-20260625.png)
-
-This thalamo-cortical gating diagram shows how 8-12 Hz alpha power closes unattended sensory channels through thalamic reticular and layer-6 feedback, while alpha suppression opens attended cortex for gamma-band sensory rendering.
-
-The empirical basis for alpha suppression as an active inhibitory mechanism — rather than a passive idle rhythm — has been established through a convergence of EEG, MEG, and intracranial recording studies. When human participants attend to one visual hemifield, alpha power is lateralized: it increases over the occipital cortex ipsilateral to the attended field (the unattended side) and decreases over the contralateral side. This pattern — event-related desynchronization in the attended region, event-related synchronization in the unattended region — demonstrates that alpha is dynamically deployed to sculpt the sensory access landscape. The [[phase-wave-differentials]] framework in SAN interprets this spatial alpha gradient as a priority map implemented in the oscillatory domain: the magnitude of alpha suppression in a cortical region predicts how much sensory information from the corresponding part of the environment can propagate forward into the [[brain-as-sensory-processor|higher sensory processing hierarchy]]. High alpha in a region effectively closes the gate on sensory signals originating from that region's receptive field, while low alpha opens the gate for [[fractal-conscious-perception|conscious perceptual processing]].
-
-The cellular substrate of alpha suppression involves the inhibitory interneuron networks of cortical layers 4 and 6. [[layer-6-inhibitory-intuition]] details how layer-6 pyramidal neurons, by projecting back to layer 4 via inhibitory interneurons, can impose a pulsed inhibitory pattern on thalamo-cortical input at alpha frequency, effectively creating a 10 Hz sampling window for incoming sensory data. [[inhibitory-logic-gate-pattern-cascade]] describes the broader principle: cascades of inhibitory interneuron activation produce logic-gate-like filtering in cortical circuits, where the alpha rhythm is the carrier wave on which the logic gate operates. [[inhibitory-decay-oscillation-frequency]] and [[inhibitory-interneurons-plasticity-gating]] together characterize how the decay rate of inhibitory postsynaptic potentials and the plasticity of inhibitory synapses determine the resonant frequency at which a given cortical area will idle and the conditions under which that frequency shifts. The thalamic regulation of cortical alpha is mediated through the thalamo-reticular nucleus, which imposes synchronized inhibitory barrages on thalamic relay cells, and this circuit is the anatomical pivot described in [[thalamic-bridge-consciousness-portal]] where sensory gating is first implemented before signal reaches cortex.
-
-In the [[thalamo-cortical-information-flow]] loop, alpha suppression operates on both the ascending (thalamus-to-cortex) and descending (cortex-to-thalamus) arms. Alpha-synchronised pulses from the thalamic reticular nucleus suppress thalamic relay activity, reducing the sensory signal that reaches cortex in the first place; simultaneously, layer-6 cortical feedback at alpha frequency returns suppression to the thalamic relay, reinforcing the gate at two levels simultaneously. This dual-site gating is the mechanism through which [[inhibitory-error-correction]] can operate selectively: the thalamic gate can be selectively opened for prediction error signals even when it is simultaneously closed for ongoing bottom-up sensory input, allowing the system to update internal models without flooding conscious processing with raw sensory traffic. The [[dominant-phase-wave-differential]] and [[dominant-phase-wave-differential-rhythm]] constructs in SAN capture how the relative phase between alpha oscillations in different cortical areas determines cross-regional influence: a region with dominant-phase alpha can impose its rhythm on receiving regions, extending the suppression pattern across cortex through phase coupling rather than direct anatomical inhibition.
-
-Alpha suppression is spatially and modality-specific. Visual cortex alpha (posterior alpha, typically around 10 Hz) suppresses visual processing; somatosensory cortex alpha (mu rhythm, 8–12 Hz) suppresses tactile processing; [[auditory-cortex|auditory cortex]] has its own alpha-band suppression pattern, relevant to the gating described in [[auditory-gating-spring-camp]]. This modality specificity supports the SAN picture of the sensory system as an array of independent channels, each with its own alpha gating mechanism, which are then selectively opened and closed in coordination by the [[attention]] system. The [[multi-modal-sensory-array-geometry]] framework predicts that the spatial pattern of alpha suppression across sensory cortex reflects the topographic map of attentional priorities, with the spatial alpha gradient constituting a real-time encoding of the attentional selection applied to [[six-modality-sensory-architecture-seventh-observer|the full six-modality sensory architecture]]. The [[oscillatory-binding-problem]] is partially addressed by this alpha suppression framework: rather than binding through synchrony alone, the system achieves selective binding by opening alpha gates in phase across cortical regions that represent features of the attended object, allowing those regions to synchronize while keeping unattended regions in alpha-suppressed isolation.
-
-The [[attention]] system's control over alpha suppression is one of the key mechanisms through which the [[attention-schema]] is physically implemented in the brain. The [[attention-schema-holographic]] account holds that the brain's internal model of its own attentional state is distributed across a holographic projection in which alpha power gradients are both an element of the model and a causal driver of the attentional state the model represents. [[attention-schema-reinterpretation]] proposes that what the brain reports as "attending" is not a pointer to an internal location but is the experienced quality of a region's alpha being suppressed — the phenomenology of [[attention]] is the phenomenology of alpha desynchronization and the consequent opening of sensory gating. [[forced-attention]] explores what happens when the alpha gating is overridden, as in startle responses or saliency-driven attentional capture: a sudden high-contrast or high-intensity stimulus can overcome alpha suppression and force sensory signal through to conscious processing regardless of the current attentional set, demonstrating that alpha is a tunable gate rather than an absolute barrier.
-
-Within the broader SAN oscillatory hierarchy, alpha suppression connects upward to [[gamma-wave-consideration-sandwich]] and [[gamma-oscillation]] dynamics: when alpha is suppressed in a sensory region, gamma oscillations can emerge in that region, and this gamma activity is the carrier of the high-resolution sensory representation that enters the conscious rendering loop. The alternation of high-alpha (suppressed, gated, idle) and low-alpha/high-gamma (open, active, processing) states is part of the nested oscillatory architecture described in [[neural-oscillation-hierarchy]], where slower oscillations modulate the expression of faster ones. [[brainwave-vortex-attractor]] characterises the stable [[attractor]] states of this nested oscillatory system, and alpha suppression corresponds to the transition between attractors — from sensory-idle to sensory-active states. The [[oscillatory-qualia-imprinting]] framework argues that the specific quality of a conscious sensory experience is partly determined by the gamma pattern that emerges when alpha is suppressed, so that the character of the qualia is shaped by the history and phase of the preceding alpha suppression. EEG studies have tracked these dynamics in real time using [[eeg-biofeedback-self-reflective-loop]] protocols, and the [[brainwave-entrainment]] literature demonstrates that externally driven entrainment of alpha can reliably modulate sensory threshold and perceived contrast, providing causal evidence for alpha's suppressive role rather than merely correlational.
-
-The implications for [[sensory-stabilized-volumetric-rendering]] are significant: stable conscious perception requires that alpha suppression patterns update smoothly as [[attention]] shifts, maintaining the sensory projection loop's coherence across transitions. When alpha suppression patterns are disrupted — as in certain psychiatric conditions, attentional disorders, or extreme fatigue — the sensory rendering loop becomes unstable, manifesting as intrusive sensory experiences, reduced perceptual fidelity, or attentional flooding. The [[oscillator-consciousness-threshold]] criterion specifies that an oscillatory system generating genuine sensory experience must achieve a minimum alpha-suppression depth and spatial coverage to enter the rendering loop, providing a quantitative boundary between systems that merely detect sensory signals and those that project them into a coherent conscious scene.
-
-## Related concepts
-
-- [[napot-theory]] — the NAPOT projection mechanism for which alpha suppression regulates sensory channel access
-- [[thalamic-bridge-consciousness-portal]] — the thalamic gating structure that implements alpha suppression at the first relay stage
-- [[phase-wave-differentials]] — the SAN framework that formalises alpha gradients as oscillatory priority maps
-- [[layer-6-inhibitory-intuition]] — layer-6 pyramidal feedback as the cortical mechanism for alpha generation
-- [[inhibitory-logic-gate-pattern-cascade]] — the cascade model of inhibitory interneuron logic gating at alpha frequency
-- [[gamma-wave-consideration-sandwich]] — the gamma activity that emerges in alpha-suppressed regions to carry conscious sensory content
-- [[attention-schema]] — the internal attentional model whose physical implementation depends on alpha suppression patterns
-- [[oscillatory-binding-problem]] — alpha's role in selective binding by gating synchrony to attended features only
-- [[brainwave-entrainment]] — experimental protocol demonstrating causal control of sensory threshold via alpha entrainment
-- [[oscillator-consciousness-threshold]] — the quantitative criterion linking alpha suppression depth to conscious sensory rendering
-
-## Source Provenance
-
-- Generated: 2026-04-25T02:36:04
-- Lane: C.draft (from packet)
-- Packet: `wiki/automation/packets/alpha-wave-sensory-suppression.json`
-- Evidence count: 0
-- Source ids: 
-
+---
+title: "Alpha Activity: Sensory-Side Input and Circuit-Specific Gating"
+tags: [san, alpha, sensory-input, attention, gamma-consideration-sandwich, source-genealogy]
+aliases: [Alpha Wave Sensory Suppression, Alpha Sensory-Side Input]
+summary: "Separates alpha's source-faithful GCS role as primary-sensory-side input from preparation-specific evidence for alpha-linked gating, spike timing, and alpha-gamma coupling."
+status: source-recovered-scientifically-bounded-image-quarantined
+book_atlas_bridge_ids: [B2-BR-017]
 ---
 
-*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
+# Alpha Activity: Sensory-Side Input and Circuit-Specific Gating
+
+This page preserves two related claims without collapsing them. In Micah Blumberg's **Gamma
+Consideration Sandwich (GCS)**, alpha-associated primary-sensory-side activity is one part of the
+input-side top bun. In established neuroscience, alpha-band activity can participate in
+circuit- and task-specific sensory gating, attentional selection, spike timing, and cross-frequency
+coordination. The second claim supplies plausible component operations for testing the first; it
+does not turn the complete GCS mapping into an established frequency law.
+
+> **Image status:** No medically reviewed image is accepted for this page. The former generated
+> thalamocortical-gating plate was removed from reader-facing use because it depicted a specific
+> mechanism without bound evidence or independent medical review. Replacement prompt:
+> `IMG-SAN-ALPHA-GCS-SENSORY-SIDE-001`. Generation remains paused.
+
+## Source-faithful SAN role
+
+The currently recovered October 21, 2024 source
+[`rexnote06.md`](https://github.com/v5ma/selfawarenetworks/blob/7bbb9e317793480ab2a08781f8801ee224f37d44/rexnote06.md)
+is tentative and mixed-authorship. In Micah-labeled passages, he proposes that sensory alpha activity
+may drive inverse or anticorrelated gamma responses, describes gamma as receiving sensory signals
+from the rear and thought-related beta activity from the front, and places gamma "in the middle" as
+consideration and possible proprioceptive coordination. ChatGPT-labeled replies elaborate the idea
+but are not Micah-authored claims or independent scientific evidence.
+
+The complete layer-and-role geometry is a later 2026 author clarification and must retain that date:
+
+```text
+TOP BUN - INPUT SIDE
+Layer-4/input-side alpha-associated primary-sensory-side input
++ beta-associated prefrontal thought/top-down input
+                         |
+MIDDLE - CONSIDERATION
+Layer-2/3 gamma consideration and proprioceptive coordination
+                         |
+BOTTOM BUN - ACTION/BODY SIDE
+Layer-5 theta/gamma action output <-> returned body input
+```
+
+Alpha therefore remains the GCS **primary-sensory-side input**, not the middle consideration
+operator and not a universal synonym for suppression. The Layer-4 label names the GCS input-side
+function. A biological test must identify an actual thalamorecipient population and must trace the
+beta pathway through its real source and target layers rather than forcing every cortical area into
+one granular template.
+
+## Matching-scale scientific anchors
+
+| Primary study | Preparation and result | Bounded relevance to GCS |
+|---|---|---|
+| [Kelly et al. (2006)](https://doi.org/10.1152/jn.01234.2005) | Human EEG during sustained visuospatial attention showed retinotopically organized parieto-occipital alpha increases for the ignored hemifield. | Supports spatially selective alpha modulation associated with distractor suppression; it does not identify one universal cellular gate. |
+| [Thut et al. (2006)](https://doi.org/10.1523/JNEUROSCI.0875-06.2006) | Human occipital alpha lateralization indexed attentional bias and predicted visual target detection. | Links alpha state to sensory selection and behavior in a declared task; it does not establish conscious entry or GCS. |
+| [Haegens et al. (2011)](https://doi.org/10.1073/pnas.1117190108) | In macaque somatosensory, premotor, and motor recordings during vibrotactile discrimination, lower alpha power predicted better performance and alpha phase rhythmically structured spiking. | Supports a sensorimotor alpha relation to excitability, spike timing, and discrimination in that preparation. |
+| [Spaak et al. (2012)](https://doi.org/10.1016/j.cub.2012.10.020) | In awake macaque V1, deep-layer alpha phase coupled to granular/superficial gamma amplitude, while alpha and gamma power were anticorrelated. | Supplies a direct layer-resolved alpha-gamma comparator; it does not prove Micah's sensory-thought-consideration-action assignment. |
+| [van Kerkoerle et al. (2014)](https://doi.org/10.1073/pnas.1402773111) | Laminar macaque visual-cortex recordings and interventions associated gamma with feedforward and alpha with feedback influence in the tested visual hierarchy. | Shows that frequency role depends on direction, area, and task; it prevents a universal band-to-function reading. |
+
+Together these studies support **preparation-specific alpha participation** in sensory selection,
+timing, feedback, and alpha-gamma relations. They do not justify the stronger legacy claims that
+alpha power directly implements NAPOT access, that one Layer-6-to-Layer-4 inhibitory circuit
+generates every alpha gate, that alpha desynchronization is itself the experience of attention, or
+that a minimum alpha-suppression depth defines consciousness.
+
+## Four-layer claim separation
+
+| Claim layer | Current disposition |
+|---|---|
+| Established operation | Alpha-band power and phase can covary with sensory selection, spike timing, behavior, feedback influence, and gamma amplitude in named human and macaque preparations. |
+| Micah's documented synthesis | The 2024 source places sensory alpha on one side of a tentative alpha/beta-to-gamma consideration relation and asks whether gamma coordinates proprioceptive feedback. |
+| Current SAN clarification | Alpha carries primary-sensory-side input in the GCS top bun; beta carries prefrontal thought/top-down input; Layer-2/3 gamma performs consideration and proprioceptive coordination; Layer-5 theta/gamma carries action-side output and returned body input. |
+| Decisive test | Declare the sensory circuit, layers, sender, receiver, task epoch, alpha event, beta input, gamma response, body variable, and action consequence; then compare and perturb the complete route against rate-only, power-only, and generic attention alternatives. |
+
+## Scientific boundaries
+
+- Alpha is an approximate band label whose peak frequency and functional relation vary across
+  people, species, regions, states, and tasks.
+- Increased alpha power can be consistent with reduced processing in some preparations, but power
+  is not itself a direct measure of inhibition, information blockage, or conscious exclusion.
+- Lower alpha does not imply that gamma becomes the carrier of sensory content.
+- Alpha phase, alpha power, gamma power, cross-frequency coupling, spike rate, and effective
+  connectivity are different variables and must not be substituted for one another.
+- Posterior visual alpha, sensorimotor mu activity, auditory alpha-range activity, and prefrontal
+  rhythms require separate anatomical and task declarations.
+- GCS gives alpha a defined sensory-side role while allowing other alpha functions. The role is
+  nonexclusive and must be tested circuit by circuit.
+
+## A discriminating experiment
+
+Choose one named primary sensory circuit and one prefrontal-to-sensory route. Measure laminar alpha,
+beta, gamma, spiking, movement, and returned body signals during epochs that separate sensory input,
+maintained thought or goal, consideration, action, and reafference. Perturb alpha phase or power in
+the sensory-side population while matching stimulus energy, mean firing, arousal, eye movement,
+motor output, and broadband activity. GCS earns support only if the intervention changes the
+declared alpha sensory contribution, the receiver-specific Layer-2/3 gamma interaction, and the
+predicted later action/body update beyond simpler gating models. A generic alpha change or a generic
+performance effect is insufficient.
+
+## Legacy-draft disposition
+
+The 2026-04-25 Lane-C draft was mechanically generated with **zero evidence records** and blank
+source IDs. Its pre-repair SHA-256 was
+`938ABCCA6048D0A3C6B32F7B78FBC5BC0792DB559587AA344DCF53A566C3FC22`. Its unsupported universal
+circuit, phenomenology, psychiatric, NAPOT-access, and consciousness-threshold assertions are not
+carried forward. The hash is retained for custody; it is not a scientific certification.
+
+## Read next
+
+- [[gamma-wave-consideration-sandwich|Gamma Wave Consideration Sandwich]]
+- [[consideration-sandwich|Consideration Sandwich: Historical SAN Formulation]]
+- [[gamma-consideration-sandwich-diagram|Gamma Consideration Sandwich Figure Specification]]
+- [[beta-wave-cognitive-output|Beta Wave Cognitive Output: Thought and Top-Down Input]]
+- [[flow-of-information-in-the-brain|The Flow of Information in the Brain]]
+- [[neural-tuning|Neural Tuning]]
+- [[phase-language-firewall|Phase-Language Firewall]]
+- [[body-model-as-control-surface|Body Model as Control Surface]]
+
+## Source provenance
+
+- Primary SAN source: `selfawarenetworks/rexnote06.md`, SHA-256
+  `1AB1B0052D3ABC1D69CBF4F4D54F816EC3C955FB284320080FEE6C737FEA9F4E`.
+- Current source/science correction: 2026-08-28.
+- Accepted medical image: none.
+- Commit, push, deployment, and publication: not authorized by this page review.

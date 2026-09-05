@@ -4,6 +4,14 @@
 
 > **Image status:** The earlier PNG and SVG failed medical review and are preserved outside the public build. They collapsed distinct receptor families into one generic mechanism and extended one molecular event directly into dendritic and network consequences. A source-bounded replacement prompt has been drafted, but no replacement image is installed.
 
+> **Replacement image status:** The replacement plate below passed internal receptor-pharmacology, synaptic-physiology, neuroanatomy, and claim-boundary review on 2026-08-11. Independent specialist review remains open. It is an explanatory figure, not clinical evidence and not a claim that receptor-level processing alone establishes consciousness.
+
+![Receptor structure, cellular state, and pattern detection](/v5ma.github.io/wiki/assets/generated/san/3d-protein-receptor/receptor-structure-cellular-state-20260811-v1.png)
+
+*The plate keeps receptor families, transient molecular states, persistent receptor-population organization, whole-cell outputs, and the open COT/SAN cross-scale interpretation distinct.*
+
+[Open the full-resolution figure](/v5ma.github.io/wiki/assets/generated/san/3d-protein-receptor/receptor-structure-cellular-state-20260811-v1.png)
+
 ## What the sources were trying to say
 
 Three dated source families establish the intended direction:

@@ -68,9 +68,11 @@ Evidence for one row does not automatically establish the rows below it.
   by that cycle; it is not a picture inside one neuron or area.
 - [[ndca|NDCA]] names the continuity problem: maintaining useful derivatives and trajectories despite
   sampling, noise, delay, movement, and representational drift.
-- [[gamma-wave-consideration-sandwich|GCS]] is SAN's more specific historical proposal about sensory,
-  contextual, action, and feedback timing. Its alpha, beta, and gamma assignments must be tested in
-  named circuits rather than treated as universal anatomical departments.
+- [[gamma-wave-consideration-sandwich|GCS]] assigns alpha primary-sensory-side input and beta
+  prefrontal thought/top-down input to the top bun, Layer-2/3 gamma consideration and proprioceptive
+  coordination to the middle, and Layer-5 theta/gamma action output plus returned body input to the
+  bottom bun. These are defined SAN roles to test in named circuits, not exclusive anatomical
+  departments.
 
 ## What would count as evidence
 

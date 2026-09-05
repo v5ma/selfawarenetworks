@@ -1,6 +1,6 @@
 # Synapse
 
-A **synapse** is a specialized junction through which one cell changes the state of another. Chemical synapses use transmitter release and postsynaptic receptors. Electrical synapses pass current and small molecules through gap-junction channels. Neither kind is a miniature observer, universal semantic recognizer, or deterministic memory address.
+A **synapse** is a specialized junction through which one cell changes the state of another. Chemical synapses use transmitter release and postsynaptic receptors. [[electrical-synapse|Electrical synapses]] pass current and small molecules through gap-junction channels. Neither kind is a miniature observer, universal semantic recognizer, or deterministic memory address.
 
 ## Established chemical-synapse physiology
 
@@ -12,11 +12,11 @@ Some synapses use multivesicular release. A reconstructed connection between two
 
 ## Short- and long-term change
 
-Synaptic influence changes over milliseconds to seconds through facilitation, depression, vesicle depletion, residual calcium, receptor desensitization, and inhibition. Longer-lasting changes can involve presynaptic release, postsynaptic receptors, spine structure, signaling molecules, intrinsic excitability, and network-level homeostasis.
+Synaptic influence changes over milliseconds to seconds through [[short-term-plasticity|short-term plasticity]], including facilitation, depression, vesicle depletion, residual calcium, receptor desensitization, and inhibition. Longer-lasting changes can involve presynaptic release, postsynaptic receptors, spine structure, signaling molecules, intrinsic excitability, and network-level homeostasis.
 
 Spike timing can matter, but no universal rule maps *pre before post* to LTP and *post before pre* to LTD. At CA3-CA1 synapses, burst frequency and number of pairings changed whether timing protocols produced potentiation, depression, or neither ([Wittenberg and Wang, 2006](https://doi.org/10.1523/JNEUROSCI.5388-05.2006)). At unitary Layer 2/3 neocortical connections, prior postsynaptic activity switched the observed timing rule ([Zilberter et al., 2009](https://doi.org/10.1093/cercor/bhn247)). Adult human neocortical synapses also showed a broad, preparation-specific timing rule rather than the canonical diagram ([Verhoog et al., 2013](https://doi.org/10.1523/JNEUROSCI.3158-13.2013)).
 
-Chemical synapses are not strictly one-way in regulation. At defined synapses, postsynaptic endocannabinoids can act retrogradely on presynaptic terminals and transiently suppress release ([Ohno-Shosaku et al., 2001](https://doi.org/10.1016/S0896-6273(01)00247-1)). This establishes pathway-specific retrograde modulation, not transmission of a complete memory backward across every synapse.
+Chemical synapses are not strictly one-way in regulation. At defined synapses, postsynaptic endocannabinoids can participate in [[retrograde-signaling|retrograde signaling]] to presynaptic terminals and transiently suppress release ([Ohno-Shosaku et al., 2001](https://doi.org/10.1016/S0896-6273(01)00247-1)). This establishes pathway-specific retrograde modulation, not transmission of a complete memory backward across every synapse.
 
 ## What the rejected figures were trying to communicate
 
@@ -85,7 +85,7 @@ Three tests separate this proposal from established components:
 - [[short-term-plasticity]]
 - [[long-term-potentiation]]
 - [[long-term-depression]]
-- [[spike-timing-dependent-plasticity]]
+- [[stdp|spike-timing-dependent plasticity]]
 - [[retrograde-signaling]]
 - [[dendritic-spines]]
 - [[phase-wave-differential]]

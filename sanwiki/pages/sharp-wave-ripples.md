@@ -2,6 +2,12 @@
 
 > **Boundary note:** A hippocampal sharp-wave ripple (SWR) is a defined electrophysiological event, not a synonym for every neural burst, traveling wave, replay sequence, or phase-wave differential. SWRs are well-established contributors to some forms of memory processing. SAN's claim that they can help scale a locally stored pattern into a distributed multimodal rendering is a distinct, testable interpretation.
 
+> **Replacement image status (2026-08-11):** A medically bounded candidate is installed for local review. It separates the measured CA1 event, state and sequence diversity, rodent causal evidence, human intracranial associative evidence, and the SAN memory-scaling hypothesis. Independent hippocampal-electrophysiology, human-memory, oscillation-analysis, and visual-communication review remains open.
+>
+> [![Sharp-Wave Ripples: Hippocampal Sequences, Cortical Reinstatement, and the SAN Memory-Scaling Hypothesis](../assets/generated/san/sharp-wave-ripples/sharp-wave-ripples-memory-scaling-20260811-v1.png)](../assets/generated/san/sharp-wave-ripples/sharp-wave-ripples-memory-scaling-20260811-v1.png)
+>
+> [Open the full-resolution local image](../assets/generated/san/sharp-wave-ripples/sharp-wave-ripples-memory-scaling-20260811-v1.png)
+
 ## The event in plain language
 
 A sharp-wave ripple combines two linked measurements in hippocampal local field potential:

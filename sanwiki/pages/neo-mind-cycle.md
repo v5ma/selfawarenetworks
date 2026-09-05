@@ -155,6 +155,30 @@ fixation are distinct evidence:
 - [the Neural Lace Season 2 transcripts at their recovered Git fixation](https://github.com/v5ma/selfawarenetworks/tree/09066e4b572ba36e145b3a1e0f31706fcc9388d6)
   preserve public 2018 and 2020 descriptions of the project and its measurement limits.
 
+## Historical community surfaces
+
+The Facebook communities belong to the public and social history of this research program. They
+are routes into dated discussions, events, and participant context; they are not scientific or
+clinical evidence.
+
+- The [Self Aware Networks Facebook group](https://www.facebook.com/groups/neomindcycle/) is bound
+  to that exact name and route by an owner-held Facebook data export dated July 18, 2025. The
+  export lists a January 28, 2012 account-activity timestamp, which must not be relabeled as a
+  proven group-creation date.
+- The [Neurophysics Facebook group](https://www.facebook.com/groups/neurophysics/) is similarly
+  bound by an exact exported permalink and a July 16, 2014 account-activity timestamp. Public 2021
+  posts also preserve the earlier `Neurophysics+` route alias
+  [IFLNeuro](https://www.facebook.com/groups/IFLNeuro/). The aliases describe one evolving
+  community lineage, not separate scientific evidence.
+- The historical **Neo Mind Cycle** and **Neurophysics** Facebook page names are preserved, but
+  their exact canonical page URLs remain source-gated. No vanity URL should be guessed or
+  published as fact.
+
+Facebook access can vary by session and audience settings. The exact routes above are
+archive-verified identities; current unrestricted visibility requires a separate live check. See
+[[early-san-facebook-genealogy-2010-2013|Early SAN Facebook Genealogy]] for the dated source-exhibit
+policy.
+
 ## Read next
 
 - [[neo-mind-cycle-neurofeedback|Neo Mind Cycle Neurofeedback]]
@@ -164,3 +188,4 @@ fixation are distinct evidence:
 - [[bci-instrument-atlas|BCI Instrument Atlas]]
 - [[extended-brain-thought-density-hypertime|Extended Brain and Thought-Density Hypertime]]
 - [[world-body-brain-semantic-coregistration|World-Body-Brain Co-Registration]]
+- [[early-san-facebook-genealogy-2010-2013|Early SAN Facebook Genealogy, 2010-2013]]

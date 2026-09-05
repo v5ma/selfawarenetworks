@@ -27,7 +27,7 @@ Mainstream cortical-interneuron work already accepts the gating, rhythm-generati
 - [[layer-6-inhibitory-intuition]] — the layer-6 inhibitory-intuition companion page.
 - [[ltd-inhibitory-pattern-sharpening]] — the LTD-driven pattern-sharpening companion construct.
 - [[receptor-inhibition-pattern]] — the receptor-inhibition pattern page.
-- [[gamma-wave-consideration-sandwich]] — the gamma-rhythm role inhibitory interneurons generate.
+- [[gamma-wave-consideration-sandwich]] — local inhibitory timing can help organize the Layer-2/3 gamma middle, but inhibitory interneurons are not proprioceptive afferents.
 - [[dendrite]] — the dendritic target of [[dendrite]]-targeting (SST) interneurons.
 - [[dendrites-as-computational-units]] — the dendritic-computation framing the SST refinement supports.
 - [[dendritic-coincidence-detection]] — the coincidence-detection event the inhibitory pass shapes.

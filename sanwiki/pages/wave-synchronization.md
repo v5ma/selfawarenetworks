@@ -39,7 +39,7 @@ Wave synchronization in SAN sits adjacent to several mainstream research lines. 
 - [brainwave](brainwave.md)  --  [brainwave](brainwave.md) primitive
 - [brainwaves](brainwaves.md)  --  plural family page
 - [gamma-oscillations](gamma-oscillations.md)  --  gamma-oscillation case (`draft1.md` line 687)
-- [gamma-wave-consideration-sandwich](gamma-wave-consideration-sandwich.md)  --  gamma-wave deliberation pattern
+- [gamma-wave-consideration-sandwich](gamma-wave-consideration-sandwich.md)  --  Layer-2/3 gamma consideration and proprioceptive coordination between alpha/beta input and Layer-5 theta/gamma action-and-body traffic
 - [tonic-oscillation](tonic-oscillation.md)  --  tonic carrier (`draft1.md` line 361)
 - [phasic-tonic-relationship](phasic-tonic-relationship.md)  --  phasic-tonic dynamics
 - [consciousness-canvas-wave-differential](consciousness-canvas-wave-differential.md)  --  the wave-differential canvas

@@ -2,7 +2,7 @@
 title: "Consideration Sandwich: Historical SAN Formulation"
 tags: [san, gamma-consideration-sandwich, oscillations, sensorimotor-loop, source-genealogy]
 aliases: [Consideration Sandwich, Gamma Mediation]
-summary: "The source-faithful history of Micah Blumberg's consideration-sandwich metaphor and its current interpretation as a circuit-specific sensory-context-choice-action-return hypothesis rather than a literal alpha-beta-gamma anatomy map."
+summary: "The source-faithful history of Micah Blumberg's Gamma Consideration Sandwich: alpha primary-sensory-side input and beta prefrontal thought/top-down input form the top bun; Layer-2/3 gamma consideration and proprioceptive coordination form the middle; Layer-5 theta/gamma action output and returned body input form the bottom bun."
 status: governed-historical-route
 ---
 
@@ -10,9 +10,14 @@ status: governed-historical-route
 
 > **Current mechanism article:** [[gamma-wave-consideration-sandwich|Gamma Wave Consideration Sandwich]]
 
-The **consideration sandwich** began as Micah Blumberg's tentative teaching geometry for thinking
-about sensory evidence, thought and decision context, proprioceptive feedback, and action. It was not
-introduced as a settled three-band map of the brain.
+The **consideration sandwich** is Micah Blumberg's proposed functional geometry for joining sensory
+evidence, thought, proprioceptive coordination, and action. In the recovered formulation, the
+Layer-4/input-side **top bun** contains alpha-associated primary-sensory-side input and
+beta-associated prefrontal thought or top-down input. Layer-2/3 gamma performs consideration and
+proprioceptive coordination. Layer-5
+theta/gamma carries the action-side output and receives returned body information as the bottom bun.
+This is a SAN functional mapping, not a claim that any band or laminar motif has one exclusive or
+universal role throughout the brain.
 
 In the currently recovered October 2024 source, Micah says that he was thinking that **perhaps**
 sensory alpha activity and top-down beta activity could produce inverse or anticorrelated gamma
@@ -33,29 +38,39 @@ independent scientific validation.
 
 | Historical source language | Source-faithful operational reading | Medical boundary |
 |---|---|---|
-| Sensory alpha activity from the rear | A relatively maintained or gated sensory-context contribution | Alpha is not the universal sensory-input band and is not confined to occipital cortex. |
-| Top-down beta activity from the front | Maintained expectation, goal, thought, or task-context influence | Beta is not the universal thought band and is not confined to prefrontal cortex. |
-| Gamma "in the middle" | A candidate faster timing relation through which selected local or interareal updates may be coordinated | Gamma is not anatomically between alpha and beta and is not established as the carrier of consciousness. |
+| Alpha-associated activity in the top bun | Primary-sensory-side input and its current sensory context | Alpha is emphasized here as the SAN sensory-side carrier; alpha activity also has other circuit- and task-dependent roles. |
+| Beta-associated activity in the top bun | Prefrontal thought, expectation, goal, and top-down input | Beta is emphasized here as the SAN thought/top-down carrier; beta activity is not confined to prefrontal cortex or thought. |
+| Layer-2/3 gamma in the middle | Consideration and coordination of sensory, thought, and proprioceptive relations | Gamma is the proposed middle operation in GCS, not a universal consciousness band or literal anatomical substance between alpha and beta. |
 | Anticorrelated or inverse spiking | A proposed opposing or balancing response among incoming influences | A test must distinguish spike rate, phase, power, amplitude, cross-frequency coupling, inhibition, and effective connectivity; the historical phrase does not identify one of them. |
-| Proprioceptive feedback coordinated with the two streams | Returned body-state evidence helps update consideration and action | Proprioception uses distributed peripheral, spinal, brainstem, cerebellar, thalamic, and cortical pathways; gamma is not its sole carrier. |
+| Layer-5 theta/gamma in the bottom bun | Action-side output and returned body input in the functional GCS role | Layer 5 supplies major cortical outputs, but returned body information reaches cortex through distributed peripheral, spinal, brainstem, cerebellar, thalamic, and cortical routes; it is not carried by Layer 5 alone. |
 
-The medically bounded idea is therefore a **traffic and timing hypothesis**, not a frequency-layer
-sandwich:
+The medically bounded idea is therefore a **functional frequency-and-layer sandwich**, not a
+universal literal anatomy map:
 
 ```text
-sensory and body evidence
--> local, laminar, thalamic, and interareal transformation
-<-> maintained context through recurrent feedback
--> timing-sensitive recruitment, comparison, suppression, and route selection
--> distributed motor or vocal realization
--> proprioceptive, interoceptive, vestibular, visual, and external return
--> changed context for the next cycle
+TOP BUN - INPUT SIDE
+Layer-4/input-side alpha-associated primary-sensory-side input
++ beta-associated prefrontal thought/top-down input
+                         |
+MIDDLE - CONSIDERATION
+Layer-2/3 gamma consideration and proprioceptive coordination
+                         |
+BOTTOM BUN - ACTION/BODY SIDE
+Layer-5 theta/gamma action output <-> returned body input
+                         |
+muscle, vocal, autonomic, and world consequences -> next cycle
 ```
 
 [[flow-of-information-in-the-brain|The Flow of Information in the Brain]] supplies the larger
 receive-transform-project-act-return topology. [[neural-tuning|Neural Tuning]] proposes how learned
-state and recurrent control change receiver readiness. The Gamma Consideration Sandwich asks whether
-circuit-specific oscillatory relations help coordinate the traffic. It does not replace the anatomy.
+state and recurrent control change receiver readiness. The Gamma Consideration Sandwich assigns the
+functional roles above and asks whether their circuit-specific oscillatory relations coordinate the
+traffic. It does not replace the established anatomy through which those signals travel.
+
+Here **Layer 4** names the GCS input-side function. In a literal anatomical test, primary sensory
+alpha can be evaluated in a named thalamorecipient Layer-4 circuit, while prefrontal beta must follow
+the actual laminar origins and terminations of the selected top-down pathway. Prefrontal cortex is
+not uniformly granular, so the beta arm must not be forced into a fictitious universal Layer 4.
 
 ## Conscious entry and exit
 
@@ -71,17 +86,17 @@ Conscious Rendering]].
 | Date | Source status | What it contributes |
 |---|---|---|
 | March 25, 2021 | [[flow-of-information-in-the-brain|Recorded traffic-flow ancestor]] | Receive, transform, project, action, and returned consequence across several scales. It is an ancestor, not yet GCS. |
-| January 4, 2024 | [Cortical Dynamics & Neurocircuitry](https://www.svgn.io/p/cortical-dynamics-and-neurocircuitry) | A later cortical-traffic teaching geometry involving local, laminar, corticothalamic, feedforward, and feedback routes. |
+| January 24, 2024 | [Cortical Dynamics & Neurocircuitry](https://www.svgn.io/p/cortical-dynamics-and-neurocircuitry) | A later cortical-traffic teaching geometry involving local, laminar, corticothalamic, feedforward, and feedback routes. |
 | October 21, 2024 | [`rexnote06.md`](https://github.com/v5ma/selfawarenetworks/blob/7bbb9e317793480ab2a08781f8801ee224f37d44/rexnote06.md) | Earliest currently recovered public fixation of Micah's named consideration-sandwich metaphor and its proprioceptive-feedback question. |
-| January 21, 2025 | [`raynote22.md`](https://github.com/v5ma/selfawarenetworks/blob/117337d01e3d5d04941b54cdde0a4b67f748f6c6/raynote22.md) | Intermediate Layer-2/3 formulation. Its treatment of PV interneurons as peripheral proprioceptive afferents is retired. |
+| January 21, 2025 | [`raynote22.md`](https://github.com/v5ma/selfawarenetworks/blob/117337d01e3d5d04941b54cdde0a4b67f748f6c6/raynote22.md) | Intermediate Layer-2/3 formulation. Its compressed Layer-5/PV wording is recovered as a route-plus-gate proposal: established ascending pathways carry proprioceptive traffic, while receiver-local PV interneurons may shape inhibitory timing and gamma organization after that traffic reaches the cortical circuit. |
 | February 21, 2025 local / February 22 UTC | [`draft1.md`](https://github.com/v5ma/selfawarenetworks/blob/0dc8e48747b784d9dd5ad5af145f633571a7d91e/draft1.md) | Public fixation of the exact **Gamma Consideration Sandwich** name and expanded sensory, top-down, and proprioceptive composite. |
 | 2026 | Current Encyclopedia interpretation | Separates the historical geometry, established anatomy, circuit-specific oscillatory tests, selective conscious joining and leaving, action, and reafference. It is not backdated. |
 
 ## What this page does not claim
 
-- Alpha equals sensory input, beta equals thought, or gamma equals consciousness.
+- Alpha, beta, gamma, or theta has the stated SAN role exclusively in every circuit or task.
 - One universal cortical layer sequence implements every consideration.
-- Gamma is the sole carrier of proprioception or motor control.
+- Gamma is the sole carrier of proprioception, or Layer 5 alone carries returning body information.
 - Anticorrelation, coherence, or increased power alone establishes mediation.
 - A hidden observer watches the result.
 

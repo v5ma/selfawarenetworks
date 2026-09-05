@@ -21,7 +21,7 @@ consequences** improve prediction of the next population state?
 ## A waveform is compartment-specific
 
 The familiar textbook spike is a useful schematic, not one waveform shared by the whole neuron.
-The soma, [[receptive-inceptive-dendritic-projection|axon initial segment]], axonal branches, and
+The soma, axon initial segment, axonal branches, and
 boutons can have different amplitudes and durations. Sodium- and potassium-channel distributions,
 morphology, myelination, recent firing, temperature, and modulators all influence the local trace.
 
@@ -53,18 +53,34 @@ consequence, or that waveform variation by itself produces a rendered percept.
 ## What crosses a chemical synapse
 
 The presynaptic voltage waveform opens terminal calcium channels and changes the electrical driving
-force for calcium entry. Local calcium then affects vesicle fusion. The downstream cell receives
-transmitter through its receptors; it does not receive a copy of the presynaptic voltage waveform.
+force for calcium entry. Local calcium then interacts with active-zone and release machinery to
+change a probability distribution over vesicle fusion. Transmitter crosses the cleft, is cleared or
+taken up over time, and acts through the receptors and membrane state of a declared receiver. The
+receiving cell does not receive a copy of the presynaptic voltage waveform.
 
-**terminal voltage -> local calcium dynamics -> probabilistic vesicle fusion -> receptor activation
--> dendritic and somatic response**
+```text
+state-dependent terminal voltage
+-> local calcium entry
+-> probabilistic zero, one, or multivesicular release at a declared bouton
+-> transmitter time course in the cleft
+-> receptor, membrane, and biochemical transformation in a declared receiver
+-> electrical, chemical, timing, or plasticity consequence
+```
 
-Every arrow depends on synapse type, active-zone geometry, receptor composition, recent activity,
-and receiver state. The steep calcium dependence of release makes waveform changes consequential,
-but also prevents a simple one-to-one mapping from waveform width to transmitter amount. See
-[Schneggenburger and Neher (2000)](https://doi.org/10.1038/35022702),
-[Scarnati et al. (2020)](https://pubmed.ncbi.nlm.nih.gov/32425764/), and
-[Duerst et al. (2022)](https://doi.org/10.1038/s41467-022-33565-6).
+Every arrow depends on preparation, synapse type, active-zone geometry, recent activity, release
+machinery, receptor composition, and receiver state. The steep and spatially local calcium
+dependence of release makes waveform changes consequential, but prevents a universal one-to-one
+mapping from waveform width to transmitter amount. This component chain has been measured in named
+preparations: waveform changes altered calcium entry and synaptic strength at rat cerebellar
+granule-cell to Purkinje-cell synapses
+([Sabatini and Regehr 1997](https://doi.org/10.1523/JNEUROSCI.17-10-03425.1997)); action-potential
+duration modulated calcium entry and transmitter release at rat hippocampal CA3-CA1 synapses
+([Qian and Saggau 1999](https://doi.org/10.1152/jn.1999.81.1.288)); and voltage, calcium, release,
+cleft kinetics, and receiver state were separately resolved in later preparation-specific work
+([Mayer et al. 1984](https://doi.org/10.1038/309261a0);
+[Clements et al. 1992](https://doi.org/10.1126/science.1359647);
+[Hoppa et al. 2014](https://doi.org/10.1016/j.neuron.2014.09.038);
+[Cho et al. 2020](https://doi.org/10.1073/pnas.2000790117)).
 
 ## One source event can produce a distributed output pattern
 
@@ -80,31 +96,64 @@ boutons on the same axon. See
 target identity, local modulation, release machinery, and receiver receptors can further diversify
 the consequences.
 
-The medically bounded route is:
+The medically bounded joined route is:
 
-**learned and recent somatodendritic state -> AIS event -> compartment-specific axonal waveform ->
-bouton-specific calcium and release transformation -> spatial pattern of receiver effects ->
-recurrent population update**
+```text
+learned receptive structure + present spatial/temporal input
+-> graded dendritic, somatic, and axonal state
+-> thresholded regenerative event or burst
+-> state-dependent axonal and terminal waveform
+-> terminal calcium entry and local release machinery
+-> probabilistic release outcome at a declared bouton
+-> transmitter clearance + receptor/membrane/biochemical transformation in a declared receiver
+-> receiver-relative electrical/chemical/timing/plasticity consequence
+-> population recruitment, separation, or route change
+-> later memory, rendering, choice, action, or feedback
+```
 
 This route does not require the soma to program an arbitrary value into every bouton. The spatial
 output pattern emerges from the source event interacting with the existing state and structure of
-the axonal arbor, synapses, and receivers.
+the axonal arbor, synapses, and receivers. Graded state survived threshold crossing as a modulator
+of spike-evoked transmission in declared hippocampal and cortical preparations
+([Alle and Geiger 2006](https://doi.org/10.1126/science.1119055);
+[Shu et al. 2006](https://doi.org/10.1038/nature04720)). The same source axon can participate in
+differentiated target relations, bouton calcium and release probability can depend on target class,
+and measured neocortical synapses can contain multiple release sites
+([Markram et al. 1998](https://doi.org/10.1073/pnas.95.9.5323);
+[Koester and Johnston 2005](https://doi.org/10.1126/science.1100815);
+[Holler et al. 2021](https://doi.org/10.1038/s41586-020-03134-2)).
 
-## Signal, mechanism, code, and rendering are different claims
+## Four-layer claim separation
 
-Four claims must be separated:
+### 1. Established physiology
 
-1. **Observable:** waveform features vary across events, compartments, and contexts.
-2. **Mechanism:** some variation causally alters propagation, calcium entry, or synaptic effect.
-3. **Code:** a named receiver or analysis can discriminate task-relevant history from transformed
-   waveform consequences beyond correlated rate and timing variables.
-4. **Rendering:** the distributed consequences help shape a recurrent body-world or memory state
-   used in perception and action.
+All-or-none regeneration identifies a thresholded event; it does not establish an invariant
+terminal consequence. In named preparations, recent membrane state, channel state, terminal
+waveform, calcium coupling, release machinery, cleft kinetics, receptor composition, and receiver
+voltage can change the consequence. Observable signal, causal mechanism, receiver-level code, and
+population rendering remain separate claims.
 
-The first two are established in specific preparations. Limited instances of the third are also
-established, including recent-history information in cortical waveform shape. SAN's distinctive
-research question concerns the joined third-to-fourth route across identified receivers and
-population dynamics.
+### 2. Documented SAN synthesis
+
+Micah's dated sources follow the event from learned receptive structure and present input through a
+thresholded event, transmitter release, receiver-relative consequence, and a changing population
+pattern. Later sources increase the resolution of the compact terminal handoff by separating
+waveform, calcium, release outcome, bouton, receiver, and recurrent consequence.
+
+### 3. SAN-specific extension
+
+SAN proposes that the resulting receiver-relative event can be represented as a typed
+[[phase-wave-differential|PWD]] and that ordered receive-transform-project relations can help shape
+a distributed [[napot-overview|NAPOT]] update. Physiology supports the component transformations;
+it does not by itself establish PWD, NAPOT, qualia, consciousness, or a semantic field.
+
+### 4. Decisive tests
+
+A decisive study should measure dendritic or somatic state, axonal or bouton waveform, terminal
+calcium, release outcome, a declared postsynaptic response, and a population or behavioral
+consequence in the same task. It should then test whether terminal- and receiver-aware models add
+held-out prediction and selective causal control beyond spike count, rate, timing, and phase-only
+baselines.
 
 Extracellular BCI recordings add another boundary. Their waveform shapes are filtered mixtures
 influenced by electrode geometry, tissue conductivity, source orientation, and spike sorting. They
@@ -177,6 +226,10 @@ Later terminology must not be backdated:
 
 | Public source stage | Recovered operation | Attribution and boundary |
 |---|---|---|
+| [[self-is-a-prediction-dialogue-2011|August 24, 2011: history-conditioned firing]] and [[predicting-agi-alignment-mechanical-vishnu-2011|downstream-chain companion]] | The source transcripts describe prior biological and experiential history as changing neural readiness, followed by one active neural group changing what happens in another. | Transcript locators: *Self is a Prediction* lines 76-111 and *Mechanical Vishnu* lines 199-206. Conceptual ancestor only; it does not contain the later waveform-calcium-release-receiver mechanism. |
+| [September 19, 2012: Neurons are Programs transmitting their shape](https://x.com/i/web/status/248495906763177984) | Learned morphology and cellular structure were treated as part of the computational unit whose activation produces a transformed downstream consequence. | Public-post source plus preserved source receipt; the structure remains in the cell. This is not lossless transmission of whole anatomy and does not yet contain PWD, NAPOT, APME, or a bouton mechanism. |
+| [May 5, 2017: Neural Lace Podcast #4](https://youtu.be/RRN91RwiYiw) | A continuous Micah answer follows visual input through receptor-protein change, ionic displacement, an action potential, transmitter release, and a wider spatial-temporal network pattern. | Source locator: `nlp4.md` lines 421-529. The Whisper transcript lacks speaker labels after the introduction; the bounded passage must not be generalized to the whole episode. |
+| [February 9, 2021: Synaptic Unreliability](https://medium.com/silicon-valley-global-news/synaptic-unreliability-a-foundational-concept-found-in-deep-learning-and-in-computational-a97c5dca9e90) ([archive](https://web.archive.org/web/20210209003006/https://medium.com/silicon-valley-global-news/synaptic-unreliability-a-foundational-concept-found-in-deep-learning-and-in-computational-a97c5dca9e90)) | The scalar artificial-unit abstraction was challenged using release probability, waveform duration, calcium entry, multivesicular outcome, and receiver effects. | A research proposal and genealogy stage, not proof of a universal vesicle alphabet or independently programmable bouton values. |
 | [June 8, 2022: neuron-pattern conversation](https://github.com/v5ma/selfawarenetworks/blob/cd95efe985f2b21cca69eb3fd253cf473a268587/b0268y%20ctpr.txt) | Micah asks how dendritic detection becomes a changed output waveform. | Multi-speaker, imperfect transcript; the question is Micah's, while objections and suggested mechanisms belong to other speakers. |
 | [June 10, 2022: sparse transformed output ancestor](https://github.com/v5ma/selfawarenetworks/blob/0e73da1a76427937a8203c2fa9e1306c3114505e/a0008z.md) | Learned morphology was proposed to support a sparse transmitted representation rather than an infinite copy of cellular structure. | Does not yet contain the mature tensor, PWD, or bouton-specific mechanism. |
 | [August 3, 2022: APME](https://github.com/v5ma/selfawarenetworks/blob/b79351a4fe3667296952c483e6beb68732bf3865/a0053z.md) | Potassium-channel state, waveform duration, calcium, release, phasic departure, tonic relaxation, and rendering were joined. | Fixed vesicle symbols, forced inhibition, and direct semantic transmission remain rejected. |
@@ -186,6 +239,12 @@ Later terminology must not be backdated:
 | [June 16, 2025: variability extension](https://github.com/v5ma/selfawarenetworks/blob/172e778a01b06357e5921d772f8ff18f9818a7d3/13san.md) | Recent duration variability was proposed as one input to the next self-updating oscillator state. | CV is an incomplete summary and not a proven cellular controller, waveform code, or PWD vector. |
 
 > **SAN boundary:** A waveform is a measurable physical trajectory. The source-faithful SAN extension concerns how its transformed, receiver-specific consequences may participate in a spatially distributed recurrent update. No waveform, neuron, synapse, field measurement, or hidden viewer observes that update; the coordinated network produces the observer-action state.
+>
+> This page does not propose a universal 0/1/2/3-vesicle alphabet, potassium as the sole cause,
+> release at every terminal, arbitrary independent programming of every bouton, or a direct mapping
+> from vesicle count to qualia, electrical valence, or muscle energy. Soliton, mechanical, magnetic,
+> and pressure-wave branches remain separate hypotheses. Later names are not backdated into their
+> conceptual ancestors, and every quantitative claim remains preparation-specific.
 
 ## Related concepts
 
@@ -195,6 +254,9 @@ Later terminology must not be backdated:
 - [[stimulus-history-and-action-potential-waveform]]
 - [[action-potential-magnitude-via-duration]]
 - [[multi-vesicular-release]]
+- [[contextualized-spike-receiver-relative-transformation]]
+- [[synaptic-unreliability-mvr-2021]]
+- [[neural-lace-podcast-4-andre-watson]]
 - [[membrane-potential]]
 - [[phase-wave-differential]]
 - [[tonic-phasic-phase-wave-differential]]

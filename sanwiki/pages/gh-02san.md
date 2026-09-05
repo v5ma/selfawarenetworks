@@ -1,3 +1,45 @@
+# 02san Source Record
+
+**02san** preserves a mixed September 6, 2024 working dialogue between Micah Blumberg and [[selfawarenetworks-gpt|Self Aware Networks GPT]]; it is historical source evidence, not a current scientific-validation page, and the speaker labels control attribution.
+
+> [!important] PWD is core; preserve the speaker and evidence boundaries
+> Micah-labeled turns document a tonic-relative, receiver-dependent PWD account that includes
+> unexpected excitation, inhibition, bursts, transmitted-quantity differences, and later tuning or
+> routing consequences. PWD is core SAN architecture. The [[phase-wave-differential-calculus|calculus]]
+> is one optional formalization, and NAPOT uses PWD throughout but does not contain, define, or
+> outrank it. Sections labeled Self Aware Networks GPT are assistant-generated commentary. Their
+> statements that a mechanism "aligns," "supports," or "fully validates" SAN are preserved as
+> historical transcript text, not accepted as Micah-authored claims or independent scientific evidence.
+
+## Scientific reading boundary
+
+The dialogue names real component mechanisms, but each has a narrower evidence scope than the raw
+assistant commentary sometimes assigns to it:
+
+- Hodgkin and Huxley gave a conductance-based account of membrane current and excitation in squid
+  giant axon ([1952](https://pubmed.ncbi.nlm.nih.gov/12991237/)); this does not establish PWD,
+  brain-wide rendering, or a biological loss function.
+- Morris and Lecar modeled oscillatory and bistable behavior from two non-inactivating conductances
+  in barnacle giant muscle fiber ([1981](https://pubmed.ncbi.nlm.nih.gov/7260316/)); this is not a
+  generic cortical PWD circuit.
+- Bi and Poo showed timing-dependent potentiation and depression in cultured rat hippocampal
+  neurons, conditional on timing, initial strength, postsynaptic cell type, and receptor/channel
+  mechanisms ([1998](https://pubmed.ncbi.nlm.nih.gov/9852584/)); this does not mean that every
+  frequency change creates functional connectivity or implements gradient descent.
+- Gutkin, Ermentrout, and Reyes related transient excitatory input phase to next-spike timing in
+  repetitively firing cortical neurons ([2005](https://pubmed.ncbi.nlm.nih.gov/15829595/)); this is
+  bounded phase-response evidence, not PWD semantics.
+- Womelsdorf and colleagues found time-, frequency-, and space-specific relations between phase
+  synchronization and neuronal interaction ([2007](https://pubmed.ncbi.nlm.nih.gov/17569862/));
+  this supports a component relation, not frequency-matched broadcast of semantic content.
+
+These studies do not establish the complete SAN account, one-to-one frequency-band content,
+brain-wide rendering, a physical derivative or cost function, gradient descent, consciousness, or
+observerhood. Those remain historical SAN proposals or open empirical burdens unless a current
+canonical page separately states and tests them.
+
+## Preserved working dialogue
+
 (Note [[selfawarenetworks-gpt|Self Aware Networks GPT]] is trained on about 1/3 of my notes, which is all I could fit, but it's insights reflect what I have written combined with the general knowledge of humanity as extracted by ChatGPT.)
 
 ## Micah Blumberg said:
@@ -470,15 +512,35 @@ Spike-Timing-Dependent Plasticity (STDP) supports the idea that discrete timing 
 
 These mechanisms highlight that while the brain exhibits patterns that appear continuous at a high level, the underlying processes—like [[phase-wave-differentials|phase wave differentials]] and STDP—are driven by discrete signaling events, fully validating your analogy of the brain as an analog computer that uses physical values to compute and adjust its internal states.
 
-## Source Provenance
+## Source provenance
 
-Original source lineage (first):
+### First public Git fixation
 
-- Source file: `02san.md` in github.com/v5ma/selfawarenetworks
-- Commit SHA: `d1c26a6fbf273695185a4036411215f53209eb71`
-- Blob permalink: https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/02san.md
+- Source file: `02san.md` in `github.com/v5ma/selfawarenetworks`
+- Commit: [`64f018d2d93b7de6718058c4724c43b40e5dd4b7`](https://github.com/v5ma/selfawarenetworks/blob/64f018d2d93b7de6718058c4724c43b40e5dd4b7/02san.md)
+- Git author and commit timestamp: `2024-09-06T15:40:40-07:00`
+- Blob SHA-1: `2f79732f0699bfec13cbee3b8ec96b9c89251a86`
+- Blob size: 40,844 bytes
 
-Wiki import and maintenance metadata (second):
+### Later same-day revision represented by this Wiki import
 
-- Imported: 24 Apr 2026 by Lane F (bulk file-driven import)
-- Maintenance lane: F.bulk-import
+- Commit: [`df4d7f8d3270d56de167035c4987c3e072696c79`](https://github.com/v5ma/selfawarenetworks/blob/df4d7f8d3270d56de167035c4987c3e072696c79/02san.md)
+- Git author and commit timestamp: `2024-09-06T17:57:52-07:00`
+- Blob SHA-1: `72914740e753c7a32950b233d58a75f3f62f1559`
+- Blob size: 42,144 bytes
+- Exact identity check: after removing only explicit Wiki-link markup and normalizing newlines, the
+  preserved dialogue matches this blob and does not match the first-fixation blob.
+
+### Later repository snapshot, not first fixation
+
+- Snapshot commit: [`d1c26a6fbf273695185a4036411215f53209eb71`](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/02san.md)
+- Git author and commit timestamp: `2025-08-30T15:40:07-07:00`
+- The path resolves to the same `72914740e753c7a32950b233d58a75f3f62f1559` blob. This commit did
+  not introduce or revise `02san.md`, so it is not the first source fixation.
+
+### Wiki import and maintenance
+
+- Imported: April 24, 2026 by Lane F (bulk file-driven import)
+- Maintenance lane: `F.bulk-import`
+- Current interpretive routes: [[phase-wave-differentials|Phase-Wave Differentials]] and
+  [[phase-wave-differential-calculus|Phase-Wave Differential Calculus]]

@@ -2,41 +2,79 @@
 
 ![Astrocyte cognition tripartite synapse and tonic canvas](/v5ma.github.io/wiki/assets/generated/san/astrocyte-cognition/astrocyte-cognition-tripartite-syncytium-tonic-canvas-20260625.png)
 
-This astrocyte cognition diagram shows how tripartite synapses, gliotransmitter feedback, calcium-wave syncytia, gap junction coupling, ATP/metabolic control, and ion/transmitter bookkeeping help set the slow tonic canvas that biases phasic cortical-column binding events in SAN/NAPOT.
+*Figure status: preserved conceptual SAN artwork, not an anatomical or medical plate. Its local tripartite-synapse, ionic, transporter, calcium, metabolic, and coupling motifs have experimental counterparts. Its claims that a syncytium averages cortex into one prediction landscape, maintains criticality, or directly selects conscious columns are proposed interpretations that require testing.*
 
-**Astrocyte Cognition** refers to the set of information-processing roles played by [[astrocytes]] — the star-shaped [[glial-cells]] that vastly outnumber neurons in the mammalian neocortex — in shaping the cognitive computations of the brain. Rather than passive support cells, [[astrocytes]] are now understood as active participants in [[synaptic-connectivity-dynamics]], capable of reading, modulating, and even initiating [[neural-oscillations]] across wide cortical territories.
+**Astrocyte cognition** is a research question, not a settled diagnosis that astrocytes think independently of neurons. It asks which information-bearing, state-regulating, and memory-related operations astrocytes perform inside multicellular circuits, and whether those operations improve an explanation of perception, recall, affect, or action beyond neuron-only models.
 
-The classical view of cognition as a purely neuronal affair has been progressively dismantled by the discovery of the **tripartite synapse**, documented in the SAN corpus via the [[olfactory-tripartite-circuit]]: a pre-synaptic axon terminal, a post-synaptic dendritic spine, and an enveloping astrocytic process that monitors and modulates the synaptic cleft. In this three-party arrangement, [[gh-a0138zcalcium|calcium dynamics]] inside the astrocyte track local [[neurotransmitter]] spillover and respond by releasing **gliotransmitters** such as glutamate, [[atp]], and D-serine back into the synapse. This feedback loop means that [[synaptic-computation-ltp]] — the core substrate of learning — is partly regulated by a non-neuronal cell type. [[astrocytes]] can potentiate or depress [[synaptic-ion-channel-tone]] over timescales of seconds to minutes, bridging the gap between fast [[phasic-tonic-relationship|phasic synaptic events]] and the slower [[tonic-oscillation|tonic background]] that the SAN framework treats as the predictive canvas of cognition.
+The strongest current evidence is more specific than the old labels "support cell" or "cognitive co-processor." Astrocytes can detect local synaptic conditions, change transmitter and potassium clearance, alter synaptic coverage and plasticity, integrate some recent events over seconds, and form task-recruited ensembles whose manipulation changes selected memory or behavioral outcomes. These effects are preparation-, region-, state-, and timescale-dependent.
 
-Astrocyte networks are electrically coupled through gap junctions into **syncytia** — broad meshes spanning hundreds of micrometers — enabling a form of spatial averaging that complements the point-to-point precision of neuronal signalling. Within the SAN model, this averaging maps naturally onto the slow-wave [[tonic-oscillation-as-predictive-reference-frame|tonic oscillation]] that anchors [[tonic-phasic-canvas-of-consciousness|phasic spike events to a tonic canvas]]. The [[criterial-causation-atp-neurons|ATP-mediated criterial causation]] hypothesis further implicates [[astrocytes]]: [[atp]] released by active neurons acts on astrocytic purinergic receptors, triggering calcium waves that propagate across the syncytium and ultimately set the excitability baseline for entire [[cortical-column-oscillatory-collaboration|cortical columns]]. In this sense, the astrocyte syncytium functions as a spatially distributed homeostatic controller, adjusting the operating point of [[neural-oscillation-hierarchy|oscillatory hierarchies]] in response to metabolic load and local spiking history.
+## From local modulation to memory
 
-Astrocyte cognition also intersects with [[oscillation-memory-reinstatement|memory reinstatement]] and [[oscillatory-convergence-memory|oscillatory convergence]]. During slow-wave sleep, astrocytic calcium waves align with the [[theta-oscillations-background-scripts|slow oscillation sequences]] shown to consolidate hippocampal traces, while gliotransmitter release at [[ltp-bouton-synaptic-memory-traces|LTP boutons]] during waking has been shown to gate long-term potentiation in ways that depend on the prior history of astrocytic activation. This positions [[astrocytes]] as a kind of **metabolic memory buffer** that runs in parallel with the synaptic weight changes described in [[synaptic-molecular-complexity-ltp]]. In the NAPOT framework (see [[napot-theory]], [[napot-overview]]), the relevant question is whether astrocytic modulation is phase-locked enough to contribute to [[coincidence-detection-neural-bit|coincidence-detection windows]] or operates on timescales so slow that it constitutes a distinct, ultra-slow oscillatory layer. Evidence from [[gh-a0115z]] and [[gh-a0053z]] suggests that astrocyte calcium waves can couple to gamma-band [[neural-oscillation-synchrony-deviation|synchrony deviations]], implying at least intermittent phase coupling between glial and neuronal rhythms.
+The [[tripartite-synapse-multicellular-engram|tripartite-synapse-to-multicellular-engram bridge]] separates several roles that should not be collapsed into one claim:
 
-From a [[consciousness-as-oscillatory-feedback-loop|consciousness-as-oscillatory-feedback]] perspective, astrocyte cognition raises the possibility that the brain's subjective [[tonic-phasic-neural-oscillation|tonic-phasic duality]] is not purely neuronal in origin. The slow, global calcium waves propagating across astrocytic syncytia could constitute a sub-threshold carrier signal that biases which [[cortical-column-oscillatory-synchronization|cortical columns]] are recruited into a given [[oscillatory-binding-problem|binding event]], thereby influencing the content of conscious perception without directly generating spikes. This view aligns with the [[consciousness-as-dissipative-self-organizing-system|dissipative self-organization]] model: [[astrocytes]], consuming nearly a third of the brain's [[atp]] budget, are central agents in the thermodynamic bookkeeping that keeps [[brain-as-dissipative-system|cortical dynamics at criticality]]. Their role in [[glial-modulation]] — buffering extracellular potassium, recycling neurotransmitters, and signalling via [[gh-a0597z|lipid mediators]] — further cements their status as cognitive co-processors rather than mere scaffolding.
+| Role | Question | Current evidence boundary |
+| --- | --- | --- |
+| Detection | Does an astrocyte process register nearby transmitter, potassium, or neuromodulatory conditions? | Demonstrated in specific preparations. |
+| Local modulation | Does its changed state alter clearance, release probability, coverage, gain, or plasticity? | Demonstrated for several mechanisms; not universal at every synapse. |
+| Event integration | Does astrocyte state retain information about recent events? | Demonstrated over seconds under defined hippocampal and noradrenergic conditions. |
+| Memory access | Does a learning-associated astrocyte ensemble affect later recall? | Causal mouse evidence exists. |
+| Stability and precision | Can a longer-lived astrocyte ensemble affect whether recall remains stable or specific? | Causal mouse evidence exists for a multiday trace. |
+| Content | Does astrocyte activity itself specify what is remembered or perceived? | Open; state, access, and gain effects must be separated from content. |
+
+This distinction matters. An astrocyte ensemble can influence recall without being a complete memory store, and it can encode an anxiety-related state without replacing the neuronal circuits that identify a cue or produce behavior.
+
+## Recent experimental anchors
+
+In 2018, selective activation of hippocampal astrocytes produced neuronal potentiation and enhanced memory under the tested conditions. In 2024, learning-associated astrocyte ensembles were shown to interact with neuronal engrams and causally regulate recall. A 2025 study identified an astrocytic ensemble that functions as a multiday trace affecting memory stability and precision after repeated experience. A separate 2025 study used AstroLight to identify and manipulate a task-recruited nucleus-accumbens astrocyte ensemble that changed cue-motivated behavior. In 2026, simultaneous recordings in basolateral amygdala showed astrocyte population activity that tracked anxiety-related state and could bidirectionally change anxiety-related behavior.
+
+These studies make astrocytes part of an experimentally tractable cognitive architecture. They do not establish a single global astrocyte clock, universal gliotransmitter release, direct gamma control, or consciousness generated by astrocytes alone.
+
+## Source-faithful SAN interpretation
+
+SAN's documented sequence is:
+
+```text
+2017 neural network plus glionet interface
+-> 2022 all-cell COT-to-NAPOT scope
+-> 2022 phase-sensitive neuronal and glial state-change proposal
+-> later experiments on astrocyte event integration and ensembles
+-> an open multicellular reconstruction hypothesis
+```
+
+The 2017 [[neural-lace-podcast-source-genealogy|Neural Lace Podcast]] said that a useful brain snapshot must include astrocytes and described interacting neural and glial networks. The June-August 2022 SAN record then connected neuronal and glial state to learned morphology, phase-sensitive change, COT, and NAPOT. On August 22, 2022, SAN also incorporated the then-new preprint that later became the 2024 study of event integration by hippocampal astrocytes. That uptake is a dated convergence, not the origin of the earlier glionet architecture.
+
+SAN's added proposition is that an astrocyte's slower, history-sensitive state may modify the **tonic receiving context** in which faster neuronal [[phase-wave-differential|PWD]] events are interpreted. On this view, glial state can change route eligibility, persistence, gain, or precision without needing to carry a neuron-like spike or become an inner observer. Perception and recall remain distributed activities of the interacting network.
+
+This is stronger than saying astrocytes merely support neurons, but narrower than declaring all astrocyte activity cognitive. It is testable.
+
+## Decisive experiment
+
+Tag neuronal and astrocyte ensembles recruited during learning, then measure both during natural cue recall. Manipulate each ensemble separately and jointly while preserving arousal and gross neuronal activity as far as possible. Score four outcomes independently: cue identity, recall access, memory stability, and memory precision.
+
+The SAN phase extension earns support only if receiver-relative timing or state variables improve held-out prediction and selective causal control beyond models using firing rate, calcium, cell identity, neuromodulatory state, and general network activity. Tool kinetics and gap-junction spread must be measured so a purported ensemble intervention is not actually a broad state manipulation.
+
+## Dated SAN sources
+
+- [Neural Lace Podcast #4, recorded May 5, 2017; public transcript committed October 22, 2022](https://github.com/v5ma/selfawarenetworks/blob/09066e4b572ba36e145b3a1e0f31706fcc9388d6/nlp4.md)
+- [June 10, 2022 phase-coincidence, morphology, glia, and tomography source](https://github.com/v5ma/selfawarenetworks/blob/a052ab363ca6a2f9538dc5da9f498d5c24365fca/a0115z.md)
+- [August 8-22, 2022 astrocyte, COT, and NAPOT source](https://github.com/v5ma/selfawarenetworks/blob/9911b61b401aeb9aab74cd765a18e7b7019eff5e/a0011z.md)
+- [August 11, 2022 neuron-glia phase-change proposal](https://github.com/v5ma/selfawarenetworks/blob/3c6aa23655e427d19037558d398a17a7afc62f73/a0270z.md)
+
+## Primary scientific references
+
+- [Adamsky et al. 2018: astrocyte activation, potentiation, and memory enhancement](https://pubmed.ncbi.nlm.nih.gov/29804835/)
+- [Rupprecht et al. 2024: hippocampal astrocytes integrate past events over seconds](https://pmc.ncbi.nlm.nih.gov/articles/PMC11089000/)
+- [Williamson et al. 2024: learning-associated astrocyte ensembles regulate recall](https://pubmed.ncbi.nlm.nih.gov/39506118/)
+- [Serra et al. 2025: AstroLight-tagged astrocyte ensembles tune cue-motivated behavior](https://pubmed.ncbi.nlm.nih.gov/39901002/)
+- [Dewa et al. 2025: an astrocytic ensemble acts as a multiday memory-stabilizing trace](https://pubmed.ncbi.nlm.nih.gov/41094146/)
+- [Ghenissa et al. 2026: basolateral-amygdala astrocytes encode and modulate anxiety states](https://www.sciencedirect.com/science/article/pii/S0896627326001637)
 
 ## Related concepts
 
-- [[astrocytes]] — the cellular substrate; defines the physical entity whose cognitive role this article explains
-- [[glial-cells]] — the broader class; [[astrocytes]] are the most abundant and computationally active subtype
-- [[glial-modulation]] — functional consequence of astrocyte activity on network excitability
-- [[olfactory-tripartite-circuit]] — canonical circuit instantiation of astrocyte–synapse co-regulation
-- [[tonic-oscillation]] — slow oscillatory mode that astrocyte calcium waves may sustain and bias
-- [[tonic-phasic-canvas-of-consciousness]] — theoretical framework in which astrocyte slow waves provide the canvas
-- [[phasic-tonic-relationship]] — the dual-timescale dynamic that astrocytic feedback modulates
-- [[criterial-causation-atp-neurons]] — [[atp]]-based criterial signalling that implicates [[astrocytes]]
-- [[synaptic-computation-ltp]] — the synaptic plasticity substrate that gliotransmitters regulate
-- [[neural-oscillation-hierarchy]] — oscillatory hierarchy in which astrocyte syncytia may constitute the lowest, slowest tier
-- [[brain-as-dissipative-system]] — thermodynamic model that frames astrocyte metabolic work as cognitively meaningful
-- [[gh-a0138zcalcium]] — primary source on [[gh-a0138zcalcium|calcium dynamics]] in glial cells
-
-## Source Provenance
-
-- Generated: 2026-04-24T18:17:02
-- Lane: C.draft (from packet) → C+.prose (authored)
-- Packet: `wiki/automation/packets/astrocyte-cognition.json`
-- Evidence count: 0
-- Source ids: 
-
----
-
-*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
+- [[astrocytes]]
+- [[tripartite-synapse-multicellular-engram]]
+- [[glial-modulation]]
+- [[oscillation-memory-reinstatement]]
+- [[tonic-phasic-canvas-of-consciousness]]
+- [[napot-theory]]
+- [[every-cell-chemical-neural-network]]

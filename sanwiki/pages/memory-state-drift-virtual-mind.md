@@ -4,6 +4,7 @@ tags: [san, memory, engram, representational-drift, virtual-mind, neural-renderi
 aliases: [Memory State Drift, Virtual Engrams, Neural Drift and Virtual Mind]
 summary: "A governed SAN route that separates memory substrate, active engram ensembles, reconstructed content, representational drift, and the stronger phase-pattern and conscious-access hypotheses."
 status: governed
+book_atlas_bridge_ids: [B2-BR-018]
 ---
 
 # Memory, Engrams, Representational Drift, and the Virtual Mind
@@ -21,6 +22,29 @@ stability-plasticity problem:
 4. why measured neural responses can change over time while behavior or represented relationships
    remain stable; and
 5. what additional evidence would be needed to call the reconstructed content conscious.
+
+## Canonical B2-BR-018 bridge operation
+
+This page is the SAN Encyclopedia's reconstruction side of **B2-BR-018: Virtual engram
+reconstruction to conscious neural rendering**. It joins a changing physical memory substrate to a
+current, carrier-flexible reconstruction without claiming that recall is a literal replay or that
+one fixed cell list contains the remembered content.
+
+```text
+learning changes synapses, dendrites, cellular state, and recurrent readiness
+-> a partial cue meets the present network state
+-> currently eligible cells and routes complete a learned relation
+-> the participating carrier ensemble may change while useful relational content persists
+-> SAN calls the reconstructed, carrier-flexible pattern a virtual engram
+-> receiver-relative timing, recurrence, persistence, and influence can be measured
+-> the reconstruction may remain latent or join the current distributed rendering
+-> later inhibition, detuning, competition, or dissipation can remove it from current access
+   without erasing the learned substrate
+```
+
+[[latent-pattern-conscious-rendering-transition|From Latent Pattern to Conscious Rendering]] owns
+the next operation: how a reconstructed candidate may join and later leave the current conscious
+observer-action state.
 
 ## Five things that should not be collapsed
 
@@ -82,11 +106,12 @@ tissue reconstructs a temporary self-world model from distributed learned constr
 input. Different sensory and association systems can contribute different properties of the same
 object without carrying identical copies.
 
-This definition preserves the useful core of Micah's 2022-2024 "virtual mind" discussion while
-removing two avoidable claims: that information can be represented equally well by literally any
-brain region, and that changing regional contribution is itself representational drift.
+This definition preserves the strongest operation in Micah's 2022-2024 "virtual mind" discussion
+while separating it from two literal readings that the operation does not require: that information
+can be represented equally well by any brain region regardless of anatomy and receiver, or that
+every change in regional contribution is representational drift.
 
-## The SAN proposal after correction
+## The source-faithful SAN proposal
 
 The historical SAN sources propose that learned synaptic and dendritic configurations tune which
 patterns a cell or array will receive and propagate, while recurrent activity reconstructs the
@@ -149,6 +174,18 @@ observer, and EEG/MEG source estimates do not uniquely reveal microscale memory 
 
 ## Dated SAN route
 
+- [April 23, 2011](https://www.facebook.com/photo/?fbid=215424435150878&set=a.103297033030286)
+  describes distributed sensory units carrying parts of a changing picture, relations across frame
+  sequences, completion from partial patterns, and a continuously updated multisensory picture.
+- [June 21, 2011](https://www.facebook.com/photo/?fbid=231533750206613&set=a.103297033030286)
+  describes a thought as a physical macro representation formed by electrical firing sequences on
+  branches of interconnected cells.
+- [September 28, 2011](https://www.facebook.com/photo/?fbid=290006854359302&set=a.103297033030286)
+  describes consciousness as a recurrent loop among incoming senses, neuron and brainwave activity,
+  and outgoing action, using the historical song-and-orchestra analogy.
+- [July 24, 2013](https://www.facebook.com/photo/?fbid=692805844079399&set=a.103297033030286)
+  describes learned oscillatory patterns re-expressing vectors, sounds, and a world while smaller
+  oscillations participate in a larger conscious canvas.
 - `a0079z.md` connects learned synaptic configuration, cell tuning, phase signals, virtualized
   patterns, and oscillating-group sequences in June 2022.
 - `a0237z.md` explicitly records a representational-drift hypothesis and research-join plan on
@@ -160,6 +197,11 @@ observer, and EEG/MEG source estimates do not uniquely reveal microscale memory 
   closure.
 - `SAOv9.md`, `Hex 7.md`, `y0032.md`, and `y0036.md` preserve later editorial and spoken synthesis;
   generated summaries and unresolved recording dates remain separate from Micah's transcript.
+
+The Facebook dates above are the dates displayed by the public posts. They establish early public
+source ancestry, but they are not silently upgraded into immutable Git timestamps. The 2011 and
+2013 posts are operation-level ancestors; the terms **representational drift**, **virtual engram**,
+**PWD**, and the conscious-promotion rule retain their later documented dates.
 
 The exact hashes, Git dates, source roles, and claim boundaries are recorded in the
 [governed source review](/v5ma.github.io/wiki/san/knowledge-graph/reviews/memory-state-drift-virtual-mind-review-20260715.md).

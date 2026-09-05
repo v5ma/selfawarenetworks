@@ -115,8 +115,9 @@ These analogies help state the computational question: can a biological network 
 | June 8, 2022 | `a0041z` compares phase alignment and cancellation with near-synchronous neural activity and shared growth signals. | Historical analogy and hypothesis, not quantum-neural evidence. |
 | June 8, 2022 | `a0601z` connects Friston-like prediction across timescales with nested neural oscillations. | Multiscale bridge; it does not yet contain the full plasticity operator. |
 | August 22, 2022 | The SAN Whitepaper describes changed synaptic and dendritic morphology as changed pattern sensitivity and long-term memory readiness. | Structural memory claim should not be reduced to synaptic weight alone. |
+| October 29, 2022 | `b0067ywhisper` describes tonic oscillation, unexpected excitation or inhibition, temporary synchronization or separation, resettling, and repeated timing changing later route readiness. | The operational chain is source-relevant; literal universal physiology in the recording remains hypothetical. |
 | September 2024 | `02san` explicitly describes PWD perturbation, resynchronization, altered firing, and plasticity as a loss-like update process. | The file is a human-AI dialogue; only Micah-labeled passages establish Micah's genealogy. |
-| January 2025 | `raynote16` explicitly places Feynman, Friston, splay states, LTP-driven synchronization, and wave-difference dissipation in one synthesis. | Later synthesis; it must not be backdated into the 2022 wording. |
+| January 2025 | `raynote16` explicitly places Feynman, Friston, splay states, LTP-driven synchronization, and wave-difference dissipation in one synthesis. | Authorship is unresolved from the file alone; treat it as a later repository synthesis and do not backdate it. |
 
 ## Decisive experiment
 
@@ -159,13 +160,15 @@ No present evidence establishes that a universal coherence/LTP and splay/LTD rul
 - [`a0041z`, June 8, 2022](https://github.com/v5ma/selfawarenetworks/blob/7d1431213cd4ac9788848a5396ec2992ece11cfd/a0041z.md)
 - [`a0601z`, June 8, 2022](https://github.com/v5ma/selfawarenetworks/blob/5360f6414909a2474129b2140ee0dc3112c93b6b/a0601z.md)
 - [SAN Whitepaper working source, August 22, 2022](https://github.com/v5ma/selfawarenetworks/blob/2ebaefb421993860fd7c5482a1000706a75a6f83/whitepaper.md)
+- [`b0067ywhisper`, publicly Git-fixed October 29, 2022](https://github.com/v5ma/selfawarenetworks/blob/4ef2eebdc3dc01ba1ab2c64417be649186a741fd/b0067ywhisper.md)
 - [`02san`, September 2024](https://github.com/v5ma/selfawarenetworks/blob/df4d7f8d3270d56de167035c4987c3e072696c79/02san.md)
-- [`raynote16`, January 2025 synthesis](https://github.com/v5ma/selfawarenetworks/blob/359855a5316fae4fe6ce532c2570424deb7291e2/raynote16.md)
+- [`raynote16`, January 2025 repository synthesis](https://github.com/v5ma/selfawarenetworks/blob/049381ed44008f3e32a259c4aaea6b3b389b60f9/raynote16.md)
 
 ## Related SAN concepts
 
 - [[tonic-absorption-generative-reexpression]]
 - [[coincidence-as-a-bit]]
+- [[stdp]]
 - [[phase-wave-differentials]]
 - [[computational-phase-synchronization]]
 - [[tonic-phasic-phase-wave-differential]]

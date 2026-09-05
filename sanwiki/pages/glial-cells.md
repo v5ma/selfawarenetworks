@@ -1,53 +1,82 @@
 # Glial Cells
 
-**Glial Cells** are, within [[gh-a0206z|Self]]-Aware Networks, full participants in cortical [[brain-as-memory-prediction-machine|memory-prediction]] computation rather than passive support tissue — they propagate signals (including back-propagating signals along the same paths neurons use), mediate the [[hebbian-learning|Hebbian]] grow-and-prune dynamics that build and unbuild network connectivity, and supply the [[atp|metabolic]] coupling that timing-precision in [[gamma-oscillations|gamma oscillations]] depends on. SAN explicitly ties [[napot-theory|NAPOT]] readout to glial physiology and treats glial cells as active members of the [[every-cell-chemical-neural-network|every-cell-as-chemical-neural-network]] commitment.
+**Glial cells** are the non-neuronal cell families that maintain, regulate, build, remodel, and respond within nervous-system circuits. The category includes [[astrocytes]], oligodendrocytes and their precursor cells, microglia, ependymal cells, and peripheral glia such as Schwann cells. These families are biologically distinct; "glia" is not one uniform computational cell type.
 
-## Origin
+Modern neuroscience has moved beyond the idea that glia are inert scaffolding. Astrocytes regulate local extracellular and synaptic conditions. Oligodendrocyte-lineage cells build and adapt myelin and support axons. Microglia survey tissue and remodel selected structures. Other glia participate in fluid, barrier, developmental, metabolic, and immune functions. Their operations alter the conditions in which neuronal signals propagate, combine, change synapses, and influence behavior.
 
-The phrase appears across the SAN GitHub corpus in over a hundred lines. The signal-propagation reading is given in `a0007z--md`, line 265, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0007z.md): "back-propagating action potentials from the postsynaptic membrane to the presynaptic membrane in all neurons, and glial cells, and also back propagating signals from the exit terminal branches…" — locating glia as carriers of back-propagating signal alongside neurons, not as separate support tissue. The NAPOT-tomography link is stated bluntly in `a0011z--md`, line 99, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0011z.md): "This fact supports the connection between NAPOT Theory & glial cells." The myelin-glia ion-channel reading is in `a0053z--md`, line 150, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0053z.md): "Regulation of potassium channels in myelin-forming glial cells." The size-of-neocortex link is in `a0091z--md`, line 600, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0091z.md): "the size of the neocortex, and the advanced glial cells." The Hebbian-coupled gardening reading is in `a0115z--md`, line 131, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0115z.md): "coincidences binding together via the principles of oscillation that signal glial cells & neurons to grow and remove network connections between cells." Together these establish glia as fully on-the-hook for SAN's compute story.
+## SAN's multicellular commitment
 
-## Position
+Within [[self-aware-networks|Self-Aware Networks]], a brain cannot be modeled faithfully as a neuron-only graph. The documented public genealogy develops in stages:
 
-Within [[gh-a0206z|Self]]-Aware Networks the brain is not a neuron-only network — it is a [[every-cell-chemical-neural-network|every-cell chemical neural network]] in which glial cells are active participants in the same [[coincidence-pattern-neural-bit|coincidence-pattern]] machinery. Three commitments follow. First, *glia carry signal*: the back-propagation passage (`a0007z--md`, line 265, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0007z.md)) puts glial cells on the same propagation paths as neurons, which is the necessary condition for treating glia as readout substrate for [[napot-theory|NAPOT]]. Second, *glia gate timing*: myelin-forming glia regulate the potassium channels (`a0053z--md`, line 150, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0053z.md)) that control [[action-potential-waveform-encoding|action-potential waveform]] timing, and the temporal precision of [[gamma-oscillations|gamma]] and [[neural-ensemble-phase-reset-communication|ensemble phase-reset]] depends on this gating; SAN therefore treats glial dysfunction as direct dysfunction of the prediction-emission band. Third, *glia mediate Hebbian sculpting*: the `a0115z--md` line 131 passage, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0115z.md) makes oscillation-driven [[hebbian-learning|Hebbian]] growth-and-removal of connections a *glia-and-neuron* process — both cell types receive the coincidence signal and act on it. Fourth, *glia are NAPOT-relevant*: the explicit "NAPOT Theory & glial cells" connection (`a0011z--md`, line 99, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0011z.md)) means that the tomographic readout is reading glial signal, not only neuronal signal. The size-of-neocortex remark (`a0091z--md`, line 600, [on github](https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0091z.md)) connects glial advancement to cortical-scale phylogeny and to the comparative-cognition story SAN tells about humans. The cumulative SAN position is therefore that any account of cortical computation that omits glia is misspecified.
+1. **May 5, 2017:** the fourth Neural Lace Podcast describes a neural network and a **glionet** interfacing with one another and says that a useful brain snapshot would include astrocytes as well as neurons.
+2. **June 10, 2022:** SAN connects phase coincidence, synchronization or splay, and possible growth or removal of neuronal and glial connections to neural tomography.
+3. **August 8-22, 2022:** SAN explicitly places astrocytes, oligodendrocytes, microglia, T cells, and other cells in the COT-to-[[napot-theory|NAPOT]] interface and incorporates new work on slow astrocyte integration.
+4. **August 11, 2022:** SAN proposes that changing neuronal and glial state can alter a shared phase-sensitive network pattern and leave longer-lasting morphological consequences.
+5. **September 18, 2022:** SAN proposes a scale-invariant feedback architecture that includes glia. This source needs physiological unpacking rather than literal transfer of neuronal action-potential anatomy to every glial cell.
 
-## Chronology
+The joined SAN claim is that memory, perception, and action depend on a **multicellular physical state**, not that every participating cell transmits the same signal.
 
-The packet contains 100 evidence lines distributed across nearly the entire SAN GitHub manuscript family at commit `d1c26a6` — chapter scaffolds (`07san`, `c0000x` and `c0001x` and `c0004x`), the long `a0xxxz` series, the `b0xxxy` dialogues, the `vecA/C/D` series, the drafts (`draft1` through `draft6`), `SAOv9`, `Hex 7`, the GPT-mediated synthesis files, and the `nlps2e1` recording. The breadth indicates that glia have been part of SAN's compute story across the entire history of the manuscript project, not a late addition. A precise pre-2013 priority claim for the SAN-specific reading (glia as active NAPOT-readable participants) requires Lane G transcript acquisition, but the supporting structural claims — back-propagation along glia, oscillation-coupled Hebbian gardening — are spread densely enough that any one of them dropping would not change the SAN position.
+## Source-faithful anatomical correction
 
-## Post-SAN
+One 2022 SAN passage says that back-propagating action potentials should occur in all neurons and glial cells. Read literally, that sentence overextends a neuronal term. A canonical back-propagating action potential travels into a neuron's dendritic tree; glial cells generally do not operate as ordinary action-potential-spiking neurons.
 
-Mainstream glial-cell research has moved steadily toward agreement with SAN's commitments — astrocyte calcium signaling and synaptic modulation (Volterra, Araque), microglia-mediated synaptic pruning (Schafer, Stevens), oligodendrocyte myelin plasticity and conduction-velocity tuning, and tripartite-synapse models that treat glia as active rather than supportive. SAN's distinct moves are (a) treating *every* glial cell as a node in the [[every-cell-chemical-neural-network|chemical neural network]], (b) treating glia as *NAPOT-readable* (i.e., contributors to the tomographic signal that [[consciousness]] reads), and (c) tying glial timing-control directly to the [[gamma-oscillations|gamma]] band that carries moment-to-moment prediction. Where SAN makes a testable prediction the published literature does not is in the claim that glial-conditioned changes in K+-channel kinetics should produce *frequency-specific* shifts in cortical predictive-coding errors — checkable with pharmacological glial manipulations and decoded EEG.
+The surrounding argument proposes something broader and recoverable: information-bearing consequences can travel in more than one direction through nested cellular networks, and smaller cells may implement functionally analogous feedback through different physical carriers. The medically aligned version therefore keeps the proposed **feedback isomorphism** while naming distinct mechanisms:
+
+- neurons: action potentials, dendritic spikes, graded potentials, synaptic transmission, and biochemical plasticity signals;
+- astrocytes: local voltage and calcium changes, transporter and potassium dynamics, metabolic and molecular signaling, morphology, and gap-junction coupling;
+- oligodendrocyte lineage: activity-sensitive differentiation, myelination, metabolic support, and conduction changes;
+- microglia: surveillance, contact, immune signaling, phagocytosis, and context-dependent structural remodeling.
+
+This correction does not remove SAN's innovation. It makes the all-cell architecture experimentally addressable instead of depending on one carrier being universal.
+
+## Four-layer claim separation
+
+### Established neuroscience
+
+Glial cells detect and alter neural conditions through cell-type-specific mechanisms. Manipulating selected astrocyte, oligodendrocyte, or microglial operations can change synaptic transmission, plasticity, myelination, circuit development, memory, affect, or behavior in defined preparations.
+
+### Documented SAN synthesis
+
+SAN joins interacting neural and glial networks, learned cellular state, recurrent signaling, oscillatory timing, and distributed reconstruction. It treats glial state as part of the physical system that must be measured when explaining the current brain state.
+
+### SAN extension
+
+SAN proposes that glial state can modify the [[tonic-phasic-canvas-of-consciousness|tonic context]], route eligibility, persistence, and receiver-specific consequence of faster neuronal [[phase-wave-differential|PWD]] events. Different cell types may therefore contribute different temporal and physical components to one [[every-cell-chemical-neural-network|every-cell chemical network]].
+
+### Decisive evidence
+
+Measure identified glial and neuronal populations simultaneously, perturb a bounded glial mechanism, and test whether its prior state adds held-out predictive and causal information about later routing, recall, perception, or action beyond neuronal rate, calcium, arousal, and general state. The relevant carrier, region, and timescale must be explicit. A broad EEG association alone cannot establish a glial PWD mechanism.
+
+## Why this matters for NAPOT
+
+[[napot-theory|NAPOT]] asks how partial, changing signals are gathered, transformed, and redistributed into a usable internal model. If glia change clearance, conduction, gain, metabolic readiness, synaptic coverage, or structural eligibility, they change the transformation performed by the circuit even when they do not emit a conventional neuronal spike. A medically accurate NAPOT account should therefore model glia as **state-changing participants and constraints**, while leaving open which glial variables carry content, index a memory, gate access, stabilize a trace, or regulate general state.
+
+The [[tripartite-synapse-multicellular-engram]] page applies this distinction to memory reconstruction.
+
+## Dated SAN sources
+
+- [Neural Lace Podcast #4, recorded May 5, 2017; public transcript committed October 22, 2022](https://github.com/v5ma/selfawarenetworks/blob/09066e4b572ba36e145b3a1e0f31706fcc9388d6/nlp4.md)
+- [June 10, 2022 phase-coincidence and neuron-glia morphology proposal](https://github.com/v5ma/selfawarenetworks/blob/a052ab363ca6a2f9538dc5da9f498d5c24365fca/a0115z.md)
+- [August 8-22, 2022 all-cell COT-to-NAPOT source](https://github.com/v5ma/selfawarenetworks/blob/9911b61b401aeb9aab74cd765a18e7b7019eff5e/a0011z.md)
+- [August 11, 2022 phase-sensitive neuron-glia state proposal](https://github.com/v5ma/selfawarenetworks/blob/3c6aa23655e427d19037558d398a17a7afc62f73/a0270z.md)
+- [September 18, 2022 scale-invariant feedback proposal](https://github.com/v5ma/selfawarenetworks/blob/894b4d4ea3f23d4d1d526e123b5744283ff9cd5d/a0007z.md)
+
+## Primary scientific references
+
+- [Schafer et al. 2012: microglial remodeling in a defined developmental circuit](https://pubmed.ncbi.nlm.nih.gov/22632727/)
+- [Gibson et al. 2014: neuronal activity promotes oligodendrogenesis and adaptive myelination](https://pubmed.ncbi.nlm.nih.gov/24727982/)
+- [Armbruster et al. 2022: local astrocyte-process voltage and glutamate-clearance changes](https://pmc.ncbi.nlm.nih.gov/articles/PMC9988390/)
+- [Taylor and Monje 2023: activity-dependent neuron-oligodendroglial interactions](https://pubmed.ncbi.nlm.nih.gov/37857838/)
+- [Williamson et al. 2024: learning-associated astrocyte ensembles regulate recall](https://pubmed.ncbi.nlm.nih.gov/39506118/)
 
 ## Related concepts
 
-- [[every-cell-chemical-neural-network]] — the broader commitment that names glia as full nodes.
-- [[cell-as-chemical-neural-network]] — the cell-level reading the all-cell claim specializes.
-- [[hebbian-learning]] — the gardening rule glia and neurons jointly enact.
-- [[action-potential-waveform-encoding]] — the waveform that glial K+-channel regulation tunes.
-- [[gamma-oscillations]] — the prediction band glial timing-control supports.
-- [[neural-ensemble-phase-reset-communication]] — the ensemble synchrony glial gating enables.
-- [[napot-theory]] — the tomographic readout that includes glial signal.
-- [[neural-tomography]] — the broader readout class NAPOT specializes.
-- [[coincidence-pattern-neural-bit]] — the elementary bit glia and neurons jointly emit.
-- [[brain-as-memory-prediction-machine]] — the predictive cycle glia participate in.
-- [[atp]] — the metabolic coupling glia supply to neurons.
-- [[synaptic-ion-channel-tone]] — the ion-channel substrate glial myelin tunes.
-- [[neuron-shape-information-storage]] — the morphology-as-storage frame glia extend.
-
-## Source Provenance
-
-- Generated: 2026-04-24T18:32:04
-- Lane: C.draft (from packet)
-- Packet: `wiki/automation/packets/glial-cells.json`
-- Evidence count: 100
-- Source ids: [[gh-07san|07san]]--md, [[gh-gpt2023x|GPT2023X]]--md, [[gh-gpt2024jan1tojan22|GPT2024Jan1toJan22]]--md, Hex_7--md, SAOv9--md, a0007z--md, a0011z--md, a0053z--md, [[gh-a0091z|a0091z]]--md, a0115z--md, [[gh-a0120z|a0120z]]--md, a0126z--md, [[gh-a0151z|a0151z]]--md, [[gh-a0185z|a0185z]]--md, a0206z--md, a0270z--md, a0272z--md, a0310z--md, a0325zNAPOT6--md, [[gh-a0503z|a0503z]]--md, a0508z--md, a0597z--md, a0616z--md, [[gh-b0001y|b0001y]]--md, b0003y--md, b0075ydone--md, [[gh-b0084y|b0084y]]--md, [[gh-b0085y|b0085y]]--md, [[gh-b0100y|b0100y]]--md, [[gh-b0201y|b0201y]]--md, b0302ywhisper--md, [[gh-b0305y|b0305y]]--md, b0311ySci--md, b0314ySci--md, b0324y--md, [[gh-c0000x|c0000x]]--md, c0001x--md, c0004x--md, draft1--md, draft2--md, draft3--md, draft4--md, draft5--md, draft6--md, [[gh-nlps2e1|nlps2e1]]--md, oldhome--md, original_archive_b0311ygoogle--md, original_archive_b0314y--md, original_archived_b0067yrecorder--md, original_archived_b0302ytimecode--md, [[gh-veca|vecA]]--md, [[gh-vecc|vecC]]--md, [[gh-vecd|vecD]]--md, y0031sci--md
-  - `07san--md` line 13 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/07san.md
-  - `a0007z--md` line 265 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0007z.md
-  - `a0011z--md` line 99 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0011z.md
-  - `a0053z--md` line 150 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0053z.md
-  - `a0091z--md` line 600 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0091z.md
-  - `a0115z--md` line 131 → https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/a0115z.md
-
----
-
-*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D will add `[[wikilinks]]`. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
+- [[astrocytes]]
+- [[astrocyte-cognition]]
+- [[glial-modulation]]
+- [[tripartite-synapse-multicellular-engram]]
+- [[every-cell-chemical-neural-network]]
+- [[cell-as-chemical-neural-network]]
+- [[napot-theory]]
+- [[neural-tomography]]
+- [[synaptic-connectivity-dynamics]]
