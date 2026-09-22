@@ -90,11 +90,6 @@ scientific statement in the discussion is correct.
   <https://youtu.be/YrX_68oKuVs> and was first added to the public Git repository on June 21, 2025.
   Its April 11, 2017 date belongs to the recorded episode and public media lineage, not to that Git
   transcript's first commit.
-- An earlier, different file also named `nlp1.md` entered Git in October 2022. It describes a guest
-  episode associated with Shannon Aral and <https://youtu.be/h2OLBUIQouI>. It preserves a broad
-  protocol question but does not establish the exact ATP/TCP/UDP and present-versus-desired
-  difference passage in the current founding monologue. The two source identities must not be
-  merged merely because their filenames match.
 - Season 2 Episode 1 is dated **2018-08-02**, not the older July 29 estimate.
 - Season 2 Episode 2 is dated **2018-09-11** and routes to
   <https://youtu.be/wgMKMn7srHM>, not the alternate URL in the older summary.
