@@ -164,7 +164,7 @@ interpretation.
 
 ## Historical SAN sources
 
-- [First Neural Lace monologue, public Git fixation beginning October 22, 2022](https://github.com/v5ma/selfawarenetworks/blob/09066e4b572ba36e145b3a1e0f31706fcc9388d6/nlp1.md)
+- [Original 2017 Neural Lace monologue recording](https://youtu.be/YrX_68oKuVs); [matching transcript, public Git fixation beginning June 21, 2025](https://github.com/v5ma/selfawarenetworks/blob/d84ee6f61136b5083041e0877b5a058feb2db5a0/nlp1.md#L110-L126)
 - [Neural Lace Podcast 3, public Git fixation beginning October 1, 2022](https://github.com/v5ma/selfawarenetworks/blob/60cdf7e460904245cbe5e8838b2865f7292fb2f9/nlp3.md)
 - [The NerveGear Show, public Git fixation beginning September 30, 2022](https://github.com/v5ma/selfawarenetworks/blob/9567fefc9b9d61f7690f5b2aef840424caf618c9/nlpnervegear.md)
 - [*a0215z*, public Git fixation beginning June 11, 2022](https://github.com/v5ma/selfawarenetworks/blob/e5308b25a78d4dbeb5a54a18ecaa3601107a8f66/a0215z.md)
