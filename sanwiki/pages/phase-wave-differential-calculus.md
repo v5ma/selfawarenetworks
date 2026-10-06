@@ -145,6 +145,35 @@ not PWD semantics.
 
 Phase-of-firing has carried visual information beyond spike count in macaque V1 ([Montemurro et al., 2008](https://doi.org/10.1016/j.cub.2008.02.023)). PWD must outperform that simpler baseline rather than relabel it.
 
+## Prediction inputs and the complete event record
+
+A complete PWD record follows the departure through its route to the receiver's response and subsequent tuning. A prospective test separates what was available at a declared prediction cutoff from the later outcome. Keep the later receiver change in the event record; do not supply it as an input to a model predicting that same change. This is an experimental distinction, not a new definition of PWD or a removal of consequence from SAN's mechanism.
+
+For example, a declared measurement window can close at time `t`, with the target receiver response measured in a separate later interval. Record the reference, receiver state, route, and eligible typed departures available by `t`. A duration, amplitude, burst, or phase estimate is not eligible merely because its label says "input": its entire computation must avoid samples after the cutoff, including samples reached by filtering. Fit learned references, feature selection, and preprocessing on training data, then freeze them for held-out evaluation. Removing an explicit outcome column alone does not prevent leakage ([Kapoor and Narayanan, 2023](https://doi.org/10.1016/j.patter.2023.100804)).
+
+After that response occurs, it can legitimately enter the history used to predict a still later event or update tuning, as in equation [4]. The distinction is temporal eligibility for a specified target, not a ban on feedback, retrospective reconstruction, excitation, inhibition, or changes in a tonic reference.
+
+## Information gain, representation gain, and causal evidence
+
+Let `X` contain all eligible observations and history used to compute a fixed feature `D = f(X)`, and let `Y` be the later target. Once `X` is known, `D` is already determined: `P(Y | X, D) = P(Y | X)`, so `I(D; Y | X) = 0`. This follows from conditional independence, not from any restriction peculiar to PWD ([Shalizi, 2020, conditional mutual information](https://www.stat.cmu.edu/~cshalizi/dm/20/lectures/09/lecture-09.html#conditional-independence-and-conditional-mutual-information)). Here `D` is an analyst's feature, not the full biological operation.
+
+If the baseline instead receives a reduced summary `B = g(X)`, then `I(D; Y | B)` can be positive. A finite learner can also perform better with an explicit `D` even when its baseline has all of `X`; that tests the representation and learning procedure, not newly created information. Freeze the feature construction and compare models with matched data access and declared capacity, training, and tuning budgets. A biological receiver's access to the relation remains a separate experimental question.
+
+### A synthetic example with an explicit reference
+
+Take two independent, equally likely binary observations: reference state `R` and arriving state `A`. Define the departure flag `D` to be one when they differ and zero otherwise. In this invented example only, set the later target `Y = D`. The four rows are equally probable; they are not neuronal recordings, and the flag is not a complete PWD representation.
+
+| Reference R | Arrival A | Departure D | Later target Y |
+|---|---|---|---|
+| 0 | 0 | 0 | 0 |
+| 0 | 1 | 1 | 1 |
+| 1 | 0 | 1 | 1 |
+| 1 | 1 | 0 | 0 |
+
+With only arrival `B = A`, the target remains equally likely to be zero or one. Adding `D` resolves that uncertainty: `I(D; Y | A) = 1 bit`. With both inputs `X = (R, A)`, the target is already determined: `I(D; Y | R, A) = 0`. A derived difference can therefore expose a useful relation without adding information to its complete inputs. Setting `Y = D` makes this an arithmetic demonstration, not evidence that a biological receiver reads that relation.
+
+For an empirical component example, Montemurro and colleagues found that phase-of-firing distinguished natural movie stimuli beyond spike count in anesthetized macaque V1. The comparator omitted the phase relation; this was not a claim of extra information beyond every measurement used to calculate phase ([2008](https://doi.org/10.1016/j.cub.2008.02.023)). For SAN, report information beyond a named reduced baseline, held-out prediction benefit from the same observations, and selective perturbation/rescue as distinct results. Neither of the first two alone establishes the causal receiver mechanism tested below.
+
 ## Decisive comparison
 
 Fit capacity-matched models using rate alone, phase alone, joint phase-rate, prediction-error variables, scalar variability, a conventional recurrent or Volterra model, and the complete PWD representation. Evaluate held-out prediction of receiver state, tuning change, route selection, reconstruction, behavior, or perceptual correction.

@@ -798,7 +798,7 @@
   {
     "slug": "adaptive-resonance-theory-napot-comparison",
     "title": "Adaptive Resonance Theory Napot Comparison",
-    "summary": "This SAN comparison image shows the page's central distinction: ART models category acceptance with an abstract vigilance threshold, while NAPOT grounds the same top-down/bottom-up comparison intuition in tonic oscillation, phase-wave differentials, and dendri",
+    "summary": "ART category matching and SAN/NAPOT receiver-relative transformation: related questions, distinct models, dendritic inputs and axonal outputs.",
     "topic": "san",
     "tags": [
       "san"
@@ -824,7 +824,7 @@
   {
     "slug": "adaptive-resonance-theory-san-comparison",
     "title": "Adaptive Resonance Theory San Comparison",
-    "summary": "[[adaptive-resonance-theory|Adaptive Resonance Theory]] (ART, Stephen Grossberg) and [[napot|SAN:NAPOT]] both describe top-down/bottom-up comparison mechanisms in neural systems, but differ sharply in scope and biological specificity.",
+    "summary": "A contextual comparison of ART matching, resonance and reset with SAN tonic-reference transformation and downstream receiver effects.",
     "topic": "san",
     "tags": [
       "san"
@@ -847,7 +847,7 @@
   {
     "slug": "adderall-dopamine-dynamics",
     "title": "Adderall Dopamine Dynamics",
-    "summary": "This plate frames the page's mechanism as dopamine-budget dynamics: forced release produces an early precision-weighting peak, depleted vesicle reserve produces flattened oscillation selection, and high-bandwidth stimulation can partially raise the dopamine fl",
+    "summary": "Dopamine transport and receptor signaling, amphetamine pharmacology, and SAN's question about changes in receiver state; historical attribution remains unresolved.",
     "topic": "san",
     "tags": [
       "san"
@@ -4472,7 +4472,7 @@
   {
     "slug": "brain-as-sensory-processor",
     "title": "Brain As Sensory Processor",
-    "summary": "This diagram maps the page's core SAN claim: four sensory channels converge through thalamic and hippocampal-entorhinal hubs, then distribute across the neocortex as a whole-brain sensory comparison surface. The cortical-layer inset keeps conventional anatomy",
+    "summary": "Distinct sensory pathways, conventional cortical layer order, and SAN's distributed sensory, learned-context and action-feedback interpretation.",
     "topic": "san",
     "tags": [
       "san"
@@ -9618,7 +9618,7 @@
   {
     "slug": "cortical-small-world-topology",
     "title": "Cortical Small World Topology",
-    "summary": "This image frames cortical small-world topology as dense local synaptic computation inside cortical columns plus sparse long-range projections that align phase across distant columns, allowing local phasic detail to synchronize into global SAN/NAPOT entificati",
+    "summary": "Local clustering and longer-range cortical paths, with anatomical structure distinguished from SAN's proposed coordinated sensor-transmitter dynamics and entification.",
     "topic": "san",
     "tags": [
       "san"
@@ -11491,7 +11491,7 @@
   {
     "slug": "dendritic-leaky-membrane-coincidence-filter",
     "title": "Dendritic Leaky Membrane Coincidence Filter",
-    "summary": "This page-specific SAN image isolates the core mechanism: membrane leak dissipates an isolated dendritic input, while coincident inputs arriving inside the same narrow temporal window sum above a branch-local threshold and propagate as a local dendritic spike.",
+    "summary": "Passive dendritic spread and conditional active amplification connect input timing and location with SAN's learned, receiver-relative response criteria.",
     "topic": "san",
     "tags": [
       "san"
@@ -18977,14 +18977,13 @@
   },
   {
     "slug": "gamma-consideration-sandwich-diagram",
-    "title": "Gamma Consideration Sandwich Figure Specification",
-    "summary": "A source-bounded specification for a medically accurate two-bun GCS figure with alpha sensory and beta prefrontal input, Layer-2/3 gamma consideration and proprioceptive coordination, and Layer-5 theta/gamma action-and-body traffic.",
+    "title": "Gamma Consideration Sandwich Diagram",
+    "summary": "An illustrated guide to SAN's sensory/thought intake, gamma consideration, and action/body-return proposal, with cortical anatomy and separate experimental comparisons.",
     "topic": "san",
     "tags": [
       "san",
       "gamma-consideration-sandwich",
       "medical-figure",
-      "image-prompt",
       "sensorimotor-loop"
     ],
     "path": "/v5ma.github.io/wiki/content/gamma-consideration-sandwich-diagram.md",
@@ -47609,7 +47608,7 @@
   {
     "slug": "graded-neural-firing",
     "title": "Graded Neural Firing",
-    "summary": "This SAN plate maps graded neural firing as a four-level biological code: firing intensity increases from silent to tonic to phasic to peak, driving larger vesicle counts, broader lateral inhibition radius, and a stronger confidence signal in the neural array.",
+    "summary": "SAN's graded-signaling proposal connects outgoing events, synaptic transformation, and receiver-dependent pattern selection; historical signal levels are distinguished from a universal vesicle-count code.",
     "topic": "san",
     "tags": [
       "san"
@@ -67714,7 +67713,7 @@
   {
     "slug": "potassium-channel-modulation",
     "title": "Potassium Channel Modulation",
-    "summary": "The packet snapshot has `packet_path = null` because the live JSON has been rotated. Evidence preserved from the prior Lane C template includes one substantive Lane A passage at `rexnote12--md` line 3409 ([on github](gh-rexnote12.md)): \"synaptic stability is a",
+    "summary": "Potassium-channel modulation in SAN, including action-potential duration, conditional synaptic consequences, and the source distinction between waveform shaping and later firing time.",
     "topic": "san",
     "tags": [
       "san"
@@ -71665,7 +71664,8 @@
       "san-knowledge-graph",
       "self-aware-networks-book-overview",
       "san-authorship-provenance-and-ai-assistance",
-      "san-wiki-evidence-to-certification"
+      "san-wiki-evidence-to-certification",
+      "san-research-history-2005-2026"
     ],
     "archivePath": "pages/san-dynamic-timeline.md"
   },
@@ -73856,7 +73856,10 @@
       "neural-lace-podcast-transcripts-2017-2019",
       "bridging-molecular-mechanisms",
       "self-aware-networks-book",
-      "selfawarenetworks-gpt"
+      "selfawarenetworks-gpt",
+      "san-research-depth-and-breadth",
+      "san-research-history-2005-2026",
+      "san-paper-series-september-2026"
     ],
     "aliases": [
       "selfaware-networks-hypothesis"
@@ -83931,7 +83934,7 @@
   {
     "slug": "umami-multi-receptor-coincidence-detection",
     "title": "Umami Receptor Diversity and Coincident Sensory Inputs",
-    "summary": "How receptor diversity in taste supports a source-faithful SAN question about distributed sensory transformations without treating one peripheral code as a complete experience.",
+    "summary": "Umami receptor diversity, potassium-sensitive action-potential duration and CALHM1/3 ATP output as linked stages in SAN's sensory-transformation argument.",
     "topic": "san",
     "tags": [
       "san"
@@ -85468,5 +85471,102 @@
       "san-dynamic-timeline"
     ],
     "archivePath": "pages/san-wiki-evidence-to-certification.md"
+  },
+  {
+    "slug": "san-research-depth-and-breadth",
+    "title": "SAN: Research Depth and Breadth",
+    "summary": "Rooted in childhood questions about consciousness, shaped by a reading quest from 1999 and a neuroscience and AI career focus from 2005: a research program with 814 external-literature DOI identifiers and 168 explained equation cards.",
+    "topic": "san",
+    "tags": [
+      "san",
+      "research",
+      "evidence",
+      "history",
+      "synthesis"
+    ],
+    "path": "/v5ma.github.io/wiki/content/san-research-depth-and-breadth.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/san-research-depth-and-breadth.md"
+    ],
+    "xrRoomId": "san-san-research-depth-and-breadth",
+    "xrDeckId": "san-reader",
+    "related": [
+      "self-aware-networks",
+      "early-san-facebook-genealogy-2010-2013",
+      "san-dynamic-timeline",
+      "phase-wave-differentials",
+      "neural-rendering",
+      "san-scale-ladder-and-claim-boundaries",
+      "action-potential-duration",
+      "sharp-wave-ripples",
+      "san-research-history-2005-2026",
+      "san-paper-series-september-2026"
+    ],
+    "aliases": [
+      "san-research-foundation",
+      "san-research-statistics"
+    ],
+    "archivePath": "pages/san-research-depth-and-breadth.md"
+  },
+  {
+    "slug": "san-research-history-2005-2026",
+    "title": "SAN: A Lifelong Research Journey",
+    "summary": "Childhood questions in the 1980s, a reading quest in 1999, a neuroscience and AI career focus in 2005, and three lifetime vows in 2012: the roots and continuing development of Micah Blumberg's SAN research program.",
+    "tags": [
+      "san",
+      "history",
+      "research",
+      "books",
+      "papers",
+      "provenance"
+    ],
+    "related": [
+      "san-research-depth-and-breadth",
+      "san-paper-series-september-2026",
+      "self-aware-networks",
+      "san-dynamic-timeline",
+      "early-san-facebook-genealogy-2010-2013",
+      "neural-lace-podcast-source-genealogy",
+      "neo-mind-cycle-neurofeedback-bci-genealogy",
+      "san-claim-genealogy-2011-2022"
+    ],
+    "topic": "san",
+    "path": "/v5ma.github.io/wiki/content/san-research-history-2005-2026.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/san-research-history-2005-2026.md"
+    ],
+    "xrRoomId": "san-san-research-history-2005-2026",
+    "xrDeckId": "san-reader",
+    "aliases": [],
+    "archivePath": "pages/san-research-history-2005-2026.md"
+  },
+  {
+    "slug": "san-paper-series-september-2026",
+    "title": "Five New SAN Research Directions: Papers 109-113",
+    "summary": "Five September 2026 preprints develop SAN through connectome-constrained modeling, multimodal composition, selective dissipation, gated plasticity, and temporal ensembles.",
+    "tags": [
+      "san",
+      "papers",
+      "research",
+      "neural-rendering",
+      "learning",
+      "temporal-ensembles"
+    ],
+    "related": [
+      "san-research-history-2005-2026",
+      "san-research-depth-and-breadth",
+      "self-aware-networks",
+      "neural-rendering",
+      "phase-wave-differentials"
+    ],
+    "topic": "san",
+    "path": "/v5ma.github.io/wiki/content/san-paper-series-september-2026.md",
+    "sourceFiles": [
+      "/v5ma.github.io/wiki/content/san-paper-series-september-2026.md"
+    ],
+    "xrRoomId": "san-san-paper-series-september-2026",
+    "xrDeckId": "san-reader",
+    "aliases": [],
+    "archivePath": "pages/san-paper-series-september-2026.md"
   }
 ]

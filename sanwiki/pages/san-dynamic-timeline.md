@@ -12,6 +12,13 @@ The **SAN Dynamic Timeline** turns the source genealogy into a navigable public 
 the changing language of Self Aware Networks across dialogues, recordings, articles, podcasts,
 Git history, videos, books, papers, and the Encyclopedia itself.
 
+The broader [[san-research-history-2005-2026|lifelong research history]] adds Blumberg's childhood
+fascination in the 1980s, the experience at sixteen, a reading quest from 1999, a neuroscience
+and AI career focus from 2005, and the three lifetime vows in 2012. It also includes a current
+Book and image census and the September 2026 papers. This interactive collection remains the preserved
+61-event public-route release; the earlier personal origin and later additions are not silently
+inserted into its reviewed data or artwork.
+
 The timeline is not a claim that every event introduced a scientifically validated mechanism. It
 separates the date of the wording from later public fixation, distinguishes ancestors from mature
 operators, and keeps source custody separate from conceptual fit.

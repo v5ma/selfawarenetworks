@@ -15,6 +15,18 @@ status: governed
 and maintain a continuously updated model of body and world, use that model to consider possible
 consequences, act, and incorporate what happens next.
 
+Blumberg traces the personal roots of this inquiry to **childhood in the 1980s**. Reading
+*Godel, Escher, Bach* in **1999** began a quest for conceptually enlightening books;
+*On Intelligence* in **2005** made neuroscience and AI his career focus, and **2012** sharpened
+that direction into three lifetime vows. The preserved public-source genealogy begins in **2010**.
+The current Book 2 has **41 Cycles**, **168
+illustrated figures**, **168 equation cards**, and a bibliography containing **814 distinct DOI
+identifiers for external literature** and **1,381 entries overall**, with dated material spanning
+**1861-2026**. See [[san-research-history-2005-2026|the lifelong research journey]] and
+[[san-research-depth-and-breadth|SAN research depth and breadth]] for the history, explanatory
+strengths, and counting method. These figures describe the scale of the synthesis, not a count
+of independent confirmations.
+
 SAN does not posit a small localized viewer standing outside neural activity. It proposes a sparse,
 distributed **observer-action function** performed by the participating network itself. Cells and
 circuits act as internal receivers and transmitters; learned structure and current state transform

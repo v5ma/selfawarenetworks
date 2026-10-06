@@ -2,6 +2,26 @@
 
 **Potassium Channel Modulation** is the [neuroscience](neuroscience.md)-side mechanism, the voltage- and ligand-gated regulation of K+ efflux through [ion channels](synaptic-ion-channel-tone.md), that the [Self-Aware Networks](self-aware-networks.md) corpus cites as one of the molecular substrates by which [synaptic](chemical-synapse.md) stability and [phase-signal](phase-signal.md) dynamics are jointly maintained. The construct sits at the intersection of [LTP](long-term-potentiation.md)-style [consolidation](memory-consolidation.md), [memory persistence](memory-persistence.md) via [KIBRA and PKMzeta anchoring](kibra-pkm-zeta-memory-anchor.md), and [metabotropic-receptor](metabotropic-signaling.md) cascades that adjust [neuron](single-neuron-phase-cascade.md) output timing.
 
+## Potassium and action-potential duration
+
+![Potassium-channel modulation, spike duration, and conditional synaptic signaling in SAN. The lower dashed path is the SAN interpretation, not a universal sensory-cell circuit.](../assets/generated/san/action-potential-duration/potassium-apd-synaptic-transformation-20260926-v4.png)
+
+Micah's [[gh-a0053z|The Phasic Tonic Relationship]] and
+[[gh-a0272z|Taste & Hearing: Sensory Input Quantification]] notes connect potassium-channel
+modulation to the **duration and shape of the action potential**, calcium-channel activity,
+transmitter release, and the pattern reaching other cells. The argument is not limited to
+whether a neuron fires, or when its next spike occurs.
+
+The illustrated cellular mechanism has specific experimental anchors: Kv1 currents shape
+repolarization in cortical axon collaterals and boutons
+([Foust et al., 2011](https://doi.org/10.1523/JNEUROSCI.2752-11.2011)); local Kv3 channel
+organization contributes to bouton-specific spike width in cerebellar stellate cells
+([Rowan et al., 2016](https://doi.org/10.1016/j.neuron.2016.05.035)). These are different channel
+and cell contexts, not one universal potassium rule. The schematic synapse is not a literal
+diagram of every sensory receptor: sensory transduction and the site of spike generation
+must be identified separately for each example. See [[action-potential-duration]] for the
+measurement definitions, calcium-dependent synaptic evidence, and SAN source genealogy.
+
 ## Origin
 
 The packet snapshot has `packet_path = null` because the live JSON has been rotated. Evidence preserved from the prior Lane C template includes one substantive Lane A passage at `rexnote12--md` line 3409 ([on github](gh-rexnote12.md)): "synaptic stability is achieved through repeated cycles of vesicle release, potassium channel modulation, and calcium influx. The stability provided by KIBRA anchoring PKMzeta at specific [synapses](synapse.md)..." That passage treats potassium-channel modulation as one component in a [vesicle-release](synaptic-vesicle-release.md), K+-modulation, and [Ca2+-influx](gh-a0138zcalcium.md) cycle that produces [persistent synaptic stability](memory-persistence.md) when paired with [KIBRA and PKMzeta anchoring](kibra-pkm-zeta-memory-anchor.md). The cleanest connection to the wider SAN [phase-signal](phase-signal.md) picture appears on the [phase-signal](phase-signal.md) page, where `a0272z--md` line 39 describes "metabotropic receptors might modulate the ionotropic receptors via the cAMP cascade, perhaps releasing potassium from the cell faster, and that is how they modulate the [phase signal](phase-signal.md) output of the neuron." Mainstream chronological priority for potassium-channel modulation belongs to the molecular [neuroscience](neuroscience.md) tradition: Hodgkin and Huxley described the [K+ current](action-potential.md) in 1952, K+ channel families were characterized from the 1980s onward, and modulatory-cascade literature developed around [cAMP](camp-neural-phase-modulation.md) and [PKA signaling](camp-neural-phase-modulation.md). SAN's contribution is to bind the molecular mechanism to the [phase-signal](phase-signal.md) output of the [neuron](single-neuron-phase-cascade.md) and to the [memory-persistence](memory-persistence.md) story via KIBRA and PKMzeta.

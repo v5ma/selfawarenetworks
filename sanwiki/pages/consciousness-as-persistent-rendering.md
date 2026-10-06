@@ -35,6 +35,12 @@ A persistent-rendering model should declare what content is maintained, where it
 
 The 2025 COGITATE study found sustained content-related responses in occipital and lateral temporal cortex while also challenging key maintenance predictions of both IIT and GNWT. This supports careful, content-specific testing rather than one universal persistence mechanism ([Nature, 2025](https://doi.org/10.1038/s41586-025-08888-1)).
 
+## Persistence And Recovery Under Anesthesia
+
+The [[conscious-state-perturbation-tomography|2026 cross-species anesthesia comparison]] gives this proposal a concrete loss-and-recovery setting. Micah's [[gh-b0232y|original anesthesia note]] joins recurring patterns over time with feedback across space. Within that argument, persistence means continued availability for transformation by the receiving network, including sensory, thought and action-related updates.
+
+A SAN experiment can therefore ask whether receiver-relative PWD variables predict which distinctions remain causally available, and how that availability returns during recovery. The linked review distinguishes the measured timescales and coordination from the further cellular and directional tests needed for this question.
+
 ## Read next
 
 - [[temporal-dynamics-of-awareness|Temporal Dynamics of Awareness]]

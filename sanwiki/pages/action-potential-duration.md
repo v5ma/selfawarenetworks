@@ -7,11 +7,21 @@ measure different properties.
 
 > **Scientific boundary:** Presynaptic spike duration and shape can alter calcium entry and transmitter release. They do not establish a universal APD code, a deterministic vesicle-count alphabet, or a direct APD-to-consciousness mechanism. SAN treats receiver-decodable information in waveform variation as a circuit-specific hypothesis.
 
-> **Image status:** The current replacement is retained as a candidate. Its conditional structure has passed internal source-operation inspection, but final medical acceptance remains pending independent specialist review across cellular neurophysiology, synaptic physiology, neuroanatomy, and medical illustration. It separates somatic from bouton measurement, APD from the full waveform, calcium transformation from probabilistic release, and presynaptic waveform from receiver-specific consequence. The earlier deterministic 0/1/2/3 plate is preserved outside the public build in the medical-review quarantine.
+![Potassium-channel state shapes repolarization and action-potential duration; terminal waveform can alter calcium entry and transmitter release. The lower band identifies SAN's proposed sensory-input-to-receiver interpretation.](../assets/generated/san/action-potential-duration/potassium-apd-synaptic-transformation-20260926-v4.png)
 
-![Action-potential duration is one waveform coordinate in a conditional synaptic transformation](../assets/generated/san/action-potential-duration/action-potential-duration-waveform-to-conditional-release-20260720-v1.png)
+> **Figure scope:** A neuronal membrane and chemical synapse are illustrated schematically, not to anatomical scale. The spikes compare width only and are not recordings. Potassium efflux, calcium influx, and vesicle fusion are distinct events; neither a fixed vesicle count nor a universal relation between spike width and release is implied. The dashed lower path identifies the SAN interpretation.
 
-> **How to read the figure:** The traces, calcium domains, and release distributions are illustrative, not measurements from one experiment. The figure's claim is conditional: changing a terminal waveform can change calcium and release, but known bouton and receiver variables can produce different consequences from similar APD values or overlapping consequences from different APD values.
+The potassium-to-APD connection is central to Micah's [[gh-a0053z|The Phasic Tonic Relationship]]
+and [[gh-a0272z|Taste & Hearing: Sensory Input Quantification]] notes: input-dependent channel
+modulation can change repolarization, the duration and shape of an action potential, and its
+downstream synaptic consequences. This preserves the waveform part of the argument rather than
+reducing potassium modulation to the timing of the next spike. Experimental anchors include
+[[potassium-channel-modulation|Kv1-dependent control in cortical axon compartments]]
+([Foust et al., 2011](https://doi.org/10.1523/JNEUROSCI.2752-11.2011)),
+local Kv3-dependent spike-width variation in cerebellar stellate-cell boutons
+([Rowan et al., 2016](https://doi.org/10.1016/j.neuron.2016.05.035)), and the calcium-dependent
+synaptic consequences of presynaptic voltage state
+([Shu et al., 2006](https://doi.org/10.1038/nature04720)).
 
 ## Keep five durations separate
 

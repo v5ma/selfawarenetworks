@@ -2,11 +2,15 @@
 title: "Umami Receptor Diversity and Coincident Sensory Inputs"
 tags: [san, taste, receptors, sensory-transduction, coincidence-detection]
 aliases: [Umami Multi Receptor Coincidence Detection]
-summary: "How receptor diversity in taste supports a source-faithful SAN question about distributed sensory transformations without treating one peripheral code as a complete experience."
+summary: "Umami receptor diversity, potassium-sensitive action-potential duration and CALHM1/3 ATP output as linked stages in SAN's sensory-transformation argument."
 status: governed
 ---
 
 # Umami Receptor Diversity and Coincident Sensory Inputs
+
+![Umami reception, sodium and potassium contributions to spike duration, and channel-mediated ATP output to a gustatory nerve](/v5ma.github.io/wiki/assets/generated/san/umami-multi-receptor-coincidence-detection/umami-potassium-apd-atp-t15-20260927.png)
+
+The three panels follow reception, electrical transformation and output. The anatomical insets use separate magnifications; the normalized spike curves illustrate duration rather than reproduce recordings. Colored ions, transmitter symbols and channel shapes are explanatory graphics, not molecular structures or calibrated concentrations. This figure carries the corrected Book 2 explanation into the Wiki.
 
 Umami detection is not exhausted by one receptor type. Work cited in `a0272z.md` describes evidence
 that multiple receptor families and different taste-cell subsets can contribute to umami responses.
@@ -25,19 +29,33 @@ and taste-cell responses can contribute partial information to an afferent pathw
 demonstration that a taste bud performs cortical COT, that peripheral cells bind a full conscious
 object, or that all cell populations oscillate together in one shared way.
 
-The source-faithful SAN question is whether receptor diversity, cellular state, downstream timing,
-and later network context provide a richer account of sensory discrimination than a one-receptor or
-one-scalar description. That is a hypothesis about linked transformations across levels, not a claim
-that every sensory quality is already specified at the receptor sheet.
+The source-faithful SAN question is whether receptor diversity, cellular state, potassium-sensitive
+action-potential duration, downstream transmission and later network context provide a richer
+account of sensory discrimination than a one-receptor or one-scalar description. The original
+[[gh-a0272z|Taste and Hearing note]] explicitly asks how intracellular signaling can change potassium
+and calcium channels, output duration and the effects passed to later receivers. Reducing that
+argument to receptor diversity or spike timing alone loses a central proposed transformation.
+
+## Potassium, APD and ATP output
+
+1. **Receive and depolarize.** In the illustrated type-II taste-cell route, umami-related GPCR signaling recruits intracellular calcium release and depolarization. The intracellular calcium store and the eventual output channel have different roles.
+2. **Shape the action potential.** Sodium and potassium conductances contribute to the waveform. [Ma, Paudel and Foskett (2023)](https://pubmed.ncbi.nlm.nih.gov/37273235/) recorded temperature-dependent changes in spike properties and voltage-gated conductances in isolated mouse type-II taste cells. Warmer conditions produced shorter spikes in the tested range. The figure's equal-height curves are an explanatory width comparison; warming was not a potassium-only intervention.
+3. **Pass ATP to the next receiver.** The output of this cell type uses voltage-gated CALHM1/3 channels. [Ma et al. (2018)](https://pubmed.ncbi.nlm.nih.gov/29681531/) identified the fast channel mechanism and tested its contribution to GPCR-mediated taste signaling in mice. ATP reaches purinergic receptors on a separate gustatory nerve ending.
+4. **Test the joined SAN relation.** Measure how a change in potassium-related state and APD affects ATP output, afferent activity and subsequent discrimination, alongside spike count and timing. The APD experiment and the CALHM experiments supply different parts of that chain; the complete duration-to-perception relation requires its own test.
+
+The question therefore survives the cell-specific anatomy: what information does a changed duration
+make available to the next receiver, under which conditions? A conventional neuron's calcium-dependent
+vesicle release and a type-II taste cell's ATP-channel output are distinct implementations to examine.
+See [[action-potential-duration]] and [[potassium-channel-modulation]].
 
 ## The transduction boundary
 
 Taste transduction is cell-type- and receptor-specific. Some umami pathways use G-protein-coupled
 receptors and intracellular signaling; Type II taste cells can release ATP through CALHM-family
-channels. These mechanisms should not be collapsed into a generic sequence of cAMP change ->
-potassium-channel duration -> action-potential duration -> vesicle count. The 2022 source was asking
-whether intracellular state could shape later output; the medically defensible version is that the
-route, transmitter, and output mode must be measured for the named taste-cell preparation.
+channels. A route through potassium-sensitive waveform changes must identify the receiving cell,
+its channel state and its actual output mechanism. The original source explores both potassium- and
+calcium-channel modulation and asks whether different terminals can transform output differently.
+The type-II taste example keeps that state-to-output question while specifying ATP-channel release.
 
 The rat outer-hair-cell cAMP/gating-spring finding is a distinct auditory result, not proof of an
 identical umami cascade. See [[auditory-gating-spring-camp|Auditory Gating-Spring Modulation]] for

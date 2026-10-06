@@ -1,40 +1,31 @@
-![Dendritic Leaky-Membrane Coincidence Filter](/v5ma.github.io/wiki/assets/generated/san/dendritic-leaky-membrane-coincidence-filter/dendritic-leaky-membrane-coincidence-filter-20260628-v2.png)
+![Dendritic coincidence filtering: attenuating subthreshold influence, conditional local active events, and SAN's receiver-relative interpretation](/v5ma.github.io/wiki/assets/generated/san/dendritic-leaky-membrane-coincidence-filter/dendritic-coincidence-filter-reviewed-20260926-v4.png)
 
-This page-specific SAN image isolates the core mechanism: membrane leak dissipates an isolated dendritic input, while coincident inputs arriving inside the same narrow temporal window sum above a branch-local threshold and propagate as a local dendritic spike.
+The figure distinguishes passive spread from conditional active amplification. It shows an excitatory-input example in a generic pyramidal dendrite, not a recording, a universal threshold, or a fixed number of inputs required for a spike. Inhibition and other changes in membrane state also shape the receiver's response.
 
-Dendrites act as **coincidence filters** because their membranes are leaky: a single
-arriving phase signal dissipates before it can propagate unless a coinciding signal
-arrives within the same narrow temporal window. The leaky membrane is therefore the
-physical basis of [[coincidence-detection-neural-bit|coincidence detection]], not a
-design flaw to be overcome.
+In SAN, **dendritic coincidence filtering** connects the timing and arrangement of incoming activity to the receiver's ongoing state and learned response criteria. Membrane leak contributes to this operation, alongside dendritic geometry, receptor kinetics, active conductances, inhibition and recent activity. It is not a rule that a lone input disappears without influencing the rest of the cell.
 
 ## Mechanism
 
-1. A synapse fires, injecting a phase signal into a dendritic branch.
-2. The membrane leaks the charge over time — without a coincident input, nothing
-   propagates toward the soma.
-3. When two or more phase signals arrive near-simultaneously, the combined charge
-   exceeds the leak rate and propagates as a local dendritic spike.
-4. Many simultaneous dendritic spikes summate at the soma. When summed input crosses
-   the soma's firing threshold, a burst event occurs.
+1. Presynaptic release and postsynaptic receptor activation change local conductance and membrane potential. The transmitter and the ionic current are different parts of the transformation.
+2. A subthreshold potential can spread electrotonically along a dendrite while attenuating. Membrane conductance and capacitance help shape its time course; subthreshold does not mean no propagation or no computation.
+3. Inputs interact according to their locations, timing, strength and the branch's physiological state. Sufficient drive can recruit active dendritic conductances and produce a local regenerative event. There is no universal two-input minimum or fixed coincidence window.
+4. Dendritic activity can influence somatic voltage and axonal output. Local dendritic spikes, axon-initial-segment action potentials and bursts are distinct events; one does not guarantee the next.
 
-## Soma burst as a percentage readout
+[Polsky, Mel and Schiller (2004)](https://doi.org/10.1038/nn1253) demonstrated branch-dependent nonlinear integration in rat neocortical pyramidal neurons. [Nevian et al. (2007)](https://doi.org/10.1038/nn1826) directly measured strong EPSP attenuation and local active events in rat layer-5 basal dendrites. These are preparation-specific examples of passive and active integration, not evidence for one universal dendritic algorithm.
 
-The burst event encodes a *percentage* of pattern match: the neuron's synaptic
-configuration represents a stored template, and the burst's rate or timing signals
-roughly what fraction of that template's features were simultaneously active in the
-current moment. A high-rate burst ≈ "80% pattern match"; a weak burst ≈ "30%."
+## Pattern matching and the original argument
 
-This is a continuous confidence signal, not a binary spike, consistent with
-[[action-potential-waveform-encoding]] and [[napot]]'s oscillatory interpretation
-of spiking.
+The historical [[gh-a0209z|May 29, 2018 SAN source and its appended clarifications]] describes dendritic structure and threshold criteria as a way for incoming relations to affect later responses. The full argument explicitly allows meaningful computation below the threshold for an axonal spike; it does not identify one spike with one bit. That context is essential to [[coincidence-detection-neural-bit|the SAN coincidence proposal]].
+
+The pattern-match interpretation asks whether learned connectivity and current state let a receiver distinguish how well incoming activity fits a learned relation. Timing, waveform, event count and downstream synaptic transformation can contribute; the response need not be a binary readout. This connects to [[action-potential-waveform-encoding]] and [[napot]].
+
+Earlier wording on this page used "80%" and "30%" as pattern-match examples. No calibrated response-to-percentage mapping was supplied. They must not be read as experimental measurements, a universal burst code, or a quotation established by the source above. Testing a quantitative confidence interpretation requires a specified template, feature set, receiver, response variable and independent decoder comparison.
 
 ## Relation to SAN
 
-This mechanism is the cellular implementation of the prediction-matching described
-in [[napot]]. The stored synaptic pattern IS the neuron's prediction; the burst
-IS the prediction error (or confirmation) signal. [[Dendritic-compartmentalization]]
-allows multiple independent predictions to run in parallel within a single cell.
+SAN proposes that these state-dependent cellular transformations contribute to larger-scale prediction, rendering and recurrent use. A synaptic configuration can be modeled as a learned criterion; identifying a response as prediction error or confirmation requires showing what is predicted, what is compared, and how a downstream receiver uses that distinction. It is not established simply by observing a burst.
+
+[[Dendritic-compartmentalization]] provides a biological basis for partly local integration, while the interpretation of compartments as parallel prediction operations remains a SAN model to test. Excitation, inhibition and their interactions can all change receiver state relative to an ongoing tonic context, connecting this page to [[phase-wave-differentials]].
 
 ## Outbound links
 
@@ -42,4 +33,4 @@ allows multiple independent predictions to run in parallel within a single cell.
 - [[dendritic-compartmentalization]] — how the same cell runs multiple filters in parallel
 - [[napot]] — oscillatory framework where this filtering implements perception
 - [[neural-anti-bit]] — the splay state as the failure to trigger the leaky membrane
-- [[action-potential-waveform-encoding]] — how the burst encodes analog confidence
+- [[action-potential-waveform-encoding]] — waveform and downstream transformation as candidate contributors to a graded response

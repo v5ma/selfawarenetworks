@@ -14,6 +14,10 @@ The **Gamma Consideration Sandwich (GCS)** is SAN's functional model for coordin
 
 ## The original SAN metaphor
 
+![Anatomical layer order and SAN's proposed sensory/thought, consideration, action and return relationships](../assets/generated/san/gamma-consideration-sandwich-diagram/gcs-laminar-anatomy-wiki-20260927-v1.png)
+
+The cortical patch shows anatomical superficial-to-deep order; the sandwich describes functional order. Large arrows are proposed relationships, not traced axons. The movement, bat-call and human EEG insets are separate comparisons, not evidence for one complete measured circuit. See [[gamma-consideration-sandwich-diagram|the illustrated guide]] for the anatomical limits, exact studies and historical attribution.
+
 The SAN vocabulary groups three functional levels and a recurrent return:
 
 | SAN component | Intended role | Medical boundary |
@@ -99,7 +103,11 @@ GCS becomes clearer when the SAN **tonic canvas / phasic ink** distinction is ke
 
 Miller Lab studies provide a close but bounded comparison with GCS. In macaque prefrontal cortex, spatial alpha/beta patterns changed with task context and were inversely related to where content-related spiking was expressed, leading the authors to describe the oscillations as inhibitory spatial "stencils" ([Chen et al., 2026](https://doi.org/10.1016/j.cub.2025.11.072)). In frontal eye field, working-memory readout varied with theta phase and target location, consistent with a spatially organized sampling process ([Han et al., 2026](https://doi.org/10.1016/j.neuron.2025.09.031)). These results support preparation-specific oscillatory gating of cortical space and readout. They do not establish GCS's historical sensory-thought-action assignment, a universal layer/band map, tonic canvas and phasic ink as fixed frequency bands, or the complete SAN observer-action mechanism.
 
-## What would test the proposal
+## Task-Stage Network Reconfiguration
+
+The [[beta-wave-cognitive-output|2026 CA1-PFC task-stage study]] adds a concrete comparison for GCS's contextual-input role. SAN's question is how changing network participation affects consideration and the next action-feedback cycle. The linked article explains the measurements and their experimental scope alongside the original beta/top-bun interpretation.
+
+## What Would Test The Proposal
 
 A useful GCS experiment must name the circuit, layers, task, behavioral variable, frequency range, and direction of influence. It should test whether phase- or band-specific coupling predicts and causally changes sensorimotor updating after controlling for firing rate, broadband power, movement, common input, arousal, and connectivity. A finding that gamma, beta, or alpha changes with a task is not enough by itself.
 

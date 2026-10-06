@@ -1,23 +1,20 @@
 ---
-title: "Gamma Consideration Sandwich Figure Specification"
-tags: [san, gamma-consideration-sandwich, medical-figure, image-prompt, sensorimotor-loop]
+title: "Gamma Consideration Sandwich Diagram"
+tags: [san, gamma-consideration-sandwich, medical-figure, sensorimotor-loop]
 aliases: [Gamma Consideration Sandwich Diagram, GCS Diagram]
-summary: "A source-bounded specification for a future medically accurate GCS figure showing the alpha/beta top bun, Layer-2/3 gamma middle, and Layer-5 theta/gamma action-and-body bottom bun; no accepted figure currently exists and image generation is paused."
-status: figure-specification-generation-paused
+summary: "An illustrated guide to SAN's sensory/thought intake, gamma consideration, and action/body-return proposal, with cortical anatomy and separate experimental comparisons."
+status: reviewed-bounded-scientific-illustration
 ---
 
-# Gamma Consideration Sandwich Figure Specification
+# Gamma Consideration Sandwich Diagram
 
-No medically reviewed Gamma Consideration Sandwich figure is currently accepted for publication.
-This page preserves the historical visual idea while preventing an unsupported frequency-layer
-diagram from being mistaken for anatomy.
+![SAN Gamma Consideration Sandwich: cortical layers, proposed functional roles, action and return, with separate experimental comparisons](../assets/generated/san/gamma-consideration-sandwich-diagram/gcs-laminar-anatomy-wiki-20260927-v1.png)
+
+The image separates anatomical depth from functional order. Cortical layers run from the pial surface through Layers 1, 2/3, 4, 5 and 6 to white matter. The sandwich instead groups two intake contributions, consideration, and action with returned body information. Its middle is functional: Layer 2/3 is anatomically superficial to Layer 4, not physically between Layers 4 and 5.
 
 > **Mechanism article:** [[gamma-wave-consideration-sandwich|Gamma Wave Consideration Sandwich]]
 >
 > **Historical formulation:** [[consideration-sandwich|Consideration Sandwich]]
->
-> **Prompt ID:** `IMG-SAN-GCS-TRAFFIC-AND-REAFFERENCE-001`
-> **Generation state:** paused
 
 ## What the historical figure was trying to say
 
@@ -42,56 +39,23 @@ movement, vocalization, autonomic change, and world consequence -> next cycle
 These are GCS's defined functional roles, but they are not exclusive band identities or one universal
 cortical anatomy. The image must preserve both facts at once.
 
-## Required figure design
+## Reading The Anatomy And Arrows
 
-Create one 16:9 medical-neuroscience plate centered on the sandwich, with medically grounded route
-insets:
+The enlarged patch illustrates granular neocortex, not a measured section or the histology of the precise spot marked on the person's head. Cell types, laminar thickness and the prominence of Layer 4 vary by area. The pyramidal cells, stellate cells and superficial interneurons are explanatory examples, not a quantitative census.
 
-1. **Top bun - two distinct inputs.** On the sensory side, show alpha-associated activity in a named
-   primary sensory pathway and its thalamorecipient cortical population. On the thought side, show
-   beta-associated activity in a named prefrontal/top-down pathway. Both arrows point into the
-   consideration stage. Do not collapse alpha and beta into the same semantic role.
-2. **Middle - Layer 2/3 gamma.** Show anatomically plausible superficial excitatory and inhibitory
-   populations coordinating sensory evidence, thought, and current body-state relations. Label this
-   **SAN proposal: consideration and proprioceptive coordination**. Use small measured phase traces
-   beside the circuit, not glowing free-floating waves.
-3. **Bottom bun - Layer 5 theta/gamma action and body return.** Show Layer-5 corticofugal output into a
-   declared motor or vocal route. Show returned proprioceptive/body information arriving through its
-   established ascending route and re-entering a named receiving cortical population. If local PV
-   interneurons are included, place them inside that receiving circuit as inhibitory timing elements
-   that may shape gamma organization after the afferent signal arrives. The visual grammar may group
-   output and return within the bottom-bun function, but it must preserve their opposite directions
-   and distinct cell populations: Layer-5 output neurons, peripheral receptors and afferents, and
-   local PV interneurons are not interchangeable.
-4. **Closed observer-action cycle.** Carry the selected route through only the named premotor, motor,
-   basal-ganglia, cerebellar, brainstem, spinal, and peripheral systems justified by the example.
-   Return body and environmental consequences to the next cycle. No inner viewer appears.
+The large colored arrows show proposed functional relationships. They are not traced axons, nor do they imply that all prefrontal input terminates in Layer 4. The action and return arrows have opposite directions. Their grouping beside Layer 5 does not make a corticofugal output neuron into an ascending proprioceptive afferent. The distributed spinal, brainstem, cerebellar, thalamic and cortical routes are abbreviated, not replaced by a direct hand-to-neuron connection.
 
-Include a small label: **"SAN functional mapping; bands and laminar motifs are not exclusive or
-universal."** If a granular Layer-4 input is shown, identify the cortical area; do not give every
-prefrontal or motor area an obligatory granular Layer 4.
+The thalamic symbol represents reciprocal cortical interaction at a separate scale. It is not drawn to anatomical scale or registered beneath the depicted cortical patch. Layer 6 corticothalamic projections are one part of this interaction; the overview arrows do not specify every thalamocortical termination. [Prasad, Carroll and Sherman (2020)](https://doi.org/10.1523/JNEUROSCI.0529-20.2020) separately examine Layer-5 corticofugal projections across cortical areas.
 
-## Visual evidence key
+The movement sequence is conceptual and overlapping. Its wave sketches are not measured traces. The depicted person illustrates a task, not a homunculus or an exclusive consciousness location.
 
-- Solid anatomical arrows: pathways supported for the declared circuit and preparation.
-- Dashed functional arrows: measured effective influence or coupling.
-- Fine dotted overlays: SAN hypotheses such as receiver-relative PWD, GCS timing, and selective
-  conscious joining.
-- Neutral gray: latent learned substrate and candidate routes.
-- Restrained color: active evidence, selected route, inhibition, and returned consequence.
+## What The Experimental Insets Establish
 
-## Prohibited implications
+**Bat vocal studies.** Weineck and colleagues recorded frontal and striatal activity around echolocation and communication calls. Relationships depended on frequency, location and call type. A separate study by Garcia-Rosales and colleagues estimated changing directionality between frontal auditory field and auditory cortex around echolocation. These are different experiments, not one traced SAN circuit. The depicted flying animal is an illustration, not the recording setup. [Weineck et al. (2020)](https://pubmed.ncbi.nlm.nih.gov/32191695/); [Garcia-Rosales et al. (2022)](https://doi.org/10.1038/s41467-022-31230-6).
 
-The figure must not depict or imply:
+**Human action-boundary waves.** Luo and Ester reanalyzed human working-memory EEG data. They identified posterior-to-anterior activity at 2-6 Hz near response initiation and anterior-to-posterior activity at 14-32 Hz after termination. In their second experiment, the wave patterns were not detected in the preparation interval before participants were allowed to respond, but appeared in the response period. This was not a universal claim about all preparation or all movement, nor a measurement of the figure's layer assignments. [Luo and Ester (2025)](https://doi.org/10.1073/pnas.2415573122).
 
-- alpha, beta, gamma, or theta has its GCS role exclusively in every circuit or task;
-- one universal six-layer cortical algorithm;
-- PV interneurons as ascending peripheral proprioceptive afferents;
-- Layer-5 corticofugal neurons as the direct ascending carrier of peripheral body input;
-- one consciousness center, inner viewer, or literal screen;
-- coherence, anticorrelation, gamma power, or one threshold as sufficient for conscious entry;
-- one generic neuron directly connecting sensory, prefrontal, and motor systems;
-- gamma-band sandwiches as elementary NAPOT units or as a scale-invariant established structure.
+These observations provide component comparisons for SAN's preparation, action and return account. The GCS sensory/thought/consideration mapping is the proposal being explained, not a conclusion established by combining the insets.
 
 ## Source and review boundary
 
@@ -104,9 +68,7 @@ publicly fixed January 21, 2025, and the exact GCS name appears in
 publicly fixed February 21, 2025 local time / February 22 UTC. Diagram-specific February-May 2025
 source files remain unverified; no date or wording from them is asserted here.
 
-Before installation, the image requires independent review for neuroanatomy, proprioceptive and
-motor pathways, oscillation language, consciousness inference, SAN source fidelity, and visual
-legibility. A visually polished image is not accepted evidence.
+This Wiki edition adapts the corrected Book 2 T15 illustration. Its human-wave wording distinguishes preparation periods from separate trial types. The historical source dates above belong to the textual formulations, not to this later image. Biological review is bounded to the anatomical and physiological statements explained here; the image is not clinical accreditation or experimental confirmation of the complete SAN theory.
 
 ## Read next
 

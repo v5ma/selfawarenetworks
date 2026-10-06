@@ -8,9 +8,15 @@ status: governed
 
 # Phase-Wave Differentials
 
-> **PWD is a core SAN concept, not a secondary concept. Image status:** The exact installed PWD core-concept plate below is admitted only under its hash-bound independent source-faithful medical-art review and is medically certified for bounded SAN project use; this is not clinical or regulatory approval. Any pixel, label, caption, or claim-scope change requires a fresh review before release. The historical 2026 plate remains quarantined in the non-reader `archive-do-not-use-medical-review/br005-pwd-20260808` folder and must not appear in a reader or public projection.
-![PWD is a core SAN concept, not a secondary concept. The plate shows a declared receiver-relative tonic reference; coequal excitatory, inhibitory, and interaction departures; bounded generic neocortical route grammar; measurable consequences; and a controlled causal test.](assets/generated/san/phase-wave-differentials/san-pwd-tonic-differential-plate-001.png#compact-html)
-## What the rejected figure was trying to say
+**PWD is a core SAN concept.** It concerns the consequential difference from an ongoing tonic pattern, including excitation, inhibition, timing, and their interactions.
+
+![Phase-wave differentials: compare changed activity with a tonic reference, follow excitatory and inhibitory synaptic routes, and distinguish possible receiver consequences. A context-dependent potassium-to-spike-duration-to-release route is one cellular example.](assets/generated/san/phase-wave-differentials/phase-wave-differentials-concept-20260926-v2.png)
+
+**Figure scope:** The traces are illustrative activity, not recorded voltages or a claim that wave polarity identifies a cellular mechanism. The circuit is one schematic excitatory-pyramidal / inhibitory-interneuron example, not a universal cortical circuit. Recruitment, suppression, timing and readiness depend on connection, receptor and receiver state. The potassium/AP-duration/calcium-release sequence is context-dependent; it is not the mechanism of every inhibitory or sensory response. The lower SAN statement identifies the proposed rendering, memory and action connection separately from measured component mechanisms.
+
+The [detailed PWD operational plate](assets/generated/san/phase-wave-differentials/san-pwd-tonic-differential-plate-001.html) remains available as a companion, including its declared causal-test framework. Its prior hash-bound source-faithful medical-art review applies only to that unchanged plate, not to this new introductory figure. The new figure has its own September 26, 2026 source, biology and native-size review. Neither review constitutes clinical or regulatory approval. The older rejected plate in `archive-do-not-use-medical-review/br005-pwd-20260808` remains excluded from the reader.
+
+## The source-faithful concept
 
 The recoverable SAN idea is that an ongoing [[tonic-phasic-phase-wave-differential|tonic context]]
 defines a receiver's current readiness, while phasic changes can alter a named downstream receiver.

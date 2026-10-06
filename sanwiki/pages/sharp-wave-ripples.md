@@ -54,7 +54,17 @@ partial cue or learned local state
 
 The source describes episodic memory as a spatially and temporally organized reconstruction involving more than one sensory modality. That preserves the medically plausible core of the older "volumetric memory movie" language without claiming that one SWR contains a literal video or that every recalled feature is veridically replayed.
 
-## Later SAN extensions, kept in date order
+## Awake Ripples In Nested Cortical Rhythms
+
+[Lim and Zhang's 2026 preprint](https://www.biorxiv.org/content/10.64898/2026.09.29.754885v1), *Awake sharp-wave ripples coincide with rhythmic cortical synchronization*, adds a relevant comparison. Its abstract reports an analysis of the Allen Visual Coding Neuropixels dataset: awake, immobile mice exhibited approximately 5 Hz visual-cortical synchronization. During rhythmic bouts, cortical bursts coincided with changes in SWR and dentate-spike occurrence and SWR properties. These events also coordinated with slower pupil-size fluctuations. The approximately 5 Hz rhythm describes cortical synchronization, rather than the much faster oscillation within an individual ripple.
+
+This strengthens the distributed-context part of [[gh-a0309z|the original SAN SWR argument]]: a local high-phasic event participates in larger, temporally organized network activity, and its significance depends on the connected system. It also enriches the tonic-reference/PWD question. The reference state can include rhythms at several timescales; a ripple's consequence should be examined relative to that state, rather than described only by its local waveform.
+
+The reported relationship leaves causal direction to be resolved. SAN's proposed excitation, inhibition, AP-duration and downstream transformation chain requires measurements appropriate to those operations. This preprint's abstract establishes neither the content of a recalled episode nor that a ripple initiates the surrounding rhythm. A useful next test would ask whether cortical phase and slower state variables improve prediction of receiver recruitment and memory behavior beyond ordinary SWR measures.
+
+**Review scope, October 2, 2026:** bibliographic metadata and abstract verified through the primary bioRxiv API. Version 1 is posted September 30, 2026; the September 29 string belongs to its DOI. Full methods and figures remain awaiting access. The host returned errors for the HTML, XML and PDF routes during this review.
+
+## Later SAN Extensions, Kept In Date Order
 
 - **November 28, 2022, [[gh-a0325znapot6|NAPOT 6]]:** proposes that sparse neuron-glia-scale PWD events can recruit bursts, ripples, and inhibited arrays, with persistent or dominant population patterns contributing to thought, emotion, sensation, and movement.
 - **January 4, 2023, [[gh-00abstractbump|retrospective source map]]:** associates an October 2021 sequence-selection note with SWRs and Memory Prediction Rendering Sequences. The surviving 2021 transcript contains the map, attention, inhibition, and sequence-selection precursor, but not explicit SWR terminology; the SWR label is therefore not backdated to 2021.

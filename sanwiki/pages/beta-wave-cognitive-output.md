@@ -48,7 +48,17 @@ do not establish one universal beta code, make every thought a beta event, or pr
 operator. A GCS test must identify the prefrontal population, receiving circuit, direction of
 influence, task epoch, beta event, gamma response, body-state variable, and action consequence.
 
-## Related concepts
+## Task-Stage Coordination In The Hippocampal-Prefrontal Network
+
+[Toptaş and colleagues (2026)](https://doi.org/10.1152/jn.00232.2026) recorded CA1 and prefrontal LFPs and single units during an odor-guided choice task in five rats. Cue sampling showed stronger CA1 low-beta power and increased CA1-PFC low-beta coherence. Goal attainment showed stronger PFC high-beta power, without the same coherence increase. Beta phase modulation also differed by region and stage.
+
+The result strengthens SAN's [[neural-tuning|state-dependent network account]]: the same anatomical regions can participate in different functional arrangements as sensory sampling gives way to outcome-related processing. Oscillatory organization is therefore richer than a single amount of beta activity. Region, task stage, phase relation and participating population matter together.
+
+For [[gamma-wave-consideration-sandwich|GCS]], this supplies a useful comparator for changing contextual participation. The experiment measures beta dynamics rather than the complete sensory/thought intake, gamma consideration and action/body-return mapping. Its recorded associations motivate tests of how changing phase relationships alter what a receiver does; they do not establish beta as a causal switch through intervention.
+
+See [[sharp-wave-ripples|the newer nested-rhythm SWR comparison]] for another way local events participate in a larger network state.
+
+## Related Concepts
 
 - [[brain-rhythms]] — the umbrella concept under which beta sits as one band among many.
 - [[neural-oscillation-hierarchy]] — places beta inside an ordered hierarchy of oscillations.
