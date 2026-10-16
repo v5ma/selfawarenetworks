@@ -1,0 +1,2725 @@
+{
+  "schema": "bach-public-candidate-reader-v3",
+  "status": "SOURCE-REVIEWED-BOUNDED-EDITION",
+  "title": "Micah Blumberg / SAN compared with Joscha Bach and CIMC",
+  "method_version": "1.5.6",
+  "method_manifest_sha256": "5C588C5D51B0985DD9673D822B2ED71087717A6623A2DF6C26DB04C0B99CA8BD",
+  "sources": {
+    "SC": {
+      "id": "SC",
+      "sha256": "93DBDD3104CD751CC72448B0C4DC44730FB54996BFD90E5BB0E1E544E55B9DAF",
+      "commit": "37da575ba33f85cef4239295be161066d8d39f4c",
+      "path_at_commit": "a0090z ctpr.txt",
+      "git_author_date": "2022-06-08T18:32:00-07:00",
+      "git_committer_date": "2022-06-08T18:32:00-07:00",
+      "date_type": "git-recorded historical fixation",
+      "current_public_bytes_verified": true,
+      "first_public_push_independently_verified": false,
+      "custody_grade": "A-",
+      "title": "Self-communication and learned neural paths",
+      "url": "https://github.com/v5ma/selfawarenetworks/blob/37da575ba33f85cef4239295be161066d8d39f4c/a0090z%20ctpr.txt",
+      "date_boundary": "The exact wording is in a public immutable commit with the stated Git dates. First-public-push date has not been independently archived in this review."
+    },
+    "CP": {
+      "id": "CP",
+      "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+      "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+      "path_at_commit": "a0319z.md",
+      "git_author_date": "2022-11-28T18:09:11-08:00",
+      "git_committer_date": "2022-11-28T18:09:11-08:00",
+      "date_type": "git-recorded historical fixation",
+      "current_public_bytes_verified": true,
+      "first_public_push_independently_verified": false,
+      "custody_grade": "A-",
+      "title": "Computational Phenomenological Consciousness",
+      "url": "https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0319z.md",
+      "date_boundary": "The exact wording is in a public immutable commit with the stated Git dates. First-public-push date has not been independently archived in this review."
+    }
+  },
+  "targets": {
+    "MCH": {
+      "id": "BACH-T06-MCH-2025-2026",
+      "title": "The Machine Consciousness Hypothesis",
+      "url": "https://cimc.ai/cimcHypothesis.pdf",
+      "version_date": "2026-01-15",
+      "initial_document_date": "2025-09-15",
+      "date_label": "Revised January 15, 2026; document first dated September 15, 2025",
+      "date_boundary": "These passages are bound to the captured January 2026 revision, not silently assigned to the September 2025 version.",
+      "authors": [
+        "Joscha Bach",
+        "Hikari Sorensen"
+      ],
+      "occurrences": {
+        "A11": {
+          "pages": [
+            16
+          ],
+          "anchor": "pattern within a substrate",
+          "plain": "A representation is an implemented pattern interpreted through a suitable mechanism.",
+          "limit": "Structural invariances characterize representations; this is not a theorem that all transformations preserve them.",
+          "id": "BACH-T06-MCH-2025-2026-A11-OCCURRENCE",
+          "locator": "PDF physical pages 16"
+        },
+        "A12": {
+          "pages": [
+            18,
+            19,
+            21
+          ],
+          "anchor": "communicating brain cells",
+          "plain": "Communicating cells are proposed to organize coherent models and agentic control.",
+          "limit": "The developmental Genesis hypothesis and consciousness-as-coherence operator are additional commitments.",
+          "id": "BACH-T06-MCH-2025-2026-A12-OCCURRENCE",
+          "locator": "PDF physical pages 18, 19, 21"
+        },
+        "A13": {
+          "pages": [
+            17,
+            20,
+            21
+          ],
+          "anchor": "planning",
+          "plain": "Conscious model-building is connected to planning and control of action.",
+          "limit": "This is not an experimentally demonstrated cellular action-selection algorithm.",
+          "id": "BACH-T06-MCH-2025-2026-A13-OCCURRENCE",
+          "locator": "PDF physical pages 17, 20, 21"
+        },
+        "A14": {
+          "pages": [
+            15,
+            16
+          ],
+          "anchor": "Realness",
+          "plain": "Present experience includes represented content and a sense of its current occurrence.",
+          "limit": "Realness is a representational feature, not a tonic-baseline measurement.",
+          "id": "BACH-T06-MCH-2025-2026-A14-OCCURRENCE",
+          "locator": "PDF physical pages 15, 16"
+        },
+        "A15": {
+          "pages": [
+            16
+          ],
+          "anchor": "conditional operators",
+          "plain": "Representations propagate and transform through a causal processing network.",
+          "limit": "The paper does not specify every operator as a SAN phase-wave mechanism.",
+          "id": "BACH-T06-MCH-2025-2026-A15-OCCURRENCE",
+          "locator": "PDF physical pages 16"
+        },
+        "A16": {
+          "pages": [
+            19,
+            21,
+            22,
+            24
+          ],
+          "anchor": "self-organizing information processing",
+          "plain": "Artificial self-organizing systems are proposed as tests of biological consciousness hypotheses.",
+          "limit": "Pages 22 and 24 explicitly leave successful artificial reproduction and consciousness uncertain.",
+          "id": "BACH-T06-MCH-2025-2026-A16-OCCURRENCE",
+          "locator": "PDF physical pages 19, 21, 22, 24"
+        }
+      },
+      "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B"
+    },
+    "CIMC": {
+      "id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+      "title": "CIMC Research Program Whitepaper",
+      "url": "https://cimc.ai/cimcWhitepaper.pdf",
+      "version_date": "2026-04-27",
+      "initial_document_date": null,
+      "date_label": "Version 2, April 27, 2026",
+      "date_boundary": "The current capture differs from the archived V2 title-page text; extracted body text on pages 2-30 is identical. No claim of identical visual layout is made.",
+      "authors": [
+        "Joscha Bach",
+        "Hikari Sorensen",
+        "Franz Hildebrandt-Harangozó",
+        "Lou de Kerhuelvez",
+        "Jim Rutt"
+      ],
+      "occurrences": {
+        "A11": {
+          "pages": [
+            10,
+            17,
+            18
+          ],
+          "anchor": "computational regime",
+          "plain": "The proposed conscious organization is computational and open to implementation tests.",
+          "limit": "Interpretive validation is proposed; conscious implementation is not demonstrated.",
+          "id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A11-OCCURRENCE",
+          "locator": "PDF physical pages 10, 17, 18"
+        },
+        "A12": {
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            18,
+            19
+          ],
+          "anchor": "second-order perception",
+          "plain": "Self-organized perception is proposed to monitor and regulate coherent internal models.",
+          "limit": "Same-level metarepresentation and transparency are additional representational constraints.",
+          "id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A12-OCCURRENCE",
+          "locator": "PDF physical pages 10, 11, 12, 13, 18, 19"
+        },
+        "A13": {
+          "pages": [
+            12
+          ],
+          "anchor": "future states",
+          "plain": "Agency selects actions using internal goals and representations.",
+          "limit": "Agency and consciousness are explicitly distinguished, so this match concerns an adjacent functional component.",
+          "id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A13-OCCURRENCE",
+          "locator": "PDF physical pages 12"
+        },
+        "A14": {
+          "pages": [
+            11,
+            12,
+            13
+          ],
+          "anchor": "bare registration",
+          "plain": "Conscious experience includes present registration within an internally constructed perceptual field.",
+          "limit": "Minimal experience without a specified object is not identical to SAN's maintained object pattern.",
+          "id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A14-OCCURRENCE",
+          "locator": "PDF physical pages 11, 12, 13"
+        },
+        "A15": {
+          "pages": [
+            18,
+            19
+          ],
+          "anchor": "message-passing",
+          "plain": "Local updates and exchanges are proposed to organize mutually consistent representations.",
+          "limit": "Neural cellular automata and request-confirmation networks are research directions, not demonstrated conscious systems.",
+          "id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A15-OCCURRENCE",
+          "locator": "PDF physical pages 18, 19"
+        },
+        "A16": {
+          "pages": [
+            10,
+            17
+          ],
+          "anchor": "similar solutions",
+          "plain": "Different implementations may converge on corresponding solutions to a shared control problem.",
+          "limit": "Convergence toward consciousness is a hypothesis, not a finding that consciousness has been reproduced.",
+          "id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A16-OCCURRENCE",
+          "locator": "PDF physical pages 10, 17"
+        }
+      },
+      "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D"
+    }
+  },
+  "framings": {
+    "SC-A12": {
+      "title": "A self arises through communicating cells",
+      "lines": [
+        2,
+        5,
+        19,
+        23,
+        25
+      ],
+      "quote": "the point is that we are establishing a self communication mechanism, they listen to each other, and to any other available incoming signals",
+      "plain": "SAN places the deciding self inside a network of cells that listen, learn, and change their connections.",
+      "chain": [
+        "incoming patterns",
+        "cells receive, predict, emit and adapt communication paths",
+        "distributed learned organization participating in the deciding self"
+      ],
+      "shared": "Communicating units organize a larger system associated with self-directed behavior.",
+      "residual": "The June source does not state the later Genesis hypothesis that consciousness is the simplest developmental prerequisite for intelligence, or a global coherence objective."
+    },
+    "SC-A13": {
+      "title": "Prediction guides what happens next",
+      "lines": [
+        2,
+        19,
+        21,
+        41
+      ],
+      "quote": "Dendrites have to recognize this hertz in order for another part of the sequence to know what it means, and another part of the sequence to predict what comes next.",
+      "plain": "SAN links recognized signals to predictions about the next step in a distributed sequence.",
+      "chain": [
+        "signals from other cells",
+        "receiver recognizes a pattern and predicts its next response",
+        "next firing or waiting step in the sequence"
+      ],
+      "shared": "An internal representation contributes to selection of a future response.",
+      "residual": "The June source gives a cellular next-response example. It does not yet spell out the later goal-and-preference definition of organism-level agency; the November source supplies the stronger action-planning bridge."
+    },
+    "SC-A15": {
+      "title": "One unit receives what another unit produces",
+      "lines": [
+        5,
+        19,
+        23,
+        25,
+        41
+      ],
+      "quote": "critically what they are learning they are rendering materially because their connections reshape themselves to create paths that represent learned patterns as paths, synaptic communication paths between cells, a short term memory mechanism.",
+      "plain": "SAN describes learned patterns changing the paths through which cells communicate and process later signals.",
+      "chain": [
+        "received pattern",
+        "local interpretation, emission and learned path change",
+        "another receiver processes the emitted pattern"
+      ],
+      "shared": "Local interpretation and updates connect processing units into a causal information-processing network.",
+      "residual": "The cellular learning account is not a specification of every later conditional operator or request/confirmation protocol. The shared receive-update-output chain remains visible."
+    },
+    "CP-A11": {
+      "title": "Experience is a constructed information pattern",
+      "lines": [
+        93,
+        95,
+        97,
+        100,
+        102,
+        108
+      ],
+      "quote": "A rendering is a substantial pattern that is the output of some computable process.",
+      "plain": "SAN treats a conscious rendering as a real information pattern produced and sustained by processing.",
+      "chain": [
+        "information-bearing activity",
+        "computable processing and recurrent re-rendering",
+        "a represented pattern available inside the system"
+      ],
+      "shared": "A representation is an implemented pattern used by a computational process, not a separate observer outside that process.",
+      "residual": "The shared computational-pattern account is not a formal proof of identical semantics or of sufficient conditions for consciousness."
+    },
+    "CP-A12": {
+      "title": "The self is represented inside its own loop",
+      "lines": [
+        11,
+        21,
+        25,
+        27,
+        65,
+        91,
+        102,
+        108
+      ],
+      "quote": "conciousness is context referencing context, self referencing self, where self is a rendered pattern that is a distinct information/energy configuration, that oscillates inside a feedback loop that is made up of brain state elements that alternately render & detect renderings,",
+      "plain": "SAN describes the self as a pattern inside feedback between elements that produce and detect representations.",
+      "chain": [
+        "distributed sensory and internal representations",
+        "recurrent rendering, detection and coordination",
+        "a self represented in relation to a world and capable of coordinated action"
+      ],
+      "shared": "The self/world organization is constructed inside a recurring representational process.",
+      "residual": "SAN specifies oscillatory rendering and reception; the targets add particular metarepresentational and developmental conditions. These additions qualify whole-theory identity, not the shared subchain."
+    },
+    "CP-A13": {
+      "title": "Imagined futures organize action",
+      "lines": [
+        29,
+        39,
+        65,
+        71,
+        73
+      ],
+      "quote": "Our decisions that arise from mental imagery, from our predictions of consequences, our predictions of possible futures, result in sparse distributed muscle coordination actions sequences",
+      "plain": "SAN connects predictions of possible futures with coordinated action, speech, writing, and planning.",
+      "chain": [
+        "mental imagery and predicted consequences",
+        "selection and coordination of distributed action patterns",
+        "movement, speech, writing and planning"
+      ],
+      "shared": "Internal models of possible outcomes participate in selecting and coordinating action.",
+      "residual": "The November source gives a proposed oscillatory motor-coordination route. The target passages do not supply that same motor implementation or prove the two accounts mathematically equivalent."
+    },
+    "CP-A14": {
+      "title": "A current experience is a maintained pattern",
+      "lines": [
+        15,
+        25,
+        35,
+        37,
+        69,
+        75,
+        77,
+        87,
+        89,
+        95
+      ],
+      "quote": "the rendering in the mind is a persistent pattern that is detected by the mind the same way a rock in the world is a persistent pattern that is detectable by a computer with a neural network with a semantic segmentation program",
+      "plain": "SAN describes a currently experienced object as a maintained internal pattern, distinct from its ongoing background.",
+      "chain": [
+        "changing sensory and internal activity",
+        "repeated construction and detection of a persistent representation",
+        "currently available conscious content"
+      ],
+      "shared": "Present experience is treated as an internally represented and presently available condition.",
+      "residual": "This is a bounded conceptual/process-prefix match. Tonic-baseline discrimination is not identical to the target definition of realness, and it does not establish the targets' minimal-content phenomenology."
+    },
+    "CP-A15": {
+      "title": "Rendering is distributed across the network",
+      "lines": [
+        21,
+        23,
+        25,
+        27,
+        33,
+        35,
+        100,
+        102
+      ],
+      "quote": "Metaphorically you can imagine that there is no central canvas, no computer screen where all the renderings show up, because the rendered outputs are distributed all over the place, and absorbed by the brain for the next iteration of the rendering.",
+      "plain": "SAN makes each output part of the next stage of processing; no single central screen is required.",
+      "chain": [
+        "a local representation",
+        "distributed transformation and reception by another processing unit",
+        "a further representation used in subsequent processing"
+      ],
+      "shared": "Representations participate in a network of local transformations rather than waiting for an external inner reader.",
+      "residual": "No full operator-by-operator translation has been proved. Neither the SAN analogy nor the MCH text proves that every transformation preserves every structural invariant."
+    },
+    "CP-A16": {
+      "title": "The proposed organization can inform artificial minds",
+      "lines": [
+        73,
+        83,
+        85,
+        87,
+        95,
+        102,
+        108
+      ],
+      "quote": "Beyond the electro-chemical dynamics, oscillatory physics is what binds our minds together, and the simulation of oscillatory physics is what can bind artificial minds together.",
+      "plain": "SAN proposes carrying an organizing process from biological minds into an artificial implementation.",
+      "chain": [
+        "an identified organization in biological processing",
+        "reproduce the relevant organization in an artificial system",
+        "test a functionally corresponding artificial mind"
+      ],
+      "shared": "Biological organization motivates an artificial implementation rather than making the biological material the only possible carrier.",
+      "residual": "SAN proposes an oscillatory route. The targets explore self-organization and convergence without establishing that the same oscillatory implementation is necessary or that any implementation is conscious."
+    }
+  },
+  "rows": [
+    {
+      "win_id": "BACH-DOCWIN-2022JUNSC-MCH-A12",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-SELF-COMMUNICATION-LOOP",
+      "framing_id": "SC-A12",
+      "concept_id": "A12",
+      "source_id": "SC",
+      "target_document_id": "BACH-T06-MCH-2025-2026",
+      "target_occurrence_id": "BACH-T06-MCH-2025-2026-A12-OCCURRENCE",
+      "source_binding": {
+        "sha256": "93DBDD3104CD751CC72448B0C4DC44730FB54996BFD90E5BB0E1E544E55B9DAF",
+        "lines": [
+          2,
+          5,
+          19,
+          23,
+          25
+        ],
+        "quote": "the point is that we are establishing a self communication mechanism, they listen to each other, and to any other available incoming signals",
+        "commit": "37da575ba33f85cef4239295be161066d8d39f4c",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "pages": [
+          18,
+          19,
+          21
+        ],
+        "version_date": "2026-01-15",
+        "anchor": "communicating brain cells"
+      },
+      "neutral_input_transform_output": [
+        "Distributed signals",
+        "local inter-unit communication and organization",
+        "a represented agent able to coordinate interactions."
+      ],
+      "strongest_favorable_interpretation": "Communicating units organize a larger system associated with self-directed behavior.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "Communicating units organize a larger system associated with self-directed behavior.",
+        "source_locators": [
+          2,
+          5,
+          19,
+          23,
+          25
+        ],
+        "target_locators": [
+          18,
+          19,
+          21
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "incoming patterns",
+          "cells receive, predict, emit and adapt communication paths",
+          "distributed learned organization participating in the deciding self"
+        ],
+        "target_role": "Communicating cells are proposed to organize coherent models and agentic control.",
+        "cluster_role": "self/world organization",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "The June source does not state the later Genesis hypothesis that consciousness is the simplest developmental prerequisite for intelligence, or a global coherence objective. The developmental Genesis hypothesis and consciousness-as-coherence operator are additional commitments.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "The June source does not state the later Genesis hypothesis that consciousness is the simplest developmental prerequisite for intelligence, or a global coherence objective. The developmental Genesis hypothesis and consciousness-as-coherence operator are additional commitments.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "Both assign mental organization and control to interacting information-processing units. The shared process stops short of matching the neural timing or learning rule."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "Bottom-up cellular communication supplies organized mental activity that serves an agent; this causal prefix survives the target's conductor and genesis extensions."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "Starting from organized agentic control reaches distributed communication in both accounts. It does not uniquely recover alternating firing groups or material synaptic rendering."
+        }
+      },
+      "independent_target_locators": [
+        "T-MCH physical p18, third body paragraph: self-organizing mind and communicating brain cells",
+        "T-MCH physical p19, Genesis Hypothesis, final paragraph: universal biological learning algorithm",
+        "T-MCH physical p20, final paragraph: model of an agent controlling interactions"
+      ],
+      "independent_translation": [
+        "listening/firing cells -> communicating information-processing units (partial operational correspondence)",
+        "learned distributed patterns -> organized mental representations (partial conceptual correspondence)"
+      ],
+      "independent_shared_subchain": "Distributed signals -> local inter-unit communication and organization -> a represented agent able to coordinate interactions.",
+      "independent_residuals": [
+        "Reward-driven learning, conductor attention and genesis ordering are target-specific elaborations here.",
+        "Alternating excitation/listening, dendritic recognition and connection reshaping are not established by the target passages."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "incoming patterns",
+        "cells receive, predict, emit and adapt communication paths",
+        "distributed learned organization participating in the deciding self"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022JUNSC-CIMC-A12",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-SELF-COMMUNICATION-LOOP",
+      "framing_id": "SC-A12",
+      "concept_id": "A12",
+      "source_id": "SC",
+      "target_document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+      "target_occurrence_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A12-OCCURRENCE",
+      "source_binding": {
+        "sha256": "93DBDD3104CD751CC72448B0C4DC44730FB54996BFD90E5BB0E1E544E55B9DAF",
+        "lines": [
+          2,
+          5,
+          19,
+          23,
+          25
+        ],
+        "quote": "the point is that we are establishing a self communication mechanism, they listen to each other, and to any other available incoming signals",
+        "commit": "37da575ba33f85cef4239295be161066d8d39f4c",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "pages": [
+          10,
+          11,
+          12,
+          13,
+          18,
+          19
+        ],
+        "version_date": "2026-04-27",
+        "anchor": "second-order perception"
+      },
+      "neutral_input_transform_output": [
+        "Local units exchange information and update",
+        "higher-order organization forms",
+        "that organization is proposed to support agentic models."
+      ],
+      "strongest_favorable_interpretation": "Communicating units organize a larger system associated with self-directed behavior.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "Communicating units organize a larger system associated with self-directed behavior.",
+        "source_locators": [
+          2,
+          5,
+          19,
+          23,
+          25
+        ],
+        "target_locators": [
+          10,
+          11,
+          12,
+          13,
+          18,
+          19
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "incoming patterns",
+          "cells receive, predict, emit and adapt communication paths",
+          "distributed learned organization participating in the deciding self"
+        ],
+        "target_role": "Self-organized perception is proposed to monitor and regulate coherent internal models.",
+        "cluster_role": "self/world organization",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "The June source does not state the later Genesis hypothesis that consciousness is the simplest developmental prerequisite for intelligence, or a global coherence objective. Same-level metarepresentation and transparency are additional representational constraints.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "The June source does not state the later Genesis hypothesis that consciousness is the simplest developmental prerequisite for intelligence, or a global coherence objective. Same-level metarepresentation and transparency are additional representational constraints.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen",
+        "Franz Hildebrandt-Harangozó",
+        "Lou de Kerhuelvez",
+        "Jim Rutt"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "The sources share local interaction leading to higher-order organization. RCN requests/confirmations are not identified with neural excitation/inhibition."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "A self-organizing substrate bootstraps organization in service of agency; both reject a solely externally specified controller as the whole story."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "The intended output, coherent agency, routes back to distributed interaction in both texts, but does not force the same local update mechanism."
+        }
+      },
+      "independent_target_locators": [
+        "T-CIMC physical p10, III, final main paragraph: self-organization in service of agency",
+        "T-CIMC physical p18, IV.3, Self-organization and multi-agent systems paragraph",
+        "T-CIMC physical p19, opening Request Confirmation Networks paragraph"
+      ],
+      "independent_translation": [
+        "cells exchanging patterns -> interacting computational units (partial operational correspondence)",
+        "distributed learned organization -> global organization supporting agency (partial architectural correspondence)"
+      ],
+      "independent_shared_subchain": "Local units exchange information and update -> higher-order organization forms -> that organization is proposed to support agentic models.",
+      "independent_residuals": [
+        "The whitepaper distinguishes NCA and RCN research projects; it does not establish a completed combined implementation.",
+        "The June source's material synaptic memory and firing/listening cycle are unmatched specifics."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "incoming patterns",
+        "cells receive, predict, emit and adapt communication paths",
+        "distributed learned organization participating in the deciding self"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022JUNSC-MCH-A13",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-SELF-COMMUNICATION-LOOP",
+      "framing_id": "SC-A13",
+      "concept_id": "A13",
+      "source_id": "SC",
+      "target_document_id": "BACH-T06-MCH-2025-2026",
+      "target_occurrence_id": "BACH-T06-MCH-2025-2026-A13-OCCURRENCE",
+      "source_binding": {
+        "sha256": "93DBDD3104CD751CC72448B0C4DC44730FB54996BFD90E5BB0E1E544E55B9DAF",
+        "lines": [
+          2,
+          19,
+          21,
+          41
+        ],
+        "quote": "Dendrites have to recognize this hertz in order for another part of the sequence to know what it means, and another part of the sequence to predict what comes next.",
+        "commit": "37da575ba33f85cef4239295be161066d8d39f4c",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "pages": [
+          17,
+          20,
+          21
+        ],
+        "version_date": "2026-01-15",
+        "anchor": "planning"
+      },
+      "neutral_input_transform_output": [
+        "Received information",
+        "internally conditioned state/response organization",
+        "contribution to a system's choices."
+      ],
+      "strongest_favorable_interpretation": "An internal representation contributes to selection of a future response.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "conceptual/process-prefix",
+        "mapping": "An internal representation contributes to selection of a future response.",
+        "source_locators": [
+          2,
+          19,
+          21,
+          41
+        ],
+        "target_locators": [
+          17,
+          20,
+          21
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "signals from other cells",
+          "receiver recognizes a pattern and predicts its next response",
+          "next firing or waiting step in the sequence"
+        ],
+        "target_role": "Conscious model-building is connected to planning and control of action.",
+        "cluster_role": "prediction and action",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "The June source gives a cellular next-response example. It does not yet spell out the later goal-and-preference definition of organism-level agency; the November source supplies the stronger action-planning bridge. This is not an experimentally demonstrated cellular action-selection algorithm.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "The June source gives a cellular next-response example. It does not yet spell out the later goal-and-preference definition of organism-level agency; the November source supplies the stronger action-planning bridge. This is not an experimentally demonstrated cellular action-selection algorithm.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "Input-conditioned response selection is a shared process prefix. Cell-level next-fire prediction and person-level planning are not interchangeable mechanisms."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "The note connects distributed processing to a deciding virtual self; the target connects organized mental processing to decision and control. The detailed intermediate mapping remains open."
+        },
+        "L3": {
+          "result": "open-for-specific-predictor",
+          "basis": "Planning and control alone do not entail a local prediction of whether a cell will fire next. Only the broader information-to-choice chain is supported."
+        }
+      },
+      "independent_target_locators": [
+        "T-MCH physical p17, The operation of consciousness, paragraph listing decision-making and planning",
+        "T-MCH physical p18, self-organizing communicating-cell paragraph",
+        "T-MCH physical p20, final agent/self-model paragraph"
+      ],
+      "independent_translation": [
+        "incoming neural signals -> information contributing to mental state (broad partial mapping)",
+        "locally conditioned next response -> representation-conditioned control (different granularity, partial only)"
+      ],
+      "independent_shared_subchain": "Received information -> internally conditioned state/response organization -> contribution to a system's choices.",
+      "independent_residuals": [
+        "No target passage here specifies the June note's listen/wait/fire sequencing.",
+        "No identical objective, planning horizon or update equation is established."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "signals from other cells",
+        "receiver recognizes a pattern and predicts its next response",
+        "next firing or waiting step in the sequence"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022JUNSC-CIMC-A13",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-SELF-COMMUNICATION-LOOP",
+      "framing_id": "SC-A13",
+      "concept_id": "A13",
+      "source_id": "SC",
+      "target_document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+      "target_occurrence_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A13-OCCURRENCE",
+      "source_binding": {
+        "sha256": "93DBDD3104CD751CC72448B0C4DC44730FB54996BFD90E5BB0E1E544E55B9DAF",
+        "lines": [
+          2,
+          19,
+          21,
+          41
+        ],
+        "quote": "Dendrites have to recognize this hertz in order for another part of the sequence to know what it means, and another part of the sequence to predict what comes next.",
+        "commit": "37da575ba33f85cef4239295be161066d8d39f4c",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "pages": [
+          12
+        ],
+        "version_date": "2026-04-27",
+        "anchor": "future states"
+      },
+      "neutral_input_transform_output": [
+        "Available internal information",
+        "selection among possible subsequent responses",
+        "influence on a future state."
+      ],
+      "strongest_favorable_interpretation": "An internal representation contributes to selection of a future response.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "conceptual/process-prefix",
+        "mapping": "An internal representation contributes to selection of a future response.",
+        "source_locators": [
+          2,
+          19,
+          21,
+          41
+        ],
+        "target_locators": [
+          12
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "signals from other cells",
+          "receiver recognizes a pattern and predicts its next response",
+          "next firing or waiting step in the sequence"
+        ],
+        "target_role": "Agency selects actions using internal goals and representations.",
+        "cluster_role": "prediction and action",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "The June source gives a cellular next-response example. It does not yet spell out the later goal-and-preference definition of organism-level agency; the November source supplies the stronger action-planning bridge. Agency and consciousness are explicitly distinguished, so this match concerns an adjacent functional component.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "The June source gives a cellular next-response example. It does not yet spell out the later goal-and-preference definition of organism-level agency; the November source supplies the stronger action-planning bridge. Agency and consciousness are explicitly distinguished, so this match concerns an adjacent functional component.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen",
+        "Franz Hildebrandt-Harangozó",
+        "Lou de Kerhuelvez",
+        "Jim Rutt"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "Both describe information-conditioned selection affecting what happens next. Explicit goals/preferences occur in the target definition, not in every source cell."
+        },
+        "L2": {
+          "result": "partial-supported-with-open-join",
+          "basis": "The general selection chain is shared; linking the target's agency definition to a particular distributed cellular decision procedure requires further evidence."
+        },
+        "L3": {
+          "result": "open-for-specific-predictor",
+          "basis": "Future-state control does not uniquely entail prediction of one's next neural firing. The reverse test preserves the common selection prefix, not that stronger inference."
+        }
+      },
+      "independent_target_locators": [
+        "T-CIMC physical p12, III.1, Agency definition",
+        "T-CIMC physical p10, III, final main paragraph: models required for agentic behavior"
+      ],
+      "independent_translation": [
+        "incoming signals and next-response prediction -> internal information conditioning selection (partial process prefix)",
+        "network decision -> agentic selection of possible actions (conceptual alignment, not identity of scale)"
+      ],
+      "independent_shared_subchain": "Available internal information -> selection among possible subsequent responses -> influence on a future state.",
+      "independent_residuals": [
+        "Target agency uses goals, preferences or evaluative criteria; the June local rule is whether to fire next.",
+        "The target explicitly permits conceptual separation between agency and consciousness."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "signals from other cells",
+        "receiver recognizes a pattern and predicts its next response",
+        "next firing or waiting step in the sequence"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022JUNSC-MCH-A15",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-SELF-COMMUNICATION-LOOP",
+      "framing_id": "SC-A15",
+      "concept_id": "A15",
+      "source_id": "SC",
+      "target_document_id": "BACH-T06-MCH-2025-2026",
+      "target_occurrence_id": "BACH-T06-MCH-2025-2026-A15-OCCURRENCE",
+      "source_binding": {
+        "sha256": "93DBDD3104CD751CC72448B0C4DC44730FB54996BFD90E5BB0E1E544E55B9DAF",
+        "lines": [
+          5,
+          19,
+          23,
+          25,
+          41
+        ],
+        "quote": "critically what they are learning they are rendering materially because their connections reshape themselves to create paths that represent learned patterns as paths, synaptic communication paths between cells, a short term memory mechanism.",
+        "commit": "37da575ba33f85cef4239295be161066d8d39f4c",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "pages": [
+          16
+        ],
+        "version_date": "2026-01-15",
+        "anchor": "conditional operators"
+      },
+      "neutral_input_transform_output": [
+        "Pattern arrives",
+        "a receiving mechanism interprets/transforms it",
+        "another pattern becomes input to the next mechanism."
+      ],
+      "strongest_favorable_interpretation": "Local interpretation and updates connect processing units into a causal information-processing network.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "Local interpretation and updates connect processing units into a causal information-processing network.",
+        "source_locators": [
+          5,
+          19,
+          23,
+          25,
+          41
+        ],
+        "target_locators": [
+          16
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "received pattern",
+          "local interpretation, emission and learned path change",
+          "another receiver processes the emitted pattern"
+        ],
+        "target_role": "Representations propagate and transform through a causal processing network.",
+        "cluster_role": "distributed transformations",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "The cellular learning account is not a specification of every later conditional operator or request/confirmation protocol. The shared receive-update-output chain remains visible. The paper does not specify every operator as a SAN phase-wave mechanism.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "The cellular learning account is not a specification of every later conditional operator or request/confirmation protocol. The shared receive-update-output chain remains visible. The paper does not specify every operator as a SAN phase-wave mechanism.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "The directed receive-transform-transmit subchain is directly recoverable despite different vocabulary and examples."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "Both distribute representational work across a causal chain rather than requiring a single terminal display. Recurrence/plasticity is more explicit in the source note."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "A propagated representation requires receiving interpretation and output transformation in both accounts; it does not require that communication paths themselves are reshaped."
+        }
+      },
+      "independent_target_locators": [
+        "T-MCH physical p16, second body paragraph: representation definition, signal interpretation sequence and conditional operators"
+      ],
+      "independent_translation": [
+        "receiving/listening -> interpretation of an incoming pattern (partial operational mapping)",
+        "firing a pattern to another receiver -> conditional propagation/transformation of representations (partial operational mapping)"
+      ],
+      "independent_shared_subchain": "Pattern arrives -> a receiving mechanism interprets/transforms it -> another pattern becomes input to the next mechanism.",
+      "independent_residuals": [
+        "The target's gramophone-to-neural example is an interpretation chain, not a neural plasticity algorithm.",
+        "Prediction, temporal alternation and materially reshaped paths are source-specific here."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "received pattern",
+        "local interpretation, emission and learned path change",
+        "another receiver processes the emitted pattern"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022JUNSC-CIMC-A15",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-SELF-COMMUNICATION-LOOP",
+      "framing_id": "SC-A15",
+      "concept_id": "A15",
+      "source_id": "SC",
+      "target_document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+      "target_occurrence_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A15-OCCURRENCE",
+      "source_binding": {
+        "sha256": "93DBDD3104CD751CC72448B0C4DC44730FB54996BFD90E5BB0E1E544E55B9DAF",
+        "lines": [
+          5,
+          19,
+          23,
+          25,
+          41
+        ],
+        "quote": "critically what they are learning they are rendering materially because their connections reshape themselves to create paths that represent learned patterns as paths, synaptic communication paths between cells, a short term memory mechanism.",
+        "commit": "37da575ba33f85cef4239295be161066d8d39f4c",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "pages": [
+          18,
+          19
+        ],
+        "version_date": "2026-04-27",
+        "anchor": "message-passing"
+      },
+      "neutral_input_transform_output": [
+        "Local state and received signals",
+        "local update and outgoing exchange",
+        "repeated interactions shaping global organization."
+      ],
+      "strongest_favorable_interpretation": "Local interpretation and updates connect processing units into a causal information-processing network.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "Local interpretation and updates connect processing units into a causal information-processing network.",
+        "source_locators": [
+          5,
+          19,
+          23,
+          25,
+          41
+        ],
+        "target_locators": [
+          18,
+          19
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "received pattern",
+          "local interpretation, emission and learned path change",
+          "another receiver processes the emitted pattern"
+        ],
+        "target_role": "Local updates and exchanges are proposed to organize mutually consistent representations.",
+        "cluster_role": "distributed transformations",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "The cellular learning account is not a specification of every later conditional operator or request/confirmation protocol. The shared receive-update-output chain remains visible. Neural cellular automata and request-confirmation networks are research directions, not demonstrated conscious systems.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "The cellular learning account is not a specification of every later conditional operator or request/confirmation protocol. The shared receive-update-output chain remains visible. Neural cellular automata and request-confirmation networks are research directions, not demonstrated conscious systems.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen",
+        "Franz Hildebrandt-Harangozó",
+        "Lou de Kerhuelvez",
+        "Jim Rutt"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "Both employ distributed communication and repeated local updates. The target's consistency-negotiation messages are more specifically typed."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "The same local-interaction-to-global-pattern direction is present; globally negotiated consistency and synaptic path formation are distinct completions."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "Coherent global organization is traced to local interacting units rather than an external central controller, but no common complete update rule follows."
+        }
+      },
+      "independent_target_locators": [
+        "T-CIMC physical p18, IV.3, Self-organization and multi-agent systems and Cognitive architectures paragraphs",
+        "T-CIMC physical p19, opening Request Confirmation Networks paragraph"
+      ],
+      "independent_translation": [
+        "inter-cell signal exchange -> distributed messages between processing units (partial operational correspondence)",
+        "repeated local pattern changes -> local state updates yielding global organization (partial causal correspondence)"
+      ],
+      "independent_shared_subchain": "Local state and received signals -> local update and outgoing exchange -> repeated interactions shaping global organization.",
+      "independent_residuals": [
+        "RCN requests/confirmations are not shown to be equivalent to the June firing/listening phases.",
+        "Learned synaptic paths and next-fire prediction are not specified by the reviewed target passages."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "received pattern",
+        "local interpretation, emission and learned path change",
+        "another receiver processes the emitted pattern"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-MCH-A11",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A11",
+      "concept_id": "A11",
+      "source_id": "CP",
+      "target_document_id": "BACH-T06-MCH-2025-2026",
+      "target_occurrence_id": "BACH-T06-MCH-2025-2026-A11-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          93,
+          95,
+          97,
+          100,
+          102,
+          108
+        ],
+        "quote": "A rendering is a substantial pattern that is the output of some computable process.",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "pages": [
+          16
+        ],
+        "version_date": "2026-01-15",
+        "anchor": "pattern within a substrate"
+      },
+      "neutral_input_transform_output": [
+        "Substrate-supported pattern",
+        "computation/interpretation",
+        "functionally identifiable represented information through processing."
+      ],
+      "strongest_favorable_interpretation": "A representation is an implemented pattern used by a computational process, not a separate observer outside that process.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "A representation is an implemented pattern used by a computational process, not a separate observer outside that process.",
+        "source_locators": [
+          93,
+          95,
+          97,
+          100,
+          102,
+          108
+        ],
+        "target_locators": [
+          16
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "information-bearing activity",
+          "computable processing and recurrent re-rendering",
+          "a represented pattern available inside the system"
+        ],
+        "target_role": "A representation is an implemented pattern interpreted through a suitable mechanism.",
+        "cluster_role": "implemented representation",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "The shared computational-pattern account is not a formal proof of identical semantics or of sufficient conditions for consciousness. Structural invariances characterize representations; this is not a theorem that all transformations preserve them.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "The shared computational-pattern account is not a formal proof of identical semantics or of sufficient conditions for consciousness. Structural invariances characterize representations; this is not a theorem that all transformations preserve them.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "Both characterize mental representations as materially supported, functionally interpreted patterns. There is no equation-level or all-transformations invariant proof."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "Represented form participates in further representational processing; the source emphasizes recurrent re-rendering and the target a causal network of operators."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "A continuing interpretable represented form can be traced to structured pattern processing in both sources; that does not establish identical physical persistence."
+        }
+      },
+      "independent_target_locators": [
+        "T-MCH physical p16, second body paragraph: substrate pattern, interpretation as function, structural invariances and causal network"
+      ],
+      "independent_translation": [
+        "substantial computable rendering -> substrate pattern interpreted functionally (close conceptual mapping)",
+        "essential informational form under recurrence -> structural characterization across representational processing (partial, not theorem-level identity)"
+      ],
+      "independent_shared_subchain": "Substrate-supported pattern -> computation/interpretation -> functionally identifiable represented information through processing.",
+      "independent_residuals": [
+        "MCH invariances characterize representations, while the source's recurrent form-maintenance is a stronger specific claim.",
+        "Soliton/tonic-baseline and oscillatory details are not supplied in the target paragraph."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "information-bearing activity",
+        "computable processing and recurrent re-rendering",
+        "a represented pattern available inside the system"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-CIMC-A11",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A11",
+      "concept_id": "A11",
+      "source_id": "CP",
+      "target_document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+      "target_occurrence_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A11-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          93,
+          95,
+          97,
+          100,
+          102,
+          108
+        ],
+        "quote": "A rendering is a substantial pattern that is the output of some computable process.",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "pages": [
+          10,
+          17,
+          18
+        ],
+        "version_date": "2026-04-27",
+        "anchor": "computational regime"
+      },
+      "neutral_input_transform_output": [
+        "Computable activity",
+        "structured internal representations",
+        "organization interpretable in terms of conscious function."
+      ],
+      "strongest_favorable_interpretation": "A representation is an implemented pattern used by a computational process, not a separate observer outside that process.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "A representation is an implemented pattern used by a computational process, not a separate observer outside that process.",
+        "source_locators": [
+          93,
+          95,
+          97,
+          100,
+          102,
+          108
+        ],
+        "target_locators": [
+          10,
+          17,
+          18
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "information-bearing activity",
+          "computable processing and recurrent re-rendering",
+          "a represented pattern available inside the system"
+        ],
+        "target_role": "The proposed conscious organization is computational and open to implementation tests.",
+        "cluster_role": "implemented representation",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "The shared computational-pattern account is not a formal proof of identical semantics or of sufficient conditions for consciousness. Interpretive validation is proposed; conscious implementation is not demonstrated.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "The shared computational-pattern account is not a formal proof of identical semantics or of sufficient conditions for consciousness. Interpretive validation is proposed; conscious implementation is not demonstrated.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen",
+        "Franz Hildebrandt-Harangozó",
+        "Lou de Kerhuelvez",
+        "Jim Rutt"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "The common commitment is computationally realized representational organization. Neither passage supplies a complete executable model or verified consciousness criterion."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "Consciousness is located in organized representational operations, not an unconnected essence. The source's recurrence and the target's interpretive-validation program are different elaborations."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "The proposed observable internal organization is grounded in computation and representations in both accounts, but recognizable organization is not itself sufficient proof of phenomenality."
+        }
+      },
+      "independent_target_locators": [
+        "T-CIMC physical p10, II.3 Computational Functionalism",
+        "T-CIMC physical p17, IV introduction and IV.2 Interpretive Validation",
+        "T-CIMC physical p18, continuation of IV.2"
+      ],
+      "independent_translation": [
+        "computable rendering -> computable operation on representations (close conceptual mapping)",
+        "identifiable recurrent pattern -> inspectable functional organization (partial evidential/architectural mapping)"
+      ],
+      "independent_shared_subchain": "Computable activity -> structured internal representations -> organization interpretable in terms of conscious function.",
+      "independent_residuals": [
+        "The whitepaper explicitly says direct identification from activations/weights is not currently available.",
+        "Its second-order-perception and coherence constraints are not identical to preservation of a source pattern."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "information-bearing activity",
+        "computable processing and recurrent re-rendering",
+        "a represented pattern available inside the system"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-MCH-A12",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A12",
+      "concept_id": "A12",
+      "source_id": "CP",
+      "target_document_id": "BACH-T06-MCH-2025-2026",
+      "target_occurrence_id": "BACH-T06-MCH-2025-2026-A12-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          11,
+          21,
+          25,
+          27,
+          65,
+          91,
+          102,
+          108
+        ],
+        "quote": "conciousness is context referencing context, self referencing self, where self is a rendered pattern that is a distinct information/energy configuration, that oscillates inside a feedback loop that is made up of brain state elements that alternately render & detect renderings,",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "pages": [
+          18,
+          19,
+          21
+        ],
+        "version_date": "2026-01-15",
+        "anchor": "communicating brain cells"
+      },
+      "neutral_input_transform_output": [
+        "Distributed information processing",
+        "construction of internally represented self/world structure",
+        "organization of an agent's interaction."
+      ],
+      "strongest_favorable_interpretation": "The self/world organization is constructed inside a recurring representational process.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "The self/world organization is constructed inside a recurring representational process.",
+        "source_locators": [
+          11,
+          21,
+          25,
+          27,
+          65,
+          91,
+          102,
+          108
+        ],
+        "target_locators": [
+          18,
+          19,
+          21
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "distributed sensory and internal representations",
+          "recurrent rendering, detection and coordination",
+          "a self represented in relation to a world and capable of coordinated action"
+        ],
+        "target_role": "Communicating cells are proposed to organize coherent models and agentic control.",
+        "cluster_role": "self/world organization",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "SAN specifies oscillatory rendering and reception; the targets add particular metarepresentational and developmental conditions. These additions qualify whole-theory identity, not the shared subchain. The developmental Genesis hypothesis and consciousness-as-coherence operator are additional commitments.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "SAN specifies oscillatory rendering and reception; the targets add particular metarepresentational and developmental conditions. These additions qualify whole-theory identity, not the shared subchain. The developmental Genesis hypothesis and consciousness-as-coherence operator are additional commitments.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "An internal representation of self participates in organized control in both sources. The precise relation between self, consciousness and substrate is not fully identical."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "Both give an internally constructed self a role in a larger self-organizing model/control loop. Genesis-before-cognition and directed attention are extra target commitments."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "The output, represented self coordinating interaction, routes backward to internal pattern organization. It does not uniquely entail alternating render/detect cellular phases."
+        }
+      },
+      "independent_target_locators": [
+        "T-MCH physical p18, communicating-cell and conductor paragraphs",
+        "T-MCH physical p19, Genesis Hypothesis",
+        "T-MCH physical p20, final agent/self-model paragraph",
+        "T-MCH physical p21, Human Consciousness Hypothesis"
+      ],
+      "independent_translation": [
+        "self as internally rendered pattern -> self as a constructed model (conceptual mapping)",
+        "distributed recurrent render/detect activity -> self-organizing information processing supporting model construction and control (partial architecture)"
+      ],
+      "independent_shared_subchain": "Distributed information processing -> construction of internally represented self/world structure -> organization of an agent's interaction.",
+      "independent_residuals": [
+        "MCH genesis ordering and coherence-maximizing attention are distinct from the source's physical oscillatory binding proposal.",
+        "Target minimal consciousness need not include a personal self, as clarified on physical pp15-16 and p21."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "distributed sensory and internal representations",
+        "recurrent rendering, detection and coordination",
+        "a self represented in relation to a world and capable of coordinated action"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-CIMC-A12",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A12",
+      "concept_id": "A12",
+      "source_id": "CP",
+      "target_document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+      "target_occurrence_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A12-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          11,
+          21,
+          25,
+          27,
+          65,
+          91,
+          102,
+          108
+        ],
+        "quote": "conciousness is context referencing context, self referencing self, where self is a rendered pattern that is a distinct information/energy configuration, that oscillates inside a feedback loop that is made up of brain state elements that alternately render & detect renderings,",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "pages": [
+          10,
+          11,
+          12,
+          13,
+          18,
+          19
+        ],
+        "version_date": "2026-04-27",
+        "anchor": "second-order perception"
+      },
+      "neutral_input_transform_output": [
+        "Representations constructed within a distributed system",
+        "internal monitoring/regulation",
+        "organized self/world modeling in service of agency."
+      ],
+      "strongest_favorable_interpretation": "The self/world organization is constructed inside a recurring representational process.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "The self/world organization is constructed inside a recurring representational process.",
+        "source_locators": [
+          11,
+          21,
+          25,
+          27,
+          65,
+          91,
+          102,
+          108
+        ],
+        "target_locators": [
+          10,
+          11,
+          12,
+          13,
+          18,
+          19
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "distributed sensory and internal representations",
+          "recurrent rendering, detection and coordination",
+          "a self represented in relation to a world and capable of coordinated action"
+        ],
+        "target_role": "Self-organized perception is proposed to monitor and regulate coherent internal models.",
+        "cluster_role": "self/world organization",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "SAN specifies oscillatory rendering and reception; the targets add particular metarepresentational and developmental conditions. These additions qualify whole-theory identity, not the shared subchain. Same-level metarepresentation and transparency are additional representational constraints.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "SAN specifies oscillatory rendering and reception; the targets add particular metarepresentational and developmental conditions. These additions qualify whole-theory identity, not the shared subchain. Same-level metarepresentation and transparency are additional representational constraints.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen",
+        "Franz Hildebrandt-Harangozó",
+        "Lou de Kerhuelvez",
+        "Jim Rutt"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "Constructed self-content and internally regulated representational organization are shared. The target's formal second-order constraints are unfinished and not reducible to any feedback loop."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "Both give internal representation a causal role in organizing the system. A distributed source loop and a target meta-level operator are compatible partial arrangements, not proven architectural identity."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "A represented self and coherent self/world organization lead back to internal representational processing. They do not imply that self-content is consciousness itself."
+        }
+      },
+      "independent_target_locators": [
+        "T-CIMC physical p10, III, organization in service of agency",
+        "T-CIMC physical p12, III.1, Self definition and consciousness/self distinction",
+        "T-CIMC physical p13, III.2, operational definition and final paragraph; footnotes 14-15",
+        "T-CIMC physical pp18-19, IV.3, local organization and distributed message passing"
+      ],
+      "independent_translation": [
+        "rendered self -> sustained representation of an agent (close conceptual mapping)",
+        "mutual render/detect feedback -> representation of ongoing perception plus distributed state regulation (partial architecture, not equivalence of orders)"
+      ],
+      "independent_shared_subchain": "Representations constructed within a distributed system -> internal monitoring/regulation -> organized self/world modeling in service of agency.",
+      "independent_residuals": [
+        "Whitepaper III.1 explicitly distinguishes self, agency and consciousness.",
+        "III.2 footnotes 14-15 leave representational order and detailed sufficient constraints under investigation."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "distributed sensory and internal representations",
+        "recurrent rendering, detection and coordination",
+        "a self represented in relation to a world and capable of coordinated action"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-MCH-A13",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A13",
+      "concept_id": "A13",
+      "source_id": "CP",
+      "target_document_id": "BACH-T06-MCH-2025-2026",
+      "target_occurrence_id": "BACH-T06-MCH-2025-2026-A13-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          29,
+          39,
+          65,
+          71,
+          73
+        ],
+        "quote": "Our decisions that arise from mental imagery, from our predictions of consequences, our predictions of possible futures, result in sparse distributed muscle coordination actions sequences",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "pages": [
+          17,
+          20,
+          21
+        ],
+        "version_date": "2026-01-15",
+        "anchor": "planning"
+      },
+      "neutral_input_transform_output": [
+        "Internal representations of a situation/possibilities",
+        "planning and decision organization",
+        "coordinated action in the world."
+      ],
+      "strongest_favorable_interpretation": "Internal models of possible outcomes participate in selecting and coordinating action.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "Internal models of possible outcomes participate in selecting and coordinating action.",
+        "source_locators": [
+          29,
+          39,
+          65,
+          71,
+          73
+        ],
+        "target_locators": [
+          17,
+          20,
+          21
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "mental imagery and predicted consequences",
+          "selection and coordination of distributed action patterns",
+          "movement, speech, writing and planning"
+        ],
+        "target_role": "Conscious model-building is connected to planning and control of action.",
+        "cluster_role": "prediction and action",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "The November source gives a proposed oscillatory motor-coordination route. The target passages do not supply that same motor implementation or prove the two accounts mathematically equivalent. This is not an experimentally demonstrated cellular action-selection algorithm.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "The November source gives a proposed oscillatory motor-coordination route. The target passages do not supply that same motor implementation or prove the two accounts mathematically equivalent. This is not an experimentally demonstrated cellular action-selection algorithm.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "Representation-supported planning and action are directly shared functions. A motor-control algorithm or mathematical equivalence is not established."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "Both connect an internally modeled situation to organized external interaction, while the source supplies a more explicit distributed motor path."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "Coordinated purposeful action traces to internal representational planning in both texts, but does not uniquely recover source oscillatory assembly or CPG modulation."
+        }
+      },
+      "independent_target_locators": [
+        "T-MCH physical p17, The operation of consciousness, decision/planning paragraph",
+        "T-MCH physical p20, final paragraph: agent/world interaction and self model",
+        "T-MCH physical p21, Human Consciousness Hypothesis, functional roles"
+      ],
+      "independent_translation": [
+        "predicted futures and consequences -> internal models supporting planning (partial functional mapping)",
+        "sparse distributed motor sequences -> organized agent/world interaction (coarser partial output mapping)"
+      ],
+      "independent_shared_subchain": "Internal representations of a situation/possibilities -> planning and decision organization -> coordinated action in the world.",
+      "independent_residuals": [
+        "MCH does not establish the same sparse muscle-memory representation, synchronization or central-pattern-generator route.",
+        "No same predictions, benchmarks or measured behavior are supplied."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "mental imagery and predicted consequences",
+        "selection and coordination of distributed action patterns",
+        "movement, speech, writing and planning"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-CIMC-A13",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A13",
+      "concept_id": "A13",
+      "source_id": "CP",
+      "target_document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+      "target_occurrence_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A13-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          29,
+          39,
+          65,
+          71,
+          73
+        ],
+        "quote": "Our decisions that arise from mental imagery, from our predictions of consequences, our predictions of possible futures, result in sparse distributed muscle coordination actions sequences",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "pages": [
+          12
+        ],
+        "version_date": "2026-04-27",
+        "anchor": "future states"
+      },
+      "neutral_input_transform_output": [
+        "Internally represented possible outcomes and criteria",
+        "selection of action",
+        "influence on future states."
+      ],
+      "strongest_favorable_interpretation": "Internal models of possible outcomes participate in selecting and coordinating action.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "Internal models of possible outcomes participate in selecting and coordinating action.",
+        "source_locators": [
+          29,
+          39,
+          65,
+          71,
+          73
+        ],
+        "target_locators": [
+          12
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "mental imagery and predicted consequences",
+          "selection and coordination of distributed action patterns",
+          "movement, speech, writing and planning"
+        ],
+        "target_role": "Agency selects actions using internal goals and representations.",
+        "cluster_role": "prediction and action",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "The November source gives a proposed oscillatory motor-coordination route. The target passages do not supply that same motor implementation or prove the two accounts mathematically equivalent. Agency and consciousness are explicitly distinguished, so this match concerns an adjacent functional component.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "The November source gives a proposed oscillatory motor-coordination route. The target passages do not supply that same motor implementation or prove the two accounts mathematically equivalent. Agency and consciousness are explicitly distinguished, so this match concerns an adjacent functional component.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen",
+        "Franz Hildebrandt-Harangozó",
+        "Lou de Kerhuelvez",
+        "Jim Rutt"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "Both give internal representations a role in selecting future-directed actions. The source emphasizes consequences; the target specifies goals/preferences/evaluation."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "Internal modeling precedes selection and outward control in both accounts; distributed oscillatory motor coordination is a source-specific completion."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "Future-state control routes back to representation-conditioned selection, but does not force one muscle-code or neural timing mechanism."
+        }
+      },
+      "independent_target_locators": [
+        "T-CIMC physical p12, III.1, Agency definition",
+        "T-CIMC physical p10, III, coherent models required by agentic behavior"
+      ],
+      "independent_translation": [
+        "predictions of consequences and possible futures -> representations used to select actions (partial operational mapping)",
+        "organized action sequences -> control over future states (functional output mapping)"
+      ],
+      "independent_shared_subchain": "Internally represented possible outcomes and criteria -> selection of action -> influence on future states.",
+      "independent_residuals": [
+        "The target definition does not assert predicted consequences are its sole or necessary implementation.",
+        "Agency is not by itself consciousness under the whitepaper's distinctions."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "mental imagery and predicted consequences",
+        "selection and coordination of distributed action patterns",
+        "movement, speech, writing and planning"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-MCH-A14",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A14",
+      "concept_id": "A14",
+      "source_id": "CP",
+      "target_document_id": "BACH-T06-MCH-2025-2026",
+      "target_occurrence_id": "BACH-T06-MCH-2025-2026-A14-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          15,
+          25,
+          35,
+          37,
+          69,
+          75,
+          77,
+          87,
+          89,
+          95
+        ],
+        "quote": "the rendering in the mind is a persistent pattern that is detected by the mind the same way a rock in the world is a persistent pattern that is detectable by a computer with a neural network with a semantic segmentation program",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "pages": [
+          15,
+          16
+        ],
+        "version_date": "2026-01-15",
+        "anchor": "Realness"
+      },
+      "neutral_input_transform_output": [
+        "Sensory/object-related information",
+        "an internal represented percept",
+        "that content is present to awareness and can vary in experienced/objective fidelity."
+      ],
+      "strongest_favorable_interpretation": "Present experience is treated as an internally represented and presently available condition.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "conceptual/process-prefix",
+        "mapping": "Present experience is treated as an internally represented and presently available condition.",
+        "source_locators": [
+          15,
+          25,
+          35,
+          37,
+          69,
+          75,
+          77,
+          87,
+          89,
+          95
+        ],
+        "target_locators": [
+          15,
+          16
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "changing sensory and internal activity",
+          "repeated construction and detection of a persistent representation",
+          "currently available conscious content"
+        ],
+        "target_role": "Present experience includes represented content and a sense of its current occurrence.",
+        "cluster_role": "maintained current content",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "This is a bounded conceptual/process-prefix match. Tonic-baseline discrimination is not identical to the target definition of realness, and it does not establish the targets' minimal-content phenomenology. Realness is a representational feature, not a tonic-baseline measurement.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "This is a bounded conceptual/process-prefix match. Tonic-baseline discrimination is not identical to the target definition of realness, and it does not establish the targets' minimal-content phenomenology. Realness is a representational feature, not a tonic-baseline measurement.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported-at-content-level",
+          "basis": "Both discuss current perceptual representation and variability of its relation to reality. Tonic-baseline discrimination and realness marking are different specified operations."
+        },
+        "L2": {
+          "result": "open-for-realness-operation",
+          "basis": "The source supplies recurrence and pattern discrimination; the target supplies confirmation and a realness feature. No common causal mechanism connecting those specific operators is established."
+        },
+        "L3": {
+          "result": "partial-output-only",
+          "basis": "Present represented content is shared, but starting from experienced realness cannot recover source baseline isolation, and baseline isolation does not entail the target's confirmation feature."
+        }
+      },
+      "independent_target_locators": [
+        "T-MCH physical p15, The phenomenology of consciousness, present/presence discussion",
+        "T-MCH physical p16, first body paragraph: realness and current confirmation",
+        "T-MCH physical p16, third body paragraph: minimal present awareness"
+      ],
+      "independent_translation": [
+        "persistent currently perceived object pattern -> present represented percept (partial conceptual/output mapping)",
+        "objective/distorted internal modeling -> real/imaginary dimension (loose partial framing; no identical criterion)"
+      ],
+      "independent_shared_subchain": "Sensory/object-related information -> an internal represented percept -> that content is present to awareness and can vary in experienced/objective fidelity.",
+      "independent_residuals": [
+        "Do not equate a physically distinguishable represented pattern with an epistemic or phenomenal realness marker.",
+        "Neither current perception nor phenomenological nowness establishes objective accuracy or a consciousness test."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "changing sensory and internal activity",
+        "repeated construction and detection of a persistent representation",
+        "currently available conscious content"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-CIMC-A14",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A14",
+      "concept_id": "A14",
+      "source_id": "CP",
+      "target_document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+      "target_occurrence_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A14-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          15,
+          25,
+          35,
+          37,
+          69,
+          75,
+          77,
+          87,
+          89,
+          95
+        ],
+        "quote": "the rendering in the mind is a persistent pattern that is detected by the mind the same way a rock in the world is a persistent pattern that is detectable by a computer with a neural network with a semantic segmentation program",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "pages": [
+          11,
+          12,
+          13
+        ],
+        "version_date": "2026-04-27",
+        "anchor": "bare registration"
+      },
+      "neutral_input_transform_output": [
+        "Ongoing representational activity",
+        "sustained perceptual organization",
+        "availability of that ongoing content/process within awareness."
+      ],
+      "strongest_favorable_interpretation": "Present experience is treated as an internally represented and presently available condition.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "conceptual/process-prefix",
+        "mapping": "Present experience is treated as an internally represented and presently available condition.",
+        "source_locators": [
+          15,
+          25,
+          35,
+          37,
+          69,
+          75,
+          77,
+          87,
+          89,
+          95
+        ],
+        "target_locators": [
+          11,
+          12,
+          13
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "changing sensory and internal activity",
+          "repeated construction and detection of a persistent representation",
+          "currently available conscious content"
+        ],
+        "target_role": "Conscious experience includes present registration within an internally constructed perceptual field.",
+        "cluster_role": "maintained current content",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "This is a bounded conceptual/process-prefix match. Tonic-baseline discrimination is not identical to the target definition of realness, and it does not establish the targets' minimal-content phenomenology. Minimal experience without a specified object is not identical to SAN's maintained object pattern.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "This is a bounded conceptual/process-prefix match. Tonic-baseline discrimination is not identical to the target definition of realness, and it does not establish the targets' minimal-content phenomenology. Minimal experience without a specified object is not identical to SAN's maintained object pattern.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen",
+        "Franz Hildebrandt-Harangozó",
+        "Lou de Kerhuelvez",
+        "Jim Rutt"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "Sustained represented perception is shared. The target's bare occurrence-registration is not identical to the source's object pattern relative to tonic background."
+        },
+        "L2": {
+          "result": "partial-supported-with-open-specifics",
+          "basis": "Recurring representational activity sustaining experience is a bounded shared architecture; the exact second-order encoding and source oscillatory binding are not joined."
+        },
+        "L3": {
+          "result": "partial-output-only",
+          "basis": "A stable experienced percept is shared output. Neither minimal phenomenal occurrence nor stable perception uniquely implies the source baseline operator."
+        }
+      },
+      "independent_target_locators": [
+        "T-CIMC physical p11, Coherence paragraph: stable perceptual world",
+        "T-CIMC physical pp11-12, Second-order perception paragraph and its continuation",
+        "T-CIMC physical p13, III.2, operational definition; footnotes 14-15"
+      ],
+      "independent_translation": [
+        "persistent conscious rendering -> sustained perceptual representational format (partial conceptual/process mapping)",
+        "render/detect feedback -> registering ongoing representation (partial reflexive mapping, not automatic second-order identity)"
+      ],
+      "independent_shared_subchain": "Ongoing representational activity -> sustained perceptual organization -> availability of that ongoing content/process within awareness.",
+      "independent_residuals": [
+        "Whitepaper p12 says the precise sustained representational format is an open problem.",
+        "The source's tonic-baseline and lucidity/distortion mechanisms do not establish target minimal content-free presence."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "changing sensory and internal activity",
+        "repeated construction and detection of a persistent representation",
+        "currently available conscious content"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-MCH-A15",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A15",
+      "concept_id": "A15",
+      "source_id": "CP",
+      "target_document_id": "BACH-T06-MCH-2025-2026",
+      "target_occurrence_id": "BACH-T06-MCH-2025-2026-A15-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          21,
+          23,
+          25,
+          27,
+          33,
+          35,
+          100,
+          102
+        ],
+        "quote": "Metaphorically you can imagine that there is no central canvas, no computer screen where all the renderings show up, because the rendered outputs are distributed all over the place, and absorbed by the brain for the next iteration of the rendering.",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "pages": [
+          16
+        ],
+        "version_date": "2026-01-15",
+        "anchor": "conditional operators"
+      },
+      "neutral_input_transform_output": [
+        "Represented input",
+        "a local interpreting/transforming operation",
+        "represented output that another operation receives."
+      ],
+      "strongest_favorable_interpretation": "Representations participate in a network of local transformations rather than waiting for an external inner reader.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "Representations participate in a network of local transformations rather than waiting for an external inner reader.",
+        "source_locators": [
+          21,
+          23,
+          25,
+          27,
+          33,
+          35,
+          100,
+          102
+        ],
+        "target_locators": [
+          16
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "a local representation",
+          "distributed transformation and reception by another processing unit",
+          "a further representation used in subsequent processing"
+        ],
+        "target_role": "Representations propagate and transform through a causal processing network.",
+        "cluster_role": "distributed transformations",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "No full operator-by-operator translation has been proved. Neither the SAN analogy nor the MCH text proves that every transformation preserves every structural invariant. The paper does not specify every operator as a SAN phase-wave mechanism.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "No full operator-by-operator translation has been proved. Neither the SAN analogy nor the MCH text proves that every transformation preserves every structural invariant. The paper does not specify every operator as a SAN phase-wave mechanism.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "Receive-transform-output composition is explicit in both. Neither text proves a functor preserving a specified invariant over all transitions."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "A network of representational stages supports further representations; recurrent feedback is central in the source but not required by the target's p16 example."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "Downstream represented output traces to upstream interpretation and transformation in both cases. Its existence does not prove universal preservation of informational structure."
+        }
+      },
+      "independent_target_locators": [
+        "T-MCH physical p16, second body paragraph: successive representation transformations and conditional operators"
+      ],
+      "independent_translation": [
+        "observer/display node -> receiving/interpreting and transmitting mechanism (partial operational mapping)",
+        "successive distributed renderings -> representation transformations in causal network (direct process-prefix mapping)"
+      ],
+      "independent_shared_subchain": "Represented input -> a local interpreting/transforming operation -> represented output that another operation receives.",
+      "independent_residuals": [
+        "Replace invariant-preservation attribution with representation characterization; do not treat this as removal of the shared subchain.",
+        "The target passage does not specify the same recurrent binding, local oscillation or persistence threshold."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "a local representation",
+        "distributed transformation and reception by another processing unit",
+        "a further representation used in subsequent processing"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-CIMC-A15",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A15",
+      "concept_id": "A15",
+      "source_id": "CP",
+      "target_document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+      "target_occurrence_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A15-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          21,
+          23,
+          25,
+          27,
+          33,
+          35,
+          100,
+          102
+        ],
+        "quote": "Metaphorically you can imagine that there is no central canvas, no computer screen where all the renderings show up, because the rendered outputs are distributed all over the place, and absorbed by the brain for the next iteration of the rendering.",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "pages": [
+          18,
+          19
+        ],
+        "version_date": "2026-04-27",
+        "anchor": "message-passing"
+      },
+      "neutral_input_transform_output": [
+        "Distributed representations",
+        "local state updates and exchanged signals",
+        "repeated cross-unit organization of represented state."
+      ],
+      "strongest_favorable_interpretation": "Representations participate in a network of local transformations rather than waiting for an external inner reader.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "Representations participate in a network of local transformations rather than waiting for an external inner reader.",
+        "source_locators": [
+          21,
+          23,
+          25,
+          27,
+          33,
+          35,
+          100,
+          102
+        ],
+        "target_locators": [
+          18,
+          19
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "a local representation",
+          "distributed transformation and reception by another processing unit",
+          "a further representation used in subsequent processing"
+        ],
+        "target_role": "Local updates and exchanges are proposed to organize mutually consistent representations.",
+        "cluster_role": "distributed transformations",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "No full operator-by-operator translation has been proved. Neither the SAN analogy nor the MCH text proves that every transformation preserves every structural invariant. Neural cellular automata and request-confirmation networks are research directions, not demonstrated conscious systems.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "No full operator-by-operator translation has been proved. Neither the SAN analogy nor the MCH text proves that every transformation preserves every structural invariant. Neural cellular automata and request-confirmation networks are research directions, not demonstrated conscious systems.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen",
+        "Franz Hildebrandt-Harangozó",
+        "Lou de Kerhuelvez",
+        "Jim Rutt"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported",
+          "basis": "Distributed iterative representational processing is explicit. Message consistency is a target objective; source representational persistence/binding is not identical to it."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "Both rely on interactions among local representational components to produce organization beyond a single node. Their local rules and organizing objectives differ."
+        },
+        "L3": {
+          "result": "partial-supported-with-residual",
+          "basis": "Organized distributed representation is traced backward to iterative exchanges, but these do not uniquely require the source oscillatory render/detect mechanism."
+        }
+      },
+      "independent_target_locators": [
+        "T-CIMC physical p18, IV.3, Cognitive architectures paragraph",
+        "T-CIMC physical p19, opening Request Confirmation Networks paragraph"
+      ],
+      "independent_translation": [
+        "distributed observer/display arrays -> interacting representational subsystems (partial architecture)",
+        "recurrent transformation/readout -> iterative state updates and message exchange (partial process)"
+      ],
+      "independent_shared_subchain": "Distributed representations -> local state updates and exchanged signals -> repeated cross-unit organization of represented state.",
+      "independent_residuals": [
+        "No common message algebra, update equation, invariant or experimentally observed dynamics are demonstrated.",
+        "Target RCN negotiation does not establish the source's tonic/PWD and perceptual-threshold details."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "a local representation",
+        "distributed transformation and reception by another processing unit",
+        "a further representation used in subsequent processing"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-MCH-A16",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A16",
+      "concept_id": "A16",
+      "source_id": "CP",
+      "target_document_id": "BACH-T06-MCH-2025-2026",
+      "target_occurrence_id": "BACH-T06-MCH-2025-2026-A16-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          73,
+          83,
+          85,
+          87,
+          95,
+          102,
+          108
+        ],
+        "quote": "Beyond the electro-chemical dynamics, oscillatory physics is what binds our minds together, and the simulation of oscillatory physics is what can bind artificial minds together.",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "pages": [
+          19,
+          21,
+          22,
+          24
+        ],
+        "version_date": "2026-01-15",
+        "anchor": "self-organizing information processing"
+      },
+      "neutral_input_transform_output": [
+        "Similar representational/control tasks",
+        "recurring useful functional organization",
+        "possible recreation on an artificial substrate."
+      ],
+      "strongest_favorable_interpretation": "Biological organization motivates an artificial implementation rather than making the biological material the only possible carrier.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "Biological organization motivates an artificial implementation rather than making the biological material the only possible carrier.",
+        "source_locators": [
+          73,
+          83,
+          85,
+          87,
+          95,
+          102,
+          108
+        ],
+        "target_locators": [
+          19,
+          21,
+          22,
+          24
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "an identified organization in biological processing",
+          "reproduce the relevant organization in an artificial system",
+          "test a functionally corresponding artificial mind"
+        ],
+        "target_role": "Artificial self-organizing systems are proposed as tests of biological consciousness hypotheses.",
+        "cluster_role": "artificial implementation",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "SAN proposes an oscillatory route. The targets explore self-organization and convergence without establishing that the same oscillatory implementation is necessary or that any implementation is conscious. Pages 22 and 24 explicitly leave successful artificial reproduction and consciousness uncertain.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "SAN proposes an oscillatory route. The targets explore self-organization and convergence without establishing that the same oscillatory implementation is necessary or that any implementation is conscious. Pages 22 and 24 explicitly leave successful artificial reproduction and consciousness uncertain.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported-at-hypothesis-level",
+          "basis": "Both allow functionally comparable representations across implementations and propose artificial realization. Their organizing principles and sufficiency claims are not identical."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "A biological organizing account motivates an artificial construction program. The source proposes oscillatory physics; the target searches for self-organizing learning conditions."
+        },
+        "L3": {
+          "result": "partial-output-with-open-sufficiency",
+          "basis": "Comparable information or agency can motivate a search for shared organization. It does not force consciousness, a unique algorithm or oscillatory implementation."
+        }
+      },
+      "independent_target_locators": [
+        "T-MCH physical p19, Genesis Hypothesis, final paragraph",
+        "T-MCH physical p21, extended Machine Consciousness Hypothesis",
+        "T-MCH physical p22, opening implementation/resource cautions",
+        "T-MCH physical pp23-24, Universality section and explicit uncertainty"
+      ],
+      "independent_translation": [
+        "comparable information forms across brains -> cross-implementation functional similarity (partial output mapping)",
+        "simulated oscillatory organization -> artificial recreation of proposed organizing function (partial construction aim)"
+      ],
+      "independent_shared_subchain": "Similar representational/control tasks -> recurring useful functional organization -> possible recreation on an artificial substrate.",
+      "independent_residuals": [
+        "MCH p24 explicitly calls the universality-to-consciousness inference uncertain; p22 notes biological/resource obstacles.",
+        "The source's interbrain translation claim is not empirical proof of cross-substrate consciousness."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "an identified organization in biological processing",
+        "reproduce the relevant organization in an artificial system",
+        "test a functionally corresponding artificial mind"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022NOVCP-CIMC-A16",
+      "membership": "preserved-historical-document-instance",
+      "stage_id": "M-BACH-2022-COMPUTATIONAL-PHENOMENOLOGY",
+      "framing_id": "CP-A16",
+      "concept_id": "A16",
+      "source_id": "CP",
+      "target_document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+      "target_occurrence_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026-A16-OCCURRENCE",
+      "source_binding": {
+        "sha256": "FD658E976304F5DDEF12326F0D434D1E042F4B2A6464920A9BA8E8E3B1ECDAF0",
+        "lines": [
+          73,
+          83,
+          85,
+          87,
+          95,
+          102,
+          108
+        ],
+        "quote": "Beyond the electro-chemical dynamics, oscillatory physics is what binds our minds together, and the simulation of oscillatory physics is what can bind artificial minds together.",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "date_type": "git-recorded historical fixation"
+      },
+      "target_binding": {
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "pages": [
+          10,
+          17
+        ],
+        "version_date": "2026-04-27",
+        "anchor": "similar solutions"
+      },
+      "neutral_input_transform_output": [
+        "Analogous representational/control problem",
+        "similar useful internal information organization",
+        "hypothesized biological/artificial functional correspondence."
+      ],
+      "strongest_favorable_interpretation": "Biological organization motivates an artificial implementation rather than making the biological material the only possible carrier.",
+      "lens_1": {
+        "result": "partial-equivalent",
+        "level": "functional/operational-subchain",
+        "mapping": "Biological organization motivates an artificial implementation rather than making the biological material the only possible carrier.",
+        "source_locators": [
+          73,
+          83,
+          85,
+          87,
+          95,
+          102,
+          108
+        ],
+        "target_locators": [
+          10,
+          17
+        ],
+        "mathematical_relation": "not-proved; no numerical equivalence percentage assigned"
+      },
+      "lens_2": {
+        "result": "bounded-shared-causal-prefix",
+        "source_chain": [
+          "an identified organization in biological processing",
+          "reproduce the relevant organization in an artificial system",
+          "test a functionally corresponding artificial mind"
+        ],
+        "target_role": "Different implementations may converge on corresponding solutions to a shared control problem.",
+        "cluster_role": "artificial implementation",
+        "boundary": "A shared part of the narrative architecture is preserved; complete architecture identity and historical acquisition are not inferred."
+      },
+      "lens_3": {
+        "result": "micah-earlier-on-bounded-document-relative-delta",
+        "chronology": "The frozen 2022 Git-recorded SAN text precedes the specified 2026 target version.",
+        "translation_test": "Compare operations after replacing neural rendering and pattern vocabulary with target representation and processing vocabulary; do not require the same nouns.",
+        "falsification_attempt": "SAN proposes an oscillatory route. The targets explore self-organization and convergence without establishing that the same oscillatory implementation is necessary or that any implementation is conscious. Convergence toward consciousness is a hypothesis, not a finding that consciousness has been reproduced.",
+        "alternate_routes": "Shared background in computational representation, learning, feedback and control remains a possible route. The targets explicitly reference earlier approaches. This review does not establish access, dependence or author-wide firstness.",
+        "earlier_target_boundary": "The earlier Bach program remains separately open; no absence is inferred from these two later documents."
+      },
+      "specific_residual": "SAN proposes an oscillatory route. The targets explore self-organization and convergence without establishing that the same oscillatory implementation is necessary or that any implementation is conscious. Convergence toward consciousness is a hypothesis, not a finding that consciousness has been reproduced.",
+      "formal_relation": "Source-grounded partial process/functional correspondence, not a constructed functor, proven isomorphism or bisimulation.",
+      "source_qualification": "exact-historical-wording-and-current-public-bytes-verified; first-public-push-independent-date-open",
+      "citation_coverage": "not-adjudicated-in-this-release-cohort",
+      "review_state": "worker-and-independent-source-reviewed; release-gates-open",
+      "listed_authors": [
+        "Joscha Bach",
+        "Hikari Sorensen",
+        "Franz Hildebrandt-Harangozó",
+        "Lou de Kerhuelvez",
+        "Jim Rutt"
+      ],
+      "rival_win_count": 0,
+      "rival_award_count": 0,
+      "governed_count_delta": 0,
+      "independent_lens_results": {
+        "L1": {
+          "result": "partial-supported-at-hypothesis-level",
+          "basis": "Cross-implementation representational similarity is the shared concept. Universal computability and practical/phenomenal success remain separate claims."
+        },
+        "L2": {
+          "result": "partial-supported",
+          "basis": "Both generalize from biological representational organization toward artificial realization; the whitepaper's problem-constrained convergence is not the source's oscillatory binding mechanism."
+        },
+        "L3": {
+          "result": "partial-output-with-open-sufficiency",
+          "basis": "Similar representations can be reached by different routes. They do not uniquely identify consciousness, phase binding or one common implementation."
+        }
+      },
+      "independent_target_locators": [
+        "T-CIMC physical p10, II.3 Computational Functionalism",
+        "T-CIMC physical p17, IV.1 The Universality Hypothesis and Convergence",
+        "T-CIMC physical pp17-18, IV.2 Interpretive Validation"
+      ],
+      "independent_translation": [
+        "cross-brain comparable information properties -> comparable learned representations across implementations (partial output correspondence)",
+        "artificial organization binding minds -> possible cross-substrate realization of the relevant functions (partial construction hypothesis)"
+      ],
+      "independent_shared_subchain": "Analogous representational/control problem -> similar useful internal information organization -> hypothesized biological/artificial functional correspondence.",
+      "independent_residuals": [
+        "The whitepaper's visual-model convergence example is attributed to Olah and colleagues; it is not independent evidence for consciousness here.",
+        "No finite resource bound, shared oscillatory algorithm or successful artificial consciousness test is supplied."
+      ],
+      "stronger_join_state": "open where the independent review specifies an unresolved operator, scale or implementation",
+      "san_side_fuller_process": [
+        "an identified organization in biological processing",
+        "reproduce the relevant organization in an artificial system",
+        "test a functionally corresponding artificial mind"
+      ]
+    }
+  ],
+  "footprint": {
+    "scope": "eighteen-row source-review tranche, not whole Bach program",
+    "micah_source_documents": 2,
+    "micah_dated_framings": 9,
+    "concept_families": 6,
+    "later_target_documents": 2,
+    "later_target_located_formulations": 12,
+    "preserved_document_relative_mappings": 18,
+    "author_navigation_edges": 63,
+    "unique_target_authors": 5,
+    "historical_parent_rows_preserved": 255,
+    "historical_rows_outside_this_review": 237,
+    "initial_two_document_cohort": 58,
+    "two_document_rows_still_open": 40,
+    "global_increment": 0
+  },
+  "scope_boundary": "This overlay preserves all historical membership. It qualifies eighteen exact source pairs; it does not recertify 255 historical findings, finish the Bach program, establish firstness over all prior art, close the remaining matrix, or change public/global counts.",
+  "lens4": {
+    "status": "LSM-UNKNOWN-IN-THIS-RELEASE-COHORT",
+    "summary": "The same six mapped concept families recur across the two selected later documents. This documents later persistence, not the date at which the wider Bach program first acquired them.",
+    "historical_boundary": "The existing wider review covers a 21-occurrence registry and preserves a historical component-shift finding. Earlier source gates remain open; this edition does not replace or recertify that review.",
+    "quantitative": "Not calibrated. No sigma, probability of derivation, access, or dependence is assigned."
+  },
+  "count_definitions": {
+    "micah_dated_framings": "Nine concept-by-date formulations: three June and six November formulations. These are not nine independently established inventions.",
+    "later_target_located_formulations": "One mapped passage group per concept per target document: six in each of two documents. Reusing a target group against two SAN dates does not add a target repetition.",
+    "preserved_document_relative_mappings": "Eighteen SAN-formulation-to-target-document links. Several share a concept or target passage.",
+    "author_navigation_edges": "A link from each comparison row to every listed coauthor: 18 to the two-author paper plus 45 to the five-author paper. These are not additional discoveries or findings of individual contribution."
+  },
+  "cohort_matrix": {
+    "dimensions": "2 SAN stages x 2 target documents x 6 concept families",
+    "total_cells": 24,
+    "reviewed_partial_cells": 18,
+    "unreviewed_open_cells": 6,
+    "open_cells": [
+      {
+        "stage": "SC",
+        "concept": "A11",
+        "target": "MCH"
+      },
+      {
+        "stage": "SC",
+        "concept": "A11",
+        "target": "CIMC"
+      },
+      {
+        "stage": "SC",
+        "concept": "A14",
+        "target": "MCH"
+      },
+      {
+        "stage": "SC",
+        "concept": "A14",
+        "target": "CIMC"
+      },
+      {
+        "stage": "SC",
+        "concept": "A16",
+        "target": "MCH"
+      },
+      {
+        "stage": "SC",
+        "concept": "A16",
+        "target": "CIMC"
+      }
+    ],
+    "boundary": "Open June cells are not absence or no-fit findings; the six-card view is not a saturation claim."
+  }
+}

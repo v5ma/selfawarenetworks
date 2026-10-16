@@ -1,0 +1,133 @@
+{
+  "schema": "comparison-wiki-public-file-manifest-v1",
+  "snapshot_date": "2026-10-16",
+  "files": [
+    {
+      "path": "joscha-bach/index.html",
+      "sha256": "D77FB2BE7CB4F4A9771160A4ABB3FE5CC2EFA803028C4A0C7941CFA5B840C0B1",
+      "bytes": 139311,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "joscha-bach/evidence.html",
+      "sha256": "4C4679AAF61BBD95CAE728A1225F0A3C0D497BF2415754B398C94B92E3477CB9",
+      "bytes": 86119,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "joscha-bach/comparison-data.json",
+      "sha256": "D8407737E600EECB00DBB960B385027EE50F7B86D7FD5BBDE9B641575FD46DC0",
+      "bytes": 147961,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "joscha-bach/2022-source-extension/index.html",
+      "sha256": "E6B9E07C7E43F9B6A8BB1187257B837C7752BA375F15E27A0E1805B39466FE2C",
+      "bytes": 58866,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "joscha-bach/2022-source-extension/evidence.html",
+      "sha256": "16A0A739DC0AD03EC5BDA537A4406843E8CAB10C9D478A2FECACD685736EA44A",
+      "bytes": 83413,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "joscha-bach/2022-source-extension/comparison-data.json",
+      "sha256": "3A6EDA4752A6283D386F130F28EE5C4CC1B6FCF15DBB36C2509BE1F8301C11B1",
+      "bytes": 97243,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "joscha-bach/neural-lace-source-comparisons/index.html",
+      "sha256": "F14147D9D33B245D97DC1382EB4A5912B4ED587ECC5F299CCFAEF1C3AE32FB42",
+      "bytes": 97399,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "joscha-bach/neural-lace-source-comparisons/evidence.html",
+      "sha256": "8EF4B0C7EDE93C6DD0FD55D6187D67CCA931AC10FD914FDCA3976D5DF3EF7B5B",
+      "bytes": 56181,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "joscha-bach/neural-lace-source-comparisons/comparison-data.json",
+      "sha256": "C25D68ED7FCF82D91028B5C1A7A332978B639B5E410A91CDAD3226EED03DD14C",
+      "bytes": 58292,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "miller-spatial-computing/index.html",
+      "sha256": "92E97F87AE0933B0941261D021C5CADC8B9E3E390BA67C831F69639E1B3B12DA",
+      "bytes": 17058,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "miller-spatial-computing/evidence.html",
+      "sha256": "3EB27853B37C7E89891EDDE35718FE4456071429C434A51520D7447FB3F8CD52",
+      "bytes": 31687,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "miller-spatial-computing/comparison-data.json",
+      "sha256": "AC0BEEABCCC29ED2E494AC8FA0936516FC94E57566C1C6B77E58F01A656FDD1A",
+      "bytes": 42910,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "anil-seth/source-comparisons/index.html",
+      "sha256": "5C65079C654E9E284227AC13F46AB1A26194DEBE889D4D83846AD6AB34D6B0FB",
+      "bytes": 49032,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "anil-seth/source-comparisons/evidence.html",
+      "sha256": "7391026010620227E7908FFB2F6F7832553D2DFE3F7FC698D6245921C2237B09",
+      "bytes": 804117,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "anil-seth/source-comparisons/comparison-data.json",
+      "sha256": "48142DB5C9D9C7307BE5A7B6DF8388118924A3DBD9C553B054EF0349BC93F6D5",
+      "bytes": 1243834,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "anil-seth/source-comparisons/reader.css",
+      "sha256": "BB98096A93B18A1D08DF6EE4EB59A3998B1D8AFF15D32ED60ECABC639C345B16",
+      "bytes": 3402,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "anil-seth/source-comparisons/reader.js",
+      "sha256": "32ADE8AD2F81A21A3FFF751F697B1F1748F96566F3A774C242AE6893E5CEFBF6",
+      "bytes": 2487,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "anil-seth/source-comparisons/ledger.csv",
+      "sha256": "B63EA2A8E27665309C353A7CAF27CA43EE9E368F3613B48499F9E31259F88477",
+      "bytes": 120979,
+      "kind": "unchanged-approved-source-asset"
+    },
+    {
+      "path": "index.html",
+      "sha256": "EAB35781E827052595ACB658982DB3B1C2582C237209F0B87AB2F333507B663E",
+      "bytes": 4151,
+      "kind": "new-scope-and-navigation-only"
+    },
+    {
+      "path": "README.md",
+      "sha256": "9990AD88500EB109C41934485196019AA46BE36E7C3BB554D2D2A4A097B08F27",
+      "bytes": 2602,
+      "kind": "new-scope-and-navigation-only"
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "CDBE181DEEE63CD6B76A34F4C3B69BC306A09375C256444C313F7E2E0080521D",
+      "bytes": 16,
+      "kind": "exact-byte-preservation"
+    }
+  ],
+  "scope": "18 unchanged approved source files plus three scope/navigation/byte-policy files. Manifest and snapshot metadata are not self-hashed here."
+}

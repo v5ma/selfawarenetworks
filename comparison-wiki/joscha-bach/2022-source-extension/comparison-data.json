@@ -1,0 +1,1676 @@
+{
+  "schema": "bach-fourteen-public-source-edition-r3",
+  "scope": "Fourteen additional source-reviewed partial comparisons: dated SAN records from 2022 versus two selected 2026 documents by Joscha Bach and coauthors.",
+  "footprint": {
+    "scope": "This additional 2022-source edition only",
+    "dated_SAN_framings": 7,
+    "SAN_source_documents": 4,
+    "target_document_versions": 2,
+    "graded_comparison_links": 14,
+    "author_navigation_edges": 49,
+    "independently_counted_target_formulation_occurrences": null,
+    "target_occurrence_boundary": "Not separately counted. Fourteen comparison links are not fourteen independent target repetitions, inventions or confirmations."
+  },
+  "rows": [
+    {
+      "win_id": "BACH-DOCWIN-2022JUN-MCH-A04",
+      "concept_family": "A04",
+      "title": "Keep information distinct while joining it together",
+      "conclusion": "Micah's June 2022 Git-recorded note separates binding from the distinctions needed for information. Bach and Sorensen's reviewed MCH version likewise coordinates differentiated models and builds represented structure through contrast; the shared function does not equate physical synchrony with model consistency.",
+      "SAN": {
+        "date": "2022-06-08T18:32:00-07:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/37da575ba33f85cef4239295be161066d8d39f4c/a0142z%20ctpr.txt",
+        "sha256": "6E88E2AC7571791EFCD03D4AB35FD7D724BFA0E388821BF51F2BD72610DD5BBF",
+        "commit": "37da575ba33f85cef4239295be161066d8d39f4c",
+        "quote": "the problem is that synchronization or coherence is non-informative, its a solution for binding, for convergence, coupling of patterns, but not for distinction making, decoherence, deconvergence, decoupling of of ideas & concepts",
+        "summary": "Joining signals is not enough: their differences must remain readable. SAN describes a receiving oscillator detecting changes against its own ongoing pattern.",
+        "line_locators": [
+          9,
+          11,
+          19,
+          24,
+          34,
+          36,
+          38,
+          40
+        ],
+        "source_context": "The same note cites Fries on communication through coherence and names Tse; it discusses inhibition, phase patterns and receiver-relative deviations. It does not claim to originate coherence, inhibition or generic information theory."
+      },
+      "target": {
+        "document_id": "BACH-T06-MCH-2025-2026",
+        "title": "The Machine Consciousness Hypothesis",
+        "short_name": "MCH",
+        "date": "2026-01-15",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen"
+        ],
+        "physical_pages": [
+          17,
+          18,
+          20
+        ],
+        "printed_pages": [
+          16,
+          17,
+          19
+        ],
+        "sections": [
+          "The operation of consciousness",
+          "Genesis: How consciousness creates the world and the self in the mind"
+        ],
+        "summary": "The later paper coordinates different models and uses contrast to build represented structure. This shares the need for both coordination and differences."
+      },
+      "shared_subchain": "Keep distinguishable patterns available within coordinated activity; compare or select contributions rather than erase all differences through undifferentiated binding.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "Partial at the functional level: June separates coupling from distinction and gives the oscillator a reference against which incoming deviations are measured (36); MCH adjusts the contributions of distinct partial models (17-18), while its contrast operation creates a dimension of difference (20). Physical phase synchronization is not constraint satisfaction.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "June's coupling-without-distinction objection -> differential reference -> knowledge/pattern selection aligns with the coordination-plus-differentiation problem. MCH supplies an explicit conflict -> attentional intervention -> coherent-scene architecture absent as a joined operation in this June note."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from a coherent but differentiated scene: distinctions and selective coordination are required. June supplies these constituents, not a unique derivation of MCH's conductor or its constraint-minimization criterion.",
+          "chronological_constraint": "Only this exact 2022-06-08T18:32:00-07:00 Git-record-dated formulation is compared against the selected 2026-01-15 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "No June definition of semantic constraint violation or MCH implementation of this oscillator mechanism; no identity between physical coherence and representational consistency. Neither document proves the neuroscience.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUN-MCH-A04-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUN-MCH-A04-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 2,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "MCH-conflict",
+        "MCH-contrast"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022JUN-CIMC-A04",
+      "concept_family": "A04",
+      "title": "Keep information distinct while joining it together",
+      "conclusion": "Micah's June 2022 Git-recorded note argues that coordination must still permit distinctions. CIMC's reviewed 2026 whitepaper coordinates distinct partial models through conflict-sensitive adjustment. This is a partial functional correspondence, not identity of physical and representational coherence.",
+      "SAN": {
+        "date": "2022-06-08T18:32:00-07:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/37da575ba33f85cef4239295be161066d8d39f4c/a0142z%20ctpr.txt",
+        "sha256": "6E88E2AC7571791EFCD03D4AB35FD7D724BFA0E388821BF51F2BD72610DD5BBF",
+        "commit": "37da575ba33f85cef4239295be161066d8d39f4c",
+        "quote": "the problem is that synchronization or coherence is non-informative, its a solution for binding, for convergence, coupling of patterns, but not for distinction making, decoherence, deconvergence, decoupling of of ideas & concepts",
+        "summary": "Joining signals is not enough: their differences must remain readable. SAN describes a receiving oscillator detecting changes against its own ongoing pattern.",
+        "line_locators": [
+          9,
+          11,
+          19,
+          24,
+          34,
+          36,
+          38,
+          40
+        ],
+        "source_context": "The same note cites Fries on communication through coherence and names Tse; it discusses inhibition, phase patterns and receiver-relative deviations. It does not claim to originate coherence, inhibition or generic information theory."
+      },
+      "target": {
+        "document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+        "title": "Consciousness Is Model Coherence",
+        "short_name": "CIMC",
+        "date": "2026-04-27",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen",
+          "Franz Hildebrandt-Harangozó",
+          "Lou de Kerhuelvez",
+          "Jim Rutt"
+        ],
+        "physical_pages": [
+          11,
+          13,
+          18,
+          19
+        ],
+        "printed_pages": [
+          10,
+          12,
+          17,
+          18
+        ],
+        "sections": [
+          "Coherence",
+          "An Operational Definition of Consciousness",
+          "Research Directions"
+        ],
+        "summary": "The later whitepaper coordinates distinct models and adjusts their contributions when they conflict. The shared function is selective coordination without losing distinctions."
+      },
+      "shared_subchain": "Coordinate differentiated components while retaining information-bearing distinctions, using selective interaction rather than merely pooling signals.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "Partial coordination/differentiation function: June's receiver-relative deviations and pattern selection map to preserving multiple representations and selectively adjusting or suppressing them (CIMC11); local exchange at19 is a possible implementation-level comparison, not the same oscillatory mechanism.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "June rejects binding alone as an explanation of distinction. CIMC's many partial models -> detected conflicts -> adjustment or below-awareness suppression is more specified; both require organized interaction of non-identical contributors."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from a globally coherent interpretation with multiple modalities: differentiated inputs and selective coordination are necessary. June is an antecedent for this bounded problem/operation, not a demonstrated solution to CIMC's complete self-organized second-order-perception criterion.",
+          "chronological_constraint": "Only this exact 2022-06-08T18:32:00-07:00 Git-record-dated formulation is compared against the selected 2026-04-27 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "Physical synchrony, oscillator baseline and semantic model consistency remain different variables. No demonstrated equivalence between June phase deviations and requests/confirmations or constraint reduction.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUN-CIMC-A04-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUN-CIMC-A04-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUN-CIMC-A04-03",
+          "author": "Franz Hildebrandt-Harangozó",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUN-CIMC-A04-04",
+          "author": "Lou de Kerhuelvez",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUN-CIMC-A04-05",
+          "author": "Jim Rutt",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 5,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "CIMC-conflict",
+        "CIMC-local"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022JUL-MCH-A05",
+      "concept_family": "A05",
+      "title": "Check the brain’s own representations for disagreement",
+      "conclusion": "Micah's July 2022 Git-recorded discussion proposes checking internal representations by sampling and cross-referencing them to notice inconsistency. MCH's reviewed version likewise makes conflicts between partial models a focus of conscious attention; the common subchain is comparison and discrepancy detection, not an equation of rarity with contradiction.",
+      "SAN": {
+        "date": "2022-07-06T20:15:38-07:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a/b0038y.md",
+        "sha256": "D6C617135E5838F0DF7B99FBEDFE3941F743A59FFFEE59A0F294C5EF7012F53A",
+        "commit": "6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a",
+        "quote": "Is there a way for a natural brain to check its own results, to check for pattern representation accuracy. one way to do that would be to sort of do to take multiple samples like sort of like with with and cross reference them, it's like, okay well I'm gonna attack multiple times and if something is true then it's gonna be true.",
+        "summary": "SAN proposes taking and cross-checking samples of the brain’s own representations. Disagreement can then be noticed instead of simply passed along.",
+        "line_locators": [
+          5,
+          7,
+          9,
+          31,
+          136,
+          140,
+          151,
+          155,
+          159,
+          163,
+          167,
+          171,
+          175,
+          179
+        ],
+        "source_context": "The rare-pattern statement explicitly invokes information theory. The later same-file checking discussion supplies the consistency operation; the review does not silently equate rarity with model contradiction or treat Shannon's general principle as a SAN invention."
+      },
+      "target": {
+        "document_id": "BACH-T06-MCH-2025-2026",
+        "title": "The Machine Consciousness Hypothesis",
+        "short_name": "MCH",
+        "date": "2026-01-15",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen"
+        ],
+        "physical_pages": [
+          17,
+          18
+        ],
+        "printed_pages": [
+          16,
+          17
+        ],
+        "sections": [
+          "The operation of consciousness"
+        ],
+        "summary": "The later paper directs attention toward conflicts between partial models. The shared operation is comparing representations and detecting disagreement."
+      },
+      "shared_subchain": "Maintain or obtain multiple representations -> compare/cross-reference them -> notice inconsistent content -> bring the discrepancy into a process that organizes the represented scene.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "Supported partial operational chain from July159-179, not from rarity alone: sample and cross-reference represented results, detect contradiction, cross a recognition threshold. MCH detects conflict between concurrent partial models and directs attention to it; its subsequent model adjustment is more explicit.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "July connects multimodal coincidence (136-140), checking representation accuracy (151-171), and recognition of a constructed reality (175-179). This aligns with MCH's partial models -> disharmony -> directed attention -> organized perceptual scene through the comparison/detection portion."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from a coherent reconstruction of a scene: a system must distinguish conflicting representations from a jointly supported account. July's checking narrative supports this antecedent; rarity in Shannon's sense does not by itself derive semantic contradiction.",
+          "chronological_constraint": "Only this exact 2022-07-06T20:15:38-07:00 Git-record-dated formulation is compared against the selected 2026-01-15 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "Rarity != inconsistency; noisy deviations may fail the recognition threshold. July does not provide MCH's explicit global constraint objective, conductor architecture or specific repair algorithm.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUL-MCH-A05-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUL-MCH-A05-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 2,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "MCH-conflict"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022JUL-CIMC-A05",
+      "concept_family": "A05",
+      "title": "Check the brain’s own representations for disagreement",
+      "conclusion": "Micah's July 2022 Git-recorded proposal cross-checks representations and notices inconsistency. CIMC's reviewed 2026 whitepaper likewise detects conflicts among partial models before coordinating them. The shared checking operation survives different implementations; rarity alone is not the match.",
+      "SAN": {
+        "date": "2022-07-06T20:15:38-07:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a/b0038y.md",
+        "sha256": "D6C617135E5838F0DF7B99FBEDFE3941F743A59FFFEE59A0F294C5EF7012F53A",
+        "commit": "6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a",
+        "quote": "Is there a way for a natural brain to check its own results, to check for pattern representation accuracy. one way to do that would be to sort of do to take multiple samples like sort of like with with and cross reference them, it's like, okay well I'm gonna attack multiple times and if something is true then it's gonna be true.",
+        "summary": "SAN proposes taking and cross-checking samples of the brain’s own representations. Disagreement can then be noticed instead of simply passed along.",
+        "line_locators": [
+          5,
+          7,
+          9,
+          31,
+          136,
+          140,
+          151,
+          155,
+          159,
+          163,
+          167,
+          171,
+          175,
+          179
+        ],
+        "source_context": "The rare-pattern statement explicitly invokes information theory. The later same-file checking discussion supplies the consistency operation; the review does not silently equate rarity with model contradiction or treat Shannon's general principle as a SAN invention."
+      },
+      "target": {
+        "document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+        "title": "Consciousness Is Model Coherence",
+        "short_name": "CIMC",
+        "date": "2026-04-27",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen",
+          "Franz Hildebrandt-Harangozó",
+          "Lou de Kerhuelvez",
+          "Jim Rutt"
+        ],
+        "physical_pages": [
+          11,
+          18,
+          19
+        ],
+        "printed_pages": [
+          10,
+          17,
+          18
+        ],
+        "sections": [
+          "Coherence",
+          "Interpretive Validation",
+          "Research Directions"
+        ],
+        "summary": "The later whitepaper detects conflicts between partial models before coordinating them. The match is the checking step, not an identical correction algorithm."
+      },
+      "shared_subchain": "Compare information from multiple representations/modalities -> detect disagreement -> recognize the discrepancy as relevant to the system's constructed account.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "July159-179 explicitly supplies cross-referencing, inconsistency detection and recognition thresholds; CIMC11 supplies comparison/conflict detection and attention. CIMC19 adds iterative requests/confirmations, which is not established in July.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "July's multimodal associations -> accuracy check -> contradiction recognition -> constructed reality shares a causal prefix with CIMC's competing models -> conflict detection -> coordinated revision. Repeated sampling is not automatically the same as simultaneously active partial models."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from consistent multi-model organization: a discrepancy-sensitive cross-check is a plausible necessary component. July supplies that component without licensing an identity between rare neural variations and constraint violations or the entire CIMC solution.",
+          "chronological_constraint": "Only this exact 2022-07-06T20:15:38-07:00 Git-record-dated formulation is compared against the selected 2026-04-27 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "Global optimization, simultaneous model constraints, suppression of unresolved content and distributed negotiation are target-specific elaborations not recovered as a single July algorithm.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUL-CIMC-A05-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUL-CIMC-A05-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUL-CIMC-A05-03",
+          "author": "Franz Hildebrandt-Harangozó",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUL-CIMC-A05-04",
+          "author": "Lou de Kerhuelvez",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022JUL-CIMC-A05-05",
+          "author": "Jim Rutt",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 5,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "CIMC-conflict"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022SEP-MCH-A06",
+      "concept_family": "A06",
+      "title": "Build an internal world, then register it again",
+      "conclusion": "Micah's September 2022 Git-recorded account builds experienced self and world from contrasts in a continuing field and makes rendered patterns available to the brain again. MCH's reviewed Genesis passage also builds represented space, objects and self through differences, alongside reflexive perception. This supports a shared construction narrative, not the same neural mechanism.",
+      "SAN": {
+        "date": "2022-09-17T23:23:08-07:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/7129fcf82a9d42665a1372ecdc803e912bc81b6a/a0310zNAPOT5.md",
+        "sha256": "66642AF5B4CC43F0CE252FAEF42970A6EEC57D0BAFE214A682E10E564D5CDC9E",
+        "commit": "7129fcf82a9d42665a1372ecdc803e912bc81b6a",
+        "quote": "The brain is effectively doing computational rendering & then reading it’s own output pattern, from neuronal outputs, as that pattern is looped or played back to the neural network of the brain which detects it, with neuronal inputs, and re-renders (outputs it again) with new sensor input data.",
+        "summary": "SAN proposes that differences in ongoing activity form a represented self and world. The brain receives its own rendered patterns again and updates them with new input.",
+        "line_locators": [
+          14,
+          18,
+          20,
+          22,
+          24,
+          30,
+          34,
+          36,
+          56,
+          60,
+          89,
+          91,
+          93,
+          99
+        ],
+        "source_context": "The September text explicitly includes bursts, inhibition and slow-wave departures, not excitation alone. The review isolates the proposed functional chain without treating every anatomical or frequency claim as experimentally established."
+      },
+      "target": {
+        "document_id": "BACH-T06-MCH-2025-2026",
+        "title": "The Machine Consciousness Hypothesis",
+        "short_name": "MCH",
+        "date": "2026-01-15",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen"
+        ],
+        "physical_pages": [
+          15,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "printed_pages": [
+          14,
+          15,
+          17,
+          18,
+          19,
+          20
+        ],
+        "sections": [
+          "The phenomenology of consciousness",
+          "The Genesis Hypothesis",
+          "Genesis: How consciousness creates the world and the self in the mind",
+          "The Human Consciousness Hypothesis"
+        ],
+        "summary": "The later Genesis account builds represented space, objects and self through differences. Elsewhere the paper makes perception itself available to perception."
+      },
+      "shared_subchain": "An initially undifferentiated representational field/substrate gains contrasts -> those distinctions organize an internally constructed world and self -> the system registers its own represented/perceptual activity.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "A substantial bounded functional correspondence: September18 differentiates raw awareness into self/world by contrast, and24 makes output available to renewed internal perception; MCH20 creates difference dimensions, space, objects and self, while15-16 supplies reflexive perceptual registration. MCH does not supply tonic neural implementation.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "The contrast -> organized experiential world -> represented self narrative is directly present on both sides, not merely inferred from the word rendering. September additionally specifies recurrent cellular rendering; MCH's Genesis claim makes consciousness an early organizing prerequisite, not simply a mature output."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from an internally constructed self-in-world: a differentiable medium, organization of relations and perceptual availability are required. September explicitly supplies this chain. The reverse mapping cannot recover all of MCH's developmental priority claims or its conductor operation.",
+          "chronological_constraint": "Only this exact 2022-09-17T23:23:08-07:00 Git-record-dated formulation is compared against the selected 2026-01-15 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "No target endorsement of specific tonic frequencies, anatomical assignments, phase-wave tomography or excitatory/inhibitory implementation. Re-reading outputs alone is not proof of MCH's synchronous second-order phenomenology, and the sources remain hypotheses.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022SEP-MCH-A06-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022SEP-MCH-A06-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 2,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "MCH-contrast",
+        "MCH-reflexive"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022SEP-CIMC-A06",
+      "concept_family": "A06",
+      "title": "Build an internal world, then register it again",
+      "conclusion": "Micah's September 2022 Git-recorded account has neural activity render self/world patterns and receive its own output again. CIMC's reviewed whitepaper similarly proposes self-organization of the substrate's own activity and reflexive perceptual representation. The common subchain is internal construction and re-entry, with its stricter perceptual constraints left separate.",
+      "SAN": {
+        "date": "2022-09-17T23:23:08-07:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/7129fcf82a9d42665a1372ecdc803e912bc81b6a/a0310zNAPOT5.md",
+        "sha256": "66642AF5B4CC43F0CE252FAEF42970A6EEC57D0BAFE214A682E10E564D5CDC9E",
+        "commit": "7129fcf82a9d42665a1372ecdc803e912bc81b6a",
+        "quote": "The brain is effectively doing computational rendering & then reading it’s own output pattern, from neuronal outputs, as that pattern is looped or played back to the neural network of the brain which detects it, with neuronal inputs, and re-renders (outputs it again) with new sensor input data.",
+        "summary": "SAN proposes that differences in ongoing activity form a represented self and world. The brain receives its own rendered patterns again and updates them with new input.",
+        "line_locators": [
+          14,
+          18,
+          20,
+          22,
+          24,
+          30,
+          34,
+          36,
+          56,
+          60,
+          89,
+          91,
+          93,
+          99
+        ],
+        "source_context": "The September text explicitly includes bursts, inhibition and slow-wave departures, not excitation alone. The review isolates the proposed functional chain without treating every anatomical or frequency claim as experimentally established."
+      },
+      "target": {
+        "document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+        "title": "Consciousness Is Model Coherence",
+        "short_name": "CIMC",
+        "date": "2026-04-27",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen",
+          "Franz Hildebrandt-Harangozó",
+          "Lou de Kerhuelvez",
+          "Jim Rutt"
+        ],
+        "physical_pages": [
+          10,
+          11,
+          12,
+          13,
+          18,
+          19
+        ],
+        "printed_pages": [
+          9,
+          10,
+          11,
+          12,
+          17,
+          18
+        ],
+        "sections": [
+          "A Hypothesis on Consciousness",
+          "Genesis",
+          "Second-order perception",
+          "An Operational Definition of Consciousness",
+          "Research Directions"
+        ],
+        "summary": "The later whitepaper proposes organizing the system’s own activity into representations and making perception internally available. This shares internal construction and re-entry, while adding further conditions."
+      },
+      "shared_subchain": "Operate on the substrate's own activity -> organize differentiated representations of self/world -> make the perceptual process internally available -> iteratively maintain organized experience.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "Partial re-entrant organization: September24 renders, receives its own output and re-renders with input; CIMC11 iteratively organizes its own activity patterns and11-13 makes the perceptual process present in its represented field. This is stronger than shared rendering vocabulary but not a matched neural algorithm.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "September's differentiated activity -> represented self/world -> recurrent observation shares a causal subchain with CIMC's self-organizing activity -> coherent representational structures -> reflexive perception. September's tonic contrast account is not explicitly repeated in this target."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from an internally available constructed experiential world: representation formation and access to one's own activity are plausible prerequisites. September supplies them. Same-level encoding, transparency and global coherence are additional CIMC constraints not derived solely from recurrent output.",
+          "chronological_constraint": "Only this exact 2022-09-17T23:23:08-07:00 Git-record-dated formulation is compared against the selected 2026-04-27 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "No whitepaper-specific Genesis contrast-to-space narrative equivalent to MCH20, and no stated tonic baseline/burst/inhibition mechanism. Perceptual same-level encoding and epistemic transparency stay unproved in this SAN passage.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022SEP-CIMC-A06-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022SEP-CIMC-A06-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022SEP-CIMC-A06-03",
+          "author": "Franz Hildebrandt-Harangozó",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022SEP-CIMC-A06-04",
+          "author": "Lou de Kerhuelvez",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022SEP-CIMC-A06-05",
+          "author": "Jim Rutt",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 5,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "CIMC-reflexive",
+        "CIMC-conflict"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022AN-MCH-A07",
+      "concept_family": "A07",
+      "title": "Look inside an artificial mind, not only at its answers",
+      "conclusion": "Micah's July 2022 Git-recorded discussion calls for criteria grounded in what artificial neural networks do internally, distinct from intelligence alone. MCH's reviewed version also makes internal organization central to consciousness testing. Its stronger argument against a behavior-only test is not established by this July passage.",
+      "SAN": {
+        "date": "2022-07-06T20:15:38-07:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a/b0038y.md",
+        "sha256": "D6C617135E5838F0DF7B99FBEDFE3941F743A59FFFEE59A0F294C5EF7012F53A",
+        "commit": "6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a",
+        "quote": "We need a guidebook for when an artificial neural network becomes conscious.",
+        "summary": "SAN connects the search for artificial consciousness to what neural systems do internally. It distinguishes this question from intelligence alone and connects it to ethical treatment.",
+        "line_locators": [
+          23,
+          29,
+          31,
+          114,
+          136,
+          140,
+          159,
+          195,
+          199,
+          203,
+          207,
+          211,
+          223,
+          253
+        ],
+        "source_context": "The guidebook is linked to concrete neural arrays, representation, multimodal comparison and checking operations. It is a research proposal, not an already validated consciousness test. The mature passage is present by the July Git record; it is not backdated from a June table of contents."
+      },
+      "target": {
+        "document_id": "BACH-T06-MCH-2025-2026",
+        "title": "The Machine Consciousness Hypothesis",
+        "short_name": "MCH",
+        "date": "2026-01-15",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen"
+        ],
+        "physical_pages": [
+          21,
+          22,
+          23,
+          24
+        ],
+        "printed_pages": [
+          20,
+          21,
+          22,
+          23
+        ],
+        "sections": [
+          "Testing the Machine Consciousness Hypothesis",
+          "Why there can be no Turing Test for consciousness",
+          "Universality"
+        ],
+        "summary": "The later paper makes internal organization important to testing consciousness. It also develops a stronger argument against relying on behavior alone."
+      },
+      "shared_subchain": "Use a theory of internal organization to identify candidate artificial consciousness, distinguish it from intelligent output alone, and guide what is constructed or assessed.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "A methodological/functional partial: July23/29/31/203/207/223 ties proposed criteria to neural representations and mechanisms; MCH23 requires internal structure rather than performance alone, and24 proposes theory-guided developmental construction.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "July mechanism account -> recognition criteria -> artificial-network assessment -> ethical concern shares the construction/assessment portion of MCH's hypothesis -> simulation -> structure-sensitive test. July is not an argued behavior-only impossibility theorem."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from knowing whether an artificial system is conscious: a criterion tied to what the system does internally is needed under both accounts. July offers that research demand, not MCH's logical argument that behavior alone cannot settle the question.",
+          "chronological_constraint": "Only this exact 2022-07-06T20:15:38-07:00 Git-record-dated formulation is compared against the selected 2026-01-15 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "No validated July consciousness diagnostic, no complete necessary-and-sufficient test, no demonstrated exclusion of all behavior-only methods; MCH also frames its tests as a research program with failure possibilities.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-MCH-A07-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-MCH-A07-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 2,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "MCH-internal"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022AN-CIMC-A07",
+      "concept_family": "A07",
+      "title": "Look inside an artificial mind, not only at its answers",
+      "conclusion": "Micah's July 2022 Git-recorded proposal connects artificial-consciousness criteria to internal neural operations and ethical treatment. CIMC's reviewed whitepaper also couples construction with analysis of internal organization and alternative explanations. The shared research method does not establish a validated test.",
+      "SAN": {
+        "date": "2022-07-06T20:15:38-07:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a/b0038y.md",
+        "sha256": "D6C617135E5838F0DF7B99FBEDFE3941F743A59FFFEE59A0F294C5EF7012F53A",
+        "commit": "6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a",
+        "quote": "We need a guidebook for when an artificial neural network becomes conscious.",
+        "summary": "SAN connects the search for artificial consciousness to what neural systems do internally. It distinguishes this question from intelligence alone and connects it to ethical treatment.",
+        "line_locators": [
+          23,
+          29,
+          31,
+          114,
+          136,
+          140,
+          159,
+          195,
+          199,
+          203,
+          207,
+          211,
+          223,
+          253
+        ],
+        "source_context": "The guidebook is linked to concrete neural arrays, representation, multimodal comparison and checking operations. It is a research proposal, not an already validated consciousness test. The mature passage is present by the July Git record; it is not backdated from a June table of contents."
+      },
+      "target": {
+        "document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+        "title": "Consciousness Is Model Coherence",
+        "short_name": "CIMC",
+        "date": "2026-04-27",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen",
+          "Franz Hildebrandt-Harangozó",
+          "Lou de Kerhuelvez",
+          "Jim Rutt"
+        ],
+        "physical_pages": [
+          6,
+          17,
+          18,
+          19
+        ],
+        "printed_pages": [
+          5,
+          16,
+          17,
+          18
+        ],
+        "sections": [
+          "Research program introduction",
+          "From Theory to Construction",
+          "Interpretive Validation",
+          "Ethical Considerations"
+        ],
+        "summary": "The later whitepaper pairs building artificial systems with examining their internal organization and alternative explanations. Both make this a research method, not a finished consciousness test."
+      },
+      "shared_subchain": "Ground artificial-consciousness criteria in a proposed internal mechanism -> examine candidate networks or construct test systems -> assess implications for their treatment.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "July's mechanism-linked criteria and distinction from intelligence partially correspond to CIMC6/17/18's construction plus interpretive analysis of internal organization. This is a methodological operation, not a demonstrated equivalence of classifiers.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "July actual neural operations -> criteria for consciousness -> understanding networks/ethical risk aligns with CIMC theory -> designed systems -> internal/behavioral evidence -> alternatives -> responsibility. Explicit comparison with alternative explanations is more developed in CIMC."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from responsible identification of candidate conscious systems: explain what internally realizes the hypothesized capacity, not merely whether it performs impressively. July supplies this bounded antecedent without furnishing CIMC's full inference-to-best-explanation procedure.",
+          "chronological_constraint": "Only this exact 2022-07-06T20:15:38-07:00 Git-record-dated formulation is compared against the selected 2026-04-27 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "No tested discriminator, converged definition of consciousness or validated internal signature in July. CIMC itself says neither behavioral performance nor weights alone can directly identify consciousness.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A07-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A07-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A07-03",
+          "author": "Franz Hildebrandt-Harangozó",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A07-04",
+          "author": "Lou de Kerhuelvez",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A07-05",
+          "author": "Jim Rutt",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 5,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "CIMC-internal"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022AN-MCH-A08",
+      "concept_family": "A08",
+      "title": "An artificial mind develops; it is not just a snapshot",
+      "conclusion": "Micah's November 2022 Git-recorded proposal distinguishes immediate experiential states from longer structural stages and applies both to artificial minds. MCH's reviewed Genesis account likewise makes developmental organization important to constructing self/world models. The shared developmental framing does not equate their mechanisms.",
+      "SAN": {
+        "date": "2022-11-28T18:09:11-08:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0320z.md",
+        "sha256": "D73632B6DF40CD48127C28B76B8B7965E22E4271BEA54F906E606F97D4E944C8",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "quote": "It's a concept that means we, as robots, can have computed short term state experiences, with synaptic phase changes, and long term stage changes, with (real or simulated) synaptic growth or decay which takes longer to happen.",
+        "summary": "SAN distinguishes short-lived experiences from slower changes in neural organization. It applies that distinction to the development of artificial minds.",
+        "line_locators": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19
+        ],
+        "source_context": "The source explicitly attributes the general states/stages concept to AQAL or Spiral Dynamics. Its SAN proposal connects that distinction to synaptic phase, growth/decay and artificial realization. The exact mature wording is November 2022, not a June heading."
+      },
+      "target": {
+        "document_id": "BACH-T06-MCH-2025-2026",
+        "title": "The Machine Consciousness Hypothesis",
+        "short_name": "MCH",
+        "date": "2026-01-15",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen"
+        ],
+        "physical_pages": [
+          19,
+          21,
+          24
+        ],
+        "printed_pages": [
+          18,
+          20,
+          23
+        ],
+        "sections": [
+          "The Genesis Hypothesis",
+          "The Human Consciousness Hypothesis",
+          "Universality"
+        ],
+        "summary": "The later Genesis account makes development important to constructing a self and world model. The shared developmental direction does not require identical learning mechanisms."
+      },
+      "shared_subchain": "Treat an artificial mind as something whose internal organization develops over time, not solely as a snapshot of present performance; design learning conditions that can alter that organization.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "Partial developmental-design operation: November5/9/13/19 links short-lived states to longer structural changes and proposes simulating both; MCH19/21/24 studies development that constructs self/world organization. Target does not operationalize the same fast/slow synaptic split.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "November experiences plus accumulated connection changes -> threshold changes in perspective -> developing robot mind aligns with MCH's learning trajectory -> organized self/world model. MCH's consciousness-before-complex-cognition claim is not supplied by that states/stages contrast."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from a developed artificial mind: inspect or simulate its path of organization, rather than only a present state. November is a dated developmental antecedent; it does not derive Genesis as a universal biological learning algorithm.",
+          "chronological_constraint": "Only this exact 2022-11-28T18:09:11-08:00 Git-record-dated formulation is compared against the selected 2026-01-15 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "States/stages is explicitly attributed to AQAL or Spiral Dynamics (11). Synaptic phase, growth/decay thresholds and implementation hardware are not MCH's developmental mechanism; no backdating this mature wording to June or to an older heading.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-MCH-A08-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-MCH-A08-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 2,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "MCH-development"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022AN-CIMC-A08",
+      "concept_family": "A08",
+      "title": "An artificial mind develops; it is not just a snapshot",
+      "conclusion": "Micah's November 2022 Git-recorded proposal connects long-term neural changes to threshold-like developmental stages in artificial minds. CIMC's reviewed whitepaper asks whether developmental trajectories show predicted transitions alongside new internal organization. This is a shared developmental test direction, not an equation of synaptic phase with developmental phase transitions.",
+      "SAN": {
+        "date": "2022-11-28T18:09:11-08:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0320z.md",
+        "sha256": "D73632B6DF40CD48127C28B76B8B7965E22E4271BEA54F906E606F97D4E944C8",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "quote": "Imagine that Synaptic Connections via Growth LTP & Decay LTD, over a long term, results in eventual threshold changes that we can identify as Stages, or major changes in live perspective that only happen after a very long time, or only happen after a very big life event.",
+        "summary": "SAN distinguishes short-lived experiences from slower changes in neural organization. It applies that distinction to the development of artificial minds.",
+        "line_locators": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19
+        ],
+        "source_context": "The source explicitly attributes the general states/stages concept to AQAL or Spiral Dynamics. Its SAN proposal connects that distinction to synaptic phase, growth/decay and artificial realization. The exact mature wording is November 2022, not a June heading."
+      },
+      "target": {
+        "document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+        "title": "Consciousness Is Model Coherence",
+        "short_name": "CIMC",
+        "date": "2026-04-27",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen",
+          "Franz Hildebrandt-Harangozó",
+          "Lou de Kerhuelvez",
+          "Jim Rutt"
+        ],
+        "physical_pages": [
+          10,
+          11,
+          18
+        ],
+        "printed_pages": [
+          9,
+          10,
+          17
+        ],
+        "sections": [
+          "A Hypothesis on Consciousness",
+          "Genesis",
+          "Interpretive Validation"
+        ],
+        "summary": "The later whitepaper asks whether a developing system shows transitions alongside new internal organization. SAN’s earlier threshold-stage proposal supports this particular comparison."
+      },
+      "shared_subchain": "Observe an artificial system's developmental trajectory for changes in internal organization, including threshold-like transitions associated with new capacities.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "Supported partial transition/assessment mapping: November9 explicitly proposes threshold changes in stages from accumulated growth/decay; CIMC18 asks whether developmental trajectories show predicted phase transitions and links marked cross-modal improvement to emergent internal structures.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "November ongoing experience and slow connection change -> qualitative stage -> mature artificial mind corresponds to CIMC self-organization/developmental pressure -> emergent organization and improved integration -> evidence to evaluate. Different causes remain visible."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from a newly organized artificial cognitive capacity: developmental evidence and qualitative changes matter. November supplies a threshold-stage antecedent; frequency phase and dynamical developmental phase transition are not interchangeable.",
+          "chronological_constraint": "Only this exact 2022-11-28T18:09:11-08:00 Git-record-dated formulation is compared against the selected 2026-04-27 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "CIMC's phase transitions are not specified as synaptic phase shifts or LTP/LTD, and November does not establish the target's coherence-plus-metarepresentation transition. General states/stages is acknowledged background from AQAL/Spiral Dynamics.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A08-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A08-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A08-03",
+          "author": "Franz Hildebrandt-Harangozó",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A08-04",
+          "author": "Lou de Kerhuelvez",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A08-05",
+          "author": "Jim Rutt",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 5,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "CIMC-development"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022AN-MCH-A09",
+      "concept_family": "A09",
+      "title": "Perception can include the act of perceiving",
+      "conclusion": "Micah's July 2022 Git-recorded discussion explicitly locates perceiving perception in neural operations, alongside internally rendered patterns received again. MCH's reviewed version also characterizes consciousness through perception that perception occurs. The partial reflexive correspondence does not establish identical timing or representational structure.",
+      "SAN": {
+        "date": "2022-07-06T20:15:38-07:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a/b0038y.md",
+        "sha256": "D6C617135E5838F0DF7B99FBEDFE3941F743A59FFFEE59A0F294C5EF7012F53A",
+        "commit": "6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a",
+        "quote": "the one process in the machine is always seeking to know, it's always seeking to know is perceiving perception.",
+        "summary": "SAN explicitly discusses perceiving perception as a neural process. Its account includes internally rendered patterns being received again.",
+        "line_locators": [
+          31,
+          136,
+          140,
+          159,
+          175,
+          179,
+          187,
+          191,
+          195,
+          199
+        ],
+        "source_context": "The source's explicit phrase is embedded in an account of multimodal coincidence, representation checking and neural-array rendering. A following receiver by itself does not prove same-level metarepresentation; this is tested as a partial reflexive-perception proposal."
+      },
+      "target": {
+        "document_id": "BACH-T06-MCH-2025-2026",
+        "title": "The Machine Consciousness Hypothesis",
+        "short_name": "MCH",
+        "date": "2026-01-15",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen"
+        ],
+        "physical_pages": [
+          15,
+          16,
+          19
+        ],
+        "printed_pages": [
+          14,
+          15,
+          18
+        ],
+        "sections": [
+          "The phenomenology of consciousness",
+          "Reflexive conductor question"
+        ],
+        "summary": "The later paper also describes perception that perception is occurring. The shared reflexive function does not establish identical timing or structure."
+      },
+      "shared_subchain": "A neural/computational process registers its own perceptual activity, with internal representations available to further perception rather than an unexplained outside viewer.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "July195 explicitly characterizes a neural mechanism as perceiving perception;31 supplies neural-array output received by another array and159 checking one's own results. MCH15 explicitly perceives that perception is occurring. This supports a partial reflexive function beyond a generic feed-forward receiver.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "July rendered multimodal pattern -> subsequent reception/checking -> acknowledgment/perceiving perception aligns with MCH structured percept -> contemporaneous registration of observing. The source's ordered next-array story is not proof of subjective simultaneity."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from awareness of perceiving: the system must make its own perceptual activity available to a perceptual process. July supplies that stated objective and candidate operation, not the complete sufficient conditions for second-order phenomenology.",
+          "chronological_constraint": "Only this exact 2022-07-06T20:15:38-07:00 Git-record-dated formulation is compared against the selected 2026-01-15 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "A following receiver alone could process content without representing that perception occurs. July does not establish MCH's immediate non-inferential synchronous form, and its self-as-direction (187) is not MCH's full observing-self model.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-MCH-A09-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-MCH-A09-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 2,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "MCH-reflexive"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022AN-CIMC-A09",
+      "concept_family": "A09",
+      "title": "Perception can include the act of perceiving",
+      "conclusion": "Micah's July 2022 Git-recorded proposal explicitly treats perceiving perception as neural activity. CIMC's reviewed whitepaper likewise makes reflexive perception central, while adding same-level encoding and transparency constraints not established by the July receiver description.",
+      "SAN": {
+        "date": "2022-07-06T20:15:38-07:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a/b0038y.md",
+        "sha256": "D6C617135E5838F0DF7B99FBEDFE3941F743A59FFFEE59A0F294C5EF7012F53A",
+        "commit": "6ab9773f25d460c305d1d2de9a8ee5e0ca03ee4a",
+        "quote": "the one process in the machine is always seeking to know, it's always seeking to know is perceiving perception.",
+        "summary": "SAN explicitly discusses perceiving perception as a neural process. Its account includes internally rendered patterns being received again.",
+        "line_locators": [
+          31,
+          136,
+          140,
+          159,
+          175,
+          179,
+          187,
+          191,
+          195,
+          199
+        ],
+        "source_context": "The source's explicit phrase is embedded in an account of multimodal coincidence, representation checking and neural-array rendering. A following receiver by itself does not prove same-level metarepresentation; this is tested as a partial reflexive-perception proposal."
+      },
+      "target": {
+        "document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+        "title": "Consciousness Is Model Coherence",
+        "short_name": "CIMC",
+        "date": "2026-04-27",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen",
+          "Franz Hildebrandt-Harangozó",
+          "Lou de Kerhuelvez",
+          "Jim Rutt"
+        ],
+        "physical_pages": [
+          11,
+          12,
+          13
+        ],
+        "printed_pages": [
+          10,
+          11,
+          12
+        ],
+        "sections": [
+          "Second-order perception",
+          "Consciousness Distinguished from Concomitants",
+          "An Operational Definition of Consciousness"
+        ],
+        "summary": "The later whitepaper likewise makes perception of perception central. It adds same-level representation and transparency conditions that need separate comparison."
+      },
+      "shared_subchain": "The perceptual process becomes internally available as part of what the system registers; perception of perception is proposed as a function of the substrate's own activity.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "July195 states the reflexive operation and31/159 supplies candidate re-reception and checking. CIMC11-13 explicitly requires perception of perception. Shared function is supported; same-level encoding and transparent representational format are extra target constraints.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "July multimodal rendering -> re-reception/checking -> perceiving perception shares a subchain with CIMC organized perceptual field -> inclusion of its occurrence -> global coherence operator. It does not establish the last coherence-specific coupling as a joined mechanism."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from second-order perceptual presence: one's own perceptual occurrence must be represented, not just outputs forwarded. July's explicit195 supports the proposed reflexive requirement; the next-array mechanism alone cannot decide whether target13's same-level and transparency conditions hold.",
+          "chronological_constraint": "Only this exact 2022-07-06T20:15:38-07:00 Git-record-dated formulation is compared against the selected 2026-04-27 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "Same-level metarepresentation, non-inferential synchrony, epistemic transparency and global-coherence linkage remain unresolved. The target itself says its precise format and constraints are still under development.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A09-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A09-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A09-03",
+          "author": "Franz Hildebrandt-Harangozó",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A09-04",
+          "author": "Lou de Kerhuelvez",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A09-05",
+          "author": "Jim Rutt",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 5,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "CIMC-reflexive"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022AN-MCH-A10",
+      "concept_family": "A10",
+      "title": "Choose the detail a simulation needs to preserve",
+      "conclusion": "Micah's November 2022 Git-recorded implementation proposal models individual dendrites, synapses and their changing dynamics. MCH's reviewed version likewise raises the possibility that simulating consciousness needs more cellular detail than simplified neuron-to-neuron messages. Neither establishes the required resolution experimentally.",
+      "SAN": {
+        "date": "2022-11-28T18:09:11-08:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0320z.md",
+        "sha256": "D73632B6DF40CD48127C28B76B8B7965E22E4271BEA54F906E606F97D4E944C8",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "quote": "The essential physics process could be simulated in just matrix calculations on a TPU, with each dendrite, each neuron, each synapse, and each cortical column being unique or random in it's original configuration",
+        "summary": "SAN proposes modeling dendrites, synapses, neurons and larger assemblies with changing spatial and temporal responses.",
+        "line_locators": [
+          3,
+          7,
+          9,
+          13,
+          15,
+          17,
+          19,
+          21
+        ],
+        "source_context": "The source compares FPGA/GPU/TPU and neuromorphic options as speculative implementation routes. It names dendrites and synapses explicitly but does not require simulation of every biochemical process."
+      },
+      "target": {
+        "document_id": "BACH-T06-MCH-2025-2026",
+        "title": "The Machine Consciousness Hypothesis",
+        "short_name": "MCH",
+        "date": "2026-01-15",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen"
+        ],
+        "physical_pages": [
+          21,
+          22
+        ],
+        "printed_pages": [
+          20,
+          21
+        ],
+        "sections": [
+          "The extended Machine Consciousness Hypothesis"
+        ],
+        "summary": "The later paper raises the possibility that simplified messages between neurons may omit important cellular machinery. Both question what detail a simulation needs."
+      },
+      "shared_subchain": "A simulation meant to realize consciousness may need to retain computational detail below a simplified whole-neuron unit; preserve relevant component organization rather than assume a coarse network is sufficient.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "Bounded implementation-granularity match: November19 explicitly models individual dendrites and synapses with spatial/temporal response and fast/slow changes; MCH22 questions sparse inter-neuron messages and asks whether complex cellular machinery must also be simulated.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "November computational account -> choose substrate -> model sub-neural and network dynamics -> rendered activity corresponds to MCH hypothesized functionality -> test simulation sufficiency -> possibly increase cellular resolution. Both are proposed requirements, not successful implementations."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from a simulation preserving consciousness-relevant functions: test which intra-cellular/sub-neural details a coarse abstraction omits. November supplies concrete dendritic/synaptic candidates; MCH's broader machinery question does not identify the same minimal sufficient set.",
+          "chronological_constraint": "Only this exact 2022-11-28T18:09:11-08:00 Git-record-dated formulation is compared against the selected 2026-01-15 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "Dendrites and synapses are sub-neural structures, not evidence that every intracellular biochemical process must be simulated. MCH makes a possibility statement, not a proven requirement; neither side demonstrates sufficiency or feasibility.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-MCH-A10-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-MCH-A10-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 2,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "MCH-cell"
+      ]
+    },
+    {
+      "win_id": "BACH-DOCWIN-2022AN-CIMC-A10",
+      "concept_family": "A10",
+      "title": "Local interactions can build higher-order organization",
+      "conclusion": "Micah's November 2022 Git-recorded proposal links context-sensitive local neural components and larger assemblies in a simulated mind. CIMC's reviewed whitepaper also studies how local interactions produce higher-order organization. Its cited pages do not establish the stronger claim that simulation must extend inside neurons.",
+      "SAN": {
+        "date": "2022-11-28T18:09:11-08:00",
+        "date_type": "Locally verified Git author and committer timestamps of byte-matching blob; not independently timestamped first-public availability",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0320z.md",
+        "sha256": "D73632B6DF40CD48127C28B76B8B7965E22E4271BEA54F906E606F97D4E944C8",
+        "commit": "4e0cf1ee0975c01dc57182368497d3f0cd864030",
+        "quote": "The essential physics process could be simulated in just matrix calculations on a TPU, with each dendrite, each neuron, each synapse, and each cortical column being unique or random in it's original configuration",
+        "summary": "SAN proposes modeling dendrites, synapses, neurons and larger assemblies with changing spatial and temporal responses.",
+        "line_locators": [
+          3,
+          13,
+          15,
+          17,
+          19,
+          21
+        ],
+        "source_context": "The source compares FPGA/GPU/TPU and neuromorphic options as speculative implementation routes. It names dendrites and synapses explicitly but does not require simulation of every biochemical process."
+      },
+      "target": {
+        "document_id": "BACH-T07-CIMC-WHITEPAPER-V2-2026",
+        "title": "Consciousness Is Model Coherence",
+        "short_name": "CIMC",
+        "date": "2026-04-27",
+        "date_type": "Selected document-version date, not proof this wording appeared in the initial publication",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "authors": [
+          "Joscha Bach",
+          "Hikari Sorensen",
+          "Franz Hildebrandt-Harangozó",
+          "Lou de Kerhuelvez",
+          "Jim Rutt"
+        ],
+        "physical_pages": [
+          18,
+          19
+        ],
+        "printed_pages": [
+          17,
+          18
+        ],
+        "sections": [
+          "Self-organization and multi-agent systems",
+          "Cognitive architectures"
+        ],
+        "summary": "The later whitepaper studies how local interactions create higher-order organization. That supports a local-to-global match, not a claim that this whitepaper requires simulating inside neurons."
+      },
+      "shared_subchain": "Local interacting computational units, arranged across scales, can be studied or simulated as the basis for higher-order organization.",
+      "lenses": {
+        "L1": {
+          "result": "PARTIAL_FUNCTIONAL_OR_OPERATIONAL_CORRESPONDENCE",
+          "reasoning": "A weaker but genuine multiscale/local-interaction partial: November19 discusses neurons, arrays, edge communities, columns and synchronous groups with context-sensitive responses; CIMC18 studies local units, cells and communities generating global structures, and19 uses distributed messages.",
+          "formal_ceiling": "No proved mathematical isomorphism, bisimulation, functor or implementation equivalence; theoretical correspondence is not experimental validation."
+        },
+        "L2": {
+          "result": "PARTIAL_CAUSAL_OR_NARRATIVE_CORRESPONDENCE",
+          "reasoning": "November local spatial/temporal interactions -> assemblies -> rendered system activity shares a local-to-global architecture with CIMC local update rules -> organized dynamics. CIMC's NCA/requests-confirmations implementation does not instantiate November's sub-neural simulation details."
+        },
+        "L3": {
+          "result": "BOUNDED_REVERSE_RECONSTRUCTION_WITH_ALTERNATIVES_OPEN",
+          "reasoning": "Reverse from higher-order organized dynamics: some local interaction rules and component organization must be implemented. November provides a candidate hierarchy; the target output does not force an intra-cellular simulation requirement.",
+          "chronological_constraint": "Only this exact 2022-11-28T18:09:11-08:00 Git-record-dated formulation is compared against the selected 2026-04-27 target version. Earlier source and target routes remain open; no unique derivation, independent first-publication proof, whole-program firstness or influence follows."
+        }
+      },
+      "residual": "CIMC18-19 neither requires nor explicitly proposes simulating inside a neuron. Processing units, biological cells and agent communities are comparison scales, not evidence of subcellular fidelity. Retain the stronger route open, not established.",
+      "citation_state": "Citation/omission, access and dependence are not adjudicated by this bounded review.",
+      "author_edges": [
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A10-01",
+          "author": "Joscha Bach",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A10-02",
+          "author": "Hikari Sorensen",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A10-03",
+          "author": "Franz Hildebrandt-Harangozó",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A10-04",
+          "author": "Lou de Kerhuelvez",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        },
+        {
+          "id": "BACH-AUTHOR-EDGE-BACH-DOCWIN-2022AN-CIMC-A10-05",
+          "author": "Jim Rutt",
+          "role": "Document-authorship navigation; not an extra win or attribution of this idea to that individual."
+        }
+      ],
+      "longitudinal_result": "LSM-UNKNOWN",
+      "card_footprint": {
+        "scope": "This exact source-to-document comparison",
+        "SAN_framings": 1,
+        "SAN_documents": 1,
+        "target_versions": 1,
+        "comparison_links": 1,
+        "author_navigation_edges": 5,
+        "target_occurrences": null,
+        "target_occurrence_boundary": "Not separately counted; this link is not a recurrence total."
+      },
+      "target_excerpt_refs": [
+        "CIMC-units",
+        "CIMC-local"
+      ]
+    }
+  ],
+  "excerpt_bank": {
+    "MCH-conflict": {
+      "document": "MCH",
+      "page": 18,
+      "quote": "disharmonies and conflicts"
+    },
+    "MCH-contrast": {
+      "document": "MCH",
+      "page": 20,
+      "quote": "dimensions of difference"
+    },
+    "MCH-internal": {
+      "document": "MCH",
+      "page": 23,
+      "quote": "internal structure"
+    },
+    "MCH-development": {
+      "document": "MCH",
+      "page": 24,
+      "quote": "developmental learning"
+    },
+    "MCH-reflexive": {
+      "document": "MCH",
+      "page": 15,
+      "quote": "second-order perception"
+    },
+    "MCH-cell": {
+      "document": "MCH",
+      "page": 22,
+      "quote": "complex machinery within each cell"
+    },
+    "CIMC-conflict": {
+      "document": "CIMC",
+      "page": 11,
+      "quote": "detects and resolves these conflicts"
+    },
+    "CIMC-reflexive": {
+      "document": "CIMC",
+      "page": 13,
+      "quote": "self-organized second-order perception"
+    },
+    "CIMC-internal": {
+      "document": "CIMC",
+      "page": 17,
+      "quote": "internal organization"
+    },
+    "CIMC-development": {
+      "document": "CIMC",
+      "page": 18,
+      "quote": "developmental trajectory"
+    },
+    "CIMC-units": {
+      "document": "CIMC",
+      "page": 18,
+      "quote": "basic processing units"
+    },
+    "CIMC-local": {
+      "document": "CIMC",
+      "page": 18,
+      "quote": "local update rules"
+    }
+  },
+  "longitudinal": {
+    "result": "LSM-UNKNOWN",
+    "quantitative_state": "quantitative-not-calibrated",
+    "boundaries": [
+      "Two related later target papers are not two independent confirmations.",
+      "The full inherited grid contains 11 Micah stages × 21 target-document/version occurrences × 924 document-qualified atoms (213,444 cells); its unresolved earlier/newest source gates remain open.",
+      "No copying, access, motive, dependence probability, mathematical isomorphism or five-sigma claim.",
+      "This selected matrix does not close the 66 inherited semantic joins.",
+      "No prior Lens 4 event, rank, count or membership is changed."
+    ]
+  },
+  "policy": {
+    "motives": "The Comparison Wiki assigns no motives as a policy design. Motive analysis is deferred at this methodological stage.",
+    "citation": "Citation omission, access and dependence are not adjudicated in this edition.",
+    "dates": "The 2022 dates are verified Git source-record dates. Current public access to the exact bytes was checked; first public availability on those dates is not independently established.",
+    "scope": "These cards do not finish the complete before-and-after program. Other source stages and historical findings remain preserved and open.",
+    "verification": "Source comparison is separate from experimental validation, browser testing, publication and deployment."
+  }
+}

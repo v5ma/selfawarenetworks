@@ -1,0 +1,752 @@
+{
+  "status": "SOURCE-SCOPED-COMPARISON-SELECTION",
+  "title": "SAN / Neural Lace compared with Joscha Bach and coauthors",
+  "source_review_sha256": "5E7A6E507236B6A9A3428D457C9BF8A8946426D21CA7732A86FAFD68FE45AF33",
+  "counts": {
+    "source_documents": 1,
+    "examined_framings": 5,
+    "target_document_versions": 2,
+    "graded_links": 10,
+    "author_edges": 35,
+    "independently_counted_target_occurrences": null
+  },
+  "lens4": "LSM-UNKNOWN; quantitative-not-calibrated",
+  "rows": [
+    {
+      "id": "BACH-DOCWIN-2017-MCH-A03",
+      "family": "A03",
+      "title": "Building objects inside a spatial representation",
+      "conclusion": "Blumberg's earlier source record already joins spatial features, object categories and predicted movement; Bach and Sorensen's later text also builds and tracks objects within a represented world.",
+      "shared": "Both descriptions organize perceptual features into represented objects and use more than a bare label: the SAN passage predicts movement; the later passage identifies and tracks individuals in an internally constructed space.",
+      "grade": "partial",
+      "source": {
+        "name": "Micah Blumberg / SAN",
+        "record_date": "2025-06-21",
+        "record_date_type": "Git wording record; first public release not independently dated",
+        "recording_date": "April 2017 (attributed; original audio/upload not verified)",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/214c640ba35e81350eaef71635a255f00d18ad75/nlp1.md",
+        "recording_url": "https://youtu.be/YrX_68oKuVs",
+        "sha256": "A1138D2B2324987EB96E1595D622165E13EE6B2CD9E978B32B1A753ABDE783BB",
+        "quotes": [
+          "And we're going to call this the concept of a car.",
+          "And not only do we have this concept of a car, which is all these lines, but we can also predict which way the car is moving."
+        ],
+        "ranges": [
+          [
+            61,
+            81
+          ],
+          [
+            151,
+            189
+          ]
+        ],
+        "transcription": "Source labels OpenAI Whisper transcription; audio accuracy not independently checked here"
+      },
+      "target": {
+        "name": "Joscha Bach, Hikari Sorensen",
+        "title": "The Machine Consciousness Hypothesis",
+        "date": "2026-01-15",
+        "date_type": "Selected PDF version date, not initial article date",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "page": 20,
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "quote": "Consciousness sorts things and animals into different kinds, identifies and tracks individuals, and gives each their names."
+      },
+      "lenses": {
+        "L1": {
+          "result": "partial",
+          "analysis": "Partial conceptual and operational correspondence: spatial features become individuated/categorized objects within a model. Tracking and motion prediction are related temporal operations, not identical algorithms."
+        },
+        "L2": {
+          "result": "bounded-subchain-correspondence",
+          "analysis": "Common ordered subchain: organize spatial distinctions -> construct object representations -> maintain or predict an object over change. SAN links it to paired brain/computer measurement; MCH embeds it in a genesis story."
+        },
+        "L3": {
+          "result": "COMPATIBLE-RECONSTRUCTION-NOT-UNIQUE",
+          "constrained_conclusion": "The target output is categorized objects whose individual identity can be tracked over change, not just a list of object names.",
+          "required_operations": "There must be an operation relating perceptual distinctions to an object representation, and some way to preserve or update object identity across changing observations.",
+          "alternative_routes": "A feed-forward classifier with a separate tracker, a recurrent scene model, and predictive object tracking can satisfy parts of that requirement without the same genesis or consciousness mechanism.",
+          "source_test": "SAN lines 71–79 explicitly group lines into a car and predict its motion; lines 169–189 describe a spatial representation changing over time. This supplies the object-building and temporal-relation subset.",
+          "remaining_indeterminacy": "The backward test supports a partial object-processing relation. It does not force MCH to use SAN’s BCI measurement procedure or prove identical tracking and prediction algorithms.",
+          "analysis": "Work backward from recognizing the same moving individual: the system must retain discriminative features and link observations across change; grouped object representations are a compatible route. Output does not determine a unique representation, consciousness mechanism, thalamic code, or influence.",
+          "constrained_target_output": "Named/categorized individuals remain identifiable as their positions or appearances change."
+        }
+      },
+      "formal": "Qualitative partial trace: features -> object-in-space -> temporal object relation. No equality of update functions, full simulation, functor or bisimulation is proved.",
+      "residual": "The SAN passage does not here present MCH's second-order-perception genesis mechanism. MCH does not here give SAN's joint external-scene/neural-measurement BCI procedure. Shared categorization alone is historically broad.",
+      "before_state": "The 21-occurrence program history remains open. This is document-relative source-record chronology, not author-wide firstness or a completed before/after migration finding.",
+      "citation_state": "not-evaluable",
+      "footprint": {
+        "SAN_source_documents": 1,
+        "examined_framings": 1,
+        "target_document_versions": 1,
+        "graded_links": 1,
+        "author_edges": 2,
+        "target_repetitions": null
+      },
+      "overlap": "Source passages overlap across the five reviewed framings. These links and author edges are not independent inventions, target repetitions or statistical confirmations."
+    },
+    {
+      "id": "BACH-DOCWIN-2017-CIMC-A03",
+      "family": "A03",
+      "title": "Combining partial information into an experienced world",
+      "conclusion": "Blumberg's earlier source record explains experience as sparse sensory input completed by internal concepts; the later CIMC text likewise builds a perceptual world from partial models.",
+      "shared": "Both make the experienced world depend on the combination of partial internal representations, not on simply copying the incoming sensory stream.",
+      "grade": "partial",
+      "source": {
+        "name": "Micah Blumberg / SAN",
+        "record_date": "2025-06-21",
+        "record_date_type": "Git wording record; first public release not independently dated",
+        "recording_date": "April 2017 (attributed; original audio/upload not verified)",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/214c640ba35e81350eaef71635a255f00d18ad75/nlp1.md",
+        "recording_url": "https://youtu.be/YrX_68oKuVs",
+        "sha256": "A1138D2B2324987EB96E1595D622165E13EE6B2CD9E978B32B1A753ABDE783BB",
+        "quotes": [
+          "These are all, um, supporting concepts that are taking a little bit of information coming from your senses and bolstering that into your complete experience."
+        ],
+        "ranges": [
+          [
+            103,
+            131
+          ],
+          [
+            151,
+            189
+          ]
+        ],
+        "transcription": "Source labels OpenAI Whisper transcription; audio accuracy not independently checked here"
+      },
+      "target": {
+        "name": "Joscha Bach, Hikari Sorensen, Franz Hildebrandt-Harangozó, Lou de Kerhuelvez, Jim Rutt",
+        "title": "CIMC Research Program for Machine Consciousness, Whitepaper v2",
+        "date": "2026-04-27",
+        "date_type": "Selected PDF version date, not initial article date",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "page": 11,
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "quote": "they minimize constraint violations between partial models of reality maintained in parallel."
+      },
+      "lenses": {
+        "L1": {
+          "result": "partial",
+          "analysis": "Partial representational assembly: limited sensory information and supporting concepts contribute to a complete experienced scene; concurrent partial models contribute to a consistent perceptual world."
+        },
+        "L2": {
+          "result": "bounded-subchain-correspondence",
+          "analysis": "Shared subchain: partial contributions -> integration in an internal representational system -> experienced world. Conflict detection and its resolution are explicit in CIMC and are not silently read into this SAN sentence."
+        },
+        "L3": {
+          "result": "COMMON-INTEGRATION-REQUIREMENT-WITH-REPAIR-RESIDUAL",
+          "constrained_conclusion": "The target constructs a perceptual world from simultaneously maintained partial models, despite their incompleteness and potential conflict.",
+          "required_operations": "Contributions from more than one partial representation must affect an organized output; the target additionally requires a way to reduce inconsistency between those contributions.",
+          "alternative_routes": "Completion from stored expectations, a feed-forward integrator, and iterative constraint repair are possible routes. A shared completed-world output alone cannot select which repair rule is used.",
+          "source_test": "SAN lines 107–131 explicitly combine limited sensory input with internally supplied supporting concepts into complete experience. That satisfies the multi-contribution completion subset rather than merely mentioning perception.",
+          "remaining_indeterminacy": "The source passage does not specify the target’s constraint-minimization operator. The assembly subset remains supported while that additional operator stays open for other genealogy rows.",
+          "analysis": "Work backward from a stable scene built from partial, potentially incompatible models: contributions must be represented and their conflicts must be handled by reconciliation, weighting, exclusion or suppression. The monologue's internally supplied context and converging senses support the integration portion, but do not specify that conflict-handling operation. Sensory completion and alternative model-selection schemes could yield the bounded perceptual output; neither the output nor the source fixes CIMC's attention/repair implementation.",
+          "constrained_target_output": "A stable perceptual world is sustained from simultaneous partial models, including potentially conflicting contributions."
+        }
+      },
+      "formal": "Partial input/transform/output alignment of sensory-and-internal contributions -> integration -> scene; no proof that the two integration operators implement the same optimization.",
+      "residual": "Sensory completion using supporting concepts does not by itself specify CIMC's contradiction detection, attention allocation or suppression rule. Those differences limit this pair, without removing its shared integration operation.",
+      "before_state": "The 21-occurrence program history remains open. This is document-relative source-record chronology, not author-wide firstness or a completed before/after migration finding.",
+      "citation_state": "not-evaluable",
+      "footprint": {
+        "SAN_source_documents": 1,
+        "examined_framings": 1,
+        "target_document_versions": 1,
+        "graded_links": 1,
+        "author_edges": 5,
+        "target_repetitions": null
+      },
+      "overlap": "Source passages overlap across the five reviewed framings. These links and author edges are not independent inventions, target repetitions or statistical confirmations."
+    },
+    {
+      "id": "BACH-DOCWIN-2017D-MCH-A13",
+      "family": "A13",
+      "title": "Representations participate in changing mental states",
+      "conclusion": "Blumberg's earlier record proposes an operation that changes an ongoing neural experience; the later MCH text also treats mental states as causally transformable. The common state-transition principle is partial, not an identical controller.",
+      "shared": "Both proposals give represented mental state a causal role in a transition to another mental state, rather than treating it as an inert report.",
+      "grade": "weak-partial",
+      "source": {
+        "name": "Micah Blumberg / SAN",
+        "record_date": "2025-06-21",
+        "record_date_type": "Git wording record; first public release not independently dated",
+        "recording_date": "April 2017 (attributed; original audio/upload not verified)",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/214c640ba35e81350eaef71635a255f00d18ad75/nlp1.md",
+        "recording_url": "https://youtu.be/YrX_68oKuVs",
+        "sha256": "A1138D2B2324987EB96E1595D622165E13EE6B2CD9E978B32B1A753ABDE783BB",
+        "quotes": [
+          "But what you would do then is figure out the difference between the pattern that's there and the pattern that should be there if steak was there.",
+          "And then you send the difference between those two patterns so that the pattern that received just allows you to have steak into your reality where there was none before."
+        ],
+        "ranges": [
+          [
+            491,
+            519
+          ]
+        ],
+        "transcription": "Source labels OpenAI Whisper transcription; audio accuracy not independently checked here"
+      },
+      "target": {
+        "name": "Joscha Bach, Hikari Sorensen",
+        "title": "The Machine Consciousness Hypothesis",
+        "date": "2026-01-15",
+        "date_type": "Selected PDF version date, not initial article date",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "page": 17,
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "quote": "By characterizing consciousness as an operator on mental states, we can approach its functionality by observing how mental states change as a result of conscious operation."
+      },
+      "lenses": {
+        "L1": {
+          "result": "weak-partial",
+          "analysis": "Partial process correspondence at the state-transition level. SAN specifies a current/desired comparison and proposed external write-in; MCH characterizes internally conscious operation by its effects on mental state."
+        },
+        "L2": {
+          "result": "bounded-subchain-correspondence",
+          "analysis": "Shared narrow subchain: a represented mental state -> an operation on that state -> changed mental content. The controller and cause of the operation differ, so this is not a match of the whole control architecture."
+        },
+        "L3": {
+          "result": "UNDERDETERMINED-STATE-CHANGE-RECONSTRUCTION",
+          "constrained_conclusion": "The target treats conscious operation as capable of changing a mental state.",
+          "required_operations": "At minimum, there must be distinguishable before/after mental states and an effective transformation between them. This alone does not require an explicitly represented goal or a difference message.",
+          "alternative_routes": "Externally induced change, autonomous control, and spontaneous internal state evolution can instantiate state transitions; only further constraints distinguish those causes.",
+          "source_test": "SAN lines 497–507 provide a concrete proposed transformation: compare the current pattern with an intended one, then transmit a change that alters experienced content.",
+          "remaining_indeterminacy": "This is a broad partial state-transition framing, not identity between an external BCI operator and conscious agency. No target-specific controller can be reconstructed from this shared endpoint alone.",
+          "analysis": "Given a changed mental state, some effective transition must have occurred; that observation alone neither entails a desired-state comparator nor a difference-coded signal. MCH's more constrained coherent output is compatible with many repair operations. A full delta-controller cannot be reverse-inferred.",
+          "constrained_target_output": "Conscious operation changes mental states; the surrounding target account associates the change with increased coherence."
+        }
+      },
+      "formal": "Abstract partial transition correspondence s -> operation -> s′. The SAN transition carries a specified desired state and difference message; those labels have no exact mapped MCH operator here.",
+      "residual": "MCH does not specify a current/desired difference or an external BCI channel in this passage. SAN's difference-write proposal is not a demonstration of consciousness's own control process.",
+      "before_state": "The 21-occurrence program history remains open. This is document-relative source-record chronology, not author-wide firstness or a completed before/after migration finding.",
+      "citation_state": "not-evaluable",
+      "footprint": {
+        "SAN_source_documents": 1,
+        "examined_framings": 1,
+        "target_document_versions": 1,
+        "graded_links": 1,
+        "author_edges": 2,
+        "target_repetitions": null
+      },
+      "overlap": "Source passages overlap across the five reviewed framings. These links and author edges are not independent inventions, target repetitions or statistical confirmations."
+    },
+    {
+      "id": "BACH-DOCWIN-2017D-CIMC-A13",
+      "family": "A13",
+      "title": "Using a represented goal to select a state change",
+      "conclusion": "Blumberg's earlier record computes a neural update from a represented desired state; the later CIMC definition also makes represented goals guide control over future states.",
+      "shared": "Both use a represented intended state to guide a change, rather than applying an unrelated fixed signal.",
+      "grade": "partial",
+      "source": {
+        "name": "Micah Blumberg / SAN",
+        "record_date": "2025-06-21",
+        "record_date_type": "Git wording record; first public release not independently dated",
+        "recording_date": "April 2017 (attributed; original audio/upload not verified)",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/214c640ba35e81350eaef71635a255f00d18ad75/nlp1.md",
+        "recording_url": "https://youtu.be/YrX_68oKuVs",
+        "sha256": "A1138D2B2324987EB96E1595D622165E13EE6B2CD9E978B32B1A753ABDE783BB",
+        "quotes": [
+          "But what you would do then is figure out the difference between the pattern that's there and the pattern that should be there if steak was there.",
+          "And then you send the difference between those two patterns so that the pattern that received just allows you to have steak into your reality where there was none before."
+        ],
+        "ranges": [
+          [
+            491,
+            519
+          ]
+        ],
+        "transcription": "Source labels OpenAI Whisper transcription; audio accuracy not independently checked here"
+      },
+      "target": {
+        "name": "Joscha Bach, Hikari Sorensen, Franz Hildebrandt-Harangozó, Lou de Kerhuelvez, Jim Rutt",
+        "title": "CIMC Research Program for Machine Consciousness, Whitepaper v2",
+        "date": "2026-04-27",
+        "date_type": "Selected PDF version date, not initial article date",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "page": 12,
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "quote": "the capacity of a system to exert control over future states, that is, to select among possible actions on the basis of internal representations of goals, preferences, or evaluative criteria."
+      },
+      "lenses": {
+        "L1": {
+          "result": "partial",
+          "analysis": "Partial operational correspondence: represent a goal or desired pattern -> choose the change relative to it -> influence a subsequent state. SAN supplies a particular difference-write procedure; CIMC supplies an abstract agency definition."
+        },
+        "L2": {
+          "result": "bounded-subchain-correspondence",
+          "analysis": "Shared control subchain: represented future condition -> selection of action/update -> changed state. It bridges BCI and agency contexts without claiming that the external BCI controller is the target's self-organizing agent."
+        },
+        "L3": {
+          "result": "GOAL-SENSITIVE-CONTROL-RECONSTRUCTION-NOT-DELTA-IDENTITY",
+          "constrained_conclusion": "The target selects actions on the basis of represented goals in order to control future states.",
+          "required_operations": "A represented preference or intended condition must influence which action is selected, and that action must be capable of changing a subsequent state.",
+          "alternative_routes": "A learned policy, model-predictive control, and a direct state-difference update can meet that goal-sensitive control requirement. The abstract definition does not require subtraction of neural patterns.",
+          "source_test": "SAN lines 501–507 represent the desired perceptual pattern, compare it with the ongoing pattern and choose the transmitted update accordingly. The source therefore meets the goal-conditioned update subset.",
+          "remaining_indeterminacy": "BCI versus autonomous agency is an implementation/context residual, not a veto on the shared control subchain. Matching objectives, policies and the complete agent remain unproved.",
+          "analysis": "Work backward from selective control toward a represented goal: the selected intervention must be sensitive to an evaluative criterion and capable of affecting the outcome. This permits delta control, planning, policy selection or other strategies; it does not require the source's difference-signal protocol.",
+          "constrained_target_output": "A system selects among possible actions using represented goals/preferences and thereby controls future states."
+        }
+      },
+      "formal": "Partial control schema: (current state, represented goal) -> selected action/update -> subsequent state. Identical objectives, transition kernels and goal evaluation are not proved.",
+      "residual": "CIMC's definition does not mandate a neural pattern difference, receiver-specific write-in or external interface. The correspondence is one subchain of goal-directed control, not proof of the complete SAN architecture.",
+      "before_state": "The 21-occurrence program history remains open. This is document-relative source-record chronology, not author-wide firstness or a completed before/after migration finding.",
+      "citation_state": "not-evaluable",
+      "footprint": {
+        "SAN_source_documents": 1,
+        "examined_framings": 1,
+        "target_document_versions": 1,
+        "graded_links": 1,
+        "author_edges": 5,
+        "target_repetitions": null
+      },
+      "overlap": "Source passages overlap across the five reviewed framings. These links and author edges are not independent inventions, target repetitions or statistical confirmations."
+    },
+    {
+      "id": "BACH-DOCWIN-2017D-MCH-A14",
+      "family": "A14",
+      "title": "Experienced content need not reproduce the outside scene",
+      "conclusion": "Blumberg's earlier record explicitly separates an experienced object from its external presence; Bach and Sorensen later also distinguish conscious content from its real or imaginary character.",
+      "shared": "Both distinguish the content of experience from whether the corresponding object is physically present outside the subject.",
+      "grade": "partial-conceptual",
+      "source": {
+        "name": "Micah Blumberg / SAN",
+        "record_date": "2025-06-21",
+        "record_date_type": "Git wording record; first public release not independently dated",
+        "recording_date": "April 2017 (attributed; original audio/upload not verified)",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/214c640ba35e81350eaef71635a255f00d18ad75/nlp1.md",
+        "recording_url": "https://youtu.be/YrX_68oKuVs",
+        "sha256": "A1138D2B2324987EB96E1595D622165E13EE6B2CD9E978B32B1A753ABDE783BB",
+        "quotes": [
+          "And then you send the difference between those two patterns so that the pattern that received just allows you to have steak into your reality where there was none before.",
+          "So once we can do that, that means that you're going to have things in your reality that are not actually there"
+        ],
+        "ranges": [
+          [
+            497,
+            519
+          ]
+        ],
+        "transcription": "Source labels OpenAI Whisper transcription; audio accuracy not independently checked here"
+      },
+      "target": {
+        "name": "Joscha Bach, Hikari Sorensen",
+        "title": "The Machine Consciousness Hypothesis",
+        "date": "2026-01-15",
+        "date_type": "Selected PDF version date, not initial article date",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "page": 16,
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "quote": "The contents of consciousness may be experienced as real or imaginary"
+      },
+      "lenses": {
+        "L1": {
+          "result": "partial-conceptual",
+          "analysis": "Partial conceptual/output correspondence: an internal representational state can contain an object without that object being present in the external environment. The target separately describes a variable realness dimension."
+        },
+        "L2": {
+          "result": "bounded-subchain-correspondence",
+          "analysis": "SAN: state-dependent neural intervention -> added experienced object. MCH: representational content -> real/imaginary character. The shared endpoint is represented experience rather than necessary external presence; the causal routes are not fully aligned."
+        },
+        "L3": {
+          "result": "INTERNAL-CONTENT-RECONSTRUCTION-NOT-WRITE-PROTOCOL",
+          "constrained_conclusion": "The target distinguishes experienced content from its real or imaginary character.",
+          "required_operations": "Content must be represented in a way that does not simply equate its occurrence in experience with the external presence of the represented object.",
+          "alternative_routes": "Imagining an object, an induced percept and assigning a realness property can all dissociate content from external presence, but they need not use the same process.",
+          "source_test": "SAN lines 505–519 propose changing neural content so an object not externally present enters experienced reality. That is an explicit instance of the representational distinction.",
+          "remaining_indeterminacy": "The backward inference preserves the partial output/conceptual match. It does not establish that induced experience, imagination and MCH’s realness dimension are identical.",
+          "analysis": "Work backward from experiencing an externally absent object: an internal content-carrying process must support that appearance independently of that object's present sensory cause. Dreams, hallucinations, imagery or intervention could do so; no specific pattern-difference input or realness variable is forced.",
+          "constrained_target_output": "Conscious content can be imagined or experienced as factual even when an external object does not warrant that appearance."
+        }
+      },
+      "formal": "Partial output relation between internally represented object and external-object presence; no equivalence of hallucination, imagination or realness-detection operators.",
+      "residual": "The target's claim concerns the representational character of experience, not this specific neural intervention. An induced percept, imagined content and an experience of factuality must not be conflated.",
+      "before_state": "The 21-occurrence program history remains open. This is document-relative source-record chronology, not author-wide firstness or a completed before/after migration finding.",
+      "citation_state": "not-evaluable",
+      "footprint": {
+        "SAN_source_documents": 1,
+        "examined_framings": 1,
+        "target_document_versions": 1,
+        "graded_links": 1,
+        "author_edges": 2,
+        "target_repetitions": null
+      },
+      "overlap": "Source passages overlap across the five reviewed framings. These links and author edges are not independent inventions, target repetitions or statistical confirmations."
+    },
+    {
+      "id": "BACH-DOCWIN-2017D-CIMC-A14",
+      "family": "A14",
+      "title": "The experienced world is an internally maintained representation",
+      "conclusion": "Blumberg's earlier record treats the experienced world as internally constructed and alterable; the later CIMC text likewise names maintenance of a perceptual world. This is a broad partial correspondence.",
+      "shared": "Both place the experienced world in an ongoing internal representational process, which can be maintained or changed rather than merely received as a complete external picture.",
+      "grade": "weak-partial-conceptual",
+      "source": {
+        "name": "Micah Blumberg / SAN",
+        "record_date": "2025-06-21",
+        "record_date_type": "Git wording record; first public release not independently dated",
+        "recording_date": "April 2017 (attributed; original audio/upload not verified)",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/214c640ba35e81350eaef71635a255f00d18ad75/nlp1.md",
+        "recording_url": "https://youtu.be/YrX_68oKuVs",
+        "sha256": "A1138D2B2324987EB96E1595D622165E13EE6B2CD9E978B32B1A753ABDE783BB",
+        "quotes": [
+          "These are all, um, supporting concepts that are taking a little bit of information coming from your senses and bolstering that into your complete experience.",
+          "And then you send the difference between those two patterns so that the pattern that received just allows you to have steak into your reality where there was none before."
+        ],
+        "ranges": [
+          [
+            103,
+            131
+          ],
+          [
+            497,
+            519
+          ]
+        ],
+        "transcription": "Source labels OpenAI Whisper transcription; audio accuracy not independently checked here"
+      },
+      "target": {
+        "name": "Joscha Bach, Hikari Sorensen, Franz Hildebrandt-Harangozó, Lou de Kerhuelvez, Jim Rutt",
+        "title": "CIMC Research Program for Machine Consciousness, Whitepaper v2",
+        "date": "2026-04-27",
+        "date_type": "Selected PDF version date, not initial article date",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "page": 11,
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "quote": "the maintenance of a stable perceptual world"
+      },
+      "lenses": {
+        "L1": {
+          "result": "weak-partial-conceptual",
+          "analysis": "Weak partial conceptual correspondence in the maintained representational output. SAN describes internal completion and a proposed intervention; CIMC describes stable world maintenance as an operation of consciousness."
+        },
+        "L2": {
+          "result": "bounded-subchain-correspondence",
+          "analysis": "Both connect organized internal content to experienced-world availability. The evidence does not align the full repair mechanism: SAN's controlled write-in and CIMC's conflict resolution remain different specified procedures."
+        },
+        "L3": {
+          "result": "WORLD-MAINTENANCE-RECONSTRUCTION-WRITABILITY-NOT-ENTAILED",
+          "constrained_conclusion": "The target includes maintaining a stable perceptual world among the functions to be explained.",
+          "required_operations": "Some organized representation of a world must be available across the relevant processing interval; the endpoint alone does not uniquely specify its maintenance mechanism.",
+          "alternative_routes": "Reconstruction at successive moments, recurrent stabilization and conflict-driven repair are alternative ways to preserve an organized output. This broad result does not discriminate between them.",
+          "source_test": "SAN lines 107–131 describe internally supported construction of experience, and lines 497–519 make that experience an alterable ongoing state. This supports the internal-world framing.",
+          "remaining_indeterminacy": "The pair remains a weak partial conceptual relation. The specified stable-maintenance or self-registration mechanism cannot be inferred from the shared output class and stays open.",
+          "analysis": "Work backward from a stable perceptual world despite partial inputs: internal representations must be maintained and integrated. That output can arise without any external write channel or capacity to insert nonexistent objects; the target does not select the source's intervention route.",
+          "constrained_target_output": "Conscious operations sustain a stable perceptual world by coordinating partial representations."
+        }
+      },
+      "formal": "Qualitative common output class: an internally constructed perceptual world. No implementation-level or mathematical equivalence is established by this pair.",
+      "residual": "This pair is broad and weak by itself. It does not establish identical maintenance, minimal experience, self-registration or coherence optimization. Stronger operations require additional source-specific rows, not expansion of this quotation.",
+      "before_state": "The 21-occurrence program history remains open. This is document-relative source-record chronology, not author-wide firstness or a completed before/after migration finding.",
+      "citation_state": "not-evaluable",
+      "footprint": {
+        "SAN_source_documents": 1,
+        "examined_framings": 1,
+        "target_document_versions": 1,
+        "graded_links": 1,
+        "author_edges": 5,
+        "target_repetitions": null
+      },
+      "overlap": "Source passages overlap across the five reviewed framings. These links and author edges are not independent inventions, target repetitions or statistical confirmations."
+    },
+    {
+      "id": "BACH-DOCWIN-2017D-MCH-A15",
+      "family": "A15",
+      "title": "Patterns change what the receiving system represents",
+      "conclusion": "Blumberg's earlier record gives a receiver-dependent way to transform a neural representation; the later MCH account also describes patterns transformed through conditional processing.",
+      "shared": "Both use transmitted patterns to produce a further representation through a receiving process. SAN specifies the current receiver state and a difference message; MCH describes the general conditional transformation network.",
+      "grade": "partial",
+      "source": {
+        "name": "Micah Blumberg / SAN",
+        "record_date": "2025-06-21",
+        "record_date_type": "Git wording record; first public release not independently dated",
+        "recording_date": "April 2017 (attributed; original audio/upload not verified)",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/214c640ba35e81350eaef71635a255f00d18ad75/nlp1.md",
+        "recording_url": "https://youtu.be/YrX_68oKuVs",
+        "sha256": "A1138D2B2324987EB96E1595D622165E13EE6B2CD9E978B32B1A753ABDE783BB",
+        "quotes": [
+          "But what you would do then is figure out the difference between the pattern that's there and the pattern that should be there if steak was there.",
+          "And then you send the difference between those two patterns so that the pattern that received just allows you to have steak into your reality where there was none before."
+        ],
+        "ranges": [
+          [
+            491,
+            511
+          ]
+        ],
+        "transcription": "Source labels OpenAI Whisper transcription; audio accuracy not independently checked here"
+      },
+      "target": {
+        "name": "Joscha Bach, Hikari Sorensen",
+        "title": "The Machine Consciousness Hypothesis",
+        "date": "2026-01-15",
+        "date_type": "Selected PDF version date, not initial article date",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "page": 16,
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "quote": "Representations are transformed into other representations, each characterized by their structural invariances and their place in the processing network, which can be seen as a causal network that propagates patterns via conditional operators."
+      },
+      "lenses": {
+        "L1": {
+          "result": "partial",
+          "analysis": "Partial operational subchain: incoming pattern -> receiving transformation -> changed representation. SAN's state-dependent delta is more specific than the target's general conditional operator here."
+        },
+        "L2": {
+          "result": "bounded-subchain-correspondence",
+          "analysis": "The matched architecture is representational transformation along a causal path, not just shared neural vocabulary. Different implementations remain: an external BCI update versus a general processing network."
+        },
+        "L3": {
+          "result": "CAUSAL-TRANSFORM-RECONSTRUCTION-OPERATOR-UNDERDETERMINED",
+          "constrained_conclusion": "The target propagates patterns through conditional operators that transform representations into further representations.",
+          "required_operations": "Patterns must enter a causally effective receiving process, whose operation determines the resulting representation; a bare transmitted label is not a complete transformation account.",
+          "alternative_routes": "A fixed conditional rule, a learned state-sensitive transformation and an explicit difference update can produce representational transitions. The target paragraph does not choose SAN’s update formula.",
+          "source_test": "SAN lines 497–507 reject blind addition of a complete pattern and select a message relative to the receiving state. This is an explicit state-sensitive instance of the broader transformation class.",
+          "remaining_indeterminacy": "The bounded example-to-class relation survives the change of context. Exact difference transmission, acknowledgement and an identical receiver-state equation are not entailed by the target.",
+          "analysis": "Work backward from a reproducibly changed representation: there must be a substrate-sensitive causal mapping from some prior/input pattern to the new one. Conditional network propagation is compatible; so are diverse encodings and operators. Difference coding and electromagnetic dominoes are not forced.",
+          "constrained_target_output": "Patterns in a processing network are causally transformed into further representations."
+        }
+      },
+      "formal": "A bounded example-to-general-process relation: U(s,message) -> represented s′. Not a proof that the target conditional operator is the SAN delta operator.",
+      "residual": "The target paragraph does not specify transmission of only a difference, feedback verification or an identical receiver-state equation. Those remain unmatched SAN specifics within this pair.",
+      "before_state": "The 21-occurrence program history remains open. This is document-relative source-record chronology, not author-wide firstness or a completed before/after migration finding.",
+      "citation_state": "not-evaluable",
+      "footprint": {
+        "SAN_source_documents": 1,
+        "examined_framings": 1,
+        "target_document_versions": 1,
+        "graded_links": 1,
+        "author_edges": 2,
+        "target_repetitions": null
+      },
+      "overlap": "Source passages overlap across the five reviewed framings. These links and author edges are not independent inventions, target repetitions or statistical confirmations."
+    },
+    {
+      "id": "BACH-DOCWIN-2017D-CIMC-A15",
+      "family": "A15",
+      "title": "Feedback and confirmation in distributed communication",
+      "conclusion": "Blumberg's earlier record proposes feedback and verified neural communication; the later CIMC program also uses requests and confirmations between processing units.",
+      "shared": "Both describe neural or computational communication using reciprocal exchange and confirmation, not only one-way transmission.",
+      "grade": "partial",
+      "source": {
+        "name": "Micah Blumberg / SAN",
+        "record_date": "2025-06-21",
+        "record_date_type": "Git wording record; first public release not independently dated",
+        "recording_date": "April 2017 (attributed; original audio/upload not verified)",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/214c640ba35e81350eaef71635a255f00d18ad75/nlp1.md",
+        "recording_url": "https://youtu.be/YrX_68oKuVs",
+        "sha256": "A1138D2B2324987EB96E1595D622165E13EE6B2CD9E978B32B1A753ABDE783BB",
+        "quotes": [
+          "because the connection means there's, there's actually a feedback loop of information.",
+          "you're able to send a whole and complete message and you're able to verify that it was sent"
+        ],
+        "ranges": [
+          [
+            277,
+            305
+          ],
+          [
+            335,
+            379
+          ],
+          [
+            491,
+            507
+          ]
+        ],
+        "transcription": "Source labels OpenAI Whisper transcription; audio accuracy not independently checked here"
+      },
+      "target": {
+        "name": "Joscha Bach, Hikari Sorensen, Franz Hildebrandt-Harangozó, Lou de Kerhuelvez, Jim Rutt",
+        "title": "CIMC Research Program for Machine Consciousness, Whitepaper v2",
+        "date": "2026-04-27",
+        "date_type": "Selected PDF version date, not initial article date",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "page": 19,
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "quote": "processing units negotiate mutual consistency through iterative exchange of requests and confirmations rather than by centralized control."
+      },
+      "lenses": {
+        "L1": {
+          "result": "partial",
+          "analysis": "Partial communication pattern: send -> returned check/confirmation -> continued organized communication. SAN uses a TCP analogy and a conscious/unconscious proposal; CIMC proposes Request Confirmation Networks for mutual consistency."
+        },
+        "L2": {
+          "result": "bounded-subchain-correspondence",
+          "analysis": "Shared feedback architecture joins local communications through returned information. Reliable delivery in the SAN analogy and semantic consistency in CIMC are not identical goals, but the reciprocal-check subchain is supported."
+        },
+        "L3": {
+          "result": "CONFIRMATION-RECONSTRUCTION-NOT-PROTOCOL-IDENTITY",
+          "constrained_conclusion": "The target seeks mutual consistency through iterative requests and confirmations between processing units without a central controller.",
+          "required_operations": "Units must exchange messages in both directions, interpret returned checks, and use them in further processing. Mutual consistency also needs agreement semantics beyond delivery alone.",
+          "alternative_routes": "Delivery acknowledgements, constraint negotiation and other decentralized feedback protocols share reciprocal traces but differ in what a confirmation means.",
+          "source_test": "SAN lines 285–303 explicitly connect a feedback loop with verifying a sent message; lines 335–379 apply the analogy hypothetically to conscious brain communication.",
+          "remaining_indeterminacy": "The reciprocal-check trace is supported. TCP-style delivery cannot by itself supply CIMC’s semantic agreement or convergence rule, and neither theory is treated as an implemented proof here.",
+          "analysis": "Work backward from mutually confirmed coordination: receiving units must affect the subsequent exchange, and a returned signal must bear on whether a proposed communication or state is accepted. The monologue supplies a compatible return-check motif. Its delivery acknowledgement alone cannot establish consistency of represented contents; acknowledgements, negotiation, consensus and other feedback protocols can differ in what they certify. Neither TCP nor an identical consciousness/RCN mechanism is forced.",
+          "constrained_target_output": "Processing units use iterative requests and confirmations to negotiate mutually consistent information."
+        }
+      },
+      "formal": "Partial protocol trace: message -> receiver -> return check. No equality of acknowledgement semantics, convergence conditions or network implementation is proved.",
+      "residual": "TCP-style delivery confirmation is not itself semantic agreement. SAN here does not supply CIMC's Request Confirmation Network implementation; CIMC here does not specify the SAN perceptual difference-write operation.",
+      "before_state": "The 21-occurrence program history remains open. This is document-relative source-record chronology, not author-wide firstness or a completed before/after migration finding.",
+      "citation_state": "not-evaluable",
+      "footprint": {
+        "SAN_source_documents": 1,
+        "examined_framings": 1,
+        "target_document_versions": 1,
+        "graded_links": 1,
+        "author_edges": 5,
+        "target_repetitions": null
+      },
+      "overlap": "Source passages overlap across the five reviewed framings. These links and author edges are not independent inventions, target repetitions or statistical confirmations."
+    },
+    {
+      "id": "BACH-DOCWIN-2017D-MCH-A16",
+      "family": "A16",
+      "title": "From understanding biological operations to artificial implementations",
+      "conclusion": "Blumberg's earlier Neural Lace program explicitly continues into artificial neocortices and brains; Bach and Sorensen later also propose recreating biological information processing computationally.",
+      "shared": "Both research programs connect understanding biological information processing with constructing an artificial implementation.",
+      "grade": "partial-conceptual",
+      "source": {
+        "name": "Micah Blumberg / SAN",
+        "record_date": "2025-06-21",
+        "record_date_type": "Git wording record; first public release not independently dated",
+        "recording_date": "April 2017 (attributed; original audio/upload not verified)",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/214c640ba35e81350eaef71635a255f00d18ad75/nlp1.md",
+        "recording_url": "https://youtu.be/YrX_68oKuVs",
+        "sha256": "A1138D2B2324987EB96E1595D622165E13EE6B2CD9E978B32B1A753ABDE783BB",
+        "quotes": [
+          "But after we build neural lace, the idea is to, um, uh, build artificial neocortex and then artificial brains."
+        ],
+        "ranges": [
+          [
+            61,
+            81
+          ],
+          [
+            491,
+            527
+          ]
+        ],
+        "transcription": "Source labels OpenAI Whisper transcription; audio accuracy not independently checked here"
+      },
+      "target": {
+        "name": "Joscha Bach, Hikari Sorensen",
+        "title": "The Machine Consciousness Hypothesis",
+        "date": "2026-01-15",
+        "date_type": "Selected PDF version date, not initial article date",
+        "url": "https://cimc.ai/cimcHypothesis.pdf",
+        "page": 21,
+        "sha256": "79308E09995AA00A6EFF0EE9DF0718BE101C8083286A34F5A5453016C956A46B",
+        "quote": "it is possible to search for this algorithm by recreating analogous conditions of self-organizing information processing on digital computer hardware, while posing suitable tasks that require intelligent agency."
+      },
+      "lenses": {
+        "L1": {
+          "result": "partial-conceptual",
+          "analysis": "Partial research-operation correspondence: identify biological information-processing requirements -> seek an artificial realization. SAN links interface understanding to artificial neocortices/brains; MCH specifies a search for a self-organizing learning algorithm."
+        },
+        "L2": {
+          "result": "bounded-subchain-correspondence",
+          "analysis": "Shared investigation-to-construction sequence rather than shared terminology alone. SAN's preceding brain/computer representation bridge supplies an operational link; the later target makes biological-to-digital realization explicit."
+        },
+        "L3": {
+          "result": "FUNCTIONAL-REALIZATION-RECONSTRUCTION-SPECIFIC-LEARNING-ROUTE-OPEN",
+          "constrained_conclusion": "The target proposes searching for a biological information-processing algorithm by constructing analogous self-organizing conditions on digital hardware.",
+          "required_operations": "A biological function must be identified, translated into candidate construction requirements, and used to guide an artificial implementation or test.",
+          "alternative_routes": "Biomimetic simulation, abstract functional modeling and developmental learning are possible research routes; building an artificial brain does not uniquely identify one algorithm.",
+          "source_test": "SAN lines 61–81 connect brain and computer representations, lines 491–507 propose their operational interface, and lines 523–527 explicitly continue the program into artificial neocortices and brains.",
+          "remaining_indeterminacy": "The investigation-to-construction sequence is a partial research-program correspondence. Neither successful construction, a shared self-organizing algorithm nor worldwide novelty of artificial brains follows.",
+          "analysis": "Work backward from an artificial realization of the target's biological learning role: the artificial system must support the relevant representations, causal operations and learning conditions, not merely reproduce a human-looking output. The monologue's human/computer spatial bridge and artificial-brain roadmap support the broad realization direction. They do not specify self-organization, the hypothesized consciousness-producing algorithm or sufficient developmental conditions; engineered perception could supply the source's demonstrated analogy without the target's full hypothesis.",
+          "constrained_target_output": "An artificial system instantiates relevant biological learning/agency functions under analogous self-organizing conditions."
+        }
+      },
+      "formal": "Partial design-program relation from biological operation study to artificial realization, not a proof of functional equivalence of any constructed systems.",
+      "residual": "The source does not here state MCH's evolutionary-search or second-order-learning algorithm. Artificial brain construction was a broad pre-existing research aim; this pair is not a worldwide firstness finding.",
+      "before_state": "The 21-occurrence program history remains open. This is document-relative source-record chronology, not author-wide firstness or a completed before/after migration finding.",
+      "citation_state": "not-evaluable",
+      "footprint": {
+        "SAN_source_documents": 1,
+        "examined_framings": 1,
+        "target_document_versions": 1,
+        "graded_links": 1,
+        "author_edges": 2,
+        "target_repetitions": null
+      },
+      "overlap": "Source passages overlap across the five reviewed framings. These links and author edges are not independent inventions, target repetitions or statistical confirmations."
+    },
+    {
+      "id": "BACH-DOCWIN-2017D-CIMC-A16",
+      "family": "A16",
+      "title": "Related functions across biological and artificial systems",
+      "conclusion": "Blumberg’s earlier source record explicitly compares human and artificial visual grouping and prediction; the later CIMC discussion likewise connects artificial visual representations with animal visual cortex.",
+      "shared": "Both compare visual representation across brains and artificial systems. SAN explains grouping lines and edges into objects and predicting movement; CIMC discusses related features learned by artificial vision systems.",
+      "grade": "partial-conceptual",
+      "source": {
+        "name": "Micah Blumberg / SAN",
+        "record_date": "2025-06-21",
+        "record_date_type": "Git wording record; first public release not independently dated",
+        "recording_date": "April 2017 (attributed; original audio/upload not verified)",
+        "url": "https://github.com/v5ma/selfawarenetworks/blob/214c640ba35e81350eaef71635a255f00d18ad75/nlp1.md",
+        "recording_url": "https://youtu.be/YrX_68oKuVs",
+        "sha256": "A1138D2B2324987EB96E1595D622165E13EE6B2CD9E978B32B1A753ABDE783BB",
+        "quotes": [
+          "And the self-driving car is doing the same thing.",
+          "It's predicting there is a concept, which is a unification of a bunch of lines and edges and spatial computing and cars doing it and humans are doing it."
+        ],
+        "ranges": [
+          [
+            61,
+            81
+          ],
+          [
+            491,
+            527
+          ]
+        ],
+        "transcription": "Source labels OpenAI Whisper transcription; audio accuracy not independently checked here"
+      },
+      "target": {
+        "name": "Joscha Bach, Hikari Sorensen, Franz Hildebrandt-Harangozó, Lou de Kerhuelvez, Jim Rutt",
+        "title": "CIMC Research Program for Machine Consciousness, Whitepaper v2",
+        "date": "2026-04-27",
+        "date_type": "Selected PDF version date, not initial article date",
+        "url": "https://cimc.ai/cimcWhitepaper.pdf",
+        "page": 17,
+        "sha256": "B472B40F89780EAB1BDA83C1935B58849D6F0C52D6078BB5319BE86B60F8CA9D",
+        "quote": "These representations closely matched the known organization of the animal visual cortex, despite the artificial systems having no biological constraints."
+      },
+      "lenses": {
+        "L1": {
+          "result": "partial-conceptual",
+          "analysis": "Partial cross-substrate perceptual-function correspondence: both relate biological and artificial visual representation. The selected 2026 target cites comparative AI evidence from 2020; the SAN passage provides a functional example, not that experiment."
+        },
+        "L2": {
+          "result": "bounded-subchain-correspondence",
+          "analysis": "Shared reasoning chain: visual task -> internally organized visual representation -> a bridge between biological and artificial systems. The target then extends a convergence conjecture to consciousness; that extra arrow is not imported into SAN’s car example."
+        },
+        "L3": {
+          "result": "TASK-CONSTRAINED-REPRESENTATION-RECONSTRUCTION-CONSCIOUSNESS-RESIDUAL",
+          "constrained_conclusion": "The selected target passage compares visual representations in artificial recognition systems with the organization of animal visual cortex.",
+          "required_operations": "A comparison must relate represented visual structure or perceptual functions across biological and artificial systems rather than treating their different substrates as sufficient to end the comparison.",
+          "alternative_routes": "Systems can solve the same task with different internal algorithms. Shared visual function or some shared features does not by itself force a universal architecture or consciousness.",
+          "source_test": "SAN lines 71–79 explicitly compare human and self-driving-car grouping of lines and edges into an object concept and prediction of its motion. The later artificial-brain proposal supplies a continuation, not a completed implementation.",
+          "remaining_indeterminacy": "The cross-substrate perceptual-function bridge is supported. The cited AI convergence experiments and the target’s subsequent consciousness conjecture are distinct claims not established by this earlier source.",
+          "analysis": "Work backward first from the target's visual-recognition example: a successful biological or artificial system needs task-suitable discriminative representations, making the monologue's shared object-grouping/prediction role a compatible antecedent. Similar output does not uniquely determine internal geometry or establish empirical feature convergence. Work backward separately from the target's conditional consciousness extension: coherent world/self modeling under agentic and self-organizing constraints is additionally required by that hypothesis. Those conditions are not supplied by the monologue's car example or its artificial-brain intention.",
+          "constrained_target_output": "In the target's vision example, different implementations solve recognition tasks with related representations; its further consciousness extension is conditional on coherent agentic control in self-organizing substrates."
+        }
+      },
+      "formal": "Cross-substrate partial functional analogy, not proof of universal convergence, identical algorithms or consciousness equivalence.",
+      "residual": "The target cites Olah et al. (2020) for experimental AI representation comparisons and adds a consciousness-convergence conjecture. The earlier SAN passage supplies a cross-substrate perceptual-function bridge, not those experiments, a universality theorem or equal consciousness.",
+      "before_state": "The 21-occurrence program history remains open. This is document-relative source-record chronology, not author-wide firstness or a completed before/after migration finding.",
+      "citation_state": "not-evaluable",
+      "footprint": {
+        "SAN_source_documents": 1,
+        "examined_framings": 1,
+        "target_document_versions": 1,
+        "graded_links": 1,
+        "author_edges": 5,
+        "target_repetitions": null
+      },
+      "overlap": "Source passages overlap across the five reviewed framings. These links and author edges are not independent inventions, target repetitions or statistical confirmations."
+    }
+  ]
+}

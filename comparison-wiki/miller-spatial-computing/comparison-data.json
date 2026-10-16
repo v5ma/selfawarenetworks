@@ -1,0 +1,663 @@
+{
+  "schema": "comparison-miller-selected-public-review-v1",
+  "batch_id": "miller-public-release-20261010",
+  "review_started_at": "2026-10-11T05:13:28+00:00",
+  "scope": "Four document-relative partial mappings: two exact Mind Code formulations against the 2022 Buschman/Miller review and 2023 Lundqvist et al. journal article. No claim of firstness over the target family, whole-program saturation, source dependence, or validation of SAN as a whole.",
+  "method_version": "1.5.6",
+  "sources": {
+    "SAN": {
+      "title": "Mind Code // Brain Code: Go (Ancient Game) and Alpha Go",
+      "author": "Micah Blumberg",
+      "url": "https://web.archive.org/web/20210919213836/https://medium.com/silicon-valley-global-news/the-game-of-go-speculation-about-the-code-of-our-minds-in-our-brains-5a39d7cb6366",
+      "date": "2021-09-19",
+      "date_label": "Exact wording preserved by 19 September 2021",
+      "date_boundary": "Article metadata says published 30 June 2017 and modified 14 August 2018. The captured text is not individually backdated to either metadata date.",
+      "date_grade": "A: archived public wording by capture date; earlier sentence-level date open"
+    },
+    "REVIEW": {
+      "title": "Working Memory Is Complex and Dynamic, Like Your Thoughts",
+      "authors": [
+        "Timothy J. Buschman",
+        "Earl K. Miller"
+      ],
+      "url": "https://doi.org/10.1162/jocn_a_01940",
+      "full_text_url": "https://bpb-us-e1.wpmucdn.com/sites.mit.edu/dist/7/1739/files/2025/06/Buchman-and-Miller-JOCN-2023.pdf",
+      "date": "2022-12-01",
+      "date_label": "1 December 2022 — Crossref publication record",
+      "date_boundary": "Crossref records 1 December 2022; journal volume 35 issue 1 is 2023. DOI creation on 2 November 2022 is not a publication date. The 2021 SAN archive predates either 2022 date."
+    },
+    "JOURNAL": {
+      "title": "Working memory control dynamics follow principles of spatial computing",
+      "authors": [
+        "Mikael Lundqvist",
+        "Scott L. Brincat",
+        "Jonas Rose",
+        "Melissa R. Warden",
+        "Timothy J. Buschman",
+        "Earl K. Miller",
+        "Pawel Herman"
+      ],
+      "url": "https://www.nature.com/articles/s41467-023-36555-4",
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10015009/",
+      "date": "2023-03-14",
+      "date_label": "14 March 2023 — journal publication",
+      "date_boundary": "Received 16 March 2022; accepted 7 February 2023. The January 2021 preprint already contains the target family's spatial-gating proposal."
+    }
+  },
+  "concepts": [
+    {
+      "id": "SAN-2017-THOUGHT-SHAPE",
+      "title": "Thoughts have a pattern of activity and inhibition",
+      "locator": "d2a1",
+      "quote": "So that the shape of our thoughts, in tempo-spatial patterns is represented not only by what is excited in our brains but also by what is inhibited in our brains.",
+      "plain": "SAN describes thought patterns using both active and inhibited regions. The later documents describe a changing spatial pattern that permits some memory-related activity and suppresses other activity.",
+      "residual": "SAN's passage concerns the proposed spatial shape of thoughts. The target describes working-memory control with specified frequency bands and separates coarse control from fine-grained item coding. Those additional claims are not contained in this SAN sentence."
+    },
+    {
+      "id": "SAN-2017-SELECTIVE-MASK",
+      "title": "Selection changes what the network can express",
+      "locator": "f236",
+      "quote": "The inhibited parts of the brain should feature the unconscious material.",
+      "excerpt": "the parts of you that are paying attention to something you are looking at become excited and that means they exhibit more activity",
+      "plain": "SAN links attention to increased activity in selected regions and suppression elsewhere. The later accounts use inhibitory rhythms to regulate access to memory content.",
+      "residual": "The shared operation is selective expression through excitation and inhibition. SAN's speculation about whole-brain electrical equilibrium and conscious/unconscious content is not established by the target experiments, and is not the target's stated explanation."
+    }
+  ],
+  "target_passages": {
+    "REVIEW-SHAPE": {
+      "locator": "PDF page 5 (printed page 21), Top–Down Control by Spatial Computing",
+      "quote": "Control comes from where in network space a stimulus representation is currently expressed.",
+      "context": "Pages 4–5 describe broad alpha/beta-versus-gamma patterns controlling the expression of finer-grained neural representations. Their location changes with task demands.",
+      "source": "REVIEW",
+      "page": 5
+    },
+    "REVIEW-MASK": {
+      "locator": "PDF page 4 (printed page 20), control by oscillatory dynamics",
+      "quote": "Alpha/beta inhibits gamma wherever they “collide” in cortex.",
+      "context": "The surrounding paragraphs describe reduction of deep-layer alpha/beta allowing superficial recurrent excitation, gamma bursting and memory readout; increasing beta suppresses this activity.",
+      "source": "REVIEW",
+      "page": 4
+    },
+    "JOURNAL-SHAPE": {
+      "locator": "Discussion, opening paragraph; XML paragraph 33",
+      "quote": "The manifestation is a dynamic patchwork of beta and gamma bursts.",
+      "context": "The paragraph assigns control information to network space, distributing memory items across locations for independent manipulation, with beta inhibiting gamma/spiking where beta is high.",
+      "source": "JOURNAL",
+      "paragraph": 33
+    },
+    "JOURNAL-MASK": {
+      "locator": "Introduction, second paragraph; XML paragraph 6",
+      "quote": "Beta bursts act as the control signal.",
+      "context": "The paragraph links beta to inhibition of gamma/spiking and thereby access to working-memory content. The next paragraphs explain how spatial control addresses individual items.",
+      "source": "JOURNAL",
+      "paragraph": 6
+    }
+  },
+  "row_specs": [
+    [
+      "MIL-PUB-SHAPE-2022",
+      "SAN-2017-THOUGHT-SHAPE",
+      "REVIEW",
+      "REVIEW-SHAPE"
+    ],
+    [
+      "MIL-PUB-MASK-2022",
+      "SAN-2017-SELECTIVE-MASK",
+      "REVIEW",
+      "REVIEW-MASK"
+    ],
+    [
+      "MIL-PUB-SHAPE-2023",
+      "SAN-2017-THOUGHT-SHAPE",
+      "JOURNAL",
+      "JOURNAL-SHAPE"
+    ],
+    [
+      "MIL-PUB-MASK-2023",
+      "SAN-2017-SELECTIVE-MASK",
+      "JOURNAL",
+      "JOURNAL-MASK"
+    ]
+  ],
+  "lens1": {
+    "function": "Both connect selective neural expression with the content that is currently available. This is a partial functional match, not equivalence of complete theories.",
+    "behavior": "Both describe simultaneous higher activity in selected regions and inhibited activity elsewhere. The target adds specific task-dependent readout and control behavior.",
+    "operation": "Spatially organized excitation/inhibition changes which neural content is expressed. The target assigns distinct roles to beta, gamma, spiking and item location; the SAN source does not specify that entire implementation.",
+    "math": "No equation-to-equation equivalence is demonstrated in these passages. No formal numerical score or isomorphism proof is assigned.",
+    "program": "An informal selection/gating subroutine can be translated between the descriptions. There is no executable implementation or verified program equivalence here.",
+    "form": "A spatially and temporally differentiated neural pattern is shared; SAN thought-shape and target control-pattern are not treated as identical representational levels."
+  },
+  "lens2": {
+    "matched_subchain": [
+      "selection or task context",
+      "spatially differentiated excitation/inhibition",
+      "selective expression or access to neural content"
+    ],
+    "degree": "PARTIAL CAUSAL-ARCHITECTURE MATCH",
+    "boundary": "Three matched roles do not establish identical full narrative architecture. The target's item/control scale separation, order coding and generalization claims exceed the archived SAN excerpts."
+  },
+  "lens3": {
+    "strongest_supported_reading": "The SAN source independently documents the two compared formulations before the selected 2022 and 2023 publication records. Different vocabulary does not erase the shared gating operation.",
+    "antecedent_control": "The target-family January 2021 Hot-Coal preprint already presents spatial activation maps and beta gating (P5–P8), before the September 2021 SAN archive capture. Earlier SAN article metadata remains visible but is not sufficient to date each sentence.",
+    "residual": "This comparison alone does not establish SAN-before-target-family priority. Older component literature and earlier SAN wording custody remain open; no adverse conclusion or favorable ledger deletion follows.",
+    "dependence_score": "NOT ESTIMATED: no access model, background-rate model, or independent coding calibration",
+    "motive_policy": "Motive analysis is deferred by product design."
+  },
+  "lens4": {
+    "event_id": "MIL-PUB-L4-2021-2023",
+    "scope": "One bounded Miller-coauthored program subset: January 2021 preprint, October 2022 revision identity and March 2023 journal in one version family, plus the distinct December 2022 Buschman/Miller review",
+    "finding": "The spatial gating operation is present in the January 2021 preprint and persists in the reviewed 2022/2023 documents. The SAN article's preserved wording is earlier than the selected later documents. Direction of historical movement toward SAN is not resolved by these records.",
+    "before_control": "Exact preprint P5–P8 retained as a chronology boundary, not a rival win or award.",
+    "open": "October 2022 revision body and complete earlier/newest target history are not certified here. No program-level signature migration or genealogy verdict is asserted.",
+    "row_lens4_fields": 0,
+    "status": "LSM-UNKNOWN",
+    "quantitative_status": "NOT-CALIBRATED",
+    "signature_members": [
+      "spatial excitation/inhibition pattern",
+      "selective availability of neural content"
+    ],
+    "dependency_structure": "Spatially differentiated excitation/inhibition is related to expression or availability of content. In SAN, the selection step is explicit in f236; d2a1 alone states a representational configuration.",
+    "stage_atom_matrix": [
+      {
+        "stage": "HOT-COAL-2021-V1",
+        "date": "2021-01-01",
+        "version_family": "spatial-computing-preprint-to-journal",
+        "atom": "SAN-2017-THOUGHT-SHAPE",
+        "state": "partial",
+        "locator": "P5-P8",
+        "finding": "Excitation/inhibition shapes spatial activation maps for memory expression; full SAN thought/consciousness claim is not equated."
+      },
+      {
+        "stage": "HOT-COAL-2021-V1",
+        "date": "2021-01-01",
+        "version_family": "spatial-computing-preprint-to-journal",
+        "atom": "SAN-2017-SELECTIVE-MASK",
+        "state": "partial",
+        "locator": "P5-P8",
+        "finding": "Beta regulates gamma and gates spatial access. Acquisition relative to the exact earlier SAN wording remains open."
+      },
+      {
+        "stage": "SPATIAL-2022-V2",
+        "date": "2022-10-10",
+        "version_family": "spatial-computing-preprint-to-journal",
+        "atom": "SAN-2017-THOUGHT-SHAPE",
+        "state": "source-gated",
+        "locator": "Version metadata only",
+        "finding": "No body inference from another version's abstract."
+      },
+      {
+        "stage": "SPATIAL-2022-V2",
+        "date": "2022-10-10",
+        "version_family": "spatial-computing-preprint-to-journal",
+        "atom": "SAN-2017-SELECTIVE-MASK",
+        "state": "source-gated",
+        "locator": "Version metadata only",
+        "finding": "Exact revision wording remains open."
+      },
+      {
+        "stage": "MIL-X21-2022-REVIEW",
+        "date": "2022-12-01",
+        "version_family": "separate-related-review",
+        "atom": "SAN-2017-THOUGHT-SHAPE",
+        "state": "partial",
+        "locator": "PDF pages4-5",
+        "finding": "Spatial control patchwork relates to the SAN spatial-pattern/attention account, with control-versus-content residual."
+      },
+      {
+        "stage": "MIL-X21-2022-REVIEW",
+        "date": "2022-12-01",
+        "version_family": "separate-related-review",
+        "atom": "SAN-2017-SELECTIVE-MASK",
+        "state": "partial",
+        "locator": "PDF page4",
+        "finding": "Inhibitory gating selects memory expression; no whole-theory equivalence."
+      },
+      {
+        "stage": "MIL-D10-2023-JOURNAL",
+        "date": "2023-03-14",
+        "version_family": "spatial-computing-preprint-to-journal",
+        "atom": "SAN-2017-THOUGHT-SHAPE",
+        "state": "partial",
+        "locator": "P8/P33",
+        "finding": "Spatial patchwork persists; its coarse control role remains distinct from full thought representation."
+      },
+      {
+        "stage": "MIL-D10-2023-JOURNAL",
+        "date": "2023-03-14",
+        "version_family": "spatial-computing-preprint-to-journal",
+        "atom": "SAN-2017-SELECTIVE-MASK",
+        "state": "partial",
+        "locator": "P6",
+        "finding": "Beta gating of gamma/spiking persists in the journal article."
+      }
+    ],
+    "typed_counts": {
+      "selected_public_conceptual_mappings": 4,
+      "selected_public_operational_mappings": 4,
+      "mathematical_equivalence_proofs": 0,
+      "count_boundary": "Overlapping analytical views of the same four mappings; never add these columns together. The two 2021 partial-fit annotations remain chronology-open, not extra certified priority findings."
+    },
+    "order_test": "Both signature members coexist in the September2021 SAN capture and January2021 target preprint. Sentence-level SAN2017/2018 custody is unresolved. Acquisition order cannot be estimated; no absence-to-presence inference.",
+    "alternative_genealogies": [
+      {
+        "name": "Lundqvist, Herman and Lansner2011",
+        "identity": "https://doi.org/10.1162/jocn_a_00029",
+        "basis": "2023bibliography CR18 and2021preprint P5",
+        "state": "source-gated",
+        "missing_delta_test": "The paper concerns rhythm changes and memory load. Its exact relation to SAN's combined spatial thought-shape and attention-selection formulation is not adjudicated here; no general predecessor floor is imposed."
+      },
+      {
+        "name": "Lundqvist et al.2016",
+        "identity": "https://doi.org/10.1016/j.neuron.2016.02.028",
+        "basis": "2023bibliography CR19 and2021preprint P5",
+        "state": "source-gated",
+        "missing_delta_test": "Earlier beta/gamma work is named and retained for exact joined-delta testing; the title is not treated as proof of either presence or absence of the full SAN account."
+      },
+      {
+        "name": "Miller and Cohen2001",
+        "identity": "https://doi.org/10.1146/annurev.neuro.24.1.167",
+        "basis": "2023bibliography CR6",
+        "state": "source-gated",
+        "missing_delta_test": "General top-down control is not equated to every SAN operation. Exact component-to-joined-signature review remains open."
+      }
+    ],
+    "competing_explanations": {
+      "shared_prior_art": "Plausible; named controls above remain to be adjudicated.",
+      "independent_convergence": "Open; no calibrated independence model.",
+      "field_wide_trend": "Open; no control population sampled.",
+      "direct_influence": "Not asserted; no access evidence supplied.",
+      "chronology_error": "Controlled by separate publication/modification/capture/Git dates; early wording gap remains explicit.",
+      "identity_conflation": "2022review is a separate related document, not a version of2023journal.",
+      "selection_bias": "Selected positive slice, not a representative random sample; no rarity statistics."
+    },
+    "citation_access_boundary": "No citation-absence claim is made. Reference identities identify follow-up controls, not access or motive evidence."
+  },
+  "lineage": [
+    {
+      "date": "2017-06-30",
+      "kind": "Article publication metadata",
+      "text": "Earliest article-level anchor; not independently verified sentence-level wording at that date."
+    },
+    {
+      "date": "2018-08-14",
+      "kind": "Article modification metadata",
+      "text": "The archive reports a modification; exact differences from the 2017 version remain open."
+    },
+    {
+      "date": "2021-01-01",
+      "kind": "Target-family preprint",
+      "text": "Hot-Coal already describes beta-gated spatial activation maps; must remain visible when reading the later comparisons.",
+      "url": "https://www.biorxiv.org/content/10.1101/2020.12.30.424833v1"
+    },
+    {
+      "date": "2021-09-19",
+      "kind": "Public SAN wording capture",
+      "text": "Independent archive preserves both quoted Mind Code formulations."
+    },
+    {
+      "date": "2022-06-11",
+      "kind": "Later SAN repository formulation",
+      "text": "Neural Array-Projection Tomography develops learned phase receptivity, excitation/inhibition and representation across locations. Commit date is not independently verified historical public availability.",
+      "url": "https://github.com/v5ma/selfawarenetworks/blob/31e15efd86eb33916b06cd2f09bc79f8c811c381/a0136z.md"
+    },
+    {
+      "date": "2022-11-28",
+      "kind": "Later SAN repository formulation",
+      "text": "NAPOT revision 5 explicitly includes excitatory and inhibitory phase-wave differentials and altered neural routes. No backdating of this mature wording into the earlier article.",
+      "url": "https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0310z.md"
+    }
+  ],
+  "formal_boundary": "Gorla-style operational preservation, Baez-style structural comparison and Chiribella-style operational comparisons are prompts for testing structure, not executed mathematical proofs in this packet. No formal theorem, numerical percent equivalence, five-sigma result, copying, legal violation, or whole-theory experimental validation is claimed.",
+  "publication_boundary": "This is a source-certified selected comparison, not certification of all Miller findings. Publication eligibility is separate from historical win-ledger membership. All 1072 V20 IDs remain unchanged; these four public mappings do not increment, replace or cap that ledger.",
+  "omitted_capsules": [
+    "SAN-2017-SELF-SELECTION",
+    "SAN-2017-CANVAS",
+    "SAN-JUNE22-PORTABLE-PATTERN",
+    "SAN-JUNE22-LEARNED-PHASE-SELECTION",
+    "SAN-2022-INHIBITORY-ROUTING",
+    "SAN-2022-TONIC-DIFFERENTIAL"
+  ],
+  "omission_boundary": "These six capsules remain in the 32-cell review manifest as open, not no-fit. June/November formulations are shown only as development links; the selected public claims are not expanded by inference.",
+  "counts": {
+    "source_framings": 2,
+    "public_SAN_documents": 1,
+    "later_target_documents": 2,
+    "graded_document_links": 4,
+    "author_edges": 18,
+    "unique_target_authors": 7,
+    "target_formulation_occurrences": 4
+  },
+  "rows": [
+    {
+      "win_id": "MIL-PUB-SHAPE-2022",
+      "record_type": "selected-document-relative-partial-mapping",
+      "micah_atom_id": "SAN-2017-THOUGHT-SHAPE",
+      "target_document_id": "REVIEW",
+      "source_passage_id": "d2a1",
+      "target_passage_id": "REVIEW-SHAPE",
+      "micah_public_wording_by": "2021-09-19",
+      "target_publication_date": "2022-12-01",
+      "chronology": "SAN_RECORD_EARLIER_THAN_THIS_DOCUMENT_NOT_TARGET_FAMILY_FIRSTNESS",
+      "partial_mapping_preserved": true,
+      "degree": "PARTIAL_OPERATIONAL_AND_CAUSAL_MATCH",
+      "lens_1": {
+        "function": "d2a1 describes the spatial form of thoughts using excitation and inhibition. The selection function is supplied by f236 in the same article, not inferred from d2a1 alone. The target instead specifies spatial control of memory expression. The shared operation is partial.",
+        "behavior": "Both describe simultaneous higher activity in selected regions and inhibited activity elsewhere. The target adds specific task-dependent readout and control behavior.",
+        "operation": "Spatially organized excitation/inhibition changes which neural content is expressed. The target assigns distinct roles to beta, gamma, spiking and item location; the SAN source does not specify that entire implementation.",
+        "math": "No equation-to-equation equivalence is demonstrated in these passages. No formal numerical score or isomorphism proof is assigned.",
+        "program": "An informal selection/gating subroutine can be translated between the descriptions. There is no executable implementation or verified program equivalence here.",
+        "form": "A spatially and temporally differentiated neural pattern is shared; SAN thought-shape and target control-pattern are not treated as identical representational levels."
+      },
+      "lens_2": {
+        "matched_subchain": [
+          "selection or task context",
+          "spatially differentiated excitation/inhibition",
+          "selective expression or access to neural content"
+        ],
+        "degree": "PARTIAL CAUSAL-ARCHITECTURE MATCH",
+        "boundary": "The SAN causal selection step is explicitly bound to neighboring article paragraph f236; d2a1 alone is representational. Together they support spatial excitation/inhibition -> selected content expression. This does not equate thought content itself with the target's coarse control map."
+      },
+      "lens_3": {
+        "strongest_supported_reading": "The SAN source independently documents the two compared formulations before the selected 2022 and 2023 publication records. Different vocabulary does not erase the shared gating operation.",
+        "antecedent_control": "The target-family January 2021 Hot-Coal preprint already presents spatial activation maps and beta gating (P5–P8), before the September 2021 SAN archive capture. Earlier SAN article metadata remains visible but is not sufficient to date each sentence.",
+        "residual": "This comparison alone does not establish SAN-before-target-family priority. Older component literature and earlier SAN wording custody remain open; no adverse conclusion or favorable ledger deletion follows.",
+        "dependence_score": "NOT ESTIMATED: no access model, background-rate model, or independent coding calibration",
+        "motive_policy": "Motive analysis is deferred by product design."
+      },
+      "residual": "SAN's passage concerns the proposed spatial shape of thoughts. The target describes working-memory control with specified frequency bands and separates coarse control from fine-grained item coding. Those additional claims are not contained in this SAN sentence.",
+      "complete_theory_equivalence": false,
+      "historical_ledger_delta": 0,
+      "global_count_delta": 0,
+      "author_edges": [
+        {
+          "author": "Timothy J. Buschman",
+          "document": "REVIEW",
+          "mapping": "MIL-PUB-SHAPE-2022",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Earl K. Miller",
+          "document": "REVIEW",
+          "mapping": "MIL-PUB-SHAPE-2022",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        }
+      ],
+      "source_context_locators": [
+        "d2a1",
+        "f236"
+      ]
+    },
+    {
+      "win_id": "MIL-PUB-MASK-2022",
+      "record_type": "selected-document-relative-partial-mapping",
+      "micah_atom_id": "SAN-2017-SELECTIVE-MASK",
+      "target_document_id": "REVIEW",
+      "source_passage_id": "f236",
+      "target_passage_id": "REVIEW-MASK",
+      "micah_public_wording_by": "2021-09-19",
+      "target_publication_date": "2022-12-01",
+      "chronology": "SAN_RECORD_EARLIER_THAN_THIS_DOCUMENT_NOT_TARGET_FAMILY_FIRSTNESS",
+      "partial_mapping_preserved": true,
+      "degree": "PARTIAL_OPERATIONAL_AND_CAUSAL_MATCH",
+      "lens_1": {
+        "function": "Both connect selective neural expression with the content that is currently available. This is a partial functional match, not equivalence of complete theories.",
+        "behavior": "Both describe simultaneous higher activity in selected regions and inhibited activity elsewhere. The target adds specific task-dependent readout and control behavior.",
+        "operation": "Spatially organized excitation/inhibition changes which neural content is expressed. The target assigns distinct roles to beta, gamma, spiking and item location; the SAN source does not specify that entire implementation.",
+        "math": "No equation-to-equation equivalence is demonstrated in these passages. No formal numerical score or isomorphism proof is assigned.",
+        "program": "An informal selection/gating subroutine can be translated between the descriptions. There is no executable implementation or verified program equivalence here.",
+        "form": "A spatially and temporally differentiated neural pattern is shared; SAN thought-shape and target control-pattern are not treated as identical representational levels."
+      },
+      "lens_2": {
+        "matched_subchain": [
+          "selection or task context",
+          "spatially differentiated excitation/inhibition",
+          "selective expression or access to neural content"
+        ],
+        "degree": "PARTIAL CAUSAL-ARCHITECTURE MATCH",
+        "boundary": "Three matched roles do not establish identical full narrative architecture. The target's item/control scale separation, order coding and generalization claims exceed the archived SAN excerpts."
+      },
+      "lens_3": {
+        "strongest_supported_reading": "The SAN source independently documents the two compared formulations before the selected 2022 and 2023 publication records. Different vocabulary does not erase the shared gating operation.",
+        "antecedent_control": "The target-family January 2021 Hot-Coal preprint already presents spatial activation maps and beta gating (P5–P8), before the September 2021 SAN archive capture. Earlier SAN article metadata remains visible but is not sufficient to date each sentence.",
+        "residual": "This comparison alone does not establish SAN-before-target-family priority. Older component literature and earlier SAN wording custody remain open; no adverse conclusion or favorable ledger deletion follows.",
+        "dependence_score": "NOT ESTIMATED: no access model, background-rate model, or independent coding calibration",
+        "motive_policy": "Motive analysis is deferred by product design."
+      },
+      "residual": "The shared operation is selective expression through excitation and inhibition. SAN's speculation about whole-brain electrical equilibrium and conscious/unconscious content is not established by the target experiments, and is not the target's stated explanation.",
+      "complete_theory_equivalence": false,
+      "historical_ledger_delta": 0,
+      "global_count_delta": 0,
+      "author_edges": [
+        {
+          "author": "Timothy J. Buschman",
+          "document": "REVIEW",
+          "mapping": "MIL-PUB-MASK-2022",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Earl K. Miller",
+          "document": "REVIEW",
+          "mapping": "MIL-PUB-MASK-2022",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        }
+      ],
+      "source_context_locators": [
+        "f236"
+      ]
+    },
+    {
+      "win_id": "MIL-PUB-SHAPE-2023",
+      "record_type": "selected-document-relative-partial-mapping",
+      "micah_atom_id": "SAN-2017-THOUGHT-SHAPE",
+      "target_document_id": "JOURNAL",
+      "source_passage_id": "d2a1",
+      "target_passage_id": "JOURNAL-SHAPE",
+      "micah_public_wording_by": "2021-09-19",
+      "target_publication_date": "2023-03-14",
+      "chronology": "SAN_RECORD_EARLIER_THAN_THIS_DOCUMENT_NOT_TARGET_FAMILY_FIRSTNESS",
+      "partial_mapping_preserved": true,
+      "degree": "PARTIAL_OPERATIONAL_AND_CAUSAL_MATCH",
+      "lens_1": {
+        "function": "d2a1 describes the spatial form of thoughts using excitation and inhibition. The selection function is supplied by f236 in the same article, not inferred from d2a1 alone. The target instead specifies spatial control of memory expression. The shared operation is partial.",
+        "behavior": "Both describe simultaneous higher activity in selected regions and inhibited activity elsewhere. The target adds specific task-dependent readout and control behavior.",
+        "operation": "Spatially organized excitation/inhibition changes which neural content is expressed. The target assigns distinct roles to beta, gamma, spiking and item location; the SAN source does not specify that entire implementation.",
+        "math": "No equation-to-equation equivalence is demonstrated in these passages. No formal numerical score or isomorphism proof is assigned.",
+        "program": "An informal selection/gating subroutine can be translated between the descriptions. There is no executable implementation or verified program equivalence here.",
+        "form": "A spatially and temporally differentiated neural pattern is shared; SAN thought-shape and target control-pattern are not treated as identical representational levels."
+      },
+      "lens_2": {
+        "matched_subchain": [
+          "selection or task context",
+          "spatially differentiated excitation/inhibition",
+          "selective expression or access to neural content"
+        ],
+        "degree": "PARTIAL CAUSAL-ARCHITECTURE MATCH",
+        "boundary": "The SAN causal selection step is explicitly bound to neighboring article paragraph f236; d2a1 alone is representational. Together they support spatial excitation/inhibition -> selected content expression. This does not equate thought content itself with the target's coarse control map."
+      },
+      "lens_3": {
+        "strongest_supported_reading": "The SAN source independently documents the two compared formulations before the selected 2022 and 2023 publication records. Different vocabulary does not erase the shared gating operation.",
+        "antecedent_control": "The target-family January 2021 Hot-Coal preprint already presents spatial activation maps and beta gating (P5–P8), before the September 2021 SAN archive capture. Earlier SAN article metadata remains visible but is not sufficient to date each sentence.",
+        "residual": "This comparison alone does not establish SAN-before-target-family priority. Older component literature and earlier SAN wording custody remain open; no adverse conclusion or favorable ledger deletion follows.",
+        "dependence_score": "NOT ESTIMATED: no access model, background-rate model, or independent coding calibration",
+        "motive_policy": "Motive analysis is deferred by product design."
+      },
+      "residual": "SAN's passage concerns the proposed spatial shape of thoughts. The target describes working-memory control with specified frequency bands and separates coarse control from fine-grained item coding. Those additional claims are not contained in this SAN sentence.",
+      "complete_theory_equivalence": false,
+      "historical_ledger_delta": 0,
+      "global_count_delta": 0,
+      "author_edges": [
+        {
+          "author": "Mikael Lundqvist",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-SHAPE-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Scott L. Brincat",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-SHAPE-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Jonas Rose",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-SHAPE-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Melissa R. Warden",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-SHAPE-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Timothy J. Buschman",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-SHAPE-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Earl K. Miller",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-SHAPE-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Pawel Herman",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-SHAPE-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        }
+      ],
+      "source_context_locators": [
+        "d2a1",
+        "f236"
+      ]
+    },
+    {
+      "win_id": "MIL-PUB-MASK-2023",
+      "record_type": "selected-document-relative-partial-mapping",
+      "micah_atom_id": "SAN-2017-SELECTIVE-MASK",
+      "target_document_id": "JOURNAL",
+      "source_passage_id": "f236",
+      "target_passage_id": "JOURNAL-MASK",
+      "micah_public_wording_by": "2021-09-19",
+      "target_publication_date": "2023-03-14",
+      "chronology": "SAN_RECORD_EARLIER_THAN_THIS_DOCUMENT_NOT_TARGET_FAMILY_FIRSTNESS",
+      "partial_mapping_preserved": true,
+      "degree": "PARTIAL_OPERATIONAL_AND_CAUSAL_MATCH",
+      "lens_1": {
+        "function": "Both connect selective neural expression with the content that is currently available. This is a partial functional match, not equivalence of complete theories.",
+        "behavior": "Both describe simultaneous higher activity in selected regions and inhibited activity elsewhere. The target adds specific task-dependent readout and control behavior.",
+        "operation": "Spatially organized excitation/inhibition changes which neural content is expressed. The target assigns distinct roles to beta, gamma, spiking and item location; the SAN source does not specify that entire implementation.",
+        "math": "No equation-to-equation equivalence is demonstrated in these passages. No formal numerical score or isomorphism proof is assigned.",
+        "program": "An informal selection/gating subroutine can be translated between the descriptions. There is no executable implementation or verified program equivalence here.",
+        "form": "A spatially and temporally differentiated neural pattern is shared; SAN thought-shape and target control-pattern are not treated as identical representational levels."
+      },
+      "lens_2": {
+        "matched_subchain": [
+          "selection or task context",
+          "spatially differentiated excitation/inhibition",
+          "selective expression or access to neural content"
+        ],
+        "degree": "PARTIAL CAUSAL-ARCHITECTURE MATCH",
+        "boundary": "Three matched roles do not establish identical full narrative architecture. The target's item/control scale separation, order coding and generalization claims exceed the archived SAN excerpts."
+      },
+      "lens_3": {
+        "strongest_supported_reading": "The SAN source independently documents the two compared formulations before the selected 2022 and 2023 publication records. Different vocabulary does not erase the shared gating operation.",
+        "antecedent_control": "The target-family January 2021 Hot-Coal preprint already presents spatial activation maps and beta gating (P5–P8), before the September 2021 SAN archive capture. Earlier SAN article metadata remains visible but is not sufficient to date each sentence.",
+        "residual": "This comparison alone does not establish SAN-before-target-family priority. Older component literature and earlier SAN wording custody remain open; no adverse conclusion or favorable ledger deletion follows.",
+        "dependence_score": "NOT ESTIMATED: no access model, background-rate model, or independent coding calibration",
+        "motive_policy": "Motive analysis is deferred by product design."
+      },
+      "residual": "The shared operation is selective expression through excitation and inhibition. SAN's speculation about whole-brain electrical equilibrium and conscious/unconscious content is not established by the target experiments, and is not the target's stated explanation.",
+      "complete_theory_equivalence": false,
+      "historical_ledger_delta": 0,
+      "global_count_delta": 0,
+      "author_edges": [
+        {
+          "author": "Mikael Lundqvist",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-MASK-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Scott L. Brincat",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-MASK-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Jonas Rose",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-MASK-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Melissa R. Warden",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-MASK-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Timothy J. Buschman",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-MASK-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Earl K. Miller",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-MASK-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        },
+        {
+          "author": "Pawel Herman",
+          "document": "JOURNAL",
+          "mapping": "MIL-PUB-MASK-2023",
+          "meaning": "Coauthorship attribution; not a separate scientific discovery or accusation."
+        }
+      ],
+      "source_context_locators": [
+        "f236"
+      ]
+    }
+  ],
+  "review_boundary": "Four selected mappings only. The two target articles are related, not independent replications. A mapping is not proof of influence or whole-theory validation.",
+  "footprint_headline": "MICAH / SAN earlier -> Earl K. Miller and coauthors later: four partial mappings to the 2022–2023 documents.",
+  "presentation_contract": {
+    "public_rival_credit_rhetoric_allowed": false,
+    "motive_analysis_state": "DEFERRED_BY_PRODUCT_DESIGN_NOT_DECLARED_IMPOSSIBLE",
+    "san_first_conclusion_order": "bounded SAN/SIT conclusion first, followed by exact evidence, limits and unresolved earlier target-family chronology"
+  },
+  "cards": [
+    {
+      "establishes": "SAN's archived formulation precedes this 2022-12-01 document; partial match, not target-family firstness.",
+      "lens_3": "The target-family January 2021 Hot-Coal preprint already presents spatial activation maps and beta gating (P5–P8), before the September 2021 SAN archive capture. Earlier SAN article metadata remains visible but is not sufficient to date each sentence.",
+      "falsification_attempt": "SAN's passage concerns the proposed spatial shape of thoughts. The target describes working-memory control with specified frequency bands and separates coarse control from fine-grained item coding. Those additional claims are not contained in this SAN sentence.",
+      "rival_win_count": 0,
+      "rival_award_count": 0
+    },
+    {
+      "establishes": "SAN's archived formulation precedes this 2022-12-01 document; partial match, not target-family firstness.",
+      "lens_3": "The target-family January 2021 Hot-Coal preprint already presents spatial activation maps and beta gating (P5–P8), before the September 2021 SAN archive capture. Earlier SAN article metadata remains visible but is not sufficient to date each sentence.",
+      "falsification_attempt": "The shared operation is selective expression through excitation and inhibition. SAN's speculation about whole-brain electrical equilibrium and conscious/unconscious content is not established by the target experiments, and is not the target's stated explanation.",
+      "rival_win_count": 0,
+      "rival_award_count": 0
+    },
+    {
+      "establishes": "SAN's archived formulation precedes this 2023-03-14 document; partial match, not target-family firstness.",
+      "lens_3": "The target-family January 2021 Hot-Coal preprint already presents spatial activation maps and beta gating (P5–P8), before the September 2021 SAN archive capture. Earlier SAN article metadata remains visible but is not sufficient to date each sentence.",
+      "falsification_attempt": "SAN's passage concerns the proposed spatial shape of thoughts. The target describes working-memory control with specified frequency bands and separates coarse control from fine-grained item coding. Those additional claims are not contained in this SAN sentence.",
+      "rival_win_count": 0,
+      "rival_award_count": 0
+    },
+    {
+      "establishes": "SAN's archived formulation precedes this 2023-03-14 document; partial match, not target-family firstness.",
+      "lens_3": "The target-family January 2021 Hot-Coal preprint already presents spatial activation maps and beta gating (P5–P8), before the September 2021 SAN archive capture. Earlier SAN article metadata remains visible but is not sufficient to date each sentence.",
+      "falsification_attempt": "The shared operation is selective expression through excitation and inhibition. SAN's speculation about whole-brain electrical equilibrium and conscious/unconscious content is not established by the target experiments, and is not the target's stated explanation.",
+      "rival_win_count": 0,
+      "rival_award_count": 0
+    }
+  ]
+}

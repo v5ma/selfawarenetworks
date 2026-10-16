@@ -1,0 +1,69 @@
+{
+  "schema": "comparison-wiki-public-source-snapshot-v1",
+  "backup_date": "2026-10-16",
+  "source_allowlist_date": "2026-10-11",
+  "repository": "https://github.com/v5ma/selfawarenetworks",
+  "branch": "comparison-wiki-public-backup-20261016",
+  "source_qualified_selected_records": 54,
+  "original_public_assets": 18,
+  "editions": [
+    {
+      "name": "Joscha Bach: initial source edition",
+      "records": 18,
+      "path": "joscha-bach/index.html",
+      "certificate_sha256": "6AC97FFB652EC6F757F4AF4515FB9475BEE1D14175FEB8E767E55E2CE69EC246",
+      "allowlist_sha256": "817619CF14550822BCBCA0BEFE9B562C5C84289BDD3D707B4EEE44EEDEC3CD29"
+    },
+    {
+      "name": "Joscha Bach: 2022-source extension",
+      "records": 14,
+      "path": "joscha-bach/2022-source-extension/index.html",
+      "certificate_sha256": "BF77D73B7637E3D28C206167142961AEA58567734736302EDD3E008AD106543D",
+      "allowlist_sha256": "CCD3AE024851F21D8CB17BC56AF14F10185FAB440B81B4C028BA130EF2EC120B"
+    },
+    {
+      "name": "Joscha Bach: Neural Lace monologue edition",
+      "records": 10,
+      "path": "joscha-bach/neural-lace-source-comparisons/index.html",
+      "certificate_sha256": "27E821FF5669D04B09A44A6D2DCAB21CAD38879C60D85D26BDF7D98F9EEC7D7F",
+      "allowlist_sha256": "1642C49CB80E3AE1685EFD5E76E4F9568A39A87890CDE0424F789670DF93E363"
+    },
+    {
+      "name": "Earl K. Miller: spatial-computing edition",
+      "records": 4,
+      "path": "miller-spatial-computing/index.html",
+      "certificate_sha256": "E8A9221ACFBFA31CE3C1749DE0A92AC90688723BA6B5423FC81A371C13846DF5",
+      "allowlist_sha256": "439FDCE1C3F73F20E109DC7833ECE084BCD6298CEAFF2FEF449DF749412EED4C"
+    },
+    {
+      "name": "Anil Seth and coauthors: selected source comparisons",
+      "records": 8,
+      "path": "anil-seth/source-comparisons/index.html",
+      "certificate_sha256": "2A50231217444F51B339C617A53935F486D2356C9E993596F666D3CA8865BE0D",
+      "allowlist_sha256": "21CE68C0B8C03093DBA254B18344330EC43A2773067C857D25DA82B60A5BC173"
+    }
+  ],
+  "source_handoff_sha256": "A4B1E58E497DDE8965F43D85F026799C9584426309E4205A67ACE406D71BE9BF",
+  "manifest_sha256": "EBB5614B6A93A6D8D483133B1EC35CB22B1C78D680BAFB2A56FFE97A403FAB7D",
+  "whole_wiki_complete": false,
+  "new_scientific_validation_claimed": false,
+  "private_working_corpus_included": false,
+  "browser_verified": false,
+  "live_website_deployed": false,
+  "current_rechecks": {
+    "Bach_editions": 3,
+    "Seth_editions": 1,
+    "status": "PASS-SOURCE-RELEASE",
+    "Miller": {
+      "current_global_verifier": "FAIL-SHARED-WORKING-INTERFACE-DRIFT",
+      "changed_shared_files": [
+        "comparison-wiki-latest-reader.html",
+        "comparison-documented-footprint.js"
+      ],
+      "release_local_files_unchanged": true,
+      "specific_preflight_method_drift_receipts": "PASS",
+      "new_full_verifier_pass_claimed": false
+    }
+  },
+  "chronology": "The Git commit dates this backup only. Each source record retains its own date and custody limits."
+}
