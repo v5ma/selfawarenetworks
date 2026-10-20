@@ -54,6 +54,31 @@ auditory-somatosensory convergence in human auditory cortex. NAPOT's stronger cl
 relations among many transformed neural contributions implement an identifiable, action-usable
 reconstruction remains a hypothesis.
 
+## Learned relations and partial expression
+
+The June 2022 expansion of [b0131y](https://github.com/v5ma/selfawarenetworks/blob/b2b7084fb754a3553b3468087aed963a1224ab1b/b0131y.md)
+adds a second part of the argument: a group learns coincident relations while only some of its
+members express a pattern at a particular moment. Local contributions could recruit a wider
+population state; that state could then alter what later local input becomes effective. This is
+a proposed reciprocal organization of receiving and re-expression, not a claim that a complete
+image is copied into every cell.
+
+The source's sustained moan illustrates why tonic expression is not inherently meaningless:
+duration and bodily context can matter to another observer even when a sound repeats. The "hey"
+example asks a narrower question about a departure from an established expectation. Both examples
+belong in the argument. Together they motivate the present clarification: statistical surprisal
+and the receiver's learned, meaningful interaction are different questions. The older wording
+itself called the surprising "hey" more meaningful; this precise distinction is not backdated
+as a verbatim June 2022 formulation.
+
+The October 11 Book and Atlas develop the receiving-reference question through the learning-pixel
+and red-shirt examples in Cycle 15. The original public
+[b0236y text](https://github.com/v5ma/selfawarenetworks/blob/cd95efe985f2b21cca69eb3fd253cf473a268587/b0236y%20ctpr.txt)
+already asks how elements learn surrounding patterns and how a departure physically changes the
+participating network. Those are proposed mechanisms, not established experiments on a television
+cube or a red-shirt circuit. [[information-rarity|Information Rarity]] connects them to explicit
+probability measurements; [[neural-tuning|Neural Tuning]] supplies the route to retained changes.
+
 ## Source boundary
 
 The date layers must remain separate:
@@ -62,7 +87,7 @@ The date layers must remain separate:
 |---|---|---|
 | October 14, 2021 | [Recorder event](https://recorder.google.com/0e824cb6-1ee3-4dc5-800a-b523ed3f70b9) | repeated partial views, transformed cortical passage, multisensory coincidence, recurrent scale influence, and oscillator boundaries |
 | June 8, 2022 | `b0131y ctpr.txt`, [commit `09b8306f`](https://github.com/v5ma/selfawarenetworks/commit/09b8306fbb54536e20ba1071e91dff0cb8a4770f) | first immutable public fixation of the lower-quality transcript |
-| June 8, 2022 | `a0383z.md`, [commit `73b1e6e5`](https://github.com/v5ma/selfawarenetworks/commit/73b1e6e5b8f135937aee39c6612fe52279f03fc7) | new coincidence, missing coincidence, and break-in-rhythm change-detection route |
+| June 8, 2022 | [`a0383z ctpr.txt`](https://github.com/v5ma/selfawarenetworks/blob/73b1e6e5b8f135937aee39c6612fe52279f03fc7/a0383z%20ctpr.txt), later routed as `a0383z.md` | new coincidence and breaks in the regular coincidence rhythm; a distributed receiving/change-detection proposal |
 | June 19, 2022 | `b0153y.md`, [commit `0a245a12`](https://github.com/v5ma/selfawarenetworks/commit/0a245a1227a4fac2f1a416f32e0a428d41d1952e) | transformed-slice, not-holographic, and information-theory language |
 | June 21, 2022 | expanded `b0131y.md`, [commits `5ba0a4a6`](https://github.com/v5ma/selfawarenetworks/commit/5ba0a4a6e4480640ef09683bb0805d0342db790b) through [`b2b7084f`](https://github.com/v5ma/selfawarenetworks/commit/b2b7084fb754a3553b3468087aed963a1224ab1b) | "five hmms and one hey," tonic context, rare deviation, Shannon bridge, distributed reconstruction, and added clinical/physics branches |
 | August 28, 2022 | [commit `29956416`](https://github.com/v5ma/selfawarenetworks/commit/29956416cb7c074bbfb8c32e13611a6568cc290e) | stable current `b0131y.md` route |
@@ -95,9 +120,10 @@ the resulting population state can alter what lower-level input becomes effectiv
 Experimental work supports bounded parts of this operation:
 
 - multisensory inputs can converge and either enhance or suppress responses;
-- synchronization can selectively change which input population communicates effectively with a
-  target;
-- pulvinar state can regulate transmission among visual cortical areas under attention;
+- monkey recordings link attention-dependent selective synchronization to communication between
+  visual populations;
+- pulvinar-cortex coupling is associated with selective interareal communication during
+  visuospatial attention;
 - feedforward and feedback influences can use different frequency channels in a specific primate
   visual hierarchy;
 - computational circuit models show how changing phase relations can reconfigure effective
@@ -137,14 +163,19 @@ cellular, circuit, field, or behavioral scale.
 
 ## A break in rhythm can be the message
 
-[[gh-a0383z|a0383z]], publicly fixed on June 8, 2022, adds a useful extension: the informative event
-may be a new coincidence, a missing expected event, a delay, or another break in the regular timing
-relation. Ulanovsky and colleagues found stronger cat auditory-cortex responses to rare than common
+[[gh-a0383z|a0383z]], publicly fixed on June 8, 2022, distinguishes a new coincidence from a break
+in the regular coincidence rhythm. Its short text does not enumerate all the later PWD classes.
+The current SAN vocabulary includes a missing expected event and delay as possible typed
+departures; that later classification is not backdated as a verbatim June 2022 list. Ulanovsky and
+colleagues found stronger cat auditory-cortex responses to rare than common
 instances of the same sound, while the thalamic neurons sampled in that study did not show the same
-frequency-deviant probability sensitivity. Parras and colleagues later separated hierarchical
-auditory prediction-error signals from adaptation. In mouse V1, Furutachi and colleagues causally
-identified a cooperative pulvinar-input and VIP-interneuron circuit that selectively amplifies
-unexpected visual features. These are pathway-specific mechanisms, not one universal novelty
+frequency-deviant probability sensitivity, in a stimulus-specific-adaptation study. Parras and
+colleagues later separated prediction-error responses from adaptation in single-neuron auditory
+recordings from anaesthetized rats and awake mice. Furutachi and colleagues used calcium imaging
+and optogenetic manipulations in head-fixed, trained mice navigating a visual corridor. Their
+cooperative pulvinar-input and VIP-interneuron mechanism selectively amplifies unexpected visual
+input in V1 layer 2/3; it is not a demonstrated generic difference-vector code or a required
+serial pulvinar-to-VIP route. These are pathway-specific mechanisms, not one universal novelty
 detector. SAN asks whether a typed PWD explains additional receiver-relative consequences beyond
 event probability, adaptation, firing rate, power, and conventional prediction-error models.
 
@@ -154,6 +185,14 @@ Present the same event as common or rare while independently varying meaning, ta
 adaptation. Compare probability, firing-rate, power, recurrent-state, and typed-PWD models. Then
 perturb relative phase while controlling the other variables and test for a receiver-specific
 downstream effect.
+
+Keep observation and outcome windows explicit. The reference, receiving state, and departures used
+to predict a consequence must be available by the declared cutoff. Record the subsequent
+consequence without making it its own predictor; completed responses can become history for later
+predictions. Also distinguish information beyond a reduced baseline from a finite learner's
+benefit when both models have the same underlying observations. These distinctions preserve the
+proposed reciprocal loop while making the test interpretable. See
+[[phase-wave-differential-calculus|Prediction, Information, and Causal Evidence]].
 
 For the NAPOT branch, present transformed views across position, size, modality, and time. Decode
 the latent object or scene from each population and from their joined recurrent activity. Compare
@@ -171,6 +210,7 @@ paused until a dedicated image session.
 ## Read next
 
 - [[information-rarity|Information Rarity]]
+- [[phase-wave-differential-calculus|Prediction, Information, and Causal Evidence]]
 - [[continuous-dynamics-discrete-neural-information|Continuous Dynamics and Discrete Neural Information]]
 - [[tonic-phasic-phase-wave-differential|Tonic, Phasic, and PWD]]
 - [[perceptual-screen-neural-rendering|Perceptual Screen and Neural Rendering]]

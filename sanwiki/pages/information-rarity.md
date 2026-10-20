@@ -16,9 +16,34 @@ common event. SAN proposes that this contrast helps explain why an ongoing tonic
 a reference while rarer [[phase-wave-differentials|phase-wave differentials]] carry changing
 content.
 
-![Information Rarity in a Neural Receiver](/v5ma.github.io/wiki/assets/generated/san/information-rarity/information-rarity-neural-receiver-20260811-v1.png)
+## What rarity contributes to the SAN mechanism
 
-[Open the full-resolution figure](/v5ma.github.io/wiki/assets/generated/san/information-rarity/information-rarity-neural-receiver-20260811-v1.png)
+Rarity is one property that can be measured under a declared expectation; it is not the definition
+of PWD. The SAN relation includes excitation, inhibition, a missing expected event, delay, and
+interactions relative to the receiver's tonic pattern. A common departure can still have a
+consequence. The question here is how its probability and its receiving conditions help explain
+that consequence.
+
+The tonic reference need not be an empty background supplied by an analyst. In Micah's
+[learning-pixel thought experiment](https://github.com/v5ma/selfawarenetworks/blob/cd95efe985f2b21cca69eb3fd253cf473a268587/b0236y%20ctpr.txt),
+elements in a three-dimensional array learn which surrounding patterns precede their own activity.
+A written word, visible wheels, and a sound could become related through their history. In the
+same source, a red-shirt-related departure changes participating cells as they interact with their
+oscillating group. Returning to the earlier frequency does not erase the intervening physical
+adjustments. The internal recording dates remain distinct from the June 2022 public text.
+
+The stronger SAN proposal concerns those receiving transformations: a learned and ongoing state
+receives a difference, transforms and re-expresses it to other receivers, and can retain changes
+that affect the next encounter. Their continuing organization across populations is proposed to
+constitute an experienced quality, rather than merely describe a surprising observation. The
+Micah-labelled passages in [02san](https://github.com/v5ma/selfawarenetworks/blob/64f018d2d93b7de6718058c4724c43b40e5dd4b7/02san.md)
+state this rendering-and-tuning argument. It is a SAN conjecture; calculating surprisal or observing
+one component circuit does not establish the complete constitutive claim. See
+[[neural-tuning|Neural Tuning]] and [[neural-rendering|Neural Rendering]].
+
+![Information Rarity in a Neural Receiver](../assets/generated/san/information-rarity/information-rarity-neural-receiver-20261013-v3.png)
+
+[Open the full-resolution figure](../assets/generated/san/information-rarity/information-rarity-neural-receiver-20261013-v3.png)
 
 *The solid teal pathways summarize established measurements: context-dependent auditory responses,
 excitation-inhibition timing, phase-sensitive coding, and a specific pulvinar-VIP-SOM-pyramidal
@@ -72,6 +97,26 @@ CV_ISI = standard deviation of inter-spike intervals
 proposal treats variability as one candidate dimension within a typed, receiver-relative event
 description.
 
+### The same event under a different expectation
+
+In a synthetic two-outcome example, declare a receiver and a deadline `W`. Its model assigns
+probability `0.9` to an event arriving by that deadline and `0.1` to its absence. These probabilities
+are invented for illustration, not measured neuronal data.
+
+| Outcome by W | Probability under the declared context | Conditional self-information |
+|---|---|---|
+| Event arrives | 0.9 | about 0.152 bits |
+| Expected event does not arrive | 0.1 | about 3.322 bits |
+
+Under a different context in which absence is common, the same absence can have low surprisal.
+Thus neither an event's physical label nor the sign of a voltage trace determines its rarity.
+The event classes, context, receiver, and observation window determine the probability question.
+An omitted input does not transmit a literal missing spike: a study must identify how a prepared
+receiver registers the absent contribution and what changes next.
+
+This uses the same conditional self-information in equation [1]. It is not stimulus-response mutual
+information, an entire PWD record, or evidence that every omission produces a conscious percept.
+
 ## Source recovery: the June 2022 proposal
 
 [[gh-a0590z|a0590z]], first publicly fixed on June 8, 2022, is a mixed neural-and-immune notebook.
@@ -110,14 +155,13 @@ into the first note.
 | June 8, 2022 | [a0590z](https://github.com/v5ma/selfawarenetworks/blob/5360f6414909a2474129b2140ee0dc3112c93b6b/a0590z.md) | inhibition, spine change, phase-rate change, and the phrase "information rarity" in one proposed sequence |
 | June 8-11, 2022 | [a0142z](https://github.com/v5ma/selfawarenetworks/blob/ff8d45af7706a29baaef326fcc4fbcbaa0ed0f06/a0142z.md) | coherence as coupling or convergence, contrasted with decoherence or separation as distinction-making |
 | June 21, 2022 | [b0131y](https://github.com/v5ma/selfawarenetworks/blob/b2b7084fb754a3553b3468087aed963a1224ab1b/b0131y.md) | repeated "hmms" as context and a rarer "hey" as a more surprising event under an information-theory reading |
-| September 6, 2024 | [02san](https://github.com/v5ma/selfawarenetworks/blob/df4d7f8d3270d56de167035c4987c3e072696c79/02san.md) | unexpected excitation or inhibition relative to tonic oscillation described as a PWD candidate |
-| June 16, 2025 | [13san](https://github.com/v5ma/selfawarenetworks/blob/0d844d97983ec6e6600063dc54734809516f7f7e/13san.md) | coefficient-of-variation language for phase-pattern differences relative to collective synchronization |
+| September 6, 2024 | [02san](https://github.com/v5ma/selfawarenetworks/blob/64f018d2d93b7de6718058c4724c43b40e5dd4b7/02san.md) | Micah-labelled turns describe unexpected excitation or inhibition relative to tonic oscillation as a PWD candidate; generated explanations remain separately attributed |
+| June 16, 2025 | [13san](https://github.com/v5ma/selfawarenetworks/blob/0d844d97983ec6e6600063dc54734809516f7f7e/13san.md) | a mixed working document using coefficient-of-variation language relative to collective synchronization; a dated vocabulary stage, not a certified Micah quotation or empirical result |
 | 2026 governed synthesis | this page | explicit conditional-probability, receiver, scale, and experimental boundaries |
 
 The joined SAN hypothesis is that a relatively stable tonic pattern supplies the comparison
 context, while less common receiver-relative departures can carry differential content and alter
-what the system does next. [[coherence-dispersion-sculpting-hypothesis|Coherence and structured
-dispersion]] can both be functional: compatible timing can support communication, while a departure
+what the system does next. [[coherence-dispersion-sculpting-hypothesis|Coherence and structured dispersion]] can both be functional: compatible timing can support communication, while a departure
 from that relation can mark a boundary, error, new feature, or route change.
 
 ## What established neuroscience supports
@@ -133,11 +177,14 @@ Established results support components of this proposal without proving the join
   than simply creating a classical lateral-inhibition surround.
 - Cat auditory-cortex neurons responded more strongly when the same sound was rare rather than
   common, while the sampled auditory-thalamic neurons did not show the same frequency-deviant
-  probability sensitivity.
-- In macaque V1, spike timing relative to an ongoing field-potential phase carried stimulus
-  information beyond spike count in the tested preparation.
-- Mouse V1 prediction-error responses can depend on a specific interaction among pulvinar input,
-  VIP interneurons, SOM interneurons, and stimulus-selective pyramidal populations.
+  probability sensitivity in that stimulus-specific-adaptation study.
+- In anesthetized macaque V1 during natural-movie viewing, multiunit spike timing relative to
+  low-frequency LFP phase carried stimulus information beyond spike count.
+- In head-fixed, trained mice navigating a visual corridor, calcium imaging and optogenetic
+  manipulations identified a cooperative interaction among pulvinar input, VIP interneurons,
+  a specific SOM subset, and stimulus-selective V1 layer 2/3 populations. It amplifies actual
+  unexpected visual input rather than establishing a generic difference-vector code; the study
+  does not require a serial pulvinar-to-VIP circuit.
 
 These findings show that probability, context, inhibition, phase, and response selectivity can be
 biologically consequential. They do not establish one universal novelty circuit, one global tonic
@@ -186,8 +233,24 @@ Compare cross-validated models using:
 2. timing or phase alone;
 3. stimulus probability and adaptation;
 4. inhibitory-circuit state and population sparseness;
-5. a typed PWD model containing the declared reference, source, route, receiver, variability, and
-   downstream consequence.
+5. a typed PWD model using the declared reference, source, route, receiving state, and eligible
+   departures available before the particular consequence it predicts.
+
+Keep the downstream consequence in the complete event record and measure it as an outcome. It
+must not also be supplied as an input to a model predicting that same outcome. Declare the
+prediction cutoff; every sample used to estimate a phase, duration, reference, or other feature
+must be eligible at that cutoff. Fit the reference and preprocessing on training data before
+held-out evaluation. A completed response can enter the history for a still later target, so this
+rule preserves feedback and Neural Tuning. The [[phase-wave-differential-calculus|PWD calculus page]]
+explains the measurement distinction and its methods sources.
+
+If a fixed analyst feature `D` is computed entirely from observations `X`, conditioning on all of
+`X` already determines `D`: `I(D;Y | X) = 0`. A PWD-derived representation can nevertheless expose
+information omitted by a reduced baseline, or help a finite learner use the same observations.
+Compare models with declared data access and learning budgets, then test the biological receiving
+operation through perturbation and rescue. Information beyond a reduced summary, representation
+benefit, and causal receiver evidence answer different questions; none replaces the full SAN
+mechanism with an analyst's feature.
 
 Report stimulus-response mutual information, bits per event, bits per unit time, held-out decoding,
 and behavioral prediction separately. Then perturb the inhibitory route and test whether the
@@ -200,16 +263,23 @@ predictive value after probability, adaptation, firing rate, and circuit state a
 
 ## Image status
 
-A publication-grade companion figure specified as `IMG-SAN-INFORMATION-RARITY-001` is installed in
-the local SAN build. It passed internal review for the named auditory and visual circuit claims,
-anatomical direction, information-theory boundaries, and separation of established evidence from
-the SAN hypothesis. Owner review and independent specialist review remain open; the figure has not
-been published or deployed.
+The current companion illustration distinguishes normalized, synthetic probability examples,
+literature-supported circuit motifs, information measures, and an unanswered SAN model comparison.
+Its rasters, traces and comparison marks are schematic rather than experimental data; cell shapes
+do not claim the morphological subtype of the measured SOM population.
+
+The [earlier August plate](../assets/generated/san/information-rarity/information-rarity-neural-receiver-20260811-v1.png)
+and its bounded internal-review history are preserved. That exact earlier image was included in
+the [October 5 public Wiki snapshot](https://github.com/v5ma/selfawarenetworks/commit/9ca5cb840c0913f2b8b72c5de66662a622e79d0f).
+Public availability did not close its separately recorded owner and specialist gates. The revised
+illustration has its own source, mathematical, biological and visual checks; earlier acceptance
+does not automatically certify a generated successor.
 
 ## Read next
 
 - [[tonic-context-rare-deviation-tomographic-language|Tonic Context, Rare Deviations, and Tomographic Language]]
 - [[phase-wave-differentials|Phase-Wave Differentials]]
+- [[phase-wave-differential-calculus|Prediction, Information, and Causal Tests]]
 - [[coincidence-as-a-bit|Coincidence as a Bit]]
 - [[coherence-dispersion-sculpting-hypothesis|Coherence-Dispersion Sculpting Hypothesis]]
 - [[receptor-inhibition-pattern|Receptor and Inhibition Pattern]]

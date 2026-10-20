@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-20",
+  "scope": "Ten already-reviewed SAN foundation and Book/Atlas entries",
+  "acceptedClaimBlocks": 633,
+  "uniqueFigures": 7,
+  "pageRecords": [
+    {
+      "slug": "potassium-channel-modulation",
+      "path": "sanwiki/pages/potassium-channel-modulation.md",
+      "canonicalSha256": "f5e26b02c5c94d0a83cc75518521bc1e7de83b317e6a30fec96da8ca3808892e",
+      "archivalSha256": "f5e26b02c5c94d0a83cc75518521bc1e7de83b317e6a30fec96da8ca3808892e",
+      "projection": "Only absolute workspace image URLs are made relative for GitHub rendering; argument and citation text retained."
+    },
+    {
+      "slug": "umami-multi-receptor-coincidence-detection",
+      "path": "sanwiki/pages/umami-multi-receptor-coincidence-detection.md",
+      "canonicalSha256": "8c21d18ba198add209d0431468d2aaddadd41d44274c9b02bde69df16bf2fca1",
+      "archivalSha256": "44d949e6852b2b5defdd9a0fc6f515857504c9519a3b3a1432b5764abf6a1eb6",
+      "projection": "Only absolute workspace image URLs are made relative for GitHub rendering; argument and citation text retained."
+    },
+    {
+      "slug": "action-potential-duration",
+      "path": "sanwiki/pages/action-potential-duration.md",
+      "canonicalSha256": "1240561ef0ab222bbd4e109433f98d31f22547782a305bc8d26930ff38625c37",
+      "archivalSha256": "1240561ef0ab222bbd4e109433f98d31f22547782a305bc8d26930ff38625c37",
+      "projection": "Only absolute workspace image URLs are made relative for GitHub rendering; argument and citation text retained."
+    },
+    {
+      "slug": "action-potential-waveform",
+      "path": "sanwiki/pages/action-potential-waveform.md",
+      "canonicalSha256": "fd1b7ab21292ad1e71e463a8ba43b4a5f8e3bee93b2f0fddb210ad04fc3bb5ef",
+      "archivalSha256": "fd1b7ab21292ad1e71e463a8ba43b4a5f8e3bee93b2f0fddb210ad04fc3bb5ef",
+      "projection": "Only absolute workspace image URLs are made relative for GitHub rendering; argument and citation text retained."
+    },
+    {
+      "slug": "action-potential-waveform-encoding",
+      "path": "sanwiki/pages/action-potential-waveform-encoding.md",
+      "canonicalSha256": "92ec64a53358a0d07962601137b0d73f767c090ae88a6dc63c07ff0eee4d694d",
+      "archivalSha256": "92ec64a53358a0d07962601137b0d73f767c090ae88a6dc63c07ff0eee4d694d",
+      "projection": "Only absolute workspace image URLs are made relative for GitHub rendering; argument and citation text retained."
+    },
+    {
+      "slug": "stimulus-history-and-action-potential-waveform",
+      "path": "sanwiki/pages/stimulus-history-and-action-potential-waveform.md",
+      "canonicalSha256": "2a5a3b4833c4aa2acdbd45e1916fa5499c427b7c5210109ae73d02edf89dabd3",
+      "archivalSha256": "2a5a3b4833c4aa2acdbd45e1916fa5499c427b7c5210109ae73d02edf89dabd3",
+      "projection": "Only absolute workspace image URLs are made relative for GitHub rendering; argument and citation text retained."
+    },
+    {
+      "slug": "action-potential-magnitude-via-duration",
+      "path": "sanwiki/pages/action-potential-magnitude-via-duration.md",
+      "canonicalSha256": "da9d75448f1ad98f9260a8e578a933cd18344178e1f6a910678838e7212fe1c7",
+      "archivalSha256": "da9d75448f1ad98f9260a8e578a933cd18344178e1f6a910678838e7212fe1c7",
+      "projection": "Only absolute workspace image URLs are made relative for GitHub rendering; argument and citation text retained."
+    },
+    {
+      "slug": "san-book2-bridge-atlas",
+      "path": "sanwiki/pages/san-book2-bridge-atlas.md",
+      "canonicalSha256": "30af46eabd85eda848b783618fd26e798ac2cb2fa5fd5208ac78540c4e4214de",
+      "archivalSha256": "30af46eabd85eda848b783618fd26e798ac2cb2fa5fd5208ac78540c4e4214de",
+      "projection": "Only absolute workspace image URLs are made relative for GitHub rendering; argument and citation text retained."
+    },
+    {
+      "slug": "information-rarity",
+      "path": "sanwiki/pages/information-rarity.md",
+      "canonicalSha256": "120afc84a54391d397776aa726e5f7c48363330f8f8f7bed5f5c1537978bac4d",
+      "archivalSha256": "c55f55f912006ec76354a2690f902f6443732b9de42b7fe341d1cdca715b251f",
+      "projection": "Only absolute workspace image URLs are made relative for GitHub rendering; argument and citation text retained."
+    },
+    {
+      "slug": "tonic-context-rare-deviation-tomographic-language",
+      "path": "sanwiki/pages/tonic-context-rare-deviation-tomographic-language.md",
+      "canonicalSha256": "ded91f62f532bf150a872b46c875a662c2a37b3f2d68264f1ac43d1f5c7e1266",
+      "archivalSha256": "ded91f62f532bf150a872b46c875a662c2a37b3f2d68264f1ac43d1f5c7e1266",
+      "projection": "Only absolute workspace image URLs are made relative for GitHub rendering; argument and citation text retained."
+    }
+  ],
+  "evidenceBoundary": "Recorded source and scientific reviews apply to their exact scope; no whole-theory empirical confirmation is implied."
+}

@@ -1,75 +1,242 @@
-# Potassium Channel Modulation
-
-**Potassium Channel Modulation** is the [neuroscience](neuroscience.md)-side mechanism, the voltage- and ligand-gated regulation of K+ efflux through [ion channels](synaptic-ion-channel-tone.md), that the [Self-Aware Networks](self-aware-networks.md) corpus cites as one of the molecular substrates by which [synaptic](chemical-synapse.md) stability and [phase-signal](phase-signal.md) dynamics are jointly maintained. The construct sits at the intersection of [LTP](long-term-potentiation.md)-style [consolidation](memory-consolidation.md), [memory persistence](memory-persistence.md) via [KIBRA and PKMzeta anchoring](kibra-pkm-zeta-memory-anchor.md), and [metabotropic-receptor](metabotropic-signaling.md) cascades that adjust [neuron](single-neuron-phase-cascade.md) output timing.
-
-## Potassium and action-potential duration
-
-![Potassium-channel modulation, spike duration, and conditional synaptic signaling in SAN. The lower dashed path is the SAN interpretation, not a universal sensory-cell circuit.](../assets/generated/san/action-potential-duration/potassium-apd-synaptic-transformation-20260926-v4.png)
-
-Micah's [[gh-a0053z|The Phasic Tonic Relationship]] and
-[[gh-a0272z|Taste & Hearing: Sensory Input Quantification]] notes connect potassium-channel
-modulation to the **duration and shape of the action potential**, calcium-channel activity,
-transmitter release, and the pattern reaching other cells. The argument is not limited to
-whether a neuron fires, or when its next spike occurs.
-
-The illustrated cellular mechanism has specific experimental anchors: Kv1 currents shape
-repolarization in cortical axon collaterals and boutons
-([Foust et al., 2011](https://doi.org/10.1523/JNEUROSCI.2752-11.2011)); local Kv3 channel
-organization contributes to bouton-specific spike width in cerebellar stellate cells
-([Rowan et al., 2016](https://doi.org/10.1016/j.neuron.2016.05.035)). These are different channel
-and cell contexts, not one universal potassium rule. The schematic synapse is not a literal
-diagram of every sensory receptor: sensory transduction and the site of spike generation
-must be identified separately for each example. See [[action-potential-duration]] for the
-measurement definitions, calcium-dependent synaptic evidence, and SAN source genealogy.
-
-## Origin
-
-The packet snapshot has `packet_path = null` because the live JSON has been rotated. Evidence preserved from the prior Lane C template includes one substantive Lane A passage at `rexnote12--md` line 3409 ([on github](gh-rexnote12.md)): "synaptic stability is achieved through repeated cycles of vesicle release, potassium channel modulation, and calcium influx. The stability provided by KIBRA anchoring PKMzeta at specific [synapses](synapse.md)..." That passage treats potassium-channel modulation as one component in a [vesicle-release](synaptic-vesicle-release.md), K+-modulation, and [Ca2+-influx](gh-a0138zcalcium.md) cycle that produces [persistent synaptic stability](memory-persistence.md) when paired with [KIBRA and PKMzeta anchoring](kibra-pkm-zeta-memory-anchor.md). The cleanest connection to the wider SAN [phase-signal](phase-signal.md) picture appears on the [phase-signal](phase-signal.md) page, where `a0272z--md` line 39 describes "metabotropic receptors might modulate the ionotropic receptors via the cAMP cascade, perhaps releasing potassium from the cell faster, and that is how they modulate the [phase signal](phase-signal.md) output of the neuron." Mainstream chronological priority for potassium-channel modulation belongs to the molecular [neuroscience](neuroscience.md) tradition: Hodgkin and Huxley described the [K+ current](action-potential.md) in 1952, K+ channel families were characterized from the 1980s onward, and modulatory-cascade literature developed around [cAMP](camp-neural-phase-modulation.md) and [PKA signaling](camp-neural-phase-modulation.md). SAN's contribution is to bind the molecular mechanism to the [phase-signal](phase-signal.md) output of the [neuron](single-neuron-phase-cascade.md) and to the [memory-persistence](memory-persistence.md) story via KIBRA and PKMzeta.
-
-## Position
-
-Within [Self-Aware Networks](self-aware-networks.md), the K+-channel-modulation step is the speed-of-output control that turns [ionotropic](ionotropic-signaling.md) firing into a tunable [phase signal](phase-signal.md). The [phase-signal](phase-signal.md) page documents the modulation chain: [metabotropic receptors](metabotropic-signaling.md) to [cAMP cascade](camp-neural-phase-modulation.md) to potassium efflux rate to [neuron](single-neuron-phase-cascade.md) phase-signal timing. K+-channel modulation is therefore upstream of the [phase-wave-differential](phase-wave-differential.md) event. Changing the K+ time constant changes when the [neuron](single-neuron-phase-cascade.md) repolarizes after an [action potential](action-potential.md), which changes when the next [spike fires](graded-neural-firing.md) and changes the differential against [tonic oscillation](tonic-oscillation.md). The [persistence](memory-persistence.md) story at `rexnote12--md` line 3409 ([on github](gh-rexnote12.md)) places the mechanism inside the molecular [vesicle-release](synaptic-vesicle-release.md), K+-modulation, and [Ca2+-influx](gh-a0138zcalcium.md) cycle that maintains [LTP](long-term-potentiation.md)-anchored synapses. [KIBRA and PKMzeta](kibra-pkm-zeta-memory-anchor.md) are cited as anchoring proteins that hold the cycle stable at "specific [synapses](synapse.md)." The corollary is that disrupting K+-channel modulation with [channel blockers](synaptic-ion-channel-tone.md) such as 4-AP or TEA, or genetically with channel knockouts, should disrupt both [phase-signal](phase-signal.md) timing and [memory-persistence](memory-persistence.md) anchoring. That reading is consistent with mainstream pharmacology, but SAN frames the consequence at the phase-signal level rather than only at the [firing-rate](graded-neural-firing.md) level.
-
-## Chronology
-
-The mainstream chronology is well anchored. Hodgkin and Huxley described the squid-axon [K+ current](action-potential.md) in 1952; the K+-channel-family literature developed from the 1980s onward through work on Kv, KCa, Kir, and K2P channels; and the modulation literature for [cAMP-PKA cascades](camp-neural-phase-modulation.md) follows work associated with Greengard and others. The memory-persistence side is supported by the PKMzeta line from Sacktor and collaborators, the Migues et al. 2010 AMPA-receptor-trafficking work, and later KIBRA-PKMzeta anchoring work in 2024. Useful external anchors are [Hodgkin and Huxley 1952](https://pubmed.ncbi.nlm.nih.gov/12991237/), [Brown and Adams 1980](https://www.nature.com/articles/283673a0), [Wang et al. 1998](https://pubmed.ncbi.nlm.nih.gov/9836639/), [Migues et al. 2010](https://pubmed.ncbi.nlm.nih.gov/20383136/), and [Tsokas et al. 2024](https://digitalcommons.library.tmc.edu/uthgsbs_docs/2061/). SAN's harvested evidence on this slug is in the [rexnote12](gh-rexnote12.md) note, with no inferred year and no supported pre-2013 priority claim. SAN's contribution is to integrate this molecular layer into the larger [phase-signal](phase-signal.md), [phase-wave-differential](phase-wave-differential.md), and [memory-persistence](memory-persistence.md) architecture rather than to claim independent priority over the molecular mechanism itself.
-
-## Post-SAN
-
-Mainstream literature on K+-channel modulation is rich. Work on KIBRA and PKMzeta [memory persistence](memory-persistence.md), including Migues et al. and Sacktor-lab work from the 2010s onward plus the 2024 KIBRA-anchoring paper, provides specific molecular handles on the persistence side. The M-channel literature, including Brown and Adams 1980 and Wang et al. 1998, provides a specific [tonic-to-phasic](tonic-phasic-firing.md) conversion mechanism: "M-channels activate at sub-threshold voltages [and] convert tonic firing to [phasic firing](phasic-firing.md)," as quoted on the [phasic-firing](phasic-firing.md) page from a 2021 preprint. SAN's distinctive contribution against this body of work is the [phase-signal](phase-signal.md)-level reading: K+-channel modulation is not just a [tonic-to-phasic switch](tonic-phasic-firing.md) in the M-channel literature, but a [phase-signal](phase-signal.md) shaper whose output is [phase-wave-differential](phase-wave-differential.md) timing. A testable consequence is that experimentally substituting one K+-channel modulator for another at fixed average [firing rate](graded-neural-firing.md) should change downstream content if the SAN reading is correct, and should be epiphenomenal if [rate coding](graded-neural-firing.md) is sufficient.
-
-## Related concepts
-
-- [phase-signal](phase-signal.md) -- the per-neuron [phase signal](phase-signal.md) whose timing K+ modulation shapes.
-- [phase-wave-differential](phase-wave-differential.md) -- the differential whose timing depends on K+-modulated repolarization.
-- [chemical-synapse](chemical-synapse.md) -- the substrate where the vesicle-release, K+-modulation, and Ca2+-influx cycle runs.
-- [synapse](synapse.md) -- the per-junction structure KIBRA and PKMzeta stabilize.
-- [long-term-potentiation](long-term-potentiation.md) -- [ltp](ltp.md), the consolidation mechanism the K+ cycle anchors.
-- [memory-persistence](memory-persistence.md) -- the persistence-side framing the rexnote12 evidence anchors.
-- [memory-consolidation](memory-consolidation.md) -- the consolidation pipeline K+ modulation participates in.
-- [neurotransmitter](neurotransmitter.md) -- the chemical vector for vesicle-release events upstream of the K+ step.
-- [action-potential](action-potential.md) -- the spike-level event K+ channels reset by repolarization.
-- [neuron](single-neuron-phase-cascade.md) -- the unit whose output K+ modulation shapes.
-- [tonic-oscillation](tonic-oscillation.md) -- the baseline rhythm K+ time constants help set.
-- [phasic-firing](phasic-firing.md) -- the firing mode that M-channel literature documents when K+ modulation converts tonic firing into phasic firing.
-- [membrane-potential](membrane-potential.md) -- the voltage variable K+ efflux drives.
-- [ionotropic receptors](ionotropic-signaling.md) -- the fast receptors K+-channel modulation paces.
-- [metabotropic receptors](metabotropic-signaling.md) -- the slow receptors that drive the cAMP cascade modulating K+ output.
-- [hippocampus](hippocampus.md) -- the structure where KIBRA and PKMzeta persistence work is most studied.
-- [engram](engram.md) -- the consolidated memory unit the K+-anchored cycle stabilizes.
-- [neural-array](neural-array.md) -- the array tissue across which K+-shaped phase signals compose.
-- [criterial-causation](criterial-causation.md) -- the [criterial-causation](criterial-causation.md) reading of which K+-modulated patterns count.
-
-## Source Provenance
-
-- Source ids: rexnote03--md, rexnote12--md
-  - `rexnote03--md` line 227 -> https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/rexnote03.md
-  - `rexnote12--md` line 3409 -> https://github.com/v5ma/selfawarenetworks/blob/d1c26a6fbf273695185a4036411215f53209eb71/rexnote12.md
-- Evidence count: 2
-- Generated: 2026-04-24T18:46:12
-- Lane: C.draft (from packet)
-- Packet: `wiki/automation/packets/potassium-channel-modulation.json`
-
+---
+title: "Potassium Channel Modulation"
+tags: [san, potassium, action-potential-duration, waveform, sensory-transformation, memory]
+aliases: [Potassium Modulation, Potassium and APD]
+summary: "How local potassium-channel state can shape a spike and what reaches its next receiver, with SAN's sensory and memory argument kept distinct from the component experiments."
+status: governed
 ---
 
-*Auto-generated draft (Lane C, deterministic synthesis from packet). Lane D converted raw wikilinks to reader-safe Markdown links. Lane E (single-flight, manual) promotes to `wiki/reference/selfawarenetworks-legacy-wiki/`.*
+# Potassium Channel Modulation
+
+Potassium-channel modulation is central to SAN's argument that a sensory encounter can change
+**the duration and shape of an action potential**, not only whether a cell fires or when its next
+spike occurs. The changed waveform can alter what is transmitted onward; another cell receives
+that transformed output in the context of its own ongoing activity and learned state.
+
+The joined SAN proposal follows receptor selection, intracellular signaling, local channel state,
+electrical waveform, transmission and receiving populations into perception and learning. Its
+memory branch asks how changed responsiveness can persist while ions, spikes and individual
+molecules do not. Neither branch reduces the theory to one potassium current or one spike-width
+measurement.
+
+![Potassium channel modulation, action-potential duration, and conditional synaptic transformation](../assets/generated/san/action-potential-duration/potassium-apd-synaptic-transformation-20260926-v4.png)
+
+The membrane and chemical synapse are schematic neuronal examples, not a universal sensory-cell
+circuit. The curves compare spike width without claiming recorded data. Terminal waveform can
+change calcium entry and release probability; the direction and size of that effect depend on the
+channel, compartment, synapse and receiving state. The dashed lower band identifies SAN's joined
+sensory-transformation hypothesis.
+
+## The source argument is a transformation chain
+
+In [Taste & Hearing: Sensory Input Quantification](https://github.com/v5ma/selfawarenetworks/blob/75b194fb97d2da09fb8bdd4130be98b910a72adb/a0272z.md),
+Micah begins with multiple receptor activations and coincidence detection. Protein morphology and
+cellular state determine how an encounter is transformed. He then asks how metabotropic signaling,
+including cAMP, could modify potassium and calcium channels, output duration and the effects passed
+to other cells. He also explicitly questions the assumption that every terminal of one neuron
+must send identical output.
+
+The complete operation is:
+
+```text
+input pattern and recent history
+  -> receptor and intracellular response
+  -> local channel state and membrane current
+  -> compartment-specific electrical waveform
+  -> modality-specific transmission
+  -> receiver-relative change in an ongoing pattern
+  -> changed readiness and subsequent reception
+```
+
+In SAN, coordinated transformations across neural arrays are proposed to constitute sensory
+patterns and experienced qualities. The potassium/APD route is one physical contributor to that
+account, not an observer examining a completed picture. Component experiments can support the
+route without establishing the full constitutive account of experience.
+
+## Potassium current is not a one-knob timer
+
+For a simple conductance description, using outward-positive current:
+
+```text
+I_K(t) = g_K(t) * [V_m(t) - E_K]
+```
+
+`I_K` is potassium current, `g_K` is the effective local conductance, `V_m` is membrane voltage,
+and `E_K` is potassium's reversal potential. Channel availability and gating, the driving force,
+other currents and cellular geometry all matter. Potassium current is not a count of released
+neurotransmitter vesicles.
+
+Outward potassium current can contribute to repolarization. Changing it can affect spike width,
+afterpotentials, excitability or firing pattern, depending on the channel and preparation. Spike
+duration and the interval until a later spike are different measurements. Changing APD does not
+guarantee a particular next-spike time or a fixed population phase reset.
+
+[[action-potential-duration|Action Potential Duration]] distinguishes a spike's width from burst
+duration, postsynaptic-event duration and the duration of a population pattern.
+
+The familiar potassium-current framework predates SAN; the classic quantitative nerve-current
+account is [Hodgkin and Huxley, 1952](https://doi.org/10.1113/jphysiol.1952.sp004764).
+The expression above is a conductance description, not a complete channel-kinetics model or new
+experimental data.
+
+## Experimental anchors for different parts
+
+- **Intracellular modulation:** in the identified Aplysia neuron R15, serotonin-induced increases
+  in potassium conductance were mediated by cAMP. Later work in the same identified-cell system
+  described cAMP-dependent modulation of potassium, calcium and chloride currents. One messenger
+  can therefore affect several currents; it is not a universal potassium-only pathway.
+  [Levitan and Adams, 1981](https://pubmed.ncbi.nlm.nih.gov/6269405/),
+  [Lotshaw and colleagues, 1986](https://doi.org/10.1242/jeb.124.1.307).
+- **Axonal waveform:** in mouse cortical slices, Kv1 currents helped determine repolarization in
+  layer-5 pyramidal-cell axon collaterals and presynaptic boutons. Somatic depolarization broadened
+  spikes in bouton-bearing collaterals, and the effect depended on Kv1 channels.
+  [Foust and colleagues, 2011](https://doi.org/10.1523/JNEUROSCI.2752-11.2011).
+- **Terminal specificity:** recordings from cerebellar stellate-cell axons found differing spike
+  widths across boutons, including sites on the same branch. Local Kv3-channel clustering and
+  expression contributed to that variation. This is a specific example relevant to Micah's
+  terminal-output question, not evidence that all terminals use identical or equally variable
+  waveforms. In the same mouse cerebellar preparation, local potassium-channel blockade broadened
+  bouton spikes and increased the amplitude and time to peak of GABA autoreceptor currents;
+  paired-pulse measures also changed at the targeted axon site. Those are release-related
+  response and timing measurements, not direct counts of vesicles or perceptual content.
+  [Rowan and colleagues, 2016, Figure 7](https://doi.org/10.1016/j.neuron.2016.05.035).
+- **Firing-pattern regulation:** Brown and Adams identified muscarinic suppression of a distinct
+  M-current in frog sympathetic neurons; Wang and colleagues later identified KCNQ2/KCNQ3
+  contributions to native M-current. This is an excitability/input-response route, distinct from
+  the Kv1/Kv3 waveform examples. [Brown and Adams, 1980](https://doi.org/10.1038/283673a0),
+  [Wang and colleagues, 1998](https://doi.org/10.1126/science.282.5395.1890).
+
+The M-current branch asks whether changed subthreshold responsiveness can change tonic/phasic
+firing patterns and what reaches the next receiver, even at matched mean firing rate. The
+Brown/Wang results identify a current and its input-response role; they do not establish a
+universal tonic-to-phasic conversion. A firing mode, one spike's APD and a receiver-relative
+population phase remain different measurements.
+
+The expanded `a0272z` also follows dual control of a pacemaker current in identified
+Helix aspersa and Helix pomatia fast-burster neurons: calcium activates a nonselective cation
+current, while cAMP-dependent phosphorylation down-regulates it. Serotonin-related modulation
+changed bursting to beating activity. Micah connects this pacemaker example to tonic rhythmic
+state. That preserves both arms of the source's rhythmic-state branch without relabelling a
+nonselective current as a potassium current, or equating bursting/beating with APD or a
+population phase measurement.
+[Partridge and colleagues, 1990](https://doi.org/10.1113/jphysiol.1990.sp018248).
+
+Those experiments measure distinct currents and compartments. None alone shows that a particular
+sensory category selects a universal APD symbol or that potassium modulation establishes a
+conscious quality.
+
+## Sensory implementations must keep their anatomy
+
+The common SAN operation is receive, transform and project; the biological implementation differs.
+
+In acutely isolated type-II taste cells, temperature affected action-potential properties and voltage-gated
+sodium and potassium conductances. This supports waveform sensitivity in a defined sensory-cell
+preparation, not a potassium-only intervention or a proof that recognition determines spike width.
+[Ma, Paudel and Foskett, 2023](https://doi.org/10.1152/ajpcell.00413.2022).
+
+Type-II taste cells pass ATP through voltage-gated CALHM1/3 channels to gustatory nerves.
+That channel-mediated output is not the conventional calcium-triggered vesicle-release diagram
+above. CALHM3 deletion abolished taste-evoked ATP release and GPCR-mediated taste responses in
+the tested mice. [Ma and colleagues, 2018](https://doi.org/10.1016/j.neuron.2018.03.043).
+
+The auditory gating-spring discussion in `a0272z` is a further component bridge, not proof that
+every hair cell runs a potassium-to-spiking-neuron cascade. The [[auditory-gating-spring-camp]] and
+[[receptor-to-phase-sensory-quantification]] articles distinguish sensory-cell transduction from
+the later spiking and synaptic stages. The receiving compartment and actual output mechanism
+must be specified before measuring the proposed APD contribution.
+
+## Memory: retain the question, separate the compartments
+
+The later [rexnote03 dialogue](https://github.com/v5ma/selfawarenetworks/blob/3baf28fb4f739b7f2434fc8b7f7db0f0f33635e1/rexnote03.md)
+contains a human-labelled prompt joining sensory receptors, potassium-related cellular changes,
+calcium, APD and transmission. The next human-labelled question asks how those mechanisms relate
+to KIBRA anchoring PKMzeta. This preserves a serious systems question: **how does a transient
+electrical encounter change what a network can do later, and what maintains that changed
+responsiveness?**
+
+The account connects two different operations rather than assigning them to one compartment:
+
+1. A presynaptic waveform and terminal state can change the transmission encountered by another
+   cell.
+2. Postsynaptic receptors, plasticity and molecular maintenance can help retain an altered
+   responsiveness when the pathway is re-engaged.
+
+In rats, PKMzeta inhibition affected memory and postsynaptic GluR2-containing AMPA receptors;
+blocking their removal prevented the studied impairment and reversal of potentiation.
+[Migues and colleagues, 2010](https://doi.org/10.1038/nn.2531).
+
+The 2024 KIBRA work studied established hippocampal late-LTP in acute slices and long-term spatial
+memory in male mice. Disrupting KIBRA-PKMzeta dimerization disrupted those established outcomes
+without a measurable effect on basal transmission. Its knockout controls also distinguished
+compensating PKCs. The result supports a particular molecular-maintenance mechanism, not a
+human intervention result or a universal explanation of every memory.
+[Tsokas and colleagues, 2024](https://doi.org/10.1126/sciadv.adl0030).
+
+SAN's extension asks whether maintained synaptic readiness helps preserve and later re-express
+receiver-relative population patterns. Returning ionic activity toward its prior condition need
+not erase changes in receptors or connections. The KIBRA study did not measure a stored PWD,
+establish that KIBRA directly controls presynaptic vesicle counts, or show that potassium-channel
+blockade destroys the anchoring interaction.
+
+The dialogue's assistant answer supplies the stronger vesicle-potassium-calcium-cycle wording,
+which was carried into [rexnote12](https://github.com/v5ma/selfawarenetworks/blob/4e8e279ad27a1c29c4876e3db287d35664e27b91/rexnote12.md).
+That wording is part of the historical synthesis, not independent experimental evidence or a
+certified quotation from the human prompt. Preserving the original question does not require
+equating presynaptic release with postsynaptic molecular anchoring.
+
+## Source development
+
+These are dated Git-text stages, not automatically the dates of composition or first public access.
+
+| Dated source stage | Preserved contribution |
+| --- | --- |
+| [June 8, 2022, early a0053z transcript](https://github.com/v5ma/selfawarenetworks/blob/7d1431213cd4ac9788848a5396ec2992ece11cfd/a0053z%20ctpr.txt) | A precursor joining transmitter quantity, potassium/sodium channels, altered firing and propagation across oscillating groups; not yet the later complete APD chain. |
+| [August 3, 2022, a0053z version](https://github.com/v5ma/selfawarenetworks/blob/b79351a4fe3667296952c483e6beb68732bf3865/a0053z.md) | The Action Potential Magnitude Effect question joins phasic activity, calcium-channel duration, transmitter distribution and later array activity. Its inhibition and dissipation examples require specified biological routes, not a universal excess-transmitter inhibition law. |
+| [August 10, 2022, a0272z](https://github.com/v5ma/selfawarenetworks/blob/75b194fb97d2da09fb8bdd4130be98b910a72adb/a0272z.md) | Receptor diversity, intracellular modulation, potassium/calcium-related output duration and potentially different terminal outputs. |
+| [September 17, 2022, expanded a0272z](https://github.com/v5ma/selfawarenetworks/blob/7129fcf82a9d42665a1372ecdc803e912bc81b6a/a0272z.md) | Adds the Helix calcium-activated nonselective-current and bursting-to-beating discussion; this is a distinct rhythm-modulation component, not a measured APD result in all sensory cells. |
+| October 24 and 27, 2024, rexnote03 and rexnote12 | Human-labelled sensory and molecular-memory questions, assistant-generated bridge explanations and their compiled reuse remain distinguishable. |
+
+Channel physiology predates these SAN notes. SAN's documented contribution here is the joined
+sensory-to-receiver and recurrent-memory interpretation, not discovery of potassium currents,
+cAMP signaling or KIBRA-PKMzeta itself.
+
+## What would test the joined mechanism?
+
+Record a defined sensory encounter, channel state, somatic and terminal waveforms, transmission,
+receiver response and later discrimination. Compare APD alone with the full waveform and with
+rate, timing, baseline voltage, adaptation, movement and arousal controls.
+
+Use a compartment-specific channel intervention and rescue to test the waveform-to-transmission
+arrow. For the memory branch, manipulate molecular maintenance separately, after measuring its
+effects on postsynaptic responsiveness. Then test whether later re-engagement changes the
+predicted pathway, population pattern and behavioral recall together. A broad channel blocker is
+not by itself an intervention on KIBRA anchoring.
+
+For the M-current/firing-mode branch, compare channel interventions at matched mean firing rate
+and ask whether downstream patterns or discrimination differ. Measure spike timing, firing mode,
+waveform and other drug effects separately; equal average rate alone does not isolate the
+waveform mechanism. A downstream difference must survive those controls before it can support
+the proposed channel-to-receiver explanation.
+
+Keep each completed consequence as an outcome of that encounter; it can become eligible history
+for a later encounter. References and waveform features used to predict an outcome must be
+estimated from information available before that outcome, with training-only fitting for held-out
+tests. This preserves feedback while avoiding prediction from the answer itself.
+
+APD is one possible coordinate of a [[phase-wave-differentials|PWD]], not its definition.
+Excitation, inhibition and other typed changes remain relative to a declared tonic pattern and
+receiver. A change in spike width matters to the SAN account through its transformed consequence
+and subsequent use, not because a width measurement alone names an experience.
+
+## Read next
+
+- [[action-potential-duration|Action Potential Duration]]
+- [[action-potential-waveform|Action Potential Waveform]]
+- [[umami-multi-receptor-coincidence-detection|Umami Reception and ATP Output]]
+- [[receptor-to-phase-sensory-quantification|Receptor-to-Phase Sensory Quantification]]
+- [[camp-neural-phase-modulation|cAMP and Channel Modulation]]
+- [[kibra-pkm-zeta-memory-anchor|KIBRA-PKMzeta and Memory Persistence]]
+- [[memory-persistence|Memory Persistence]]
+- [[neural-tuning|Neural Tuning]]
+- [[phase-wave-differentials|Phase-Wave Differentials]]
+- [[san-book2-bridge-atlas|Book 2 and the Bridge Atlas]]
