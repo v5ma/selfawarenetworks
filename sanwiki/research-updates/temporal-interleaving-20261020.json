@@ -1,0 +1,47 @@
+{
+  "title": "Temporal Interleaving and Conscious Access",
+  "date": "2026-10-20",
+  "article": "sanwiki/pages/temporal-interleaving-conscious-access.md",
+  "article_sha256": "5f392ab12da5b911d18a562a07db69da33e3f892695f7c03cad5b30179df38c6",
+  "study_doi": "10.64898/2026.10.15.759299",
+  "scope": "Dated SAN source quotations and a bounded comparison with the preprint abstract; no claim of a complete experimental prediction.",
+  "source_records": [
+    {
+      "id": "interlace-20220608",
+      "url": "https://github.com/v5ma/selfawarenetworks/blob/09b8306fbb54536e20ba1071e91dff0cb8a4770f/b0192y%20ctpr.txt",
+      "sha256": "D1B761CAC3871304D775BF58D28A1822476DF9D62CF803C95287746484CE1137",
+      "git_committer_date": "2022-06-08T18:51:23-07:00"
+    },
+    {
+      "id": "multisensory-interlace-20220608",
+      "url": "https://github.com/v5ma/selfawarenetworks/blob/9324fe74e40cf4134395edfc4cc3320fa99e18be/b0096y%20ctpr.txt",
+      "sha256": "3B3A156C6D6B349BAEBD0B8A6D67E5D62E4EE4E4D323B6650DAD069591663358",
+      "git_committer_date": "2022-06-08T18:38:00-07:00"
+    },
+    {
+      "id": "detection-rendering-20221128",
+      "url": "https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/0abstractbump.md",
+      "sha256": "2190FCF551CE0ED04B8CF992444EED46C7CDA7465555FC8B70067C31EA4221F6",
+      "git_committer_date": "2022-11-28T18:09:11-08:00"
+    },
+    {
+      "id": "dominant-rhythms-20221128",
+      "url": "https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0325zNAPOT6.md",
+      "sha256": "0874C6F763FDE8AD4CE06CF7255C75BD5AB0BCF632E53FBCEB96703576BBE5E2",
+      "git_committer_date": "2022-11-28T18:09:11-08:00"
+    },
+    {
+      "id": "earlier-sparse-rendering",
+      "url": "https://github.com/v5ma/selfawarenetworks/blob/7d1431213cd4ac9788848a5396ec2992ece11cfd/a0063z.md",
+      "sha256": "D31DE83594A6EC286DA9774887D658704E33A707426090E179BE7D9469F02E17",
+      "git_committer_date": "2022-06-08T18:30:49-07:00"
+    },
+    {
+      "id": "earlier-attention-recording",
+      "url": "https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/b0146yhand.md",
+      "sha256": "39F0E80583DF5FEFD4AEE124767D45848B3D50B8E12F6908C84475E25D5BA0A4",
+      "git_committer_date": "2022-11-28T18:09:11-08:00"
+    }
+  ],
+  "date_note": "Git dates, recording-catalogue dates and independently archived public-custody dates are distinct."
+}
