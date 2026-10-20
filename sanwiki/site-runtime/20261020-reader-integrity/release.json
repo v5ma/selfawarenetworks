@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-20",
+  "deployment": "e5ba8e5d-7822-4223-b4df-f6163f29aef2",
+  "packageSha256": "5d7b989800e7e3dd04db07e47ac9c62622933d989c537e36e840998ed8c1eb43",
+  "runtimeSha256": "5d013bcd00d484fefe1ebe109ac10595b84fe83a4290eea11938d9dd94b9c04d",
+  "changedPaths": [
+    "wiki/assets/js/wiki-app.js",
+    "wiki/public/san/assets/js/wiki-app.js",
+    "wiki/index.html"
+  ],
+  "counts": {
+    "changed": 3,
+    "added": 0,
+    "removed": 0,
+    "retained": 5378,
+    "total": 5381
+  },
+  "articleContentChanges": 0,
+  "designStyleChanges": 0,
+  "workerChanged": false,
+  "scope": "Preserve literal inline-code multiplication and dollar text; prevent autolinker token collisions; validate outbound link protocols.",
+  "verification": {
+    "rendererFixtures": 33,
+    "independentGuardRejectionTests": 37,
+    "hostedBrowserCasesPerEnvironment": 4
+  },
+  "boundary": "Reader-software archive only. The magnitude and multivesicular-release draft revisions are not published by this commit."
+}
