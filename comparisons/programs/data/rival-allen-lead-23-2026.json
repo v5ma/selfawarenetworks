@@ -1,0 +1,1221 @@
+{
+  "authors_linked": [
+    {
+      "name": "Hunt T",
+      "slug": "hunt-t"
+    },
+    {
+      "name": "Klebba M",
+      "slug": "klebba-m"
+    }
+  ],
+  "display_code": "allen-lead-23-2026",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience; consciousness",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-07-31 and 2025-04-18, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 24 documented mechanisms appearing in Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24 to 2026-10-12) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 24 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 3 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 24 dated comparisons and 24 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-allen-lead-23-2026",
+  "program_name": "Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2025-04-18) expresses active mechanism anchors (subjective, experience, conscious) that map structurally onto the later publication's (2026-10-12) formulation (conscious) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Many Worlds is not an ontology. The Many-Worlds Interpretation (MWI) is just that—an interpretation of quantum mechanics. It maps math to meaning but doesn’t actually define what “is.” It avoids the collapse problem in standard quantum mechanics by saying all possible outcomes occur, but it doesn’t tell us what these “worlds” are made of, how a conscious observer selects or follows one path over another, or why our subjective experience seems to stick to o",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 27.23,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2025-04-18 formulation shares conceptual/operational mechanisms (conscious, quantum) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-04-18",
+      "source_date_sort": "2025-04-18",
+      "source_locator": "SAN Priority Index 2010-2026",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "The framework therefore does not propose quantum branching, wave-function collapse, or multiple simultaneously existing conscious observers. Rather, it adopts the mathematical structure of wave-function formalism because it provides a compact representation of systems composed of multiple continuously evolving components.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "conscious, quantum — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "of cognition and consciousness. In sum, framing consciousness as a deterministic computation emphasizes that conscious awareness is built upon observable, quantifiable neural processes. From the intricate firings of dendrites to the dynamics of social communica- tion, consciousness emerges from deterministic phase relationships, wave-based mechanics, high-dimensional embeddings, and the perpetual dissipation of mis- match signals—a bridge that connects loc",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 28.18,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (dynamics, nonlinear, oscillatory, phase, scale) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings)",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 32]",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "These interactions are reflected in oscillatory activity, phase relationships, large-scale synchronization, and nonlinear temporal dynamics that evolve across multiple spatial and temporal scales.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "dynamics, nonlinear, oscillatory, phase — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Central to this view is the premise that cognitive phenomena, including con- sciousness, arise from deterministic oscillatory processes rather than from purely irreducible emergent properties. My concept of Cellular Oscillating Tomography (COT) illuminates this principle by detailing how cells process signals, exchange information, and adapt to contribute to larger biological functions. Through os- cillatory mechanisms, cells encode data in terms of freque",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.54,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (frequency, oscillatory, phase) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 3]",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "Existing electrophysiological analyses describe individual properties of neural activity, including changes in amplitude, entropy, oscillatory organization, phase relationships, cross-frequency coupling, and recurrence structure.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "frequency, oscillatory, phase — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "diseases by highlighting the role of agentic behavior across all biological scales. 1.3 The Three-Level View: Micro, Meso, and Macro This paper organizes the Agentic Brain into three interlocking levels. At the micro-scale, the focus is on cellular mechanisms such as proteins, receptors, ion channels, and local field potentials. At this level, individual cells—including neurons, glia, and immune cells—act as autonomous mini-computers th",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.3,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (binding, neurons, synaptic) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 1]",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "The binding problem represents a convergence of several challenges that have puzzled neuroscientists for decades. Early observations of ephaptic (field) interactions between neurons ( Katz and Schmitt, 1940 ; Arvanitaki, 1942 ) were largely dismissed in favor of synaptic mechanisms.” Spatial binding concerns how features processed in different brain regions are integrated into unified percepts.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "binding, neurons, synaptic — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2022-09-03) expresses active mechanism anchors (alpha, beta, frequency, oscillation) that map structurally onto the later publication's (2026-10-12) formulation (frequency, oscillation, coupling) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "\"Combining multivariate decoding and neural state-space analyses, we found frequency band-specific neural signatures that underlie the content of perception and promote perceptual stability, respectively. Across different types of images, non-oscillatory neural activity in the slow cortical potential (SCP, <5 Hz) range supported the content of perception. By contrast, perceptual stability is influenced by the amplitude of alpha and beta oscillations\" Actua",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.68,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-09-03 formulation shares conceptual/operational mechanisms (frequency, oscillatory) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-03",
+      "source_date_sort": "2022-09-03",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/a2e30bafea4c31307e62ee557102376b0a4b5da5/a0287zstar.md#L6",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "Collectively, these analyses provided the empirical basis for evaluating whether systematic changes in amplitude, entropy, oscillatory organization, cross-frequency coupling, and recurrence dynamics were consistent with the field-theoretic framework proposed in this study.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "frequency, oscillatory — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF04-WORKSPACE-ATTENTION-SCHEMA",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "the Exit Terminal Burstlet is like a television display pixel for the next array of dendrites, and the physics of oscillation are binding the picture together at the cell assembling (or oscillating body of cells) scale",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 26.33,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-08-03 formulation shares conceptual/operational mechanisms (integrated, scale, workspace) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-08-03",
+      "source_date_sort": "2022-08-03",
+      "source_locator": "TH.M22-0803-C: A neuron's output is defined relative to the group oscillation and reflects its oscillator state (where it is in its cycle); it transmits a phase change whose meaning depends on what receiving cells have l",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "Contemporary frameworks, including Integrated Information Theory, Global Workspace Theory, entropy-based approaches, and electromagnetic field theories, have advanced our understanding of neural coordination but employ different mathematical descriptions of large-scale brain dynamics.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "integrated, scale, workspace — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "All human beings are fractal oscillations, but in a real sense each one of us is creating spacetime and ourselves at the sametime, because oscillators define spacetime, all oscillators create the space around them by forcing particles into collision patterns that produce gravity, define the electromagnetic phase field and define what we observe as the curvature of spacetime thanks to Einstein. Space around atoms expands because of increasing travel times b",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.53,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (electromagnetic, field, patterns, phase) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/40c0b37fc9376a6630ad9d3b09d911997c1c17f4/a0010z.md",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "Conversely, high-frequency patterns can influence the phase of slow oscillations, allowing local processing to affect global coordination. These bidirectional influences create dynamic information integration that operates naturally through electromagnetic field interactions.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "electromagnetic, field, patterns, phase — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the multimedium processing create isomorphic pattern learning in each of the senses that can be understood in terms of each of the modalities, so a tactile reading of braille text which is bumps on a page can result in words read from tactile sensations but processed in the somatosensory cortex first instead of from the visual (electric field solitons) cortex, the auditory cortex (mechanical soliton waves), decoded from the sensation of heat patterns (its",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 34.8,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (field, patterns) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/9911b61b401aeb9aab74cd765a18e7b7019eff5e/a0132z.md#L16",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "Electromagnetic fields solve cross-modal binding through the unified field architecture that spans all sensory systems. Field patterns generated by visual, auditory, and somatosensory processing naturally interact within the brain’s conducting medium, creating integrated patterns that simultaneously represent information from multiple modalities.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "field, patterns — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "- **Mathematical Formalism of NDCA and Oscillatory Tomography:** While conceptually rich, the precise mathematical operations of NDCA in interpreting \"cross sections of unified attractor states\" and the specific algorithms of oscillatory tomography (how traveling wave differentials¹⁵, ²³ combine to form the 3D phase field⁴²) require detailed mathematical exposition. This is likely intended for files like `NDCA Non-linear Differential Continuous Approximati",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 27.08,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (dynamics, wave) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 9 (09san.md) [para 46]",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "The present work therefore investigates whether wave-function formalism provides a useful mathematical language for interpreting this representation and for organizing multiple complementary electrophysiological observables within a common description of evolving neural dynamics.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "dynamics, wave — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "The encoding of a \"shape\" within a 5 ms window, therefore, is not conceptualized as the construction of a static, pixel-like representation from scratch. Instead, it involves the ultra-rapid convergence of distributed neural activity---across multiple neural arrays and potentially hierarchical levels---to a transiently stable, coherent oscillatory pattern. This pattern, which is an attractor state defined by specific phase relationships among participating",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 27.57,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (oscillatory, pattern, phase) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 39]",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "A neural configuration is defined here as a transient pattern of coordinated neural dynamics characterized by evolving relationships among amplitude, phase, oscillatory organization, and temporal structure.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "oscillatory, pattern, phase — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "- Buzsáki, G. (2006). Rhythms of the Brain. Oxford University Press. (Annotation: A comprehensive and authoritative treatise on the roles of neural oscillations across all scales of brain organization, from cellular mechanisms to complex cognitive functions and behavior. This work is essential for understanding the multi-scale oscillatory framework that SAN proposes, particularly how different frequency bands might contribute distinct \"slices\" of informati",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 28.37,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (coupling, frequency, scale) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 126]",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "The present investigation did not attempt to classify seizure activity or develop a diagnostic algorithm. Instead, the dataset was used as a model system for examining whether measurable properties of large-scale neural dynamics, including amplitude, spectral organization, entropy, phase relationships, cross-frequency coupling, and recurrence characteristics, change systematically across distinct seizure states.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "coupling, frequency, scale — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Advanced Analysis: MEG/EEG analyses focused on cross-frequency phase coupling can illuminate the directional flow of predictive information, while optogenetic manipulation in animal models can directly probe the causal role of specific oscillatory patterns.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 28.88,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (coupling, frequency, phase) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 4 (04san.md) [para 150]",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "Most quantitative EEG analyses examine individual electrophysiological observables including signal amplitude, spectral power, entropy, phase organization, cross-frequency coupling, and recurrence structure, as separate descriptors of neural activity.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "coupling, frequency, phase — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF04-WORKSPACE-ATTENTION-SCHEMA",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "3. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. Nature Reviews Neuroscience, 17(5), 307--321. (Reviews how consciousness arises from integrated neural dynamics, noting that synchronized oscillations across multiple neural networks are associated with conscious states. Provides context for NAPOT's \"internal observer\" -- aligning with theories like the global neuronal workspace and integra",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.54,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (dynamics, integrated, workspace) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 9]",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "The organization of distributed neural activity remains one of the central challenges in computational neuroscience. Contemporary frameworks, including Integrated Information Theory, Global Workspace Theory, entropy-based approaches, and electromagnetic field theories, have advanced our understanding of neural coordination but employ different mathematical descriptions of large-scale brain dynamics.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "dynamics, integrated, workspace — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "The preliminary ChatGPT response correctly captured this by stating, \"it's not the peak of a wave that matters, but the wavefront collisions and phase synchronizations, which effectively time the instantiations.\" This aligns perfectly with the core tenets of SAN. The book \"Bridging Molecular Mechanisms and Neural Oscillatory Dynamics\" repeatedly highlights the importance of \"phase wave differentials\" and \"phase relationships across neural networks\" as fund",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.89,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (conscious, dynamics, oscillatory, phase) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 19]",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "The electrophysiological measures examined including signal amplitude, entropy, oscillatory organization, phase relationships, cross-frequency coupling, and recurrence dynamics, provide complementary descriptions of the temporal organization of neural activity but do not directly identify conscious states, unified thoughts, or the candidate neural configurations proposed in Chapter 2.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "conscious, dynamics, oscillatory, phase — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Klebba M",
+          "slug": "klebba-m"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Mechanism: Predictive oscillatory patterns exhibit fractal-like properties across temporal and spatial scales. This self-similar structure allows the brain to implement predictive processes at multiple levels, from fine-grained sensory predictions (milliseconds) to long-term planning and memory (minutes, hours, days).",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 36.78,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (memory, planning, predictive, sensory, spatial) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-10-12; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings)",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 4 (04san.md) [para 248]",
+      "target_date": "2026-10-12",
+      "target_date_sort": "2026-10-12",
+      "target_locator": "doi:10.3389/fncom.2026.1812909 | Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "target_quote": "Sensory perception, memory retrieval, attentional control, motor planning, emotional processing, and predictive inference are supported by parallel interactions among large-scale neural populations that continuously exchange information across multiple spatial and temporal scales ( Hebb, 1949 ; Edelman, 1989 ; Buzsáki, 2006 ; Friston, 2010 ).",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1812909",
+      "title": "memory, planning, predictive, sensory — Wave-function formalism for evolving neural dynamics: a mathematical framework informed by EEG.",
+      "win_id": "G2-ALLEN-LEAD-23-20-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "In mainstream neuroscience, gamma oscillations (typically defined as 30-150 Hz) are indeed linked to various aspects of perception, including feature binding, attention, and conscious awareness. Alpha oscillations (8-13 Hz) are often associated with functional inhibition, cortical excitability modulation, and the temporal framing of perceptual moments. Beta oscillations (13-30 Hz) have been implicated in sensorimotor processing, maintaining the current sen",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 28.87,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (binding, coupling, frequency) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 15]",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "The oscillations themselves, particularly their cross-frequency coupling relationships (Section 2.3), enable the rapid binding and integration that consciousness requires.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "binding, coupling, frequency — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (frequency, oscillation, rhythm) that map structurally onto the later publication's (2026-06-24) formulation (frequency, oscillation, coupling) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "- Buzsáki, G. (2006). Rhythms of the Brain. Oxford University Press. (Annotation: A comprehensive and authoritative treatise on the roles of neural oscillations across all scales of brain organization, from cellular mechanisms to complex cognitive functions and behavior. This work is essential for understanding the multi-scale oscillatory framework that SAN proposes, particularly how different frequency bands might contribute distinct \"slices\" of informati",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 29.91,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (coupling, frequency) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 126]",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "The mathematics of cross-frequency coupling reveal natural mechanisms for information integration across temporal scales. Low-frequency oscillations can modulate the amplitude of high-frequency activity, enabling slow processes to influence fast computations.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "coupling, frequency — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Summary of Part 4: The synchronization of neural arrays is fundamental to both NAPOT and the wave-based model described by Foster and Scheinost. In SAN’s framework, synchrony is what allows different brain regions to integrate sensory and memory information, forming a unified conscious experience. The cross-frequency coupling and dynamic oscillatory synchronization described in both models reinforce the idea that brain waves work together to create a cohes",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.16,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (conscious, coupling, frequency, oscillatory) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 5 (05san.md) [para 81]",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "But within this broadband envelope, specific oscillatory patterns at multiple frequencies interact through resonance and cross-frequency coupling to create the detailed structure of conscious experience.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "conscious, coupling, frequency, oscillatory — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "This definition positions NDCA as the mathematical and computational framework within SAN that describes how the dynamic, oscillatory, attractor-based neural activity translates into the specific geometric and semantic properties (shape, orientation, scale, location, identity) of the perceived object on the screen. The reference to \"manifolds in cortical column brain activity\" is particularly significant. It suggests that perceived shapes are represented a",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.46,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (dynamics, patterns, scale) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 38]",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "Cross-frequency coupling naturally arises from these multi-scale dynamics, creating the temporal patterns observed during object recognition tasks. Cross-modal binding presents particularly challenging problems for computational approaches because it requires integration across sensory systems that operate with fundamentally different temporal dynamics, spatial organizations, and computational principles.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "dynamics, patterns, scale — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "- Imagine the overall conscious experience as a \"volumetric 3D rendered phase field\" -- a dynamic 3D grid pattern defined by interacting frequencies and their phase relationships³, ¹⁴, ⁴². This is the broader space within which any specific percept, like your \"sheet,\" exists. - The \"canvas of consciousness\" is the underlying \"low frequency, high magnitude tonic oscillation\"¹². This is the stable background upon which more specific, changing patterns (the \"",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.22,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (conscious, consciousness, grid, oscillatory, patterns) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority fi",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 10 (10san.md) [para 2]",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "However, the predictive power of the aperiodic component should not be interpreted as diminishing the importance of oscillatory dynamics for consciousness. Rather, within the hypothesis explored in this paper, the aperiodic background provides the energetic foundation—the “power grid”—within which specific oscillatory patterns carry the detailed information necessary for conscious experience.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "conscious, consciousness, grid, oscillatory — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The encoding of complex shapes within very brief temporal windows (e.g., 5 ms) is attributed to several synergistic mechanisms. These include the rapid convergence of neural activity to \"internal attractor states\" within cortical-thalamic systems, the binding of distributed features via \"sparse ensemble phase synchrony,\" and the emergence of complex patterns through \"NAPOT's layered oscillation interference\". The Non-linear Differential Continuous Approxim",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 33.97,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (binding, representations) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 68]",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "Feature binding represents the classic formulation of the binding problem: how are different attributes of objects (color, shape, motion, texture) combined into unified object representations? Computational approaches require complex mechanisms for associating features that were processed independently, often involving attention-based selection or temporal correlation.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "binding, representations — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "The concept of cross-frequency coupling is highly relevant to Foster and Scheinost’s model, which emphasizes the importance of temporal delays and synchronization in brain waves. The dynamic integration of waves at different frequencies supports SAN’s view that consciousness arises from the interaction between perceptual and mnemonic systems, where different frequency oscillations must synchronize to form a coherent brain state​​.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 35.09,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (consciousness, coupling, frequency) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 5 (05san.md) [para 76]",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "Cross-frequency coupling represents one of the most compelling pieces of evidence for electromagnetic field theories of consciousness. The observation that brain oscillations at different frequencies interact through phase-amplitude coupling, frequency–frequency coupling, and other complex relationships suggests that consciousness arises from the orchestrated interaction of multiple electromagnetic field patterns operating simultaneously.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "consciousness, coupling, frequency — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Although the specific file `a0107z_NAPOT_Layered_Oscillation_Interference.md` was inaccessible, the concept suggests that complex shapes are not merely stored as static templates but are dynamically formed by the interference patterns generated by multiple oscillating neural arrays. Each array, or populations of neurons within arrays, could be oscillating at specific frequencies and phases, encoding different features or spatial frequency components of the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 35.35,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (interference, patterns, superposition) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 36]",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "The mathematics of electromagnetic superposition provide precise mechanisms for feature integration. Constructive interference enhances field patterns where features are consistent, while destructive interference reduces patterns where features conflict.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "interference, patterns, superposition — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Hunt T",
+          "slug": "hunt-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "It already joins GWT and Dynamic Core biology, corticothalamic reentry, spatially dispersed groups, theta-locked gamma synchrony, feature binding into a unified conscious scene, hierarchical recursive mapping, visuotopic/spatial oscillatory coding, endogenous scene construction, electromagnetic-signal coherence, propagation/update, and a surrogate-world/self account.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 34.1,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-07-31 formulation shares conceptual/operational mechanisms (binding, conscious, electromagnetic, oscillatory) with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp (2026-06-24; europepmc-oa-fulltext-xml); graded strong under Method 1.5.7 (zero counter-priority finding",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2012-07-31",
+      "source_date_sort": "2012-07-31",
+      "source_locator": "oscillatory phase coherence is extended into a consciousness account",
+      "target_date": "2026-06-24",
+      "target_date_sort": "2026-06-24",
+      "target_locator": "doi:10.3389/fncom.2026.1738326 | The goo that binds us: how field resonance solves neuroscience's binding and criticality problems.",
+      "target_quote": "Most critically, oscillatory mechanisms cannot account for the temporal flexibility of conscious experience. Electromagnetic field dynamics provide natural solutions to temporal binding through the speed advantages of field propagation and the coevolved infrastructure that coordinates timing.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1738326",
+      "title": "binding, conscious, electromagnetic, oscillatory — The goo that binds us: how field resonance solves neuroscience's binding and criticality proble",
+      "win_id": "G2-ALLEN-LEAD-23-20-D01-A04"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 24 certified dated prior-art comparisons with Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp across 24 listed-author attributions (24 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 20 strong, 1 medium-partial, 3 weak-partial, 0 weak-partial cross-domain, with 3 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-07-31",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2026-06-24",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2025-04-18",
+    "latest_target_date": "2026-10-12",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 3,
+    "governed_wins": 24,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 20,
+      "weak-partial": 3
+    },
+    "lens4_event_ids": [
+      "lsm-g2-allen-lead-23-2026-20261122"
+    ],
+    "listed_author_edges": 24,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 18,
+      "weak-partial": 6
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 24
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "authors_linked": [
+    {
+      "name": "Steve Campbell",
+      "slug": "steve-campbell"
+    },
+    {
+      "name": "Irene D’Amico",
+      "slug": "irene-d-amico"
+    },
+    {
+      "name": "Mario Arnolfo Ciampini",
+      "slug": "mario-arnolfo-ciampini"
+    },
+    {
+      "name": "Janet Anders",
+      "slug": "janet-anders"
+    },
+    {
+      "name": "Natalia Ares",
+      "slug": "natalia-ares"
+    },
+    {
+      "name": "Simone Artini",
+      "slug": "simone-artini"
+    },
+    {
+      "name": "Alexia Auffèves",
+      "slug": "alexia-auff-ves"
+    },
+    {
+      "name": "Lindsay Bassman Oftelie",
+      "slug": "lindsay-bassman-oftelie"
+    },
+    {
+      "name": "Laetitia P. Bettmann",
+      "slug": "laetitia-p-bettmann"
+    },
+    {
+      "name": "Marcus V. S. Bonança",
+      "slug": "marcus-v-s-bonan-a"
+    },
+    {
+      "name": "Thomas Busch",
+      "slug": "thomas-busch"
+    },
+    {
+      "name": "Michele Campisi",
+      "slug": "michele-campisi"
+    },
+    {
+      "name": "Moallison F. Cavalcante",
+      "slug": "moallison-f-cavalcante"
+    },
+    {
+      "name": "Luis Alfonso Correa",
+      "slug": "luis-alfonso-correa"
+    },
+    {
+      "name": "Eloisa Cuestas",
+      "slug": "eloisa-cuestas"
+    }
+  ],
+  "display_code": "bettmann-goold-information-geometry-quantum-thermodynamics",
+  "domain_group": "physics",
+  "domains": "physics; quantum-information",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-03-01 and 2024-01-15, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 7 documented mechanisms appearing in Bettmann Goold Information Geometry Quantum Thermodynamics (2024-10-24 to 2026-01-29) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Bettmann Goold Information Geometry Quantum Thermodynamics",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 7 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 3 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 7 dated comparisons and 26 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-bettmann-goold-information-geometry-quantum-thermodynamics",
+  "program_name": "Bettmann Goold Information Geometry Quantum Thermodynamics",
+  "rows": [
+    {
+      "author_count": 20,
+      "authors_linked": [
+        {
+          "name": "Steve Campbell",
+          "slug": "steve-campbell"
+        },
+        {
+          "name": "Irene D’Amico",
+          "slug": "irene-d-amico"
+        },
+        {
+          "name": "Mario Arnolfo Ciampini",
+          "slug": "mario-arnolfo-ciampini"
+        },
+        {
+          "name": "Janet Anders",
+          "slug": "janet-anders"
+        },
+        {
+          "name": "Natalia Ares",
+          "slug": "natalia-ares"
+        },
+        {
+          "name": "Simone Artini",
+          "slug": "simone-artini"
+        },
+        {
+          "name": "Alexia Auffèves",
+          "slug": "alexia-auff-ves"
+        },
+        {
+          "name": "Lindsay Bassman Oftelie",
+          "slug": "lindsay-bassman-oftelie"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "reducing mismatches until stable patterns emerge—be it a classical uniform distribution or a particular quantum amplitude distribution. 3.3 Neural Network Field Theories: A Bridge Between Micro and Macro Recent advances in Neural Network Field Theory show that, in the limit of infinitely wide neural networks (or certain expansions around that limit), neural dynamics can map onto free field theories (Neal 1996, Lee 2020). Introducing interaction terms (e.g.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 26.68,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (field, quantum, thermodynamics) with Bettmann Goold Information Geometry Quantum Thermodynamics (2026-01-29; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 27]",
+      "target_date": "2026-01-29",
+      "target_date_sort": "2026-01-29",
+      "target_locator": "https://doi.org/10.1088/2058-9565/ae1e27 | Roadmap on quantum thermodynamics",
+      "target_quote": "The last two decades have seen quantum thermodynamics become a well established field of research in its own right. In that time, it has demonstrated a remarkably broad applicability, ranging from providing foundational advances in the understanding of how thermodynamic principles apply at the nano-scale and in the presence of quantum coherence, to providing a guiding framework for the development of efficient quantum devices.",
+      "target_url": "https://doi.org/10.1088/2058-9565/ae1e27",
+      "title": "field, quantum, thermodynamics — Roadmap on quantum thermodynamics",
+      "win_id": "G1-BETTMANN-GOOLD-I-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alberto Rolandi",
+          "slug": "alberto-rolandi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "iterative computations that reduce phase-wave differences until equilibrium emerges. While classical thermodynamics typically explains “randomness” in terms of molecular collisions, the wave-dissipation principle highlights that those collisions (or interactions) are local, de- terministic exchanges of signal differentials that simply appear random at a macro scale. Shared Premise: Undersampled Determinism • SuperTimePosition: Quantum randomness arises fro",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 33.1,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (dissipation, thermodynamic, thermodynamics) with Bettmann Goold Information Geometry Quantum Thermodynamics (2024-10-24; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 34]",
+      "target_date": "2024-10-24",
+      "target_date_sort": "2024-10-24",
+      "target_locator": "arXiv:2410.18903 | Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "target_quote": "This result underscores the emergence of Planckian time as a fundamental speed limit to thermalization. Additionally, we explore how collective effects can be harnessed to reduce energy dissipation in thermodynamic operations, revealing that classical correlations between systems can significantly mitigate dissipation, though this may pose new questions regarding the third law of thermodynamics.",
+      "target_url": "https://arxiv.org/abs/2410.18903",
+      "title": "dissipation, thermodynamic, thermodynamics — Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "win_id": "G1-BETTMANN-GOOLD-I-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alberto Rolandi",
+          "slug": "alberto-rolandi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "we observe as rising entropy, illustrating how global outcomes can result from accumulated local wave-like processes. 9.1.4 Summary Micah’s New Law of Thermodynamics recasts entropy growth as a wave-based, incremental procedure of difference reduction. It offers a deeper integration between gravitational and thermodynamic phenomena by positing that time density governs how swiftly wave-based interactions unfold. In doing so, it aims to bridge classical the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 22.2,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (quantum, thermodynamic, thermodynamics) with Bettmann Goold Information Geometry Quantum Thermodynamics (2024-10-24; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 81]",
+      "target_date": "2024-10-24",
+      "target_date_sort": "2024-10-24",
+      "target_locator": "arXiv:2410.18903 | Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "target_quote": "By employing tools from quantum information theory and geometric thermodynamics, we tackle the challenge of deriving irreversible thermodynamic behavior from the reversible microscopic framework of quantum mechanics.",
+      "target_url": "https://arxiv.org/abs/2410.18903",
+      "title": "quantum, thermodynamic, thermodynamics — Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "win_id": "G1-BETTMANN-GOOLD-I-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alberto Rolandi",
+          "slug": "alberto-rolandi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge) via the Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (dark time, mass) that map structurally onto the later publication's (2024-10-24) formulation (thermodynamic) through the shared operation: Input (non-equilibrium energy and information fluxes inside a physical or neural material substrate) -> Transform (constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization) -> Output (self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization).",
+        "ito_alignment": "Input: non-equilibrium energy and information fluxes inside a physical or neural material substrate -> Transform: constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization -> Output: self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization",
+        "lens_basis": "Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge)",
+        "primary_bridge_id": "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "primary_bridge_name": "Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "2.3.6 Implications and Summary Within this expanded Dark Time framework, gravity emerges from deterministic ultrascale dynamics. Quantum particles do not truly random walk; instead, they undergo ultrafast phase cycles that appear random only because our measurements sample them at insufficient frequency. Local time density near mass speeds up these cycles, creating an inward bias experienced as gravitational attraction. Wave interference modifies time dens",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.91,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (thermodynamic, thermodynamics) with Bettmann Goold Information Geometry Quantum Thermodynamics (2024-10-24; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 25]",
+      "target_date": "2024-10-24",
+      "target_date_sort": "2024-10-24",
+      "target_locator": "arXiv:2410.18903 | Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "target_quote": "Future works will focus on fully exploiting collective effects, aligning these with the third law of thermodynamics, and understanding the thermodynamic consistency of master equations.",
+      "target_url": "https://arxiv.org/abs/2410.18903",
+      "title": "thermodynamic, thermodynamics — Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "win_id": "G1-BETTMANN-GOOLD-I-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alberto Rolandi",
+          "slug": "alberto-rolandi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-08-01) expresses active mechanism anchors (oscillator, dark time, quantum gradient) that map structurally onto the later publication's (2024-10-24) formulation (metric) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics). Corroborated independently by a second structural bridge (Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Self Aware Networks Online Archive: Comprehensive time-stamped notes and original research materials spanning over a decade are available in the Self Aware Networks GitHub repository. This archive provides detailed documentation of the evolution and refinement of foundational theories, including Super Dark Time (also previously referred to as Quantum Gradient Time Crystal Dilation and Dark Time Theory), Micah’s New Law of Thermodynamics, Neural Array Proje",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 23.2,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (quantum, thermodynamics) with Bettmann Goold Information Geometry Quantum Thermodynamics (2024-10-24; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 51]",
+      "target_date": "2024-10-24",
+      "target_date_sort": "2024-10-24",
+      "target_locator": "arXiv:2410.18903 | Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "target_quote": "We begin with a comprehensive review of the laws of thermodynamics, setting the stage for the subsequent analyses. We introduce novel developments in quantum thermodynamics through a generalized framework for geometric thermodynamics, which enables the derivation of finite-time corrections beyond the Markovian regime.",
+      "target_url": "https://arxiv.org/abs/2410.18903",
+      "title": "quantum, thermodynamics — Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "win_id": "G1-BETTMANN-GOOLD-I-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alberto Rolandi",
+          "slug": "alberto-rolandi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Micah Blumberg's Super Information Theory (SIT) offers a potentially deeper physical grounding for the oscillatory dynamics proposed in NAPOT and SAN. SIT posits that \"quantum coherence\"---the synchronized alignment of quantum wave phases---is a foundational driver behind phenomena including gravity, time dilation, and even consciousness. It explains cognitive emergence and neural synchronization as \"states of predictive synchronization,\" aligning with mod",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.26,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (emergence, quantum) with Bettmann Goold Information Geometry Quantum Thermodynamics (2024-10-24; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 51]",
+      "target_date": "2024-10-24",
+      "target_date_sort": "2024-10-24",
+      "target_locator": "arXiv:2410.18903 | Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "target_quote": "The emergence of irreversibility in physical processes, despite the fundamentally reversible nature of quantum mechanics, remains an open question in physics.",
+      "target_url": "https://arxiv.org/abs/2410.18903",
+      "title": "emergence, quantum — Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "win_id": "G1-BETTMANN-GOOLD-I-D02-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alberto Rolandi",
+          "slug": "alberto-rolandi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge) via the Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (dissipation, dissipative, thermodynamic) that map structurally onto the later publication's (2024-10-24) formulation (thermodynamic, irreversibility) through the shared operation: Input (non-equilibrium energy and information fluxes inside a physical or neural material substrate) -> Transform (constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization) -> Output (self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: non-equilibrium energy and information fluxes inside a physical or neural material substrate -> Transform: constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization -> Output: self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization",
+        "lens_basis": "Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge)",
+        "primary_bridge_id": "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "primary_bridge_name": "Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "4. Freeman, W.J. & Vitiello, G. (2008). Dissipation and spontaneous symmetry breaking in brain dynamics. Journal of Physics A: Math. Theor., 41(30), 304042. -- Presents a dissipative quantum model of brain activity, arguing that the cortex behaves like an open thermodynamic system. It uses the language of symmetry breaking to explain how collective neural oscillations settle into coherent states (attractors) by dispersing phase differences, linking neural",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 21.63,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (quantum, thermodynamic) with Bettmann Goold Information Geometry Quantum Thermodynamics (2024-10-24; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neu",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 66]",
+      "target_date": "2024-10-24",
+      "target_date_sort": "2024-10-24",
+      "target_locator": "arXiv:2410.18903 | Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "target_quote": "Finally, we optimize thermodynamic processes in mesoscopic systems, including quantum dot engines and information engines. These findings not only enhance our understanding of the fundamental limits of irreversibility but also open new avenues for research.",
+      "target_url": "https://arxiv.org/abs/2410.18903",
+      "title": "quantum, thermodynamic — Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "win_id": "G1-BETTMANN-GOOLD-I-D02-A05"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 7 certified dated prior-art comparisons with Bettmann Goold Information Geometry Quantum Thermodynamics across 26 listed-author attributions (7 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 4 strong, 2 medium-partial, 1 weak-partial, 0 weak-partial cross-domain, with 3 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-03-01",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2024-10-24",
+    "earliest_target_year": 2024,
+    "latest_micah_date": "2024-01-15",
+    "latest_target_date": "2026-01-29",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 3,
+    "governed_wins": 7,
+    "grade_breakdown": {
+      "medium-partial": 2,
+      "strong": 4,
+      "weak-partial": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-bettmann-goold-information-geometry-quan-20261122"
+    ],
+    "listed_author_edges": 26,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 3,
+      "weak-partial": 3,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 7
+  }
+}

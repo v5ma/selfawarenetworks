@@ -1,0 +1,1219 @@
+{
+  "authors_linked": [
+    {
+      "name": "Shimizu, Yoshinori",
+      "slug": "shimizu-yoshinori"
+    }
+  ],
+  "display_code": "information-flux-theory-author-unresolved",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-09-19 and 2025-08-21, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 24 documented mechanisms appearing in Information Flux Theory Author Unresolved (2025-05-18 to 2026-05-19) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Information Flux Theory Author Unresolved",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 24 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 11 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 24 dated comparisons and 24 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-information-flux-theory-author-unresolved",
+  "program_name": "Information Flux Theory Author Unresolved",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge) via the Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization bridge. Micah Blumberg's dated passage (2025-08-21) expresses active mechanism anchors (entropy) that map structurally onto the later publication's (2026-05-19) formulation (entropy) through the shared operation: Input (non-equilibrium energy and information fluxes inside a physical or neural material substrate) -> Transform (constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization) -> Output (self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization).",
+        "ito_alignment": "Input: non-equilibrium energy and information fluxes inside a physical or neural material substrate -> Transform: constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization -> Output: self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization",
+        "lens_basis": "Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge)",
+        "primary_bridge_id": "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "primary_bridge_name": "Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "The Second Law and entropy production are derived from local informational-energy flow and monotonic coherence decay.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.95,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2025-08-21 formulation shares conceptual/operational mechanisms (energy, entropy) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-21",
+      "source_date_sort": "2025-08-21",
+      "source_locator": "https://zenodo.org/records/16922512",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "64 3.9 Conserved Quantities and Entropy Production. 65 3.9.1 Conservation of Energy and Charge [53, 67].",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "energy, entropy — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "John Murphy In the paper you will fine these falsifiable predictions. 1. Atomic Clock Shift Prediction: Fractional frequency shift Δν/ν ≈ 10⁻¹⁵ due to local coherence fields. Test: Compare ultra-precise atomic clocks at different gravitational potentials. 2. Cold Atom Interferometry Prediction: Phase shift Δφ ≈ 10⁻³ radians in coherence-gradient environments. Test: Use cold-atom interferometers with engineered coherence fields. 3. Gravitational Lensing Dev",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.86,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2025-05-03 formulation shares conceptual/operational mechanisms (prediction, predictions) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-05-03",
+      "source_date_sort": "2025-05-03",
+      "source_locator": "SAN Priority Index 2010-2026",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "Parameter-Free Predictions of Standard Model Parameters Simultaneous Derivation of Fermion Masses and the CKM Matrix Unified prediction of nine quark and lepton masses and the four CKM parameters solely from the fundamental tension σ.",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "prediction, predictions — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge) via the Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization bridge. Micah Blumberg's dated passage (2024-01-15) expresses active mechanism anchors (dissipation, thermodynamic, dark time) that map structurally onto the later publication's (2025-05-18) formulation (dissipation, entropy) through the shared operation: Input (non-equilibrium energy and information fluxes inside a physical or neural material substrate) -> Transform (constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization) -> Output (self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization).",
+        "ito_alignment": "Input: non-equilibrium energy and information fluxes inside a physical or neural material substrate -> Transform: constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization -> Output: self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization",
+        "lens_basis": "Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge)",
+        "primary_bridge_id": "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "primary_bridge_name": "Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "In short, gravitational fields in Dark Time Theory would modulate the local wave- dissipation speed, weaving these three ideas— SuperTimePosition, Micah’s New Law , and QGTCD—into a single overarching framework of wave-based interactions. 9.7 Conclusion and Outlook By connecting Micah’s New Law of Thermodynamics to the SuperTimePosition model, we gain a sweeping perspective: 1. Local, Deterministic Wave Cycles explain quantum behavior that appears non- loc",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.07,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (dissipation, entropy) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 51]",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "62 3.9.2 von Neumann entropy and dissipation [48, 76]. 62 3.9.3 Universal form of the entropy-production rate [77].",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "dissipation, entropy — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (density) that map structurally onto the later publication's (2026-05-19) formulation (coupling) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics).",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Consequences for Gravitational Physics. Because ρt can respond dynamically if mass distribution changes (e.g. during a supernova or black-hole merger), one might see “time- density perturbations” that propagate or diffuse. At a deeper level, giving ρt this PDE-based evolution further cements it as a local field. Hence, gravitational or quantum anomalies can be computed from ρt(x, t) in principle, rather than appended by hand. The Path Forward. A complete t",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 13.87,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (coupling, gauge) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 36]",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "Loop Finiteness and Zero β-Function Proof that all higher-order Φ-loops terminate finitely and that the gauge coupling β-function vanishes exactly at every order.",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "coupling, gauge — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge) via the Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (dark time, mass) that map structurally onto the later publication's (2026-05-19) formulation (dissipation) through the shared operation: Input (non-equilibrium energy and information fluxes inside a physical or neural material substrate) -> Transform (constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization) -> Output (self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization).",
+        "ito_alignment": "Input: non-equilibrium energy and information fluxes inside a physical or neural material substrate -> Transform: constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization -> Output: self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization",
+        "lens_basis": "Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge)",
+        "primary_bridge_id": "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "primary_bridge_name": "Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "2.3.6 Implications and Summary Within this expanded Dark Time framework, gravity emerges from deterministic ultrascale dynamics. Quantum particles do not truly random walk; instead, they undergo ultrafast phase cycles that appear random only because our measurements sample them at insufficient frequency. Local time density near mass speeds up these cycles, creating an inward bias experienced as gravitational attraction. Wave interferenc",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 15.3,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dissipation, quantum) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 2]",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "109 6.4.3 Eﬀective dissipation rate and thermalisation time [167, 133]. 110 6.5 Thermalisation Suppression via the Quantum–Zeno Eﬀect.",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "dissipation, quantum — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "D.3.1 Singularity Resolution & Black Hole Horizons • Time Density and Singularities. Singularities are modeled as regions of extremely high time density rather than points of infinite spacetime curvature. This may avoid the infinite-density issue of classical GR. • Event Horizons as Extreme Time Density Zones. The event horizon is recast as a region where time density becomes extreme. Quantum effects near the horizon could resolve paradoxes like informatio",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 34.96,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, gravitational, hole, predictions) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 136]",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "Applications to Cosmology and Astrophysical Observations Physical Predictions of the Zero-Area Resonance Kernel R Forecast of black-hole information propagation effects and gravitational-wave delays (e.g., GW150914 delay of 6.6 ms) within observational limits.",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "black, gravitational, hole, predictions — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(11–14) ADM Formalism Now Understood As: Hamiltonian and momentum constraints gain ρt-based modifications if we embed ρt in the spatial-slice decomposition. This alters lapse or shift in the (3 + 1) approach. (15–16) Klein–Gordon Equation Now Understood As: A spin-0 field with an effective mass shift ∆ m2(ρt). Kinetic + ρt-potential couplings come from the single action. (17–18) Dirac Equation Now Understood As: Directly emerges from − f1(ρt) ¯ψψ in the La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 36.62,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (einstein, gauge, mass) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 39]",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "High-Precision Prediction of the Higgs Mass and Gauge Couplings Reproduction of mH≈125.25 GeV and of αEM,αs to O(10^-3) accuracy without free parameters. Unified Framework for Quantum Gravity and Cosmology Lindblad-Type Master Equation Unification Construction of a single evolution equation that reduces to the Einstein–Hilbert action in the IR and the Standard Model action in the UV.",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "einstein, gauge, mass — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "uncomfortable with the term “time-densiton,” it can simply be omitted in favor of speaking about wave modes or excitations in the time-density field that mimic or replace some effects commonly attributed to spacetime curvature. This captures the emergent, collective nature of these excitations without implying the existence of a particle that behaves like a conventional gauge boson or fundamental fermion. 16 Super Dark Time and Ricci Curvature Super Dark T",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 38.7,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, fermion, gauge, wave) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 121]",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "Single-Fermion Uniqueness Theorem Reconstruction of all fermion fields from one fundamental operator, identifying gauge bosons as composite excitations. Cosmological Information Corrections via Operator Closure Closure of the operator algebra yields natural dark-energy terms in the FRW equations and implements wave-function collapse in cosmology.",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "dark, fermion, gauge, wave — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (spacetime, gravitational, time density, dark time) that map structurally onto the later publication's (2025-05-18) formulation (entanglement) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "testing ground for verifying whether time density plays a genuine role in high-curvature gravitational environments or whether conventional geometric frameworks remain sufficient. B Appendix B: Ivette Fuentes’s Connection to Dark Time Ivette Fuentes’s research in relativistic quantum information focuses on how curved spacetime affects quantum states, entanglement, and related phenomena. Her work on quantum clocks and sensors capable of ",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.3,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (entanglement, quantum) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 8]",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "97 5.8 Summary and Bridge to Chapter 6. 98 6 Entanglement, Thermalisation, and the Quantum Zeno Eﬀect 100 6.1 Introduction and Scope.",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "entanglement, quantum — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (spacetime, gravity, gravitational, time density) that map structurally onto the later publication's (2025-05-18) formulation (gravitational, metric) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics). Corroborated independently by a second structural bridge (Cross-Scale Anisotropic Tensor & Information-Geometry Coupling).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Traditionally, physics often treats time as a smooth parameter in classical or quantum equations (e.g. Newton’s laws, the metric in GR). SDT proposes that time density itself can vary locally and thereby shift energies or phase evolutions—leading to observed gravitational “pull.” Concretely: • In Traditional GR : Gravity arises from how mass–energy warps the geometry of 4D spacetime. • In SDT : Gravity emerges when mass creates a local surplus of time fram",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.59,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravitational, metric) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 30]",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "52 3.4.1 Φ -tetrad and rearrangement of the eﬀective action [55, 56]. 52 3.4.2 Metric variation: gravitational ﬁeld equation [40, 19].",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "gravitational, metric — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "renormalizable effective theory within its domain of validity. This approach allows us to make concrete predictions at accessible energy scales while leaving open the possibility that additional physics may emerge at higher energies. 6.5 Summary and Outlook In summary, the renormalization properties of the Super Dark Time framework are built into its formulation as an effective field theory. By incorporating the time-density field ρt into a unified, covari",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.03,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, gauge) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 47]",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "154 9.2.4 Preparatory Step toward the Cancellation Theorem [190, 191] 155 9.2.5 Conclusion. 155 9.3 Complete Φ –Yukawa Cancellation of Gauge-Boson Self-Energy.",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "energy, gauge — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ρt, dark time, mass) that map structurally onto the later publication's (2025-05-18) formulation (einstein) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "(11–14) ADM Formalism Now Understood As: Hamiltonian and momentum constraints gain ρt-based modifications if we embed ρt in the spatial-slice decomposition. This alters lapse or shift in the (3 + 1) approach. (15–16) Klein–Gordon Equation Now Understood As: A spin-0 field with an effective mass shift ∆ m2(ρt). Kinetic + ρt-potential couplings come from the single action. (17–18) Dirac Equation Now Understood As: Directly emerges from − f1(ρt) ¯ψψ in the La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 24.14,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (einstein, energy) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 39]",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "192 11.4.3 Einstein–Hilbert term via a Sakharov-type argument [334, 335] 192 11.4.4 Matching coeﬃcients with the bilinear area law [348, 349]. 194 11.5 Stress–Energy Bilinear and the Einstein Equations.",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "einstein, energy — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "uncomfortable with the term “time-densiton,” it can simply be omitted in favor of speaking about wave modes or excitations in the time-density field that mimic or replace some effects commonly attributed to spacetime curvature. This captures the emergent, collective nature of these excitations without implying the existence of a particle that behaves like a conventional gauge boson or fundamental fermion. 16 Super Dark Time and Ricci Curvature Super Dark T",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 26.01,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (fermion, particle) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 121]",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "Conclusion: These results demonstrate that IFT can fully replace the Standard Model with a single-fermion description, providing a conceptually simpler yet phenomenologically complete foundation for particle physics.",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "fermion, particle — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ρt, scalar, lagrangian, gauge) that map structurally onto the later publication's (2025-05-18) formulation (operator, gauge) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "4.7 Summary of the Revised Approach In conclusion: • Single Action, Multiple Equations: We embed ρt in the Lagrangian alongside the Standard Model and gravity, so all 48 modified equations from the original tables can be understood as special cases or approximations rather than separate fundamental rules. • Gauge Symmetry Maintained: By treating ρt as a gauge-neutral scalar (or by specifying its transformation properly), we avoid accidental gauge-symmetry",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 27.77,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gauge, symmetry) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 42]",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "Methods: In this study we construct the single-fermion framework “Infor- mation Flux Theory (IFT),” derived from the Uniﬁed Evolution Equation. IFT preserves gauge symmetry while replacing Standard Model ﬁelds with a single fundamental operator, yielding analytic solutions without adjustable parameters.",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "gauge, symmetry — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Another gravitational limit, where including time-density in the Ricci term changes the focusing/defocusing of geodesic congruences. (41–42) Yang–Mills Now Understood As: A non-Abelian version of (21 − −22), i.e. f2(ρt) F a µνF a,µν. Maxwell is the U(1) case of the full gauge group. (43–44) Schr¨ odinger–Newton Equation Now Understood As: A semiclassical gravity wavefunction approach, but now with ρt embedded to modify both the potential ( m Φ) and wave ev",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 29.19,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravity, mass) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 40]",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "Supplement: This paper includes proofs for two Clay Millennium Problems: the Yang–Mills mass gap and the Navier–Stokes equations. Note Added: Furthermore, as a result of this series of studies, the origin of gravity has now been clarified.",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "gravity, mass — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "12.4 Diffeomorphism Invariance & Gravitational Consistency The next theoretical checkpoint is to ensure compatibility with General Relativity’s symmetry principles. Standard GR is invariant under smooth coordinate transformations. If ρt is introduced as a dynamical scalar field, it naturally preserves diffeomorphism invariance because scalar fields transform trivially under coordinate changes, ρt(xµ) → ρt x′µ\u0001 = ρt(xµ). Problems may arise, however, if ρt i",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.78,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (fields, gauge, symmetry) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 113]",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "IFT preserves gauge symmetry while replacing Standard Model fields with a single fundamental operator, yielding analytic solutions without adjustable parameters.",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "fields, gauge, symmetry — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2022-07-26) expresses active mechanism anchors (gradient) that map structurally onto the later publication's (2026-05-19) formulation (gradient, scalar) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior). Corroborated independently by a second structural bridge (Cross-Scale Anisotropic Tensor & Information-Geometry Coupling).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "A spatial gradient in a dynamical time-density field produces a gravitational response.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 15.07,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-07-26 formulation shares conceptual/operational mechanisms (dynamical, gradient) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-07-26",
+      "source_date_sort": "2022-07-26",
+      "source_locator": "https://www.svgn.io/wiki/san/theory/qgtcd",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "32 2.2.3 GKLS Generators and Quantum Dynamical Semigroups [15, 16, 17, 18]. 33 2.2.4 Four-Gradient–Normalised Scalars and Tetrad Construction.",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "dynamical, gradient — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "the beta decay of particles is the decoherence of oscillators and its entropy and its repulsion and its the expansion of space amplitude, reduction of space frequence (time)",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 22.55,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-16 formulation shares conceptual/operational mechanisms (decoherence, entropy, quantum) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-16",
+      "source_date_sort": "2022-06-16",
+      "source_locator": "Exact 2022 snapshot; BEC, fermionic/Bose condensates, coherence/decoherence, space expansion/contraction, frequency-density, and spacetime-wave passages.",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "Instantaneous Diagonalization in the Pointer Basis Proof that off-diagonal elements decay exponentially, driving the state to ρ→∑nΠn ρ0 Πn in finite time. Exact Evaluation of Spohn’s Inequality and Quantum Zeno Analysis Closed-form entropy production under the dissipative semigroup, clarifying decoherence timescales and Zeno-effect suppression conditions.",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "decoherence, entropy, quantum — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (spacetime, gravity, oscillator, decoherence) that map structurally onto the later publication's (2026-05-19) formulation (gravity, einstein) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Bose-Einstein and fermionic condensate states are interpreted through oscillator coherence or decoherence, density and frequency changes, and a directed output of gravity or spacetime waves.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.14,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (einstein, gravity) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/7d1431213cd4ac9788848a5396ec2992ece11cfd/a0033z.md",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "Origin of Gravity as Fermion-Fluid Stress First-principles derivation of the Einstein–Hilbert action and Newton’s constant from σ, and interpretation of gravity as the stress of a fermionic fluid.",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "einstein, gravity — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "New, written on June 16th, 2022, an easier explanation of my Gravity Equation 'Gravity is time dilation' \"Gravity is gradient time dilation at the particle & atomic scale.\" A mass like the earth heats up space time relative to outer space, expanding the number of directions around a particle temporally in addition to the spatial dimensions, because if a particle or atom moves in a random direction in space with no large masses nearby it has no particular r",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.06,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (mass, particle, particles) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/3dde844bb0ea6a9ba45a6f4351113903a49096e4/a0033z.md",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "Results: IFT reproduces all SM particle masses—including the 125 GeV Higgs mass—and the CKM matrix within current experimental precision, requiring neither additional particles nor fine-tuning.",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "mass, particle, particles — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (resonance, oscillation, coherence) that map structurally onto the later publication's (2026-05-19) formulation (resonance, coherence) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer). Corroborated independently by a second structural bridge (Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Furthermore, the principles outlined in SAN, particularly its reliance on oscillatory physics and attractor dynamics, find resonance with and potential deeper grounding in Micah Blumberg's Super Information Theory (SIT). SIT's emphasis on quantum coherence, coherence-decoherence informational duality, and information as an active attractor could provide a more fundamental physical layer for the mechanisms proposed in NAPOT and NDCA. The alignment of NDCA w",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 15.5,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (decoherence, resonance) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 72]",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "41 2.6.5 Universality of the Decoherence Time [17]. 41 2.7 Zero-Area Resonance Kernel R =GR[Φ].",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "decoherence, resonance — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The \"perceptual screen\" is a central conceptual framework within the Self-Aware Networks (SAN) theory, representing the instantiation of conscious perceptual experience. It is crucial to understand that this \"screen\" is not posited as a literal neuroanatomical structure akin to a display device within the brain. Instead, it serves as a sophisticated metaphor for the brain's dynamically rendered internal representation of reality. This internal rendering is",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.23,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (dimensional, representation) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 2]",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "66 4.1.3 Introduction of a Finite-Dimensional Internal Space and Sep- arated Representation [42, 26, 82]. 66 4.1.4 Notation Adopted in This Chapter [2, 83].",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "dimensional, representation — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Fan-out is biological background; “screen/picture” is functional analogy unless experimentally operationalized.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.35,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2021-10-17 formulation shares conceptual/operational mechanisms (entanglement, lattice) with Information Flux Theory Author Unresolved (2025-05-18; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2021-10-17",
+      "source_date_sort": "2021-10-17",
+      "source_locator": "the same functional transformation repeats across layered biological scales to improve and stabilize the larger representation",
+      "target_date": "2025-05-18",
+      "target_date_sort": "2025-05-18",
+      "target_locator": "zenodo:15458335 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "109 6.6 Entanglement Velocity and the Lieb–Robinson Bound. 110 6.6.1 Lattice partition and distance function [174, 157].",
+      "target_url": "https://zenodo.org/records/15458335",
+      "title": "entanglement, lattice — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D01-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Shimizu, Yoshinori",
+          "slug": "shimizu-yoshinori"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Cloudy Mayajuana the algorythm might be a dissipative loop, a certain number of inputs, triggers an output, each output triggers a structural change, and the topological or functional relationship sorts the frequencies of triggers into patterns that reflect life experience 20 hours ago � Like",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 15.25,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-19 formulation shares conceptual/operational mechanisms (dissipative, dynamics) with Information Flux Theory Author Unresolved (2026-05-19; zenodo-oa-fulltext); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-09-19",
+      "source_date_sort": "2012-09-19",
+      "source_locator": "wiki/san/sources/san-claim-genealogy-2011-2022.md line 50",
+      "target_date": "2026-05-19",
+      "target_date_sort": "2026-05-19",
+      "target_locator": "zenodo:20294920 | Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the Origin of Gravity",
+      "target_quote": "59 3.6.2 Lemma 1: Tetrad Variation and Recovery of Einstein–Hilbert Dynamics [64, 51]. 59 3.6.3 Lemma 2: Stress Tensor of the Dissipative Functional [48].",
+      "target_url": "https://zenodo.org/records/20294920",
+      "title": "dissipative, dynamics — Information Flux Theory: A Reinterpretation of the Standard Model with a Single Fermion and the",
+      "win_id": "G1-INFORMATION-FLUX-D02-A10"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 24 certified dated prior-art comparisons with Information Flux Theory Author Unresolved across 24 listed-author attributions (24 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 11 strong, 6 medium-partial, 6 weak-partial, 1 weak-partial cross-domain, with 11 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-09-19",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2025-05-18",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2025-08-21",
+    "latest_target_date": "2026-05-19",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 11,
+    "governed_wins": 24,
+    "grade_breakdown": {
+      "medium-partial": 6,
+      "strong": 11,
+      "weak-partial": 6,
+      "weak-partial-cross-domain": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-information-flux-theory-author-unresolve-20261122"
+    ],
+    "listed_author_edges": 24,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 6,
+      "weak-partial": 17,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 24
+  }
+}

@@ -1,0 +1,1157 @@
+{
+  "authors_linked": [
+    {
+      "name": "Thomas W. James",
+      "slug": "thomas-w-james"
+    },
+    {
+      "name": "Kess L. Folco",
+      "slug": "kess-l-folco"
+    },
+    {
+      "name": "Daniel J. Levitas",
+      "slug": "daniel-j-levitas"
+    }
+  ],
+  "display_code": "james-sensorimotor-decisions-actions",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-08-22 and 2022-06-08, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 22 documented mechanisms appearing in James Sensorimotor Decisions Actions (2023-09-26 to 2026-06-01) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before James Sensorimotor Decisions Actions",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (2 audited event(s)). All 11 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 22 dated comparisons and 34 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-james-sensorimotor-decisions-actions",
+  "program_name": "James Sensorimotor Decisions Actions",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2022-06-08-earlier-than-target-document-2026-06-01",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong-bounded-version-repeated-document-relative-candidate",
+      "grade_bucket": "strong",
+      "micah_quote": "himself is an automatic pattern, without any separate means of choice, that his cells must obey the laws of physics at every turn, defining for him a choiceless reality he cannot accept, except that the choice",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-constrained-output-pass; narrative-causal-direction-pass; detective-document-chronology-pass",
+      "red_team_grade": "strong-bounded-version-repeated-document-relative-candidate",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "",
+      "target_date": "2026-06-01",
+      "target_date_sort": "2026-06-01",
+      "target_locator": "PubMed 41642713 abstract",
+      "target_quote": "the claim that decisions and decision processes do not cause actions.",
+      "target_url": "https://pubmed.ncbi.nlm.nih.gov/41642713/",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2026-M2022-DECISION-AS-EFFECT"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2022-06-08-earlier-than-target-document-2026-06-01",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong-narrative-version-repeated-document-relative-candidate",
+      "grade_bucket": "strong",
+      "micah_quote": "forward thinking self control is the alignment of of big picture long term with short term action potentials, literally its about whole brain synchronization I think, thus the criminal is sick",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-trace-pass; narrative-patent-architecture-pass; detective-document-chronology-pass",
+      "red_team_grade": "strong-narrative-version-repeated-document-relative-candidate",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "",
+      "target_date": "2026-06-01",
+      "target_date_sort": "2026-06-01",
+      "target_locator": "PubMed 41642713 abstract; longitudinal matrix T4/S4 and T4/S6 present",
+      "target_quote": "to more ecological testing environments that give participants agency over their actions and allow them to learn",
+      "target_url": "https://pubmed.ncbi.nlm.nih.gov/41642713/",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2026-M2022-CONTINUOUS-SENSORIMOTOR-ARCHITECTURE"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2022-06-08-earlier-than-target-document-2025-07-11",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong-bounded-conclusion-accepted-document-relative",
+      "grade_bucket": "strong",
+      "micah_quote": "himself is an automatic pattern, without any separate means of choice, that his cells must obey the laws of physics at every turn, defining for him a choiceless reality he cannot accept, except that the choice",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-constrained-output-pass; narrative-patent-pass; detective-backward-chronology-pass",
+      "red_team_grade": "strong-bounded-conclusion-accepted-document-relative",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "",
+      "target_date": "2025-07-11",
+      "target_date_sort": "2025-07-11",
+      "target_locator": "Crossref abstract and reviewed preprint argument",
+      "target_quote": "",
+      "target_url": "https://www.preprints.org/manuscript/202507.0979/v1",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2025-M2022-DECISION-AS-EFFECT"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2022-06-08-earlier-than-target-document-2025-07-11",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong-narrative-architecture-accepted-document-relative",
+      "grade_bucket": "strong",
+      "micah_quote": "forward thinking self control is the alignment of of big picture long term with short term action potentials, literally its about whole brain synchronization I think, thus the criminal is sick",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-trace-pass; narrative-patent-architecture-pass; detective-backward-chronology-pass",
+      "red_team_grade": "strong-narrative-architecture-accepted-document-relative",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "",
+      "target_date": "2025-07-11",
+      "target_date_sort": "2025-07-11",
+      "target_locator": "Crossref abstract and reviewed preprint sections 2 and 5",
+      "target_quote": "",
+      "target_url": "https://www.preprints.org/manuscript/202507.0979/v1",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2025-M2022-CONTINUOUS-SENSORIMOTOR-ARCHITECTURE"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Daniel J. Levitas",
+          "slug": "daniel-j-levitas"
+        },
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2022-06-08-earlier-than-target-document-2024-03-06",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "partial-narrative-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "And the point that I like bring up is that, you know, maybe because we have these, we have our dendrite. Let's see. This has dendrites. Yeah. We have, you know, dendritic. The idea is that dendrites are computers. They're, they're like mini computers, and they have all this amazing processing capability. And the idea here. Yeah.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-trace; narrative-recurrent-process-prefix; detective-document-chronology-pass",
+      "red_team_grade": "partial-narrative-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "",
+      "target_date": "2024-03-06",
+      "target_date_sort": "2024-03-06",
+      "target_locator": "Full-body paragraphs 0015, 0043, and 0062; longitudinal matrix T2A/S4 partial",
+      "target_quote": "presence of threat and reward features for extended periods.",
+      "target_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10915741/",
+      "title": "Dynamic threat-reward neural processing under semi-naturalistic ecologically relevant scenarios",
+      "win_id": "JAMES-DOCWIN-2024-M2022-CONTINUOUS-PROCESS-BRIDGE"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        },
+        {
+          "name": "Kess L. Folco",
+          "slug": "kess-l-folco"
+        },
+        {
+          "name": "Daniel J. Levitas",
+          "slug": "daniel-j-levitas"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2022-06-08-earlier-than-target-document-2023-09-26",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-to-partial-overlapping-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "And the point that I like bring up is that, you know, maybe because we have these, we have our dendrite. Let's see. This has dendrites. Yeah. We have, you know, dendritic. The idea is that dendrites are computers. They're, they're like mini computers, and they have all this amazing processing capability. And the idea here. Yeah.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-prefix; narrative-integrated-process-prefix; detective-document-chronology-pass",
+      "red_team_grade": "weak-to-partial-overlapping-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "",
+      "target_date": "2023-09-26",
+      "target_date_sort": "2023-09-26",
+      "target_locator": "PubMed 37769870 abstract; longitudinal matrix T2/S4 partial",
+      "target_quote": "or Action. However, the streams may be more integrated than previously thought and this integration may be",
+      "target_url": "https://pubmed.ncbi.nlm.nih.gov/37769870/",
+      "title": "Neural segregation and integration of sensory, decision, and action processes during object categorization",
+      "win_id": "JAMES-DOCWIN-2023-M2022-INTEGRATED-PROCESS-PREFIX"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2018-05-30-earlier-than-target-document-2026-06-01",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "strong-bounded-document-relative-candidate",
+      "grade_bucket": "strong",
+      "micah_quote": "Choices may also be made at the cellular level, an idea expounded upon in Peter Tse’s book the Neural Basis of Freewill: Criterial Causation (linked earlier in the article). I think it’s possible that every cell is making a choice in a sense, it’s firing threshold may represent the information it must collect in order to make a decison, and it may be involved in setting the choice settings (or firing thresholds) for other cells above and below its place in",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-constrained-output-pass; narrative-distributed-process-pass; detective-document-chronology-pass",
+      "red_team_grade": "strong-bounded-document-relative-candidate",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "",
+      "target_date": "2026-06-01",
+      "target_date_sort": "2026-06-01",
+      "target_locator": "PubMed 41642713 abstract",
+      "target_quote": "the claim that decisions and decision processes do not cause actions.",
+      "target_url": "https://pubmed.ncbi.nlm.nih.gov/41642713/",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2026-M2018-DISTRIBUTED-ACTION"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Held at medium-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2018-05-30-earlier-than-target-document-2025-07-11",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "partial-equivalent-accepted-document-relative",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Choices may also be made at the cellular level, an idea expounded upon in Peter Tse’s book the Neural Basis of Freewill: Criterial Causation (linked earlier in the article). I think it’s possible that every cell is making a choice in a sense, it’s firing threshold may represent the information it must collect in order to make a decison, and it may be involved in setting the choice settings (or firing thresholds) for other cells above and below its place in",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-pass; detective-backward-chronology-pass",
+      "red_team_grade": "partial-equivalent-accepted-document-relative",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "",
+      "target_date": "2025-07-11",
+      "target_date_sort": "2025-07-11",
+      "target_locator": "Crossref abstract and reviewed preprint sections 2 and 5",
+      "target_quote": "",
+      "target_url": "https://www.preprints.org/manuscript/202507.0979/v1",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2025-M2018-DISTRIBUTED-ACTION"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        },
+        {
+          "name": "Kess L. Folco",
+          "slug": "kess-l-folco"
+        },
+        {
+          "name": "Daniel J. Levitas",
+          "slug": "daniel-j-levitas"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2018-05-30-earlier-than-target-document-2023-09-26",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-overlapping-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "may increase or decrease the electrical potential of a given location in the brain, changing the threshold for when a cell or dendrite may fire.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-weak-partial-prefix; narrative-distributed-transform-prefix; detective-document-chronology-pass",
+      "red_team_grade": "weak-overlapping-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "",
+      "target_date": "2023-09-26",
+      "target_date_sort": "2023-09-26",
+      "target_locator": "PubMed 37769870 abstract; longitudinal matrix T2/S5 partial",
+      "target_quote": "Dorsal visual stream regions showed strikingly similar profiles as classical motor regions and also as regions of",
+      "target_url": "https://pubmed.ncbi.nlm.nih.gov/37769870/",
+      "title": "Neural segregation and integration of sensory, decision, and action processes during object categorization",
+      "win_id": "JAMES-DOCWIN-2023-M2018-DISTRIBUTED-ACTION"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-11-02-earlier-than-target-document-2026-06-01",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-version-repeated-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "To decided to shake which is so. So thinking about this for a while VR can have special powerful effect on your ability to learn and could come down to this",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-weak-learning-to-action-prefix; narrative-learning-update-prefix; detective-document-chronology-pass",
+      "red_team_grade": "weak-version-repeated-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-11-02",
+      "source_date_sort": "2017-11-02",
+      "source_locator": "",
+      "target_date": "2026-06-01",
+      "target_date_sort": "2026-06-01",
+      "target_locator": "PubMed 41642713 abstract; longitudinal matrix T4/S6 present",
+      "target_quote": "to more ecological testing environments that give participants agency over their actions and allow them to learn",
+      "target_url": "https://pubmed.ncbi.nlm.nih.gov/41642713/",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2026-M2017-LEARNING-UPDATES-ACTION"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-11-02-earlier-than-target-document-2025-07-11",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "partial-operator-accepted-document-relative",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "And so the hypothesis that I have is that the, the dendrite itself, when you're, which you say you have a future decision you're going to make, the dendrite itself is going to, when all the criteria are met, it's going to become the lowest possible negative. And I mean, electromagnetic negative. So like a lightning bolt will strike the, the most negative point on the earth. And so that would be a way for a dendritic computer to attract a signal to itself.",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-pass; detective-backward-chronology-pass",
+      "red_team_grade": "partial-operator-accepted-document-relative",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-11-02",
+      "source_date_sort": "2017-11-02",
+      "source_locator": "",
+      "target_date": "2025-07-11",
+      "target_date_sort": "2025-07-11",
+      "target_locator": "Reviewed preprint section 5 and autonomous-robotics example; longitudinal matrix T3/S5 present",
+      "target_quote": "",
+      "target_url": "https://www.preprints.org/manuscript/202507.0979/v1",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2025-M2017-LOCAL-CIRCUIT-BEHAVIOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-11-02-earlier-than-target-document-2025-07-11",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "partial-operator-accepted-document-relative",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "To decided to shake which is so. So thinking about this for a while VR can have special powerful effect on your ability to learn and could come down to this",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-pass; detective-backward-chronology-pass",
+      "red_team_grade": "partial-operator-accepted-document-relative",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-11-02",
+      "source_date_sort": "2017-11-02",
+      "source_locator": "",
+      "target_date": "2025-07-11",
+      "target_date_sort": "2025-07-11",
+      "target_locator": "Reviewed preprint sections 2 and 5; longitudinal matrix T3/S6 present",
+      "target_quote": "",
+      "target_url": "https://www.preprints.org/manuscript/202507.0979/v1",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2025-M2017-LEARNED-CRITERIA-ACTION"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-11-02-earlier-than-target-document-2025-07-11",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-to-partial-accepted-document-relative",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "And the, and they are attracting the signals to themselves, creating a consistent neural circuit in the brain that resembles a highly coordinated pattern of action.",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-prefix-pass; detective-backward-chronology-pass",
+      "red_team_grade": "weak-to-partial-accepted-document-relative",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-11-02",
+      "source_date_sort": "2017-11-02",
+      "source_locator": "",
+      "target_date": "2025-07-11",
+      "target_date_sort": "2025-07-11",
+      "target_locator": "Reviewed preprint sections 2 and 5",
+      "target_quote": "",
+      "target_url": "https://www.preprints.org/manuscript/202507.0979/v1",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2025-M2017-DENDRITIC-CRITERIA-ROUTING"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Daniel J. Levitas",
+          "slug": "daniel-j-levitas"
+        },
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-11-02-earlier-than-target-document-2024-03-06",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-overlapping-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "To decided to shake which is so. So thinking about this for a while VR can have special powerful effect on your ability to learn and could come down to this",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-weak-learning-to-action-prefix; narrative-learning-update-prefix; detective-document-chronology-pass",
+      "red_team_grade": "weak-overlapping-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-11-02",
+      "source_date_sort": "2017-11-02",
+      "source_locator": "",
+      "target_date": "2024-03-06",
+      "target_date_sort": "2024-03-06",
+      "target_locator": "Full-body paragraphs 0015 and 0020; longitudinal matrix T2A/S6 partial",
+      "target_quote": "",
+      "target_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10915741/",
+      "title": "Dynamic threat-reward neural processing under semi-naturalistic ecologically relevant scenarios",
+      "win_id": "JAMES-DOCWIN-2024-M2017-LEARNING-CHANGES-ACTION"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        },
+        {
+          "name": "Kess L. Folco",
+          "slug": "kess-l-folco"
+        },
+        {
+          "name": "Daniel J. Levitas",
+          "slug": "daniel-j-levitas"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-11-02-earlier-than-target-document-2023-09-26",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-overlapping-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "And so the hypothesis that I have is that the, the dendrite itself, when you're, which you say you have a future decision you're going to make, the dendrite itself is going to, when all the criteria are met, it's going to become the lowest possible negative. And I mean, electromagnetic negative. So like a lightning bolt will strike the, the most negative point on the earth. And so that would be a way for a dendritic computer to attract a signal to itself.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-weak-structural-prefix; narrative-distributed-module-prefix; detective-document-chronology-pass",
+      "red_team_grade": "weak-overlapping-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-11-02",
+      "source_date_sort": "2017-11-02",
+      "source_locator": "",
+      "target_date": "2023-09-26",
+      "target_date_sort": "2023-09-26",
+      "target_locator": "PubMed 37769870 abstract; longitudinal matrix T2/S5 partial",
+      "target_quote": "or Action. However, the streams may be more integrated than previously thought and this integration may be",
+      "target_url": "https://pubmed.ncbi.nlm.nih.gov/37769870/",
+      "title": "Neural segregation and integration of sensory, decision, and action processes during object categorization",
+      "win_id": "JAMES-DOCWIN-2023-M2017-LOCAL-CIRCUIT-DISTRIBUTION"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        },
+        {
+          "name": "Kess L. Folco",
+          "slug": "kess-l-folco"
+        },
+        {
+          "name": "Daniel J. Levitas",
+          "slug": "daniel-j-levitas"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2012-08-23-earlier-than-target-document-2023-09-26",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-overlapping-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "And so the hypothesis that I have is that the, the dendrite itself, when you're, which you say you have a future decision you're going to make, the dendrite itself is going to, when all the criteria are met, it's going to become the lowest possible negative. And I mean, electromagnetic negative. So like a lightning bolt will strike the, the most negative point on the earth. And so that would be a way for a dendritic computer to attract a signal to itself.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-weak-causal-prefix; narrative-sensory-to-action-prefix; detective-document-chronology-pass",
+      "red_team_grade": "weak-overlapping-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-11-02",
+      "source_date_sort": "2017-11-02",
+      "source_locator": "",
+      "target_date": "2023-09-26",
+      "target_date_sort": "2023-09-26",
+      "target_locator": "PubMed 37769870 abstract; longitudinal matrix T2/S4 partial",
+      "target_quote": "These results suggest that the dorsal and ventral visual streams may appear highly segregated because they include",
+      "target_url": "https://pubmed.ncbi.nlm.nih.gov/37769870/",
+      "title": "Neural segregation and integration of sensory, decision, and action processes during object categorization",
+      "win_id": "JAMES-DOCWIN-2023-M2012-SENSORY-ACTION-INTEGRATION"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2012-08-23-earlier-than-target-document-2026-06-01",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "partial-version-repeated-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "e Self Is a Prediction (2011 Dialogue)](self-is-a-prediction-dialogue-2011.md) - another early dialogue where self-modeling is explained in mechanistic terms rather than treated as a mystical primitive - [[neomindcycle-legacy-wiki|neomindcycle — SAN GitHub Wiki BCI Origin Arc]] — GitHub wiki seed-context page linking Neo Mind Cycle (2012–2014) to later Neural Lace Podcast (2017–2019) and NeuroTechSF (2018–2019) eras",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-information-to-action-prefix; narrative-update-to-action-pass; detective-document-chronology-pass",
+      "red_team_grade": "partial-version-repeated-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "",
+      "target_date": "2026-06-01",
+      "target_date_sort": "2026-06-01",
+      "target_locator": "PubMed 41642713 abstract; longitudinal matrix T4/S6 present",
+      "target_quote": "to more ecological testing environments that give participants agency over their actions and allow them to learn",
+      "target_url": "https://pubmed.ncbi.nlm.nih.gov/41642713/",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2026-M2012-INFORMATION-UPDATES-ACTION"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2012-08-23-earlier-than-target-document-2025-07-11",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "partial-operator-accepted-document-relative",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "e Self Is a Prediction (2011 Dialogue)](self-is-a-prediction-dialogue-2011.md) - another early dialogue where self-modeling is explained in mechanistic terms rather than treated as a mystical primitive - [[neomindcycle-legacy-wiki|neomindcycle — SAN GitHub Wiki BCI Origin Arc]] — GitHub wiki seed-context page linking Neo Mind Cycle (2012–2014) to later Neural Lace Podcast (2017–2019) and NeuroTechSF (2018–2019) eras",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-pass; detective-backward-chronology-pass",
+      "red_team_grade": "partial-operator-accepted-document-relative",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "",
+      "target_date": "2025-07-11",
+      "target_date_sort": "2025-07-11",
+      "target_locator": "Reviewed preprint sections 2 and 5; longitudinal matrix T3/S6 present",
+      "target_quote": "",
+      "target_url": "https://www.preprints.org/manuscript/202507.0979/v1",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2025-M2012-INFORMATION-UPDATES-ACTION"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (short-excerpt / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2012-08-23-earlier-than-target-document-2025-07-11",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "partial-operator-accepted-document-relative",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-pass; detective-backward-chronology-pass",
+      "red_team_grade": "partial-operator-accepted-document-relative",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "",
+      "target_date": "2025-07-11",
+      "target_date_sort": "2025-07-11",
+      "target_locator": "Reviewed preprint sections 2 and 5; longitudinal matrix T3/S4 present",
+      "target_quote": "",
+      "target_url": "https://www.preprints.org/manuscript/202507.0979/v1",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2025-M2012-ACTION-SENSORY-FEEDBACK"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Daniel J. Levitas",
+          "slug": "daniel-j-levitas"
+        },
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2012-08-23-earlier-than-target-document-2024-03-06",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "partial-overlapping-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Later SAN and Neural Lace material gets more technical, but this transcript already shows the same instinct: cognition can be shaped by deliberately constructed feedback loops rather than by passive observation alone.",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-information-to-action-prefix; narrative-update-to-action-prefix; detective-document-chronology-pass",
+      "red_team_grade": "partial-overlapping-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "",
+      "target_date": "2024-03-06",
+      "target_date_sort": "2024-03-06",
+      "target_locator": "Full-body paragraph 0015; longitudinal matrix T2A/S6 partial",
+      "target_quote": "",
+      "target_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10915741/",
+      "title": "Dynamic threat-reward neural processing under semi-naturalistic ecologically relevant scenarios",
+      "win_id": "JAMES-DOCWIN-2024-M2012-INFORMATION-UPDATES-ACTION"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Daniel J. Levitas",
+          "slug": "daniel-j-levitas"
+        },
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (short-excerpt / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2012-08-23-earlier-than-target-document-2024-03-06",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "partial-overlapping-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-causal-prefix; narrative-action-environment-return-prefix; detective-document-chronology-pass",
+      "red_team_grade": "partial-overlapping-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "",
+      "target_date": "2024-03-06",
+      "target_date_sort": "2024-03-06",
+      "target_locator": "Full-body paragraphs 0015, 0043, and 0062; longitudinal matrix T2A/S4 partial",
+      "target_quote": "",
+      "target_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10915741/",
+      "title": "Dynamic threat-reward neural processing under semi-naturalistic ecologically relevant scenarios",
+      "win_id": "JAMES-DOCWIN-2024-M2012-ACTION-SENSORY-RETURN"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Thomas W. James",
+          "slug": "thomas-w-james"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2012-08-23-earlier-than-target-document-2026-06-01",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "partial-version-repeated-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Action changes sensory conditions and returned information changes later state or action.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-action-sensing-update-pass; detective-document-chronology-pass",
+      "red_team_grade": "partial-version-repeated-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-22",
+      "source_date_sort": "2012-08-22",
+      "source_locator": "",
+      "target_date": "2026-06-01",
+      "target_date_sort": "2026-06-01",
+      "target_locator": "PubMed 41642713 abstract; longitudinal matrix T4/S4 present",
+      "target_quote": "to more ecological testing environments that give participants agency over their actions and allow them to learn",
+      "target_url": "https://pubmed.ncbi.nlm.nih.gov/41642713/",
+      "title": "Sensorimotor Mechanisms of Decisions and Actions",
+      "win_id": "JAMES-DOCWIN-2026-M2012-ACTIVE-SENSORY-RETURN"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 22 certified dated prior-art comparisons with James Sensorimotor Decisions Actions across 34 listed-author attributions (11 verified both-prose side-by-side pairs; 11 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 5 strong, 1 medium-partial, 16 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-08-22",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2023-09-26",
+    "earliest_target_year": 2023,
+    "latest_micah_date": "2022-06-08",
+    "latest_target_date": "2026-06-01",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 22,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 5,
+      "weak-partial": 16
+    },
+    "lens4_event_ids": [
+      "thomas-james-sensorimotor-decisions-longitudinal-2003-2026-20260718",
+      "thomas-james-sensorimotor-decisions-longitudinal-2003-2026-20260719-v2"
+    ],
+    "listed_author_edges": 34,
+    "open_source_gated_passages": 11,
+    "red_team_grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 5,
+      "weak-partial": 16
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 11
+  }
+}

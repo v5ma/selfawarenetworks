@@ -1,0 +1,752 @@
+{
+  "authors_linked": [
+    {
+      "name": "Jaume Gine",
+      "slug": "jaume-gine"
+    },
+    {
+      "name": "Kimet Jusufi",
+      "slug": "kimet-jusufi"
+    },
+    {
+      "name": "Francisco S. N. Lobo",
+      "slug": "francisco-s-n-lobo"
+    },
+    {
+      "name": "Emmanuel N. Saridakis",
+      "slug": "emmanuel-n-saridakis"
+    },
+    {
+      "name": "Douglas Singleton",
+      "slug": "douglas-singleton"
+    }
+  ],
+  "display_code": "conjecture-er-epr",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-06-10 and 2026-01-02, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 13 documented mechanisms appearing in Conjecture Er Epr (2025-12-04 to 2026-07-28) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Conjecture Er Epr",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 13 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 9 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 13 dated comparisons and 28 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "conjecture-er-epr",
+  "program_name": "Conjecture Er Epr",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jaume Gine",
+          "slug": "jaume-gine"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2026-01-02-earlier-than-2026-07-28-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong-partial-operator-document-relative-candidate",
+      "grade_bucket": "strong",
+      "micah_quote": "Core Fields & Principles Coherence field ψ(x): Complex amplitude whose phase/holonomy yields gauge structure; spatial-temporal coherence gradients source curvature-like effects.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "strong-partial-operator-document-relative-candidate",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2026-01-02",
+      "source_date_sort": "2026-01-02",
+      "source_locator": "",
+      "target_date": "2026-07-28",
+      "target_date_sort": "2026-07-28",
+      "target_locator": "arXiv:2607.26035v1 abstract, d_ij equation, and source-bound review",
+      "target_quote": "arXiv:1005.3035v2 [hep-th] 7 Jul 2025 Building up spacetime with quantum entanglement Mark Van Raamsdonk Department of Physics and Astronomy, University of British Columb ia 6224 Agricultural Road, Vancouver, B.C., V6T 1W9, Canada mav@phas.ubc.ca Abstract In this essay based on 0907.2939 [1], we argue that the emerge nce of classi- cally connected spacetimes is intimately related to the qua ntum entanglement of degrees of freedom in a non-perturbative desc",
+      "target_url": "https://arxiv.org/abs/2607.26035v1",
+      "title": "Quantum Gravity from Fractal Entanglement Geometry",
+      "win_id": "EREPR-DOCWIN-G2026-M2026-SIT79-WEIGHTS-TO-METRIC"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jaume Gine",
+          "slug": "jaume-gine"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2026-01-02-earlier-than-2026-07-28-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong-nested-completion-document-relative-candidate",
+      "grade_bucket": "strong",
+      "micah_quote": "Core Fields & Principles Coherence field ψ(x): Complex amplitude whose phase/holonomy yields gauge structure; spatial-temporal coherence gradients source curvature-like effects.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "strong-nested-completion-document-relative-candidate",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2026-01-02",
+      "source_date_sort": "2026-01-02",
+      "source_locator": "",
+      "target_date": "2026-07-28",
+      "target_date_sort": "2026-07-28",
+      "target_locator": "arXiv:2607.26035v1 abstract, generalized field equation, and review",
+      "target_quote": "arXiv:1005.3035v2 [hep-th] 7 Jul 2025 Building up spacetime with quantum entanglement Mark Van Raamsdonk Department of Physics and Astronomy, University of British Columb ia 6224 Agricultural Road, Vancouver, B.C., V6T 1W9, Canada mav@phas.ubc.ca Abstract In this essay based on 0907.2939 [1], we argue that the emerge nce of classi- cally connected spacetimes is intimately related to the qua ntum entanglement of degrees of freedom in a non-perturbative desc",
+      "target_url": "https://arxiv.org/abs/2607.26035v1",
+      "title": "Quantum Gravity from Fractal Entanglement Geometry",
+      "win_id": "EREPR-DOCWIN-G2026-M2026-SIT79-DYNAMIC-WEIGHTS-GRAVITY"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jaume Gine",
+          "slug": "jaume-gine"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-07-18) expresses active mechanism anchors (spacetime, entanglement, frequency pattern) that map structurally onto the later publication's (2026-07-28) formulation (spacetime, entanglement) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-2022-07-18-earlier-than-2026-07-28-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "It's kinda like the first entangled particle has a unique frequency pattern <1, spacetime has a 0 oscillation in sum, and the second entangled particle has a matching frequency pattern to the first particle <1.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "weak-to-partial-narrative-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-07-18",
+      "source_date_sort": "2022-07-18",
+      "source_locator": "",
+      "target_date": "2026-07-28",
+      "target_date_sort": "2026-07-28",
+      "target_locator": "arXiv:2607.26035v1 abstract and source-bound review",
+      "target_quote": "arXiv:1005.3035v2 [hep-th] 7 Jul 2025 Building up spacetime with quantum entanglement Mark Van Raamsdonk Department of Physics and Astronomy, University of British Columb ia 6224 Agricultural Road, Vancouver, B.C., V6T 1W9, Canada mav@phas.ubc.ca Abstract In this essay based on 0907.2939 [1], we argue that the emerge nce of classi- cally connected spacetimes is intimately related to the qua ntum entanglement of degrees of freedom in a non-perturbative desc",
+      "target_url": "https://arxiv.org/abs/2607.26035v1",
+      "title": "Quantum Gravity from Fractal Entanglement Geometry",
+      "win_id": "EREPR-DOCWIN-G2026-M2022-A0369-ENTANGLEMENT-STRUCTURE"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kimet Jusufi",
+          "slug": "kimet-jusufi"
+        },
+        {
+          "name": "Francisco S. N. Lobo",
+          "slug": "francisco-s-n-lobo"
+        },
+        {
+          "name": "Douglas Singleton",
+          "slug": "douglas-singleton"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2022-07-18-earlier-than-2026-06-01-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strongest-bounded-partial-document-relative-candidate",
+      "grade_bucket": "strong",
+      "micah_quote": "It's kinda like the first entangled particle has a unique frequency pattern <1, spacetime has a 0 oscillation in sum, and the second entangled particle has a matching frequency pattern to the first particle <1.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "strongest-bounded-partial-document-relative-candidate",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-07-18",
+      "source_date_sort": "2022-07-18",
+      "source_locator": "",
+      "target_date": "2026-06-01",
+      "target_date_sort": "2026-06-01",
+      "target_locator": "arXiv:2606.02943v1 abstract, displayed equation, and full-source review",
+      "target_quote": "We make the conjecture that they will also be connected by an Einstein-Rosen bridge. In fact we go even further and claim that even for an entangled pair of particles, in a quantum theory of gravity there must be a Planckian bridge between them, albeit a very quantum- mechanical bridge which probably cannot be described by classical geometry.",
+      "target_url": "https://arxiv.org/abs/2606.02943v1",
+      "title": "Testing the ER=EPR conjecture with entangled photons",
+      "win_id": "EREPR-DOCWIN-J2026-M2022-A0369-ENTANGLED-FREQUENCY"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Kimet Jusufi",
+          "slug": "kimet-jusufi"
+        },
+        {
+          "name": "Francisco S. N. Lobo",
+          "slug": "francisco-s-n-lobo"
+        },
+        {
+          "name": "Emmanuel N. Saridakis",
+          "slug": "emmanuel-n-saridakis"
+        },
+        {
+          "name": "Douglas Singleton",
+          "slug": "douglas-singleton"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-07-18) expresses active mechanism anchors (spacetime, entanglement, frequency pattern) that map structurally onto the later publication's (2025-12-04) formulation (entanglement, horizon, black hole, einstein) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-2022-07-18-earlier-than-2025-12-04-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "It's kinda like the first entangled particle has a unique frequency pattern <1, spacetime has a 0 oscillation in sum, and the second entangled particle has a matching frequency pattern to the first particle <1.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "partial-narrative-and-operator-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-07-18",
+      "source_date_sort": "2022-07-18",
+      "source_locator": "",
+      "target_date": "2025-12-04",
+      "target_date_sort": "2025-12-04",
+      "target_locator": "arXiv:2512.05022v1 abstract and full-source review",
+      "target_quote": "Cool horizons for entangled black holes Juan Maldacena 1 and Leonard Susskind 2 1 Institute for Advanced Study, Princeton, NJ 08540, USA 2 Stanford Institute for Theoretical Physics and Department of Physics, Stanford University, Stanford, CA 94305-4060, USA Abstract General relativity contains solutions in which two distant black holes are con- nected through the interior via a wormhole, or Einstein-Rosen bridge.",
+      "target_url": "https://arxiv.org/abs/2512.05022v1",
+      "title": "Emergence of ER=EPR from non-local gravitational energy",
+      "win_id": "EREPR-DOCWIN-J2025-M2022-A0369-ENTANGLED-PAIR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jaume Gine",
+          "slug": "jaume-gine"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-06-12) expresses active mechanism anchors (gravity, mass) that map structurally onto the later publication's (2026-07-28) formulation (spacetime, entanglement) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-2022-06-12-earlier-than-2026-07-28-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "This idea of quantum gravity replaces the extra dimension of string theory, because every mass, from an electron, to an atom, to a molecule is creating a traffic jam in the particle field, which causes particles",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "partial-causal-prefix-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-12",
+      "source_date_sort": "2022-06-12",
+      "source_locator": "",
+      "target_date": "2026-07-28",
+      "target_date_sort": "2026-07-28",
+      "target_locator": "arXiv:2607.26035v1 abstract and source-bound review",
+      "target_quote": "arXiv:1005.3035v2 [hep-th] 7 Jul 2025 Building up spacetime with quantum entanglement Mark Van Raamsdonk Department of Physics and Astronomy, University of British Columb ia 6224 Agricultural Road, Vancouver, B.C., V6T 1W9, Canada mav@phas.ubc.ca Abstract In this essay based on 0907.2939 [1], we argue that the emerge nce of classi- cally connected spacetimes is intimately related to the qua ntum entanglement of degrees of freedom in a non-perturbative desc",
+      "target_url": "https://arxiv.org/abs/2607.26035v1",
+      "title": "Quantum Gravity from Fractal Entanglement Geometry",
+      "win_id": "EREPR-DOCWIN-G2026-M2022-A0387-RELATIONSHIP-FIELD-SPACETIME"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jaume Gine",
+          "slug": "jaume-gine"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2022-06-12-earlier-than-2026-07-28-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-conceptual-and-operational-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Micah Blumberg As I already explained above Neurons detect information (that is not physical meaning it has no mass and no energy) as tempo-spatial coincidences.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "weak-conceptual-and-operational-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-12",
+      "source_date_sort": "2022-06-12",
+      "source_locator": "",
+      "target_date": "2026-07-28",
+      "target_date_sort": "2026-07-28",
+      "target_locator": "arXiv:2607.26035v1 abstract and information-distance equation",
+      "target_quote": "arXiv:1005.3035v2 [hep-th] 7 Jul 2025 Building up spacetime with quantum entanglement Mark Van Raamsdonk Department of Physics and Astronomy, University of British Columb ia 6224 Agricultural Road, Vancouver, B.C., V6T 1W9, Canada mav@phas.ubc.ca Abstract In this essay based on 0907.2939 [1], we argue that the emerge nce of classi- cally connected spacetimes is intimately related to the qua ntum entanglement of degrees of freedom in a non-perturbative desc",
+      "target_url": "https://arxiv.org/abs/2607.26035v1",
+      "title": "Quantum Gravity from Fractal Entanglement Geometry",
+      "win_id": "EREPR-DOCWIN-G2026-M2022-A0331-INFORMATION-RELATION-ACTION"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jaume Gine",
+          "slug": "jaume-gine"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-06-10) expresses active mechanism anchors (spacetime, gravity, decoherence, phase field) that map structurally onto the later publication's (2026-07-28) formulation (spacetime, entanglement) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-2022-06-10-earlier-than-2026-07-28-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(energy) and that gravity is caused by the coherence and decoherence patterns in the phase field of spacetime between oscillating bodies that are either in phase (coherence expanding spacetime) or out of phase (decoherence shrinking spacetime",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "partial-functional-and-narrative-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-10",
+      "source_date_sort": "2022-06-10",
+      "source_locator": "",
+      "target_date": "2026-07-28",
+      "target_date_sort": "2026-07-28",
+      "target_locator": "arXiv:2607.26035v1 abstract and source-bound review",
+      "target_quote": "arXiv:1005.3035v2 [hep-th] 7 Jul 2025 Building up spacetime with quantum entanglement Mark Van Raamsdonk Department of Physics and Astronomy, University of British Columb ia 6224 Agricultural Road, Vancouver, B.C., V6T 1W9, Canada mav@phas.ubc.ca Abstract In this essay based on 0907.2939 [1], we argue that the emerge nce of classi- cally connected spacetimes is intimately related to the qua ntum entanglement of degrees of freedom in a non-perturbative desc",
+      "target_url": "https://arxiv.org/abs/2607.26035v1",
+      "title": "Quantum Gravity from Fractal Entanglement Geometry",
+      "win_id": "EREPR-DOCWIN-G2026-M2022-A0049-RELATIONAL-PATTERN-STRUCTURE"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jaume Gine",
+          "slug": "jaume-gine"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-06-10) expresses active mechanism anchors (spacetime, gravity, oscillator, oscillators) that map structurally onto the later publication's (2026-07-28) formulation (spacetime, entanglement) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-2022-06-10-earlier-than-2026-07-28-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "sametime, because oscillators define spacetime, all oscillators create the space around them by forcing particles into collision patterns that produce gravity, define the electromagnetic phase field and define what we observe as the curvature of spacetime",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "partial-structural-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-10",
+      "source_date_sort": "2022-06-10",
+      "source_locator": "",
+      "target_date": "2026-07-28",
+      "target_date_sort": "2026-07-28",
+      "target_locator": "arXiv:2607.26035v1 abstract and source-bound review",
+      "target_quote": "arXiv:1005.3035v2 [hep-th] 7 Jul 2025 Building up spacetime with quantum entanglement Mark Van Raamsdonk Department of Physics and Astronomy, University of British Columb ia 6224 Agricultural Road, Vancouver, B.C., V6T 1W9, Canada mav@phas.ubc.ca Abstract In this essay based on 0907.2939 [1], we argue that the emerge nce of classi- cally connected spacetimes is intimately related to the qua ntum entanglement of degrees of freedom in a non-perturbative desc",
+      "target_url": "https://arxiv.org/abs/2607.26035v1",
+      "title": "Quantum Gravity from Fractal Entanglement Geometry",
+      "win_id": "EREPR-DOCWIN-G2026-M2022-A0010-RELATIONAL-CURVATURE"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kimet Jusufi",
+          "slug": "kimet-jusufi"
+        },
+        {
+          "name": "Francisco S. N. Lobo",
+          "slug": "francisco-s-n-lobo"
+        },
+        {
+          "name": "Douglas Singleton",
+          "slug": "douglas-singleton"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-06-10) expresses active mechanism anchors (spacetime, gravity, decoherence, phase field) that map structurally onto the later publication's (2026-06-01) formulation (spacetime, holographic, geometry, einstein) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-2022-06-10-earlier-than-2026-06-01-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(energy) and that gravity is caused by the coherence and decoherence patterns in the phase field of spacetime between oscillating bodies that are either in phase (coherence expanding spacetime) or out of phase (decoherence shrinking spacetime",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "weak-functional-prefix-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-10",
+      "source_date_sort": "2022-06-10",
+      "source_locator": "",
+      "target_date": "2026-06-01",
+      "target_date_sort": "2026-06-01",
+      "target_locator": "arXiv:2606.02943v1 abstract and full-source review",
+      "target_quote": "– 8 – The proof that the HRT formula obeys SSA makes use of the Einstein equation and null energy condition, an illustration of the remarkable relationship between spacetime geometry and quantum information theory brought to light by holographic dualities.",
+      "target_url": "https://arxiv.org/abs/2606.02943v1",
+      "title": "Testing the ER=EPR conjecture with entangled photons",
+      "win_id": "EREPR-DOCWIN-J2026-M2022-A0049-PHASE-FIELD-GRAVITY"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kimet Jusufi",
+          "slug": "kimet-jusufi"
+        },
+        {
+          "name": "Francisco S. N. Lobo",
+          "slug": "francisco-s-n-lobo"
+        },
+        {
+          "name": "Douglas Singleton",
+          "slug": "douglas-singleton"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-06-10) expresses active mechanism anchors (spacetime, gravity, oscillator, oscillators) that map structurally onto the later publication's (2026-06-01) formulation (gravity, entanglement, geometry, einstein) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics). Corroborated independently by a second structural bridge (Cross-Scale Anisotropic Tensor & Information-Geometry Coupling).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-2022-06-10-earlier-than-2026-06-01-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "sametime, because oscillators define spacetime, all oscillators create the space around them by forcing particles into collision patterns that produce gravity, define the electromagnetic phase field and define what we observe as the curvature of spacetime",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "partial-structural-and-narrative-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-10",
+      "source_date_sort": "2022-06-10",
+      "source_locator": "",
+      "target_date": "2026-06-01",
+      "target_date_sort": "2026-06-01",
+      "target_locator": "arXiv:2606.02943v1 abstract, equation, and full-source review",
+      "target_quote": "We make the conjecture that they will also be connected by an Einstein-Rosen bridge. In fact we go even further and claim that even for an entangled pair of particles, in a quantum theory of gravity there must be a Planckian bridge between them, albeit a very quantum- mechanical bridge which probably cannot be described by classical geometry.",
+      "target_url": "https://arxiv.org/abs/2606.02943v1",
+      "title": "Testing the ER=EPR conjecture with entangled photons",
+      "win_id": "EREPR-DOCWIN-J2026-M2022-A0010-FREQUENCY-GRAVITY"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Kimet Jusufi",
+          "slug": "kimet-jusufi"
+        },
+        {
+          "name": "Francisco S. N. Lobo",
+          "slug": "francisco-s-n-lobo"
+        },
+        {
+          "name": "Emmanuel N. Saridakis",
+          "slug": "emmanuel-n-saridakis"
+        },
+        {
+          "name": "Douglas Singleton",
+          "slug": "douglas-singleton"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-06-10) expresses active mechanism anchors (spacetime, gravity, decoherence, phase field) that map structurally onto the later publication's (2025-12-04) formulation (spacetime, er = epr) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-2022-06-10-earlier-than-2025-12-04-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(energy) and that gravity is caused by the coherence and decoherence patterns in the phase field of spacetime between oscillating bodies that are either in phase (coherence expanding spacetime) or out of phase (decoherence shrinking spacetime",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "weak-functional-prefix-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-10",
+      "source_date_sort": "2022-06-10",
+      "source_locator": "",
+      "target_date": "2025-12-04",
+      "target_date_sort": "2025-12-04",
+      "target_locator": "arXiv:2512.05022v1 abstract and full-source review",
+      "target_quote": "that ER = EPR can be recovered as an operational theorem. Our construction immediately implies that in this operational setting, the local topology of spacetime is observer-relative.",
+      "target_url": "https://arxiv.org/abs/2512.05022v1",
+      "title": "Emergence of ER=EPR from non-local gravitational energy",
+      "win_id": "EREPR-DOCWIN-J2025-M2022-A0049-COHERENCE-GRAVITY"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Kimet Jusufi",
+          "slug": "kimet-jusufi"
+        },
+        {
+          "name": "Francisco S. N. Lobo",
+          "slug": "francisco-s-n-lobo"
+        },
+        {
+          "name": "Emmanuel N. Saridakis",
+          "slug": "emmanuel-n-saridakis"
+        },
+        {
+          "name": "Douglas Singleton",
+          "slug": "douglas-singleton"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-06-10) expresses active mechanism anchors (spacetime, gravity, oscillator, oscillators) that map structurally onto the later publication's (2025-12-04) formulation (entanglement, horizon, black hole, einstein) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-2022-06-10-earlier-than-2025-12-04-arxiv-v1",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "sametime, because oscillators define spacetime, all oscillators create the space around them by forcing particles into collision patterns that produce gravity, define the electromagnetic phase field and define what we observe as the curvature of spacetime",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; detective-before-after-pass; longitudinal-late-stage-cluster-candidate; document-relative-chronology-pass",
+      "red_team_grade": "weak-structural-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-10",
+      "source_date_sort": "2022-06-10",
+      "source_locator": "",
+      "target_date": "2025-12-04",
+      "target_date_sort": "2025-12-04",
+      "target_locator": "arXiv:2512.05022v1 abstract and full-source review",
+      "target_quote": "Cool horizons for entangled black holes Juan Maldacena 1 and Leonard Susskind 2 1 Institute for Advanced Study, Princeton, NJ 08540, USA 2 Stanford Institute for Theoretical Physics and Department of Physics, Stanford University, Stanford, CA 94305-4060, USA Abstract General relativity contains solutions in which two distant black holes are con- nected through the interior via a wormhole, or Einstein-Rosen bridge.",
+      "target_url": "https://arxiv.org/abs/2512.05022v1",
+      "title": "Emergence of ER=EPR from non-local gravitational energy",
+      "win_id": "EREPR-DOCWIN-J2025-M2022-A0010-OSCILLATOR-GRAVITY"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 13 certified dated prior-art comparisons with Conjecture Er Epr across 28 listed-author attributions (13 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 11 strong, 1 medium-partial, 1 weak-partial, 0 weak-partial cross-domain, with 9 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-06-10",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2025-12-04",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2026-01-02",
+    "latest_target_date": "2026-07-28",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 9,
+    "governed_wins": 13,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 11,
+      "weak-partial": 1
+    },
+    "lens4_event_ids": [
+      "lsm-er-epr-20261122"
+    ],
+    "listed_author_edges": 28,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 3,
+      "weak-partial": 10
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 13
+  }
+}

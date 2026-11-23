@@ -1,0 +1,513 @@
+{
+  "authors_linked": [
+    {
+      "name": "Micou C",
+      "slug": "micou-c"
+    },
+    {
+      "name": "Ho H",
+      "slug": "ho-h"
+    },
+    {
+      "name": "O’Leary T",
+      "slug": "o-leary-t"
+    },
+    {
+      "name": "Krupic J",
+      "slug": "krupic-j"
+    },
+    {
+      "name": "Oruro EM",
+      "slug": "oruro-em"
+    },
+    {
+      "name": "Pardo GE",
+      "slug": "pardo-ge"
+    },
+    {
+      "name": "Rasia-Filho AA",
+      "slug": "rasia-filho-aa"
+    },
+    {
+      "name": "Garcia-Cairasco N",
+      "slug": "garcia-cairasco-n"
+    }
+  ],
+  "display_code": "allen-lead-21-2026",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience; consciousness",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-03-01 and 2024-10-21, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 7 documented mechanisms appearing in Allen Lead #21: Hippocampal neurons use related but distinct codes for self, others and gaze ( (2026-05-13 to 2026-06-05) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Allen Lead #21: Hippocampal neurons use related but distinct codes for self, others and gaze (",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 7 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 5 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 7 dated comparisons and 28 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-allen-lead-21-2026",
+  "program_name": "Allen Lead #21: Hippocampal neurons use related but distinct codes for self, others and gaze (",
+  "rows": [
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Micou C",
+          "slug": "micou-c"
+        },
+        {
+          "name": "Ho H",
+          "slug": "ho-h"
+        },
+        {
+          "name": "O’Leary T",
+          "slug": "o-leary-t"
+        },
+        {
+          "name": "Krupic J",
+          "slug": "krupic-j"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Confirmed at medium-partial under Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery) (Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding; anchors: sensor, cortex <-> reconfiguration). The single structural bridge validates the existing medium-partial tier without reaching the multi-bridge density required for a further jump to strong.",
+        "ito_alignment": "Input: multi-feature sensory or episodic inputs spanning high-dimensional representational channels -> Transform: associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces -> Output: robust, compositional, noise-tolerant pattern integration and flexible memory recall",
+        "lens_basis": "Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery)",
+        "primary_bridge_id": "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "primary_bridge_name": "Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "confirmed-medium-partial-held",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Micah Blumberg said: I was thinking that perhaps when sensory alphawaves drive anticorrelated or inverse spiking reactions in Gamma waves that it is a kind of positive to negative feedback loop, it's interesting also that our top down beta waves which may represent our thoughts could also be creating inverse thought representations when they drive anticorrelated or inverse spiking Gamma waves in the prefrontal cortex. At least we can visualize how our Gamm",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "score": 17.61,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-10-21 formulation shares conceptual/operational mechanisms (place, representations, signals) with Allen Lead #21: Hippocampal neurons use related but distinct codes for self, others and gaze ( (2026-05-13; europepmc-official-abstract); graded medium-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "medium-partial",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-10-21",
+      "source_date_sort": "2024-10-21",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/7bbb9e317793480ab2a08781f8801ee224f37d44/rexnote06.md#L3-L20",
+      "target_date": "2026-05-13",
+      "target_date_sort": "2026-05-13",
+      "target_locator": "doi:10.64898/2026.05.11.724143 | Distinct hippocampal codes emerge during brain-machine interface navigation",
+      "target_quote": "In this condition, CA1 responses encoding running movement were not navigationally relevant, and place codes rapidly reconfigured to form new representations that discarded locomotion-related signals.",
+      "target_url": "https://doi.org/10.64898/2026.05.11.724143",
+      "title": "place, representations, signals — Distinct hippocampal codes emerge during brain-machine interface navigation",
+      "win_id": "G2-ALLEN-LEAD-21-20-D01-A03"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Oruro EM",
+          "slug": "oruro-em"
+        },
+        {
+          "name": "Pardo GE",
+          "slug": "pardo-ge"
+        },
+        {
+          "name": "Rasia-Filho AA",
+          "slug": "rasia-filho-aa"
+        },
+        {
+          "name": "Garcia-Cairasco N",
+          "slug": "garcia-cairasco-n"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Hierarchical-Scale Architecture) + Lens 3 (Scale-Invariant Cross-Domain Isomorphism) via the Multi-Scale Coarse-Graining, Semantic/Spatial Densification & Emergent Causality bridge. Micah Blumberg's dated passage (2024-01-15) expresses active mechanism anchors (emergent, emergence) that map structurally onto the later publication's (2026-06-05) formulation (emergent, emergence) through the shared operation: Input (interacting microscopic components distributed across local structural neighborhoods) -> Transform (hierarchical constraint coupling, coarse-graining, and information-maximizing organization across scales) -> Output (emergent macro-level causal structure and adaptive higher-order system dynamics).",
+        "ito_alignment": "Input: interacting microscopic components distributed across local structural neighborhoods -> Transform: hierarchical constraint coupling, coarse-graining, and information-maximizing organization across scales -> Output: emergent macro-level causal structure and adaptive higher-order system dynamics",
+        "lens_basis": "Lens 2 (Hierarchical-Scale Architecture) + Lens 3 (Scale-Invariant Cross-Domain Isomorphism)",
+        "primary_bridge_id": "BT-14-MULTI-SCALE-EMERGENT-COMPLEXITY-COARSENING",
+        "primary_bridge_name": "Multi-Scale Coarse-Graining, Semantic/Spatial Densification & Emergent Causality",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "consciousness. While powerful, “emergence” can sometimes obscure the mechanism that leads to global order. Are these phenomena truly “irreducibly” complex, or are there local, computational rules that—when iterated enough—produce the emergent structure? Micah’s New Law of Thermodynamics addresses this tension head-on. It states that equilibrium (or synchronized) states are reached via repeated local interactions that dissipate differences—be these differen",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.53,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (emergence, emergent) with Allen Lead #21: Hippocampal neurons use related but distinct codes for self, others and gaze ( (2026-06-05; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 2]",
+      "target_date": "2026-06-05",
+      "target_date_sort": "2026-06-05",
+      "target_locator": "doi:10.3389/fncom.2026.1800523 | New directions for complex systems in contemporary neuroscience: a morphodynamic and emergent function approach.",
+      "target_quote": "While emergence in neuroscience is commonly addressed at higher organizational levels, here we consider neuronal morphology itself as an emergent level of organization.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1800523",
+      "title": "emergence, emergent — New directions for complex systems in contemporary neuroscience: a morphodynamic and emergent f",
+      "win_id": "G2-ALLEN-LEAD-21-20-D02-A03"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Oruro EM",
+          "slug": "oruro-em"
+        },
+        {
+          "name": "Pardo GE",
+          "slug": "pardo-ge"
+        },
+        {
+          "name": "Rasia-Filho AA",
+          "slug": "rasia-filho-aa"
+        },
+        {
+          "name": "Garcia-Cairasco N",
+          "slug": "garcia-cairasco-n"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Hierarchical-Scale Architecture) + Lens 3 (Scale-Invariant Cross-Domain Isomorphism) via the Multi-Scale Coarse-Graining, Semantic/Spatial Densification & Emergent Causality bridge. Micah Blumberg's dated passage (2024-01-15) expresses active mechanism anchors (emergent, emergence) that map structurally onto the later publication's (2026-06-05) formulation (multiscale, emergent) through the shared operation: Input (interacting microscopic components distributed across local structural neighborhoods) -> Transform (hierarchical constraint coupling, coarse-graining, and information-maximizing organization across scales) -> Output (emergent macro-level causal structure and adaptive higher-order system dynamics).",
+        "ito_alignment": "Input: interacting microscopic components distributed across local structural neighborhoods -> Transform: hierarchical constraint coupling, coarse-graining, and information-maximizing organization across scales -> Output: emergent macro-level causal structure and adaptive higher-order system dynamics",
+        "lens_basis": "Lens 2 (Hierarchical-Scale Architecture) + Lens 3 (Scale-Invariant Cross-Domain Isomorphism)",
+        "primary_bridge_id": "BT-14-MULTI-SCALE-EMERGENT-COMPLEXITY-COARSENING",
+        "primary_bridge_name": "Multi-Scale Coarse-Graining, Semantic/Spatial Densification & Emergent Causality",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "consciousness. While powerful, “emergence” can sometimes obscure the mechanism that leads to global order. Are these phenomena truly “irreducibly” complex, or are there local, computational rules that—when iterated enough—produce the emergent structure? Micah’s New Law of Thermodynamics addresses this tension head-on. It states that equilibrium (or synchronized) states are reached via repeated local interactions that dissipate differences—be these differen",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 28.45,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (emergent, structure) with Allen Lead #21: Hippocampal neurons use related but distinct codes for self, others and gaze ( (2026-06-05; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 2]",
+      "target_date": "2026-06-05",
+      "target_date_sort": "2026-06-05",
+      "target_locator": "doi:10.3389/fncom.2026.1800523 | New directions for complex systems in contemporary neuroscience: a morphodynamic and emergent function approach.",
+      "target_quote": "In turn, the emergent functions of networks are organized around a series of conceptual, experimental, and computational foundations. Complex systems neuroscience combines such data with additional high- and multiscale information to develop models organized around structure, function, and behavioral displays in both normal and pathological conditions.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1800523",
+      "title": "emergent, structure — New directions for complex systems in contemporary neuroscience: a morphodynamic and emergent f",
+      "win_id": "G2-ALLEN-LEAD-21-20-D02-A01"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Micou C",
+          "slug": "micou-c"
+        },
+        {
+          "name": "Ho H",
+          "slug": "ho-h"
+        },
+        {
+          "name": "O’Leary T",
+          "slug": "o-leary-t"
+        },
+        {
+          "name": "Krupic J",
+          "slug": "krupic-j"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2023-08-01) expresses active mechanism anchors (prediction, predict) that map structurally onto the later publication's (2026-05-13) formulation (navigation, hippocampal) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "raw sensory inputs upward, enabling the cortex to form preliminary interpre- tations, while feedback loops convey predictions downward, comparing expec- tations with actual inputs and prompting adjustments when mismatches occur. Cortical-thalamic loops allow the neocortex and thalamic nuclei to exchange signals bidirectionally, enabling selective attention and the filtering of irrelevant stimuli. Hippocampal-cortical loops, mediated by the entorhinal corte",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 14.38,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (hippocampal, navigation) with Allen Lead #21: Hippocampal neurons use related but distinct codes for self, others and gaze ( (2026-05-13; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 23]",
+      "target_date": "2026-05-13",
+      "target_date_sort": "2026-05-13",
+      "target_locator": "doi:10.64898/2026.05.11.724143 | Distinct hippocampal codes emerge during brain-machine interface navigation",
+      "target_quote": "The neural basis of such internally driven activation remains poorly understood. To address this, we had mice use a brain-machine interface (BMI) to directly control navigation from real-time hippocampal activity.",
+      "target_url": "https://doi.org/10.64898/2026.05.11.724143",
+      "title": "hippocampal, navigation — Distinct hippocampal codes emerge during brain-machine interface navigation",
+      "win_id": "G2-ALLEN-LEAD-21-20-D01-A04"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Micou C",
+          "slug": "micou-c"
+        },
+        {
+          "name": "Ho H",
+          "slug": "ho-h"
+        },
+        {
+          "name": "O’Leary T",
+          "slug": "o-leary-t"
+        },
+        {
+          "name": "Krupic J",
+          "slug": "krupic-j"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "to higher-level cognitive patterns. Through this process, each wave of gamma “ink” overwrites or enhances the slower “canvas,” reducing phase mismatches and forging a coherent state of awareness. High-frequency gamma bursts then play a pivotal role in adjusting motor outputs or refining sensory maps whenever there is a divergence between pre- dicted and actual states. From an agentic perspective, each cortical column or subcortical nucleus upholds its own",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 26.08,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (cognitive, motor, sensory, signals) with Allen Lead #21: Hippocampal neurons use related but distinct codes for self, others and gaze ( (2026-05-13; europepmc-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 29]",
+      "target_date": "2026-05-13",
+      "target_date_sort": "2026-05-13",
+      "target_locator": "doi:10.64898/2026.05.11.724143 | Distinct hippocampal codes emerge during brain-machine interface navigation",
+      "target_quote": "The hippocampus integrates external cues and self-motion to construct cognitive maps. Activating these maps independently of immediate sensory and motor signals can support navigation by predicting future locations.",
+      "target_url": "https://doi.org/10.64898/2026.05.11.724143",
+      "title": "cognitive, motor, sensory, signals — Distinct hippocampal codes emerge during brain-machine interface navigation",
+      "win_id": "G2-ALLEN-LEAD-21-20-D01-A01"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Micou C",
+          "slug": "micou-c"
+        },
+        {
+          "name": "Ho H",
+          "slug": "ho-h"
+        },
+        {
+          "name": "O’Leary T",
+          "slug": "o-leary-t"
+        },
+        {
+          "name": "Krupic J",
+          "slug": "krupic-j"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (sequence, predict) that map structurally onto the later publication's (2026-05-13) formulation (navigation) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "a0277z (cortex) Multi-modal representations, the building blocks of everything we perceive, consisting of patterns encoded in phase differences combined with tempo-spatial patterns accomplished by spreading out the phase differences in complicated temporal-spatial play back neural column firing patterns played all over the brain, with parts of the brain intelligently waiting listening learning sequences in order to predict and in order to fire in the right",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.16,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (patterns, representations) with Allen Lead #21: Hippocampal neurons use related but distinct codes for self, others and gaze ( (2026-05-13; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/d9cbe5b40f0577644dbafd19d78b0be46c33cb19/a0277z.md#L1",
+      "target_date": "2026-05-13",
+      "target_date_sort": "2026-05-13",
+      "target_locator": "doi:10.64898/2026.05.11.724143 | Distinct hippocampal codes emerge during brain-machine interface navigation",
+      "target_quote": "By comparing neural representations across BMI-controlled navigation, locomotion-controlled navigation, and passive playback of predetermined routes, we found evidence of response patterns that were specific to conditions in which neural activity could causally influence an animal’s travel.",
+      "target_url": "https://doi.org/10.64898/2026.05.11.724143",
+      "title": "patterns, representations — Distinct hippocampal codes emerge during brain-machine interface navigation",
+      "win_id": "G2-ALLEN-LEAD-21-20-D01-A02"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Oruro EM",
+          "slug": "oruro-em"
+        },
+        {
+          "name": "Pardo GE",
+          "slug": "pardo-ge"
+        },
+        {
+          "name": "Rasia-Filho AA",
+          "slug": "rasia-filho-aa"
+        },
+        {
+          "name": "Garcia-Cairasco N",
+          "slug": "garcia-cairasco-n"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery) via the Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (sensor, synaptic, neuron) that map structurally onto the later publication's (2026-06-05) formulation (synaptic) through the shared operation: Input (multi-feature sensory or episodic inputs spanning high-dimensional representational channels) -> Transform (associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces) -> Output (robust, compositional, noise-tolerant pattern integration and flexible memory recall).",
+        "ito_alignment": "Input: multi-feature sensory or episodic inputs spanning high-dimensional representational channels -> Transform: associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces -> Output: robust, compositional, noise-tolerant pattern integration and flexible memory recall",
+        "lens_basis": "Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery)",
+        "primary_bridge_id": "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "primary_bridge_name": "Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "4. **Receptive fields as learned pattern detectors.** The keen sense of 3D space is addressed not by fixed voxel receptive fields but through a dynamic, learned, volumetric rendering. \"Receptive fields\" are mentioned in the context of sensor arrays of neurons magnifying detection capabilities by coordinating with adjacent oscillating neurons. Neurons' dendrites and synaptic connections encode learned patterns, acting as localized embeddings or vector space",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 24.2,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (neurons, synaptic) with Allen Lead #21: Hippocampal neurons use related but distinct codes for self, others and gaze ( (2026-06-05; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 11 (11san.md) [para 15]",
+      "target_date": "2026-06-05",
+      "target_date_sort": "2026-06-05",
+      "target_locator": "doi:10.3389/fncom.2026.1800523 | New directions for complex systems in contemporary neuroscience: a morphodynamic and emergent function approach.",
+      "target_quote": "The structure of neurons and their connectivity within the brain volume are morphodynamic features that emerge from dynamic interactions among morphogenetic elements, the local cell neighborhood, and synaptic connections.",
+      "target_url": "https://doi.org/10.3389/fncom.2026.1800523",
+      "title": "neurons, synaptic — New directions for complex systems in contemporary neuroscience: a morphodynamic and emergent f",
+      "win_id": "G2-ALLEN-LEAD-21-20-D02-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 7 certified dated prior-art comparisons with Allen Lead #21: Hippocampal neurons use related but distinct codes for self, others and gaze ( across 28 listed-author attributions (7 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 1 strong, 6 medium-partial, 0 weak-partial, 0 weak-partial cross-domain, with 5 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-03-01",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2026-05-13",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2024-10-21",
+    "latest_target_date": "2026-06-05",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 5,
+    "governed_wins": 7,
+    "grade_breakdown": {
+      "medium-partial": 6,
+      "strong": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g2-allen-lead-21-2026-20261122"
+    ],
+    "listed_author_edges": 28,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 1,
+      "weak-partial": 5
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 7
+  }
+}

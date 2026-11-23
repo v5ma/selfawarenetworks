@@ -1,0 +1,297 @@
+{
+  "authors_linked": [
+    {
+      "name": "Meissner-Bernard C",
+      "slug": "meissner-bernard-c"
+    },
+    {
+      "name": "Zenke F",
+      "slug": "zenke-f"
+    },
+    {
+      "name": "Friedrich RW",
+      "slug": "friedrich-rw"
+    }
+  ],
+  "display_code": "allen-lead-11-2026",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience; consciousness",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-09-19 and 2022-03-01, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Allen Lead #11: Olfactory cortex does not store odours in discrete attractor states; it reshap (2025-01-13 to 2025-01-13) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Allen Lead #11: Olfactory cortex does not store odours in discrete attractor states; it reshap",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 12 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-allen-lead-11-2026",
+  "program_name": "Allen Lead #11: Olfactory cortex does not store odours in discrete attractor states; it reshap",
+  "rows": [
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Meissner-Bernard C",
+          "slug": "meissner-bernard-c"
+        },
+        {
+          "name": "Zenke F",
+          "slug": "zenke-f"
+        },
+        {
+          "name": "Friedrich RW",
+          "slug": "friedrich-rw"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "- Hawkins, J., Ahmad, S., & Dubinsky, D. (2017). A Theory of How Columns in the Neocortex Enable Learning the Structure of the World. Frontiers in Neural Circuits, 11, 81..15 (Annotation: Hawkins' theory posits that cortical columns are fundamental units that learn models of the world through sensorimotor prediction and location-based reference frames. This aligns with NAPOT's framework where neural arrays (potentially columns) process, predict, and projec",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.72,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (learning, representations) with Allen Lead #11: Olfactory cortex does not store odours in discrete attractor states; it reshap (2025-01-13; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 116]",
+      "target_date": "2025-01-13",
+      "target_date_sort": "2025-01-13",
+      "target_locator": "doi:10.7554/elife.96303 | Geometry and dynamics of representations in a precisely balanced memory network related to olfactory cortex.",
+      "target_quote": "Such continuous representations enable fast pattern classification, can support continual learning, and may provide a basis for higher-order learning and cognitive computations.",
+      "target_url": "https://doi.org/10.7554/elife.96303",
+      "title": "learning, representations — Geometry and dynamics of representations in a precisely balanced memory network related to olfa",
+      "win_id": "G2-ALLEN-LEAD-11-20-D01-A04"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Meissner-Bernard C",
+          "slug": "meissner-bernard-c"
+        },
+        {
+          "name": "Zenke F",
+          "slug": "zenke-f"
+        },
+        {
+          "name": "Friedrich RW",
+          "slug": "friedrich-rw"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "This definition positions NDCA as the mathematical and computational framework within SAN that describes how the dynamic, oscillatory, attractor-based neural activity translates into the specific geometric and semantic properties (shape, orientation, scale, location, identity) of the perceived object on the screen. The reference to \"manifolds in cortical column brain activity\" is particularly significant. It suggests that perceived shapes are represented a",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.05,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (attractor, dynamics) with Allen Lead #11: Olfactory cortex does not store odours in discrete attractor states; it reshap (2025-01-13; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 38]",
+      "target_date": "2025-01-13",
+      "target_date_sort": "2025-01-13",
+      "target_locator": "doi:10.7554/elife.96303 | Geometry and dynamics of representations in a precisely balanced memory network related to olfactory cortex.",
+      "target_quote": "We found that E/I assemblies stabilized firing rate distributions compared to networks with excitatory assemblies and global inhibition. Unlike classical memory models, networks with E/I assemblies did not show discrete attractor dynamics.",
+      "target_url": "https://doi.org/10.7554/elife.96303",
+      "title": "attractor, dynamics — Geometry and dynamics of representations in a precisely balanced memory network related to olfa",
+      "win_id": "G2-ALLEN-LEAD-11-20-D01-A03"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Meissner-Bernard C",
+          "slug": "meissner-bernard-c"
+        },
+        {
+          "name": "Zenke F",
+          "slug": "zenke-f"
+        },
+        {
+          "name": "Friedrich RW",
+          "slug": "friedrich-rw"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "- Hebb, D.O. (1949). The Organization of Behavior: A Neuropsychological Theory. Wiley. (Annotation: Hebb's postulate that \"neurons that fire together, wire together\" is a cornerstone of learning and memory research. It provides the basic rule for activity-dependent synaptic modification. In SAN's COT, this principle underpins how cells learn patterns through coincident inputs, leading to lasting changes in connectivity that support stable oscillatory behav",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 26.34,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (memory, neurons, synaptic) with Allen Lead #11: Olfactory cortex does not store odours in discrete attractor states; it reshap (2025-01-13; europepmc-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 138]",
+      "target_date": "2025-01-13",
+      "target_date_sort": "2025-01-13",
+      "target_locator": "doi:10.7554/elife.96303 | Geometry and dynamics of representations in a precisely balanced memory network related to olfactory cortex.",
+      "target_quote": "Biological memory networks are thought to store information by experience-dependent changes in the synaptic connectivity between assemblies of neurons. Recent models suggest that these assemblies contain both excitatory and inhibitory neurons (E/I assemblies), resulting in co-tuning and precise balance of excitation and inhibition.",
+      "target_url": "https://doi.org/10.7554/elife.96303",
+      "title": "memory, neurons, synaptic — Geometry and dynamics of representations in a precisely balanced memory network related to olfa",
+      "win_id": "G2-ALLEN-LEAD-11-20-D01-A01"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Meissner-Bernard C",
+          "slug": "meissner-bernard-c"
+        },
+        {
+          "name": "Zenke F",
+          "slug": "zenke-f"
+        },
+        {
+          "name": "Friedrich RW",
+          "slug": "friedrich-rw"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery) via the Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding bridge. Micah Blumberg's dated passage (2012-09-19) expresses active mechanism anchors (distributed) that map structurally onto the later publication's (2025-01-13) formulation (manifold) through the shared operation: Input (multi-feature sensory or episodic inputs spanning high-dimensional representational channels) -> Transform (associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces) -> Output (robust, compositional, noise-tolerant pattern integration and flexible memory recall).",
+        "ito_alignment": "Input: multi-feature sensory or episodic inputs spanning high-dimensional representational channels -> Transform: associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces -> Output: robust, compositional, noise-tolerant pattern integration and flexible memory recall",
+        "lens_basis": "Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery)",
+        "primary_bridge_id": "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "primary_bridge_name": "Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Distributed learned structure supplies content to a reusable activity pattern rather than reducing memory to one scalar state.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.43,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-19 formulation shares conceptual/operational mechanisms (pattern, structure) with Allen Lead #11: Olfactory cortex does not store odours in discrete attractor states; it reshap (2025-01-13; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-09-19",
+      "source_date_sort": "2012-09-19",
+      "source_locator": "SAN Priority Index 2010-2026",
+      "target_date": "2025-01-13",
+      "target_date_sort": "2025-01-13",
+      "target_locator": "doi:10.7554/elife.96303 | Geometry and dynamics of representations in a precisely balanced memory network related to olfactory cortex.",
+      "target_quote": "Rather, responses to learned inputs were locally constrained onto manifolds that 'focused' activity into neuronal subspaces. The covariance structure of these manifolds supported pattern classification when information was retrieved from selected neuronal subsets.",
+      "target_url": "https://doi.org/10.7554/elife.96303",
+      "title": "pattern, structure — Geometry and dynamics of representations in a precisely balanced memory network related to olfa",
+      "win_id": "G2-ALLEN-LEAD-11-20-D01-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Allen Lead #11: Olfactory cortex does not store odours in discrete attractor states; it reshap across 12 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 1 strong, 1 medium-partial, 2 weak-partial, 0 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-09-19",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2025-01-13",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2022-03-01",
+    "latest_target_date": "2025-01-13",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 1,
+      "weak-partial": 2
+    },
+    "lens4_event_ids": [
+      "lsm-g2-allen-lead-11-2026-20261122"
+    ],
+    "listed_author_edges": 12,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 1,
+      "weak-partial": 3
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

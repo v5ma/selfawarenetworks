@@ -1,0 +1,158 @@
+{
+  "authors_linked": [
+    {
+      "name": "Verschure PFMJ",
+      "slug": "verschure-pfmj"
+    }
+  ],
+  "display_code": "candidate-kuhn-1-2-9-mitchells-free-agents",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; Neurobiological Theories",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-02-26 and 2022-06-08, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 2 documented mechanisms appearing in Mitchell's Free Agents (2026-11-01 to 2026-11-01) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Mitchell's Free Agents",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 2 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 2 dated comparisons and 2 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "candidate-kuhn-1-2-9-mitchells-free-agents",
+  "program_name": "Mitchell's Free Agents",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Verschure PFMJ",
+          "slug": "verschure-pfmj"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Artificial Neurology translates biological perception, recurrent physical processing, development, and consciousness assessment into an engineered system.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 14.35,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (agency, integration) with Mitchell's Free Agents (2026-11-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/766f3d3664995e0fc795f2e36cd81ee6e04042e6/a0111z.md",
+      "target_date": "2026-11-01",
+      "target_date_sort": "2026-11-01",
+      "target_locator": "doi:10.1098/rstb.2026.0001 | The six capacities of responsible autonomy: naturalizing free will in biological and artificial systems.",
+      "target_quote": "The rapid integration of agentic AI is intensifying disputes about artificial autonomy, widening an agency schism between normative frameworks that presuppose agency and a scientific ontology that denies it.",
+      "target_url": "https://doi.org/10.1098/rstb.2026.0001",
+      "title": "agency, integration — The six capacities of responsible autonomy: naturalizing free will in biological and artificial",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Verschure PFMJ",
+          "slug": "verschure-pfmj"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "sensory sorting, prediction, inhibition, selected response, layer-five motor output, and learning form one loop",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.39,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-02-26 formulation shares conceptual/operational mechanisms (agency, predictive) with Mitchell's Free Agents (2026-11-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-02-26",
+      "source_date_sort": "2012-02-26",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/766f3d3664995e0fc795f2e36cd81ee6e04042e6/a0560z.md",
+      "target_date": "2026-11-01",
+      "target_date_sort": "2026-11-01",
+      "target_locator": "doi:10.1098/rstb.2026.0001 | The six capacities of responsible autonomy: naturalizing free will in biological and artificial systems.",
+      "target_quote": "A companion paper maps each capacity to the Distributed Adaptive Control theory of volition and agency, its neurobiological substrates and the Evaluation Suite for Responsible Autonomy (ESRA) test, supplying, in Carnap's terms, the precision and predictive power that complete the explication.",
+      "target_url": "https://doi.org/10.1098/rstb.2026.0001",
+      "title": "agency, predictive — The six capacities of responsible autonomy: naturalizing free will in biological and artificial",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A01"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 2 certified dated prior-art comparisons with Mitchell's Free Agents across 2 listed-author attributions (2 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 0 medium-partial, 2 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-02-26",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2026-11-01",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2022-06-08",
+    "latest_target_date": "2026-11-01",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 2,
+    "grade_breakdown": {
+      "weak-partial": 2
+    },
+    "lens4_event_ids": [
+      "lsm-g2-candidate-kuhn-1-2-9-mitchells-free-agen-20261122"
+    ],
+    "listed_author_edges": 2,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 2
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 2
+  }
+}

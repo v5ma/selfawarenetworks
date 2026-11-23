@@ -1,0 +1,552 @@
+{
+  "authors_linked": [
+    {
+      "name": "Tim A. Guth",
+      "slug": "tim-a-guth"
+    },
+    {
+      "name": "Armin Brandt",
+      "slug": "armin-brandt"
+    },
+    {
+      "name": "Peter C. Reinacher",
+      "slug": "peter-c-reinacher"
+    },
+    {
+      "name": "Andreas Schulze-Bonhage",
+      "slug": "andreas-schulze-bonhage"
+    },
+    {
+      "name": "Joshua Jacobs",
+      "slug": "joshua-jacobs"
+    },
+    {
+      "name": "Lukas Kunz",
+      "slug": "lukas-kunz"
+    }
+  ],
+  "display_code": "guth-kunz-jacobs-theta-phase-locking",
+  "domain_group": "hybrid",
+  "domains": "consciousness; neuroscience; physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2017-04-11 and 2022-09-18, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 7 documented mechanisms appearing in Guth Kunz Jacobs Theta Phase Locking (2025-08-11 to 2025-08-11) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Guth Kunz Jacobs Theta Phase Locking",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 7 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 7 dated comparisons and 42 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-guth-kunz-jacobs-theta-phase-locking",
+  "program_name": "Guth Kunz Jacobs Theta Phase Locking",
+  "rows": [
+    {
+      "author_count": 6,
+      "authors_linked": [
+        {
+          "name": "Tim A. Guth",
+          "slug": "tim-a-guth"
+        },
+        {
+          "name": "Armin Brandt",
+          "slug": "armin-brandt"
+        },
+        {
+          "name": "Peter C. Reinacher",
+          "slug": "peter-c-reinacher"
+        },
+        {
+          "name": "Andreas Schulze-Bonhage",
+          "slug": "andreas-schulze-bonhage"
+        },
+        {
+          "name": "Joshua Jacobs",
+          "slug": "joshua-jacobs"
+        },
+        {
+          "name": "Lukas Kunz",
+          "slug": "lukas-kunz"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0310z Watch the Neural Array Projection Oscillation Tomography Revision 5 video that I did. https://youtu.be/vixhppNAKPs NAPOT Revision 5 # b0010y and a0310z The original 40 minute audio that inspired note a0310z and the audio file called b0010y can be listened to here: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e64-e77f44a9b2de The b0010ywhisper.md...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GK-A03 in guth-kunz-jacobs-2025-ncomms (2025-08-11) x M22-NAPOT (2022-09-18)] Cycle-by-cycle theta oscillatory state and aperiodic spectral slope gating single-neuron phase synchronization strength; anticipated partially in Blumberg (2022-09-18) via NAPOT phase-wave-differential interference and multi-scale oscillatory rendering across c",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-18",
+      "source_date_sort": "2022-09-18",
+      "source_locator": "lines 1-20",
+      "target_date": "2025-08-11",
+      "target_date_sort": "2025-08-11",
+      "target_locator": "guth-et-al-theta-phase-locking-nature-communications-2025-fulltext.xml (GK-A03)",
+      "target_quote": "Time-resolved spectral parameterization and cycle-by-cycle analysis demonstrated stronger theta-phase locking during steep aperiodic slopes and prominent theta oscillations.",
+      "target_url": "",
+      "title": "Theta-phase locking of single neurons during human spatial memory (Nature Communications 16:7402)",
+      "win_id": "GUTH-TH-SC-007"
+    },
+    {
+      "author_count": 6,
+      "authors_linked": [
+        {
+          "name": "Tim A. Guth",
+          "slug": "tim-a-guth"
+        },
+        {
+          "name": "Armin Brandt",
+          "slug": "armin-brandt"
+        },
+        {
+          "name": "Peter C. Reinacher",
+          "slug": "peter-c-reinacher"
+        },
+        {
+          "name": "Andreas Schulze-Bonhage",
+          "slug": "andreas-schulze-bonhage"
+        },
+        {
+          "name": "Joshua Jacobs",
+          "slug": "joshua-jacobs"
+        },
+        {
+          "name": "Lukas Kunz",
+          "slug": "lukas-kunz"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0310z Watch the Neural Array Projection Oscillation Tomography Revision 5 video that I did. https://youtu.be/vixhppNAKPs NAPOT Revision 5 # b0010y and a0310z The original 40 minute audio that inspired note a0310z and the audio file called b0010y can be listened to here: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e64-e77f44a9b2de The b0010ywhisper.md...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GK-A02 in guth-kunz-jacobs-2025-ncomms (2025-08-11) x M22-NAPOT (2022-09-18)] Single neurons firing at consistent preferred theta phases across both encoding and memory retrieval phases; anticipated partially in Blumberg (2022-09-18) via NAPOT phase-wave-differential interference and multi-scale oscillatory rendering across cortical-hipp",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-18",
+      "source_date_sort": "2022-09-18",
+      "source_locator": "lines 1-20",
+      "target_date": "2025-08-11",
+      "target_date_sort": "2025-08-11",
+      "target_locator": "guth-et-al-theta-phase-locking-nature-communications-2025-fulltext.xml (GK-A02)",
+      "target_quote": "Phase-locking strength was similar across successful and unsuccessful memory trials, with most neurons spiking at similar theta phases during encoding and retrieval.",
+      "target_url": "",
+      "title": "Theta-phase locking of single neurons during human spatial memory (Nature Communications 16:7402)",
+      "win_id": "GUTH-TH-SC-005"
+    },
+    {
+      "author_count": 6,
+      "authors_linked": [
+        {
+          "name": "Tim A. Guth",
+          "slug": "tim-a-guth"
+        },
+        {
+          "name": "Armin Brandt",
+          "slug": "armin-brandt"
+        },
+        {
+          "name": "Peter C. Reinacher",
+          "slug": "peter-c-reinacher"
+        },
+        {
+          "name": "Andreas Schulze-Bonhage",
+          "slug": "andreas-schulze-bonhage"
+        },
+        {
+          "name": "Joshua Jacobs",
+          "slug": "joshua-jacobs"
+        },
+        {
+          "name": "Lukas Kunz",
+          "slug": "lukas-kunz"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0310z Watch the Neural Array Projection Oscillation Tomography Revision 5 video that I did. https://youtu.be/vixhppNAKPs NAPOT Revision 5 # b0010y and a0310z The original 40 minute audio that inspired note a0310z and the audio file called b0010y can be listened to here: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e64-e77f44a9b2de The b0010ywhisper.md...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GK-A01 in guth-kunz-jacobs-2025-ncomms (2025-08-11) x M22-NAPOT (2022-09-18)] Widespread human medial temporal lobe single-neuron spiking locked to broad-band adaptive theta phase during spatial memory encoding and retrieval; anticipated partially in Blumberg (2022-09-18) via NAPOT phase-wave-differential interference and multi-scale osc",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-18",
+      "source_date_sort": "2022-09-18",
+      "source_locator": "lines 1-20",
+      "target_date": "2025-08-11",
+      "target_date_sort": "2025-08-11",
+      "target_locator": "guth-et-al-theta-phase-locking-nature-communications-2025-fulltext.xml (GK-A01)",
+      "target_quote": "Applying frequency-adaptive theta-phase estimation in a broad 1–10 Hz frequency range, we found that theta-phase locking was widespread in the human medial temporal lobe during memory encoding and retrieval.",
+      "target_url": "",
+      "title": "Theta-phase locking of single neurons during human spatial memory (Nature Communications 16:7402)",
+      "win_id": "GUTH-TH-SC-003"
+    },
+    {
+      "author_count": 6,
+      "authors_linked": [
+        {
+          "name": "Tim A. Guth",
+          "slug": "tim-a-guth"
+        },
+        {
+          "name": "Armin Brandt",
+          "slug": "armin-brandt"
+        },
+        {
+          "name": "Peter C. Reinacher",
+          "slug": "peter-c-reinacher"
+        },
+        {
+          "name": "Andreas Schulze-Bonhage",
+          "slug": "andreas-schulze-bonhage"
+        },
+        {
+          "name": "Joshua Jacobs",
+          "slug": "joshua-jacobs"
+        },
+        {
+          "name": "Lukas Kunz",
+          "slug": "lukas-kunz"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (phase, oscillation, wave) that map structurally onto the later publication's (2025-08-11) formulation (theta, phase) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "[GK-A02 in guth-kunz-jacobs-2025-ncomms (2025-08-11) x M22-PHASE-FIELD (2022-06-08)] Single neurons firing at consistent preferred theta phases across both encoding and memory retrieval phases; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic arrays and projected as synchronized ph",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2025-08-11",
+      "target_date_sort": "2025-08-11",
+      "target_locator": "guth-et-al-theta-phase-locking-nature-communications-2025-fulltext.xml (GK-A02)",
+      "target_quote": "Phase-locking strength was similar across successful and unsuccessful memory trials, with most neurons spiking at similar theta phases during encoding and retrieval.",
+      "target_url": "",
+      "title": "Theta-phase locking of single neurons during human spatial memory (Nature Communications 16:7402)",
+      "win_id": "GUTH-TH-SC-004"
+    },
+    {
+      "author_count": 6,
+      "authors_linked": [
+        {
+          "name": "Tim A. Guth",
+          "slug": "tim-a-guth"
+        },
+        {
+          "name": "Armin Brandt",
+          "slug": "armin-brandt"
+        },
+        {
+          "name": "Peter C. Reinacher",
+          "slug": "peter-c-reinacher"
+        },
+        {
+          "name": "Andreas Schulze-Bonhage",
+          "slug": "andreas-schulze-bonhage"
+        },
+        {
+          "name": "Joshua Jacobs",
+          "slug": "joshua-jacobs"
+        },
+        {
+          "name": "Lukas Kunz",
+          "slug": "lukas-kunz"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (phase, oscillation, wave) that map structurally onto the later publication's (2025-08-11) formulation (theta, frequency, phase) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer). Corroborated independently by a second structural bridge (Discrete Time-Frame Periodicity & Time-Crystal Symmetry Breaking).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "[GK-A01 in guth-kunz-jacobs-2025-ncomms (2025-08-11) x M22-PHASE-FIELD (2022-06-08)] Widespread human medial temporal lobe single-neuron spiking locked to broad-band adaptive theta phase during spatial memory encoding and retrieval; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2025-08-11",
+      "target_date_sort": "2025-08-11",
+      "target_locator": "guth-et-al-theta-phase-locking-nature-communications-2025-fulltext.xml (GK-A01)",
+      "target_quote": "Applying frequency-adaptive theta-phase estimation in a broad 1–10 Hz frequency range, we found that theta-phase locking was widespread in the human medial temporal lobe during memory encoding and retrieval.",
+      "target_url": "",
+      "title": "Theta-phase locking of single neurons during human spatial memory (Nature Communications 16:7402)",
+      "win_id": "GUTH-TH-SC-002"
+    },
+    {
+      "author_count": 6,
+      "authors_linked": [
+        {
+          "name": "Tim A. Guth",
+          "slug": "tim-a-guth"
+        },
+        {
+          "name": "Armin Brandt",
+          "slug": "armin-brandt"
+        },
+        {
+          "name": "Peter C. Reinacher",
+          "slug": "peter-c-reinacher"
+        },
+        {
+          "name": "Andreas Schulze-Bonhage",
+          "slug": "andreas-schulze-bonhage"
+        },
+        {
+          "name": "Joshua Jacobs",
+          "slug": "joshua-jacobs"
+        },
+        {
+          "name": "Lukas Kunz",
+          "slug": "lukas-kunz"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GK-A03 in guth-kunz-jacobs-2025-ncomms (2025-08-11) x M17-VOLUMETRIC (2017-04-11)] Cycle-by-cycle theta oscillatory state and aperiodic spectral slope gating single-neuron phase synchronization strength; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-space matrix with frequency-organ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2025-08-11",
+      "target_date_sort": "2025-08-11",
+      "target_locator": "guth-et-al-theta-phase-locking-nature-communications-2025-fulltext.xml (GK-A03)",
+      "target_quote": "Time-resolved spectral parameterization and cycle-by-cycle analysis demonstrated stronger theta-phase locking during steep aperiodic slopes and prominent theta oscillations.",
+      "target_url": "",
+      "title": "Theta-phase locking of single neurons during human spatial memory (Nature Communications 16:7402)",
+      "win_id": "GUTH-TH-SC-006"
+    },
+    {
+      "author_count": 6,
+      "authors_linked": [
+        {
+          "name": "Tim A. Guth",
+          "slug": "tim-a-guth"
+        },
+        {
+          "name": "Armin Brandt",
+          "slug": "armin-brandt"
+        },
+        {
+          "name": "Peter C. Reinacher",
+          "slug": "peter-c-reinacher"
+        },
+        {
+          "name": "Andreas Schulze-Bonhage",
+          "slug": "andreas-schulze-bonhage"
+        },
+        {
+          "name": "Joshua Jacobs",
+          "slug": "joshua-jacobs"
+        },
+        {
+          "name": "Lukas Kunz",
+          "slug": "lukas-kunz"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GK-A01 in guth-kunz-jacobs-2025-ncomms (2025-08-11) x M17-VOLUMETRIC (2017-04-11)] Widespread human medial temporal lobe single-neuron spiking locked to broad-band adaptive theta phase during spatial memory encoding and retrieval; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-space ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2025-08-11",
+      "target_date_sort": "2025-08-11",
+      "target_locator": "guth-et-al-theta-phase-locking-nature-communications-2025-fulltext.xml (GK-A01)",
+      "target_quote": "Applying frequency-adaptive theta-phase estimation in a broad 1–10 Hz frequency range, we found that theta-phase locking was widespread in the human medial temporal lobe during memory encoding and retrieval.",
+      "target_url": "",
+      "title": "Theta-phase locking of single neurons during human spatial memory (Nature Communications 16:7402)",
+      "win_id": "GUTH-TH-SC-001"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 7 certified dated prior-art comparisons with Guth Kunz Jacobs Theta Phase Locking across 42 listed-author attributions (7 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 2 strong, 0 medium-partial, 5 weak-partial, 0 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2017-04-11",
+    "earliest_micah_year": 2017,
+    "earliest_target_date": "2025-08-11",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2022-09-18",
+    "latest_target_date": "2025-08-11",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 7,
+    "grade_breakdown": {
+      "strong": 2,
+      "weak-partial": 5
+    },
+    "lens4_event_ids": [
+      "lsm-guth-kunz-jacobs-theta-20261122"
+    ],
+    "listed_author_edges": 42,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 7
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 7
+  }
+}

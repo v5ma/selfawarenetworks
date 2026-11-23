@@ -1,0 +1,276 @@
+{
+  "authors_linked": [
+    {
+      "name": "Singh D",
+      "slug": "singh-d"
+    },
+    {
+      "name": "Schapiro AC",
+      "slug": "schapiro-ac"
+    }
+  ],
+  "display_code": "allen-lead-09-2026",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience; consciousness",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-03-01 and 2025-06-01, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Allen Lead #9: Episodic memory encodes by recombining existing cortical knowledge, not storin (2026-07-01 to 2026-07-01) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Allen Lead #9: Episodic memory encodes by recombining existing cortical knowledge, not storin",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 8 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-allen-lead-09-2026",
+  "program_name": "Allen Lead #9: Episodic memory encodes by recombining existing cortical knowledge, not storin",
+  "rows": [
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Singh D",
+          "slug": "singh-d"
+        },
+        {
+          "name": "Schapiro AC",
+          "slug": "schapiro-ac"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Confirmed at medium-partial under Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery) (Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding; anchors: episodic <-> episodic). The single structural bridge validates the existing medium-partial tier without reaching the multi-bridge density required for a further jump to strong.",
+        "ito_alignment": "Input: multi-feature sensory or episodic inputs spanning high-dimensional representational channels -> Transform: associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces -> Output: robust, compositional, noise-tolerant pattern integration and flexible memory recall",
+        "lens_basis": "Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery)",
+        "primary_bridge_id": "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "primary_bridge_name": "Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "confirmed-medium-partial-held",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "The saved SAN-Cycle proposal already specifies a persistent tonic canvas, receiver-relative differentials, reversible adapters, episodic memory, multiple consolidation timescales, matched candidate evaluation, and a residue-and-reset test. Its governing questions already include whether receiver-relative information adds to loss, novelty, gradient magnitude, or surprise. This proposal should therefore be developed as a focused mechanism paper within that e",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "score": 18.81,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2025-06-01 formulation shares conceptual/operational mechanisms (episodic, learning, memory) with Allen Lead #9: Episodic memory encodes by recombining existing cortical knowledge, not storin (2026-07-01; europepmc-official-abstract); graded medium-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "medium-partial",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-06-01",
+      "source_date_sort": "2025-06-01",
+      "source_locator": "Blumberg Public Paper: SAN-Selective-Dissipation-Continual-Learning-Concept.txt [para 6]",
+      "target_date": "2026-07-01",
+      "target_date_sort": "2026-07-01",
+      "target_locator": "doi:10.1098/rstb.2025.0243 | Evidence for complementary learning systems within the hippocampus.",
+      "target_quote": "These functions impose conflicting demands: episodic memory requires experiences to be separated, whereas structure learning requires integrating across them.",
+      "target_url": "https://doi.org/10.1098/rstb.2025.0243",
+      "title": "episodic, learning, memory — Evidence for complementary learning systems within the hippocampus.",
+      "win_id": "G2-ALLEN-LEAD-09-20-D01-A04"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Singh D",
+          "slug": "singh-d"
+        },
+        {
+          "name": "Schapiro AC",
+          "slug": "schapiro-ac"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "linking subcortical regions to the cortex, ensuring that top-down processes shape how incoming information is experienced. Research shows that synchro- nized theta or gamma bursts can enhance information exchange between the hippocampus and neocortex, while modulation in the central lateral thalamus facilitates learning and adaptive behavior. During active tasks, gamma activity in the default mode network is often muted by alpha and beta waves that inhibit",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 24.38,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (hippocampus, learning, prediction) with Allen Lead #9: Episodic memory encodes by recombining existing cortical knowledge, not storin (2026-07-01; europepmc-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 40]",
+      "target_date": "2026-07-01",
+      "target_date_sort": "2026-07-01",
+      "target_locator": "doi:10.1098/rstb.2025.0243 | Evidence for complementary learning systems within the hippocampus.",
+      "target_quote": "Decades of research have established the hippocampus as central to episodic memory, but growing evidence suggests that it also contributes to structure learning, rapidly extracting regularities across experiences in support of prediction and generalization.",
+      "target_url": "https://doi.org/10.1098/rstb.2025.0243",
+      "title": "hippocampus, learning, prediction — Evidence for complementary learning systems within the hippocampus.",
+      "win_id": "G2-ALLEN-LEAD-09-20-D01-A02"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Singh D",
+          "slug": "singh-d"
+        },
+        {
+          "name": "Schapiro AC",
+          "slug": "schapiro-ac"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Hofstadter, D. R. (1979). G¨ odel, Escher, Bach: An Eternal Golden Braid. Basic Books. • Hofstadter, D. R. (2007). I Am a Strange Loop. Basic Books. Neuroscience and Free Energy Principle • Adams, R. A., Shipp, S., & Friston, K. J. (2013). • Predictions not commands: Active inference in the motor system. Brain Structure and Function, 218(3), 611–643. • Seth, A. K., & Friston, K. J. (2016). Active interoceptive inference and the emotional brain. Philosoph",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 27.01,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (inference, motor, predictions, structure) with Allen Lead #9: Episodic memory encodes by recombining existing cortical knowledge, not storin (2026-07-01; europepmc-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 53]",
+      "target_date": "2026-07-01",
+      "target_date_sort": "2026-07-01",
+      "target_locator": "doi:10.1098/rstb.2025.0243 | Evidence for complementary learning systems within the hippocampus.",
+      "target_quote": "This review evaluates how C-HORSE aligns with empirical findings on hippocampal involvement in structure learning. We review evidence from domains that benefit from quickly detecting regularities, including statistical learning, motor sequence learning, inference and category learning, surveying the role of the hippocampus in each and assessing evidence for functional dissociations across pathways in relation to model predictions.",
+      "target_url": "https://doi.org/10.1098/rstb.2025.0243",
+      "title": "inference, motor, predictions, structure — Evidence for complementary learning systems within the hippocampus.",
+      "win_id": "G2-ALLEN-LEAD-09-20-D01-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Singh D",
+          "slug": "singh-d"
+        },
+        {
+          "name": "Schapiro AC",
+          "slug": "schapiro-ac"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "7.6 Oscillatory Encoding and Predictive Models In both NAPOT and Foster and Scheinost’s models, predictive coding plays a crucial role in how the brain integrates perception and memory. In SAN, oscillatory patterns are responsible for generating predictions about incoming sensory information based on stored memories and past experiences. These predictions are then compared to new sensory inputs, allowing the brain to adjust its internal model in real-time.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 19.42,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (memory, perception, predictions) with Allen Lead #9: Episodic memory encodes by recombining existing cortical knowledge, not storin (2026-07-01; europepmc-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 5 (05san.md) [para 126]",
+      "target_date": "2026-07-01",
+      "target_date_sort": "2026-07-01",
+      "target_locator": "doi:10.1098/rstb.2025.0243 | Evidence for complementary learning systems within the hippocampus.",
+      "target_quote": "This article is part of the theme issue 'The role of hippocampal predictions in cognition: bridging perception and memory'.",
+      "target_url": "https://doi.org/10.1098/rstb.2025.0243",
+      "title": "memory, perception, predictions — Evidence for complementary learning systems within the hippocampus.",
+      "win_id": "G2-ALLEN-LEAD-09-20-D01-A03"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Allen Lead #9: Episodic memory encodes by recombining existing cortical knowledge, not storin across 8 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 3 strong, 1 medium-partial, 0 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-03-01",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2026-07-01",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2025-06-01",
+    "latest_target_date": "2026-07-01",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 3
+    },
+    "lens4_event_ids": [
+      "lsm-g2-allen-lead-09-2026-20261122"
+    ],
+    "listed_author_edges": 8,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 3
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

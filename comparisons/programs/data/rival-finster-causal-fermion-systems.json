@@ -1,0 +1,1392 @@
+{
+  "authors_linked": [
+    {
+      "name": "Felix Finster",
+      "slug": "felix-finster"
+    },
+    {
+      "name": "Andreas Grotz",
+      "slug": "andreas-grotz"
+    },
+    {
+      "name": "Daniela Schiefeneder",
+      "slug": "daniela-schiefeneder"
+    },
+    {
+      "name": "Johannes Kleiner",
+      "slug": "johannes-kleiner"
+    },
+    {
+      "name": "Claudio F. Paganini",
+      "slug": "claudio-f-paganini"
+    },
+    {
+      "name": "Wende, Marcel",
+      "slug": "wende-marcel"
+    }
+  ],
+  "display_code": "finster-causal-fermion-systems",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2010-01-01 and 2025-01-21, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 25 documented mechanisms appearing in Finster Causal Fermion Systems (2011-02-13 to 2025-09-02) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Finster Causal Fermion Systems",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 25 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 11 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 25 dated comparisons and 51 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-finster-causal-fermion-systems",
+  "program_name": "Finster Causal Fermion Systems",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Scott Cave Here this is the paragraph from my article, just paste it into ChatGPT and ask every question about it you understand why this means there is no observer effect at all anywhere. \"Delayed-choice and quantum-eraser experiments show that a photon (or any quantum particle) remains in a superposition of all possible paths until a final, definitive measurement determines its behavior. Even when a measurement device is added or removed late in the setu",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 35.06,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2025-01-21 formulation shares conceptual/operational mechanisms (interference, quantum) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-01-21",
+      "source_date_sort": "2025-01-21",
+      "source_locator": "SAN Priority Index 2010-2026",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "Setup: Ring-cavity with lock-in modulation, laser interferometry with quantum memory systems ( I(t) ≈ 1010 bit/m3). Expected outcome: Shift in interference patterns.",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "interference, quantum — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "3 From Path Integrals to Free Energy: Wave-Dissipation Universality 3.1 Linking Feynman’s Path Integral to Micah’s New Law of Ther- modynamics Richard Feynman’s path integral formulation of quantum mechanics posits that a particle (or field) takes all possible paths through spacetime, each contributing an amplitude weighted by a phase factor e iS/ℏ, where S is the classical action (Feynman 1965). Crucially, interference among these paths selects the most s",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.09,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (energy, field, quantum, thermodynamics) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 26]",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "This Trinity drives dynamic emergence: Ψ (Geist) → [Wille] → Φ (Form) → {Exp, Grav, Inf} → perpetual autopoietic cycles. The semantic perpetuum mobile is a cyclical autopoietic process ensuring conservation of semantic energy E = ∫ Φ² d³x, with dE/dt = 0, analogous to information conservation in quantum systems (e.g., No-Cloning Theorem), without violating thermodynamics as it pertains to abstract field quantities.",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "energy, field, quantum, thermodynamics — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A12"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Neural Network Field Models. In machine learning, analyzing finite-size expansions that break naive “infinite network” approximations can reveal how correlated parameter updates mirror ϕ4-like interactions. This might unify computational learning with wave- dissipation logic at scale. Ultimately, bridging these frameworks—Feynman’s path integral, Micah’s New Law of Thermal Dynamics, the Free Energy Principle, Neural Network Field Theory, and Quantum SuperT",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.76,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (quantum, scale) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 29]",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "Moreover, the quantum state un dergoes a dynamical collapse compatible with the Born rule. The eﬀective model h as similarities with the continuous spontaneous localization model, but diﬀers fro m it by a conservation law for the probability integral as well as a non-locality in tim e on a microscopic length scale ℓmin.",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "quantum, scale — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A08"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Hierarchical-Scale Architecture) + Lens 3 (Scale-Invariant Cross-Domain Isomorphism) via the Multi-Scale Coarse-Graining, Semantic/Spatial Densification & Emergent Causality bridge. Micah Blumberg's dated passage (2024-01-15) expresses active mechanism anchors (density, configuration) that map structurally onto the later publication's (2024-05-29) formulation (collective) through the shared operation: Input (interacting microscopic components distributed across local structural neighborhoods) -> Transform (hierarchical constraint coupling, coarse-graining, and information-maximizing organization across scales) -> Output (emergent macro-level causal structure and adaptive higher-order system dynamics).",
+        "ito_alignment": "Input: interacting microscopic components distributed across local structural neighborhoods -> Transform: hierarchical constraint coupling, coarse-graining, and information-maximizing organization across scales -> Output: emergent macro-level causal structure and adaptive higher-order system dynamics",
+        "lens_basis": "Lens 2 (Hierarchical-Scale Architecture) + Lens 3 (Scale-Invariant Cross-Domain Isomorphism)",
+        "primary_bridge_id": "BT-14-MULTI-SCALE-EMERGENT-COMPLEXITY-COARSENING",
+        "primary_bridge_name": "Multi-Scale Coarse-Graining, Semantic/Spatial Densification & Emergent Causality",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "In Contrast, the Wave-Dissipation View: • Resides Primarily in Condensed Matter Physics. The emphasis is on the co- herent ensemble of electrons in a superconductor, without invoking gravitational time- density effects. • Directly Matches Observed Josephson Phenomena. The standard formula I = I0 sin(∆φ) emerges naturally from phase coherence across the junction, now described in the language of wave mismatch and reconfiguration rather than barrier-hopping.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.22,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (quantum, wave) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 39]",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "Instead, t he collapse is a collective eﬀect of the multitude of bosonic ﬁelds which all couple to the wave functions. We remark that, as worked out in [32], this multitude of bosonic ﬁelds c an also be described in the standard formalism of quantum ﬁeld theory by a second-qu antized electromag- netic ﬁeld.",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "quantum, wave — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "and light. In so doing, Dark Time aims to unify phenomena traditionally attributed to dark matter and dark energy under a single mechanism grounded in local and large-scale variations in time density. The success of this proposal will ultimately hinge on how accurately it can match the full spectrum of observational data, from precise rotation curve measurements to the distribution of galaxies on the largest observable scales. 8.8 Galactic Filaments and La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.8,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, density, energy, matter, scale) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 67]",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "5.2 Dark Matter and Dark Energy (Chapter 10, [2]) From [2] (p. 6), dark matter and dark energy emerge as: ρDM ∼ a \u0012 − ∇2Φ 4πG \u0013 (explicit energy density, with a as scale factor [energy/length 2]), Λ ∼ a \u0012 Eexp 8πG \u0013.",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "dark, density, energy, matter — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (gravity, dark time) that map structurally onto the later publication's (2025-09-02) formulation (emergent, causal) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Dark Time opens new avenues for experimental tests and theoretical explorations, positioning itself as a distinct and innovative approach within the field of emergent gravity theories. 8.12 Emergent/Entropic Gravity Both Super Dark Time and Emergent/Entropic Gravity theories share a common theme: gravity is not treated as a fundamental force but rather as an emergent phenomenon arising from more elementary processes. In typical Emergent/Entropic Gravity mo",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.93,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (emergent, field) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 71]",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "The framework fundamentally reverses traditional causality in physics: rather than treating consciousness as an emergent epiphenomenon arising from material processes, it posits consciousness as the primordial field from which semantic order (Φ) and physical laws emerge.",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "emergent, field — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "presents integrated data analysis strategies that cross-validate results across independent experimental setups and simulation benchmarks. The experimental protocols and simulation studies presented herein underscore the potential for a paradigm shift in our understanding of the interplay between time, gravity, and quantum mechanics. These approaches may lead to new insights into dark sector phenomena, including dark matter, dark energy, and the Hubble ten",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 27.22,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, energy, matter) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 96]",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "7 5 Empirical Validation 7 5.1 Experimental Protocols (Chapter 27, [1]). 7 5.2 Dark Matter and Dark Energy (Chapter 10, [2]).",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "dark, energy, matter — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "3.3 How to Detect ρt in Practice Observables and Potential Tests Because ρt is said to shift clock rates and energy levels, one could infer it by measuring subtle anomalies not explained by conventional physics: • Clock Comparisons: High-precision clocks in different gravitational potentials might deviate from standard GR corrections if extra ρt-couplings are present. • Gravitational Lensing: If lensing arcs differ slightly from dark-matter-based models, t",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 29.05,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, matter) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 31]",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "Tests (with dimension table integrated): • Dark Matter: ρDM ∝ Φ−1 in galaxy centers, predicting 10–20% deviations from Newtonian dynam- ics. Measurable via ALMA (rotational curves), HST/JWST (lensing), and XENONnT (direct de- tection).",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "dark, matter — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (gradient, gradients, ρt, constraint) that map structurally onto the later publication's (2025-09-02) formulation (observable) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior). Corroborated independently by a second structural bridge (Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "A.2 Hawking Radiation and Black Hole Thermodynamics Dark Time implies that time-density gradients near the horizon could modify Hawking temperature and evaporation rates. Particle–antiparticle pairs forming at the horizon might behave differently when exposed to extremely high ρt values, slightly altering the black hole’s radiation spectrum. Such modifications could become observable if future data or theoretical constraints reveal minute but systematic de",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 31.48,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, dark) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 129]",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "Dark Energy: Λ ~ E_exp / (8π G), with w = -1 + δ (δ ~ 1/Φ), falsifiable via SN-Ia data. Black Holes: Φ-resonances modulating Hawking temperature T_H ~ ℏ c³ / (8π G M k_B) by D_f factor, observable in GW spectra (LIGO/Virgo/LISA) or EHT accretion.",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "black, dark — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ρt) that map structurally onto the later publication's (2025-09-02) formulation (lagrangian, effective) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Lorentz Invariance: In local inertial frames, ρt should reduce to a constant (or slowly varying) background if no mass is present, preserving local Lorentz symmetry. Ultimately, the Euler–Lagrange equations derived from this action will yield: 1. Modified Einstein field equations (with ρt acting as an additional source). 2. A wave or PDE-like equation for ρt itself, consistent with the discussion in §3.7. 3. Corrections to matter-field equations (as in t",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 33.01,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (field, lagrangian) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 110]",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "Projections map to phenomenological channels: Gravitation: Effective field ϕ_g = Π_g(Φ), Lagrangian L = ½ (∂_μ ϕ_g)² - (m_g²/2) ϕ_g² - (λ_g/4) ϕ_g^4 - ∫ ϕ_g K_g ϕ_g dx' - G ρ (ϕ_g²/2), yielding Euler-Lagrange equations.",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "field, lagrangian — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "renormalizable effective theory within its domain of validity. This approach allows us to make concrete predictions at accessible energy scales while leaving open the possibility that additional physics may emerge at higher energies. 6.5 Summary and Outlook In summary, the renormalization properties of the Super Dark Time framework are built into its formulation as an effective field theory. By incorporating the time-density field ρt in",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 33.02,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, energy, matter, quantum) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 9]",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "Its nonlocal SPDE, fractal topology ( Df ≈ 2.7), and autopoietic cycles ensure mathematical rigor and empirical testability. Applications span particle physics to societal dynamics, with falsifiable predictions for dark matter, dark energy, and quantum phenomena.",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "dark, energy, matter, quantum — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "corresponding time-density variations. These signals will be extracted using advanced image processing and statistical analysis techniques similar to those employed in our clock and interferometry data analyses. 11.8.2 Data Integration and Cross-Validation Across Modalities A robust test of the Super Dark Time framework requires integrating results from multiple experimental modalities, including atomic clock comparisons, cold-atom interferometry, and grav",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 34.85,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (bayesian, gravitational, inference) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 95]",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "An inference pipeline includes solving the SPDE via Fourier/IMEX schemes, projections, Bayesian fitting (HMC/NUTS), and cross-validation against observables like lensing, gravitational waves (GW), CMB/BAO/SN.",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "bayesian, gravitational, inference — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A02"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "1 − ρt ρmax \u0001 in the source term is simply another way to ensure this cap. 13.2 Conclusion: A Self-Limiting Mechanism in ρt This type of nonlinear PDE or effective potential encodes the insight that: “Beyond a certain point, one cannot compress additional wave-phase increments into a smaller region; thus ρt must saturate or cause a meltdown.” It mathematically captures how collective wave-phase density depends on having multiple (distinct) quanta, not an i",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.25,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (potential, wave) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 118]",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "For a purely spatial nonlocal potential the additional term s (2.16) and (2.17) vanish. Therefore, the commutator inner product reduces to the usua l scalar product on the wave functions at time t, i.e.",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "potential, wave — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A11"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from medium-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (spacetime, dark time, curvature) that map structurally onto the later publication's (2024-05-29) formulation (spacetime, causal) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics). Corroborated independently by a second structural bridge (Multi-Scale Coarse-Graining, Semantic/Spatial Densification & Emergent Causality).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "upgraded-medium-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "uncomfortable with the term “time-densiton,” it can simply be omitted in favor of speaking about wave modes or excitations in the time-density field that mimic or replace some effects commonly attributed to spacetime curvature. This captures the emergent, collective nature of these excitations without implying the existence of a particle that behaves like a conventional gauge boson or fundamental fermion. 16 Super Dark Time and Ricci Curvature Super Dark T",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "score": 19.54,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (fermion, spacetime, wave) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded medium-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "medium-partial",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 121]",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "For causal fermion systems des cribing Minkowski space, the physical wave functions (2.3) can be represented by usua l spinorial wave functions in spacetime.",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "fermion, spacetime, wave — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A09"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "6 Renormalization and Effective Field Theory Consid- erations A common criticism of new approaches to quantum gravity is that they often lack a framework for managing divergences or preserving symmetry at all scales. In the Super Dark Time framework, we address these issues by treating the time-density field ρt as a dynamical, Lorentz- and diffeomorphism-invariant scalar field that couples to both matter and gravity. Incorporating ρt within the standard fo",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.27,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (coupling, dynamical) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 44]",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "Incorporating the Nonlinear Coupling. As already pointed out, the EL equations (2.4) and the dynamical wave equation (2.6) are no nlinear.",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "coupling, dynamical — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A06"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ψ, ρt, hamiltonian, momentum) that map structurally onto the later publication's (2024-05-29) formulation (gauge, potential) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(11–14) ADM Formalism Now Understood As: Hamiltonian and momentum constraints gain ρt-based modifications if we embed ρt in the spatial-slice decomposition. This alters lapse or shift in the (3 + 1) approach. (15–16) Klein–Gordon Equation Now Understood As: A spin-0 field with an effective mass shift ∆ m2(ρt). Kinetic + ρt-potential couplings come from the single action. (17–18) Dirac Equation Now Understood As: Directly emerges from − f1(ρt) ¯ψψ in the La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 21.7,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gauge, potential) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 39]",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "In order to allow for homogeneous solutions of the form (2.19 ), we choose the cor- responding action for each potential Aa as the Maxwell action in the Lorenz gauge, i.e.",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "gauge, potential — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A05"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ψ, ρt, hamiltonian, momentum) that map structurally onto the later publication's (2024-05-29) formulation (scalar, hamiltonian, potential) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(11–14) ADM Formalism Now Understood As: Hamiltonian and momentum constraints gain ρt-based modifications if we embed ρt in the spatial-slice decomposition. This alters lapse or shift in the (3 + 1) approach. (15–16) Klein–Gordon Equation Now Understood As: A spin-0 field with an effective mass shift ∆ m2(ρt). Kinetic + ρt-potential couplings come from the single action. (17–18) Dirac Equation Now Understood As: Directly emerges from − f1(ρt) ¯ψψ in the La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 24.73,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (hamiltonian, potential) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 39]",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "In the one-particle picture, we consider a Dirac equation involving a potential which is nonlocal both in spa ce and time (Section 4.1). After writing the dynamics in the Hamiltonian form (Section 4.2) and transforming to the standard L2-scalar product in space (Section 4.3), we describe the ﬁeld s stochas- tically (Section 4.4) to obtain an eﬀective dynamics of Kossa kowski-Lindblad form (Section 4.5).",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "hamiltonian, potential — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A03"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (gauge) that map structurally onto the later publication's (2024-05-29) formulation (scalar, effective) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior). Corroborated independently by a second structural bridge (Multi-Scale Coarse-Graining, Semantic/Spatial Densification & Emergent Causality).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "uncomfortable with the term “time-densiton,” it can simply be omitted in favor of speaking about wave modes or excitations in the time-density field that mimic or replace some effects commonly attributed to spacetime curvature. This captures the emergent, collective nature of these excitations without implying the existence of a particle that behaves like a conventional gauge boson or fundamental fermion. 16 Super Dark Time and Ricci Curvature Super Dark T",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 27.73,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (fermion, wave) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 121]",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "At this stage, the subtle question arises which composite ex pressions are physically meaningful. Here we must make use of the fact that the scalar p roduct which is conserved in time and gives rise to the probabilistic interp retation of the wave function is not the standard L2(R3)-scalar product, but instead the so-called commutator inner CAUSAL FERMION SYSTEMS AS AN EFFECTIVE COLLAPSE THEORY 5 product ⟨.",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "fermion, wave — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Quantum Gradient Time Crystal Dilation, originally named Quantum Gradient Time Dilation, is connected to MOND Modified Newtonian Dynamics, the Tully-Fisher Relation, Galaxy Rotation Lines, Flat Rotation Speed, Mass to Light ratios, and Hubble Tension (which is",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.34,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-11-28 formulation shares conceptual/operational mechanisms (dark, dynamics, matter) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-11-28",
+      "source_date_sort": "2022-11-28",
+      "source_locator": "a0322z.md lines 1-7, 38, 52-56, 68-89; exact flat-rotation and superfluid-space atoms verified in the 2022-11-28 commit",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "Tests (with dimension table integrated): – Dark Matter: ρDM ∝ Φ−1 in galaxy centers, predicting 10–20% deviations from Newtonian dynamics. Measurable via ALMA (rotational curves), HST/JWST (lensing), and XENONnT (direct detection).",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "dark, dynamics, matter — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-06-16) expresses active mechanism anchors (spacetime, oscillator, oscillators, decoherence) that map structurally onto the later publication's (2025-09-02) formulation (einstein) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "the fermionic condensates and bose-einstein condensates represent the opposite, the coherence of spacetime oscillators, the convergence of space, attraction, the reduction of space amplitude (density),",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 26.98,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-16 formulation shares conceptual/operational mechanisms (density, einstein) with Finster Causal Fermion Systems (2025-09-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-16",
+      "source_date_sort": "2022-06-16",
+      "source_locator": "a0033z.md, condensate coherence-decoherence passage",
+      "target_date": "2025-09-02",
+      "target_date_sort": "2025-09-02",
+      "target_locator": "zenodo:17039038 | Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with Consciousness as the Onto",
+      "target_quote": "Jede Pro- tokoll wird mit Nulltests, Kalibrierung und Fehlerbudget erweitert, um Reproduzierbarkeit zu gew¨ ahrleisten: 1. Light Speed Variation: Measure ∆ v/v ∝ I(t)/I0 in high-information-density environments (e.g., Bose-Einstein condensates), as change in phase/group velocity in informational media (no violation of vacuum c).",
+      "target_url": "https://zenodo.org/records/17039038",
+      "title": "density, einstein — Balance Field Equation (BFG) and Perpetual Process Model (PPM4): A Metasemantic Framework with ",
+      "win_id": "G1-FINSTER-CAUSAL-F-D03-A09"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "4. Freeman, W.J. & Vitiello, G. (2008). Dissipation and spontaneous symmetry breaking in brain dynamics. Journal of Physics A: Math. Theor., 41(30), 304042. -- Presents a dissipative quantum model of brain activity, arguing that the cortex behaves like an open thermodynamic system. It uses the language of symmetry breaking to explain how collective neural oscillations settle into coherent states (attractors) by dispersing phase differences, linking neural",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 18.87,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (dynamics, quantum) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/physics framewo",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 66]",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "Introduction It is one of the most outstanding open problems of contempora ry physics to reconcile the linear dynamics of quantum theory with the reduction of t he state vector in a mea- surement process.",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "dynamics, quantum — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A12"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Not a metaphor—SAN instantiates the same causal loop, regardless of substrate. Consciousness tracks structure, not matter. SAN doesn’t just mimic the brain’s look; it recreates its causal loop: spike-timing → plastic rewrite → multi-scale phase lock → new timing. If simulated loops obey that dynamic, the same first-person coherence will be rendered computationally, this kind of simulation is not a zombie imitation, it's digital sentience.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 20.16,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (causal, scale, structure) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/physics ",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 13 (13san.md) [para 85]",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "Causal fermion systems allow for the description of general ized “quantum” spacetimes, which macroscopically look like Minkowski space, but on a mi croscopic length scale ε (which can be identiﬁed with the Planck scale) may have a diﬀer ent, possibly discrete structure.",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "causal, scale, structure — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A07"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2022-01-01) expresses active mechanism anchors (oscillation, wave) that map structurally onto the later publication's (2024-05-29) formulation (propagation, coupling, wave) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "(LTD, array, flavin, ATP) (the idea is that the electromagnetic wave created by the action potential is stimulating the mitochondria to fire. It turns out that mitochondria are sensitive to electromagnetic waves of a certain type.) flavin # ATP affects the brains reward system via weakly interacting oscillatory magnetism in the brain a ~> b -> c flavins oxidation cell growth death ltp ltd spine growth decay new memory tied to = reward system endorphins are",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 27.74,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-01-01 formulation shares conceptual/operational mechanisms (electromagnetic, wave, waves) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/phys",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-01-01",
+      "source_date_sort": "2022-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/86ca59559908f6cad3f9f3314f3d651c3e0c6ea1/a0101z.md#L3",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "In order to describe an interacting situation, one must insert potentials into the Dirac equation. It turns out that the EL equations do not allow only for homogeneous classical ﬁelds (like plane electromagnetic waves), but in stead for a plethora of ﬁelds coupling to diﬀerent wave packets propagating in diﬀerent dir ections.",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "electromagnetic, wave, waves — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A01"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Johannes Kleiner",
+          "slug": "johannes-kleiner"
+        },
+        {
+          "name": "Claudio F. Paganini",
+          "slug": "claudio-f-paganini"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "I think consciousness (binding of sensory and abstract data) is the building, decoding, and reconstruction of multi-dimensional waves like the gabor fourier wave transforms in non-linear loops The dual processing of building & sensing waves (fourier wave transforms for example) gives rise to interdimensional awareness on the canvas of holonomic dendritic ...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 19.3,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2013-11-05 formulation shares conceptual/operational mechanisms (wave, waves) with Finster Causal Fermion Systems (2024-05-29; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/physics frameworks; p",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2013-11-05",
+      "source_date_sort": "2013-11-05",
+      "source_locator": "Certified SAN/SIT witness",
+      "target_date": "2024-05-29",
+      "target_date_sort": "2024-05-29",
+      "target_locator": "arXiv:2405.19254 | Causal Fermion Systems as an Effective Collapse Theory",
+      "target_quote": "Stochastic ﬁelds coupling to the wave function. waves), but that it gives rise to a multitude of additional ﬁe lds.",
+      "target_url": "https://arxiv.org/abs/2405.19254",
+      "title": "wave, waves — Causal Fermion Systems as an Effective Collapse Theory",
+      "win_id": "G1-FINSTER-CAUSAL-F-D02-A10"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Felix Finster",
+          "slug": "felix-finster"
+        },
+        {
+          "name": "Andreas Grotz",
+          "slug": "andreas-grotz"
+        },
+        {
+          "name": "Daniela Schiefeneder",
+          "slug": "daniela-schiefeneder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism) via the Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture bridge. Micah Blumberg's dated passage (2010-01-01) expresses active mechanism anchors (recurrent) that map structurally onto the later publication's (2011-02-13) formulation (context) through the shared operation: Input (ordered or multi-modal representational tokens with relational/positional context) -> Transform (parallel relational weighting and context-conditioned attention routing across representations) -> Output (contextualized latent representation supporting long-range sequence extrapolation and inference). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: ordered or multi-modal representational tokens with relational/positional context -> Transform: parallel relational weighting and context-conditioned attention routing across representations -> Output: contextualized latent representation supporting long-range sequence extrapolation and inference",
+        "lens_basis": "Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism)",
+        "primary_bridge_id": "BT-12-SEQUENCE-ATTENTION-CONTEXT-COMPOSITION",
+        "primary_bridge_name": "Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "eaning, feeling, and candidate action -> goal representations, inhibition, and selection among possible routes -> action, social exchange, or machine-mediated return -> revision of the next neural and self-related state -> recurrent sensory return permits the loop to represent and revise itself -> learned structural change improves spatial-temporal multimodal coordination -> Hebbian oscillatory pa",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 10.21,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2010-01-01 formulation shares conceptual/operational mechanisms (representation, representations) with Finster Causal Fermion Systems (2011-02-13; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/p",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2010-01-01",
+      "source_date_sort": "2010-01-01",
+      "source_locator": "README.md char 6766..7166",
+      "target_date": "2011-02-13",
+      "target_date_sort": "2011-02-13",
+      "target_locator": "arXiv:1102.2585 | Causal Fermion Systems: A Quantum Space-Time Emerging from an Action Principle",
+      "target_quote": "Th e connection between the two representations is established in [11, Section 3] by con sidering the relation (1.21) in a matrix representation. In this context, F is referred to as the local correlation matrix atx.",
+      "target_url": "https://arxiv.org/abs/1102.2585",
+      "title": "representation, representations — Causal Fermion Systems: A Quantum Space-Time Emerging from an Action Principle",
+      "win_id": "G1-FINSTER-CAUSAL-F-D01-A01"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 25 certified dated prior-art comparisons with Finster Causal Fermion Systems across 51 listed-author attributions (25 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 11 strong, 6 medium-partial, 5 weak-partial, 3 weak-partial cross-domain, with 11 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2010-01-01",
+    "earliest_micah_year": 2010,
+    "earliest_target_date": "2011-02-13",
+    "earliest_target_year": 2011,
+    "latest_micah_date": "2025-01-21",
+    "latest_target_date": "2025-09-02",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 11,
+    "governed_wins": 25,
+    "grade_breakdown": {
+      "medium-partial": 6,
+      "strong": 11,
+      "weak-partial": 5,
+      "weak-partial-cross-domain": 3
+    },
+    "lens4_event_ids": [
+      "lsm-g1-finster-causal-fermion-systems-20261122"
+    ],
+    "listed_author_edges": 51,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 6,
+      "weak-partial": 13,
+      "weak-partial-cross-domain": 5
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 25
+  }
+}

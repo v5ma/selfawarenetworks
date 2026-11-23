@@ -1,0 +1,2134 @@
+{
+  "authors_linked": [
+    {
+      "name": "Stephen Wolfram",
+      "slug": "stephen-wolfram"
+    }
+  ],
+  "display_code": "wolfram-computational-universe",
+  "domain_group": "hybrid",
+  "domains": "consciousness; neuroscience; physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2011-08-24 Grade-B public chronology and 2022-07-26 Grade-A immutable Git chronology, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 44 documented mechanisms appearing in Wolfram Computational Universe (2020-04-15 to 2026-02-04) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Wolfram Computational Universe",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 40 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 4 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 44 dated comparisons and 44 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-wolfram-computational-universe",
+  "program_name": "Wolfram Computational Universe",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-10-08-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong-partial-document-relative-candidate",
+      "grade_bucket": "strong",
+      "micah_quote": "The relative increase in the rate (frequency or density) of mass creates the gravitational effect, because it warps space like a time crystal, in one particular direction (towards the center of mass)",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "strong-partial-document-relative-candidate",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-07-26 Grade-A immutable Git chronology",
+      "source_date_sort": "2022-07-26",
+      "source_locator": "",
+      "target_date": "2024-10-08",
+      "target_date_sort": "2024-10-08",
+      "target_locator": "SRC-T05-WOLFRAM-NATURE-OF-TIME-2024; unique paragraph: density of events in the hypergraph determines density of energy (and mass); hash 563A946168FF796829A3341DA59A90AAFAE7A205460A232B5A034D4F9CA15AA4",
+      "target_quote": "We talked about these different threads of history corresponding to different places in branchial space —and about how the laws of quantum mechanics are the direct analogs in branchial space (or branchtime) of the laws of classical mechanics (and gravity) in physical space (or spacetime).",
+      "target_url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
+      "title": "On the Nature of Time",
+      "win_id": "WCU-DOCWIN-2024-MASS-FREQUENCY-TIME"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-10-08-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong-partial-document-relative-candidate",
+      "grade_bucket": "strong",
+      "micah_quote": "so the densities of the ionic gradients could also be thought of in the sense of fermionic condensates,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "strong-partial-document-relative-candidate",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-16 Grade-A immutable Git chronology",
+      "source_date_sort": "2022-06-16",
+      "source_locator": "",
+      "target_date": "2024-10-08",
+      "target_date_sort": "2024-10-08",
+      "target_locator": "SRC-T05-WOLFRAM-NATURE-OF-TIME-2024; unique paragraph: energy-momentum (and thus gravity); greater activity; more rewritings; time to run faster; hash 563A946168FF796829A3341DA59A90AAFAE7A205460A232B5A034D4F9CA15AA4",
+      "target_quote": "The Wolfram Language had the completely unique mission of creating a full-scale computational language.",
+      "target_url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
+      "title": "On the Nature of Time",
+      "win_id": "WCU-DOCWIN-2024-TIME-DENSITY-GRAVITY"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-10-08-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "partial-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "This phase field is spacetime, its made up of quantum particles, phase changes in time and space",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "partial-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-16 Grade-A immutable Git chronology",
+      "source_date_sort": "2022-06-16",
+      "source_locator": "",
+      "target_date": "2024-10-08",
+      "target_date_sort": "2024-10-08",
+      "target_locator": "SRC-T05-WOLFRAM-NATURE-OF-TIME-2024; unique paragraph: density of events in the multiway graph; density of action; quantum phase; hash 563A946168FF796829A3341DA59A90AAFAE7A205460A232B5A034D4F9CA15AA4",
+      "target_quote": ") I’ve done in large part to bolster my intuition about branchial space and quantum mechanics.",
+      "target_url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
+      "title": "On the Nature of Time",
+      "win_id": "WCU-DOCWIN-2024-DENSITY-QUANTUM-PHASE"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-10-08-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-cross-domain-functional-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "This will mean that you will be among the first in the world to learn about advances in our work at the institute that will lead to the perception of life extension via an increase in",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-cross-domain-functional-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-10 Grade-A immutable Git chronology",
+      "source_date_sort": "2022-06-10",
+      "source_locator": "",
+      "target_date": "2024-10-08",
+      "target_date_sort": "2024-10-08",
+      "target_locator": "SRC-T05-WOLFRAM-NATURE-OF-TIME-2024; unique paragraphs: evolution defined by rewritings; greater activity leads to more rewritings and changes time rate; hash 563A946168FF796829A3341DA59A90AAFAE7A205460A232B5A034D4F9CA15AA4",
+      "target_quote": "The Wolfram Language had the completely unique mission of creating a full-scale computational language.",
+      "target_url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
+      "title": "On the Nature of Time",
+      "win_id": "WCU-DOCWIN-2024-COMPUTATION-DENSITY-TIME-RATE"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2026-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "I think of consciousness as something that arises from a set of memory-prediction-rendering arrays (that are firing off patterns in tempo-spatial sequences) but specifically the firing represents some extended interval of time and what I mean by this is when a video is playing you have one frame playing back on one screen at a time, but when a conscious entity does video playback it is like 100 simultaneously different videos playing ba",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "causal-interface-sequence-pass; equivalence-partial-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08 Grade-A immutable Git chronology",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "",
+      "target_date": "2026-02-04",
+      "target_date_sort": "2026-02-04",
+      "target_locator": "SRC-T07-WOLFRAM-RULIAD-METAPHYSICS-2026; hash e27133b43560ee957a1aecde2bfce3e1b9517f1d2f36f8191e116ac49bf86f2f",
+      "target_quote": "And in doing this we are in a sense always conflating many different possible inputs and possible outputs—which we assume we do in a computationally bounded way (e.g.",
+      "target_url": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
+      "title": "What Ultimately Is There? Metaphysics and the Ruliad",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2026-H-PARTIAL-NAPOT"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2025-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "I think of consciousness as something that arises from a set of memory-prediction-rendering arrays (that are firing off patterns in tempo-spatial sequences) but specifically the firing represents some extended interval of time and what I mean by this is when a video is playing you have one frame playing back on one screen at a time, but when a conscious entity does video playback it is like 100 simultaneously different videos playing ba",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "causal-interface-sequence-pass; equivalence-partial-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08 Grade-A immutable Git chronology",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "",
+      "target_date": "2025-05-21",
+      "target_date_sort": "2025-05-21",
+      "target_locator": "SRC-T06-WOLFRAM-BIGGER-BRAINS-2025; hash b454e3e32fa8bf3b3f1fcbd7b7c28fc983663d83d08551cf1781a017013d6e6a",
+      "target_quote": "",
+      "target_url": "https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/",
+      "title": "What If We Had Bigger Brains? Imagining Minds beyond Ours",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2025-H-PARTIAL-NAPOT"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "I think of consciousness as something that arises from a set of memory-prediction-rendering arrays (that are firing off patterns in tempo-spatial sequences) but specifically the firing represents some extended interval of time and what I mean by this is when a video is playing you have one frame playing back on one screen at a time, but when a conscious entity does video playback it is like 100 simultaneously different videos playing ba",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "causal-interface-sequence-pass; equivalence-partial-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08 Grade-A immutable Git chronology",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "",
+      "target_date": "2024-10-08",
+      "target_date_sort": "2024-10-08",
+      "target_locator": "SRC-T05-WOLFRAM-NATURE-OF-TIME-2024; hash 563a946168ff796829a3341da59a90aafae7a205460a232b5a034d4f9ca15aa4",
+      "target_quote": "Two things seemed to be critical: that as observers we are computationally bounded, and that (somewhat relatedly) we believe we are persistent in time (i.e.",
+      "target_url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
+      "title": "On the Nature of Time",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2024-H-PARTIAL-NAPOT"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-10-08-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "if a particle can randomly travel in 6 possible directions each direction has a 1/6 chance",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08 to 2022-06-16 Grade-A immutable Git chronology",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "",
+      "target_date": "2024-10-08",
+      "target_date_sort": "2024-10-08",
+      "target_locator": "SRC-T05-WOLFRAM-NATURE-OF-TIME-2024; unique paragraph: when there is mass, effects do not go off in all directions but stay nearby; hash 563A946168FF796829A3341DA59A90AAFAE7A205460A232B5A034D4F9CA15AA4",
+      "target_quote": "The Wolfram Language stands as a testament to your vision, empowering users with its unique blend of symbolic and numerical computation, thereby democratizing access to advanced computational tools.",
+      "target_url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
+      "title": "On the Nature of Time",
+      "win_id": "WCU-DOCWIN-2024-MASS-DIRECTED-LOCAL-EFFECT"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2023-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "I think of consciousness as something that arises from a set of memory-prediction-rendering arrays (that are firing off patterns in tempo-spatial sequences) but specifically the firing represents some extended interval of time and what I mean by this is when a video is playing you have one frame playing back on one screen at a time, but when a conscious entity does video playback it is like 100 simultaneously different videos playing ba",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "causal-interface-sequence-pass; equivalence-partial-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08 Grade-A immutable Git chronology",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "",
+      "target_date": "2023-12-11",
+      "target_date_sort": "2023-12-11",
+      "target_locator": "SRC-T04-WOLFRAM-OBSERVER-THEORY-2023; hash fc9f4867946f87aae7b8ee65356484854c4391ae85f2382b7026d2976eb6a1ed",
+      "target_quote": "But the essence of observer theory should presumably be some kind of generalization of that.",
+      "target_url": "https://writings.stephenwolfram.com/2023/12/observer-theory/",
+      "title": "Observer Theory",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2023-H-PARTIAL-NAPOT"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the medium-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2026-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-private-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "hierarchy → integrated self/world → coherent stream of consciousness — passes the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "medium-private-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11 Grade-A public chronology",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2026-02-04",
+      "target_date_sort": "2026-02-04",
+      "target_locator": "SRC-T07-WOLFRAM-RULIAD-METAPHYSICS-2026; hash e27133b43560ee957a1aecde2bfce3e1b9517f1d2f36f8191e116ac49bf86f2f",
+      "target_quote": "Metaphysics and the Ruliad Artificial Intelligence Big Picture Companies & Business Computational Science Computational Thinking Data Science Education Future Perspectives Historical Perspectives Language & Communication Life & Times Life Science Mathematica Mathematics New Kind of Science New Technology Personal Analytics Philosophy Physics Ruliology Software Design Wolfram|Alpha Wolfram Language Other 2026 2025 202",
+      "target_url": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
+      "title": "What Ultimately Is There? Metaphysics and the Ruliad",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2026-E-DISTRIBUTED-THREAD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Held at medium-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2025-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-private-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "hierarchy → integrated self/world → coherent stream of consciousness — passes the",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "medium-private-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11 Grade-A public chronology",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2025-05-21",
+      "target_date_sort": "2025-05-21",
+      "target_locator": "SRC-T06-WOLFRAM-BIGGER-BRAINS-2025; hash b454e3e32fa8bf3b3f1fcbd7b7c28fc983663d83d08551cf1781a017013d6e6a",
+      "target_quote": "",
+      "target_url": "https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/",
+      "title": "What If We Had Bigger Brains? Imagining Minds beyond Ours",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2025-E-DISTRIBUTED-THREAD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Confirmed at medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) (Generative First-Person Phenomenology & Subjective Perceptual Rendering; anchors: conscious, consciousness <-> experience). The single structural bridge validates the existing medium-partial tier without reaching the multi-bridge density required for a further jump to strong.",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "confirmed-medium-partial-held",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-private-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "hierarchy → integrated self/world → coherent stream of consciousness — passes the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "medium-private-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11 Grade-A public chronology",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2024-10-08",
+      "target_date_sort": "2024-10-08",
+      "target_locator": "SRC-T05-WOLFRAM-NATURE-OF-TIME-2024; hash 563a946168ff796829a3341da59a90aafae7a205460a232b5a034d4f9ca15aa4",
+      "target_quote": "we have a continuing thread of experience through time).",
+      "target_url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
+      "title": "On the Nature of Time",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2024-E-DISTRIBUTED-THREAD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Confirmed at medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) (Generative First-Person Phenomenology & Subjective Perceptual Rendering; anchors: conscious, consciousness <-> experience). The single structural bridge validates the existing medium-partial tier without reaching the multi-bridge density required for a further jump to strong.",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "confirmed-medium-partial-held",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2023-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-private-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "hierarchy → integrated self/world → coherent stream of consciousness — passes the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "medium-private-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11 Grade-A public chronology",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2023-12-11",
+      "target_date_sort": "2023-12-11",
+      "target_locator": "SRC-T04-WOLFRAM-OBSERVER-THEORY-2023; hash fc9f4867946f87aae7b8ee65356484854c4391ae85f2382b7026d2976eb6a1ed",
+      "target_quote": "But given all those branches, can we just decide to conflate them into a single thread of experience?",
+      "target_url": "https://writings.stephenwolfram.com/2023/12/observer-theory/",
+      "title": "Observer Theory",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2023-E-DISTRIBUTED-THREAD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2017-04-11 Grade-A public chronology) expresses active mechanism anchors (conscious, consciousness) that map structurally onto the later publication's (2023-07-17) formulation (experience) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-earlier-than-2023-07-17-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "hierarchy → integrated self/world → coherent stream of consciousness — passes the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11 Grade-A public chronology",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2023-07-17",
+      "target_date_sort": "2023-07-17",
+      "target_locator": "SRC-WCU-GENERATIVE-IMAGERY-2023; unique phrase: finite minds; limited sensory input; consistent thread of experience; hash 8DECF86D1EEA0A2F89BFDBF0DD2A2F3DE9E96DDA3BA021BDFFAD0041BDFE2ACA",
+      "target_quote": "And we have a certain coherence that comes from our belief in our persistence in time, and our consistent thread of experience.",
+      "target_url": "https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/",
+      "title": "Generative AI Space and the Mental Imagery of Alien Minds",
+      "win_id": "WCU-DOCWIN-2023-GENERATIVE-DISTRIBUTED-THREAD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2017-04-11 Grade-A public chronology) expresses active mechanism anchors (conscious, consciousness) that map structurally onto the later publication's (2023-02-03) formulation (experience) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-earlier-than-2023-02-03-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "hierarchy → integrated self/world → coherent stream of consciousness — passes the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11 Grade-A public chronology",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2023-02-03",
+      "target_date_sort": "2023-02-03",
+      "target_locator": "SRC-WCU-COMPUTATIONAL-SECOND-LAW-2023; unique phrase: assume that we are persistent in time; coherent thread of experience; hash DA68E48894CEE6DDBA4911F3E3DADA83C49F6CD79277E46171C276F5FC83C5F1",
+      "target_quote": "But somehow we assume that we have a coherent thread of experience.",
+      "target_url": "https://writings.stephenwolfram.com/2023/02/computational-foundations-for-the-second-law-of-thermodynamics/",
+      "title": "Computational Foundations for the Second Law of Thermodynamics",
+      "win_id": "WCU-DOCWIN-2023-SECOND-LAW-DISTRIBUTED-THREAD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2017-04-11 Grade-A public chronology) expresses active mechanism anchors (conscious, consciousness) that map structurally onto the later publication's (2022-05-16) formulation (experience) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-earlier-than-2022-05-16-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "hierarchy → integrated self/world → coherent stream of consciousness — passes the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11 Grade-A public chronology",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2022-05-16",
+      "target_date_sort": "2022-05-16",
+      "target_locator": "SRC-WCU-TWENTY-YEARS-LATER-2022; unique phrase: physical observer knits things together to form a coherent thread of experience; hash 6086A3C67F26E52B56808E1193E7979DEECC685EF300ADE4BD54BB66141EF713",
+      "target_quote": "But with multicomputation there was yet more focus on this, and on how a physical observer knits things together to form a coherent thread of experience .",
+      "target_url": "https://writings.stephenwolfram.com/2022/05/twenty-years-later-the-surprising-greater-implications-of-a-new-kind-of-science/",
+      "title": "Twenty Years Later: The Surprising Greater Implications of A New Kind of Science",
+      "win_id": "WCU-DOCWIN-2022-TWENTY-YEARS-DISTRIBUTED-THREAD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2021-11-10-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "hierarchy → integrated self/world → coherent stream of consciousness — passes the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11 Grade-A public chronology",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2021-11-10",
+      "target_date_sort": "2021-11-10",
+      "target_locator": "SRC-WCU-CONCEPT-RULIAD-2021; unique phrases: coherent observer; progression in the perception; coherently communicate; hash BA06017A14143E161F087A0B8F5FF5D4BBA9A3D6D0EB4515BD8C7E11C846E77C",
+      "target_quote": "But if you want to “coherently communicate”, you need some kind of structure that will persist as it propagates through rulial space.",
+      "target_url": "https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/",
+      "title": "The Concept of the Ruliad",
+      "win_id": "WCU-DOCWIN-2021-RULIAD-DISTRIBUTED-THREAD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Confirmed at medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) (Generative First-Person Phenomenology & Subjective Perceptual Rendering; anchors: conscious, consciousness <-> experience, conscious, consciousness). The single structural bridge validates the existing medium-partial tier without reaching the multi-bridge density required for a further jump to strong.",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "confirmed-medium-partial-held",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2021-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-private-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "hierarchy → integrated self/world → coherent stream of consciousness — passes the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "medium-private-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11 Grade-A public chronology",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2021-03-22",
+      "target_date_sort": "2021-03-22",
+      "target_locator": "SRC-T03-WOLFRAM-CONSCIOUSNESS-2021; hash 15def4022790fa91a0212ba8edb241501c3d38a21bc8edd21cc60f032e3c159c",
+      "target_quote": "Because it seems that the key element of what we consider consciousness is the notion of having a definite “thread of experience” through time—or, in other words, a sequential way to experience the universe.",
+      "target_url": "https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/",
+      "title": "What Is Consciousness? Some New Perspectives from Our Physics Project",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2021-E-DISTRIBUTED-THREAD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2020-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "hierarchy → integrated self/world → coherent stream of consciousness — passes the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-architecture-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11 Grade-A public chronology",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2020-04-15",
+      "target_date_sort": "2020-04-15",
+      "target_locator": "arXiv 2004.08210, section 8.12; source hash 7d9a4a9914ccc52e4eb7a19dd1c97ece14260609ade1fed207a256ea4dcf7a62",
+      "target_quote": "scales for the constructs in our models. In this section we give some indication of how this",
+      "target_url": "https://arxiv.org/pdf/2004.08210",
+      "title": "A Class of Models with the Potential to Represent Fundamental Physics",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2020-PDF-E-DISTRIBUTED-THREAD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2017-04-11 Grade-A public chronology) expresses active mechanism anchors (conscious, consciousness) that map structurally onto the later publication's (2020-04-15) formulation (experience, conscious) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-earlier-than-2020-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "hierarchy → integrated self/world → coherent stream of consciousness — passes the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-architecture-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11 Grade-A public chronology",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2020-04-15",
+      "target_date_sort": "2020-04-15",
+      "target_locator": "SRC-T02-WOLFRAM-QM-OBSERVER-2020; hash 92eb13151cc3a75524fb2446415356a214311b61abb25c31b7aa9e010a86f52e",
+      "target_quote": "It seems as if the essence of being a “conscious observer” is precisely having a “single thread of experience”—or in other words conflating the different histories in different branches.",
+      "target_url": "https://www.wolframphysics.org/technical-introduction/potential-relation-to-physics/basic-concepts-of-quantum-mechanics/",
+      "title": "A Class of Models with the Potential to Represent Fundamental Physics, section 8.12: Basic Concepts of Quantum Mechanics",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2020-HTML-E-DISTRIBUTED-THREAD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2026-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2026-02-04",
+      "target_date_sort": "2026-02-04",
+      "target_locator": "SRC-T07-WOLFRAM-RULIAD-METAPHYSICS-2026; hash e27133b43560ee957a1aecde2bfce3e1b9517f1d2f36f8191e116ac49bf86f2f",
+      "target_quote": "Metaphysics and the Ruliad Artificial Intelligence Big Picture Companies & Business Computational Science Computational Thinking Data Science Education Future Perspectives Historical Perspectives Language & Communication Life & Times Life Science Mathematica Mathematics New Kind of Science New Technology Personal Analytics Philosophy Physics Ruliology Software Design Wolfram|Alpha Wolfram Language Other 2026 2025 202",
+      "target_url": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
+      "title": "What Ultimately Is There? Metaphysics and the Ruliad",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2026-D-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2025-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2025-05-21",
+      "target_date_sort": "2025-05-21",
+      "target_locator": "SRC-T06-WOLFRAM-BIGGER-BRAINS-2025; hash b454e3e32fa8bf3b3f1fcbd7b7c28fc983663d83d08551cf1781a017013d6e6a",
+      "target_quote": "",
+      "target_url": "https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/",
+      "title": "What If We Had Bigger Brains? Imagining Minds beyond Ours",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2025-D-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2024-10-08",
+      "target_date_sort": "2024-10-08",
+      "target_locator": "SRC-T05-WOLFRAM-NATURE-OF-TIME-2024; hash 563a946168ff796829a3341da59a90aafae7a205460a232b5a034d4f9ca15aa4",
+      "target_quote": "In a sense, computation constructs sequences of new things, say with time.",
+      "target_url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
+      "title": "On the Nature of Time",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2024-D-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the medium-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2023-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-private-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-pass; causal-interface-sequence-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "medium-private-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2023-12-11",
+      "target_date_sort": "2023-12-11",
+      "target_locator": "SRC-T04-WOLFRAM-OBSERVER-THEORY-2023; hash fc9f4867946f87aae7b8ee65356484854c4391ae85f2382b7026d2976eb6a1ed",
+      "target_quote": "But the essence of observer theory should presumably be some kind of generalization of that.",
+      "target_url": "https://writings.stephenwolfram.com/2023/12/observer-theory/",
+      "title": "Observer Theory",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2023-D-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2023-07-17-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2023-07-17",
+      "target_date_sort": "2023-07-17",
+      "target_locator": "SRC-WCU-GENERATIVE-IMAGERY-2023; mental imagery and generative-AI-space sections; hash 8DECF86D1EEA0A2F89BFDBF0DD2A2F3DE9E96DDA3BA021BDFFAD0041BDFE2ACA",
+      "target_quote": "An Analogy in Simple Programs Generative AI Space and the Mental Imagery of Alien Minds Generative AI Space and the Mental Imagery of Alien Minds Click on any image in this post to copy the code that produced it and generate the output on your own computer in a Wolfram notebook .",
+      "target_url": "https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/",
+      "title": "Generative AI Space and the Mental Imagery of Alien Minds",
+      "win_id": "WCU-DOCWIN-2023-GENERATIVE-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2023-02-03-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2023-02-03",
+      "target_date_sort": "2023-02-03",
+      "target_locator": "SRC-WCU-COMPUTATIONAL-SECOND-LAW-2023; observer aggregation and coarse-grained Second Law discussion; hash DA68E48894CEE6DDBA4911F3E3DADA83C49F6CD79277E46171C276F5FC83C5F1",
+      "target_quote": "And so it is, for example, that even though in a gas there are complicated underlying molecular motions, it’s still true that at an overall level a computationally bounded observer can meaningfully discuss the gas—and make predictions about its behavior—purely in terms of things like pressure and temperature that don’t probe the underlying details of molecular motions.",
+      "target_url": "https://writings.stephenwolfram.com/2023/02/computational-foundations-for-the-second-law-of-thermodynamics/",
+      "title": "Computational Foundations for the Second Law of Thermodynamics",
+      "win_id": "WCU-DOCWIN-2023-SECOND-LAW-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2022-05-16-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2022-05-16",
+      "target_date_sort": "2022-05-16",
+      "target_locator": "SRC-WCU-TWENTY-YEARS-LATER-2022; section discussing observer sampling, perception, and reducible laws; hash 6086A3C67F26E52B56808E1193E7979DEECC685EF300ADE4BD54BB66141EF713",
+      "target_quote": "But the observer has a crucial role here. Because while as a matter of theoretical science we can discuss the whole ruliad, our experience of it inevitably has to be based on sampling it according to our actual capabilities of perception.",
+      "target_url": "https://writings.stephenwolfram.com/2022/05/twenty-years-later-the-surprising-greater-implications-of-a-new-kind-of-science/",
+      "title": "Twenty Years Later: The Surprising Greater Implications of A New Kind of Science",
+      "win_id": "WCU-DOCWIN-2022-TWENTY-YEARS-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2022-04-11-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2022-04-11",
+      "target_date_sort": "2022-04-11",
+      "target_locator": "SRC-WCU-PHYSICALIZATION-2204.05123V1; abstract and introduction: observer sampling produces accessible higher-level structure; hash E8C125BC26BF38D0E43F761044148C617B52F6FBFF8483DCD8A04D6E43002F45",
+      "target_quote": "allows them to operate at a higher level. In other words, mathematics can be done “at a",
+      "target_url": "https://arxiv.org/abs/2204.05123",
+      "title": "The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics",
+      "win_id": "WCU-DOCWIN-2022-PHYSICALIZATION-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2021-11-10-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2021-11-10",
+      "target_date_sort": "2021-11-10",
+      "target_locator": "SRC-WCU-CONCEPT-RULIAD-2021; unique phrase: define equivalence classes and cut it down to size; hash BA06017A14143E161F087A0B8F5FF5D4BBA9A3D6D0EB4515BD8C7E11C846E77C",
+      "target_quote": "But some is more naturally described by thinking about equivalence classes in the ruliad.",
+      "target_url": "https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/",
+      "title": "The Concept of the Ruliad",
+      "win_id": "WCU-DOCWIN-2021-RULIAD-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2021-04-14-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2021-04-14",
+      "target_date_sort": "2021-04-14",
+      "target_locator": "SRC-WCU-ONE-YEAR-UPDATE-2021; unique phrases: merely through our perception; limited form of reassembly; hash 086D7FF430F482AF63FC8F2D1C337DFEE8B780EEA4E301E8BD8D3F02FC950F5B",
+      "target_quote": "We thought about how we might find it. And then we thought about what would happen if we found it, and how we might imagine answering the question “Why this rule, and not another?” But then we realized: actually, the universe does not have to be based on just one particular rule; in some sense it can be running all possible rules, and it is merely through our perception that we attribute a specific rule to what we se",
+      "target_url": "https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/",
+      "title": "The Wolfram Physics Project: A One-Year Update",
+      "win_id": "WCU-DOCWIN-2021-ONE-YEAR-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2021-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2021-03-22",
+      "target_date_sort": "2021-03-22",
+      "target_locator": "SRC-T03-WOLFRAM-CONSCIOUSNESS-2021; hash 15def4022790fa91a0212ba8edb241501c3d38a21bc8edd21cc60f032e3c159c",
+      "target_quote": "It can be “coordinatized” by representing computations in terms of Turing machines, cellular automata, Wolfram models, or whatever.",
+      "target_url": "https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/",
+      "title": "What Is Consciousness? Some New Perspectives from Our Physics Project",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2021-D-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2020-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-architecture-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2020-04-15",
+      "target_date_sort": "2020-04-15",
+      "target_locator": "arXiv 2004.08210, section 8.12; source hash 7d9a4a9914ccc52e4eb7a19dd1c97ece14260609ade1fed207a256ea4dcf7a62",
+      "target_quote": "generational state. In effect, the observer is choosing a quantum observation frame in which there is a",
+      "target_url": "https://arxiv.org/pdf/2004.08210",
+      "title": "A Class of Models with the Potential to Represent Fundamental Physics",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2020-PDF-D-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2020-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the internal that's the beginning that's the source that's where the joy comes from the joy comes from there then all the joy that you see out in the world is not really from the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-architecture-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24 Grade-A public chronology",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "",
+      "target_date": "2020-04-15",
+      "target_date_sort": "2020-04-15",
+      "target_locator": "SRC-T02-WOLFRAM-QM-OBSERVER-2020; hash 92eb13151cc3a75524fb2446415356a214311b61abb25c31b7aa9e010a86f52e",
+      "target_quote": "Just as for causal graphs or ordinary multiway graphs, one can imagine defining a reference frame—here a “rulial frame”—that makes the observer perceive the universe as evolving through a series of slices in rulial space, or in effect operating according to certain rules.",
+      "target_url": "https://www.wolframphysics.org/technical-introduction/potential-relation-to-physics/basic-concepts-of-quantum-mechanics/",
+      "title": "A Class of Models with the Potential to Represent Fundamental Physics, section 8.12: Basic Concepts of Quantum Mechanics",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2020-HTML-D-INTERNAL-PROJECTOR"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2026-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "reduced to a no-self debate. The speaker moves from \"I am this pattern in my neocortex\" to \"I'm actually the whole neocortex, the whole process, the whole mind,\" then says that everything known about the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24 Grade-B public chronology",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "",
+      "target_date": "2026-02-04",
+      "target_date_sort": "2026-02-04",
+      "target_locator": "SRC-T07-WOLFRAM-RULIAD-METAPHYSICS-2026; hash e27133b43560ee957a1aecde2bfce3e1b9517f1d2f36f8191e116ac49bf86f2f",
+      "target_quote": "Metaphysics and the Ruliad Artificial Intelligence Big Picture Companies & Business Computational Science Computational Thinking Data Science Education Future Perspectives Historical Perspectives Language & Communication Life & Times Life Science Mathematica Mathematics New Kind of Science New Technology Personal Analytics Philosophy Physics Ruliology Software Design Wolfram|Alpha Wolfram Language Other 2026 2025 202",
+      "target_url": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
+      "title": "What Ultimately Is There? Metaphysics and the Ruliad",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2026-C-PREDICTIVE-SELF-WORLD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2025-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "reduced to a no-self debate. The speaker moves from \"I am this pattern in my neocortex\" to \"I'm actually the whole neocortex, the whole process, the whole mind,\" then says that everything known about the world",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24 Grade-B public chronology",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "",
+      "target_date": "2025-05-21",
+      "target_date_sort": "2025-05-21",
+      "target_locator": "SRC-T06-WOLFRAM-BIGGER-BRAINS-2025; hash b454e3e32fa8bf3b3f1fcbd7b7c28fc983663d83d08551cf1781a017013d6e6a",
+      "target_quote": "",
+      "target_url": "https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/",
+      "title": "What If We Had Bigger Brains? Imagining Minds beyond Ours",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2025-C-PREDICTIVE-SELF-WORLD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "reduced to a no-self debate. The speaker moves from \"I am this pattern in my neocortex\" to \"I'm actually the whole neocortex, the whole process, the whole mind,\" then says that everything known about the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24 Grade-B public chronology",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "",
+      "target_date": "2024-10-08",
+      "target_date_sort": "2024-10-08",
+      "target_locator": "SRC-T05-WOLFRAM-NATURE-OF-TIME-2024; hash 563a946168ff796829a3341da59a90aafae7a205460a232b5a034d4f9ca15aa4",
+      "target_quote": "Two things seemed to be critical: that as observers we are computationally bounded, and that (somewhat relatedly) we believe we are persistent in time (i.e.",
+      "target_url": "https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/",
+      "title": "On the Nature of Time",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2024-C-PREDICTIVE-SELF-WORLD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-08-29-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-repeated-summary-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "reduced to a no-self debate. The speaker moves from \"I am this pattern in my neocortex\" to \"I'm actually the whole neocortex, the whole process, the whole mind,\" then says that everything known about the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-repeated-summary-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24 Grade-B public chronology",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "",
+      "target_date": "2024-08-29",
+      "target_date_sort": "2024-08-29",
+      "target_locator": "SRC-WCU-FIVE-PRODUCTIVE-YEARS-2024; retrospective Physics Project/ruliad observer section; hash FD72C9594DE48B7A8D44205059D68677F0EBFE9F397C7F17222767104E7DD6EE",
+      "target_quote": "So what then is physics? Well, it’s a description of how observers like us embedded in the ruliad perceive the ruliad.",
+      "target_url": "https://writings.stephenwolfram.com/2024/08/five-most-productive-years-what-happened-and-whats-next/",
+      "title": "Five Most Productive Years: What Happened and What's Next",
+      "win_id": "WCU-DOCWIN-2024-FIVE-YEARS-PREDICTIVE-SELF-WORLD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the medium-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2023-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-private-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "reduced to a no-self debate. The speaker moves from \"I am this pattern in my neocortex\" to \"I'm actually the whole neocortex, the whole process, the whole mind,\" then says that everything known about the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "medium-private-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24 Grade-B public chronology",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "",
+      "target_date": "2023-12-11",
+      "target_date_sort": "2023-12-11",
+      "target_locator": "SRC-T04-WOLFRAM-OBSERVER-THEORY-2023; hash fc9f4867946f87aae7b8ee65356484854c4391ae85f2382b7026d2976eb6a1ed",
+      "target_quote": "For this we need some kind of “observer theory”, that characterizes what observers—or, at least “observers like us”—can do, in the same kind of way that standard computation theory characterizes what computational systems can do.",
+      "target_url": "https://writings.stephenwolfram.com/2023/12/observer-theory/",
+      "title": "Observer Theory",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2023-C-PREDICTIVE-SELF-WORLD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2023-07-17-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "reduced to a no-self debate. The speaker moves from \"I am this pattern in my neocortex\" to \"I'm actually the whole neocortex, the whole process, the whole mind,\" then says that everything known about the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24 Grade-B public chronology",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "",
+      "target_date": "2023-07-17",
+      "target_date_sort": "2023-07-17",
+      "target_locator": "SRC-WCU-GENERATIVE-IMAGERY-2023; first observer paragraphs: limited sensory input; how minds are set up; what they perceive; hash 8DECF86D1EEA0A2F89BFDBF0DD2A2F3DE9E96DDA3BA021BDFFAD0041BDFE2ACA",
+      "target_quote": "We are computationally bounded, with “finite minds” and limited sensory input.",
+      "target_url": "https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/",
+      "title": "Generative AI Space and the Mental Imagery of Alien Minds",
+      "win_id": "WCU-DOCWIN-2023-GENERATIVE-PREDICTIVE-SELF-WORLD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2022-05-16-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "reduced to a no-self debate. The speaker moves from \"I am this pattern in my neocortex\" to \"I'm actually the whole neocortex, the whole process, the whole mind,\" then says that everything known about the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24 Grade-B public chronology",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "",
+      "target_date": "2022-05-16",
+      "target_date_sort": "2022-05-16",
+      "target_locator": "SRC-WCU-TWENTY-YEARS-LATER-2022; unique phrase: what determines our experience is what characteristics we as observers have in sampling the ruliad; hash 6086A3C67F26E52B56808E1193E7979DEECC685EF300ADE4BD54BB66141EF713",
+      "target_quote": "And what determines our experience—and the science we use to summarize it—is what characteristics we as observers have in sampling the ruliad.",
+      "target_url": "https://writings.stephenwolfram.com/2022/05/twenty-years-later-the-surprising-greater-implications-of-a-new-kind-of-science/",
+      "title": "Twenty Years Later: The Surprising Greater Implications of A New Kind of Science",
+      "win_id": "WCU-DOCWIN-2022-TWENTY-YEARS-PREDICTIVE-SELF-WORLD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2022-04-11-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "reduced to a no-self debate. The speaker moves from \"I am this pattern in my neocortex\" to \"I'm actually the whole neocortex, the whole process, the whole mind,\" then says that everything known about the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24 Grade-B public chronology",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "",
+      "target_date": "2022-04-11",
+      "target_date_sort": "2022-04-11",
+      "target_locator": "SRC-WCU-PHYSICALIZATION-2204.05123V1; abstract and pages 1-3: samplings by observers; perception of physical space; hash E8C125BC26BF38D0E43F761044148C617B52F6FBFF8483DCD8A04D6E43002F45",
+      "target_quote": "will work much like physical space, and that what we as observers perceive will be quite independent",
+      "target_url": "https://arxiv.org/abs/2204.05123",
+      "title": "The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics",
+      "win_id": "WCU-DOCWIN-2022-PHYSICALIZATION-PREDICTIVE-SELF-WORLD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2021-11-10-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "reduced to a no-self debate. The speaker moves from \"I am this pattern in my neocortex\" to \"I'm actually the whole neocortex, the whole process, the whole mind,\" then says that everything known about the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24 Grade-B public chronology",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "",
+      "target_date": "2021-11-10",
+      "target_date_sort": "2021-11-10",
+      "target_locator": "SRC-WCU-CONCEPT-RULIAD-2021; unique phrases: bounded observers embedded within the ruliad; sample tiny parts; hash BA06017A14143E161F087A0B8F5FF5D4BBA9A3D6D0EB4515BD8C7E11C846E77C",
+      "target_quote": "It all has to do with the fact that we are bounded observers , embedded within the ruliad .",
+      "target_url": "https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/",
+      "title": "The Concept of the Ruliad",
+      "win_id": "WCU-DOCWIN-2021-RULIAD-PREDICTIVE-SELF-WORLD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2021-04-14-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "reduced to a no-self debate. The speaker moves from \"I am this pattern in my neocortex\" to \"I'm actually the whole neocortex, the whole process, the whole mind,\" then says that everything known about the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24 Grade-B public chronology",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "",
+      "target_date": "2021-04-14",
+      "target_date_sort": "2021-04-14",
+      "target_locator": "SRC-WCU-ONE-YEAR-UPDATE-2021; unique phrase: computationally bounded observer can see slices of computational reducibility; hash 086D7FF430F482AF63FC8F2D1C337DFEE8B780EEA4E301E8BD8D3F02FC950F5B",
+      "target_quote": "But there are slices of computational reducibility that inevitably exist on top of this irreducibility that are what make it possible for us—as computationally bounded entities—to identify meaningful scientific laws and to do science.",
+      "target_url": "https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/",
+      "title": "The Wolfram Physics Project: A One-Year Update",
+      "win_id": "WCU-DOCWIN-2021-ONE-YEAR-PREDICTIVE-SELF-WORLD"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Stephen Wolfram",
+          "slug": "stephen-wolfram"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the medium-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2021-target-document",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-private-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "reduced to a no-self debate. The speaker moves from \"I am this pattern in my neocortex\" to \"I'm actually the whole neocortex, the whole process, the whole mind,\" then says that everything known about the world",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-pass; narrative-architecture-pass; longitudinal-signature-cluster-pass; document-relative-chronology-pass; equivalence-partial-pass; narrative-causal-interface-pass; detective-backward-reconstruction-pass; longitudinal-before-after-pass",
+      "red_team_grade": "medium-private-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24 Grade-B public chronology",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "",
+      "target_date": "2021-03-22",
+      "target_date_sort": "2021-03-22",
+      "target_locator": "SRC-T03-WOLFRAM-CONSCIOUSNESS-2021; hash 15def4022790fa91a0212ba8edb241501c3d38a21bc8edd21cc60f032e3c159c",
+      "target_quote": "4 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2004 2003 All Enable JavaScript to interact with content and submit forms on Wolfram websites.",
+      "target_url": "https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/",
+      "title": "What Is Consciousness? Some New Perspectives from Our Physics Project",
+      "win_id": "WCU-XPROGRAM-WOL-DOCWIN-2021-C-PREDICTIVE-SELF-WORLD"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 44 certified dated prior-art comparisons with Wolfram Computational Universe across 44 listed-author attributions (40 verified both-prose side-by-side pairs; 4 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 2 strong, 12 medium-partial, 30 weak-partial, 0 weak-partial cross-domain, with 4 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2011-08-24 Grade-B public chronology",
+    "earliest_micah_year": 2011,
+    "earliest_target_date": "2020-04-15",
+    "earliest_target_year": 2020,
+    "latest_micah_date": "2022-07-26 Grade-A immutable Git chronology",
+    "latest_target_date": "2026-02-04",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 4,
+    "governed_wins": 44,
+    "grade_breakdown": {
+      "medium-partial": 12,
+      "strong": 2,
+      "weak-partial": 30
+    },
+    "lens4_event_ids": [
+      "lsm-wolfram-computational-universe-20261122"
+    ],
+    "listed_author_edges": 44,
+    "open_source_gated_passages": 4,
+    "red_team_grade_breakdown": {
+      "medium-partial": 8,
+      "strong": 2,
+      "weak-partial": 34
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 40
+  }
+}

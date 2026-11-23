@@ -1,0 +1,1023 @@
+{
+  "authors_linked": [
+    {
+      "name": "N. Katirci",
+      "slug": "n-katirci"
+    },
+    {
+      "name": "Mehmet Kavuk",
+      "slug": "mehmet-kavuk"
+    },
+    {
+      "name": "Mahmood Roshan",
+      "slug": "mahmood-roshan"
+    },
+    {
+      "name": "Fatimah Shojai",
+      "slug": "fatimah-shojai"
+    },
+    {
+      "name": "Wende, Marcel",
+      "slug": "wende-marcel"
+    }
+  ],
+  "display_code": "framework-energy-momentum-squared-gravity",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2011-01-01 and 2024-01-15, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 19 documented mechanisms appearing in Framework Energy Momentum Squared Gravity (2013-02-18 to 2025-06-19) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Framework Energy Momentum Squared Gravity",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 19 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 6 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 19 dated comparisons and 26 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "framework-energy-momentum-squared-gravity",
+  "program_name": "Framework Energy Momentum Squared Gravity",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge) via the Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization bridge. Micah Blumberg's dated passage (2024-01-15) expresses active mechanism anchors (free energy, dissipation, thermodynamic, path integral) that map structurally onto the later publication's (2025-06-19) formulation (dissipation, entropy) through the shared operation: Input (non-equilibrium energy and information fluxes inside a physical or neural material substrate) -> Transform (constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization) -> Output (self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization).",
+        "ito_alignment": "Input: non-equilibrium energy and information fluxes inside a physical or neural material substrate -> Transform: constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization -> Output: self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization",
+        "lens_basis": "Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge)",
+        "primary_bridge_id": "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "primary_bridge_name": "Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Neural Network Field Models. In machine learning, analyzing finite-size expansions that break naive “infinite network” approximations can reveal how correlated parameter updates mirror ϕ4-like interactions. This might unify computational learning with wave- dissipation logic at scale. Ultimately, bridging these frameworks—Feynman’s path integral, Micah’s New Law of Thermal Dynamics, the Free Energy Principle, Neural Network Field Theory, and Quantum SuperT",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 26.5,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (dissipation, structure) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 29]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "The Meta-Equation The dynamic core of the BFG is its meta-equation, which mathematically describes the interplay of these processes: \\[ \\frac{d\\Phi}{dt} = \\frac{1}{I} \\left( \\gamma D \\frac{dE}{dt} + \\lambda \\nabla IB - \\eta^2 + f_{\\text{topo}}(x) \\right) \\] This equation replaces classical entropy models with a structure-flow logic, where order is not degraded but actively formed through semantic densification rather than energetic dissipation.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "dissipation, structure — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Second Law (Entropy and Irreversibility) The hallmark of entropy growth can be interpreted as a steady erasure of differences (phase, energy, etc.) through repeated updates. Each interaction diminishes a mis- match, driving the system toward equilibrium. • Third Law (Absolute Zero) At absolute zero, there would be no remaining differences to dissipate, so no further “computational” steps can occur. The system is perfectly uniform, effectively “frozen” ou",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.9,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (dissipation, energy, entropy, thermodynamics) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 64]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "Classical entropy (disorder) emerges as a limit case when \\(\\nabla IB \\to 0\\), reducing the equation to a balance between energy flow and dissipation, akin to the second law of thermodynamics.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "dissipation, energy, entropy, thermodynamics — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "3 From Path Integrals to Free Energy: Wave-Dissipation Universality 3.1 Linking Feynman’s Path Integral to Micah’s New Law of Ther- modynamics Richard Feynman’s path integral formulation of quantum mechanics posits that a particle (or field) takes all possible paths through spacetime, each contributing an amplitude weighted by a phase factor e iS/ℏ, where S is the classical action (Feynman 1965). Crucially, interference among these paths selects the most s",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 35.12,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (dissipation, energy, field, quantum, thermodynamics) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 26]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "The BFG posits that all natural laws derive from these processes. Thermodynamics emerges as a limit case of energy dissipation within the information field, relativity as the geometry of order gradients, and quantum mechanics as the probabilistic structuring of information at small scales.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "dissipation, energy, field, quantum — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(11–14) ADM Formalism Now Understood As: Hamiltonian and momentum constraints gain ρt-based modifications if we embed ρt in the spatial-slice decomposition. This alters lapse or shift in the (3 + 1) approach. (15–16) Klein–Gordon Equation Now Understood As: A spin-0 field with an effective mass shift ∆ m2(ρt). Kinetic + ρt-potential couplings come from the single action. (17–18) Dirac Equation Now Understood As: Directly emerges from − f1(ρt) ¯ψψ in the La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 24.38,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (einstein, energy, field) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 39]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "When Φ represents a highly coherent system (e.g., a black hole), the equation approximates Einstein’s field equations, with \\(\\nabla IB\\) acting as the stress-energy tensor.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "einstein, energy, field — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (spacetime, time density, dark time, curvature) that map structurally onto the later publication's (2025-06-19) formulation (gravitational, black hole) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "High-Precision Lensing Surveys. Subtle lensing deviations around massive clusters or black holes could confirm time-density gradients. • CMB Measurements. Changes to cosmic expansion from time density might leave distinct imprints in the Cosmic Microwave Background. D.3.5 Summary By replacing spacetime curvature singularities with zones of extreme time density, Dark Time seeks to tackle black hole horizon issues and provide alternative explanations for p",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.0,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, gravitational) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 137]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "For example, black holes, with their extreme order, exert immense gravitational effects. In social systems, this mirrors how charismatic leaders or cultural norms act as \"gravitational\" anchors, drawing others into structured patterns.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "black, gravitational — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (time density, dark time, expansion, discrete time) that map structurally onto the later publication's (2025-06-19) formulation (emergent, expansion) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Dark Time asserts that variations in the density of discrete time frames generate gravi- tational effects, with mass functioning as a “time crystal” that enriches local time density. By positing time as a dynamic entity, it seeks to incorporate these density variations into both quantum mechanics and general relativity, offering a framework that could explain phenomena as diverse as dark matter, dark energy, and the rate of cosmic expansion through shiftin",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.28,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (emergent, expansion) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 76]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "Structural Complexity: This is the emergent outcome of the interplay between expansion, gravitation, and information. It reflects dynamic stability and semantic depth, as seen in systems like the internet, where data (information), network growth (expansion), and network effects (gravitation) create a complex, coherent structure.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "emergent, expansion — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Dark Time asserts that variations in the density of discrete time frames generate gravi- tational effects, with mass functioning as a “time crystal” that enriches local time density. By positing time as a dynamic entity, it seeks to incorporate these density variations into both quantum mechanics and general relativity, offering a framework that could explain phenomena as diverse as dark matter, dark energy, and the rate of cosmic expansion through shiftin",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.94,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (geometry, quantum, relativity, spacetime, spatial) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 76]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "\\(f_{\\text{topo}}(x)\\): The topological term encodes the spatial and structural arrangement of the system, such as toroidal patterns. This term anchors the BFG in the geometry of reality, linking to the topology of spacetime in relativity or the configuration of quantum fields.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "geometry, quantum, relativity, spacetime — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "2.3.3 Higher Local Time Density as the Source of Gravitation Additional “time steps” in a deterministic cycle arise because, even though the quantum walk is ultimately deterministic, the number of available micro-states increases in regions of higher time density. Particles are thus more likely to occupy micro-states that point them inward toward the mass, producing an observable gravitational pull. Massive objects amplify time waves in their vicinity, add",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.97,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, gradient, mass, phase) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 24]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "Mathematically, this can be modeled as an increase in phase-space density, reflecting greater structural freedom. Gravitation as an Order Gradient: Gravitation in the BFG is not a function of mass but of order gradients.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "density, gradient, mass, phase — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "or force laws. Predicted deviations from General Relativity—such as subtle clock-rate shifts, lensing distortions, and thermal decoherence—are experimentally testable with high-precision instruments. In this framework, black holes emerge as regions of extreme time density, while foundational issues—such as the quantum measurement problem are addressed by invoking undersampled, yet deterministic, wave computations at ultrafast timescales. Finally, Dark Time",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 26.8,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (quantum, relativity) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 1]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "The BFG is the meta-structure from which all natural laws—thermodynamics, relativity, quantum mechanics, biology, and even consciousness—emerge as special cases.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "quantum, relativity — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "an intensification of local temporal intervals around mass—an internal structuring of time that does not shift future events in a literal sense. 11.10 Comparison with Standard General Relativity In traditional General Relativity (GR), mass–energy “curves” spacetime to produce the gravitational effects we observe, such as time dilation, gravitational lensing, and perihelion precession. Dark Time, however, posits that mass–energy densifies time itself rather",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.32,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, mass, relativity, spacetime) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 105]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "This term relates to relativity, as it models the geometric distribution of order, akin to how mass-energy curves spacetime. In biological systems, it could represent the distribution of signaling molecules; in social systems, the spread of ideas.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "energy, mass, relativity, spacetime — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "creating spatial domains that expand more slowly. This duality could reconcile the differing measurements of the Hubble parameter often attributed to the Hubble tension, suggesting that local and global determinations of the expansion rate may systematically vary due to underlying time-density gradients. Dark Time also envisions these time-density differences as critical to the formation and distribution of cosmic structures. Galaxy clusters and filaments",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 32.32,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (expansion, scale, spatial) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 86]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "For example, in a galaxy, spatial expansion (cosmic scale) allows star formation, while semantic densification (chemical complexity) enables life, which in turn creates new “spaces” for biological and cultural evolution.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "expansion, scale, spatial — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Summary: This concept extends thermodynamic principles to oscillatory networks, asserting that \"phase-wave differentials\" (differences in phase or energy between parts of a system) naturally dissipate as the system seeks equilibrium. In SAN, countless neural oscillators interact such that any phase misalignments spread out and diminish -- much like heat diffusing -- leading to emergent synchrony. This view connects brain dynamics to general laws of self-or",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.69,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (coherence, dissipation, thermodynamic) with Framework Energy Momentum Squared Gravity (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 62]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "\\(-\\eta^2\\): The damping term accounts for resistance to order formation, such as dissipation or information loss. This ensures realism, as no system can achieve infinite coherence, and connects to thermodynamic dissipation.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "coherence, dissipation, thermodynamic — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-ENERGY-MOMENTUM--D03-A04"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Mahmood Roshan",
+          "slug": "mahmood-roshan"
+        },
+        {
+          "name": "Fatimah Shojai",
+          "slug": "fatimah-shojai"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "but a message that is an SDR, or a tiny fraction of the totality of the data that it represents",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.11,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-19 formulation shares conceptual/operational mechanisms (geometry, scale) with Framework Energy Momentum Squared Gravity (2016-07-20; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-09-19",
+      "source_date_sort": "2012-09-19",
+      "source_locator": "M12-0919-B: A neuron emits an analog, topology-shaped packet with potentially infinite variation, but heavy noise filtering means it transmits a low-resolution yet highly accurate sparse code: a message that is a tiny fr",
+      "target_date": "2016-07-20",
+      "target_date_sort": "2016-07-20",
+      "target_locator": "arXiv:1607.06049 | Energy-Momentum Squared Gravity",
+      "target_quote": "COSMOLOGY OF EMSG Let us start with the consequences of this theory in the early universe where we expect signiﬁcant deviations from the ΛCDM model. We assume a ﬂat Friedmann- Robertson-Walker (FR W) geometry ds2 = − dt2 + a(t)2(dx2 + dy2 + dz2) (20) where a(t) is the cosmic scale factor.",
+      "target_url": "https://arxiv.org/abs/1607.06049",
+      "title": "geometry, scale — Energy-Momentum Squared Gravity",
+      "win_id": "G1-ENERGY-MOMENTUM--D02-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "N. Katirci",
+          "slug": "n-katirci"
+        },
+        {
+          "name": "Mehmet Kavuk",
+          "slug": "mehmet-kavuk"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "feedback headset and i have these uh these goggles that people wear and they have um they have lights that are um they're reflecting your brain waves to you so it's creating this um this loop and there's also like an on-screen visualization um but there is um but i want them to have a they wanted to be as little light in this room as possible when someone's doing it so that they get the maximum training uh for the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 11.46,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-08-24 formulation shares conceptual/operational mechanisms (expansion, light) with Framework Energy Momentum Squared Gravity (2013-02-18; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/physi",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-08-24",
+      "source_date_sort": "2012-08-24",
+      "source_locator": "A photons-to-visual-to-motor-to-mirror-to-eyes sequence closes a recursive action-perception feedback loop.",
+      "target_date": "2013-02-18",
+      "target_date_sort": "2013-02-18",
+      "target_locator": "arXiv:1302.4300 | $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "target_quote": "The primordial abundances of the light elements (primordial D, 3He, 4He, 7Li, T) depend on the baryon density and the expansion rate of the u niverse [51, 52].",
+      "target_url": "https://arxiv.org/abs/1302.4300",
+      "title": "expansion, light — $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "win_id": "G1-ENERGY-MOMENTUM--D01-A05"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "N. Katirci",
+          "slug": "n-katirci"
+        },
+        {
+          "name": "Mehmet Kavuk",
+          "slug": "mehmet-kavuk"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Richard Pomfret That's a bit reductionist Micah, as 'me' I am more then just the sum of my neuron connections or connectome - I would at least add a few of my key organs and my entire nervous system into the mix. I 'feel', therefore I am. ;) Yesterday at 4:42am · Unlike · 1 Micah Blumberg You can add the whole ecosystem that your apart of to the list. How can you live without air, without food, you have a certain amount of learned dependency on your social",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 13.98,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-08-17 formulation shares conceptual/operational mechanisms (particles, spacetime) with Framework Energy Momentum Squared Gravity (2013-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-17",
+      "source_date_sort": "2012-08-17",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/37619d735cc3834fa860d7ea9747d0bc0a2b07bb/a0139z.md#L25",
+      "target_date": "2013-02-18",
+      "target_date_sort": "2013-02-18",
+      "target_locator": "arXiv:1302.4300 | $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "target_quote": "(52) Variation of the above equation gives us the usual geodesic equatio n uα ∇ α uµ = 0. (53) In what follows we will ﬁrst make an assumption that the action gover ning the dynamics of test particles in a spacetime governed by our gravity model is S = ∫ √ Q √ gµν uµ uν.",
+      "target_url": "https://arxiv.org/abs/1302.4300",
+      "title": "particles, spacetime — $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "win_id": "G1-ENERGY-MOMENTUM--D01-A03"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "N. Katirci",
+          "slug": "n-katirci"
+        },
+        {
+          "name": "Mehmet Kavuk",
+          "slug": "mehmet-kavuk"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2012-01-01) expresses active mechanism anchors (dimension) that map structurally onto the later publication's (2013-02-18) formulation (metric) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Dean: NED does not suggest that electrons have shape (that would be silly since electrons are point particles - no shape, only a field of influence). What it proposes is that the \"charges\" that pass through the neural structures have shape (temporal variances in amplitude and spatial dimension) and direction of flow - quite a different thing, and that it is this \"spike directivity\" that carries meaning, not temporal patterns which he considers epiphenomina",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 10.44,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (field, particles) with Framework Energy Momentum Squared Gravity (2013-02-18; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/physi",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/ff55496a635b25e9511353ab2e31cee22cdac6cb/a0341z.md#L39-L43",
+      "target_date": "2013-02-18",
+      "target_date_sort": "2013-02-18",
+      "target_locator": "arXiv:1302.4300 | $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "target_quote": "Field equations are derived in the metric formalism. We find that the equation of motion of massive test particles is non-geodesic and these test particles are acted upon by a force which is orthogonal to the four-velocity of the particles.",
+      "target_url": "https://arxiv.org/abs/1302.4300",
+      "title": "field, particles — $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "win_id": "G1-ENERGY-MOMENTUM--D01-A06"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "N. Katirci",
+          "slug": "n-katirci"
+        },
+        {
+          "name": "Mehmet Kavuk",
+          "slug": "mehmet-kavuk"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2012-01-01) expresses active mechanism anchors (diffusion tensor, tensor, geometry, graph) that map structurally onto the later publication's (2013-02-18) formulation (tensor, density, metric, gravity) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "October 16th 2012 (graph, layers, cortex, neuron) Micah Blumberg An interesting note, Fred, is that Diffusion Tensor Imaging, in this case, is showing us the white matter of the brain. … Fred Becker Thank you for the discussion. To see if I understand, I will read back what I hear. First, there are layers here and the physical geometry may support additional communication paths in a sort of virtual geometry even (e.g., large brainwaves might actually be la",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 13.6,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (matter, tensor) with Framework Energy Momentum Squared Gravity (2013-02-18; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/physics",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/64c72ff6c9cc25f27ba7284f4d0407308afff9f3/a0495z.md#L2",
+      "target_date": "2013-02-18",
+      "target_date_sort": "2013-02-18",
+      "target_locator": "arXiv:1302.4300 | $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "target_quote": "In the last section we ﬁnd the Newtonian limit for both models. THE GRA VITATIONAL FIELD EQUATIONS OF f (R, TµνT µν ) GRA VITY The action for the f (R, T µν T µν ) gravity is considered as S = ∫ f (R, T µν T µν )√ − gd4x + ∫ Lm √ − gd4x, (1) where g is the determinant of the metric, R is the Ricci scalar, Tµν is the energy-momentum tensor, and Lm is matter Lagrangian density.",
+      "target_url": "https://arxiv.org/abs/1302.4300",
+      "title": "matter, tensor — $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "win_id": "G1-ENERGY-MOMENTUM--D01-A04"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "N. Katirci",
+          "slug": "n-katirci"
+        },
+        {
+          "name": "Mehmet Kavuk",
+          "slug": "mehmet-kavuk"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2012-01-01) expresses active mechanism anchors (diffusion tensor, tensor, geometry, graph) that map structurally onto the later publication's (2013-02-18) formulation (tensor, geometry, gravity, tensor contraction) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "October 16th 2012 (graph, layers, cortex, neuron) Micah Blumberg An interesting note, Fred, is that Diffusion Tensor Imaging, in this case, is showing us the white matter of the brain. … Fred Becker Thank you for the discussion. To see if I understand, I will read back what I hear. First, there are layers here and the physical geometry may support additional communication paths in a sort of virtual geometry even (e.g., large brainwaves might actually be la",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 18.23,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (geometry, matter, tensor) with Framework Energy Momentum Squared Gravity (2013-02-18; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and S",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/64c72ff6c9cc25f27ba7284f4d0407308afff9f3/a0495z.md#L2",
+      "target_date": "2013-02-18",
+      "target_date_sort": "2013-02-18",
+      "target_locator": "arXiv:1302.4300 | $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "target_quote": "CONCLUSIONS In this paper, we proposed a new gravity model where matter is non -minimally coupled to geometry via the contraction of the energy-momentum tensor with itself.",
+      "target_url": "https://arxiv.org/abs/1302.4300",
+      "title": "geometry, matter, tensor — $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "win_id": "G1-ENERGY-MOMENTUM--D01-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "N. Katirci",
+          "slug": "n-katirci"
+        },
+        {
+          "name": "Mehmet Kavuk",
+          "slug": "mehmet-kavuk"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Micah Blumberg get a video camera and point it at its own screen, thats a feedback loop. Next create a learning machine modeled on the human neocortex. So it sorts experiences into statistical memory which is used to predict what happens next. These predictions are our thoughts about everything. Next these memory-prediction-thoughts actually manifest as actual brainwaves in the em range. These in turn control all the muscles and send & receive info through",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 14.21,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2011-01-01 formulation shares conceptual/operational mechanisms (energy, predictions) with Framework Energy Momentum Squared Gravity (2013-02-18; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/ph",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2011-01-01",
+      "source_date_sort": "2011-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/7d1431213cd4ac9788848a5396ec2992ece11cfd/a0051z%20ctpr.txt#L11",
+      "target_date": "2013-02-18",
+      "target_date_sort": "2013-02-18",
+      "target_locator": "arXiv:1302.4300 | $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "target_quote": "With this choice, we get ⃗ aE = − α ⃗∇ ρ ρ , (70) which shows that if the energy density of the ﬂuid is constant then t he extra acceleration ⃗ aE is zero. So our predictions will not diﬀer from the standard GR and we do not put into constraint on the model parameter α.",
+      "target_url": "https://arxiv.org/abs/1302.4300",
+      "title": "energy, predictions — $f(R,{T_{μν} T^{μν}})$ gravity and Cardassian-like expansion as one of its consequences",
+      "win_id": "G1-ENERGY-MOMENTUM--D01-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 19 certified dated prior-art comparisons with Framework Energy Momentum Squared Gravity across 26 listed-author attributions (19 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 11 strong, 3 medium-partial, 3 weak-partial, 2 weak-partial cross-domain, with 6 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2011-01-01",
+    "earliest_micah_year": 2011,
+    "earliest_target_date": "2013-02-18",
+    "earliest_target_year": 2013,
+    "latest_micah_date": "2024-01-15",
+    "latest_target_date": "2025-06-19",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 6,
+    "governed_wins": 19,
+    "grade_breakdown": {
+      "medium-partial": 3,
+      "strong": 11,
+      "weak-partial": 3,
+      "weak-partial-cross-domain": 2
+    },
+    "lens4_event_ids": [
+      "lsm-g1-energy-momentum-squared-gravity-20261122"
+    ],
+    "listed_author_edges": 26,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 8,
+      "weak-partial": 6,
+      "weak-partial-cross-domain": 5
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 19
+  }
+}

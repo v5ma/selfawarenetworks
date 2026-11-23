@@ -1,0 +1,653 @@
+{
+  "authors_linked": [
+    {
+      "name": "James Paul Mason",
+      "slug": "james-paul-mason"
+    },
+    {
+      "name": "Alexandra Werth",
+      "slug": "alexandra-werth"
+    },
+    {
+      "name": "Colin G. West",
+      "slug": "colin-g-west"
+    },
+    {
+      "name": "Allison A. Youngblood",
+      "slug": "allison-a-youngblood"
+    },
+    {
+      "name": "Donald L. Woodraska",
+      "slug": "donald-l-woodraska"
+    },
+    {
+      "name": "Courtney Peck",
+      "slug": "courtney-peck"
+    },
+    {
+      "name": "Kevin Lacjak",
+      "slug": "kevin-lacjak"
+    },
+    {
+      "name": "Florian G. Frick",
+      "slug": "florian-g-frick"
+    },
+    {
+      "name": "Moutamen Gabir",
+      "slug": "moutamen-gabir"
+    },
+    {
+      "name": "Reema A. Alsinan",
+      "slug": "reema-a-alsinan"
+    },
+    {
+      "name": "Thomas Jacobsen",
+      "slug": "thomas-jacobsen"
+    },
+    {
+      "name": "Mohammad Alrubaie",
+      "slug": "mohammad-alrubaie"
+    },
+    {
+      "name": "Kayla M. Chizmar",
+      "slug": "kayla-m-chizmar"
+    },
+    {
+      "name": "Benjamin P. Lau",
+      "slug": "benjamin-p-lau"
+    },
+    {
+      "name": "Lizbeth Montoya Dominguez",
+      "slug": "lizbeth-montoya-dominguez"
+    }
+  ],
+  "display_code": "hunter-jackson-observer-recursion-theory",
+  "domain_group": "hybrid",
+  "domains": "consciousness; physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2011-01-01 and 2022-07-07, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 7 documented mechanisms appearing in Hunter Jackson Observer Recursion Theory (2023-05-09 to 2023-05-09) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Hunter Jackson Observer Recursion Theory",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 7 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 7 dated comparisons and 140 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-hunter-jackson-observer-recursion-theory",
+  "program_name": "Hunter Jackson Observer Recursion Theory",
+  "rows": [
+    {
+      "author_count": 20,
+      "authors_linked": [
+        {
+          "name": "James Paul Mason",
+          "slug": "james-paul-mason"
+        },
+        {
+          "name": "Alexandra Werth",
+          "slug": "alexandra-werth"
+        },
+        {
+          "name": "Colin G. West",
+          "slug": "colin-g-west"
+        },
+        {
+          "name": "Allison A. Youngblood",
+          "slug": "allison-a-youngblood"
+        },
+        {
+          "name": "Donald L. Woodraska",
+          "slug": "donald-l-woodraska"
+        },
+        {
+          "name": "Courtney Peck",
+          "slug": "courtney-peck"
+        },
+        {
+          "name": "Kevin Lacjak",
+          "slug": "kevin-lacjak"
+        },
+        {
+          "name": "Florian G. Frick",
+          "slug": "florian-g-frick"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2022-07-07) expresses active mechanism anchors (phase, synchrony, oscillation, coherence) that map structurally onto the later publication's (2023-05-09) formulation (wave) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "I argue that the electric field and the magnetic fields in the brain are EACH relevant as attractor points in the brainwave oscillations (of tempo-spatially distributed phase changes), and these brainwave fields serve as attractors that drive oscillatory activities such as coupling, decoupling, synchronization, desynchronization, tuning, detuning, phase precession, phase coherence or oscillatory decoherence (and my argument is that the phase differences ar",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.15,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-07-07 formulation shares conceptual/operational mechanisms (magnetic, waves) with Hunter Jackson Observer Recursion Theory (2023-05-09; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-07-07",
+      "source_date_sort": "2022-07-07",
+      "source_locator": "2022-07-07 ({'claimed': None, 'claimed_basis': None, 'verified': '2022-07-07', 'verified_basis': 'first public Git commit of file a0149z', 'index_date': '2022-07-07', 'rule': 'claimed date first, verified date second'})",
+      "target_date": "2023-05-09",
+      "target_date_sort": "2023-05-09",
+      "target_locator": "arXiv:2305.05687v1 | Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating Case Studies",
+      "target_quote": "It is widely accepted that the magnetic ﬁeld is responsible for the heating, but there are two competing mechanisms that could explain it: nanoﬂares or Alfv´ en waves.",
+      "target_url": "https://arxiv.org/abs/2305.05687v1",
+      "title": "magnetic, waves — Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating",
+      "win_id": "G1-HUNTER-JACKSON-O-D01-A05"
+    },
+    {
+      "author_count": 20,
+      "authors_linked": [
+        {
+          "name": "James Paul Mason",
+          "slug": "james-paul-mason"
+        },
+        {
+          "name": "Alexandra Werth",
+          "slug": "alexandra-werth"
+        },
+        {
+          "name": "Colin G. West",
+          "slug": "colin-g-west"
+        },
+        {
+          "name": "Allison A. Youngblood",
+          "slug": "allison-a-youngblood"
+        },
+        {
+          "name": "Donald L. Woodraska",
+          "slug": "donald-l-woodraska"
+        },
+        {
+          "name": "Courtney Peck",
+          "slug": "courtney-peck"
+        },
+        {
+          "name": "Kevin Lacjak",
+          "slug": "kevin-lacjak"
+        },
+        {
+          "name": "Florian G. Frick",
+          "slug": "florian-g-frick"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "I argue that the electric field and the magnetic fields in the brain are EACH relevant as attractor points in the brainwave oscillations (of tempo-spatially distributed phase changes), and these brainwave fields serve as attractors that drive oscillatory activities such as coupling, decoupling, synchronization, desynchronization, tuning, detuning, phase precession, phase coherence or oscillatory decoherence (and my argument is that the phase differences ar",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 20.2,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-07-07 formulation shares conceptual/operational mechanisms (field, magnetic, waves) with Hunter Jackson Observer Recursion Theory (2023-05-09; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-07-07",
+      "source_date_sort": "2022-07-07",
+      "source_locator": "2022-07-07 ({'claimed': None, 'claimed_basis': None, 'verified': '2022-07-07', 'verified_basis': 'first public Git commit of file a0149z', 'index_date': '2022-07-07', 'rule': 'claimed date first, verified date second'})",
+      "target_date": "2023-05-09",
+      "target_date_sort": "2023-05-09",
+      "target_locator": "arXiv:2305.05687v1 | Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating Case Studies",
+      "target_quote": "It is widely accepted that the magnetic field is responsible for the heating, but there are two competing mechanisms that could explain it: nanoflares or Alfvén waves.",
+      "target_url": "https://arxiv.org/abs/2305.05687v1",
+      "title": "field, magnetic, waves — Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating",
+      "win_id": "G1-HUNTER-JACKSON-O-D01-A01"
+    },
+    {
+      "author_count": 20,
+      "authors_linked": [
+        {
+          "name": "James Paul Mason",
+          "slug": "james-paul-mason"
+        },
+        {
+          "name": "Alexandra Werth",
+          "slug": "alexandra-werth"
+        },
+        {
+          "name": "Colin G. West",
+          "slug": "colin-g-west"
+        },
+        {
+          "name": "Allison A. Youngblood",
+          "slug": "allison-a-youngblood"
+        },
+        {
+          "name": "Donald L. Woodraska",
+          "slug": "donald-l-woodraska"
+        },
+        {
+          "name": "Courtney Peck",
+          "slug": "courtney-peck"
+        },
+        {
+          "name": "Kevin Lacjak",
+          "slug": "kevin-lacjak"
+        },
+        {
+          "name": "Florian G. Frick",
+          "slug": "florian-g-frick"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "through felt transmissions of phase patterns that can travel across the electric field, the charge of ions, and the magnetic field, including the effects of the magnetic field on flavins in the mitochondria, I hypothesize that this could be the mechanism for reward, if the neuron fires, it creates a vector of electrical energy, and that means that magnetic field is changed",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.88,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (energy, magnetic) with Hunter Jackson Observer Recursion Theory (2023-05-09; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "2022-06-08 ({'claimed': None, 'claimed_basis': None, 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0617z', 'index_date': '2022-06-08', 'effective_date': '2022-06-08', 'commit_override_note",
+      "target_date": "2023-05-09",
+      "target_date_sort": "2023-05-09",
+      "target_locator": "arXiv:2305.05687v1 | Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating Case Studies",
+      "target_quote": "It has been reason- ably suggested that the underlying physical mechanism powering solar and stellar ﬂares should be the same (e.g., Maehara et al. 2019), namely that a convection-driven dynamo generates a magnetic ﬁeld that is contorted to store energy in the corona and then abruptly freed via magnetic reconnection to pro- duce eruptive events.",
+      "target_url": "https://arxiv.org/abs/2305.05687v1",
+      "title": "energy, magnetic — Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating",
+      "win_id": "G1-HUNTER-JACKSON-O-D01-A04"
+    },
+    {
+      "author_count": 20,
+      "authors_linked": [
+        {
+          "name": "James Paul Mason",
+          "slug": "james-paul-mason"
+        },
+        {
+          "name": "Alexandra Werth",
+          "slug": "alexandra-werth"
+        },
+        {
+          "name": "Colin G. West",
+          "slug": "colin-g-west"
+        },
+        {
+          "name": "Allison A. Youngblood",
+          "slug": "allison-a-youngblood"
+        },
+        {
+          "name": "Donald L. Woodraska",
+          "slug": "donald-l-woodraska"
+        },
+        {
+          "name": "Courtney Peck",
+          "slug": "courtney-peck"
+        },
+        {
+          "name": "Kevin Lacjak",
+          "slug": "kevin-lacjak"
+        },
+        {
+          "name": "Florian G. Frick",
+          "slug": "florian-g-frick"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Although the specific file `a0107z_NAPOT_Layered_Oscillation_Interference.md` was inaccessible, the concept suggests that complex shapes are not merely stored as static templates but are dynamically formed by the interference patterns generated by multiple oscillating neural arrays. Each array, or populations of neurons within arrays, could be oscillating at specific frequencies and phases, encoding different features or spatial frequency components of the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.86,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (energy, frequency) with Hunter Jackson Observer Recursion Theory (2023-05-09; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 36]",
+      "target_date": "2023-05-09",
+      "target_date_sort": "2023-05-09",
+      "target_locator": "arXiv:2305.05687v1 | Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating Case Studies",
+      "target_quote": "Keywords: solar physics — solar ﬂares — astrostatistics distributions 1. INTRODUCTION It has long been established that the slope of a power law ﬁtting the solar ﬂare frequency distribution (occur- Corresponding author: James Paul Mason james.mason@jhuapl.edu rence rate versus energy) is a strong indicator of whether nanoﬂares are an important coronal heating mechanism (e.g., Hudson 1991; Crosby et al.",
+      "target_url": "https://arxiv.org/abs/2305.05687v1",
+      "title": "energy, frequency — Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating",
+      "win_id": "G1-HUNTER-JACKSON-O-D01-A03"
+    },
+    {
+      "author_count": 20,
+      "authors_linked": [
+        {
+          "name": "James Paul Mason",
+          "slug": "james-paul-mason"
+        },
+        {
+          "name": "Alexandra Werth",
+          "slug": "alexandra-werth"
+        },
+        {
+          "name": "Colin G. West",
+          "slug": "colin-g-west"
+        },
+        {
+          "name": "Allison A. Youngblood",
+          "slug": "allison-a-youngblood"
+        },
+        {
+          "name": "Donald L. Woodraska",
+          "slug": "donald-l-woodraska"
+        },
+        {
+          "name": "Courtney Peck",
+          "slug": "courtney-peck"
+        },
+        {
+          "name": "Kevin Lacjak",
+          "slug": "kevin-lacjak"
+        },
+        {
+          "name": "Florian G. Frick",
+          "slug": "florian-g-frick"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (frequency, phase, oscillation, propagation) that map structurally onto the later publication's (2023-05-09) formulation (frequency, wave) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Foster and Scheinost describe a similar mechanism, where slow oscillations are linked to memory and attention. In their wave-based model, low-frequency waves propagate through deeper brain regions associated with memory, such as the hippocampus, where they play a key role in encoding and retrieving information. This interaction between high- and low-frequency oscillations reinforces SAN’s theory of Phase Wave Differentials, where the brain balances percept",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.78,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (frequency, waves) with Hunter Jackson Observer Recursion Theory (2023-05-09; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 5 (05san.md) [para 119]",
+      "target_date": "2023-05-09",
+      "target_date_sort": "2023-05-09",
+      "target_locator": "arXiv:2305.05687v1 | Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating Case Studies",
+      "target_quote": "We found a pre-ﬂare subtracted, ﬂare energy frequency distribution with a slope of 1.63 ± 0.03, which suggests Alfv´ en waves play an important role in heating the solar corona.",
+      "target_url": "https://arxiv.org/abs/2305.05687v1",
+      "title": "frequency, waves — Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating",
+      "win_id": "G1-HUNTER-JACKSON-O-D01-A02"
+    },
+    {
+      "author_count": 20,
+      "authors_linked": [
+        {
+          "name": "James Paul Mason",
+          "slug": "james-paul-mason"
+        },
+        {
+          "name": "Alexandra Werth",
+          "slug": "alexandra-werth"
+        },
+        {
+          "name": "Colin G. West",
+          "slug": "colin-g-west"
+        },
+        {
+          "name": "Allison A. Youngblood",
+          "slug": "allison-a-youngblood"
+        },
+        {
+          "name": "Donald L. Woodraska",
+          "slug": "donald-l-woodraska"
+        },
+        {
+          "name": "Courtney Peck",
+          "slug": "courtney-peck"
+        },
+        {
+          "name": "Kevin Lacjak",
+          "slug": "kevin-lacjak"
+        },
+        {
+          "name": "Florian G. Frick",
+          "slug": "florian-g-frick"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "it comes up from the projector from the light source from the heart",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 13.58,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-08-23 formulation shares conceptual/operational mechanisms (integrated, light) with Hunter Jackson Observer Recursion Theory (2023-05-09; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "TS-M12-A02: Experience is internally supplied projection; outside input stirs existing meaning; sight and sound are all converted into the same electrical patterns in the brain.",
+      "target_date": "2023-05-09",
+      "target_date_sort": "2023-05-09",
+      "target_locator": "arXiv:2305.05687v1 | Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating Case Studies",
+      "target_quote": "Integrated light curve over duration of ﬂare 4. Cross validated another team’s result 6.",
+      "target_url": "https://arxiv.org/abs/2305.05687v1",
+      "title": "integrated, light — Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating",
+      "win_id": "G1-HUNTER-JACKSON-O-D01-A06"
+    },
+    {
+      "author_count": 20,
+      "authors_linked": [
+        {
+          "name": "James Paul Mason",
+          "slug": "james-paul-mason"
+        },
+        {
+          "name": "Alexandra Werth",
+          "slug": "alexandra-werth"
+        },
+        {
+          "name": "Colin G. West",
+          "slug": "colin-g-west"
+        },
+        {
+          "name": "Allison A. Youngblood",
+          "slug": "allison-a-youngblood"
+        },
+        {
+          "name": "Donald L. Woodraska",
+          "slug": "donald-l-woodraska"
+        },
+        {
+          "name": "Courtney Peck",
+          "slug": "courtney-peck"
+        },
+        {
+          "name": "Kevin Lacjak",
+          "slug": "kevin-lacjak"
+        },
+        {
+          "name": "Florian G. Frick",
+          "slug": "florian-g-frick"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Micah Blumberg get a video camera and point it at its own screen, thats a feedback loop. Next create a learning machine modeled on the human neocortex. So it sorts experiences into statistical memory which is used to predict what happens next. These predictions are our thoughts about everything. Next these memory-prediction-thoughts actually manifest as actual brainwaves in the em range. These in turn control all the muscles and send & receive info through",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.64,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2011-01-01 formulation shares conceptual/operational mechanisms (energy, feedback) with Hunter Jackson Observer Recursion Theory (2023-05-09; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-01-01",
+      "source_date_sort": "2011-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/7d1431213cd4ac9788848a5396ec2992ece11cfd/a0051z%20ctpr.txt#L11",
+      "target_date": "2023-05-09",
+      "target_date_sort": "2023-05-09",
+      "target_locator": "arXiv:2305.05687v1 | Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating Case Studies",
+      "target_quote": "Their analysis was peer-reviewed by other teams in the class and iteratively improved based on this feedback. The students then submitted their ﬁnal results in memo form as a ﬂare archive entry, which in- cluded the calculated total energy of the ﬂare, the peak irradiance, beginning and ending times of the ﬂare, and plots of the analysis.",
+      "target_url": "https://arxiv.org/abs/2305.05687v1",
+      "title": "energy, feedback — Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating",
+      "win_id": "G1-HUNTER-JACKSON-O-D01-A07"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 7 certified dated prior-art comparisons with Hunter Jackson Observer Recursion Theory across 140 listed-author attributions (7 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 2 strong, 1 medium-partial, 4 weak-partial, 0 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2011-01-01",
+    "earliest_micah_year": 2011,
+    "earliest_target_date": "2023-05-09",
+    "earliest_target_year": 2023,
+    "latest_micah_date": "2022-07-07",
+    "latest_target_date": "2023-05-09",
+    "latest_target_year": 2023
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 7,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 2,
+      "weak-partial": 4
+    },
+    "lens4_event_ids": [
+      "lsm-g1-hunter-jackson-observer-recursion-theory-20261122"
+    ],
+    "listed_author_edges": 140,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 1,
+      "weak-partial": 6
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 7
+  }
+}

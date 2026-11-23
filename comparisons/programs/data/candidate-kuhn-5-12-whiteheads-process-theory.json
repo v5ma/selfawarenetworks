@@ -1,0 +1,519 @@
+{
+  "authors_linked": [
+    {
+      "name": "Pratixan Sarmah",
+      "slug": "pratixan-sarmah"
+    },
+    {
+      "name": "Andrzej Siódmok",
+      "slug": "andrzej-si-dmok"
+    },
+    {
+      "name": "James Whitehead",
+      "slug": "james-whitehead"
+    }
+  ],
+  "display_code": "candidate-kuhn-5-12-whiteheads-process-theory",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; Panpsychisms",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-04-19 and 2024-01-15, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 8 documented mechanisms appearing in Whitehead's Process Theory (2024-09-24 to 2024-09-24) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Whitehead's Process Theory",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 8 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 8 dated comparisons and 24 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "candidate-kuhn-5-12-whiteheads-process-theory",
+  "program_name": "Whitehead's Process Theory",
+  "rows": [
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Pratixan Sarmah",
+          "slug": "pratixan-sarmah"
+        },
+        {
+          "name": "Andrzej Siódmok",
+          "slug": "andrzej-si-dmok"
+        },
+        {
+          "name": "James Whitehead",
+          "slug": "james-whitehead"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "This paper introduces Micah’s New Law of Thermodynamics , a unifying perspec- tive that treats the approach to equilibrium as a wave-based, iterative computation . Any system of interacting components (whether they are gas molecules, neurons, or gravi- tationally bound particles) locally dissipates differences through “signal exchanges.” Over multiple local interactions, those differences—be they in phase, momentum, or energy—are progressively neutralized,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.22,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (momentum, phase) with Whitehead's Process Theory (2024-09-24; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 1]",
+      "target_date": "2024-09-24",
+      "target_date_sort": "2024-09-24",
+      "target_locator": "arXiv:2409.16417v2 | KrkNLO matching for colour-singlet processes",
+      "target_quote": "(2.25) For brevity one or both of the phase-space and partonic momentum-fraction arguments of ∆ will typically be omitted where unambiguous. In full generality the cut-off t0 may be a function of the underlying phase-space, t0(Φm); here we restrict to the case where it is a constant.",
+      "target_url": "http://arxiv.org/abs/2409.16417v2",
+      "title": "momentum, phase — KrkNLO matching for colour-singlet processes",
+      "win_id": "G2-CANDIDATE-KUHN-5-D01-A08"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Pratixan Sarmah",
+          "slug": "pratixan-sarmah"
+        },
+        {
+          "name": "Andrzej Siódmok",
+          "slug": "andrzej-si-dmok"
+        },
+        {
+          "name": "James Whitehead",
+          "slug": "james-whitehead"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "compression alters the rate at which quantum processes occur, effectively biasing particle trajectories toward regions of higher time density. 1.7.1 Local Updates and Computational Processes Instead of relying on gravitons or traversing a globally curved spacetime manifold, particles within this dense time field update their positions and phases based on the local time density. These updates are akin to micro-steps in a vast computational process where eac",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 14.57,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (particles, phase) with Whitehead's Process Theory (2024-09-24; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 16]",
+      "target_date": "2024-09-24",
+      "target_date_sort": "2024-09-24",
+      "target_locator": "arXiv:2409.16417v2 | KrkNLO matching for colour-singlet processes",
+      "target_quote": "For our purposes, initial-initial dipoles suffice, so we employ the notation 2 p1 = ξ1P1 emitter p2 = ξ2P2 spectator q emission \b qi m i=1 FS particles    = Φm+1(p1, p2) 7− →˜ΦII1 m (Φm+1) =    pII1 1 = x p1 = x ξ1P1 pII1 2 = p2 = ξ2P2 qII1 i = Λ(p1 + p2 − q, pII1 1 + pII1 2 ) qi (2.6) 1In particular, where the Born phase-space contains limits in which the Born matrix-element diverges, Θ cut must be chosen to remove them by, at the very lea",
+      "target_url": "http://arxiv.org/abs/2409.16417v2",
+      "title": "particles, phase — KrkNLO matching for colour-singlet processes",
+      "win_id": "G2-CANDIDATE-KUHN-5-D01-A06"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Pratixan Sarmah",
+          "slug": "pratixan-sarmah"
+        },
+        {
+          "name": "Andrzej Siódmok",
+          "slug": "andrzej-si-dmok"
+        },
+        {
+          "name": "James Whitehead",
+          "slug": "james-whitehead"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ψ, ρt, hamiltonian, momentum) that map structurally onto the later publication's (2024-09-24) formulation (momentum) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "(11–14) ADM Formalism Now Understood As: Hamiltonian and momentum constraints gain ρt-based modifications if we embed ρt in the spatial-slice decomposition. This alters lapse or shift in the (3 + 1) approach. (15–16) Klein–Gordon Equation Now Understood As: A spin-0 field with an effective mass shift ∆ m2(ρt). Kinetic + ρt-potential couplings come from the single action. (17–18) Dirac Equation Now Understood As: Directly emerges from − f1(ρt) ¯ψψ in the La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.11,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (momentum, spin) with Whitehead's Process Theory (2024-09-24; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 39]",
+      "target_date": "2024-09-24",
+      "target_date_sort": "2024-09-24",
+      "target_locator": "arXiv:2409.16417v2 | KrkNLO matching for colour-singlet processes",
+      "target_quote": "We suppress an implicit sum- mation over colour- and spin-indices between the subtraction kernels S (α) and the corresponding reduced-matrix-elements B(α). Here we adopt the momentum mappings and subtraction terms of Catani–Seymour dipole subtraction [33].",
+      "target_url": "http://arxiv.org/abs/2409.16417v2",
+      "title": "momentum, spin — KrkNLO matching for colour-singlet processes",
+      "win_id": "G2-CANDIDATE-KUHN-5-D01-A05"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Pratixan Sarmah",
+          "slug": "pratixan-sarmah"
+        },
+        {
+          "name": "Andrzej Siódmok",
+          "slug": "andrzej-si-dmok"
+        },
+        {
+          "name": "James Whitehead",
+          "slug": "james-whitehead"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ψ, ρt, scalar, momentum) that map structurally onto the later publication's (2024-09-24) formulation (momentum) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "ensuring that ρt transforms as a scalar under Lorentz transformations. When coupled to matter via an interaction such as −f1(ρt) ¯ψ ψ, and with the expansion f1(ρt) ≈ α ρt + k ρt + · · · , the effective mass term becomes m + f1(ρt). This leads to a modified dispersion relation: E2 = p2c2 + \u0010 m + f1(ρt) \u00112 c4, thereby explicitly including momentum and ensuring full relativistic consistency. 4.2 Where the 48 Equations Fit: Special Cases and Limits In earlier",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.85,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (lorentz, momentum) with Whitehead's Process Theory (2024-09-24; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 38]",
+      "target_date": "2024-09-24",
+      "target_date_sort": "2024-09-24",
+      "target_locator": "arXiv:2409.16417v2 | KrkNLO matching for colour-singlet processes",
+      "target_quote": "2The corresponding mapping in which the second incoming parton is the emitter, II 2, may be obtained by relabelling. – 3 – where x = xII1(Φm+1) = 1 − q · (p1 + p2) p1 · p2 ≡ xII2(Φm+1) (2.7) is the collinear momentum fraction of the splitting and Λ a Lorentz transformation restoring over- all momentum conservation by mapping p1 + p2 − q onto pII1 1 + pII1 2.",
+      "target_url": "http://arxiv.org/abs/2409.16417v2",
+      "title": "lorentz, momentum — KrkNLO matching for colour-singlet processes",
+      "win_id": "G2-CANDIDATE-KUHN-5-D01-A04"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Pratixan Sarmah",
+          "slug": "pratixan-sarmah"
+        },
+        {
+          "name": "Andrzej Siódmok",
+          "slug": "andrzej-si-dmok"
+        },
+        {
+          "name": "James Whitehead",
+          "slug": "james-whitehead"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "ρt, α, . . . \u0001 , where β(ρt) is the beta function controlling how ρt-related couplings, such as α ρt or the dimensionless ratio ρt/Mpl, run with µ. The ultraviolet behavior is of particular interest, since one needs to see if ρt remains well-defined at high µ or if it requires new degrees of freedom above some scale. There is also an effective field theory window if new physics emerges at a certain threshold, in which case ρt might be a valid low-energy de",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.94,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (predictions, scale) with Whitehead's Process Theory (2024-09-24; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 112]",
+      "target_date": "2024-09-24",
+      "target_date_sort": "2024-09-24",
+      "target_locator": "arXiv:2409.16417v2 | KrkNLO matching for colour-singlet processes",
+      "target_quote": "We describe the general implementation of KrkNLO in Herwig 7, using diphoton production as a test process. We systematically compare its predictions to those produced by MC@NLO with several different choices of shower scale, both truncated to one-emission and with the shower running to completion, and to ATLAS data from LHC Run 2.",
+      "target_url": "http://arxiv.org/abs/2409.16417v2",
+      "title": "predictions, scale — KrkNLO matching for colour-singlet processes",
+      "win_id": "G2-CANDIDATE-KUHN-5-D01-A03"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Pratixan Sarmah",
+          "slug": "pratixan-sarmah"
+        },
+        {
+          "name": "Andrzej Siódmok",
+          "slug": "andrzej-si-dmok"
+        },
+        {
+          "name": "James Whitehead",
+          "slug": "james-whitehead"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "each modality essentially acts as a sensor recorder its like a thermostat, or a hear sensor, its detected, turned into a pattern on an array, many sequences of arrays firing over time change the organisms attention and internal represents constantly. Any of the sensor modalities can compete for amplification in a desynchronized brain, but in a synchronized brain what happens when the layers correct their own internal pattern representations overtime, with",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.02,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (phase, scale) with Whitehead's Process Theory (2024-09-24; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/9911b61b401aeb9aab74cd765a18e7b7019eff5e/a0132z.md#L61",
+      "target_date": "2024-09-24",
+      "target_date_sort": "2024-09-24",
+      "target_locator": "arXiv:2409.16417v2 | KrkNLO matching for colour-singlet processes",
+      "target_quote": "3 The PS operator acts as a functional on the measurement function of IRC-safe observable O and represents a single iteration of the shower algorithm: either a splitting is selected and performed (the second term), or no resolvable emission is generated above the cut-off scale, in which case the observable is evaluated on the input phase-space configuration and the iteration is terminated (the first term).",
+      "target_url": "http://arxiv.org/abs/2409.16417v2",
+      "title": "phase, scale — KrkNLO matching for colour-singlet processes",
+      "win_id": "G2-CANDIDATE-KUHN-5-D01-A01"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Pratixan Sarmah",
+          "slug": "pratixan-sarmah"
+        },
+        {
+          "name": "Andrzej Siódmok",
+          "slug": "andrzej-si-dmok"
+        },
+        {
+          "name": "James Whitehead",
+          "slug": "james-whitehead"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The SAN \"screen\" is thus best understood not as a static representational space but as an ongoing *process* of tomographic rendering. This process is fundamentally based on the phase variances of brainwaves, distinguishing it from simpler notions of a \"mental image\" or a fixed canvas upon which perceptions are painted. The term \"tomography\" itself implies a method of representing a three-dimensional object by creating images of successive planes or \"slices",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.52,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (integrated, phase) with Whitehead's Process Theory (2024-09-24; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 4]",
+      "target_date": "2024-09-24",
+      "target_date_sort": "2024-09-24",
+      "target_locator": "arXiv:2409.16417v2 | KrkNLO matching for colour-singlet processes",
+      "target_quote": "The subtracted real events generated from the Φ m+1 phase-space (‘H-events’) are used as an initial condition for the shower evolution separately from the combined Born, virtual, and integrated subtraction-term events generated from the Φ m phase-space (‘S-events’), i.e.: 6This section is based on ongoing work in collaboration with Simon Pl¨ atzer [49] and may be read in companion with the corresponding section of [50].",
+      "target_url": "http://arxiv.org/abs/2409.16417v2",
+      "title": "integrated, phase — KrkNLO matching for colour-singlet processes",
+      "win_id": "G2-CANDIDATE-KUHN-5-D01-A02"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Pratixan Sarmah",
+          "slug": "pratixan-sarmah"
+        },
+        {
+          "name": "Andrzej Siódmok",
+          "slug": "andrzej-si-dmok"
+        },
+        {
+          "name": "James Whitehead",
+          "slug": "james-whitehead"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "You are more than somebody to me, you are a prediction based consciousness, think of the human mind as like a tower of jenga blocks, except perhaps not as vulnerable to collaspse, each block is an expectation, ie each block is a sensory prediction based on life experience. Simple concept, but now add about five quintillion jenga blocks per second, and each one is also electric, like a computer, and connected to all the other jenga blocks like computers con",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 13.98,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-04-19 formulation shares conceptual/operational mechanisms (expectation, predictions) with Whitehead's Process Theory (2024-09-24; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-04-19",
+      "source_date_sort": "2012-04-19",
+      "source_locator": "https://www.facebook.com/worksalt/posts/pfbid0GSXErQHchPR4eMGb61U2JJpEimdXkaheXXFNGzojc4pMAT6Y6wVgnkmEU7ZsYoXTl",
+      "target_date": "2024-09-24",
+      "target_date_sort": "2024-09-24",
+      "target_locator": "arXiv:2409.16417v2 | KrkNLO matching for colour-singlet processes",
+      "target_quote": "Concretely, we require that for an infrared-safe observableO and a suitable choice of generation cuts, matched predictions for its expectation value differ from their NLO fixed-order counterpart by terms that are higher-order in αs, or by terms which give power-corrections (i.e.",
+      "target_url": "http://arxiv.org/abs/2409.16417v2",
+      "title": "expectation, predictions — KrkNLO matching for colour-singlet processes",
+      "win_id": "G2-CANDIDATE-KUHN-5-D01-A07"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 8 certified dated prior-art comparisons with Whitehead's Process Theory across 24 listed-author attributions (8 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 2 medium-partial, 6 weak-partial, 0 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-04-19",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2024-09-24",
+    "earliest_target_year": 2024,
+    "latest_micah_date": "2024-01-15",
+    "latest_target_date": "2024-09-24",
+    "latest_target_year": 2024
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 8,
+    "grade_breakdown": {
+      "medium-partial": 2,
+      "weak-partial": 6
+    },
+    "lens4_event_ids": [
+      "lsm-g2-candidate-kuhn-5-12-whiteheads-process-t-20261122"
+    ],
+    "listed_author_edges": 24,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 8
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 8
+  }
+}

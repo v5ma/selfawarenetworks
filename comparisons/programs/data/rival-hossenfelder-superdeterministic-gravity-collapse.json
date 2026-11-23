@@ -1,0 +1,835 @@
+{
+  "authors_linked": [
+    {
+      "name": "Sabine Hossenfelder",
+      "slug": "sabine-hossenfelder"
+    }
+  ],
+  "display_code": "hossenfelder-superdeterministic-gravity-collapse",
+  "domain_group": "physics",
+  "domains": "physics; quantum-foundations",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-01-01 and 2025-01-21, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 16 documented mechanisms appearing in Hossenfelder Superdeterministic Gravity Collapse (2020-10-03 to 2025-10-13) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Hossenfelder Superdeterministic Gravity Collapse",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 16 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 3 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 16 dated comparisons and 16 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-hossenfelder-superdeterministic-gravity-collapse",
+  "program_name": "Hossenfelder Superdeterministic Gravity Collapse",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Scott Cave Here this is the paragraph from my article, just paste it into ChatGPT and ask every question about it you understand why this means there is no observer effect at all anywhere. \"Delayed-choice and quantum-eraser experiments show that a photon (or any quantum particle) remains in a superposition of all possible paths until a final, definitive measurement determines its behavior. Even when a measurement device is added or removed late in the setu",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.63,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2025-01-21 formulation shares conceptual/operational mechanisms (photon, superposition) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-01-21",
+      "source_date_sort": "2025-01-21",
+      "source_locator": "SAN Priority Index 2010-2026",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "This means that the total mass that is in a superposition of two places will in- crease due to the measurement. Consider for example that we create a superposition of a photon with a beam splitter and then measure the photon with a photomultiplier.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "photon, superposition — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "8.7 Summary Incorporating Dark Time Theory (QGTCD) into established theoretical frameworks— from ADM Hamiltonian constraints to AdS/CFT and relativistic quantum infor- mation—unlocks new ways to reconcile quantum-scale corrections with macroscopic gravity. By treating time density as a dynamic entity, one can hypothesize novel solutions, predict small but testable departures from standard GR, and enrich holographic models with an extra dimension of “time d",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 24.96,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (gravity, hamiltonian, quantum) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 48]",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "Off the Hamiltonian We will reconcile the product assumption with the canon- ical quantum gravity evolution by conceding that the time- evolution of the product state cannot be a solution to the Schr¨odinger equation.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "gravity, hamiltonian, quantum — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "10.6 Comparisons with Standard Tunneling Theory 10.6.1 Conventional Quantum Mechanics • Wavefunction Overlap. Conventional tunneling pictures the wavefunction as having a small but finite amplitude in the barrier, resulting in a probability for the electron to appear on the other side. • Collective Re-Interpretation. Micah’s New Law simply restates that the electron amplitude is not “one particle forcing its way,” but rather a reallocation of wavefunction",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 27.8,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (quantum, wavefunction) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 54]",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "The resulting model is local, parameter-free and makes testable predictions. INTRODUCTION The measurement problem in quantum physics concerns the question of why we generically do not observe the out- come of the Schr¨odinger evolution, but merely one eigenstate of the measurement observable with a probability that can be computed from the wavefunction.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "quantum, wavefunction — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (gravitational, ρt, dark time, mass) that map structurally onto the later publication's (2025-10-13) formulation (gravitational) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Consequences for Gravitational Physics. Because ρt can respond dynamically if mass distribution changes (e.g. during a supernova or black-hole merger), one might see “time- density perturbations” that propagate or diffuse. At a deeper level, giving ρt this PDE-based evolution further cements it as a local field. Hence, gravitational or quantum anomalies can be computed from ρt(x, t) in principle, rather than appended by hand. The Path Forward. A complete t",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 24.81,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (field, gravitational) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 36]",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "Our action principle now must take into account the de- tector. We then see immediately that any state that will be measured which is not to good approximation in one location (and hence has approximately a classical gravitational field), will generate a very large residual once it hits the detector.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "field, gravitational — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "instantaneous collapse is required; the “global” correlations simply reflect the synchronization that was established when the entangled pair was formed. Hence, SuperTimePosition sits in the class of local deterministic interpretations that can replicate quantum violations of Bell’s inequalities by relaxing certain independence assumptions. We treat those assumptions as artifacts of undersampling a deeper, faster time scale, rather than evidence of nature’",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.5,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravity, quantum) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 22]",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "It is therefore clear that to arrive at a local collapse model, we must use a superdeter- ministic approach. The aim of this paper is to show that a local collapse arises in a superdeterministic setting from what I be- lieve to be fairly general assumptions about quantum gravity.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "gravity, quantum — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ρt, time density, dark time, metric) that map structurally onto the later publication's (2025-10-13) formulation (gravity, metric) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics). Corroborated independently by a second structural bridge (Cross-Scale Anisotropic Tensor & Information-Geometry Coupling).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "ρt, ϕ, ∂ µρt, . . . \u0001 d4x, where ϕ collectively denotes the standard matter (and possibly gauge) fields, ρt is a new scalar-like field representing local time density, and ∂µρt along with potential interaction terms such as α ρt − k ρt appear explicitly in L. Conceptually, ρt can be viewed as an auxiliary field that couples to matter via potential-like terms, modifies the effective metric, or both. 7.11.2 Effective Action & Field Equations After choosing h",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 27.53,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (matter, metric) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 52]",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "We then want to recover the familiar Hilbert space of quantum gravityH, that is a product of matter and geometric degrees of freedom H=H m ⊗H g .(1) The geometric degrees of freedom do not necessarily have to be the metric.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "matter, metric — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "the overall inferred distribution of mass on cosmic scales. This new approach may therefore offer potential alternatives to conventional dark matter and dark energy explanations by redefining gravity as emerging from variations in the flow of time rather than solely from the geometry of space. By merging the insights of our time crystal interpretation with astrophysical observations, we propose a unified picture in which the internal, oscillatory dynamics",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 27.77,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (geometry, gravitational, gravity, matter) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 60]",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "DISCUSSION I now want to spend a few words on why I think it makes sense to treat gravity differently from the other interactions. In canonically or perturbatively quantised gravity, the en- tanglement between matter and its gravitational field can be 5 The assumption that particles and geometry are ultimately the same does not per se require the existence of gravitons.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "geometry, gravitational, gravity, matter — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "decoherence clarifies why macroscopic superpositions are relatively rare and highlights a fundamental role for gravity in shaping the transition between quantum and classical regimes. 2.6 Constructive vs. Destructive Wave Interference Super Dark Time uses the concept of wave interference to explain how “time waves” can vary local time density and thus modulate gravitational effects. Rather than viewing gravity as a static force, Dark Time holds that it cha",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 28.05,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravitational, particles, quantum) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 28]",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "The required precision is given by the accumulated Penrose phase. However, the temporal and spatial extension of these inter- mediate superpositions much exceeds those of virtual particles because quantum gravitational effects are so small.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "gravitational, particles, quantum — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Another gravitational limit, where including time-density in the Ricci term changes the focusing/defocusing of geodesic congruences. (41–42) Yang–Mills Now Understood As: A non-Abelian version of (21 − −22), i.e. f2(ρt) F a µνF a,µν. Maxwell is the U(1) case of the full gauge group. (43–44) Schr¨ odinger–Newton Equation Now Understood As: A semiclassical gravity wavefunction approach, but now with ρt embedded to modify both the potential ( m Φ) and wave ev",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.24,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, gravitational, mass) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 40]",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "In the PD model, the deviation from the standard Schr¨odinger equation comes from a noise-kernel that scales with the gravitational self-energy of the mass-density.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "density, gravitational, mass — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-07-26) expresses active mechanism anchors (gravitational, time dilation, quantum gradient, mass) that map structurally onto the later publication's (2025-10-13) formulation (gravitational) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "I share these references to Time crystals & new phases of matter that act like there are two time dimensions to point back to my Quantum Gradient Time Dilation theory. Except that I am arguing that all mass is essentially a time crystal, including quantum particle masses. With Time Dilation time is slowest at the center of the gravitational mass where the frequency of mass or in other words where the density of mass is the highest. (evoking a reference to",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 26.9,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-07-26 formulation shares conceptual/operational mechanisms (gravitational, particle) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-07-26",
+      "source_date_sort": "2022-07-26",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/92dc0fd1aad256664df035711b58e7d8e273f327/a0253z.md",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "In other words, the Hamiltonian constraint should act per particle sector (of Fock space), and not point- wise. This is why, intuitively, the state of a particle in two branches has mixed terms that essentially describe part of a particle in one place with a gravitational field sourced from another place.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "gravitational, particle — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "This idea of quantum gravity replaces the extra dimension of string theory, because every mass, from an electron, to an atom, to a molecule is creating a traffic jam in the particle field, which causes particles",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.94,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-12 formulation shares conceptual/operational mechanisms (entanglement, field, gravity, particle, quantum) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-12",
+      "source_date_sort": "2022-06-12",
+      "source_locator": "Particle relationships and measurement-conditioned field changes are inputs to emergent particle and spacetime behavior, with mass producing a gradient of time structure.",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "Consequently, the electron is entangled with the soft photon dressing. The entanglement in quantum gravity comes about in the same way: it describes a dressing by soft gravitons that can then be interpreted as the field caused by the particle, or the geometric deformation respectively.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "entanglement, field, gravity, particle — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "9/19, 11:45pm Matthew Bendyna Hello. I've had an interesting thought but it's pure speculation. It's based on the hypothesis that black holes spawn baby universes. So, what if you could actually program this baby universe to contain your consciousness. In other words, you, an individual, have obtained the maximum computational capacity of an entire universe. Of course, if you want to work in this universe as such a being, you would have to solve the proble",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 26.04,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (black, hole) with Hossenfelder Superdeterministic Gravity Collapse (2025-10-13; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/37da575ba33f85cef4239295be161066d8d39f4c/a0116z%20ctpr.txt#L83",
+      "target_date": "2025-10-13",
+      "target_date_sort": "2025-10-13",
+      "target_locator": "arXiv:2510.11037 | How Gravity Can Explain the Collapse of the Wavefunction",
+      "target_quote": "Yet gravity car- ries information about the particles’ charges. We may note in passing that this would solve the black hole information loss problem.",
+      "target_url": "https://arxiv.org/abs/2510.11037",
+      "title": "black, hole — How Gravity Can Explain the Collapse of the Wavefunction",
+      "win_id": "G1-HOSSENFELDER-SUP-D01-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0632z ctpr Note from: Apr 19, 2012 Comment on the note: What I think I was missing at this point in time (2012) was the part about how a memory-prediction was actually a rendering that a subsequent array or layer of nerve cells would read & interpret. Micah Blumberg When the map of reality expands even more so that becomes apparent yes! It is not this or that until it is, thats quantum superposition. Micah Blumberg Our perception is a prediction, a comple",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.54,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-04-19 formulation shares conceptual/operational mechanisms (predictions, quantum) with Hossenfelder Superdeterministic Gravity Collapse (2020-10-03; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-04-19",
+      "source_date_sort": "2012-04-19",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/5360f6414909a2474129b2140ee0dc3112c93b6b/a0632z%20ctpr.txt",
+      "target_date": "2020-10-03",
+      "target_date_sort": "2020-10-03",
+      "target_locator": "arXiv:2010.01324 | Superdeterminism: A Guide for the Perplexed",
+      "target_quote": "Another confusion is that superdeterminism can’t be right because it cannot faithfully re- produce the predictions of quantum mechanics in all circumstances.",
+      "target_url": "https://arxiv.org/abs/2010.01324",
+      "title": "predictions, quantum — Superdeterminism: A Guide for the Perplexed",
+      "win_id": "G1-HOSSENFELDER-SUP-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0632z ctpr Note from: Apr 19, 2012 Comment on the note: What I think I was missing at this point in time (2012) was the part about how a memory-prediction was actually a rendering that a subsequent array or layer of nerve cells would read & interpret. Micah Blumberg When the map of reality expands even more so that becomes apparent yes! It is not this or that until it is, thats quantum superposition. Micah Blumberg Our perception is a prediction, a comple",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.68,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-04-19 formulation shares conceptual/operational mechanisms (prediction, quantum) with Hossenfelder Superdeterministic Gravity Collapse (2020-10-03; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-04-19",
+      "source_date_sort": "2012-04-19",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/5360f6414909a2474129b2140ee0dc3112c93b6b/a0632z%20ctpr.txt",
+      "target_date": "2020-10-03",
+      "target_date_sort": "2020-10-03",
+      "target_locator": "arXiv:2010.01324 | Superdeterminism: A Guide for the Perplexed",
+      "target_quote": "All the trouble with interpreting quantum mechanics comes from taking this probabilistic prediction to be fundamental, rather than a consequence of missing information.",
+      "target_url": "https://arxiv.org/abs/2010.01324",
+      "title": "prediction, quantum — Superdeterminism: A Guide for the Perplexed",
+      "win_id": "G1-HOSSENFELDER-SUP-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "ull. We also need to separate the eeg signal from ecg interference (your heart beat) and other sounds that your body makes that you don't usually hear, but for some reason are really loud when trying to measure brainwaves.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.69,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (learning, signal) with Hossenfelder Superdeterministic Gravity Collapse (2020-10-03; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "a0083z.md char 5453..5675",
+      "target_date": "2020-10-03",
+      "target_date_sort": "2020-10-03",
+      "target_locator": "arXiv:2010.01324 | Superdeterminism: A Guide for the Perplexed",
+      "target_quote": "The trouble is that the learning round does not necessarily allow anyone to superluminally signal anything. Keep in mind that the theory is deterministic.",
+      "target_url": "https://arxiv.org/abs/2010.01324",
+      "title": "learning, signal — Superdeterminism: A Guide for the Perplexed",
+      "win_id": "G1-HOSSENFELDER-SUP-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Sabine Hossenfelder",
+          "slug": "sabine-hossenfelder"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Dean: NED does not suggest that electrons have shape (that would be silly since electrons are point particles - no shape, only a field of influence). What it proposes is that the \"charges\" that pass through the neural structures have shape (temporal variances in amplitude and spatial dimension) and direction of flow - quite a different thing, and that it is this \"spike directivity\" that carries meaning, not temporal patterns which he considers epiphenomina",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 14.56,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (particles, structure) with Hossenfelder Superdeterministic Gravity Collapse (2020-10-03; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience an",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/ff55496a635b25e9511353ab2e31cee22cdac6cb/a0341z.md#L39-L43",
+      "target_date": "2020-10-03",
+      "target_date_sort": "2020-10-03",
+      "target_locator": "arXiv:2010.01324 | Superdeterminism: A Guide for the Perplexed",
+      "target_quote": "(This does not mean the model has no empirical relevance, because the underlying structure may lead to other deviations from quantum mechanics, for example by predicting a maximal number of particles that can be entangled [15].) Third, even if the hidden variables are computable in principle, it may be impossible to transfer information with knowledge about them in practice because the outcome of the mea- surement is extremely sensitive to the detailed exp",
+      "target_url": "https://arxiv.org/abs/2010.01324",
+      "title": "particles, structure — Superdeterminism: A Guide for the Perplexed",
+      "win_id": "G1-HOSSENFELDER-SUP-D02-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 16 certified dated prior-art comparisons with Hossenfelder Superdeterministic Gravity Collapse across 16 listed-author attributions (16 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 6 strong, 2 medium-partial, 7 weak-partial, 1 weak-partial cross-domain, with 3 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-01-01",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2020-10-03",
+    "earliest_target_year": 2020,
+    "latest_micah_date": "2025-01-21",
+    "latest_target_date": "2025-10-13",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 3,
+    "governed_wins": 16,
+    "grade_breakdown": {
+      "medium-partial": 2,
+      "strong": 6,
+      "weak-partial": 7,
+      "weak-partial-cross-domain": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-hossenfelder-superdeterministic-gravity-20261122"
+    ],
+    "listed_author_edges": 16,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 5,
+      "weak-partial": 10,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 16
+  }
+}

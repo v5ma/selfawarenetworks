@@ -1,0 +1,2041 @@
+{
+  "authors_linked": [
+    {
+      "name": "Alexander B. Silva",
+      "slug": "alexander-b-silva"
+    },
+    {
+      "name": "Matthew K. Leonard",
+      "slug": "matthew-k-leonard"
+    },
+    {
+      "name": "Patrick W. Hullett",
+      "slug": "patrick-w-hullett"
+    },
+    {
+      "name": "Deborah F. Levy",
+      "slug": "deborah-f-levy"
+    },
+    {
+      "name": "Catherine Wang",
+      "slug": "catherine-wang"
+    },
+    {
+      "name": "Duo Xu",
+      "slug": "duo-xu"
+    },
+    {
+      "name": "Ilina Bhaya-Grossman",
+      "slug": "ilina-bhaya-grossman"
+    },
+    {
+      "name": "Edward F. Chang",
+      "slug": "edward-f-chang"
+    }
+  ],
+  "display_code": "silva-chang-wernicke-generative-speech",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience; speech production; Wernicke area; predictive coding; inner speech; neuroprosthesis",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2011-09-21 and 2024-09-06, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 26 documented mechanisms appearing in Silva Leonard Hullett Levy Wang Xu Bhaya-Grossman Chang Wernicke Generative Speech Code (2026-01-28 to 2026-01-28) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Silva Leonard Hullett Levy Wang Xu Bhaya-Grossman Chang Wernicke Generative Speech Code",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 26 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 4 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 26 dated comparisons and 208 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-silva-chang-wernicke-generative-speech",
+  "program_name": "Silva Leonard Hullett Levy Wang Xu Bhaya-Grossman Chang Wernicke Generative Speech Code",
+  "rows": [
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2024-09-06 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The phase wave differential is different from the old tonic value. It's different from whatever the neuron's firing rate was before when it was in sync with the rest of the oscillating group of cells.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both distinguish active generative/behavioral neural firing-rate states from baseline tonic/silent population states as measurably separate computational regimes in population firing dynamics. | L2 baseline synchronized tonic firing rate -> out-of-sync firing-rate deviation (phase-wave differential) -> distinct broadcast ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-09-06",
+      "source_date_sort": "2024-09-06",
+      "source_locator": "2024-09-06 (receiver-relative differences change a distributed recurrent rendering and thereby alter availability, prediction, selection, and action)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-25: However, we found that only in the lpSTG did listening and speaking activity occupy two different parts of state space. We also found that the prespeak window was distinct from other periods of silence (e.g., compare orange with green and blue in Fig. 5D), suggesting a distinct computation.",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--CS-M24S--S26W-25"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Closed-Loop Control ITO) + Lens 3 (Cross-Terminology Migration) + Invariant 9 (Ancestral Formulation Recovery) via the Closed-Loop Recursive Feedback, Predictive Processing & Self-Model Control bridge. Micah Blumberg's dated passage (2022-11-28) expresses active mechanism anchors (prediction, predict) that map structurally onto the later publication's (2026-01-28) formulation (generative) through the shared operation: Input (continuous incoming sensory signals paired with prior internal expectations) -> Transform (recursive top-down prediction compared against bottom-up error inside a self-updating feedback loop) -> Output (refined self-consistent world/self model and adaptive error-minimizing control).",
+        "ito_alignment": "Input: continuous incoming sensory signals paired with prior internal expectations -> Transform: recursive top-down prediction compared against bottom-up error inside a self-updating feedback loop -> Output: refined self-consistent world/self model and adaptive error-minimizing control",
+        "lens_basis": "Lens 1 (Closed-Loop Control ITO) + Lens 3 (Cross-Terminology Migration) + Invariant 9 (Ancestral Formulation Recovery)",
+        "primary_bridge_id": "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "primary_bridge_name": "Closed-Loop Recursive Feedback, Predictive Processing & Self-Model Control",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah 2022-11-28 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "The index of local coupling with eeg or bold fmri signals would show which brain regions are communicating, allowing the prediction of the task being focused on, but its the tiny variations, the phase changes happening between coupled areas that would contain the information being traded between coupled areas",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both diagnose the exact methodological boundary between macroscopic neuroimaging (BOLD fMRI / macro-EEG), which resolves regional task engagement and inter-regional coupling, and fine-scale rapid neural dynamics required to resolve the actual representational content and generative mechanics. | L2 macroscopic EEG / BOLD f",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-11-28",
+      "source_date_sort": "2022-11-28",
+      "source_locator": "2022-11-28 ({'claimed': None, 'claimed_basis': None, 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0325z', 'index_date': '2022-06-08', 'effective_date': '2022-11-28', 'commit_override_note': 'Earliest commit of a0325zNAPOT6.md (2022-11-28); dated honestly to commit 2022-11-28.', 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-07: Lesion and functional imaging studies have demonstrated engagement of the STG during speaking (6, 18, 33–36), including imagined speech (37–41), but lack the temporal resolution needed to establish whether activity is generative and precedes speech output.",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G70--S26W-07"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-11-28 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "It's a thought experiment because in the literature there are actually separate motor neural pathways and separate sensor neuropathways, and the real brain is so messy there is probably a bit of both happening on both sides in most of the brain cells (neurons & glia), but not in equal measure in every place or every cell.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both reject a clean textbook partition assigning sensory perception and active motor/output generation to mutually exclusive brain regions, arguing instead for graded co-occurrence of sensory-receptive and active output-generating functions within the same cortical territory. | L2 strict textbook split into separate senso",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-11-28",
+      "source_date_sort": "2022-11-28",
+      "source_locator": "2022-11-28 ({'claimed': None, 'claimed_basis': None, 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0325z', 'index_date': '2022-06-08', 'effective_date': '2022-11-28', 'commit_override_note': 'Earliest commit of a0325zNAPOT6.md (2022-11-28); anchored to Micah Inceptive Field prose (dropping Darren R quote).', 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-33: Rather than being a single region dedicated to perception or production, it is better understood as an auditory region composed of multiple specialized populations, including those for acoustic-phonetic perceptual encoding; auditory feedback monitoring; and, within lpSTG, word-level, generative speech production.",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G67--S26W-33"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-11-28 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "If you notice how when cooking & eating with other people the repeated phrases, catch phrases, memes, quips, or expressions get voiced on a daily basis by the people around you, and by yourself, that would be an example of the result of CCPG, Cortical Column Pattern Generators, that basically store, retrieve, and oscillate our learned patterns in memory & language that your brain activates with minimal energy, and they are modified only slightly by sensory",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both treat stored cortical linguistic patterns (voiced phrases/words) as active generative pattern-initiating signals—distinct from passive sensory echoing—that organize upstream sensory/predictive representations before passing into downstream muscle-coordination speech sequences. | L2 Cortical Column Pattern Generators ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-11-28",
+      "source_date_sort": "2022-11-28",
+      "source_locator": "2022-11-28 ({'claimed': None, 'claimed_basis': None, 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0319z', 'index_date': '2022-06-08', 'effective_date': '2022-11-28', 'commit_override_note': 'Earliest git commit of a0319z.md (2022-11-28 18:09:11 -0800); dated honestly to commit 2022-11-28 rather than catalog 2022-06-08.', 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-34: These representations correspond closely to what Wernicke originally proposed as “auditory word images” (5), identified here as an active signal that initiates speech rather than a passive sensory store. Within the broader peri-Sylvian network, the lpSTG is the earliest cortical region engaged before speech, and its word-level representations may be passed to mPrCG for motor planning (62, 63) and to ventral SMC for execution (30, 58)",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G05--S26W-34"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-11-28 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Not all of our sensory inputs are conscious and not all of our motor outputs are conscious, because we have a high level coarse-grained computationally rendered internal representation, that manifests a multi-sensory metaphor of reality, so only the aggregate of a great number of isomorphic or self-similar phase wave differentials reach attention in our phenomenological conscious experience, those things that are perceived consciously are the dominant phas",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both locate the bridge linking perception and motor action at a high-level coarse-grained aggregate representation that abstracts away low-level sensory details and individual muscle/motor movements rather than operating at raw sensory or motor granularity. | L2 low-level subconscious sensory inputs and motor signals -> c",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-11-28",
+      "source_date_sort": "2022-11-28",
+      "source_locator": "2022-11-28 (first public git commit of a0325zNAPOT6.md (NAPOT 6 rough draft); the file cites a 2022-11-14 bioRxiv preprint)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-03: Detailed analyses revealed that this region encodes properties of entire words, such as their length and frequency, rather than individual sounds or motor movements.",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--M15.M22-1128-C--S26W-03"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-11-28 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Each neuron also specializes in non-linear spatial computation, meaning that where, when, and how the neuron is interacted with helps determine the type of response that it will have, including variations in the frequency & magnitude (duration & amplitude) of it's response",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both describe single neurons exhibiting timing- and interaction-context-dependent nonlinear response codes rather than a single fixed stimulus-response mapping across all behavioral phases. | L2 single neuron receives spatiotemporal interaction varying by where/when/how -> nonlinear dendritic/somatic computation shifts re",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-11-28",
+      "source_date_sort": "2022-11-28",
+      "source_locator": "2022-11-28 (an artificial mind combines fast state updates, slower structural development, spatial rendering, and reciprocal observation between human and machine)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-27: Although there may be some individual neurons that have a shared code across listening and speaking [e.g., Fig. 5B, pSTG neurons 0-71 (66)], these results suggest that lpSTG activity reflects a set of distinct representations across listening, prespeak, and speaking windows.",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--CS-M22A--S26W-27"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-09-17 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The brain is effectively doing computational rendering & then reading it’s own output pattern, from neuronal outputs, as that pattern is looped or played back to the neural network of the brain which detects it, with neuronal inputs, and re-renders (outputs it again) with new sensor input data.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both place active output generation and perceptual reading/monitoring of that output within one unified cortical neural-network cycle rather than splitting generation and perception into separate disconnected faculties. | L2 cortical network renders output pattern -> same neural network detects/reads back its own looped o",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-17",
+      "source_date_sort": "2022-09-17",
+      "source_locator": "2022-09-17 (Git author date of the immutable commit)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-35: In resolving how the lpSTG gives rise to the words we speak, these findings reconcile a long-standing division between the perceptual and productive accounts of Wernicke’s area",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--GS-M22-SEP17-A01--S26W-35"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-08-30 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "So every neuron represents an actor, one that learns to respond selectively to certain patterns, and encodes in it's exit a response action.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both link stimulus-selective sensory reception and anticipatory action-producing burst/firing output within single excitatory pyramidal neurons rather than passive sensory relay cells. | L2 pyramidal neuron basal dendrite encodes selective sensory input -> apical/exit terminal learns predictive timing -> backpropagating p",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-30",
+      "source_date_sort": "2022-08-30",
+      "source_locator": "2022-08-30 (Git author date of the immutable commit)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-26: We clustered spike waveforms from all prespeak neurons and found that compared with all other cells, prespeak neurons are more likely to be regular spiking (putative excitatory pyramidal) cells (Fig. 5G; P < 0.001; permutation test).",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--GS-M22-AUG30-A01--S26W-26"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-08-19 vs Target 2026-01-28",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "I think what I was arguing here, but didn't finish, is that the phase changes at a higher levels, layers, or further back arrays, result in features that scale, and abstractions & concepts that scale beyond features. In a neural network information telescopes from microlensing at the sensory inputs to macrolensing at the hierachical peak, and then the feedback from the hierarchical peak drives behavior.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both organize cortical processing along a scaling hierarchy from fine-grained sensory-input features up to higher-level, more abstract representations (\"abstractions & concepts that scale beyond features\" / whole-word forms) that sit above low-level sensory interfaces and drive outgoing behavior. | L2 fine-grained sensory",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-19",
+      "source_date_sort": "2022-08-19",
+      "source_locator": "2022-08-19 ({'claimed': None, 'claimed_basis': None, 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0111z', 'index_date': '2022-06-08', 'effective_date': '2022-08-19', 'commit_override_note': 'Earliest commit adding # Telescoping Mind in a0111z.md (2022-08-19); anchored strictly to Micah prose L3-L19 (dropping pasted bat-vocalization paper quotes L21-L83).', 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-19: Together, these results demonstrate that lpSTG prespeak populations encode information about upcoming word forms, and not lower-level acoustic or articulatory features related to syllables or phonemes. This positions the lpSTG at a higher, more abstract level than neighboring regions that function as a low-level interface for sensorimotor transformation (15, 25).",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G80--S26W-19"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-08-05 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "No neuron array understands that it is not the first layer of neurons, because a neuron only perceives what is in it's receptive field, so in a sense all neuron arrays are sensory input neurons, and all neuron arrays are pattern output arrays.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both reject a strict anatomical wall between pure sensory-perception regions and pure generative-output regions, placing perceptual reception and generative pattern output within the same cortical neural-array architecture. | L2 cortical array perceives upstream receptive-field pattern -> transforms pattern locally -> sim",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-05",
+      "source_date_sort": "2022-08-05",
+      "source_locator": "2022-08-05 (distributed arrays receive, transform, and project partial states; recurrent rendering, self/world relation, choice, action, returned consequence, development, and artificial sentience form one system)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-35: The generation of word forms among the populations that monitor produced speech situates lpSTG precisely at the convergence of perception and production.",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--CS-M22W--S26W-35"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-08-05 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The next array perceives that picture, in a sense see's or hears or feels that picture, and then it creates it's own pattern representation for the array layer behind it, the process keeps repeating across the whole brain, from the sensory input neuropathways, and eventually out via the motor output neuropathways.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both describe a staged cortical hierarchy in which upstream sensory-cortex representations generate structured pattern outputs passed sequentially through intermediate layers to motor-output execution pathways. | L2 sensory-pathway array perceives auditory/visual pattern -> generates transformed pattern representation for",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-05",
+      "source_date_sort": "2022-08-05",
+      "source_locator": "2022-08-05 (distributed arrays receive, transform, and project partial states; recurrent rendering, self/world relation, choice, action, returned consequence, development, and artificial sentience form one system)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-22: This proposed hierarchy suggests a temporal lobe region that is upstream from motor planning and execution on SMC and positions lpSTG as central to a broader network for speech production, which plays out in a cycle aligned to words in continuous speech.",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--CS-M22W--S26W-22"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-06-11 vs Target 2026-01-28",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "so a tactile reading of braille text which is bumps on a page can result in words read from tactile sensations but processed in the somatosensory cortex first instead of from the visual (electric field solitons) cortex, the auditory cortex (mechanical soliton waves), decoded from the sensation of heat patterns (its a weird idea but imagine using heat to transmit morse code signals), chemical (the gut feeling), but the basic idea is that the patterns that",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both establish that cortical word representations are modality-invariant neural patterns separable from visual or orthographic reading input rather than being an artifact of visual text presentation. | L2 words presented across tactile, visual, or auditory sensory inputs -> modality-invariant cortical phase-state encoding",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-11",
+      "source_date_sort": "2022-06-11",
+      "source_locator": "2022-06-11 ({'claimed': None, 'claimed_basis': None, 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0132z', 'index_date': '2022-06-08', 'effective_date': '2022-06-11', 'commit_override_note': 'First public git commit of a0132z.md (2022-06-11 17:57:04 -0700; replaces later 2022-08-22 commit 9911b61b).', 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-10: Although the speaking task involves reading sentences cued from a screen before speaking (Fig. 1A), we verified that prespeak activity could not be attributed to visual or orthographic processing alone given its presence during spontaneous speech and delayed repetition tasks (fig. S4), as well as its persistence through the speaking phase of the task (fig. S3).",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G09--S26W-10"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-06-10 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the knowledge is played back in sequences, so knowledge appears partially in one area of the brain, then partially in another, then partially in another, and consciousness only exists in time over 4 dimensions, 1 dimension of time and 3 dimensions of space. It's a self-aware network in 4 dimensions rendering a 4 dimensional pattern to itself that is reactive to the world and able to make prediction-based models of reality with sparse spatially & temporally",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both describe sequential inter-regional spatiotemporal playback in which neural activity unfolds partially in one cortical region then another across perisylvian language hubs including Wernicke/TPJ and frontal speech areas. | L2 sparse spatially and temporally distributed firing deviations -> sequential playback appearin",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-10",
+      "source_date_sort": "2022-06-10",
+      "source_locator": "2022-06-10 (first public git commit of a0079z)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-21: When we examined electrodes in each group according to anatomical region, we found that word-aligned HGA in continuous speech showed a reliable temporal order in which lpSTG prespeak populations were active first, followed by SMC prespeak electrodes, SMC speak electrodes, and finally mSTG speak electrodes (Fig. 4C). This order of increasing latency relative to the earliest lpSTG prespeak electrodes, combined with cross correlations across electrod",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--TH.M22-0610-B--S26W-21"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2022-06-10) expresses active mechanism anchors (perception, awareness) that map structurally onto the later publication's (2026-01-28) formulation (perception) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah 2022-06-10 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Imagine that a dog could model your inner voice within themselves, use that model to develop their own self awareness and continue developing that model even in your absence through inner neuronal chat.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both distinguish internally generated, self-sustaining voice/speech representations (\"inner voice\" / \"inner neuronal chat\" continuing without external voices) from passive reception of external auditory speech feedback. | L2 heard external voices -> internalized into an active cortical voice model -> runs autonomously as ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-10",
+      "source_date_sort": "2022-06-10",
+      "source_locator": "2022-06-10 ({'claimed': None, 'claimed_basis': None, 'verified': '2022-06-08', 'verified_basis': 'public Git commit', 'index_date': '2022-06-08', 'effective_date': '2022-06-10', 'commit_override_note': 'First public git commit of a0036z.md (2022-06-10 12:39:30 -0700; replaces archive commit 766f3d36) containing inner voice replacing external voices, TPJ/Wernicke, and action-perception cycle.', 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-06: These possibilities raise several unresolved questions about how the STG contributes to speaking: (i) To what extent are perception and production processes localized to distinct neural populations in the temporal lobe? (ii) Is there a distinct STG subregion for speech generation through activity that precedes and predicts upcoming speech that is distinct from auditory feedback mechanisms? (iii) At what representational level of speech [syllables,",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G06--S26W-06"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2022-06-08 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "neurons 2 and 3 are listening to incoming signals to predict whether they are going to fire next in a sequence, or whether they are not going to fire next in a sequence",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both describe single neurons / local cell groups transitioning sequentially across listening to incoming signals, holding through an intervening delay/wait step, and predictively firing next in an outgoing sequence. | L2 neuron listens to incoming signals from firing group -> waits inhibited/delay round -> predicts whethe",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "2022-06-08 (Git author date of the immutable commit)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-23: We found that individual lpSTG neurons fired for specific words, and in many cases spanned listening, delay, prespeaking, and speaking (Fig. 5B, top, neurons 1 and 2).",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--GS-M22-JUN08-A01--S26W-23"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2021-10-09 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "something about the TPJ, Observation is reporting or rendering reported to sensation or perception in a loop, observation is a loop of reporting & detection, observation is a loop of rendering & perception, observation is a state of detection frames coupled with rendered frames.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both locate a coupled loop of perceptual detection and active rendering/reporting in temporoparietal territory (TPJ / posterior STG-temporoparietal cortex) where the internally rendered frame precedes communicative report to another person. | L2 TPJ phase-change tracking -> interlaced loop of perceptual detection frames a",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2021-10-09",
+      "source_date_sort": "2021-10-09",
+      "source_locator": "2021-10-09 (recording date stated in the b0146y transcript (\"recorded October 9th, 2021\"); this written summary first appears in git 2022-11-28)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-05: Under this hypothesis, the same mid-to-posterior STG populations that encode sound information during listening are also critical for speech feedback mechanisms (18–24) or are related to phonological sensorimotor transformations in the nearby temporoparietal cortex (15, 25).",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--M15.M21-1009-B--S26W-05"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2021 ({'claimed': '2021', 'claimed_basis': 'earlier date recorded by the source index (olderDate: October 10, 2021 is the written heading, not the fixation date of every addition)', 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file b0146y', 'index_date': '2021', 'effective_date': '2021', 'commit_override_note': None, 'rule': 'earliest verified commit or claimed date strictly verified against git history'}) vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "And so, you have basically ensembles of neurons, or neurons at different levels, large groups of neurons, but also single neurons at a tipping point that can shift the direction of behavior towards selection of one pattern or another based upon what they think is going to be there.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both pair multiscale neural populations (\"large groups of neurons\") with individual single neurons actively participating in anticipatory pattern selection that drives outgoing behavior (\"based upon what they think is going to be there\") rather than passively relaying external environmental input. | L2 partially triggered",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2021 ({'claimed': '2021', 'claimed_basis': 'earlier date recorded by the source index (olderDate: October 10, 2021 is the written heading, not the fixation date of every addition)', 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file b0146y', 'index_date': '2021', 'effective_date': '2021', 'commit_override_note': None, 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "source_date_sort": "2021-01-01",
+      "source_locator": "2021 ({'claimed': '2021', 'claimed_basis': 'earlier date recorded by the source index (olderDate: October 10, 2021 is the written heading, not the fixation date of every addition)', 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file b0146y', 'index_date': '2021', 'effective_date': '2021', 'commit_override_note': None, 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-02: Addressing this question requires probing the human brain at multiple scales with both correlational and causal methods. We combined several complementary approaches, including high-resolution direct recordings of neural populations and single neurons during speaking and listening",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G47--S26W-02"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2020-02-04 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "while he is talking I am starting to visualize how code is moving around his brain, how the flow of information works, animating his body, face, his voice, how he moves through many different concepts and chunks between those concepts, how he is cycling through different concepts, how those concepts may be sparse and distributed brain activity in his mind, playing a sort of live piano performance, with each frame of his consciousness.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both treat continuous live speaking as driven by an upstream neural cycle stepping through chunked higher-level units (concepts/words) that precedes and animates downstream vocal-tract and facial articulation. | L2 live speaker's sparse distributed brain activity -> cycles through discrete higher-level concepts and inter-",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2020-02-04",
+      "source_date_sort": "2020-02-04",
+      "source_locator": "2020-02-04 ({'claimed': None, 'claimed_basis': None, 'verified': '2020-02-04', 'verified_basis': 'date of the post on Facebook, from Micah’s Facebook download', 'index_date': '2020-02-04', 'effective_date': '2020-02-04', 'commit_override_note': None, 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-20: However, the presence of a distinct peak in the lpSTG before word onset (Fig. 1) that encodes properties of upcoming words (Fig. 3) raises the possibility that this specific subregion of the STG may instead produce a generative signal that precedes motor planning and articulation on the sensorimotor cortex (SMC; precentral + postcentral gyri).",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G04--S26W-20"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Closed-Loop Control ITO) + Lens 3 (Cross-Terminology Migration) + Invariant 9 (Ancestral Formulation Recovery) via the Closed-Loop Recursive Feedback, Predictive Processing & Self-Model Control bridge. Micah Blumberg's dated passage (2018-05-30) expresses active mechanism anchors (self aware, prediction, predict) that map structurally onto the later publication's (2026-01-28) formulation (feedback) through the shared operation: Input (continuous incoming sensory signals paired with prior internal expectations) -> Transform (recursive top-down prediction compared against bottom-up error inside a self-updating feedback loop) -> Output (refined self-consistent world/self model and adaptive error-minimizing control).",
+        "ito_alignment": "Input: continuous incoming sensory signals paired with prior internal expectations -> Transform: recursive top-down prediction compared against bottom-up error inside a self-updating feedback loop -> Output: refined self-consistent world/self model and adaptive error-minimizing control",
+        "lens_basis": "Lens 1 (Closed-Loop Control ITO) + Lens 3 (Cross-Terminology Migration) + Invariant 9 (Ancestral Formulation Recovery)",
+        "primary_bridge_id": "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "primary_bridge_name": "Closed-Loop Recursive Feedback, Predictive Processing & Self-Model Control",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah 2018-05-30 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "The self aware neural network of your brain is predicting future video frames, future audio signals, predicting what you might touch, taste, smell, and these predictions resemble the patterns of the original incoming sensory signals.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both link sensory-format predictive generation (generating future audio/sensory patterns resembling incoming sensory signals) directly with learning from and monitoring the network's own produced stream. | L2 neural network predicts future audio and visual patterns in incoming-sensory format -> produces continuous interna",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "2018-05-30 (SVGN article date (archived Medium original))",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-05: Wernicke’s area may be involved in both speech production and perception through shared sensory representations that form part of an auditory feedback loop to monitor produced speech (14–18).",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--GS-M18-A01--S26W-05"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2017-06-07 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "we have to first listen to the patterns that are there at present, from the environment each person is in, so that we can send only the difference between the pattern that is there in someone’s brain, and the pattern we want to be there.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both require a real-time AI-neural interface to continuously monitor and differentiate ongoing environmental-listening brain patterns from user-intended internal/target states rather than treating all cortical activity as a single undifferentiated stream. | L2 listen to present environmental cortical patterns -> separate ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-06-07",
+      "source_date_sort": "2017-06-07",
+      "source_locator": "2017-06-07 (brain states and memory portions can be read, written, externalized, and returned without assuming that a whole-person copy is numerically identical)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-31: We also extended this finding for the lpSTG, demonstrating that periods of attempted speech, listening, and rest could accurately be identified and segmented from continuous time periods (Fig. 6I).",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--CS-M17R--S26W-31"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2017-05-05 vs Target 2026-01-28",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "But what if everyone uses somewhat unique mental models from one minute to the next, and never the same twice? We tackle that idea and we consider how we can achieve Neural Lace even if no one ever has the same exact brainwave pattern twice, and we explain how deep learning Artificial Intelligence is going to work to identify what brainwave patterns are in specific instances.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both couple high inter-individual and trial-to-trial variability in cortical electrical patterns directly with deep-learning neural-network decoding to identify specific mental/communicative instances in a brain-computer interface. | L2 individually unique, non-repeating cortical brainwave patterns -> deep-learning AI pat",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-05-05",
+      "source_date_sort": "2017-05-05",
+      "source_locator": "2017-05-05 ({'claimed': '2017-05-05', 'claimed_basis': 'in-file-note-date', 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0006z', 'index_date': '2017-05-05', 'effective_date': '2017-05-05', 'commit_override_note': 'First public git commit of a0006z.md (2022-06-10 verified git; Note created May 5, 2017; replaces archive commit 766f3d36).', 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-42: Models to decode silently attempted speech and listening, based on the tasks described above, were trained using the HGA and LFS features offline using NVIDIA Tesla V100 GPUs hosted on the laboratory’s external server infrastructure. Our training procedures follow previous work (110). For attempted-speech models, neural features across temporal lobe electrodes were aligned to a window of −1 to 3 s around the go-cue. Neural features were then downs",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G17--S26W-42"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2017-04-11 vs Target 2026-01-28",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "how we might query that information in any region of the brain with a brain port that understands [00:55.100 --> 01:00.620] the transmission protocol of the brain.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both propose decoding cortical representations from non-primary/arbitrary cortical brain regions using a deep-learning-coupled neural interface (brain port / chronic ECoG neuroprosthesis) capable of reading perceived and intended neural states. | L2 query any cortical region via brain port -> capture 3D spatiotemporal ion",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "2017-04-11 (spatial computation, synthetic senses, current-versus-expected difference, feedback protocols, and an artificial-cortex bridge form one architecture)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-28: We trained deep-learning models separately on each task to decode the item that the participant was perceiving or attempting to speak. Decoding performance from STG electrodes was significantly above chance (Fig. 6B) for both paradigms and the attempted-speech model generalized to uncued, spontaneous speech",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--CS-M17N--S26W-28"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2014 ({'claimed': '2014', 'claimed_basis': 'earlier date recorded by the source index (olderDate: February 26, 2014 is an internal owner-held source date; the inspected Git wordi)', 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0465z', 'index_date': '2014', 'effective_date': '2014', 'commit_override_note': None, 'rule': 'earliest verified commit or claimed date strictly verified against git history'}) vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "and now the image of a word, a voice region pronounces the word, a vision reason creates a visual from the word, the word is self, this cycles activity back around to the flower, the feet, and hands, and it is these cycles of activity that begin to stitch together some higher thought patterns, unifying multi-sensory concepts, that exist because of cycles in the mind.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both stage speech initiation from an upstream whole-word cortical representation (\"the image of a word\" / Wernicke's \"auditory word images\") that activates a downstream voice/motor region to pronounce the word inside a recurrent cortical cycle. | L2 low-level feature clusters (lines, edges, letters) -> converge into \"the ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2014 ({'claimed': '2014', 'claimed_basis': 'earlier date recorded by the source index (olderDate: February 26, 2014 is an internal owner-held source date; the inspected Git wordi)', 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0465z', 'index_date': '2014', 'effective_date': '2014', 'commit_override_note': None, 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "source_date_sort": "2014-01-01",
+      "source_locator": "2014 ({'claimed': '2014', 'claimed_basis': 'earlier date recorded by the source index (olderDate: February 26, 2014 is an internal owner-held source date; the inspected Git wordi)', 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0465z', 'index_date': '2014', 'effective_date': '2014', 'commit_override_note': None, 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-34: These representations correspond closely to what Wernicke originally proposed as “auditory word images” (5), identified here as an active signal that initiates speech rather than a passive sensory store. Within the broader peri-Sylvian network, the lpSTG is the earliest cortical region engaged before speech, and its word-level representations may be passed to mPrCG for motor planning (62, 63) and to ventral SMC for execution (30, 58)",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G41--S26W-34"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2012-08-20 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "when I am generating sequences of characters, in my mind, or sequences of patterns that result in language, inner language, that is thinking, the inner dialog, what am I thinking about, this pattern develops itself, because neurons are predicting plausible next sequences, I am thinking to myself because a neural network is predicting what I might be thinking about, its predicting each next word in a sequence.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both characterize continuous language production as anticipatory neural network activity that predicts and generates each upcoming word in a sequence internally, prior to and distinct from feedback from hearing one's own spoken voice. | L2 cortical neural network holding prior memory context -> predicts plausible next seq",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-20",
+      "source_date_sort": "2012-08-20",
+      "source_locator": "2012-08-20 ({'claimed': '2012-08-20', 'claimed_basis': 'stated in the source text: \"Aug 20, 2012 (adding some updates August 4th 2022)\"', 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0003z', 'index_date': '2012-08-20', 'effective_date': '2012-08-20', 'commit_override_note': 'First public git commit of a0003z.md (2022-06-10 verified git; dated Aug 20, 2012; replaces Aug 4, 2022 update commit f739086d).', 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-02: We identified a specific subregion within individual participants’ Wernicke’s area—the left posterior superior temporal gyrus—that becomes active before speech begins. This early activity precedes word onsets in continuous speech rather than reflecting feedback from hearing one’s own voice.",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G39--S26W-02"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah 2012-06-05 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Its as if the brain builds a map of everything it senses, including its own body, so your name is associated with an internal map, that is associated with a voice that is associated with motor controls, that why when someone calls your name your body responds, so there is a map which is kind of like an avatar of self",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both link perceived spoken language (\"when someone calls your name\") directly through an internal cortical representation (\"internal map... associated with a voice\") to downstream motor controls driving physical response. | L2 heard spoken word (\"when someone calls your name\") -> internal cortical map binding word to voic",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-06-05",
+      "source_date_sort": "2012-06-05",
+      "source_locator": "2012-06-05 ({'claimed': '2012-06-05', 'claimed_basis': 'stated in the source text: \"Note created Jun 5, 2012 ()\"', 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0165z', 'index_date': '2012-06-05', 'effective_date': '2012-06-05', 'commit_override_note': None, 'rule': 'earliest verified commit or claimed date strictly verified against git history'})",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-03: These findings resolve a long-standing paradox about Wernicke’s area and provide a unified framework for understanding how the brain links language comprehension and production.",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--S26W.G28--S26W-03"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alexander B. Silva",
+          "slug": "alexander-b-silva"
+        },
+        {
+          "name": "Matthew K. Leonard",
+          "slug": "matthew-k-leonard"
+        },
+        {
+          "name": "Patrick W. Hullett",
+          "slug": "patrick-w-hullett"
+        },
+        {
+          "name": "Deborah F. Levy",
+          "slug": "deborah-f-levy"
+        },
+        {
+          "name": "Catherine Wang",
+          "slug": "catherine-wang"
+        },
+        {
+          "name": "Duo Xu",
+          "slug": "duo-xu"
+        },
+        {
+          "name": "Ilina Bhaya-Grossman",
+          "slug": "ilina-bhaya-grossman"
+        },
+        {
+          "name": "Edward F. Chang",
+          "slug": "edward-f-chang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Closed-Loop Control ITO) + Lens 3 (Cross-Terminology Migration) + Invariant 9 (Ancestral Formulation Recovery) via the Closed-Loop Recursive Feedback, Predictive Processing & Self-Model Control bridge. Micah Blumberg's dated passage (2011-09-21) expresses active mechanism anchors (feedback loop, feedback, prediction, predict) that map structurally onto the later publication's (2026-01-28) formulation (feedback) through the shared operation: Input (continuous incoming sensory signals paired with prior internal expectations) -> Transform (recursive top-down prediction compared against bottom-up error inside a self-updating feedback loop) -> Output (refined self-consistent world/self model and adaptive error-minimizing control).",
+        "ito_alignment": "Input: continuous incoming sensory signals paired with prior internal expectations -> Transform: recursive top-down prediction compared against bottom-up error inside a self-updating feedback loop -> Output: refined self-consistent world/self model and adaptive error-minimizing control",
+        "lens_basis": "Lens 1 (Closed-Loop Control ITO) + Lens 3 (Cross-Terminology Migration) + Invariant 9 (Ancestral Formulation Recovery)",
+        "primary_bridge_id": "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "primary_bridge_name": "Closed-Loop Recursive Feedback, Predictive Processing & Self-Model Control",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah 2011-09-21 vs Target 2026-01-28",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Next these memory-prediction-thoughts actually manifest as actual brainwaves in the em range. These in turn control all the muscles and send & receive info through nerves etc... so the brainwaves control sounds, movement, and the eyes and ears see this and make the association feedback loop on itself that is later called self.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "L1 weak-partial: Both couple predictive neocortical electrical activity driving produced sounds and movement directly with an auditory feedback loop through the ears that monitors those self-produced sounds back onto the predictive cortical system. | L2 neocortical statistical memory -> predictive thoughts manifest as brainwaves driving m",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-09-21",
+      "source_date_sort": "2011-09-21",
+      "source_locator": "2011-09-21 (claimed: \"Note created Sep 21, 2011\" in the note; verified floor: git commit 2022-06-08)",
+      "target_date": "2026-01-28",
+      "target_date_sort": "2026-01-28",
+      "target_locator": "S26W (Science 394(6826):858, eaef8963 (2026))",
+      "target_quote": "S26W-05: Wernicke’s area may be involved in both speech production and perception through shared sensory representations that form part of an auditory feedback loop to monitor produced speech (14–18).",
+      "target_url": "https://doi.org/10.1126/science.aef8963",
+      "title": "A neural code for generative speech production in human Wernicke's area",
+      "win_id": "S26W--SK.M11-0921-E--S26W-05"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 26 certified dated prior-art comparisons with Silva Leonard Hullett Levy Wang Xu Bhaya-Grossman Chang Wernicke Generative Speech Code across 208 listed-author attributions (26 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 4 medium-partial, 22 weak-partial, 0 weak-partial cross-domain, with 4 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2011-09-21",
+    "earliest_micah_year": 2011,
+    "earliest_target_date": "2026-01-28",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2024-09-06",
+    "latest_target_date": "2026-01-28",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 4,
+    "governed_wins": 26,
+    "grade_breakdown": {
+      "medium-partial": 4,
+      "weak-partial": 22
+    },
+    "lens4_event_ids": [
+      "silva-chang-wernicke-generative-speech-longitudinal-2012-2026-20261121"
+    ],
+    "listed_author_edges": 208,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 26
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 26
+  }
+}

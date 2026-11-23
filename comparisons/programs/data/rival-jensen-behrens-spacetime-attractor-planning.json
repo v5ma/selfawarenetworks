@@ -1,0 +1,2101 @@
+{
+  "authors_linked": [
+    {
+      "name": "Kristopher T. Jensen",
+      "slug": "kristopher-t-jensen"
+    },
+    {
+      "name": "Peter T. Doohan",
+      "slug": "peter-t-doohan"
+    },
+    {
+      "name": "Mathias Sablé-Meyer",
+      "slug": "mathias-sabl-meyer"
+    },
+    {
+      "name": "Sandra Reinert",
+      "slug": "sandra-reinert"
+    },
+    {
+      "name": "Alon Boaz Baram",
+      "slug": "alon-boaz-baram"
+    },
+    {
+      "name": "Maneesh Sahani",
+      "slug": "maneesh-sahani"
+    },
+    {
+      "name": "Thomas Akam",
+      "slug": "thomas-akam"
+    },
+    {
+      "name": "Timothy E. J. Behrens",
+      "slug": "timothy-e-j-behrens"
+    }
+  ],
+  "display_code": "jensen-behrens-spacetime-attractor-planning",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience; planning; prefrontal cortex; artificial neural networks",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2011-08-24 and 2024-01-28, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 27 documented mechanisms appearing in Kristopher T. Jensen & Timothy E. J. Behrens et al. — Prefrontal Spacetime Attractor (STA) Theory of Planning (2025-09-24 to 2026-10-21) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Kristopher T. Jensen & Timothy E. J. Behrens et al. — Prefrontal Spacetime Attractor (STA) Theory of Planning",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 27 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 17 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 27 dated comparisons and 212 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-jensen-behrens-spacetime-attractor-planning",
+  "program_name": "Kristopher T. Jensen & Timothy E. J. Behrens et al. — Prefrontal Spacetime Attractor (STA) Theory of Planning",
+  "rows": [
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "If the universe has a shape I would first imagine it as as linear graph with X, Y, Z dimensions plus time, and I would imagine the edges bend into corners, and these corners are blackholes, planets, stars, and any vortex such as an atom or a person, they, the masses of vortices, are pinching the graph grid together, and they also defining the parameters o...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[JS-A03 in jensen-2026-elife-109757-vor (2026-10-21) x M24-A0322-QGTCD (2024-01-28)] Cortical attractor dynamics embedded in connectivity performing rapid parallel evaluation of multiple candidate future trajectories simultaneously; anticipated partially in Blumberg (2024-01-28) via Quantum Gradient Time Crystal Dilation spacetime lattice",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-28",
+      "source_date_sort": "2024-01-28",
+      "source_locator": "a0322z.md (masses of vortices, are )",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A03)",
+      "target_quote": "In familiar environments, where the structure can be embedded in cortical connections, attractor dynamics provide a complementary mechanism for rapid evaluation of many possible futures in parallel.A mechanistic theoryIn this paper, we show that known features of PFC representations and connectivity are sufficient to implement a powerful planning algorith...",
+      "target_url": "",
+      "title": "[JS-A03 in jensen-2026-elife-109757-vor (2026-10-21) x M24-A0322-QGTCD (2024-01-28)] Cortical attractor dynamics embedded in connectivity performing rapid parallel evaluation of mu",
+      "win_id": "JENS-STA-SC-013"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-09-18) expresses active mechanism anchors (tomography, projection) that map structurally onto the later publication's (2026-10-21) formulation (planning) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "a0310z Watch the Neural Array Projection Oscillation Tomography Revision 5 video that I did. https://youtu.be/vixhppNAKPs NAPOT Revision 5 # b0010y and a0310z The original 40 minute audio that inspired note a0310z and the audio file called b0010y can be listened to here: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e64-e77f44a9b2de The b0010ywhisper.md...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A06 in jensen-2026-elife-109757-vor (2026-10-21) x M22-NAPOT (2022-09-18)] Rapid online generalization reconfiguring the internal predictive world model for planning across novel or changing environments without slow synaptic plasticity; anticipated partially in Blumberg (2022-09-18) via NAPOT phase-wave-differential interference and ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-18",
+      "source_date_sort": "2022-09-18",
+      "source_locator": "lines 1-20",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A06)",
+      "target_quote": "Analyses of networks trained across different environment structures reveal a generalisation mechanism that rapidly reconfigures the world model used for planning, without the need for synaptic plasticity.",
+      "target_url": "",
+      "title": "[JS-A06 in jensen-2026-elife-109757-vor (2026-10-21) x M22-NAPOT (2022-09-18)] Rapid online generalization reconfiguring the internal predictive world model for planning across nov",
+      "win_id": "JENS-STA-SC-023"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-09-18) expresses active mechanism anchors (tomography, projection) that map structurally onto the later publication's (2026-10-21) formulation (attractor, future, planning) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "a0310z Watch the Neural Array Projection Oscillation Tomography Revision 5 video that I did. https://youtu.be/vixhppNAKPs NAPOT Revision 5 # b0010y and a0310z The original 40 minute audio that inspired note a0310z and the audio file called b0010y can be listened to here: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e64-e77f44a9b2de The b0010ywhisper.md...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A03 in jensen-2026-elife-109757-vor (2026-10-21) x M22-NAPOT (2022-09-18)] Cortical attractor dynamics embedded in connectivity performing rapid parallel evaluation of multiple candidate future trajectories simultaneously; anticipated partially in Blumberg (2022-09-18) via NAPOT phase-wave-differential interference and multi-scale osc",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-18",
+      "source_date_sort": "2022-09-18",
+      "source_locator": "lines 1-20",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A03)",
+      "target_quote": "In familiar environments, where the structure can be embedded in cortical connections, attractor dynamics provide a complementary mechanism for rapid evaluation of many possible futures in parallel.A mechanistic theoryIn this paper, we show that known features of PFC representations and connectivity are sufficient to implement a powerful planning algorith...",
+      "target_url": "",
+      "title": "[JS-A03 in jensen-2026-elife-109757-vor (2026-10-21) x M22-NAPOT (2022-09-18)] Cortical attractor dynamics embedded in connectivity performing rapid parallel evaluation of multiple",
+      "win_id": "JENS-STA-SC-012"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-09-18) expresses active mechanism anchors (tomography, projection) that map structurally onto the later publication's (2026-10-21) formulation (simultaneous) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "a0310z Watch the Neural Array Projection Oscillation Tomography Revision 5 video that I did. https://youtu.be/vixhppNAKPs NAPOT Revision 5 # b0010y and a0310z The original 40 minute audio that inspired note a0310z and the audio file called b0010y can be listened to here: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e64-e77f44a9b2de The b0010ywhisper.md...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A02 in jensen-2026-elife-109757-vor (2026-10-21) x M22-NAPOT (2022-09-18)] Simultaneous parallel activation of multiple future-timepoint neural subspaces rather than strictly step-by-step serial simulation; anticipated partially in Blumberg (2022-09-18) via NAPOT phase-wave-differential interference and multi-scale oscillatory renderi",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-18",
+      "source_date_sort": "2022-09-18",
+      "source_locator": "lines 1-20",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A02)",
+      "target_quote": "Critically, these subspaces are active simultaneously.",
+      "target_url": "",
+      "title": "[JS-A02 in jensen-2026-elife-109757-vor (2026-10-21) x M22-NAPOT (2022-09-18)] Simultaneous parallel activation of multiple future-timepoint neural subspaces rather than strictly s",
+      "win_id": "JENS-STA-SC-008"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (dendritic, tomography, array-projection, projection) that map structurally onto the later publication's (2026-10-21) formulation (planning) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating). Corroborated independently by a second structural bridge (Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "[JS-A06 in jensen-2026-elife-109757-vor (2026-10-21) x M22-PHASE-FIELD (2022-06-08)] Rapid online generalization reconfiguring the internal predictive world model for planning across novel or changing environments without slow synaptic plasticity; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation rea",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A06)",
+      "target_quote": "Analyses of networks trained across different environment structures reveal a generalisation mechanism that rapidly reconfigures the world model used for planning, without the need for synaptic plasticity.",
+      "target_url": "",
+      "title": "[JS-A06 in jensen-2026-elife-109757-vor (2026-10-21) x M22-PHASE-FIELD (2022-06-08)] Rapid online generalization reconfiguring the internal predictive world model for planning acro",
+      "win_id": "JENS-STA-SC-022"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (dendritic, tomography, array-projection, projection) that map structurally onto the later publication's (2026-10-21) formulation (trajectory) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A05 in jensen-2026-elife-109757-vor (2026-10-21) x M22-PHASE-FIELD (2022-06-08)] Action policy read out directly from the converged spatiotemporal attractor state along the desired future trajectory; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic arrays and projected as synch",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A05)",
+      "target_quote": "At convergence, a policy is read out from the subspace that represents the next location along the desired trajectory.",
+      "target_url": "",
+      "title": "[JS-A05 in jensen-2026-elife-109757-vor (2026-10-21) x M22-PHASE-FIELD (2022-06-08)] Action policy read out directly from the converged spatiotemporal attractor state along the des",
+      "win_id": "JENS-STA-SC-019"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (dendritic, tomography, array-projection, projection) that map structurally onto the later publication's (2026-10-21) formulation (attractor, future) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating). Corroborated independently by a second structural bridge (Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "[JS-A04 in jensen-2026-elife-109757-vor (2026-10-21) x M22-PHASE-FIELD (2022-06-08)] Embedding external environmental topology and transition structure directly into neural connectivity to infer desirable future trajectories; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic arrays ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A04)",
+      "target_quote": "This is achieved by embedding the environment structure directly in synaptic connections to implement an attractor network that infers desirable futures.",
+      "target_url": "",
+      "title": "[JS-A04 in jensen-2026-elife-109757-vor (2026-10-21) x M22-PHASE-FIELD (2022-06-08)] Embedding external environmental topology and transition structure directly into neural connect",
+      "win_id": "JENS-STA-SC-016"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (dendritic, tomography, array-projection, projection) that map structurally onto the later publication's (2026-10-21) formulation (simultaneous) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A02 in jensen-2026-elife-109757-vor (2026-10-21) x M22-PHASE-FIELD (2022-06-08)] Simultaneous parallel activation of multiple future-timepoint neural subspaces rather than strictly step-by-step serial simulation; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic arrays and proje",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A02)",
+      "target_quote": "Critically, these subspaces are active simultaneously.",
+      "target_url": "",
+      "title": "[JS-A02 in jensen-2026-elife-109757-vor (2026-10-21) x M22-PHASE-FIELD (2022-06-08)] Simultaneous parallel activation of multiple future-timepoint neural subspaces rather than stri",
+      "win_id": "JENS-STA-SC-007"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (dendritic, tomography, array-projection, projection) that map structurally onto the later publication's (2026-10-21) formulation (future, prefrontal, sequence, population) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating). Corroborated independently by a second structural bridge (Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "[JS-A01 in jensen-2026-elife-109757-vor (2026-10-21) x M22-PHASE-FIELD (2022-06-08)] Distinct cortical neural populations concurrently encoding different future time points across a unified temporal planning representation; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic arrays an",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A01)",
+      "target_quote": "Prefrontal representations were recently discovered in simpler sequence memory tasks, where different populations of neurons represent different future time points.",
+      "target_url": "",
+      "title": "[JS-A01 in jensen-2026-elife-109757-vor (2026-10-21) x M22-PHASE-FIELD (2022-06-08)] Distinct cortical neural populations concurrently encoding different future time points across ",
+      "win_id": "JENS-STA-SC-004"
+    },
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (dendritic, tomography, array-projection, projection) that map structurally onto the later publication's (2025-09-24) formulation (attractor, future) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating). Corroborated independently by a second structural bridge (Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "[JS-A07 in jensen-2025-biorxiv-v1 (2025-09-24) x M22-PHASE-FIELD (2022-06-08)] Preprint v1 (2025-09-24) spacetime-attractor formulation inferring desirable future trajectories via environment-embedded attractor dynamics; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic arrays and p",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2025-09-24",
+      "target_date_sort": "2025-09-24",
+      "target_locator": "biorxiv-api-2025.09.23.677709.json (JS-A07)",
+      "target_quote": "This is achieved by embedding the environment structure directly in synaptic connections to implement an attractor network that infers desirable futures.",
+      "target_url": "",
+      "title": "[JS-A07 in jensen-2025-biorxiv-v1 (2025-09-24) x M22-PHASE-FIELD (2022-06-08)] Preprint v1 (2025-09-24) spacetime-attractor formulation inferring desirable future trajectories via ",
+      "win_id": "JENS-STA-SC-027"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2018-05-30) expresses active mechanism anchors (dendritic, data structure) that map structurally onto the later publication's (2026-10-21) formulation (trajectory) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "In closing: Consider the Dendrite as an advanced data structure, and consider that dendritic computation may have vast temporal and spatial memory capabilities for setting, presetting, and holding decision making information criteria based on a vast capability to respond in very complex ways to incoming signals by making very tiny changes to its structure...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A05 in jensen-2026-elife-109757-vor (2026-10-21) x M18-DENDRITIC (2018-05-30)] Action policy read out directly from the converged spatiotemporal attractor state along the desired future trajectory; anticipated partially in Blumberg (2018-05-30) via Dendrites as advanced temporal-spatial data structures setting and holding adaptive dec",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "p#9979",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A05)",
+      "target_quote": "At convergence, a policy is read out from the subspace that represents the next location along the desired trajectory.",
+      "target_url": "",
+      "title": "[JS-A05 in jensen-2026-elife-109757-vor (2026-10-21) x M18-DENDRITIC (2018-05-30)] Action policy read out directly from the converged spatiotemporal attractor state along the desir",
+      "win_id": "JENS-STA-SC-018"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2018-05-30) expresses active mechanism anchors (dendritic, data structure) that map structurally onto the later publication's (2026-10-21) formulation (attractor, future) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "In closing: Consider the Dendrite as an advanced data structure, and consider that dendritic computation may have vast temporal and spatial memory capabilities for setting, presetting, and holding decision making information criteria based on a vast capability to respond in very complex ways to incoming signals by making very tiny changes to its structure...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A04 in jensen-2026-elife-109757-vor (2026-10-21) x M18-DENDRITIC (2018-05-30)] Embedding external environmental topology and transition structure directly into neural connectivity to infer desirable future trajectories; anticipated partially in Blumberg (2018-05-30) via Dendrites as advanced temporal-spatial data structures setting an",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "p#9979",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A04)",
+      "target_quote": "This is achieved by embedding the environment structure directly in synaptic connections to implement an attractor network that infers desirable futures.",
+      "target_url": "",
+      "title": "[JS-A04 in jensen-2026-elife-109757-vor (2026-10-21) x M18-DENDRITIC (2018-05-30)] Embedding external environmental topology and transition structure directly into neural connectiv",
+      "win_id": "JENS-STA-SC-015"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2018-05-30) expresses active mechanism anchors (dendritic, data structure) that map structurally onto the later publication's (2026-10-21) formulation (simultaneous) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "In closing: Consider the Dendrite as an advanced data structure, and consider that dendritic computation may have vast temporal and spatial memory capabilities for setting, presetting, and holding decision making information criteria based on a vast capability to respond in very complex ways to incoming signals by making very tiny changes to its structure...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A02 in jensen-2026-elife-109757-vor (2026-10-21) x M18-DENDRITIC (2018-05-30)] Simultaneous parallel activation of multiple future-timepoint neural subspaces rather than strictly step-by-step serial simulation; anticipated partially in Blumberg (2018-05-30) via Dendrites as advanced temporal-spatial data structures setting and holding",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "p#9979",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A02)",
+      "target_quote": "Critically, these subspaces are active simultaneously.",
+      "target_url": "",
+      "title": "[JS-A02 in jensen-2026-elife-109757-vor (2026-10-21) x M18-DENDRITIC (2018-05-30)] Simultaneous parallel activation of multiple future-timepoint neural subspaces rather than strict",
+      "win_id": "JENS-STA-SC-006"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2018-05-30) expresses active mechanism anchors (dendritic, data structure) that map structurally onto the later publication's (2026-10-21) formulation (future, prefrontal, sequence, population) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "In closing: Consider the Dendrite as an advanced data structure, and consider that dendritic computation may have vast temporal and spatial memory capabilities for setting, presetting, and holding decision making information criteria based on a vast capability to respond in very complex ways to incoming signals by making very tiny changes to its structure...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A01 in jensen-2026-elife-109757-vor (2026-10-21) x M18-DENDRITIC (2018-05-30)] Distinct cortical neural populations concurrently encoding different future time points across a unified temporal planning representation; anticipated partially in Blumberg (2018-05-30) via Dendrites as advanced temporal-spatial data structures setting and ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "p#9979",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A01)",
+      "target_quote": "Prefrontal representations were recently discovered in simpler sequence memory tasks, where different populations of neurons represent different future time points.",
+      "target_url": "",
+      "title": "[JS-A01 in jensen-2026-elife-109757-vor (2026-10-21) x M18-DENDRITIC (2018-05-30)] Distinct cortical neural populations concurrently encoding different future time points across a ",
+      "win_id": "JENS-STA-SC-003"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2017-04-11) expresses active mechanism anchors (three-dimensional, matrix) that map structurally onto the later publication's (2026-10-21) formulation (attractor, future, planning) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A03 in jensen-2026-elife-109757-vor (2026-10-21) x M17-VOLUMETRIC (2017-04-11)] Cortical attractor dynamics embedded in connectivity performing rapid parallel evaluation of multiple candidate future trajectories simultaneously; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-space ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A03)",
+      "target_quote": "In familiar environments, where the structure can be embedded in cortical connections, attractor dynamics provide a complementary mechanism for rapid evaluation of many possible futures in parallel.A mechanistic theoryIn this paper, we show that known features of PFC representations and connectivity are sufficient to implement a powerful planning algorith...",
+      "target_url": "",
+      "title": "[JS-A03 in jensen-2026-elife-109757-vor (2026-10-21) x M17-VOLUMETRIC (2017-04-11)] Cortical attractor dynamics embedded in connectivity performing rapid parallel evaluation of mul",
+      "win_id": "JENS-STA-SC-011"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2017-04-11) expresses active mechanism anchors (three-dimensional, matrix) that map structurally onto the later publication's (2026-10-21) formulation (simultaneous) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A02 in jensen-2026-elife-109757-vor (2026-10-21) x M17-VOLUMETRIC (2017-04-11)] Simultaneous parallel activation of multiple future-timepoint neural subspaces rather than strictly step-by-step serial simulation; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-space matrix with freq",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A02)",
+      "target_quote": "Critically, these subspaces are active simultaneously.",
+      "target_url": "",
+      "title": "[JS-A02 in jensen-2026-elife-109757-vor (2026-10-21) x M17-VOLUMETRIC (2017-04-11)] Simultaneous parallel activation of multiple future-timepoint neural subspaces rather than stric",
+      "win_id": "JENS-STA-SC-005"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2017-04-11) expresses active mechanism anchors (three-dimensional, matrix) that map structurally onto the later publication's (2026-10-21) formulation (future, prefrontal, sequence, population) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A01 in jensen-2026-elife-109757-vor (2026-10-21) x M17-VOLUMETRIC (2017-04-11)] Distinct cortical neural populations concurrently encoding different future time points across a unified temporal planning representation; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-space matrix wi",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A01)",
+      "target_quote": "Prefrontal representations were recently discovered in simpler sequence memory tasks, where different populations of neurons represent different future time points.",
+      "target_url": "",
+      "title": "[JS-A01 in jensen-2026-elife-109757-vor (2026-10-21) x M17-VOLUMETRIC (2017-04-11)] Distinct cortical neural populations concurrently encoding different future time points across a",
+      "win_id": "JENS-STA-SC-002"
+    },
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2017-04-11) expresses active mechanism anchors (three-dimensional, matrix) that map structurally onto the later publication's (2025-09-24) formulation (attractor, future) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[JS-A07 in jensen-2025-biorxiv-v1 (2025-09-24) x M17-VOLUMETRIC (2017-04-11)] Preprint v1 (2025-09-24) spacetime-attractor formulation inferring desirable future trajectories via environment-embedded attractor dynamics; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-space matrix with ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2025-09-24",
+      "target_date_sort": "2025-09-24",
+      "target_locator": "biorxiv-api-2025.09.23.677709.json (JS-A07)",
+      "target_quote": "This is achieved by embedding the environment structure directly in synaptic connections to implement an attractor network that infers desirable futures.",
+      "target_url": "",
+      "title": "[JS-A07 in jensen-2025-biorxiv-v1 (2025-09-24) x M17-VOLUMETRIC (2017-04-11)] Preprint v1 (2025-09-24) spacetime-attractor formulation inferring desirable future trajectories via e",
+      "win_id": "JENS-STA-SC-026"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "structure of each neuron is a program, it's shape encodes functions that define tiny variations in the distribution of it's ejection 17 hours ago · Like Cloudy Mayajuana potentially infinite variation, but SPD means means an incredible amount of noise filtering is happening. 17 hours ago · Like Cloudy Mayajuana Your",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[JS-A04 in jensen-2026-elife-109757-vor (2026-10-21) x M12-SHAPE-PROG (2012-09-19)] Embedding external environmental topology and transition structure directly into neural connectivity to infer desirable future trajectories; anticipated partially in Blumberg (2012-09-19) via Neuronal geometry, shape, and morphology directly encoding execu",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-09-19",
+      "source_date_sort": "2012-09-19",
+      "source_locator": "lines 1-40",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A04)",
+      "target_quote": "This is achieved by embedding the environment structure directly in synaptic connections to implement an attractor network that infers desirable futures.",
+      "target_url": "",
+      "title": "[JS-A04 in jensen-2026-elife-109757-vor (2026-10-21) x M12-SHAPE-PROG (2012-09-19)] Embedding external environmental topology and transition structure directly into neural connecti",
+      "win_id": "JENS-STA-SC-014"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "personalities or different minds will sort of like model reality in different ways like someone who's more autistic will see things um differently um i'm slightly more autistic but yeah so like i have this uh i do have the perspective that yes and what you're kind of saying is similar to this to an idea i've heard that i kind of describe as um you know th...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[JS-A06 in jensen-2026-elife-109757-vor (2026-10-21) x M12-PROJECTOR (2012-08-23)] Rapid online generalization reconfiguring the internal predictive world model for planning across novel or changing environments without slow synaptic plasticity; anticipated partially in Blumberg (2012-08-23) via Internally projected predictive world model",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "lines 59-61",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A06)",
+      "target_quote": "Analyses of networks trained across different environment structures reveal a generalisation mechanism that rapidly reconfigures the world model used for planning, without the need for synaptic plasticity.",
+      "target_url": "",
+      "title": "[JS-A06 in jensen-2026-elife-109757-vor (2026-10-21) x M12-PROJECTOR (2012-08-23)] Rapid online generalization reconfiguring the internal predictive world model for planning across",
+      "win_id": "JENS-STA-SC-021"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "personalities or different minds will sort of like model reality in different ways like someone who's more autistic will see things um differently um i'm slightly more autistic but yeah so like i have this uh i do have the perspective that yes and what you're kind of saying is similar to this to an idea i've heard that i kind of describe as um you know th...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[JS-A05 in jensen-2026-elife-109757-vor (2026-10-21) x M12-PROJECTOR (2012-08-23)] Action policy read out directly from the converged spatiotemporal attractor state along the desired future trajectory; anticipated partially in Blumberg (2012-08-23) via Internally projected predictive world model completing sparse sensory streams.",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "lines 59-61",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A05)",
+      "target_quote": "At convergence, a policy is read out from the subspace that represents the next location along the desired trajectory.",
+      "target_url": "",
+      "title": "[JS-A05 in jensen-2026-elife-109757-vor (2026-10-21) x M12-PROJECTOR (2012-08-23)] Action policy read out directly from the converged spatiotemporal attractor state along the desir",
+      "win_id": "JENS-STA-SC-017"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "personalities or different minds will sort of like model reality in different ways like someone who's more autistic will see things um differently um i'm slightly more autistic but yeah so like i have this uh i do have the perspective that yes and what you're kind of saying is similar to this to an idea i've heard that i kind of describe as um you know th...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[JS-A03 in jensen-2026-elife-109757-vor (2026-10-21) x M12-PROJECTOR (2012-08-23)] Cortical attractor dynamics embedded in connectivity performing rapid parallel evaluation of multiple candidate future trajectories simultaneously; anticipated partially in Blumberg (2012-08-23) via Internally projected predictive world model completing spa",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "lines 59-61",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A03)",
+      "target_quote": "In familiar environments, where the structure can be embedded in cortical connections, attractor dynamics provide a complementary mechanism for rapid evaluation of many possible futures in parallel.A mechanistic theoryIn this paper, we show that known features of PFC representations and connectivity are sufficient to implement a powerful planning algorith...",
+      "target_url": "",
+      "title": "[JS-A03 in jensen-2026-elife-109757-vor (2026-10-21) x M12-PROJECTOR (2012-08-23)] Cortical attractor dynamics embedded in connectivity performing rapid parallel evaluation of mult",
+      "win_id": "JENS-STA-SC-010"
+    },
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "personalities or different minds will sort of like model reality in different ways like someone who's more autistic will see things um differently um i'm slightly more autistic but yeah so like i have this uh i do have the perspective that yes and what you're kind of saying is similar to this to an idea i've heard that i kind of describe as um you know th...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[JS-A07 in jensen-2025-biorxiv-v1 (2025-09-24) x M12-PROJECTOR (2012-08-23)] Preprint v1 (2025-09-24) spacetime-attractor formulation inferring desirable future trajectories via environment-embedded attractor dynamics; anticipated partially in Blumberg (2012-08-23) via Internally projected predictive world model completing sparse sensory ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "lines 59-61",
+      "target_date": "2025-09-24",
+      "target_date_sort": "2025-09-24",
+      "target_locator": "biorxiv-api-2025.09.23.677709.json (JS-A07)",
+      "target_quote": "This is achieved by embedding the environment structure directly in synaptic connections to implement an attractor network that infers desirable futures.",
+      "target_url": "",
+      "title": "[JS-A07 in jensen-2025-biorxiv-v1 (2025-09-24) x M12-PROJECTOR (2012-08-23)] Preprint v1 (2025-09-24) spacetime-attractor formulation inferring desirable future trajectories via en",
+      "win_id": "JENS-STA-SC-025"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The experience impression is like... You have an experience, and... That experience creates like a... Like... Let's say your brain is like photo paper. So it creates an image... That's recorded in electrical impulses... And that... And that... That are going into the soft... Into the sensitive brain tissue... And that... That brain tissue is now expecting...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[JS-A06 in jensen-2026-elife-109757-vor (2026-10-21) x M11-SELF-PRED (2011-08-24)] Rapid online generalization reconfiguring the internal predictive world model for planning across novel or changing environments without slow synaptic plasticity; anticipated partially in Blumberg (2011-08-24) via Predictive neocortical self-pattern and dyn",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "lines 143-180",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A06)",
+      "target_quote": "Analyses of networks trained across different environment structures reveal a generalisation mechanism that rapidly reconfigures the world model used for planning, without the need for synaptic plasticity.",
+      "target_url": "",
+      "title": "[JS-A06 in jensen-2026-elife-109757-vor (2026-10-21) x M11-SELF-PRED (2011-08-24)] Rapid online generalization reconfiguring the internal predictive world model for planning across",
+      "win_id": "JENS-STA-SC-020"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The experience impression is like... You have an experience, and... That experience creates like a... Like... Let's say your brain is like photo paper. So it creates an image... That's recorded in electrical impulses... And that... And that... That are going into the soft... Into the sensitive brain tissue... And that... That brain tissue is now expecting...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[JS-A03 in jensen-2026-elife-109757-vor (2026-10-21) x M11-SELF-PRED (2011-08-24)] Cortical attractor dynamics embedded in connectivity performing rapid parallel evaluation of multiple candidate future trajectories simultaneously; anticipated partially in Blumberg (2011-08-24) via Predictive neocortical self-pattern and dynamic world-mode",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "lines 143-180",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A03)",
+      "target_quote": "In familiar environments, where the structure can be embedded in cortical connections, attractor dynamics provide a complementary mechanism for rapid evaluation of many possible futures in parallel.A mechanistic theoryIn this paper, we show that known features of PFC representations and connectivity are sufficient to implement a powerful planning algorith...",
+      "target_url": "",
+      "title": "[JS-A03 in jensen-2026-elife-109757-vor (2026-10-21) x M11-SELF-PRED (2011-08-24)] Cortical attractor dynamics embedded in connectivity performing rapid parallel evaluation of mult",
+      "win_id": "JENS-STA-SC-009"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Maneesh Sahani",
+          "slug": "maneesh-sahani"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The experience impression is like... You have an experience, and... That experience creates like a... Like... Let's say your brain is like photo paper. So it creates an image... That's recorded in electrical impulses... And that... And that... That are going into the soft... Into the sensitive brain tissue... And that... That brain tissue is now expecting...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[JS-A01 in jensen-2026-elife-109757-vor (2026-10-21) x M11-SELF-PRED (2011-08-24)] Distinct cortical neural populations concurrently encoding different future time points across a unified temporal planning representation; anticipated partially in Blumberg (2011-08-24) via Predictive neocortical self-pattern and dynamic world-model organiz",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "lines 143-180",
+      "target_date": "2026-10-21",
+      "target_date_sort": "2026-10-21",
+      "target_locator": "elife-109757-vor-v1.txt (JS-A01)",
+      "target_quote": "Prefrontal representations were recently discovered in simpler sequence memory tasks, where different populations of neurons represent different future time points.",
+      "target_url": "",
+      "title": "[JS-A01 in jensen-2026-elife-109757-vor (2026-10-21) x M11-SELF-PRED (2011-08-24)] Distinct cortical neural populations concurrently encoding different future time points across a ",
+      "win_id": "JENS-STA-SC-001"
+    },
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "Kristopher T. Jensen",
+          "slug": "kristopher-t-jensen"
+        },
+        {
+          "name": "Peter T. Doohan",
+          "slug": "peter-t-doohan"
+        },
+        {
+          "name": "Mathias Sablé-Meyer",
+          "slug": "mathias-sabl-meyer"
+        },
+        {
+          "name": "Sandra Reinert",
+          "slug": "sandra-reinert"
+        },
+        {
+          "name": "Alon Boaz Baram",
+          "slug": "alon-boaz-baram"
+        },
+        {
+          "name": "Thomas Akam",
+          "slug": "thomas-akam"
+        },
+        {
+          "name": "Timothy E. J. Behrens",
+          "slug": "timothy-e-j-behrens"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The experience impression is like... You have an experience, and... That experience creates like a... Like... Let's say your brain is like photo paper. So it creates an image... That's recorded in electrical impulses... And that... And that... That are going into the soft... Into the sensitive brain tissue... And that... That brain tissue is now expecting...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[JS-A07 in jensen-2025-biorxiv-v1 (2025-09-24) x M11-SELF-PRED (2011-08-24)] Preprint v1 (2025-09-24) spacetime-attractor formulation inferring desirable future trajectories via environment-embedded attractor dynamics; anticipated partially in Blumberg (2011-08-24) via Predictive neocortical self-pattern and dynamic world-model organizati",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "lines 143-180",
+      "target_date": "2025-09-24",
+      "target_date_sort": "2025-09-24",
+      "target_locator": "biorxiv-api-2025.09.23.677709.json (JS-A07)",
+      "target_quote": "This is achieved by embedding the environment structure directly in synaptic connections to implement an attractor network that infers desirable futures.",
+      "target_url": "",
+      "title": "[JS-A07 in jensen-2025-biorxiv-v1 (2025-09-24) x M11-SELF-PRED (2011-08-24)] Preprint v1 (2025-09-24) spacetime-attractor formulation inferring desirable future trajectories via en",
+      "win_id": "JENS-STA-SC-024"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 27 certified dated prior-art comparisons with Kristopher T. Jensen & Timothy E. J. Behrens et al. — Prefrontal Spacetime Attractor (STA) Theory of Planning across 212 listed-author attributions (27 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 4 strong, 13 medium-partial, 10 weak-partial, 0 weak-partial cross-domain, with 17 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2011-08-24",
+    "earliest_micah_year": 2011,
+    "earliest_target_date": "2025-09-24",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2024-01-28",
+    "latest_target_date": "2026-10-21",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 17,
+    "governed_wins": 27,
+    "grade_breakdown": {
+      "medium-partial": 13,
+      "strong": 4,
+      "weak-partial": 10
+    },
+    "lens4_event_ids": [
+      "lsm-jensen-behrens-spacetime-attractor-20261122"
+    ],
+    "listed_author_edges": 212,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 27
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 27
+  }
+}

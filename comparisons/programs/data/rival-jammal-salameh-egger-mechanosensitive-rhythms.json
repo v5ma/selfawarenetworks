@@ -1,0 +1,218 @@
+{
+  "authors_linked": [
+    {
+      "name": "Reichardt N",
+      "slug": "reichardt-n"
+    },
+    {
+      "name": "Kindler L",
+      "slug": "kindler-l"
+    },
+    {
+      "name": "Pino E",
+      "slug": "pino-e"
+    },
+    {
+      "name": "Lukas M",
+      "slug": "lukas-m"
+    },
+    {
+      "name": "Egger V",
+      "slug": "egger-v"
+    },
+    {
+      "name": "Suyama H",
+      "slug": "suyama-h"
+    },
+    {
+      "name": "Jahan I",
+      "slug": "jahan-i"
+    }
+  ],
+  "display_code": "jammal-salameh-egger-mechanosensitive-rhythms",
+  "domain_group": "hybrid",
+  "domains": "biophysics; neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-03-01 and 2022-08-10, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 2 documented mechanisms appearing in Jammal Salameh Egger Mechanosensitive Rhythms (2025-01-28 to 2025-01-29) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Jammal Salameh Egger Mechanosensitive Rhythms",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 2 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 2 dated comparisons and 11 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-jammal-salameh-egger-mechanosensitive-rhythms",
+  "program_name": "Jammal Salameh Egger Mechanosensitive Rhythms",
+  "rows": [
+    {
+      "author_count": 6,
+      "authors_linked": [
+        {
+          "name": "Reichardt N",
+          "slug": "reichardt-n"
+        },
+        {
+          "name": "Kindler L",
+          "slug": "kindler-l"
+        },
+        {
+          "name": "Pino E",
+          "slug": "pino-e"
+        },
+        {
+          "name": "Lukas M",
+          "slug": "lukas-m"
+        },
+        {
+          "name": "Egger V",
+          "slug": "egger-v"
+        },
+        {
+          "name": "Suyama H",
+          "slug": "suyama-h"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "In essence what your neurons are tasting can affect the potassium channels changing the neurons phase output duration, (described in my article & notes on synaptic unreliability) but also it seems they can directly effect calcium channels which means in theory the outputs of individual synapses could be modified (excited or inhibited to release more or less vesicles when the action potential fires) So the complexity of the pattern output of neurons is incr",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.84,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-08-10 formulation shares conceptual/operational mechanisms (neurons, synaptic) with Jammal Salameh Egger Mechanosensitive Rhythms (2025-01-28; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-10",
+      "source_date_sort": "2022-08-10",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/7129fcf82a9d42665a1372ecdc803e912bc81b6a/a0272z.md#L87-L99",
+      "target_date": "2025-01-28",
+      "target_date_sort": "2025-01-28",
+      "target_locator": "doi:10.1101/2025.01.28.635198 | Synergistic olfactory nerve input and cholinergic neuromodulation can activate ERK in rat olfactory bulb vasopressin cel",
+      "target_quote": "Tetanic olfactory nerve stimulation yielded localized, column-like ERK activation of neurons across bulbar layers. The presence of ACh during tetanic stimulation substantially and specifically increased percentages of pERK + VPCs within columns, indicating that columnar pERK + VPCs were preferentially activated by coincident cholinergic neuromodulation and synaptic input.",
+      "target_url": "https://doi.org/10.1101/2025.01.28.635198",
+      "title": "neurons, synaptic — Synergistic olfactory nerve input and cholinergic neuromodulation can activate ERK in rat olfac",
+      "win_id": "G1-JAMMAL-SALAMEH-E-D01-A01"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Jahan I",
+          "slug": "jahan-i"
+        },
+        {
+          "name": "Kindler L",
+          "slug": "kindler-l"
+        },
+        {
+          "name": "Reichardt N",
+          "slug": "reichardt-n"
+        },
+        {
+          "name": "Suyama H",
+          "slug": "suyama-h"
+        },
+        {
+          "name": "Egger V",
+          "slug": "egger-v"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "- **Thalamocortical Loops:** The preliminary response also suggested that thalamocortical loops shape the gating of perceptual instantiations and enforce their periodicity. This is well-supported by mainstream neuroscience, which views thalamocortical circuits as essential for maintaining consciousness, relaying sensory information, and generating various brain rhythms, including alpha and sleep spindles. Higher-order thalamic nuclei, in particular, are th",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 28.39,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (cortex, sensory) with Jammal Salameh Egger Mechanosensitive Rhythms (2025-01-29; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 23]",
+      "target_date": "2025-01-29",
+      "target_date_sort": "2025-01-29",
+      "target_locator": "doi:10.1101/2025.01.29.635425 | Local olfactory nerve stimulation triggers patchy activation of columns across rat olfactory bulb",
+      "target_quote": "Columnar organization is a hallmark of neocortical sensory areas, most prominently in primary somatosensory and visual cortex. In the olfactory bulb, the existence of a vertical columnar organization of circuits associated with glomerular input channels has been implicated by various approaches.",
+      "target_url": "https://doi.org/10.1101/2025.01.29.635425",
+      "title": "cortex, sensory — Local olfactory nerve stimulation triggers patchy activation of columns across rat olfactory bu",
+      "win_id": "G1-JAMMAL-SALAMEH-E-D02-A01"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 2 certified dated prior-art comparisons with Jammal Salameh Egger Mechanosensitive Rhythms across 11 listed-author attributions (2 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 0 medium-partial, 2 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-03-01",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2025-01-28",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2022-08-10",
+    "latest_target_date": "2025-01-29",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 2,
+    "grade_breakdown": {
+      "weak-partial": 2
+    },
+    "lens4_event_ids": [
+      "lsm-g1-jammal-salameh-egger-mechanosensitive-rh-20261122"
+    ],
+    "listed_author_edges": 11,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 2
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 2
+  }
+}

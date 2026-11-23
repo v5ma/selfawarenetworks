@@ -1,0 +1,396 @@
+{
+  "authors_linked": [
+    {
+      "name": "Alessandro Sergi",
+      "slug": "alessandro-sergi"
+    },
+    {
+      "name": "ANTONINO MESSINA",
+      "slug": "antonino-messina"
+    },
+    {
+      "name": "Gabriella Martino",
+      "slug": "gabriella-martino"
+    },
+    {
+      "name": "Maria Teresa Caccamo",
+      "slug": "maria-teresa-caccamo"
+    },
+    {
+      "name": "Salvatore Magazù",
+      "slug": "salvatore-magaz"
+    },
+    {
+      "name": "Giulio Ruffini",
+      "slug": "giulio-ruffini"
+    },
+    {
+      "name": "Min‐Fang Kuo",
+      "slug": "min-fang-kuo"
+    },
+    {
+      "name": "Michael Andreas Nitsche",
+      "slug": "michael-andreas-nitsche"
+    }
+  ],
+  "display_code": "penrose-objective-reduction-noncomputability",
+  "domain_group": "hybrid",
+  "domains": "consciousness; neuroscience; physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-06-08 and 2024-01-15, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Penrose Objective Reduction Noncomputability (2025-09-05 to 2025-09-05) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Penrose Objective Reduction Noncomputability",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 32 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-penrose-objective-reduction-noncomputability",
+  "program_name": "Penrose Objective Reduction Noncomputability",
+  "rows": [
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alessandro Sergi",
+          "slug": "alessandro-sergi"
+        },
+        {
+          "name": "ANTONINO MESSINA",
+          "slug": "antonino-messina"
+        },
+        {
+          "name": "Gabriella Martino",
+          "slug": "gabriella-martino"
+        },
+        {
+          "name": "Maria Teresa Caccamo",
+          "slug": "maria-teresa-caccamo"
+        },
+        {
+          "name": "Salvatore Magazù",
+          "slug": "salvatore-magaz"
+        },
+        {
+          "name": "Giulio Ruffini",
+          "slug": "giulio-ruffini"
+        },
+        {
+          "name": "Min‐Fang Kuo",
+          "slug": "min-fang-kuo"
+        },
+        {
+          "name": "Michael Andreas Nitsche",
+          "slug": "michael-andreas-nitsche"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "This paper introduces Micah’s New Law of Thermodynamics , a unifying perspec- tive that treats the approach to equilibrium as a wave-based, iterative computation . Any system of interacting components (whether they are gas molecules, neurons, or gravi- tationally bound particles) locally dissipates differences through “signal exchanges.” Over multiple local interactions, those differences—be they in phase, momentum, or energy—are progressively neutralized,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 32.14,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (conscious, neurons, phase, synchronization) with Penrose Objective Reduction Noncomputability (2025-09-05; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 1]",
+      "target_date": "2025-09-05",
+      "target_date_sort": "2025-09-05",
+      "target_locator": "https://doi.org/10.3389/fnhum.2025.1630906 | The quantum-classical complexity of consciousness and orchestrated objective reduction",
+      "target_quote": "The orchestration, realized in part by classical processes occurring in the brain, synchronizes all OR events within individual neurons [13,16,17,23,22]. The synchronization of multiple OR events gives rise to conscious experience.An analogy can be made with a classical system: consider many pendulum clocks, each initially out of phase, but all mounted on the same wall.",
+      "target_url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1630906/pdf",
+      "title": "conscious, neurons, phase, synchronization — The quantum-classical complexity of consciousness and orchestrated objective reduction",
+      "win_id": "G1-PENROSE-OBJECTIV-D01-A04"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alessandro Sergi",
+          "slug": "alessandro-sergi"
+        },
+        {
+          "name": "ANTONINO MESSINA",
+          "slug": "antonino-messina"
+        },
+        {
+          "name": "Gabriella Martino",
+          "slug": "gabriella-martino"
+        },
+        {
+          "name": "Maria Teresa Caccamo",
+          "slug": "maria-teresa-caccamo"
+        },
+        {
+          "name": "Salvatore Magazù",
+          "slug": "salvatore-magaz"
+        },
+        {
+          "name": "Giulio Ruffini",
+          "slug": "giulio-ruffini"
+        },
+        {
+          "name": "Min‐Fang Kuo",
+          "slug": "min-fang-kuo"
+        },
+        {
+          "name": "Michael Andreas Nitsche",
+          "slug": "michael-andreas-nitsche"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "frames—or the local density of time—become so compressed that an outside observer perceives infalling objects as asymptotically slowing and freezing in time. Though the theory allows for a discretized model at the quantum scale, it does not insist that spacetime must be fundamentally discontinuous; the essential point is that mass concentrations elevate the local time density to such an extent that clocks effectively slow to a standstill at the horizon fro",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 38.43,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (clocks, interference, quantum) with Penrose Objective Reduction Noncomputability (2025-09-05; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 68]",
+      "target_date": "2025-09-05",
+      "target_date_sort": "2025-09-05",
+      "target_locator": "https://doi.org/10.3389/fnhum.2025.1630906 | The quantum-classical complexity of consciousness and orchestrated objective reduction",
+      "target_quote": "Because the shared wall transmits vibrations among the clocks, constructive and destructive interference leads them to synchronize over time. Orchestration in Orch OR is a similar process, involving 'quantum clocks' inside neurons, with the classical processes of the brain acting as the shared 'wall.' This analogy aligns with more recent interpretations of microtubules as time crystals, structures that may exhibit intrinsic periodicity and support coordina",
+      "target_url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1630906/pdf",
+      "title": "clocks, interference, quantum — The quantum-classical complexity of consciousness and orchestrated objective reduction",
+      "win_id": "G1-PENROSE-OBJECTIV-D01-A02"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alessandro Sergi",
+          "slug": "alessandro-sergi"
+        },
+        {
+          "name": "ANTONINO MESSINA",
+          "slug": "antonino-messina"
+        },
+        {
+          "name": "Gabriella Martino",
+          "slug": "gabriella-martino"
+        },
+        {
+          "name": "Maria Teresa Caccamo",
+          "slug": "maria-teresa-caccamo"
+        },
+        {
+          "name": "Salvatore Magazù",
+          "slug": "salvatore-magaz"
+        },
+        {
+          "name": "Giulio Ruffini",
+          "slug": "giulio-ruffini"
+        },
+        {
+          "name": "Min‐Fang Kuo",
+          "slug": "min-fang-kuo"
+        },
+        {
+          "name": "Michael Andreas Nitsche",
+          "slug": "michael-andreas-nitsche"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "gravity, Dark Time proposes that exposure to varying gravitational fields can partially destroy quantum coherence, causing the system to behave more classically. Because gravity is tied to local time-density gradients, interacting with this field “pushes” a system toward a definite state, akin to a measurement event in quantum mechanics. Crucially, this does not require time density itself to exist in a superposition. Instead, it positions gravitational in",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 38.93,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravity, quantum) with Penrose Objective Reduction Noncomputability (2025-09-05; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 27]",
+      "target_date": "2025-09-05",
+      "target_date_sort": "2025-09-05",
+      "target_locator": "https://doi.org/10.3389/fnhum.2025.1630906 | The quantum-classical complexity of consciousness and orchestrated objective reduction",
+      "target_quote": "In summary, the OR model offers a compelling unification of quantum mechanics and gravity, and gives the Orch OR framework its unique character.The Orch OR framework posits that each objective reduction (OR) event corresponds to a discrete moment of subjective experience, or proto-conscious qualia, occurring when quantum superpositions self-collapse into definite classical states.",
+      "target_url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1630906/pdf",
+      "title": "gravity, quantum — The quantum-classical complexity of consciousness and orchestrated objective reduction",
+      "win_id": "G1-PENROSE-OBJECTIV-D01-A01"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Alessandro Sergi",
+          "slug": "alessandro-sergi"
+        },
+        {
+          "name": "ANTONINO MESSINA",
+          "slug": "antonino-messina"
+        },
+        {
+          "name": "Gabriella Martino",
+          "slug": "gabriella-martino"
+        },
+        {
+          "name": "Maria Teresa Caccamo",
+          "slug": "maria-teresa-caccamo"
+        },
+        {
+          "name": "Salvatore Magazù",
+          "slug": "salvatore-magaz"
+        },
+        {
+          "name": "Giulio Ruffini",
+          "slug": "giulio-ruffini"
+        },
+        {
+          "name": "Min‐Fang Kuo",
+          "slug": "min-fang-kuo"
+        },
+        {
+          "name": "Michael Andreas Nitsche",
+          "slug": "michael-andreas-nitsche"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "All human beings are fractal oscillations, but in a real sense each one of us is creating spacetime and ourselves at the sametime, because oscillators define spacetime, all oscillators create the space around them by forcing particles into collision patterns that produce gravity, define the electromagnetic phase field and define what we observe as the curvature of spacetime thanks to Einstein. Space around atoms expands because of increasing travel times b",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 32.85,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (einstein, energy, mass, particle, quantum) with Penrose Objective Reduction Noncomputability (2025-09-05; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/40c0b37fc9376a6630ad9d3b09d911997c1c17f4/a0010z.md",
+      "target_date": "2025-09-05",
+      "target_date_sort": "2025-09-05",
+      "target_locator": "https://doi.org/10.3389/fnhum.2025.1630906 | The quantum-classical complexity of consciousness and orchestrated objective reduction",
+      "target_quote": "This is implemented by considering quantum superpositions not just as superpositions of physical states, but as superpositions of spacetime geometries. Drawing on Einstein's general relativity, where mass and energy curve spacetime, Penrose proposed that a quantum particle in a spatial superposition corresponds to a superposition of distinct spacetime curvatures, differing at the Planck scale.",
+      "target_url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1630906/pdf",
+      "title": "einstein, energy, mass, particle — The quantum-classical complexity of consciousness and orchestrated objective reduction",
+      "win_id": "G1-PENROSE-OBJECTIV-D01-A03"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Penrose Objective Reduction Noncomputability across 32 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 3 strong, 0 medium-partial, 1 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-06-08",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2025-09-05",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2024-01-15",
+    "latest_target_date": "2025-09-05",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "strong": 3,
+      "weak-partial": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-penrose-objective-reduction-noncomputabi-20261122"
+    ],
+    "listed_author_edges": 32,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 3,
+      "weak-partial": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

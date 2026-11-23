@@ -1,0 +1,210 @@
+{
+  "authors_linked": [
+    {
+      "name": "Froese T",
+      "slug": "froese-t"
+    }
+  ],
+  "display_code": "candidate-kuhn-10-7-mussers-is-it-really-so-hard",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; Challenge Theories",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2017-02-13 and 2023-11-01, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 3 documented mechanisms appearing in Musser's Is It Really So Hard? (2024-03-27 to 2024-03-27) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Musser's Is It Really So Hard?",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 3 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 3 dated comparisons and 3 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "candidate-kuhn-10-7-mussers-is-it-really-so-hard",
+  "program_name": "Musser's Is It Really So Hard?",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Froese T",
+          "slug": "froese-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "ρt, ϕ, ∂ µρt, . . . \u0001 d4x, where ϕ collectively denotes the standard matter (and possibly gauge) fields, ρt is a new scalar-like field representing local time density, and ∂µρt plus possible interaction terms (for instance, α ρt − k ρt ) appear explicitly in the Lagrangian L. Conceptually, ρt can be viewed as an auxiliary field that couples to matter via potential-like terms, modifies the effective metric, or both. Depending on the phenomenological goals,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-sit-physics-to-neuro-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 17.12,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (coupling, matter) with Musser's Is It Really So Hard? (2024-03-27; europepmc-official-abstract); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/physics",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 107]",
+      "target_date": "2024-03-27",
+      "target_date_sort": "2024-03-27",
+      "target_locator": "doi:10.3390/e26040288 | Irruption and Absorption: A 'Black-Box' Framework for How Mind and Matter Make a Difference to Each Other.",
+      "target_quote": "Two concepts are introduced given that there are two directions of coupling influence: (1) <i>irruption</i> denotes the unobservable mind hiddenly making a difference to observable matter, and (2) <i>absorption</i> denotes observable matter hiddenly making a difference to the unobservable mind.",
+      "target_url": "https://doi.org/10.3390/e26040288",
+      "title": "coupling, matter — Irruption and Absorption: A 'Black-Box' Framework for How Mind and Matter Make a Difference to ",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Froese T",
+          "slug": "froese-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2020-06-01) expresses active mechanism anchors (conscious, consciousness, awareness) that map structurally onto the later publication's (2024-03-27) formulation (conscious, consciousness) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "\"On Having No Head: Cognition throughout Biological Systems\" \"Importantly, in discussing cognitive performance in the various systems, we do not mean the full-blown human-like cognitive performance, or human-type of self-awareness and consciousness. We are avoiding issues of the ‘Hard’ problem of cognitive science, and do not claim anything like higher-order symbolic representations.\" https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00902/full I wou",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.43,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2020-06-01 formulation shares conceptual/operational mechanisms (cognitive, consciousness) with Musser's Is It Really So Hard? (2024-03-27; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2020-06-01",
+      "source_date_sort": "2020-06-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/29de78ca7cb8ed4664243fc844be1f768657358a/a0254z.md",
+      "target_date": "2024-03-27",
+      "target_date_sort": "2024-03-27",
+      "target_locator": "doi:10.3390/e26040288 | Irruption and Absorption: A 'Black-Box' Framework for How Mind and Matter Make a Difference to Each Other.",
+      "target_quote": "Cognitive science is confronted by several fundamental anomalies deriving from the mind-body problem. Most prominent is the problem of mental causation and the hard problem of consciousness, which can be generalized into the hard problem of agential efficacy and the hard problem of mental content.",
+      "target_url": "https://doi.org/10.3390/e26040288",
+      "title": "cognitive, consciousness — Irruption and Absorption: A 'Black-Box' Framework for How Mind and Matter Make a Difference to ",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Froese T",
+          "slug": "froese-t"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "imagine that your total cognitive work space, that contains all the \"qualia of your actual subjective experience\", consists of bits of information that we can map, download, and reconstruct. Imagine that your eyes are like cameras and that your ears are like microphones, and that we can download what you see and hear, and on top of that I want you to imagine that we can also download your thoughts as text, so that all the inferences you are making about wh",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 23.02,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2017-02-13 formulation shares conceptual/operational mechanisms (cognitive, qualia, subjective) with Musser's Is It Really So Hard? (2024-03-27; europepmc-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2017-02-13",
+      "source_date_sort": "2017-02-13",
+      "source_locator": "https://www.facebook.com/groups/neomindcycle/posts/1331633446917181/?comment_id=1332833583463834&reply_comment_id=1332869333460259",
+      "target_date": "2024-03-27",
+      "target_date_sort": "2024-03-27",
+      "target_locator": "doi:10.3390/e26040288 | Irruption and Absorption: A 'Black-Box' Framework for How Mind and Matter Make a Difference to Each Other.",
+      "target_quote": "The concepts of irruption and absorption are methodologically compatible with existing information-theoretic approaches to neuroscience, such as measuring cognitive activity and subjective qualia in terms of entropy and compression, respectively.",
+      "target_url": "https://doi.org/10.3390/e26040288",
+      "title": "cognitive, qualia, subjective — Irruption and Absorption: A 'Black-Box' Framework for How Mind and Matter Make a Difference to ",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 3 certified dated prior-art comparisons with Musser's Is It Really So Hard? across 3 listed-author attributions (3 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 1 strong, 1 medium-partial, 0 weak-partial, 1 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2017-02-13",
+    "earliest_micah_year": 2017,
+    "earliest_target_date": "2024-03-27",
+    "earliest_target_year": 2024,
+    "latest_micah_date": "2023-11-01",
+    "latest_target_date": "2024-03-27",
+    "latest_target_year": 2024
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 3,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 1,
+      "weak-partial-cross-domain": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g2-candidate-kuhn-10-7-mussers-is-it-really-20261122"
+    ],
+    "listed_author_edges": 3,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 1,
+      "weak-partial": 1,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 3
+  }
+}

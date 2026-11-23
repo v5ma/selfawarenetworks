@@ -1,0 +1,391 @@
+{
+  "authors_linked": [
+    {
+      "name": "Alastair Waterman",
+      "slug": "alastair-waterman"
+    }
+  ],
+  "display_code": "waterman-negative-space-encoding",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2017-04-11 and 2022-09-18, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 7 documented mechanisms appearing in Waterman Negative Space Encoding (2026-02-16 to 2026-03-10) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Waterman Negative Space Encoding",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 7 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 7 dated comparisons and 7 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-waterman-negative-space-encoding",
+  "program_name": "Waterman Negative Space Encoding",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alastair Waterman",
+          "slug": "alastair-waterman"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0310z Watch the Neural Array Projection Oscillation Tomography Revision 5 video that I did. https://youtu.be/vixhppNAKPs NAPOT Revision 5 # b0010y and a0310z The original 40 minute audio that inspired note a0310z and the audio file called b0010y can be listened to here: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e64-e77f44a9b2de The b0010ywhisper.md...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WN-A03 in waterman-nse-eeg-2026 (2026-03-10) x M22-NAPOT (2022-09-18)] Global multi-band EEG trajectory constraints forming persistent individual neural identity fingerprints across theta, alpha, and beta bands; anticipated partially in Blumberg (2022-09-18) via NAPOT phase-wave-differential interference and multi-scale oscillatory rende",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-18",
+      "source_date_sort": "2022-09-18",
+      "source_locator": "lines 1-20",
+      "target_date": "2026-03-10",
+      "target_date_sort": "2026-03-10",
+      "target_locator": "waterman-nse-eeg-2026-zenodo-18943306.txt (WN-A03)",
+      "target_quote": "These forbidden regions are constitutive of individual neural identity: each brain has a characteristic negative space that defines what it cannot do.",
+      "target_url": "",
+      "title": "Negative Space Encoding Empirical Evidence from EEG Topological Analysis (Zenodo 18943306)",
+      "win_id": "WAT-NSE-SC-007"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alastair Waterman",
+          "slug": "alastair-waterman"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0310z Watch the Neural Array Projection Oscillation Tomography Revision 5 video that I did. https://youtu.be/vixhppNAKPs NAPOT Revision 5 # b0010y and a0310z The original 40 minute audio that inspired note a0310z and the audio file called b0010y can be listened to here: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e64-e77f44a9b2de The b0010ywhisper.md...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WN-A02 in waterman-nse-oscillatory-2026 (2026-02-19) x M22-NAPOT (2022-09-18)] Conserved delta-to-gamma cortical oscillatory hierarchy acting as nested multi-scale temporal-spatial gating that stabilizes global representations; anticipated partially in Blumberg (2022-09-18) via NAPOT phase-wave-differential interference and multi-scale o",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-18",
+      "source_date_sort": "2022-09-18",
+      "source_locator": "lines 1-20",
+      "target_date": "2026-02-19",
+      "target_date_sort": "2026-02-19",
+      "target_locator": "waterman-nse-oscillatory-hierarchy-2026-zenodo-18701947.txt (WN-A02)",
+      "target_quote": "We introduce a quantitative toy model in which nested oscillatory gating reduces accessible state space multiplicatively.",
+      "target_url": "",
+      "title": "Oscillatory Hierarchy as Progressive Negative Space Encoding (Zenodo 18701947)",
+      "win_id": "WAT-NSE-SC-005"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alastair Waterman",
+          "slug": "alastair-waterman"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "//////////////////////////////////////////////////////////////////// The Quantum Physics of the Brain & Space The Neurophysics of Self Aware Networks Neurophysics, Quantum Physics, and Astrophysics The whole universe is a fractal of oscillations but its also a finite state system that is self learning and I will argue self aware the number of possible sta...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WN-A01 in waterman-nse-framework-2026 (2026-02-16) x M22-A0033-SIT (2022-08-02)] Noise-resilient physical and neural information encoded in global topological or temporal state-space constraints across neural and quantum-topological systems; anticipated partially in Blumberg (2022-08-02) via Pockets of convergent informational order (ext",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-02",
+      "source_date_sort": "2022-08-02",
+      "source_locator": "a0033z.md (convergent information c)",
+      "target_date": "2026-02-16",
+      "target_date_sort": "2026-02-16",
+      "target_locator": "waterman-nse-framework-2026-zenodo-18664837.txt (WN-A01)",
+      "target_quote": "Here we introduce Negative Space Encoding (NSE) as a unifying framework describing a class of encoding strategies in which information is represented primarily in structured absences rather than in localized active states.",
+      "target_url": "",
+      "title": "Negative Space Encoding: A Unifying Framework for Noise-Resilient Computation Across Neural and Topological Systems (Zenodo 18664837)",
+      "win_id": "WAT-NSE-SC-002"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alastair Waterman",
+          "slug": "alastair-waterman"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WN-A02 in waterman-nse-oscillatory-2026 (2026-02-19) x M22-PHASE-FIELD (2022-06-08)] Conserved delta-to-gamma cortical oscillatory hierarchy acting as nested multi-scale temporal-spatial gating that stabilizes global representations; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendriti",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2026-02-19",
+      "target_date_sort": "2026-02-19",
+      "target_locator": "waterman-nse-oscillatory-hierarchy-2026-zenodo-18701947.txt (WN-A02)",
+      "target_quote": "We introduce a quantitative toy model in which nested oscillatory gating reduces accessible state space multiplicatively.",
+      "target_url": "",
+      "title": "Oscillatory Hierarchy as Progressive Negative Space Encoding (Zenodo 18701947)",
+      "win_id": "WAT-NSE-SC-004"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alastair Waterman",
+          "slug": "alastair-waterman"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WN-A01 in waterman-nse-framework-2026 (2026-02-16) x M22-PHASE-FIELD (2022-06-08)] Noise-resilient physical and neural information encoded in global topological or temporal state-space constraints across neural and quantum-topological systems; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read b",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2026-02-16",
+      "target_date_sort": "2026-02-16",
+      "target_locator": "waterman-nse-framework-2026-zenodo-18664837.txt (WN-A01)",
+      "target_quote": "Here we introduce Negative Space Encoding (NSE) as a unifying framework describing a class of encoding strategies in which information is represented primarily in structured absences rather than in localized active states.",
+      "target_url": "",
+      "title": "Negative Space Encoding: A Unifying Framework for Noise-Resilient Computation Across Neural and Topological Systems (Zenodo 18664837)",
+      "win_id": "WAT-NSE-SC-001"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alastair Waterman",
+          "slug": "alastair-waterman"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WN-A03 in waterman-nse-eeg-2026 (2026-03-10) x M17-VOLUMETRIC (2017-04-11)] Global multi-band EEG trajectory constraints forming persistent individual neural identity fingerprints across theta, alpha, and beta bands; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-space matrix with fr",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2026-03-10",
+      "target_date_sort": "2026-03-10",
+      "target_locator": "waterman-nse-eeg-2026-zenodo-18943306.txt (WN-A03)",
+      "target_quote": "These forbidden regions are constitutive of individual neural identity: each brain has a characteristic negative space that defines what it cannot do.",
+      "target_url": "",
+      "title": "Negative Space Encoding Empirical Evidence from EEG Topological Analysis (Zenodo 18943306)",
+      "win_id": "WAT-NSE-SC-006"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alastair Waterman",
+          "slug": "alastair-waterman"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WN-A02 in waterman-nse-oscillatory-2026 (2026-02-19) x M17-VOLUMETRIC (2017-04-11)] Conserved delta-to-gamma cortical oscillatory hierarchy acting as nested multi-scale temporal-spatial gating that stabilizes global representations; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-spac",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2026-02-19",
+      "target_date_sort": "2026-02-19",
+      "target_locator": "waterman-nse-oscillatory-hierarchy-2026-zenodo-18701947.txt (WN-A02)",
+      "target_quote": "We introduce a quantitative toy model in which nested oscillatory gating reduces accessible state space multiplicatively.",
+      "target_url": "",
+      "title": "Oscillatory Hierarchy as Progressive Negative Space Encoding (Zenodo 18701947)",
+      "win_id": "WAT-NSE-SC-003"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 7 certified dated prior-art comparisons with Waterman Negative Space Encoding across 7 listed-author attributions (7 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 0 medium-partial, 7 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2017-04-11",
+    "earliest_micah_year": 2017,
+    "earliest_target_date": "2026-02-16",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2022-09-18",
+    "latest_target_date": "2026-03-10",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 7,
+    "grade_breakdown": {
+      "weak-partial": 7
+    },
+    "lens4_event_ids": [
+      "lsm-waterman-negative-space-encoding-20261122"
+    ],
+    "listed_author_edges": 7,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 7
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 7
+  }
+}

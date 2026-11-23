@@ -1,0 +1,352 @@
+{
+  "authors_linked": [
+    {
+      "name": "Francisco Javier Cuesta Gutierrez",
+      "slug": "francisco-javier-cuesta-gutierrez"
+    }
+  ],
+  "display_code": "cuesta-zero-gravity-theory",
+  "domain_group": "physics",
+  "domains": "artificial-intelligence; physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-07-26 and 2023-11-01, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 6 documented mechanisms appearing in Cuesta Zero Gravity Theory (2025-01-20 to 2025-03-12) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Cuesta Zero Gravity Theory",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 6 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 6 dated comparisons and 6 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-cuesta-zero-gravity-theory",
+  "program_name": "Cuesta Zero Gravity Theory",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Francisco Javier Cuesta Gutierrez",
+          "slug": "francisco-javier-cuesta-gutierrez"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Hubble tension, and gravitational lensing by focusing on how time density modulates energy and wavefunction evolution near massive bodies. In effect, Dark Time aspires to a simpler, more localized reconfiguration of gravitational and quantum principles—one that preserves the standard pillars of modern physics while revising the role of time itself in regions of strong gravity. It has been described as a “heliocentric simplification” among competing cosmic",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.47,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, gravity) with Cuesta Zero Gravity Theory (2025-03-12; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 80]",
+      "target_date": "2025-03-12",
+      "target_date_sort": "2025-03-12",
+      "target_locator": "https://doi.org/10.47363/jeast/2025(7)293 | Gravity as Energy and its Relationship with other Energies. Consequences & Applications",
+      "target_quote": "Its mathematicals basis are deduced from and exposed in detail. This Theory studies the relationship among Gravity and kinetic energy, proving that kinetic energy in its different forms is able to counteract the concavity created by the Gravity, creating at last instance a “Zero Gravity” (ZG) effect which is a function of speed and altitude.",
+      "target_url": "https://doi.org/10.47363/jeast/2025(7)293",
+      "title": "energy, gravity — Gravity as Energy and its Relationship with other Energies. Consequences & Applications",
+      "win_id": "G1-CUESTA-ZERO-GRAV-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Francisco Javier Cuesta Gutierrez",
+          "slug": "francisco-javier-cuesta-gutierrez"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "ρt, ∂ αρt \u0001 δgµν, (4) where f(ρt) encodes how local time density modifies the metric. The associated Ricci tensor eRµν then describes an effective curvature that can reproduce or slightly deviate from Einstein’s equations: eRµν − 1 2 eRegµν = 8 πG \u0010 Tµν + T (ρt) µν \u0011 , (5) with an additional term T (ρt) µν capturing the influence of ρt. If ρt is nearly uniform, T (ρt) µν ≈ 0, recovering standard GR. 16.4 Advantages of a Ricci-Based Comparison 16.4.1 (1) De",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 36.34,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (einstein, gravitational, metric, tensor) with Cuesta Zero Gravity Theory (2025-03-12; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 123]",
+      "target_date": "2025-03-12",
+      "target_date_sort": "2025-03-12",
+      "target_locator": "https://doi.org/10.47363/jeast/2025(7)293 | Gravity as Energy and its Relationship with other Energies. Consequences & Applications",
+      "target_quote": "We also deepen in the relation among gravitational potential energy and the energy conservation principle, as well as the relation with the metric tensor of Einstein.We continue with a reflection over centered in the relationship among Lense-Thirring (LT) effect and Gravity, showing that the influence of Lense-Thirring even in small objects allows to create concavities and convexities in space-time around them.",
+      "target_url": "https://doi.org/10.47363/jeast/2025(7)293",
+      "title": "einstein, gravitational, metric, tensor — Gravity as Energy and its Relationship with other Energies. Consequences & Applications",
+      "win_id": "G1-CUESTA-ZERO-GRAV-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Francisco Javier Cuesta Gutierrez",
+          "slug": "francisco-javier-cuesta-gutierrez"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "1.6 What Makes Super Dark Time Unique 1.6.1 Local Deterministic Wave Computation: “Gravity Computed from Local Quantum Mechanics” A central tenet of Super Dark Time is that quantum gravity interactions arise through local, deterministic wave computations, rather than non-local signaling or purely probabilistic events. In this view, each “collision” or phase alignment among time waves is effectively a mini-calculation in which energy and phase mismatches ar",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.88,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravity, light) with Cuesta Zero Gravity Theory (2025-01-20; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 13]",
+      "target_date": "2025-01-20",
+      "target_date_sort": "2025-01-20",
+      "target_locator": "https://doi.org/10.20944/preprints202501.1396.v1 | General Zero Gravity Theory",
+      "target_quote": "We finally find a relationship among the different ways of counteracting/reinforcing Gravity which also affects to the way of understanding the relationship among Light and Gravity.",
+      "target_url": "https://www.preprints.org/frontend/manuscript/852ac59f21e2c3cc45ee91229507f72d/download_pub",
+      "title": "gravity, light — General Zero Gravity Theory",
+      "win_id": "G1-CUESTA-ZERO-GRAV-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Francisco Javier Cuesta Gutierrez",
+          "slug": "francisco-javier-cuesta-gutierrez"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Hubble tension, and gravitational lensing by focusing on how time density modulates energy and wavefunction evolution near massive bodies. In effect, Dark Time aspires to a simpler, more localized reconfiguration of gravitational and quantum principles—one that preserves the standard pillars of modern physics while revising the role of time itself in regions of strong gravity. It has been described as a “heliocentric simplification” among competing cosmic",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.21,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, gravitational, gravity) with Cuesta Zero Gravity Theory (2025-01-20; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 80]",
+      "target_date": "2025-01-20",
+      "target_date_sort": "2025-01-20",
+      "target_locator": "https://doi.org/10.20944/preprints202501.1396.v1 | General Zero Gravity Theory",
+      "target_quote": "Then we study the close relationship among the Zero Gravity effect [1] and the energy conservation principle, between gravitational potential energy and kinetic energy.",
+      "target_url": "https://www.preprints.org/frontend/manuscript/852ac59f21e2c3cc45ee91229507f72d/download_pub",
+      "title": "energy, gravitational, gravity — General Zero Gravity Theory",
+      "win_id": "G1-CUESTA-ZERO-GRAV-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Francisco Javier Cuesta Gutierrez",
+          "slug": "francisco-javier-cuesta-gutierrez"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ρt, time density, dark time, metric) that map structurally onto the later publication's (2025-01-20) formulation (gravity, gravitational) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "ρt, ϕ, ∂ µρt, . . . \u0001 d4x, where ϕ collectively denotes the standard matter (and possibly gauge) fields, ρt is a new scalar-like field representing local time density, and ∂µρt plus possible interaction terms (for instance, α ρt − k ρt ) appear explicitly in the Lagrangian L. Conceptually, ρt can be viewed as an auxiliary field that couples to matter via potential-like terms, modifies the effective metric, or both. Depending on the phenomenological goals,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 29.75,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravitational, potential) with Cuesta Zero Gravity Theory (2025-01-20; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 107]",
+      "target_date": "2025-01-20",
+      "target_date_sort": "2025-01-20",
+      "target_locator": "https://doi.org/10.20944/preprints202501.1396.v1 | General Zero Gravity Theory",
+      "target_quote": "As consequence, we deduce in this paper that the Zero Gravity effect can be reached by different ways, not only by speed such it was showed in [1]. So we generalize to a General Zero Gravity Theory, which key is the relationship among gravitational potential energy with other energies that are able to counteract it for interacting with space-time, being direct kinetic energy (speed) the most obvious but not the only one.",
+      "target_url": "https://www.preprints.org/frontend/manuscript/852ac59f21e2c3cc45ee91229507f72d/download_pub",
+      "title": "gravitational, potential — General Zero Gravity Theory",
+      "win_id": "G1-CUESTA-ZERO-GRAV-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Francisco Javier Cuesta Gutierrez",
+          "slug": "francisco-javier-cuesta-gutierrez"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "# \"How Time Dilation Creates Quantum Gravity: The Key to the Natural effect of Gravity Propulsion\" https://www.amazon.com/Time-Dilation-Creates-Quantum-Gravity/dp/B09MYYWSNC # \"New Time Dilation Phenomenon Revealed: Timekeeping Theory Combines Quantum Clocks and Einstein’s Relativity\" https://scitechdaily.com/new-time-dilation-phenomenon-revealed-timekeeping-theory-combines-quantum-clocks-and-einsteins-rela",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 26.81,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-07-26 formulation shares conceptual/operational mechanisms (einstein, gravity, relativity) with Cuesta Zero Gravity Theory (2025-03-12; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-07-26",
+      "source_date_sort": "2022-07-26",
+      "source_locator": "Natural laws, including gravity, evolve from chaotic processes toward balance states rather than remaining fixed from the initial universe.",
+      "target_date": "2025-03-12",
+      "target_date_sort": "2025-03-12",
+      "target_locator": "https://doi.org/10.47363/jeast/2025(7)293 | Gravity as Energy and its Relationship with other Energies. Consequences & Applications",
+      "target_quote": "We start with a summary of the Theory of Special Zero Gravity which is strictly deduced from Einstein’s General Relativity Theory. This Theory is also based in the premise “Gravity is an expression of the state of balance reached by matter in space-time” (from Artificial BioIntelligence Theory by this same author, Amazon November 2023).",
+      "target_url": "https://doi.org/10.47363/jeast/2025(7)293",
+      "title": "einstein, gravity, relativity — Gravity as Energy and its Relationship with other Energies. Consequences & Applications",
+      "win_id": "G1-CUESTA-ZERO-GRAV-D02-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 6 certified dated prior-art comparisons with Cuesta Zero Gravity Theory across 6 listed-author attributions (6 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 4 strong, 0 medium-partial, 2 weak-partial, 0 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-07-26",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2025-01-20",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2023-11-01",
+    "latest_target_date": "2025-03-12",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 6,
+    "grade_breakdown": {
+      "strong": 4,
+      "weak-partial": 2
+    },
+    "lens4_event_ids": [
+      "lsm-g1-cuesta-zero-gravity-theory-20261122"
+    ],
+    "listed_author_edges": 6,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 3,
+      "weak-partial": 3
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 6
+  }
+}

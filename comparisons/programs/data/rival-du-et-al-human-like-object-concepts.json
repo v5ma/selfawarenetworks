@@ -1,0 +1,1871 @@
+{
+  "authors_linked": [
+    {
+      "name": "Changde Du",
+      "slug": "changde-du"
+    },
+    {
+      "name": "Kaicheng Fu",
+      "slug": "kaicheng-fu"
+    },
+    {
+      "name": "Bincheng Wen",
+      "slug": "bincheng-wen"
+    },
+    {
+      "name": "Yi Sun",
+      "slug": "yi-sun"
+    },
+    {
+      "name": "Jie Peng",
+      "slug": "jie-peng"
+    },
+    {
+      "name": "Wei Wei",
+      "slug": "wei-wei"
+    },
+    {
+      "name": "Ying Gao",
+      "slug": "ying-gao"
+    },
+    {
+      "name": "Shengpei Wang",
+      "slug": "shengpei-wang"
+    },
+    {
+      "name": "Chuncheng Zhang",
+      "slug": "chuncheng-zhang"
+    },
+    {
+      "name": "Jinpeng Li",
+      "slug": "jinpeng-li"
+    },
+    {
+      "name": "Shuang Qiu",
+      "slug": "shuang-qiu"
+    },
+    {
+      "name": "Le Chang",
+      "slug": "le-chang"
+    },
+    {
+      "name": "Huiguang He",
+      "slug": "huiguang-he"
+    },
+    {
+      "name": "Yizhuo Lu",
+      "slug": "yizhuo-lu"
+    },
+    {
+      "name": "Qingyu Shi",
+      "slug": "qingyu-shi"
+    }
+  ],
+  "display_code": "du-et-al-human-like-object-concepts",
+  "domain_group": "neuroscience",
+  "domains": "artificial-intelligence; neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2011-03-25 and 2023-11-01, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 23 documented mechanisms appearing in Du Et Al Human Like Object Concepts (2024-01-01 to 2026-05-28) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Du Et Al Human Like Object Concepts",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 23 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 4 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 23 dated comparisons and 239 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-du-et-al-human-like-object-concepts",
+  "program_name": "Du Et Al Human Like Object Concepts",
+  "rows": [
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "On the theoretical front, embedding ρt in a consistent Lagrangian with gauge and diffeomorphism invariance remains critical, along with performing renormalization group analyses to see if ρt is valid at all energy scales or only as an effective field. 17.3 Outline of Future Tasks Building on the core principles of Super Dark Time, the following tasks provide a roadmap for advancing, refining, and experimentally testing its claims. These tasks include theor",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.52,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (field, modeling) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 125]",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "In summary, the contributions of this paper are threefold: • Paradigm Shift in Neural Modeling:We propose Mind-Omni, the first framework to unify seven encod- ing and decoding tasks across brain, image, and text within a single discrete diffusion architecture, mov- ing beyond the specialized model paradigm that has dominated the field.",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "field, modeling — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A08"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Kaicheng Fu",
+          "slug": "kaicheng-fu"
+        },
+        {
+          "name": "Bincheng Wen",
+          "slug": "bincheng-wen"
+        },
+        {
+          "name": "Yi Sun",
+          "slug": "yi-sun"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Wei Wei",
+          "slug": "wei-wei"
+        },
+        {
+          "name": "Ying Gao",
+          "slug": "ying-gao"
+        },
+        {
+          "name": "Shengpei Wang",
+          "slug": "shengpei-wang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "2.4.3 Inverse Relationship: Density vs. Rate Dark Time highlights an inverse relationship between time density and the apparent rate of time. In strong gravitational fields, where time frames (discrete or effectively continuous) are packed more densely, clocks run slower. In weaker fields, where these frames spread out, clocks run faster. This relationship parallels the metric-based time dilation in GR and aligns with standard experimental tests of relativ",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-sit-physics-to-neuro-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 12.69,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (metric, place) with Du Et Al Human Like Object Concepts (2024-01-01; local-archived-primary-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/physic",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 26]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "uai2016-paper13.pdf | uai2016 paper13",
+      "target_quote": "The goal of bipartite ranking is to learn a ranking decision function that is likely to place a positive instance before most negative ones. AUC is a commonly used evaluation metric for bipartite ranking.",
+      "target_url": "",
+      "title": "metric, place — uai2016 paper13",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D01-A06"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism) via the Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture bridge. Micah Blumberg's dated passage (2023-08-01) expresses active mechanism anchors (graph) that map structurally onto the later publication's (2026-05-28) formulation (token) through the shared operation: Input (ordered or multi-modal representational tokens with relational/positional context) -> Transform (parallel relational weighting and context-conditioned attention routing across representations) -> Output (contextualized latent representation supporting long-range sequence extrapolation and inference).",
+        "ito_alignment": "Input: ordered or multi-modal representational tokens with relational/positional context -> Transform: parallel relational weighting and context-conditioned attention routing across representations -> Output: contextualized latent representation supporting long-range sequence extrapolation and inference",
+        "lens_basis": "Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism)",
+        "primary_bridge_id": "BT-12-SEQUENCE-ATTENTION-CONTEXT-COMPOSITION",
+        "primary_bridge_name": "Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "partly “computed” through repeated stimuli, coincidence detection, and rhyth- mic learning mechanisms. 3. NAPOT (Neural Array Projection Oscillation Tomography) A framework for how networks of neurons project oscillatory signals forward to create internal models of reality. Sensory inputs travel through cascades of phase-aligned ac- tivity, stitching multiple “slices” of information into unified, higher-dimensional representations. 4. Coincidences as Bits",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.4,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (representations, signals) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 42]",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "(2)Semantically-Aligned Brain Tokenization: We introduce a novel Brain Tokenizer that transforms continuous fMRI signals into discrete tokens aligned with image and text representations in a shared semantic space.",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "representations, signals — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A11"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "oscillations, ensuring that signals arising from muscle movements and body po- sition are aligned with sensory inputs from primary cortices. They facilitate a cyclical gating process—akin to the “Sonic the Hedgehog loops” observed in dynamic systems—in which signals continuously circulate along closed loops, enabling both feedforward and feedback modulation that refines neural activity and prevents runaway excitation. At every level, from individual cells",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.84,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (integration, signals) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 16]",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "(1)Input Heterogeneity: Inter-subject anatomical variability prevents direct integration of brain signals, while existing alignment methods either scale poorly with subject count [67,29] or sacrifice information fidelity [86].",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "integration, signals — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A07"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "A.2 Empirical Observations of Traveling Waves Neural activity often propagates as traveling waves across cortex and hippocam- pus. Invasive ECoG recordings show reproducible alpha and theta waves moving from posterior/parietal toward frontal or occipital regions during rest and mem- ory tasks. Sleep spindles rotate through temporal–parietal–frontal cortex, and ultra-slow (0.1 Hz) fMRI BOLD fluctuations travel from primary sensory areas to higher-order asso",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.72,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (cortex, perception) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 45]",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "4, the joint-modality condition (I&T→ B) consistently outperforms single-modality inputs across all metrics. 7 further illustrates that while image-only en- coding activates both early and high-level visual areas, and text-only encoding primarily engages semantic regions, the joint model achieves high accuracy across the entire visual cortex—suggesting it captures the brain’s natural integra- tion of visual and semantic information during perception.",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "cortex, perception — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A05"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Kaicheng Fu",
+          "slug": "kaicheng-fu"
+        },
+        {
+          "name": "Bincheng Wen",
+          "slug": "bincheng-wen"
+        },
+        {
+          "name": "Yi Sun",
+          "slug": "yi-sun"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Wei Wei",
+          "slug": "wei-wei"
+        },
+        {
+          "name": "Ying Gao",
+          "slug": "ying-gao"
+        },
+        {
+          "name": "Shengpei Wang",
+          "slug": "shengpei-wang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Closed-Loop Control ITO) + Lens 3 (Cross-Terminology Migration) + Invariant 9 (Ancestral Formulation Recovery) via the Closed-Loop Recursive Feedback, Predictive Processing & Self-Model Control bridge. Micah Blumberg's dated passage (2023-08-01) expresses active mechanism anchors (self aware, prediction, predict, prediction error) that map structurally onto the later publication's (2024-01-01) formulation (prediction, inference) through the shared operation: Input (continuous incoming sensory signals paired with prior internal expectations) -> Transform (recursive top-down prediction compared against bottom-up error inside a self-updating feedback loop) -> Output (refined self-consistent world/self model and adaptive error-minimizing control).",
+        "ito_alignment": "Input: continuous incoming sensory signals paired with prior internal expectations -> Transform: recursive top-down prediction compared against bottom-up error inside a self-updating feedback loop -> Output: refined self-consistent world/self model and adaptive error-minimizing control",
+        "lens_basis": "Lens 1 (Closed-Loop Control ITO) + Lens 3 (Cross-Terminology Migration) + Invariant 9 (Ancestral Formulation Recovery)",
+        "primary_bridge_id": "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "primary_bridge_name": "Closed-Loop Recursive Feedback, Predictive Processing & Self-Model Control",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "8.4 Neural Rendering and Predictive Coding Neural rendering updates the traditional predictive coding framework by proposing that the brain is not merely transmitting prediction errors but ac- tively enriching its internal models with new features. Rather than focusing solely on mismatches, this view emphasizes how cortical circuits integrate de- tailed sensory information to create a dynamic representation of reality. Karl Friston’s work on active inferen",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.49,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (inference, prediction) with Du Et Al Human Like Object Concepts (2024-01-01; local-archived-primary-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 35]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "uai2016-paper13.pdf | uai2016 paper13",
+      "target_quote": "5 CONVERGENCE, COMPLEXITY AND PREDICTION In both B 2RMK and OB 2RMK, the inference mechanis- m sequentially updates the approximate posterior distribu- tions of the model parameters and the augmented parame- ters until convergence, which is guaranteed because the KL divergence is convex with respect to each of the factors.",
+      "target_url": "",
+      "title": "inference, prediction — uai2016 paper13",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D01-A03"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Perhaps that first spike comes from the Dendrite, and then the Exit Terminal learns to predict it, based on the wave shape (duration & frequency), so that the exit terminal is sending it's prediction backwards, a back propagation spike, at the same time that the mouse encounters that same place again",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.59,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-08-30 formulation shares conceptual/operational mechanisms (diffusion, prediction) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-30",
+      "source_date_sort": "2022-08-30",
+      "source_locator": "2022-08-30 (Git author date of the immutable commit)",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "(b) The diffusion model is then trained on a masked prediction objective, illustrated here with the B→I&T task. It learns to restore masked image and text tokens during the denoising process using a cross-entropy loss.",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "diffusion, prediction — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A09"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism) via the Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (sequence, prediction) that map structurally onto the later publication's (2026-05-28) formulation (sequence, token) through the shared operation: Input (ordered or multi-modal representational tokens with relational/positional context) -> Transform (parallel relational weighting and context-conditioned attention routing across representations) -> Output (contextualized latent representation supporting long-range sequence extrapolation and inference).",
+        "ito_alignment": "Input: ordered or multi-modal representational tokens with relational/positional context -> Transform: parallel relational weighting and context-conditioned attention routing across representations -> Output: contextualized latent representation supporting long-range sequence extrapolation and inference",
+        "lens_basis": "Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism)",
+        "primary_bridge_id": "BT-12-SEQUENCE-ATTENTION-CONTEXT-COMPOSITION",
+        "primary_bridge_name": "Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "I think of consciousness as something that arises from a set of memory-prediction-rendering arrays (that are firing off patterns in tempo-spatial sequences) but specifically the firing represents some extended interval of time and what I mean by this is when a video is playing you have one frame playing back on one screen at a time, but when a conscious entity does video playback it is like 100 simultaneously different videos playing back on 100 different",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.18,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (prediction, sequences) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/55cb3bcb0ea8653087b424444e2f1cf66ca1d580/a0319z.md#L15",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "The core principle is to frame every task as a conditional masked token prediction problem under the discrete diffusion frame- work. Unified Training Objective.Let xI ,x T ,x B represent the token sequences for the image, text, and brain modal- ities, respectively.",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "prediction, sequences — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A12"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0645z **** ctpr The flow of information in the brain was an audio recording in which I was trying to ascertain how information flowed after leaving the thalamus, how the visual cortex sent information to other parts of the neo cortex, what routes signals traveled, this led to the idea of neural arrays, edge communities as layers in a 3D neural network, with local rendering, and magnification of memories from representations as synaptic connections, recogn",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.62,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (cortex, representations) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/5360f6414909a2474129b2140ee0dc3112c93b6b/a0645z%20%20ctpr.txt#L1",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "This suggests that although the vector quantization step incurs some loss of fine-grained voxel-wise accuracy, it enables the model to capture richer semantic representations in visual cortex—a capability that is further validated by the semantic selectivity analysis in the next section (Fig.",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "cortex, representations — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A03"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the multimedium processing create isomorphic pattern learning in each of the senses that can be understood in terms of each of the modalities, so a tactile reading of braille text which is bumps on a page can result in words read from tactile sensations but processed in the somatosensory cortex first instead of from the visual (electric field solitons) cortex, the auditory cortex (mechanical soliton waves), decoded from the sensation of heat patterns (its",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.64,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (field, pattern) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/9911b61b401aeb9aab74cd765a18e7b7019eff5e/a0132z.md#L16",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "two zebras with a distinctive black and white striped pattern stands in a lush, golden grassy field, its mane gently slightly flowing. Only decoding text (B→T) Jointly decoding text and image (B→T&I) Stimulus decoded Figure 8.Illustrating synergy in the detailed description task.",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "field, pattern — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A02"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Kaicheng Fu",
+          "slug": "kaicheng-fu"
+        },
+        {
+          "name": "Bincheng Wen",
+          "slug": "bincheng-wen"
+        },
+        {
+          "name": "Yi Sun",
+          "slug": "yi-sun"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Wei Wei",
+          "slug": "wei-wei"
+        },
+        {
+          "name": "Ying Gao",
+          "slug": "ying-gao"
+        },
+        {
+          "name": "Shengpei Wang",
+          "slug": "shengpei-wang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "you are the rendering that your brain is rendering (oscillat, synap) map: synapse configuration, SDR, Oscillator, internal recognition The idea that a neuron's synaptic configuration represents a lot of different SDR patterns, that emerge from combinations of neural firing into distinct internal renderings that an oscillator can recognize Past examples of people using EEG and or MRI to translate images from brain activity involve sortin",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.14,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (learning, scale) with Du Et Al Human Like Object Concepts (2024-01-01; local-archived-primary-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/766f3d3664995e0fc795f2e36cd81ee6e04042e6/c0002x.md",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "uai2016-paper13.pdf | uai2016 paper13",
+      "target_quote": "In the updating of the kernel-based ranking de- cision function, the main problem is to compute the Gram matrix of pairwise kernel evaluations between the historical instances and new arriving instance, and we have to store all the received historical instances, making it impractical for large-scale online learning tasks.",
+      "target_url": "",
+      "title": "learning, scale — uai2016 paper13",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D01-A07"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Kaicheng Fu",
+          "slug": "kaicheng-fu"
+        },
+        {
+          "name": "Bincheng Wen",
+          "slug": "bincheng-wen"
+        },
+        {
+          "name": "Yi Sun",
+          "slug": "yi-sun"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Wei Wei",
+          "slug": "wei-wei"
+        },
+        {
+          "name": "Ying Gao",
+          "slug": "ying-gao"
+        },
+        {
+          "name": "Shengpei Wang",
+          "slug": "shengpei-wang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Metaphorically you can imagine that there is no central canvas, no computer screen where all the renderings show up, because the rendered outputs are distributed all over the place, and absorbed by the brain for the next iteration of the rendering. The rendering of the content of the mind is both distributed & constantly changing, but it's organized by neural pathways that are organized into feedback loops, and the neural pathways are constantly changing a",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.71,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (inference, scale) with Du Et Al Human Like Object Concepts (2024-01-01; local-archived-primary-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0319z.md",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "uai2016-paper13.pdf | uai2016 paper13",
+      "target_quote": "Similar as in B 2RMK, where data augmen- tation presents an elegant way to deal with the challenging posterior inference problem, we transform Lt+1(y|f ) into the product of ˜N+ · ˜N− location-scale mixtures of normals: Lt+1(y|f ) = ˜N+∏ i=1 ˜N\u0000∏ j=1 ∫ ∞ 0 exp ( (θij +C(1−fi+fj ))2 −2θij ) √ 2πθij dθij.",
+      "target_url": "",
+      "title": "inference, scale — uai2016 paper13",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D01-A05"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Kaicheng Fu",
+          "slug": "kaicheng-fu"
+        },
+        {
+          "name": "Bincheng Wen",
+          "slug": "bincheng-wen"
+        },
+        {
+          "name": "Yi Sun",
+          "slug": "yi-sun"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Wei Wei",
+          "slug": "wei-wei"
+        },
+        {
+          "name": "Ying Gao",
+          "slug": "ying-gao"
+        },
+        {
+          "name": "Shengpei Wang",
+          "slug": "shengpei-wang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "- **Mechanism:** Pattern Dimensionality & Neuronal Projection\\ **Proposed Process:** Activation or transmission elevates pattern dimensionality; neurons project phase patterns onto downstream arrays.\\ **Key Computational Principles:** Projection and transformation of information.\\ **Role in Encoding:** Enables complex 3D shapes to unfold from fundamental pattern representations.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.14,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (patterns, representations) with Du Et Al Human Like Object Concepts (2024-07-01; arxiv-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 9 (09san.md) [para 33]",
+      "target_date": "2024-07-01",
+      "target_date_sort": "2024-07-01",
+      "target_locator": "arXiv:2407.01067 | Human-like object concept representations emerge naturally in multimodal large language models",
+      "target_quote": "Further analysis showed strong alignment between model embeddings and neural activity patterns in brain regions such as EBA, PPA, RSC, and FFA. This provides compelling evidence that the object representations in LLMs, while not identical to human ones, share fundamental similarities that reflect key aspects of human conceptual knowledge.",
+      "target_url": "https://arxiv.org/abs/2407.01067",
+      "title": "patterns, representations — Human-like object concept representations emerge naturally in multimodal large language models",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D02-A03"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Kaicheng Fu",
+          "slug": "kaicheng-fu"
+        },
+        {
+          "name": "Bincheng Wen",
+          "slug": "bincheng-wen"
+        },
+        {
+          "name": "Yi Sun",
+          "slug": "yi-sun"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Wei Wei",
+          "slug": "wei-wei"
+        },
+        {
+          "name": "Ying Gao",
+          "slug": "ying-gao"
+        },
+        {
+          "name": "Shengpei Wang",
+          "slug": "shengpei-wang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "This system behaves analogously to raster scan lines, where rendering proceeds across a spatially and temporally synchronized network of cortical loops. The mental taxis serve as structured addresses or references to scene layers, mesh configurations, and sensory embeddings. These taxis are rendered across the oscillatory substrate using mechanisms akin to the predictive coding and re-entrant feedback loops you describe in Section 3.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.13,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (mental, predictive) with Du Et Al Human Like Object Concepts (2024-07-01; arxiv-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 12 (12san.md) [para 12]",
+      "target_date": "2024-07-01",
+      "target_date_sort": "2024-07-01",
+      "target_locator": "arXiv:2407.01067 | Human-like object concept representations emerge naturally in multimodal large language models",
+      "target_quote": "The resulting 66-dimensional embeddings were stable, predictive, and exhibited semantic clustering similar to human mental representations. Remarkably, the dimensions underlying these embeddings were interpretable, suggesting that LLMs and MLLMs develop human-like conceptual representations of objects.",
+      "target_url": "https://arxiv.org/abs/2407.01067",
+      "title": "mental, predictive — Human-like object concept representations emerge naturally in multimodal large language models",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D02-A02"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Kaicheng Fu",
+          "slug": "kaicheng-fu"
+        },
+        {
+          "name": "Bincheng Wen",
+          "slug": "bincheng-wen"
+        },
+        {
+          "name": "Yi Sun",
+          "slug": "yi-sun"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Wei Wei",
+          "slug": "wei-wei"
+        },
+        {
+          "name": "Ying Gao",
+          "slug": "ying-gao"
+        },
+        {
+          "name": "Shengpei Wang",
+          "slug": "shengpei-wang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Exploring the formalization of phase-wave differentials as biological loss functions could offer new insights into how the brain optimizes its oscillatory states for memory, perception, and decision-making. This could lead to models that better replicate human cognition by incorporating these biological cost functions into neural network architectures.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 23.98,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (cognition, perception) with Du Et Al Human Like Object Concepts (2024-07-01; arxiv-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 2 (02san.md) [para 49]",
+      "target_date": "2024-07-01",
+      "target_date_sort": "2024-07-01",
+      "target_locator": "arXiv:2407.01067 | Human-like object concept representations emerge naturally in multimodal large language models",
+      "target_quote": "Understanding how humans conceptualize and categorize natural objects offers critical insights into perception and cognition. With the advent of Large Language Models (LLMs), a key question arises: can these models develop human-like object representations from linguistic and multimodal data? In this study, we combined behavioral and neuroimaging analyses to explore the relationship between object concept representations in LLMs and human cognition.",
+      "target_url": "https://arxiv.org/abs/2407.01067",
+      "title": "cognition, perception — Human-like object concept representations emerge naturally in multimodal large language models",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D02-A01"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Kaicheng Fu",
+          "slug": "kaicheng-fu"
+        },
+        {
+          "name": "Bincheng Wen",
+          "slug": "bincheng-wen"
+        },
+        {
+          "name": "Yi Sun",
+          "slug": "yi-sun"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Wei Wei",
+          "slug": "wei-wei"
+        },
+        {
+          "name": "Ying Gao",
+          "slug": "ying-gao"
+        },
+        {
+          "name": "Shengpei Wang",
+          "slug": "shengpei-wang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "5. Jennings, H.S. (1906). Behavior of the Lower Organisms. Columbia Univ. Press. -- Classic early work (often cited in basal cognition literature) documenting decision-like behaviors in single-celled organisms (e.g., paramecia can adapt and change course in response to stimuli). Over a century ago, Jennings suggested that even \"lower\" organisms show acts of choice and learning. This historical insight prefigures modern notions that the building blocks of n",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.34,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (decision, learning) with Du Et Al Human Like Object Concepts (2024-01-01; local-archived-primary-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 79]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "uai2016-paper13.pdf | uai2016 paper13",
+      "target_quote": "All the afore- mentioned methods seek point estimates of the decision function in a linear or single kernel space. On the other hand, recent years witnessed the efforts on online extensions of multiple kernel learning due to its ef- ﬁciency constrictions.",
+      "target_url": "",
+      "title": "decision, learning — uai2016 paper13",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D01-A04"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Kaicheng Fu",
+          "slug": "kaicheng-fu"
+        },
+        {
+          "name": "Bincheng Wen",
+          "slug": "bincheng-wen"
+        },
+        {
+          "name": "Yi Sun",
+          "slug": "yi-sun"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Wei Wei",
+          "slug": "wei-wei"
+        },
+        {
+          "name": "Ying Gao",
+          "slug": "ying-gao"
+        },
+        {
+          "name": "Shengpei Wang",
+          "slug": "shengpei-wang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Closed-Loop Control ITO) + Lens 3 (Cross-Terminology Migration) + Invariant 9 (Ancestral Formulation Recovery) via the Closed-Loop Recursive Feedback, Predictive Processing & Self-Model Control bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (self aware, inference, bayesian) that map structurally onto the later publication's (2024-01-01) formulation (bayesian, inference) through the shared operation: Input (continuous incoming sensory signals paired with prior internal expectations) -> Transform (recursive top-down prediction compared against bottom-up error inside a self-updating feedback loop) -> Output (refined self-consistent world/self model and adaptive error-minimizing control).",
+        "ito_alignment": "Input: continuous incoming sensory signals paired with prior internal expectations -> Transform: recursive top-down prediction compared against bottom-up error inside a self-updating feedback loop -> Output: refined self-consistent world/self model and adaptive error-minimizing control",
+        "lens_basis": "Lens 1 (Closed-Loop Control ITO) + Lens 3 (Cross-Terminology Migration) + Invariant 9 (Ancestral Formulation Recovery)",
+        "primary_bridge_id": "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "primary_bridge_name": "Closed-Loop Recursive Feedback, Predictive Processing & Self-Model Control",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Different oscillatory states would represent different hypotheses or options, with the brain \"sampling\" these states to approximate Bayesian inference.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 30.12,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (bayesian, inference) with Du Et Al Human Like Object Concepts (2024-01-01; local-archived-primary-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 4 (04san.md) [para 240]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "uai2016-paper13.pdf | uai2016 paper13",
+      "target_quote": "3.3 V ARIA TIONAL APPROXIMA TE INFERENCE Directly solving for the augmented posterior is intractable due to the normalization constant p(y|Υ), thus we appeal to the mean-ﬁeld variational approximate Bayesian infer- ence method, which is generally much more efﬁcient than the Markov Chain Monte Calo (MCMC) based sampling methods.",
+      "target_url": "",
+      "title": "bayesian, inference — uai2016 paper13",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D01-A01"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "# The human mind is an Entified Tensor Field. In the human brain the 'cognitive' Tensors are phase variations between synapses. Entification or unification of these vectors/tensors (in otherwords a neural network object segmentation + neural network classification = a 3D semantic segmentation process in the human brain) happens via Oscillation of Phase Variations created by signals between cells in the brain creates the 3D canvas of reality. If you think a",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.31,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-01-01 formulation shares conceptual/operational mechanisms (dimension, signals) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-01-01",
+      "source_date_sort": "2022-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/42188a5fce0f502ce4497bbea782f9b55c1fb870/a0238z.md#L3",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "(1) Unlike tokenizers for natural images, the lower intrinsic dimensionality of fMRI signals makes the model prone to codebook collapse when the codebook is over- parameterized in size or dimension.",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "dimension, signals — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A04"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "I think of my brain as a self-aware network, ie a 4D Natural Neural Network, or a type of computer system that renders reality and various abstractions, concepts, that influence the programming of the mind.. Imagine a multi-brain computer network, a network that trades in multi-sensory communication, one where each node (each brain) is interpolating reality from data, but the data is crazy huge because everyone's mind is multiplying that data. As much as w",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.42,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2019-12-22 formulation shares conceptual/operational mechanisms (dimensional, predictions) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2019-12-22",
+      "source_date_sort": "2019-12-22",
+      "source_locator": "https://www.facebook.com/worksalt/posts/pfbid02WxXkokPpzhtTkA5kPe5Ytxhad9BW18fthxCENjdFEcyjyH7jgPPwKM2YqFHp4cPsl",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "We evalu- ate predictions in both the high-dimensional voxel space (∼13,000 dimensions) and a projected CLIP semantic space (1024 dimensions), employing Pearson Correlation Co- efficient (PCC) and Mean Squared Error (MSE) for lo- cal similarity, and Representational Similarity Analysis (RSA) [39] for global structural alignment.",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "dimensional, predictions — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A10"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "It's tricky to say, I have in me a sense of a transparency within me, within the features of spaces and objects of perception, it's not light that passes through me, it's electromagnetic frequency, it is from me and it effects me, I broadcast these signals, they interact, signals interact with signals, to build feature representations of a world around and within, and then the frequencies push the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.15,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2017-06-01 formulation shares conceptual/operational mechanisms (learning, signals) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-06-01",
+      "source_date_sort": "2017-06-01",
+      "source_locator": "a0154z.md char 368..768",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "Our investigations further reveal novel insights into multi-task learning for neural signals.We found that (1) there are complementary effects between vision and lan- guage modalities within the encoding task; (2) a synergistic relationship exists between different decoding objectives (e.g., B→T and B→I), where concurrent training and infer- ence enhance performance on both.",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "learning, signals — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A06"
+    },
+    {
+      "author_count": 8,
+      "authors_linked": [
+        {
+          "name": "Yizhuo Lu",
+          "slug": "yizhuo-lu"
+        },
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Qingyu Shi",
+          "slug": "qingyu-shi"
+        },
+        {
+          "name": "Hang Chen",
+          "slug": "hang-chen"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Liuyun Jiang",
+          "slug": "liuyun-jiang"
+        },
+        {
+          "name": "Shuangchen Zhao",
+          "slug": "shuangchen-zhao"
+        },
+        {
+          "name": "Huiguang He",
+          "slug": "huiguang-he"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "with computer vision combined with the, uh, the microphone, the, the sensor that's in, in,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 24.47,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2017-04-11 formulation shares conceptual/operational mechanisms (magnetic, resonance, signals) with Du Et Al Human Like Object Concepts (2026-05-28; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "A sensitive external brain sensor is combined with spatial computing to classify measured neural patterns in relation to a three-dimensional body and environment.",
+      "target_date": "2026-05-28",
+      "target_date_sort": "2026-05-28",
+      "target_locator": "arXiv:2605.29591 | Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion",
+      "target_quote": "Brain Tokenizer To discretize continuous functional magnetic resonance imaging (fMRI) signals into meaningful tokens for the diffu- sion model, we introduce a specialized Brain Tokenizer.",
+      "target_url": "https://arxiv.org/abs/2605.29591",
+      "title": "magnetic, resonance, signals — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D03-A01"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Kaicheng Fu",
+          "slug": "kaicheng-fu"
+        },
+        {
+          "name": "Bincheng Wen",
+          "slug": "bincheng-wen"
+        },
+        {
+          "name": "Yi Sun",
+          "slug": "yi-sun"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Wei Wei",
+          "slug": "wei-wei"
+        },
+        {
+          "name": "Ying Gao",
+          "slug": "ying-gao"
+        },
+        {
+          "name": "Shengpei Wang",
+          "slug": "shengpei-wang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "this note contains cutlets or snippets from a conversation I had online before Sep 21, 2011 Micah Blumberg get a video camera and point it at its own screen, thats a feedback loop. Next create a learning machine modeled on the human neocortex. So it sorts experiences into statistical memory which is used to predict what happens next. These predictions are our thoughts about everything. Next these memory-prediction-thoughts actually manifest as actual brain",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.73,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2011-09-21 formulation shares conceptual/operational mechanisms (learning, memory) with Du Et Al Human Like Object Concepts (2024-01-01; local-archived-primary-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-09-21",
+      "source_date_sort": "2011-09-21",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/7d1431213cd4ac9788848a5396ec2992ece11cfd/a0072z%20ctpr.txt#L2",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "uai2016-paper13.pdf | uai2016 paper13",
+      "target_quote": "4 ONLINE B 2RMK LEARNING The above batch B 2RMK model still suffers from efﬁcien- cy problems, e.g., huge memory consumption in dealing with large data sets and time-consuming re-training when the data appears sequentially.",
+      "target_url": "",
+      "title": "learning, memory — uai2016 paper13",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D01-A02"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Changde Du",
+          "slug": "changde-du"
+        },
+        {
+          "name": "Kaicheng Fu",
+          "slug": "kaicheng-fu"
+        },
+        {
+          "name": "Bincheng Wen",
+          "slug": "bincheng-wen"
+        },
+        {
+          "name": "Yi Sun",
+          "slug": "yi-sun"
+        },
+        {
+          "name": "Jie Peng",
+          "slug": "jie-peng"
+        },
+        {
+          "name": "Wei Wei",
+          "slug": "wei-wei"
+        },
+        {
+          "name": "Ying Gao",
+          "slug": "ying-gao"
+        },
+        {
+          "name": "Shengpei Wang",
+          "slug": "shengpei-wang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "our brainwave structure has nodes that exist in a 3rd dimensional place physically inside the brain that relates to itself",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.57,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2011-03-25 formulation shares conceptual/operational mechanisms (dimensional, structure) with Du Et Al Human Like Object Concepts (2024-07-01; arxiv-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-03-25",
+      "source_date_sort": "2011-03-25",
+      "source_locator": "https://www.facebook.com/photo/?fbid=207575572602431&set=a.103297033030286",
+      "target_date": "2024-07-01",
+      "target_date_sort": "2024-07-01",
+      "target_locator": "arXiv:2407.01067 | Human-like object concept representations emerge naturally in multimodal large language models",
+      "target_quote": "We collected 4.7 million triplet judgments from LLMs and Multimodal LLMs (MLLMs) to derive low-dimensional embeddings that capture the similarity structure of 1,854 natural objects.",
+      "target_url": "https://arxiv.org/abs/2407.01067",
+      "title": "dimensional, structure — Human-like object concept representations emerge naturally in multimodal large language models",
+      "win_id": "G1-DU-ET-AL-HUMAN-L-D02-A04"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 23 certified dated prior-art comparisons with Du Et Al Human Like Object Concepts across 239 listed-author attributions (23 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 1 strong, 4 medium-partial, 17 weak-partial, 1 weak-partial cross-domain, with 4 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2011-03-25",
+    "earliest_micah_year": 2011,
+    "earliest_target_date": "2024-01-01",
+    "earliest_target_year": 2024,
+    "latest_micah_date": "2023-11-01",
+    "latest_target_date": "2026-05-28",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 4,
+    "governed_wins": 23,
+    "grade_breakdown": {
+      "medium-partial": 4,
+      "strong": 1,
+      "weak-partial": 17,
+      "weak-partial-cross-domain": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-du-et-al-human-like-object-concepts-20261122"
+    ],
+    "listed_author_edges": 239,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 1,
+      "weak-partial": 21,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 23
+  }
+}

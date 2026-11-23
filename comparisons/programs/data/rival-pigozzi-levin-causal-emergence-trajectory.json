@@ -1,0 +1,423 @@
+{
+  "authors_linked": [
+    {
+      "name": "Federico Pigozzi",
+      "slug": "federico-pigozzi"
+    },
+    {
+      "name": "Michael Levin",
+      "slug": "michael-levin"
+    }
+  ],
+  "display_code": "pigozzi-levin-causal-emergence-trajectory",
+  "domain_group": "neuroscience",
+  "domains": "biology; artificial intelligence; origin of life",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2011-08-24 and 2025-08-03, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 7 documented mechanisms appearing in Pigozzi Levin Causal Emergence Across Biological Artificial And Pre-Replicator Systems (2026-05-15 to 2026-07-28) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Pigozzi Levin Causal Emergence Across Biological Artificial And Pre-Replicator Systems",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 7 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 7 dated comparisons and 14 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-pigozzi-levin-causal-emergence-trajectory",
+  "program_name": "Pigozzi Levin Causal Emergence Across Biological Artificial And Pre-Replicator Systems",
+  "rows": [
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Federico Pigozzi",
+          "slug": "federico-pigozzi"
+        },
+        {
+          "name": "Michael Levin",
+          "slug": "michael-levin"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Each link (i, j) carries coupling strengths and, when relevant, a gauge term A_ij that accounts for transported phase.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[PL-A03 in pigozzi-levin-2026-arxiv-2607 (2026-07-28) x M25-QGTCD-SIT (2025-08-03)] Progressive increases in integrated informational causality emerging inside active physical media prior to Darwinian self-replication; anticipated partially in Blumberg (2025-08-03) via Covariant SIT lattice action unifying transported phase gauge A_ij, in",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-03",
+      "source_date_sort": "2025-08-03",
+      "source_locator": "QGTCD-SIT.md (gauge term A_ij that acc)",
+      "target_date": "2026-07-28",
+      "target_date_sort": "2026-07-28",
+      "target_locator": "arxiv-2607.28250v1.txt (PL-A03)",
+      "target_quote": "Thus, progressive increases in integrated causality are detectable in active media before evolutionary dynamics begin to operate, which may have implications for the origin of life across highly diverse scenarios and for understanding the forces driving the rise in causal power observed in the biosphere on Earth.",
+      "target_url": "",
+      "title": "Causal Architecture Dynamics Prior to Arrival of Self-replicators in a Model of Catalytic Networks Relevant to Origin-of-Life (arXiv:2607.28250v1)",
+      "win_id": "PIG-LEV-SC-007"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Federico Pigozzi",
+          "slug": "federico-pigozzi"
+        },
+        {
+          "name": "Michael Levin",
+          "slug": "michael-levin"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "//////////////////////////////////////////////////////////////////// The Quantum Physics of the Brain & Space The Neurophysics of Self Aware Networks Neurophysics, Quantum Physics, and Astrophysics The whole universe is a fractal of oscillations but its also a finite state system that is self learning and I will argue self aware the number of possible sta...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[PL-A03 in pigozzi-levin-2026-arxiv-2607 (2026-07-28) x M22-A0033-SIT (2022-08-02)] Progressive increases in integrated informational causality emerging inside active physical media prior to Darwinian self-replication; anticipated partially in Blumberg (2022-08-02) via Pockets of convergent informational order (extropy), mass-energy time ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-02",
+      "source_date_sort": "2022-08-02",
+      "source_locator": "a0033z.md (convergent information c)",
+      "target_date": "2026-07-28",
+      "target_date_sort": "2026-07-28",
+      "target_locator": "arxiv-2607.28250v1.txt (PL-A03)",
+      "target_quote": "Thus, progressive increases in integrated causality are detectable in active media before evolutionary dynamics begin to operate, which may have implications for the origin of life across highly diverse scenarios and for understanding the forces driving the rise in causal power observed in the biosphere on Earth.",
+      "target_url": "",
+      "title": "Causal Architecture Dynamics Prior to Arrival of Self-replicators in a Model of Catalytic Networks Relevant to Origin-of-Life (arXiv:2607.28250v1)",
+      "win_id": "PIG-LEV-SC-006"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Federico Pigozzi",
+          "slug": "federico-pigozzi"
+        },
+        {
+          "name": "Michael Levin",
+          "slug": "michael-levin"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "//////////////////////////////////////////////////////////////////// The Quantum Physics of the Brain & Space The Neurophysics of Self Aware Networks Neurophysics, Quantum Physics, and Astrophysics The whole universe is a fractal of oscillations but its also a finite state system that is self learning and I will argue self aware the number of possible sta...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[PL-A02 in pigozzi-levin-2026-arxiv-2605 (2026-05-15) x M22-A0033-SIT (2022-08-02)] Learning new memories driving progressive increases in macroscale integrated causal power within adaptive agents; anticipated partially in Blumberg (2022-08-02) via Pockets of convergent informational order (extropy), mass-energy time dilation, and dissipa",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-02",
+      "source_date_sort": "2022-08-02",
+      "source_locator": "a0033z.md (convergent information c)",
+      "target_date": "2026-05-15",
+      "target_date_sort": "2026-05-15",
+      "target_locator": "arxiv-2605.06746v1.txt (PL-A02)",
+      "target_quote": "Indeed, r ecent discoveries have shown that biological agents, even minimal ones, increase their causal emergence after learning new memories.",
+      "target_url": "",
+      "title": "The Causally Emergent Alignment Hypothesis: Causal Emergence Aligns with and Predicts Final Reward in Reinforcement Learning Agents (arXiv:2605.06746v1)",
+      "win_id": "PIG-LEV-SC-005"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Federico Pigozzi",
+          "slug": "federico-pigozzi"
+        },
+        {
+          "name": "Michael Levin",
+          "slug": "michael-levin"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "//////////////////////////////////////////////////////////////////// The Quantum Physics of the Brain & Space The Neurophysics of Self Aware Networks Neurophysics, Quantum Physics, and Astrophysics The whole universe is a fractal of oscillations but its also a finite state system that is self learning and I will argue self aware the number of possible sta...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[PL-A01 in pigozzi-levin-2026-arxiv-2605 (2026-05-15) x M22-A0033-SIT (2022-08-02)] Causal emergence quantifying how an agent exerts macroscale predictive causal power over its future across cognitive scales; anticipated partially in Blumberg (2022-08-02) via Pockets of convergent informational order (extropy), mass-energy time dilation, ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-02",
+      "source_date_sort": "2022-08-02",
+      "source_locator": "a0033z.md (convergent information c)",
+      "target_date": "2026-05-15",
+      "target_date_sort": "2026-05-15",
+      "target_locator": "arxiv-2605.06746v1.txt (PL-A01)",
+      "target_quote": "Causal emergence, measuring the degree to which an agent exerts unique predictive power on its future, is one consequence of causal power.",
+      "target_url": "",
+      "title": "The Causally Emergent Alignment Hypothesis: Causal Emergence Aligns with and Predicts Final Reward in Reinforcement Learning Agents (arXiv:2605.06746v1)",
+      "win_id": "PIG-LEV-SC-002"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Federico Pigozzi",
+          "slug": "federico-pigozzi"
+        },
+        {
+          "name": "Michael Levin",
+          "slug": "michael-levin"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "structure of each neuron is a program, it's shape encodes functions that define tiny variations in the distribution of it's ejection 17 hours ago · Like Cloudy Mayajuana potentially infinite variation, but SPD means means an incredible amount of noise filtering is happening. 17 hours ago · Like Cloudy Mayajuana Your",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[PL-A02 in pigozzi-levin-2026-arxiv-2605 (2026-05-15) x M12-SHAPE-PROG (2012-09-19)] Learning new memories driving progressive increases in macroscale integrated causal power within adaptive agents; anticipated partially in Blumberg (2012-09-19) via Neuronal geometry, shape, and morphology directly encoding executable network functions an",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-09-19",
+      "source_date_sort": "2012-09-19",
+      "source_locator": "lines 1-40",
+      "target_date": "2026-05-15",
+      "target_date_sort": "2026-05-15",
+      "target_locator": "arxiv-2605.06746v1.txt (PL-A02)",
+      "target_quote": "Indeed, r ecent discoveries have shown that biological agents, even minimal ones, increase their causal emergence after learning new memories.",
+      "target_url": "",
+      "title": "The Causally Emergent Alignment Hypothesis: Causal Emergence Aligns with and Predicts Final Reward in Reinforcement Learning Agents (arXiv:2605.06746v1)",
+      "win_id": "PIG-LEV-SC-004"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Federico Pigozzi",
+          "slug": "federico-pigozzi"
+        },
+        {
+          "name": "Michael Levin",
+          "slug": "michael-levin"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The experience impression is like... You have an experience, and... That experience creates like a... Like... Let's say your brain is like photo paper. So it creates an image... That's recorded in electrical impulses... And that... And that... That are going into the soft... Into the sensitive brain tissue... And that... That brain tissue is now expecting...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[PL-A02 in pigozzi-levin-2026-arxiv-2605 (2026-05-15) x M11-SELF-PRED (2011-08-24)] Learning new memories driving progressive increases in macroscale integrated causal power within adaptive agents; anticipated partially in Blumberg (2011-08-24) via Predictive neocortical self-pattern and dynamic world-model organization without a homuncul",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "lines 143-180",
+      "target_date": "2026-05-15",
+      "target_date_sort": "2026-05-15",
+      "target_locator": "arxiv-2605.06746v1.txt (PL-A02)",
+      "target_quote": "Indeed, r ecent discoveries have shown that biological agents, even minimal ones, increase their causal emergence after learning new memories.",
+      "target_url": "",
+      "title": "The Causally Emergent Alignment Hypothesis: Causal Emergence Aligns with and Predicts Final Reward in Reinforcement Learning Agents (arXiv:2605.06746v1)",
+      "win_id": "PIG-LEV-SC-003"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Federico Pigozzi",
+          "slug": "federico-pigozzi"
+        },
+        {
+          "name": "Michael Levin",
+          "slug": "michael-levin"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The experience impression is like... You have an experience, and... That experience creates like a... Like... Let's say your brain is like photo paper. So it creates an image... That's recorded in electrical impulses... And that... And that... That are going into the soft... Into the sensitive brain tissue... And that... That brain tissue is now expecting...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[PL-A01 in pigozzi-levin-2026-arxiv-2605 (2026-05-15) x M11-SELF-PRED (2011-08-24)] Causal emergence quantifying how an agent exerts macroscale predictive causal power over its future across cognitive scales; anticipated partially in Blumberg (2011-08-24) via Predictive neocortical self-pattern and dynamic world-model organization without",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "lines 143-180",
+      "target_date": "2026-05-15",
+      "target_date_sort": "2026-05-15",
+      "target_locator": "arxiv-2605.06746v1.txt (PL-A01)",
+      "target_quote": "Causal emergence, measuring the degree to which an agent exerts unique predictive power on its future, is one consequence of causal power.",
+      "target_url": "",
+      "title": "The Causally Emergent Alignment Hypothesis: Causal Emergence Aligns with and Predicts Final Reward in Reinforcement Learning Agents (arXiv:2605.06746v1)",
+      "win_id": "PIG-LEV-SC-001"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 7 certified dated prior-art comparisons with Pigozzi Levin Causal Emergence Across Biological Artificial And Pre-Replicator Systems across 14 listed-author attributions (7 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 0 medium-partial, 7 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2011-08-24",
+    "earliest_micah_year": 2011,
+    "earliest_target_date": "2026-05-15",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2025-08-03",
+    "latest_target_date": "2026-07-28",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 7,
+    "grade_breakdown": {
+      "weak-partial": 7
+    },
+    "lens4_event_ids": [
+      "lsm-pigozzi-levin-causal-emergence-20261122"
+    ],
+    "listed_author_edges": 14,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 7
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 7
+  }
+}

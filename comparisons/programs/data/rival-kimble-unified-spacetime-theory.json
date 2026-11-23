@@ -1,0 +1,1217 @@
+{
+  "authors_linked": [
+    {
+      "name": "Kimble, Jared",
+      "slug": "kimble-jared"
+    }
+  ],
+  "display_code": "kimble-unified-spacetime-theory",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2023-11-01 and 2025-08-02, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 24 documented mechanisms appearing in Kimble Unified Spacetime Theory (2025-12-10 to 2026-02-03) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Kimble Unified Spacetime Theory",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 24 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 6 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 24 dated comparisons and 24 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-kimble-unified-spacetime-theory",
+  "program_name": "Kimble Unified Spacetime Theory",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "The Architecture of Reality Forging the Four Pillars of Super Information Theory Micah Blumberg Aug 02, 2025 Every once in a while, in the quiet hum of research and the chaotic exchange of ideas, the pieces of a puzzle begin to click into place. Not just any puzzle, but one of the oldest in science: what is the fundamental nature of reality? For years, since 2017, I’ve publicly advanced a sequence of ideas that crystallized into Super Information Theory (S",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.45,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2025-08-02 formulation shares conceptual/operational mechanisms (field, gradient, gravitational) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2025-08-02",
+      "source_date_sort": "2025-08-02",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/ad6b3c450d6bd537f24008004e952496f4a94d38/QGTCD-SIT.md",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "We begin with the UST master field equation in the static, equilibrium case , ( ξ ¨ µ = 0 )where the gradient of the stress tensor balances a source vector : 𝑆 ( λ + µ ) , ∇ ( ∇ · ξ ) + µ ∇ 2 ξ = − 𝑆 .To isolate the scalar channel that will serve as the gravitational potential in the Newtonian limit, we make two standard assumptions for a compressional, irrotational field: 1.",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "field, gradient, gravitational — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "AdS/CFT and Holography AdS/CFT correspondence (the Maldacena conjecture) re- lates a gravitational theory in anti-de Sitter (AdS) space to a conformal field theory (CFT) on its boundary. In many holographic setups, geometry (including time evolution) in the bulk is encoded in quantum states at the boundary. • Dynamic Time Density. If QGTCD is correct, local “time density” variations in the AdS bulk could translate into distinctive boundary conditions in th",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.78,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (density, energy) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 32]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "USEMP constitutive spine and the saturation ceiling The bulk-compression sector is controlled by a single state variable. USEMP is encoded 𝐼through a stored-energy density that produces an invariant-dependent modulus 𝑊 ( 𝐼 ) and a stress response in the pre-saturation regime.",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "density, energy — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2024-01-15) expresses active mechanism anchors (time density, horizon) that map structurally onto the later publication's (2026-02-03) formulation (gravitational) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Firewalls or Fuzzballs? Time density might shift the effective Unruh temperature for observers near a horizon, reconfiguring the structure of the black hole’s quantum “atmosphere.” • Information Retention. If local time frames accumulate around the horizon, information- carrying modes may persist longer or couple differently to Hawking radiation. This could offer a new angle on how information escapes—or is transformed—in black hole evaporation processes",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 29.89,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (gravitational, matter) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 33]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "𝐼 𝑏𝑔 ( 𝑟 )All SI mapping and observational-fit machinery is quarantined to Act VI. Problem statement and the UST route The empirical “missing mass” phenomenology in galaxies and clusters [6, 7] is usually addressed by adding collisionless matter [4] or modifying gravitational field equations [12, 13].",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "gravitational, matter — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (dark time, entanglement, metric, mass) that map structurally onto the later publication's (2026-02-03) formulation (tensor) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics). Corroborated independently by a second structural bridge (Cross-Scale Anisotropic Tensor & Information-Geometry Coupling).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "where gµν(GR) is the standard metric tensor from general relativity, ρ and r represent local mass density and radial distance, and ∆ {gµν} signifies additional terms tied to the altered density of time frames. 10.3 Local Explanation of Nonlocal Action SuperTimePosition also offers a local perspective on quantum entanglement, suggesting that entangled particles share a synchronized phase-lock established at their creation rather than communicating instantan",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.84,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, tensor) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 83]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "𝐼 < 𝐼 𝑠𝑎𝑡 Handoff to Act II The following definitions are locked and passed to Act II for the derivation of the stress tensor and energy density: 1. Background/local definitions: (I.6)–(I.8) 5.",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "density, tensor — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ρt, dark time) that map structurally onto the later publication's (2026-02-03) formulation (gravitational) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "i S(ρt, ϕ, . . . ) \u0001 . New terms can appear that shift or stabilize ρt, and this field can introduce new vertices or loop corrections to standard particles. 7.11.3 Renormalization Group Flow of ρt A crucial question is whether the ρt sector remains consistent across energy scales. The Renormalization Group Equations track how couplings evolve with scale µ. In the ultraviolet regime, one might ask whether ρt remains well-defined. If new physics emerges at a",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 21.91,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, gravitational) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 53]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "Instead, they naturally persist as extended, diffuse halos that provide the gravitational scaffolding around galaxies. This paper develops the bulk-compression branch of the theory and shows how such halos arise as finite-energy, stable configurations.",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "energy, gravitational — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "1 − ρt ρmax \u0001 in the source term is simply another way to ensure this cap. 13.2 Conclusion: A Self-Limiting Mechanism in ρt This type of nonlinear PDE or effective potential encodes the insight that: “Beyond a certain point, one cannot compress additional wave-phase increments into a smaller region; thus ρt must saturate or cause a meltdown.” It mathematically captures how collective wave-phase density depends on having multiple (distinct) quanta, not an i",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.21,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, nonlinear) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 118]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "The same nonlinear saturation mechanism that stabilizes the compressed core also enforces a universal upper limit on the central density, producing flat inner profiles consistent with observed galaxy cores.",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "density, nonlinear — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (dark time, metric, geometry) that map structurally onto the later publication's (2026-02-03) formulation (gravitational) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "future synthesis emerges, it might incorporate Dark Time’s time-density perspective within a twistor-like geometry, showing how local “time folds” could be mathematically represented as an intrinsic part of a broader geometric structure. Whether such a unification is feasible remains to be seen, underscoring the ongoing need for both theoretical development and potential experimental or observational clues that could validate or refute ",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.94,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravitational, mass) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 5]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "Finally, the work connects halo structure to both galaxy rotation patterns and gravitational lensing through a single, unified physical mechanism, and it derives a clear, testable scaling relation linking core size to total halo mass.",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "gravitational, mass — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "ensuring that ρt transforms as a scalar under Lorentz transformations. When coupled to matter via an interaction such as −f1(ρt) ¯ψ ψ, and with the expansion f1(ρt) ≈ α ρt + k ρt + · · · , the effective mass term becomes m + f1(ρt). This leads to a modified dispersion relation: E2 = p2c2 + \u0010 m + f1(ρt) \u00112 c4, thereby explicitly including momentum and ensuring full relativistic consistency. 4.2 Where the 48 Equations Fit: Special Cases and Limits In earlier",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 26.25,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, mass) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 38]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "𝐼 ≥ 0 𝐼 < 𝐼 𝑠𝑎𝑡 Act II - USEMP Constitutive Spine and Dark-Mass Mapping II.1 Purpose and outputs This Act introduces the USEMP constitutive law for the bulk-compression scalar sector in terms of the Act I invariant.",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "dark, mass — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ρt, scalar) that map structurally onto the later publication's (2026-02-03) formulation (constraint) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "12.4 Diffeomorphism Invariance & Gravitational Consistency The next theoretical checkpoint is to ensure compatibility with General Relativity’s symmetry principles. Standard GR is invariant under smooth coordinate transformations. If ρt is introduced as a dynamical scalar field, it naturally preserves diffeomorphism invariance because scalar fields transform trivially under coordinate changes, ρt(xµ) → ρt x′µ\u0001 = ρt(xµ). Problems may arise, however, if ρt i",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 27.8,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dynamical, field) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 113]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "7 I.2 Notation locks and symbol firewall To ensure consistency with the UST Vault [1] and prevent notation collisions with standard physics, the following constraints are locked for this manuscript: Notation Lock: ● Configuration field: is the sole dynamical field (all other quantities are derived).",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "dynamical, field — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "quantum-level time flow and cosmological observations to argue that mass “crystallizes” additional time frames in its vicinity, effectively increasing the density of local time. Unlike conventional approaches that quantize spacetime, Dark Time emphasizes time as the key quantizable aspect, allowing for either discrete time frames or an effectively continuous wave picture. For questions about the use of the term “time crystal” in this paper see Appendix D,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 28.99,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, density, energy, mass, wave) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 11]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "II.6 Mechanical speed and dark-mass mapping Define the characteristic shear wave speed mechanically [1] (strictly): ( 𝐼𝐼. Define the mapped dark-mass density as the mass-equivalent of the stored strain energy: ( 𝐼𝐼.",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "dark, density, energy, mass — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "ρt, ψ, Aµ, . . . \u0001 # , (2) where: • LSM is the Standard Model Lagrangian. • The time-density sector is described by Lρt = 1 2 gµν ∂µρt ∂νρt − V (ρt), with a potential V (ρt) chosen to ensure stability and, if desired, to induce nonlinear saturation effects. • Lint encodes the interactions between ρt and matter/gauge fields. For example, couplings such as − f1(ρt) ψ ψ or − 1 2 f2(ρt) FµνF µν naturally produce the ±α ρt or ±k/ρt corrections that in earlier w",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.49,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (field, fields, symmetry) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 45]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "We isolate the longitudinal sector of the configuration field, establish the exact form of the strain invariant in spherical symmetry, and rigorously define the decomposition between background and local strain fields.",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "field, fields, symmetry — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "6 Renormalization and Effective Field Theory Consid- erations A common criticism of new approaches to quantum gravity is that they often lack a framework for managing divergences or preserving symmetry at all scales. In the Super Dark Time framework, we address these issues by treating the time-density field ρt as a dynamical, Lorentz- and diffeomorphism-invariant scalar field that couples to both matter and gravity. Incorporating ρt within the standard fo",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.44,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, density, energy) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 44]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "From the stored energy density , we derive the 𝐼 ( 𝑟 ) 𝑊 ( 𝐼 )effective stress and the invariant-dependent effective modulus. We then σ 𝑖𝑗 𝑀 𝑒𝑓𝑓 ( 𝐼 ) define the mapped dark-mass density and compute the saturation ceiling ρ 𝑑𝑚 ( 𝐼 ) ≡ 𝑊 / 𝑐 2 with a two-way verification.",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "dark, density, energy — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "density of time frames near the star. The result is effectively the same net precession, yet Dark Time might introduce tiny deviations. Gravitational Lensing. Light passing through clusters of galaxies is deflected, forming arcs and multiple images. GR attributes this to curved spacetime, sometimes invoking dark matter for additional lensing mass. Dark Time asserts that light bending occurs because photons traverse zones of higher ρt, altering their phase",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.15,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, light, mass, matter, vacuum) with Kimble Unified Spacetime Theory (2026-02-03; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 59]",
+      "target_date": "2026-02-03",
+      "target_date_sort": "2026-02-03",
+      "target_locator": "zenodo:18474582 | Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "target_quote": "In this view, what is usually called dark matter is not a new particle or hidden force. It is a stable, long-lived form of vacuum compression: a localized “squeeze” state that carries mass-energy but does not interact with light in the way ordinary matter does.",
+      "target_url": "https://zenodo.org/records/18474582",
+      "title": "dark, light, mass, matter — Pt-5 of 10 - V4.93 Dark Mass as Bulk Compression: Scalar Solitons in Unified Spacetime Theory",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "particles and forces, including a quantum theory of gravity. Dark Time, on the other hand, remains within the four known dimensions and proposes that gravity emerges from local variations in time density, with mass acting as a “time crystal” that concentrates discrete time frames. Despite these divergent approaches, each theory grapples with how to unify the quantum realm with gravitational dynamics, suggesting that our everyday picture of spacetime may be",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 29.23,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dynamics, particles) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 73]",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "UST introduces no extra dimensions, no speculative symmetry towers, and no exotic particles to make things work. UST is designed as a single, mechanically complete framework that reproduces known physics through the dynamics of a single configuration field, rather than by stitching together separate theories.",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "dynamics, particles — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "an intensification of local temporal intervals around mass—an internal structuring of time that does not shift future events in a literal sense. 11.10 Comparison with Standard General Relativity In traditional General Relativity (GR), mass–energy “curves” spacetime to produce the gravitational effects we observe, such as time dilation, gravitational lensing, and perihelion precession. Dark Time, however, posits that mass–energy densifies time itself rather",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.4,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dilation, energy, mass) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 105]",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "The longitudinal mode does not constitute gravity by itself; rather, its scalar dilation encodes the local softening pattern of the continuum produced by mass–energy.",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "dilation, energy, mass — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(11–14) ADM Formalism Now Understood As: Hamiltonian and momentum constraints gain ρt-based modifications if we embed ρt in the spatial-slice decomposition. This alters lapse or shift in the (3 + 1) approach. (15–16) Klein–Gordon Equation Now Understood As: A spin-0 field with an effective mass shift ∆ m2(ρt). Kinetic + ρt-potential couplings come from the single action. (17–18) Dirac Equation Now Understood As: Directly emerges from − f1(ρt) ¯ψψ in the La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.71,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, mass, momentum) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 39]",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "In familiar limits, the usual laws reappear. Stable, localized patterns in the medium act like sources by carrying energy and momentum in ways we normally attribute to mass, charge, and current.",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "energy, mass, momentum — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ψ, ρt, lagrangian, gauge) that map structurally onto the later publication's (2025-12-10) formulation (scalar, potential) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "ρt, ψ, Aµ, . . . \u0001 # , (2) where: • LSM is the Standard Model Lagrangian. • The time-density sector is described by Lρt = 1 2 gµν ∂µρt ∂νρt − V (ρt), with a potential V (ρt) chosen to ensure stability and, if desired, to induce nonlinear saturation effects. • Lint encodes the interactions between ρt and matter/gauge fields. For example, couplings such as − f1(ρt) ψ ψ or − 1 2 f2(ρt) FµνF µν naturally produce the ±α ρt or ±k/ρt corrections that in earlier w",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 31.63,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (fields, potential) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 45]",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "● The transverse sector yields the full set of Maxwell’s equations, with the electric and magnetic fields defined in terms of suitable scalar and vector potentials, and with denoting the transverse (shear/torsional) vector potential.",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "fields, potential — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "an intensification of local temporal intervals around mass—an internal structuring of time that does not shift future events in a literal sense. 11.10 Comparison with Standard General Relativity In traditional General Relativity (GR), mass–energy “curves” spacetime to produce the gravitational effects we observe, such as time dilation, gravitational lensing, and perihelion precession. Dark Time, however, posits that mass–energy densifies time itself rather",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 32.91,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, energy, gravitational, mass) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 105]",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "Gravitational phenomena are thus tied to the spatial pattern of modulus softening induced by mass-energy, especially including bulk-sector dark mass/dark energy, rather than to any single strain mode or to bulk compression alone.",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "dark, energy, gravitational, mass — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Traditionally, physics often treats time as a smooth parameter in classical or quantum equations (e.g. Newton’s laws, the metric in GR). SDT proposes that time density itself can vary locally and thereby shift energies or phase evolutions—leading to observed gravitational “pull.” Concretely: • In Traditional GR : Gravity arises from how mass–energy warps the geometry of 4D spacetime. • In SDT : Gravity emerges when mass creates a local surplus of time fram",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 34.27,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (clocks, energy, gravity, spacetime) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 30]",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "When the medium’s properties vary, softening or stiffening with energy and configuration, paths bend and clocks shift; that’s gravity in this picture. In short, UST starts from measurable material parameters of a spacetime medium and derives the Minkowski picture as the simplest, low-stress limit, rather than building the theory on Minkowski from the start.",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "clocks, energy, gravity, spacetime — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "particles and forces, including a quantum theory of gravity. Dark Time, on the other hand, remains within the four known dimensions and proposes that gravity emerges from local variations in time density, with mass acting as a “time crystal” that concentrates discrete time frames. Despite these divergent approaches, each theory grapples with how to unify the quantum realm with gravitational dynamics, suggesting that our everyday picture of spacetime may be",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 35.14,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dynamics, gravity, spacetime) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 73]",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "Introduction The quest for a unified description of fundamental forces remains a central challenge in theoretical physics. In this work, we propose that both gravity and electromagnetism emerge from the dynamics of a single underlying field: the spacetime configuration field , which describes the elastic deformation of an underlying continuum substratum [1], ξ µ [2].",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "dynamics, gravity, spacetime — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(11–14) ADM Formalism Now Understood As: Hamiltonian and momentum constraints gain ρt-based modifications if we embed ρt in the spatial-slice decomposition. This alters lapse or shift in the (3 + 1) approach. (15–16) Klein–Gordon Equation Now Understood As: A spin-0 field with an effective mass shift ∆ m2(ρt). Kinetic + ρt-potential couplings come from the single action. (17–18) Dirac Equation Now Understood As: Directly emerges from − f1(ρt) ¯ψψ in the La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 36.19,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, gravitational, mass, potential) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 39]",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "Mass-energy stored in the bulk, shear, and torsional sectors of induces spatially ξ µ varying softening of the continuum’s effective elastic moduli. Through USEMP, this stress softens the medium, creating a refractive gradient that recovers the Newtonian gravitational potential: The corresponding emergent metric reproduces the Φ ( 𝑟 ) = − 𝐺𝑀 𝑟 standard gravitational redshift.",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "energy, gravitational, mass, potential — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Traditionally, physics often treats time as a smooth parameter in classical or quantum equations (e.g. Newton’s laws, the metric in GR). SDT proposes that time density itself can vary locally and thereby shift energies or phase evolutions—leading to observed gravitational “pull.” Concretely: • In Traditional GR : Gravity arises from how mass–energy warps the geometry of 4D spacetime. • In SDT : Gravity emerges when mass creates a local surplus of time fram",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 38.2,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, energy, gravity, mass, spacetime) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 30]",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "ΓSection 8 provides discussion and conclusion. Through this development, we aim to establish UST and USEMP as a predictive and complete physical framework capable of unifying classical forces within a single, nonlinear dynamical theory of spacetime,with gravity explicitly identified as the USEMP softening of the continuum induced by mass-energy (including bulk-sector dark mass and dark energy), and with the Equivalence Principle emerging naturally from thi",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "dark, energy, gravity, mass — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "or force laws. Predicted deviations from General Relativity—such as subtle clock-rate shifts, lensing distortions, and thermal decoherence—are experimentally testable with high-precision instruments. In this framework, black holes emerge as regions of extreme time density, while foundational issues—such as the quantum measurement problem are addressed by invoking undersampled, yet deterministic, wave computations at ultrafast timescales. Finally, Dark Time",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 47.61,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, dark, force, quantum, resonance) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 1]",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "After the foundations (USEMP) and the Lorentz-invariant formulation, and Spin 1/2 paper, the next papers, in order, are Black Holes and Quantum Gravity: The Mechanical Origin of Hawking Radiation , Dark Mass , History of the Universe , The Strong Force , The Weak Force , Emergence of Quantum Dynamics: Deriving the Schrödinger Equation from Continuum Mechanics , and finally The Particle Zoo: Deriving the Mass Spectrum from Solitonic Resonance.",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "black, dark, force, quantum — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Kimble, Jared",
+          "slug": "kimble-jared"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Consequences for Gravitational Physics. Because ρt can respond dynamically if mass distribution changes (e.g. during a supernova or black-hole merger), one might see “time- density perturbations” that propagate or diffuse. At a deeper level, giving ρt this PDE-based evolution further cements it as a local field. Hence, gravitational or quantum anomalies can be computed from ρt(x, t) in principle, rather than appended by hand. The Path Forward. A complete t",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 50.57,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, dark, mass, quantum) with Kimble Unified Spacetime Theory (2025-12-10; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 36]",
+      "target_date": "2025-12-10",
+      "target_date_sort": "2025-12-10",
+      "target_locator": "zenodo:17887509 | Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime - Unifying Forces and Deri",
+      "target_quote": "Together they extend the same underlying medium to black holes and Hawking radiation, dark mass, cosmology, the strong and weak interactions, the emergence of quantum dynamics, and the full particle zoo, always with the goal of giving a minimal, reproducible and testable mechanical account of observed physics rather than stitching together separate theories by hand.",
+      "target_url": "https://zenodo.org/records/17887509",
+      "title": "black, dark, mass, quantum — Pt-1&2 of 10 - V5.0 Unified Spacetime Theory Foundations: The Mechanical Origins of Spacetime -",
+      "win_id": "G1-KIMBLE-UNIFIED-S-D01-A01"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 24 certified dated prior-art comparisons with Kimble Unified Spacetime Theory across 24 listed-author attributions (24 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 16 strong, 4 medium-partial, 4 weak-partial, 0 weak-partial cross-domain, with 6 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2023-11-01",
+    "earliest_micah_year": 2023,
+    "earliest_target_date": "2025-12-10",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2025-08-02",
+    "latest_target_date": "2026-02-03",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 6,
+    "governed_wins": 24,
+    "grade_breakdown": {
+      "medium-partial": 4,
+      "strong": 16,
+      "weak-partial": 4
+    },
+    "lens4_event_ids": [
+      "lsm-g1-kimble-unified-spacetime-theory-20261122"
+    ],
+    "listed_author_edges": 24,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 14,
+      "weak-partial": 10
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 24
+  }
+}

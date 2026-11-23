@@ -1,0 +1,1223 @@
+{
+  "authors_linked": [
+    {
+      "name": "Gavant, D. S.",
+      "slug": "gavant-d-s"
+    },
+    {
+      "name": "Gavant, Debra S.",
+      "slug": "gavant-debra-s"
+    }
+  ],
+  "display_code": "gavant-dynamic-present-theory",
+  "domain_group": "physics",
+  "domains": "philosophy-of-time; physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-01-01 and 2024-01-15, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 24 documented mechanisms appearing in Gavant Dynamic Present Theory (2024-10-14 to 2026-06-22) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Gavant Dynamic Present Theory",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 24 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 24 dated comparisons and 24 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-gavant-dynamic-present-theory",
+  "program_name": "Gavant Dynamic Present Theory",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "6.3 Reframing Josephson Tunneling In the conventional Josephson effect, a phase difference ∆ φ across the junction drives a supercurrent I = I0 sin(∆φ). Under Micah’s New Law, this ∆ φ can be viewed as a “wave- difference” that the system seeks to dissipate or smooth out: Phase-Wave Differential as the Driver. The junction, treated as one coherent system, experiences a mismatch in phase (and possibly voltage or chemical potential). Dissipating this mismatc",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 28.52,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (potential, thermodynamics, wavefunction) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 38]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "This present-only ontology reframes quantum foundations and thermodynamics. The wavefunction is interpreted as physically constrained potential prior to actualization, rather than a distributed object waiting to collapse; measurement is the actualization of a definite instance that constrains subsequent actualizations.",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "potential, thermodynamics, wavefunction — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge) via the Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization bridge. Micah Blumberg's dated passage (2024-01-15) expresses active mechanism anchors (dissipation, thermodynamic) that map structurally onto the later publication's (2026-06-22) formulation (thermodynamic, irreversibility) through the shared operation: Input (non-equilibrium energy and information fluxes inside a physical or neural material substrate) -> Transform (constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization) -> Output (self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization).",
+        "ito_alignment": "Input: non-equilibrium energy and information fluxes inside a physical or neural material substrate -> Transform: constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization -> Output: self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization",
+        "lens_basis": "Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge)",
+        "primary_bridge_id": "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "primary_bridge_name": "Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "traveling waves carry perturbations that reorganize local oscillatory states—effectively “error signals” from the environment or the body that must be dissipated to achieve a new stable attractor. 12.4.2 Dissipation of Differences vs. Surprise Minimization Micah’s New Law frames “dissipating differences” in physical–thermodynamic terms: each step in the system’s update is like a “wave-based computation” that reduces phase mis- matches. Friston’s FEP frames",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 32.68,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (energy, thermodynamic) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 61]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "3.1 Informational Cost and Physical Grounding In DPΦ, the informational cost of inscription is not regarded as merely abstract bookkeep- ing. Landauer’s principle shows that logically irreversible information operations, such as erasing a bit, carry a minimum thermodynamic cost: at least kTln 2 of energy dissipated into the environment [23].",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "energy, thermodynamic — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Local “Time Flow” Variations. If time density can differ between two regions, one could measure whether entangled qubits exhibit altered correlation decay when placed in different gravitational potentials. Any detected anomaly might signal a role for time-density gradients in shaping quantum coherence. • Quantum Clocks in Curved Spacetime. Fuentes’ methods use “quantum clocks” (e.g., atomic or photonic systems) to detect subtle effects of curvature on th",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 36.27,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (clock, clocks, curvature, gravitational, spacetime) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 47]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "A Global Positioning System (GPS) satellite is equipped with an atomic clock that operates measurably faster than identical clocks on Earth’s surface. 2 GR interprets this temporal offset as a manifestation of spacetime curvature, repre- senting it as gravitational potential.",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "clock, clocks, curvature, gravitational — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "iterative computations that reduce phase-wave differences until equilibrium emerges. While classical thermodynamics typically explains “randomness” in terms of molecular collisions, the wave-dissipation principle highlights that those collisions (or interactions) are local, de- terministic exchanges of signal differentials that simply appear random at a macro scale. Shared Premise: Undersampled Determinism • SuperTimePosition: Quantum randomness arises fro",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.06,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (particle, wave) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 34]",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "1.2 Limitations of Current Theories QM employs the wave function to represent the probabilities of a system's possible states. Wave-particle duality (see Sections 3.1 and 8.1) challenges classical intuition by proposing that particles can simultaneously exist in multiple states until they are observed.",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "particle, wave — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Before Final Measurement: The photon cycles through wave and particle states at high frequency. • Final Setup: The apparatus’s configuration determines which phase aligns at the measurement instant, yielding interference (wave pattern) or which-path (particle-like detection). Micah’s New Law reframes this as each new “boundary condition” (e.g., adding or removing a detector) introducing awave differential that must be dissipated. If the apparatus extends",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.24,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (interference, particle, pattern, wave) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 50]",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "3.1 Wave-Particle Duality Wave-particle duality has long been a central enigma in QM, perplexing physicists and philosophers alike. In the classic double-slit experiment, individual photons passing through two slits create an interference pattern on a detection screen (see Section 9.4).",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "interference, particle, pattern, wave — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "In Contrast, the Wave-Dissipation View: • Resides Primarily in Condensed Matter Physics. The emphasis is on the co- herent ensemble of electrons in a superconductor, without invoking gravitational time- density effects. • Directly Matches Observed Josephson Phenomena. The standard formula I = I0 sin(∆φ) emerges naturally from phase coherence across the junction, now described in the language of wave mismatch and reconfiguration rather than barrier-hopping.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 28.27,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (density, wave) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 39]",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "Max Born's interpretation treats the wave function ψ as a probability amplitude rather than a physical wave. The absolute square of the wave function ∣ψ∣2 yields the probability density of finding a particle in a specific location (Born, 1926).",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "density, wave — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "GPS Timing. Similar to GR, Dark Time includes corrections for satellite clocks based on time dilation. Since GPS relies on precise timing corrections that match GR’s formulas, Dark Time is structured to yield the same operational results. D.1.2 Mapping Time-Density Effects to Spacetime Curvature • Mass and Time Density. Dark Time states that mass-energy “densifies” the local time dimension. From an external viewpoint, processes in high–time-density regio",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 28.52,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gradient, spatial) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 133]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "Over an extended region, spatial variations in the gradient itself manifest as detectable tidal effects. Equiva- lence is therefore local, holding wherever the CPA Rate Gradient is effectively uniform across the body.",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "gradient, spatial — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "scattering processes in a highly constrained geometry. A future framework might envision an “extended amplituhedron” where the density of local time frames contributes an extra dimension to the geometry, possibly affecting how scattering amplitudes are computed and how they might couple to gravitational phenomena. Another conceptual affinity arises from each theory’s implicit suggestion that quantum randomness and spacetime geometry may be emergent phenome",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 28.61,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, dimensional, manifold, spacetime) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 75]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "The two frameworks differ in their underlying assumptions. Within a four-dimensional manifold, energy density is interpreted as curving a pre-existing spacetime background.",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "density, dimensional, manifold, spacetime — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (spacetime, gravitational, ρt, dark time) that map structurally onto the later publication's (2026-06-22) formulation (gravitational, expansion) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "density of time frames near the star. The result is effectively the same net precession, yet Dark Time might introduce tiny deviations. Gravitational Lensing. Light passing through clusters of galaxies is deflected, forming arcs and multiple images. GR attributes this to curved spacetime, sometimes invoking dark matter for additional lensing mass. Dark Time asserts that light bending occurs because photons traverse zones of higher ρt, altering their phase",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 29.57,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravitational, light) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 59]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "13 With the opposite signature convention, the corresponding time-time component carries the opposite sign. For a weak static field, calibrating the local rate to the Newtonian potential Φ reproduces the standard weak-field expansion of g00 with βPPN = γPPN = 1, consistent with gravitational redshift, light bending, Shapiro delay, and perihelion precession [7, 8, 27].",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "gravitational, light — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(11–14) ADM Formalism Now Understood As: Hamiltonian and momentum constraints gain ρt-based modifications if we embed ρt in the spatial-slice decomposition. This alters lapse or shift in the (3 + 1) approach. (15–16) Klein–Gordon Equation Now Understood As: A spin-0 field with an effective mass shift ∆ m2(ρt). Kinetic + ρt-potential couplings come from the single action. (17–18) Dirac Equation Now Understood As: Directly emerges from − f1(ρt) ¯ψψ in the La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.97,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, field, gravitational, mass, potential) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 39]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "Outside a gravitating body, the local vacuum stress-energy can vanish, while the rate field still encodes the gravitational relation, much as the Newtonian potential persists through the empty space around a mass.",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "energy, field, gravitational, mass — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Traditionally, physics often treats time as a smooth parameter in classical or quantum equations (e.g. Newton’s laws, the metric in GR). SDT proposes that time density itself can vary locally and thereby shift energies or phase evolutions—leading to observed gravitational “pull.” Concretely: • In Traditional GR : Gravity arises from how mass–energy warps the geometry of 4D spacetime. • In SDT : Gravity emerges when mass creates a local surplus of time fram",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 32.6,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, geometry, mass, quantum) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 30]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "2.3 The CPA Rate Law CPA proceeds at a measurable local rate. In the observed physical universe, this rate is modulated by existing conditions: conservation laws, quantum numbers, local geometry, mass-energy distribution, and carried-forward inscription.",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "energy, geometry, mass, quantum — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Consequences for Gravitational Physics. Because ρt can respond dynamically if mass distribution changes (e.g. during a supernova or black-hole merger), one might see “time- density perturbations” that propagate or diffuse. At a deeper level, giving ρt this PDE-based evolution further cements it as a local field. Hence, gravitational or quantum anomalies can be computed from ρt(x, t) in principle, rather than appended by hand. The Path Forward. A complete t",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 34.49,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (field, gravitational, mass, metric) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 36]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "In structured systems, CPA proceeds at a measurable local rate modulated along two distinct pathways: a gravitational path governed by mass-energy distribution, recovering the validated weak-field metric of general relativity, and a constraint path governed by Constraint Load ( C ), yielding the CPA + C Rate Law.",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "field, gravitational, mass, metric — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "2.4.3 Inverse Relationship: Density vs. Rate Dark Time highlights an inverse relationship between time density and the apparent rate of time. In strong gravitational fields, where time frames (discrete or effectively continuous) are packed more densely, clocks run slower. In weaker fields, where these frames spread out, clocks run faster. This relationship parallels the metric-based time dilation in GR and aligns with standard experimental tests of relativ",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 36.38,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (clocks, fields, gravitational, metric, relativity) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 26]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "While relativity formalizes the relationships among clocks, light, motion, and gravitational fields with extraordinary precision, its spacetime metric functions as a coordinate map of physical events.",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "clocks, fields, gravitational, metric — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "ρt, ϕ, ∂ µρt, . . . \u0001 d4x, where ϕ collectively denotes the standard matter (and possibly gauge) fields, ρt is a new scalar-like field representing local time density, and ∂µρt plus possible interaction terms (for instance, α ρt − k ρt ) appear explicitly in the Lagrangian L. Conceptually, ρt can be viewed as an auxiliary field that couples to matter via potential-like terms, modifies the effective metric, or both. Depending on the phenomenological goals,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 40.53,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, field, gravitational, matter) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 107]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "In gravitational applications, ρE should be read as an effective descriptor of the rate field rather than as the local matter density at the test point. This includes field configurations, binding energies, rest-mass energy, and kinetic energy.",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "density, field, gravitational, matter — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, Debra S.",
+          "slug": "gavant-debra-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Facilitate detailed gravitational computations in familiar geometric terms, • Highlight potential small-scale or strong-field deviations to look for in future observations. In short, although Dark Time’s root premise is that mass “thickens” time rather than curving spacetime, one can still recast its modifications as an emergent geometry, tracking how ρt alters the Ricci curvature. This dual viewpoint—wave-based density vs. metric curvature—enables pract",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 41.89,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (curvature, field, geometric, gravitational, gravity) with Gavant Dynamic Present Theory (2026-06-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 124]",
+      "target_date": "2026-06-22",
+      "target_date_sort": "2026-06-22",
+      "target_locator": "zenodo:20798793 | Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "target_quote": "Under the weak-field calibration of the CPA Rate to the Newtonian gravitational potential, developed in Section 4.6, this reduces to aeff =−∇Φ. Although the mathematical result is identical to Newtonian acceleration, the underlying physical architecture is distinct: Gravity is the spatial gradient of a continuously actualizing present, rather than the curvature of a pre-existing geometric stage.",
+      "target_url": "https://zenodo.org/records/20798793",
+      "title": "curvature, field, geometric, gravitational — Dynamic Present Theory I: Foundations of Continuous Present Actualization",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Temporal Resolution Experiments. Investigate whether particles exhibit behaviors hinting at higher temporal “clock rates” than our detectors can resolve. • Phase Synchronization Studies. Explore whether entangled particles maintain de- terministic phase relationships under varying measurement settings or timing protocols. • Bell Tests with Timing Sensitivity. Perform high-precision timing in Bell tests to seek anomalies consistent with deterministic phas",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 23.88,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (interference, patterns, wave) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 135]",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "Recent variations of the double-slit experiment have shown that even temporal properties, such as color frequencies, exhibit wave-like interference patterns (Kim.",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "interference, patterns, wave — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "D.2 Question 2: Quantum Nonlocality and Entanglement Q: How does your time wave density framework handle quantum entanglement and apparent nonlocal correlations? Are “ultrafast time cycles” or “hidden wave phases” your mechanism, and if so, how do we see that in experiments? Answer: The time wave density framework—Super Dark Time and SuperTimePosition— propose that quantum particles possess internal, deterministic phase cycles that evolve at ultrafast rate",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 24.52,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (particle, particles, wave) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 134]",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "This phenomenon led to the idea of wave-particle duality, where particles such as electrons and photons are thought to possess both wave-like and particle-like properties (Feynman, Leighton, & Sands, 1965).",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "particle, particles, wave — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "mental anomaly. Confirming time-density effects would not only validate a key aspect of the Super Dark Time framework but also provide profound insights into the deep connections between quantum mechanics and gravity, potentially resolving longstanding puzzles such as the nature of dark matter and dark energy. In addition, the experimental challenges posed by these tests are likely to drive advances in precision measurement, quantum control, and astronomic",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 24.95,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (predictions, quantum) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 89]",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "These unchanging principles enable the formulation of scientific theories and accurate predictions about system behaviors across all scales. For example, the probabilistic nature of quantum events adheres to precise mathematical formulations, such as the Schrödinger equation (Section 9.3), ensuring that despite inherent uncertainties, the evolution of quantum arrangements is mathematically determined (Schrödinger, 1926).",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "predictions, quantum — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "appears to expand in different regions. This feature places Dark Time closer to the spirit of Einstein’s equations by retaining a transparent linkage between the presence of mass and the curvature or expansion of spacetime. Rather than invoking a separate cosmological constant or exotic fields, Dark Time interprets accelerated expansion as a natural outgrowth of gravitational influences on clock rates, thereby resonating with the fundamental principle that",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 27.6,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (einstein, energy, mass, matter) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 65]",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "2.3 Fundamental Energy THE DYNAMIC PRESENT 10 Matter, as described by Einstein's mass-energy equivalence E=mc2 (Einstein, 1905), is a form of energy concentrated in specific patterns.",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "einstein, energy, mass, matter — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "or force laws. Predicted deviations from General Relativity—such as subtle clock-rate shifts, lensing distortions, and thermal decoherence—are experimentally testable with high-precision instruments. In this framework, black holes emerge as regions of extreme time density, while foundational issues—such as the quantum measurement problem are addressed by invoking undersampled, yet deterministic, wave computations at ultrafast timescales",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.21,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (quantum, relativity, wave) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 8]",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "DPT honors Einstein's pursuit of a unified theory by imparting a model that harmoniously integrates quantum mechanics and general relativity through CPA. By reinterpreting fundamental experiments and observations within the CPA process, DPT addresses enduring paradoxes—including the measurement problem and quantum non-locality—without resorting to wave function collapse or hidden variables.",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "quantum, relativity, wave — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "scattering processes in a highly constrained geometry. A future framework might envision an “extended amplituhedron” where the density of local time frames contributes an extra dimension to the geometry, possibly affecting how scattering amplitudes are computed and how they might couple to gravitational phenomena. Another conceptual affinity arises from each theory’s implicit suggestion that quantum randomness and spacetime geometry may be emergent phenome",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.58,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (emergent, gravitational, quantum) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 75]",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "By conceptualizing time as an emergent property arising from the CPA process, DPT offers intuitive explanations for both quantum phenomena and gravitational effects without relying on complex postulates such as extra dimensions or multiple universes.",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "emergent, gravitational, quantum — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "the overall inferred distribution of mass on cosmic scales. This new approach may therefore offer potential alternatives to conventional dark matter and dark energy explanations by redefining gravity as emerging from variations in the flow of time rather than solely from the geometry of space. By merging the insights of our time crystal interpretation with astrophysical observations, we propose a unified picture in which the internal, oscillatory dynamics",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 34.89,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, geometry, gravitational, mass, scale) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 60]",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "In contrast, Albert Einstein's theory of GR provides a robust framework for understanding the large-scale structure of the cosmos (Einstein, 1916). It depicts a smooth and predictable spacetime continuum, where mass and energy influence the geometry of spacetime, resulting in gravitational effects.",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "energy, geometry, gravitational, mass — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The repository's content, including its conceptual mappings and explicit citations, reveals a theoretical framework that is both grounded in established scientific principles (e.g., Hopfield networks, FEP) and actively integrating contemporary neuroscience (Levin, Miller, Hawkins). The development of NAPOT through multiple revisions 2 underscores this dynamic synthesis. Furthermore, the inclusion of \"Quantum Gradient Time Crystal Dilation (QGTCD)\" as a uni",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 27.55,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (quantum, relativity) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 122]",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "Keywords: quantum mechanics, general relativity, unification theory THE DYNAMIC PRESENT 6 1. The Dynamic Present: Unifying Quantum Mechanics and General Relativity through Continuous Present Actualization 1.1 The Quest for Unification The pursuit of a unified theory that seamlessly integrates quantum mechanics (QM) and general relativity (GR) has been a central challenge in physics for over a century.",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "quantum, relativity — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gavant, D. S.",
+          "slug": "gavant-d-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Dean: NED does not suggest that electrons have shape (that would be silly since electrons are point particles - no shape, only a field of influence). What it proposes is that the \"charges\" that pass through the neural structures have shape (temporal variances in amplitude and spatial dimension) and direction of flow - quite a different thing, and that it is this \"spike directivity\" that carries meaning, not temporal patterns which he considers epiphenomina",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 26.24,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (particles, potential, representation) with Gavant Dynamic Present Theory (2024-10-14; zenodo-oa-fulltext); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and S",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/ff55496a635b25e9511353ab2e31cee22cdac6cb/a0341z.md#L39-L43",
+      "target_date": "2024-10-14",
+      "target_date_sort": "2024-10-14",
+      "target_locator": "zenodo:13935996 | Dynamic Present Theory: Original Version",
+      "target_quote": "This perspective implies that the wave function is a mathematical representation of potential outcomes, not an intrinsic physical attribute of particles. 3.1.1 DPT's Perspective DPT considers the traditional view of wave-particle duality a conceptual error arising from interpreting time as a linear progression rather than as a series of continuous transformations within each present moment, as described by the continuous present actualization (CPA) framewo",
+      "target_url": "https://zenodo.org/records/13935996",
+      "title": "particles, potential, representation — Dynamic Present Theory: Original Version",
+      "win_id": "G1-GAVANT-DYNAMIC-P-D01-A07"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 24 certified dated prior-art comparisons with Gavant Dynamic Present Theory across 24 listed-author attributions (24 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 17 strong, 1 medium-partial, 5 weak-partial, 1 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-01-01",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2024-10-14",
+    "earliest_target_year": 2024,
+    "latest_micah_date": "2024-01-15",
+    "latest_target_date": "2026-06-22",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 24,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 17,
+      "weak-partial": 5,
+      "weak-partial-cross-domain": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-gavant-dynamic-present-theory-20261122"
+    ],
+    "listed_author_edges": 24,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 16,
+      "weak-partial": 7,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 24
+  }
+}

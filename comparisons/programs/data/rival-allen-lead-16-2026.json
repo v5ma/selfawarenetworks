@@ -1,0 +1,376 @@
+{
+  "authors_linked": [
+    {
+      "name": "Koloski MF",
+      "slug": "koloski-mf"
+    },
+    {
+      "name": "Salimi M",
+      "slug": "salimi-m"
+    },
+    {
+      "name": "Hulyalkar S",
+      "slug": "hulyalkar-s"
+    },
+    {
+      "name": "Tang T",
+      "slug": "tang-t"
+    },
+    {
+      "name": "Barnes SA",
+      "slug": "barnes-sa"
+    },
+    {
+      "name": "Mishra J",
+      "slug": "mishra-j"
+    },
+    {
+      "name": "Ramanathan DS",
+      "slug": "ramanathan-ds"
+    }
+  ],
+  "display_code": "allen-lead-16-2026",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience; consciousness",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-03-01 and 2024-09-06, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Allen Lead #16: Alpha oscillations encode the precision of stored information; beta tracks con (2025-10-01 to 2025-10-01) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Allen Lead #16: Alpha oscillations encode the precision of stored information; beta tracks con",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 28 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-allen-lead-16-2026",
+  "program_name": "Allen Lead #16: Alpha oscillations encode the precision of stored information; beta tracks con",
+  "rows": [
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "Koloski MF",
+          "slug": "koloski-mf"
+        },
+        {
+          "name": "Salimi M",
+          "slug": "salimi-m"
+        },
+        {
+          "name": "Hulyalkar S",
+          "slug": "hulyalkar-s"
+        },
+        {
+          "name": "Tang T",
+          "slug": "tang-t"
+        },
+        {
+          "name": "Barnes SA",
+          "slug": "barnes-sa"
+        },
+        {
+          "name": "Mishra J",
+          "slug": "mishra-j"
+        },
+        {
+          "name": "Ramanathan DS",
+          "slug": "ramanathan-ds"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2024-09-06) expresses active mechanism anchors (alpha, gamma, wave) that map structurally onto the later publication's (2025-10-01) formulation (beta) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF04-WORKSPACE-ATTENTION-SCHEMA",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "When the alpha wave frequencies representing sensory inputs enter the brain, they drive inversely correlated gamma waves, or what's called anti-correlation, and this means that when a high phasic alpha wave strikes, it causes an anti-correlative gamma wave, that effectively carries the sensory information all the way to the PFC, the prefrontal cortex.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 26.75,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-09-06 formulation shares conceptual/operational mechanisms (cortex, prefrontal) with Allen Lead #16: Alpha oscillations encode the precision of stored information; beta tracks con (2025-10-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-09-06",
+      "source_date_sort": "2024-09-06",
+      "source_locator": "2024-09-06 (receiver-relative differences change a distributed recurrent rendering and thereby alter availability, prediction, selection, and action)",
+      "target_date": "2025-10-01",
+      "target_date_sort": "2025-10-01",
+      "target_locator": "doi:10.1523/jneurosci.0858-25.2025 | Beta and High Gamma Oscillations in the Cortico-striatal Network Reflect Reward Certainty on a Probabilistic Reversal Le",
+      "target_quote": "Activity and connectivity at beta frequencies between orbitofrontal cortex, anterior insula, medial prefrontal cortex, and ventral striatum during expected rewards were correlated with behavioral performance and specific aspects of value/exploitative behavior as defined by a reinforcement learning computational model.",
+      "target_url": "https://doi.org/10.1523/jneurosci.0858-25.2025",
+      "title": "cortex, prefrontal — Beta and High Gamma Oscillations in the Cortico-striatal Network Reflect Reward Certainty on a ",
+      "win_id": "G2-ALLEN-LEAD-16-20-D01-A01"
+    },
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "Koloski MF",
+          "slug": "koloski-mf"
+        },
+        {
+          "name": "Salimi M",
+          "slug": "salimi-m"
+        },
+        {
+          "name": "Hulyalkar S",
+          "slug": "hulyalkar-s"
+        },
+        {
+          "name": "Tang T",
+          "slug": "tang-t"
+        },
+        {
+          "name": "Barnes SA",
+          "slug": "barnes-sa"
+        },
+        {
+          "name": "Mishra J",
+          "slug": "mishra-j"
+        },
+        {
+          "name": "Ramanathan DS",
+          "slug": "ramanathan-ds"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "\"Responding according to progressively more abstract rules results in increased prefrontal local neuronal population activity (high gamma amplitude, 80-150 Hz) and greater frontal network theta phase encoding (4-8 Hz) which together predict trial-by-trial response times. Theta phase encoding couples with high gamma amplitude during interregional information encoding, suggesting that interregional phase encoding is a mechanism for the dynamic instantiation",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 21.1,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (field, potential) with Allen Lead #16: Alpha oscillations encode the precision of stored information; beta tracks con (2025-10-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/73102828e0ecb88fbfe4b8ca903014b8079da105/a0001z.md",
+      "target_date": "2025-10-01",
+      "target_date_sort": "2025-10-01",
+      "target_locator": "doi:10.1523/jneurosci.0858-25.2025 | Beta and High Gamma Oscillations in the Cortico-striatal Network Reflect Reward Certainty on a Probabilistic Reversal Le",
+      "target_quote": "We measured widespread (32-CH) local field potential activity of male Long-Evans rats during a PRL task wherein a target response delivered reward on 80% of trials while a non-target response delivered reward on 20% of trials.",
+      "target_url": "https://doi.org/10.1523/jneurosci.0858-25.2025",
+      "title": "field, potential — Beta and High Gamma Oscillations in the Cortico-striatal Network Reflect Reward Certainty on a ",
+      "win_id": "G2-ALLEN-LEAD-16-20-D01-A03"
+    },
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "Koloski MF",
+          "slug": "koloski-mf"
+        },
+        {
+          "name": "Salimi M",
+          "slug": "salimi-m"
+        },
+        {
+          "name": "Hulyalkar S",
+          "slug": "hulyalkar-s"
+        },
+        {
+          "name": "Tang T",
+          "slug": "tang-t"
+        },
+        {
+          "name": "Barnes SA",
+          "slug": "barnes-sa"
+        },
+        {
+          "name": "Mishra J",
+          "slug": "mishra-j"
+        },
+        {
+          "name": "Ramanathan DS",
+          "slug": "ramanathan-ds"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (frequency, synchrony, oscillation) that map structurally onto the later publication's (2025-10-01) formulation (gamma, beta, oscillation) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Illustration of BOT: Biological Oscillating Tomography (BOT) generalizes the oscillatory integration principle to the whole brain (and potentially the whole body), describing how large-scale networks and multiple brain regions synchronize to form a unified 3D+time \"mind model.\" In BOT, oscillations of different frequencies across the cortex function like the many projections in a CT scan -- each frequency band and each region provides a \"slice\" of informat",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.83,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (beta, gamma) with Allen Lead #16: Alpha oscillations encode the precision of stored information; beta tracks con (2025-10-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 10]",
+      "target_date": "2025-10-01",
+      "target_date_sort": "2025-10-01",
+      "target_locator": "doi:10.1523/jneurosci.0858-25.2025 | Beta and High Gamma Oscillations in the Cortico-striatal Network Reflect Reward Certainty on a Probabilistic Reversal Le",
+      "target_quote": "When subjects learned those reward probabilities, contingencies were reversed. We found that reward-evoked oscillations at beta (15-30 Hz) and high gamma (>70 Hz) frequencies marked positive reward valence and reflected probability of reward.",
+      "target_url": "https://doi.org/10.1523/jneurosci.0858-25.2025",
+      "title": "beta, gamma — Beta and High Gamma Oscillations in the Cortico-striatal Network Reflect Reward Certainty on a ",
+      "win_id": "G2-ALLEN-LEAD-16-20-D01-A04"
+    },
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "Koloski MF",
+          "slug": "koloski-mf"
+        },
+        {
+          "name": "Salimi M",
+          "slug": "salimi-m"
+        },
+        {
+          "name": "Hulyalkar S",
+          "slug": "hulyalkar-s"
+        },
+        {
+          "name": "Tang T",
+          "slug": "tang-t"
+        },
+        {
+          "name": "Barnes SA",
+          "slug": "barnes-sa"
+        },
+        {
+          "name": "Mishra J",
+          "slug": "mishra-j"
+        },
+        {
+          "name": "Ramanathan DS",
+          "slug": "ramanathan-ds"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "- **Layer 4 Neurons:** The ChatGPT answer proposed that beta/alpha oscillations originating from Layer 4 (L4) neurons might gate or \"stencil\" the high-frequency rendering bursts. Mainstream neuroscience identifies L4 as a primary recipient of sensory input from the thalamus , playing a key role in initial cortical processing. Superficial layers (L2/3) are often considered primary outputs of a cortical column to other cortical areas, while deeper layers (L5",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 21.59,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (feedback, field) with Allen Lead #16: Alpha oscillations encode the precision of stored information; beta tracks con (2025-10-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 22]",
+      "target_date": "2025-10-01",
+      "target_date_sort": "2025-10-01",
+      "target_locator": "doi:10.1523/jneurosci.0858-25.2025 | Beta and High Gamma Oscillations in the Cortico-striatal Network Reflect Reward Certainty on a Probabilistic Reversal Le",
+      "target_quote": "Cortico-striatal circuitry has been broadly implicated in flexible decision-making-though what role these circuits play remains complicated. In this study we leveraged the fast temporal dynamics of local field potentials to precisely identify the role that cortico-striatal networks play during PRL reward feedback.",
+      "target_url": "https://doi.org/10.1523/jneurosci.0858-25.2025",
+      "title": "feedback, field — Beta and High Gamma Oscillations in the Cortico-striatal Network Reflect Reward Certainty on a ",
+      "win_id": "G2-ALLEN-LEAD-16-20-D01-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Allen Lead #16: Alpha oscillations encode the precision of stored information; beta tracks con across 28 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 1 strong, 1 medium-partial, 2 weak-partial, 0 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-03-01",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2025-10-01",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2024-09-06",
+    "latest_target_date": "2025-10-01",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 1,
+      "weak-partial": 2
+    },
+    "lens4_event_ids": [
+      "lsm-g2-allen-lead-16-2026-20261122"
+    ],
+    "listed_author_edges": 28,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 4
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

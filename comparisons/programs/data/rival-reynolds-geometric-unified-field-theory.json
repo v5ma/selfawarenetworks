@@ -1,0 +1,371 @@
+{
+  "authors_linked": [
+    {
+      "name": "A‐Man Zhang",
+      "slug": "a-man-zhang"
+    },
+    {
+      "name": "Shi-Min Li",
+      "slug": "shi-min-li"
+    },
+    {
+      "name": "Pu Cui",
+      "slug": "pu-cui"
+    },
+    {
+      "name": "Shuai Li",
+      "slug": "shuai-li"
+    },
+    {
+      "name": "Yun-Long Liu",
+      "slug": "yun-long-liu"
+    },
+    {
+      "name": "Danny Wood",
+      "slug": "danny-wood"
+    },
+    {
+      "name": "Tingting Mu",
+      "slug": "tingting-mu"
+    },
+    {
+      "name": "Andrew M. Webb",
+      "slug": "andrew-m-webb"
+    },
+    {
+      "name": "Henry W. J. Reeve",
+      "slug": "henry-w-j-reeve"
+    },
+    {
+      "name": "Mikel Luján",
+      "slug": "mikel-luj-n"
+    },
+    {
+      "name": "Gavin Brown",
+      "slug": "gavin-brown"
+    }
+  ],
+  "display_code": "reynolds-geometric-unified-field-theory",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-09-18 and 2022-06-28, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Reynolds Geometric Unified Field Theory (2023-01-10 to 2023-03-01) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Reynolds Geometric Unified Field Theory",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 22 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-reynolds-geometric-unified-field-theory",
+  "program_name": "Reynolds Geometric Unified Field Theory",
+  "rows": [
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "A‐Man Zhang",
+          "slug": "a-man-zhang"
+        },
+        {
+          "name": "Shi-Min Li",
+          "slug": "shi-min-li"
+        },
+        {
+          "name": "Pu Cui",
+          "slug": "pu-cui"
+        },
+        {
+          "name": "Shuai Li",
+          "slug": "shuai-li"
+        },
+        {
+          "name": "Yun-Long Liu",
+          "slug": "yun-long-liu"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-06-28) expresses active mechanism anchors (gravity, time dilation, mass) that map structurally onto the later publication's (2023-03-01) formulation (gravity) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "What is the gist of my Gravity theory? Mass creates time dilation effects at the quantum scale, and the aggregate effect of quantum time dilation results in a quantum field where the odds of particle movement are shifted in favor of the direction of mass. @NASA",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 15.18,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-28 formulation shares conceptual/operational mechanisms (field, gravity) with Reynolds Geometric Unified Field Theory (2023-03-01; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-28",
+      "source_date_sort": "2022-06-28",
+      "source_locator": "https://x.com/worksalt/status/1541865914219384832",
+      "target_date": "2023-03-01",
+      "target_date_sort": "2023-03-01",
+      "target_locator": "https://doi.org/10.1063/5.0145415 | A unified theory for bubble dynamics",
+      "target_quote": "For the first time, we proposed bubble dynamics equations that can simultaneously take into consideration the effects of boundaries, bubble interaction, ambient flow field, gravity, bubble migration, fluid compressibility, viscosity, and surface tension while maintaining a unified and elegant mathematical form.",
+      "target_url": "https://doi.org/10.1063/5.0145415",
+      "title": "field, gravity — A unified theory for bubble dynamics",
+      "win_id": "G1-REYNOLDS-GEOMETR-D01-A02"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "A‐Man Zhang",
+          "slug": "a-man-zhang"
+        },
+        {
+          "name": "Shi-Min Li",
+          "slug": "shi-min-li"
+        },
+        {
+          "name": "Pu Cui",
+          "slug": "pu-cui"
+        },
+        {
+          "name": "Shuai Li",
+          "slug": "shuai-li"
+        },
+        {
+          "name": "Yun-Long Liu",
+          "slug": "yun-long-liu"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "When I first introduced the NAPOT concept I described how one neural array projected it's signals to the next neural array like a television screen, your tv is a grid of changing frequencies, these changing frequencies in a tv are in the form of light but they convey information, in the brain these changing phase patterns are in the form of energy differences, neuroscientists call them traveling waves, but they are distinct from tonic waves, and that's how",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 18.27,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (energy, phase, waves) with Reynolds Geometric Unified Field Theory (2023-03-01; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 13 (13san.md) [para 25]",
+      "target_date": "2023-03-01",
+      "target_date_sort": "2023-03-01",
+      "target_locator": "https://doi.org/10.1063/5.0145415 | A unified theory for bubble dynamics",
+      "target_quote": "Finally, as a demonstration of the potential of our theory, we modeled the complex multi-cycle bubble interaction with wide ranges of energy and phase differences and gained new physical insight into inter-bubble energy transfer and coupling of bubble-induced pressure waves.",
+      "target_url": "https://doi.org/10.1063/5.0145415",
+      "title": "energy, phase, waves — A unified theory for bubble dynamics",
+      "win_id": "G1-REYNOLDS-GEOMETR-D01-A01"
+    },
+    {
+      "author_count": 6,
+      "authors_linked": [
+        {
+          "name": "Danny Wood",
+          "slug": "danny-wood"
+        },
+        {
+          "name": "Tingting Mu",
+          "slug": "tingting-mu"
+        },
+        {
+          "name": "Andrew M. Webb",
+          "slug": "andrew-m-webb"
+        },
+        {
+          "name": "Henry W. J. Reeve",
+          "slug": "henry-w-j-reeve"
+        },
+        {
+          "name": "Mikel Luján",
+          "slug": "mikel-luj-n"
+        },
+        {
+          "name": "Gavin Brown",
+          "slug": "gavin-brown"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Confidence is another represented judgment affected by evidence inside the learning process.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.84,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2013-01-04 formulation shares conceptual/operational mechanisms (learning, predictions) with Reynolds Geometric Unified Field Theory (2023-01-10; openalex-oa-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2013-01-04",
+      "source_date_sort": "2013-01-04",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/37da575ba33f85cef4239295be161066d8d39f4c/a0093z%20ctpr.txt#L11-L17",
+      "target_date": "2023-01-10",
+      "target_date_sort": "2023-01-10",
+      "target_locator": "https://doi.org/10.48550/arxiv.2301.03962 | A Unified Theory of Diversity in Ensemble Learning",
+      "target_quote": "With an ensemble we have a bias/variance/ diversity trade- oﬀ, varying both with individual model capacity,and similarities between model predictions. 2 A Unified Theory of Diversity in Ensemble Learning Notation For quick reference, we summarise the majority of notational conventions used in the paper.",
+      "target_url": "https://pure.manchester.ac.uk/ws/files/357279756/23-0041.pdf",
+      "title": "learning, predictions — A Unified Theory of Diversity in Ensemble Learning",
+      "win_id": "G1-REYNOLDS-GEOMETR-D02-A01"
+    },
+    {
+      "author_count": 6,
+      "authors_linked": [
+        {
+          "name": "Danny Wood",
+          "slug": "danny-wood"
+        },
+        {
+          "name": "Tingting Mu",
+          "slug": "tingting-mu"
+        },
+        {
+          "name": "Andrew M. Webb",
+          "slug": "andrew-m-webb"
+        },
+        {
+          "name": "Henry W. J. Reeve",
+          "slug": "henry-w-j-reeve"
+        },
+        {
+          "name": "Mikel Luján",
+          "slug": "mikel-luj-n"
+        },
+        {
+          "name": "Gavin Brown",
+          "slug": "gavin-brown"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "a0119z ctpr created Sep 18, 2012 (field, array, synap, qualia) I am an ecosystem of programs, not a single file, its a cooperative rivalry of learning loops inside learning loops. Instead of being contained in a set, I am uncontained in a dynamic where every character in the program set is an actual location. the physical topoi of my neural forestry adds a functional dimension to otherwise linear threads of thought, so that thought literally acts upon thou",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 11.31,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-18 formulation shares conceptual/operational mechanisms (dimension, learning) with Reynolds Geometric Unified Field Theory (2023-01-10; openalex-oa-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SI",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-09-18",
+      "source_date_sort": "2012-09-18",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/37da575ba33f85cef4239295be161066d8d39f4c/a0119z%20ctpr.txt#L1",
+      "target_date": "2023-01-10",
+      "target_date_sort": "2023-01-10",
+      "target_locator": "https://doi.org/10.48550/arxiv.2301.03962 | A Unified Theory of Diversity in Ensemble Learning",
+      "target_quote": "This challenge has been referred to as the “holy grail” of ensemble learning, an open research issue for over 30 years. Our framework reveals that diversity is in fact a hidden dimension in the bias-variance decomposition of the ensemble loss.",
+      "target_url": "https://pure.manchester.ac.uk/ws/files/357279756/23-0041.pdf",
+      "title": "dimension, learning — A Unified Theory of Diversity in Ensemble Learning",
+      "win_id": "G1-REYNOLDS-GEOMETR-D02-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Reynolds Geometric Unified Field Theory across 22 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 1 strong, 1 medium-partial, 1 weak-partial, 1 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-09-18",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2023-01-10",
+    "earliest_target_year": 2023,
+    "latest_micah_date": "2022-06-28",
+    "latest_target_date": "2023-03-01",
+    "latest_target_year": 2023
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 1,
+      "weak-partial": 1,
+      "weak-partial-cross-domain": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-reynolds-geometric-unified-theory-20261122"
+    ],
+    "listed_author_edges": 22,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 1,
+      "weak-partial": 2,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

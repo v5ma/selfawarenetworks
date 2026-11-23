@@ -1,0 +1,223 @@
+{
+  "authors_linked": [
+    {
+      "name": "Zhang T",
+      "slug": "zhang-t"
+    },
+    {
+      "name": "Gallant JL",
+      "slug": "gallant-jl"
+    }
+  ],
+  "display_code": "allen-lead-20-2026",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience; consciousness",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-06-08 and 2023-08-01, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 3 documented mechanisms appearing in Allen Lead #20: Selected visual targets occupy an additional neural encoding axis, a geometric (2026-09-11 to 2026-09-11) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Allen Lead #20: Selected visual targets occupy an additional neural encoding axis, a geometric",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 3 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 3 dated comparisons and 6 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-allen-lead-20-2026",
+  "program_name": "Allen Lead #20: Selected visual targets occupy an additional neural encoding axis, a geometric",
+  "rows": [
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zhang T",
+          "slug": "zhang-t"
+        },
+        {
+          "name": "Gallant JL",
+          "slug": "gallant-jl"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Control-Gate ITO Equivalence) + Lens 2 (Cognitive Architecture) via the Selective Attentional Gating, Competitive Inhibition & Conscious Broadcasting bridge. Micah Blumberg's dated passage (2023-08-01) expresses active mechanism anchors (attention, selective) that map structurally onto the later publication's (2026-09-11) formulation (gate) through the shared operation: Input (competing parallel sensory and internal candidate representations) -> Transform (competitive attentional gating, lateral inhibition, and priority routing to global access) -> Output (selected unified conscious representation steering coherent goal-directed behavior).",
+        "ito_alignment": "Input: competing parallel sensory and internal candidate representations -> Transform: competitive attentional gating, lateral inhibition, and priority routing to global access -> Output: selected unified conscious representation steering coherent goal-directed behavior",
+        "lens_basis": "Lens 1 (Control-Gate ITO Equivalence) + Lens 2 (Cognitive Architecture)",
+        "primary_bridge_id": "BT-05-ATTENTION-SELECTIVE-GATING-BROADCAST",
+        "primary_bridge_name": "Selective Attentional Gating, Competitive Inhibition & Conscious Broadcasting",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "raw sensory inputs upward, enabling the cortex to form preliminary interpre- tations, while feedback loops convey predictions downward, comparing expec- tations with actual inputs and prompting adjustments when mismatches occur. Cortical-thalamic loops allow the neocortex and thalamic nuclei to exchange signals bidirectionally, enabling selective attention and the filtering of irrelevant stimuli. Hippocampal-cortical loops, mediated by the entorhinal corte",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 14.21,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (cortex, navigation) with Allen Lead #20: Selected visual targets occupy an additional neural encoding axis, a geometric (2026-09-11; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 23]",
+      "target_date": "2026-09-11",
+      "target_date_sort": "2026-09-11",
+      "target_locator": "doi:10.1523/eneuro.0183-26.2026 | Visual-Semantic Tuning across the Cortex Shifts between Tasks.",
+      "target_quote": "How does visual-semantic tuning in the human brain shift to support the behavioral demands of different naturalistic tasks? To investigate this question, we used voxelwise encoding models to explore how visual-semantic tuning across the human cerebral cortex shifts between two naturalistic human fMRI experiments that used distinct tasks, movie-watching (five male participants) and active navigation (six participants, three male, three female).",
+      "target_url": "https://doi.org/10.1523/eneuro.0183-26.2026",
+      "title": "cortex, navigation — Visual-Semantic Tuning across the Cortex Shifts between Tasks.",
+      "win_id": "G2-ALLEN-LEAD-20-20-D01-A02"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zhang T",
+          "slug": "zhang-t"
+        },
+        {
+          "name": "Gallant JL",
+          "slug": "gallant-jl"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "3 layers in re-entrant feedback circuits. Micro-level events interact across regional assemblies and interplay among structures like the thalamus, hippocampus, and cortex, linking them into coherent mesoscopic dynamics. Cellular and ensemble agents perform oscillatory communication. Both structural (physical) and functional (signal based) connectivity among ensemble agents (e.g., cortical columns) support and unite disparate regions of the brain, ensuring",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.45,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-09-01 formulation shares conceptual/operational mechanisms (cortex, representation) with Allen Lead #20: Selected visual targets occupy an additional neural encoding axis, a geometric (2026-09-11; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-01",
+      "source_date_sort": "2022-09-01",
+      "source_locator": "Building Sentient Beings 062 (2022) [para 2]",
+      "target_date": "2026-09-11",
+      "target_date_sort": "2026-09-11",
+      "target_locator": "doi:10.1523/eneuro.0183-26.2026 | Visual-Semantic Tuning across the Cortex Shifts between Tasks.",
+      "target_quote": "Results show that visual-semantic tuning in the cortex differed substantially between experiments. Principal component analysis reveals that during navigation, tuning shifts increase the representation of vehicles and traffic signs compared with movie-watching and that these shifts are localized to distinct functional networks.",
+      "target_url": "https://doi.org/10.1523/eneuro.0183-26.2026",
+      "title": "cortex, representation — Visual-Semantic Tuning across the Cortex Shifts between Tasks.",
+      "win_id": "G2-ALLEN-LEAD-20-20-D01-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zhang T",
+          "slug": "zhang-t"
+        },
+        {
+          "name": "Gallant JL",
+          "slug": "gallant-jl"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism) via the Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (sequence, attention) that map structurally onto the later publication's (2026-09-11) formulation (attention) through the shared operation: Input (ordered or multi-modal representational tokens with relational/positional context) -> Transform (parallel relational weighting and context-conditioned attention routing across representations) -> Output (contextualized latent representation supporting long-range sequence extrapolation and inference).",
+        "ito_alignment": "Input: ordered or multi-modal representational tokens with relational/positional context -> Transform: parallel relational weighting and context-conditioned attention routing across representations -> Output: contextualized latent representation supporting long-range sequence extrapolation and inference",
+        "lens_basis": "Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism)",
+        "primary_bridge_id": "BT-12-SEQUENCE-ATTENTION-CONTEXT-COMPOSITION",
+        "primary_bridge_name": "Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF04-WORKSPACE-ATTENTION-SCHEMA",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "each modality essentially acts as a sensor recorder its like a thermostat, or a hear sensor, its detected, turned into a pattern on an array, many sequences of arrays firing over time change the organisms attention and internal represents constantly. Any of the sensor modalities can compete for amplification in a desynchronized brain, but in a synchronized brain what happens when the layers correct their own internal pattern representations overtime, with",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.89,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (attention, representations) with Allen Lead #20: Selected visual targets occupy an additional neural encoding axis, a geometric (2026-09-11; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/9911b61b401aeb9aab74cd765a18e7b7019eff5e/a0132z.md#L61",
+      "target_date": "2026-09-11",
+      "target_date_sort": "2026-09-11",
+      "target_locator": "doi:10.1523/eneuro.0183-26.2026 | Visual-Semantic Tuning across the Cortex Shifts between Tasks.",
+      "target_quote": "Attention is a powerful mechanism that dynamically optimizes brain representations to prioritize behaviorally relevant information. While previous studies focusing on single tasks have demonstrated that attention shifts tuning toward attended targets, real-world behavior often requires humans to switch between tasks with different demands.",
+      "target_url": "https://doi.org/10.1523/eneuro.0183-26.2026",
+      "title": "attention, representations — Visual-Semantic Tuning across the Cortex Shifts between Tasks.",
+      "win_id": "G2-ALLEN-LEAD-20-20-D01-A03"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 3 certified dated prior-art comparisons with Allen Lead #20: Selected visual targets occupy an additional neural encoding axis, a geometric across 6 listed-author attributions (3 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 2 medium-partial, 1 weak-partial, 0 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-06-08",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2026-09-11",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2023-08-01",
+    "latest_target_date": "2026-09-11",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 3,
+    "grade_breakdown": {
+      "medium-partial": 2,
+      "weak-partial": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g2-allen-lead-20-2026-20261122"
+    ],
+    "listed_author_edges": 6,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 3
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 3
+  }
+}

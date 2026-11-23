@@ -1,0 +1,276 @@
+{
+  "authors_linked": [
+    {
+      "name": "Alain Connes",
+      "slug": "alain-connes"
+    },
+    {
+      "name": "Caterina Consani",
+      "slug": "caterina-consani"
+    },
+    {
+      "name": "Henri Moscovici",
+      "slug": "henri-moscovici"
+    }
+  ],
+  "display_code": "problem-riemann-hypothesis",
+  "domain_group": "physics",
+  "domains": "mathematics; physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2025-08-21 and 2025-08-21, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Problem Riemann Hypothesis (2025-09-19 to 2025-11-27) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Problem Riemann Hypothesis",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 8 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "problem-riemann-hypothesis",
+  "program_name": "Problem Riemann Hypothesis",
+  "rows": [
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Alain Connes",
+          "slug": "alain-connes"
+        },
+        {
+          "name": "Caterina Consani",
+          "slug": "caterina-consani"
+        },
+        {
+          "name": "Henri Moscovici",
+          "slug": "henri-moscovici"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Mathematical Operator Equivalence) + Lens 2 (Spectral Architecture) via the Prime-Indexed Spectral Adjacency & Zeta Wave-Operator bridge. Micah Blumberg's dated passage (2025-08-21) expresses active mechanism anchors (riemann, zeros) that map structurally onto the later publication's (2025-11-27) formulation (spectral, operator, triple) through the shared operation: Input (prime-indexed complex amplitudes or arithmetic explicit-formula weights) -> Transform (spectral wave-operator construction and harmonic/quadratic-form diagonalization) -> Output (discrete spectral invariants aligned with Riemann zeta zeros).",
+        "ito_alignment": "Input: prime-indexed complex amplitudes or arithmetic explicit-formula weights -> Transform: spectral wave-operator construction and harmonic/quadratic-form diagonalization -> Output: discrete spectral invariants aligned with Riemann zeta zeros",
+        "lens_basis": "Lens 1 (Mathematical Operator Equivalence) + Lens 2 (Spectral Architecture)",
+        "primary_bridge_id": "BT-10-SPECTRAL-PRIME-WAVE-OPERATOR-BRIDGE",
+        "primary_bridge_name": "Prime-Indexed Spectral Adjacency & Zeta Wave-Operator",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-2025-08-21-earlier-than-2025-11-27-conservative-target-floor",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Equilibrium Manifold: The Riemann Hypothesis states that all non-trivial zeros lie on the critical line Re(s) = 1/2. In SIT, this critical line is identified as the equipotential manifold of states where the time-density field ρt",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-pass; detective-before-after-pass; longitudinal-component-shift; document-relative-chronology-pass",
+      "red_team_grade": "weak-partial-output-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-21",
+      "source_date_sort": "2025-08-21",
+      "source_locator": "",
+      "target_date": "2025-11-27",
+      "target_date_sort": "2025-11-27",
+      "target_locator": "Frozen full-body review and longitudinal matrix cell T03/F",
+      "target_quote": "The method we use is general as well as the proof that all the approximating values lie exactly on the critical line. In fact we construct spectral triples associated to rank one perturbations D(λ,N) log of the scaling operator D(λ) log on the interval [λ−1, λ] with periodic boundary conditions.",
+      "target_url": "https://arxiv.org/abs/2511.22755",
+      "title": "Zeta Spectral Triples",
+      "win_id": "RIEMANN-DOCWIN-T03-M2025-F-INFORMATION-STABILITY"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Alain Connes",
+          "slug": "alain-connes"
+        },
+        {
+          "name": "Caterina Consani",
+          "slug": "caterina-consani"
+        },
+        {
+          "name": "Henri Moscovici",
+          "slug": "henri-moscovici"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Mathematical Operator Equivalence) + Lens 2 (Spectral Architecture) via the Prime-Indexed Spectral Adjacency & Zeta Wave-Operator bridge. Micah Blumberg's dated passage (2025-08-21) expresses active mechanism anchors (prime, adjacency, amplitude, operator) that map structurally onto the later publication's (2025-11-27) formulation (zeta, riemann, spectral, prolate) through the shared operation: Input (prime-indexed complex amplitudes or arithmetic explicit-formula weights) -> Transform (spectral wave-operator construction and harmonic/quadratic-form diagonalization) -> Output (discrete spectral invariants aligned with Riemann zeta zeros).",
+        "ito_alignment": "Input: prime-indexed complex amplitudes or arithmetic explicit-formula weights -> Transform: spectral wave-operator construction and harmonic/quadratic-form diagonalization -> Output: discrete spectral invariants aligned with Riemann zeta zeros",
+        "lens_basis": "Lens 1 (Mathematical Operator Equivalence) + Lens 2 (Spectral Architecture)",
+        "primary_bridge_id": "BT-10-SPECTRAL-PRIME-WAVE-OPERATOR-BRIDGE",
+        "primary_bridge_name": "Prime-Indexed Spectral Adjacency & Zeta Wave-Operator",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "Micah-2025-08-21-earlier-than-2025-11-27-conservative-target-floor",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(Section 47). By initializing the adjacency amplitudes with values derived from the prime numbers, for instance Aij (0) = p −s i p −s∗ j for a complex value s, the network evo\u0002lution simulates an operator-theoretic",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-pass; detective-before-after-pass; longitudinal-component-shift; document-relative-chronology-pass",
+      "red_team_grade": "partial-operator-and-narrative-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-21",
+      "source_date_sort": "2025-08-21",
+      "source_locator": "",
+      "target_date": "2025-11-27",
+      "target_date_sort": "2025-11-27",
+      "target_locator": "Frozen full-body review and longitudinal matrix cell T03/E",
+      "target_quote": "Key Words.Riemann zeta, spectral triples, infrared, explicit formulas, Weil quadratic form, Prolate wave operator. Mathematics Subject Classification 2020.11M06, 11M55, 58B34, 33D60, 34B20.",
+      "target_url": "https://arxiv.org/abs/2511.22755",
+      "title": "Zeta Spectral Triples",
+      "win_id": "RIEMANN-DOCWIN-T03-M2025-E-INFORMATION-SPECTRAL-BRIDGE"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alain Connes",
+          "slug": "alain-connes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2025-08-21-earlier-than-2025-09-19-conservative-target-floor",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-output-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Equilibrium Manifold: The Riemann Hypothesis states that all non-trivial zeros lie on the critical line Re(s) = 1/2. In SIT, this critical line is identified as the equipotential manifold of states where the time-density field ρt",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-pass; detective-before-after-pass; longitudinal-component-shift; document-relative-chronology-pass",
+      "red_team_grade": "weak-partial-output-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-21",
+      "source_date_sort": "2025-08-21",
+      "source_locator": "",
+      "target_date": "2025-09-19",
+      "target_date_sort": "2025-09-19",
+      "target_locator": "Frozen full-body review and longitudinal matrix cell T04/F",
+      "target_quote": "The Riemann Hypothesis: Past, Present and a Letter Through Time [Alain Connes] February 5, 2026 Abstract This paper, commissioned as a survey of the Riemann Hypothesis, provides a comprehensive overview of 165 years of mathematical approaches to this fundamental problem, while introduc- ing a new perspective that emerged during its preparation.",
+      "target_url": "https://arxiv.org/abs/2602.04022",
+      "title": "The Riemann Hypothesis: Past, Present and a Letter Through Time",
+      "win_id": "RIEMANN-DOCWIN-T04-M2025-F-INFORMATION-STABILITY"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alain Connes",
+          "slug": "alain-connes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2025-08-21-earlier-than-2025-09-19-conservative-target-floor",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "partial-operator-and-narrative-document-relative-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "(Section 47). By initializing the adjacency amplitudes with values derived from the prime numbers, for instance Aij (0) = p −s i p −s∗ j for a complex value s, the network evo\u0002lution simulates an operator-theoretic",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-pass; detective-before-after-pass; longitudinal-component-shift; document-relative-chronology-pass",
+      "red_team_grade": "partial-operator-and-narrative-document-relative-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-21",
+      "source_date_sort": "2025-08-21",
+      "source_locator": "",
+      "target_date": "2025-09-19",
+      "target_date_sort": "2025-09-19",
+      "target_locator": "Frozen full-body review and longitudinal matrix cell T04/E",
+      "target_quote": "The Riemann Hypothesis: Past, Present and a Letter Through Time [Alain Connes] February 5, 2026 Abstract This paper, commissioned as a survey of the Riemann Hypothesis, provides a comprehensive overview of 165 years of mathematical approaches to this fundamental problem, while introduc- ing a new perspective that emerged during its preparation.",
+      "target_url": "https://arxiv.org/abs/2602.04022",
+      "title": "The Riemann Hypothesis: Past, Present and a Letter Through Time",
+      "win_id": "RIEMANN-DOCWIN-T04-M2025-E-INFORMATION-SPECTRAL-BRIDGE"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Problem Riemann Hypothesis across 8 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 1 strong, 1 medium-partial, 2 weak-partial, 0 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2025-08-21",
+    "earliest_micah_year": 2025,
+    "earliest_target_date": "2025-09-19",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2025-08-21",
+    "latest_target_date": "2025-11-27",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 1,
+      "weak-partial": 2
+    },
+    "lens4_event_ids": [
+      "riemann-hypothesis-connes-hsit-longitudinal-1998-2026-20260719-v1"
+    ],
+    "listed_author_edges": 8,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 4
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

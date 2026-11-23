@@ -1,0 +1,1307 @@
+{
+  "authors_linked": [
+    {
+      "name": "Declercq, Nico",
+      "slug": "declercq-nico"
+    },
+    {
+      "name": "Declercq, Nico F.",
+      "slug": "declercq-nico-f"
+    },
+    {
+      "name": "Rayisa P. Moiseyenko",
+      "slug": "rayisa-p-moiseyenko"
+    },
+    {
+      "name": "Jingfei Liu",
+      "slug": "jingfei-liu"
+    },
+    {
+      "name": "Sarah Benchabane",
+      "slug": "sarah-benchabane"
+    },
+    {
+      "name": "Nico F. Declercq",
+      "slug": "nico-f-declercq"
+    },
+    {
+      "name": "Vincent Laude",
+      "slug": "vincent-laude"
+    }
+  ],
+  "display_code": "declercq-trembling-spacetime-relativity",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2013-08-22 and 2024-01-15, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 25 documented mechanisms appearing in Declercq Trembling Spacetime Relativity (2014-12-01 to 2026-05-22) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Declercq Trembling Spacetime Relativity",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 25 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 3 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 25 dated comparisons and 29 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-declercq-trembling-spacetime-relativity",
+  "program_name": "Declercq Trembling Spacetime Relativity",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "3 From Path Integrals to Free Energy: Wave-Dissipation Universality 3.1 Linking Feynman’s Path Integral to Micah’s New Law of Ther- modynamics Richard Feynman’s path integral formulation of quantum mechanics posits that a particle (or field) takes all possible paths through spacetime, each contributing an amplitude weighted by a phase factor e iS/ℏ, where S is the classical action (Feynman 1965). Crucially, interference among these paths selects the most s",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 28.68,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (interference, particle) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 26]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "This work represented an important extension of the TSRT program be- yond single-particle interference phenomena toward correlated multiparticle behavior. It demonstrated that the deterministic admissibility framework could, at least at the structural level, accommodate phenomena traditionally regarded as among the strongest motivations for fundamentally probabilistic microscopic physics.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "interference, particle — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "This paper introduces Micah’s New Law of Thermodynamics , a unifying perspec- tive that treats the approach to equilibrium as a wave-based, iterative computation . Any system of interacting components (whether they are gas molecules, neurons, or gravi- tationally bound particles) locally dissipates differences through “signal exchanges.” Over multiple local interactions, those differences—be they in phase, momentum, or energy—are progressively neutralized,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.68,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (entropy, expansion, oscillatory) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 1]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "In this interpretation, cosmological expansion is linked directly to evolving admissible oscillatory structure of spacetime itself. The theory also examined entropy and causal structure from the perspec- tive of admissible geometric microstructure.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "entropy, expansion, oscillatory — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "7.2 Quantum SuperTimePosition as Rapid Phase Cycling Quantum SuperTimePosition suggests that quantum “randomness” emerges from our undersampling of high-frequency deterministic phase cycles. In other words, outcomes look probabilistic only because we cannot observe the ultra-fast wave states that underlie each measurement or entangled correlation. • Quantum Uncertainty is partly an artifact of incomplete sampling of these rapid cycles. • Entanglement can b",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 37.82,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (entanglement, quantum) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 41]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "In conventional quantum theory, entanglement is typically formulated in terms of non-factorizable wavefunctions and probabilistic measurement outcomes. Correlated systems are described through shared quantum states whose measurement statistics exhibit nonclassical correlations that cannot be explained through independent local variables within standard formulations.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "entanglement, quantum — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "1.6.5 Local, Wave-Based Explanation Another defining characteristic of Dark Time is its strong emphasis on local explanations of gravitational and quantum effects. Rather than invoking a global spacetime geometry or a “universal vantage,” Dark Time portrays gravity as an emergent consequence of local interference patterns in the time-density field. Constructive interference increases local time density (strengthening gravitational effects), while destructi",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 27.32,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (interference, spacetime, wave) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 15]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "The interference structure therefore emerges from admissible geometric correlations within the bounded oscillatory sector of spacetime. An important conceptual consequence of this work is that the apparent wave-like behavior observed in interference experiments need not imply the existenceoffundamentallyprobabilisticmicroscopicontology.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "interference, spacetime, wave — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "7.14.3 Dark Time’s Reinterpretation of Gravity Dark Time replaces the picture of curving spacetime with that of mass densifying nearby time frames. Particles drift inward because they sample more time intervals in that direction, akin to a biased random walk. Whereas GR explains slower clocks and gravitational redshifts through geometric curvature, Dark Time attributes these effects to gradients in ρt. The local scaling of time thus becomes the central mec",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 27.95,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (geometric, spacetime, structure) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 58]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "These works established the core admissibility framework, introduced the geometric interpretation of oscillatory spacetime microstructure, and explored the consequences of this structure for phenomena traditionally described within quantum theory, gravitation, and cosmology.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "geometric, spacetime, structure — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Facilitate detailed gravitational computations in familiar geometric terms, • Highlight potential small-scale or strong-field deviations to look for in future observations. In short, although Dark Time’s root premise is that mass “thickens” time rather than curving spacetime, one can still recast its modifications as an emergent geometry, tracking how ρt alters the Ricci curvature. This dual viewpoint—wave-based density vs. metric curvature—enables pract",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 28.39,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (curvature, geometric, geometry, spacetime) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 124]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "The resulting uncertainty relations therefore reflect limitations imposed by admissible spacetime geometry rather than intrinsic indeterminism. The cosmological extensions furthermore suggested the existence of admissibility-induced curvature bounds preventing arbitrarily singular geometric behavior.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "curvature, geometric, geometry, spacetime — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (spacetime, time density, dark time) that map structurally onto the later publication's (2026-05-22) formulation (geometry) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "compression alters the rate at which quantum processes occur, effectively biasing particle trajectories toward regions of higher time density. 1.7.1 Local Updates and Computational Processes Instead of relying on gravitons or traversing a globally curved spacetime manifold, particles within this dense time field update their positions and phases based on the local time density. These updates are akin to micro-steps in a vast computational process where eac",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 28.92,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (particles, trajectories) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 16]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "Within this framework, particles are not treated as objects simultane- ously traversing multiple probabilistic paths. Instead, admissible oscillatory microstructure modifies the local geodesic geometry through which physical trajectories evolve.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "particles, trajectories — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "the overall inferred distribution of mass on cosmic scales. This new approach may therefore offer potential alternatives to conventional dark matter and dark energy explanations by redefining gravity as emerging from variations in the flow of time rather than solely from the geometry of space. By merging the insights of our time crystal interpretation with astrophysical observations, we propose a unified picture in which the internal, oscillatory dynamics",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.68,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (geometry, oscillatory, structure) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 60]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "Several interconnected themes emerged throughout the 2026 works. First, admissibility was reformulated within explicit covariant variational frameworks, allowing admissible oscillatory geometry to be treated through nonlinear Euler–Lagrange structure rather than through purely kinematic arguments alone.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "geometry, oscillatory, structure — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "scattering processes in a highly constrained geometry. A future framework might envision an “extended amplituhedron” where the density of local time frames contributes an extra dimension to the geometry, possibly affecting how scattering amplitudes are computed and how they might couple to gravitational phenomena. Another conceptual affinity arises from each theory’s implicit suggestion that quantum randomness and spacetime geometry may be emergent phenome",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.71,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (emergent, geometry, quantum, spacetime) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 75]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "More broadly, the entanglement analysis reinforced a central conceptual direction of TSRT: microscopic physical phenomena commonly interpreted through probabilistic quantum ontology may instead admit reinterpretation as emergent consequences of admissible deterministic spacetime geometry possessing bounded oscillatory microstructure and causal correlation organi- zation.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "emergent, geometry, quantum, spacetime — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (geometry, geometric, density, metric) that map structurally onto the later publication's (2026-05-22) formulation (geometric, metric) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics). Corroborated independently by a second structural bridge (Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling).",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "future synthesis emerges, it might incorporate Dark Time’s time-density perspective within a twistor-like geometry, showing how local “time folds” could be mathematically represented as an intrinsic part of a broader geometric structure. Whether such a unification is feasible remains to be seen, underscoring the ongoing need for both theoretical development and potential experimental or observational clues that could validate or refute these novel visions",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 32.43,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (geometric, structure) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 77]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "The central objective of this development was to place the admissibility framework within a mathematically controlled dynamical structure analo- gous in general form to variational formulations used throughout modern theoretical physics, while preserving the deterministic geometric character of TSRT.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "geometric, structure — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Dark Time asserts that variations in the density of discrete time frames generate gravi- tational effects, with mass functioning as a “time crystal” that enriches local time density. By positing time as a dynamic entity, it seeks to incorporate these density variations into both quantum mechanics and general relativity, offering a framework that could explain phenomena as diverse as dark matter, dark energy, and the rate of cosmic expan",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 33.48,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (cosmological, geometric, gravitational) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 5]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "Although these cosmological and gravitational developments remain pre- liminary compared to the more detailed microscopic analyses completed later, they established an important conceptual principle within TSRT: the admissibility framework may provide a unified geometric structure capable of addressing both microscopic and cosmological phenomena within the same deterministic oscillatory spacetime dynamics.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "cosmological, geometric, gravitational — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "by challenging current assumptions about the makeup of spacetime. Dark Time raises the possibility that gravitational phenomena can be explained by local changes in clock rates, while String Theory envisions a world of hidden dimensions whose geometry dictates the properties of all known particles and forces. Whether one of these visions, or perhaps a synthesis of their ideas, will eventually lead to a consistent and experimentally validated theory remains",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 37.29,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (particles, quantum, spacetime) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 74]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "It introduces no hidden entities, no additional dimensions, and no infinite families of hypothetical particles. Unification is achieved not by increasing theoretical complex- ity, but by revealing that the trembling of spacetime itself suffices to generate all known forces, quantum limits, and causal structures.",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "particles, quantum, spacetime — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "density of time frames near the star. The result is effectively the same net precession, yet Dark Time might introduce tiny deviations. Gravitational Lensing. Light passing through clusters of galaxies is deflected, forming arcs and multiple images. GR attributes this to curved spacetime, sometimes invoking dark matter for additional lensing mass. Dark Time asserts that light bending occurs because photons traverse zones of higher ρt, altering their phase",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 37.73,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (horizon, phase, radiation, spacetime) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 59]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "Near the event horizon, the phase-space resolution is severely constrained, suggesting that Hawking radiation spectra may carry subtle imprints of the underlying trembling structure of spacetime.",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "horizon, phase, radiation, spacetime — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (geometry, geometric, density, metric) that map structurally onto the later publication's (2025-05-07) formulation (geometric, metric) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics). Corroborated independently by a second structural bridge (Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling).",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "future synthesis emerges, it might incorporate Dark Time’s time-density perspective within a twistor-like geometry, showing how local “time folds” could be mathematically represented as an intrinsic part of a broader geometric structure. Whether such a unification is feasible remains to be seen, underscoring the ongoing need for both theoretical development and potential experimental or observational clues that could validate or refute these novel visions",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 38.32,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (geometric, quantum) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 77]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "The unification of fundamental forces has been a central aspiration in physics for over a century. General relativity provided a geometric understanding of gravitation [2], while quantum mechanics introduced a probabilistic framework for microscopic behavior [3–5].",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "geometric, quantum — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(11–14) ADM Formalism Now Understood As: Hamiltonian and momentum constraints gain ρt-based modifications if we embed ρt in the spatial-slice decomposition. This alters lapse or shift in the (3 + 1) approach. (15–16) Klein–Gordon Equation Now Understood As: A spin-0 field with an effective mass shift ∆ m2(ρt). Kinetic + ρt-potential couplings come from the single action. (17–18) Dirac Equation Now Understood As: Directly emerges from − f1(ρt) ¯ψψ in the La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 39.22,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (einstein, energy, field, gravitational, momentum) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 39]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "The dynamic adjustment of causal structure by trembling fluctuations also modifies the effective gravitational field equations. In TSRT, the Einstein field equations are generalized to incorporate corrections from microscopic trembling effects: Gµν + ∆Gµν = 8πG c4 \u0010 Tµν + T tremble µν \u0011 , (7) where ∆ Gµν encapsulates geometric fluctuations from trembling, and T tremble µν represents the effective energy–momentum contribution of microscopic causal oscillati",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "einstein, energy, field, gravitational — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "testing ground for verifying whether time density plays a genuine role in high-curvature gravitational environments or whether conventional geometric frameworks remain sufficient. B Appendix B: Ivette Fuentes’s Connection to Dark Time Ivette Fuentes’s research in relativistic quantum information focuses on how curved spacetime affects quantum states, entanglement, and related phenomena. Her work on quantum clocks and sensors capable of detecting fine chang",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 40.45,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (fields, geometric, quantum, spacetime) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 130]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "Theoretical physics remains divided between incompatible frameworks for gravity, quantum fields, and the fundamental forces. This work introduces a unifying geometric theory—Trembling Spacetime Relativity Theory (TSRT)—in which spacetime undergoes fine-scale, deterministic fluctuations constrained by causality.",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "fields, geometric, quantum, spacetime — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "11.8.5 Extended Literature Review and Contextual Background (Part I) The Super Dark Time framework builds upon a rich history of theoretical developments in quantum gravity, emergent gravity, and dark sector physics. In this section, we review key contributions from the literature to contextualize our approach. Early efforts to reconcile quantum mechanics with general relativity have produced several promising frameworks. One influential approach is Loop Q",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 40.62,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravity, quantum, relativity, spacetime) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 97]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "7 Discussion 7.1 Comparison to Existing Frameworks (Quantum Mechanics, General Rel- ativity, String Theory) Trembling Spacetime Relativity Theory (TSRT) challenges and transcends the foundations of both quantum mechanics and general relativity, while avoiding the speculative complexities introduced by modern unification attempts such as string theory and loop quantum gravity.",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "gravity, quantum, relativity, spacetime — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "7.14.3 Dark Time’s Reinterpretation of Gravity Dark Time replaces the picture of curving spacetime with that of mass densifying nearby time frames. Particles drift inward because they sample more time intervals in that direction, akin to a biased random walk. Whereas GR explains slower clocks and gravitational redshifts through geometric curvature, Dark Time attributes these effects to gradients in ρt. The local scaling of time thus becomes the central mec",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 41.44,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (curvature, geometric, mass, particle, spacetime) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 58]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "A key insight is that such trembling induces a nontrivial phase-space structure, leading to a double-bounded uncertainty relation: 1 2 ℏ ≤ ∆x ∆p ≤ 1 2 β mc√κlocal , (1) where κlocal denotes the local spacetime curvature, m the particle mass, c the invariant speed scale, and β a dimensionless geometric coefficient.",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "curvature, geometric, mass, particle — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "8.13 Dark Time and Loop Quantum Gravity Super Dark Time and Loop Quantum Gravity (LQG) both work toward reconciling quantum mechanics with general relativity, yet they approach this unification from distinctly different angles. While Loop Quantum Gravity seeks to quantize space itself—treating it as composed of discrete loops or spin networks—Dark Time focuses on local time density as the key to gravitational phenomena. Both theories converge on the notion",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 43.18,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravitational, quantum, relativity, spacetime) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 72]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "General relativity [2] successfully describes spacetime curvature and gravitational dynamics but remains silent on quantum phenomena. It assumes a smooth spacetime continuum down to arbitrarily small scales.",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "gravitational, quantum, relativity, spacetime — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "and mapping out empirical tests—these specialized frameworks are supplementary rather than central. Once those foundational pieces are in place, then such advanced mathematical techniques may significantly deepen and refine the theory’s treatment of extreme time-density regimes. 7.5 Detailed Explanation of Time Density and Gravity Time density, denoted ρt, lies at the core of Dark Time (Super Dark Time). Rather than viewing gravity purely as curvature of s",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 44.85,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (curvature, density, relativity, spacetime) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 49]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "In regions of weak curvature, these corrections are negligible and standard general relativity is recovered. However, near singularities or in high-density regimes, trembling-induced modifications significantly alter the causal structure and the information content of spacetime.",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "curvature, density, relativity, spacetime — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "High-Precision Lensing Surveys. Subtle lensing deviations around massive clusters or black holes could confirm time-density gradients. • CMB Measurements. Changes to cosmic expansion from time density might leave distinct imprints in the Cosmic Microwave Background. D.3.5 Summary By replacing spacetime curvature singularities with zones of extreme time density, Dark Time seeks to tackle black hole horizon issues and provide alternative explanations for p",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 45.01,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, gravitational, hole, horizon, wave) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 137]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "Future high-precision astrophysical observations, including next-generation gravitational wave detectors, enhanced black hole imaging efforts such as the Event Horizon Telescope [19], and ultra-high-energy cosmic ray measurements, may provide indirect evidence for trembling- regulated physical processes.",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "black, gravitational, hole, horizon — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "D.3.1 Singularity Resolution & Black Hole Horizons • Time Density and Singularities. Singularities are modeled as regions of extremely high time density rather than points of infinite spacetime curvature. This may avoid the infinite-density issue of classical GR. • Event Horizons as Extreme Time Density Zones. The event horizon is recast as a region where time density becomes extreme. Quantum effects near the horizon could resolve paradoxes like informatio",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 45.03,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, hole, spacetime) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 136]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "Thus, TSRT offers a first-principles derivation of black hole entropy and holography, grounded entirely in the causal structure of trembling spacetime. Declercq 9 4.3 Resolution of the Information Paradox Without Unitarity The information paradox in black hole physics arises from the apparent conflict between quan- tum unitarity and the classical loss of information behind event horizons [10,15].",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "black, hole, spacetime — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico",
+          "slug": "declercq-nico"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "D.3.1 Singularity Resolution & Black Hole Horizons • Time Density and Singularities. Singularities are modeled as regions of extremely high time density rather than points of infinite spacetime curvature. This may avoid the infinite-density issue of classical GR. • Event Horizons as Extreme Time Density Zones. The event horizon is recast as a region where time density becomes extreme. Quantum effects near the horizon could resolve paradoxes like informatio",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 54.59,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, curvature, hole, horizon) with Declercq Trembling Spacetime Relativity (2025-05-07; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 136]",
+      "target_date": "2025-05-07",
+      "target_date_sort": "2025-05-07",
+      "target_locator": "zenodo:15360946 | A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "target_quote": "Near the event horizon of a black hole, the local curvature becomes extremely large ( κlocal ∼ 1/r4 s, where rs denotes the Schwarzschild radius), thereby drastically shrinking the allowable phase-space resolution.",
+      "target_url": "https://zenodo.org/records/15360946",
+      "title": "black, curvature, hole, horizon — A Unified Geometric Theory of Trembling Spacetime Relativity",
+      "win_id": "G1-DECLERCQ-TREMBLI-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Declercq, Nico F.",
+          "slug": "declercq-nico-f"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "3. Breakspear, M. (2017). Dynamic models of large-scale brain activity. Nature Neuroscience, 20(3), 340--352. (Reviews how researchers model the brain as a deterministic dynamical system -- including oscillatory networks and attractor models -- that can reproduce complex cognitive phenomena. Supports the idea that brain dynamics (and by extension consciousness) can be understood with deterministic physical models, without invoking random or non-physical dr",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 31.98,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (dynamics, oscillatory) with Declercq Trembling Spacetime Relativity (2026-05-22; zenodo-oa-fulltext); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/ph",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 22]",
+      "target_date": "2026-05-22",
+      "target_date_sort": "2026-05-22",
+      "target_locator": "zenodo:20333607 | Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized Structures",
+      "target_quote": "The central objective of the foundational papers was not merely to pro- pose an alternative mathematical formalism, but to investigate whether a deterministic geometric framework based on admissible oscillatory space- time dynamics could reproduce or reinterpret a broad range of microscopic physical phenomena without invoking fundamental probabilistic postulates.",
+      "target_url": "https://zenodo.org/records/20333607",
+      "title": "dynamics, oscillatory — Progress in Trembling Spacetime Relativity Theory: From Admissible Geometry to Stable Localized",
+      "win_id": "G1-DECLERCQ-TREMBLI-D02-A04"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Rayisa P. Moiseyenko",
+          "slug": "rayisa-p-moiseyenko"
+        },
+        {
+          "name": "Jingfei Liu",
+          "slug": "jingfei-liu"
+        },
+        {
+          "name": "Sarah Benchabane",
+          "slug": "sarah-benchabane"
+        },
+        {
+          "name": "Nico F. Declercq",
+          "slug": "nico-f-declercq"
+        },
+        {
+          "name": "Vincent Laude",
+          "slug": "vincent-laude"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "So I asked: \"why do you say \"The concept of God\"?\" The Pilgrim Poet answered: \"The Idea of God is Figment in one's mind passed on from generation to generation. Its a concept which has no physical nor non physical proof. No one can really explain it nor break it down to a molecular structure. It exist in the mind.\" So I replied: I had a realization recently which changed my mind, it had to do with the direction of causality. As you may know bottom up causa",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.1,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2013-08-22 formulation shares conceptual/operational mechanisms (dimensional, waves) with Declercq Trembling Spacetime Relativity (2014-12-01; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2013-08-22",
+      "source_date_sort": "2013-08-22",
+      "source_locator": "https://www.facebook.com/photo/?fbid=709261715767145",
+      "target_date": "2014-12-01",
+      "target_date_sort": "2014-12-01",
+      "target_locator": "https://doi.org/10.1063/1.4903778 | Excitation of surface waves on one-dimensional solid–fluid phononic crystals and the beam displacement effect",
+      "target_quote": "The possibility of surface wave generation by diffraction of pressure waves on deeply corrugated one-dimensional phononic crystal gratings is studied both theoretically and experimentally.",
+      "target_url": "https://aip.scitation.org/doi/pdf/10.1063/1.4903778",
+      "title": "dimensional, waves — Excitation of surface waves on one-dimensional solid–fluid phononic crystals and the beam displ",
+      "win_id": "G1-DECLERCQ-TREMBLI-D03-A01"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 25 certified dated prior-art comparisons with Declercq Trembling Spacetime Relativity across 29 listed-author attributions (25 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 20 strong, 1 medium-partial, 3 weak-partial, 1 weak-partial cross-domain, with 3 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2013-08-22",
+    "earliest_micah_year": 2013,
+    "earliest_target_date": "2014-12-01",
+    "earliest_target_year": 2014,
+    "latest_micah_date": "2024-01-15",
+    "latest_target_date": "2026-05-22",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 3,
+    "governed_wins": 25,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 20,
+      "weak-partial": 3,
+      "weak-partial-cross-domain": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-declercq-trembling-spacetime-relativity-20261122"
+    ],
+    "listed_author_edges": 29,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 18,
+      "weak-partial": 6,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 25
+  }
+}

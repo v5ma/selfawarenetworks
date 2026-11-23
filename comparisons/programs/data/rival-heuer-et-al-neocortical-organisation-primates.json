@@ -1,0 +1,346 @@
+{
+  "authors_linked": [
+    {
+      "name": "Heuer, Katja",
+      "slug": "heuer-katja"
+    },
+    {
+      "name": "Traut, Nicolas",
+      "slug": "traut-nicolas"
+    },
+    {
+      "name": "Aristide, Leandro",
+      "slug": "aristide-leandro"
+    },
+    {
+      "name": "Alavi, S. Faezeh",
+      "slug": "alavi-s-faezeh"
+    },
+    {
+      "name": "Herbin, Marc",
+      "slug": "herbin-marc"
+    },
+    {
+      "name": "Mars, Rogier",
+      "slug": "mars-rogier"
+    },
+    {
+      "name": "Mylapalli, Satya Nooka Rajeev",
+      "slug": "mylapalli-satya-nooka-rajeev"
+    },
+    {
+      "name": "Najafipashaki, Shaghayegh",
+      "slug": "najafipashaki-shaghayegh"
+    },
+    {
+      "name": "Sakai, Tomoko",
+      "slug": "sakai-tomoko"
+    },
+    {
+      "name": "Santin, Mathieu",
+      "slug": "santin-mathieu"
+    },
+    {
+      "name": "Borrell, Victor",
+      "slug": "borrell-victor"
+    },
+    {
+      "name": "Toro, Roberto",
+      "slug": "toro-roberto"
+    },
+    {
+      "name": "Heuer K",
+      "slug": "heuer-k"
+    },
+    {
+      "name": "Traut N",
+      "slug": "traut-n"
+    },
+    {
+      "name": "Aristide L",
+      "slug": "aristide-l"
+    }
+  ],
+  "display_code": "heuer-et-al-neocortical-organisation-primates",
+  "domain_group": "neuroscience",
+  "domains": "developmental-biology; neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2013-11-02 and 2024-02-15, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 3 documented mechanisms appearing in Heuer Et Al Neocortical Organisation Primates (2025-07-16 to 2025-07-22) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Heuer Et Al Neocortical Organisation Primates",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 3 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 3 dated comparisons and 36 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-heuer-et-al-neocortical-organisation-primates",
+  "program_name": "Heuer Et Al Neocortical Organisation Primates",
+  "rows": [
+    {
+      "author_count": 12,
+      "authors_linked": [
+        {
+          "name": "Heuer, Katja",
+          "slug": "heuer-katja"
+        },
+        {
+          "name": "Traut, Nicolas",
+          "slug": "traut-nicolas"
+        },
+        {
+          "name": "Aristide, Leandro",
+          "slug": "aristide-leandro"
+        },
+        {
+          "name": "Alavi, S. Faezeh",
+          "slug": "alavi-s-faezeh"
+        },
+        {
+          "name": "Herbin, Marc",
+          "slug": "herbin-marc"
+        },
+        {
+          "name": "Mars, Rogier",
+          "slug": "mars-rogier"
+        },
+        {
+          "name": "Mylapalli, Satya Nooka Rajeev",
+          "slug": "mylapalli-satya-nooka-rajeev"
+        },
+        {
+          "name": "Najafipashaki, Shaghayegh",
+          "slug": "najafipashaki-shaghayegh"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Quantum Gradient Time Crystal Dilation (QGTCD) is a unified field theory, this body of literature addresses the observer affect also known as the measurement problem, it connects with explains how brainwaves interact with reality which also consists of waves via oscillatory physics, it explains how time near mass at the quantum scale changes the probability of particle travel by changing landscape (curving space) mo",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.35,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-02-15 formulation shares conceptual/operational mechanisms (black, scale) with Heuer Et Al Neocortical Organisation Primates (2025-07-16; zenodo-official-record); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-02-15",
+      "source_date_sort": "2024-02-15",
+      "source_locator": "Public article dated 2024-02-15; sections on field propagation, scalar fields, metric extension, dynamic coupling, and quantum behavior; owned archive SHA256 EBA742AB34191D4DBE91C5CD35D28A507CE1883FD74B76C0E869F4211DAFA8",
+      "target_date": "2025-07-16",
+      "target_date_sort": "2025-07-16",
+      "target_locator": "zenodo:15969765 | Principles of neocortical organisation and behaviour in primates: Brain surfaces of 70 primate species",
+      "target_quote": "The scale is the same for all brains. Preview versions are made available in portrait and landscape format, and on black and white backgrounds.",
+      "target_url": "https://zenodo.org/records/15969765",
+      "title": "black, scale — Principles of neocortical organisation and behaviour in primates: Brain surfaces of 70 primate ",
+      "win_id": "G1-HEUER-ET-AL-NEOC-D01-A02"
+    },
+    {
+      "author_count": 12,
+      "authors_linked": [
+        {
+          "name": "Heuer, Katja",
+          "slug": "heuer-katja"
+        },
+        {
+          "name": "Traut, Nicolas",
+          "slug": "traut-nicolas"
+        },
+        {
+          "name": "Aristide, Leandro",
+          "slug": "aristide-leandro"
+        },
+        {
+          "name": "Alavi, S. Faezeh",
+          "slug": "alavi-s-faezeh"
+        },
+        {
+          "name": "Herbin, Marc",
+          "slug": "herbin-marc"
+        },
+        {
+          "name": "Mars, Rogier",
+          "slug": "mars-rogier"
+        },
+        {
+          "name": "Mylapalli, Satya Nooka Rajeev",
+          "slug": "mylapalli-satya-nooka-rajeev"
+        },
+        {
+          "name": "Najafipashaki, Shaghayegh",
+          "slug": "najafipashaki-shaghayegh"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "(field) imagine that each node (What did I mean by node when I wrote this? a neuron, a cortical column?) is processing the whole of consciousness but at a different scale & each represents a different perspective in a sea of overlapping perspectives light a display from light field labs where every pixel has a spherical representation of the image pattern from every angle representing the view through that volume of space, the potential consequence of that",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.97,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (cortical, pattern) with Heuer Et Al Neocortical Organisation Primates (2025-07-16; zenodo-official-record); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/84f9d0a56a47fec4b427ac6422062902f39776dd/a0111z.md",
+      "target_date": "2025-07-16",
+      "target_date_sort": "2025-07-16",
+      "target_locator": "zenodo:15969765 | Principles of neocortical organisation and behaviour in primates: Brain surfaces of 70 primate species",
+      "target_quote": "However, our phylogenetic comparative study of primate neuroanatomy and behaviour shows this view is incomplete. Using brain MRI from 70 primate species, we observed that not only the degree but also the pattern of cortical folding changes continuously with brain volume, independent of phylogenetic proximity.",
+      "target_url": "https://zenodo.org/records/15969765",
+      "title": "cortical, pattern — Principles of neocortical organisation and behaviour in primates: Brain surfaces of 70 primate ",
+      "win_id": "G1-HEUER-ET-AL-NEOC-D01-A01"
+    },
+    {
+      "author_count": 12,
+      "authors_linked": [
+        {
+          "name": "Heuer K",
+          "slug": "heuer-k"
+        },
+        {
+          "name": "Traut N",
+          "slug": "traut-n"
+        },
+        {
+          "name": "Aristide L",
+          "slug": "aristide-l"
+        },
+        {
+          "name": "Alavi SF",
+          "slug": "alavi-sf"
+        },
+        {
+          "name": "Herbin M",
+          "slug": "herbin-m"
+        },
+        {
+          "name": "Mars RB",
+          "slug": "mars-rb"
+        },
+        {
+          "name": "Mylapalli R",
+          "slug": "mylapalli-r"
+        },
+        {
+          "name": "Najafipashaki S",
+          "slug": "najafipashaki-s"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Dean \"If the information structure remained the same, then you would not make any new memories.\" I believe, you misunderstood me (or I was't clear). By informational structure , I'm referring to the \"concept\" that the configuration represents. After repeated occurrences of the same patterns over time, these concepts become imprinted within the structure of the neuron via LTP or LTD. Over even more time, these \"concepts\" (with help from the hippocampus) get",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.0,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2013-11-02 formulation shares conceptual/operational mechanisms (neocortex, patterns) with Heuer Et Al Neocortical Organisation Primates (2025-07-22; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2013-11-02",
+      "source_date_sort": "2013-11-02",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/5de6196b35b34c69ed4a3759d63e1b5ee40fa800/a0366z.md#L5",
+      "target_date": "2025-07-22",
+      "target_date_sort": "2025-07-22",
+      "target_locator": "doi:10.1101/2025.07.17.665410 | Principles of neocortical organisation and behaviour in primates",
+      "target_quote": "Notably, in addition to folding, their thickness and connectivity patterns were almost identical to those of phylogenetically distant Old World monkeys. Combined analyses of MRI and endocasts from 105 primate species indicated that the highly folded neocortex of large New World monkeys evolved independently from a common ancestor with a small, unfolded brain.",
+      "target_url": "https://doi.org/10.1101/2025.07.17.665410",
+      "title": "neocortex, patterns — Principles of neocortical organisation and behaviour in primates",
+      "win_id": "G1-HEUER-ET-AL-NEOC-D02-A01"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 3 certified dated prior-art comparisons with Heuer Et Al Neocortical Organisation Primates across 36 listed-author attributions (3 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 0 medium-partial, 3 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2013-11-02",
+    "earliest_micah_year": 2013,
+    "earliest_target_date": "2025-07-16",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2024-02-15",
+    "latest_target_date": "2025-07-22",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 3,
+    "grade_breakdown": {
+      "weak-partial": 3
+    },
+    "lens4_event_ids": [
+      "lsm-g1-heuer-et-al-neocortical-organisation-pri-20261122"
+    ],
+    "listed_author_edges": 36,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 3
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 3
+  }
+}

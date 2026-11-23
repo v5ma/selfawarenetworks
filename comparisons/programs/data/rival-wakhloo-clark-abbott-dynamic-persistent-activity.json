@@ -1,0 +1,401 @@
+{
+  "authors_linked": [
+    {
+      "name": "Albert J. Wakhloo",
+      "slug": "albert-j-wakhloo"
+    },
+    {
+      "name": "David G. Clark",
+      "slug": "david-g-clark"
+    },
+    {
+      "name": "L. F. Abbott",
+      "slug": "l-f-abbott"
+    }
+  ],
+  "display_code": "wakhloo-clark-abbott-dynamic-persistent-activity",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2017-04-11 and 2022-09-18, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 6 documented mechanisms appearing in Wakhloo Clark Abbott Dynamic Persistent Activity (2025-08-20 to 2025-08-20) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Wakhloo Clark Abbott Dynamic Persistent Activity",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 6 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 6 dated comparisons and 18 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-wakhloo-clark-abbott-dynamic-persistent-activity",
+  "program_name": "Wakhloo Clark Abbott Dynamic Persistent Activity",
+  "rows": [
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Albert J. Wakhloo",
+          "slug": "albert-j-wakhloo"
+        },
+        {
+          "name": "David G. Clark",
+          "slug": "david-g-clark"
+        },
+        {
+          "name": "L. F. Abbott",
+          "slug": "l-f-abbott"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0310z Watch the Neural Array Projection Oscillation Tomography Revision 5 video that I did. https://youtu.be/vixhppNAKPs NAPOT Revision 5 # b0010y and a0310z The original 40 minute audio that inspired note a0310z and the audio file called b0010y can be listened to here: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e64-e77f44a9b2de The b0010ywhisper.md...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WC-A03 in wakhloo-clark-abbott-2025-biorxiv (2025-08-20) x M22-NAPOT (2022-09-18)] Reciprocal neuron-synapse interaction generating dynamic complex spectral modes that sustain prespecified oscillatory memory trajectories; anticipated partially in Blumberg (2022-09-18) via NAPOT phase-wave-differential interference and multi-scale oscilla",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-18",
+      "source_date_sort": "2022-09-18",
+      "source_locator": "lines 1-20",
+      "target_date": "2025-08-20",
+      "target_date_sort": "2025-08-20",
+      "target_locator": "wakhloo-clark-abbott-biorxiv-v1.txt (WC-A03)",
+      "target_quote": "We trace the mechanism of these “persistent oscillations” to an interaction between neurons and synapses that creates complex outlier eigenvalues of the connectivity matrix.",
+      "target_url": "",
+      "title": "Associative synaptic plasticity creates dynamic persistent activity (bioRxiv 2025.08.20.671131)",
+      "win_id": "WCA-DYN-SC-006"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Albert J. Wakhloo",
+          "slug": "albert-j-wakhloo"
+        },
+        {
+          "name": "David G. Clark",
+          "slug": "david-g-clark"
+        },
+        {
+          "name": "L. F. Abbott",
+          "slug": "l-f-abbott"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0310z Watch the Neural Array Projection Oscillation Tomography Revision 5 video that I did. https://youtu.be/vixhppNAKPs NAPOT Revision 5 # b0010y and a0310z The original 40 minute audio that inspired note a0310z and the audio file called b0010y can be listened to here: https://recorder.google.com/6e2e499f-5cf8-4b2f-8e64-e77f44a9b2de The b0010ywhisper.md...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WC-A02 in wakhloo-clark-abbott-2025-biorxiv (2025-08-20) x M22-NAPOT (2022-09-18)] Self-sustained persistent neural oscillations continuing after oscillatory stimulus removal without separate explicit storage or retrieval phases; anticipated partially in Blumberg (2022-09-18) via NAPOT phase-wave-differential interference and multi-scale",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-09-18",
+      "source_date_sort": "2022-09-18",
+      "source_locator": "lines 1-20",
+      "target_date": "2025-08-20",
+      "target_date_sort": "2025-08-20",
+      "target_locator": "wakhloo-clark-abbott-biorxiv-v1.txt (WC-A02)",
+      "target_quote": "In recurrent neural network models with ongoing Hebbian plasticity, we find that, following oscillatory stimulation, neurons continue to oscillate long after the input is removed.",
+      "target_url": "",
+      "title": "Associative synaptic plasticity creates dynamic persistent activity (bioRxiv 2025.08.20.671131)",
+      "win_id": "WCA-DYN-SC-004"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Albert J. Wakhloo",
+          "slug": "albert-j-wakhloo"
+        },
+        {
+          "name": "David G. Clark",
+          "slug": "david-g-clark"
+        },
+        {
+          "name": "L. F. Abbott",
+          "slug": "l-f-abbott"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WC-A03 in wakhloo-clark-abbott-2025-biorxiv (2025-08-20) x M22-PHASE-FIELD (2022-06-08)] Reciprocal neuron-synapse interaction generating dynamic complex spectral modes that sustain prespecified oscillatory memory trajectories; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic arra",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2025-08-20",
+      "target_date_sort": "2025-08-20",
+      "target_locator": "wakhloo-clark-abbott-biorxiv-v1.txt (WC-A03)",
+      "target_quote": "We trace the mechanism of these “persistent oscillations” to an interaction between neurons and synapses that creates complex outlier eigenvalues of the connectivity matrix.",
+      "target_url": "",
+      "title": "Associative synaptic plasticity creates dynamic persistent activity (bioRxiv 2025.08.20.671131)",
+      "win_id": "WCA-DYN-SC-005"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Albert J. Wakhloo",
+          "slug": "albert-j-wakhloo"
+        },
+        {
+          "name": "David G. Clark",
+          "slug": "david-g-clark"
+        },
+        {
+          "name": "L. F. Abbott",
+          "slug": "l-f-abbott"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery) via the Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (synaptic, graph) that map structurally onto the later publication's (2025-08-20) formulation (coupling) through the shared operation: Input (multi-feature sensory or episodic inputs spanning high-dimensional representational channels) -> Transform (associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces) -> Output (robust, compositional, noise-tolerant pattern integration and flexible memory recall).",
+        "ito_alignment": "Input: multi-feature sensory or episodic inputs spanning high-dimensional representational channels -> Transform: associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces -> Output: robust, compositional, noise-tolerant pattern integration and flexible memory recall",
+        "lens_basis": "Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery)",
+        "primary_bridge_id": "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "primary_bridge_name": "Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[WC-A01 in wakhloo-clark-abbott-2025-biorxiv (2025-08-20) x M22-PHASE-FIELD (2022-06-08)] Tightly coupled neuronal and associative synaptic plasticity dynamics creating an active working-memory mechanism beyond static fixed weights; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2025-08-20",
+      "target_date_sort": "2025-08-20",
+      "target_locator": "wakhloo-clark-abbott-biorxiv-v1.txt (WC-A01)",
+      "target_quote": "We study the consequences of this coupling and show that it enables a novel form of working memory.",
+      "target_url": "",
+      "title": "Associative synaptic plasticity creates dynamic persistent activity (bioRxiv 2025.08.20.671131)",
+      "win_id": "WCA-DYN-SC-002"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Albert J. Wakhloo",
+          "slug": "albert-j-wakhloo"
+        },
+        {
+          "name": "David G. Clark",
+          "slug": "david-g-clark"
+        },
+        {
+          "name": "L. F. Abbott",
+          "slug": "l-f-abbott"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "In closing: Consider the Dendrite as an advanced data structure, and consider that dendritic computation may have vast temporal and spatial memory capabilities for setting, presetting, and holding decision making information criteria based on a vast capability to respond in very complex ways to incoming signals by making very tiny changes to its structure...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WC-A01 in wakhloo-clark-abbott-2025-biorxiv (2025-08-20) x M18-DENDRITIC (2018-05-30)] Tightly coupled neuronal and associative synaptic plasticity dynamics creating an active working-memory mechanism beyond static fixed weights; anticipated partially in Blumberg (2018-05-30) via Dendrites as advanced temporal-spatial data structures set",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "p#9979",
+      "target_date": "2025-08-20",
+      "target_date_sort": "2025-08-20",
+      "target_locator": "wakhloo-clark-abbott-biorxiv-v1.txt (WC-A01)",
+      "target_quote": "We study the consequences of this coupling and show that it enables a novel form of working memory.",
+      "target_url": "",
+      "title": "Associative synaptic plasticity creates dynamic persistent activity (bioRxiv 2025.08.20.671131)",
+      "win_id": "WCA-DYN-SC-001"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Albert J. Wakhloo",
+          "slug": "albert-j-wakhloo"
+        },
+        {
+          "name": "David G. Clark",
+          "slug": "david-g-clark"
+        },
+        {
+          "name": "L. F. Abbott",
+          "slug": "l-f-abbott"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WC-A02 in wakhloo-clark-abbott-2025-biorxiv (2025-08-20) x M17-VOLUMETRIC (2017-04-11)] Self-sustained persistent neural oscillations continuing after oscillatory stimulus removal without separate explicit storage or retrieval phases; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-sp",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2025-08-20",
+      "target_date_sort": "2025-08-20",
+      "target_locator": "wakhloo-clark-abbott-biorxiv-v1.txt (WC-A02)",
+      "target_quote": "In recurrent neural network models with ongoing Hebbian plasticity, we find that, following oscillatory stimulation, neurons continue to oscillate long after the input is removed.",
+      "target_url": "",
+      "title": "Associative synaptic plasticity creates dynamic persistent activity (bioRxiv 2025.08.20.671131)",
+      "win_id": "WCA-DYN-SC-003"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 6 certified dated prior-art comparisons with Wakhloo Clark Abbott Dynamic Persistent Activity across 18 listed-author attributions (6 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 1 medium-partial, 5 weak-partial, 0 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2017-04-11",
+    "earliest_micah_year": 2017,
+    "earliest_target_date": "2025-08-20",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2022-09-18",
+    "latest_target_date": "2025-08-20",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 6,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "weak-partial": 5
+    },
+    "lens4_event_ids": [
+      "lsm-wakhloo-clark-abbott-plasticity-20261122"
+    ],
+    "listed_author_edges": 18,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 6
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 6
+  }
+}

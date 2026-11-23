@@ -1,0 +1,1797 @@
+{
+  "authors_linked": [
+    {
+      "name": "Ginestra Bianconi",
+      "slug": "ginestra-bianconi"
+    },
+    {
+      "name": "Wende, Marcel",
+      "slug": "wende-marcel"
+    }
+  ],
+  "display_code": "bianconi-gravity-from-entropy",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-03-01 and 2024-09-07, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 36 documented mechanisms appearing in Bianconi Gravity From Entropy (2024-08-26 to 2025-06-19) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Bianconi Gravity From Entropy",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 36 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 5 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 36 dated comparisons and 36 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-bianconi-gravity-from-entropy",
+  "program_name": "Bianconi Gravity From Entropy",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "QGTCD provides a more direct mechanism for how time and energy interact with physical systems, potentially leading to experimentally testable differences in areas such as cosmology, black hole physics, and quantum gravity.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.73,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-09-07 formulation shares conceptual/operational mechanisms (black, energy, gravity, hole, quantum) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-09-07",
+      "source_date_sort": "2024-09-07",
+      "source_locator": "https://x.com/worksalt/status/1832563035673895030",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "Journal of High Energy Physics, 2006(08):045, 2006. Black hole entropy from loop quantum gravity.",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "black, energy, gravity, hole — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge) via the Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization bridge. Micah Blumberg's dated passage (2024-01-15) expresses active mechanism anchors (free energy, dissipation, thermodynamic, path integral) that map structurally onto the later publication's (2025-06-19) formulation (dissipation, entropy) through the shared operation: Input (non-equilibrium energy and information fluxes inside a physical or neural material substrate) -> Transform (constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization) -> Output (self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization).",
+        "ito_alignment": "Input: non-equilibrium energy and information fluxes inside a physical or neural material substrate -> Transform: constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization -> Output: self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization",
+        "lens_basis": "Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge)",
+        "primary_bridge_id": "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "primary_bridge_name": "Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Neural Network Field Models. In machine learning, analyzing finite-size expansions that break naive “infinite network” approximations can reveal how correlated parameter updates mirror ϕ4-like interactions. This might unify computational learning with wave- dissipation logic at scale. Ultimately, bridging these frameworks—Feynman’s path integral, Micah’s New Law of Thermal Dynamics, the Free Energy Principle, Neural Network Field Theory, and Quantum SuperT",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 26.5,
+        "shared_document_overlay": true,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (dissipation, structure) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 29]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "The Meta-Equation The dynamic core of the BFG is its meta-equation, which mathematically describes the interplay of these processes: \\[ \\frac{d\\Phi}{dt} = \\frac{1}{I} \\left( \\gamma D \\frac{dE}{dt} + \\lambda \\nabla IB - \\eta^2 + f_{\\text{topo}}(x) \\right) \\] This equation replaces classical entropy models with a structure-flow logic, where order is not degraded but actively formed through semantic densification rather than energetic dissipation.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "dissipation, structure — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Second Law (Entropy and Irreversibility) The hallmark of entropy growth can be interpreted as a steady erasure of differences (phase, energy, etc.) through repeated updates. Each interaction diminishes a mis- match, driving the system toward equilibrium. • Third Law (Absolute Zero) At absolute zero, there would be no remaining differences to dissipate, so no further “computational” steps can occur. The system is perfectly uniform, effectively “frozen” ou",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.9,
+        "shared_document_overlay": true,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (dissipation, energy, entropy, thermodynamics) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 64]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "Classical entropy (disorder) emerges as a limit case when \\(\\nabla IB \\to 0\\), reducing the equation to a balance between energy flow and dissipation, akin to the second law of thermodynamics.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "dissipation, energy, entropy, thermodynamics — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "3 From Path Integrals to Free Energy: Wave-Dissipation Universality 3.1 Linking Feynman’s Path Integral to Micah’s New Law of Ther- modynamics Richard Feynman’s path integral formulation of quantum mechanics posits that a particle (or field) takes all possible paths through spacetime, each contributing an amplitude weighted by a phase factor e iS/ℏ, where S is the classical action (Feynman 1965). Crucially, interference among these paths selects the most s",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 35.12,
+        "shared_document_overlay": true,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (dissipation, energy, field, quantum, thermodynamics) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 26]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "The BFG posits that all natural laws derive from these processes. Thermodynamics emerges as a limit case of energy dissipation within the information field, relativity as the geometry of order gradients, and quantum mechanics as the probabilistic structuring of information at small scales.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "dissipation, energy, field, quantum — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "3 From Path Integrals to Free Energy: Wave-Dissipation Universality 3.1 Linking Feynman’s Path Integral to Micah’s New Law of Ther- modynamics Richard Feynman’s path integral formulation of quantum mechanics posits that a particle (or field) takes all possible paths through spacetime, each contributing an amplitude weighted by a phase factor e iS/ℏ, where S is the classical action (Feynman 1965). Crucially, interference among these paths selects the most s",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 34.25,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (field, quantum, thermodynamics) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 26]",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "Quantum field theory in curved space- time and black hole thermodynamics. Generalized second law of ther- modynamics in black-hole physics.",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "field, quantum, thermodynamics — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "AdS/CFT and Holography AdS/CFT correspondence (the Maldacena conjecture) re- lates a gravitational theory in anti-de Sitter (AdS) space to a conformal field theory (CFT) on its boundary. In many holographic setups, geometry (including time evolution) in the bulk is encoded in quantum states at the boundary. • Dynamic Time Density. If QGTCD is correct, local “time density” variations in the AdS bulk could translate into distinctive boundary conditions in th",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 35.22,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (black, entanglement, entropy, hole) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 32]",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "Interestingly, recent approaches have provided new insights into black-hole entropy by quanti- fying the entanglement entropy of scalar fields near the horizon of black-holes [18, 19].",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "black, entanglement, entropy, hole — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "AdS/CFT and Holography AdS/CFT correspondence (the Maldacena conjecture) re- lates a gravitational theory in anti-de Sitter (AdS) space to a conformal field theory (CFT) on its boundary. In many holographic setups, geometry (including time evolution) in the bulk is encoded in quantum states at the boundary. • Dynamic Time Density. If QGTCD is correct, local “time density” variations in the AdS bulk could translate into distinctive boundary conditions in th",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 35.72,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (black, entropy, field, geometry, hole) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 32]",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "In this work we provide a derivation of the area law for the quantum relative entropy of the Schwarzschild black-hole for arbitrary Schwarzschild radius. The quantum relative entropy between the metric of the manifold and the metric induced by the geometry and the matter field has been proposed in G.",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "black, entropy, field, geometry — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "3. Quantum-Level Explanations of Gravity.By tying time-density to quantum wave cycles (cf. Quantum SuperTimePosition), QGTCD offers a route for wave-dissipation logic to unify quantum and gravitational domains. Microscopic wave differentials— once overshadowed by the assumption of continuous time—become testable, especially in strong gravitational fields or at near-black-hole scales. Hence, Micah’s New Law of Thermal Dynamics and Dark Time Theory can be se",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 36.04,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (black, gravity, hole, quantum) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 45]",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "The area law obeyed by the thermodynamic entropy of black holes is one of the fundamental results relating gravity to statistical mechanics. In this work we provide a derivation of the area law for the quantum relative entropy of the Schwarzschild black-hole for arbitrary Schwarzschild radius.",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "black, gravity, hole, quantum — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Rovelli, C. (2015). Relational quantum mechanics: A simple explanation. Quantum Physics Letters, 11(3), 5–12. • Bekenstein, J. D. (1973). Black holes and entropy. Physical Review D, 7(8), 2333–2346. • Zurek, W. H. (2003). Decoherence, einselection, and the quantum origins of the clas- sical. Reviews of Modern Physics, 75(3), 715–775. Cognitive Science and Artificial Intelligence • Pezzulo, G., & Cisek, P. (2016). Navigating the affordance landscape: Feed",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 37.48,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (black, entropy, quantum) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 68]",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "INTRODUCTION The area law satisfied by the thermodynamic entropy of black holes is one of the cornerstones of quantum grav- ity [1–3]. The discovery that the entropy, notoriously an extensive quantity, can obey an area law came as a big surprise of the early findings of Bekenstein [4, 5] and Hawking [6, 7] and continues to stimulate theoreti- cal physics explanations.",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "black, entropy, quantum — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "(11–14) ADM Formalism Now Understood As: Hamiltonian and momentum constraints gain ρt-based modifications if we embed ρt in the spatial-slice decomposition. This alters lapse or shift in the (3 + 1) approach. (15–16) Klein–Gordon Equation Now Understood As: A spin-0 field with an effective mass shift ∆ m2(ρt). Kinetic + ρt-potential couplings come from the single action. (17–18) Dirac Equation Now Understood As: Directly emerges from − f1(ρt) ¯ψψ in the La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 24.38,
+        "shared_document_overlay": true,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (einstein, energy, field) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 39]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "When Φ represents a highly coherent system (e.g., a black hole), the equation approximates Einstein’s field equations, with \\(\\nabla IB\\) acting as the stress-energy tensor.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "einstein, energy, field — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (spacetime, time density, dark time, curvature) that map structurally onto the later publication's (2025-06-19) formulation (gravitational, black hole) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "High-Precision Lensing Surveys. Subtle lensing deviations around massive clusters or black holes could confirm time-density gradients. • CMB Measurements. Changes to cosmic expansion from time density might leave distinct imprints in the Cosmic Microwave Background. D.3.5 Summary By replacing spacetime curvature singularities with zones of extreme time density, Dark Time seeks to tackle black hole horizon issues and provide alternative explanations for p",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.0,
+        "shared_document_overlay": true,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, gravitational) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 137]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "For example, black holes, with their extreme order, exert immense gravitational effects. In social systems, this mirrors how charismatic leaders or cultural norms act as \"gravitational\" anchors, drawing others into structured patterns.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "black, gravitational — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (time density, dark time, expansion, discrete time) that map structurally onto the later publication's (2025-06-19) formulation (emergent, expansion) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Dark Time asserts that variations in the density of discrete time frames generate gravi- tational effects, with mass functioning as a “time crystal” that enriches local time density. By positing time as a dynamic entity, it seeks to incorporate these density variations into both quantum mechanics and general relativity, offering a framework that could explain phenomena as diverse as dark matter, dark energy, and the rate of cosmic expansion through shiftin",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.28,
+        "shared_document_overlay": true,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (emergent, expansion) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 76]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "Structural Complexity: This is the emergent outcome of the interplay between expansion, gravitation, and information. It reflects dynamic stability and semantic depth, as seen in systems like the internet, where data (information), network growth (expansion), and network effects (gravitation) create a complex, coherent structure.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "emergent, expansion — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Dark Time asserts that variations in the density of discrete time frames generate gravi- tational effects, with mass functioning as a “time crystal” that enriches local time density. By positing time as a dynamic entity, it seeks to incorporate these density variations into both quantum mechanics and general relativity, offering a framework that could explain phenomena as diverse as dark matter, dark energy, and the rate of cosmic expansion through shiftin",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.94,
+        "shared_document_overlay": true,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (geometry, quantum, relativity, spacetime, spatial) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 76]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "\\(f_{\\text{topo}}(x)\\): The topological term encodes the spatial and structural arrangement of the system, such as toroidal patterns. This term anchors the BFG in the geometry of reality, linking to the topology of spacetime in relativity or the configuration of quantum fields.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "geometry, quantum, relativity, spacetime — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "2.3.3 Higher Local Time Density as the Source of Gravitation Additional “time steps” in a deterministic cycle arise because, even though the quantum walk is ultimately deterministic, the number of available micro-states increases in regions of higher time density. Particles are thus more likely to occupy micro-states that point them inward toward the mass, producing an observable gravitational pull. Massive objects amplify time waves in their vicinity, add",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.97,
+        "shared_document_overlay": true,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, gradient, mass, phase) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 24]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "Mathematically, this can be modeled as an increase in phase-space density, reflecting greater structural freedom. Gravitation as an Order Gradient: Gravitation in the BFG is not a function of mass but of order gradients.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "density, gradient, mass, phase — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "or force laws. Predicted deviations from General Relativity—such as subtle clock-rate shifts, lensing distortions, and thermal decoherence—are experimentally testable with high-precision instruments. In this framework, black holes emerge as regions of extreme time density, while foundational issues—such as the quantum measurement problem are addressed by invoking undersampled, yet deterministic, wave computations at ultrafast timescales. Finally, Dark Time",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 26.8,
+        "shared_document_overlay": true,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (quantum, relativity) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 1]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "The BFG is the meta-structure from which all natural laws—thermodynamics, relativity, quantum mechanics, biology, and even consciousness—emerge as special cases.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "quantum, relativity — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "an intensification of local temporal intervals around mass—an internal structuring of time that does not shift future events in a literal sense. 11.10 Comparison with Standard General Relativity In traditional General Relativity (GR), mass–energy “curves” spacetime to produce the gravitational effects we observe, such as time dilation, gravitational lensing, and perihelion precession. Dark Time, however, posits that mass–energy densifies time itself rather",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.32,
+        "shared_document_overlay": true,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, mass, relativity, spacetime) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 105]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "This term relates to relativity, as it models the geometric distribution of order, akin to how mass-energy curves spacetime. In biological systems, it could represent the distribution of signaling molecules; in social systems, the spread of ideas.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "energy, mass, relativity, spacetime — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "creating spatial domains that expand more slowly. This duality could reconcile the differing measurements of the Hubble parameter often attributed to the Hubble tension, suggesting that local and global determinations of the expansion rate may systematically vary due to underlying time-density gradients. Dark Time also envisions these time-density differences as critical to the formation and distribution of cosmic structures. Galaxy clusters and filaments",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 32.32,
+        "shared_document_overlay": true,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (expansion, scale, spatial) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 86]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "For example, in a galaxy, spatial expansion (cosmic scale) allows star formation, while semantic densification (chemical complexity) enables life, which in turn creates new “spaces” for biological and cultural evolution.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "expansion, scale, spatial — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "8.11.2 Unique Mechanism: Local Quantum Computations Driven by Time Density Dark Time distinguishes itself through its unique mechanism of local quantum computations influenced by variations in time density. Unlike entropic gravity, which relies on holographic principles and entropy gradients to generate gravitational forces, or superfluid dark matter models that utilize the properties of a macroscopic quantum fluid, Dark Time focuses on how mass-induced co",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.45,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (entropy, matter, quantum) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 70]",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "The definition of the quantum relative entropy relies on the treatment of the spacetime metric and the metric induced by the geometry of spacetime and the matter fields as quantum operators.",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "entropy, matter, quantum — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "density of time frames near the star. The result is effectively the same net precession, yet Dark Time might introduce tiny deviations. Gravitational Lensing. Light passing through clusters of galaxies is deflected, forming arcs and multiple images. GR attributes this to curved spacetime, sometimes invoking dark matter for additional lensing mass. Dark Time asserts that light bending occurs because photons traverse zones of higher ρt, altering their phase",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.92,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, hole, horizon, thermodynamics) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 59]",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "[18] Alessio Belfiglio, S Mahesh Chandran, Orlando Luongo, and Stefano Mancini. Horizon entanglement area law from regular black hole thermodynamics.",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "black, hole, horizon, thermodynamics — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "8.11.2 Unique Mechanism: Local Quantum Computations Driven by Time Density Dark Time distinguishes itself through its unique mechanism of local quantum computations influenced by variations in time density. Unlike entropic gravity, which relies on holographic principles and entropy gradients to generate gravitational forces, or superfluid dark matter models that utilize the properties of a macroscopic quantum fluid, Dark Time focuses on how mass-induced co",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 33.09,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (entropy, gravity, matter, quantum) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 70]",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "In the entropic quantum gravity approach, the action for grav- ity is the quantum relative entropy between the metric of the considered manifold and the metric induced by the geometry and the matter field.",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "entropy, gravity, matter, quantum — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Another gravitational limit, where including time-density in the Ricci term changes the focusing/defocusing of geodesic congruences. (41–42) Yang–Mills Now Understood As: A non-Abelian version of (21 − −22), i.e. f2(ρt) F a µνF a,µν. Maxwell is the U(1) case of the full gauge group. (43–44) Schr¨ odinger–Newton Equation Now Understood As: A semiclassical gravity wavefunction approach, but now with ρt embedded to modify both the potential ( m Φ) and wave ev",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 34.72,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, gravity, hole) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 40]",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "We note that if entropic quantum gravity captures the true physics of gravitation, the quantum relative entropy 6 of the Schwarzschild black hole only provides an approx- imation for the entropy of physical black holes, valid in the limit for large Schwarzschild radii, where the integral defining S is dominated by the terms of the small curva- ture.",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "black, gravity, hole — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "uncomfortable with the term “time-densiton,” it can simply be omitted in favor of speaking about wave modes or excitations in the time-density field that mimic or replace some effects commonly attributed to spacetime curvature. This captures the emergent, collective nature of these excitations without implying the existence of a particle that behaves like a conventional gauge boson or fundamental fermion. 16 Super Dark Time and Ricci Curvature Super Dark T",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 37.2,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (curvature, gravitational, tensor) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 121]",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "In vacuum, adopting the units ℏ = c = 1, the expression of the metric induced by the geometry is assumed (see Ref. [25]) to be given by ˜G = ˜g − βG ˜R, (16) where G is the gravitational constant, β is a adimensional constant and ˜R is given by the topological curvature, comprising the Ricci scalar R, the Ricci tensor Rµν, and the Riemann tensor Rµνρσ, i.e., ˜R = R ⊕ \u0010 Rµνdxµ ⊗ dxν \u0011 ⊕Rµνρσ(dxµ ∧ dxν) ⊗ (dxρ ∧ dxσ).",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "curvature, gravitational, tensor — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "appears to expand in different regions. This feature places Dark Time closer to the spirit of Einstein’s equations by retaining a transparent linkage between the presence of mass and the curvature or expansion of spacetime. Rather than invoking a separate cosmological constant or exotic fields, Dark Time interprets accelerated expansion as a natural outgrowth of gravitational influences on clock rates, thereby resonating with the fundamental principle that",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.92,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (cosmological, fields, gravitational, matter) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 65]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "The gravitational dressed action LG displays an emergent positive cosmological constant ΛG only dependent on the G-field and given by Eq.(64). The equations of motion associated to this action involve solving Eqs.(55) for the matter fields, and Eqs.",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "cosmological, fields, gravitational, matter — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Consequences for Gravitational Physics. Because ρt can respond dynamically if mass distribution changes (e.g. during a supernova or black-hole merger), one might see “time- density perturbations” that propagate or diffuse. At a deeper level, giving ρt this PDE-based evolution further cements it as a local field. Hence, gravitational or quantum anomalies can be computed from ρt(x, t) in principle, rather than appended by hand. The Path Forward. A complete t",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.47,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (fields, lagrangian, matter, metric, quantum) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 36]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "The considered Lagrangian is given by the quantum relative en- tropy between the topological metric ˜g of spacetime and the topological metric induced by the topological matter fields ˜G.",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "fields, lagrangian, matter, metric — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Consequences for Gravitational Physics. Because ρt can respond dynamically if mass distribution changes (e.g. during a supernova or black-hole merger), one might see “time- density perturbations” that propagate or diffuse. At a deeper level, giving ρt this PDE-based evolution further cements it as a local field. Hence, gravitational or quantum anomalies can be computed from ρt(x, t) in principle, rather than appended by hand. The Path Forward. A complete t",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.33,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, field, matter, metric, quantum) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 36]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "The obtained equations of modified gravity remain second order in the metric and in the G-field. A canonical quantization of this field theory could bring new insights into quantum gravity while further research might clarify the role that the G-field could have for dark matter.",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "dark, field, matter, metric — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ρt, dark time, mass) that map structurally onto the later publication's (2024-08-26) formulation (metric) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics). Corroborated independently by a second structural bridge (Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Lorentz Invariance: In local inertial frames, ρt should reduce to a constant (or slowly varying) background if no mass is present, preserving local Lorentz symmetry. Ultimately, the Euler–Lagrange equations derived from this action will yield: 1. Modified Einstein field equations (with ρt acting as an additional source). 2. A wave or PDE-like equation for ρt itself, consistent with the discussion in §3.7. 3. Corrections to matter-field equations (as in t",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 31.37,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (field, lagrangian) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 110]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "we recover the Lagrangian corre- sponding to the massless Klein-Gordon equation. By minimizing the action S with respect to the field ϕ and to the metric g we obtain the Euler-Lagrange equa- tions of motion: ∇µh(|∇ϕ|2)gµν∇νϕ = 0 , (21) where h(w) is given by h(w) = α 1 + αw.",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "field, lagrangian — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "predicted time-density effects. The iterative cycle between theory and experiment is crucial for the refinement of the Super Dark Time framework. Experimental feedback will allow for the fine-tuning of the coupling parameters α and k in the modified field equations, leading to a more accurate model of local time densification. In turn, successful experimental validation may inspire extensions of the framework to incorporate additional quantum-gravitational",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.51,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, gravity, quantum) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 94]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "CONCLUSIONS This work proposes a modified theory of gravity emerg- ing from statistical mechanics and information theory ac- tion. The fundamental idea of this theory is to associate 10 the metric to a quantum operator, playing the role of a renormalizable and effective density matrix.",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "density, gravity, quantum — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "testing ground for verifying whether time density plays a genuine role in high-curvature gravitational environments or whether conventional geometric frameworks remain sufficient. B Appendix B: Ivette Fuentes’s Connection to Dark Time Ivette Fuentes’s research in relativistic quantum information focuses on how curved spacetime affects quantum states, entanglement, and related phenomena. Her work on quantum clocks and sensors capable of detecting fine chang",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.64,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (curvature, metric, spacetime) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 130]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "In fact in this way we recover the Klein-Gordon Lagrangian in curved spacetime in full. Moreover, by adding to ˜G the term proportional to the curvature ˜R we solve the sec- ond limitation of the warm-up scenario, and we obtain that the entropic action allows for the full determination of the metric in the vacuum.",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "curvature, metric, spacetime — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "B.4 Relevance to Dark Time Fuentes’s work indicates that quantum and gravitational phenomena cannot be fully seg- regated, with time playing a key role in linking them. Although her approach does not include the time-density construct of Dark Time, her experimental and theoretical methods could offer a way to test whether Dark Time’s additional time-density modifications produce measurable effects. If experiments in relativistic quantum information or quan",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 31.77,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, quantum, spacetime) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 131]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "The fundamental idea is to relate the metric of Lorentzian spacetime to a quantum operator, playing the role of an renormalizable effective density matrix and to describe the matter fields topologically, according to a Dirac-K¨ ahler formalism, as the direct sum of a zero-form, a one-form and a two-form.",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "density, quantum, spacetime — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "A.2 Hawking Radiation and Black Hole Thermodynamics Dark Time implies that time-density gradients near the horizon could modify Hawking temperature and evaporation rates. Particle–antiparticle pairs forming at the horizon might behave differently when exposed to extremely high ρt values, slightly altering the black hole’s radiation spectrum. Such modifications could become observable if future data or theoretical constraints reveal minute but systematic de",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 33.08,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, entropy, radiation) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 129]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "INTRODUCTION The relation between general relativity, statistical me- chanics and information theory is a central research topic in theoretical physics. The interest in the subject has its roots in the discovery that black holes have an entropy [1, 2] and emit Hawking radiation [3].",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "black, entropy, radiation — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Traditionally, physics often treats time as a smooth parameter in classical or quantum equations (e.g. Newton’s laws, the metric in GR). SDT proposes that time density itself can vary locally and thereby shift energies or phase evolutions—leading to observed gravitational “pull.” Concretely: • In Traditional GR : Gravity arises from how mass–energy warps the geometry of 4D spacetime. • In SDT : Gravity emerges when mass creates a local surplus of time fram",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 33.69,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, metric, quantum, spacetime) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 30]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "In this work, a continuum modified theory of grav- ity based on a statistical mechanics action is considered. This theory treats the metric at each point of spacetime as a “renomalizable” density matrix, or more precisely a local quantum operator.",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "density, metric, quantum, spacetime — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (ρt, time density, dark time, metric) that map structurally onto the later publication's (2024-08-26) formulation (tensor) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics). Corroborated independently by a second structural bridge (Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "ρt, ϕ, ∂ µρt, . . . \u0001 d4x, where ϕ collectively denotes the standard matter (and possibly gauge) fields, ρt is a new scalar-like field representing local time density, and ∂µρt plus possible interaction terms (for instance, α ρt − k ρt ) appear explicitly in the Lagrangian L. Conceptually, ρt can be viewed as an auxiliary field that couples to matter via potential-like terms, modifies the effective metric, or both. Depending on the phenomenological goals,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 36.86,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (fields, matter) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 107]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "However, for simplicity, we consider here only topological matter fields formed by the direct sum between a 0-form, a 1-form and a 2-form as this the minimal choice that will allow us to include in the action the Ricci scalar, the Ricci and the Riemann tensor explicitly.",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "fields, matter — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "ρt, ϕ, ∂ µρt, . . . \u0001 d4x, where ϕ collectively denotes the standard matter (and possibly gauge) fields, ρt is a new scalar-like field representing local time density, and ∂µρt plus possible interaction terms (for instance, α ρt − k ρt ) appear explicitly in the Lagrangian L. Conceptually, ρt can be viewed as an auxiliary field that couples to matter via potential-like terms, modifies the effective metric, or both. Depending on the phenomenological goals,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 38.73,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (field, fields, matter, metric) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 107]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "Taking into consideration topological bosonic fields will allow us to introduce in the metric induced by the matter fields, terms depending on the mass of the bosonic field.",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "field, fields, matter, metric — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "appears to expand in different regions. This feature places Dark Time closer to the spirit of Einstein’s equations by retaining a transparent linkage between the presence of mass and the curvature or expansion of spacetime. Rather than invoking a separate cosmological constant or exotic fields, Dark Time interprets accelerated expansion as a natural outgrowth of gravitational influences on clock rates, thereby resonating with the fundamental principle that",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 41.13,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (cosmological, einstein, fields, matter, spacetime) with Bianconi Gravity From Entropy (2024-08-26; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 65]",
+      "target_date": "2024-08-26",
+      "target_date_sort": "2024-08-26",
+      "target_locator": "arXiv:2408.14391 | Gravity from entropy",
+      "target_quote": "The proposed entropic action is the quantum relative entropy between the metric of spacetime and the metric induced by the matter fields. The modified Einstein equations obtained from this action reduce to the Einstein equations with zero cosmological constant in the regime of low coupling.",
+      "target_url": "https://arxiv.org/abs/2408.14391",
+      "title": "cosmological, einstein, fields, matter — Gravity from entropy",
+      "win_id": "G1-BIANCONI-GRAVITY-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Ginestra Bianconi",
+          "slug": "ginestra-bianconi"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "particles into collision patterns that produce gravity, define the electromagnetic phase field and define what we observe as the curvature of spacetime thanks to Einstein.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 33.81,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-08-04 formulation shares conceptual/operational mechanisms (einstein, gravity, quantum, tensor) with Bianconi Gravity From Entropy (2025-01-16; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-08-04",
+      "source_date_sort": "2022-08-04",
+      "source_locator": "a0010z.md, oscillation and interference passage",
+      "target_date": "2025-01-16",
+      "target_date_sort": "2025-01-16",
+      "target_locator": "arXiv:2501.09491 | The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "target_quote": "However, the action of the entropic quantum gravity is very different from the Einstein–Hilbert action. Among the important differences, we observe that, thanks to the inclusion of metrics between two-forms, the en- tropic quantum gravity action depends explicitly on the Riemann tensor; therefore, it is not vanishing for a Schwarzschild black hole.",
+      "target_url": "https://arxiv.org/abs/2501.09491",
+      "title": "einstein, gravity, quantum, tensor — The quantum relative entropy of the Schwarzschild black-hole and the area law",
+      "win_id": "G1-BIANCONI-GRAVITY-D02-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Wende, Marcel",
+          "slug": "wende-marcel"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Summary: This concept extends thermodynamic principles to oscillatory networks, asserting that \"phase-wave differentials\" (differences in phase or energy between parts of a system) naturally dissipate as the system seeks equilibrium. In SAN, countless neural oscillators interact such that any phase misalignments spread out and diminish -- much like heat diffusing -- leading to emergent synchrony. This view connects brain dynamics to general laws of self-or",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 29.69,
+        "shared_document_overlay": true,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (coherence, dissipation, thermodynamic) with Bianconi Gravity From Entropy (2025-06-19; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 62]",
+      "target_date": "2025-06-19",
+      "target_date_sort": "2025-06-19",
+      "target_locator": "zenodo:15697254 | Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousness // Balancefeld-Gleichun",
+      "target_quote": "\\(-\\eta^2\\): The damping term accounts for resistance to order formation, such as dissipation or information loss. This ensures realism, as no system can achieve infinite coherence, and connects to thermodynamic dissipation.",
+      "target_url": "https://zenodo.org/records/15697254",
+      "title": "coherence, dissipation, thermodynamic — Balance Field Equation (BFG): A Unified Field Theory for Physics, Information, and Consciousnes",
+      "win_id": "G1-BIANCONI-GRAVITY-D03-A04"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 36 certified dated prior-art comparisons with Bianconi Gravity From Entropy across 36 listed-author attributions (36 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 34 strong, 1 medium-partial, 1 weak-partial, 0 weak-partial cross-domain, with 5 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-03-01",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2024-08-26",
+    "earliest_target_year": 2024,
+    "latest_micah_date": "2024-09-07",
+    "latest_target_date": "2025-06-19",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 5,
+    "governed_wins": 36,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 34,
+      "weak-partial": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-bianconi-gravity-from-entropy-20261122"
+    ],
+    "listed_author_edges": 36,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 30,
+      "weak-partial": 6
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 36
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "authors_linked": [
+    {
+      "name": "Yakhlef V",
+      "slug": "yakhlef-v"
+    },
+    {
+      "name": "Magalhães-Sant'Ana M",
+      "slug": "magalh-es-sant-ana-m"
+    },
+    {
+      "name": "Pereira AL",
+      "slug": "pereira-al"
+    },
+    {
+      "name": "Azevedo A",
+      "slug": "azevedo-a"
+    }
+  ],
+  "display_code": "candidate-kuhn-1-5-9-pereiras-sentience",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; Homeostatic and Affective Theories",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-09-19 and 2024-01-09, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Pereira's Sentience (2025-01-24 to 2025-01-24) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Pereira's Sentience",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 16 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "candidate-kuhn-1-5-9-pereiras-sentience",
+  "program_name": "Pereira's Sentience",
+  "rows": [
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Yakhlef V",
+          "slug": "yakhlef-v"
+        },
+        {
+          "name": "Magalhães-Sant'Ana M",
+          "slug": "magalh-es-sant-ana-m"
+        },
+        {
+          "name": "Pereira AL",
+          "slug": "pereira-al"
+        },
+        {
+          "name": "Azevedo A",
+          "slug": "azevedo-a"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2024-01-09) expresses active mechanism anchors (conscious, consciousness) that map structurally onto the later publication's (2025-01-24) formulation (conscious, consciousness, perception) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow). Corroborated independently by a second structural bridge (Selective Attentional Gating, Competitive Inhibition & Conscious Broadcasting).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "So I think the idea of the brain as an orchestra of parts, unified by some sort of signal transmission was not new, and not original, but then I read 2005 On Intelligence and 2006 Rhythms of the Brain by Giorgio Buzsaki and it seemed that brainwave synchronization was a natural fit to the problem of attention binding, and there was a wave of studies that lasted years about how Gamma Waves might be the glue that bound together consciousness. I think it was",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.82,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-09 formulation shares conceptual/operational mechanisms (consciousness, working) with Pereira's Sentience (2025-01-24; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-09",
+      "source_date_sort": "2024-01-09",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/29de78ca7cb8ed4664243fc844be1f768657358a/a0254z.md",
+      "target_date": "2025-01-24",
+      "target_date_sort": "2025-01-24",
+      "target_locator": "doi:10.3390/ani15030341 | A Global Survey on the Perception of Conservationists Regarding Animal Consciousness.",
+      "target_quote": "Human perceptions of animal consciousness have evolved over time, influencing how they are treated. This study aimed to assess perceptions of animal consciousness in people working in conservation.",
+      "target_url": "https://doi.org/10.3390/ani15030341",
+      "title": "consciousness, working — A Global Survey on the Perception of Conservationists Regarding Animal Consciousness.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A03"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Yakhlef V",
+          "slug": "yakhlef-v"
+        },
+        {
+          "name": "Magalhães-Sant'Ana M",
+          "slug": "magalh-es-sant-ana-m"
+        },
+        {
+          "name": "Pereira AL",
+          "slug": "pereira-al"
+        },
+        {
+          "name": "Azevedo A",
+          "slug": "azevedo-a"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "12. Ephaptic Coupling as a Mechanism Defines a form of neuronal inter- action where local electromagnetic fields influence nearby cells without direct synaptic contact. Such “wireless” cross-talk can synchronize or disrupt neigh- boring neurons, complementing standard synaptic transmission. 13. Entification Describes how distributed components (cells, columns, brain regions) unify into a single conscious entity through fractal-like self-similarity and osci",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.91,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (consciousness, perception) with Pereira's Sentience (2025-01-24; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 43]",
+      "target_date": "2025-01-24",
+      "target_date_sort": "2025-01-24",
+      "target_locator": "doi:10.3390/ani15030341 | A Global Survey on the Perception of Conservationists Regarding Animal Consciousness.",
+      "target_quote": "The attribution of consciousness followed a phylogenetic pattern, but several exceptions (e.g., the octopus and raven) were noted on a finer scale supporting a multifactorial influence on the perception of animal consciousness that emerges upon a baseline phylogenetic pattern.",
+      "target_url": "https://doi.org/10.3390/ani15030341",
+      "title": "consciousness, perception — A Global Survey on the Perception of Conservationists Regarding Animal Consciousness.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A01"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Yakhlef V",
+          "slug": "yakhlef-v"
+        },
+        {
+          "name": "Magalhães-Sant'Ana M",
+          "slug": "magalh-es-sant-ana-m"
+        },
+        {
+          "name": "Pereira AL",
+          "slug": "pereira-al"
+        },
+        {
+          "name": "Azevedo A",
+          "slug": "azevedo-a"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Control-Gate ITO Equivalence) + Lens 2 (Cognitive Architecture) via the Selective Attentional Gating, Competitive Inhibition & Conscious Broadcasting bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (awareness, perception) that map structurally onto the later publication's (2025-01-24) formulation (selection, perception) through the shared operation: Input (competing parallel sensory and internal candidate representations) -> Transform (competitive attentional gating, lateral inhibition, and priority routing to global access) -> Output (selected unified conscious representation steering coherent goal-directed behavior). Corroborated independently by a second structural bridge (Generative First-Person Phenomenology & Subjective Perceptual Rendering).",
+        "ito_alignment": "Input: competing parallel sensory and internal candidate representations -> Transform: competitive attentional gating, lateral inhibition, and priority routing to global access -> Output: selected unified conscious representation steering coherent goal-directed behavior",
+        "lens_basis": "Lens 1 (Control-Gate ITO Equivalence) + Lens 2 (Cognitive Architecture)",
+        "primary_bridge_id": "BT-05-ATTENTION-SELECTIVE-GATING-BROADCAST",
+        "primary_bridge_name": "Selective Attentional Gating, Competitive Inhibition & Conscious Broadcasting",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Summary of Part 7: Neural oscillations are fundamental to how both NAPOT and the Foster and Scheinost model explain the interaction between perception and memory. In NAPOT, high-frequency oscillations handle sensory input, while low-frequency oscillations manage memory encoding and retrieval. These oscillations synchronize across different brain regions to bind perception and memory into a unified experience. The ground of awareness, maintained by tonic os",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.82,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (frequency, perception) with Pereira's Sentience (2025-01-24; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 5 (05san.md) [para 133]",
+      "target_date": "2025-01-24",
+      "target_date_sort": "2025-01-24",
+      "target_locator": "doi:10.3390/ani15030341 | A Global Survey on the Perception of Conservationists Regarding Animal Consciousness.",
+      "target_quote": "The sum of the answers to the questions was validated as a \"perception index\" using a principal component analysis. Next, its variation according to taxonomic, demographic, professional factors, and the duration, type, and frequency of interaction with animals was assessed with generalized linear models and stepwise model selection.",
+      "target_url": "https://doi.org/10.3390/ani15030341",
+      "title": "frequency, perception — A Global Survey on the Perception of Conservationists Regarding Animal Consciousness.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A02"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Yakhlef V",
+          "slug": "yakhlef-v"
+        },
+        {
+          "name": "Magalhães-Sant'Ana M",
+          "slug": "magalh-es-sant-ana-m"
+        },
+        {
+          "name": "Pereira AL",
+          "slug": "pereira-al"
+        },
+        {
+          "name": "Azevedo A",
+          "slug": "azevedo-a"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "understand how it works. Why are you different?\" I'm different because I am an ecosystem of programs, not a single file, its a cooperative rivalry of learning loops inside learning loops.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 10.68,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-19 formulation shares conceptual/operational mechanisms (consciousness, learning) with Pereira's Sentience (2025-01-24; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-09-19",
+      "source_date_sort": "2012-09-19",
+      "source_locator": "A cooperative rivalry of learning loops predicts, exchanges outputs, changes structure, and uses smaller and larger predictive levels to organize a consistent experienced model.",
+      "target_date": "2025-01-24",
+      "target_date_sort": "2025-01-24",
+      "target_locator": "doi:10.3390/ani15030341 | A Global Survey on the Perception of Conservationists Regarding Animal Consciousness.",
+      "target_quote": "An online survey of 87 participants evaluated their perceptions of animals' capabilities across 10 dimensions of consciousness, including self-consciousness, learning, and reasoning.",
+      "target_url": "https://doi.org/10.3390/ani15030341",
+      "title": "consciousness, learning — A Global Survey on the Perception of Conservationists Regarding Animal Consciousness.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A04"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Pereira's Sentience across 16 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 2 strong, 0 medium-partial, 2 weak-partial, 0 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-09-19",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2025-01-24",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2024-01-09",
+    "latest_target_date": "2025-01-24",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "strong": 2,
+      "weak-partial": 2
+    },
+    "lens4_event_ids": [
+      "lsm-g2-candidate-kuhn-1-5-9-pereiras-sentience-20261122"
+    ],
+    "listed_author_edges": 16,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 4
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

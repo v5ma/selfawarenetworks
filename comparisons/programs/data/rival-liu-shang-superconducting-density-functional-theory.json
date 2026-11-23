@@ -1,0 +1,753 @@
+{
+  "authors_linked": [
+    {
+      "name": "Zi-Kui Liu",
+      "slug": "zi-kui-liu"
+    },
+    {
+      "name": "Shun-Li Shang",
+      "slug": "shun-li-shang"
+    },
+    {
+      "name": "Zi‐Kui Liu",
+      "slug": "zi-kui-liu-2"
+    },
+    {
+      "name": "Shun‐Li Shang",
+      "slug": "shun-li-shang-2"
+    }
+  ],
+  "display_code": "liu-shang-superconducting-density-functional-theory",
+  "domain_group": "physics",
+  "domains": "materials-science; physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2021-09-17 and 2024-01-15, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 13 documented mechanisms appearing in Liu Shang Superconducting Density Functional Theory (2024-03-31 to 2025-07-01) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Liu Shang Superconducting Density Functional Theory",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 13 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 4 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 13 dated comparisons and 26 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-liu-shang-superconducting-density-functional-theory",
+  "program_name": "Liu Shang Superconducting Density Functional Theory",
+  "rows": [
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "3 From Path Integrals to Free Energy: Wave-Dissipation Universality 3.1 Linking Feynman’s Path Integral to Micah’s New Law of Ther- modynamics Richard Feynman’s path integral formulation of quantum mechanics posits that a particle (or field) takes all possible paths through spacetime, each contributing an amplitude weighted by a phase factor e iS/ℏ, where S is the classical action (Feynman 1965). Crucially, interference among these paths selects the most s",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 15.92,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (energy, wave) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 26]",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "The energy convergence criterion of the electronic self -consistency was at least 10-6 eV/atom for all calculations. Convergence tests regarding k-point meshes and plane wave cutoff energy (Ecut) were performed, and two of them are shown in Figure S 1 for pure element Al using r2SCAN.",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "energy, wave — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A07"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "suggests a complementary viewpoint: rather than literally squeezing through the barrier, the entire lattice responds collectively to an incoming phase disturbance, causing an electron (not necessarily the same one) to emerge on the opposite side. 10.2 Collective Dissipation of Phase-Wave Differences Micah’s New Law of Thermodynamics posits that in any material or network of oscilla- tors, local differences in phase (or energy) systematically dissipate unti",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 24.44,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (lattice, structure) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 52]",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "DFT predicts the pronounced zigzag 1D tunnels as shown in Figure 3, which scatter migrating electrons and holes. The formation of such zigzag 1D tunnels is a direct consequence of lattice symmetry, as As adopts a distorted rhombohedral 12 structure driven by Peierls distortion [68], implying that this heavy zigzag-type lattice is generally unfavorable for superconductivity, as it impedes coherent charge transport.",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "lattice, structure — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "ρt, α, . . . \u0001 , where β(ρt) is the beta function controlling how ρt-related couplings, such as α ρt or the dimensionless ratio ρt/Mpl, run with µ. The ultraviolet behavior is of particular interest, since one needs to see if ρt remains well-defined at high µ or if it requires new degrees of freedom above some scale. There is also an effective field theory window if new physics emerges at a certain threshold, in which case ρt might be a valid low-energy de",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 13.27,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, hole) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 112]",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "Both electron and hole SNCDDs show the formation of SODTs along [110] direction. It can be seen that r2SCAN predicts that the SCC of Al is a ground state with the predicted energy difference ESN = -1.114 meV/atom, while PBE shows that NCC is more stable with ESN = 0.076 meV/atom as shown in Table 1.",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "energy, hole — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A10"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Analogy of Time Frames To visualize how mass “crystallizes” time, it can be helpful to imagine time frames stacked more densely near a massive body. Similar to how a crystal in condensed matter features regularly repeating spatial units, Dark Time suggests a repeating temporal structure—albeit one that manifests as an accumulation of time frames rather than spatial lattices. However, unlike typical “time crystals” in condensed matter physics (which exhibit",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 14.12,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (structure, symmetry) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 19]",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "The adopted 𝑑𝑖𝑛𝑖 values are listed in supplementary Table S 2 along with the representative structure files listed in supplementary Table S 1. 7 For the present materials of study in the second category, we employed a 2×2×1 supercell with 48 atoms for YBCO6 and 52 atoms for YBCO7, where the undistorted, symmetry-unbroken YBCO configurations were built by adjusting the atoms on the Cu2-O2-O3 plane to the same z level.",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "structure, symmetry — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A08"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "mental anomaly. Confirming time-density effects would not only validate a key aspect of the Super Dark Time framework but also provide profound insights into the deep connections between quantum mechanics and gravity, potentially resolving longstanding puzzles such as the nature of dark matter and dark energy. In addition, the experimental challenges posed by these tests are likely to drive advances in precision measurement, quantum control, and astronomic",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.63,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, quantum) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 89]",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "One major theoretical breakthrough in science since the BCS theory is the density functional theory (DFT) [13,14]. DFT provides a solution to the many-body Schrödinger equation in quantum mechanics.",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "density, quantum — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A04"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "1.6.5 Local, Wave-Based Explanation Another defining characteristic of Dark Time is its strong emphasis on local explanations of gravitational and quantum effects. Rather than invoking a global spacetime geometry or a “universal vantage,” Dark Time portrays gravity as an emergent consequence of local interference patterns in the time-density field. Constructive interference increases local time density (strengthening gravitational effects), while destructi",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 21.41,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, waves) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 15]",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "In SCAN metaGGA, the strong correlations within a symmetry -unbroken 4 ground-state wavefunction can show up in approximate DFT as symmetry -broken spin densities or total densities due to soft modes of fluctuations such as spin-density or charge-density waves at nonzero wavevector.",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "density, waves — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A03"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (geometry, manifold) that map structurally onto the later publication's (2024-03-31) formulation (density) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics).",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "14.4 Outlook: Toward a Complete Dark Time Framework By pairing renormalization and effective field theory approaches with resurgence methods and advanced symplectic geometry, Dark Time gains the potential to remain consistent across energy scales, handle divergences, and interpret singularities not merely as breakdowns but as significant features of a b-symplectic manifold. This creates a multi-layered approach that could yield unique predictions about bla",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.5,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (density, energy) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 120]",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "This unique ground state electron density is determined by separating the independent electron kinetic energy and long -range Coulomb interaction energy, thus transforming the many-body electron problem into one involving independent valence electrons 3 with an exchange -correlation (X -C) functional of the electron density and an associated X -C energy [14].",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "density, energy — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A02"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Dynamical-Symmetry ITO) + Lens 2 (Non-Equilibrium Temporal Order) via the Discrete Time-Frame Periodicity & Time-Crystal Symmetry Breaking bridge. Micah Blumberg's dated passage (2022-08-04) expresses active mechanism anchors (time-crystal, crystal, oscillation) that map structurally onto the later publication's (2024-03-31) formulation (crystal) through the shared operation: Input (coupled quantum or phase-field degrees of freedom with discrete temporal dynamics) -> Transform (spontaneous temporal symmetry breaking and phase-locked periodic stabilization) -> Output (persistent non-equilibrium temporal periodicity resilient to local perturbations).",
+        "ito_alignment": "Input: coupled quantum or phase-field degrees of freedom with discrete temporal dynamics -> Transform: spontaneous temporal symmetry breaking and phase-locked periodic stabilization -> Output: persistent non-equilibrium temporal periodicity resilient to local perturbations",
+        "lens_basis": "Lens 1 (Dynamical-Symmetry ITO) + Lens 2 (Non-Equilibrium Temporal Order)",
+        "primary_bridge_id": "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING",
+        "primary_bridge_name": "Discrete Time-Frame Periodicity & Time-Crystal Symmetry Breaking",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "So if energy is mass moving faster, then perhaps mass can be considered slow moving denser spacetime, the slower amplitude makes it easier for groups of oscillators to synchronize and so there are more particle collisions",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.56,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-08-04 formulation shares conceptual/operational mechanisms (crystal, fields) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-04",
+      "source_date_sort": "2022-08-04",
+      "source_locator": "a0010z.md current lines 17-25, 95, and 109; exact time-crystal and compatible-frequency atoms verified in the 2022-08-04 commit",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "[74] also reported the anisotropic 𝑇𝐶 values in single crystal YBCO6.9 using the measured critical fields and the higher 𝑇𝐶 in its a-b plane, supported by the current prediction s with SODTs along the a- axis or b-axis in the a-b plane.",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "crystal, fields — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A11"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2022-07-26) expresses active mechanism anchors (gradient, density, dimension) that map structurally onto the later publication's (2024-03-31) formulation (density) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics).",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "I share these references to Time crystals & new phases of matter that act like there are two time dimensions to point back to my Quantum Gradient Time Dilation theory. Except that I am arguing that all mass is essentially a time crystal, including quantum particle masses. With Time Dilation time is slowest at the center of the gravitational mass where the frequency of mass or in other words where the density of mass is the highest. (evoking a reference to",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.76,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-07-26 formulation shares conceptual/operational mechanisms (density, frequency) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-07-26",
+      "source_date_sort": "2022-07-26",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/92dc0fd1aad256664df035711b58e7d8e273f327/a0253z.md",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "1 where 𝚯𝑫 is the Debye temperature derived from the highest -frequency vibrational mode in the system, 𝒏(𝜺𝑭) the electron density of states (eDOS) at the Fermi level, and 𝝓𝒆𝒍−𝒑𝒉 an effective electron-phonon attractive interaction [27,28].",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "density, frequency — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A05"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "There is no observable mechanism of choice in the mind, it's a self similar structure through out, it does one thing in summary and that is make predictions",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.15,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (predictions, structure) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "M22-0608-C: There is no observable mechanism of choice; the brain is a self-similar structure throughout that makes predictions. Signals travel up the cortex and back down; along the way actions, feelings and thoughts ge",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "Sb transitions to a monoclinic structure around 8 GPa at room temperature and maintains similar 𝑇𝐶 = 3.4 K at 15 GPa [67]. Their superconductivity at ambient pressure has not been reported, and our theoretical predictions probably reflect the local structure resembling the metastable configuration thus with very low 𝑇𝐶; see also the discussion for Au, Ag, and Cu in Section 4.1.",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "predictions, structure — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A12"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0322z Quantum Gradient Time Crystal Dilation Tension Quantum Gradient Time Crystal Dilation, originally named Quantum Gradient Time Dilation, is connected to MOND Modified Newtonian Dynamics, the Tully-Fisher Relation, Galaxy Rotation Lines, Flat Rotation Speed, Mass to Light ratios, and Hubble Tension (which is about variations in the measured rate of cosmic expansion between measurements that differ in terms of the objects measured.) This is a note abou",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 13.32,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (gradient, light) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/4e0cf1ee0975c01dc57182368497d3f0cd864030/a0322z.md",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "However, the explicit differentiation of SCCs and NCCs at 0 K is not fully addressed. A key discovery in the recently developed strongly constrained and appropriately normed (SCAN) meta-generalized-gradient approximation (metaGGA) in DFT [20–23] shields light on this challenging topic.",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "gradient, light — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A09"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi-Kui Liu",
+          "slug": "zi-kui-liu"
+        },
+        {
+          "name": "Shun-Li Shang",
+          "slug": "shun-li-shang"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "- **\"Voxel Address\":** SAN theory doesn't describe traditional, fixed voxel addresses. Instead, the \"location\" of any part of your \"flat sagittal sheet\" within the rendered experience is defined by its position within the overall 3D rendered phase field. This position is determined by the specific configuration of synchronized phase wave differentials from the contributing neural arrays. The \"address\" is implicit in this dynamic, relational pattern. It's m",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 16.71,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (dimensional, field) with Liu Shang Superconducting Density Functional Theory (2024-03-31; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience a",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 10 (10san.md) [para 9]",
+      "target_date": "2024-03-31",
+      "target_date_sort": "2024-03-31",
+      "target_locator": "arXiv:2404.00719 | Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "target_quote": "A more recent development in this field is the observation of room -temperature one -dimensional (1D) superconductivity at 300 K in cleaved highly oriented pyrolytic graphite, which features dense arrays of nearly parallel surface line defects [12].",
+      "target_url": "https://arxiv.org/abs/2404.00719",
+      "title": "dimensional, field — Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D01-A06"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Zi‐Kui Liu",
+          "slug": "zi-kui-liu-2"
+        },
+        {
+          "name": "Shun‐Li Shang",
+          "slug": "shun-li-shang-2"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2021-09-17) expresses active mechanism anchors (density, dimension) that map structurally onto the later publication's (2025-07-01) formulation (density) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics).",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Like it's basically like a series of temporary stage frequencies overlapping but it does it does audio which is like audios like. I mean it does it does a video but it does video like a sort of like 3D sounds. Like it's a higher dimensional sound energy still consisting of temporal spatial patterns, but the density of the complexity of those patterns is multiply and yeah. 02:49 So that's part of what I'm proposing is that this, this visual sounds that the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.15,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2021-09-17 formulation shares conceptual/operational mechanisms (density, dimensional) with Liu Shang Superconducting Density Functional Theory (2025-07-01; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2021-09-17",
+      "source_date_sort": "2021-09-17",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/09b8306fbb54536e20ba1071e91dff0cb8a4770f/b0192y%20ctpr.txt",
+      "target_date": "2025-07-01",
+      "target_date_sort": "2025-07-01",
+      "target_locator": "https://doi.org/10.1088/1361-6668/adedbc | Revealing symmetry-broken superconducting configurations by density functional theory",
+      "target_quote": "This electron–phonon interaction creates straight one-dimensional tunnels (SODTs) for charge density of electrons and/or holes as revealed by the calculations based on density functional theory (DFT).",
+      "target_url": "https://iopscience.iop.org/article/10.1088/1361-6668/adedbc/pdf",
+      "title": "density, dimensional — Revealing symmetry-broken superconducting configurations by density functional theory",
+      "win_id": "G1-LIU-SHANG-SUPERC-D02-A01"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 13 certified dated prior-art comparisons with Liu Shang Superconducting Density Functional Theory across 26 listed-author attributions (13 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 4 medium-partial, 8 weak-partial, 1 weak-partial cross-domain, with 4 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2021-09-17",
+    "earliest_micah_year": 2021,
+    "earliest_target_date": "2024-03-31",
+    "earliest_target_year": 2024,
+    "latest_micah_date": "2024-01-15",
+    "latest_target_date": "2025-07-01",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 4,
+    "governed_wins": 13,
+    "grade_breakdown": {
+      "medium-partial": 4,
+      "weak-partial": 8,
+      "weak-partial-cross-domain": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-liu-shang-superconducting-density-functi-20261122"
+    ],
+    "listed_author_edges": 26,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 12,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 13
+  }
+}

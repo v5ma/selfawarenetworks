@@ -1,0 +1,330 @@
+{
+  "authors_linked": [
+    {
+      "name": "Annie G. Bryant",
+      "slug": "annie-g-bryant"
+    },
+    {
+      "name": "Oliver M. Cliff",
+      "slug": "oliver-m-cliff"
+    },
+    {
+      "name": "James M. Shine",
+      "slug": "james-m-shine"
+    },
+    {
+      "name": "Ben D. Fulcher",
+      "slug": "ben-d-fulcher"
+    },
+    {
+      "name": "Joseph T. Lizier",
+      "slug": "joseph-t-lizier"
+    }
+  ],
+  "display_code": "bryant-cliff-shine-fulcher-lizier-information-time-series",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience; systems-science",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2017-04-11 and 2022-08-02, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Bryant Cliff Shine Fulcher Lizier Information Time Series (2025-05-20 to 2025-05-20) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Bryant Cliff Shine Fulcher Lizier Information Time Series",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 20 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-bryant-cliff-shine-fulcher-lizier-information-time-series",
+  "program_name": "Bryant Cliff Shine Fulcher Lizier Information Time Series",
+  "rows": [
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Annie G. Bryant",
+          "slug": "annie-g-bryant"
+        },
+        {
+          "name": "Oliver M. Cliff",
+          "slug": "oliver-m-cliff"
+        },
+        {
+          "name": "James M. Shine",
+          "slug": "james-m-shine"
+        },
+        {
+          "name": "Ben D. Fulcher",
+          "slug": "ben-d-fulcher"
+        },
+        {
+          "name": "Joseph T. Lizier",
+          "slug": "joseph-t-lizier"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "//////////////////////////////////////////////////////////////////// The Quantum Physics of the Brain & Space The Neurophysics of Self Aware Networks Neurophysics, Quantum Physics, and Astrophysics The whole universe is a fractal of oscillations but its also a finite state system that is self learning and I will argue self aware the number of possible sta...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[BC-A02 in bryant-2025-unifying-v2 (2025-05-20) x M22-A0033-SIT (2022-08-02)] Quantifying directed information flow and dynamical dependence across interacting physical and neural systems via information theory; anticipated partially in Blumberg (2022-08-02) via Pockets of convergent informational order (extropy), mass-energy time dilatio",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-02",
+      "source_date_sort": "2022-08-02",
+      "source_locator": "a0033z.md (convergent information c)",
+      "target_date": "2025-05-20",
+      "target_date_sort": "2025-05-20",
+      "target_locator": "bryant-et-al-unifying-information-time-series-v2.txt (BC-A02)",
+      "target_quote": "Measures derived from information theory, like mutual information and transfer entropy, present powerful and domain-general tools with which researchers can quantify distinctive patterns of information flow and dependence, with particular utility in applications to multivariate time series samples of random variables.",
+      "target_url": "",
+      "title": "Unifying concepts in information-theoretic time-series analysis (Preprint v2, May 20, 2025)",
+      "win_id": "BRY-INF-SC-004"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Annie G. Bryant",
+          "slug": "annie-g-bryant"
+        },
+        {
+          "name": "Oliver M. Cliff",
+          "slug": "oliver-m-cliff"
+        },
+        {
+          "name": "James M. Shine",
+          "slug": "james-m-shine"
+        },
+        {
+          "name": "Ben D. Fulcher",
+          "slug": "ben-d-fulcher"
+        },
+        {
+          "name": "Joseph T. Lizier",
+          "slug": "joseph-t-lizier"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "//////////////////////////////////////////////////////////////////// The Quantum Physics of the Brain & Space The Neurophysics of Self Aware Networks Neurophysics, Quantum Physics, and Astrophysics The whole universe is a fractal of oscillations but its also a finite state system that is self learning and I will argue self aware the number of possible sta...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[BC-A01 in bryant-2025-unifying-v2 (2025-05-20) x M22-A0033-SIT (2022-08-02)] Unifying cross-domain information-theoretic measures of dynamical structure, storage, and coupling across physics and neuroscience; anticipated partially in Blumberg (2022-08-02) via Pockets of convergent informational order (extropy), mass-energy time dilation,",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-02",
+      "source_date_sort": "2022-08-02",
+      "source_locator": "a0033z.md (convergent information c)",
+      "target_date": "2025-05-20",
+      "target_date_sort": "2025-05-20",
+      "target_locator": "bryant-et-al-unifying-information-time-series-v2.txt (BC-A01)",
+      "target_quote": "This work addresses these challenges by unifying key information-theoretic time-series measures through shared semantic definitions, standardized mathematical notation, and cohesive visual representations.",
+      "target_url": "",
+      "title": "Unifying concepts in information-theoretic time-series analysis (Preprint v2, May 20, 2025)",
+      "win_id": "BRY-INF-SC-002"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Annie G. Bryant",
+          "slug": "annie-g-bryant"
+        },
+        {
+          "name": "Oliver M. Cliff",
+          "slug": "oliver-m-cliff"
+        },
+        {
+          "name": "James M. Shine",
+          "slug": "james-m-shine"
+        },
+        {
+          "name": "Ben D. Fulcher",
+          "slug": "ben-d-fulcher"
+        },
+        {
+          "name": "Joseph T. Lizier",
+          "slug": "joseph-t-lizier"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[BC-A01 in bryant-2025-unifying-v2 (2025-05-20) x M22-PHASE-FIELD (2022-06-08)] Unifying cross-domain information-theoretic measures of dynamical structure, storage, and coupling across physics and neuroscience; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic arrays and projected ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2025-05-20",
+      "target_date_sort": "2025-05-20",
+      "target_locator": "bryant-et-al-unifying-information-time-series-v2.txt (BC-A01)",
+      "target_quote": "This work addresses these challenges by unifying key information-theoretic time-series measures through shared semantic definitions, standardized mathematical notation, and cohesive visual representations.",
+      "target_url": "",
+      "title": "Unifying concepts in information-theoretic time-series analysis (Preprint v2, May 20, 2025)",
+      "win_id": "BRY-INF-SC-001"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Annie G. Bryant",
+          "slug": "annie-g-bryant"
+        },
+        {
+          "name": "Oliver M. Cliff",
+          "slug": "oliver-m-cliff"
+        },
+        {
+          "name": "James M. Shine",
+          "slug": "james-m-shine"
+        },
+        {
+          "name": "Ben D. Fulcher",
+          "slug": "ben-d-fulcher"
+        },
+        {
+          "name": "Joseph T. Lizier",
+          "slug": "joseph-t-lizier"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[BC-A02 in bryant-2025-unifying-v2 (2025-05-20) x M17-VOLUMETRIC (2017-04-11)] Quantifying directed information flow and dynamical dependence across interacting physical and neural systems via information theory; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-space matrix with frequen",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2025-05-20",
+      "target_date_sort": "2025-05-20",
+      "target_locator": "bryant-et-al-unifying-information-time-series-v2.txt (BC-A02)",
+      "target_quote": "Measures derived from information theory, like mutual information and transfer entropy, present powerful and domain-general tools with which researchers can quantify distinctive patterns of information flow and dependence, with particular utility in applications to multivariate time series samples of random variables.",
+      "target_url": "",
+      "title": "Unifying concepts in information-theoretic time-series analysis (Preprint v2, May 20, 2025)",
+      "win_id": "BRY-INF-SC-003"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Bryant Cliff Shine Fulcher Lizier Information Time Series across 20 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 0 medium-partial, 4 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2017-04-11",
+    "earliest_micah_year": 2017,
+    "earliest_target_date": "2025-05-20",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2022-08-02",
+    "latest_target_date": "2025-05-20",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "weak-partial": 4
+    },
+    "lens4_event_ids": [
+      "lsm-bryant-cliff-shine-lizier-20261122"
+    ],
+    "listed_author_edges": 20,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 4
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

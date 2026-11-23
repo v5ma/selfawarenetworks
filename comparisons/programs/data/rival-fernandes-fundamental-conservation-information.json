@@ -1,0 +1,978 @@
+{
+  "authors_linked": [
+    {
+      "name": "Miguel Machado Fernandes, Ricardo",
+      "slug": "miguel-machado-fernandes-ricardo"
+    }
+  ],
+  "display_code": "fernandes-fundamental-conservation-information",
+  "domain_group": "hybrid",
+  "domains": "consciousness; physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-03-01 and 2025-08-21, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 19 documented mechanisms appearing in Fernandes Fundamental Conservation Information (2025-02-02 to 2026-02-05) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Fernandes Fundamental Conservation Information",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 19 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 19 dated comparisons and 19 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-fernandes-fundamental-conservation-information",
+  "program_name": "Fernandes Fundamental Conservation Information",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "phase . A single covariant action principle encodes the coherence-conservation law from which familiar—and novel—physical laws follow. Core Fields & Principles Coherence field ψ(x): Complex amplitude whose phase/holonomy yields gauge structure; spatial-temporal coherence gradients",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 27.75,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2025-08-21 formulation shares conceptual/operational mechanisms (conservation, structure) with Fernandes Fundamental Conservation Information (2026-02-05; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-21",
+      "source_date_sort": "2025-08-21",
+      "source_locator": "SIT PDF, pages 25 and 28",
+      "target_date": "2026-02-05",
+      "target_date_sort": "2026-02-05",
+      "target_locator": "zenodo:18489640 | The Fundamental Conservation of Information (FCI)",
+      "target_quote": "It underlies physical laws, biological systems, cognitive processes, and even the structure of matter itself. Unlike traditional conservation laws focused on energy, momentum, or charge , this framework proposes that information cannot be created or destroyed—only transformed, redistributed, or hidden within complex systems.",
+      "target_url": "https://zenodo.org/records/18489640",
+      "title": "conservation, structure — The Fundamental Conservation of Information (FCI)",
+      "win_id": "G1-FERNANDES-FUNDAM-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "2.6 Convergent Implications • Brain as a Dissipative Structure. Both FEP and Micah’s Law highlight that the brain is not an isolated system but a complex, self-organizing network that constantly exchanges signals with the environment. • Emergent Cognition. Minimizing free energy (FEP) and dissipating signals (Micah’s Law) collectively give rise to stable-yet-plastic neuronal configurations —a plausible basis for cognitive function and consciousness. • Mult",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.79,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (emergent, quantum, thermodynamics) with Fernandes Fundamental Conservation Information (2026-02-05; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 25]",
+      "target_date": "2026-02-05",
+      "target_date_sort": "2026-02-05",
+      "target_locator": "zenodo:18489640 | The Fundamental Conservation of Information (FCI)",
+      "target_quote": " Governs cause-and-effect relationships.  Includes physical laws (e.g., thermodynamics, quantum mechanics) and emergent behaviors in complex systems.",
+      "target_url": "https://zenodo.org/records/18489640",
+      "title": "emergent, quantum, thermodynamics — The Fundamental Conservation of Information (FCI)",
+      "win_id": "G1-FERNANDES-FUNDAM-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "particles and forces, including a quantum theory of gravity. Dark Time, on the other hand, remains within the four known dimensions and proposes that gravity emerges from local variations in time density, with mass acting as a “time crystal” that concentrates discrete time frames. Despite these divergent approaches, each theory grapples with how to unify the quantum realm with gravitational dynamics, suggesting that our everyday picture of spacetime may be",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 21.28,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (fields, quantum, spacetime) with Fernandes Fundamental Conservation Information (2026-02-05; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 73]",
+      "target_date": "2026-02-05",
+      "target_date_sort": "2026-02-05",
+      "target_locator": "zenodo:18489640 | The Fundamental Conservation of Information (FCI)",
+      "target_quote": "This includes both physical and non-physical dimensions.  In physics, this could be spacetime or quantum fields.",
+      "target_url": "https://zenodo.org/records/18489640",
+      "title": "fields, quantum, spacetime — The Fundamental Conservation of Information (FCI)",
+      "win_id": "G1-FERNANDES-FUNDAM-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "and light. In so doing, Dark Time aims to unify phenomena traditionally attributed to dark matter and dark energy under a single mechanism grounded in local and large-scale variations in time density. The success of this proposal will ultimately hinge on how accurately it can match the full spectrum of observational data, from precise rotation curve measurements to the distribution of galaxies on the largest observable scales. 8.8 Galactic Filaments and La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.96,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, matter) with Fernandes Fundamental Conservation Information (2025-02-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 67]",
+      "target_date": "2025-02-02",
+      "target_date_sort": "2025-02-02",
+      "target_locator": "zenodo:14789326 | The Fundamental Conservation of Information",
+      "target_quote": "Information serves as the underlying substrate from which energy, matter, and consciousness emerge. This formulation emphasizes that information is never lost but shifts between observable, transformed, and hidden states.",
+      "target_url": "https://zenodo.org/records/14789326",
+      "title": "energy, matter — The Fundamental Conservation of Information",
+      "win_id": "G1-FERNANDES-FUNDAM-D01-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "8.13 Dark Time and Loop Quantum Gravity Super Dark Time and Loop Quantum Gravity (LQG) both work toward reconciling quantum mechanics with general relativity, yet they approach this unification from distinctly different angles. While Loop Quantum Gravity seeks to quantize space itself—treating it as composed of discrete loops or spin networks—Dark Time focuses on local time density as the key to gravitational phenomena. Both theories converge on the notion",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 25.79,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (quantum, relativity) with Fernandes Fundamental Conservation Information (2025-02-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 72]",
+      "target_date": "2025-02-02",
+      "target_date_sort": "2025-02-02",
+      "target_locator": "zenodo:14789326 | The Fundamental Conservation of Information",
+      "target_quote": " Show how quantum mechanics and general relativity emerge from information transformations rather than being treated as separate frameworks.  Bridge gaps between classical and quantum physics through information-based unification.",
+      "target_url": "https://zenodo.org/records/14789326",
+      "title": "quantum, relativity — The Fundamental Conservation of Information",
+      "win_id": "G1-FERNANDES-FUNDAM-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "6 Renormalization and Effective Field Theory Consid- erations A common criticism of new approaches to quantum gravity is that they often lack a framework for managing divergences or preserving symmetry at all scales. In the Super Dark Time framework, we address these issues by treating the time-density field ρt as a dynamical, Lorentz- and diffeomorphism-invariant scalar field that couples to both matter and gravity. Incorporating ρt within the standard fo",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 26.9,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dark, energy, matter) with Fernandes Fundamental Conservation Information (2025-02-02; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 44]",
+      "target_date": "2025-02-02",
+      "target_date_sort": "2025-02-02",
+      "target_locator": "zenodo:14789326 | The Fundamental Conservation of Information",
+      "target_quote": "Connecting Conservation of Information to the Standard Model The Standard Model of physics does not explicitly include information as a conserved quantity. Incorporating the FCI could:  Provide deeper explanations for dark matter and dark energy interactions.",
+      "target_url": "https://zenodo.org/records/14789326",
+      "title": "dark, energy, matter — The Fundamental Conservation of Information",
+      "win_id": "G1-FERNANDES-FUNDAM-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Consequences for Gravitational Physics. Because ρt can respond dynamically if mass distribution changes (e.g. during a supernova or black-hole merger), one might see “time- density perturbations” that propagate or diffuse. At a deeper level, giving ρt this PDE-based evolution further cements it as a local field. Hence, gravitational or quantum anomalies can be computed from ρt(x, t) in principle, rather than appended by hand. The Path Forward. A complete t",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 27.04,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (black, fields, hole, quantum) with Fernandes Fundamental Conservation Information (2025-02-02; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 36]",
+      "target_date": "2025-02-02",
+      "target_date_sort": "2025-02-02",
+      "target_locator": "zenodo:14789326 | The Fundamental Conservation of Information",
+      "target_quote": "2.2 Entropy as Information Redistribution 3. Implications of the Theory  Physics: Resolves paradoxes in quantum mechanics, such as the black hole information paradox, and suggests the existence of hidden information fields beyond observable physics.",
+      "target_url": "https://zenodo.org/records/14789326",
+      "title": "black, fields, hole, quantum — The Fundamental Conservation of Information",
+      "win_id": "G1-FERNANDES-FUNDAM-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "we observe as rising entropy, illustrating how global outcomes can result from accumulated local wave-like processes. 9.1.4 Summary Micah’s New Law of Thermodynamics recasts entropy growth as a wave-based, incremental procedure of difference reduction. It offers a deeper integration between gravitational and thermodynamic phenomena by positing that time density governs how swiftly wave-based interactions unfold. In doing so, it aims to bridge classical the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 29.2,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (quantum, thermodynamics) with Fernandes Fundamental Conservation Information (2025-02-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 81]",
+      "target_date": "2025-02-02",
+      "target_date_sort": "2025-02-02",
+      "target_locator": "zenodo:14789326 | The Fundamental Conservation of Information",
+      "target_quote": "Through a combination of mathematical models, computational simulations, and experimental data , this work presents compelling evidence that phenomena in quantum mechanics, DNA mutations, thermodynamics, and neural processing are governed by a deeper, universal information conservation rule.",
+      "target_url": "https://zenodo.org/records/14789326",
+      "title": "quantum, thermodynamics — The Fundamental Conservation of Information",
+      "win_id": "G1-FERNANDES-FUNDAM-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the medium-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Formoredetails,youcanreadthefull articlehere.Ifyouneedspecificinsightsfromthearticle,letmeknow! 4o Yousaid:Therearethreearticlesonthetopic ChatGPTsaid: ChatGPTSearched2sites IfoundthreearticlesaboutQuantumGradientTimeCrystal Dilation(QGTCD)onSVGN.io.ThesearticlescollectivelyexplainhowQGTCDproposesthatquantummassbehavesasatimecrystal,dilatingtimeatthequantumscaletocreategravitybyincreasingtimeframes.ThistheorysuggeststhatincorporatingtimedensityintotheSchrö",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "score": 17.38,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-09-01 formulation shares conceptual/operational mechanisms (dilation, dynamics, relativity) with Fernandes Fundamental Conservation Information (2026-02-05; zenodo-oa-fulltext); graded medium-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "medium-partial",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-09-01",
+      "source_date_sort": "2023-09-01",
+      "source_locator": "QGTCD Quantum Gravity Time Crystal Dynamics (SIT, 2023) [para 10]",
+      "target_date": "2026-02-05",
+      "target_date_sort": "2026-02-05",
+      "target_locator": "zenodo:18489640 | The Fundamental Conservation of Information (FCI)",
+      "target_quote": " Not an independent entity but a measure of informational transformation.  Flows differently depending on the dynamics and medium (e.g., time dilation in relativity).",
+      "target_url": "https://zenodo.org/records/18489640",
+      "title": "dilation, dynamics, relativity — The Fundamental Conservation of Information (FCI)",
+      "win_id": "G1-FERNANDES-FUNDAM-D02-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "precise timing of tonic patterns by priming specific circuits and preventing un- restrained excitation. This interplay between brief perturbations and enduring rhythms supports a process of predictive modeling, where phase wave differ- entials mark mismatches between expected and actual inputs, prompting the system to recalibrate its tonic baseline. In line with Tse’s discussion of free will, these rapid, criterion-based shifts offer openings for the brain",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.26,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (consciousness, modeling) with Fernandes Fundamental Conservation Information (2026-02-05; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 25]",
+      "target_date": "2026-02-05",
+      "target_date_sort": "2026-02-05",
+      "target_locator": "zenodo:18489640 | The Fundamental Conservation of Information (FCI)",
+      "target_quote": "Consciousness and free will emerge when recursive self-modeling enables localized agency within this continuum, allowing systems to influence their own state transitions.",
+      "target_url": "https://zenodo.org/records/18489640",
+      "title": "consciousness, modeling — The Fundamental Conservation of Information (FCI)",
+      "win_id": "G1-FERNANDES-FUNDAM-D02-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "B.5 Deterministic, Wave-Based Consciousness Friston, K. (2010) “The free-energy principle: a unified brain theory?” Na- ture Reviews Neuroscience, 11(2), 127–138. Frames brain function as deterministic inference minimizing free energy, echoing SAN’s phase realignment mechanisms. Acebr´ on, J. A. et al. (2005)“The Kuramoto model: a simple paradigm for synchronization phenomena,” Reviews of Modern Physics , 77(1), 137–185. Provides mathematical proof that co",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.17,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (cognitive, energy) with Fernandes Fundamental Conservation Information (2025-02-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 49]",
+      "target_date": "2025-02-02",
+      "target_date_sort": "2025-02-02",
+      "target_locator": "zenodo:14789326 | The Fundamental Conservation of Information",
+      "target_quote": "Theoretical Framework (Defining the Fundamental Conservation of Information) 1. Core Hypothesis The Fundamental Conservation of Information (FCI) states: \"Information cannot be created or destroyed—only transformed, redistributed, or encoded into different states.\" This principle suggests that all physical, biological, and cognitive systems operate under strict information conservation laws, similar to energy conservation but at a more fundamental level.",
+      "target_url": "https://zenodo.org/records/14789326",
+      "title": "cognitive, energy — The Fundamental Conservation of Information",
+      "win_id": "G1-FERNANDES-FUNDAM-D01-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "# New Equation for Quantum Gradient Time Crystal Dilation published on social media! I managed to use ChatGPT with the Wolfram plugin to generate a series of equations that reflect my Unified Field Theory called Quantum Gradient Time Crystal Dilation. Here are some links to pictures of the equations as well as descriptions on Twitter (these were also published on my Instagram and ): \"Quantum Gradient Time Crystal Dilation theory addresses a lot of phenomen",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 14.85,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-06-04 formulation shares conceptual/operational mechanisms (conservation, energy) with Fernandes Fundamental Conservation Information (2025-02-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-06-04",
+      "source_date_sort": "2023-06-04",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/f86205cedaab8ad9aa352a27730e6e525483112e/00changelog.md",
+      "target_date": "2025-02-02",
+      "target_date_sort": "2025-02-02",
+      "target_locator": "zenodo:14789326 | The Fundamental Conservation of Information",
+      "target_quote": "Unlike traditional conservation laws focused on energy, momentum, or charge, this theory suggests that information itself cannot be created or destroyed—only transformed, redistributed, or hidden within complex systems.",
+      "target_url": "https://zenodo.org/records/14789326",
+      "title": "conservation, energy — The Fundamental Conservation of Information",
+      "win_id": "G1-FERNANDES-FUNDAM-D01-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "that percolate through the oscillation cell assemblies with something like infinite summation but basically infinite summation as a neural network would accomplish it through coincident detection, and this tempo-spatial rendering of action potential sequences in phase",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.84,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-07-07 formulation shares conceptual/operational mechanisms (emergent, potential) with Fernandes Fundamental Conservation Information (2026-02-05; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-07-07",
+      "source_date_sort": "2022-07-07",
+      "source_locator": "Time-varying phase sequences can be treated as continuous functions whose informational structure changes across cells, assemblies, and measurement scales.",
+      "target_date": "2026-02-05",
+      "target_date_sort": "2026-02-05",
+      "target_locator": "zenodo:18489640 | The Fundamental Conservation of Information (FCI)",
+      "target_quote": "Entropy does not eliminate agency but disperses and reintegrates it, sustaining an infinite potential for novelty, adaptation, and emergent complexity.\" For further discussion or collaboration, please feel free to contact: ricardo_fernandes_@outlook.pt The Foundations of Reality: Beyond Information and Mathematics 1.",
+      "target_url": "https://zenodo.org/records/18489640",
+      "title": "emergent, potential — The Fundamental Conservation of Information (FCI)",
+      "win_id": "G1-FERNANDES-FUNDAM-D02-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Let me know when you're ready to proceed with Part 8, where we will explore predictive coding and future modeling in NAPOT and how it aligns with the wave-based models of brain function.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 13.9,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (modeling, predictive) with Fernandes Fundamental Conservation Information (2026-02-05; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 5 (05san.md) [para 134]",
+      "target_date": "2026-02-05",
+      "target_date_sort": "2026-02-05",
+      "target_locator": "zenodo:18489640 | The Fundamental Conservation of Information (FCI)",
+      "target_quote": "Designed for scientists, researchers, and decision-makers , this manual offers predictive modeling strategies, system optimization techniques, and real-world applications.",
+      "target_url": "https://zenodo.org/records/18489640",
+      "title": "modeling, predictive — The Fundamental Conservation of Information (FCI)",
+      "win_id": "G1-FERNANDES-FUNDAM-D02-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (conscious, consciousness) that map structurally onto the later publication's (2026-02-05) formulation (experience, conscious, consciousness) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Self Aware Networks maps consciousness to action-potential timing (phase-wave coefficients) that any laptop can simulate step-by-step. If code can mirror the brain exactly, our reasoning never outruns Turing power—so Penrose’s “mind-beyond-machine” proof collapses.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.47,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (consciousness, potential) with Fernandes Fundamental Conservation Information (2026-02-05; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 13 (13san.md) [para 23]",
+      "target_date": "2026-02-05",
+      "target_date_sort": "2026-02-05",
+      "target_locator": "zenodo:18489640 | The Fundamental Conservation of Information (FCI)",
+      "target_quote": " In AI and computing, algorithms and models perform interpretative functions. 2.6 Consciousness (The \"Observer\" or \"Meta-Layer\") Definition: Consciousness may act as an integrative process that not only experiences information but potentially influences how information collapses from potential states into actualized reality.",
+      "target_url": "https://zenodo.org/records/18489640",
+      "title": "consciousness, potential — The Fundamental Conservation of Information (FCI)",
+      "win_id": "G1-FERNANDES-FUNDAM-D02-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Summary of Part 5: The concept of temporal hierarchies in brain processing, as discussed by Foster and Scheinost, aligns closely with the hierarchical structure of neural arrays proposed in NAPOT. In both models, lower-level arrays or brain regions handle immediate sensory processing, while higher-level arrays manage more abstract cognitive functions like memory and prediction. The synchronization of waves across these hierarchical levels allows the brain",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.03,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (cognitive, perception) with Fernandes Fundamental Conservation Information (2026-02-05; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 5 (05san.md) [para 96]",
+      "target_date": "2026-02-05",
+      "target_date_sort": "2026-02-05",
+      "target_locator": "zenodo:18489640 | The Fundamental Conservation of Information (FCI)",
+      "target_quote": " Essential for transforming data into meaningful knowledge.  In cognitive systems, this is represented by perception, language, and semantic processing.",
+      "target_url": "https://zenodo.org/records/18489640",
+      "title": "cognitive, perception — The Fundamental Conservation of Information (FCI)",
+      "win_id": "G1-FERNANDES-FUNDAM-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Micah Blumberg's Super Information Theory (SIT) posits that \"quantum coherence\" drives phenomena including consciousness, explaining cognitive emergence and neural synchronization as \"states of predictive synchronization\". SIT's \"coherence--decoherence informational duality\" and \"local time-density (ρt​)\" could offer a fundamental physical basis for NAPOT's oscillatory dynamics and timing. Information is seen as an \"active, evolutionary attractor guiding..",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.23,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (cognitive, quantum) with Fernandes Fundamental Conservation Information (2025-02-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 9 (09san.md) [para 42]",
+      "target_date": "2025-02-02",
+      "target_date_sort": "2025-02-02",
+      "target_locator": "zenodo:14789326 | The Fundamental Conservation of Information",
+      "target_quote": "Proposed Enhancements:  Glossary of Symbols: Add an appendix explaining all mathematical notations (e.g., , , etc.) for interdisciplinary clarity.  Conceptual Flowchart: Include a diagram illustrating how information is conserved, transformed, and redistributed across systems (quantum, biological, cognitive).",
+      "target_url": "https://zenodo.org/records/14789326",
+      "title": "cognitive, quantum — The Fundamental Conservation of Information",
+      "win_id": "G1-FERNANDES-FUNDAM-D01-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "1. Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11(2), 127--138. (Articulates a theory that the brain is a self-organizing prediction machine that tries to minimize entropy/free-energy. It underpins a deterministic view of brain function, where even consciousness is the brain's lawful attempt to align internal models with the world -- echoing the idea of phase realignments minimizing \"mismatch.\")",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 23.98,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (consciousness, energy, entropy) with Fernandes Fundamental Conservation Information (2025-02-02; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 20]",
+      "target_date": "2025-02-02",
+      "target_date_sort": "2025-02-02",
+      "target_locator": "zenodo:14789326 | The Fundamental Conservation of Information",
+      "target_quote": "The implications of this principle are profound, with the potential to redefine our understanding of energy, time, entropy, biological evolution, consciousness, and even the nature of reality itself.",
+      "target_url": "https://zenodo.org/records/14789326",
+      "title": "consciousness, energy, entropy — The Fundamental Conservation of Information",
+      "win_id": "G1-FERNANDES-FUNDAM-D01-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Miguel Machado Fernandes, Ricardo",
+          "slug": "miguel-machado-fernandes-ricardo"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (conscious, consciousness) that map structurally onto the later publication's (2025-02-02) formulation (experience, conscious, consciousness) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Micah Blumberg's Super Information Theory (SIT) posits that \"quantum coherence\" drives phenomena including consciousness, explaining cognitive emergence and neural synchronization as \"states of predictive synchronization\". SIT's \"coherence--decoherence informational duality\" and \"local time-density (ρt​)\" could offer a fundamental physical basis for NAPOT's oscillatory dynamics and timing. Information is seen as an \"active, evolutionary attractor guiding..",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 24.81,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (cognitive, consciousness) with Fernandes Fundamental Conservation Information (2025-02-02; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 9 (09san.md) [para 42]",
+      "target_date": "2025-02-02",
+      "target_date_sort": "2025-02-02",
+      "target_locator": "zenodo:14789326 | The Fundamental Conservation of Information",
+      "target_quote": " Cognition and Consciousness: If the brain operates as a perfect information processor, cognitive processes may extend beyond the physical brain into conserved information fields, explaining phenomena such as intuition and near-death experiences.",
+      "target_url": "https://zenodo.org/records/14789326",
+      "title": "cognitive, consciousness — The Fundamental Conservation of Information",
+      "win_id": "G1-FERNANDES-FUNDAM-D01-A05"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 19 certified dated prior-art comparisons with Fernandes Fundamental Conservation Information across 19 listed-author attributions (19 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 5 strong, 3 medium-partial, 11 weak-partial, 0 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-03-01",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2025-02-02",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2025-08-21",
+    "latest_target_date": "2026-02-05",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 19,
+    "grade_breakdown": {
+      "medium-partial": 3,
+      "strong": 5,
+      "weak-partial": 11
+    },
+    "lens4_event_ids": [
+      "lsm-g1-fernandes-fundamental-conservation-infor-20261122"
+    ],
+    "listed_author_edges": 19,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 5,
+      "weak-partial": 13
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 19
+  }
+}

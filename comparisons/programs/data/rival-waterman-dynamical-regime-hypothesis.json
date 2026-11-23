@@ -1,0 +1,251 @@
+{
+  "authors_linked": [
+    {
+      "name": "Alastair Waterman",
+      "slug": "alastair-waterman"
+    }
+  ],
+  "display_code": "waterman-dynamical-regime-hypothesis",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2011-08-24 and 2022-08-02, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Waterman Dynamical Regime Hypothesis (2026-03-20 to 2026-03-25) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Waterman Dynamical Regime Hypothesis",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 4 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-waterman-dynamical-regime-hypothesis",
+  "program_name": "Waterman Dynamical Regime Hypothesis",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alastair Waterman",
+          "slug": "alastair-waterman"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "//////////////////////////////////////////////////////////////////// The Quantum Physics of the Brain & Space The Neurophysics of Self Aware Networks Neurophysics, Quantum Physics, and Astrophysics The whole universe is a fractal of oscillations but its also a finite state system that is self learning and I will argue self aware the number of possible sta...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WD-A01 in waterman-drh-2026 (2026-03-25) x M22-A0033-SIT (2022-08-02)] Consciousness characterized as a non-equilibrium thermodynamic dynamical regime defined by how multi-scale neural trajectories evolve rather than a static state; anticipated partially in Blumberg (2022-08-02) via Pockets of convergent informational order (extropy), ma",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-02",
+      "source_date_sort": "2022-08-02",
+      "source_locator": "a0033z.md (convergent information c)",
+      "target_date": "2026-03-25",
+      "target_date_sort": "2026-03-25",
+      "target_locator": "waterman-dynamical-regime-2026-zenodo-19323463.txt (WD-A01)",
+      "target_quote": "We propose a fundamentally different characterisation: consciousness is a dynamical regime — a mode of operation defined not by what a system is, but by how it changes.",
+      "target_url": "",
+      "title": "Consciousness as a Dynamical Regime: Towards a Thermodynamic Theory of Phenomenal Transitions (Zenodo 19323463)",
+      "win_id": "WAT-DRH-SC-002"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alastair Waterman",
+          "slug": "alastair-waterman"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (phase, oscillation, wave) that map structurally onto the later publication's (2026-03-20) formulation (oscillation) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[WD-A02 in waterman-decoupling-2026 (2026-03-20) x M22-PHASE-FIELD (2022-06-08)] Global cross-frequency organization and hierarchical decoupling of neural oscillations governing spontaneous perceptual switching and phenomenal transitions; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dend",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2026-03-20",
+      "target_date_sort": "2026-03-20",
+      "target_locator": "waterman-hierarchical-decoupling-2026-zenodo-19235313.txt (WD-A02)",
+      "target_quote": "Current accounts emphasise either slow accumulation of adaptation in stimulus-driven pathways or top-down attentional fluctuations, but neither provides a principled account of what happens to the global organisation of neural oscillations in the seconds preceding a switch.",
+      "target_url": "",
+      "title": "Hierarchical Decoupling of Neural Oscillations Precedes Perceptual Switching (Zenodo 19235313)",
+      "win_id": "WAT-DRH-SC-004"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alastair Waterman",
+          "slug": "alastair-waterman"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WD-A02 in waterman-decoupling-2026 (2026-03-20) x M17-VOLUMETRIC (2017-04-11)] Global cross-frequency organization and hierarchical decoupling of neural oscillations governing spontaneous perceptual switching and phenomenal transitions; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2026-03-20",
+      "target_date_sort": "2026-03-20",
+      "target_locator": "waterman-hierarchical-decoupling-2026-zenodo-19235313.txt (WD-A02)",
+      "target_quote": "Current accounts emphasise either slow accumulation of adaptation in stimulus-driven pathways or top-down attentional fluctuations, but neither provides a principled account of what happens to the global organisation of neural oscillations in the seconds preceding a switch.",
+      "target_url": "",
+      "title": "Hierarchical Decoupling of Neural Oscillations Precedes Perceptual Switching (Zenodo 19235313)",
+      "win_id": "WAT-DRH-SC-003"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Alastair Waterman",
+          "slug": "alastair-waterman"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The experience impression is like... You have an experience, and... That experience creates like a... Like... Let's say your brain is like photo paper. So it creates an image... That's recorded in electrical impulses... And that... And that... That are going into the soft... Into the sensitive brain tissue... And that... That brain tissue is now expecting...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[WD-A01 in waterman-drh-2026 (2026-03-25) x M11-SELF-PRED (2011-08-24)] Consciousness characterized as a non-equilibrium thermodynamic dynamical regime defined by how multi-scale neural trajectories evolve rather than a static state; anticipated partially in Blumberg (2011-08-24) via Predictive neocortical self-pattern and dynamic world-m",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "lines 143-180",
+      "target_date": "2026-03-25",
+      "target_date_sort": "2026-03-25",
+      "target_locator": "waterman-dynamical-regime-2026-zenodo-19323463.txt (WD-A01)",
+      "target_quote": "We propose a fundamentally different characterisation: consciousness is a dynamical regime — a mode of operation defined not by what a system is, but by how it changes.",
+      "target_url": "",
+      "title": "Consciousness as a Dynamical Regime: Towards a Thermodynamic Theory of Phenomenal Transitions (Zenodo 19323463)",
+      "win_id": "WAT-DRH-SC-001"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Waterman Dynamical Regime Hypothesis across 4 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 1 medium-partial, 3 weak-partial, 0 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2011-08-24",
+    "earliest_micah_year": 2011,
+    "earliest_target_date": "2026-03-20",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2022-08-02",
+    "latest_target_date": "2026-03-25",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "weak-partial": 3
+    },
+    "lens4_event_ids": [
+      "lsm-waterman-dynamical-regime-20261122"
+    ],
+    "listed_author_edges": 4,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 4
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

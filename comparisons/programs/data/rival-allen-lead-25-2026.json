@@ -1,0 +1,159 @@
+{
+  "authors_linked": [
+    {
+      "name": "Suzuki K",
+      "slug": "suzuki-k"
+    }
+  ],
+  "display_code": "allen-lead-25-2026",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience; consciousness",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-03-01 and 2022-03-01, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 2 documented mechanisms appearing in Allen Lead #25: One computational framework for hallucinations, psychedelic experience and ego (2026-05-20 to 2026-05-20) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Allen Lead #25: One computational framework for hallucinations, psychedelic experience and ego",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 2 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 2 dated comparisons and 2 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-allen-lead-25-2026",
+  "program_name": "Allen Lead #25: One computational framework for hallucinations, psychedelic experience and ego",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Suzuki K",
+          "slug": "suzuki-k"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (geometric, manifold, metric) that map structurally onto the later publication's (2026-05-20) formulation (geometric, metric) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics).",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "This definition positions NDCA as the mathematical and computational framework within SAN that describes how the dynamic, oscillatory, attractor-based neural activity translates into the specific geometric and semantic properties (shape, orientation, scale, location, identity) of the perceived object on the screen. The reference to \"manifolds in cortical column brain activity\" is particularly significant. It suggests that perceived shapes are represented a",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 13.05,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (geometric, patterns) with Allen Lead #25: One computational framework for hallucinations, psychedelic experience and ego (2026-05-20; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 38]",
+      "target_date": "2026-05-20",
+      "target_date_sort": "2026-05-20",
+      "target_locator": "doi:10.3389/fpsyg.2026.1819038 | Beyond the reducing valve: towards a computational neurophenomenology of altered states via deep neural networks.",
+      "target_quote": "The framework reformulates Huxley's 'reducing valve' metaphor: relaxation of C's constraint exposes normally hidden 'effective causes,' producing psychedelic geometric patterns; G's prior governs hallucinatory veridicality; and D instantiates Perceptual Reality Monitoring.",
+      "target_url": "https://doi.org/10.3389/fpsyg.2026.1819038",
+      "title": "geometric, patterns — Beyond the reducing valve: towards a computational neurophenomenology of altered states via dee",
+      "win_id": "G2-ALLEN-LEAD-25-20-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Suzuki K",
+          "slug": "suzuki-k"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "This concept of temporal hierarchies fits perfectly with NAPOT, which proposes that neural arrays operate at multiple levels of abstraction. Higher-level neural arrays are responsible for integrating complex patterns and generating internal representations, while lower-level arrays focus on immediate sensory processing. The interaction across these temporal levels is crucial for forming a cohesive internal model of reality​​.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.12,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (representations, sensory) with Allen Lead #25: One computational framework for hallucinations, psychedelic experience and ego (2026-05-20; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 5 (05san.md) [para 85]",
+      "target_date": "2026-05-20",
+      "target_date_sort": "2026-05-20",
+      "target_locator": "doi:10.3389/fpsyg.2026.1819038 | Beyond the reducing valve: towards a computational neurophenomenology of altered states via deep neural networks.",
+      "target_quote": "This paper proposes the C × G × D framework, drawing on three functional roles in deep neural networks: a Classifier (C) that extracts features from sensory input, a Generator (G) that synthesises internal representations, and a Discriminator (D) that judges whether a representation originates externally or internally.",
+      "target_url": "https://doi.org/10.3389/fpsyg.2026.1819038",
+      "title": "representations, sensory — Beyond the reducing valve: towards a computational neurophenomenology of altered states via dee",
+      "win_id": "G2-ALLEN-LEAD-25-20-D01-A01"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 2 certified dated prior-art comparisons with Allen Lead #25: One computational framework for hallucinations, psychedelic experience and ego across 2 listed-author attributions (2 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 1 medium-partial, 1 weak-partial, 0 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-03-01",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2026-05-20",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2022-03-01",
+    "latest_target_date": "2026-05-20",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 2,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "weak-partial": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g2-allen-lead-25-2026-20261122"
+    ],
+    "listed_author_edges": 2,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 2
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 2
+  }
+}

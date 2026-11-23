@@ -1,0 +1,186 @@
+{
+  "authors_linked": [
+    {
+      "name": "Moncoucy L",
+      "slug": "moncoucy-l"
+    },
+    {
+      "name": "Dołęga K",
+      "slug": "do-ga-k"
+    },
+    {
+      "name": "Tallon-Baudry C",
+      "slug": "tallon-baudry-c"
+    },
+    {
+      "name": "Cleeremans A",
+      "slug": "cleeremans-a"
+    }
+  ],
+  "display_code": "candidate-kuhn-1-10-4-cleeremans-and-tallon-baudrys-functional-value",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; Phylogenetic Evolution",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2015-01-11 and 2021-07-16, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 2 documented mechanisms appearing in Cleeremans and Tallon-Baudry's Functional Value (2021-05-18 to 2025-11-13) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Cleeremans and Tallon-Baudry's Functional Value",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 2 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 2 dated comparisons and 6 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "candidate-kuhn-1-10-4-cleeremans-and-tallon-baudrys-functional-value",
+  "program_name": "Cleeremans and Tallon-Baudry's Functional Value",
+  "rows": [
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Moncoucy L",
+          "slug": "moncoucy-l"
+        },
+        {
+          "name": "Dołęga K",
+          "slug": "do-ga-k"
+        },
+        {
+          "name": "Tallon-Baudry C",
+          "slug": "tallon-baudry-c"
+        },
+        {
+          "name": "Cleeremans A",
+          "slug": "cleeremans-a"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2021-07-16) expresses active mechanism anchors (subjective, conscious, consciousness) that map structurally onto the later publication's (2025-11-13) formulation (subjective, experience, conscious, consciousness) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "I want to argue a possibility, and that is that the subjective process is part of the process, both passive and active self aware cognitive processes. The act of observing reality > part of the process of the organism choosing actions, consciousness having a role in a place.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 23.04,
+        "shared_document_overlay": true,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2021-07-16 formulation shares conceptual/operational mechanisms (consciousness, subjective) with Cleeremans and Tallon-Baudry's Functional Value (2025-11-13; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2021-07-16",
+      "source_date_sort": "2021-07-16",
+      "source_locator": "https://x.com/worksalt/status/1416163749044670465",
+      "target_date": "2025-11-13",
+      "target_date_sort": "2025-11-13",
+      "target_locator": "doi:10.1098/rstb.2024.0303 | The value of consciousness: experiences worth having.",
+      "target_quote": "Importantly, we argue that the intrinsic value of subjective experience cannot always be reduced to other forms of extrinsic values, because subjective value can act not only as a driver of behaviour, but also as a target for behaviour.This article is part of the theme issue 'Evolutionary functions of consciousness'.",
+      "target_url": "https://doi.org/10.1098/rstb.2024.0303",
+      "title": "consciousness, subjective — The value of consciousness: experiences worth having.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Cleeremans A",
+          "slug": "cleeremans-a"
+        },
+        {
+          "name": "Tallon-Baudry C",
+          "slug": "tallon-baudry-c"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2015-01-11) expresses active mechanism anchors (qualia, conscious, consciousness, feeling) that map structurally onto the later publication's (2021-05-18) formulation (experience, conscious, consciousness) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "a0468z ctpr Jan 11, 2015 (Cereb, Cortex, qualia, neuron) Micah Blumberg \"Otherwise, consciousness would rather manifest itself preferentially in the cerebellum than in the cortex because the first has a bigger number of neurons. However, this is not the case.\" Micah Blumberg conscious feeling is conscious feeling, it's a sense of feeling, this is a concept you have to use your intuition to understand 1 hr · Like Micah Blumberg instead of the phrase conscio",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 14.3,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2015-01-11 formulation shares conceptual/operational mechanisms (conscious, consciousness) with Cleeremans and Tallon-Baudry's Functional Value (2021-05-18; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2015-01-11",
+      "source_date_sort": "2015-01-11",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/b62b428a164c6a8246642f86f92662d4e5e94eb8/a0468z%20ctpr.txt",
+      "target_date": "2021-05-18",
+      "target_date_sort": "2021-05-18",
+      "target_locator": "doi:10.31234/osf.io/jfpw2 | The function of consciousness is to generate experience",
+      "target_quote": "In this sense, conscious experience functions as a mental currency of sorts, which not only endows mental states with intrinsic value, but also makes it possible for conscious agents to compare vastly different experiences in a common subject-centered space — a feature that readily explains the fact that consciousness is unified.",
+      "target_url": "https://doi.org/10.31234/osf.io/jfpw2",
+      "title": "conscious, consciousness — The function of consciousness is to generate experience",
+      "win_id": "G2-CANDIDATE-KUHN-1-D02-A01"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 2 certified dated prior-art comparisons with Cleeremans and Tallon-Baudry's Functional Value across 6 listed-author attributions (2 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 2 medium-partial, 0 weak-partial, 0 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2015-01-11",
+    "earliest_micah_year": 2015,
+    "earliest_target_date": "2021-05-18",
+    "earliest_target_year": 2021,
+    "latest_micah_date": "2021-07-16",
+    "latest_target_date": "2025-11-13",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 2,
+    "grade_breakdown": {
+      "medium-partial": 2
+    },
+    "lens4_event_ids": [
+      "lsm-g2-candidate-kuhn-1-10-4-cleeremans-and-tal-20261122"
+    ],
+    "listed_author_edges": 6,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 2
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 2
+  }
+}

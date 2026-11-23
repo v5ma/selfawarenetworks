@@ -1,0 +1,303 @@
+{
+  "authors_linked": [
+    {
+      "name": "Weir RS",
+      "slug": "weir-rs"
+    }
+  ],
+  "display_code": "candidate-kuhn-2-3-van-inwagens-christian-materialism-and-resurrection-of-the-dead",
+  "domain_group": "hybrid",
+  "domains": "consciousness; Non-Reductive Physicalism",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2010-11-18 and 2021-07-16, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 5 documented mechanisms appearing in van Inwagen's Christian Materialism and Resurrection of the Dead (2021-09-18 to 2021-09-18) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before van Inwagen's Christian Materialism and Resurrection of the Dead",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 5 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 5 dated comparisons and 5 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "candidate-kuhn-2-3-van-inwagens-christian-materialism-and-resurrection-of-the-dead",
+  "program_name": "van Inwagen's Christian Materialism and Resurrection of the Dead",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Weir RS",
+          "slug": "weir-rs"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2021-07-16) expresses active mechanism anchors (subjective, conscious, consciousness) that map structurally onto the later publication's (2021-09-18) formulation (conscious, consciousness) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "I want to argue a possibility, and that is that the subjective process is part of the process, both passive and active self aware cognitive processes. The act of observing reality > part of the process of the organism choosing actions, consciousness having a role in a place.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.39,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2021-07-16 formulation shares conceptual/operational mechanisms (consciousness, place) with van Inwagen's Christian Materialism and Resurrection of the Dead (2021-09-18; europepmc-oa-fulltext-xml); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2021-07-16",
+      "source_date_sort": "2021-07-16",
+      "source_locator": "https://x.com/worksalt/status/1416163749044670465",
+      "target_date": "2021-09-18",
+      "target_date_sort": "2021-09-18",
+      "target_locator": "doi:10.1007/s11153-021-09811-0 | Christian physicalism and the biblical argument for dualism.",
+      "target_quote": "The recently inaugurated research programme on the ‘meta-problem of consciousness’ is also highly relevant (cf. This is the problem of explaining why we think that there is a problem about the idea that consciousness is physical in the first place.",
+      "target_url": "https://doi.org/10.1007/s11153-021-09811-0",
+      "title": "consciousness, place — Christian physicalism and the biblical argument for dualism.",
+      "win_id": "G2-CANDIDATE-KUHN-2-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Weir RS",
+          "slug": "weir-rs"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "By the time I got to the book On Intelligence by Jeff Hawkins in 2005 I was running with the idea that consciousness had to be some sort of temporally active sequence of spatial patterns, as if the Matrix film in 1999 was actually about your brain being a computer that simulated reality. By the time I learned about 3D Semantic Segmentation in Or Litani’s talk “Deep Learning for “Exotic” Data Like 3D Meshes and Point-Clouds January 31, 2019” I had the idea",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.36,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2019-01-31 formulation shares conceptual/operational mechanisms (fields, patterns) with van Inwagen's Christian Materialism and Resurrection of the Dead (2021-09-18; europepmc-oa-fulltext-xml); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2019-01-31",
+      "source_date_sort": "2019-01-31",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/5360f6414909a2474129b2140ee0dc3112c93b6b/a0615z.md#L9",
+      "target_date": "2021-09-18",
+      "target_date_sort": "2021-09-18",
+      "target_locator": "doi:10.1007/s11153-021-09811-0 | Christian physicalism and the biblical argument for dualism.",
+      "target_quote": "In this respect, Cartesian souls differ markedly from physical things as we usually conceive of them, whether they are human bodies, clouds of nanorobots, or patterns in the fundamental physical fields.",
+      "target_url": "https://doi.org/10.1007/s11153-021-09811-0",
+      "title": "fields, patterns — Christian physicalism and the biblical argument for dualism.",
+      "win_id": "G2-CANDIDATE-KUHN-2-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Weir RS",
+          "slug": "weir-rs"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Note created on Sep 20, 2012 (graph, dendrite, synap, cereb, cortex) electrons transmitting their shape This was a series of replies to my neurons pass their shape theory from a long time ago. I stripped out everything except my own comments. Originally written and shared under a fictional alias The electron particle/wave in the neural pulse, has all the same primary properties of a brainwave, including phase, amplitude, hz, look, regardless of how you mea",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.05,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-20 formulation shares conceptual/operational mechanisms (particle, wave) with van Inwagen's Christian Materialism and Resurrection of the Dead (2021-09-18; europepmc-oa-fulltext-xml); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-09-20",
+      "source_date_sort": "2012-09-20",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/37da575ba33f85cef4239295be161066d8d39f4c/a0123z%20ctpr.txt",
+      "target_date": "2021-09-18",
+      "target_date_sort": "2021-09-18",
+      "target_locator": "doi:10.1007/s11153-021-09811-0 | Christian physicalism and the biblical argument for dualism.",
+      "target_quote": "Physicalists, by contrast, limit their ontology to the kind of things described by physics. 1) lists some examples.) This revision in our understanding of ‘materialism’ developed gradually over the course of the nineteenth and twentieth centuries, in response to the increasing tendency of physicists to describe reality in terms of entities such as overlapping fields, volumeless particles and wave-particle dualities, that do not fit comfortably within tradi",
+      "target_url": "https://doi.org/10.1007/s11153-021-09811-0",
+      "title": "particle, wave — Christian physicalism and the biblical argument for dualism.",
+      "win_id": "G2-CANDIDATE-KUHN-2-D01-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Weir RS",
+          "slug": "weir-rs"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "```text questions about self and artificial minds -> four connected fields of study -> Neo Mind Cycle as a living feedback experiment -> deliberate frame doubling under LSD-25 -> rough pattern, smooth field, light, darkness, flashes, and images -> the beginning of time experienced as the ever-present now -> the realization that a physical brain constructs distinctions, time, and a world -> three l",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.05,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2011-03-01 formulation shares conceptual/operational mechanisms (field, pattern) with van Inwagen's Christian Materialism and Resurrection of the Dead (2021-09-18; europepmc-oa-fulltext-xml); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-03-01",
+      "source_date_sort": "2011-03-01",
+      "source_locator": "PREFACE-FRACTAL-SMOOTH-EVER-PRESENT-NOW-THREE-VOWS-SOURCE-SPINE-B2-1626.md char 512..912",
+      "target_date": "2021-09-18",
+      "target_date_sort": "2021-09-18",
+      "target_locator": "doi:10.1007/s11153-021-09811-0 | Christian physicalism and the biblical argument for dualism.",
+      "target_quote": "First, as I mentioned in section three, they might argue that in fact, the sense of ‘body’ used in passages like Matthew 10:28 and 2 Corinthians 5:8 is so broad that it will apply to any physical realization of a person or soul—even to a pattern of excitations in the electron field.",
+      "target_url": "https://doi.org/10.1007/s11153-021-09811-0",
+      "title": "field, pattern — Christian physicalism and the biblical argument for dualism.",
+      "win_id": "G2-CANDIDATE-KUHN-2-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Weir RS",
+          "slug": "weir-rs"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the universe is a concept, and like the concept of 100 percent, it is all encompassing, it is the one, the non-dual, that which is beyond distinction for distinction divides one into two. this wholeness is something that the \"I\" might observe, as the symbol of \"I\" points to the observer, and thus transcends all other symbols that are not of the observer. In math they have reduced infinity to a single symbol, the symbol of I is perhaps such a symbol, whethe",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.69,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2010-11-18 formulation shares conceptual/operational mechanisms (matter, place) with van Inwagen's Christian Materialism and Resurrection of the Dead (2021-09-18; europepmc-oa-fulltext-xml); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2010-11-18",
+      "source_date_sort": "2010-11-18",
+      "source_locator": "https://www.facebook.com/photo/?fbid=173090032717652&set=a.103297033030286",
+      "target_date": "2021-09-18",
+      "target_date_sort": "2021-09-18",
+      "target_locator": "doi:10.1007/s11153-021-09811-0 | Christian physicalism and the biblical argument for dualism.",
+      "target_quote": "But this is clearly a matter of significance, given the important place of physicalism in recent philosophy. In what follows my principal concern is whether the passages Cooper identifies imply dualism in the sense that contradicts physicalism.",
+      "target_url": "https://doi.org/10.1007/s11153-021-09811-0",
+      "title": "matter, place — Christian physicalism and the biblical argument for dualism.",
+      "win_id": "G2-CANDIDATE-KUHN-2-D01-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 5 certified dated prior-art comparisons with van Inwagen's Christian Materialism and Resurrection of the Dead across 5 listed-author attributions (5 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 1 medium-partial, 4 weak-partial, 0 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2010-11-18",
+    "earliest_micah_year": 2010,
+    "earliest_target_date": "2021-09-18",
+    "earliest_target_year": 2021,
+    "latest_micah_date": "2021-07-16",
+    "latest_target_date": "2021-09-18",
+    "latest_target_year": 2021
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 5,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "weak-partial": 4
+    },
+    "lens4_event_ids": [
+      "lsm-g2-candidate-kuhn-2-3-van-inwagens-christia-20261122"
+    ],
+    "listed_author_edges": 5,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 5
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 5
+  }
+}

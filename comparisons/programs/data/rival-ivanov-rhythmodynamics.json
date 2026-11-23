@@ -1,0 +1,323 @@
+{
+  "authors_linked": [
+    {
+      "name": "Yuri N. Ivanov",
+      "slug": "yuri-n-ivanov"
+    },
+    {
+      "name": "Anton V. Pinchuk",
+      "slug": "anton-v-pinchuk"
+    }
+  ],
+  "display_code": "ivanov-rhythmodynamics",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-06-16T00:45:05-07:00 strict public Git and 2022-07-26T15:22:20-07:00 strict public Git, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 5 documented mechanisms appearing in Ivanov Rhythmodynamics (2024-10-30 to 2024-10-30) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Ivanov Rhythmodynamics",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 0 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 5 dated comparisons and 10 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-ivanov-rhythmodynamics",
+  "program_name": "Ivanov Rhythmodynamics",
+  "rows": [
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Yuri N. Ivanov",
+          "slug": "yuri-n-ivanov"
+        },
+        {
+          "name": "Anton V. Pinchuk",
+          "slug": "anton-v-pinchuk"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-target-document; target-author-earlier-on-broader-oscillatory-matter-substrate",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The relative increase in the rate (frequency or density) of mass creates the gravitational effect, because it warps space like a time crystal, in one particular direction (towards the center of mass)",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "bounded-mechanism-partial-pass; narrative-patent-pass; document-relative-chronology-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-07-26T15:22:20-07:00 strict public Git",
+      "source_date_sort": "2022-07-26",
+      "source_locator": "",
+      "target_date": "2024-10-30",
+      "target_date_sort": "2024-10-30",
+      "target_locator": "ivanov-pinchuk-2024-part1.txt lines 16-34 and 217-295",
+      "target_quote": "",
+      "target_url": "https://doi.org/10.4236/jhepgc.2024.104107",
+      "title": "Gravitation and the Unified Nature of All Kinds of Motion in Non-Empty Space (Part 1)",
+      "win_id": "IVANOV-DOCWIN-2024-S2-OSCILLATORY-MATTER"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Yuri N. Ivanov",
+          "slug": "yuri-n-ivanov"
+        },
+        {
+          "name": "Anton V. Pinchuk",
+          "slug": "anton-v-pinchuk"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Held at medium-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-target-document; target-author-earlier-on-bounded-clock-gradient-to-free-fall-chain",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-private-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "soliton gravity waves a charge build up represents increasing mass, heat, magnetic polarisation, time acceleration (phase increase), or time dilation (inhibition), inhibition is expanding space, white phase increase is contracting space, so time exits in inhibited",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "mechanism-partial-pass; narrative-patent-pass; document-relative-chronology-pass",
+      "red_team_grade": "medium-private-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-16T00:45:05-07:00 strict public Git",
+      "source_date_sort": "2022-06-16",
+      "source_locator": "",
+      "target_date": "2024-10-30",
+      "target_date_sort": "2024-10-30",
+      "target_locator": "ivanov-pinchuk-2024-part1.txt lines 49-61, 117-161, 272-295, and 591-618",
+      "target_quote": "",
+      "target_url": "https://doi.org/10.4236/jhepgc.2024.104107",
+      "title": "Gravitation and the Unified Nature of All Kinds of Motion in Non-Empty Space (Part 1)",
+      "win_id": "IVANOV-DOCWIN-2024-S5-CLOCK-GRADIENT-FREE-FALL"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Yuri N. Ivanov",
+          "slug": "yuri-n-ivanov"
+        },
+        {
+          "name": "Anton V. Pinchuk",
+          "slug": "anton-v-pinchuk"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-target-document; target-author-earlier-on-bounded-frequency-coordinate-geometry-chain",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial-private-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "mass where the frequency of mass or in other words where the density of mass is the highest. (evoking a reference to the inverted relationship between magnitude (space time amplitude) / frequency of mass (the density",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "conceptual-equivalence-partial-pass; narrative-patent-pass; document-relative-chronology-pass",
+      "red_team_grade": "weak-partial-private-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-16T00:45:05-07:00 strict public Git",
+      "source_date_sort": "2022-06-16",
+      "source_locator": "",
+      "target_date": "2024-10-30",
+      "target_date_sort": "2024-10-30",
+      "target_locator": "ivanov-pinchuk-2024-part1.txt lines 43-55 and 208-220",
+      "target_quote": "",
+      "target_url": "https://doi.org/10.4236/jhepgc.2024.104107",
+      "title": "Gravitation and the Unified Nature of All Kinds of Motion in Non-Empty Space (Part 1)",
+      "win_id": "IVANOV-DOCWIN-2024-S4-TIME-RATE-GEOMETRY"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Yuri N. Ivanov",
+          "slug": "yuri-n-ivanov"
+        },
+        {
+          "name": "Anton V. Pinchuk",
+          "slug": "anton-v-pinchuk"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Held at medium-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-target-document; target-author-earlier-on-bounded-mismatch-to-motion-operator",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-to-medium-private-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "soliton gravity waves a charge build up represents increasing mass, heat, magnetic polarisation, time acceleration (phase increase), or time dilation (inhibition), inhibition is expanding space, white phase increase is contracting space, so time exits in inhibited",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; causal-interface-sequence-pass; document-relative-chronology-pass",
+      "red_team_grade": "weak-to-medium-private-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-16T00:45:05-07:00 strict public Git",
+      "source_date_sort": "2022-06-16",
+      "source_locator": "",
+      "target_date": "2024-10-30",
+      "target_date_sort": "2024-10-30",
+      "target_locator": "ivanov-pinchuk-2024-part1.txt lines 272-295 and 591-614",
+      "target_quote": "",
+      "target_url": "https://doi.org/10.4236/jhepgc.2024.104107",
+      "title": "Gravitation and the Unified Nature of All Kinds of Motion in Non-Empty Space (Part 1)",
+      "win_id": "IVANOV-DOCWIN-2024-S3-FREQUENCY-DIFFERENCE-MOTION"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Yuri N. Ivanov",
+          "slug": "yuri-n-ivanov"
+        },
+        {
+          "name": "Anton V. Pinchuk",
+          "slug": "anton-v-pinchuk"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Held at medium-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-earlier-than-2024-target-document; target-author-earlier-on-bounded-program-atom",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-private-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "soliton gravity waves a charge build up represents increasing mass, heat, magnetic polarisation, time acceleration (phase increase), or time dilation (inhibition), inhibition is expanding space, white phase increase is contracting space, so time exits in inhibited",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-pass; document-relative-chronology-pass",
+      "red_team_grade": "medium-private-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-16T00:45:05-07:00 strict public Git",
+      "source_date_sort": "2022-06-16",
+      "source_locator": "",
+      "target_date": "2024-10-30",
+      "target_date_sort": "2024-10-30",
+      "target_locator": "ivanov-pinchuk-2024-part1.txt lines 43-55, 125-161, and 217-220",
+      "target_quote": "",
+      "target_url": "https://doi.org/10.4236/jhepgc.2024.104107",
+      "title": "Gravitation and the Unified Nature of All Kinds of Motion in Non-Empty Space (Part 1)",
+      "win_id": "IVANOV-DOCWIN-2024-S1-RATE-GRADIENT-GRAVITY"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 5 certified dated prior-art comparisons with Ivanov Rhythmodynamics across 10 listed-author attributions (0 verified both-prose side-by-side pairs; 5 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 3 medium-partial, 2 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-06-16T00:45:05-07:00 strict public Git",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2024-10-30",
+    "earliest_target_year": 2024,
+    "latest_micah_date": "2022-07-26T15:22:20-07:00 strict public Git",
+    "latest_target_date": "2024-10-30",
+    "latest_target_year": 2024
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 5,
+    "grade_breakdown": {
+      "medium-partial": 3,
+      "weak-partial": 2
+    },
+    "lens4_event_ids": [
+      "ivanov-rhythmodynamics-longitudinal-1998-2024-20260718"
+    ],
+    "listed_author_edges": 10,
+    "open_source_gated_passages": 5,
+    "red_team_grade_breakdown": {
+      "medium-partial": 3,
+      "weak-partial": 2
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 0
+  }
+}

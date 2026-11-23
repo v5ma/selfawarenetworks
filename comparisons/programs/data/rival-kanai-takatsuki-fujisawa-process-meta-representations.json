@@ -1,0 +1,296 @@
+{
+  "authors_linked": [
+    {
+      "name": "Ryota Kanai",
+      "slug": "ryota-kanai"
+    },
+    {
+      "name": "Ryota Takatsuki",
+      "slug": "ryota-takatsuki"
+    },
+    {
+      "name": "Ippei Fujisawa",
+      "slug": "ippei-fujisawa"
+    }
+  ],
+  "display_code": "kanai-takatsuki-fujisawa-process-meta-representations",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2010-01-01 and 2024-01-04, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Kanai Takatsuki Fujisawa Process Meta Representations (2025-02-06 to 2025-02-06) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Kanai Takatsuki Fujisawa Process Meta Representations",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 12 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-kanai-takatsuki-fujisawa-process-meta-representations",
+  "program_name": "Kanai Takatsuki Fujisawa Process Meta Representations",
+  "rows": [
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Ryota Kanai",
+          "slug": "ryota-kanai"
+        },
+        {
+          "name": "Ryota Takatsuki",
+          "slug": "ryota-takatsuki"
+        },
+        {
+          "name": "Ippei Fujisawa",
+          "slug": "ippei-fujisawa"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "C9.5 Cortical column representing patterns C9.5.1 Neural Pathways and Information Flow & the Role of Cortical Columns C9.5.2 Understanding the Cortico-Cortical-Thalamic Network Dynamics C9.5.3 Cortical Columns: The Pillars of Neural Correlations, Pattern Representation & Computational Rendering of Reality C9.5.4 Functional Connectivity: Connecting Brain areas for Task Depending Functionality C9.5.5 The Impact of Phase Wave Differentials on Cortical Columns",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.45,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-04 formulation shares conceptual/operational mechanisms (representation, representations) with Kanai Takatsuki Fujisawa Process Meta Representations (2025-02-06; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-04",
+      "source_date_sort": "2024-01-04",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/733c5ca88d55791aa01ced0843792f38fee91f50/SAOv9.md",
+      "target_date": "2025-02-06",
+      "target_date_sort": "2025-02-06",
+      "target_locator": "https://doi.org/10.1093/nc/niaf038 | Meta-representations as representations of processes",
+      "target_quote": "For example, a simplistic interpretation of meta-representation as a representation of representation makes the notion rather trivial and ubiquitous. Here, as a foundational step toward understanding meta-representations, we propose a refined computational interpretation that focuses specifically on process-level representations.",
+      "target_url": "https://academic.oup.com/nc/article-pdf/2025/1/niaf038/65039309/niaf038.pdf",
+      "title": "representation, representations — Meta-representations as representations of processes",
+      "win_id": "G1-KANAI-TAKATSUKI--D01-A03"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Ryota Kanai",
+          "slug": "ryota-kanai"
+        },
+        {
+          "name": "Ryota Takatsuki",
+          "slug": "ryota-takatsuki"
+        },
+        {
+          "name": "Ippei Fujisawa",
+          "slug": "ippei-fujisawa"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0417z \"The key thought about where the observer is inside the mind, where is the person inside who is watching the brain's representations, is to think of the flow of information in the brain as a series of arrays\" https://github.com/v5ma/selfawarenetworks/blob/main/a0417z.md We know, when we talk about your brain, we can talk about the neural correlates of your experience, when you look at Jack Gallants work, he has someone sit in an MRI machine and the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.84,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-08-05 formulation shares conceptual/operational mechanisms (consciousness, representations) with Kanai Takatsuki Fujisawa Process Meta Representations (2025-02-06; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-05",
+      "source_date_sort": "2022-08-05",
+      "source_locator": "receiver state weights and transforms incoming change before projection",
+      "target_date": "2025-02-06",
+      "target_date_sort": "2025-02-06",
+      "target_locator": "https://doi.org/10.1093/nc/niaf038 | Meta-representations as representations of processes",
+      "target_quote": "In this study, we explore how the notion of meta-representations in higher-order theories (HOT) of consciousness can be implemented in computational models.",
+      "target_url": "https://academic.oup.com/nc/article-pdf/2025/1/niaf038/65039309/niaf038.pdf",
+      "title": "consciousness, representations — Meta-representations as representations of processes",
+      "win_id": "G1-KANAI-TAKATSUKI--D01-A04"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Ryota Kanai",
+          "slug": "ryota-kanai"
+        },
+        {
+          "name": "Ryota Takatsuki",
+          "slug": "ryota-takatsuki"
+        },
+        {
+          "name": "Ippei Fujisawa",
+          "slug": "ippei-fujisawa"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The computational linchpin for translating these dynamic oscillatory processes into perceived shapes appears to be the Non-linear Differential Continuous Approximation (NDCA). The preliminary response stated, \"NDCA...is the core computation type. It allows cross-sectional slices of high-dimensional attractor manifolds to be expressed in time-bounded neural windows (like 5 ms).\" The `chat_with_selfawarenetworksgpt.md` document provides a crucial definition:",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.7,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (representations, sensory) with Kanai Takatsuki Fujisawa Process Meta Representations (2025-02-06; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 37]",
+      "target_date": "2025-02-06",
+      "target_date_sort": "2025-02-06",
+      "target_locator": "https://doi.org/10.1093/nc/niaf038 | Meta-representations as representations of processes",
+      "target_quote": "HOT suggests that consciousness emerges from meta-representations, which are representations of first-order sensory representations. However, translating this abstract concept into a concrete computational model, such as those used in artificial intelligence, presents a theoretical challenge.",
+      "target_url": "https://academic.oup.com/nc/article-pdf/2025/1/niaf038/65039309/niaf038.pdf",
+      "title": "representations, sensory — Meta-representations as representations of processes",
+      "win_id": "G1-KANAI-TAKATSUKI--D01-A01"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Ryota Kanai",
+          "slug": "ryota-kanai"
+        },
+        {
+          "name": "Ryota Takatsuki",
+          "slug": "ryota-takatsuki"
+        },
+        {
+          "name": "Ippei Fujisawa",
+          "slug": "ippei-fujisawa"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "eaning, feeling, and candidate action -> goal representations, inhibition, and selection among possible routes -> action, social exchange, or machine-mediated return -> revision of the next neural and self-related state -> recurrent sensory return permits the loop to represent and revise itself -> learned structural change improves spatial-temporal multimodal coordination -> Hebbian oscillatory pa",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 20.31,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2010-01-01 formulation shares conceptual/operational mechanisms (learning, representation, representations, sensory) with Kanai Takatsuki Fujisawa Process Meta Representations (2025-02-06; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2010-01-01",
+      "source_date_sort": "2010-01-01",
+      "source_locator": "README.md char 6766..7166",
+      "target_date": "2025-02-06",
+      "target_date_sort": "2025-02-06",
+      "target_locator": "https://doi.org/10.1093/nc/niaf038 | Meta-representations as representations of processes",
+      "target_quote": "As a proof-of-concept of this formulated notion of meta-representation, we constructed \"meta-networks\" designed to explicitly model meta-representations within deep learning architectures while methodologically isolating process representations from specific sensory activations to avoid confounding effects.",
+      "target_url": "https://academic.oup.com/nc/article-pdf/2025/1/niaf038/65039309/niaf038.pdf",
+      "title": "learning, representation, representations, sensory — Meta-representations as representations of processes",
+      "win_id": "G1-KANAI-TAKATSUKI--D01-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Kanai Takatsuki Fujisawa Process Meta Representations across 12 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 1 strong, 0 medium-partial, 3 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2010-01-01",
+    "earliest_micah_year": 2010,
+    "earliest_target_date": "2025-02-06",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2024-01-04",
+    "latest_target_date": "2025-02-06",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "strong": 1,
+      "weak-partial": 3
+    },
+    "lens4_event_ids": [
+      "lsm-g1-kanai-takatsuki-fujisawa-process-meta-re-20261122"
+    ],
+    "listed_author_edges": 12,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 1,
+      "weak-partial": 3
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

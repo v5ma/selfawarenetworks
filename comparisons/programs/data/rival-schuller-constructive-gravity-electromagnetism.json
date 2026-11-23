@@ -1,0 +1,289 @@
+{
+  "authors_linked": [
+    {
+      "name": "Frederic P. Schuller",
+      "slug": "frederic-p-schuller"
+    },
+    {
+      "name": "Christof Witte",
+      "slug": "christof-witte"
+    },
+    {
+      "name": "Kaja Krhač",
+      "slug": "kaja-krha"
+    },
+    {
+      "name": "Stefano Stramigioli",
+      "slug": "stefano-stramigioli"
+    }
+  ],
+  "display_code": "schuller-constructive-gravity-electromagnetism",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2010-11-18 and 2024-01-15, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Schuller Constructive Gravity Electromagnetism (2014-02-26 to 2025-01-01) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Schuller Constructive Gravity Electromagnetism",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 9 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-schuller-constructive-gravity-electromagnetism",
+  "program_name": "Schuller Constructive Gravity Electromagnetism",
+  "rows": [
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kaja Krhač",
+          "slug": "kaja-krha"
+        },
+        {
+          "name": "Frederic P. Schuller",
+          "slug": "frederic-p-schuller"
+        },
+        {
+          "name": "Stefano Stramigioli",
+          "slug": "stefano-stramigioli"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "in a coherent state, consistent with future correlated measurements. The usual “collapse” narrative is replaced by local, deterministic wave cycles that were synchronized in the past, requiring no instantaneous communication later. 5.4 Wave Dissipation Meets Delayed-Choice and Quantum Eraser Experiments Delayed-choice and quantum-eraser experiments famously imply that a photon (or similar quantum entity) may “retroactively” decide whether it took a wave-li",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 27.87,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (place, quantum) with Schuller Constructive Gravity Electromagnetism (2025-01-01; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 35]",
+      "target_date": "2025-01-01",
+      "target_date_sort": "2025-01-01",
+      "target_locator": "https://doi.org/10.1016/j.ifacol.2025.08.092 | Hybrid Schrödinger-Liouville and projective dynamics",
+      "target_quote": "Quantum dynamics provides the arguably most fundamental example of hybrid dynamics: As long as no measurement takes place, the system state is governed by the Schrodinger-Liouville differential equation, which is however interrupted and replaced by projective dynamics at times when measurements take place.",
+      "target_url": "https://doi.org/10.1016/j.ifacol.2025.08.092",
+      "title": "place, quantum — Hybrid Schrödinger-Liouville and projective dynamics",
+      "win_id": "G1-SCHULLER-CONSTRU-D02-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Frederic P. Schuller",
+          "slug": "frederic-p-schuller"
+        },
+        {
+          "name": "Christof Witte",
+          "slug": "christof-witte"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2012-01-01) expresses active mechanism anchors (diffusion tensor, tensor, geometry, graph) that map structurally onto the later publication's (2014-02-26) formulation (tensor, geometry, manifold) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "October 16th 2012 (graph, layers, cortex, neuron) Micah Blumberg An interesting note, Fred, is that Diffusion Tensor Imaging, in this case, is showing us the white matter of the brain. … Fred Becker Thank you for the discussion. To see if I understand, I will read back what I hear. First, there are layers here and the physical geometry may support additional communication paths in a sort of virtual geometry even (e.g., large brainwaves might actually be la",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 21.97,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (geometry, matter, tensor) with Schuller Constructive Gravity Electromagnetism (2014-02-26; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience ",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/64c72ff6c9cc25f27ba7284f4d0407308afff9f3/a0495z.md#L2",
+      "target_date": "2014-02-26",
+      "target_date_sort": "2014-02-26",
+      "target_locator": "arXiv:1402.6548 | How quantizable matter gravitates: a practitioner's guide",
+      "target_quote": "Specify test matter dynamics: Provide classical dynamics for a ‘matter’ ﬁeld Φ (or a collection of such) on a smooth manifold M , by specifying partial diﬀerential equations of motion whose coeﬃcients are completely determined by som e ‘geometry’ (described by a tensor ﬁeld G of a priori arbitrary type, or a collection of such), wherein the matter ﬁeld Φ takes values in some representation vector space V of the general linear group GL(dim M, R) (or that of",
+      "target_url": "https://arxiv.org/abs/1402.6548",
+      "title": "geometry, matter, tensor — How quantizable matter gravitates: a practitioner's guide",
+      "win_id": "G1-SCHULLER-CONSTRU-D01-A02"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Frederic P. Schuller",
+          "slug": "frederic-p-schuller"
+        },
+        {
+          "name": "Christof Witte",
+          "slug": "christof-witte"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2012-01-01) expresses active mechanism anchors (diffusion tensor, tensor, geometry, graph) that map structurally onto the later publication's (2014-02-26) formulation (tensor, manifold, density, metric) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "October 16th 2012 (graph, layers, cortex, neuron) Micah Blumberg An interesting note, Fred, is that Diffusion Tensor Imaging, in this case, is showing us the white matter of the brain. … Fred Becker Thank you for the discussion. To see if I understand, I will read back what I hear. First, there are layers here and the physical geometry may support additional communication paths in a sort of virtual geometry even (e.g., large brainwaves might actually be la",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 22.88,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (matter, structure, tensor) with Schuller Constructive Gravity Electromagnetism (2014-02-26; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/64c72ff6c9cc25f27ba7284f4d0407308afff9f3/a0495z.md#L2",
+      "target_date": "2014-02-26",
+      "target_date_sort": "2014-02-26",
+      "target_locator": "arXiv:1402.6548 | How quantizable matter gravitates: a practitioner's guide",
+      "target_quote": "T est matter: On a smooth four-dimensional manifold M , we consider matter described by a covector ﬁeld A obeying dynamics encoded in the Maxwell action SMaxwell[A, g ] := − 1 4 ∫ d4x det(g)− 1/ 2gacgbdFabFcd , where some non-degenerate symmetric (2 , 0)-tensor ﬁeld g, employed to construct a scalar density from the ﬁeld strength F = dA, provides an additional structure on M.",
+      "target_url": "https://arxiv.org/abs/1402.6548",
+      "title": "matter, structure, tensor — How quantizable matter gravitates: a practitioner's guide",
+      "win_id": "G1-SCHULLER-CONSTRU-D01-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Frederic P. Schuller",
+          "slug": "frederic-p-schuller"
+        },
+        {
+          "name": "Christof Witte",
+          "slug": "christof-witte"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "the universe is a concept, and like the concept of 100 percent, it is all encompassing, it is the one, the non-dual, that which is beyond distinction for distinction divides one into two. this wholeness is something that the \"I\" might observe, as the symbol of \"I\" points to the observer, and thus transcends all other symbols that are not of the observer. In math they have reduced infinity to a single symbol, the symbol of I is perhaps such a symbol, whethe",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 12.03,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2010-11-18 formulation shares conceptual/operational mechanisms (matter, place) with Schuller Constructive Gravity Electromagnetism (2014-02-26; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/phy",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2010-11-18",
+      "source_date_sort": "2010-11-18",
+      "source_locator": "https://www.facebook.com/photo/?fbid=173090032717652&set=a.103297033030286",
+      "target_date": "2014-02-26",
+      "target_date_sort": "2014-02-26",
+      "target_locator": "arXiv:1402.6548 | How quantizable matter gravitates: a practitioner's guide",
+      "target_quote": "Thus this strategy works for , e.g., spherical symmetry, but unfortunately not for homogeneous and isotropic spacetime s modelling simple cosmologies. With the above procedure to derive gravitational actions fr om speciﬁed matter actions in place, we turn to two concrete case studies in order to illustrate it s application in vivo.",
+      "target_url": "https://arxiv.org/abs/1402.6548",
+      "title": "matter, place — How quantizable matter gravitates: a practitioner's guide",
+      "win_id": "G1-SCHULLER-CONSTRU-D01-A03"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Schuller Constructive Gravity Electromagnetism across 9 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 2 medium-partial, 1 weak-partial, 1 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2010-11-18",
+    "earliest_micah_year": 2010,
+    "earliest_target_date": "2014-02-26",
+    "earliest_target_year": 2014,
+    "latest_micah_date": "2024-01-15",
+    "latest_target_date": "2025-01-01",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "medium-partial": 2,
+      "weak-partial": 1,
+      "weak-partial-cross-domain": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-schuller-constructive-gravity-electromag-20261122"
+    ],
+    "listed_author_edges": 9,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 1,
+      "weak-partial-cross-domain": 3
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

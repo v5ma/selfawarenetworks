@@ -1,0 +1,316 @@
+{
+  "authors_linked": [
+    {
+      "name": "Hardstone R",
+      "slug": "hardstone-r"
+    },
+    {
+      "name": "Flounders M",
+      "slug": "flounders-m"
+    },
+    {
+      "name": "Zhu M",
+      "slug": "zhu-m"
+    },
+    {
+      "name": "He BJ",
+      "slug": "he-bj"
+    }
+  ],
+  "display_code": "hardstone-he-frequency-specific-perceptual-content",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-02-16 and 2022-03-01, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 4 documented mechanisms appearing in Hardstone He Frequency Specific Perceptual Content (2022-03-20 to 2022-03-20) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Hardstone He Frequency Specific Perceptual Content",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 4 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 4 dated comparisons and 16 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-hardstone-he-frequency-specific-perceptual-content",
+  "program_name": "Hardstone He Frequency Specific Perceptual Content",
+  "rows": [
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Hardstone R",
+          "slug": "hardstone-r"
+        },
+        {
+          "name": "Flounders M",
+          "slug": "flounders-m"
+        },
+        {
+          "name": "Zhu M",
+          "slug": "zhu-m"
+        },
+        {
+          "name": "He BJ",
+          "slug": "he-bj"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Summary of Part 6: Oscillatory feedback loops are a fundamental feature in both NAPOT and the wave-based brain state model proposed by Foster and Scheinost. In SAN’s theory, these feedback loops are responsible for regulating neural activity, maintaining dynamic stability, and integrating sensory inputs with memory and predictions. Foster and Scheinost’s emphasis on wave propagation and feedback mechanisms supports the idea that brain states evolve through",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.45,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (memory, sensory) with Hardstone He Frequency Specific Perceptual Content (2022-03-20; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 5 (05san.md) [para 113]",
+      "target_date": "2022-03-20",
+      "target_date_sort": "2022-03-20",
+      "target_locator": "doi:10.1101/2022.03.18.484861 | Frequency-specific neural signatures of perceptual content and perceptual stability",
+      "target_quote": "In addition, neural activity underlying perceptual memory, which supports perceptual stability when sensory input is temporally removed from view, also encodes elapsed time.",
+      "target_url": "https://doi.org/10.1101/2022.03.18.484861",
+      "title": "memory, sensory — Frequency-specific neural signatures of perceptual content and perceptual stability",
+      "win_id": "G1-HARDSTONE-HE-FRE-D01-A03"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Hardstone R",
+          "slug": "hardstone-r"
+        },
+        {
+          "name": "Flounders M",
+          "slug": "flounders-m"
+        },
+        {
+          "name": "Zhu M",
+          "slug": "zhu-m"
+        },
+        {
+          "name": "He BJ",
+          "slug": "he-bj"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "In mainstream neuroscience, gamma oscillations (typically defined as 30-150 Hz) are indeed linked to various aspects of perception, including feature binding, attention, and conscious awareness. Alpha oscillations (8-13 Hz) are often associated with functional inhibition, cortical excitability modulation, and the temporal framing of perceptual moments. Beta oscillations (13-30 Hz) have been implicated in sensorimotor processing, maintaining the current sen",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 30.36,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (alpha, beta, cortical, perception, perceptual) with Hardstone He Frequency Specific Perceptual Content (2022-03-20; europepmc-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 15]",
+      "target_date": "2022-03-20",
+      "target_date_sort": "2022-03-20",
+      "target_locator": "doi:10.1101/2022.03.18.484861 | Frequency-specific neural signatures of perceptual content and perceptual stability",
+      "target_quote": "Across different types of images, non-oscillatory neural activity in the slow cortical potential (SCP, <5 Hz) range supported the content of perception. By contrast, perceptual stability is influenced by the amplitude of alpha and beta oscillations.",
+      "target_url": "https://doi.org/10.1101/2022.03.18.484861",
+      "title": "alpha, beta, cortical, perception — Frequency-specific neural signatures of perceptual content and perceptual stability",
+      "win_id": "G1-HARDSTONE-HE-FRE-D01-A02"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Hardstone R",
+          "slug": "hardstone-r"
+        },
+        {
+          "name": "Flounders M",
+          "slug": "flounders-m"
+        },
+        {
+          "name": "Zhu M",
+          "slug": "zhu-m"
+        },
+        {
+          "name": "He BJ",
+          "slug": "he-bj"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The encoding of a \"shape\" within a 5 ms window, therefore, is not conceptualized as the construction of a static, pixel-like representation from scratch. Instead, it involves the ultra-rapid convergence of distributed neural activity---across multiple neural arrays and potentially hierarchical levels---to a transiently stable, coherent oscillatory pattern. This pattern, which is an attractor state defined by specific phase relationships among participating",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 30.5,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (perceptual, sensory) with Hardstone He Frequency Specific Perceptual Content (2022-03-20; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 39]",
+      "target_date": "2022-03-20",
+      "target_date_sort": "2022-03-20",
+      "target_locator": "doi:10.1101/2022.03.18.484861 | Frequency-specific neural signatures of perceptual content and perceptual stability",
+      "target_quote": "<h4>ABSTRACT</h4> In the natural environment, we often form stable perceptual experiences from ambiguous and fleeting sensory inputs. Which neural activity underlies the content of perception and which neural activity supports perceptual stability remains an open question.",
+      "target_url": "https://doi.org/10.1101/2022.03.18.484861",
+      "title": "perceptual, sensory — Frequency-specific neural signatures of perceptual content and perceptual stability",
+      "win_id": "G1-HARDSTONE-HE-FRE-D01-A01"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Hardstone R",
+          "slug": "hardstone-r"
+        },
+        {
+          "name": "Flounders M",
+          "slug": "flounders-m"
+        },
+        {
+          "name": "Zhu M",
+          "slug": "zhu-m"
+        },
+        {
+          "name": "He BJ",
+          "slug": "he-bj"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "I can perceive the whole of my own thinking, like a golden criss crossed thread, it can sense it's own limit, the point when there is nothing outside it's sense, it includes everything in immediate perception, sounds, sights, the sense of a room, people, a Googolplexian of data, not that I perceive all the data, just the tips that indicated the flow of the data, a prediction of the macro dynamics of this room, it could be filling up with invisible gas and",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.21,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-02-16 formulation shares conceptual/operational mechanisms (dynamics, perception) with Hardstone He Frequency Specific Perceptual Content (2022-03-20; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-02-16",
+      "source_date_sort": "2012-02-16",
+      "source_locator": "https://www.facebook.com/worksalt/posts/pfbid02yusdewRcc3V6wr9voCsRxyzGy69RMtHaReG5ZF4hWRTK1T79svCdGYr6PHjS6cY2l",
+      "target_date": "2022-03-20",
+      "target_date_sort": "2022-03-20",
+      "target_locator": "doi:10.1101/2022.03.18.484861 | Frequency-specific neural signatures of perceptual content and perceptual stability",
+      "target_quote": "We used a bistable perception paradigm involving ambiguous images to behaviorally dissociate perceptual content from perceptual stability, and magnetoencephalography (MEG) to measure whole-brain neural dynamics in humans.",
+      "target_url": "https://doi.org/10.1101/2022.03.18.484861",
+      "title": "dynamics, perception — Frequency-specific neural signatures of perceptual content and perceptual stability",
+      "win_id": "G1-HARDSTONE-HE-FRE-D01-A04"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 4 certified dated prior-art comparisons with Hardstone He Frequency Specific Perceptual Content across 16 listed-author attributions (4 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 1 strong, 0 medium-partial, 3 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-02-16",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2022-03-20",
+    "earliest_target_year": 2022,
+    "latest_micah_date": "2022-03-01",
+    "latest_target_date": "2022-03-20",
+    "latest_target_year": 2022
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 4,
+    "grade_breakdown": {
+      "strong": 1,
+      "weak-partial": 3
+    },
+    "lens4_event_ids": [
+      "lsm-g1-hardstone-he-frequency-specific-perceptu-20261122"
+    ],
+    "listed_author_edges": 16,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 1,
+      "weak-partial": 3
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 4
+  }
+}

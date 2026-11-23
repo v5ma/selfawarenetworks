@@ -1,0 +1,731 @@
+{
+  "authors_linked": [
+    {
+      "name": "Kevin T. Grosvenor",
+      "slug": "kevin-t-grosvenor"
+    },
+    {
+      "name": "Mario Solís",
+      "slug": "mario-sol-s"
+    },
+    {
+      "name": "Piotr Surówka",
+      "slug": "piotr-sur-wka"
+    }
+  ],
+  "display_code": "grosvenor-solis-surowka-plasticity-gauge",
+  "domain_group": "physics",
+  "domains": "physics; cosmology",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-08-02 and 2025-08-03, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 12 documented mechanisms appearing in Kevin T. Grosvenor, Mario Solís & Piotr Surówka Gauge-Theoretic Plasticity program (1989-2026) (2026-03-26 to 2026-03-26) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Kevin T. Grosvenor, Mario Solís & Piotr Surówka Gauge-Theoretic Plasticity program (1989-2026)",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 12 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 12 dated comparisons and 36 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-grosvenor-solis-surowka-plasticity-gauge",
+  "program_name": "Kevin T. Grosvenor, Mario Solís & Piotr Surówka Gauge-Theoretic Plasticity program (1989-2026)",
+  "rows": [
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Each link (i, j) carries coupling strengths and, when relevant, a gauge term A_ij that accounts for transported phase.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GSS-A06 p.10 x GSS-M25-QGTCD-SIT 2025-08-03] Single coupled gauge-and-Maxwell-like dynamical framework encoding both charge/defect propagation and geometric backreaction simultaneously; anticipated structurally in Blumberg SIT/QGTCD (2025-08-03) via Single covariant lattice/network action unifying emergent link gauge term A_ij, node info",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-03",
+      "source_date_sort": "2025-08-03",
+      "source_locator": "QGTCD-SIT.md (2025-08-03)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.10 (GSS-A06)",
+      "target_quote": "In this sense, the theory extends frac- ton–elasticity duality beyond a correspondence between strain and tensor gauge fields, providing a dynamical framework in which defect motion and geometric backreaction are encoded within a single coupled gauge system.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-012"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Each link (i, j) carries coupling strengths and, when relevant, a gauge term A_ij that accounts for transported phase.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GSS-A05 p.4 x GSS-M25-QGTCD-SIT 2025-08-03] Crystalline/lattice medium breaking spatial symmetries while preserving time-translation dynamics, leaving reduced physical propagating modes; anticipated structurally in Blumberg SIT/QGTCD (2025-08-03) via Single covariant lattice/network action unifying emergent link gauge term A_ij, node inf",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-03",
+      "source_date_sort": "2025-08-03",
+      "source_locator": "QGTCD-SIT.md (2025-08-03)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.4 (GSS-A05)",
+      "target_quote": "4 The elastic action reads Sel = Z dt d2x h 1 2 ˙ui ˙ui − 1 2 Cijkℓ γijγkℓ + 1 2 ˙θ2 − 1 2 β(∂iθ+ω i)2 i .(9) In a crystalline medium spatial translations and rotations are spontaneously broken by the elastic medium, while time translations remain unbroken.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-010"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Each link (i, j) carries coupling strengths and, when relevant, a gauge term A_ij that accounts for transported phase.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GSS-A04 p.2 x GSS-M25-QGTCD-SIT 2025-08-03] Unified coupled tensor-vector field architecture placing geometric metric/curvature, rotational/torsional modes, and conservation constraints on equal footing; anticipated structurally in Blumberg SIT/QGTCD (2025-08-03) via Single covariant lattice/network action unifying emergent link gauge te",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-03",
+      "source_date_sort": "2025-08-03",
+      "source_locator": "QGTCD-SIT.md (2025-08-03)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.2 (GSS-A04)",
+      "target_quote": "The resulting theory is a coupled tensor–vector gauge system in which displacements, rotations, torsion, and curvature arise on equal footing, and in which defect conservation laws are enforced as Gauss con- straints.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-008"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Each link (i, j) carries coupling strengths and, when relevant, a gauge term A_ij that accounts for transported phase.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GSS-A03 p.1 x GSS-M25-QGTCD-SIT 2025-08-03] Topological defects and local rotational/vortex singularities acting as conserved charges deforming lattice geometry under continuity and Gauss-like constraints; anticipated structurally in Blumberg SIT/QGTCD (2025-08-03) via Single covariant lattice/network action unifying emergent link gauge ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-03",
+      "source_date_sort": "2025-08-03",
+      "source_locator": "QGTCD-SIT.md (2025-08-03)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.1 (GSS-A03)",
+      "target_quote": "Dislocations, disclinations, and torsional defects appear as gauge charges of non-integrable geometry whose continuity equations and mobility constraints follow directly from Gauss laws.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-006"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Each link (i, j) carries coupling strengths and, when relevant, a gauge term A_ij that accounts for transported phase.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GSS-A02 p.1 x GSS-M25-QGTCD-SIT 2025-08-03] Gauge fields emerging naturally from underlying stress, phase-transport, and conservation laws rather than being externally postulated; anticipated structurally in Blumberg SIT/QGTCD (2025-08-03) via Single covariant lattice/network action unifying emergent link gauge term A_ij, node informatio",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-03",
+      "source_date_sort": "2025-08-03",
+      "source_locator": "QGTCD-SIT.md (2025-08-03)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.1 (GSS-A02)",
+      "target_quote": "The gauge fields are not postulated, rather they emerge naturally from stress and defect conservation laws.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-004"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Each link (i, j) carries coupling strengths and, when relevant, a gauge term A_ij that accounts for transported phase.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GSS-A01 p.1 x GSS-M25-QGTCD-SIT 2025-08-03] Separating an underlying conservative symmetry-constrained dynamical backbone from controlled dissipative deformation rather than assuming irreducible phenomenology; anticipated structurally in Blumberg SIT/QGTCD (2025-08-03) via Single covariant lattice/network action unifying emergent link ga",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-03",
+      "source_date_sort": "2025-08-03",
+      "source_locator": "QGTCD-SIT.md (2025-08-03)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.1 (GSS-A01)",
+      "target_quote": "We argue instead that plasticity possesses a non-dissipative, symmetry- determined backbone: defect kinematics are fixed by symmetry prior to dissipation and separate from consti- tutive assumptions.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-002"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2025-02-07) expresses active mechanism anchors (hamiltonian, momentum, constraint, adm) that map structurally onto the later publication's (2026-03-26) formulation (gauge) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "**ADM Formalism: Hamiltonian and Momentum Constraints** (Eq.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[GSS-A06 p.10 x GSS-M25-QGTCD46 2025-02-07] Single coupled gauge-and-Maxwell-like dynamical framework encoding both charge/defect propagation and geometric backreaction simultaneously; anticipated structurally in Blumberg SIT/QGTCD (2025-02-07) via Unified covariant metric-tensor, Christoffel, ADM constraint, Einstein, and Maxwell field e",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-02-07",
+      "source_date_sort": "2025-02-07",
+      "source_locator": "QGTCD46equations.md (2025-02-07)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.10 (GSS-A06)",
+      "target_quote": "In this sense, the theory extends frac- ton–elasticity duality beyond a correspondence between strain and tensor gauge fields, providing a dynamical framework in which defect motion and geometric backreaction are encoded within a single coupled gauge system.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-011"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "**ADM Formalism: Hamiltonian and Momentum Constraints** (Eq.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GSS-A04 p.2 x GSS-M25-QGTCD46 2025-02-07] Unified coupled tensor-vector field architecture placing geometric metric/curvature, rotational/torsional modes, and conservation constraints on equal footing; anticipated structurally in Blumberg SIT/QGTCD (2025-02-07) via Unified covariant metric-tensor, Christoffel, ADM constraint, Einstein, a",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-02-07",
+      "source_date_sort": "2025-02-07",
+      "source_locator": "QGTCD46equations.md (2025-02-07)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.2 (GSS-A04)",
+      "target_quote": "The resulting theory is a coupled tensor–vector gauge system in which displacements, rotations, torsion, and curvature arise on equal footing, and in which defect conservation laws are enforced as Gauss con- straints.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-007"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2025-02-07) expresses active mechanism anchors (hamiltonian, momentum, constraint, adm) that map structurally onto the later publication's (2026-03-26) formulation (gauge) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "**ADM Formalism: Hamiltonian and Momentum Constraints** (Eq.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[GSS-A02 p.1 x GSS-M25-QGTCD46 2025-02-07] Gauge fields emerging naturally from underlying stress, phase-transport, and conservation laws rather than being externally postulated; anticipated structurally in Blumberg SIT/QGTCD (2025-02-07) via Unified covariant metric-tensor, Christoffel, ADM constraint, Einstein, and Maxwell field equatio",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-02-07",
+      "source_date_sort": "2025-02-07",
+      "source_locator": "QGTCD46equations.md (2025-02-07)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.1 (GSS-A02)",
+      "target_quote": "The gauge fields are not postulated, rather they emerge naturally from stress and defect conservation laws.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-003"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "If the universe has a shape I would first imagine it as as linear graph with X, Y, Z dimensions plus time, and I would imagine the edges bend into corners, and these corners are blackholes, planets, stars, and any vortex such as an atom or a person, they, the masses of vortices, are pinching the graph grid together, and they also defining the parameters o...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GSS-A05 p.4 x GSS-M24-A0322 2024-01-28] Crystalline/lattice medium breaking spatial symmetries while preserving time-translation dynamics, leaving reduced physical propagating modes; anticipated structurally in Blumberg SIT/QGTCD (2024-01-28) via Crystalline/graph spacetime lattice deformed and pinched by topological vortex/mass defects ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-28",
+      "source_date_sort": "2024-01-28",
+      "source_locator": "a0322z.md (2024-01-28)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.4 (GSS-A05)",
+      "target_quote": "4 The elastic action reads Sel = Z dt d2x h 1 2 ˙ui ˙ui − 1 2 Cijkℓ γijγkℓ + 1 2 ˙θ2 − 1 2 β(∂iθ+ω i)2 i .(9) In a crystalline medium spatial translations and rotations are spontaneously broken by the elastic medium, while time translations remain unbroken.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-009"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "If the universe has a shape I would first imagine it as as linear graph with X, Y, Z dimensions plus time, and I would imagine the edges bend into corners, and these corners are blackholes, planets, stars, and any vortex such as an atom or a person, they, the masses of vortices, are pinching the graph grid together, and they also defining the parameters o...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GSS-A03 p.1 x GSS-M24-A0322 2024-01-28] Topological defects and local rotational/vortex singularities acting as conserved charges deforming lattice geometry under continuity and Gauss-like constraints; anticipated structurally in Blumberg SIT/QGTCD (2024-01-28) via Crystalline/graph spacetime lattice deformed and pinched by topological v",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-28",
+      "source_date_sort": "2024-01-28",
+      "source_locator": "a0322z.md (2024-01-28)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.1 (GSS-A03)",
+      "target_quote": "Dislocations, disclinations, and torsional defects appear as gauge charges of non-integrable geometry whose continuity equations and mobility constraints follow directly from Gauss laws.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-005"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Kevin T. Grosvenor",
+          "slug": "kevin-t-grosvenor"
+        },
+        {
+          "name": "Mario Solís",
+          "slug": "mario-sol-s"
+        },
+        {
+          "name": "Piotr Surówka",
+          "slug": "piotr-sur-wka"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "//////////////////////////////////////////////////////////////////// The Quantum Physics of the Brain & Space The Neurophysics of Self Aware Networks Neurophysics, Quantum Physics, and Astrophysics The whole universe is a fractal of oscillations but its also a finite state system that is self learning and I will argue self aware the number of possible sta...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[GSS-A01 p.1 x GSS-M22-A0033 2022-08-02] Separating an underlying conservative symmetry-constrained dynamical backbone from controlled dissipative deformation rather than assuming irreducible phenomenology; anticipated structurally in Blumberg SIT/QGTCD (2022-08-02) via Dual non-dissipative convergent-information order coexisting with dis",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-02",
+      "source_date_sort": "2022-08-02",
+      "source_locator": "a0033z.md (2022-08-02)",
+      "target_date": "2026-03-26",
+      "target_date_sort": "2026-03-26",
+      "target_locator": "p.1 (GSS-A01)",
+      "target_quote": "We argue instead that plasticity possesses a non-dissipative, symmetry- determined backbone: defect kinematics are fixed by symmetry prior to dissipation and separate from consti- tutive assumptions.",
+      "target_url": "",
+      "title": "Plasticity from Symmetry: A Gauge-Theoretic Framework (arXiv:2603.16619v2)",
+      "win_id": "GSS26-SC-001"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 12 certified dated prior-art comparisons with Kevin T. Grosvenor, Mario Solís & Piotr Surówka Gauge-Theoretic Plasticity program (1989-2026) across 36 listed-author attributions (12 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 2 medium-partial, 10 weak-partial, 0 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-08-02",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2026-03-26",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2025-08-03",
+    "latest_target_date": "2026-03-26",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 12,
+    "grade_breakdown": {
+      "medium-partial": 2,
+      "weak-partial": 10
+    },
+    "lens4_event_ids": [
+      "grosvenor-solis-surowka-plasticity-gauge-longitudinal-1989-2026-20261122"
+    ],
+    "listed_author_edges": 36,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 12
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 12
+  }
+}

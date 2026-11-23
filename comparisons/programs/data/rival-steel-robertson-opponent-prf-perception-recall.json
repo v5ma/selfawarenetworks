@@ -1,0 +1,476 @@
+{
+  "authors_linked": [
+    {
+      "name": "Adam Steel",
+      "slug": "adam-steel"
+    },
+    {
+      "name": "Edward H. Silson",
+      "slug": "edward-h-silson"
+    },
+    {
+      "name": "Brenda D. Garcia",
+      "slug": "brenda-d-garcia"
+    },
+    {
+      "name": "Caroline E. Robertson",
+      "slug": "caroline-e-robertson"
+    },
+    {
+      "name": "Catriona L. Scrivener",
+      "slug": "catriona-l-scrivener"
+    }
+  ],
+  "display_code": "steel-robertson-opponent-prf-perception-recall",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2011-08-24 and 2022-06-08, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 7 documented mechanisms appearing in Steel Robertson Opponent Prf Perception Recall (2023-10-16 to 2025-03-24) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Steel Robertson Opponent Prf Perception Recall",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 7 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 2 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 7 dated comparisons and 24 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-steel-robertson-opponent-prf-perception-recall",
+  "program_name": "Steel Robertson Opponent Prf Perception Recall",
+  "rows": [
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Catriona L. Scrivener",
+          "slug": "catriona-l-scrivener"
+        },
+        {
+          "name": "Edward H. Silson",
+          "slug": "edward-h-silson"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (dendritic, tomography, array-projection, projection) that map structurally onto the later publication's (2025-03-24) formulation (population) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[SR-A03 in scrivener-silson-2025-imgneuro (2025-03-24) x M22-PHASE-FIELD (2022-06-08)] Positive and negative population receptive fields in medial parietal cortex implementing opponent visuospatial gating between memory recall and visual perception; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation r",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2025-03-24",
+      "target_date_sort": "2025-03-24",
+      "target_locator": "steel-2025-scrivener-silson.txt (SR-A03)",
+      "target_quote": "Using functional magnetic 20 resonance imaging, we observe signatures of visuospatial coding in the form of population 21 receptive fields (pRFs) with both positive and negative response profiles within medial parietal 22 cortex.",
+      "target_url": "",
+      "title": "Opponent visuospatial coding structures responses during memory recall and visual perception in medial parietal cortex (Imaging Neuroscience 3)",
+      "win_id": "STEEL-PRF-SC-007"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Adam Steel",
+          "slug": "adam-steel"
+        },
+        {
+          "name": "Edward H. Silson",
+          "slug": "edward-h-silson"
+        },
+        {
+          "name": "Brenda D. Garcia",
+          "slug": "brenda-d-garcia"
+        },
+        {
+          "name": "Caroline E. Robertson",
+          "slug": "caroline-e-robertson"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (dendritic, tomography, array-projection, projection) that map structurally onto the later publication's (2023-10-16) formulation (population) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[SR-A01 in steel-2023-biorxiv-retinotopic (2023-10-16) x M22-PHASE-FIELD (2022-06-08)] Paired perceptual and mnemonic cortical populations sharing a retinotopic coordinate code with opponent dynamics during bottom-up perception versus top-down recall; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2023-10-16",
+      "target_date_sort": "2023-10-16",
+      "target_locator": "steel-2023-preprint-pmc.txt (SR-A01)",
+      "target_quote": "Specifically, these functionally -linked 38 retinotopic populations in mnemonic and perceptual areas exhibit spatially-specific opponent responses 39 during both bottom-up perception and top-down recall, suggesting that these areas are interlocked in a 40 mutually-inhibitory dynamic.",
+      "target_url": "",
+      "title": "A retinotopic code structures the interaction between perception and memory systems (bioRxiv 2023.05.15.540807)",
+      "win_id": "STEEL-PRF-SC-003"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Adam Steel",
+          "slug": "adam-steel"
+        },
+        {
+          "name": "Edward H. Silson",
+          "slug": "edward-h-silson"
+        },
+        {
+          "name": "Brenda D. Garcia",
+          "slug": "brenda-d-garcia"
+        },
+        {
+          "name": "Caroline E. Robertson",
+          "slug": "caroline-e-robertson"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "[08:00.500 --> 08:08.420] is a, is a three-dimensional, I'll say a three-dimensional matrix, like a three-dimensional matrix, right? [08:08.520 --> 08:17.140] X, Y, and Z. And each point in this three-dimensional matrix has it, has a, a temple, a time and space [08:17.140 --> 08:24.380] pattern going through it, and that pattern is the ionic charges at...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[SR-A02 in steel-2023-biorxiv-retinotopic (2023-10-16) x M17-VOLUMETRIC (2017-04-11)] Shared spatial visual-field representational frame bridging perceptual input areas and internal memory retrieval networks; anticipated partially in Blumberg (2017-04-11) via Dynamic 3D X-Y-Z ionic-electromagnetic neural time-space matrix with frequency-o",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "lines 823-835",
+      "target_date": "2023-10-16",
+      "target_date_sort": "2023-10-16",
+      "target_locator": "steel-2023-preprint-pmc.txt (SR-A02)",
+      "target_quote": "Shared visual field representations between paired perception and memory areas.",
+      "target_url": "",
+      "title": "A retinotopic code structures the interaction between perception and memory systems (bioRxiv 2023.05.15.540807)",
+      "win_id": "STEEL-PRF-SC-005"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Catriona L. Scrivener",
+          "slug": "catriona-l-scrivener"
+        },
+        {
+          "name": "Edward H. Silson",
+          "slug": "edward-h-silson"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "personalities or different minds will sort of like model reality in different ways like someone who's more autistic will see things um differently um i'm slightly more autistic but yeah so like i have this uh i do have the perspective that yes and what you're kind of saying is similar to this to an idea i've heard that i kind of describe as um you know th...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[SR-A03 in scrivener-silson-2025-imgneuro (2025-03-24) x M12-PROJECTOR (2012-08-23)] Positive and negative population receptive fields in medial parietal cortex implementing opponent visuospatial gating between memory recall and visual perception; anticipated partially in Blumberg (2012-08-23) via Internally projected predictive world mod",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "lines 59-61",
+      "target_date": "2025-03-24",
+      "target_date_sort": "2025-03-24",
+      "target_locator": "steel-2025-scrivener-silson.txt (SR-A03)",
+      "target_quote": "Using functional magnetic 20 resonance imaging, we observe signatures of visuospatial coding in the form of population 21 receptive fields (pRFs) with both positive and negative response profiles within medial parietal 22 cortex.",
+      "target_url": "",
+      "title": "Opponent visuospatial coding structures responses during memory recall and visual perception in medial parietal cortex (Imaging Neuroscience 3)",
+      "win_id": "STEEL-PRF-SC-006"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Adam Steel",
+          "slug": "adam-steel"
+        },
+        {
+          "name": "Edward H. Silson",
+          "slug": "edward-h-silson"
+        },
+        {
+          "name": "Brenda D. Garcia",
+          "slug": "brenda-d-garcia"
+        },
+        {
+          "name": "Caroline E. Robertson",
+          "slug": "caroline-e-robertson"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "personalities or different minds will sort of like model reality in different ways like someone who's more autistic will see things um differently um i'm slightly more autistic but yeah so like i have this uh i do have the perspective that yes and what you're kind of saying is similar to this to an idea i've heard that i kind of describe as um you know th...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[SR-A02 in steel-2023-biorxiv-retinotopic (2023-10-16) x M12-PROJECTOR (2012-08-23)] Shared spatial visual-field representational frame bridging perceptual input areas and internal memory retrieval networks; anticipated partially in Blumberg (2012-08-23) via Internally projected predictive world model completing sparse sensory streams.",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "lines 59-61",
+      "target_date": "2023-10-16",
+      "target_date_sort": "2023-10-16",
+      "target_locator": "steel-2023-preprint-pmc.txt (SR-A02)",
+      "target_quote": "Shared visual field representations between paired perception and memory areas.",
+      "target_url": "",
+      "title": "A retinotopic code structures the interaction between perception and memory systems (bioRxiv 2023.05.15.540807)",
+      "win_id": "STEEL-PRF-SC-004"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Adam Steel",
+          "slug": "adam-steel"
+        },
+        {
+          "name": "Edward H. Silson",
+          "slug": "edward-h-silson"
+        },
+        {
+          "name": "Brenda D. Garcia",
+          "slug": "brenda-d-garcia"
+        },
+        {
+          "name": "Caroline E. Robertson",
+          "slug": "caroline-e-robertson"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "personalities or different minds will sort of like model reality in different ways like someone who's more autistic will see things um differently um i'm slightly more autistic but yeah so like i have this uh i do have the perspective that yes and what you're kind of saying is similar to this to an idea i've heard that i kind of describe as um you know th...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[SR-A01 in steel-2023-biorxiv-retinotopic (2023-10-16) x M12-PROJECTOR (2012-08-23)] Paired perceptual and mnemonic cortical populations sharing a retinotopic coordinate code with opponent dynamics during bottom-up perception versus top-down recall; anticipated partially in Blumberg (2012-08-23) via Internally projected predictive world m",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "lines 59-61",
+      "target_date": "2023-10-16",
+      "target_date_sort": "2023-10-16",
+      "target_locator": "steel-2023-preprint-pmc.txt (SR-A01)",
+      "target_quote": "Specifically, these functionally -linked 38 retinotopic populations in mnemonic and perceptual areas exhibit spatially-specific opponent responses 39 during both bottom-up perception and top-down recall, suggesting that these areas are interlocked in a 40 mutually-inhibitory dynamic.",
+      "target_url": "",
+      "title": "A retinotopic code structures the interaction between perception and memory systems (bioRxiv 2023.05.15.540807)",
+      "win_id": "STEEL-PRF-SC-002"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Adam Steel",
+          "slug": "adam-steel"
+        },
+        {
+          "name": "Edward H. Silson",
+          "slug": "edward-h-silson"
+        },
+        {
+          "name": "Brenda D. Garcia",
+          "slug": "brenda-d-garcia"
+        },
+        {
+          "name": "Caroline E. Robertson",
+          "slug": "caroline-e-robertson"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The experience impression is like... You have an experience, and... That experience creates like a... Like... Let's say your brain is like photo paper. So it creates an image... That's recorded in electrical impulses... And that... And that... That are going into the soft... Into the sensitive brain tissue... And that... That brain tissue is now expecting...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[SR-A01 in steel-2023-biorxiv-retinotopic (2023-10-16) x M11-SELF-PRED (2011-08-24)] Paired perceptual and mnemonic cortical populations sharing a retinotopic coordinate code with opponent dynamics during bottom-up perception versus top-down recall; anticipated partially in Blumberg (2011-08-24) via Predictive neocortical self-pattern and",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2011-08-24",
+      "source_date_sort": "2011-08-24",
+      "source_locator": "lines 143-180",
+      "target_date": "2023-10-16",
+      "target_date_sort": "2023-10-16",
+      "target_locator": "steel-2023-preprint-pmc.txt (SR-A01)",
+      "target_quote": "Specifically, these functionally -linked 38 retinotopic populations in mnemonic and perceptual areas exhibit spatially-specific opponent responses 39 during both bottom-up perception and top-down recall, suggesting that these areas are interlocked in a 40 mutually-inhibitory dynamic.",
+      "target_url": "",
+      "title": "A retinotopic code structures the interaction between perception and memory systems (bioRxiv 2023.05.15.540807)",
+      "win_id": "STEEL-PRF-SC-001"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 7 certified dated prior-art comparisons with Steel Robertson Opponent Prf Perception Recall across 24 listed-author attributions (7 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 2 medium-partial, 5 weak-partial, 0 weak-partial cross-domain, with 2 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2011-08-24",
+    "earliest_micah_year": 2011,
+    "earliest_target_date": "2023-10-16",
+    "earliest_target_year": 2023,
+    "latest_micah_date": "2022-06-08",
+    "latest_target_date": "2025-03-24",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 2,
+    "governed_wins": 7,
+    "grade_breakdown": {
+      "medium-partial": 2,
+      "weak-partial": 5
+    },
+    "lens4_event_ids": [
+      "lsm-steel-robertson-opponent-prf-20261122"
+    ],
+    "listed_author_edges": 24,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 7
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 7
+  }
+}

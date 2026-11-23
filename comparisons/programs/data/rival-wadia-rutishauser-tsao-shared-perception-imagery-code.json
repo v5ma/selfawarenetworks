@@ -1,0 +1,305 @@
+{
+  "authors_linked": [
+    {
+      "name": "Wadia VS",
+      "slug": "wadia-vs"
+    },
+    {
+      "name": "Reed CM",
+      "slug": "reed-cm"
+    },
+    {
+      "name": "Chung JM",
+      "slug": "chung-jm"
+    },
+    {
+      "name": "Bateman LM",
+      "slug": "bateman-lm"
+    },
+    {
+      "name": "Mamelak AN",
+      "slug": "mamelak-an"
+    },
+    {
+      "name": "Rutishauser U",
+      "slug": "rutishauser-u"
+    },
+    {
+      "name": "Tsao DY",
+      "slug": "tsao-dy"
+    }
+  ],
+  "display_code": "wadia-rutishauser-tsao-shared-perception-imagery-code",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-08-20 and 2022-08-05, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 3 documented mechanisms appearing in Wadia Rutishauser Tsao Shared Perception Imagery Code (2026-04-09 to 2026-04-09) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Wadia Rutishauser Tsao Shared Perception Imagery Code",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 3 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 3 dated comparisons and 21 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-wadia-rutishauser-tsao-shared-perception-imagery-code",
+  "program_name": "Wadia Rutishauser Tsao Shared Perception Imagery Code",
+  "rows": [
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "Wadia VS",
+          "slug": "wadia-vs"
+        },
+        {
+          "name": "Reed CM",
+          "slug": "reed-cm"
+        },
+        {
+          "name": "Chung JM",
+          "slug": "chung-jm"
+        },
+        {
+          "name": "Bateman LM",
+          "slug": "bateman-lm"
+        },
+        {
+          "name": "Mamelak AN",
+          "slug": "mamelak-an"
+        },
+        {
+          "name": "Rutishauser U",
+          "slug": "rutishauser-u"
+        },
+        {
+          "name": "Tsao DY",
+          "slug": "tsao-dy"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "No neuron array understands that it is not the first layer of neurons, because a neuron only perceives what is in it's receptive field, so in a sense all neuron arrays are sensory input neurons, and all neuron arrays are pattern output arrays.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 20.31,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-08-05 formulation shares conceptual/operational mechanisms (generative, neuron, neurons) with Wadia Rutishauser Tsao Shared Perception Imagery Code (2026-04-09; europepmc-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-08-05",
+      "source_date_sort": "2022-08-05",
+      "source_locator": "2022-08-05 (distributed arrays receive, transform, and project partial states; recurrent rendering, self/world relation, choice, action, returned consequence, development, and artificial sentience form one system)",
+      "target_date": "2026-04-09",
+      "target_date_sort": "2026-04-09",
+      "target_locator": "doi:10.1126/science.adt8343 | A shared code for perceiving and imagining objects in human ventral temporal cortex.",
+      "target_quote": "Our findings reveal that visual imagery is supported by reactivation of the same neurons involved in perception, providing single-neuron evidence for the existence of a generative model in human VTC.",
+      "target_url": "https://doi.org/10.1126/science.adt8343",
+      "title": "generative, neuron, neurons — A shared code for perceiving and imagining objects in human ventral temporal cortex.",
+      "win_id": "G1-WADIA-RUTISHAUSE-D01-A03"
+    },
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "Wadia VS",
+          "slug": "wadia-vs"
+        },
+        {
+          "name": "Reed CM",
+          "slug": "reed-cm"
+        },
+        {
+          "name": "Chung JM",
+          "slug": "chung-jm"
+        },
+        {
+          "name": "Bateman LM",
+          "slug": "bateman-lm"
+        },
+        {
+          "name": "Mamelak AN",
+          "slug": "mamelak-an"
+        },
+        {
+          "name": "Rutishauser U",
+          "slug": "rutishauser-u"
+        },
+        {
+          "name": "Tsao DY",
+          "slug": "tsao-dy"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0306z Brocoli Properties example: All the properties of Brocoli are features learned by the neural network of the human brain. So the color, texture, feel, crunch, taste, smell these are learned patterns, information patterns are detected as coincidence evens by receptors on dendrites, then by neurons, then by arrays of neurons, then by nuclei in the thalamus, then by cortical columns & the hippocampal entorhinal circuit, then by the thalamus again, essen",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.6,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (cortex, neurons) with Wadia Rutishauser Tsao Shared Perception Imagery Code (2026-04-09; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/81210149c4fbf14575ee6c6b56c05daa34a92273/a0306z.md#L1",
+      "target_date": "2026-04-09",
+      "target_date_sort": "2026-04-09",
+      "target_locator": "doi:10.1126/science.adt8343 | A shared code for perceiving and imagining objects in human ventral temporal cortex.",
+      "target_quote": "We determined that approximately 80% of visually responsive single neurons in the human ventral temporal cortex (VTC) use a distributed axis code to represent objects.",
+      "target_url": "https://doi.org/10.1126/science.adt8343",
+      "title": "cortex, neurons — A shared code for perceiving and imagining objects in human ventral temporal cortex.",
+      "win_id": "G1-WADIA-RUTISHAUSE-D01-A02"
+    },
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "Wadia VS",
+          "slug": "wadia-vs"
+        },
+        {
+          "name": "Reed CM",
+          "slug": "reed-cm"
+        },
+        {
+          "name": "Chung JM",
+          "slug": "chung-jm"
+        },
+        {
+          "name": "Bateman LM",
+          "slug": "bateman-lm"
+        },
+        {
+          "name": "Mamelak AN",
+          "slug": "mamelak-an"
+        },
+        {
+          "name": "Rutishauser U",
+          "slug": "rutishauser-u"
+        },
+        {
+          "name": "Tsao DY",
+          "slug": "tsao-dy"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2012-08-20) expresses active mechanism anchors (perception, awareness) that map structurally onto the later publication's (2026-04-09) formulation (experience, perception) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "a0003z ctpr Aug 20, 2012 (Perception, graph, neuron) Perception through the senses is required for mental processes.\" it's actually not true, if you separated a brain from all it's senses, it would still do it's mental processes 2 hours ago · Like what is awareness without thinking? when I am generating sequences of characters, in my mind, or sequences of patterns that result in language, inner language, that is thinking, the inner dialog, what am I thinki",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 23.47,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-08-20 formulation shares conceptual/operational mechanisms (mental, perception) with Wadia Rutishauser Tsao Shared Perception Imagery Code (2026-04-09; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-20",
+      "source_date_sort": "2012-08-20",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/7d1431213cd4ac9788848a5396ec2992ece11cfd/a0003z%20ctpr.txt#L1",
+      "target_date": "2026-04-09",
+      "target_date_sort": "2026-04-09",
+      "target_locator": "doi:10.1126/science.adt8343 | A shared code for perceiving and imagining objects in human ventral temporal cortex.",
+      "target_quote": "Mental imagery allows us to remember previous experiences and imagine new ones. Animal studies have yielded rich insight into mechanisms for visual perception, but the neural mechanisms for visual imagery remain poorly understood.",
+      "target_url": "https://doi.org/10.1126/science.adt8343",
+      "title": "mental, perception — A shared code for perceiving and imagining objects in human ventral temporal cortex.",
+      "win_id": "G1-WADIA-RUTISHAUSE-D01-A01"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 3 certified dated prior-art comparisons with Wadia Rutishauser Tsao Shared Perception Imagery Code across 21 listed-author attributions (3 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 1 strong, 1 medium-partial, 1 weak-partial, 0 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-08-20",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2026-04-09",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2022-08-05",
+    "latest_target_date": "2026-04-09",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 3,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "strong": 1,
+      "weak-partial": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-wadia-rutishauser-tsao-shared-perception-20261122"
+    ],
+    "listed_author_edges": 21,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 1,
+      "weak-partial": 2
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 3
+  }
+}

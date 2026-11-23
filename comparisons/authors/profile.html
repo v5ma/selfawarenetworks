@@ -1,0 +1,70 @@
+<!doctype html><html lang="en" data-cmp="sheet"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Compared Researcher Profile — SAN & SIT Comparison Encyclopedia</title><script>(function(){var r=document.documentElement;try{var s=localStorage.getItem('san-home-theme');r.setAttribute('data-cmp-theme',s==='rgb'||s==='paper'?s:(matchMedia('(prefers-color-scheme: light)').matches?'paper':'rgb'));}catch(e){r.setAttribute('data-cmp-theme','rgb');}})();</script><link rel="stylesheet" href="../institute/frame.css"><link rel="stylesheet" href="../institute/encyclopedia.css"><script src="../institute/frame.js" defer></script></head><body><div id="cmp-bar" class="ci-bar"><div class="ci-bar-in"><a class="ci-brand" href="../index.html" aria-label="Self Aware Networks &amp; Super Information Theory Comparison Encyclopedia"><svg viewBox="0 0 40 40" aria-hidden="true"><g stroke="#ffc857" stroke-width="2" fill="none" opacity=".9"><path d="M8 26 20 8 32 24 20 33Z"/><path d="M20 8v25M8 26l24-2"/></g><circle cx="20" cy="8" r="4.2" fill="#4d8dff"/><circle cx="32" cy="24" r="4.2" fill="#ff4d5e"/><circle cx="8" cy="26" r="4.2" fill="#2fe08a"/><circle cx="20" cy="33" r="4.2" fill="#ffc857"/><circle cx="20" cy="20" r="3" fill="#fff"/></svg><span><b>Self Aware Networks</b><small>SIT &amp; SAN Comparison Encyclopedia</small></span></a><div class="ci-tools"><button class="ci-btn" id="cmp-motion" type="button" aria-label="Pause the background motion"><svg class="ci-i ci-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5v14M15 5v14"/></svg><svg class="ci-i ci-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5l11 7-11 7z"/></svg><span class="ci-label" id="cmp-motion-label">Pause</span></button><button class="ci-btn" id="cmp-theme" type="button" aria-label="Switch the colour theme"><span class="ci-dots" aria-hidden="true"><i></i><i></i><i></i></span><span class="ci-label" id="cmp-theme-label">Theme</span></button></div></div><nav class="ci-nav" aria-label="Research Institute navigation"><a href="https://selfawarenetworks.com/" rel="noopener">SAN Institute</a><a href="https://selfawarenetworks.com/wiki/" rel="noopener">SAN Encyclopedia</a><a class="ci-here" href="../index.html" aria-current="page">Comparison Encyclopedia</a><a href="../../index.html">Comparison Library</a><a href="https://selfawarenetworks.com/comparison-wiki/priority-index/" rel="noopener">Dated Record (2010-2026)</a><a href="https://superinformationtheory.com/" rel="noopener">SIT Home</a><a href="https://www.svgn.io/" rel="noopener">SVGN</a><a href="https://pub.svgn.io/" rel="noopener">Research</a></nav></div><canvas id="cmp-scene" aria-hidden="true"></canvas><main><nav class="enc-subnav" aria-label="Encyclopedia views"><a href="../index.html">Overview Portal</a><a href="../history/index.html">History of SIT &amp; SAN</a><a href="../priority-index/index.html">Dated Record (2026&ndash;2010)</a><a href="../programs/index.html">All Programs (321/517)</a><a href="../authors/index.html" class="enc-active" aria-current="page">Researchers (2,464)</a><a href="../explore/index.html">Bridge &amp; Family Explorer</a><a href="../claims/index.html">8 Families</a><a href="../map/index.html">Timeline Atlas</a><a href="../lens4/index.html">Lens 4 (338)</a><a href="../methodology/index.html">Methodology &amp; Blue Team</a></nav>
+<div id="proot"><p class="enc-small">Loading Compared Researcher Profile...</p></div>
+<script>
+(function(){
+  const esc = s => String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  const sl = (new URLSearchParams(location.search).get('id') || '').trim().toLowerCase();
+  const root = document.getElementById('proot');
+  if (!sl) {
+    root.innerHTML = '<h1>Compared Researcher Profiles</h1><p><a href="index.html">Browse all 2,464 Compared Researchers &rarr;</a></p>';
+    return;
+  }
+  const bkt = (sl[0] >= 'a' && sl[0] <= 'z') ? sl[0] : 'other';
+  fetch('profiles-shards/' + encodeURIComponent(bkt) + '.json').then(r => r.json()).then(map => {
+    const p = map[sl];
+    if (!p) {
+      root.innerHTML = '<h1>Researcher Not Found</h1><p><a href="index.html">&larr; Back to All Researchers</a></p>';
+      return;
+    }
+    document.title = p.author + ' — Compared Researcher Profile | SAN & SIT Comparison Encyclopedia';
+    const gb = p.grade_breakdown || {};
+    const progsHtml = (p.programs || []).map(x => `<tr><td><strong><a href="../programs/dossier.html?id=${encodeURIComponent(x.program_id)}">${esc(x.program_name)}</a></strong><div class="enc-small">${esc(x.domains)}</div></td><td><strong>${x.count.toLocaleString()}</strong></td><td>${esc(x.earliest_target_date||'dated')}</td><td><a class="enc-pill good" href="../programs/dossier.html?id=${encodeURIComponent(x.program_id)}">Full Chronological Dossier &rarr;</a></td></tr>`).join('');
+    const coHtml = (p.coauthors || []).map(c => `<a class="enc-pill" href="profile.html?id=${encodeURIComponent(c.slug)}">${esc(c.name)} (${c.shared_comparisons})</a>`).join(' ') || '<span class="enc-small">No shared co-author cluster recorded on indexed rows.</span>';
+    const conHtml = (p.matched_concepts || []).map(c => `<a class="enc-pill good" href="../priority-index/index.html?q=${encodeURIComponent(c.c.slice(0,48))}">${esc(c.d)}: ${esc(c.c)} (${c.count})</a>`).join(' ') || '<span class="enc-small">Inspect program dossiers below for full dated concept mappings.</span>';
+    const l4Html = (p.lens4_audits || []).map(e => `<div class="enc-card" style="margin-bottom:8px"><div class="enc-meta-row"><span class="enc-pill good">${esc(e.lens4_result)}</span><span class="enc-pill">${esc(e.program_name)}</span><span class="enc-pill">${e.matrix_cell_count} matrix cells</span></div><p class="enc-small" style="margin:6px 0 0">${esc(e.public_summary)}</p></div>`).join('') || '<p class="enc-small">Program-level Lens 4 trajectories appear on the active program dossiers linked above.</p>';
+    const predHtml = (p.cross_author_predecessors || []).map(pr => `<div class="enc-card" style="margin-bottom:8px"><div class="enc-meta-row"><span class="enc-pill ${pr.kind.includes('documented')?'warn':'good'}">${esc(pr.predecessor_earliest_date)}</span><span class="enc-pill">${esc(pr.shared_mechanism_family)}</span><a class="enc-pill good" href="../programs/dossier.html?id=${encodeURIComponent(pr.predecessor_program_id)}">Inspect Earlier Program &rarr;</a></div><h4 style="margin:6px 0 4px">${esc(pr.predecessor_name)}</h4><p class="enc-small" style="margin:0">${esc(pr.note)}</p></div>`).join('') || '<p class="enc-small">No earlier cross-program mechanism predecessors flagged in the current 321-program active graph.</p>';
+
+    root.innerHTML = `
+<p class="enc-small"><a href="index.html">&larr; All 2,464 Compared Researchers</a> &middot; <a href="../priority-index/index.html">Dated Record (2026&ndash;2010)</a> &middot; <a href="../programs/index.html">All 517 Programs</a></p>
+<h1>${esc(p.author)}</h1>
+<div class="enc-banner"><strong>Compared Researcher Profile (Objective Bibliographic Attribution):</strong> Co-author attributions across ${p.program_count} compared research program(s) (${p.edge_count.toLocaleString()} attribution edges). Attribution records co-authorship only and defers motive analysis by design; researchers are warmly invited to inspect the dated primary passages and add citations in future work.</div>
+<div class="enc-stats">
+  <div class="enc-stat"><div class="num">${p.edge_count.toLocaleString()}</div><div class="lbl">Co-Author Attributions</div></div>
+  <div class="enc-stat"><div class="num">${p.program_count}</div><div class="lbl">Compared Programs</div></div>
+  <div class="enc-stat"><div class="num">${(gb.strong||0).toLocaleString()} / ${(gb['medium-partial']||0).toLocaleString()}</div><div class="lbl">Strong / Medium-Partial</div></div>
+  <div class="enc-stat"><div class="num">${(p.blue_team_elevated_count||0).toLocaleString()}</div><div class="lbl">Blue Team Elevated</div></div>
+</div>
+
+<section class="enc-card"><h2>Compared Programs &amp; Chronological Dossiers</h2><div class="enc-table-wrap"><table class="enc-tbl"><thead><tr><th>Compared Program</th><th>Attributions</th><th>Earliest Target</th><th>Dossier</th></tr></thead><tbody>${progsHtml}</tbody></table></div></section>
+<section class="enc-card"><h2>Overlapping Dated SAN &amp; SIT Concepts (2026 &rarr; 2010)</h2><p class="enc-small">Click any dated Micah Blumberg concept below to open it inside the bi-directional Dated Record.</p><div class="enc-meta-row">${conHtml}</div></section>
+<section class="enc-card"><h2>Cross-Author Prior-Art &amp; Potential Uncredited Predecessors</h2><p class="enc-small">Maps earlier dated independent scientists working in the same mechanism family alongside Micah Blumberg&rsquo;s 2010&ndash;2026 SAN/SIT record to support objective scientific credit restoration.</p>${predHtml}</section>
+<section class="enc-card"><h2>Co-Author Collaboration Cluster</h2><div class="enc-meta-row">${coHtml}</div></section>
+<section class="enc-card"><h2>Program-Level Lens 4 Longitudinal Trajectories</h2>${l4Html}</section>
+<section class="enc-card"><h2>Indexed Side-by-Side Comparisons (${(p.rows||[]).length.toLocaleString()} Direct Rows, 2026 &rarr; 2010)</h2><div class="enc-controls"><input id="arq" class="enc-input" type="search" placeholder="Filter this researcher's comparisons..."><select id="ars" class="enc-select"><option value="newest">Newest First (2026 &rarr; 2010)</option><option value="strong">Strongest First</option><option value="bt">Blue Team Elevated First</option></select></div><div id="arows"></div><div id="apager" class="enc-controls" style="justify-content:center;margin-top:12px"></div></section>`;
+
+    let apage = 1, apsize = 30;
+    const arq = document.getElementById('arq'), ars = document.getElementById('ars'), arows = document.getElementById('arows'), apager = document.getElementById('apager');
+    const rk = {strong:4,'medium-partial':3,'weak-partial':2,'weak-partial-cross-domain':1,'other-graded':0};
+    function drawRows() {
+      const q = arq.value.trim().toLowerCase(), s = ars.value;
+      let list = (p.rows || []).filter(r => !q || (r.wid+' '+r.title+' '+r.pname+' '+r.mq+' '+r.tq).toLowerCase().includes(q));
+      if (s === 'newest') list.sort((a,b) => b.sdate_sort.localeCompare(a.sdate_sort));
+      else if (s === 'strong') list.sort((a,b) => (rk[b.gb]||0)-(rk[a.gb]||0) || b.sdate_sort.localeCompare(a.sdate_sort));
+      else list.sort((a,b) => (b.bt_up?1:0)-(a.bt_up?1:0) || (rk[b.gb]||0)-(rk[a.gb]||0));
+      const maxP = Math.max(1, Math.ceil(list.length / apsize));
+      if (apage > maxP) apage = maxP;
+      const slc = list.slice((apage-1)*apsize, apage*apsize);
+      arows.innerHTML = slc.map(r => `<div style="padding:10px;border:1px solid rgba(140,160,200,0.22);border-radius:8px;margin-bottom:8px"><div class="enc-meta-row"><a class="enc-pill good" href="../programs/dossier.html?id=${encodeURIComponent(r.pid)}#row=${encodeURIComponent(r.wid)}">${esc(r.wid)} &rarr; Full Row</a><span class="enc-pill">${esc(r.gb)}</span>${r.bt_up?'<span class="enc-pill good">Blue Team Elevated</span>':''}<span class="enc-pill">${esc(r.sdate)} &rarr; ${esc(r.tdate)}</span></div><div class="enc-small" style="margin:4px 0"><strong>${esc(r.pname)}</strong> &mdash; ${esc(r.title)}</div><div class="enc-quote-grid"><div class="enc-quote"><span class="qhead">Micah Blumberg (${esc(r.sdate)})</span>${esc(r.mq||'OPEN-SOURCE-GATED')}</div><div class="enc-quote target"><span class="qhead">Compared Publication (${esc(r.tdate)})</span>${esc(r.tq||'OPEN-SOURCE-GATED')}</div></div></div>`).join('') || '<p class="enc-small">No indexed direct rows; open the program dossier links above for full rows.</p>';
+      apager.innerHTML = list.length > apsize ? `<button class="enc-tab" type="button" id="aprev" ${apage<=1?'disabled':''}>&larr; Prev</button><span class="enc-pill">Page ${apage} / ${maxP} (${list.length} rows)</span><button class="enc-tab" type="button" id="anext" ${apage>=maxP?'disabled':''}>Next &rarr;</button><button class="enc-tab" type="button" id="aall">Show All</button>` : '';
+      const pv = document.getElementById('aprev'), nx = document.getElementById('anext'), al = document.getElementById('aall');
+      if (pv) pv.onclick = () => { if (apage > 1) { apage--; drawRows(); } };
+      if (nx) nx.onclick = () => { if (apage < maxP) { apage++; drawRows(); } };
+      if (al) al.onclick = () => { apsize = 500; apage = 1; drawRows(); };
+    }
+    arq.oninput = () => { apage = 1; drawRows(); };
+    ars.onchange = () => { apage = 1; drawRows(); };
+    drawRows();
+  });
+})();
+</script>
+</main></body></html>

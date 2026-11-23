@@ -1,0 +1,697 @@
+{
+  "authors_linked": [
+    {
+      "name": "Andrea Alamia",
+      "slug": "andrea-alamia"
+    },
+    {
+      "name": "Lucie Terral",
+      "slug": "lucie-terral"
+    },
+    {
+      "name": "Malo Renaud D'Ambra",
+      "slug": "malo-renaud-d-ambra"
+    },
+    {
+      "name": "Rufin VanRullen",
+      "slug": "rufin-vanrullen"
+    },
+    {
+      "name": "Christopher Timmermann",
+      "slug": "christopher-timmermann"
+    },
+    {
+      "name": "David J Nutt",
+      "slug": "david-j-nutt"
+    },
+    {
+      "name": "Robin L Carhart-Harris",
+      "slug": "robin-l-carhart-harris"
+    },
+    {
+      "name": "Jakob C. B. Schwenk",
+      "slug": "jakob-c-b-schwenk"
+    }
+  ],
+  "display_code": "alamia-vanrullen-predictive-traveling-waves",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2017-04-11 and 2022-06-12, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 11 documented mechanisms appearing in Alamia Vanrullen Predictive Traveling Waves (2018-11-07 to 2025-08-11) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Alamia Vanrullen Predictive Traveling Waves",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 10 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 11 dated comparisons and 33 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-alamia-vanrullen-predictive-traveling-waves",
+  "program_name": "Alamia Vanrullen Predictive Traveling Waves",
+  "rows": [
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Jakob C. B. Schwenk",
+          "slug": "jakob-c-b-schwenk"
+        },
+        {
+          "name": "Andrea Alamia",
+          "slug": "andrea-alamia"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2022-06-12-earlier-than-2025-08-11-target-document",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial-full-operator-limited-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "map, visual–motor–reafferent loop, GCS, dendritic receive–transform–re-express field, Gaussian-splat",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; document-relative-chronology-pass; detective-full-operator-or-zero-error-avoided",
+      "red_team_grade": "weak-partial-full-operator-limited-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-12",
+      "source_date_sort": "2022-06-12",
+      "source_locator": "",
+      "target_date": "2025-08-11",
+      "target_date_sort": "2025-08-11",
+      "target_locator": "PLOS Computational Biology 2025 abstract, model architecture, and discussion",
+      "target_quote": "5. Schwenk and Alamia, **A hierarchical multiscale model of forward and backward alpha-band traveling waves in the",
+      "target_url": "https://doi.org/10.1371/journal.pcbi.1013294",
+      "title": "A hierarchical multiscale model of forward and backward alpha-band traveling waves in the visual system",
+      "win_id": "AVR-DOCWIN-MULTISCALE2025-M2022-NAPOT-PWD-MULTISCALE-PREFIX"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Andrea Alamia",
+          "slug": "andrea-alamia"
+        },
+        {
+          "name": "Lucie Terral",
+          "slug": "lucie-terral"
+        },
+        {
+          "name": "Malo Renaud D'Ambra",
+          "slug": "malo-renaud-d-ambra"
+        },
+        {
+          "name": "Rufin VanRullen",
+          "slug": "rufin-vanrullen"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / citation-header-stub) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2022-06-12-earlier-than-2023-03-29-target-document",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-repeated-stage-functional-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Receiver-relative PWD processing distinguishes incoming changes from ongoing activity and routes bottom-up and top-down feedback through a perceptual network.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; document-relative-chronology-pass; detective-full-operator-or-zero-error-avoided",
+      "red_team_grade": "weak-repeated-stage-functional-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-12",
+      "source_date_sort": "2022-06-12",
+      "source_locator": "",
+      "target_date": "2023-03-29",
+      "target_date_sort": "2023-03-29",
+      "target_locator": "bioRxiv 2022 preprint and eLife 2023 version of record",
+      "target_quote": "3. Alamia et al., **Distinct roles of forward and backward alpha-band waves in spatial visual attention**, eLife",
+      "target_url": "https://doi.org/10.7554/eLife.85035",
+      "title": "Distinct roles of forward and backward alpha-band waves in spatial visual attention",
+      "win_id": "AVR-DOCWIN-ATTENTION-JOURNAL2023-M2022-PWD-RECEIVE-FEEDBACK"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Andrea Alamia",
+          "slug": "andrea-alamia"
+        },
+        {
+          "name": "Lucie Terral",
+          "slug": "lucie-terral"
+        },
+        {
+          "name": "Malo Renaud D'Ambra",
+          "slug": "malo-renaud-d-ambra"
+        },
+        {
+          "name": "Rufin VanRullen",
+          "slug": "rufin-vanrullen"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / citation-header-stub) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2022-06-12-earlier-than-2022-08-18-target-document",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-repeated-stage-functional-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Receiver-relative PWD processing distinguishes incoming changes from ongoing activity and routes bottom-up and top-down feedback through a perceptual network.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; document-relative-chronology-pass; detective-full-operator-or-zero-error-avoided",
+      "red_team_grade": "weak-repeated-stage-functional-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-12",
+      "source_date_sort": "2022-06-12",
+      "source_locator": "",
+      "target_date": "2022-08-18",
+      "target_date_sort": "2022-08-18",
+      "target_locator": "bioRxiv 2022 preprint and eLife 2023 version of record",
+      "target_quote": "3. Alamia et al., **Distinct roles of forward and backward alpha-band waves in spatial visual attention**, eLife",
+      "target_url": "https://doi.org/10.1101/2022.08.18.504422",
+      "title": "Distinct roles of forward and backward alpha-band waves in spatial visual attention (bioRxiv preprint)",
+      "win_id": "AVR-DOCWIN-ATTENTION-PREPRINT2022-M2022-PWD-RECEIVE-FEEDBACK"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Jakob C. B. Schwenk",
+          "slug": "jakob-c-b-schwenk"
+        },
+        {
+          "name": "Andrea Alamia",
+          "slug": "andrea-alamia"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the medium-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-04-11-earlier-than-2025-08-11-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-private-document-relative-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "side of the visual part of their brain. Anyway. So the, the point being that there are differences,",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; document-relative-chronology-pass; longitudinal-signature-cluster-convergence",
+      "red_team_grade": "medium-private-document-relative-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2025-08-11",
+      "target_date_sort": "2025-08-11",
+      "target_locator": "PLOS Computational Biology 2025 model architecture and summary",
+      "target_quote": "- Alamia-VanRullen retain their exact delayed hierarchical alpha-wave equation, empirical forward/backward wave findings, DMT result, attention result,",
+      "target_url": "https://doi.org/10.1371/journal.pcbi.1013294",
+      "title": "A hierarchical multiscale model of forward and backward alpha-band traveling waves in the visual system",
+      "win_id": "AVR-DOCWIN-MULTISCALE2025-M2017-HIERARCHICAL-ROUTING"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Andrea Alamia",
+          "slug": "andrea-alamia"
+        },
+        {
+          "name": "Lucie Terral",
+          "slug": "lucie-terral"
+        },
+        {
+          "name": "Malo Renaud D'Ambra",
+          "slug": "malo-renaud-d-ambra"
+        },
+        {
+          "name": "Rufin VanRullen",
+          "slug": "rufin-vanrullen"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Held at medium-partial transparently while preserving permanent membership: primary excerpt side check (substantive / citation-header-stub) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-04-11-earlier-than-2023-03-29-target-document",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-private-document-relative-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Consideration Sandwich name and expanded sensory/top-down/proprioception section",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; document-relative-chronology-pass; longitudinal-later-functional-convergence",
+      "red_team_grade": "medium-private-document-relative-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2023-03-29",
+      "target_date_sort": "2023-03-29",
+      "target_locator": "bioRxiv 2022 preprint and eLife 2023 version of record",
+      "target_quote": "3. Alamia et al., **Distinct roles of forward and backward alpha-band waves in spatial visual attention**, eLife",
+      "target_url": "https://doi.org/10.7554/eLife.85035",
+      "title": "Distinct roles of forward and backward alpha-band waves in spatial visual attention",
+      "win_id": "AVR-DOCWIN-ATTENTION-JOURNAL2023-M2017-FREQUENCY-FEEDBACK"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Andrea Alamia",
+          "slug": "andrea-alamia"
+        },
+        {
+          "name": "Lucie Terral",
+          "slug": "lucie-terral"
+        },
+        {
+          "name": "Malo Renaud D'Ambra",
+          "slug": "malo-renaud-d-ambra"
+        },
+        {
+          "name": "Rufin VanRullen",
+          "slug": "rufin-vanrullen"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Held at medium-partial transparently while preserving permanent membership: primary excerpt side check (substantive / citation-header-stub) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-04-11-earlier-than-2022-08-18-target-document",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-private-document-relative-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Consideration Sandwich name and expanded sensory/top-down/proprioception section",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; document-relative-chronology-pass; longitudinal-later-functional-convergence",
+      "red_team_grade": "medium-private-document-relative-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2022-08-18",
+      "target_date_sort": "2022-08-18",
+      "target_locator": "bioRxiv 2022 preprint and eLife 2023 version of record",
+      "target_quote": "3. Alamia et al., **Distinct roles of forward and backward alpha-band waves in spatial visual attention**, eLife",
+      "target_url": "https://doi.org/10.1101/2022.08.18.504422",
+      "title": "Distinct roles of forward and backward alpha-band waves in spatial visual attention (bioRxiv preprint)",
+      "win_id": "AVR-DOCWIN-ATTENTION-PREPRINT2022-M2017-FREQUENCY-FEEDBACK"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Andrea Alamia",
+          "slug": "andrea-alamia"
+        },
+        {
+          "name": "Christopher Timmermann",
+          "slug": "christopher-timmermann"
+        },
+        {
+          "name": "David J Nutt",
+          "slug": "david-j-nutt"
+        },
+        {
+          "name": "Rufin VanRullen",
+          "slug": "rufin-vanrullen"
+        },
+        {
+          "name": "Robin L Carhart-Harris",
+          "slug": "robin-l-carhart-harris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / citation-header-stub) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-04-11-earlier-than-2020-10-21-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-empirical-functional-match-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "audio information and protocols that are great at processing, um, uh, visual information. So I imagine like visual information would, the protocol would probably be like something in the gamma frequency",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; document-relative-chronology-pass; longitudinal-later-empirical-convergence",
+      "red_team_grade": "weak-empirical-functional-match-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2020-10-21",
+      "target_date_sort": "2020-10-21",
+      "target_locator": "eLife 9:e59784 abstract, results, and corrected author record",
+      "target_quote": "3. Alamia et al., **Distinct roles of forward and backward alpha-band waves in spatial visual attention**, eLife",
+      "target_url": "https://doi.org/10.7554/eLife.59784",
+      "title": "DMT alters cortical travelling waves",
+      "win_id": "AVR-DOCWIN-DMT2020-M2017-WAVE-DIRECTION-CONSCIOUS-STATE"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Andrea Alamia",
+          "slug": "andrea-alamia"
+        },
+        {
+          "name": "Rufin VanRullen",
+          "slug": "rufin-vanrullen"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (substantive / short-excerpt) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-04-11-earlier-than-2019-10-03-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial-causal-prefix-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "[08:57.380 --> 09:01.880] hierarchy, the deep learning hierarchy, the computer figures out what that third pattern is. That's step",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; document-relative-chronology-pass; detective-full-operator-or-zero-error-reversed",
+      "red_team_grade": "weak-partial-causal-prefix-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2019-10-03",
+      "target_date_sort": "2019-10-03",
+      "target_locator": "forward/backward wave model and interpretation",
+      "target_quote": "-> forward/backward alpha traveling waves",
+      "target_url": "https://doi.org/10.1371/journal.pbio.3000487",
+      "title": "Alpha oscillations and traveling waves: Signatures of predictive coding?",
+      "win_id": "AVR-DOCWIN-JOURNAL2019-M2017-FORWARD-BACKWARD-PREFIX"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Andrea Alamia",
+          "slug": "andrea-alamia"
+        },
+        {
+          "name": "Rufin VanRullen",
+          "slug": "rufin-vanrullen"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the medium-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-04-11-earlier-than-2019-10-03-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-private-document-relative-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "um, uh, the electromagnetic or alternating transmission protocol. Then we can communicate",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; document-relative-chronology-pass; detective-full-operator-or-zero-error-reversed",
+      "red_team_grade": "medium-private-document-relative-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2019-10-03",
+      "target_date_sort": "2019-10-03",
+      "target_locator": "bioRxiv 10.1101/464933 and PLOS Biology causal model",
+      "target_quote": "- Alamia-VanRullen retain their exact delayed hierarchical alpha-wave equation, empirical forward/backward wave findings, DMT result, attention result,",
+      "target_url": "https://doi.org/10.1371/journal.pbio.3000487",
+      "title": "Alpha oscillations and traveling waves: Signatures of predictive coding?",
+      "win_id": "AVR-DOCWIN-JOURNAL2019-M2017-DIFFERENCE-SPATIAL-STATE"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Andrea Alamia",
+          "slug": "andrea-alamia"
+        },
+        {
+          "name": "Rufin VanRullen",
+          "slug": "rufin-vanrullen"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-04-11-earlier-than-2018-11-07-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial-causal-prefix-candidate",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "[08:57.380 --> 09:01.880] hierarchy, the deep learning hierarchy, the computer figures out what that third pattern is. That's step",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; document-relative-chronology-pass; detective-full-operator-or-zero-error-reversed",
+      "red_team_grade": "weak-partial-causal-prefix-candidate",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2018-11-07",
+      "target_date_sort": "2018-11-07",
+      "target_locator": "forward/backward wave model and interpretation",
+      "target_quote": "occurrence of oscillatory travelling waves across layers, both feedforward (during visual stimulation) and backward (during rest).",
+      "target_url": "https://doi.org/10.1101/464933",
+      "title": "Alpha oscillations and travelling waves: signatures of predictive coding? (bioRxiv preprint)",
+      "win_id": "AVR-DOCWIN-PREPRINT2018-M2017-FORWARD-BACKWARD-PREFIX"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Andrea Alamia",
+          "slug": "andrea-alamia"
+        },
+        {
+          "name": "Rufin VanRullen",
+          "slug": "rufin-vanrullen"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the medium-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "medium-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "Micah-2017-04-11-earlier-than-2018-11-07-target-document",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-private-document-relative-candidate",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "um, uh, the electromagnetic or alternating transmission protocol. Then we can communicate",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "medium-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "equivalence-partial-pass; narrative-patent-causal-prefix-pass; document-relative-chronology-pass; detective-full-operator-or-zero-error-reversed",
+      "red_team_grade": "medium-private-document-relative-candidate",
+      "red_team_grade_bucket": "medium-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "",
+      "target_date": "2018-11-07",
+      "target_date_sort": "2018-11-07",
+      "target_locator": "bioRxiv 10.1101/464933 and PLOS Biology causal model",
+      "target_quote": "Predictive coding is a key mechanism to understand the computational processes underlying brain functioning: in a hierarchical",
+      "target_url": "https://doi.org/10.1101/464933",
+      "title": "Alpha oscillations and travelling waves: signatures of predictive coding? (bioRxiv preprint)",
+      "win_id": "AVR-DOCWIN-PREPRINT2018-M2017-DIFFERENCE-SPATIAL-STATE"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 11 certified dated prior-art comparisons with Alamia Vanrullen Predictive Traveling Waves across 33 listed-author attributions (10 verified both-prose side-by-side pairs; 1 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 5 medium-partial, 6 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2017-04-11",
+    "earliest_micah_year": 2017,
+    "earliest_target_date": "2018-11-07",
+    "earliest_target_year": 2018,
+    "latest_micah_date": "2022-06-12",
+    "latest_target_date": "2025-08-11",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 11,
+    "grade_breakdown": {
+      "medium-partial": 5,
+      "weak-partial": 6
+    },
+    "lens4_event_ids": [
+      "lsm-alamia-vanrullen-predictive-traveling-wave-20261122"
+    ],
+    "listed_author_edges": 33,
+    "open_source_gated_passages": 1,
+    "red_team_grade_breakdown": {
+      "medium-partial": 5,
+      "weak-partial": 6
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 10
+  }
+}

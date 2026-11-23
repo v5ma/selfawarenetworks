@@ -1,0 +1,520 @@
+{
+  "authors_linked": [
+    {
+      "name": "Valerio Francioni",
+      "slug": "valerio-francioni"
+    },
+    {
+      "name": "Vincent D. Tang",
+      "slug": "vincent-d-tang"
+    },
+    {
+      "name": "Norma J. Brown",
+      "slug": "norma-j-brown"
+    },
+    {
+      "name": "Enrique H. S. Toloza",
+      "slug": "enrique-h-s-toloza"
+    },
+    {
+      "name": "Mark Harnett",
+      "slug": "mark-harnett"
+    }
+  ],
+  "display_code": "francioni-harnett-vectorized-instructive-signals",
+  "domain_group": "neuroscience",
+  "domains": "neuroscience",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-09-19 and 2022-06-08, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 7 documented mechanisms appearing in Francioni Harnett Vectorized Instructive Signals (2023-11-05 to 2023-11-05) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Francioni Harnett Vectorized Instructive Signals",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 7 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 7 dated comparisons and 35 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-francioni-harnett-vectorized-instructive-signals",
+  "program_name": "Francioni Harnett Vectorized Instructive Signals",
+  "rows": [
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Valerio Francioni",
+          "slug": "valerio-francioni"
+        },
+        {
+          "name": "Vincent D. Tang",
+          "slug": "vincent-d-tang"
+        },
+        {
+          "name": "Norma J. Brown",
+          "slug": "norma-j-brown"
+        },
+        {
+          "name": "Enrique H. S. Toloza",
+          "slug": "enrique-h-s-toloza"
+        },
+        {
+          "name": "Mark Harnett",
+          "slug": "mark-harnett"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[FH-D02 in francioni-harnett-2023-biorxiv (2023-11-05) x M22-PHASE-FIELD (2022-06-08)] Soma-versus-dendrite differential signals encoding network-predicted task reward and instructive error variables; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic arrays and projected as synchron",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2023-11-05",
+      "target_date_sort": "2023-11-05",
+      "target_locator": "francioni-vectorized-biorxiv-v1-2023.txt (FH-D02)",
+      "target_quote": "We observed that the relative magnitudes of somatic versus dendritic signals could be predicted using the activity of the surrounding network and contained information 25 about task-related variables that could serve as instructive signals, including reward and error.",
+      "target_url": "",
+      "title": "Vectorized instructive signals in cortical dendrites during a brain-computer interface task (bioRxiv 2023.11.03.565534)",
+      "win_id": "FRAN-DEN-SC-005"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Valerio Francioni",
+          "slug": "valerio-francioni"
+        },
+        {
+          "name": "Vincent D. Tang",
+          "slug": "vincent-d-tang"
+        },
+        {
+          "name": "Norma J. Brown",
+          "slug": "norma-j-brown"
+        },
+        {
+          "name": "Enrique H. S. Toloza",
+          "slug": "enrique-h-s-toloza"
+        },
+        {
+          "name": "Mark Harnett",
+          "slug": "mark-harnett"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), and phase changes transmitted out to the network via the exit terminal branches. Imagine the 4dime...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[FH-D01 in francioni-harnett-2023-biorxiv (2023-11-05) x M22-PHASE-FIELD (2022-06-08)] Separate cortical dendritic compartments semi-independently integrating feedforward and feedback streams for credit assignment; anticipated partially in Blumberg (2022-06-08) via Multilayer phase-field representation read by dendritic arrays and project",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "lines 4-8",
+      "target_date": "2023-11-05",
+      "target_date_sort": "2023-11-05",
+      "target_locator": "francioni-vectorized-biorxiv-v1-2023.txt (FH-D01)",
+      "target_quote": "Recent theoretical models have suggested that neural circuits could 15 implement backpropagation-like learning by semi-independently processing feedforward and feedback information streams in separate dendritic compartments3–7.",
+      "target_url": "",
+      "title": "Vectorized instructive signals in cortical dendrites during a brain-computer interface task (bioRxiv 2023.11.03.565534)",
+      "win_id": "FRAN-DEN-SC-003"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Valerio Francioni",
+          "slug": "valerio-francioni"
+        },
+        {
+          "name": "Vincent D. Tang",
+          "slug": "vincent-d-tang"
+        },
+        {
+          "name": "Norma J. Brown",
+          "slug": "norma-j-brown"
+        },
+        {
+          "name": "Enrique H. S. Toloza",
+          "slug": "enrique-h-s-toloza"
+        },
+        {
+          "name": "Mark Harnett",
+          "slug": "mark-harnett"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2018-05-30) expresses active mechanism anchors (dendritic, data structure) that map structurally onto the later publication's (2023-11-05) formulation (population) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "In closing: Consider the Dendrite as an advanced data structure, and consider that dendritic computation may have vast temporal and spatial memory capabilities for setting, presetting, and holding decision making information criteria based on a vast capability to respond in very complex ways to incoming signals by making very tiny changes to its structure...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "[FH-D03 in francioni-harnett-2023-biorxiv (2023-11-05) x M18-DENDRITIC (2018-05-30)] Closed-loop neurofeedback modulation of intermingled layer-5 pyramidal somas and distal apical dendrites steering goal-directed visual targets; anticipated partially in Blumberg (2018-05-30) via Dendrites as advanced temporal-spatial data structures setti",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "p#9979",
+      "target_date": "2023-11-05",
+      "target_date_sort": "2023-11-05",
+      "target_locator": "francioni-vectorized-biorxiv-v1-2023.txt (FH-D03)",
+      "target_quote": "We trained mice to modulate the activity of two spatially intermingled populations (4 or 5 neurons each) of layer 5 pyramidal neurons in the retrosplenial cortex to rotate a visual grating towards a target orientation while we recorded GCaMP activity from somas and corresponding distal apical dendrites.",
+      "target_url": "",
+      "title": "Vectorized instructive signals in cortical dendrites during a brain-computer interface task (bioRxiv 2023.11.03.565534)",
+      "win_id": "FRAN-DEN-SC-007"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Valerio Francioni",
+          "slug": "valerio-francioni"
+        },
+        {
+          "name": "Vincent D. Tang",
+          "slug": "vincent-d-tang"
+        },
+        {
+          "name": "Norma J. Brown",
+          "slug": "norma-j-brown"
+        },
+        {
+          "name": "Enrique H. S. Toloza",
+          "slug": "enrique-h-s-toloza"
+        },
+        {
+          "name": "Mark Harnett",
+          "slug": "mark-harnett"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "In closing: Consider the Dendrite as an advanced data structure, and consider that dendritic computation may have vast temporal and spatial memory capabilities for setting, presetting, and holding decision making information criteria based on a vast capability to respond in very complex ways to incoming signals by making very tiny changes to its structure...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[FH-D02 in francioni-harnett-2023-biorxiv (2023-11-05) x M18-DENDRITIC (2018-05-30)] Soma-versus-dendrite differential signals encoding network-predicted task reward and instructive error variables; anticipated partially in Blumberg (2018-05-30) via Dendrites as advanced temporal-spatial data structures setting and holding adaptive decisi",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "p#9979",
+      "target_date": "2023-11-05",
+      "target_date_sort": "2023-11-05",
+      "target_locator": "francioni-vectorized-biorxiv-v1-2023.txt (FH-D02)",
+      "target_quote": "We observed that the relative magnitudes of somatic versus dendritic signals could be predicted using the activity of the surrounding network and contained information 25 about task-related variables that could serve as instructive signals, including reward and error.",
+      "target_url": "",
+      "title": "Vectorized instructive signals in cortical dendrites during a brain-computer interface task (bioRxiv 2023.11.03.565534)",
+      "win_id": "FRAN-DEN-SC-004"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Valerio Francioni",
+          "slug": "valerio-francioni"
+        },
+        {
+          "name": "Vincent D. Tang",
+          "slug": "vincent-d-tang"
+        },
+        {
+          "name": "Norma J. Brown",
+          "slug": "norma-j-brown"
+        },
+        {
+          "name": "Enrique H. S. Toloza",
+          "slug": "enrique-h-s-toloza"
+        },
+        {
+          "name": "Mark Harnett",
+          "slug": "mark-harnett"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "In closing: Consider the Dendrite as an advanced data structure, and consider that dendritic computation may have vast temporal and spatial memory capabilities for setting, presetting, and holding decision making information criteria based on a vast capability to respond in very complex ways to incoming signals by making very tiny changes to its structure...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[FH-D01 in francioni-harnett-2023-biorxiv (2023-11-05) x M18-DENDRITIC (2018-05-30)] Separate cortical dendritic compartments semi-independently integrating feedforward and feedback streams for credit assignment; anticipated partially in Blumberg (2018-05-30) via Dendrites as advanced temporal-spatial data structures setting and holding a",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "p#9979",
+      "target_date": "2023-11-05",
+      "target_date_sort": "2023-11-05",
+      "target_locator": "francioni-vectorized-biorxiv-v1-2023.txt (FH-D01)",
+      "target_quote": "Recent theoretical models have suggested that neural circuits could 15 implement backpropagation-like learning by semi-independently processing feedforward and feedback information streams in separate dendritic compartments3–7.",
+      "target_url": "",
+      "title": "Vectorized instructive signals in cortical dendrites during a brain-computer interface task (bioRxiv 2023.11.03.565534)",
+      "win_id": "FRAN-DEN-SC-002"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Valerio Francioni",
+          "slug": "valerio-francioni"
+        },
+        {
+          "name": "Vincent D. Tang",
+          "slug": "vincent-d-tang"
+        },
+        {
+          "name": "Norma J. Brown",
+          "slug": "norma-j-brown"
+        },
+        {
+          "name": "Enrique H. S. Toloza",
+          "slug": "enrique-h-s-toloza"
+        },
+        {
+          "name": "Mark Harnett",
+          "slug": "mark-harnett"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "structure of each neuron is a program, it's shape encodes functions that define tiny variations in the distribution of it's ejection 17 hours ago · Like Cloudy Mayajuana potentially infinite variation, but SPD means means an incredible amount of noise filtering is happening. 17 hours ago · Like Cloudy Mayajuana Your",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[FH-D03 in francioni-harnett-2023-biorxiv (2023-11-05) x M12-SHAPE-PROG (2012-09-19)] Closed-loop neurofeedback modulation of intermingled layer-5 pyramidal somas and distal apical dendrites steering goal-directed visual targets; anticipated partially in Blumberg (2012-09-19) via Neuronal geometry, shape, and morphology directly encoding ",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-09-19",
+      "source_date_sort": "2012-09-19",
+      "source_locator": "lines 1-40",
+      "target_date": "2023-11-05",
+      "target_date_sort": "2023-11-05",
+      "target_locator": "francioni-vectorized-biorxiv-v1-2023.txt (FH-D03)",
+      "target_quote": "We trained mice to modulate the activity of two spatially intermingled populations (4 or 5 neurons each) of layer 5 pyramidal neurons in the retrosplenial cortex to rotate a visual grating towards a target orientation while we recorded GCaMP activity from somas and corresponding distal apical dendrites.",
+      "target_url": "",
+      "title": "Vectorized instructive signals in cortical dendrites during a brain-computer interface task (bioRxiv 2023.11.03.565534)",
+      "win_id": "FRAN-DEN-SC-006"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Valerio Francioni",
+          "slug": "valerio-francioni"
+        },
+        {
+          "name": "Vincent D. Tang",
+          "slug": "vincent-d-tang"
+        },
+        {
+          "name": "Norma J. Brown",
+          "slug": "norma-j-brown"
+        },
+        {
+          "name": "Enrique H. S. Toloza",
+          "slug": "enrique-h-s-toloza"
+        },
+        {
+          "name": "Mark Harnett",
+          "slug": "mark-harnett"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "structure of each neuron is a program, it's shape encodes functions that define tiny variations in the distribution of it's ejection 17 hours ago · Like Cloudy Mayajuana potentially infinite variation, but SPD means means an incredible amount of noise filtering is happening. 17 hours ago · Like Cloudy Mayajuana Your",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "[FH-D01 in francioni-harnett-2023-biorxiv (2023-11-05) x M12-SHAPE-PROG (2012-09-19)] Separate cortical dendritic compartments semi-independently integrating feedforward and feedback streams for credit assignment; anticipated partially in Blumberg (2012-09-19) via Neuronal geometry, shape, and morphology directly encoding executable netwo",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-09-19",
+      "source_date_sort": "2012-09-19",
+      "source_locator": "lines 1-40",
+      "target_date": "2023-11-05",
+      "target_date_sort": "2023-11-05",
+      "target_locator": "francioni-vectorized-biorxiv-v1-2023.txt (FH-D01)",
+      "target_quote": "Recent theoretical models have suggested that neural circuits could 15 implement backpropagation-like learning by semi-independently processing feedforward and feedback information streams in separate dendritic compartments3–7.",
+      "target_url": "",
+      "title": "Vectorized instructive signals in cortical dendrites during a brain-computer interface task (bioRxiv 2023.11.03.565534)",
+      "win_id": "FRAN-DEN-SC-001"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 7 certified dated prior-art comparisons with Francioni Harnett Vectorized Instructive Signals across 35 listed-author attributions (7 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 1 medium-partial, 6 weak-partial, 0 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-09-19",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2023-11-05",
+    "earliest_target_year": 2023,
+    "latest_micah_date": "2022-06-08",
+    "latest_target_date": "2023-11-05",
+    "latest_target_year": 2023
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 7,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "weak-partial": 6
+    },
+    "lens4_event_ids": [
+      "lsm-francioni-harnett-dendrites-20261122"
+    ],
+    "listed_author_edges": 35,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 7
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 7
+  }
+}

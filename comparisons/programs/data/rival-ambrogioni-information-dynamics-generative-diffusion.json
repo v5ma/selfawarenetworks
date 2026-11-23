@@ -1,0 +1,1539 @@
+{
+  "authors_linked": [
+    {
+      "name": "Dejan Stancevic",
+      "slug": "dejan-stancevic"
+    },
+    {
+      "name": "Luca Ambrogioni",
+      "slug": "luca-ambrogioni"
+    },
+    {
+      "name": "Marcel A. J. van Gerven",
+      "slug": "marcel-a-j-van-gerven"
+    },
+    {
+      "name": "Eric Maris",
+      "slug": "eric-maris"
+    },
+    {
+      "name": "Stančević D",
+      "slug": "stan-evi-d"
+    },
+    {
+      "name": "Ambrogioni L",
+      "slug": "ambrogioni-l"
+    }
+  ],
+  "display_code": "ambrogioni-information-dynamics-generative-diffusion",
+  "domain_group": "physics",
+  "domains": "artificial-intelligence; mathematics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2010-01-01 and 2025-08-21, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 27 documented mechanisms appearing in Ambrogioni Information Dynamics Generative Diffusion (2016-05-09 to 2026-02-10) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Ambrogioni Information Dynamics Generative Diffusion",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 27 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 7 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 27 dated comparisons and 66 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-ambrogioni-information-dynamics-generative-diffusion",
+  "program_name": "Ambrogioni Information Dynamics Generative Diffusion",
+  "rows": [
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge) via the Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization bridge. Micah Blumberg's dated passage (2025-08-21) expresses active mechanism anchors (thermodynamic, entropy) that map structurally onto the later publication's (2025-08-27) formulation (thermodynamic, entropy) through the shared operation: Input (non-equilibrium energy and information fluxes inside a physical or neural material substrate) -> Transform (constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization) -> Output (self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization).",
+        "ito_alignment": "Input: non-equilibrium energy and information fluxes inside a physical or neural material substrate -> Transform: constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization -> Output: self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization",
+        "lens_basis": "Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge)",
+        "primary_bridge_id": "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "primary_bridge_name": "Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "## NAPOT: The Biological Parallel The paper proposes the following cross-domain mapping from MASI to cortical dynamics: | MASI Component | NAPOT Equivalent | |---|---| | Coded sensor | Cortical column | | Local diffraction pattern | Phase Wave Differential (relative to tonic carrier wave) | | Carrier wave / reference beam | Tonic alpha/beta oscillation (baseline firing) | | Phase-alignment algorithm | Gamma",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 24.58,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2025-08-21 formulation shares conceptual/operational mechanisms (entropy, thermodynamic) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-21",
+      "source_date_sort": "2025-08-21",
+      "source_locator": "MNLT PDF pp. 8 and 35-38",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "This paper provides an integrated perspective on generative diffusion by connecting the information-theoretic, dynamical, and thermodynamic aspects. We demonstrate that the rate of conditional entropy production during generation (i.e., the generative bandwidth) is directly governed by the expected divergence of the score function's vector field.",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "entropy, thermodynamic — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A06"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "reducing mismatches until stable patterns emerge—be it a classical uniform distribution or a particular quantum amplitude distribution. 3.3 Neural Network Field Theories: A Bridge Between Micro and Macro Recent advances in Neural Network Field Theory show that, in the limit of infinitely wide neural networks (or certain expansions around that limit), neural dynamics can map onto free field theories (Neal 1996, Lee 2020). Introducing interaction terms (e.g.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 23.79,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (dynamics, field) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 27]",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "In practical models, approximation error means that equalities derived under the oracle assumption may only hold approximately. Moreover, the learned vector field used in sampling need not coincide with the gradient of any true log-density (i.e., it may be non-integrable), which can introduce inconsistencies relative to the idealized score-driven dynamics.",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "dynamics, field — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A11"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "iterative computations that reduce phase-wave differences until equilibrium emerges. While classical thermodynamics typically explains “randomness” in terms of molecular collisions, the wave-dissipation principle highlights that those collisions (or interactions) are local, de- terministic exchanges of signal differentials that simply appear random at a macro scale. Shared Premise: Undersampled Determinism • SuperTimePosition: Quantum randomness arises fro",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 23.92,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (entropy, phase, stochastic, thermodynamics) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 34]",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "Keywords:generative diffusion models; stochastic thermodynamics; information theory; entropy production; symmetry breaking; phase transition 1. Introduction Generative diffusion models have rapidly become one of the most successful frameworks for high-dimensional generation across images, audio, and video [ 1–5].",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "entropy, phase, stochastic, thermodynamics — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A10"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "iterative computations that reduce phase-wave differences until equilibrium emerges. While classical thermodynamics typically explains “randomness” in terms of molecular collisions, the wave-dissipation principle highlights that those collisions (or interactions) are local, de- terministic exchanges of signal differentials that simply appear random at a macro scale. Shared Premise: Undersampled Determinism • SuperTimePosition: Quantum randomness arises fro",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 26.1,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (entropy, stochastic, thermodynamics) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 34]",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "This explains how noise fluctuations can propagate and shape the final generative outcome. Variance peak as a speciation-time marker: Motivated by tools from stochastic thermodynamics, we introduce the variance of pathwise conditional entropy.",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "entropy, stochastic, thermodynamics — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A04"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Stančević D",
+          "slug": "stan-evi-d"
+        },
+        {
+          "name": "Ambrogioni L",
+          "slug": "ambrogioni-l"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "ρt, ψ, Aµ, . . . \u0001 # , (2) where: • LSM is the Standard Model Lagrangian. • The time-density sector is described by Lρt = 1 2 gµν ∂µρt ∂νρt − V (ρt), with a potential V (ρt) chosen to ensure stability and, if desired, to induce nonlinear saturation effects. • Lint encodes the interactions between ρt and matter/gauge fields. For example, couplings such as − f1(ρt) ψ ψ or − 1 2 f2(ρt) FµνF µν naturally produce the ±α ρt or ±k/ρt corrections that in earlier w",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.05,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (nonlinear, symmetry) with Ambrogioni Information Dynamics Generative Diffusion (2026-02-10; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 45]",
+      "target_date": "2026-02-10",
+      "target_date_sort": "2026-02-10",
+      "target_locator": "doi:10.3390/e28020195 | The Information Dynamics of Generative Diffusion.",
+      "target_quote": "Together, these results establish generative diffusion as a process of controlled, noise-induced symmetry breaking, in which the score function acts as a dynamic nonlinear filter that regulates both the rate and variability of information flow from noise to data.",
+      "target_url": "https://doi.org/10.3390/e28020195",
+      "title": "nonlinear, symmetry — The Information Dynamics of Generative Diffusion.",
+      "win_id": "G1-AMBROGIONI-INFOR-D03-A03"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Stančević D",
+          "slug": "stan-evi-d"
+        },
+        {
+          "name": "Ambrogioni L",
+          "slug": "ambrogioni-l"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "4.7 Summary of the Revised Approach In conclusion: • Single Action, Multiple Equations: We embed ρt in the Lagrangian alongside the Standard Model and gravity, so all 48 modified equations from the original tables can be understood as special cases or approximations rather than separate fundamental rules. • Gauge Symmetry Maintained: By treating ρt as a gauge-neutral scalar (or by specifying its transformation properly), we avoid accidental gauge-symmetry",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.61,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (energy, symmetry) with Ambrogioni Information Dynamics Generative Diffusion (2026-02-10; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 42]",
+      "target_date": "2026-02-10",
+      "target_date_sort": "2026-02-10",
+      "target_locator": "doi:10.3390/e28020195 | The Information Dynamics of Generative Diffusion.",
+      "target_quote": "This divergence, in turn, is linked to the branching of trajectories and generative bifurcations, which we characterize as symmetry-breaking phase transitions in the energy landscape.",
+      "target_url": "https://doi.org/10.3390/e28020195",
+      "title": "energy, symmetry — The Information Dynamics of Generative Diffusion.",
+      "win_id": "G1-AMBROGIONI-INFOR-D03-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "and mapping out empirical tests—these specialized frameworks are supplementary rather than central. Once those foundational pieces are in place, then such advanced mathematical techniques may significantly deepen and refine the theory’s treatment of extreme time-density regimes. 7.5 Detailed Explanation of Time Density and Gravity Time density, denoted ρt, lies at the core of Dark Time (Super Dark Time). Rather than viewing gravity purely as curvature of s",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 23.76,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (curvature, density, geometric) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 49]",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "Central to these results is the observation that the conditional entropy rate is directly linked to geometric quantities such as the divergence of the score and the curvature of the log-density.",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "curvature, density, geometric — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A12"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (density) that map structurally onto the later publication's (2025-08-27) formulation (manifold, metric) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics).",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "ρt, ψ, Aµ, . . . \u0001 # , (2) where: • LSM is the Standard Model Lagrangian. • The time-density sector is described by Lρt = 1 2 gµν ∂µρt ∂νρt − V (ρt), with a potential V (ρt) chosen to ensure stability and, if desired, to induce nonlinear saturation effects. • Lint encodes the interactions between ρt and matter/gauge fields. For example, couplings such as − f1(ρt) ψ ψ or − 1 2 f2(ρt) FµνF µν naturally produce the ±α ρt or ±k/ρt corrections that in earlier w",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 23.98,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (field, symmetry) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 45]",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "The analysis we just carried out involves the breaking of the permutation symmetry between two isolated data-points. On the other hand, if the symmetry is broken along all directions like in the case where the data manifold is a sphere centered at x∗ t , Equation (45) implies that Tr h ∇T∇logp t(x∗ tc ) i =∇ · ∇logp t(x∗ tc ) =0(46) Therefore, the change in stability condition can be reformulated as the local vanishing (or suppression in a less symmetric c",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "field, symmetry — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A09"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "D.3.1 Singularity Resolution & Black Hole Horizons • Time Density and Singularities. Singularities are modeled as regions of extremely high time density rather than points of infinite spacetime curvature. This may avoid the infinite-density issue of classical GR. • Event Horizons as Extreme Time Density Zones. The event horizon is recast as a region where time density becomes extreme. Quantum effects near the horizon could resolve paradoxes like informatio",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 24.24,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (curvature, fluctuations) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 136]",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "Near low-curvature directions, the score weakens and temporarily loses its ability to suppress stochastic fluctuations, so noise becomes the effective selector of the branch that the generative trajectory follows.",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "curvature, fluctuations — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A08"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "7.14.3 Dark Time’s Reinterpretation of Gravity Dark Time replaces the picture of curving spacetime with that of mass densifying nearby time frames. Particles drift inward because they sample more time intervals in that direction, akin to a biased random walk. Whereas GR explains slower clocks and gravitational redshifts through geometric curvature, Dark Time attributes these effects to gradients in ρt. The local scaling of time thus becomes the central mec",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 24.43,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (curvature, dynamics, trajectories) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 58]",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "This provides a unified, mechanism-level explanation for “decision” events during generation. Local divergence of trajectories under reverse-time dynamics: We show that the same loss of curvature is reflected in the local linearization of the reverse-time flow.",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "curvature, dynamics, trajectories — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A07"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "7.14.3 Dark Time’s Reinterpretation of Gravity Dark Time replaces the picture of curving spacetime with that of mass densifying nearby time frames. Particles drift inward because they sample more time intervals in that direction, akin to a biased random walk. Whereas GR explains slower clocks and gravitational redshifts through geometric curvature, Dark Time attributes these effects to gradients in ρt. The local scaling of time thus becomes the central mec",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 24.71,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (manifold, structure, trajectories) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 58]",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "Across these domains, the key unifying insight is that the Hessian (or Jacobian) score mediates both stability of generative trajectories and the structure of the data manifold.",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "manifold, structure, trajectories — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A05"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "i S(ρt, ϕ, . . . ) \u0001 . New terms can appear that shift or stabilize ρt, and this field can introduce new vertices or loop corrections to standard particles. 7.11.3 Renormalization Group Flow of ρt A crucial question is whether the ρt sector remains consistent across energy scales. The Renormalization Group Equations track how couplings evolve with scale µ. In the ultraviolet regime, one might ask whether ρt remains well-defined. If new physics emerges at a",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 27.48,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (dynamical, field, symmetry) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 53]",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "This suggests that information flow is deeply connected to the underlying dynamical and geometric structure of the generative process. Phase transitions, associative memories, and symmetry breaking Parallel developments in statistical physics have revealed that diffusion models exhibit noise-driven symmetry-breaking events, where the score field undergoes bifurcations and the generative trajectories split into distinct modes [15,16].",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "dynamical, field, symmetry — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A02"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to strong under Lens 1 (Dynamical-Symmetry ITO) + Lens 2 (Non-Equilibrium Temporal Order) via the Discrete Time-Frame Periodicity & Time-Crystal Symmetry Breaking bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (oscillation, symmetry, phase) that map structurally onto the later publication's (2025-08-27) formulation (symmetry, phase, breaking) through the shared operation: Input (coupled quantum or phase-field degrees of freedom with discrete temporal dynamics) -> Transform (spontaneous temporal symmetry breaking and phase-locked periodic stabilization) -> Output (persistent non-equilibrium temporal periodicity resilient to local perturbations). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains. Corroborated independently by a second structural bridge (Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization).",
+        "ito_alignment": "Input: coupled quantum or phase-field degrees of freedom with discrete temporal dynamics -> Transform: spontaneous temporal symmetry breaking and phase-locked periodic stabilization -> Output: persistent non-equilibrium temporal periodicity resilient to local perturbations",
+        "lens_basis": "Lens 1 (Dynamical-Symmetry ITO) + Lens 2 (Non-Equilibrium Temporal Order)",
+        "primary_bridge_id": "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING",
+        "primary_bridge_name": "Discrete Time-Frame Periodicity & Time-Crystal Symmetry Breaking",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong-blue-team-cross-domain-elevated",
+      "grade_bucket": "strong",
+      "micah_quote": "4. Freeman, W.J. & Vitiello, G. (2008). Dissipation and spontaneous symmetry breaking in brain dynamics. Journal of Physics A: Math. Theor., 41(30), 304042. -- Presents a dissipative quantum model of brain activity, arguing that the cortex behaves like an open thermodynamic system. It uses the language of symmetry breaking to explain how collective neural oscillations settle into coherent states (attractors) by dispersing phase differences, linking neural",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 26.69,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (dynamics, phase, symmetry) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuros",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 66]",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "As we shall see, this spectrum can be directly related to the conditional entropy production. The Global Perspective on Generative Bifurcations In the previous sections, we characterized the generative dynamics of diffusion models by studying the associated paths of fixed points in term of their stability and bifurcations, which led us to establish formal connections with the statistical physics of phase transitions and symmetry breaking.",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "dynamics, phase, symmetry — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A03"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Dejan Stancevic",
+          "slug": "dejan-stancevic"
+        },
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 1 (Dynamical-Symmetry ITO) + Lens 2 (Non-Equilibrium Temporal Order) via the Discrete Time-Frame Periodicity & Time-Crystal Symmetry Breaking bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (oscillation, symmetry, phase) that map structurally onto the later publication's (2025-08-27) formulation (symmetry, phase, spontaneous, breaking) through the shared operation: Input (coupled quantum or phase-field degrees of freedom with discrete temporal dynamics) -> Transform (spontaneous temporal symmetry breaking and phase-locked periodic stabilization) -> Output (persistent non-equilibrium temporal periodicity resilient to local perturbations). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: coupled quantum or phase-field degrees of freedom with discrete temporal dynamics -> Transform: spontaneous temporal symmetry breaking and phase-locked periodic stabilization -> Output: persistent non-equilibrium temporal periodicity resilient to local perturbations",
+        "lens_basis": "Lens 1 (Dynamical-Symmetry ITO) + Lens 2 (Non-Equilibrium Temporal Order)",
+        "primary_bridge_id": "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING",
+        "primary_bridge_name": "Discrete Time-Frame Periodicity & Time-Crystal Symmetry Breaking",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "4. Freeman, W.J. & Vitiello, G. (2008). Dissipation and spontaneous symmetry breaking in brain dynamics. Journal of Physics A: Math. Theor., 41(30), 304042. -- Presents a dissipative quantum model of brain activity, arguing that the cortex behaves like an open thermodynamic system. It uses the language of symmetry breaking to explain how collective neural oscillations settle into coherent states (attractors) by dispersing phase differences, linking neural",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 29.32,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (phase, symmetry) with Ambrogioni Information Dynamics Generative Diffusion (2025-08-27; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 66]",
+      "target_date": "2025-08-27",
+      "target_date_sort": "2025-08-27",
+      "target_locator": "arXiv:2508.19897 | The Information Dynamics of Generative Diffusion",
+      "target_quote": "Statistical Physics, Order Parameters and Phase Transitions In this section, we will connect the information-theoretical concepts we outlined above with con- cepts from statistical physics such as order parameters, phase transitions and spontaneous symmetry breaking.",
+      "target_url": "https://arxiv.org/abs/2508.19897",
+      "title": "phase, symmetry — The Information Dynamics of Generative Diffusion",
+      "win_id": "G1-AMBROGIONI-INFOR-D01-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "Stančević D",
+          "slug": "stan-evi-d"
+        },
+        {
+          "name": "Ambrogioni L",
+          "slug": "ambrogioni-l"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "But what if everyone uses somewhat unique mental models from one minute to the next, and never the same twice? We tackle that idea and we consider how we can achieve Neural Lace even if no one ever has the same exact brainwave pattern twice, and we explain how deep learning Artificial Intelligence is going to work to identify what brainwave patterns are in specific instances.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.19,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2017-05-05 formulation shares conceptual/operational mechanisms (generative, learning) with Ambrogioni Information Dynamics Generative Diffusion (2026-02-10; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-05-05",
+      "source_date_sort": "2017-05-05",
+      "source_locator": "2017-05-05 ({'claimed': '2017-05-05', 'claimed_basis': 'in-file-note-date', 'verified': '2022-06-08', 'verified_basis': 'first public Git commit of file a0006z', 'index_date': '2017-05-05', 'effective_date': '2017-05-05'",
+      "target_date": "2026-02-10",
+      "target_date_sort": "2026-02-10",
+      "target_locator": "doi:10.3390/e28020195 | The Information Dynamics of Generative Diffusion.",
+      "target_quote": "Generative diffusion models have emerged as a powerful class of models in machine learning, yet a unified theoretical understanding of their operation is still developing.",
+      "target_url": "https://doi.org/10.3390/e28020195",
+      "title": "generative, learning — The Information Dynamics of Generative Diffusion.",
+      "win_id": "G1-AMBROGIONI-INFOR-D03-A02"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "I think the reality each person is experiencing right now is entirely made up of pieces of post-synaptic activity some how. Trillions and trillions of neurons creating echo patterns they can sense, like a pitchfork vibration sensor imbued in a pitchfork, and the ability of reality carved out of corresponding frequencies in cyclic action. The cells are measuring the heck out of reality, mostly this happens at the unconscious level. The brain is sensing/hear",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 14.71,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2014-10-27 formulation shares conceptual/operational mechanisms (patterns, spatial) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience a",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2014-10-27",
+      "source_date_sort": "2014-10-27",
+      "source_locator": "https://www.facebook.com/worksalt/posts/pfbid0NMLFUaQArFVqyD6BdDeiwm4ujoUMF2x8SzuorwSMFgfPvgmQTVQHhDmmqdYdgdAVl",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "Such mechanisms could involve neural activity of which the spatial distribution varies over time (i.e., neural activity with dynamic spatial patterns), and GP source reconstruction turns out to be highly suited for identifying such activity, as we will demonstrate now.",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "patterns, spatial — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A06"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Micah Blumberg That's what you say now :) It's the idea that you can do inference, SDR, prediction, pattern recognition, heirarchal temporal conceptualization (association of temporal and spatial patterns) in a digital \"Grok\" model and still miss out on an entire dimension of sensativity, storage space, communication bandwidth afforded by unique neurons that transmit a \"potential difference\" of their whole shape to other neurons in the brain, as informatio",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 21.35,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-20 formulation shares conceptual/operational mechanisms (neuronal, neurons, spatial) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuro",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-09-20",
+      "source_date_sort": "2012-09-20",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/63d76b0b1b5ea1cfbfdd06994ddd180c2e8ee5ea/a0341z%20ctpr.txt",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "Cortical electrical activity is determined by dynamic properties of neurons that are wired together in large cortical networks. These neuronal networks generate measurable time series with characteristic spatial and temporal structure.",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "neuronal, neurons, spatial — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A01"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery) via the Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding bridge. Micah Blumberg's dated passage (2012-09-19) expresses active mechanism anchors (sparse, neuron) that map structurally onto the later publication's (2016-05-09) formulation (population, cortical) through the shared operation: Input (multi-feature sensory or episodic inputs spanning high-dimensional representational channels) -> Transform (associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces) -> Output (robust, compositional, noise-tolerant pattern integration and flexible memory recall). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: multi-feature sensory or episodic inputs spanning high-dimensional representational channels -> Transform: associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces -> Output: robust, compositional, noise-tolerant pattern integration and flexible memory recall",
+        "lens_basis": "Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery)",
+        "primary_bridge_id": "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "primary_bridge_name": "Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "The 2012 record describes neuronal topology as a program, output as an analog packet or sparse representation of a richer cellular state, dendritic and whole-neuron structure as memory-bearing, and brain activity as a projection-reflection process across scales.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 12.88,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-19 formulation shares conceptual/operational mechanisms (cortical, neuronal) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience ",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-09-19",
+      "source_date_sort": "2012-09-19",
+      "source_locator": "SOURCE-RECEIPT-2012.md char 395..657",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "Building from the temporal model, we introduce a spatiotemporal decomposition method that can localize the dynamic components on the cortical surface. Decomposing a signal using temporal covariance functions Modeling neural activity with stochastic differential equations We start our exposition by considering a single sensor that measures the signal produced by the synchronized subthreshold dynamics of some homogeneous neuronal population.",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "cortical, neuronal — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A10"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Cloudy Mayajuana the algorythm might be a dissipative loop, a certain number of inputs, triggers an output, each output triggers a structural change, and the topological or functional relationship sorts the frequencies of triggers into patterns that reflect life experience 20 hours ago � Like",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 17.26,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-19 formulation shares conceptual/operational mechanisms (cortical, dynamics) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience ",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-09-19",
+      "source_date_sort": "2012-09-19",
+      "source_locator": "wiki/san/sources/san-claim-genealogy-2011-2022.md line 50",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "Neural signals are characterized by rich temporal and spatiotemporal dynamics that reflect the organization of cortical networks. Theoretical research has shown how neural networks can operate at different dynamic ranges that correspond to specific types of information processing.",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "cortical, dynamics — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A04"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "outside is inside if everything's just everything is a continuum we're all one we're one with everything yeah well the other that's that was what the guru was saying but my and then i and then i thought well if if if i'm a spatial metaphor that is really a prediction that's really a bunch of neurons firing and everything i see is a spatial metaphor that's...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 12.06,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-08-23 formulation shares conceptual/operational mechanisms (dynamics, neurons) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience a",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "BAARS-M12-RECURSIVE-RECONSTRUCTION",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "Oscillations are a feature of many electrophysiological record- ings [19, 20], and they are thought to be generated by synchronized oscillatory dynamics of the membrane potentials of large populations of pyramidal neurons [ 21].",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "dynamics, neurons — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A12"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Relations within an internally learned model supply experienced spatial-temporal structure.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 14.91,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-08-23 formulation shares conceptual/operational mechanisms (spatial, structure) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-08-23",
+      "source_date_sort": "2012-08-23",
+      "source_locator": "https://www.youtube.com/watch?v=QX-0ef31tAU",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "Here, we complement this temporal model by introducing a spatial correlation structure. In this way, we define a full spatiotemporal model.",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "spatial, structure — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A05"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "As you may know your neocortex when unfolded is like a large dinner napkin or a table placemat six layers deep, and the wiring is simply three dimensions, up, down, left, right, back, front, its not a mess, its not spagetti, its not chaos, but the problem with eeg signals is we need powerful chips to decode the geometry because that placemat is all squished up and wrinkled inside the tiny human sk",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 13.68,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-05-18 formulation shares conceptual/operational mechanisms (neocortex, signals) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience ",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-05-18",
+      "source_date_sort": "2012-05-18",
+      "source_locator": "a0083z.md char 5053..5453",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "These results suggest that the method is particularly suitable for the analysis and interpretation of complex temporal and spatiotemporal neural signals. Introduction Human neocortex has an impressively complex organization.",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "neocortex, signals — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A09"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "As you may know your neocortex when unfolded is like a large dinner napkin or a table placemat six layers deep, and the wiring is simply three dimensions, up, down, left, right, back, front, its not a mess, its not spagetti, its not chaos, but the problem with eeg signals is we need powerful chips to decode the geometry because that placemat is all squished up and wrinkled inside the tiny human sk",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 13.9,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-05-18 formulation shares conceptual/operational mechanisms (cognitive, signals) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience ",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-05-18",
+      "source_date_sort": "2012-05-18",
+      "source_locator": "a0083z.md char 5053..5453",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "By dynamic components we mean signals that exhibit characteristic properties such as rhythmicity, time scale and peak frequency. For example, neural oscillations at different frequencies are extremely prominent in electroencephalographic (EEG) and magnetoencephalographic (MEG) measurements and have been related to a wide range of cognitive and behavioral states [ 1, 2, 3].",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "cognitive, signals — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A08"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Dean: NED does not suggest that electrons have shape (that would be silly since electrons are point particles - no shape, only a field of influence). What it proposes is that the \"charges\" that pass through the neural structures have shape (temporal variances in amplitude and spatial dimension) and direction of flow - quite a different thing, and that it is this \"spike directivity\" that carries meaning, not temporal patterns which he considers epiphenomina",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 14.33,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (neuron, potential, synaptic) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neur",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/ff55496a635b25e9511353ab2e31cee22cdac6cb/a0341z.md#L39-L43",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "For a compact neuron this is a good model of the sub-threshold membrane potential under random synaptic inputs [ 22]. 1D for some samples of this process.",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "neuron, potential, synaptic — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A07"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery) via the Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding bridge. Micah Blumberg's dated passage (2012-01-01) expresses active mechanism anchors (cortex, neuron, graph) that map structurally onto the later publication's (2016-05-09) formulation (synaptic, cortical) through the shared operation: Input (multi-feature sensory or episodic inputs spanning high-dimensional representational channels) -> Transform (associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces) -> Output (robust, compositional, noise-tolerant pattern integration and flexible memory recall). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: multi-feature sensory or episodic inputs spanning high-dimensional representational channels -> Transform: associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces -> Output: robust, compositional, noise-tolerant pattern integration and flexible memory recall",
+        "lens_basis": "Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery)",
+        "primary_bridge_id": "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "primary_bridge_name": "Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "October 16th 2012 (graph, layers, cortex, neuron) Micah Blumberg An interesting note, Fred, is that Diffusion Tensor Imaging, in this case, is showing us the white matter of the brain. … Fred Becker Thank you for the discussion. To see if I understand, I will read back what I hear. First, there are layers here and the physical geometry may support additional communication paths in a sort of virtual geometry even (e.g., large brainwaves might actually be la",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 20.59,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (geometry, matter) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience an",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/64c72ff6c9cc25f27ba7284f4d0407308afff9f3/a0495z.md#L2",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "The conventional Euclidean distance is likely to be inappropriate because cortical gyri can be nearby according to the Euclidean distance in three-dimensional space, but far apart in terms of the intrinsic cortical geometry that is determined by the synaptic connectivity between grey matter areas.",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "geometry, matter — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A02"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "eaning, feeling, and candidate action -> goal representations, inhibition, and selection among possible routes -> action, social exchange, or machine-mediated return -> revision of the next neural and self-related state -> recurrent sensory return permits the loop to represent and revise itself -> learned structural change improves spatial-temporal multimodal coordination -> Hebbian oscillatory pa",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 12.59,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2010-01-01 formulation shares conceptual/operational mechanisms (learning, spatial) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience a",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2010-01-01",
+      "source_date_sort": "2010-01-01",
+      "source_locator": "README.md char 6766..7166",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "Nevertheless, it has been shown that the discounting of high spatial frequencies leads to reduced localization error and more interpretable results [16]. Connections with other methods The ideas behind the GP decomposition derive from a series of recent developments in machine learning, connecting GP regression to stochastic dynamics [43, 44].",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "learning, spatial — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A11"
+    },
+    {
+      "author_count": 3,
+      "authors_linked": [
+        {
+          "name": "Luca Ambrogioni",
+          "slug": "luca-ambrogioni"
+        },
+        {
+          "name": "Marcel A. J. van Gerven",
+          "slug": "marcel-a-j-van-gerven"
+        },
+        {
+          "name": "Eric Maris",
+          "slug": "eric-maris"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 1 (Dynamical-Symmetry ITO) + Lens 2 (Non-Equilibrium Temporal Order) via the Discrete Time-Frame Periodicity & Time-Crystal Symmetry Breaking bridge. Micah Blumberg's dated passage (2010-01-01) expresses active mechanism anchors (oscillation, temporal) that map structurally onto the later publication's (2016-05-09) formulation (oscillation, temporal) through the shared operation: Input (coupled quantum or phase-field degrees of freedom with discrete temporal dynamics) -> Transform (spontaneous temporal symmetry breaking and phase-locked periodic stabilization) -> Output (persistent non-equilibrium temporal periodicity resilient to local perturbations). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: coupled quantum or phase-field degrees of freedom with discrete temporal dynamics -> Transform: spontaneous temporal symmetry breaking and phase-locked periodic stabilization -> Output: persistent non-equilibrium temporal periodicity resilient to local perturbations",
+        "lens_basis": "Lens 1 (Dynamical-Symmetry ITO) + Lens 2 (Non-Equilibrium Temporal Order)",
+        "primary_bridge_id": "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING",
+        "primary_bridge_name": "Discrete Time-Frame Periodicity & Time-Crystal Symmetry Breaking",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "eaning, feeling, and candidate action -> goal representations, inhibition, and selection among possible routes -> action, social exchange, or machine-mediated return -> revision of the next neural and self-related state -> recurrent sensory return permits the loop to represent and revise itself -> learned structural change improves spatial-temporal multimodal coordination -> Hebbian oscillatory pa",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 18.58,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2010-01-01 formulation shares conceptual/operational mechanisms (oscillatory, spatial) with Ambrogioni Information Dynamics Generative Diffusion (2016-05-09; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscienc",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2010-01-01",
+      "source_date_sort": "2010-01-01",
+      "source_locator": "README.md char 6766..7166",
+      "target_date": "2016-05-09",
+      "target_date_sort": "2016-05-09",
+      "target_locator": "arXiv:1605.02609 | Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "target_quote": "SGPD improves accuracy and sharpness of source reconstruction We now investigate how SGPD compares to existing methods with respect to the spatial localization of an oscillatory amplitude modulation in the presence of noise sources with both spatial and temporal structure.",
+      "target_url": "https://arxiv.org/abs/1605.02609",
+      "title": "oscillatory, spatial — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "win_id": "G1-AMBROGIONI-INFOR-D02-A03"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 27 certified dated prior-art comparisons with Ambrogioni Information Dynamics Generative Diffusion across 66 listed-author attributions (27 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 7 strong, 6 medium-partial, 6 weak-partial, 8 weak-partial cross-domain, with 7 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2010-01-01",
+    "earliest_micah_year": 2010,
+    "earliest_target_date": "2016-05-09",
+    "earliest_target_year": 2016,
+    "latest_micah_date": "2025-08-21",
+    "latest_target_date": "2026-02-10",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 7,
+    "governed_wins": 27,
+    "grade_breakdown": {
+      "medium-partial": 6,
+      "strong": 7,
+      "weak-partial": 6,
+      "weak-partial-cross-domain": 8
+    },
+    "lens4_event_ids": [
+      "lsm-g1-ambrogioni-information-dynamics-generati-20261122"
+    ],
+    "listed_author_edges": 66,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 6,
+      "weak-partial": 8,
+      "weak-partial-cross-domain": 13
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 27
+  }
+}

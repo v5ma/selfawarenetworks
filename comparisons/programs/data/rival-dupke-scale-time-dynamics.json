@@ -1,0 +1,640 @@
+{
+  "authors_linked": [
+    {
+      "name": "Dupke, André",
+      "slug": "dupke-andr"
+    }
+  ],
+  "display_code": "dupke-scale-time-dynamics",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2023-11-01 and 2025-06-20, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 12 documented mechanisms appearing in Dupke Scale Time Dynamics (2026-07-06 to 2026-07-06) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Dupke Scale Time Dynamics",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 12 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 12 dated comparisons and 12 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-dupke-scale-time-dynamics",
+  "program_name": "Dupke Scale Time Dynamics",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2025-06-20) expresses active mechanism anchors (phase, synchrony, wave) that map structurally onto the later publication's (2026-07-06) formulation (frequency, phase, rhythm) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "The core thread running through all of my recent work is that every physical process — from a neuron synchronising with its neighbours to a galaxy curving a beam of light — unfolds as a first-order sequence of tiny wave-phase adjustments. Think of it as a recursive update rule applied at each point in the field rather than a single global solution of a second-order equation. 1 . Recursion replaces “square-rooting” the energy–momentum relation In Micah’s Ne",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 23.8,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2025-06-20 formulation shares conceptual/operational mechanisms (light, phase) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-06-20",
+      "source_date_sort": "2025-06-20",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/c10fbc200fa0fc4df331b3f50ad4c7ad53817fe8/QGTCD_SuperInformation.md",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "At the center of the framework stands an absolute phasor source, , from which arises one global phase rhythm: where is the invariant phasor frequency. [D] The phasor sweep carries the invariant phasor-carrier speed: The corresponding phasor travel step is: This is the fundamental light-calibrated travel mark of the framework: the distance carried by the phasor relation during one global phasor period.",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "light, phase — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Quantum Gradient Time Crystal Dilation (QGTCD) is a unified field theory, this body of literature addresses the observer affect also known as the measurement problem, it connects with explains how brainwaves interact with reality which also consists of waves via oscillatory physics, it explains how time near mass at the quantum scale changes the probability of particle travel by changing landscape (curving space) mo",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.82,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-02-15 formulation shares conceptual/operational mechanisms (phase, scale) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-02-15",
+      "source_date_sort": "2024-02-15",
+      "source_locator": "Public article dated 2024-02-15; sections on field propagation, scalar fields, metric extension, dynamic coupling, and quantum behavior; owned archive SHA256 EBA742AB34191D4DBE91C5CD35D28A507CE1883FD74B76C0E869F4211DAFA8",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "[I] The radar-screen image provides a visual grammar for these relations. The sweep repre - sents the global phasor phase, the rings represent scale-slice horizons, the points on the rings represent phase positions or scale angles, and the clock-hand-like lines represent sys - tem or observer baselines through scale.",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "phase, scale — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Quantum Gradient Time Crystal Dilation (QGTCD) is a unified field theory, this body of literature addresses the observer affect also known as the measurement problem, it connects with explains how brainwaves interact with reality which also consists of waves via oscillatory physics, it explains how time near mass at the quantum scale changes the probability of particle travel by changing landscape (curving space) mo",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 24.28,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-29 formulation shares conceptual/operational mechanisms (cosmology, field, quantum, scale) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-29",
+      "source_date_sort": "2024-01-29",
+      "source_locator": "Owned archive SHA256 B508A017ADA93E5D4FBC7BF37B711BDF904013F071D33D86F6ADCF17990CF1FD.",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "[D] Scale-Time Theory is not presented as a replacement for quantum field theory, general rel- ativity, thermodynamics, or standard cosmology. These remain the tested languages of modern physics.",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "cosmology, field, quantum, scale — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "8 Dark Time Theory (QGTCD) as a Bridge Between Quantum Mechanics and Gravity 8.1 Overview: Time Density as a Missing Piece Dark Time Theory , also referred to as Quantum Gradient Time Crystal Dilation (QGTCD), posits that time density —the effective “density” of discrete time frames— varies around massive objects and thereby influences quantum and gravitational phenomena. Rather than competing with General Relativity (GR) or standard quantum mechanics (QM)",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.03,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (field, quantum, relativity, thermodynamics) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 44]",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "This work is not presented as a replacement for quantum field theory, general relativity, thermodynamics, or standard cosmology. It is a structured research hypothesis and interpretative framework.",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "field, quantum, relativity, thermodynamics — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "hand, interprets discrepancies in measured expansion rates chiefly as artifacts of gravitational time dilation and inhomogeneous geometry, refraining from explicitly tying expansion to a mass-dependent time-density field. Both theories invite new perspectives on whether cosmic acceleration is genuinely driven by a cosmological constant or whether observed effects might emerge from a more nuanced treatment of time in an uneven universe. Dark Time highlights",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.86,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (scale, structure) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 64]",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "STT is offered as a hypothetical but structured interpretative layer: a way to ask whether the transition from uncertainty to stable appearance may be understood through sampling, resolvability, lock, and scale-dependent path structure.",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "scale, structure — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "the overall inferred distribution of mass on cosmic scales. This new approach may therefore offer potential alternatives to conventional dark matter and dark energy explanations by redefining gravity as emerging from variations in the flow of time rather than solely from the geometry of space. By merging the insights of our time crystal interpretation with astrophysical observations, we propose a unified picture in which the internal, oscillatory dynamics",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 20.69,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (clock, scale, structure) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 60]",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "It is meant to make the formal structure easier to follow, rather than to imply that scale-space is liter - ally made of physical rings, mechanical clock hands, or rotating drums.",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "clock, scale, structure — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "the overall inferred distribution of mass on cosmic scales. This new approach may therefore offer potential alternatives to conventional dark matter and dark energy explanations by redefining gravity as emerging from variations in the flow of time rather than solely from the geometry of space. By merging the insights of our time crystal interpretation with astrophysical observations, we propose a unified picture in which the internal, oscillatory dynamics",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.82,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (clock, scale) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 60]",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "[C] Its guiding intuition remains: if the past is found in the large scales, the future may be found in the small scales. RADAR SWEEP, SCALE HORIZONS, AND BASELINES The following picture is an interpretative guide, not a claim that scale-space is an ordinary physical screen made of literal rings and clock hands.",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "clock, scale — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "frames—or the local density of time—become so compressed that an outside observer perceives infalling objects as asymptotically slowing and freezing in time. Though the theory allows for a discretized model at the quantum scale, it does not insist that spacetime must be fundamentally discontinuous; the essential point is that mass concentrations elevate the local time density to such an extent that clocks effectively slow to a standstill at the horizon fro",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 22.13,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (horizon, phase, scale) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 68]",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "The full scale-slice is the circle-area-like domain enclosed by the scale radius; the ring is its horizon boundary. [D][I] (0,0)0 θ0(t)=2πfpt ℛσ σ=πℛ2 σ Lσ=2πℛσ 10 A point on a scale-slice horizon marks a phase position.",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "horizon, phase, scale — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "presents integrated data analysis strategies that cross-validate results across independent experimental setups and simulation benchmarks. The experimental protocols and simulation studies presented herein underscore the potential for a paradigm shift in our understanding of the interplay between time, gravity, and quantum mechanics. These approaches may lead to new insights into dark sector phenomena, including dark matter, dark energy, and the Hubble ten",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.13,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (quantum, scale) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 96]",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "Scale-Time Theory 11.0 presents a hypothetical pre-ordinary-geometric framework in which quantum-like ambiguity and classical-looking stability are described as phasor-sampling regimes of one phasor-ordered scale-space.",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "quantum, scale — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "frames—or the local density of time—become so compressed that an outside observer perceives infalling objects as asymptotically slowing and freezing in time. Though the theory allows for a discretized model at the quantum scale, it does not insist that spacetime must be fundamentally discontinuous; the essential point is that mass concentrations elevate the local time density to such an extent that clocks effectively slow to a standstill at the horizon fro",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 22.56,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (phase, quantum, scale) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 68]",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "No external empirical confirmation is claimed or implied. [D] n 7 PREFACE Scale-Time Theory 11.0 is a hypothetical framework for exploring whether quantum-like ambiguity, classical-looking stability, motion-like behavior, gravity-like organization, and relativistic-looking phase-lapse can be described through one underlying scale-time grammar.",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "phase, quantum, scale — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "7.11.5 Time-Densiton: Open Questions & Possible Quantization A natural follow-up to introducing ρt as a field is whether it can be quantized similarly to standard fields. The quanta of ρt, sometimes called “time-densitons,” would be excitations carrying “packets” of time density. Questions arise about their mass scale, interactions with matter, stability, and possible screening in high-density environments. These considerations parallel the treatment of ot",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 24.22,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (matter, scale) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 54]",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "[I] The central claim of this framework is modest but precise: if scale changes the path opened under an invariant carrier relation, and if stable appearance is a matter of sam - pling and resolvability rather than a fixed ladder of privileged numbers, then distance, de- lay, containment, apparent size, motion-like drift, acceleration-like scale-shift, gravity-like baseline focus, spin-like aliasing, and redshift-like phase-lapse may be describable as con",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "matter, scale — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Dupke, André",
+          "slug": "dupke-andr"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "7.11.5 Time-Densiton: Open Questions & Possible Quantization A natural follow-up to introducing ρt as a field is whether it can be quantized similarly to standard fields. The quanta of ρt, sometimes called “time-densitons,” would be excitations carrying “packets” of time density. Questions arise about their mass scale, interactions with matter, stability, and possible screening in high-density environments. These considerations parallel the treatment of ot",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 25.32,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (coupling, field, quantum, scale) with Dupke Scale Time Dynamics (2026-07-06; zenodo-oa-fulltext); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 54]",
+      "target_date": "2026-07-06",
+      "target_date_sort": "2026-07-06",
+      "target_locator": "zenodo:21221364 | Scale-Time Theory",
+      "target_quote": "Scale-Time Theory is not presented as a replacement for quantum field theory, general rel- ativity, or established physical models. Its purpose is to provide a coherent hypothetical language in which phasor sweep, scale address, standing scale modes, sampling, aliasing, resolvability, baseline coupling, lock windows, scale-shift, baseline drift, containment, phase-lapse, and spherical mapping can be explored as connected regimes of one scale- time grammar.",
+      "target_url": "https://zenodo.org/records/21221364",
+      "title": "coupling, field, quantum, scale — Scale-Time Theory",
+      "win_id": "G1-DUPKE-SCALE-TIME-D01-A01"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 12 certified dated prior-art comparisons with Dupke Scale Time Dynamics across 12 listed-author attributions (12 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 7 strong, 0 medium-partial, 5 weak-partial, 0 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2023-11-01",
+    "earliest_micah_year": 2023,
+    "earliest_target_date": "2026-07-06",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2025-06-20",
+    "latest_target_date": "2026-07-06",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 12,
+    "grade_breakdown": {
+      "strong": 7,
+      "weak-partial": 5
+    },
+    "lens4_event_ids": [
+      "lsm-g1-dupke-scale-time-dynamics-20261122"
+    ],
+    "listed_author_edges": 12,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 6,
+      "weak-partial": 6
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 12
+  }
+}

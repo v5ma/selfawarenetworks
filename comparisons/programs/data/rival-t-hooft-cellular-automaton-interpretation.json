@@ -1,0 +1,501 @@
+{
+  "authors_linked": [
+    {
+      "name": "Gerard 't Hooft",
+      "slug": "gerard-t-hooft-2"
+    },
+    {
+      "name": "Gerard t Hooft",
+      "slug": "gerard-t-hooft"
+    }
+  ],
+  "display_code": "t-hooft-cellular-automaton-interpretation",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-01-01 and 2014-01-01, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 9 documented mechanisms appearing in T Hooft Cellular Automaton Interpretation (2014-05-07 to 2020-05-13) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before T Hooft Cellular Automaton Interpretation",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 9 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 9 dated comparisons and 9 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-t-hooft-cellular-automaton-interpretation",
+  "program_name": "T Hooft Cellular Automaton Interpretation",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gerard t Hooft",
+          "slug": "gerard-t-hooft"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Another way to understand this, is that the Neuron is both passing on excess energy (above it's threshold) and encoding a topological change that means it has been effected by the brainwave that (came close, ended on it, or passed through it) (a simple way of remembering one point of the wave) (which may through connections, unintentionally encode the represention of a vector pattern between points of neurons that fired) Neurons are information programs th",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 8.81,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2014-01-01 formulation shares conceptual/operational mechanisms (energy, wave) with T Hooft Cellular Automaton Interpretation (2020-05-13; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/physics f",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2014-01-01",
+      "source_date_sort": "2014-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/16b087dcf8a28d55ba32b45c40c342f81744a354/a0008z.md#L83-L136",
+      "target_date": "2020-05-13",
+      "target_date_sort": "2020-05-13",
+      "target_locator": "arXiv:2005.06374 | Deterministic Quantum Mechanics: the Mathematical Equations",
+      "target_quote": "Any wave function expanded in these energy eigen modes is therefore regular for all z that lie inside the unit circle. To arrive at this insight it was crucial that we start with a discrete lattice in the time variable, where the time spacings δt may be chosen arbitrarily small but not zero.",
+      "target_url": "https://arxiv.org/abs/2005.06374",
+      "title": "energy, wave — Deterministic Quantum Mechanics: the Mathematical Equations",
+      "win_id": "G1-T-HOOFT-CELLULAR-D02-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gerard t Hooft",
+          "slug": "gerard-t-hooft"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Micah Blumberg Fear is a story like any belief, a sequence of tempo-spatial patterns that represents a remembered casual relationship now projected into the future as thought. The idea of conquering fear invokes the motor cortex and the amygdala together which has nothing to do with the eventual prescription. Teacher wants to help others conquer fear, but fear is a good emotion, with a positive intention. Teacher is spirit teaching spir",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.4,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2013-10-26 formulation shares conceptual/operational mechanisms (energy, potential) with T Hooft Cellular Automaton Interpretation (2020-05-13; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2013-10-26",
+      "source_date_sort": "2013-10-26",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/766f3d3664995e0fc795f2e36cd81ee6e04042e6/a0503z.md",
+      "target_date": "2020-05-13",
+      "target_date_sort": "2020-05-13",
+      "target_locator": "arXiv:2005.06374 | Deterministic Quantum Mechanics: the Mathematical Equations",
+      "target_quote": "Of course we would also like to understand systems that do have eﬀective potential functions V (x), and they should apply to higher dimensions as well. We shall home in to the completely general Hamiltonian in these last two sections, where we shall see that extra, high energy degrees of freedom will be needed in general.",
+      "target_url": "https://arxiv.org/abs/2005.06374",
+      "title": "energy, potential — Deterministic Quantum Mechanics: the Mathematical Equations",
+      "win_id": "G1-T-HOOFT-CELLULAR-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gerard 't Hooft",
+          "slug": "gerard-t-hooft-2"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "So I asked: \"why do you say \"The concept of God\"?\" The Pilgrim Poet answered: \"The Idea of God is Figment in one's mind passed on from generation to generation. Its a concept which has no physical nor non physical proof. No one can really explain it nor break it down to a molecular structure. It exist in the mind.\" So I replied: I had a realization recently which changed my mind, it had to do with the direction of causality. As you may know bottom up causa",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.32,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2013-08-22 formulation shares conceptual/operational mechanisms (quantum, structure) with T Hooft Cellular Automaton Interpretation (2014-05-07; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2013-08-22",
+      "source_date_sort": "2013-08-22",
+      "source_locator": "https://www.facebook.com/photo/?fbid=709261715767145",
+      "target_date": "2014-05-07",
+      "target_date_sort": "2014-05-07",
+      "target_locator": "arXiv:1405.1548 | The Cellular Automaton Interpretation of Quantum Mechanics",
+      "target_quote": "11 1.2 Outline of the ideas exposed in part I. 19 2 Deterministic models in quantum notation 21 2.1 The basic structure of deterministic models.",
+      "target_url": "https://arxiv.org/abs/1405.1548",
+      "title": "quantum, structure — The Cellular Automaton Interpretation of Quantum Mechanics",
+      "win_id": "G1-T-HOOFT-CELLULAR-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gerard 't Hooft",
+          "slug": "gerard-t-hooft-2"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "So I asked: \"why do you say \"The concept of God\"?\" The Pilgrim Poet answered: \"The Idea of God is Figment in one's mind passed on from generation to generation. Its a concept which has no physical nor non physical proof. No one can really explain it nor break it down to a molecular structure. It exist in the mind.\" So I replied: I had a realization recently which changed my mind, it had to do with the direction of causality. As you may know bottom up causa",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 14.35,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2013-08-22 formulation shares conceptual/operational mechanisms (causality, quantum) with T Hooft Cellular Automaton Interpretation (2014-05-07; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2013-08-22",
+      "source_date_sort": "2013-08-22",
+      "source_locator": "https://www.facebook.com/photo/?fbid=709261715767145",
+      "target_date": "2014-05-07",
+      "target_date_sort": "2014-05-07",
+      "target_locator": "arXiv:1405.1548 | The Cellular Automaton Interpretation of Quantum Mechanics",
+      "target_quote": "The quantum mechanical theory describing relativistic, subatomic particles is called quantum ﬁeld theory (see part II, chapter 20), and it obeys fundamental conditions such as causality, locality and unitarity.",
+      "target_url": "https://arxiv.org/abs/1405.1548",
+      "title": "causality, quantum — The Cellular Automaton Interpretation of Quantum Mechanics",
+      "win_id": "G1-T-HOOFT-CELLULAR-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gerard t Hooft",
+          "slug": "gerard-t-hooft"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Note created on Sep 20, 2012 (graph, dendrite, synap, cereb, cortex) electrons transmitting their shape This was a series of replies to my neurons pass their shape theory from a long time ago. I stripped out everything except my own comments. Originally written and shared under a fictional alias The electron particle/wave in the neural pulse, has all the same primary properties of a brainwave, including phase, amplitude, hz, look, regardless of how you mea",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 10.84,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-20 formulation shares conceptual/operational mechanisms (particle, potential) with T Hooft Cellular Automaton Interpretation (2020-05-13; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/ph",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-09-20",
+      "source_date_sort": "2012-09-20",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/37da575ba33f85cef4239295be161066d8d39f4c/a0123z%20ctpr.txt",
+      "target_date": "2020-05-13",
+      "target_date_sort": "2020-05-13",
+      "target_locator": "arXiv:2005.06374 | Deterministic Quantum Mechanics: the Mathematical Equations",
+      "target_quote": "This jeopardises any attempt to add some kind of ontological potential term for the particle. Section 7 sets the stage for what comes next, and then comes the most important part of this paper.",
+      "target_url": "https://arxiv.org/abs/2005.06374",
+      "title": "particle, potential — Deterministic Quantum Mechanics: the Mathematical Equations",
+      "win_id": "G1-T-HOOFT-CELLULAR-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gerard 't Hooft",
+          "slug": "gerard-t-hooft-2"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2012-09-20) expresses active mechanism anchors (phase, wave) that map structurally onto the later publication's (2014-05-07) formulation (phase, wave) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer).",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Note created on Sep 20, 2012 (graph, dendrite, synap, cereb, cortex) electrons transmitting their shape This was a series of replies to my neurons pass their shape theory from a long time ago. I stripped out everything except my own comments. Originally written and shared under a fictional alias The electron particle/wave in the neural pulse, has all the same primary properties of a brainwave, including phase, amplitude, hz, look, regar",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 9.54,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-20 formulation shares conceptual/operational mechanisms (phase, wave) with T Hooft Cellular Automaton Interpretation (2014-05-07; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-09-20",
+      "source_date_sort": "2012-09-20",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/766f3d3664995e0fc795f2e36cd81ee6e04042e6/a0123z.md",
+      "target_date": "2014-05-07",
+      "target_date_sort": "2014-05-07",
+      "target_locator": "arXiv:1405.1548 | The Cellular Automaton Interpretation of Quantum Mechanics",
+      "target_quote": "151 16.3 Resume of the quasi-periodic phase function φ(ξ, κ). 154 16.4 The wave function of the state |0, 0⟩.",
+      "target_url": "https://arxiv.org/abs/1405.1548",
+      "title": "phase, wave — The Cellular Automaton Interpretation of Quantum Mechanics",
+      "win_id": "G1-T-HOOFT-CELLULAR-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gerard t Hooft",
+          "slug": "gerard-t-hooft"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0632z ctpr Note from: Apr 19, 2012 Comment on the note: What I think I was missing at this point in time (2012) was the part about how a memory-prediction was actually a rendering that a subsequent array or layer of nerve cells would read & interpret. Micah Blumberg When the map of reality expands even more so that becomes apparent yes! It is not this or that until it is, thats quantum superposition. Micah Blumberg Our perception is a prediction, a comple",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 10.95,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-04-19 formulation shares conceptual/operational mechanisms (quantum, rendering) with T Hooft Cellular Automaton Interpretation (2020-05-13; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-04-19",
+      "source_date_sort": "2012-04-19",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/5360f6414909a2474129b2140ee0dc3112c93b6b/a0632z%20ctpr.txt",
+      "target_date": "2020-05-13",
+      "target_date_sort": "2020-05-13",
+      "target_locator": "arXiv:2005.06374 | Deterministic Quantum Mechanics: the Mathematical Equations",
+      "target_quote": "Without wasting time and effort on philosophical justifications and implications, we write down the conditions for the Hamiltonian of a quantum system for rendering it mathematically equivalent to a deterministic system.",
+      "target_url": "https://arxiv.org/abs/2005.06374",
+      "title": "quantum, rendering — Deterministic Quantum Mechanics: the Mathematical Equations",
+      "win_id": "G1-T-HOOFT-CELLULAR-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gerard 't Hooft",
+          "slug": "gerard-t-hooft-2"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0632z ctpr Note from: Apr 19, 2012 Comment on the note: What I think I was missing at this point in time (2012) was the part about how a memory-prediction was actually a rendering that a subsequent array or layer of nerve cells would read & interpret. Micah Blumberg When the map of reality expands even more so that becomes apparent yes! It is not this or that until it is, thats quantum superposition. Micah Blumberg Our perception is a prediction, a comple",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 14.18,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-04-19 formulation shares conceptual/operational mechanisms (quantum, superposition) with T Hooft Cellular Automaton Interpretation (2014-05-07; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-04-19",
+      "source_date_sort": "2012-04-19",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/5360f6414909a2474129b2140ee0dc3112c93b6b/a0632z%20ctpr.txt",
+      "target_date": "2014-05-07",
+      "target_date_sort": "2014-05-07",
+      "target_locator": "arXiv:1405.1548 | The Cellular Automaton Interpretation of Quantum Mechanics",
+      "target_quote": "73 5.7.4 The superposition principle in Quantum Mechanics. 77 5.7.7 A single photon passing through a sequence of polarisers.",
+      "target_url": "https://arxiv.org/abs/1405.1548",
+      "title": "quantum, superposition — The Cellular Automaton Interpretation of Quantum Mechanics",
+      "win_id": "G1-T-HOOFT-CELLULAR-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gerard t Hooft",
+          "slug": "gerard-t-hooft"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Dean: NED does not suggest that electrons have shape (that would be silly since electrons are point particles - no shape, only a field of influence). What it proposes is that the \"charges\" that pass through the neural structures have shape (temporal variances in amplitude and spatial dimension) and direction of flow - quite a different thing, and that it is this \"spike directivity\" that carries meaning, not temporal patterns which he considers epiphenomina",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 12.11,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (dimension, potential) with T Hooft Cellular Automaton Interpretation (2020-05-13; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/p",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/ff55496a635b25e9511353ab2e31cee22cdac6cb/a0341z.md#L39-L43",
+      "target_date": "2020-05-13",
+      "target_date_sort": "2020-05-13",
+      "target_locator": "arXiv:2005.06374 | Deterministic Quantum Mechanics: the Mathematical Equations",
+      "target_quote": "We now consider the Hamiltonian (6.1) in the continuum case, in one dimension (so that we omit the vector symbols) and with V (x) = 0. In this case, the vector potential ﬁeld A(x) can be gauge transformed away, therefore we also put A(x) = 0.",
+      "target_url": "https://arxiv.org/abs/2005.06374",
+      "title": "dimension, potential — Deterministic Quantum Mechanics: the Mathematical Equations",
+      "win_id": "G1-T-HOOFT-CELLULAR-D02-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 9 certified dated prior-art comparisons with T Hooft Cellular Automaton Interpretation across 9 listed-author attributions (9 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 1 medium-partial, 5 weak-partial, 3 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-01-01",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2014-05-07",
+    "earliest_target_year": 2014,
+    "latest_micah_date": "2014-01-01",
+    "latest_target_date": "2020-05-13",
+    "latest_target_year": 2020
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 9,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "weak-partial": 5,
+      "weak-partial-cross-domain": 3
+    },
+    "lens4_event_ids": [
+      "lsm-g1-t-hooft-cellular-automaton-interpretatio-20261122"
+    ],
+    "listed_author_edges": 9,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 6,
+      "weak-partial-cross-domain": 3
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 9
+  }
+}

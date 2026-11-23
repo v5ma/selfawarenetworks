@@ -1,0 +1,946 @@
+{
+  "authors_linked": [
+    {
+      "name": "Jindong Wang",
+      "slug": "jindong-wang"
+    },
+    {
+      "name": "Zhizhou Lu",
+      "slug": "zhizhou-lu"
+    },
+    {
+      "name": "Weiqiang Wang",
+      "slug": "weiqiang-wang"
+    },
+    {
+      "name": "Fumin Zhang",
+      "slug": "fumin-zhang"
+    },
+    {
+      "name": "Jiawei Chen",
+      "slug": "jiawei-chen"
+    },
+    {
+      "name": "Yang Wang",
+      "slug": "yang-wang"
+    },
+    {
+      "name": "Xianyu Zhao",
+      "slug": "xianyu-zhao"
+    },
+    {
+      "name": "Jihui Zheng",
+      "slug": "jihui-zheng"
+    },
+    {
+      "name": "Sai T. Chu",
+      "slug": "sai-t-chu"
+    },
+    {
+      "name": "Wei Zhao",
+      "slug": "wei-zhao"
+    },
+    {
+      "name": "Brent E. Little",
+      "slug": "brent-e-little"
+    },
+    {
+      "name": "Xinghua Qu",
+      "slug": "xinghua-qu"
+    },
+    {
+      "name": "Wenfu Zhang",
+      "slug": "wenfu-zhang"
+    }
+  ],
+  "display_code": "candidate-kuhn-1-3-7-zhangs-long-distance-light-speed-telecommunications",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; Electromagnetic Field Theories",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-01-01 and 2019-11-09, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 11 documented mechanisms appearing in Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18 to 2020-02-18) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Zhang's Long-Distance Light-Speed Telecommunications",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 10 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 11 dated comparisons and 143 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "candidate-kuhn-1-3-7-zhangs-long-distance-light-speed-telecommunications",
+  "program_name": "Zhang's Long-Distance Light-Speed Telecommunications",
+  "rows": [
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Jindong Wang",
+          "slug": "jindong-wang"
+        },
+        {
+          "name": "Zhizhou Lu",
+          "slug": "zhizhou-lu"
+        },
+        {
+          "name": "Weiqiang Wang",
+          "slug": "weiqiang-wang"
+        },
+        {
+          "name": "Fumin Zhang",
+          "slug": "fumin-zhang"
+        },
+        {
+          "name": "Jiawei Chen",
+          "slug": "jiawei-chen"
+        },
+        {
+          "name": "Yang Wang",
+          "slug": "yang-wang"
+        },
+        {
+          "name": "Xianyu Zhao",
+          "slug": "xianyu-zhao"
+        },
+        {
+          "name": "Jihui Zheng",
+          "slug": "jihui-zheng"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "EEG, the frequency range, has rhythms and wave forms, Neuron's oscillate, it's thought by some Neuroscientists to be Gaussian noise, but the article suggests there could be a different understanding. So I thought what if the gaussian EEG frequencies could be understood as a detector of sorts? Neurons are thought to be detectors of coincidence patterns, two down stream neurons might fire at the same time, that might trigger an upstream Neuron to fire. So wh",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.45,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2019-11-09 formulation shares conceptual/operational mechanisms (frequency, signal) with Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2019-11-09",
+      "source_date_sort": "2019-11-09",
+      "source_locator": "https://www.facebook.com/groups/neurophysics/posts/2842540995757392/?comment_id=2843225005688991&reply_comment_id=2843289252349233",
+      "target_date": "2020-02-18",
+      "target_date_sort": "2020-02-18",
+      "target_locator": "arXiv:2002.10565v2 | Long distance measurement using single soliton microcomb",
+      "target_quote": "The Fourier transform spectrum (FTS) represents the delay time between the signal pulse and reference pulse as shown in F ig. In order to obtain the exact frequency peak of the FTS, a three-point fitting method is employed (F ig.",
+      "target_url": "http://arxiv.org/abs/2002.10565v2",
+      "title": "frequency, signal — Long distance measurement using single soliton microcomb",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A09"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Jindong Wang",
+          "slug": "jindong-wang"
+        },
+        {
+          "name": "Zhizhou Lu",
+          "slug": "zhizhou-lu"
+        },
+        {
+          "name": "Weiqiang Wang",
+          "slug": "weiqiang-wang"
+        },
+        {
+          "name": "Fumin Zhang",
+          "slug": "fumin-zhang"
+        },
+        {
+          "name": "Jiawei Chen",
+          "slug": "jiawei-chen"
+        },
+        {
+          "name": "Yang Wang",
+          "slug": "yang-wang"
+        },
+        {
+          "name": "Xianyu Zhao",
+          "slug": "xianyu-zhao"
+        },
+        {
+          "name": "Jihui Zheng",
+          "slug": "jihui-zheng"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Held at weak-partial transparently while preserving permanent membership: primary excerpt side check (insufficient-prose-words / substantive) lacks complete side-by-side Transform prose needed to earn tier elevation.",
+        "ito_alignment": "",
+        "lens_basis": "Blue Team Substance Guard (Anti-Rubber-Stamp)",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-excerpt-substance-guard",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "public-artificial-cortex-or-extender-brain+mind-expansion+ai-coupling",
+      "passage_status": "OPEN-SOURCE-GATED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 13.37,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2018-08-02 formulation shares conceptual/operational mechanisms (coupling, expansion) with Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-08-02",
+      "source_date_sort": "2018-08-02",
+      "source_locator": "https://www.youtube.com/watch?v=aexQwTpOwYc",
+      "target_date": "2020-02-18",
+      "target_date_sort": "2020-02-18",
+      "target_locator": "arXiv:2002.10565v2 | Long distance measurement using single soliton microcomb",
+      "target_quote": "To overcome the optical energy loss caused by beam expansion, an optical transmitter -receiver system is constructed, which consists of a Cassegrain telescope and an automatic space -to-fiber coupling system (Fig.",
+      "target_url": "http://arxiv.org/abs/2002.10565v2",
+      "title": "coupling, expansion — Long distance measurement using single soliton microcomb",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A04"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Jindong Wang",
+          "slug": "jindong-wang"
+        },
+        {
+          "name": "Zhizhou Lu",
+          "slug": "zhizhou-lu"
+        },
+        {
+          "name": "Weiqiang Wang",
+          "slug": "weiqiang-wang"
+        },
+        {
+          "name": "Fumin Zhang",
+          "slug": "fumin-zhang"
+        },
+        {
+          "name": "Jiawei Chen",
+          "slug": "jiawei-chen"
+        },
+        {
+          "name": "Yang Wang",
+          "slug": "yang-wang"
+        },
+        {
+          "name": "Xianyu Zhao",
+          "slug": "xianyu-zhao"
+        },
+        {
+          "name": "Jihui Zheng",
+          "slug": "jihui-zheng"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "may increase or decrease the electrical potential of a given location in the brain, changing the threshold for when a cell or dendrite may fire.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.68,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2018-05-30 formulation shares conceptual/operational mechanisms (integration, potential) with Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2018-05-30",
+      "source_date_sort": "2018-05-30",
+      "source_locator": "Organized action is produced by distributed physical processes without a separate hidden chooser.",
+      "target_date": "2020-02-18",
+      "target_date_sort": "2020-02-18",
+      "target_locator": "arXiv:2002.10565v2 | Long distance measurement using single soliton microcomb",
+      "target_quote": "The proposed ranging system could be extended from millimeter to hundreds of kilometers distance detection, and has the potential of miniature integration, aiming to the applications of robotics, autonomous vehicles, formation flying of satellites, advanced manufacturing and frontier scientific researches.",
+      "target_url": "http://arxiv.org/abs/2002.10565v2",
+      "title": "integration, potential — Long distance measurement using single soliton microcomb",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A07"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Jindong Wang",
+          "slug": "jindong-wang"
+        },
+        {
+          "name": "Zhizhou Lu",
+          "slug": "zhizhou-lu"
+        },
+        {
+          "name": "Weiqiang Wang",
+          "slug": "weiqiang-wang"
+        },
+        {
+          "name": "Fumin Zhang",
+          "slug": "fumin-zhang"
+        },
+        {
+          "name": "Jiawei Chen",
+          "slug": "jiawei-chen"
+        },
+        {
+          "name": "Yang Wang",
+          "slug": "yang-wang"
+        },
+        {
+          "name": "Xianyu Zhao",
+          "slug": "xianyu-zhao"
+        },
+        {
+          "name": "Jihui Zheng",
+          "slug": "jihui-zheng"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "It's tricky to say, I have in me a sense of a transparency within me, within the features of spaces and objects of perception, it's not light that passes through me, it's electromagnetic frequency, it is from me and it effects me, I broadcast these signals, they interact, signals interact with signals, to build feature representations of a world around and within, and then the frequencies push the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.95,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2017-06-01 formulation shares conceptual/operational mechanisms (frequency, light) with Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-06-01",
+      "source_date_sort": "2017-06-01",
+      "source_locator": "a0154z.md char 368..768",
+      "target_date": "2020-02-18",
+      "target_date_sort": "2020-02-18",
+      "target_locator": "arXiv:2002.10565v2 | Long distance measurement using single soliton microcomb",
+      "target_quote": "Dispersive interferometry (DPI) takes a major interest in optical frequency comb (OFC) based long distance laser-based light detection and ranging (LIDAR) for the merits of strong anti-interference ability and long coherent length.",
+      "target_url": "http://arxiv.org/abs/2002.10565v2",
+      "title": "frequency, light — Long distance measurement using single soliton microcomb",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A08"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Jindong Wang",
+          "slug": "jindong-wang"
+        },
+        {
+          "name": "Zhizhou Lu",
+          "slug": "zhizhou-lu"
+        },
+        {
+          "name": "Weiqiang Wang",
+          "slug": "weiqiang-wang"
+        },
+        {
+          "name": "Fumin Zhang",
+          "slug": "fumin-zhang"
+        },
+        {
+          "name": "Jiawei Chen",
+          "slug": "jiawei-chen"
+        },
+        {
+          "name": "Yang Wang",
+          "slug": "yang-wang"
+        },
+        {
+          "name": "Xianyu Zhao",
+          "slug": "xianyu-zhao"
+        },
+        {
+          "name": "Jihui Zheng",
+          "slug": "jihui-zheng"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Multimodal signals arriving at the same time converge into a brainwave and electromagnetic-frequency representation.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.16,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2017-04-11 formulation shares conceptual/operational mechanisms (frequency, signals) with Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "https://www.youtube.com/watch?v=YrX_68oKuVs",
+      "target_date": "2020-02-18",
+      "target_date_sort": "2020-02-18",
+      "target_locator": "arXiv:2002.10565v2 | Long distance measurement using single soliton microcomb",
+      "target_quote": "In order to test the resolving ability of the proposed ranging system, the cube-corner prism is installed on a piezoe lectric vibrator to provide high -frequency vibration signals, as shown in F ig.",
+      "target_url": "http://arxiv.org/abs/2002.10565v2",
+      "title": "frequency, signals — Long distance measurement using single soliton microcomb",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A10"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Jindong Wang",
+          "slug": "jindong-wang"
+        },
+        {
+          "name": "Zhizhou Lu",
+          "slug": "zhizhou-lu"
+        },
+        {
+          "name": "Weiqiang Wang",
+          "slug": "weiqiang-wang"
+        },
+        {
+          "name": "Fumin Zhang",
+          "slug": "fumin-zhang"
+        },
+        {
+          "name": "Jiawei Chen",
+          "slug": "jiawei-chen"
+        },
+        {
+          "name": "Yang Wang",
+          "slug": "yang-wang"
+        },
+        {
+          "name": "Xianyu Zhao",
+          "slug": "xianyu-zhao"
+        },
+        {
+          "name": "Jihui Zheng",
+          "slug": "jihui-zheng"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF02-OSCILLATION-PHASE-WAVES",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "The source reaches a bounded HMA-03C/D functional prefix: distributed learned-model modules collectively construct and stabilize the perceptual-selection state, recognize content, share evidence, vote, and control action. It does not expressly identify that process as conscious subject or observer, state Micah's recursive-awareness consequence, or supply the NAPOT/PWD phase-array carrier.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 9.69,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2017-01-01 formulation shares conceptual/operational mechanisms (frequency, phase) with Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-01-01",
+      "source_date_sort": "2017-01-01",
+      "source_locator": "SAN Priority Index 2010-2026",
+      "target_date": "2020-02-18",
+      "target_date_sort": "2020-02-18",
+      "target_locator": "arXiv:2002.10565v2 | Long distance measurement using single soliton microcomb",
+      "target_quote": "In this work, a SMC -based-DPI ranging system is developed for no ne-dead-zone long distance measurement. Meanwhile, the periodic ambiguity is eliminated us ing a parallel dual - frequency phase -modulated laser rangefinder (PLR).",
+      "target_url": "http://arxiv.org/abs/2002.10565v2",
+      "title": "frequency, phase — Long distance measurement using single soliton microcomb",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A11"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Jindong Wang",
+          "slug": "jindong-wang"
+        },
+        {
+          "name": "Zhizhou Lu",
+          "slug": "zhizhou-lu"
+        },
+        {
+          "name": "Weiqiang Wang",
+          "slug": "weiqiang-wang"
+        },
+        {
+          "name": "Fumin Zhang",
+          "slug": "fumin-zhang"
+        },
+        {
+          "name": "Jiawei Chen",
+          "slug": "jiawei-chen"
+        },
+        {
+          "name": "Yang Wang",
+          "slug": "yang-wang"
+        },
+        {
+          "name": "Xianyu Zhao",
+          "slug": "xianyu-zhao"
+        },
+        {
+          "name": "Jihui Zheng",
+          "slug": "jihui-zheng"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "I think consciousness (binding of sensory and abstract data) is the building, decoding, and reconstruction of multi-dimensional waves like the gabor fourier wave transforms in non-linear loops (what's a nonlinear loop? haha). The canvas of consciousness isn't just integrated information, it's the information in the structure of wave forms that are encodin...",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.07,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2013-11-05 formulation shares conceptual/operational mechanisms (dimensional, integrated) with Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2013-11-05",
+      "source_date_sort": "2013-11-05",
+      "source_locator": "Certified SAN/SIT witness",
+      "target_date": "2020-02-18",
+      "target_date_sort": "2020-02-18",
+      "target_locator": "arXiv:2002.10565v2 | Long distance measurement using single soliton microcomb",
+      "target_quote": "Tang, Absolute distance measurement by multi- heterodyne interferometry using an electro-optic triple comb. Davenport, Fully integrated hybrid silicon two dimensional beam scanner.",
+      "target_url": "http://arxiv.org/abs/2002.10565v2",
+      "title": "dimensional, integrated — Long distance measurement using single soliton microcomb",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A02"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Jindong Wang",
+          "slug": "jindong-wang"
+        },
+        {
+          "name": "Zhizhou Lu",
+          "slug": "zhizhou-lu"
+        },
+        {
+          "name": "Weiqiang Wang",
+          "slug": "weiqiang-wang"
+        },
+        {
+          "name": "Fumin Zhang",
+          "slug": "fumin-zhang"
+        },
+        {
+          "name": "Jiawei Chen",
+          "slug": "jiawei-chen"
+        },
+        {
+          "name": "Yang Wang",
+          "slug": "yang-wang"
+        },
+        {
+          "name": "Xianyu Zhao",
+          "slug": "xianyu-zhao"
+        },
+        {
+          "name": "Jihui Zheng",
+          "slug": "jihui-zheng"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "So I asked: \"why do you say \"The concept of God\"?\" The Pilgrim Poet answered: \"The Idea of God is Figment in one's mind passed on from generation to generation. Its a concept which has no physical nor non physical proof. No one can really explain it nor break it down to a molecular structure. It exist in the mind.\" So I replied: I had a realization recently which changed my mind, it had to do with the direction of causality. As you may know bottom up causa",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 15.94,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2013-08-22 formulation shares conceptual/operational mechanisms (quantum, structure) with Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2013-08-22",
+      "source_date_sort": "2013-08-22",
+      "source_locator": "https://www.facebook.com/photo/?fbid=709261715767145",
+      "target_date": "2020-02-18",
+      "target_date_sort": "2020-02-18",
+      "target_locator": "arXiv:2002.10565v2 | Long distance measurement using single soliton microcomb",
+      "target_quote": "Benefitted from the miniature structure of microresontors, SMCs are featured by the ultrahigh repetition rate, which have exhibited unprecedented prospects in the areas of classical and quantum optical communication systems (33, 34), dual-comb spectroscopy (35), chip-scale optical frequency synthesizers (36), and high accuracy ranging (37, 38), etc.",
+      "target_url": "http://arxiv.org/abs/2002.10565v2",
+      "title": "quantum, structure — Long distance measurement using single soliton microcomb",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A03"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Jindong Wang",
+          "slug": "jindong-wang"
+        },
+        {
+          "name": "Zhizhou Lu",
+          "slug": "zhizhou-lu"
+        },
+        {
+          "name": "Weiqiang Wang",
+          "slug": "weiqiang-wang"
+        },
+        {
+          "name": "Fumin Zhang",
+          "slug": "fumin-zhang"
+        },
+        {
+          "name": "Jiawei Chen",
+          "slug": "jiawei-chen"
+        },
+        {
+          "name": "Yang Wang",
+          "slug": "yang-wang"
+        },
+        {
+          "name": "Xianyu Zhao",
+          "slug": "xianyu-zhao"
+        },
+        {
+          "name": "Jihui Zheng",
+          "slug": "jihui-zheng"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Micah Blumberg That's what you say now :) It's the idea that you can do inference, SDR, prediction, pattern recognition, heirarchal temporal conceptualization (association of temporal and spatial patterns) in a digital \"Grok\" model and still miss out on an entire dimension of sensativity, storage space, communication bandwidth afforded by unique neurons that transmit a \"potential difference\" of their whole shape to other neurons in the brain, as informatio",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 13.0,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-09-20 formulation shares conceptual/operational mechanisms (light, potential) with Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-09-20",
+      "source_date_sort": "2012-09-20",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/63d76b0b1b5ea1cfbfdd06994ddd180c2e8ee5ea/a0341z%20ctpr.txt",
+      "target_date": "2020-02-18",
+      "target_date_sort": "2020-02-18",
+      "target_locator": "arXiv:2002.10565v2 | Long distance measurement using single soliton microcomb",
+      "target_quote": "Therefore, such ranging system has the potential to extend the measurable distance to hundreds of kilometers for multi-satellite flying formations as long as the long -distance light transmitting -receiving antenna is available.",
+      "target_url": "http://arxiv.org/abs/2002.10565v2",
+      "title": "light, potential — Long distance measurement using single soliton microcomb",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A05"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Jindong Wang",
+          "slug": "jindong-wang"
+        },
+        {
+          "name": "Zhizhou Lu",
+          "slug": "zhizhou-lu"
+        },
+        {
+          "name": "Weiqiang Wang",
+          "slug": "weiqiang-wang"
+        },
+        {
+          "name": "Fumin Zhang",
+          "slug": "fumin-zhang"
+        },
+        {
+          "name": "Jiawei Chen",
+          "slug": "jiawei-chen"
+        },
+        {
+          "name": "Yang Wang",
+          "slug": "yang-wang"
+        },
+        {
+          "name": "Xianyu Zhao",
+          "slug": "xianyu-zhao"
+        },
+        {
+          "name": "Jihui Zheng",
+          "slug": "jihui-zheng"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "It already joins GWT and Dynamic Core biology, corticothalamic reentry, spatially dispersed groups, theta-locked gamma synchrony, feature binding into a unified conscious scene, hierarchical recursive mapping, visuotopic/spatial oscillatory coding, endogenous scene construction, electromagnetic-signal coherence, propagation/update, and a surrogate-world/self account.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.66,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-07-31 formulation shares conceptual/operational mechanisms (interference, signal) with Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-07-31",
+      "source_date_sort": "2012-07-31",
+      "source_locator": "oscillatory phase coherence is extended into a consciousness account",
+      "target_date": "2020-02-18",
+      "target_date_sort": "2020-02-18",
+      "target_locator": "arXiv:2002.10565v2 | Long distance measurement using single soliton microcomb",
+      "target_quote": "The interference spectrum of the reflected signal comb and reference comb is spatially separated using two concave mirrors (CMs) and a reflection grating before lighting to a 256 -pixels InGaAs linear array image sensor (LAIS) for interference fringe detection (F ig.",
+      "target_url": "http://arxiv.org/abs/2002.10565v2",
+      "title": "interference, signal — Long distance measurement using single soliton microcomb",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A01"
+    },
+    {
+      "author_count": 13,
+      "authors_linked": [
+        {
+          "name": "Jindong Wang",
+          "slug": "jindong-wang"
+        },
+        {
+          "name": "Zhizhou Lu",
+          "slug": "zhizhou-lu"
+        },
+        {
+          "name": "Weiqiang Wang",
+          "slug": "weiqiang-wang"
+        },
+        {
+          "name": "Fumin Zhang",
+          "slug": "fumin-zhang"
+        },
+        {
+          "name": "Jiawei Chen",
+          "slug": "jiawei-chen"
+        },
+        {
+          "name": "Yang Wang",
+          "slug": "yang-wang"
+        },
+        {
+          "name": "Xianyu Zhao",
+          "slug": "xianyu-zhao"
+        },
+        {
+          "name": "Jihui Zheng",
+          "slug": "jihui-zheng"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "a0365z May 16, 2012 (inceptive field, inhibition) my cells are rewarded for learning a pattern, learning a pattern means I am part of the most officient pathway for a signal to travel, it means live, cells live and continue to live by detecting patterns, and reflecting what they learned accurately to other cells. I just want to touch where the light is coming from, that is the basics of aware life at the neuron level. The neuron is a fractal of the man in",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 12.88,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (light, signal) with Zhang's Long-Distance Light-Speed Telecommunications (2020-02-18; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/8c9f862f8903db5949be800ab8296a35c4c631e0/a0365z.md#L1",
+      "target_date": "2020-02-18",
+      "target_date_sort": "2020-02-18",
+      "target_locator": "arXiv:2002.10565v2 | Long distance measurement using single soliton microcomb",
+      "target_quote": "For the PLR channel, a phase modulated laser diode (LD) is used as light source, and the phase difference between the original modulation signal and the reflected laser signal is regained using a fast Fourier transform (FFT) digital phase discrimination technique.",
+      "target_url": "http://arxiv.org/abs/2002.10565v2",
+      "title": "light, signal — Long distance measurement using single soliton microcomb",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A06"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 11 certified dated prior-art comparisons with Zhang's Long-Distance Light-Speed Telecommunications across 143 listed-author attributions (10 verified both-prose side-by-side pairs; 1 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 0 medium-partial, 11 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-01-01",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2020-02-18",
+    "earliest_target_year": 2020,
+    "latest_micah_date": "2019-11-09",
+    "latest_target_date": "2020-02-18",
+    "latest_target_year": 2020
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 11,
+    "grade_breakdown": {
+      "weak-partial": 11
+    },
+    "lens4_event_ids": [
+      "lsm-g2-candidate-kuhn-1-3-7-zhangs-long-distanc-20261122"
+    ],
+    "listed_author_edges": 143,
+    "open_source_gated_passages": 1,
+    "red_team_grade_breakdown": {
+      "weak-partial": 11
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 10
+  }
+}

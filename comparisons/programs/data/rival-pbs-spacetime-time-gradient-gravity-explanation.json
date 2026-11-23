@@ -1,0 +1,919 @@
+{
+  "authors_linked": [
+    {
+      "name": "Matt Odowd",
+      "slug": "matt-odowd"
+    },
+    {
+      "name": "Sorci G",
+      "slug": "sorci-g"
+    },
+    {
+      "name": "Foo J",
+      "slug": "foo-j"
+    },
+    {
+      "name": "Leibfried D",
+      "slug": "leibfried-d"
+    },
+    {
+      "name": "Sanner C",
+      "slug": "sanner-c"
+    },
+    {
+      "name": "Pikovski I",
+      "slug": "pikovski-i"
+    }
+  ],
+  "display_code": "pbs-spacetime-time-gradient-gravity-explanation",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2012-01-01 and 2023-11-01, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 16 documented mechanisms appearing in Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01 to 2026-04-01) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Pbs Spacetime Time Gradient Gravity Explanation",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 16 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 5 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 16 dated comparisons and 32 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-pbs-spacetime-time-gradient-gravity-explanation",
+  "program_name": "Pbs Spacetime Time Gradient Gravity Explanation",
+  "rows": [
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Sorci G",
+          "slug": "sorci-g"
+        },
+        {
+          "name": "Foo J",
+          "slug": "foo-j"
+        },
+        {
+          "name": "Leibfried D",
+          "slug": "leibfried-d"
+        },
+        {
+          "name": "Sanner C",
+          "slug": "sanner-c"
+        },
+        {
+          "name": "Pikovski I",
+          "slug": "pikovski-i"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "3.3 How to Detect ρt in Practice Observables and Potential Tests Because ρt is said to shift clock rates and energy levels, one could infer it by measuring subtle anomalies not explained by conventional physics: • Clock Comparisons: High-precision clocks in different gravitational potentials might deviate from standard GR corrections if extra ρt-couplings are present. • Gravitational Lensing: If lensing arcs differ slightly from dark-matter-based models, t",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 24.89,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (clock, clocks, entanglement) with Pbs Spacetime Time Gradient Gravity Explanation (2026-04-01; europepmc-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 31]",
+      "target_date": "2026-04-01",
+      "target_date_sort": "2026-04-01",
+      "target_locator": "doi:10.1103/qhj9-pc2b | Quantum Signatures of Proper Time in Optical Ion Clocks.",
+      "target_quote": "We also demonstrate that time-dilation-induced entanglement between motion and clock evolution can become observable in state-of-the-art clocks when the motion of the atoms is strongly squeezed, realizing proper time interferometry.",
+      "target_url": "https://doi.org/10.1103/qhj9-pc2b",
+      "title": "clock, clocks, entanglement — Quantum Signatures of Proper Time in Optical Ion Clocks.",
+      "win_id": "G1-PBS-SPACETIME-TI-D03-A04"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Sorci G",
+          "slug": "sorci-g"
+        },
+        {
+          "name": "Foo J",
+          "slug": "foo-j"
+        },
+        {
+          "name": "Leibfried D",
+          "slug": "leibfried-d"
+        },
+        {
+          "name": "Sanner C",
+          "slug": "sanner-c"
+        },
+        {
+          "name": "Pikovski I",
+          "slug": "pikovski-i"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "11.7.2 Simulation and Data Analysis Procedures This section details the simulation frameworks and data analysis pipelines essential for interpreting experimental results. Our simulations model the predicted time-density effects under realistic experimental conditions, while our data analysis methods are designed to extract the subtle signals from background noise. 11.7.3 Numerical Simulation Framework To simulate the dynamics of atomic clock behavior and c",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 24.96,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (clock, dynamics, quantum) with Pbs Spacetime Time Gradient Gravity Explanation (2026-04-01; europepmc-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 91]",
+      "target_date": "2026-04-01",
+      "target_date_sort": "2026-04-01",
+      "target_locator": "doi:10.1103/qhj9-pc2b | Quantum Signatures of Proper Time in Optical Ion Clocks.",
+      "target_quote": "We apply a Hamiltonian formalism to derive time dilation effects in harmonically trapped clock atoms and show how second-order Doppler shifts due to the vacuum energy, squeezing, and quantum corrections to the dynamics arise.",
+      "target_url": "https://doi.org/10.1103/qhj9-pc2b",
+      "title": "clock, dynamics, quantum — Quantum Signatures of Proper Time in Optical Ion Clocks.",
+      "win_id": "G1-PBS-SPACETIME-TI-D03-A03"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Sorci G",
+          "slug": "sorci-g"
+        },
+        {
+          "name": "Foo J",
+          "slug": "foo-j"
+        },
+        {
+          "name": "Leibfried D",
+          "slug": "leibfried-d"
+        },
+        {
+          "name": "Sanner C",
+          "slug": "sanner-c"
+        },
+        {
+          "name": "Pikovski I",
+          "slug": "pikovski-i"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (gravitational, time density, time dilation, dark time) that map structurally onto the later publication's (2026-04-01) formulation (dilation) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "2.4.3 Inverse Relationship: Density vs. Rate Dark Time highlights an inverse relationship between time density and the apparent rate of time. In strong gravitational fields, where time frames (discrete or effectively continuous) are packed more densely, clocks run slower. In weaker fields, where these frames spread out, clocks run faster. This relationship parallels the metric-based time dilation in GR and aligns with standard experimental tests of relativ",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 28.71,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (clocks, dilation) with Pbs Spacetime Time Gradient Gravity Explanation (2026-04-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 26]",
+      "target_date": "2026-04-01",
+      "target_date_sort": "2026-04-01",
+      "target_locator": "doi:10.1103/qhj9-pc2b | Quantum Signatures of Proper Time in Optical Ion Clocks.",
+      "target_quote": "However, all measurements of time dilation so far can be explained effectively as the result of dynamics with respect to a classical proper time parameter. Here we show that atomic clocks can probe effects where a classical description of the proper time dynamics is insufficient as superpositions of proper time emerge.",
+      "target_url": "https://doi.org/10.1103/qhj9-pc2b",
+      "title": "clocks, dilation — Quantum Signatures of Proper Time in Optical Ion Clocks.",
+      "win_id": "G1-PBS-SPACETIME-TI-D03-A02"
+    },
+    {
+      "author_count": 5,
+      "authors_linked": [
+        {
+          "name": "Sorci G",
+          "slug": "sorci-g"
+        },
+        {
+          "name": "Foo J",
+          "slug": "foo-j"
+        },
+        {
+          "name": "Leibfried D",
+          "slug": "leibfried-d"
+        },
+        {
+          "name": "Sanner C",
+          "slug": "sanner-c"
+        },
+        {
+          "name": "Pikovski I",
+          "slug": "pikovski-i"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "must achieve exceptional sensitivity and stability. For example, the deployment of optical lattice clocks with fractional uncertainties below 10 −18 is critical for experiments such as ground-to-satellite clock comparisons or altitude-separated clock arrays, where environmental disturbances must be minimized to isolate the expected extra shift of approximately 5 ×10−15. In addition, modern Mach–Zehnder interferometers, particularly those that utilize cold-",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 30.13,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (clocks, gravitational) with Pbs Spacetime Time Gradient Gravity Explanation (2026-04-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 88]",
+      "target_date": "2026-04-01",
+      "target_date_sort": "2026-04-01",
+      "target_locator": "doi:10.1103/qhj9-pc2b | Quantum Signatures of Proper Time in Optical Ion Clocks.",
+      "target_quote": "Optical clocks based on atoms and ions probe relativistic effects with unprecedented sensitivity. They resolve time dilation due to atom motion or different positions in the gravitational potential through frequency shifts.",
+      "target_url": "https://doi.org/10.1103/qhj9-pc2b",
+      "title": "clocks, gravitational — Quantum Signatures of Proper Time in Optical Ion Clocks.",
+      "win_id": "G1-PBS-SPACETIME-TI-D03-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism) via the Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture bridge. Micah Blumberg's dated passage (2023-08-01) expresses active mechanism anchors (perception) that map structurally onto the later publication's (2024-01-01) formulation (recurrent) through the shared operation: Input (ordered or multi-modal representational tokens with relational/positional context) -> Transform (parallel relational weighting and context-conditioned attention routing across representations) -> Output (contextualized latent representation supporting long-range sequence extrapolation and inference). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: ordered or multi-modal representational tokens with relational/positional context -> Transform: parallel relational weighting and context-conditioned attention routing across representations -> Output: contextualized latent representation supporting long-range sequence extrapolation and inference",
+        "lens_basis": "Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism)",
+        "primary_bridge_id": "BT-12-SEQUENCE-ATTENTION-CONTEXT-COMPOSITION",
+        "primary_bridge_name": "Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "against real-world constraints, enabling effective navigation, adaptive learning, and the orchestration of coherent behavior grounded in a unified perception of internal goals and external realities. 8.6 Four trillion dimensions computed per millisecond Tempo-spatial trav- eling waves, known as phase wave differentials, form the scaffolding of neural patterns and representations in the brain. These waves manifest as dynamic manifolds in cortical columns, s",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 22.59,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (cortical, representations) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neu",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 37]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "Recurrent neural networks (RNNs) trained on dynamic tasks implement a STA in their dynamics, suggesting that it is an efficient solution. Our findings provide a precise mechanistic theory of adaptive behaviour that reconciles prior work on PFC representations with other known cortical computations and deficits from lesions.",
+      "target_url": "",
+      "title": "cortical, representations — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A05"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "# Telescoping Mind I think what I was arguing here, but didn't finish, is that the phase changes at a higher levels, layers, or further back arrays, result in features that scale, and abstractions & concepts that scale beyond features. In a neural network information telescopes from microlensing at the sensory inputs to macrolensing at the hierachical peak, and then the feedback from the hierarchical peak drives behavior. # Insert that study with Bats driv",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 19.39,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (cortical, sensory, spatial) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/a3ad84338cd6529b2448e4452fdb3d82c76163bd/a0111z.md",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "Introduction While different cortical areas support different functions, common computational principles are shared across many areas. For functions as disparate as sensory processing, spatial reasoning, and language comprehension, features of the environment are inferred from partial information.",
+      "target_url": "",
+      "title": "cortical, sensory, spatial — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "That envelope behaves like a four-dimensional coordinate grid: phase offsets encode relative distances in both anatomical space and processing time, so any two features that share a stable phase relationship are automatically tagged as belonging to the same moment and the same scene. When the envelope is coherent enough, the brain can treat it as a self-consistent internal world-model—the rendered point-of-view you call first-person perspective. Nothing el",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.53,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (dimensional, grid) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 13 (13san.md) [para 71]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "Right: grid cells (bottom) emerge from a two- dimensional attractor network (top), where cells with similar preferred locations excite each other (red) and intermediate distances inhibit each other (blue).",
+      "target_url": "",
+      "title": "dimensional, grid — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism) via the Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (context, recurrent) that map structurally onto the later publication's (2024-01-01) formulation (recurrent) through the shared operation: Input (ordered or multi-modal representational tokens with relational/positional context) -> Transform (parallel relational weighting and context-conditioned attention routing across representations) -> Output (contextualized latent representation supporting long-range sequence extrapolation and inference). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: ordered or multi-modal representational tokens with relational/positional context -> Transform: parallel relational weighting and context-conditioned attention routing across representations -> Output: contextualized latent representation supporting long-range sequence extrapolation and inference",
+        "lens_basis": "Lens 1 (Computational-Sequence ITO) + Lens 2 (Neural Architecture Isomorphism)",
+        "primary_bridge_id": "BT-12-SEQUENCE-ATTENTION-CONTEXT-COMPOSITION",
+        "primary_bridge_name": "Parallel Contextual Weighting, Sequence Routing & Relational Attention Architecture",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Within the SAN context, the \"unified attractor states\" suggest that a perceived shape corresponds to the neural system rapidly settling into a specific point or region within a high-dimensional state space defined by the collective activity of neurons in cortical-thalamic circuits. The 5 ms constraint for encoding implies that this convergence must be exceptionally fast. The recurrent connectivity within and between cortical areas and the thalamus provides",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 19.8,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (attractor, dynamics, recurrent) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SA",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 31]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "Recurrent neural networks trained by gradient descent on such tasks learn a solution that precisely recapitulates the spacetime attractor – in representation, in dynamics, and in connectivity.",
+      "target_url": "",
+      "title": "attractor, dynamics, recurrent — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery) via the Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (three-dimensional, tomography) that map structurally onto the later publication's (2024-01-01) formulation (spacetime attractor, attractor) through the shared operation: Input (current sensory-goal state and learned environmental transition relations) -> Transform (parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout) -> Output (simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating).",
+        "ito_alignment": "Input: current sensory-goal state and learned environmental transition relations -> Transform: parallel encoding of multiple temporal offsets inside a unified volumetric/spatiotemporal neural manifold rather than serial one-step rollout -> Output: simultaneous multi-step trajectory representation enabling adaptive planning and real-time updating",
+        "lens_basis": "Lens 1 (ITO Functional Equivalence) + Lens 2 (Architectural Isomorphism) + Invariant 9 (Analogy Recovery)",
+        "primary_bridge_id": "BT-01-VOLUMETRIC-SPACETIME-TRAJECTORY-ATTRACTOR",
+        "primary_bridge_name": "Volumetric Spatiotemporal State-Matrix & Multi-Step Trajectory Attractor",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "The SAN \"screen\" is thus best understood not as a static representational space but as an ongoing *process* of tomographic rendering. This process is fundamentally based on the phase variances of brainwaves, distinguishing it from simpler notions of a \"mental image\" or a fixed canvas upon which perceptions are painted. The term \"tomography\" itself implies a method of representing a three-dimensional object by creating images of successive planes or \"slices",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.21,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (dimensional, representation) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 4]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "(B) The spacetime attractor encodes a three- dimensional representation, where neurons have both a preferred location (planes) and delay (horizontal axis). This resembles the PFC representation in Figure 1A.",
+      "target_url": "",
+      "title": "dimensional, representation — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "This definition positions NDCA as the mathematical and computational framework within SAN that describes how the dynamic, oscillatory, attractor-based neural activity translates into the specific geometric and semantic properties (shape, orientation, scale, location, identity) of the perceived object on the screen. The reference to \"manifolds in cortical column brain activity\" is particularly significant. It suggests that perceived shapes are represented a",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 21.95,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (attractor, cortical, dynamics) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 38]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "Search is easily adapted to new environments, but it is slow at decision time. In familiar environments, where the structure can be embedded in cortical connections, attractor dynamics provide a complementary mechanism for rapid evaluation of many possible futures in parallel.",
+      "target_url": "",
+      "title": "attractor, cortical, dynamics — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF04-WORKSPACE-ATTENTION-SCHEMA",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "- Miller, E.K., & Cohen, J.D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience, 24, 167--202..7 (Annotation: Miller's work on prefrontal cortex (PFC) function, particularly how it exerts cognitive control and supports working memory through oscillatory dynamics (e.g., theta-gamma coupling), is crucial for understanding the higher-level cognitive operations that would emerge from the SAN architecture. NAPOT's interp",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 22.27,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (memory, prefrontal, working) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/n",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 118]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "The STA solves problems with dynamic rewards, which PFC is important for and simpler algorithms struggle with (Figure 4). It solves these problems using internal representations that closely resemble prefrontal representations during sequence working memory, thereby unifying working memory and planning in PFC.",
+      "target_url": "",
+      "title": "memory, prefrontal, working — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Furthermore, the principles outlined in SAN, particularly its reliance on oscillatory physics and attractor dynamics, find resonance with and potential deeper grounding in Micah Blumberg's Super Information Theory (SIT). SIT's emphasis on quantum coherence, coherence-decoherence informational duality, and information as an active attractor could provide a more fundamental physical layer for the mechanisms proposed in NAPOT and NDCA. The alignment of NDCA w",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.69,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (attractor, dynamics) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 72]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "The objective function also penalised large firing rates and network weights to encourage an efficient solution. The defining features that allow an STA to plan via inference are (i) it has an explicit representa- tion of the future, (ii) the connectivity embeds the environment structure, and (iii) attractor dynamics constrain the representation.",
+      "target_url": "",
+      "title": "attractor, dynamics — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "4. **Receptive fields as learned pattern detectors.** The keen sense of 3D space is addressed not by fixed voxel receptive fields but through a dynamic, learned, volumetric rendering. \"Receptive fields\" are mentioned in the context of sensor arrays of neurons magnifying detection capabilities by coordinating with adjacent oscillating neurons. Neurons' dendrites and synaptic connections encode learned patterns, acting as localized embeddings or vector space",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 23.11,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (grid, neurons) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience an",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 11 (11san.md) [para 15]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "Grid attractors instead encode two- dimensional locations. This is achieved by neurons that are mutually excitatory if they represent nearby locations and inhibitory if they represent more distant locations (Figure 2A, top right; Fuhs and Touretzky, 2006; Burak and Fiete, 2009).",
+      "target_url": "",
+      "title": "grid, neurons — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF03-DENDRITIC-COINCIDENCE-GATING",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "Summary: A hallmark of SAN is that it leverages self-organizing feedback loops across scales. Rather than requiring a central controller, the network's components adjust in response to local feedback signals, leading to emergent global order. This concept has deep roots: complex systems can exhibit autopoiesis -- they maintain and create their structure through recursive interactions. In neural terms, synapses strengthen or weaken based on activity (feedba",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 24.55,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (dynamics, plasticity, structure) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between S",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 80]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "Remarkably, the connectivity reflected the tran- sition structure of whichever environment the agent was currently in (Figure 7C and D). This indicates a general solution that allows recurrent networks to use attractor dynamics for planning in any similar environment, without requiring synaptic plasticity.",
+      "target_url": "",
+      "title": "dynamics, plasticity, structure — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial-cross-domain",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial-cross-domain rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF04-WORKSPACE-ATTENTION-SCHEMA",
+      "grade": "weak-partial-cross-domain",
+      "grade_bucket": "weak-partial-cross-domain",
+      "micah_quote": "- **Thalamocortical Loops:** The preliminary response also suggested that thalamocortical loops shape the gating of perceptual instantiations and enforce their periodicity. This is well-supported by mainstream neuroscience, which views thalamocortical circuits as essential for maintaining consciousness, relaying sensory information, and generating various brain rhythms, including alpha and sleep spindles. Higher-order thalamic nuclei, in particular, are th",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 25.7,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial-cross-domain"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (cortex, prefrontal, representations) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge betwe",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 23]",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "While prefrontal cortex is crucial for this process, it remains unknown how planning is implemented in neural circuits. Prefrontal representations were recently discovered in simpler sequence memory tasks, where different populations of neurons represent different future time points.",
+      "target_url": "",
+      "title": "cortex, prefrontal, representations — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Matt Odowd",
+          "slug": "matt-odowd"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery) via the Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding bridge. Micah Blumberg's dated passage (2012-01-01) expresses active mechanism anchors (cortex, neuron, graph) that map structurally onto the later publication's (2024-01-01) formulation (synaptic, embedding) through the shared operation: Input (multi-feature sensory or episodic inputs spanning high-dimensional representational channels) -> Transform (associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces) -> Output (robust, compositional, noise-tolerant pattern integration and flexible memory recall). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: multi-feature sensory or episodic inputs spanning high-dimensional representational channels -> Transform: associative coupling across distributed linked neural assemblies or dense sensor-graph subspaces -> Output: robust, compositional, noise-tolerant pattern integration and flexible memory recall",
+        "lens_basis": "Lens 2 (Architectural Isomorphism) + Invariant 9 (Engineering-Analogy Recovery)",
+        "primary_bridge_id": "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "primary_bridge_name": "Distributed Cell-Assembly Coupling & High-Dimensional Compositional Binding",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "October 16th 2012 (graph, layers, cortex, neuron) Micah Blumberg An interesting note, Fred, is that Diffusion Tensor Imaging, in this case, is showing us the white matter of the brain. … Fred Becker Thank you for the discussion. To see if I understand, I will read back what I hear. First, there are layers here and the physical geometry may support additional communication paths in a sort of virtual geometry even (e.g., large brainwaves might actually be la",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 21.58,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2012-01-01 formulation shares conceptual/operational mechanisms (cortex, structure) with Pbs Spacetime Time Gradient Gravity Explanation (2024-01-01; local-archived-primary-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscienc",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2012-01-01",
+      "source_date_sort": "2012-01-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/64c72ff6c9cc25f27ba7284f4d0407308afff9f3/a0495z.md#L2",
+      "target_date": "2024-01-01",
+      "target_date_sort": "2024-01-01",
+      "target_locator": "elife-109757-vor-v1.pdf | elife 109757 vor v1",
+      "target_quote": "This is achieved by embedding the environment structure directly in synaptic connections to implement an attractor network that infers desirable futures. The resulting ‘space- time attractor’ excels at planning in challenging tasks known to depend on the prefrontal cortex.",
+      "target_url": "",
+      "title": "cortex, structure — elife 109757 vor v1",
+      "win_id": "G1-PBS-SPACETIME-TI-D01-A08"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 16 certified dated prior-art comparisons with Pbs Spacetime Time Gradient Gravity Explanation across 32 listed-author attributions (16 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 4 strong, 5 medium-partial, 3 weak-partial, 4 weak-partial cross-domain, with 5 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2012-01-01",
+    "earliest_micah_year": 2012,
+    "earliest_target_date": "2024-01-01",
+    "earliest_target_year": 2024,
+    "latest_micah_date": "2023-11-01",
+    "latest_target_date": "2026-04-01",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 5,
+    "governed_wins": 16,
+    "grade_breakdown": {
+      "medium-partial": 5,
+      "strong": 4,
+      "weak-partial": 3,
+      "weak-partial-cross-domain": 4
+    },
+    "lens4_event_ids": [
+      "lsm-g1-pbs-spacetime-time-gradient-gravity-expl-20261122"
+    ],
+    "listed_author_edges": 32,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 4,
+      "weak-partial": 5,
+      "weak-partial-cross-domain": 7
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 16
+  }
+}

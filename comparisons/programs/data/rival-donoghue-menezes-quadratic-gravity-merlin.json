@@ -1,0 +1,958 @@
+{
+  "authors_linked": [
+    {
+      "name": "John F. Donoghue",
+      "slug": "john-f-donoghue"
+    },
+    {
+      "name": "Gabriel Menezes",
+      "slug": "gabriel-menezes"
+    }
+  ],
+  "display_code": "donoghue-menezes-quadratic-gravity-merlin",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2014-12-05 and 2022-11-28, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 18 documented mechanisms appearing in Donoghue Menezes Quadratic Gravity Merlin (2021-12-03 to 2023-05-31) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Donoghue Menezes Quadratic Gravity Merlin",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 18 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 5 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 18 dated comparisons and 24 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-donoghue-menezes-quadratic-gravity-merlin",
+  "program_name": "Donoghue Menezes Quadratic Gravity Merlin",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-11-28) expresses active mechanism anchors (gravitational, expansion, mass) that map structurally onto the later publication's (2023-05-31) formulation (gravitational) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "a future mass or a future valence of energy, it could be argued that the alignment of individual cosmic scale dipoles, galactic dipoles, relative to other galactic scale dipoles, is one possible source of gravitational expansion",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.84,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-11-28 formulation shares conceptual/operational mechanisms (energy, gravitational) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-11-28",
+      "source_date_sort": "2022-11-28",
+      "source_locator": "later-time gravitational change alters expansion history",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "Indeed, energetic events such as cosmic rays may give us the opportunity to probe our physical theories at energy regimes which are not within reach in accelerators in a straightforward way; on the other hand, gravitational wave detectors can be indispensable in exploring a new-physics scenario, as current studies seem to indicate [23].",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "energy, gravitational — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "What is the gist of my Gravity theory? Mass creates time dilation effects at the quantum scale, and the aggregate effect of quantum time dilation results in a quantum field where the odds of particle movement are shifted in favor of the direction of mass. @NASA",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 23.22,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-28 formulation shares conceptual/operational mechanisms (field, gravity, quantum, scale) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-28",
+      "source_date_sort": "2022-06-28",
+      "source_locator": "https://x.com/worksalt/status/1541865914219384832",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "This allows us to probe causal uncertainty due to quantum fluctuations of the gravitational field as a genuine prediction from Planck-scale physics. Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity Gabriel Menezes ∗ Departamento de F´ ısica, Universidade Federal Rural do Rio de Janeiro, 23897-000, Serop´ edica, RJ, Brazil Multi-messenger astronomy provides us with the possibility of discovering phenomen",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "field, gravity, quantum, scale — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "sametime, because oscillators define spacetime, all oscillators create the space around them by forcing particles into collision patterns that produce gravity, define the electromagnetic phase field and define what we observe as the curvature of spacetime",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 20.61,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-10 formulation shares conceptual/operational mechanisms (entanglement, field, gravity, quantum) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-10",
+      "source_date_sort": "2022-06-10",
+      "source_locator": "Oscillator relations join phase, frequency, magnitude, density, synchronization, and curvature in a proposed information-spacetime gravity architecture.",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "In other words, quantization of the gravitational field is essential for obtaining a consistent description. This implies that gravitationally induced entanglement between massive objects is an interesting path to exploit in order to search for measurable quantum-gravity effects.",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "entanglement, field, gravity, quantum — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A10"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (spacetime, gravity, oscillator, oscillators) that map structurally onto the later publication's (2023-05-31) formulation (curvature, einstein) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics). Corroborated independently by a second structural bridge (Cross-Scale Anisotropic Tensor & Information-Geometry Coupling).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "All human beings are fractal oscillations, but in a real sense each one of us is creating spacetime and ourselves at the sametime, because oscillators define spacetime, all oscillators create the space around them by forcing particles into collision patterns that produce gravity, define the electromagnetic phase field and define what we observe as the curvature of spacetime thanks to Einstein. Space around atoms expands because of increasing travel times b",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.59,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (curvature, einstein) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/40c0b37fc9376a6630ad9d3b09d911997c1c17f4/a0010z.md",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "It is intriguing to observe that the Einstein-Hilbert term is important in order to keep a positive ∆ t. Not only that; a consistent expression in four dimensions can only be obtained when including the Einstein-Hilbert term in the action, as the analogous calculation obtained from only curvature-squared terms in the action would tell us: ∆t M 2→0 = ξ2 2 m 8π \u0012 b2 0 − b2 (4 − d) + b2 0 ln b0 − b2 ln b + (b2 0 − b2) γE − 1 + lnπ 2 \u0013.",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "curvature, einstein — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A11"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "New, written on June 16th, 2022, an easier explanation of my Gravity Equation 'Gravity is time dilation' \"Gravity is gradient time dilation at the particle & atomic scale.\" A mass like the earth heats up space time relative to outer space, expanding the number of directions around a particle temporally in addition to the spatial dimensions, because if a particle or atom moves in a random direction in space with no large masses nearby it has no particular r",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 20.76,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (gravity, particles, quantum, scale) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/3dde844bb0ea6a9ba45a6f4351113903a49096e4/a0033z.md",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "For instance, Planck-scale modified dispersion relations can potentially probe quantum-gravity effects on the propagation of particles [25–27]. In turn, analog models for quantum-gravity effects can also be helpful in order to propose achievable table-top experiments [28, 29].",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "gravity, particles, quantum, scale — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A07"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Micah Blumberg's Super Information Theory (SIT) offers a potentially deeper physical grounding for the oscillatory dynamics proposed in NAPOT and SAN. SIT posits that \"quantum coherence\"---the synchronized alignment of quantum wave phases---is a foundational driver behind phenomena including gravity, time dilation, and even consciousness. It explains cognitive emergence and neural synchronization as \"states of predictive synchronization,\" aligning with mod",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 20.14,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (gravity, quantum, wave) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 8 (08san.md) [para 51]",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "This can be made more precise by using modern amplitude methods to calculate classical wave observables using quantum scattering amplitudes, such as in the so-called KMOC formal- ism [61, 62] – as might be expected, the required classical limits are depicted by coherent states of the quanta of radiation (photons or gravitons, depending on whether one is discussing electrodynamics or gravity).",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "gravity, quantum, wave — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A12"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture) via the Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation bridge. Micah Blumberg's dated passage (2022-03-01) expresses active mechanism anchors (gradient) that map structurally onto the later publication's (2023-05-31) formulation (observable, potential) through the shared operation: Input (coupled continuum field densities, phase gradients, and conjugate momenta) -> Transform (variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps) -> Output (quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior).",
+        "ito_alignment": "Input: coupled continuum field densities, phase gradients, and conjugate momenta -> Transform: variational Hamiltonian/Lagrangian or field-impedance operator evolution modifying propagation and gaps -> Output: quantized/gapped excitation spectrum and measurable macroscopic wave or fluid propagation behavior",
+        "lens_basis": "Lens 1 (Operator/PDE Equivalence) + Lens 2 (Effective Field Architecture)",
+        "primary_bridge_id": "BT-09-CONTINUUM-FIELD-GRADIENT-OPERATOR-REFORMULATION",
+        "primary_bridge_name": "Continuum Field-Gradient, Scalar-Density & Effective Operator Reformulation",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "The repository's content, including its conceptual mappings and explicit citations, reveals a theoretical framework that is both grounded in established scientific principles (e.g., Hopfield networks, FEP) and actively integrating contemporary neuroscience (Levin, Miller, Hawkins). The development of NAPOT through multiple revisions 2 underscores this dynamic synthesis. Furthermore, the inclusion of \"Quantum Gradient Time Crystal Dilation (QGTCD)\" as a uni",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.66,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (quantum, relativity) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 122]",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "Perhaps from a safe-ground landscape our main focus should indeed be the predictions from quantum general relativity. Nevertheless we wish to push forward our limits and try to seek potential marks on observables left by high-energy gravitational physics.",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "quantum, relativity — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A09"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Terahertz micro-oscillations may add precision, but they are not required to ignite the loop; millisecond phase cycles suffice. Likewise, Penrose’s Planck-scale “objective reduction” is optional decoration, not the essence of consciousness. The essence is computation carried by self-referential timing and nested coherence—physics that any GPU can iterate, as the forthcoming three-thousand-line CUDA release will show.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.71,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (planck, scale) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 13 (13san.md) [para 7]",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "What is not optional is the quantum correction to lightcones. These are small at low energy, but get enhanced to order unity in the Planck scale.",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "planck, scale — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A08"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Fourth, energy-based language is a translation layer between biophysics and code. A coefficient-of-variation stands for a distribution of spike energies; plasticity rules translate metabolic work into parameter shifts; the simulator tracks these shifts with floating-point updates. Thermodynamics and information theory are two descriptions of the same state evolution, so talking about oscillations that “grow or shrink in scale” is not a second model, merely",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 22.08,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (energy, scale) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 13 (13san.md) [para 19]",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "The modern view is that our theory is actually an effective field theory valid at energies below a hypothetical energy scale. In this sense general relativity should also be fundamentally envisaged as a quantum theory [32].",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "energy, scale — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "The repository's content, including its conceptual mappings and explicit citations, reveals a theoretical framework that is both grounded in established scientific principles (e.g., Hopfield networks, FEP) and actively integrating contemporary neuroscience (Levin, Miller, Hawkins). The development of NAPOT through multiple revisions 2 underscores this dynamic synthesis. Furthermore, the inclusion of \"Quantum Gradient Time Crystal Dilation (QGTCD)\" as a uni",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 22.49,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (field, quantum, relativity) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 122]",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "Indeed, general relativity is a beautiful lesson of the effective field theory paradigm [32]. Furthermore, alternative scenarios for effective descriptions of quantum gravity effects by Standard-Model extensions are also possible [33–36].",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "field, quantum, relativity — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "Today I applied my Quantum Gravity Equation Hypothesis to Black Holes with a diagram and I had a surprising prediction: It's only statistically implausible for light to escape a black hole on a time scale that is less than the age of the universe.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 27.31,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2021-12-02 formulation shares conceptual/operational mechanisms (black, hole, prediction, quantum, scale) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2021-12-02",
+      "source_date_sort": "2021-12-02",
+      "source_locator": "https://x.com/worksalt/status/1466498442155335681",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "This allows us to probe causal uncertainty due to quantum fluctuations of the gravitational field as a genuine prediction from Planck-scale physics. INTRODUCTION With the binary black-hole and neutron-star merger events detected by the LIGO collaboration [1–5], a new chapter has opened in the domain of the multi-messenger paradigm.",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "black, hole, prediction, quantum — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "John F. Donoghue",
+          "slug": "john-f-donoghue"
+        },
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Today I applied my Quantum Gravity Equation Hypothesis to Black Holes with a diagram and I had a surprising prediction: It's only statistically implausible for light to escape a black hole on a time scale that is less than the age of the universe.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.42,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2021-12-02 formulation shares conceptual/operational mechanisms (gravity, scale) with Donoghue Menezes Quadratic Gravity Merlin (2021-12-03; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2021-12-02",
+      "source_date_sort": "2021-12-02",
+      "source_locator": "https://x.com/worksalt/status/1466498442155335681",
+      "target_date": "2021-12-03",
+      "target_date_sort": "2021-12-03",
+      "target_locator": "arXiv:2112.01974 | On Quadratic Gravity",
+      "target_quote": "This leads to a violation of causality on scale s over which the Merlin mode propagates. While there are in principle signals of this behavior [31, 33, 40], for quad ratic gravity they are proportional to the Planck time scale, which is far too small to be observable.",
+      "target_url": "https://arxiv.org/abs/2112.01974",
+      "title": "gravity, scale — On Quadratic Gravity",
+      "win_id": "G1-DONOGHUE-MENEZES-D01-A05"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "John F. Donoghue",
+          "slug": "john-f-donoghue"
+        },
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "WHY I now think gravitons \"can't exist\" instead of \"may not exist\" is actually because of my new idea about how anti-matter & quantum gravity connect. In short the anti-graviton violates special relativity (I think) negative mass -> faster than light -> ripping holes in space.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 16.03,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2021-11-29 formulation shares conceptual/operational mechanisms (gravity, quantum) with Donoghue Menezes Quadratic Gravity Merlin (2021-12-03; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2021-11-29",
+      "source_date_sort": "2021-11-29",
+      "source_locator": "https://x.com/worksalt/status/1465216810836320261",
+      "target_date": "2021-12-03",
+      "target_date_sort": "2021-12-03",
+      "target_locator": "arXiv:2112.01974 | On Quadratic Gravity",
+      "target_quote": "2 This paper is a distant reﬂection of a talk presented by JFD at the on-line workshop Quantum Gravity, Higher Derivatives a nd Non- locality, March 2021, and is to be published in a special volu me on this topic.",
+      "target_url": "https://arxiv.org/abs/2112.01974",
+      "title": "gravity, quantum — On Quadratic Gravity",
+      "win_id": "G1-DONOGHUE-MENEZES-D01-A02"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "John F. Donoghue",
+          "slug": "john-f-donoghue"
+        },
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "WHY I now think gravitons \"can't exist\" instead of \"may not exist\" is actually because of my new idea about how anti-matter & quantum gravity connect. In short the anti-graviton violates special relativity (I think) negative mass -> faster than light -> ripping holes in space.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 24.57,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2021-11-29 formulation shares conceptual/operational mechanisms (gravity, relativity) with Donoghue Menezes Quadratic Gravity Merlin (2021-12-03; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2021-11-29",
+      "source_date_sort": "2021-11-29",
+      "source_locator": "https://x.com/worksalt/status/1465216810836320261",
+      "target_date": "2021-12-03",
+      "target_date_sort": "2021-12-03",
+      "target_locator": "arXiv:2112.01974 | On Quadratic Gravity",
+      "target_quote": "This exception is relevant to spin-zero part of th e graviton propagator in quadratic gravity. In this case there is a negative norm massless pole in covariant gauges, jus t as there is in normal General Relativity [27].",
+      "target_url": "https://arxiv.org/abs/2112.01974",
+      "title": "gravity, relativity — On Quadratic Gravity",
+      "win_id": "G1-DONOGHUE-MENEZES-D01-A01"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "John F. Donoghue",
+          "slug": "john-f-donoghue"
+        },
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Like it's basically like a series of temporary stage frequencies overlapping but it does it does audio which is like audios like. I mean it does it does a video but it does video like a sort of like 3D sounds. Like it's a higher dimensional sound energy still consisting of temporal spatial patterns, but the density of the complexity of those patterns is multiply and yeah. 02:49 So that's part of what I'm proposing is that this, this visual sounds that the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.7,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2021-09-17 formulation shares conceptual/operational mechanisms (energy, spatial) with Donoghue Menezes Quadratic Gravity Merlin (2021-12-03; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2021-09-17",
+      "source_date_sort": "2021-09-17",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/09b8306fbb54536e20ba1071e91dff0cb8a4770f/b0192y%20ctpr.txt",
+      "target_date": "2021-12-03",
+      "target_date_sort": "2021-12-03",
+      "target_locator": "arXiv:2112.01974 | On Quadratic Gravity",
+      "target_quote": "The classical limit is obtained by using those kinematic and spatial cond itions where ℏ is unimportant. The classical limit of this theory is at low energy and long wavelength where quantum eﬀects are not important.",
+      "target_url": "https://arxiv.org/abs/2112.01974",
+      "title": "energy, spatial — On Quadratic Gravity",
+      "win_id": "G1-DONOGHUE-MENEZES-D01-A04"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "John F. Donoghue",
+          "slug": "john-f-donoghue"
+        },
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2021-09-17) expresses active mechanism anchors (density, dimension) that map structurally onto the later publication's (2021-12-03) formulation (density) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics).",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Like it's basically like a series of temporary stage frequencies overlapping but it does it does audio which is like audios like. I mean it does it does a video but it does video like a sort of like 3D sounds. Like it's a higher dimensional sound energy still consisting of temporal spatial patterns, but the density of the complexity of those patterns is multiply and yeah. 02:49 So that's part of what I'm proposing is that this, this visual sounds that the",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 11.85,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2021-09-17 formulation shares conceptual/operational mechanisms (density, representation) with Donoghue Menezes Quadratic Gravity Merlin (2021-12-03; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2021-09-17",
+      "source_date_sort": "2021-09-17",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/09b8306fbb54536e20ba1071e91dff0cb8a4770f/b0192y%20ctpr.txt",
+      "target_date": "2021-12-03",
+      "target_date_sort": "2021-12-03",
+      "target_locator": "arXiv:2112.01974 | On Quadratic Gravity",
+      "target_quote": "THE BAD NEWS K¨ allen and Lehmann [24, 25] have told us that propagators have a s pectral representation D(q) = 1 π ∫ ∞ 0 ds ρ(s) q2 − s + iǫ (3) with the spectral density ρ(s) being positive deﬁnite.",
+      "target_url": "https://arxiv.org/abs/2112.01974",
+      "title": "density, representation — On Quadratic Gravity",
+      "win_id": "G1-DONOGHUE-MENEZES-D01-A03"
+    },
+    {
+      "author_count": 2,
+      "authors_linked": [
+        {
+          "name": "John F. Donoghue",
+          "slug": "john-f-donoghue"
+        },
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge) via the Cross-Scale Anisotropic Tensor & Information-Geometry Coupling bridge. Micah Blumberg's dated passage (2017-04-11) expresses active mechanism anchors (metric, dimension) that map structurally onto the later publication's (2021-12-03) formulation (coupling) through the shared operation: Input (anisotropic local connectivity, density, or matter-energy tensor distribution) -> Transform (tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold) -> Output (emergent global geometry governing directional propagation paths or geodesics). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: anisotropic local connectivity, density, or matter-energy tensor distribution -> Transform: tensor-valued geometric coupling encoding directional curvature and structural constraint across a manifold -> Output: emergent global geometry governing directional propagation paths or geodesics",
+        "lens_basis": "Lens 2 (Geometric/Tensor Isomorphism) + Lens 3 (Cross-Scale Neuro-to-Physics Bridge)",
+        "primary_bridge_id": "BT-07-CROSS-DOMAIN-TENSOR-INFORMATION-GEOMETRY",
+        "primary_bridge_name": "Cross-Scale Anisotropic Tensor & Information-Geometry Coupling",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "I'll say a three-dimensional matrix, like a three-dimensional matrix, right? X, Y, and Z. And each point in this three-dimensional matrix has it, has a, um, a temple, a time and space pattern going through it. And that pattern is the ionic charges at each point in that matrix. Okay.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 10.26,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2017-04-11 formulation shares conceptual/operational mechanisms (coupling, dimensional) with Donoghue Menezes Quadratic Gravity Merlin (2021-12-03; arxiv-fulltext-pdf); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and SIT/",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2017-04-11",
+      "source_date_sort": "2017-04-11",
+      "source_locator": "A time-varying three-dimensional pattern of neural or ionic states functions as an internal volumetric scene representation.",
+      "target_date": "2021-12-03",
+      "target_date_sort": "2021-12-03",
+      "target_locator": "arXiv:2112.01974 | On Quadratic Gravity",
+      "target_quote": "Dimensional analysis then tells us that these ter ms will not produce the inverse powers of masses needed to form higher dimensional operators. The coupling constant ξ2 is asymptotically free and f 2 0 is not, when used with the signs of Eq.",
+      "target_url": "https://arxiv.org/abs/2112.01974",
+      "title": "coupling, dimensional — On Quadratic Gravity",
+      "win_id": "G1-DONOGHUE-MENEZES-D01-A06"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Gabriel Menezes",
+          "slug": "gabriel-menezes"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Someone said, \"there will always be a difference between humans and metal robots\", uh no, humans are metal robots, the nervous system pushes metal all day long, metal ions, charged particles, sodium, calcium, potassium, and magnesium. No difference need remain between humans and whatever people imagine when they think of artificial intelligence. The human brain has electical discharges and electromagnetic waves, and heat dissipation systems like any machin",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 21.39,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2014-12-05 formulation shares conceptual/operational mechanisms (electromagnetic, particles) with Donoghue Menezes Quadratic Gravity Merlin (2023-05-31; arxiv-fulltext-pdf); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2014-12-05",
+      "source_date_sort": "2014-12-05",
+      "source_locator": "https://www.facebook.com/worksalt/posts/pfbid02z4B2kLnVAKDCSCNKnPtXpHa1YtPJHTFfjcxYntNeqgkMzduNcHVBvquUgyVWGonCl",
+      "target_date": "2023-05-31",
+      "target_date_sort": "2023-05-31",
+      "target_locator": "arXiv:2305.19517 | Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic gravity",
+      "target_quote": "1: Feynman diagrams associated with the inelastic scalar scattering with photon (or graviton) production discussed in the text. Wiggly lines describe photons or gravitons and straight lines represent the massive scalar particles (these are charged in the electromagnetic case).",
+      "target_url": "https://arxiv.org/abs/2305.19517",
+      "title": "electromagnetic, particles — Quantum gravity phenomenology from the perspective of quantum general relativity and quadratic ",
+      "win_id": "G1-DONOGHUE-MENEZES-D02-A05"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 18 certified dated prior-art comparisons with Donoghue Menezes Quadratic Gravity Merlin across 24 listed-author attributions (18 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 7 strong, 4 medium-partial, 7 weak-partial, 0 weak-partial cross-domain, with 5 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2014-12-05",
+    "earliest_micah_year": 2014,
+    "earliest_target_date": "2021-12-03",
+    "earliest_target_year": 2021,
+    "latest_micah_date": "2022-11-28",
+    "latest_target_date": "2023-05-31",
+    "latest_target_year": 2023
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 5,
+    "governed_wins": 18,
+    "grade_breakdown": {
+      "medium-partial": 4,
+      "strong": 7,
+      "weak-partial": 7
+    },
+    "lens4_event_ids": [
+      "lsm-g1-donoghue-menezes-quadratic-gravity-merli-20261122"
+    ],
+    "listed_author_edges": 24,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 6,
+      "weak-partial": 11,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 18
+  }
+}

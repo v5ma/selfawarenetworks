@@ -1,0 +1,450 @@
+{
+  "authors_linked": [
+    {
+      "name": "Jurgen Wollbold",
+      "slug": "jurgen-wollbold"
+    }
+  ],
+  "display_code": "willdorf-geometric-oscillatory-spacetime",
+  "domain_group": "physics",
+  "domains": "physics",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2023-10-01 and 2024-01-15, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 8 documented mechanisms appearing in Willdorf Geometric Oscillatory Spacetime (2026-01-01 to 2026-01-01) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Willdorf Geometric Oscillatory Spacetime",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 8 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 3 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 8 dated comparisons and 8 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "rival-willdorf-geometric-oscillatory-spacetime",
+  "program_name": "Willdorf Geometric Oscillatory Spacetime",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jurgen Wollbold",
+          "slug": "jurgen-wollbold"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Local Update Rule When two components i and j interact (collide, exchange signals, etc.), we assume a fraction α of the difference is exchanged. For a small time step δt, the update can be written as: Qi(t + δt) = Qi(t) − α ∆Qij(t), Qj(t + δt) = Qj(t) + α ∆Qij(t). Here, 0 < α ≤ 1/2 is a parameter indicating what fraction of the difference is exchanged per interaction. The factor of “ −α” for component i and “+α” for component j ensures the total “signal co",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 14.43,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (lattice, signals) with Willdorf Geometric Oscillatory Spacetime (2026-01-01; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 5]",
+      "target_date": "2026-01-01",
+      "target_date_sort": "2026-01-01",
+      "target_locator": "https://doi.org/10.17605/osf.io/ckbas | Building the Methane Metauniverse as a Condensed-Spacetime Simulator: Frozen K/M/C-Pi Audits of Route Support, No-Ether ",
+      "target_quote": "The allowed Pi light readout gives a null result for observable lattice drift, while deliberately wrong directional metric and wrong Pi readout controls produce clear rejection signals.",
+      "target_url": "https://doi.org/10.17605/osf.io/ckbas",
+      "title": "lattice, signals — Building the Methane Metauniverse as a Condensed-Spacetime Simulator: Frozen K/M/C-Pi Audits of",
+      "win_id": "G1-WILLDORF-GEOMETR-D02-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jurgen Wollbold",
+          "slug": "jurgen-wollbold"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism) via the Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding bridge. Micah Blumberg's dated passage (2024-01-15) expresses active mechanism anchors (phase, propagation, wave) that map structurally onto the later publication's (2026-01-01) formulation (alpha, propagation) through the shared operation: Input (distributed local oscillatory populations and directional sensory or feedback drives) -> Transform (phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes) -> Output (temporally bound multi-region representation and coordinated directional information transfer). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: distributed local oscillatory populations and directional sensory or feedback drives -> Transform: phase-coherent wave propagation and cross-frequency interference routing across cortical or physical nodes -> Output: temporally bound multi-region representation and coordinated directional information transfer",
+        "lens_basis": "Lens 1 (Signal-Processing ITO Equivalence) + Lens 2 (Coupled-Wave Mechanism)",
+        "primary_bridge_id": "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "primary_bridge_name": "Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Create wave-like patterns in the brain’s electric and magnetic fields. • Further drive or modulate voltage-gated ion channels beyond chemical synapses alone. Within the Self Aware Networks view, ephaptic coupling is another route by which sig- nals (phase-wave differentials) propagate and dissipate, effectively “binding” neuronal pop- ulations into a coherent computational unit. As in thermodynamic systems where collisions distribute momentum and energy",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-san-neuro-to-physics-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 23.29,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (electric, magnetic) with Willdorf Geometric Oscillatory Spacetime (2026-01-01; openalex-official-abstract); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between SAN/neuroscience and ",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 21]",
+      "target_date": "2026-01-01",
+      "target_date_sort": "2026-01-01",
+      "target_locator": "https://doi.org/10.17605/osf.io/ckbas | Building the Methane Metauniverse as a Condensed-Spacetime Simulator: Frozen K/M/C-Pi Audits of Route Support, No-Ether ",
+      "target_quote": "The components represent electric density like response, torsional magnetic spin like response, and volumetric gravity scale like response. The theory is translated into a frozen K M C Pi simulator, where K is local stiffness, M is internal inertia, C is neighbor and contact propagation, and Pi alpha are observable readout channels.",
+      "target_url": "https://doi.org/10.17605/osf.io/ckbas",
+      "title": "electric, magnetic — Building the Methane Metauniverse as a Condensed-Spacetime Simulator: Frozen K/M/C-Pi Audits of",
+      "win_id": "G1-WILLDORF-GEOMETR-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jurgen Wollbold",
+          "slug": "jurgen-wollbold"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "8 Dark Time Theory (QGTCD) as a Bridge Between Quantum Mechanics and Gravity 8.1 Overview: Time Density as a Missing Piece Dark Time Theory , also referred to as Quantum Gradient Time Crystal Dilation (QGTCD), posits that time density —the effective “density” of discrete time frames— varies around massive objects and thereby influences quantum and gravitational phenomena. Rather than competing with General Relativity (GR) or standard quantum mechanics (QM)",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 34.02,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (field, quantum, relativity, spacetime) with Willdorf Geometric Oscillatory Spacetime (2026-01-01; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 44]",
+      "target_date": "2026-01-01",
+      "target_date_sort": "2026-01-01",
+      "target_locator": "https://doi.org/10.17605/osf.io/qhyfw | A Geometric Oscillatory Model of Spacetime as a Foundational Structure for Spin, Mass, Space and Time",
+      "target_quote": "Standard quantum mechanics, quantum field theory, and general relativity are recovered as effective limits of a deeper elastic spacetime dynamics. The work also documents a controlled methodology for AI augmented theoretical research, including canonical constraints, audit procedures, and retrieval anchored reasoning, demonstrating how artificial intelligence can support the construction of a consistent and testable physical framework.",
+      "target_url": "https://doi.org/10.17605/osf.io/qhyfw",
+      "title": "field, quantum, relativity, spacetime — A Geometric Oscillatory Model of Spacetime as a Foundational Structure for Spin, Mass, Space an",
+      "win_id": "G1-WILLDORF-GEOMETR-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jurgen Wollbold",
+          "slug": "jurgen-wollbold"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "and light. In so doing, Dark Time aims to unify phenomena traditionally attributed to dark matter and dark energy under a single mechanism grounded in local and large-scale variations in time density. The success of this proposal will ultimately hinge on how accurately it can match the full spectrum of observational data, from precise rotation curve measurements to the distribution of galaxies on the largest observable scales. 8.8 Galactic Filaments and La",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 22.39,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (light, matter, scale) with Willdorf Geometric Oscillatory Spacetime (2026-01-01; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 67]",
+      "target_date": "2026-01-01",
+      "target_date_sort": "2026-01-01",
+      "target_locator": "https://doi.org/10.17605/osf.io/ckbas | Building the Methane Metauniverse as a Condensed-Spacetime Simulator: Frozen K/M/C-Pi Audits of Route Support, No-Ether ",
+      "target_quote": "The goal of this release is to test whether one frozen K M C Pi operator package can carry multiple route classes without route specific retuning. The tested routes include QED like Green response, condensed matter like C dispersion, GR like scale and clock response, King plot nonlinearities, time projection, eigenmode phase closure, no ether Pi light readout, and spinor like w3 branch transport.",
+      "target_url": "https://doi.org/10.17605/osf.io/ckbas",
+      "title": "light, matter, scale — Building the Methane Metauniverse as a Condensed-Spacetime Simulator: Frozen K/M/C-Pi Audits of",
+      "win_id": "G1-WILLDORF-GEOMETR-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jurgen Wollbold",
+          "slug": "jurgen-wollbold"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Upgraded from weak-partial to strong under Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture) via the Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling bridge. Micah Blumberg's dated passage (2023-11-01) expresses active mechanism anchors (dark time, entanglement) that map structurally onto the later publication's (2026-01-01) formulation (gravity, einstein) through the shared operation: Input (relational quantum, oscillatory, or discrete local time-density couplings) -> Transform (collective geometric projection and information-density or entanglement backreaction) -> Output (emergent macroscopic spacetime metric, curvature, and gravitational dynamics). Corroborated independently by a second structural bridge (Oscillatory Traveling Waves, Cross-Frequency Coupling & Phase-Interference Binding).",
+        "ito_alignment": "Input: relational quantum, oscillatory, or discrete local time-density couplings -> Transform: collective geometric projection and information-density or entanglement backreaction -> Output: emergent macroscopic spacetime metric, curvature, and gravitational dynamics",
+        "lens_basis": "Lens 1 (Physical-Geometry ITO Equivalence) + Lens 2 (Emergent-Spacetime Architecture)",
+        "primary_bridge_id": "BT-06-EMERGENT-SPACETIME-FROM-INFORMATION-COUPLING",
+        "primary_bridge_name": "Emergent Spacetime Geometry & Gravity from Relational Oscillatory/Informational Coupling",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-strong",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "in detail in Section 2.2. In our view, entangled particles share synchronized phase cycles, so that when measurements capture only coarse-grained snapshots, the outcomes appear probabilistic even though the underlying process is fully deterministic. These clarifications address concerns that our approach merely repackages known phenomena rather than offering new physics. 1.8.7 Future Directions & Summary In concluding, the paper summarizes Dark Time’s main",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 32.65,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (gravity, quantum) with Willdorf Geometric Oscillatory Spacetime (2026-01-01; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 18]",
+      "target_date": "2026-01-01",
+      "target_date_sort": "2026-01-01",
+      "target_locator": "https://doi.org/10.17605/osf.io/qhyfw | A Geometric Oscillatory Model of Spacetime as a Foundational Structure for Spin, Mass, Space and Time",
+      "target_quote": "In the macroscopic limit, Einstein gravity emerges as an effective description of coarse grained elastic prestress. Quantum dynamics appear as projected internal standing waves, yielding the Schrödinger equation as an effective resonance description and the Dirac equation as its spinorial extension arising from dual chiral tetrahedral structures.",
+      "target_url": "https://doi.org/10.17605/osf.io/qhyfw",
+      "title": "gravity, quantum — A Geometric Oscillatory Model of Spacetime as a Foundational Structure for Spin, Mass, Space an",
+      "win_id": "G1-WILLDORF-GEOMETR-D01-A04"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jurgen Wollbold",
+          "slug": "jurgen-wollbold"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "8.13 Dark Time and Loop Quantum Gravity Super Dark Time and Loop Quantum Gravity (LQG) both work toward reconciling quantum mechanics with general relativity, yet they approach this unification from distinctly different angles. While Loop Quantum Gravity seeks to quantize space itself—treating it as composed of discrete loops or spin networks—Dark Time focuses on local time density as the key to gravitational phenomena. Both theories converge on the notion",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 33.19,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (mass, spacetime, spin) with Willdorf Geometric Oscillatory Spacetime (2026-01-01; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 72]",
+      "target_date": "2026-01-01",
+      "target_date_sort": "2026-01-01",
+      "target_locator": "https://doi.org/10.17605/osf.io/qhyfw | A Geometric Oscillatory Model of Spacetime as a Foundational Structure for Spin, Mass, Space and Time",
+      "target_quote": "Spacetime is modeled as an elastic, oscillatory medium composed of tetrahedral unit cells with internal deformation modes. Physical observables such as energy, mass, spin, charge, and time are shown to emerge as projections of internal phase coherent oscillations rather than as fundamental inputs.",
+      "target_url": "https://doi.org/10.17605/osf.io/qhyfw",
+      "title": "mass, spacetime, spin — A Geometric Oscillatory Model of Spacetime as a Foundational Structure for Spin, Mass, Space an",
+      "win_id": "G1-WILLDORF-GEOMETR-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jurgen Wollbold",
+          "slug": "jurgen-wollbold"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "strong",
+        "defense_rationale": "Already certified in the strong tier; preserved untouched by Blue Team defense pass.",
+        "ito_alignment": "",
+        "lens_basis": "Preserved at strong tier",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "strong",
+        "reviewed": true,
+        "status": "already-strong-preserved",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
+      "grade": "strong",
+      "grade_bucket": "strong",
+      "micah_quote": "7.14.3 Dark Time’s Reinterpretation of Gravity Dark Time replaces the picture of curving spacetime with that of mass densifying nearby time frames. Particles drift inward because they sample more time intervals in that direction, akin to a biased random walk. Whereas GR explains slower clocks and gravitational redshifts through geometric curvature, Dark Time attributes these effects to gradients in ρt. The local scaling of time thus becomes the central mec",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "strong",
+        "score": 35.11,
+        "shared_document_overlay": false,
+        "strength_tier": "strong"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-11-01 formulation shares conceptual/operational mechanisms (geometric, gravitational, mass, structure) with Willdorf Geometric Oscillatory Spacetime (2026-01-01; openalex-official-abstract); graded strong under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "strong",
+      "red_team_grade_bucket": "strong",
+      "rival_win_count": 0,
+      "source_date": "2023-11-01",
+      "source_date_sort": "2023-11-01",
+      "source_locator": "Super Dark Time Draft 16 (SIT/QGTCD, 2023) [para 58]",
+      "target_date": "2026-01-01",
+      "target_date_sort": "2026-01-01",
+      "target_locator": "https://doi.org/10.17605/osf.io/qhyfw | A Geometric Oscillatory Model of Spacetime as a Foundational Structure for Spin, Mass, Space and Time",
+      "target_quote": "Reduced mass, hyperfine structure, isotope shifts, and spin preservation follow directly from this geometric coupling mechanism. External electric, magnetic, and gravitational fields are shown to couple to distinct internal deformation axes, leading to a unified geometric interpretation of Stark, Zeeman, Lamb, and Larmor effects.",
+      "target_url": "https://doi.org/10.17605/osf.io/qhyfw",
+      "title": "geometric, gravitational, mass, structure — A Geometric Oscillatory Model of Spacetime as a Foundational Structure for Spin, Mass, Space an",
+      "win_id": "G1-WILLDORF-GEOMETR-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Jurgen Wollbold",
+          "slug": "jurgen-wollbold"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Dynamical-Symmetry ITO) + Lens 2 (Non-Equilibrium Temporal Order) via the Discrete Time-Frame Periodicity & Time-Crystal Symmetry Breaking bridge. Micah Blumberg's dated passage (2023-10-01) expresses active mechanism anchors (phase, spin) that map structurally onto the later publication's (2026-01-01) formulation (spin) through the shared operation: Input (coupled quantum or phase-field degrees of freedom with discrete temporal dynamics) -> Transform (spontaneous temporal symmetry breaking and phase-locked periodic stabilization) -> Output (persistent non-equilibrium temporal periodicity resilient to local perturbations).",
+        "ito_alignment": "Input: coupled quantum or phase-field degrees of freedom with discrete temporal dynamics -> Transform: spontaneous temporal symmetry breaking and phase-locked periodic stabilization -> Output: persistent non-equilibrium temporal periodicity resilient to local perturbations",
+        "lens_basis": "Lens 1 (Dynamical-Symmetry ITO) + Lens 2 (Non-Equilibrium Temporal Order)",
+        "primary_bridge_id": "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING",
+        "primary_bridge_name": "Discrete Time-Frame Periodicity & Time-Crystal Symmetry Breaking",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "2. Non-UniformOutcomes(N>2):ThemappingM( ϕ) canpartitionthephasecycleasymmetrically, yieldingprobabilitieslikeP(O_1) =1/3, P(O_2) =2/3. 3. InfinitelyRandomOutcomes:If thephasecycleisunresolvablewithinour frame(e.g., updatingat near light-speedrates),theoutcomesappear maximallyunpredictable, resemblinguniformrandomness. --- ReproducingQuantumObservations Spin-1/2Systems:- ThemappingM( ϕ) for N=2reproducestheobservedprobabilitiesof 50%for \"up\" and\"down.\" Ent",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.84,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-10-01 formulation shares conceptual/operational mechanisms (light, spin) with Willdorf Geometric Oscillatory Spacetime (2026-01-01; openalex-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-10-01",
+      "source_date_sort": "2023-10-01",
+      "source_locator": "Quantum SuperTimePosition (SIT, 2023) [para 76]",
+      "target_date": "2026-01-01",
+      "target_date_sort": "2026-01-01",
+      "target_locator": "https://doi.org/10.17605/osf.io/ckbas | Building the Methane Metauniverse as a Condensed-Spacetime Simulator: Frozen K/M/C-Pi Audits of Route Support, No-Ether ",
+      "target_quote": "This supports the MMU route in which the internal medium has structure but the observable Pi light channel does not expose a classical absolute rest frame. The v2.9b spinor audit addresses the spin objection.",
+      "target_url": "https://doi.org/10.17605/osf.io/ckbas",
+      "title": "light, spin — Building the Methane Metauniverse as a Condensed-Spacetime Simulator: Frozen K/M/C-Pi Audits of",
+      "win_id": "G1-WILLDORF-GEOMETR-D02-A03"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 8 certified dated prior-art comparisons with Willdorf Geometric Oscillatory Spacetime across 8 listed-author attributions (8 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 5 strong, 2 medium-partial, 1 weak-partial, 0 weak-partial cross-domain, with 3 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2023-10-01",
+    "earliest_micah_year": 2023,
+    "earliest_target_date": "2026-01-01",
+    "earliest_target_year": 2026,
+    "latest_micah_date": "2024-01-15",
+    "latest_target_date": "2026-01-01",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 3,
+    "governed_wins": 8,
+    "grade_breakdown": {
+      "medium-partial": 2,
+      "strong": 5,
+      "weak-partial": 1
+    },
+    "lens4_event_ids": [
+      "lsm-g1-willdorf-geometric-oscillatory-spacetime-20261122"
+    ],
+    "listed_author_edges": 8,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "strong": 4,
+      "weak-partial": 3,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 8
+  }
+}

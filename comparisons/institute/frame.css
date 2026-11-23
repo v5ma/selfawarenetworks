@@ -1,0 +1,189 @@
+/* frame.css - the Comparison Encyclopedia in the Research Institute design (2026-11-16).
+   The same bar, colours and RGB phase-wave scene as the Institute home and the SAN Encyclopedia reader.
+   Two kinds of page, marked on <html> at build time:
+   - data-cmp="home": the Encyclopedia's front page, laid out as glass cards over the scene;
+   - data-cmp="sheet": every edition and evidence page. Its own design, controls and theme menu are untouched;
+     its body becomes a sheet over the scene, coloured by the page's own --bg.
+   The pages' stylesheets use plain names (--bg, --ink, --line, nav, header, button ...), so every rule here uses
+   --ci-* names, #cmp-* ids and .ci-* classes, and sets every property the pages' rules could reach. */
+html[data-cmp]{
+  --ci-serif:"Iowan Old Style","Palatino Linotype","Book Antiqua",Palatino,Georgia,serif;
+  --ci-sans:"Segoe UI Variable Text","Segoe UI",system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif;
+  --ci-red:#ff4d5e;--ci-green:#2fe08a;--ci-blue:#4d8dff;--ci-gold:#ffc857;
+  --ci-stripe:linear-gradient(90deg,var(--ci-blue) 0 25%,var(--ci-green) 25% 50%,var(--ci-red) 50% 75%,var(--ci-gold) 75%);
+  --ci-bg0:#05040c;--ci-bar:#0a0913;--ci-bar-line:#211e33;
+  --ci-ink:#f5f3fc;--ci-ink2:#cdc9e0;--ci-ink3:#a49fbf;
+  --ci-accent:#ffc857;--ci-accent-ink:#1d1300;--ci-link:#b4cdff;
+  --ci-glass:rgba(17,15,32,.72);--ci-glass-strong:rgba(14,12,27,.94);--ci-glass-line:rgba(205,195,255,.19);--ci-glass-hi:rgba(255,255,255,.09);
+  --ci-shadow:0 34px 70px -28px rgba(0,0,0,.8),0 10px 24px -12px rgba(0,0,0,.5);
+  --ci-sheet-shadow:0 40px 80px -36px rgba(0,0,0,.85),0 0 0 1px rgba(205,195,255,.14);
+  --ci-max:1320px;--ci-gap:28px;
+}
+/* on screen only: printing keeps each page's own print styles */
+@media screen{html[data-cmp]{background:var(--ci-bg0)!important;scroll-padding-top:calc(var(--ci-bar-h,104px) + 14px)}}
+html[data-cmp][data-cmp-theme="paper"]{
+  --ci-bg0:#efe9dd;--ci-bar:#fbf8f0;--ci-bar-line:#ddd2bf;
+  --ci-ink:#1f2f3b;--ci-ink2:#41545f;--ci-ink3:#5f6e76;
+  --ci-accent:#8a5236;--ci-accent-ink:#fffaf2;--ci-link:#2c5b72;
+  --ci-glass:rgba(251,248,240,.84);--ci-glass-strong:rgba(251,248,240,.97);--ci-glass-line:rgba(110,80,50,.22);--ci-glass-hi:rgba(255,255,255,.7);
+  --ci-shadow:0 30px 60px -30px rgba(70,50,30,.42),0 8px 20px -12px rgba(70,50,30,.22);
+  --ci-sheet-shadow:0 36px 70px -36px rgba(70,50,30,.5),0 0 0 1px rgba(110,80,50,.16);
+}
+
+/* ---------------------------------------------------------------- the scene */
+#cmp-scene{position:fixed;inset:0;z-index:-1;display:block;width:100vw;height:100vh;max-width:none;max-height:none;margin:0;padding:0;border:0;pointer-events:none;background:var(--ci-bg0)}
+#cmp-scene[hidden]{display:none}
+
+/* ---------------------------------------------------------------- the bar, as on the Institute home */
+#cmp-bar{position:fixed;top:0;left:0;right:0;z-index:50;display:block;box-sizing:border-box;width:auto;max-width:none;margin:0;padding:0;border:0;border-bottom:1px solid var(--ci-bar-line);border-radius:0;background:var(--ci-bar);box-shadow:none;color:var(--ci-ink);color-scheme:dark;font:400 16px/1.4 var(--ci-sans);letter-spacing:normal;text-align:left;text-transform:none;-webkit-font-smoothing:antialiased}
+html[data-cmp-theme="paper"] #cmp-bar{color-scheme:light}
+#cmp-bar::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:3px;background:var(--ci-stripe)}
+#cmp-bar *{box-sizing:border-box}
+#cmp-bar :focus-visible{outline:3px solid var(--ci-accent);outline-offset:2px;border-radius:8px}
+#cmp-bar .ci-bar-in{display:flex;align-items:center;gap:18px;max-width:1440px;min-height:62px;margin:0 auto;padding:0 20px}
+#cmp-bar .ci-brand{display:flex;align-items:center;gap:12px;flex:none;min-width:0;margin:0;padding:0;border:0;background:none;color:var(--ci-ink);text-decoration:none}
+#cmp-bar .ci-brand svg{display:block;flex:none;width:38px;height:38px;max-width:none;margin:0}
+#cmp-bar .ci-brand b{display:block;margin:0;font:800 19px/1.05 var(--ci-sans);letter-spacing:-.005em;color:var(--ci-ink);white-space:nowrap}
+#cmp-bar .ci-brand small{display:block;margin:2px 0 0;font:650 13px/1.2 var(--ci-sans);color:var(--ci-ink2);white-space:nowrap}
+#cmp-bar .ci-tools{display:flex;align-items:center;gap:10px;min-width:0;margin:0 0 0 auto;padding:0}
+#cmp-bar .ci-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;flex:none;width:auto;max-width:none;height:40px;min-width:40px;min-height:0;margin:0;padding:0 12px;border:1px solid var(--ci-glass-line);border-radius:12px;background:var(--ci-glass);box-shadow:none;color:var(--ci-ink);font:650 14px/1 var(--ci-sans);letter-spacing:normal;text-decoration:none;text-transform:none;white-space:nowrap;cursor:pointer;opacity:1}
+#cmp-bar .ci-btn:hover{border-color:var(--ci-accent);background:var(--ci-glass);text-decoration:none}
+#cmp-bar .ci-label{display:inline;font:inherit;color:inherit}
+#cmp-bar svg.ci-i{display:block;width:18px;height:18px;max-width:none;margin:0;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+#cmp-bar #cmp-motion .ci-play,#cmp-bar #cmp-motion.ci-off .ci-pause{display:none}
+#cmp-bar #cmp-motion.ci-off .ci-play{display:block}
+#cmp-bar .ci-dots{display:inline-flex;gap:3px;margin:0;padding:0}
+#cmp-bar .ci-dots i{display:block;width:8px;height:8px;margin:0;border-radius:50%;background:var(--ci-red)}
+#cmp-bar .ci-dots i:nth-child(2){background:var(--ci-green)}
+#cmp-bar .ci-dots i:nth-child(3){background:var(--ci-blue)}
+#cmp-bar .ci-nav{display:flex;flex-wrap:nowrap;align-items:stretch;justify-content:flex-start;gap:2px;position:static;width:auto;max-width:1440px;margin:0 auto;padding:0 12px 6px;border:0;background:none;overflow-x:auto;scrollbar-width:none}
+#cmp-bar .ci-nav::-webkit-scrollbar{display:none}
+#cmp-bar .ci-nav a{display:block;flex:none;min-height:0;margin:0;padding:10px 11px;border:0;border-radius:10px;background:none;box-shadow:none;color:var(--ci-ink2);font:650 14.5px/1 var(--ci-sans);letter-spacing:normal;text-decoration:none;text-transform:none;white-space:nowrap}
+#cmp-bar .ci-nav a:hover{color:var(--ci-ink);background:var(--ci-glass-hi);text-decoration:none}
+#cmp-bar .ci-nav a.ci-here{color:var(--ci-ink);box-shadow:inset 0 -2px 0 var(--ci-accent)}
+
+/* ---------------------------------------------------------------- every edition and evidence page: the page on a sheet (on screen) */
+@media screen{
+html[data-cmp="sheet"] body{box-sizing:border-box;width:auto;max-width:var(--ci-max);
+  margin:calc(var(--ci-bar-h,104px) + 24px) max(var(--ci-gap),calc((100% - var(--ci-max)) / 2)) 56px;
+  border-radius:22px;background:var(--ci-stripe) top left / 100% 4px no-repeat,var(--bg,#fff);box-shadow:var(--ci-sheet-shadow)}
+html[data-cmp="sheet"] body h1{font-family:var(--ci-serif);letter-spacing:-.01em}
+/* a skip link shows above the bar */
+html[data-cmp] .skip:focus{z-index:70}
+/* the pages' own full-screen and wide views: the sheet fills the window, without the bar */
+html[data-cmp="sheet"].wide body{max-width:none;margin-left:var(--ci-gap);margin-right:var(--ci-gap)}
+html[data-cmp]:fullscreen body,html[data-cmp="sheet"] body.window-mode{max-width:none;margin:0;border-radius:0;box-shadow:none}
+html[data-cmp]:fullscreen #cmp-bar,html[data-cmp]:fullscreen #cmp-scene,html[data-cmp] body.window-mode #cmp-bar{display:none}
+}
+
+/* ---------------------------------------------------------------- the front page: glass cards over the scene */
+html[data-cmp="home"] body{box-sizing:border-box;min-height:100vh;margin:0;padding:calc(var(--ci-bar-h,104px) + 22px) 20px 64px;background:transparent;color:var(--ci-ink);font:16px/1.55 var(--ci-sans);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+html[data-cmp="home"] *{box-sizing:border-box}
+html[data-cmp="home"] main{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(320px,1fr);grid-template-rows:auto auto 1fr;gap:0 24px;align-items:start;max-width:1440px;margin:0 auto}
+html[data-cmp="home"] main>*{grid-column:1/-1;min-width:0;margin:0}
+html[data-cmp="home"] a{color:var(--ci-link);text-underline-offset:.18em}
+html[data-cmp="home"] a:hover{color:var(--ci-ink)}
+html[data-cmp="home"] :focus-visible{outline:3px solid var(--ci-accent);outline-offset:3px;border-radius:6px}
+/* the title card: one glass panel behind the eyebrow, the title and the introduction */
+html[data-cmp="home"] main::before{content:"";grid-column:1;grid-row:1/4;align-self:stretch;border:1px solid var(--ci-glass-line);border-radius:22px;
+  background:linear-gradient(180deg,var(--ci-blue),var(--ci-green),var(--ci-red),var(--ci-gold)) left / 5px 100% no-repeat,var(--ci-glass);
+  box-shadow:var(--ci-shadow),inset 0 1px 0 var(--ci-glass-hi);backdrop-filter:blur(18px) saturate(140%);-webkit-backdrop-filter:blur(18px) saturate(140%)}
+html[data-cmp="home"] main>.ci-eyebrow{grid-column:1;grid-row:1;position:relative;padding:40px 44px 0;font:800 12.5px/1.3 var(--ci-sans);letter-spacing:.16em;text-transform:uppercase;color:var(--ci-accent)}
+html[data-cmp="home"] main>h1{grid-column:1;grid-row:2;position:relative;margin:0;padding:10px 44px 0;font:800 clamp(34px,4vw,56px)/1.04 var(--ci-serif);letter-spacing:-.015em;color:var(--ci-ink);text-wrap:balance}
+html[data-cmp="home"] main>.ci-intro{grid-column:1;grid-row:3;position:relative;max-width:66ch;padding:18px 44px 40px;font-size:18.5px;line-height:1.55;color:var(--ci-ink2)}
+/* the book, as the Institute home's book card */
+html[data-cmp="home"] #comparison-featured-book.site-book-feature{grid-column:2;grid-row:1/4;align-self:stretch;display:grid;grid-template-columns:150px minmax(0,1fr);gap:22px;align-items:start;margin:0;padding:26px;border:1px solid var(--ci-glass-line);border-radius:22px;background:var(--ci-glass);box-shadow:var(--ci-shadow),inset 0 1px 0 var(--ci-glass-hi);backdrop-filter:blur(18px) saturate(140%);-webkit-backdrop-filter:blur(18px) saturate(140%);color:var(--ci-ink);font:15px/1.5 var(--ci-sans)}
+html[data-cmp="home"] #comparison-featured-book[hidden]{display:none}
+html[data-cmp="home"] #comparison-featured-book picture,html[data-cmp="home"] #comparison-featured-book img{display:block;width:150px;height:auto}
+html[data-cmp="home"] #comparison-featured-book img{border-radius:8px;box-shadow:0 18px 40px -16px rgba(0,0,0,.7)}
+html[data-cmp="home"] #comparison-featured-book h2{margin:4px 0 6px;font:800 26px/1.1 var(--ci-serif);color:var(--ci-ink)}
+html[data-cmp="home"] #comparison-featured-book p{margin:0 0 12px;font-size:15px;color:var(--ci-ink2)}
+html[data-cmp="home"] #comparison-featured-book .book-subtitle{margin:0 0 10px;font:700 14.5px/1.35 var(--ci-sans);color:var(--ci-ink2)}
+html[data-cmp="home"] #comparison-featured-book .book-order{display:inline-flex;align-items:center;min-height:46px;margin:2px 0 14px;padding:10px 18px;border-radius:12px;background:var(--ci-accent);color:var(--ci-accent-ink)!important;font:750 15px/1.2 var(--ci-sans);text-decoration:none;box-shadow:0 10px 24px -10px rgba(0,0,0,.55)}
+html[data-cmp="home"] #comparison-featured-book .book-order:hover{filter:brightness(1.07);text-decoration:underline}
+html[data-cmp="home"] #comparison-featured-book .book-credit{margin:0;font-size:12px;line-height:1.4;color:var(--ci-ink3)}
+html[data-cmp="home"] #comparison-featured-book .book-credit a{color:var(--ci-ink2)}
+/* the source map: the featured route */
+html[data-cmp="home"] main>.hero{position:relative;margin-top:24px;padding:28px 34px 24px;border:1px solid var(--ci-glass-line);border-radius:22px;overflow:hidden;
+  background:var(--ci-stripe) top left / 100% 3px no-repeat,var(--ci-glass);box-shadow:var(--ci-shadow),inset 0 1px 0 var(--ci-glass-hi);backdrop-filter:blur(18px) saturate(140%);-webkit-backdrop-filter:blur(18px) saturate(140%)}
+html[data-cmp="home"] main>.hero h2{margin:0 0 10px;font:800 clamp(24px,2.4vw,32px)/1.12 var(--ci-serif);letter-spacing:-.01em}
+html[data-cmp="home"] main>.hero h2 a{color:var(--ci-ink);text-decoration:none}
+html[data-cmp="home"] main>.hero h2 a:hover{color:var(--ci-accent);text-decoration:underline}
+html[data-cmp="home"] main>.hero p{max-width:84ch;margin:0 0 8px;font-size:16.5px;color:var(--ci-ink2)}
+html[data-cmp="home"] main>.hero p+p{font-size:14px;color:var(--ci-ink3)}
+/* the editions */
+html[data-cmp="home"] main>.editions{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,330px),1fr));gap:16px;margin-top:16px}
+html[data-cmp="home"] .editions>article{position:relative;min-width:0;padding:22px 22px 18px 28px;border:1px solid var(--ci-glass-line);border-radius:18px;overflow:hidden;background:var(--ci-glass);box-shadow:var(--ci-shadow),inset 0 1px 0 var(--ci-glass-hi);backdrop-filter:blur(14px) saturate(140%);-webkit-backdrop-filter:blur(14px) saturate(140%);transition:border-color .2s,transform .25s cubic-bezier(.2,.7,.2,1)}
+html[data-cmp="home"] .editions>article::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--ci-c,var(--ci-blue))}
+html[data-cmp="home"] .editions>article:nth-child(4n+2){--ci-c:var(--ci-green)}
+html[data-cmp="home"] .editions>article:nth-child(4n+3){--ci-c:var(--ci-red)}
+html[data-cmp="home"] .editions>article:nth-child(4n+4){--ci-c:var(--ci-gold)}
+html[data-cmp="home"] .editions>article:hover{border-color:var(--ci-c,var(--ci-blue));transform:translateY(-2px)}
+html[data-cmp="home"] .editions h2{margin:0 0 8px;font:800 22px/1.15 var(--ci-serif);color:var(--ci-ink)}
+html[data-cmp="home"] .editions h2 a{color:inherit;text-decoration:none}
+html[data-cmp="home"] .editions h2 a:hover{text-decoration:underline}
+html[data-cmp="home"] .editions p,html[data-cmp="home"] .editions li{margin:0 0 8px;font-size:15px;line-height:1.5;color:var(--ci-ink2);overflow-wrap:anywhere}
+html[data-cmp="home"] .editions ul{margin:0 0 8px;padding-left:18px}
+html[data-cmp="home"] .editions li{margin:0 0 6px}
+html[data-cmp="home"] .editions .small{font-size:13px;color:var(--ci-ink3)}
+/* scope notes and package links */
+html[data-cmp="home"] main>details{margin-top:16px;padding:16px 24px;border:1px solid var(--ci-glass-line);border-radius:18px;background:var(--ci-glass);backdrop-filter:blur(14px) saturate(140%);-webkit-backdrop-filter:blur(14px) saturate(140%)}
+html[data-cmp="home"] main>details summary{cursor:pointer;font:700 15px/1.4 var(--ci-sans);color:var(--ci-ink)}
+html[data-cmp="home"] main>details p{max-width:96ch;margin:12px 0 0;font-size:14.5px;color:var(--ci-ink2);overflow-wrap:anywhere}
+html[data-cmp="home"] main>.ci-notes{margin-top:18px;font-size:13.5px;text-align:center;color:var(--ci-ink3)}
+html[data-cmp="home"] main>.ci-notes a{color:var(--ci-ink2)}
+
+/* ---------------------------------------------------------------- narrower screens */
+@media screen and (max-width:900px){
+  #cmp-bar .ci-bar-in{flex-wrap:wrap;row-gap:8px;padding-top:10px;padding-bottom:8px}
+  html[data-cmp="home"] main{grid-template-columns:minmax(0,1fr);grid-template-rows:auto auto auto}
+  html[data-cmp="home"] #comparison-featured-book.site-book-feature{grid-column:1;grid-row:4;margin-top:16px}
+  html[data-cmp="sheet"]{--ci-gap:16px}
+}
+@media screen and (max-width:640px){
+  /* the bar scrolls away with the page, as on the reader */
+  #cmp-bar{position:absolute}
+  html[data-cmp]{scroll-padding-top:12px}
+  #cmp-bar .ci-bar-in{flex-wrap:nowrap;gap:10px;min-height:58px;padding:0 14px}
+  #cmp-bar .ci-brand{gap:8px}
+  #cmp-bar .ci-brand small{display:none}
+  #cmp-bar .ci-brand b{font-size:16px}
+  #cmp-bar .ci-brand svg{width:30px;height:30px}
+  #cmp-bar .ci-tools{gap:6px}
+  #cmp-bar .ci-btn{min-width:38px;padding:0 9px}
+  #cmp-bar .ci-label{display:none}
+  #cmp-bar .ci-nav{padding:0 6px 6px}
+  #cmp-bar .ci-nav a{padding:9px;font-size:14px}
+  html[data-cmp="sheet"]{--ci-gap:8px}
+  html[data-cmp="sheet"] body{margin-top:calc(var(--ci-bar-h,100px) + 10px);margin-bottom:24px;border-radius:16px}
+  html[data-cmp="home"] body{padding:calc(var(--ci-bar-h,100px) + 14px) 10px 48px}
+  /* on a phone the book comes straight after the title, so its Kindle link is on the first screen; the introduction follows on its own card */
+  html[data-cmp="home"] main{grid-template-rows:auto auto auto auto}
+  html[data-cmp="home"] main::before{grid-row:1/3}
+  html[data-cmp="home"] main>.ci-eyebrow{padding:22px 20px 0;font-size:11.5px;letter-spacing:.12em}
+  html[data-cmp="home"] main>h1{padding:8px 20px 22px;font-size:31px}
+  html[data-cmp="home"] #comparison-featured-book.site-book-feature{grid-row:3;grid-template-columns:86px minmax(0,1fr);gap:14px;padding:16px}
+  html[data-cmp="home"] main>.ci-intro{grid-row:4;margin-top:16px;padding:18px 20px;border:1px solid var(--ci-glass-line);border-radius:18px;background:var(--ci-glass);backdrop-filter:blur(14px) saturate(140%);-webkit-backdrop-filter:blur(14px) saturate(140%);font-size:16px}
+  html[data-cmp="home"] #comparison-featured-book picture,html[data-cmp="home"] #comparison-featured-book img{width:86px}
+  html[data-cmp="home"] #comparison-featured-book h2{font-size:22px}
+  html[data-cmp="home"] #comparison-featured-book p{font-size:14.5px}
+  html[data-cmp="home"] main>.hero{margin-top:16px;padding:22px 20px 18px}
+  html[data-cmp="home"] main>.hero p{font-size:15.5px}
+  html[data-cmp="home"] .editions>article{padding:18px 16px 14px 22px}
+  html[data-cmp="home"] main>details{padding:14px 16px}
+}
+@media screen and (max-width:360px){
+  #cmp-bar .ci-brand svg{display:none}
+  #cmp-bar .ci-brand b{font-size:15px}
+  #cmp-bar .ci-btn{min-width:36px;height:38px;padding:0 8px}
+  html[data-cmp="home"] main>h1{font-size:28px}
+  html[data-cmp="home"] #comparison-featured-book.site-book-feature{grid-template-columns:64px minmax(0,1fr);gap:12px;padding:14px}
+  html[data-cmp="home"] #comparison-featured-book picture,html[data-cmp="home"] #comparison-featured-book img{width:64px}
+}
+@media (prefers-reduced-motion:reduce){html[data-cmp="home"] .editions>article{transition:none}html[data-cmp="home"] .editions>article:hover{transform:none}}
+@media print{
+  #cmp-bar,#cmp-scene{display:none!important}
+  html[data-cmp="home"] body{padding:0;color:#111;background:#fff}
+  html[data-cmp="home"] main::before{display:none}
+  html[data-cmp="home"] main>*,html[data-cmp="home"] .editions>article{color:#111;background:#fff;box-shadow:none;backdrop-filter:none}
+}

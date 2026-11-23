@@ -1,0 +1,354 @@
+{
+  "authors_linked": [
+    {
+      "name": "Carhart-Harris RL",
+      "slug": "carhart-harris-rl"
+    },
+    {
+      "name": "Carhart-Harris R",
+      "slug": "carhart-harris-r"
+    }
+  ],
+  "display_code": "candidate-kuhn-1-5-6-carhart-harriss-entropic-brain-hypothesis",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; Homeostatic and Affective Theories",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2017-05-05 and 2025-08-21, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 6 documented mechanisms appearing in Carhart-Harris's Entropic Brain Hypothesis (2025-12-12 to 2026-10-01) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Carhart-Harris's Entropic Brain Hypothesis",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 6 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 6 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 6 dated comparisons and 6 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "candidate-kuhn-1-5-6-carhart-harriss-entropic-brain-hypothesis",
+  "program_name": "Carhart-Harris's Entropic Brain Hypothesis",
+  "rows": [
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Carhart-Harris RL",
+          "slug": "carhart-harris-rl"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge) via the Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization bridge. Micah Blumberg's dated passage (2025-08-21) expresses active mechanism anchors (thermodynamic, entropy) that map structurally onto the later publication's (2026-10-01) formulation (entropy) through the shared operation: Input (non-equilibrium energy and information fluxes inside a physical or neural material substrate) -> Transform (constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization) -> Output (self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization). Corroborated independently by a second structural bridge (Closed-Loop Recursive Feedback, Predictive Processing & Self-Model Control).",
+        "ito_alignment": "Input: non-equilibrium energy and information fluxes inside a physical or neural material substrate -> Transform: constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization -> Output: self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization",
+        "lens_basis": "Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge)",
+        "primary_bridge_id": "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "primary_bridge_name": "Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Entropy growth is a deterministic sequence of local wave-phase mismatch reductions.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.5,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2025-08-21 formulation shares conceptual/operational mechanisms (cognitive, entropy) with Carhart-Harris's Entropic Brain Hypothesis (2026-10-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2025-08-21",
+      "source_date_sort": "2025-08-21",
+      "source_locator": "MNLT PDF pp. 8 and 35-38",
+      "target_date": "2026-10-01",
+      "target_date_sort": "2026-10-01",
+      "target_locator": "doi:10.1093/brain/awag206 | The entropic brain today.",
+      "target_quote": "Examples of states of no or reduced consciousness with low brain entropy, include disorders of consciousness, deep sleep, the anaesthetized state, seizure, post-stroke, ageing, cognitive impairment and neurodegenerative illness.",
+      "target_url": "https://doi.org/10.1093/brain/awag206",
+      "title": "cognitive, entropy — The entropic brain today.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A03"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Carhart-Harris RL",
+          "slug": "carhart-harris-rl"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge) via the Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization bridge. Micah Blumberg's dated passage (2024-01-15) expresses active mechanism anchors (free energy, dissipative, thermodynamic) that map structurally onto the later publication's (2026-10-01) formulation (entropy) through the shared operation: Input (non-equilibrium energy and information fluxes inside a physical or neural material substrate) -> Transform (constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization) -> Output (self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization).",
+        "ito_alignment": "Input: non-equilibrium energy and information fluxes inside a physical or neural material substrate -> Transform: constrained energy transduction, dissipation, and free-energy or entropy-gradient minimization -> Output: self-organized dynamical coherence unifying physical thermodynamics with conscious/biological organization",
+        "lens_basis": "Lens 1 (Thermodynamic-Informational ITO) + Lens 3 (Cross-Scale Physics-to-Consciousness Bridge)",
+        "primary_bridge_id": "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "primary_bridge_name": "Unified Energy Transduction, Wave Dissipation & Thermodynamic Free-Energy Self-Organization",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "2.6 Convergent Implications • Brain as a Dissipative Structure. Both FEP and Micah’s Law highlight that the brain is not an isolated system but a complex, self-organizing network that constantly exchanges signals with the environment. • Emergent Cognition. Minimizing free energy (FEP) and dissipating signals (Micah’s Law) collectively give rise to stable-yet-plastic neuronal configurations —a plausible basis for cognitive function and consciousness. • Mult",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 19.86,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (mental, predictive) with Carhart-Harris's Entropic Brain Hypothesis (2026-10-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 25]",
+      "target_date": "2026-10-01",
+      "target_date_sort": "2026-10-01",
+      "target_locator": "doi:10.1093/brain/awag206 | The entropic brain today.",
+      "target_quote": "It is shown that the entropic brain has convergent, correlative, predictive, discriminative and external validity. Regarding its predictive validity, increased brain entropy under psilocybin (in a supportive context) predicts subsequent improvements in mental health (improved well-being 1-month post-dose).",
+      "target_url": "https://doi.org/10.1093/brain/awag206",
+      "title": "mental, predictive — The entropic brain today.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Carhart-Harris R",
+          "slug": "carhart-harris-r"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2022-08-05) expresses active mechanism anchors (phenomenology, conscious, consciousness) that map structurally onto the later publication's (2025-12-12) formulation (conscious, generative) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "NAPOT Neural Array Projection Oscillation Tomography is a theory that explains how your brain sees your models of reality. It's how human phenomenology consciousness works. It's how we can build sentient robots that are conscious just like you. [[https://raw.githubusercontent.com/v5ma/picturesforbook/4902c64086e20df8cd8d06e598291aeed9808c34/My%20project-1%20(2).png]] # Signal Inception: Neural Array Projection (At the scale of Neural Arrays: Transmissio",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 13.11,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-08-05 formulation shares conceptual/operational mechanisms (conscious, generative) with Carhart-Harris's Entropic Brain Hypothesis (2025-12-12; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-08-05",
+      "source_date_sort": "2022-08-05",
+      "source_locator": "distributed receive-transform-project loops join body, environment, memory, and action",
+      "target_date": "2025-12-12",
+      "target_date_sort": "2025-12-12",
+      "target_locator": "doi:10.31234/osf.io/ubzq3_v1 | The entropic brain today",
+      "target_quote": "Regarding portability/external validity, an entropy (temperature) function is used in generative artificial intelligence. In conclusion, the entropic brain is proving to be a useful model of conscious states.</p>.",
+      "target_url": "https://doi.org/10.31234/osf.io/ubzq3_v1",
+      "title": "conscious, generative — The entropic brain today",
+      "win_id": "G2-CANDIDATE-KUHN-1-D02-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Carhart-Harris RL",
+          "slug": "carhart-harris-rl"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2022-06-12) expresses active mechanism anchors (conscious, consciousness) that map structurally onto the later publication's (2026-10-01) formulation (conscious, consciousness) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "Machine cognition, self-aware access, artificial affect, and phenomenal consciousness are separable levels that require different evidence.",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.82,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-12 formulation shares conceptual/operational mechanisms (consciousness, phenomenal) with Carhart-Harris's Entropic Brain Hypothesis (2026-10-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-06-12",
+      "source_date_sort": "2022-06-12",
+      "source_locator": "SAN Priority Index 2010-2026",
+      "target_date": "2026-10-01",
+      "target_date_sort": "2026-10-01",
+      "target_locator": "doi:10.1093/brain/awag206 | The entropic brain today.",
+      "target_quote": "Introduced in 2014 and revised in 2018, the entropic brain hypothesis has accrued a wealth of supportive evidence. The hypothesis states that-along a dimension of 'the size of phenomenal consciousness'-expansive states reliably exhibit increased brain entropy, whereas the inverse applies for states of no or reduced consciousness.",
+      "target_url": "https://doi.org/10.1093/brain/awag206",
+      "title": "consciousness, phenomenal — The entropic brain today.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A02"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Carhart-Harris R",
+          "slug": "carhart-harris-r"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2020-06-01) expresses active mechanism anchors (conscious, consciousness, awareness) that map structurally onto the later publication's (2025-12-12) formulation (experience, conscious, consciousness) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "\"On Having No Head: Cognition throughout Biological Systems\" \"Importantly, in discussing cognitive performance in the various systems, we do not mean the full-blown human-like cognitive performance, or human-type of self-awareness and consciousness. We are avoiding issues of the ‘Hard’ problem of cognitive science, and do not claim anything like higher-order symbolic representations.\" https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00902/full I wou",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 21.14,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2020-06-01 formulation shares conceptual/operational mechanisms (conscious, consciousness) with Carhart-Harris's Entropic Brain Hypothesis (2025-12-12; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2020-06-01",
+      "source_date_sort": "2020-06-01",
+      "source_locator": "https://github.com/v5ma/selfawarenetworks/blob/29de78ca7cb8ed4664243fc844be1f768657358a/a0254z.md",
+      "target_date": "2025-12-12",
+      "target_date_sort": "2025-12-12",
+      "target_locator": "doi:10.31234/osf.io/ubzq3_v1 | The entropic brain today",
+      "target_quote": "<p>Introduced in 2014 and revised in 2018, the entropic brain hypothesis has accrued a wealth of supportive evidence. The hypothesis states that— along a dimension of breadth of conscious experience— ‘expansive states’ reliably exhibit increased brain entropy whereas the inverse applies for states of no or reduced consciousness.",
+      "target_url": "https://doi.org/10.31234/osf.io/ubzq3_v1",
+      "title": "conscious, consciousness — The entropic brain today",
+      "win_id": "G2-CANDIDATE-KUHN-1-D02-A01"
+    },
+    {
+      "author_count": 1,
+      "authors_linked": [
+        {
+          "name": "Carhart-Harris RL",
+          "slug": "carhart-harris-rl"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial to medium-partial under Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture) via the Generative First-Person Phenomenology & Subjective Perceptual Rendering bridge. Micah Blumberg's dated passage (2017-05-05) expresses active mechanism anchors (subjective, experience, conscious, consciousness) that map structurally onto the later publication's (2026-10-01) formulation (subjective, experience) through the shared operation: Input (interoceptive, sensory, and memory-conditioned predictive priors) -> Transform (active generative synthesis and perspective-centered perceptual rendering) -> Output (unified first-person subjective experience, felt effort, and experiential temporal flow).",
+        "ito_alignment": "Input: interoceptive, sensory, and memory-conditioned predictive priors -> Transform: active generative synthesis and perspective-centered perceptual rendering -> Output: unified first-person subjective experience, felt effort, and experiential temporal flow",
+        "lens_basis": "Lens 1 (Neurophenomenological ITO) + Lens 2 (Conscious-Rendering Architecture)",
+        "primary_bridge_id": "BT-13-FIRST-PERSON-SUBJECTIVE-EXPERIENCE-GENERATIVE-BRIDGE",
+        "primary_bridge_name": "Generative First-Person Phenomenology & Subjective Perceptual Rendering",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF06-INFO-ENTROPY-THERMODYNAMICS",
+      "grade": "medium-partial",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "And what do you need to determine in order to have a snapshot of the person's consciousness in a way that captures the subjective experience, too? Okay, so this goes back into... So, let's say that we're never... Okay, let's say we're never actually going to capture the same brain signal twice. For the same reason that you're never going to capture the same photograph twice. And that the universe has one direction, as far as we know, because of entropy. Or",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.03,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2017-05-05 formulation shares conceptual/operational mechanisms (entropy, subjective) with Carhart-Harris's Entropic Brain Hypothesis (2026-10-01; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2017-05-05",
+      "source_date_sort": "2017-05-05",
+      "source_locator": "https://www.youtube.com/watch?v=RRN91RwiYiw",
+      "target_date": "2026-10-01",
+      "target_date_sort": "2026-10-01",
+      "target_locator": "doi:10.1093/brain/awag206 | The entropic brain today.",
+      "target_quote": "Regarding its discriminative validity, changes in brain entropy selectively index the 'breadth of subjective experience' versus alternative dimensions, such as arousal.",
+      "target_url": "https://doi.org/10.1093/brain/awag206",
+      "title": "entropy, subjective — The entropic brain today.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A04"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 6 certified dated prior-art comparisons with Carhart-Harris's Entropic Brain Hypothesis across 6 listed-author attributions (6 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 6 medium-partial, 0 weak-partial, 0 weak-partial cross-domain, with 6 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2017-05-05",
+    "earliest_micah_year": 2017,
+    "earliest_target_date": "2025-12-12",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2025-08-21",
+    "latest_target_date": "2026-10-01",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 6,
+    "governed_wins": 6,
+    "grade_breakdown": {
+      "medium-partial": 6
+    },
+    "lens4_event_ids": [
+      "lsm-g2-candidate-kuhn-1-5-6-carhart-harriss-ent-20261122"
+    ],
+    "listed_author_edges": 6,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 6
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 6
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "authors_linked": [
+    {
+      "name": "Immertreu M",
+      "slug": "immertreu-m"
+    },
+    {
+      "name": "Schilling A",
+      "slug": "schilling-a"
+    },
+    {
+      "name": "Maier A",
+      "slug": "maier-a"
+    },
+    {
+      "name": "Krauss P",
+      "slug": "krauss-p"
+    }
+  ],
+  "display_code": "candidate-kuhn-1-5-3-damasios-homeostatic-feelings-and-emergence-of-consciousness",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; Homeostatic and Affective Theories",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2022-06-08 and 2024-01-15, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 3 documented mechanisms appearing in Damasio's Homeostatic Feelings and Emergence of Consciousness (2025-08-20 to 2025-08-20) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Damasio's Homeostatic Feelings and Emergence of Consciousness",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 3 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 1 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 3 dated comparisons and 12 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "candidate-kuhn-1-5-3-damasios-homeostatic-feelings-and-emergence-of-consciousness",
+  "program_name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+  "rows": [
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Immertreu M",
+          "slug": "immertreu-m"
+        },
+        {
+          "name": "Schilling A",
+          "slug": "schilling-a"
+        },
+        {
+          "name": "Maier A",
+          "slug": "maier-a"
+        },
+        {
+          "name": "Krauss P",
+          "slug": "krauss-p"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF08-GENERAL-SAN-SIT-ARCHITECTURE",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "Network-Wide Coordination. Like a large orchestra without a single conduc- tor, the brain achieves coherent behavior because each agentic region continuously checks whether it is “in phase” with the emergent global pattern. When it is, it contributes to unified action or cognition; when it is not, it either re-synchronizes or becomes suppressed. 11.2 Nonlinear Continuous Differential Approximation (NDCA) in Biological Agents NDCA proposes that reinforcem",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 21.62,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2024-01-15 formulation shares conceptual/operational mechanisms (learning, reinforcement) with Damasio's Homeostatic Feelings and Emergence of Consciousness (2025-08-20; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2024-01-15",
+      "source_date_sort": "2024-01-15",
+      "source_locator": "Micah Blumberg New Law of Thermodynamics (SIT, 2024) [para 56]",
+      "target_date": "2025-08-20",
+      "target_date_sort": "2025-08-20",
+      "target_locator": "doi:10.3389/frai.2025.1610225 | Probing for consciousness in machines.",
+      "target_quote": "We hypothesize that an artificial agent, trained via reinforcement learning (RL) in a virtual environment, can develop preliminary forms of these models as a byproduct of its primary task.",
+      "target_url": "https://doi.org/10.3389/frai.2025.1610225",
+      "title": "learning, reinforcement — Probing for consciousness in machines.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A01"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Immertreu M",
+          "slug": "immertreu-m"
+        },
+        {
+          "name": "Schilling A",
+          "slug": "schilling-a"
+        },
+        {
+          "name": "Maier A",
+          "slug": "maier-a"
+        },
+        {
+          "name": "Krauss P",
+          "slug": "krauss-p"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF01-PREDICTIVE-SELF-WORLD",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "2 Cellular Mechanisms (Micro-scale) This level covers cellular mechanisms, including proteins, receptors, local field potentials, and immune cells operating as autonomous agents. 3 Molecular and Neuronal Mechanisms 3.1 Neurons to Phase Wave Differentials In my book Bridging Molecular Mechanisms and Neural Oscillatory Dynamics , the central argument is that molecular processes serve as the foundation for neural oscillations, which in turn underpin higher-le",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 17.96,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (consciousness, emergence) with Damasio's Homeostatic Feelings and Emergence of Consciousness (2025-08-20; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 7]",
+      "target_date": "2025-08-20",
+      "target_date_sort": "2025-08-20",
+      "target_locator": "doi:10.3389/frai.2025.1610225 | Probing for consciousness in machines.",
+      "target_quote": "This study explores the potential for artificial agents to develop core consciousness, as proposed by Antonio Damasio's theory of consciousness. According to Damasio, the emergence of core consciousness relies on the integration of a self model, informed by representations of emotions and feelings, and a world model.",
+      "target_url": "https://doi.org/10.3389/frai.2025.1610225",
+      "title": "consciousness, emergence — Probing for consciousness in machines.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A02"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Immertreu M",
+          "slug": "immertreu-m"
+        },
+        {
+          "name": "Schilling A",
+          "slug": "schilling-a"
+        },
+        {
+          "name": "Maier A",
+          "slug": "maier-a"
+        },
+        {
+          "name": "Krauss P",
+          "slug": "krauss-p"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "medium-partial",
+        "defense_rationale": "Upgraded from weak-partial-cross-domain to medium-partial under Lens 2 (Hierarchical-Scale Architecture) + Lens 3 (Scale-Invariant Cross-Domain Isomorphism) via the Multi-Scale Coarse-Graining, Semantic/Spatial Densification & Emergent Causality bridge. Micah Blumberg's dated passage (2022-06-08) expresses active mechanism anchors (density, configuration, maximizes information) that map structurally onto the later publication's (2025-08-20) formulation (emergence, self models) through the shared operation: Input (interacting microscopic components distributed across local structural neighborhoods) -> Transform (hierarchical constraint coupling, coarse-graining, and information-maximizing organization across scales) -> Output (emergent macro-level causal structure and adaptive higher-order system dynamics). Although the initial Red Team pass penalized the domain boundary between neuroscience and physics, the underlying mathematical/functional Transform is scale-invariant across both domains.",
+        "ito_alignment": "Input: interacting microscopic components distributed across local structural neighborhoods -> Transform: hierarchical constraint coupling, coarse-graining, and information-maximizing organization across scales -> Output: emergent macro-level causal structure and adaptive higher-order system dynamics",
+        "lens_basis": "Lens 2 (Hierarchical-Scale Architecture) + Lens 3 (Scale-Invariant Cross-Domain Isomorphism)",
+        "primary_bridge_id": "BT-14-MULTI-SCALE-EMERGENT-COMPLEXITY-COARSENING",
+        "primary_bridge_name": "Multi-Scale Coarse-Graining, Semantic/Spatial Densification & Emergent Causality",
+        "red_team_bucket": "weak-partial-cross-domain",
+        "reviewed": true,
+        "status": "upgraded-weak-partial-cross-domain-to-medium-partial",
+        "upgrade_applied": true
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "medium-partial-blue-team-cross-domain-elevated",
+      "grade_bucket": "medium-partial",
+      "micah_quote": "what makes humans different from the rest of spacetime is that our density and spatial configuration maximizes information in certain spatial frequence patterns that reflect spatial patterns",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "cross-domain-sit-physics-to-neuro-conceptual-precedence",
+        "red_team_tier": "weak-partial-cross-domain",
+        "score": 11.27,
+        "shared_document_overlay": false,
+        "strength_tier": "medium-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-06-08 formulation shares conceptual/operational mechanisms (emergence, spatial) with Damasio's Homeostatic Feelings and Emergence of Consciousness (2025-08-20; europepmc-official-abstract); graded weak-partial-cross-domain under Method 1.5.7 (zero counter-priority findings). Cross-domain conceptual bridge between",
+      "red_team_grade": "weak-partial-cross-domain",
+      "red_team_grade_bucket": "weak-partial-cross-domain",
+      "rival_win_count": 0,
+      "source_date": "2022-06-08",
+      "source_date_sort": "2022-06-08",
+      "source_locator": "Phase configuration is an input to the operation that yields a stable local spacetime image or geometry.",
+      "target_date": "2025-08-20",
+      "target_date_sort": "2025-08-20",
+      "target_locator": "doi:10.3389/frai.2025.1610225 | Probing for consciousness in machines.",
+      "target_quote": "The agent's main objective is to learn to play a video game and explore the environment. To evaluate the emergence of world and self models, we employ probes-feedforward classifiers that use the activations of the trained agent's neural networks to predict the spatial positions of the agent itself.",
+      "target_url": "https://doi.org/10.3389/frai.2025.1610225",
+      "title": "emergence, spatial — Probing for consciousness in machines.",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A03"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 3 certified dated prior-art comparisons with Damasio's Homeostatic Feelings and Emergence of Consciousness across 12 listed-author attributions (3 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 1 medium-partial, 2 weak-partial, 0 weak-partial cross-domain, with 1 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2022-06-08",
+    "earliest_micah_year": 2022,
+    "earliest_target_date": "2025-08-20",
+    "earliest_target_year": 2025,
+    "latest_micah_date": "2024-01-15",
+    "latest_target_date": "2025-08-20",
+    "latest_target_year": 2025
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 1,
+    "governed_wins": 3,
+    "grade_breakdown": {
+      "medium-partial": 1,
+      "weak-partial": 2
+    },
+    "lens4_event_ids": [
+      "lsm-g2-candidate-kuhn-1-5-3-damasios-homeostati-20261122"
+    ],
+    "listed_author_edges": 12,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 2,
+      "weak-partial-cross-domain": 1
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 3
+  }
+}

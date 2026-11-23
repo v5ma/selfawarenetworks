@@ -1,0 +1,294 @@
+{
+  "authors_linked": [
+    {
+      "name": "mansell W",
+      "slug": "mansell-w-2"
+    },
+    {
+      "name": "Mowle A",
+      "slug": "mowle-a"
+    },
+    {
+      "name": "Trouchet L",
+      "slug": "trouchet-l"
+    },
+    {
+      "name": "Zemestani M",
+      "slug": "zemestani-m"
+    },
+    {
+      "name": "Sharbanee J",
+      "slug": "sharbanee-j"
+    },
+    {
+      "name": "Gulrez T",
+      "slug": "gulrez-t"
+    },
+    {
+      "name": "Einstein D",
+      "slug": "einstein-d"
+    },
+    {
+      "name": "Gorman KR",
+      "slug": "gorman-kr"
+    },
+    {
+      "name": "Wrightson-Hester A",
+      "slug": "wrightson-hester-a"
+    },
+    {
+      "name": "Landman M",
+      "slug": "landman-m"
+    },
+    {
+      "name": "Mansell W",
+      "slug": "mansell-w"
+    }
+  ],
+  "display_code": "candidate-kuhn-1-5-10-mansells-perceptual-control-theory",
+  "domain_group": "neuroscience",
+  "domains": "consciousness; Homeostatic and Affective Theories",
+  "eighth_grade_flashcards": [
+    {
+      "body": "Between 2013-11-01 and 2023-08-01, Micah Blumberg published dated Self Aware Networks and Super Information Theory passages describing 3 documented mechanisms appearing in Mansell's Perceptual Control Theory (2024-12-06 to 2026-08-31) with zero counter-priority findings.",
+      "headline": "Micah Blumberg recorded dated formulations before Mansell's Perceptual Control Theory",
+      "level": "Plain-Language Card 1 — What SAN & SIT Formulated First (2026 back to 2010)"
+    },
+    {
+      "body": "Every row translates both works into neutral Input -> Transform -> Output structure across Lenses 1-3 while Lens 4 audits historical trajectories (1 audited event(s)). All 3 both-verbatim pairs contain verified real prose on both sides (zero hex hashes or locator stubs), and 0 lower-tier rows earned Blue Team elevations.",
+      "headline": "Every match is preserved, verified for true prose, and audited across 14 structural bridges",
+      "level": "Plain-Language Card 2 — Two-Pass Red Team + Blue Team Four Lens Verification"
+    },
+    {
+      "body": "This dossier records 3 dated comparisons and 15 co-author attributions objectively with motive analysis deferred by design. Click any researcher chip to inspect their full Compared Researcher Profile and cross-author prior-art links.",
+      "headline": "Typed counts stay separate and every Compared Researcher has a dedicated profile",
+      "level": "Plain-Language Card 3 — Objective Attribution & Open Dialogue"
+    }
+  ],
+  "method_lock": "1.5.7",
+  "program_id": "candidate-kuhn-1-5-10-mansells-perceptual-control-theory",
+  "program_name": "Mansell's Perceptual Control Theory",
+  "rows": [
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Gorman KR",
+          "slug": "gorman-kr"
+        },
+        {
+          "name": "Wrightson-Hester A",
+          "slug": "wrightson-hester-a"
+        },
+        {
+          "name": "Landman M",
+          "slug": "landman-m"
+        },
+        {
+          "name": "Mansell W",
+          "slug": "mansell-w"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF05-MEMORY-REPLAY-SPATIAL-GRID",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "raw sensory inputs upward, enabling the cortex to form preliminary interpre- tations, while feedback loops convey predictions downward, comparing expec- tations with actual inputs and prompting adjustments when mismatches occur. Cortical-thalamic loops allow the neocortex and thalamic nuclei to exchange signals bidirectionally, enabling selective attention and the filtering of irrelevant stimuli. Hippocampal-cortical loops, mediated by the entorhinal corte",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 20.66,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2023-08-01 formulation shares conceptual/operational mechanisms (sensory, spatial) with Mansell's Perceptual Control Theory (2024-12-06; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2023-08-01",
+      "source_date_sort": "2023-08-01",
+      "source_locator": "Self Aware Networks Oscillatory Credit Assignment First Draft (2023) [para 23]",
+      "target_date": "2024-12-06",
+      "target_date_sort": "2024-12-06",
+      "target_locator": "doi:10.1016/j.concog.2024.103792 | How can virtual reality help to understand consciousness? A thematic analysis of students' experiences in a novel virtua",
+      "target_quote": "Research on consciousness typically presents stimuli and records the responses that follow, to infer the intervening processes. Yet, VR allows ecological validity by giving the user freedom to continuously control their sensory input across three spatial dimensions via head and eye movement.",
+      "target_url": "https://doi.org/10.1016/j.concog.2024.103792",
+      "title": "sensory, spatial — How can virtual reality help to understand consciousness? A thematic analysis of students' expe",
+      "win_id": "G2-CANDIDATE-KUHN-1-D02-A01"
+    },
+    {
+      "author_count": 7,
+      "authors_linked": [
+        {
+          "name": "mansell W",
+          "slug": "mansell-w-2"
+        },
+        {
+          "name": "Mowle A",
+          "slug": "mowle-a"
+        },
+        {
+          "name": "Trouchet L",
+          "slug": "trouchet-l"
+        },
+        {
+          "name": "Zemestani M",
+          "slug": "zemestani-m"
+        },
+        {
+          "name": "Sharbanee J",
+          "slug": "sharbanee-j"
+        },
+        {
+          "name": "Gulrez T",
+          "slug": "gulrez-t"
+        },
+        {
+          "name": "Einstein D",
+          "slug": "einstein-d"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF04-WORKSPACE-ATTENTION-SCHEMA",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "3. Kelso, J.A.S. (1995). Dynamic Patterns: The Self-Organization of Brain and Behavior. MIT Press. -- Connects coordination dynamics with brain function, showing how complex rhythmic or patterned behaviors emerge from simple coupled elements. Kelso uses examples like bimanual coordination and neural oscillators to illustrate self-organizing principles in neural systems, emphasizing that stable and flexible patterns of activity (e.g., motor or perceptual ro",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 26.21,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2022-03-01 formulation shares conceptual/operational mechanisms (feedback, perceptual) with Mansell's Perceptual Control Theory (2026-08-31; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2022-03-01",
+      "source_date_sort": "2022-03-01",
+      "source_locator": "Self Aware Networks Chapter 7 (07san.md) [para 83]",
+      "target_date": "2026-08-31",
+      "target_date_sort": "2026-08-31",
+      "target_locator": "doi:10.31234/osf.io/kdyc3_v1 | The Conflict Device: A Control Theory Model of Problematic Digital Media Use",
+      "target_quote": "We critically review contemporary research and theories to develop an integrative model across digital media based on perceptual control theory. Through conceptualising digital media as a closed-loop extension of the self via hyper-efficient, dynamically adaptive and digitally amplified feedback pathways, we illustrate the mechanisms through which restricted attention utilises neural reorganisation to entrench habitual control.",
+      "target_url": "https://doi.org/10.31234/osf.io/kdyc3_v1",
+      "title": "feedback, perceptual — The Conflict Device: A Control Theory Model of Problematic Digital Media Use",
+      "win_id": "G2-CANDIDATE-KUHN-1-D01-A01"
+    },
+    {
+      "author_count": 4,
+      "authors_linked": [
+        {
+          "name": "Gorman KR",
+          "slug": "gorman-kr"
+        },
+        {
+          "name": "Wrightson-Hester A",
+          "slug": "wrightson-hester-a"
+        },
+        {
+          "name": "Landman M",
+          "slug": "landman-m"
+        },
+        {
+          "name": "Mansell W",
+          "slug": "mansell-w"
+        }
+      ],
+      "blue_team_defense": {
+        "blue_team_bucket": "weak-partial",
+        "defense_rationale": "Reviewed under all 14 Four Lens abstraction bridges; current side-by-side excerpts do not independently establish a shared Input -> Transform -> Output operator on both sides, so the weak-partial rating is held honestly while permanent membership stays intact.",
+        "ito_alignment": "",
+        "lens_basis": "Four Lens Blue Team Context Audit",
+        "primary_bridge_id": "",
+        "primary_bridge_name": "",
+        "red_team_bucket": "weak-partial",
+        "reviewed": true,
+        "status": "held-no-dual-transform-bridge",
+        "upgrade_applied": false
+      },
+      "chronology": "MICAH-EARLIER",
+      "claim_family": "CF04-WORKSPACE-ATTENTION-SCHEMA",
+      "grade": "weak-partial",
+      "grade_bucket": "weak-partial",
+      "micah_quote": "representations of the world, that become stitched together in massive brainwaves",
+      "passage_status": "BOTH-VERBATIM-RECOVERED",
+      "rank_overlay": {
+        "domain_relation": "same-domain-alignment",
+        "red_team_tier": "weak-partial",
+        "score": 18.1,
+        "shared_document_overlay": false,
+        "strength_tier": "weak-partial"
+      },
+      "recorded_analysis": "Micah Blumberg dated 2013-11-01 formulation shares conceptual/operational mechanisms (integrated, workspace) with Mansell's Perceptual Control Theory (2024-12-06; europepmc-official-abstract); graded weak-partial under Method 1.5.7 (zero counter-priority findings).",
+      "red_team_grade": "weak-partial",
+      "red_team_grade_bucket": "weak-partial",
+      "rival_win_count": 0,
+      "source_date": "2013-11-01",
+      "source_date_sort": "2013-11-01",
+      "source_locator": "CS-M13B: an uploaded copy begins as a related branch and immediately diverges through its own changing state rather than preserving one hidden numerical self",
+      "target_date": "2024-12-06",
+      "target_date_sort": "2024-12-06",
+      "target_locator": "doi:10.1016/j.concog.2024.103792 | How can virtual reality help to understand consciousness? A thematic analysis of students' experiences in a novel virtua",
+      "target_quote": "The methodology proved feasible, and a thematic analysis was consistent with Mansell's (2024) control theory perspective, and to a lesser degree, Integrated Information Theory (IIT) and Global Workspace Theory (GWT).",
+      "target_url": "https://doi.org/10.1016/j.concog.2024.103792",
+      "title": "integrated, workspace — How can virtual reality help to understand consciousness? A thematic analysis of students' expe",
+      "win_id": "G2-CANDIDATE-KUHN-1-D02-A02"
+    }
+  ],
+  "san_first_conclusion": "Self Aware Networks and Super Information Theory hold 3 certified dated prior-art comparisons with Mansell's Perceptual Control Theory across 15 listed-author attributions (3 verified both-prose side-by-side pairs; 0 transparently marked open source-gated; two-pass Red Team + Blue Team strength grading: 0 strong, 0 medium-partial, 3 weak-partial, 0 weak-partial cross-domain, with 0 Blue Team elevations; zero counter-priority findings).",
+  "schema": "public-one-ledger-program-dossier-v5-knowledge-graph",
+  "timeline": {
+    "earliest_micah_date": "2013-11-01",
+    "earliest_micah_year": 2013,
+    "earliest_target_date": "2024-12-06",
+    "earliest_target_year": 2024,
+    "latest_micah_date": "2023-08-01",
+    "latest_target_date": "2026-08-31",
+    "latest_target_year": 2026
+  },
+  "typed_footprint": {
+    "blue_team_upgrades_count": 0,
+    "governed_wins": 3,
+    "grade_breakdown": {
+      "weak-partial": 3
+    },
+    "lens4_event_ids": [
+      "lsm-g2-candidate-kuhn-1-5-10-mansells-perceptua-20261122"
+    ],
+    "listed_author_edges": 15,
+    "open_source_gated_passages": 0,
+    "red_team_grade_breakdown": {
+      "weak-partial": 3
+    },
+    "rival_award_count": 0,
+    "rival_win_count": 0,
+    "verbatim_both_recovered": 3
+  }
+}
