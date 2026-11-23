@@ -1,0 +1,3809 @@
+{
+  "schema": "everyone-vs-everyone-network-summary-v6",
+  "generated_at": "2026-11-23T11:18:23Z",
+  "method_lock": "1.5.7",
+  "motive_policy": "Objective chronological convergence and novelty-framing record across all active programs; motive and influence deferred by design.",
+  "counts": {
+    "active_programs_analyzed": 367,
+    "total_unordered_pairs_evaluated": 67161,
+    "significant_inter_program_edges": 24848,
+    "programs_with_peer_edges": 366,
+    "originality_claim_exhibits_found": 120,
+    "programs_with_originality_claims": 36,
+    "seeded_mbn_atoms_expanded": 44,
+    "atom_to_program_links": 2079
+  },
+  "top_hubs": [
+    {
+      "pid": "rival-waterman-quantum-disconnectedness-vacuum-scar",
+      "pname": "Waterman Quantum Disconnectedness Vacuum Scar",
+      "wins": 36,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2024-01-01",
+      "peer_degree": 286,
+      "earlier_peers": 84,
+      "later_peers": 160,
+      "originality_claims": 0,
+      "atoms_matched": 8,
+      "top_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry"
+      ]
+    },
+    {
+      "pid": "rival-waterman-perspectival-structural-realism-psr-e",
+      "pname": "Waterman Perspectival Structural Realism Psr E",
+      "wins": 36,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2024-01-01",
+      "peer_degree": 275,
+      "earlier_peers": 80,
+      "later_peers": 155,
+      "originality_claims": 0,
+      "atoms_matched": 8,
+      "top_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic"
+      ]
+    },
+    {
+      "pid": "rival-waterman-refusal-withholding",
+      "pname": "Waterman Refusal Withholding",
+      "wins": 36,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2024-01-01",
+      "peer_degree": 275,
+      "earlier_peers": 80,
+      "later_peers": 155,
+      "originality_claims": 0,
+      "atoms_matched": 8,
+      "top_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic"
+      ]
+    },
+    {
+      "pid": "rival-waterman-dark-consciousness-idea-agents",
+      "pname": "Waterman Dark Consciousness Idea Agents",
+      "wins": 36,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2024-01-01",
+      "peer_degree": 273,
+      "earlier_peers": 73,
+      "later_peers": 160,
+      "originality_claims": 0,
+      "atoms_matched": 9,
+      "top_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-1-10-9-no-hard-problem-in-william-jamess-psychology",
+      "pname": "No Hard Problem in William James's Psychology",
+      "wins": 11,
+      "earliest_san": "2012-08-23",
+      "earliest_target": "2025-09-04",
+      "peer_degree": 269,
+      "earlier_peers": 115,
+      "later_peers": 68,
+      "originality_claims": 0,
+      "atoms_matched": 8,
+      "top_mech": [
+        "schema",
+        "prefrontal",
+        "decoding",
+        "traveling",
+        "modulation",
+        "emergence"
+      ]
+    },
+    {
+      "pid": "rival-waterman-asymmetry-where-science-ends",
+      "pname": "Waterman Asymmetry Where Science Ends",
+      "wins": 36,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2024-01-01",
+      "peer_degree": 267,
+      "earlier_peers": 73,
+      "later_peers": 153,
+      "originality_claims": 0,
+      "atoms_matched": 7,
+      "top_mech": [
+        "resonant",
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents"
+      ]
+    },
+    {
+      "pid": "rival-waterman-depth-structured-materialism-inpenetrabilities",
+      "pname": "Waterman Depth Structured Materialism Inpenetrabilities",
+      "wins": 36,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2024-01-01",
+      "peer_degree": 267,
+      "earlier_peers": 73,
+      "later_peers": 153,
+      "originality_claims": 0,
+      "atoms_matched": 7,
+      "top_mech": [
+        "resonant",
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents"
+      ]
+    },
+    {
+      "pid": "rival-waterman-pluralistic-ontology-emergent-time",
+      "pname": "Waterman Pluralistic Ontology Emergent Time",
+      "wins": 36,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2024-01-01",
+      "peer_degree": 264,
+      "earlier_peers": 69,
+      "later_peers": 154,
+      "originality_claims": 0,
+      "atoms_matched": 7,
+      "top_mech": [
+        "resonant",
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-2-5-sanfeys-abstract-realism",
+      "pname": "Sanfey's Abstract Realism",
+      "wins": 24,
+      "earliest_san": "2017-07-06",
+      "earliest_target": "2024-07-30",
+      "peer_degree": 257,
+      "earlier_peers": 75,
+      "later_peers": 142,
+      "originality_claims": 0,
+      "atoms_matched": 11,
+      "top_mech": [
+        "free-energy",
+        "manifolds",
+        "variational",
+        "workspace",
+        "relational",
+        "attractors"
+      ]
+    },
+    {
+      "pid": "rival-kl-brown-gravity-life-consciousness-single-process",
+      "pname": "Kl Brown Gravity Life Consciousness Single Process",
+      "wins": 12,
+      "earliest_san": "2013-07-24",
+      "earliest_target": "2023-07-13",
+      "peer_degree": 255,
+      "earlier_peers": 58,
+      "later_peers": 188,
+      "originality_claims": 0,
+      "atoms_matched": 7,
+      "top_mech": [
+        "traveling",
+        "synchrony",
+        "theta",
+        "awareness",
+        "geometric",
+        "language"
+      ]
+    },
+    {
+      "pid": "rival-waterman-cosmic-emergentism-thermodynamic-u",
+      "pname": "Waterman Cosmic Emergentism Thermodynamic U",
+      "wins": 36,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2024-01-01",
+      "peer_degree": 254,
+      "earlier_peers": 68,
+      "later_peers": 146,
+      "originality_claims": 0,
+      "atoms_matched": 7,
+      "top_mech": [
+        "resonant",
+        "variational",
+        "workspace",
+        "canonical",
+        "synchrony",
+        "generative"
+      ]
+    },
+    {
+      "pid": "rival-mirhosseini-mechanical-quantum-memory",
+      "pname": "Mirhosseini Mechanical Quantum Memory",
+      "wins": 24,
+      "earliest_san": "2012-03-14",
+      "earliest_target": "2024-12-11",
+      "peer_degree": 252,
+      "earlier_peers": 64,
+      "later_peers": 147,
+      "originality_claims": 0,
+      "atoms_matched": 8,
+      "top_mech": [
+        "thalamocortical",
+        "resonant",
+        "grounding",
+        "manifold",
+        "spikes",
+        "entanglement"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-3-11-faggins-quantum-information-based-panpsychism",
+      "pname": "Faggin's Quantum Information-based Panpsychism",
+      "wins": 18,
+      "earliest_san": "2022-03-01",
+      "earliest_target": "2025-10-27",
+      "peer_degree": 251,
+      "earlier_peers": 109,
+      "later_peers": 57,
+      "originality_claims": 0,
+      "atoms_matched": 10,
+      "top_mech": [
+        "ephaptic",
+        "superposition",
+        "errors",
+        "grounded",
+        "spike",
+        "emergence"
+      ]
+    },
+    {
+      "pid": "rival-blanchard-samaxyom-hypothesis",
+      "pname": "Blanchard Samaxyom Hypothesis",
+      "wins": 11,
+      "earliest_san": "2022-03-01",
+      "earliest_target": "2026-01-04",
+      "peer_degree": 242,
+      "earlier_peers": 197,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 5,
+      "top_mech": [
+        "schema",
+        "grounding",
+        "topology",
+        "prefrontal",
+        "decoding",
+        "topological"
+      ]
+    },
+    {
+      "pid": "rival-vossen-dot-theory",
+      "pname": "Vossen Dot Theory",
+      "wins": 12,
+      "earliest_san": "2017-06-01",
+      "earliest_target": "2026-09-29",
+      "peer_degree": 241,
+      "earlier_peers": 185,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 2,
+      "top_mech": [
+        "dopamine",
+        "gate",
+        "standing",
+        "operator",
+        "balance",
+        "route"
+      ]
+    },
+    {
+      "pid": "rival-unified-field-awakening-toroidal-spiral-author-unresolved",
+      "pname": "Unified Field Awakening Toroidal Spiral Author Unresolved",
+      "wins": 18,
+      "earliest_san": "2010-20-01",
+      "earliest_target": "2025-01-01",
+      "peer_degree": 240,
+      "earlier_peers": 97,
+      "later_peers": 61,
+      "originality_claims": 0,
+      "atoms_matched": 8,
+      "top_mech": [
+        "chaotic",
+        "rhythmic",
+        "relational",
+        "balance",
+        "route",
+        "hippocampus"
+      ]
+    },
+    {
+      "pid": "rival-tsikriteas-ime-taso",
+      "pname": "Tsikriteas Ime Taso",
+      "wins": 25,
+      "earliest_san": "2012-07-30",
+      "earliest_target": "2025-05-14",
+      "peer_degree": 238,
+      "earlier_peers": 108,
+      "later_peers": 52,
+      "originality_claims": 0,
+      "atoms_matched": 7,
+      "top_mech": [
+        "multiscale",
+        "free-energy",
+        "variational",
+        "workspace",
+        "prefrontal",
+        "thalamic"
+      ]
+    },
+    {
+      "pid": "rival-waterman-negative-space-ontology-topology",
+      "pname": "Waterman Negative Space Ontology Topology",
+      "wins": 36,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2024-01-01",
+      "peer_degree": 237,
+      "earlier_peers": 58,
+      "later_peers": 141,
+      "originality_claims": 0,
+      "atoms_matched": 7,
+      "top_mech": [
+        "resonant",
+        "topology",
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-1-3-7-zhangs-long-distance-light-speed-telecommunications",
+      "pname": "Zhang's Long-Distance Light-Speed Telecommunications",
+      "wins": 11,
+      "earliest_san": "2012-01-01",
+      "earliest_target": "2020-02-18",
+      "peer_degree": 234,
+      "earlier_peers": 49,
+      "later_peers": 182,
+      "originality_claims": 0,
+      "atoms_matched": 11,
+      "top_mech": [
+        "decoding",
+        "coincidence",
+        "dendrite",
+        "modulation",
+        "nonlinear",
+        "synchrony"
+      ]
+    },
+    {
+      "pid": "rival-toe-jaimungal-ismael-physics-of-free-will",
+      "pname": "Curt Jaimungal (TOE) & Jenann Ismael — The Physics of Free Will (YouTube ASR)",
+      "wins": 13,
+      "earliest_san": "2012-08-23",
+      "earliest_target": "2025-07-10",
+      "peer_degree": 233,
+      "earlier_peers": 108,
+      "later_peers": 57,
+      "originality_claims": 0,
+      "atoms_matched": 11,
+      "top_mech": [
+        "schema",
+        "free-energy",
+        "working",
+        "traveling",
+        "thermodynamic",
+        "inference"
+      ]
+    },
+    {
+      "pid": "rival-penrose-objective-reduction-noncomputability",
+      "pname": "Penrose Objective Reduction Noncomputability",
+      "wins": 12,
+      "earliest_san": "2013-11-05",
+      "earliest_target": "2025-09-05",
+      "peer_degree": 232,
+      "earlier_peers": 103,
+      "later_peers": 52,
+      "originality_claims": 0,
+      "atoms_matched": 6,
+      "top_mech": [
+        "ephaptic",
+        "balance",
+        "superposition",
+        "decoding",
+        "topological",
+        "thalamus"
+      ]
+    },
+    {
+      "pid": "rival-denis-holographic-computational-universe",
+      "pname": "Denis Holographic Computational Universe",
+      "wins": 12,
+      "earliest_san": "2018-08-23",
+      "earliest_target": "2026-07-02",
+      "peer_degree": 230,
+      "earlier_peers": 177,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 4,
+      "top_mech": [
+        "superfluid",
+        "coincidence",
+        "errors",
+        "grounded",
+        "clock",
+        "semantic"
+      ]
+    },
+    {
+      "pid": "rival-finster-causal-fermion-systems",
+      "pname": "Finster Causal Fermion Systems",
+      "wins": 25,
+      "earliest_san": "2010-01-01",
+      "earliest_target": "2011-02-13",
+      "peer_degree": 228,
+      "earlier_peers": 2,
+      "later_peers": 225,
+      "originality_claims": 0,
+      "atoms_matched": 6,
+      "top_mech": [
+        "bayesian",
+        "superposition",
+        "decoding",
+        "reward",
+        "attractors",
+        "modulation"
+      ]
+    },
+    {
+      "pid": "rival-allen-lead-23-2026",
+      "pname": "Allen Lead #23: Continuous electromagnetic fields from neural activity may explain unified exp",
+      "wins": 24,
+      "earliest_san": "2012-07-31",
+      "earliest_target": "2026-06-24",
+      "peer_degree": 224,
+      "earlier_peers": 170,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 10,
+      "top_mech": [
+        "somatosensory",
+        "recurrence",
+        "ephaptic",
+        "manifolds",
+        "workspace",
+        "superposition"
+      ]
+    },
+    {
+      "pid": "rival-donoghue-menezes-quadratic-gravity-merlin",
+      "pname": "Donoghue Menezes Quadratic Gravity Merlin",
+      "wins": 18,
+      "earliest_san": "2014-12-05",
+      "earliest_target": "2021-12-03",
+      "peer_degree": 222,
+      "earlier_peers": 38,
+      "later_peers": 180,
+      "originality_claims": 0,
+      "atoms_matched": 6,
+      "top_mech": [
+        "grounding",
+        "plasticity",
+        "grounded",
+        "entanglement",
+        "spike",
+        "emergence"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-6-8-ramachandrans-new-physics-and-neuroscience",
+      "pname": "Ramachandran's New Physics and Neuroscience",
+      "wins": 12,
+      "earliest_san": "2011-07-14",
+      "earliest_target": "2024-12-12",
+      "peer_degree": 222,
+      "earlier_peers": 58,
+      "later_peers": 125,
+      "originality_claims": 0,
+      "atoms_matched": 7,
+      "top_mech": [
+        "dopamine",
+        "rhythm",
+        "bottom-up",
+        "working",
+        "traveling",
+        "plasticity"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-3-4-pylkkanens-quantum-potential-energy-and-active-information",
+      "pname": "Pylkkanen's Quantum Potential Energy and Active Information",
+      "wins": 12,
+      "earliest_san": "2014-07-17",
+      "earliest_target": "2023-09-28",
+      "peer_degree": 221,
+      "earlier_peers": 55,
+      "later_peers": 155,
+      "originality_claims": 0,
+      "atoms_matched": 6,
+      "top_mech": [
+        "homeostasis",
+        "bayesian",
+        "free-energy",
+        "reward",
+        "grounded",
+        "emergence"
+      ]
+    },
+    {
+      "pid": "rival-bruna-resonance-complexity-theory",
+      "pname": "Bruna Resonance Complexity Theory",
+      "wins": 24,
+      "earliest_san": "2022-03-01",
+      "earliest_target": "2025-05-26",
+      "peer_degree": 220,
+      "earlier_peers": 98,
+      "later_peers": 58,
+      "originality_claims": 0,
+      "atoms_matched": 11,
+      "top_mech": [
+        "harmonic",
+        "resonant",
+        "manifolds",
+        "superposition",
+        "sensorimotor",
+        "attractors"
+      ]
+    },
+    {
+      "pid": "rival-pbs-spacetime-time-gradient-gravity-explanation",
+      "pname": "Pbs Spacetime Time Gradient Gravity Explanation",
+      "wins": 16,
+      "earliest_san": "2012-01-01",
+      "earliest_target": "2024-01-01",
+      "peer_degree": 220,
+      "earlier_peers": 58,
+      "later_peers": 127,
+      "originality_claims": 0,
+      "atoms_matched": 8,
+      "top_mech": [
+        "thalamocortical",
+        "controller",
+        "gating",
+        "manifolds",
+        "grounding",
+        "prefrontal"
+      ]
+    },
+    {
+      "pid": "rival-nishiyama-tanaka-tuszynski-tsenkova-holographic-brain",
+      "pname": "Nishiyama Tanaka Tuszynski Tsenkova Holographic Brain",
+      "wins": 12,
+      "earliest_san": "2017-04-11",
+      "earliest_target": "2024-02-18",
+      "peer_degree": 218,
+      "earlier_peers": 67,
+      "later_peers": 117,
+      "originality_claims": 0,
+      "atoms_matched": 9,
+      "top_mech": [
+        "balance",
+        "nonlinear",
+        "resonance",
+        "dendrites",
+        "decoherence",
+        "dendritic"
+      ]
+    },
+    {
+      "pid": "rival-fernandes-fundamental-conservation-information",
+      "pname": "Fernandes Fundamental Conservation Information",
+      "wins": 19,
+      "earliest_san": "2022-03-01",
+      "earliest_target": "2025-02-02",
+      "peer_degree": 217,
+      "earlier_peers": 94,
+      "later_peers": 48,
+      "originality_claims": 0,
+      "atoms_matched": 6,
+      "top_mech": [
+        "self-modeling",
+        "free-energy",
+        "agency",
+        "grounded",
+        "emergence",
+        "semantic"
+      ]
+    },
+    {
+      "pid": "rival-worden-projective-wave-consciousness",
+      "pname": "Worden Projective Wave Consciousness",
+      "wins": 27,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2020-05-20",
+      "peer_degree": 216,
+      "earlier_peers": 42,
+      "later_peers": 170,
+      "originality_claims": 0,
+      "atoms_matched": 12,
+      "top_mech": [
+        "travelling",
+        "bayesian",
+        "free-energy",
+        "ephaptic",
+        "spiking",
+        "prefrontal"
+      ]
+    },
+    {
+      "pid": "rival-denis-scaling-entropy-area-thermodynamics",
+      "pname": "Denis Scaling Entropy Area Thermodynamics",
+      "wins": 12,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2024-11-27",
+      "peer_degree": 210,
+      "earlier_peers": 52,
+      "later_peers": 125,
+      "originality_claims": 0,
+      "atoms_matched": 6,
+      "top_mech": [
+        "operator",
+        "relational",
+        "errors",
+        "plasticity",
+        "emergence",
+        "top-down"
+      ]
+    },
+    {
+      "pid": "rival-kanai-ma-intrinsic-computational-functionalism",
+      "pname": "Kanai Ma Intrinsic Computational Functionalism",
+      "wins": 24,
+      "earliest_san": "2012-08-01",
+      "earliest_target": "2026-05-09",
+      "peer_degree": 209,
+      "earlier_peers": 148,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 12,
+      "top_mech": [
+        "transformer",
+        "free-energy",
+        "topology",
+        "decoding",
+        "canonical",
+        "excitatory"
+      ]
+    },
+    {
+      "pid": "rival-barenholtz-generative-working-memory",
+      "pname": "Barenholtz Generative Working Memory",
+      "wins": 12,
+      "earliest_san": "2012-08-20",
+      "earliest_target": "2026-07-28",
+      "peer_degree": 208,
+      "earlier_peers": 158,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 12,
+      "top_mech": [
+        "speech",
+        "spiking",
+        "superposition",
+        "working",
+        "spikes",
+        "hierarchy"
+      ]
+    },
+    {
+      "pid": "rival-diniz-maia-voler-ker-iter",
+      "pname": "Diniz Maia Voler Ker Iter",
+      "wins": 24,
+      "earliest_san": "2021-10-21",
+      "earliest_target": "2025-05-17",
+      "peer_degree": 206,
+      "earlier_peers": 91,
+      "later_peers": 40,
+      "originality_claims": 0,
+      "atoms_matched": 9,
+      "top_mech": [
+        "multiscale",
+        "free-energy",
+        "manifolds",
+        "variational",
+        "operator",
+        "superposition"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-1-6-8-gibsons-ecological-psychology",
+      "pname": "Gibson's Ecological Psychology",
+      "wins": 13,
+      "earliest_san": "2022-03-01",
+      "earliest_target": "2025-07-01",
+      "peer_degree": 206,
+      "earlier_peers": 99,
+      "later_peers": 62,
+      "originality_claims": 0,
+      "atoms_matched": 10,
+      "top_mech": [
+        "proprioceptive",
+        "gating",
+        "agency",
+        "prefrontal",
+        "thalamus",
+        "sensorimotor"
+      ]
+    },
+    {
+      "pid": "rival-king-unified-geometric-wave-theory",
+      "pname": "King Unified Geometric Wave Theory",
+      "wins": 12,
+      "earliest_san": "2021-12-03",
+      "earliest_target": "2024-07-23",
+      "peer_degree": 206,
+      "earlier_peers": 51,
+      "later_peers": 119,
+      "originality_claims": 0,
+      "atoms_matched": 9,
+      "top_mech": [
+        "excitatory",
+        "route",
+        "entanglement",
+        "nonlinear",
+        "inhibitory",
+        "generative"
+      ]
+    },
+    {
+      "pid": "rival-wise-unified-coherence-dynamics",
+      "pname": "Wise Unified Coherence Dynamics",
+      "wins": 12,
+      "earliest_san": "2012-08-23",
+      "earliest_target": "2025-12-06",
+      "peer_degree": 205,
+      "earlier_peers": 90,
+      "later_peers": 51,
+      "originality_claims": 0,
+      "atoms_matched": 11,
+      "top_mech": [
+        "self-modeling",
+        "controller",
+        "latent",
+        "trajectory",
+        "errors",
+        "grounded"
+      ]
+    },
+    {
+      "pid": "rival-holographic-fractal-resonant-recurrence-author-unresolved",
+      "pname": "Holographic Fractal Resonant Recurrence Author Unresolved",
+      "wins": 18,
+      "earliest_san": "2017-04-11",
+      "earliest_target": "2025-01-01",
+      "peer_degree": 204,
+      "earlier_peers": 88,
+      "later_peers": 44,
+      "originality_claims": 0,
+      "atoms_matched": 6,
+      "top_mech": [
+        "bioelectric",
+        "ephaptic",
+        "balance",
+        "manifold",
+        "superposition",
+        "reward"
+      ]
+    },
+    {
+      "pid": "rival-fernandes-resonant-coherence-field-theory",
+      "pname": "Fernandes Resonant Coherence Field Theory",
+      "wins": 24,
+      "earliest_san": "2012-02-16",
+      "earliest_target": "2025-05-22",
+      "peer_degree": 203,
+      "earlier_peers": 89,
+      "later_peers": 40,
+      "originality_claims": 0,
+      "atoms_matched": 6,
+      "top_mech": [
+        "harmonic",
+        "rhythm",
+        "resonant",
+        "standing",
+        "hierarchy",
+        "synchrony"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-1-3-5-ambrons-local-field-potentials-and-electromagnetic-waves",
+      "pname": "Ambron's Local Field Potentials and Electromagnetic Waves",
+      "wins": 12,
+      "earliest_san": "2011-09-21",
+      "earliest_target": "2024-09-11",
+      "peer_degree": 201,
+      "earlier_peers": 57,
+      "later_peers": 108,
+      "originality_claims": 0,
+      "atoms_matched": 8,
+      "top_mech": [
+        "ephaptic",
+        "hippocampal",
+        "decoding",
+        "thalamus",
+        "reward",
+        "traveling"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-1-3-3-mcfaddens-conscious-electromagnetic-information-field-theory",
+      "pname": "McFadden's Conscious Electromagnetic Information Field Theory",
+      "wins": 8,
+      "earliest_san": "2012-08-20",
+      "earliest_target": "2026-05-20",
+      "peer_degree": 201,
+      "earlier_peers": 153,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 5,
+      "top_mech": [
+        "free-energy",
+        "superposition",
+        "decoding",
+        "emergence",
+        "embodied",
+        "attractor"
+      ]
+    },
+    {
+      "pid": "rival-hunter-jackson-observer-recursion-theory",
+      "pname": "Hunter Jackson Observer Recursion Theory",
+      "wins": 8,
+      "earliest_san": "2011-01-01",
+      "earliest_target": "2023-05-09",
+      "peer_degree": 201,
+      "earlier_peers": 44,
+      "later_peers": 149,
+      "originality_claims": 0,
+      "atoms_matched": 7,
+      "top_mech": [
+        "reward",
+        "hippocampus",
+        "attractors",
+        "decoherence",
+        "attention",
+        "attractor"
+      ]
+    },
+    {
+      "pid": "framework-energy-momentum-squared-gravity",
+      "pname": "Framework Energy Momentum Squared Gravity",
+      "wins": 19,
+      "earliest_san": "2011-01-01",
+      "earliest_target": "2013-02-18",
+      "peer_degree": 200,
+      "earlier_peers": 3,
+      "later_peers": 196,
+      "originality_claims": 0,
+      "atoms_matched": 5,
+      "top_mech": [
+        "resistance",
+        "topology",
+        "balance",
+        "diffusion",
+        "topological",
+        "cosmology"
+      ]
+    },
+    {
+      "pid": "rival-baldwin-polanski-unified-wave-theory",
+      "pname": "Baldwin Polanski Unified Wave Theory",
+      "wins": 10,
+      "earliest_san": "2022-03-01",
+      "earliest_target": "2025-07-28",
+      "peer_degree": 200,
+      "earlier_peers": 87,
+      "later_peers": 43,
+      "originality_claims": 4,
+      "atoms_matched": 6,
+      "top_mech": [
+        "multiscale",
+        "topological",
+        "delta",
+        "route",
+        "plasticity",
+        "grounded"
+      ]
+    },
+    {
+      "pid": "rival-gavant-dynamic-present-theory",
+      "pname": "Gavant Dynamic Present Theory",
+      "wins": 24,
+      "earliest_san": "2012-01-01",
+      "earliest_target": "2024-10-14",
+      "peer_degree": 198,
+      "earlier_peers": 49,
+      "later_peers": 113,
+      "originality_claims": 0,
+      "atoms_matched": 11,
+      "top_mech": [
+        "grounding",
+        "manifold",
+        "traveling",
+        "grounded",
+        "entanglement",
+        "spike"
+      ]
+    },
+    {
+      "pid": "rival-four-dimensional-unification-geometry",
+      "pname": "Four Dimensional Unification Geometry",
+      "wins": 12,
+      "earliest_san": "2012-01-01",
+      "earliest_target": "2026-04-17",
+      "peer_degree": 198,
+      "earlier_peers": 156,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 6,
+      "top_mech": [
+        "symmetries",
+        "motivation",
+        "prefrontal",
+        "manifold",
+        "reward",
+        "working"
+      ]
+    },
+    {
+      "pid": "rival-signal-driven-cosmic-renewal-author-unresolved",
+      "pname": "Signal Driven Cosmic Renewal Author Unresolved",
+      "wins": 12,
+      "earliest_san": "2022-03-01",
+      "earliest_target": "2025-01-01",
+      "peer_degree": 198,
+      "earlier_peers": 84,
+      "later_peers": 51,
+      "originality_claims": 0,
+      "atoms_matched": 8,
+      "top_mech": [
+        "neuromodulation",
+        "feedforward",
+        "harmonic",
+        "bottom-up",
+        "cosmology",
+        "canonical"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-1-3-2-pocketts-conscious-and-non-conscious-patterns",
+      "pname": "Pockett's Conscious and Non-Conscious Patterns",
+      "wins": 8,
+      "earliest_san": "2011-07-14",
+      "earliest_target": "2026-03-12",
+      "peer_degree": 198,
+      "earlier_peers": 152,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 4,
+      "top_mech": [
+        "working",
+        "spikes",
+        "embodied",
+        "dendritic",
+        "thermodynamics",
+        "hierarchical"
+      ]
+    },
+    {
+      "pid": "rival-czarnocki-coded-reality-hypothesis",
+      "pname": "Czarnocki Coded Reality Hypothesis",
+      "wins": 24,
+      "earliest_san": "2022-03-01",
+      "earliest_target": "2026-01-20",
+      "peer_degree": 195,
+      "earlier_peers": 159,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 6,
+      "top_mech": [
+        "superfluid",
+        "rhythm",
+        "relational",
+        "route",
+        "entanglement",
+        "nonlinear"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-1-7-3-looritss-structural-realism",
+      "pname": "Loorits's Structural Realism",
+      "wins": 15,
+      "earliest_san": "2011-01-16",
+      "earliest_target": "2014-03-18",
+      "peer_degree": 194,
+      "earlier_peers": 19,
+      "later_peers": 171,
+      "originality_claims": 0,
+      "atoms_matched": 13,
+      "top_mech": [
+        "thalamocortical",
+        "gating",
+        "bottom-up",
+        "diffusion",
+        "thalamic",
+        "errors"
+      ]
+    },
+    {
+      "pid": "rival-waterman-dynamical-regime-hypothesis",
+      "pname": "Waterman Dynamical Regime Hypothesis",
+      "wins": 12,
+      "earliest_san": "2011-08-24",
+      "earliest_target": "2026-03-20",
+      "peer_degree": 193,
+      "earlier_peers": 137,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 7,
+      "top_mech": [
+        "thalamocortical",
+        "world-model",
+        "free-energy",
+        "trajectories",
+        "delta",
+        "synchrony"
+      ]
+    },
+    {
+      "pid": "rival-bsb-zhou-learning-3d-persistent-embodied-wo",
+      "pname": "Siyuan Zhou et al. (2025) Learning 3D Persistent Embodied World Models",
+      "wins": 18,
+      "earliest_san": "2011-01-01",
+      "earliest_target": "2025-05-05",
+      "peer_degree": 192,
+      "earlier_peers": 94,
+      "later_peers": 59,
+      "originality_claims": 0,
+      "atoms_matched": 13,
+      "top_mech": [
+        "latent",
+        "diffusion",
+        "trajectories",
+        "coincidence",
+        "trajectory",
+        "agent"
+      ]
+    },
+    {
+      "pid": "rival-tegmark-mathematical-universe",
+      "pname": "Tegmark Mathematical Universe",
+      "wins": 12,
+      "earliest_san": "2017-04-11",
+      "earliest_target": "2026-07-17",
+      "peer_degree": 192,
+      "earlier_peers": 151,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 4,
+      "top_mech": [
+        "criticality",
+        "grounding",
+        "working",
+        "errors",
+        "attractors",
+        "entanglement"
+      ]
+    },
+    {
+      "pid": "rival-bsb-fang-emergent-semantic-representations",
+      "pname": "Jiayi Fang et al. (2026) Emergent Semantic Representations in World Models through Physical Interaction",
+      "wins": 20,
+      "earliest_san": "2012-08-23",
+      "earliest_target": "2026-05-22",
+      "peer_degree": 191,
+      "earlier_peers": 139,
+      "later_peers": 0,
+      "originality_claims": 0,
+      "atoms_matched": 6,
+      "top_mech": [
+        "motivation",
+        "latent",
+        "manifolds",
+        "grounding",
+        "thalamic",
+        "sensorimotor"
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-9-3-radins-challenge-to-materialism",
+      "pname": "Radin's Challenge to Materialism",
+      "wins": 6,
+      "earliest_san": "2013-11-05",
+      "earliest_target": "2022-09-07",
+      "peer_degree": 190,
+      "earlier_peers": 33,
+      "later_peers": 151,
+      "originality_claims": 0,
+      "atoms_matched": 3,
+      "top_mech": [
+        "thalamocortical",
+        "resonant",
+        "decoding",
+        "entanglement",
+        "nonlinear",
+        "embodied"
+      ]
+    },
+    {
+      "pid": "rival-vopson-information-gravity",
+      "pname": "Vopson Information Gravity",
+      "wins": 24,
+      "earliest_san": "2022-03-01",
+      "earliest_target": "2025-01-31",
+      "peer_degree": 189,
+      "earlier_peers": 80,
+      "later_peers": 37,
+      "originality_claims": 0,
+      "atoms_matched": 4,
+      "top_mech": [
+        "resistance",
+        "topology",
+        "balance",
+        "topological",
+        "cosmology",
+        "grounded"
+      ]
+    },
+    {
+      "pid": "rival-kanai-takatsuki-fujisawa-process-meta-representations",
+      "pname": "Kanai Takatsuki Fujisawa Process Meta Representations",
+      "wins": 12,
+      "earliest_san": "2010-01-01",
+      "earliest_target": "2025-02-06",
+      "peer_degree": 189,
+      "earlier_peers": 89,
+      "later_peers": 58,
+      "originality_claims": 0,
+      "atoms_matched": 11,
+      "top_mech": [
+        "schema",
+        "transformer",
+        "gate",
+        "manifolds",
+        "workspace",
+        "canonical"
+      ]
+    },
+    {
+      "pid": "rival-sharmila-vermeulen-datta-spacetime-fluctuation-correlations",
+      "pname": "Sharmila Vermeulen Datta Spacetime Fluctuation Correlations",
+      "wins": 7,
+      "earliest_san": "2021-02-02",
+      "earliest_target": "2024-03-01",
+      "peer_degree": 188,
+      "earlier_peers": 44,
+      "later_peers": 112,
+      "originality_claims": 0,
+      "atoms_matched": 4,
+      "top_mech": [
+        "spikes",
+        "metric",
+        "alpha",
+        "beta",
+        "error",
+        "interference"
+      ]
+    }
+  ],
+  "top_edges": [
+    {
+      "a_pid": "rival-waterman-asymmetry-where-science-ends",
+      "a_name": "Waterman Asymmetry Where Science Ends",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-depth-structured-materialism-inpenetrabilities",
+      "b_name": "Waterman Depth Structured Materialism Inpenetrabilities",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 1.0,
+      "score": 153.5,
+      "shared_mech_count": 45,
+      "shared_mech": [
+        "resonant",
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-asymmetry-where-science-ends",
+      "a_name": "Waterman Asymmetry Where Science Ends",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-pluralistic-ontology-emergent-time",
+      "b_name": "Waterman Pluralistic Ontology Emergent Time",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.99,
+      "score": 152.49,
+      "shared_mech_count": 45,
+      "shared_mech": [
+        "resonant",
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-depth-structured-materialism-inpenetrabilities",
+      "a_name": "Waterman Depth Structured Materialism Inpenetrabilities",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-pluralistic-ontology-emergent-time",
+      "b_name": "Waterman Pluralistic Ontology Emergent Time",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.99,
+      "score": 152.49,
+      "shared_mech_count": 45,
+      "shared_mech": [
+        "resonant",
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-perspectival-structural-realism-psr-e",
+      "a_name": "Waterman Perspectival Structural Realism Psr E",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-refusal-withholding",
+      "b_name": "Waterman Refusal Withholding",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 1.0,
+      "score": 152.0,
+      "shared_mech_count": 45,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 8
+    },
+    {
+      "a_pid": "rival-waterman-perspectival-structural-realism-psr-e",
+      "a_name": "Waterman Perspectival Structural Realism Psr E",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-quantum-disconnectedness-vacuum-scar",
+      "b_name": "Waterman Quantum Disconnectedness Vacuum Scar",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.97,
+      "score": 149.03,
+      "shared_mech_count": 44,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 8
+    },
+    {
+      "a_pid": "rival-waterman-quantum-disconnectedness-vacuum-scar",
+      "a_name": "Waterman Quantum Disconnectedness Vacuum Scar",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-refusal-withholding",
+      "b_name": "Waterman Refusal Withholding",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.97,
+      "score": 149.03,
+      "shared_mech_count": 44,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 8
+    },
+    {
+      "a_pid": "rival-waterman-asymmetry-where-science-ends",
+      "a_name": "Waterman Asymmetry Where Science Ends",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-perspectival-structural-realism-psr-e",
+      "b_name": "Waterman Perspectival Structural Realism Psr E",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.957,
+      "score": 146.24,
+      "shared_mech_count": 43,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-asymmetry-where-science-ends",
+      "a_name": "Waterman Asymmetry Where Science Ends",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-refusal-withholding",
+      "b_name": "Waterman Refusal Withholding",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.957,
+      "score": 146.24,
+      "shared_mech_count": 43,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-depth-structured-materialism-inpenetrabilities",
+      "a_name": "Waterman Depth Structured Materialism Inpenetrabilities",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-perspectival-structural-realism-psr-e",
+      "b_name": "Waterman Perspectival Structural Realism Psr E",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.957,
+      "score": 146.24,
+      "shared_mech_count": 43,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-depth-structured-materialism-inpenetrabilities",
+      "a_name": "Waterman Depth Structured Materialism Inpenetrabilities",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-refusal-withholding",
+      "b_name": "Waterman Refusal Withholding",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.957,
+      "score": 146.24,
+      "shared_mech_count": 43,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-cosmic-emergentism-thermodynamic-u",
+      "a_name": "Waterman Cosmic Emergentism Thermodynamic U",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-perspectival-structural-realism-psr-e",
+      "b_name": "Waterman Perspectival Structural Realism Psr E",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.951,
+      "score": 145.59,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "canonical",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 29,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-cosmic-emergentism-thermodynamic-u",
+      "a_name": "Waterman Cosmic Emergentism Thermodynamic U",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-refusal-withholding",
+      "b_name": "Waterman Refusal Withholding",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.951,
+      "score": 145.59,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "canonical",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 29,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-perspectival-structural-realism-psr-e",
+      "a_name": "Waterman Perspectival Structural Realism Psr E",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-pluralistic-ontology-emergent-time",
+      "b_name": "Waterman Pluralistic Ontology Emergent Time",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.949,
+      "score": 145.35,
+      "shared_mech_count": 43,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-pluralistic-ontology-emergent-time",
+      "a_name": "Waterman Pluralistic Ontology Emergent Time",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-refusal-withholding",
+      "b_name": "Waterman Refusal Withholding",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.949,
+      "score": 145.35,
+      "shared_mech_count": 43,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-asymmetry-where-science-ends",
+      "a_name": "Waterman Asymmetry Where Science Ends",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-cosmic-emergentism-thermodynamic-u",
+      "b_name": "Waterman Cosmic Emergentism Thermodynamic U",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.948,
+      "score": 145.32,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "resonant",
+        "canonical",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-cosmic-emergentism-thermodynamic-u",
+      "a_name": "Waterman Cosmic Emergentism Thermodynamic U",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-depth-structured-materialism-inpenetrabilities",
+      "b_name": "Waterman Depth Structured Materialism Inpenetrabilities",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.948,
+      "score": 145.32,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "resonant",
+        "canonical",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-cosmic-emergentism-thermodynamic-u",
+      "a_name": "Waterman Cosmic Emergentism Thermodynamic U",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-pluralistic-ontology-emergent-time",
+      "b_name": "Waterman Pluralistic Ontology Emergent Time",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.939,
+      "score": 144.4,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "resonant",
+        "canonical",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-dark-consciousness-idea-agents",
+      "a_name": "Waterman Dark Consciousness Idea Agents",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-perspectival-structural-realism-psr-e",
+      "b_name": "Waterman Perspectival Structural Realism Psr E",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.922,
+      "score": 144.22,
+      "shared_mech_count": 44,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 8
+    },
+    {
+      "a_pid": "rival-waterman-dark-consciousness-idea-agents",
+      "a_name": "Waterman Dark Consciousness Idea Agents",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-refusal-withholding",
+      "b_name": "Waterman Refusal Withholding",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.922,
+      "score": 144.22,
+      "shared_mech_count": 44,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 8
+    },
+    {
+      "a_pid": "rival-waterman-asymmetry-where-science-ends",
+      "a_name": "Waterman Asymmetry Where Science Ends",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-negative-space-ontology-topology",
+      "b_name": "Waterman Negative Space Ontology Topology",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.901,
+      "score": 143.63,
+      "shared_mech_count": 44,
+      "shared_mech": [
+        "resonant",
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-depth-structured-materialism-inpenetrabilities",
+      "a_name": "Waterman Depth Structured Materialism Inpenetrabilities",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-negative-space-ontology-topology",
+      "b_name": "Waterman Negative Space Ontology Topology",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.901,
+      "score": 143.63,
+      "shared_mech_count": 44,
+      "shared_mech": [
+        "resonant",
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-asymmetry-where-science-ends",
+      "a_name": "Waterman Asymmetry Where Science Ends",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-quantum-disconnectedness-vacuum-scar",
+      "b_name": "Waterman Quantum Disconnectedness Vacuum Scar",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.929,
+      "score": 143.37,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-depth-structured-materialism-inpenetrabilities",
+      "a_name": "Waterman Depth Structured Materialism Inpenetrabilities",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-quantum-disconnectedness-vacuum-scar",
+      "b_name": "Waterman Quantum Disconnectedness Vacuum Scar",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.929,
+      "score": 143.37,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-cosmic-emergentism-thermodynamic-u",
+      "a_name": "Waterman Cosmic Emergentism Thermodynamic U",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-quantum-disconnectedness-vacuum-scar",
+      "b_name": "Waterman Quantum Disconnectedness Vacuum Scar",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.922,
+      "score": 142.75,
+      "shared_mech_count": 41,
+      "shared_mech": [
+        "canonical",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy",
+        "concepts"
+      ],
+      "shared_san_anchors": 29,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-allen-lead-20-2026",
+      "a_name": "Allen Lead #20: Selected visual targets occupy an additional neural encoding axis, a geome",
+      "a_date": "2026-09-11",
+      "b_pid": "rival-allen-lead-25-2026",
+      "b_name": "Allen Lead #25: One computational framework for hallucinations, psychedelic experience and",
+      "b_date": "2026-05-20",
+      "order": "contemporaneous",
+      "earliest_san": "2017-04-11",
+      "cosine": 0.922,
+      "score": 142.74,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "subcortical",
+        "balance",
+        "hippocampal",
+        "thalamus",
+        "excitatory",
+        "sensorimotor",
+        "traveling",
+        "hippocampus"
+      ],
+      "shared_san_anchors": 16,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-12-SEQUENCE-ATTENTION-CONTEXT-COMPOSITION"
+      ],
+      "shared_atoms_count": 11
+    },
+    {
+      "a_pid": "rival-waterman-negative-space-ontology-topology",
+      "a_name": "Waterman Negative Space Ontology Topology",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-pluralistic-ontology-emergent-time",
+      "b_name": "Waterman Pluralistic Ontology Emergent Time",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.892,
+      "score": 142.73,
+      "shared_mech_count": 44,
+      "shared_mech": [
+        "resonant",
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-04-DISTRIBUTED-ASSEMBLY-HIGH-DIM-BINDING",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-pluralistic-ontology-emergent-time",
+      "a_name": "Waterman Pluralistic Ontology Emergent Time",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-quantum-disconnectedness-vacuum-scar",
+      "b_name": "Waterman Quantum Disconnectedness Vacuum Scar",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.92,
+      "score": 142.52,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-dark-consciousness-idea-agents",
+      "a_name": "Waterman Dark Consciousness Idea Agents",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-quantum-disconnectedness-vacuum-scar",
+      "b_name": "Waterman Quantum Disconnectedness Vacuum Scar",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.874,
+      "score": 139.39,
+      "shared_mech_count": 43,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 30,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 8
+    },
+    {
+      "a_pid": "rival-waterman-asymmetry-where-science-ends",
+      "a_name": "Waterman Asymmetry Where Science Ends",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-dark-consciousness-idea-agents",
+      "b_name": "Waterman Dark Consciousness Idea Agents",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.884,
+      "score": 138.86,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-dark-consciousness-idea-agents",
+      "a_name": "Waterman Dark Consciousness Idea Agents",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-depth-structured-materialism-inpenetrabilities",
+      "b_name": "Waterman Depth Structured Materialism Inpenetrabilities",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.884,
+      "score": 138.86,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-cosmic-emergentism-thermodynamic-u",
+      "a_name": "Waterman Cosmic Emergentism Thermodynamic U",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-dark-consciousness-idea-agents",
+      "b_name": "Waterman Dark Consciousness Idea Agents",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.877,
+      "score": 138.22,
+      "shared_mech_count": 41,
+      "shared_mech": [
+        "canonical",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 29,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-dark-consciousness-idea-agents",
+      "a_name": "Waterman Dark Consciousness Idea Agents",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-pluralistic-ontology-emergent-time",
+      "b_name": "Waterman Pluralistic Ontology Emergent Time",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.875,
+      "score": 138.01,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "agents",
+        "thermodynamic",
+        "symmetry",
+        "attractor"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-negative-space-ontology-topology",
+      "a_name": "Waterman Negative Space Ontology Topology",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-perspectival-structural-realism-psr-e",
+      "b_name": "Waterman Perspectival Structural Realism Psr E",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.863,
+      "score": 136.77,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-negative-space-ontology-topology",
+      "a_name": "Waterman Negative Space Ontology Topology",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-refusal-withholding",
+      "b_name": "Waterman Refusal Withholding",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.863,
+      "score": 136.77,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-cosmic-emergentism-thermodynamic-u",
+      "a_name": "Waterman Cosmic Emergentism Thermodynamic U",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-negative-space-ontology-topology",
+      "b_name": "Waterman Negative Space Ontology Topology",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.854,
+      "score": 135.95,
+      "shared_mech_count": 41,
+      "shared_mech": [
+        "resonant",
+        "canonical",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-allen-lead-11-2026",
+      "a_name": "Allen Lead #11: Olfactory cortex does not store odours in discrete attractor states; it re",
+      "a_date": "2025-01-13",
+      "b_pid": "rival-allen-lead-25-2026",
+      "b_name": "Allen Lead #25: One computational framework for hallucinations, psychedelic experience and",
+      "b_date": "2026-05-20",
+      "order": "A-earlier",
+      "earliest_san": "2012-09-19",
+      "cosine": 0.908,
+      "score": 135.27,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "subcortical",
+        "manifolds",
+        "balance",
+        "hippocampal",
+        "thalamus",
+        "excitatory",
+        "sensorimotor",
+        "traveling"
+      ],
+      "shared_san_anchors": 15,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-12-SEQUENCE-ATTENTION-CONTEXT-COMPOSITION"
+      ],
+      "shared_atoms_count": 9
+    },
+    {
+      "a_pid": "rival-allen-lead-04-2026",
+      "a_name": "Allen Lead #4: Traveling waves are an active mechanism, projecting recent sensory history ",
+      "a_date": "2024-02-22",
+      "b_pid": "rival-allen-lead-20-2026",
+      "b_name": "Allen Lead #20: Selected visual targets occupy an additional neural encoding axis, a geome",
+      "b_date": "2026-09-11",
+      "order": "A-earlier",
+      "earliest_san": "2017-04-11",
+      "cosine": 0.874,
+      "score": 134.9,
+      "shared_mech_count": 38,
+      "shared_mech": [
+        "subcortical",
+        "balance",
+        "hippocampal",
+        "thalamus",
+        "excitatory",
+        "traveling",
+        "hippocampus",
+        "grounded"
+      ],
+      "shared_san_anchors": 16,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-05-ATTENTION-SELECTIVE-GATING-BROADCAST",
+        "BT-12-SEQUENCE-ATTENTION-CONTEXT-COMPOSITION"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-waterman-negative-space-ontology-topology",
+      "a_name": "Waterman Negative Space Ontology Topology",
+      "a_date": "2024-01-01",
+      "b_pid": "rival-waterman-quantum-disconnectedness-vacuum-scar",
+      "b_name": "Waterman Quantum Disconnectedness Vacuum Scar",
+      "b_date": "2024-01-01",
+      "order": "contemporaneous",
+      "earliest_san": "2012-08-01",
+      "cosine": 0.843,
+      "score": 134.76,
+      "shared_mech_count": 42,
+      "shared_mech": [
+        "canonical",
+        "attractors",
+        "synchrony",
+        "generative",
+        "thermodynamic",
+        "symmetry",
+        "attractor",
+        "entropy"
+      ],
+      "shared_san_anchors": 26,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-08-ENERGY-DISSIPATION-FREE-ENERGY-UNIVERSALITY",
+        "BT-11-TIME-CRYSTAL-PHASE-SYMMETRY-BREAKING"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-allen-lead-09-2026",
+      "a_name": "Allen Lead #9: Episodic memory encodes by recombining existing cortical knowledge, not sto",
+      "a_date": "2026-07-01",
+      "b_pid": "rival-allen-lead-25-2026",
+      "b_name": "Allen Lead #25: One computational framework for hallucinations, psychedelic experience and",
+      "b_date": "2026-05-20",
+      "order": "contemporaneous",
+      "earliest_san": "2017-04-11",
+      "cosine": 0.92,
+      "score": 133.47,
+      "shared_mech_count": 39,
+      "shared_mech": [
+        "subcortical",
+        "balance",
+        "hippocampal",
+        "thalamus",
+        "excitatory",
+        "sensorimotor",
+        "traveling",
+        "hippocampus"
+      ],
+      "shared_san_anchors": 14,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-12-SEQUENCE-ATTENTION-CONTEXT-COMPOSITION"
+      ],
+      "shared_atoms_count": 7
+    },
+    {
+      "a_pid": "rival-allen-lead-04-2026",
+      "a_name": "Allen Lead #4: Traveling waves are an active mechanism, projecting recent sensory history ",
+      "a_date": "2024-02-22",
+      "b_pid": "rival-allen-lead-25-2026",
+      "b_name": "Allen Lead #25: One computational framework for hallucinations, psychedelic experience and",
+      "b_date": "2026-05-20",
+      "order": "A-earlier",
+      "earliest_san": "2017-04-11",
+      "cosine": 0.881,
+      "score": 132.63,
+      "shared_mech_count": 37,
+      "shared_mech": [
+        "subcortical",
+        "balance",
+        "hippocampal",
+        "thalamus",
+        "excitatory",
+        "traveling",
+        "hippocampus",
+        "grounded"
+      ],
+      "shared_san_anchors": 18,
+      "shared_bridges": [
+        "BT-02-OSCILLATORY-WAVE-PHASE-INTERFERENCE-BINDING",
+        "BT-03-SELF-REFERENTIAL-FEEDBACK-PREDICTIVE-CONTROL",
+        "BT-12-SEQUENCE-ATTENTION-CONTEXT-COMPOSITION"
+      ],
+      "shared_atoms_count": 7
+    }
+  ],
+  "top_originality_exhibits": [
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0949",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-06-08",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": true,
+      "mq": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), a",
+      "tq": "Here we propose a framework in which a meta-controller learns to coordinate offline learning of a lower-level agent or model in ‘sleep’ phases to maximise reward in a ‘wake’ phase. The meta-controller selects among several actions, such as learning from recent",
+      "shared_mech": [
+        "phase"
+      ],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0950",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-06-08",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": true,
+      "mq": "Self-Aware Networks use Neural Array-Projection Tomography: Multi-layer phase field pattern representation (in brain wave oscillations), tomography with synapses & dendrites that detect coincident patterns of learned criteria (criterial causation Peter Tse), a",
+      "tq": "Brains reorganise knowledge offline to improve future behaviour, with ‘replay’ involved in consolidating memories, abstracting patterns from experience, and simulating new scenarios. However, there are few models of how the brain might orchestrate these proces",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-bettmann-goold-information-geometry-quantum-thermodynamics",
+      "pname": "Bettmann Goold Information Geometry Quantum Thermodynamics",
+      "wid": "G1-BETTMANN-GOOLD-I-D02-A02",
+      "title": "quantum, thermodynamics — Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility",
+      "marker": "we introduce",
+      "sdate": "2023-08-01",
+      "tdate": "2024-10-24",
+      "gb": "strong",
+      "bt_up": true,
+      "mq": "Self Aware Networks Online Archive: Comprehensive time-stamped notes and original research materials spanning over a decade are available in the Self Aware Networks GitHub repository. This archive provides detailed documentation of the evolution and refinement",
+      "tq": "We begin with a comprehensive review of the laws of thermodynamics, setting the stage for the subsequent analyses. We introduce novel developments in quantum thermodynamics through a generalized framework for geometric thermodynamics, which enables the derivat",
+      "shared_mech": [
+        "quantum",
+        "thermodynamics"
+      ],
+      "peer_cluster_size": 155,
+      "earlier_peers_count": 25,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-ambrogioni-information-dynamics-generative-diffusion",
+          "name": "Ambrogioni Information Dynamics Generative Diffusion",
+          "date": "2016-05-09"
+        },
+        {
+          "pid": "rival-finster-causal-fermion-systems",
+          "name": "Finster Causal Fermion Systems",
+          "date": "2011-02-13"
+        },
+        {
+          "pid": "framework-energy-momentum-squared-gravity",
+          "name": "Framework Energy Momentum Squared Gravity",
+          "date": "2013-02-18"
+        }
+      ]
+    },
+    {
+      "pid": "rival-bradshaw-informational-phase-space-cosmology",
+      "pname": "Bradshaw Informational Phase Space Cosmology",
+      "wid": "V7-DEEP-002-AF785BC3",
+      "title": "geometric, spacetime — Informational Phase Space Cosmology: A Geometric Framework for Entanglement, Curvature, and Mem",
+      "marker": "novel framework",
+      "sdate": "2023-11-01",
+      "tdate": "2025-01-01",
+      "gb": "strong",
+      "bt_up": true,
+      "mq": "7.2 Eva Miranda’s b-Symplectic Geometry In regions where ρt becomes extreme—either very high near massive objects or nearly vanishing in voids—the standard symplectic structure of phase space may develop singular features. Eva Miranda’s b-symplectic geometry e",
+      "tq": "TITLE: Informational Phase Space Cosmology (IPSC): A Unified Framework for Information-Theoretic Foundations of Spacetime ABSTRACT: Informational Phase Space Cosmology (IPSC) introduces a novel framework for understanding the cosmos through the integration of ",
+      "shared_mech": [
+        "geometry",
+        "phase"
+      ],
+      "peer_cluster_size": 159,
+      "earlier_peers_count": 68,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-declercq-trembling-spacetime-relativity",
+          "name": "Declercq Trembling Spacetime Relativity",
+          "date": "2014-12-01"
+        },
+        {
+          "pid": "rival-neukart-geometry-information-quantum-memory",
+          "name": "Neukart Geometry Information Quantum Memory",
+          "date": "2024-09-17"
+        },
+        {
+          "pid": "framework-lambda-cdm-cosmology",
+          "name": "Framework Lambda Cdm Cosmology",
+          "date": "2020-09-01"
+        }
+      ]
+    },
+    {
+      "pid": "rival-karvat-crespo-garcia-vishne-anderson-landau-universal-rhythmic-architecture",
+      "pname": "Karvat Crespo-Garcia Vishne Anderson Landau Universal Rhythmic Architecture",
+      "wid": "URA-2026-URA07",
+      "title": "Universal rhythmic architecture uncovers two modes of neural dynamics",
+      "marker": "we uncover",
+      "sdate": "2026-01-01",
+      "tdate": "2026-05-30",
+      "gb": "strong",
+      "bt_up": true,
+      "mq": "patterns to neural circuits in promixity to a neuron's phasic spiking event. The process of large scale LTD patterns establishes the cadence of brainwaves oscillation patterns reactive, bundles of neurons firing at low rates with high",
+      "tq": "Discussion In this study we uncover a rhythmicity-resolved spectral architecture composed of two types of bands — sustained and transient — which alternate intermittently along a logarithmically scaled frequency axis.",
+      "shared_mech": [],
+      "peer_cluster_size": 24,
+      "earlier_peers_count": 17,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-guth-kunz-jacobs-theta-phase-locking",
+          "name": "Guth Kunz Jacobs Theta Phase Locking",
+          "date": "2025-08-11"
+        },
+        {
+          "pid": "rival-miller-spatial-computing",
+          "name": "Miller Spatial Computing",
+          "date": "2016-01-01"
+        },
+        {
+          "pid": "rival-moyal-cleland-heterogeneous-quantized-spiking-networks",
+          "name": "Moyal Cleland Heterogeneous Quantized Spiking Networks",
+          "date": "2024-09-27"
+        }
+      ]
+    },
+    {
+      "pid": "rival-ambrogioni-information-dynamics-generative-diffusion",
+      "pname": "Ambrogioni Information Dynamics Generative Diffusion",
+      "wid": "G1-AMBROGIONI-INFOR-D02-A10",
+      "title": "cortical, neuronal — Dynamic Decomposition of Spatiotemporal Neural Signals",
+      "marker": "we introduce",
+      "sdate": "2012-09-19",
+      "tdate": "2016-05-09",
+      "gb": "medium-partial",
+      "bt_up": true,
+      "mq": "The 2012 record describes neuronal topology as a program, output as an analog packet or sparse representation of a richer cellular state, dendritic and whole-neuron structure as memory-bearing, and brain activity as a projection-reflection process across scale",
+      "tq": "Building from the temporal model, we introduce a spatiotemporal decomposition method that can localize the dynamic components on the cortical surface. Decomposing a signal using temporal covariance functions Modeling neural activity with stochastic differentia",
+      "shared_mech": [],
+      "peer_cluster_size": 183,
+      "earlier_peers_count": 13,
+      "sample_earlier_peers": [
+        {
+          "pid": "framework-energy-momentum-squared-gravity",
+          "name": "Framework Energy Momentum Squared Gravity",
+          "date": "2013-02-18"
+        },
+        {
+          "pid": "rival-schuller-constructive-gravity-electromagnetism",
+          "name": "Schuller Constructive Gravity Electromagnetism",
+          "date": "2014-02-26"
+        },
+        {
+          "pid": "rival-declercq-trembling-spacetime-relativity",
+          "name": "Declercq Trembling Spacetime Relativity",
+          "date": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-1-8-7-metzingers-no-self-representational-theory-of-subjectivity",
+      "pname": "Metzinger's No-Self Representational Theory of Subjectivity",
+      "wid": "G2-CANDIDATE-KUHN-1-D01-A04",
+      "title": "consciousness, rhythmic — The Onto-Rhythmic Self: An Ontological Reframing of Subjectivity.",
+      "marker": "we introduce",
+      "sdate": "2022-03-01",
+      "tdate": "2025-10-01",
+      "gb": "medium-partial",
+      "bt_up": true,
+      "mq": "SAN’s proposal of consciousness emerging solely from deterministic oscillatory cycles represents a stringent view compared to conventional neuroscience, which incorporates both rhythmic oscillations and non-oscillatory mechanisms (e.g., stochastic neural firin",
+      "tq": "In the present work of intellect, we introduce a novel approach to selfhood, the Onto-Rhythmic Self, situated within a participatory ontology in which Consciousness and Time function not as substrates but as expressive modalities of Being.",
+      "shared_mech": [
+        "consciousness",
+        "rhythmic"
+      ],
+      "peer_cluster_size": 54,
+      "earlier_peers_count": 19,
+      "sample_earlier_peers": [
+        {
+          "pid": "candidate-kuhn-2-5-sanfeys-abstract-realism",
+          "name": "Sanfey's Abstract Realism",
+          "date": "2024-07-30"
+        },
+        {
+          "pid": "rival-moyal-cleland-heterogeneous-quantized-spiking-networks",
+          "name": "Moyal Cleland Heterogeneous Quantized Spiking Networks",
+          "date": "2024-09-27"
+        },
+        {
+          "pid": "candidate-kuhn-6-8-ramachandrans-new-physics-and-neuroscience",
+          "name": "Ramachandran's New Physics and Neuroscience",
+          "date": "2024-12-12"
+        }
+      ]
+    },
+    {
+      "pid": "rival-bsb-hill-the-physical-basis-of-prediction-w",
+      "pname": "Brennen Hill et al. (2025) The Physical Basis of Prediction: World Model Formation in Neural Organoids vi",
+      "wid": "BSB27-SC-005-3EF73AE3",
+      "title": "The Physical Basis of Prediction: World Model Formation in Neural Organoids via an LLM-Generated Curriculum",
+      "marker": "we introduce",
+      "sdate": "2022-03-01",
+      "tdate": "2025-09-04",
+      "gb": "medium-partial",
+      "bt_up": true,
+      "mq": "Your analogy of phase wave differentials as a loss function in the brain's neural activity offers a profound way of understanding the brain's information processing in terms of optimization, similar to the gradient descent process in machine learning. This con",
+      "tq": "Second, we introduce a novel evaluation paradigm that links an agent’s behavioral performance directly to the physical measurement of synaptic plasticity, offering an unprecedented view into the material basis of a learned world model.",
+      "shared_mech": [
+        "plasticity",
+        "synaptic"
+      ],
+      "peer_cluster_size": 162,
+      "earlier_peers_count": 74,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-laukkonen-chandaria-beautiful-loop",
+          "name": "Laukkonen Chandaria Beautiful Loop",
+          "date": "2024-09-08"
+        },
+        {
+          "pid": "candidate-kuhn-1-10-4-cleeremans-and-tallon-baudrys-functional-value",
+          "name": "Cleeremans and Tallon-Baudry's Functional Value",
+          "date": "2021-05-18"
+        },
+        {
+          "pid": "rival-hawkins-htm-thousand-brains",
+          "name": "Hawkins Htm Thousand Brains",
+          "date": "2011-09-12"
+        }
+      ]
+    },
+    {
+      "pid": "rival-nazat-superpositional-asymmetry-principle",
+      "pname": "Nazat Superpositional Asymmetry Principle",
+      "wid": "G1-NAZAT-SUPERPOSIT-D01-A03",
+      "title": "dynamics, quantum, symmetry — The Superpositional Asymmetry Principle: An Effective Framework for Decoherence and Classicaliz",
+      "marker": "we introduce",
+      "sdate": "2022-03-01",
+      "tdate": "2026-01-22",
+      "gb": "medium-partial",
+      "bt_up": true,
+      "mq": "4. Freeman, W.J. & Vitiello, G. (2008). Dissipation and spontaneous symmetry breaking in brain dynamics. Journal of Physics A: Math. Theor., 41(30), 304042. -- Presents a dissipative quantum model of brain activity, arguing that the cortex behaves like an open",
+      "tq": "Abstract We introduce the Superpositional Asymmetry Principle (SAP), an effective theoretical framework linking symmetry-breaking dynamics, entropy production, and the suppression of quantum coherence in open quantum systems.",
+      "shared_mech": [
+        "quantum",
+        "symmetry"
+      ],
+      "peer_cluster_size": 176,
+      "earlier_peers_count": 142,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-information-flux-theory-author-unresolved",
+          "name": "Information Flux Theory Author Unresolved",
+          "date": "2025-05-18"
+        },
+        {
+          "pid": "rival-holographic-fractal-resonant-recurrence-author-unresolved",
+          "name": "Holographic Fractal Resonant Recurrence Author Unresolved",
+          "date": "2025-01-01"
+        },
+        {
+          "pid": "rival-finster-causal-fermion-systems",
+          "name": "Finster Causal Fermion Systems",
+          "date": "2011-02-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0953",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-06-08",
+      "tdate": "2025-12-01",
+      "gb": "medium-partial",
+      "bt_up": true,
+      "mq": "Micah Blumberg Putting together a bigger picture. Internal representation, aka qualia as \"tiny phase changes\" in brainwave oscillations (apply information theory to explain how phase changes can be information and computational rendering to explain how informa",
+      "tq": "Brains reorganise knowledge offline to improve future behaviour, with ‘replay’ involved in consolidating memories, abstracting patterns from experience, and simulating new scenarios. However, there are few models of how the brain might orchestrate these proces",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-reynolds-geometric-unified-field-theory",
+      "pname": "Reynolds Geometric Unified Field Theory",
+      "wid": "G1-REYNOLDS-GEOMETR-D01-A02",
+      "title": "field, gravity — A unified theory for bubble dynamics",
+      "marker": "for the first time",
+      "sdate": "2022-06-28",
+      "tdate": "2023-03-01",
+      "gb": "medium-partial",
+      "bt_up": true,
+      "mq": "What is the gist of my Gravity theory? Mass creates time dilation effects at the quantum scale, and the aggregate effect of quantum time dilation results in a quantum field where the odds of particle movement are shifted in favor of the direction of mass. @NAS",
+      "tq": "For the first time, we proposed bubble dynamics equations that can simultaneously take into consideration the effects of boundaries, bubble interaction, ambient flow field, gravity, bubble migration, fluid compressibility, viscosity, and surface tension while ",
+      "shared_mech": [
+        "field",
+        "gravity"
+      ],
+      "peer_cluster_size": 156,
+      "earlier_peers_count": 31,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-schuller-constructive-gravity-electromagnetism",
+          "name": "Schuller Constructive Gravity Electromagnetism",
+          "date": "2014-02-26"
+        },
+        {
+          "pid": "rival-hossenfelder-superdeterministic-gravity-collapse",
+          "name": "Hossenfelder Superdeterministic Gravity Collapse",
+          "date": "2020-10-03"
+        },
+        {
+          "pid": "rival-declercq-trembling-spacetime-relativity",
+          "name": "Declercq Trembling Spacetime Relativity",
+          "date": "2014-12-01"
+        }
+      ]
+    },
+    {
+      "pid": "rival-jordon-theoretical-harmonic-resonance-field-model",
+      "pname": "Jordon Theoretical Harmonic Resonance Field Model",
+      "wid": "G1-JORDON-THEORETIC-D01-A04",
+      "title": "harmonic, resonance — TOE-Theoretical Harmonic Resonance Field Model (THRFM): A Unified Framework for Physics",
+      "marker": "new theory of",
+      "sdate": "2022-08-05",
+      "tdate": "2024-01-01",
+      "gb": "medium-partial",
+      "bt_up": true,
+      "mq": "increasing the odds of particle movement in the direction of any other nearby particle. If particles have a compatible oscillatory frequency they will clump together, because their quantum gravity time crystal dilation effect allowed a clustering",
+      "tq": "The New Theory of Everything (TOE): Theoretical Harmonic Resonance Field Model (THRFM)The Theoretical Harmonic Resonance Field Model (THRFM) is the first unified framework that comprehensively integrates all known physical laws while being adaptable to future ",
+      "shared_mech": [],
+      "peer_cluster_size": 164,
+      "earlier_peers_count": 38,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-huang-superfluid-universe-dark-sector",
+          "name": "Huang Superfluid Universe Dark Sector",
+          "date": "2022-11-21"
+        },
+        {
+          "pid": "rival-donoghue-menezes-quadratic-gravity-merlin",
+          "name": "Donoghue Menezes Quadratic Gravity Merlin",
+          "date": "2021-12-03"
+        },
+        {
+          "pid": "problem-yang-mills-mass-gap",
+          "name": "Problem Yang Mills Mass Gap",
+          "date": "2014-07-01"
+        }
+      ]
+    },
+    {
+      "pid": "candidate-kuhn-9-8-schoolers-resonance-theory-and-subjective-time",
+      "pname": "Schooler's Resonance Theory and Subjective Time",
+      "wid": "G2-CANDIDATE-KUHN-9-D02-A09",
+      "title": "dynamics, scale — EMI-EDU: reframing learning and education through energy, mass and information.",
+      "marker": "for the first time",
+      "sdate": "2023-08-01",
+      "tdate": "2026-08-07",
+      "gb": "medium-partial",
+      "bt_up": true,
+      "mq": "diseases by highlighting the role of agentic behavior across all biological scales. 1.3 The Three-Level View: Micro, Meso, and Macro This paper organizes the Agentic Brain into three interlocking levels. At the micro-scale, the focus is on cellular mechanisms ",
+      "tq": "Starting from individual students, moving through classes, year levels, academic tracks, and reaching the entire institution and inter-institutional networks, it is possible to observe complex dynamics through a biophysical lens that, for the first time, unifi",
+      "shared_mech": [],
+      "peer_cluster_size": 177,
+      "earlier_peers_count": 126,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-bruna-resonance-complexity-theory",
+          "name": "Bruna Resonance Complexity Theory",
+          "date": "2025-05-26"
+        },
+        {
+          "pid": "candidate-kuhn-1-5-6-carhart-harriss-entropic-brain-hypothesis",
+          "name": "Carhart-Harris's Entropic Brain Hypothesis",
+          "date": "2025-12-12"
+        },
+        {
+          "pid": "candidate-kuhn-1-6-8-gibsons-ecological-psychology",
+          "name": "Gibson's Ecological Psychology",
+          "date": "2025-07-01"
+        }
+      ]
+    },
+    {
+      "pid": "rival-du-et-al-human-like-object-concepts",
+      "pname": "Du Et Al Human Like Object Concepts",
+      "wid": "G1-DU-ET-AL-HUMAN-L-D03-A11",
+      "title": "representations, signals — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "marker": "we introduce",
+      "sdate": "2023-08-01",
+      "tdate": "2026-05-28",
+      "gb": "medium-partial",
+      "bt_up": true,
+      "mq": "partly “computed” through repeated stimuli, coincidence detection, and rhyth- mic learning mechanisms. 3. NAPOT (Neural Array Projection Oscillation Tomography) A framework for how networks of neurons project oscillatory signals forward to create internal mode",
+      "tq": "(2)Semantically-Aligned Brain Tokenization: We introduce a novel Brain Tokenizer that transforms continuous fMRI signals into discrete tokens aligned with image and text representations in a shared semantic space.",
+      "shared_mech": [
+        "representations"
+      ],
+      "peer_cluster_size": 185,
+      "earlier_peers_count": 70,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-worden-projective-wave-consciousness",
+          "name": "Worden Projective Wave Consciousness",
+          "date": "2020-05-20"
+        },
+        {
+          "pid": "rival-miller-spatial-computing",
+          "name": "Miller Spatial Computing",
+          "date": "2016-01-01"
+        },
+        {
+          "pid": "rival-hinton-capsule-networks",
+          "name": "Hinton Capsule Networks",
+          "date": "2021-02-25"
+        }
+      ]
+    },
+    {
+      "pid": "rival-flores-zero-infinity-holographic-strings",
+      "pname": "Flores Zero Infinity Holographic Strings",
+      "wid": "G1-FLORES-ZERO-INFI-D02-A08",
+      "title": "entanglement, quantum — Zero-Infinity Sequence and Holographic Strings in 14 Dimensions: Quantum Entanglement, Decohere",
+      "marker": "we propose a novel",
+      "sdate": "2023-11-01",
+      "tdate": "2025-11-01",
+      "gb": "medium-partial",
+      "bt_up": true,
+      "mq": "Temporal Resolution Experiments. Investigate whether particles exhibit behaviors hinting at higher temporal “clock rates” than our detectors can resolve. • Phase Synchronization Studies. Explore whether entangled particles maintain de- terministic phase relati",
+      "tq": "3.3 Quantum Entanglement as SZI-Generated Pairs with De- coherence We propose a novel interpretation of quantum entanglement within the SZI framework: entangled pairs are generated at indices where ∆n = 1, with correlation decaying as ∆n → 0 for large n.",
+      "shared_mech": [],
+      "peer_cluster_size": 151,
+      "earlier_peers_count": 65,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-neukart-geometry-information-quantum-memory",
+          "name": "Neukart Geometry Information Quantum Memory",
+          "date": "2024-09-17"
+        },
+        {
+          "pid": "rival-bianconi-gravity-from-entropy",
+          "name": "Bianconi Gravity From Entropy",
+          "date": "2024-08-26"
+        },
+        {
+          "pid": "rival-gavant-dynamic-present-theory",
+          "name": "Gavant Dynamic Present Theory",
+          "date": "2024-10-14"
+        }
+      ]
+    },
+    {
+      "pid": "rival-slahounek-zip-coherence-field-gravity",
+      "pname": "Slahounek Zip Coherence Field Gravity",
+      "wid": "G1-SLAHOUNEK-ZIP-CO-D02-A08",
+      "title": "field, relativity — ZIP Gravitational Collapse as a Phase Transition of a Coherence Field",
+      "marker": "we introduce",
+      "sdate": "2023-11-01",
+      "tdate": "2026-01-10",
+      "gb": "medium-partial",
+      "bt_up": true,
+      "mq": "local effect: changes in the density of time frames shift how clocks run, rather than requiring a universal transformation of coordinates for all observers. No Absolute Simultaneity Requirement. Locality sidesteps the demand for absolute simultaneity across di",
+      "tq": "This approach pre- serves the predictions of general relativity while offering a continuous, information-preserving description of collapse. 2 Definition of the ZIP Field We introduce a scalar field ΦZIP(xµ),(1) defined over spacetime, representing the degree ",
+      "shared_mech": [],
+      "peer_cluster_size": 167,
+      "earlier_peers_count": 136,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-feldt-higgs-universal-bridge-author-unresolved",
+          "name": "Feldt Higgs Universal Bridge Author Unresolved",
+          "date": "2025-03-01"
+        },
+        {
+          "pid": "rival-shreiner-law-efficiency-cosmic-expansion",
+          "name": "Shreiner Law Efficiency Cosmic Expansion",
+          "date": "2025-05-07"
+        },
+        {
+          "pid": "rival-neukart-geometry-information-quantum-memory",
+          "name": "Neukart Geometry Information Quantum Memory",
+          "date": "2024-09-17"
+        }
+      ]
+    },
+    {
+      "pid": "rival-laukkonen-chandaria-beautiful-loop",
+      "pname": "Laukkonen Chandaria Beautiful Loop",
+      "wid": "BL26-BL-CAND-F1A26668B2EACCD983",
+      "title": "BL-T01-PREPRINT-V1",
+      "marker": "here we propose",
+      "sdate": "2013-11-27",
+      "tdate": "2024-09-08",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "After neurons detect information as millisecond fast coincidence patterns their activity resets the firing criteria of other neurons. Information, non-physical information, that has no energy or mass, is detected by neurons as coincidences, patterns, this info",
+      "tq": "Here we propose that the threshold for consciousness—what enters this epistemic field or reality model—is determined through a process of competition between possible explanations of the causes of one’s sensory data. The pressure for coherence is exacerbated b",
+      "shared_mech": [],
+      "peer_cluster_size": 181,
+      "earlier_peers_count": 57,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-chalmers-singularity-uploading-machine-consciousness",
+          "name": "Chalmers Singularity Uploading Machine Consciousness",
+          "date": "1990-01-01"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        },
+        {
+          "pid": "rival-tononi-integrated-information-theory",
+          "name": "Tononi Integrated Information Theory",
+          "date": "2004-11-02"
+        }
+      ]
+    },
+    {
+      "pid": "rival-laukkonen-chandaria-beautiful-loop",
+      "pname": "Laukkonen Chandaria Beautiful Loop",
+      "wid": "BL26-BL-CAND-03F53ADB9D9C287882",
+      "title": "BL-T01-PREPRINT-V1",
+      "marker": "here we propose",
+      "sdate": "2014-09-07",
+      "tdate": "2024-09-08",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "criterial satisfaction causation, when cells are satisfied by information criteria, muscles move I think criteria causation, the process that allows neurons to become pattern detectors, is how information becomes reasoning which drives choices and decisions.",
+      "tq": "Here we propose that the threshold for consciousness—what enters this epistemic field or reality model—is determined through a process of competition between possible explanations of the causes of one’s sensory data. The pressure for coherence is exacerbated b",
+      "shared_mech": [],
+      "peer_cluster_size": 181,
+      "earlier_peers_count": 57,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-chalmers-singularity-uploading-machine-consciousness",
+          "name": "Chalmers Singularity Uploading Machine Consciousness",
+          "date": "1990-01-01"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        },
+        {
+          "pid": "rival-tononi-integrated-information-theory",
+          "name": "Tononi Integrated Information Theory",
+          "date": "2004-11-02"
+        }
+      ]
+    },
+    {
+      "pid": "rival-laukkonen-chandaria-beautiful-loop",
+      "pname": "Laukkonen Chandaria Beautiful Loop",
+      "wid": "BL26-BL-CAND-6917BA801254C86904",
+      "title": "BL-T01-PREPRINT-V1",
+      "marker": "here we propose",
+      "sdate": "2014-11-01",
+      "tdate": "2024-09-08",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "Personal activity is essential, even though our choices are not driven by ourselves they are important, our choices are driven by criteria, information criteria patterns, as coincidental firing patterns in brain cell circuits recognizing specific information p",
+      "tq": "Here we propose that the threshold for consciousness—what enters this epistemic field or reality model—is determined through a process of competition between possible explanations of the causes of one’s sensory data. The pressure for coherence is exacerbated b",
+      "shared_mech": [],
+      "peer_cluster_size": 181,
+      "earlier_peers_count": 57,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-chalmers-singularity-uploading-machine-consciousness",
+          "name": "Chalmers Singularity Uploading Machine Consciousness",
+          "date": "1990-01-01"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        },
+        {
+          "pid": "rival-tononi-integrated-information-theory",
+          "name": "Tononi Integrated Information Theory",
+          "date": "2004-11-02"
+        }
+      ]
+    },
+    {
+      "pid": "rival-du-et-al-human-like-object-concepts",
+      "pname": "Du Et Al Human Like Object Concepts",
+      "wid": "G1-DU-ET-AL-HUMAN-L-D03-A01",
+      "title": "magnetic, resonance, signals — Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffu",
+      "marker": "we introduce",
+      "sdate": "2017-04-11",
+      "tdate": "2026-05-28",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "with computer vision combined with the, uh, the microphone, the, the sensor that's in, in,",
+      "tq": "Brain Tokenizer To discretize continuous functional magnetic resonance imaging (fMRI) signals into meaningful tokens for the diffu- sion model, we introduce a specialized Brain Tokenizer.",
+      "shared_mech": [],
+      "peer_cluster_size": 185,
+      "earlier_peers_count": 70,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-worden-projective-wave-consciousness",
+          "name": "Worden Projective Wave Consciousness",
+          "date": "2020-05-20"
+        },
+        {
+          "pid": "rival-miller-spatial-computing",
+          "name": "Miller Spatial Computing",
+          "date": "2016-01-01"
+        },
+        {
+          "pid": "rival-hinton-capsule-networks",
+          "name": "Hinton Capsule Networks",
+          "date": "2021-02-25"
+        }
+      ]
+    },
+    {
+      "pid": "rival-laukkonen-chandaria-beautiful-loop",
+      "pname": "Laukkonen Chandaria Beautiful Loop",
+      "wid": "BL26-BL-CAND-64BF640ED3E80996DF",
+      "title": "BL-T01-PREPRINT-V1",
+      "marker": "here we propose",
+      "sdate": "2017-04-11",
+      "tdate": "2024-09-08",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "But what you would do then is figure out the difference between the pattern that's there and the pattern that should be there if steak was there. And then you send the difference between those two patterns so that the pattern that received just allows you to h",
+      "tq": "Here we propose that the threshold for consciousness—what enters this epistemic field or reality model—is determined through a process of competition between possible explanations of the causes of one’s sensory data. The pressure for coherence is exacerbated b",
+      "shared_mech": [],
+      "peer_cluster_size": 181,
+      "earlier_peers_count": 57,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-chalmers-singularity-uploading-machine-consciousness",
+          "name": "Chalmers Singularity Uploading Machine Consciousness",
+          "date": "1990-01-01"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        },
+        {
+          "pid": "rival-tononi-integrated-information-theory",
+          "name": "Tononi Integrated Information Theory",
+          "date": "2004-11-02"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0923",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-06-08",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "a0348z May 13, 2011 (graph) imagine a stereographic camera, a 3-d camera, and imagine your brain has 1080p or really high resolution image sensors right, and now imagine that each sensor captures a different part, each pixel sends a different part of the image",
+      "tq": "Abstract Brains reorganise knowledge offline to improve future behaviour, with ‘replay’ involved in consolidating memories, abstracting patterns from experience, and simulating new scenarios. However, there are few models of how the brain might orchestrate the",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0924",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-06-08",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "a0348z May 13, 2011 (graph) imagine a stereographic camera, a 3-d camera, and imagine your brain has 1080p or really high resolution image sensors right, and now imagine that each sensor captures a different part, each pixel sends a different part of the image",
+      "tq": "Here we propose a framework in which a meta-controller learns to coordinate offline learning of a lower-level agent or model in ‘sleep’ phases to maximise reward in a ‘wake’ phase. The meta-controller selects among several actions, such as learning from recent",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0925",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-06-08",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "a0348z May 13, 2011 (graph) imagine a stereographic camera, a 3-d camera, and imagine your brain has 1080p or really high resolution image sensors right, and now imagine that each sensor captures a different part, each pixel sends a different part of the image",
+      "tq": "Here we propose a framework in which a meta-controller learns to coordinate offline learning of a lower-level agent or model in ‘sleep’ phases to maximise reward in a ‘wake’ phase. The meta-controller selects among several actions, such as learning from recent",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0926",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-06-08",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "a0348z May 13, 2011 (graph) imagine a stereographic camera, a 3-d camera, and imagine your brain has 1080p or really high resolution image sensors right, and now imagine that each sensor captures a different part, each pixel sends a different part of the image",
+      "tq": "Brains reorganise knowledge offline to improve future behaviour, with ‘replay’ involved in consolidating memories, abstracting patterns from experience, and simulating new scenarios. However, there are few models of how the brain might orchestrate these proces",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-laukkonen-chandaria-beautiful-loop",
+      "pname": "Laukkonen Chandaria Beautiful Loop",
+      "wid": "BL26-BL-CAND-EE0AEF000B4F0F196E",
+      "title": "BL-T01-PREPRINT-V1",
+      "marker": "here we propose",
+      "sdate": "2022-06-08",
+      "tdate": "2024-09-08",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "the problem is that synchronization or coherence is non-informative, its a solution for binding, for convergence, coupling of patterns, but not for distinction making, decoherence, deconvergence, decoupling of of ideas & concepts but perhaps within the stacks ",
+      "tq": "Here we propose that the threshold for consciousness—what enters this epistemic field or reality model—is determined through a process of competition between possible explanations of the causes of one’s sensory data. Moreover, we suggest that the so-called bin",
+      "shared_mech": [
+        "binding",
+        "coherence"
+      ],
+      "peer_cluster_size": 181,
+      "earlier_peers_count": 57,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-chalmers-singularity-uploading-machine-consciousness",
+          "name": "Chalmers Singularity Uploading Machine Consciousness",
+          "date": "1990-01-01"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        },
+        {
+          "pid": "rival-tononi-integrated-information-theory",
+          "name": "Tononi Integrated Information Theory",
+          "date": "2004-11-02"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0954",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-07-09",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "These Phase Tensors are variations contain the information content of the rendered mind, as it is projected from one neural array to be observed by the next (Neural Array-Projection Tomography, or Neural Oscillatory Tomography). The variations in signal freque",
+      "tq": "Here we propose a framework in which a meta-controller learns to coordinate offline learning of a lower-level agent or model in ‘sleep’ phases to maximise reward in a ‘wake’ phase. The meta-controller selects among several actions, such as learning from recent",
+      "shared_mech": [
+        "phase"
+      ],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0955",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-07-09",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "These Phase Tensors are variations contain the information content of the rendered mind, as it is projected from one neural array to be observed by the next (Neural Array-Projection Tomography, or Neural Oscillatory Tomography). The variations in signal freque",
+      "tq": "Here we propose a framework in which a meta-controller learns to coordinate offline learning of a lower-level agent or model in ‘sleep’ phases to maximise reward in a ‘wake’ phase. The meta-controller selects among several actions, such as learning from recent",
+      "shared_mech": [
+        "phase"
+      ],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0956",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-07-09",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "These Phase Tensors are variations contain the information content of the rendered mind, as it is projected from one neural array to be observed by the next (Neural Array-Projection Tomography, or Neural Oscillatory Tomography). The variations in signal freque",
+      "tq": "Brains reorganise knowledge offline to improve future behaviour, with ‘replay’ involved in consolidating memories, abstracting patterns from experience, and simulating new scenarios. However, there are few models of how the brain might orchestrate these proces",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0958",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-07-09",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "# 3D Phase Topology over time in the brain imagined as Tensors in a high dimensional Taylor series. 3D phase topology over time in the brain imagined as tensors in a high dimensional Taylor series, oscillatory physics transformations with bistable reaction-dif",
+      "tq": "Here we propose a framework in which a meta-controller learns to coordinate offline learning of a lower-level agent or model in ‘sleep’ phases to maximise reward in a ‘wake’ phase. The meta-controller selects among several actions, such as learning from recent",
+      "shared_mech": [
+        "phase"
+      ],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0943",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-10-23",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "five times that amount so instead of 2000 you're getting 10 000 the lateral spread is going to increase to the point where receptors very far lateral which it would have never diffused that far before but because now there's 10 000 of them instead of 2000 now ",
+      "tq": "Abstract Brains reorganise knowledge offline to improve future behaviour, with ‘replay’ involved in consolidating memories, abstracting patterns from experience, and simulating new scenarios. However, there are few models of how the brain might orchestrate the",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0944",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-10-23",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "five times that amount so instead of 2000 you're getting 10 000 the lateral spread is going to increase to the point where receptors very far lateral which it would have never diffused that far before but because now there's 10 000 of them instead of 2000 now ",
+      "tq": "Here we propose a framework in which a meta-controller learns to coordinate offline learning of a lower-level agent or model in ‘sleep’ phases to maximise reward in a ‘wake’ phase. The meta-controller selects among several actions, such as learning from recent",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0945",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-10-23",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "five times that amount so instead of 2000 you're getting 10 000 the lateral spread is going to increase to the point where receptors very far lateral which it would have never diffused that far before but because now there's 10 000 of them instead of 2000 now ",
+      "tq": "Here we propose a framework in which a meta-controller learns to coordinate offline learning of a lower-level agent or model in ‘sleep’ phases to maximise reward in a ‘wake’ phase. The meta-controller selects among several actions, such as learning from recent",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0946",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-10-23",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "five times that amount so instead of 2000 you're getting 10 000 the lateral spread is going to increase to the point where receptors very far lateral which it would have never diffused that far before but because now there's 10 000 of them instead of 2000 now ",
+      "tq": "Here we propose a framework in which a meta-controller learns to coordinate offline learning of a lower-level agent or model in ‘sleep’ phases to maximise reward in a ‘wake’ phase. The meta-controller selects among several actions, such as learning from recent",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0947",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-10-23",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "five times that amount so instead of 2000 you're getting 10 000 the lateral spread is going to increase to the point where receptors very far lateral which it would have never diffused that far before but because now there's 10 000 of them instead of 2000 now ",
+      "tq": "Brains reorganise knowledge offline to improve future behaviour, with ‘replay’ involved in consolidating memories, abstracting patterns from experience, and simulating new scenarios. However, there are few models of how the brain might orchestrate these proces",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0968",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-11-28",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "# Choice as a memory system. I feel that this paper echoes my own earlier arguments about choice in the context of studies that show that the neural correlates of a decision can appear before someone knows what choice they are going to make. My conjecture was ",
+      "tq": "Here we propose a framework in which a meta-controller learns to coordinate offline learning of a lower-level agent or model in ‘sleep’ phases to maximise reward in a ‘wake’ phase. The meta-controller selects among several actions, such as learning from recent",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-burgess-spatial-memory-generative-replay",
+      "pname": "Neil Burgess Spatial Memory, Generative Replay and Offline Adaptation program",
+      "wid": "BG26-BOAG-CF-0972",
+      "title": "OFFLINE-NEURIPS-2025",
+      "marker": "here we propose",
+      "sdate": "2022-11-28",
+      "tdate": "2025-12-01",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "# Choice as a memory system. I feel that this paper echoes my own earlier arguments about choice in the context of studies that show that the neural correlates of a decision can appear before someone knows what choice they are going to make. My conjecture was ",
+      "tq": "Brains reorganise knowledge offline to improve future behaviour, with ‘replay’ involved in consolidating memories, abstracting patterns from experience, and simulating new scenarios. However, there are few models of how the brain might orchestrate these proces",
+      "shared_mech": [],
+      "peer_cluster_size": 110,
+      "earlier_peers_count": 22,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-aljadeff-network-dynamics-predictive-processing",
+          "name": "Aljadeff Network Dynamics Predictive Processing",
+          "date": "2012-06-27"
+        },
+        {
+          "pid": "rival-buzsaki-neural-oscillation",
+          "name": "Buzsaki Neural Oscillation",
+          "date": "2013-01-28"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        }
+      ]
+    },
+    {
+      "pid": "rival-laukkonen-chandaria-beautiful-loop",
+      "pname": "Laukkonen Chandaria Beautiful Loop",
+      "wid": "BL26-BL-CAND-ADF2AC737D56729DB1",
+      "title": "BL-T01-PREPRINT-V1",
+      "marker": "here we propose",
+      "sdate": "2022-11-28",
+      "tdate": "2024-09-08",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "When the neuron detects novel information that novel information is represented with a phase rate change, and a change in the magnitude of neurotransmitter release. It becomes part of a group oscillation, usually whole cortical columns will oscillate together ",
+      "tq": "Here we propose that the threshold for consciousness—what enters this epistemic field or reality model—is determined through a process of competition between possible explanations of the causes of one’s sensory data. This coherence criterion also falls out nat",
+      "shared_mech": [],
+      "peer_cluster_size": 181,
+      "earlier_peers_count": 57,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-chalmers-singularity-uploading-machine-consciousness",
+          "name": "Chalmers Singularity Uploading Machine Consciousness",
+          "date": "1990-01-01"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        },
+        {
+          "pid": "rival-tononi-integrated-information-theory",
+          "name": "Tononi Integrated Information Theory",
+          "date": "2004-11-02"
+        }
+      ]
+    },
+    {
+      "pid": "rival-laukkonen-chandaria-beautiful-loop",
+      "pname": "Laukkonen Chandaria Beautiful Loop",
+      "wid": "BL26-BL-CAND-227C4785D0EE53F72F",
+      "title": "BL-T01-PREPRINT-V1",
+      "marker": "here we propose",
+      "sdate": "2022-11-28",
+      "tdate": "2024-09-08",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "So the burst rates represent the rendered information of the mind, and the tonic firing rates represent the canvas to which the rendered information is rendered to. Yet that downshift in speed is still going to be noticed by the canvas of your mind like the si",
+      "tq": "Here we propose that the threshold for consciousness—what enters this epistemic field or reality model—is determined through a process of competition between possible explanations of the causes of one’s sensory data. This coherence criterion also falls out nat",
+      "shared_mech": [],
+      "peer_cluster_size": 181,
+      "earlier_peers_count": 57,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-chalmers-singularity-uploading-machine-consciousness",
+          "name": "Chalmers Singularity Uploading Machine Consciousness",
+          "date": "1990-01-01"
+        },
+        {
+          "pid": "rival-seth-controlled-hallucination-predictive-presence",
+          "name": "Seth Controlled Hallucination Predictive Presence",
+          "date": "2004-05-13"
+        },
+        {
+          "pid": "rival-tononi-integrated-information-theory",
+          "name": "Tononi Integrated Information Theory",
+          "date": "2004-11-02"
+        }
+      ]
+    },
+    {
+      "pid": "rival-baldwin-polanski-unified-wave-theory",
+      "pname": "Baldwin Polanski Unified Wave Theory",
+      "wid": "G1-BALDWIN-POLANSKI-D01-A01",
+      "title": "dark, matter, structure — A Unified Theort of Physics - A theory of Everything",
+      "marker": "novel framework",
+      "sdate": "2023-11-01",
+      "tdate": "2025-07-28",
+      "gb": "strong",
+      "bt_up": false,
+      "mq": "creating spatial domains that expand more slowly. This duality could reconcile the differing measurements of the Hubble parameter often attributed to the Hubble tension, suggesting that local and global determinations of the expansion rate may systematically v",
+      "tq": "Testable predictions at 3--5sigma are proposed for LHCb, NIST, Simons Observatory, and LISA Unified Wave Theory: Cosmic Structures and Voids without Dark Matter The Engineer August 2025 Abstract Unified Wave Theory (UWT) proposes a novel framework for cosmic s",
+      "shared_mech": [
+        "dark"
+      ],
+      "peer_cluster_size": 200,
+      "earlier_peers_count": 87,
+      "sample_earlier_peers": [
+        {
+          "pid": "rival-bianconi-gravity-from-entropy",
+          "name": "Bianconi Gravity From Entropy",
+          "date": "2024-08-26"
+        },
+        {
+          "pid": "rival-gavant-dynamic-present-theory",
+          "name": "Gavant Dynamic Present Theory",
+          "date": "2024-10-14"
+        },
+        {
+          "pid": "framework-energy-momentum-squared-gravity",
+          "name": "Framework Energy Momentum Squared Gravity",
+          "date": "2013-02-18"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+<!doctype html><html lang="en" data-cmp="sheet"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Three-View Visual Evidence Map Viewer — Comparison Encyclopedia</title><script>(function(){var r=document.documentElement;try{var s=localStorage.getItem('san-home-theme');r.setAttribute('data-cmp-theme',s==='rgb'||s==='paper'?s:(matchMedia('(prefers-color-scheme: light)').matches?'paper':'rgb'));}catch(e){r.setAttribute('data-cmp-theme','rgb');}})();</script><link rel="stylesheet" href="../institute/frame.css"><link rel="stylesheet" href="../institute/encyclopedia.css"><script src="../institute/frame.js" defer></script></head><body><div id="cmp-bar" class="ci-bar"><div class="ci-bar-in"><a class="ci-brand" href="../index.html" aria-label="Self Aware Networks &amp; Super Information Theory Comparison Encyclopedia"><svg viewBox="0 0 40 40" aria-hidden="true"><g stroke="#ffc857" stroke-width="2" fill="none" opacity=".9"><path d="M8 26 20 8 32 24 20 33Z"/><path d="M20 8v25M8 26l24-2"/></g><circle cx="20" cy="8" r="4.2" fill="#4d8dff"/><circle cx="32" cy="24" r="4.2" fill="#ff4d5e"/><circle cx="8" cy="26" r="4.2" fill="#2fe08a"/><circle cx="20" cy="33" r="4.2" fill="#ffc857"/><circle cx="20" cy="20" r="3" fill="#fff"/></svg><span><b>Self Aware Networks</b><small>SIT &amp; SAN Comparison Encyclopedia</small></span></a><div class="ci-tools"><button class="ci-btn" id="cmp-motion" type="button" aria-label="Pause the background motion"><svg class="ci-i ci-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5v14M15 5v14"/></svg><svg class="ci-i ci-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5l11 7-11 7z"/></svg><span class="ci-label" id="cmp-motion-label">Pause</span></button><button class="ci-btn" id="cmp-theme" type="button" aria-label="Switch the colour theme"><span class="ci-dots" aria-hidden="true"><i></i><i></i><i></i></span><span class="ci-label" id="cmp-theme-label">Theme</span></button></div></div><nav class="ci-nav" aria-label="Research Institute navigation"><a href="https://selfawarenetworks.com/" rel="noopener">SAN Institute</a><a href="https://selfawarenetworks.com/wiki/" rel="noopener">SAN Encyclopedia</a><a class="ci-here" href="../index.html" aria-current="page">Comparison Encyclopedia</a><a href="../../index.html">Comparison Library</a><a href="https://selfawarenetworks.com/comparison-wiki/priority-index/" rel="noopener">Dated Record (2010-2026)</a><a href="https://superinformationtheory.com/" rel="noopener">SIT Home</a><a href="https://www.svgn.io/" rel="noopener">SVGN</a><a href="https://pub.svgn.io/" rel="noopener">Research</a></nav></div><canvas id="cmp-scene" aria-hidden="true"></canvas><main><nav class="enc-subnav" aria-label="Encyclopedia views"><a href="../index.html">Overview</a><a href="../programs/index.html">Programs (367/558)</a><a href="../visual-maps/index.html" class="enc-active" aria-current="page">Visual Maps (367)</a><a href="../network/index.html">Everyone-vs-Everyone</a><a href="../concepts/index.html">Concept TOC &amp; Audio</a><a href="../priority-index/index.html">Dated Record (2026&ndash;2010)</a><a href="../authors/index.html">Researchers (2,708)</a><a href="../explore/index.html">Bridge Explorer</a><a href="../history/index.html">History</a><a href="../methodology/index.html">Methodology</a><a href="../claims/index.html">8 Families</a><a href="../map/index.html">Atlas</a><a href="../lens4/index.html">Lens 4 (384)</a></nav>
+<p class="enc-small"><a href="index.html">&larr; All Three-View Visual Evidence Maps</a> &middot; <a id="vm-dos-link" href="../programs/index.html">Open Full Chronological Dossier &rarr;</a></p>
+<h1 id="vm-title">Loading Visual Evidence Map...</h1>
+<div id="vm-head" class="enc-banner">Loading synchronized three-view mapping data...</div>
+
+<section class="enc-card">
+  <h2>View 1 &mdash; Stacked Document Overview Strips &amp; Numbered Connectors</h2>
+  <p class="enc-small">Top strip: dated Self Aware Networks &amp; Super Information Theory witness stream (2010&ndash;2026). Bottom strip: compared publication page/section strip. Solid connectors indicate verified both-verbatim prose; dashed connectors indicate source-gated passages; gold highlights Blue Team structural elevations. Click any numbered node or arc below to inspect its readable 16:9 Passage-Pair Card.</p>
+  <div id="vm-svg-wrap" style="overflow-x:auto;padding:8px 0"></div>
+</section>
+
+<section class="enc-card" id="vm-card-sec" style="margin-top:14px">
+  <h2>View 2 &mdash; Readable 16:9 Passage-Pair Card</h2>
+  <div id="vm-card">Select any numbered connector above to inspect the full side-by-side passage card.</div>
+</section>
+
+<section class="enc-card" style="margin-top:14px">
+  <h2>View 3 &mdash; Expandable SAN / SIT Longitudinal Ladder (Earliest Ancestor &rarr; Mature Formulation)</h2>
+  <div id="vm-ladder"></div>
+</section>
+
+<script>>
+(function(){
+  const esc = s = String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  const params = new URLSearchParams(location.search);
+  const pid = params.get('id') || 'rival-miller-spatial-computing';
+  document.getElementById('vm-dos-link').href = '../programs/dossier.html?id=' + encodeURIComponent(pid);
+  const clean = pid.replace(/^rival-|^candidate-|^framework-|^field-|^problem-|^conjecture-/,'');
+  let ch = 'z';
+  for (let i=0;i<clean.length;i++){ const c=clean[i].toLowerCase(); if(c>='a'&&c<='z'){ ch=c; break; } }
+
+  let curMap = null, selectedNum = 1;
+  function colorFor(c){
+    if (c.bt_up) return '#ffc857';
+    if (c.gb === 'strong') return '#2fe08a';
+    if (c.gb === 'medium-partial') return '#4d8dff';
+    return '#9fb4d9';
+  }
+  function drawSvg(){
+    const conns = curMap.connectors || [];
+    const W = 980, H = 260, yTop = 58, yBot = 202;
+    let svg = `<svg viewBox="0 0 ${W} ${H}" style="width:100%;min-width:680px;height:auto;display:block" role="img" aria-label="Stacked dual-strip visual evidence map">`;
+    // Top strip bar
+    svg += `<rect x="20" y="22" width="${W-40}" height="36" rx="8" fill="rgba(47,224,138,0.12)" stroke="#2fe08a" stroke-width="1.5"/>`;
+    svg += `<text x="32" y="45" fill="currentColor" font-size="13" font-weight="700">MICAH BLUMBERG SAN / SIT DATED RECORD (${esc(curMap.earliest_san)} &rarr; 2026)</text>`;
+    // Bottom strip bar
+    svg += `<rect x="20" y="${yBot}" width="${W-40}" height="36" rx="8" fill="rgba(77,141,255,0.12)" stroke="#4d8dff" stroke-width="1.5"/>`;
+    svg += `<text x="32" y="${yBot+23}" fill="currentColor" font-size="13" font-weight="700">>COMPARED PUBLICATION STRIP (${esc(curMap.pname.slice(0,55))}${curMap.max_pdf_page0?' — PDF pp. 1-'+curMap.max_pdf_page:''})</text>>`;
+
+    conns.forEach(c = {
+      const x1 = 36 + c.x_top * (W - 72);
+      const x2 = 36 + c.x_bot * (W - 72);
+      const col = colorFor(c);
+      const active = c.num === selectedNum;
+      const dash = c.line_style === 'dashed' ? 'stroke-dasharray="5,4"' : '';
+      const sw = active ? 3.2 : 1.5;
+      const op = active ? 1.0 : 0.55;
+      svg += `<path d="M ${x1.toFixed(1)} ${yTop} C ${x1.toFixed(1)} 126, ${x2.toFixed(1)} 134, ${x2.toFixed(1)} ${yBot}" fill="none" stroke="${col}" stroke-width="${sw}" opacity="${op}" ${dash} style="cursor:pointer" data-num="${c.num}"/>`;
+      svg += `<circle cx="${x1.toFixed(1)}" cy="${yTop}" r="${active?10:7}" fill="${col}" stroke="#0b1020" stroke-width="1.5" style="cursor:pointer" data-num="${c.num}"/>`;
+      svg += `<text x="${x1.toFixed(1)}" y="${yTop+3.5}" text-anchor="middle" fill="#08101c" font-size="${active?10:8.5}" font-weight="700" style="pointer-events:none">${c.num}</text>`;
+      svg += `<circle cx="${x2.toFixed(1)}" cy="${yBot}" r="${active?10:7}" fill="${col}" stroke="#0b1020" stroke-width="1.5" style="cursor:pointer" data-num="${c.num}"/>`;
+      svg += `<text x="${x2.toFixed(1)}" y="${yBot+3.5}" text-anchor="middle" fill="#08101c" font-size="${active?10:8.5}" font-weight="700" style="pointer-events:none">${c.num}</text>`;
+    });
+    svg += '</svg>>>>';
+    const wrap = document.getElementById('vm-svg-wrap');
+    wrap.innerHTML = svg;
+    wrap.querySelectorAll('[data-num]').forEach(el = {
+      el.onclick = () = { selectedNum = Number(el.getAttribute('data-num')); drawSvg(); drawCard(); };
+    });
+  }
+
+  function drawCard(){
+    const c = (curMap.connectors || []).find(x = x.num === selectedNum) || (curMap.connectors || [])[0];
+    if (!c) return;
+    document.getElementById('vm-card').innerHTML = `
+      <div style="border:1px solid rgba(128,160,255,0.3);border-radius:14px;padding:16px;background:rgba(128,160,255,0.04)">
+        <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px">
+          <span class="enc-pill good">Connector #${c.num}</span>
+          <span class="enc-pill">${esc(c.gb)}</span>
+          ${c.bt_up ? `<span class="enc-pill good">Blue Team Elevated (${esc(c.bt_bridge)})</span>` : ''}
+          <span class="enc-pill">${c.line_style==='solid'?'Solid: Verified Both-Verbatim':'Dashed: Source-Gated'}</span>
+          <span class="enc-small">SAN ${esc(c.sdate)} &rarr; Target ${esc(c.tdate)}${c.page_num?` (PDF p.${c.page_num})`:''}</span>
+        </div>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px">
+          <div style="padding:12px;border-left:4px solid #2fe08a;background:rgba(47,224,138,0.07);border-radius:6px">
+            <div class="enc-small"><strong>Micah Blumberg (${esc(c.sdate)})</strong> &middot; ${esc(c.sloc)}</div>
+            <p style="margin:8px 0 0;line-height:1.55">${esc(c.mq)}</p>
+          </div>
+          <div style="padding:12px;border-left:4px solid #4d8dff;background:rgba(77,141,255,0.07);border-radius:6px">
+            <div class="enc-small"><strong>${esc(c.title)} (${esc(c.tdate)})</strong> &middot; ${esc(c.tloc)}</div>
+            <p style="margin:8px 0 0;line-height:1.55">${esc(c.tq)}</p>
+          </div>
+        </div>
+        <div style="margin-top:12px;padding-top:10px;border-top:1px solid rgba(128,160,255,0.2)">
+          <p class="enc-small"><strong>Shared Operation (Input &rarr; Transform &rarr; Output):</strong> ${esc(c.ito_summary)}</p>
+          <p class="enc-small"><strong>Distinct Target Residual:</strong> ${esc(c.residual)}</p>
+          <p class="enc-small" style="margin-top:8px"><a class="enc-pill good" href="../programs/dossier.html?id=${encodeURIComponent(curMap.pid)}#row=${encodeURIComponent(c.wid)}">Jump to Exact Row in Full Dossier &rarr;</a></p>
+        </div>
+      </div>>`;
+  }
+
+  function drawLadder(){
+    const lad = curMap.ladder || [];
+    const labelMap = {
+      'earliest-source-bound-ancestor': 'Earliest Source-Bound Ancestor',
+      'intervening-restatement': 'Intervening Dated Restatement',
+      'mature-pre-target-formulation': 'Mature Pre-Target Formulation',
+      'later-clarification-post-target': 'Later Clarification (Post-Target, Visibly Marked Later)',
+    };
+    document.getElementById('vm-ladder').innerHTML = lad.map(step = `
+      <details ${step.stage==='earliest-source-bound-ancestor' || step.stage==='mature-pre-target-formulation' ? 'open' : ''} style="margin-bottom:8px;padding:10px;border-left:3px solid ${step.stage.includes('later')?'#ffc857':'#2fe08a'};background:rgba(128,160,255,0.05);border-radius:6px">
+        <summary style="cursor:pointer"><strong>${esc(step.date)} (${esc(step.year)})</strong> &mdash; <span class="enc-pill">${esc(labelMap[step.stage]||step.stage)}</span> &middot; ${step.row_count_in_year} comparison row(s) in ${esc(step.year)}</summary>
+        <p style="margin:8px 0 4px">${esc(step.mq)}</p>
+        <div class="enc-small">${esc(step.sloc)} &middot; <a href="../programs/dossier.html?id=${encodeURIComponent(curMap.pid)}#row=${encodeURIComponent(step.wid)}">Open Row &rarr;</a></div>
+      </details>>>`).join('');
+  }
+
+  fetch('shards/' + ch + '.json').then(r=r.json()).then(m = {
+    curMap = m[pid];
+    if (!curMap) { document.getElementById('vm-title').textContent = 'Visual Evidence Map Not Found: ' + pid; return; }
+    document.getElementById('vm-title').textContent = 'Visual Evidence Map: ' + curMap.pname;
+    document.getElementById('vm-head').textContent = curMap.headline;
+    drawSvg(); drawCard(); drawLadder();
+  });
+})();
+</script>
+</main></body></html>

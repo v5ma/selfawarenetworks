@@ -1,0 +1,2195 @@
+{
+  "schema": "v7-p3a-aichat-prepub-provenance-audit-v1",
+  "generated_at": "2026-11-23T06:02:12Z",
+  "method_lock": "1.5.7",
+  "typing_boundary": "Strictly typed AI-CHAT-PREPUB-PROVENANCE-ANCHOR timestamps; NEVER added to or conflated with public governed priority win counts.",
+  "counts": {
+    "indexed_chat_source_variants": 1876,
+    "direct_chat_target_pairs_audited": 5118,
+    "ambiguous_surname_pairs_held_separate": 1943,
+    "cross_program_chat_pairs_recorded": 77,
+    "status_breakdown": {
+      "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK": 2963,
+      "CONTEMPORANEOUS-OR-POST-TARGET": 1132,
+      "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS": 411,
+      "TARGET-NOT-YET-ACTIVE-IN-LEDGER": 612
+    },
+    "deduplicated_verified_prepub_anchors": 931,
+    "programs_enriched_with_prepub_anchors": 40,
+    "direct_pairs_by_chat_year": {
+      "2022": 5,
+      "2023": 19,
+      "2024": 92,
+      "2025": 4549,
+      "2026": 453
+    }
+  },
+  "top_enriched_programs": [
+    {
+      "program_id": "rival-friston-free-energy-active-inference",
+      "program_name": "Friston Free Energy Active Inference",
+      "verified_prepub_anchors": 234,
+      "earliest_chat_date": "2024-09-09",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-755d112e421c8d14b24e",
+          "program_id": "rival-friston-free-energy-active-inference",
+          "program_name": "Friston Free Energy Active Inference",
+          "chat_date": "2024-09-09",
+          "target_earliest_date": "2019-10-03",
+          "target_latest_date": "2026-06-22",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Consciousness Feedback Mechanisms",
+          "micah_work_id": "NAPOT",
+          "sha16": "A38B3C14F7E59008",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-1c27f65f0517c84200c0",
+          "program_id": "rival-friston-free-energy-active-inference",
+          "program_name": "Friston Free Energy Active Inference",
+          "chat_date": "2026-02-11",
+          "target_earliest_date": "2019-10-03",
+          "target_latest_date": "2026-06-22",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "PBR Theorem vs SuperTimePosition",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "89FA20D3912DB682",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-e63f492c0293b106c30e",
+          "program_id": "rival-friston-free-energy-active-inference",
+          "program_name": "Friston Free Energy Active Inference",
+          "chat_date": "2025-09-20",
+          "target_earliest_date": "2019-10-03",
+          "target_latest_date": "2026-06-22",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Concept comparison and mapping",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "F212B5CFDA1607C5",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-1378406587a931231895",
+          "program_id": "rival-friston-free-energy-active-inference",
+          "program_name": "Friston Free Energy Active Inference",
+          "chat_date": "2025-02-20",
+          "target_earliest_date": "2019-10-03",
+          "target_latest_date": "2026-06-22",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Super Information Theory 3",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "D303851BC32A59D6",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-39671ae0d92f3ecb8c3c",
+          "program_id": "rival-friston-free-energy-active-inference",
+          "program_name": "Friston Free Energy Active Inference",
+          "chat_date": "2025-04-19",
+          "target_earliest_date": "2019-10-03",
+          "target_latest_date": "2026-06-22",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "AI Plagiarism Analysis",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "2700FB8317B534B0",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-penrose-objective-reduction-noncomputability",
+      "program_name": "Penrose Objective Reduction Noncomputability",
+      "verified_prepub_anchors": 86,
+      "earliest_chat_date": "2023-12-17",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-a8a35a912747f524ef30",
+          "program_id": "rival-penrose-objective-reduction-noncomputability",
+          "program_name": "Penrose Objective Reduction Noncomputability",
+          "chat_date": "2025-09-04",
+          "target_earliest_date": "2025-09-05",
+          "target_latest_date": "2025-09-05",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Sort theories into table",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "98803115A7A4EB66",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-f020584d1578b784a3be",
+          "program_id": "rival-penrose-objective-reduction-noncomputability",
+          "program_name": "Penrose Objective Reduction Noncomputability",
+          "chat_date": "2025-02-20",
+          "target_earliest_date": "2025-09-05",
+          "target_latest_date": "2025-09-05",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Super Information Theory 3",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "D303851BC32A59D6",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-8823ffcee0aafaeb2371",
+          "program_id": "rival-penrose-objective-reduction-noncomputability",
+          "program_name": "Penrose Objective Reduction Noncomputability",
+          "chat_date": "2025-02-01",
+          "target_earliest_date": "2025-09-05",
+          "target_latest_date": "2025-09-05",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "STP Theory Evolution Summary",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "2518D7CDAC18E2DD",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-62bb4c9dd082b5609ec6",
+          "program_id": "rival-penrose-objective-reduction-noncomputability",
+          "program_name": "Penrose Objective Reduction Noncomputability",
+          "chat_date": "2025-02-24",
+          "target_earliest_date": "2025-09-05",
+          "target_latest_date": "2025-09-05",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Glossary and Theory Refinement",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "917E5030DC7F4C6E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-a29d2694c016e1d81507",
+          "program_id": "rival-penrose-objective-reduction-noncomputability",
+          "program_name": "Penrose Objective Reduction Noncomputability",
+          "chat_date": "2025-01-27",
+          "target_earliest_date": "2025-09-05",
+          "target_latest_date": "2025-09-05",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Super Dark Time Theory",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "2E2686FD37EF250F",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-hawkins-htm-thousand-brains",
+      "program_name": "Hawkins Htm Thousand Brains",
+      "verified_prepub_anchors": 77,
+      "earliest_chat_date": "2023-07-17",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-c2df579952d439c9509f",
+          "program_id": "rival-hawkins-htm-thousand-brains",
+          "program_name": "Hawkins Htm Thousand Brains",
+          "chat_date": "2023-12-29",
+          "target_earliest_date": "2011-09-12",
+          "target_latest_date": "2026-07-16",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "NAPOT 10 Networks of the Brain",
+          "micah_work_id": "NAPOT",
+          "sha16": "56FD898D393700FE",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-b3efeaad4594e0a6fcf9",
+          "program_id": "rival-hawkins-htm-thousand-brains",
+          "program_name": "Hawkins Htm Thousand Brains",
+          "chat_date": "2023-07-17",
+          "target_earliest_date": "2011-09-12",
+          "target_latest_date": "2026-07-16",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Logical Reordering Challenge.",
+          "micah_work_id": "NAPOT",
+          "sha16": "163B22F2B9A8AC91",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-5e1a3cbbe4052773e0f6",
+          "program_id": "rival-hawkins-htm-thousand-brains",
+          "program_name": "Hawkins Htm Thousand Brains",
+          "chat_date": "2024-01-22",
+          "target_earliest_date": "2011-09-12",
+          "target_latest_date": "2026-07-16",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Brain Network and Consciousness",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "D8289DCB5FE6F0E9",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-8759b293f573d02a0f63",
+          "program_id": "rival-hawkins-htm-thousand-brains",
+          "program_name": "Hawkins Htm Thousand Brains",
+          "chat_date": "2025-02-24",
+          "target_earliest_date": "2011-09-12",
+          "target_latest_date": "2026-07-16",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Glossary and Theory Refinement",
+          "micah_work_id": "NAPOT",
+          "sha16": "917E5030DC7F4C6E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-b065acc94632a73573c3",
+          "program_id": "rival-hawkins-htm-thousand-brains",
+          "program_name": "Hawkins Htm Thousand Brains",
+          "chat_date": "2025-10-09",
+          "target_earliest_date": "2011-09-12",
+          "target_latest_date": "2026-07-16",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Compare innovations in neuroscience",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "5A3C9536373396DB",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-miller-spatial-computing",
+      "program_name": "Miller Spatial Computing",
+      "verified_prepub_anchors": 71,
+      "earliest_chat_date": "2024-01-22",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-8d142d0910ef42696c45",
+          "program_id": "rival-miller-spatial-computing",
+          "program_name": "Miller Spatial Computing",
+          "chat_date": "2024-09-09",
+          "target_earliest_date": "2016-01-01",
+          "target_latest_date": "2026-11-05",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Consciousness Feedback Mechanisms",
+          "micah_work_id": "NAPOT",
+          "sha16": "A38B3C14F7E59008",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-1e523ac686addf776298",
+          "program_id": "rival-miller-spatial-computing",
+          "program_name": "Miller Spatial Computing",
+          "chat_date": "2026-02-11",
+          "target_earliest_date": "2016-01-01",
+          "target_latest_date": "2026-11-05",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "PBR Theorem vs SuperTimePosition",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "89FA20D3912DB682",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-b6515e0936a0eaef03f8",
+          "program_id": "rival-miller-spatial-computing",
+          "program_name": "Miller Spatial Computing",
+          "chat_date": "2024-01-22",
+          "target_earliest_date": "2016-01-01",
+          "target_latest_date": "2026-11-05",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Brain Network and Consciousness",
+          "micah_work_id": "SAN",
+          "sha16": "D8289DCB5FE6F0E9",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-713434f3e073cecefb2d",
+          "program_id": "rival-miller-spatial-computing",
+          "program_name": "Miller Spatial Computing",
+          "chat_date": "2026-01-19",
+          "target_earliest_date": "2016-01-01",
+          "target_latest_date": "2026-11-05",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Hostile Patent Review",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "F1B4E322C7449233",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-bc417abda2031fa4c56e",
+          "program_id": "rival-miller-spatial-computing",
+          "program_name": "Miller Spatial Computing",
+          "chat_date": "2025-09-29",
+          "target_earliest_date": "2016-01-01",
+          "target_latest_date": "2026-11-05",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Branch · Anticipating Miller's 2025 Breakthroughs",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "AB30A118DCCE7507",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-buzsaki-neural-oscillation",
+      "program_name": "Buzsaki Neural Oscillation",
+      "verified_prepub_anchors": 68,
+      "earliest_chat_date": "2022-12-13",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-ae1e3cafc680693ac567",
+          "program_id": "rival-buzsaki-neural-oscillation",
+          "program_name": "Buzsaki Neural Oscillation",
+          "chat_date": "2023-12-29",
+          "target_earliest_date": "2013-01-28",
+          "target_latest_date": "2026-04-20",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "NAPOT 10 Networks of the Brain",
+          "micah_work_id": "NAPOT",
+          "sha16": "56FD898D393700FE",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-8e60aef2747ac681ca50",
+          "program_id": "rival-buzsaki-neural-oscillation",
+          "program_name": "Buzsaki Neural Oscillation",
+          "chat_date": "2023-07-17",
+          "target_earliest_date": "2013-01-28",
+          "target_latest_date": "2026-04-20",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Logical Reordering Challenge.",
+          "micah_work_id": "NAPOT",
+          "sha16": "163B22F2B9A8AC91",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-1a4ed39ec1864053fefe",
+          "program_id": "rival-buzsaki-neural-oscillation",
+          "program_name": "Buzsaki Neural Oscillation",
+          "chat_date": "2024-01-22",
+          "target_earliest_date": "2013-01-28",
+          "target_latest_date": "2026-04-20",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Brain Network and Consciousness",
+          "micah_work_id": "SAN",
+          "sha16": "D8289DCB5FE6F0E9",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-f245b1cbaeb38e0ad40d",
+          "program_id": "rival-buzsaki-neural-oscillation",
+          "program_name": "Buzsaki Neural Oscillation",
+          "chat_date": "2025-02-24",
+          "target_earliest_date": "2013-01-28",
+          "target_latest_date": "2026-04-20",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Glossary and Theory Refinement",
+          "micah_work_id": "NAPOT",
+          "sha16": "917E5030DC7F4C6E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-afe99d69ef09ff77671e",
+          "program_id": "rival-buzsaki-neural-oscillation",
+          "program_name": "Buzsaki Neural Oscillation",
+          "chat_date": "2025-02-22",
+          "target_earliest_date": "2013-01-28",
+          "target_latest_date": "2026-04-20",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Multiscale Cognitive Dynamics",
+          "micah_work_id": "NAPOT",
+          "sha16": "58A1552D406B435E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-levin-basal-cognition-tame",
+      "program_name": "Levin Basal Cognition Tame",
+      "verified_prepub_anchors": 53,
+      "earliest_chat_date": "2024-01-09",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-4910472404e0a9ba2118",
+          "program_id": "rival-levin-basal-cognition-tame",
+          "program_name": "Levin Basal Cognition Tame",
+          "chat_date": "2025-06-24",
+          "target_earliest_date": "2023-05-08",
+          "target_latest_date": "2026-07-30",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Oscillations and Consciousness Theory",
+          "micah_work_id": "SAN",
+          "sha16": "240C034736C92D68",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-7da363a23385c16abd0c",
+          "program_id": "rival-levin-basal-cognition-tame",
+          "program_name": "Levin Basal Cognition Tame",
+          "chat_date": "2025-02-07",
+          "target_earliest_date": "2023-05-08",
+          "target_latest_date": "2026-07-30",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Author Contribution Clarity",
+          "micah_work_id": "NAPOT",
+          "sha16": "682D897F88D862BE",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-f52869c99c8ae0ee4b55",
+          "program_id": "rival-levin-basal-cognition-tame",
+          "program_name": "Levin Basal Cognition Tame",
+          "chat_date": "2025-02-24",
+          "target_earliest_date": "2023-05-08",
+          "target_latest_date": "2026-07-30",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Glossary and Theory Refinement",
+          "micah_work_id": "NAPOT",
+          "sha16": "917E5030DC7F4C6E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-870b3e72277d53def470",
+          "program_id": "rival-levin-basal-cognition-tame",
+          "program_name": "Levin Basal Cognition Tame",
+          "chat_date": "2025-02-22",
+          "target_earliest_date": "2023-05-08",
+          "target_latest_date": "2026-07-30",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Multiscale Cognitive Dynamics",
+          "micah_work_id": "SAN",
+          "sha16": "58A1552D406B435E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-86f76cae2f92a2382427",
+          "program_id": "rival-levin-basal-cognition-tame",
+          "program_name": "Levin Basal Cognition Tame",
+          "chat_date": "2025-06-24",
+          "target_earliest_date": "2023-05-08",
+          "target_latest_date": "2026-07-30",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Neutral Monism Consciousness Model",
+          "micah_work_id": "SAN",
+          "sha16": "94F585D449820CA6",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-verlinde-information-gravity-later-program",
+      "program_name": "Verlinde Information Gravity Later Program",
+      "verified_prepub_anchors": 50,
+      "earliest_chat_date": "2025-01-26",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-d3243d1aaddd3db89b0e",
+          "program_id": "rival-verlinde-information-gravity-later-program",
+          "program_name": "Verlinde Information Gravity Later Program",
+          "chat_date": "2025-02-20",
+          "target_earliest_date": "2016-11-07",
+          "target_latest_date": "2026-06-24",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Super Information Theory 3",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "D303851BC32A59D6",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-f1c0e638167911f0001c",
+          "program_id": "rival-verlinde-information-gravity-later-program",
+          "program_name": "Verlinde Information Gravity Later Program",
+          "chat_date": "2025-05-12",
+          "target_earliest_date": "2016-11-07",
+          "target_latest_date": "2026-06-24",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Quantum Information and Gravity",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "25A55E8018365CE3",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-b0f54a12f74cdf18b27b",
+          "program_id": "rival-verlinde-information-gravity-later-program",
+          "program_name": "Verlinde Information Gravity Later Program",
+          "chat_date": "2025-07-31",
+          "target_earliest_date": "2016-11-07",
+          "target_latest_date": "2026-06-24",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Gravity from Entropy Theory",
+          "micah_work_id": "SDT",
+          "sha16": "9EACB032CA439022",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-d83b354592d194863b3f",
+          "program_id": "rival-verlinde-information-gravity-later-program",
+          "program_name": "Verlinde Information Gravity Later Program",
+          "chat_date": "2025-06-20",
+          "target_earliest_date": "2016-11-07",
+          "target_latest_date": "2026-06-24",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "TULN-Ω vs SAN and SIT",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "46F75EB029C30E94",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-00728b371d243fe1d755",
+          "program_id": "rival-verlinde-information-gravity-later-program",
+          "program_name": "Verlinde Information Gravity Later Program",
+          "chat_date": "2025-02-27",
+          "target_earliest_date": "2016-11-07",
+          "target_latest_date": "2026-06-24",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Super Information Theory Review",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "04960090DE7C2AFB",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-lecun-jepa-world-models",
+      "program_name": "Lecun Jepa World Models",
+      "verified_prepub_anchors": 35,
+      "earliest_chat_date": "2022-12-13",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-5217c7c3d0abdac89eed",
+          "program_id": "rival-lecun-jepa-world-models",
+          "program_name": "Lecun Jepa World Models",
+          "chat_date": "2025-02-24",
+          "target_earliest_date": "2026-01-25",
+          "target_latest_date": "2026-03-29",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Glossary and Theory Refinement",
+          "micah_work_id": "NAPOT",
+          "sha16": "917E5030DC7F4C6E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-250b6f4b85c2e4ade5e5",
+          "program_id": "rival-lecun-jepa-world-models",
+          "program_name": "Lecun Jepa World Models",
+          "chat_date": "2025-10-09",
+          "target_earliest_date": "2026-01-25",
+          "target_latest_date": "2026-03-29",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Compare innovations in neuroscience",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "5A3C9536373396DB",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-275386e46412701c7036",
+          "program_id": "rival-lecun-jepa-world-models",
+          "program_name": "Lecun Jepa World Models",
+          "chat_date": "2025-10-18",
+          "target_earliest_date": "2026-01-25",
+          "target_latest_date": "2026-03-29",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Proof of God's existence",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "9EE1E46CC211AD1B",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-8a9d05333ab788497565",
+          "program_id": "rival-lecun-jepa-world-models",
+          "program_name": "Lecun Jepa World Models",
+          "chat_date": "2025-02-22",
+          "target_earliest_date": "2026-01-25",
+          "target_latest_date": "2026-03-29",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Multiscale Cognitive Dynamics",
+          "micah_work_id": "NAPOT",
+          "sha16": "58A1552D406B435E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-f2441481ba6527353244",
+          "program_id": "rival-lecun-jepa-world-models",
+          "program_name": "Lecun Jepa World Models",
+          "chat_date": "2025-02-23",
+          "target_earliest_date": "2026-01-25",
+          "target_latest_date": "2026-03-29",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Agentic Brain Paper Review",
+          "micah_work_id": "NAPOT",
+          "sha16": "3C99F8724DB1ACCC",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-finster-causal-fermion-systems",
+      "program_name": "Finster Causal Fermion Systems",
+      "verified_prepub_anchors": 35,
+      "earliest_chat_date": "2025-06-02",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-6a6dc3d915aca3642b2f",
+          "program_id": "rival-finster-causal-fermion-systems",
+          "program_name": "Finster Causal Fermion Systems",
+          "chat_date": "2025-08-17",
+          "target_earliest_date": "2011-02-13",
+          "target_latest_date": "2025-09-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "SIT paper suggestions analysis",
+          "micah_work_id": "SIT",
+          "sha16": "52EA786F77D6E00B",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-561cc4c409c95436d05a",
+          "program_id": "rival-finster-causal-fermion-systems",
+          "program_name": "Finster Causal Fermion Systems",
+          "chat_date": "2025-08-29",
+          "target_earliest_date": "2011-02-13",
+          "target_latest_date": "2025-09-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Audit transcript claims",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "CC928AD1D74BCED2",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-6fdad1ef7c907066282f",
+          "program_id": "rival-finster-causal-fermion-systems",
+          "program_name": "Finster Causal Fermion Systems",
+          "chat_date": "2025-08-21",
+          "target_earliest_date": "2011-02-13",
+          "target_latest_date": "2025-09-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Paper descriptions and names",
+          "micah_work_id": "SIT",
+          "sha16": "67F9CA341C427689",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-1dfbc3dc21c7c4970ed7",
+          "program_id": "rival-finster-causal-fermion-systems",
+          "program_name": "Finster Causal Fermion Systems",
+          "chat_date": "2025-08-22",
+          "target_earliest_date": "2011-02-13",
+          "target_latest_date": "2025-09-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Research paper creation guide",
+          "micah_work_id": "SIT",
+          "sha16": "406800F7B2072BAD",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-76ac4e8e12a990633ee2",
+          "program_id": "rival-finster-causal-fermion-systems",
+          "program_name": "Finster Causal Fermion Systems",
+          "chat_date": "2025-08-29",
+          "target_earliest_date": "2011-02-13",
+          "target_latest_date": "2025-09-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Podcast claim audit",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "3D439321ED23BFAE",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-wolfram-observer-consciousness-theory",
+      "program_name": "Wolfram Observer Consciousness Theory",
+      "verified_prepub_anchors": 33,
+      "earliest_chat_date": "2024-01-08",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-e69ed61ec8bf0ae829cc",
+          "program_id": "rival-wolfram-observer-consciousness-theory",
+          "program_name": "Wolfram Observer Consciousness Theory",
+          "chat_date": "2025-04-19",
+          "target_earliest_date": "2020-04-15",
+          "target_latest_date": "2026-10-23",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "AI Plagiarism Analysis",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "2700FB8317B534B0",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-53a6f5a2210c2bdc150b",
+          "program_id": "rival-wolfram-observer-consciousness-theory",
+          "program_name": "Wolfram Observer Consciousness Theory",
+          "chat_date": "2025-01-27",
+          "target_earliest_date": "2020-04-15",
+          "target_latest_date": "2026-10-23",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Reference Harmonization Summary",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "66A562918CB98329",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-639081bbe8e130359e93",
+          "program_id": "rival-wolfram-observer-consciousness-theory",
+          "program_name": "Wolfram Observer Consciousness Theory",
+          "chat_date": "2025-01-02",
+          "target_earliest_date": "2020-04-15",
+          "target_latest_date": "2026-10-23",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "New Law of Thermodynamics",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "D92281CE16540945",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-fa54298ce67888dc748b",
+          "program_id": "rival-wolfram-observer-consciousness-theory",
+          "program_name": "Wolfram Observer Consciousness Theory",
+          "chat_date": "2025-01-27",
+          "target_earliest_date": "2020-04-15",
+          "target_latest_date": "2026-10-23",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Micah's New Law Summary",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "66C3A9E2433091B2",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-851bb2008ac7af3e9686",
+          "program_id": "rival-wolfram-observer-consciousness-theory",
+          "program_name": "Wolfram Observer Consciousness Theory",
+          "chat_date": "2025-03-24",
+          "target_earliest_date": "2020-04-15",
+          "target_latest_date": "2026-10-23",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "SIT Notes Consolidation",
+          "micah_work_id": "SIT",
+          "sha16": "5A28E1ECE5674C86",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-tononi-integrated-information-theory",
+      "program_name": "Tononi Integrated Information Theory",
+      "verified_prepub_anchors": 26,
+      "earliest_chat_date": "2023-07-08",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-a5411cb0507c261b6fba",
+          "program_id": "rival-tononi-integrated-information-theory",
+          "program_name": "Tononi Integrated Information Theory",
+          "chat_date": "2023-07-17",
+          "target_earliest_date": "2004-11-02",
+          "target_latest_date": "2026-04-15",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Logical Reordering Challenge.",
+          "micah_work_id": "SAN",
+          "sha16": "163B22F2B9A8AC91",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-8ab13096a31bf9f23e97",
+          "program_id": "rival-tononi-integrated-information-theory",
+          "program_name": "Tononi Integrated Information Theory",
+          "chat_date": "2025-09-08",
+          "target_earliest_date": "2004-11-02",
+          "target_latest_date": "2026-04-15",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Neuroscience in Review",
+          "micah_work_id": "SAN",
+          "sha16": "282C48831EFD944E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-745910bf6f39f9b15c08",
+          "program_id": "rival-tononi-integrated-information-theory",
+          "program_name": "Tononi Integrated Information Theory",
+          "chat_date": "2025-03-24",
+          "target_earliest_date": "2004-11-02",
+          "target_latest_date": "2026-04-15",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "SIT Notes Consolidation",
+          "micah_work_id": "SIT",
+          "sha16": "5A28E1ECE5674C86",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-f6d670aa4b3af5e565bd",
+          "program_id": "rival-tononi-integrated-information-theory",
+          "program_name": "Tononi Integrated Information Theory",
+          "chat_date": "2025-08-13",
+          "target_earliest_date": "2004-11-02",
+          "target_latest_date": "2026-04-15",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Success plan generation",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "20E2D89B2C94C772",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-e0f348fdaa21f659f316",
+          "program_id": "rival-tononi-integrated-information-theory",
+          "program_name": "Tononi Integrated Information Theory",
+          "chat_date": "2025-03-25",
+          "target_earliest_date": "2004-11-02",
+          "target_latest_date": "2026-04-15",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "AsciiMath Expression Conversion",
+          "micah_work_id": "MNLOT",
+          "sha16": "93747F185F16FDF6",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-hossenfelder-superdeterministic-gravity-collapse",
+      "program_name": "Hossenfelder Superdeterministic Gravity Collapse",
+      "verified_prepub_anchors": 22,
+      "earliest_chat_date": "2025-01-16",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-191ea782d5586e17976c",
+          "program_id": "rival-hossenfelder-superdeterministic-gravity-collapse",
+          "program_name": "Hossenfelder Superdeterministic Gravity Collapse",
+          "chat_date": "2025-01-16",
+          "target_earliest_date": "2020-10-03",
+          "target_latest_date": "2025-10-13",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Deterministic Quantum Cycles",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "9FE4F9725702D4EF",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-907d997092c9cf40f08a",
+          "program_id": "rival-hossenfelder-superdeterministic-gravity-collapse",
+          "program_name": "Hossenfelder Superdeterministic Gravity Collapse",
+          "chat_date": "2025-01-27",
+          "target_earliest_date": "2020-10-03",
+          "target_latest_date": "2025-10-13",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Micah's New Law Summary",
+          "micah_work_id": "NAPOT",
+          "sha16": "66C3A9E2433091B2",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-2d88b507d0265872841f",
+          "program_id": "rival-hossenfelder-superdeterministic-gravity-collapse",
+          "program_name": "Hossenfelder Superdeterministic Gravity Collapse",
+          "chat_date": "2025-08-29",
+          "target_earliest_date": "2020-10-03",
+          "target_latest_date": "2025-10-13",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Podcast claim audit",
+          "micah_work_id": "SIT",
+          "sha16": "3D439321ED23BFAE",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-b3ab93a7d740e8932baa",
+          "program_id": "rival-hossenfelder-superdeterministic-gravity-collapse",
+          "program_name": "Hossenfelder Superdeterministic Gravity Collapse",
+          "chat_date": "2025-03-22",
+          "target_earliest_date": "2020-10-03",
+          "target_latest_date": "2025-10-13",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Paper: Wave Function Is Gravity",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "652DD8A5147313C5",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-e9d14f6c4a5df58785f2",
+          "program_id": "rival-hossenfelder-superdeterministic-gravity-collapse",
+          "program_name": "Hossenfelder Superdeterministic Gravity Collapse",
+          "chat_date": "2025-10-10",
+          "target_earliest_date": "2020-10-03",
+          "target_latest_date": "2025-10-13",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Rewrite with Unicode math",
+          "micah_work_id": "SIT",
+          "sha16": "06346BF8766EBD9B",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-penrose-hameroff-orchestrated-objective-reduction",
+      "program_name": "Penrose Hameroff Orchestrated Objective Reduction",
+      "verified_prepub_anchors": 21,
+      "earliest_chat_date": "2023-12-17",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-958c8d89e65352042c16",
+          "program_id": "rival-penrose-hameroff-orchestrated-objective-reduction",
+          "program_name": "Penrose Hameroff Orchestrated Objective Reduction",
+          "chat_date": "2023-12-17",
+          "target_earliest_date": "2013-09-23",
+          "target_latest_date": "2026-02-01",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "QOT, POT, COT, BOT, NAPOT",
+          "micah_work_id": "NAPOT",
+          "sha16": "EBA4ADEBFA757A34",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-b75f2fb58b63f4357cbd",
+          "program_id": "rival-penrose-hameroff-orchestrated-objective-reduction",
+          "program_name": "Penrose Hameroff Orchestrated Objective Reduction",
+          "chat_date": "2025-06-19",
+          "target_earliest_date": "2013-09-23",
+          "target_latest_date": "2026-02-01",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Hameroff Theory Critique",
+          "micah_work_id": "SAN",
+          "sha16": "8F6A2B26775B5168",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-819143d756a3fbb2d1e2",
+          "program_id": "rival-penrose-hameroff-orchestrated-objective-reduction",
+          "program_name": "Penrose Hameroff Orchestrated Objective Reduction",
+          "chat_date": "2025-03-24",
+          "target_earliest_date": "2013-09-23",
+          "target_latest_date": "2026-02-01",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "SIT Notes Consolidation",
+          "micah_work_id": "SIT",
+          "sha16": "5A28E1ECE5674C86",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-0e70f41be8fcf2c21d9e",
+          "program_id": "rival-penrose-hameroff-orchestrated-objective-reduction",
+          "program_name": "Penrose Hameroff Orchestrated Objective Reduction",
+          "chat_date": "2025-08-03",
+          "target_earliest_date": "2013-09-23",
+          "target_latest_date": "2026-02-01",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "SIT 2.0 overview",
+          "micah_work_id": "SIT",
+          "sha16": "5FD6612157AC61D9",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-25f87b45d927dbe6ff4d",
+          "program_id": "rival-penrose-hameroff-orchestrated-objective-reduction",
+          "program_name": "Penrose Hameroff Orchestrated Objective Reduction",
+          "chat_date": "2025-03-25",
+          "target_earliest_date": "2013-09-23",
+          "target_latest_date": "2026-02-01",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "AsciiMath Expression Conversion",
+          "micah_work_id": "MNLOT",
+          "sha16": "93747F185F16FDF6",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-bach-brain-world-model-rendering",
+      "program_name": "Bach Brain World Model Rendering",
+      "verified_prepub_anchors": 18,
+      "earliest_chat_date": "2023-05-28",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-301556ddeff131925aa3",
+          "program_id": "rival-bach-brain-world-model-rendering",
+          "program_name": "Bach Brain World Model Rendering",
+          "chat_date": "2024-09-09",
+          "target_earliest_date": "2017-07-01",
+          "target_latest_date": "2026-07-21",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Consciousness Feedback Mechanisms",
+          "micah_work_id": "NAPOT",
+          "sha16": "A38B3C14F7E59008",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-d65557877f77380fadbf",
+          "program_id": "rival-bach-brain-world-model-rendering",
+          "program_name": "Bach Brain World Model Rendering",
+          "chat_date": "2025-06-24",
+          "target_earliest_date": "2017-07-01",
+          "target_latest_date": "2026-07-21",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Oscillations and Consciousness Theory",
+          "micah_work_id": "SAN",
+          "sha16": "240C034736C92D68",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-5b5ddf7245f1e140e41b",
+          "program_id": "rival-bach-brain-world-model-rendering",
+          "program_name": "Bach Brain World Model Rendering",
+          "chat_date": "2023-05-28",
+          "target_earliest_date": "2017-07-01",
+          "target_latest_date": "2026-07-21",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Self Aware Networks Overview",
+          "micah_work_id": "SAN",
+          "sha16": "D1358648F0A37D44",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-074d18b70ff0b6c57ea7",
+          "program_id": "rival-bach-brain-world-model-rendering",
+          "program_name": "Bach Brain World Model Rendering",
+          "chat_date": "2025-08-13",
+          "target_earliest_date": "2017-07-01",
+          "target_latest_date": "2026-07-21",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Success plan generation",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "20E2D89B2C94C772",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-d9f6989554ec2b867676",
+          "program_id": "rival-bach-brain-world-model-rendering",
+          "program_name": "Bach Brain World Model Rendering",
+          "chat_date": "2025-01-22",
+          "target_earliest_date": "2017-07-01",
+          "target_latest_date": "2026-07-21",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "References and Theoretical Connections",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "2494C0E45B504970",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-bennett-stack-theory-conscious-machines",
+      "program_name": "Bennett Stack Theory Conscious Machines",
+      "verified_prepub_anchors": 14,
+      "earliest_chat_date": "2024-10-04",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-7fc0850313d36c81f180",
+          "program_id": "rival-bennett-stack-theory-conscious-machines",
+          "program_name": "Bennett Stack Theory Conscious Machines",
+          "chat_date": "2026-01-17",
+          "target_earliest_date": "2023-02-07",
+          "target_latest_date": "2026-05-18",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Priority mapping and equivalence",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "73705AD3DCD75FAC",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-c1e247c0d947a6708ff4",
+          "program_id": "rival-bennett-stack-theory-conscious-machines",
+          "program_name": "Bennett Stack Theory Conscious Machines",
+          "chat_date": "2025-08-13",
+          "target_earliest_date": "2023-02-07",
+          "target_latest_date": "2026-05-18",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Success plan generation",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "20E2D89B2C94C772",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-15f78072bc2c24029822",
+          "program_id": "rival-bennett-stack-theory-conscious-machines",
+          "program_name": "Bennett Stack Theory Conscious Machines",
+          "chat_date": "2025-08-12",
+          "target_earliest_date": "2023-02-07",
+          "target_latest_date": "2026-05-18",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Bennet03",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "C2F8C940C7B7FDD8",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-d6e088677b41fc98a631",
+          "program_id": "rival-bennett-stack-theory-conscious-machines",
+          "program_name": "Bennett Stack Theory Conscious Machines",
+          "chat_date": "2025-06-28",
+          "target_earliest_date": "2023-02-07",
+          "target_latest_date": "2026-05-18",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Bennet02",
+          "micah_work_id": "SAN",
+          "sha16": "DDD22E6FF1922D12",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-970a84f4548a4cc4e989",
+          "program_id": "rival-bennett-stack-theory-conscious-machines",
+          "program_name": "Bennett Stack Theory Conscious Machines",
+          "chat_date": "2025-10-04",
+          "target_earliest_date": "2023-02-07",
+          "target_latest_date": "2026-05-18",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Cover letter for PLOS One",
+          "micah_work_id": "SIT",
+          "sha16": "82CC1955FC804BE7",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-dehaene-global-neuronal-workspace",
+      "program_name": "Dehaene Global Neuronal Workspace",
+      "verified_prepub_anchors": 14,
+      "earliest_chat_date": "2024-10-05",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-63a31d92828b7b6c1cb2",
+          "program_id": "rival-dehaene-global-neuronal-workspace",
+          "program_name": "Dehaene Global Neuronal Workspace",
+          "chat_date": "2025-09-08",
+          "target_earliest_date": "2015-05-21",
+          "target_latest_date": "2025-10-09",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Neuroscience in Review",
+          "micah_work_id": "SAN",
+          "sha16": "282C48831EFD944E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-ed3db4e6c0802990eefc",
+          "program_id": "rival-dehaene-global-neuronal-workspace",
+          "program_name": "Dehaene Global Neuronal Workspace",
+          "chat_date": "2025-01-27",
+          "target_earliest_date": "2015-05-21",
+          "target_latest_date": "2025-10-09",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Micah's New Law Summary",
+          "micah_work_id": "NAPOT",
+          "sha16": "66C3A9E2433091B2",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-9038fca52375a8af2cf4",
+          "program_id": "rival-dehaene-global-neuronal-workspace",
+          "program_name": "Dehaene Global Neuronal Workspace",
+          "chat_date": "2025-05-16",
+          "target_earliest_date": "2015-05-21",
+          "target_latest_date": "2025-10-09",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "LaTeX Conversion Request",
+          "micah_work_id": "NAPOT",
+          "sha16": "09CF7713AB83E66E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-251183ea8b8b42b6dedd",
+          "program_id": "rival-dehaene-global-neuronal-workspace",
+          "program_name": "Dehaene Global Neuronal Workspace",
+          "chat_date": "2025-05-02",
+          "target_earliest_date": "2015-05-21",
+          "target_latest_date": "2025-10-09",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Idea Citations for Self Awareness",
+          "micah_work_id": "NAPOT",
+          "sha16": "1246B077612FD538",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-0f07e046bc5184cb6f93",
+          "program_id": "rival-dehaene-global-neuronal-workspace",
+          "program_name": "Dehaene Global Neuronal Workspace",
+          "chat_date": "2025-02-05",
+          "target_earliest_date": "2015-05-21",
+          "target_latest_date": "2025-10-09",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "A x A Bijection",
+          "micah_work_id": "NAPOT",
+          "sha16": "8B0AF6560832ACE0",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-seth-controlled-hallucination-predictive-presence",
+      "program_name": "Seth Controlled Hallucination Predictive Presence",
+      "verified_prepub_anchors": 9,
+      "earliest_chat_date": "2025-04-06",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-9ffd70fafbb05673f0d1",
+          "program_id": "rival-seth-controlled-hallucination-predictive-presence",
+          "program_name": "Seth Controlled Hallucination Predictive Presence",
+          "chat_date": "2025-09-08",
+          "target_earliest_date": "2004-05-13",
+          "target_latest_date": "2025-10-30",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Neuroscience in Review",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "282C48831EFD944E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-5eb02802954782c7f043",
+          "program_id": "rival-seth-controlled-hallucination-predictive-presence",
+          "program_name": "Seth Controlled Hallucination Predictive Presence",
+          "chat_date": "2025-08-13",
+          "target_earliest_date": "2004-05-13",
+          "target_latest_date": "2025-10-30",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Success plan generation",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "20E2D89B2C94C772",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-2e04601650d8475c67cc",
+          "program_id": "rival-seth-controlled-hallucination-predictive-presence",
+          "program_name": "Seth Controlled Hallucination Predictive Presence",
+          "chat_date": "2025-08-23",
+          "target_earliest_date": "2004-05-13",
+          "target_latest_date": "2025-10-30",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Pain and consciousness comparison",
+          "micah_work_id": "SAN",
+          "sha16": "88A279E6B060FCA9",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-c1183b752b41eb91dbaa",
+          "program_id": "rival-seth-controlled-hallucination-predictive-presence",
+          "program_name": "Seth Controlled Hallucination Predictive Presence",
+          "chat_date": "2025-07-25",
+          "target_earliest_date": "2004-05-13",
+          "target_latest_date": "2025-10-30",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Scott Cave and VTT",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "E5A9413173ACE1E4",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-ba1062d4567579bdb24f",
+          "program_id": "rival-seth-controlled-hallucination-predictive-presence",
+          "program_name": "Seth Controlled Hallucination Predictive Presence",
+          "chat_date": "2025-04-06",
+          "target_earliest_date": "2004-05-13",
+          "target_latest_date": "2025-10-30",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Neuroscience AI SIT Presentation",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "5D6B41FBA30802E9",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-dupke-scale-time-dynamics",
+      "program_name": "Dupke Scale Time Dynamics",
+      "verified_prepub_anchors": 9,
+      "earliest_chat_date": "2025-07-25",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-3a97846dc4fa36b808eb",
+          "program_id": "rival-dupke-scale-time-dynamics",
+          "program_name": "Dupke Scale Time Dynamics",
+          "chat_date": "2025-07-25",
+          "target_earliest_date": "2026-07-06",
+          "target_latest_date": "2026-07-06",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Kletetschka vs Blumberg Theories",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "AF31639AF6E94716",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-04ae9f800633f5cd594e",
+          "program_id": "rival-dupke-scale-time-dynamics",
+          "program_name": "Dupke Scale Time Dynamics",
+          "chat_date": "2025-07-31",
+          "target_earliest_date": "2026-07-06",
+          "target_latest_date": "2026-07-06",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "HEF and SIT Conceptual Overlap",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "A4A0A7EA73EEAB80",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-89e9d40920b2c8553a1c",
+          "program_id": "rival-dupke-scale-time-dynamics",
+          "program_name": "Dupke Scale Time Dynamics",
+          "chat_date": "2025-08-10",
+          "target_earliest_date": "2026-07-06",
+          "target_latest_date": "2026-07-06",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Track and compare updates",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "0C30E2A3418EC6C6",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-341965be44c9ea857396",
+          "program_id": "rival-dupke-scale-time-dynamics",
+          "program_name": "Dupke Scale Time Dynamics",
+          "chat_date": "2025-07-25",
+          "target_earliest_date": "2026-07-06",
+          "target_latest_date": "2026-07-06",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Overlap with SIT and SAN",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "710FE2428DD23C4A",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-08e6daf0b351b78f7902",
+          "program_id": "rival-dupke-scale-time-dynamics",
+          "program_name": "Dupke Scale Time Dynamics",
+          "chat_date": "2025-07-25",
+          "target_earliest_date": "2026-07-06",
+          "target_latest_date": "2026-07-06",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Latex Formatting Request",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "2DE887F851FF5D7F",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-tse-criterial-causation",
+      "program_name": "Tse Criterial Causation",
+      "verified_prepub_anchors": 8,
+      "earliest_chat_date": "2025-01-21",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-12ec7b5001cc215091c3",
+          "program_id": "rival-tse-criterial-causation",
+          "program_name": "Tse Criterial Causation",
+          "chat_date": "2025-01-27",
+          "target_earliest_date": "2024-10-30",
+          "target_latest_date": "2026-06-03",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Micah's New Law Summary",
+          "micah_work_id": "NAPOT",
+          "sha16": "66C3A9E2433091B2",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-2891b644e35b00d8f14a",
+          "program_id": "rival-tse-criterial-causation",
+          "program_name": "Tse Criterial Causation",
+          "chat_date": "2025-10-10",
+          "target_earliest_date": "2024-10-30",
+          "target_latest_date": "2026-06-03",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Rewrite with Unicode math",
+          "micah_work_id": "SIT",
+          "sha16": "06346BF8766EBD9B",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-26af904caa2ffa21789f",
+          "program_id": "rival-tse-criterial-causation",
+          "program_name": "Tse Criterial Causation",
+          "chat_date": "2025-02-05",
+          "target_earliest_date": "2024-10-30",
+          "target_latest_date": "2026-06-03",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "A x A Bijection",
+          "micah_work_id": "NAPOT",
+          "sha16": "8B0AF6560832ACE0",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-ec3a4aa1233759ba4054",
+          "program_id": "rival-tse-criterial-causation",
+          "program_name": "Tse Criterial Causation",
+          "chat_date": "2025-01-21",
+          "target_earliest_date": "2024-10-30",
+          "target_latest_date": "2026-06-03",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Micah's New Law Expansion",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "F98BC6F1F83245E7",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-08037cd98cb78a7dd8ea",
+          "program_id": "rival-tse-criterial-causation",
+          "program_name": "Tse Criterial Causation",
+          "chat_date": "2025-01-24",
+          "target_earliest_date": "2024-10-30",
+          "target_latest_date": "2026-06-03",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Markdown Conversion Request",
+          "micah_work_id": "NAPOT",
+          "sha16": "E9E96658E6351A52",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-denis-holographic-computational-universe",
+      "program_name": "Denis Holographic Computational Universe",
+      "verified_prepub_anchors": 6,
+      "earliest_chat_date": "2025-06-19",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-643d919b67d1a473b651",
+          "program_id": "rival-denis-holographic-computational-universe",
+          "program_name": "Denis Holographic Computational Universe",
+          "chat_date": "2026-01-03",
+          "target_earliest_date": "2026-07-02",
+          "target_latest_date": "2026-07-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "p-adic Geometry and Simulation",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "9143CDA58ADABCE8",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-acade5fa27e3df84afef",
+          "program_id": "rival-denis-holographic-computational-universe",
+          "program_name": "Denis Holographic Computational Universe",
+          "chat_date": "2025-10-04",
+          "target_earliest_date": "2026-07-02",
+          "target_latest_date": "2026-07-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Olivier Denis papers",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "BD440BA7CE9CA3FE",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-f39dad2d785059ecdf46",
+          "program_id": "rival-denis-holographic-computational-universe",
+          "program_name": "Denis Holographic Computational Universe",
+          "chat_date": "2025-07-15",
+          "target_earliest_date": "2026-07-02",
+          "target_latest_date": "2026-07-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Coherent Gravity Entropy Theory",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "515F4B82F662930C",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-bf2be0cc99f95fbd0527",
+          "program_id": "rival-denis-holographic-computational-universe",
+          "program_name": "Denis Holographic Computational Universe",
+          "chat_date": "2025-06-19",
+          "target_earliest_date": "2026-07-02",
+          "target_latest_date": "2026-07-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Bennet05&Company",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "A0A9207F25CB6A89",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-36eeedc9733847f5537a",
+          "program_id": "rival-denis-holographic-computational-universe",
+          "program_name": "Denis Holographic Computational Universe",
+          "chat_date": "2026-05-10",
+          "target_earliest_date": "2026-07-02",
+          "target_latest_date": "2026-07-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Super Information Theory Debate",
+          "micah_work_id": "SIT",
+          "sha16": "3B2D96F74DA179B5",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-information-flux-theory-author-unresolved",
+      "program_name": "Information Flux Theory Author Unresolved",
+      "verified_prepub_anchors": 5,
+      "earliest_chat_date": "2025-08-04",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-4183a807ad12a523bec8",
+          "program_id": "rival-information-flux-theory-author-unresolved",
+          "program_name": "Information Flux Theory Author Unresolved",
+          "chat_date": "2025-08-04",
+          "target_earliest_date": "2025-05-18",
+          "target_latest_date": "2026-05-19",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Research Riemann Hypothesis SIT",
+          "micah_work_id": "SIT",
+          "sha16": "567C7E827C327875",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-e1830b778b0ac5a68661",
+          "program_id": "rival-information-flux-theory-author-unresolved",
+          "program_name": "Information Flux Theory Author Unresolved",
+          "chat_date": "2025-08-04",
+          "target_earliest_date": "2025-05-18",
+          "target_latest_date": "2026-05-19",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "LaTeX formula writing",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "0F46795E4A3B7101",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-b898a3d7bcab00f520c9",
+          "program_id": "rival-information-flux-theory-author-unresolved",
+          "program_name": "Information Flux Theory Author Unresolved",
+          "chat_date": "2025-08-04",
+          "target_earliest_date": "2025-05-18",
+          "target_latest_date": "2026-05-19",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Information Flux Theory comparison",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "FF7210B9C484DCBC",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-4cf9a11be57551837b68",
+          "program_id": "rival-information-flux-theory-author-unresolved",
+          "program_name": "Information Flux Theory Author Unresolved",
+          "chat_date": "2025-08-10",
+          "target_earliest_date": "2025-05-18",
+          "target_latest_date": "2026-05-19",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Rewriting for conceptual equivalence",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "044A21E57716DC1F",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-eef404bb74224a5d118d",
+          "program_id": "rival-information-flux-theory-author-unresolved",
+          "program_name": "Information Flux Theory Author Unresolved",
+          "chat_date": "2025-08-08",
+          "target_earliest_date": "2025-05-18",
+          "target_latest_date": "2026-05-19",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Self and existence question",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "A2D78A9A7259A988",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-du-et-al-human-like-object-concepts",
+      "program_name": "Du Et Al Human Like Object Concepts",
+      "verified_prepub_anchors": 4,
+      "earliest_chat_date": "2025-06-19",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-59b7ef74a3c493115fc2",
+          "program_id": "rival-du-et-al-human-like-object-concepts",
+          "program_name": "Du Et Al Human Like Object Concepts",
+          "chat_date": "2025-06-28",
+          "target_earliest_date": "2024-01-01",
+          "target_latest_date": "2026-05-28",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Bennet02",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "DDD22E6FF1922D12",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-7566a940c9c257494de3",
+          "program_id": "rival-du-et-al-human-like-object-concepts",
+          "program_name": "Du Et Al Human Like Object Concepts",
+          "chat_date": "2025-09-04",
+          "target_earliest_date": "2024-01-01",
+          "target_latest_date": "2026-05-28",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Theory comparison table",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "305B219B6CBC958E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-0084be6102d1fcb1e0b1",
+          "program_id": "rival-du-et-al-human-like-object-concepts",
+          "program_name": "Du Et Al Human Like Object Concepts",
+          "chat_date": "2025-06-19",
+          "target_earliest_date": "2024-01-01",
+          "target_latest_date": "2026-05-28",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Bennet05&Company",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "A0A9207F25CB6A89",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-8b9df7a6d33e42a72360",
+          "program_id": "rival-du-et-al-human-like-object-concepts",
+          "program_name": "Du Et Al Human Like Object Concepts",
+          "chat_date": "2025-09-04",
+          "target_earliest_date": "2024-01-01",
+          "target_latest_date": "2026-05-28",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Sort theories into table",
+          "micah_work_id": "SAN",
+          "sha16": "22B56E4B81143A11",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-wiltshire-timescape-cosmology",
+      "program_name": "Wiltshire Timescape Cosmology",
+      "verified_prepub_anchors": 3,
+      "earliest_chat_date": "2024-05-20",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-761361fac745c56e4c1b",
+          "program_id": "rival-wiltshire-timescape-cosmology",
+          "program_name": "Wiltshire Timescape Cosmology",
+          "chat_date": "2025-01-25",
+          "target_earliest_date": "2023-11-02",
+          "target_latest_date": "2025-08-04",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Dark Time Theory Unification",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "0D42CC95222CC7F1",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-da7f37a1d52046b600a7",
+          "program_id": "rival-wiltshire-timescape-cosmology",
+          "program_name": "Wiltshire Timescape Cosmology",
+          "chat_date": "2024-05-20",
+          "target_earliest_date": "2023-11-02",
+          "target_latest_date": "2025-08-04",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Quantum Time Solution: Hubble",
+          "micah_work_id": "QGTCD",
+          "sha16": "983825066D2A6120",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-2c837d965c83294e8e6e",
+          "program_id": "rival-wiltshire-timescape-cosmology",
+          "program_name": "Wiltshire Timescape Cosmology",
+          "chat_date": "2025-01-25",
+          "target_earliest_date": "2023-11-02",
+          "target_latest_date": "2025-08-04",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Dark Time Theory Evaluation",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "97350592BA325AB6",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-barenholtz-generative-working-memory",
+      "program_name": "Barenholtz Generative Working Memory",
+      "verified_prepub_anchors": 3,
+      "earliest_chat_date": "2025-06-28",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-6ac15d414fe28d87915c",
+          "program_id": "rival-barenholtz-generative-working-memory",
+          "program_name": "Barenholtz Generative Working Memory",
+          "chat_date": "2025-06-28",
+          "target_earliest_date": "2026-07-28",
+          "target_latest_date": "2026-07-28",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Bennet02",
+          "micah_work_id": "SAN",
+          "sha16": "DDD22E6FF1922D12",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-681d9b0d70b95e45ac9c",
+          "program_id": "rival-barenholtz-generative-working-memory",
+          "program_name": "Barenholtz Generative Working Memory",
+          "chat_date": "2025-09-04",
+          "target_earliest_date": "2026-07-28",
+          "target_latest_date": "2026-07-28",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Theory comparison table",
+          "micah_work_id": "SAN",
+          "sha16": "305B219B6CBC958E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-170f861a2bb52a72e9c4",
+          "program_id": "rival-barenholtz-generative-working-memory",
+          "program_name": "Barenholtz Generative Working Memory",
+          "chat_date": "2025-09-04",
+          "target_earliest_date": "2026-07-28",
+          "target_latest_date": "2026-07-28",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Sort theories into table",
+          "micah_work_id": "SAN",
+          "sha16": "22B56E4B81143A11",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-kruger-helix-light-vortex",
+      "program_name": "Kruger Helix Light Vortex",
+      "verified_prepub_anchors": 3,
+      "earliest_chat_date": "2025-07-25",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-ca5047a61ce352e982e4",
+          "program_id": "rival-kruger-helix-light-vortex",
+          "program_name": "Kruger Helix Light Vortex",
+          "chat_date": "2025-09-04",
+          "target_earliest_date": "2026-06-07",
+          "target_latest_date": "2026-07-15",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Sort theories into table",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "98803115A7A4EB66",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-c5d1c0f9f559ff497f47",
+          "program_id": "rival-kruger-helix-light-vortex",
+          "program_name": "Kruger Helix Light Vortex",
+          "chat_date": "2025-07-25",
+          "target_earliest_date": "2026-06-07",
+          "target_latest_date": "2026-07-15",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Overlap with SIT and SAN",
+          "micah_work_id": "SAN",
+          "sha16": "710FE2428DD23C4A",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-a452500820338ca0ec33",
+          "program_id": "rival-kruger-helix-light-vortex",
+          "program_name": "Kruger Helix Light Vortex",
+          "chat_date": "2025-09-04",
+          "target_earliest_date": "2026-06-07",
+          "target_latest_date": "2026-07-15",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Theory comparison table",
+          "micah_work_id": "SDT",
+          "sha16": "305B219B6CBC958E",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-nazat-information-fundamental-toe",
+      "program_name": "Nazat Information Fundamental Toe",
+      "verified_prepub_anchors": 3,
+      "earliest_chat_date": "2025-10-04",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-875387380f1307ff2ffb",
+          "program_id": "rival-nazat-information-fundamental-toe",
+          "program_name": "Nazat Information Fundamental Toe",
+          "chat_date": "2025-10-05",
+          "target_earliest_date": "2025-09-05",
+          "target_latest_date": "2025-11-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Conceptual equivalences analysis",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "77BBDE49A264788F",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-a2b33311ba7334f5d2da",
+          "program_id": "rival-nazat-information-fundamental-toe",
+          "program_name": "Nazat Information Fundamental Toe",
+          "chat_date": "2025-10-04",
+          "target_earliest_date": "2025-09-05",
+          "target_latest_date": "2025-11-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Jackie Blankenship Comparison2",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "61B5B2A35BCF4201",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-27946ac978001ba17c73",
+          "program_id": "rival-nazat-information-fundamental-toe",
+          "program_name": "Nazat Information Fundamental Toe",
+          "chat_date": "2025-10-12",
+          "target_earliest_date": "2025-09-05",
+          "target_latest_date": "2025-11-02",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Conceptual equivalence comparison",
+          "micah_work_id": "SIT",
+          "sha16": "21ADA7F135E6A084",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-laukkonen-chandaria-beautiful-loop",
+      "program_name": "Laukkonen Chandaria Beautiful Loop",
+      "verified_prepub_anchors": 2,
+      "earliest_chat_date": "2024-09-09",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-019b7da8c2dbe93acdba",
+          "program_id": "rival-laukkonen-chandaria-beautiful-loop",
+          "program_name": "Laukkonen Chandaria Beautiful Loop",
+          "chat_date": "2024-09-09",
+          "target_earliest_date": "2024-09-08",
+          "target_latest_date": "2025-06-16",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Consciousness Feedback Mechanisms",
+          "micah_work_id": "NAPOT",
+          "sha16": "A38B3C14F7E59008",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-b74925f7e559718357ba",
+          "program_id": "rival-laukkonen-chandaria-beautiful-loop",
+          "program_name": "Laukkonen Chandaria Beautiful Loop",
+          "chat_date": "2024-11-01",
+          "target_earliest_date": "2024-09-08",
+          "target_latest_date": "2025-06-16",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Connections Between NAPOT and Consciousness",
+          "micah_work_id": "NAPOT",
+          "sha16": "9A5CF27376B62907",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-vopson-information-gravity",
+      "program_name": "Vopson Information Gravity",
+      "verified_prepub_anchors": 2,
+      "earliest_chat_date": "2025-04-26",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-c0966931a7e73e3ce369",
+          "program_id": "rival-vopson-information-gravity",
+          "program_name": "Vopson Information Gravity",
+          "chat_date": "2025-04-26",
+          "target_earliest_date": "2025-01-31",
+          "target_latest_date": "2025-06-19",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Text Conversion Request",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "32D5D0EADFDCE3D0",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-2bdb0c391728dd789a2e",
+          "program_id": "rival-vopson-information-gravity",
+          "program_name": "Vopson Information Gravity",
+          "chat_date": "2025-04-26",
+          "target_earliest_date": "2025-01-31",
+          "target_latest_date": "2025-06-19",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Vopson01",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "83993D25A9F93AA2",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-neukart-geometry-information-quantum-memory",
+      "program_name": "Neukart Geometry Information Quantum Memory",
+      "verified_prepub_anchors": 2,
+      "earliest_chat_date": "2025-05-12",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-cff5f3b8e7cf0339640a",
+          "program_id": "rival-neukart-geometry-information-quantum-memory",
+          "program_name": "Neukart Geometry Information Quantum Memory",
+          "chat_date": "2025-05-12",
+          "target_earliest_date": "2024-09-17",
+          "target_latest_date": "2025-12-20",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Quantum Information and Gravity",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "25A55E8018365CE3",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-9c2284db5e2725670967",
+          "program_id": "rival-neukart-geometry-information-quantum-memory",
+          "program_name": "Neukart Geometry Information Quantum Memory",
+          "chat_date": "2025-09-10",
+          "target_earliest_date": "2024-09-17",
+          "target_latest_date": "2025-12-20",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Research priority letter",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "4947A19111641F96",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-luppi-lyu-stamatakis-dmn-core-consciousness",
+      "program_name": "Luppi Lyu Stamatakis Dmn Core Consciousness",
+      "verified_prepub_anchors": 2,
+      "earliest_chat_date": "2025-06-19",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-939e381f4307dc899367",
+          "program_id": "rival-luppi-lyu-stamatakis-dmn-core-consciousness",
+          "program_name": "Luppi Lyu Stamatakis Dmn Core Consciousness",
+          "chat_date": "2025-06-19",
+          "target_earliest_date": "2022-11-14",
+          "target_latest_date": "2026-02-28",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Bennet05&Company",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "A0A9207F25CB6A89",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-a7fcb9b63cbab0d7fc31",
+          "program_id": "rival-luppi-lyu-stamatakis-dmn-core-consciousness",
+          "program_name": "Luppi Lyu Stamatakis Dmn Core Consciousness",
+          "chat_date": "2025-09-04",
+          "target_earliest_date": "2022-11-14",
+          "target_latest_date": "2026-02-28",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Sort theories into table",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "22B56E4B81143A11",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-kimble-unified-spacetime-theory",
+      "program_name": "Kimble Unified Spacetime Theory",
+      "verified_prepub_anchors": 2,
+      "earliest_chat_date": "2025-09-04",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-9ac3736297a96074b508",
+          "program_id": "rival-kimble-unified-spacetime-theory",
+          "program_name": "Kimble Unified Spacetime Theory",
+          "chat_date": "2025-09-04",
+          "target_earliest_date": "2025-12-10",
+          "target_latest_date": "2026-02-03",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Sort theories into table",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "98803115A7A4EB66",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-01c5ac330fa0512d8d45",
+          "program_id": "rival-kimble-unified-spacetime-theory",
+          "program_name": "Kimble Unified Spacetime Theory",
+          "chat_date": "2025-10-04",
+          "target_earliest_date": "2025-12-10",
+          "target_latest_date": "2026-02-03",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Cover letter for PLOS One",
+          "micah_work_id": "SIT",
+          "sha16": "82CC1955FC804BE7",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-worden-projective-wave-consciousness",
+      "program_name": "Worden Projective Wave Consciousness",
+      "verified_prepub_anchors": 2,
+      "earliest_chat_date": "2025-09-04",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-a03ea468b0ca9b2427fc",
+          "program_id": "rival-worden-projective-wave-consciousness",
+          "program_name": "Worden Projective Wave Consciousness",
+          "chat_date": "2025-10-04",
+          "target_earliest_date": "2020-05-20",
+          "target_latest_date": "2026-07-07",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Cover letter for PLOS One",
+          "micah_work_id": "SIT",
+          "sha16": "82CC1955FC804BE7",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-804f5f29db51df1be0a7",
+          "program_id": "rival-worden-projective-wave-consciousness",
+          "program_name": "Worden Projective Wave Consciousness",
+          "chat_date": "2025-09-04",
+          "target_earliest_date": "2020-05-20",
+          "target_latest_date": "2026-07-07",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Sort theories into table",
+          "micah_work_id": "SAN",
+          "sha16": "22B56E4B81143A11",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-nazat-maximum-angular-speed-mot-umas",
+      "program_name": "Nazat Maximum Angular Speed Mot Umas",
+      "verified_prepub_anchors": 2,
+      "earliest_chat_date": "2025-10-04",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-16459b278e55240515d4",
+          "program_id": "rival-nazat-maximum-angular-speed-mot-umas",
+          "program_name": "Nazat Maximum Angular Speed Mot Umas",
+          "chat_date": "2025-10-05",
+          "target_earliest_date": "2025-09-22",
+          "target_latest_date": "2025-10-10",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Conceptual equivalences analysis",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "77BBDE49A264788F",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        },
+        {
+          "comparison_id": "chatpair-39bf07c4153b56a02969",
+          "program_id": "rival-nazat-maximum-angular-speed-mot-umas",
+          "program_name": "Nazat Maximum Angular Speed Mot Umas",
+          "chat_date": "2025-10-04",
+          "target_earliest_date": "2025-09-22",
+          "target_latest_date": "2025-10-10",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Jackie Blankenship Comparison2",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "61B5B2A35BCF4201",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-steel-robertson-opponent-prf-perception-recall",
+      "program_name": "Steel Robertson Opponent Prf Perception Recall",
+      "verified_prepub_anchors": 1,
+      "earliest_chat_date": "2024-01-02",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-2d654ba1c084735ffa19",
+          "program_id": "rival-steel-robertson-opponent-prf-perception-recall",
+          "program_name": "Steel Robertson Opponent Prf Perception Recall",
+          "chat_date": "2024-01-02",
+          "target_earliest_date": "2023-10-16",
+          "target_latest_date": "2025-03-24",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Brain as Fractal Retina (2023)",
+          "micah_work_id": "NAPOT",
+          "sha16": "8E981F0A691C7F5A",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-eldarazi-jones-resonant-mass-uft",
+      "program_name": "Eldarazi Jones Resonant Mass Uft",
+      "verified_prepub_anchors": 1,
+      "earliest_chat_date": "2025-07-13",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-63c3775ab2eba91d81d7",
+          "program_id": "rival-eldarazi-jones-resonant-mass-uft",
+          "program_name": "Eldarazi Jones Resonant Mass Uft",
+          "chat_date": "2025-07-13",
+          "target_earliest_date": "2025-07-19",
+          "target_latest_date": "2025-07-19",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Find Paper Online",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "56342D16097C360B",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-van-schalkwyk-dehbozorgi-xzistor-mind-model",
+      "program_name": "Van Schalkwyk Dehbozorgi Xzistor Mind Model",
+      "verified_prepub_anchors": 1,
+      "earliest_chat_date": "2025-09-04",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-70b14faf4e3b3eb53883",
+          "program_id": "rival-van-schalkwyk-dehbozorgi-xzistor-mind-model",
+          "program_name": "Van Schalkwyk Dehbozorgi Xzistor Mind Model",
+          "chat_date": "2025-09-04",
+          "target_earliest_date": "2021-04-01",
+          "target_latest_date": "2026-06-26",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Sort theories into table",
+          "micah_work_id": "MICAH_UNSPECIFIED",
+          "sha16": "22B56E4B81143A11",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-brent-unified-compression-based-field-theory",
+      "program_name": "Brent Unified Compression Based Field Theory",
+      "verified_prepub_anchors": 1,
+      "earliest_chat_date": "2025-11-15",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-44cf1754bb2ba17f3499",
+          "program_id": "rival-brent-unified-compression-based-field-theory",
+          "program_name": "Brent Unified Compression Based Field Theory",
+          "chat_date": "2025-11-15",
+          "target_earliest_date": "2025-01-31",
+          "target_latest_date": "2026-05-25",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-LATER-TARGET-WORK",
+          "chat_title": "Point comparison summary",
+          "micah_work_id": "DARK_TIME",
+          "sha16": "25F76C29E2FC87B0",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-waterman-dynamical-regime-hypothesis",
+      "program_name": "Waterman Dynamical Regime Hypothesis",
+      "verified_prepub_anchors": 1,
+      "earliest_chat_date": "2025-11-17",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-c5ec6294900586872733",
+          "program_id": "rival-waterman-dynamical-regime-hypothesis",
+          "program_name": "Waterman Dynamical Regime Hypothesis",
+          "chat_date": "2025-11-17",
+          "target_earliest_date": "2026-03-20",
+          "target_latest_date": "2026-03-25",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Waterman vs Self Aware Networks",
+          "micah_work_id": "SAN",
+          "sha16": "181776E7592FAF35",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-waterman-effective-neural-power-spatial-efficiency",
+      "program_name": "Waterman Effective Neural Power Spatial Efficiency",
+      "verified_prepub_anchors": 1,
+      "earliest_chat_date": "2025-11-17",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-41df79586a516573a9ee",
+          "program_id": "rival-waterman-effective-neural-power-spatial-efficiency",
+          "program_name": "Waterman Effective Neural Power Spatial Efficiency",
+          "chat_date": "2025-11-17",
+          "target_earliest_date": "2026-03-21",
+          "target_latest_date": "2026-03-21",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Waterman vs Self Aware Networks",
+          "micah_work_id": "SAN",
+          "sha16": "181776E7592FAF35",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    },
+    {
+      "program_id": "rival-waterman-negative-space-encoding",
+      "program_name": "Waterman Negative Space Encoding",
+      "verified_prepub_anchors": 1,
+      "earliest_chat_date": "2025-11-17",
+      "sample_anchors": [
+        {
+          "comparison_id": "chatpair-e8cee63db85107173dc2",
+          "program_id": "rival-waterman-negative-space-encoding",
+          "program_name": "Waterman Negative Space Encoding",
+          "chat_date": "2025-11-17",
+          "target_earliest_date": "2026-02-16",
+          "target_latest_date": "2026-03-10",
+          "chronology_class": "PRE-PUBLICATION-EARLIER-THAN-ALL-TARGET-WORKS",
+          "chat_title": "Waterman vs Self Aware Networks",
+          "micah_work_id": "SAN",
+          "sha16": "181776E7592FAF35",
+          "anchor_type": "AI-CHAT-PREPUB-PROVENANCE-ANCHOR"
+        }
+      ]
+    }
+  ]
+}
