@@ -1,10 +1,10 @@
 {
-  "active_programs": 367,
+  "active_programs": 372,
   "domain_counts": {
     "hybrid": 42,
-    "neuroscience": 158,
+    "neuroscience": 161,
     "other": 33,
-    "physics": 134
+    "physics": 136
   },
   "entries": [
     {
@@ -13,7 +13,7 @@
       "domain_group": "neuroscience",
       "earliest_micah_year": 2011,
       "earliest_target_year": 2016,
-      "governed_wins": 1171,
+      "governed_wins": 1177,
       "latest_target_year": 2026,
       "lens4_audited": true,
       "program_id": "rival-miller-spatial-computing",
@@ -366,6 +366,18 @@
       "lens4_audited": true,
       "program_id": "rival-wolfram-computational-universe",
       "program_name": "Wolfram Computational Universe"
+    },
+    {
+      "blue_team_upgrades_count": 8,
+      "display_code": "naumenko-difference-based-cognitive-architecture",
+      "domain_group": "neuroscience",
+      "earliest_micah_year": 2012,
+      "earliest_target_year": 2023,
+      "governed_wins": 42,
+      "latest_target_year": 2026,
+      "lens4_audited": true,
+      "program_id": "rival-naumenko-difference-based-cognitive-architecture",
+      "program_name": "Oleksandr Naumenko Difference-Based Cognitive Architecture program"
     },
     {
       "blue_team_upgrades_count": 26,
@@ -2072,6 +2084,18 @@
       "program_name": "Wiltshire Timescape Cosmology"
     },
     {
+      "blue_team_upgrades_count": 9,
+      "display_code": "newell-soar-common-model-lineage",
+      "domain_group": "neuroscience",
+      "earliest_micah_year": 2011,
+      "earliest_target_year": 2017,
+      "governed_wins": 51,
+      "latest_target_year": 2025,
+      "lens4_audited": true,
+      "program_id": "rival-newell-soar-common-model-lineage",
+      "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+    },
+    {
       "blue_team_upgrades_count": 0,
       "display_code": "grossberg-adaptive-resonance",
       "domain_group": "neuroscience",
@@ -3093,6 +3117,18 @@
     },
     {
       "blue_team_upgrades_count": 0,
+      "display_code": "bianchetti-viscous-time-theory",
+      "domain_group": "physics",
+      "earliest_micah_year": 2022,
+      "earliest_target_year": 2025,
+      "governed_wins": 7,
+      "latest_target_year": 2025,
+      "lens4_audited": true,
+      "program_id": "rival-bianchetti-viscous-time-theory",
+      "program_name": "Raoul Bianchetti Viscous Time Theory (VTT) program"
+    },
+    {
+      "blue_team_upgrades_count": 0,
       "display_code": "safronov-waterman-learning-sense-meaning-phenomenological-neuroplasticity",
       "domain_group": "neuroscience",
       "earliest_micah_year": 2011,
@@ -3486,6 +3522,18 @@
       "lens4_audited": true,
       "program_id": "rival-waterman-refusal-withholding",
       "program_name": "Waterman Refusal Withholding"
+    },
+    {
+      "blue_team_upgrades_count": 16,
+      "display_code": "ravera-francois-relational-dressing-field-gravity",
+      "domain_group": "physics",
+      "earliest_micah_year": 2022,
+      "earliest_target_year": 2024,
+      "governed_wins": 32,
+      "latest_target_year": 2024,
+      "lens4_audited": true,
+      "program_id": "rival-ravera-francois-relational-dressing-field-gravity",
+      "program_name": "Lucrezia Ravera & Jordan T. Francois Geometric Relational Dressing-Field Gauge Gravity program"
     },
     {
       "blue_team_upgrades_count": 12,
@@ -4052,6 +4100,18 @@
       "program_name": "Baars Global Workspace Theory"
     },
     {
+      "blue_team_upgrades_count": 13,
+      "display_code": "allen-varga-heck-respiratory-predictive-mind",
+      "domain_group": "neuroscience",
+      "earliest_micah_year": 2010,
+      "earliest_target_year": 2021,
+      "governed_wins": 22,
+      "latest_target_year": 2021,
+      "lens4_audited": true,
+      "program_id": "rival-allen-varga-heck-respiratory-predictive-mind",
+      "program_name": "Micah Allen, Somogy Varga & Detlef H. Heck Respiratory Rhythms of the Predictive Mind program"
+    },
+    {
       "blue_team_upgrades_count": 1,
       "display_code": "llinas-thalamocortical-oscillation",
       "domain_group": "neuroscience",
@@ -4412,9 +4472,9 @@
       "program_name": "Murphy's Non-Reductive Physicalism"
     }
   ],
-  "live_governed_wins": 16694,
+  "live_governed_wins": 16854,
   "method_lock": "1.5.7",
-  "schema": "public-one-ledger-timeline-atlas-v7",
+  "schema": "public-one-ledger-timeline-atlas-v71",
   "year_max": 2026,
   "year_min": 2010
 }

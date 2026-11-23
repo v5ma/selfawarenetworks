@@ -30,12 +30,12 @@
           "evidence_grade": "B"
         }
       ],
-      "convergent_programs_count": 67,
+      "convergent_programs_count": 70,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "distributed",
             "predictive"
@@ -294,9 +294,9 @@
           ]
         },
         {
-          "pid": "rival-penrose-hameroff-orchestrated-objective-reduction",
-          "pname": "Penrose Hameroff Orchestrated Objective Reduction",
-          "wins": 45,
+          "pid": "rival-newell-soar-common-model-lineage",
+          "pname": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
+          "wins": 51,
           "shared": [
             "distributed",
             "predictive"
@@ -365,7 +365,7 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 40,
+      "convergent_programs_count": 41,
       "convergent_programs": [
         {
           "pid": "rival-hawkins-htm-thousand-brains",
@@ -479,6 +479,15 @@
           "pid": "rival-tsao-astera-consciousness-engineering",
           "pname": "Doris Y. Tsao Astera Neuro Understanding and Engineering Consciousness program",
           "wins": 143,
+          "shared": [
+            "generative",
+            "predictive"
+          ]
+        },
+        {
+          "pid": "rival-newell-soar-common-model-lineage",
+          "pname": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
+          "wins": 51,
           "shared": [
             "generative",
             "predictive"
@@ -627,15 +636,6 @@
             "generative",
             "predictive"
           ]
-        },
-        {
-          "pid": "rival-bsb-zhang-occupancy-world-model-for-robots",
-          "pname": "Zhang Zhang et al. (2025) Occupancy World Model for Robots",
-          "wins": 15,
-          "shared": [
-            "generative",
-            "predictive"
-          ]
         }
       ]
     },
@@ -668,12 +668,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 135,
+      "convergent_programs_count": 138,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "distributed",
             "predictive"
@@ -1021,12 +1021,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 17,
+      "convergent_programs_count": 19,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "coincidence",
             "control"
@@ -1114,9 +1114,27 @@
           ]
         },
         {
+          "pid": "rival-naumenko-difference-based-cognitive-architecture",
+          "pname": "Oleksandr Naumenko Difference-Based Cognitive Architecture program",
+          "wins": 42,
+          "shared": [
+            "coincidence",
+            "control"
+          ]
+        },
+        {
           "pid": "rival-muller-chavane-reynolds-sejnowski-cortical-travelling-waves",
           "pname": "Muller Chavane Reynolds Sejnowski Cortical Travelling Waves",
           "wins": 35,
+          "shared": [
+            "coincidence",
+            "control"
+          ]
+        },
+        {
+          "pid": "rival-allen-varga-heck-respiratory-predictive-mind",
+          "pname": "Micah Allen, Somogy Varga & Detlef H. Heck Respiratory Rhythms of the Predictive Mind program",
+          "wins": 22,
           "shared": [
             "coincidence",
             "control"
@@ -1207,12 +1225,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 83,
+      "convergent_programs_count": 84,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "dendritic",
             "feedback",
@@ -1525,12 +1543,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 61,
+      "convergent_programs_count": 62,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "distributed",
             "recurrent"
@@ -1785,22 +1803,22 @@
           ]
         },
         {
+          "pid": "rival-newell-soar-common-model-lineage",
+          "pname": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
+          "wins": 51,
+          "shared": [
+            "distributed",
+            "recurrent",
+            "thalamic"
+          ]
+        },
+        {
           "pid": "rival-penrose-hameroff-orchestrated-objective-reduction",
           "pname": "Penrose Hameroff Orchestrated Objective Reduction",
           "wins": 45,
           "shared": [
             "distributed",
             "recurrent"
-          ]
-        },
-        {
-          "pid": "rival-grossberg-adaptive-resonance",
-          "pname": "Grossberg Adaptive Resonance",
-          "wins": 44,
-          "shared": [
-            "distributed",
-            "recurrent",
-            "thalamic"
           ]
         }
       ]
@@ -1873,12 +1891,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 199,
+      "convergent_programs_count": 203,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "oscillatory",
             "phase"
@@ -2120,6 +2138,15 @@
           ]
         },
         {
+          "pid": "rival-newell-soar-common-model-lineage",
+          "pname": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
+          "wins": 51,
+          "shared": [
+            "oscillatory",
+            "phase"
+          ]
+        },
+        {
           "pid": "rival-penrose-hameroff-orchestrated-objective-reduction",
           "pname": "Penrose Hameroff Orchestrated Objective Reduction",
           "wins": 45,
@@ -2133,15 +2160,6 @@
           "pid": "rival-uchiyama-takahashi-kansaku-flicker-phase-synchrony",
           "pname": "Uchiyama Takahashi Kansaku Flicker Phase Synchrony Awareness",
           "wins": 42,
-          "shared": [
-            "oscillatory",
-            "phase"
-          ]
-        },
-        {
-          "pid": "rival-bianconi-gravity-from-entropy",
-          "pname": "Bianconi Gravity From Entropy",
-          "wins": 36,
           "shared": [
             "oscillatory",
             "phase"
@@ -2218,12 +2236,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 103,
+      "convergent_programs_count": 105,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "distributed",
             "phase"
@@ -2676,12 +2694,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 235,
+      "convergent_programs_count": 238,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "error",
             "phase",
@@ -3035,12 +3053,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 278,
+      "convergent_programs_count": 283,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "coincidence",
             "feedback",
@@ -3538,12 +3556,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 232,
+      "convergent_programs_count": 235,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "field",
             "phase"
@@ -4338,12 +4356,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 70,
+      "convergent_programs_count": 73,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "distributed",
             "representation"
@@ -4584,6 +4602,15 @@
           ]
         },
         {
+          "pid": "rival-newell-soar-common-model-lineage",
+          "pname": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
+          "wins": 51,
+          "shared": [
+            "distributed",
+            "representation"
+          ]
+        },
+        {
           "pid": "rival-penrose-hameroff-orchestrated-objective-reduction",
           "pname": "Penrose Hameroff Orchestrated Objective Reduction",
           "wins": 45,
@@ -4593,18 +4620,9 @@
           ]
         },
         {
-          "pid": "rival-uchiyama-takahashi-kansaku-flicker-phase-synchrony",
-          "pname": "Uchiyama Takahashi Kansaku Flicker Phase Synchrony Awareness",
+          "pid": "rival-naumenko-difference-based-cognitive-architecture",
+          "pname": "Oleksandr Naumenko Difference-Based Cognitive Architecture program",
           "wins": 42,
-          "shared": [
-            "distributed",
-            "representation"
-          ]
-        },
-        {
-          "pid": "rival-eagleman-neural-competition",
-          "pname": "Eagleman Neural Competition",
-          "wins": 38,
           "shared": [
             "distributed",
             "representation"
@@ -4649,12 +4667,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 70,
+      "convergent_programs_count": 73,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "distributed",
             "representation"
@@ -4895,6 +4913,15 @@
           ]
         },
         {
+          "pid": "rival-newell-soar-common-model-lineage",
+          "pname": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
+          "wins": 51,
+          "shared": [
+            "distributed",
+            "representation"
+          ]
+        },
+        {
           "pid": "rival-penrose-hameroff-orchestrated-objective-reduction",
           "pname": "Penrose Hameroff Orchestrated Objective Reduction",
           "wins": 45,
@@ -4904,18 +4931,9 @@
           ]
         },
         {
-          "pid": "rival-uchiyama-takahashi-kansaku-flicker-phase-synchrony",
-          "pname": "Uchiyama Takahashi Kansaku Flicker Phase Synchrony Awareness",
+          "pid": "rival-naumenko-difference-based-cognitive-architecture",
+          "pname": "Oleksandr Naumenko Difference-Based Cognitive Architecture program",
           "wins": 42,
-          "shared": [
-            "distributed",
-            "representation"
-          ]
-        },
-        {
-          "pid": "rival-eagleman-neural-competition",
-          "pname": "Eagleman Neural Competition",
-          "wins": 38,
           "shared": [
             "distributed",
             "representation"
@@ -5087,7 +5105,7 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 138,
+      "convergent_programs_count": 141,
       "convergent_programs": [
         {
           "pid": "rival-qri-qualia-valence-wave-computing",
@@ -5226,6 +5244,15 @@
           ]
         },
         {
+          "pid": "rival-ravera-francois-relational-dressing-field-gravity",
+          "pname": "Lucrezia Ravera & Jordan T. Francois Geometric Relational Dressing-Field Gauge Gravity program",
+          "wins": 32,
+          "shared": [
+            "dark",
+            "energy"
+          ]
+        },
+        {
           "pid": "rival-kringelbach-deco-one-operator-harmonics",
           "pname": "Morten L. Kringelbach & Gustavo Deco One Operator Brain Dynamics program (2008-2026)",
           "wins": 30,
@@ -5348,15 +5375,6 @@
         {
           "pid": "rival-fernandes-resonant-coherence-field-theory",
           "pname": "Fernandes Resonant Coherence Field Theory",
-          "wins": 24,
-          "shared": [
-            "dark",
-            "energy"
-          ]
-        },
-        {
-          "pid": "rival-flores-zero-infinity-holographic-strings",
-          "pname": "Flores Zero Infinity Holographic Strings",
           "wins": 24,
           "shared": [
             "dark",
@@ -5596,12 +5614,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 193,
+      "convergent_programs_count": 195,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "control",
             "dendritic",
@@ -6009,12 +6027,12 @@
           "evidence_grade": "A"
         }
       ],
-      "convergent_programs_count": 114,
+      "convergent_programs_count": 115,
       "convergent_programs": [
         {
           "pid": "rival-miller-spatial-computing",
           "pname": "Miller Spatial Computing",
-          "wins": 1171,
+          "wins": 1177,
           "shared": [
             "feedback",
             "recurrent",

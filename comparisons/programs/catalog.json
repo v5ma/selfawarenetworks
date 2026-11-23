@@ -1,10 +1,11 @@
 {
-  "active_programs": 367,
+  "active_programs": 372,
   "ai_chat_verified_prepub_anchors": 931,
-  "blue_team_upgrades_total": 1550,
-  "live_governed_wins": 16694,
+  "blue_team_upgrades_total": 1596,
+  "live_governed_wins": 16854,
   "method_lock": "1.5.7",
   "open_source_gated_passages": 516,
+  "priority_index_records": 3788,
   "programs": [
     {
       "ai_chat_prepub_anchors_count": 0,
@@ -5869,11 +5870,11 @@
       "domains": "consciousness; neuroscience; sensorimotor; vision",
       "dossier_shard": "data/rival-miller-spatial-computing.json",
       "earliest_micah_year": 2011,
-      "governed_wins": 1171,
+      "governed_wins": 1177,
       "grade_breakdown": {
-        "medium-partial": 542,
+        "medium-partial": 545,
         "other-graded": 14,
-        "strong": 315,
+        "strong": 318,
         "weak-partial": 300
       },
       "latest_target_year": 2026,
@@ -5883,14 +5884,14 @@
         "miller-napot-partial-equivalence-correction-20260713",
         "miller-theta-journal-extension-longitudinal-2009-2026-20261122"
       ],
-      "listed_author_edges": 5339,
+      "listed_author_edges": 5369,
       "program_id": "rival-miller-spatial-computing",
       "program_name": "Miller Spatial Computing",
       "rival_awards": 0,
       "rival_wins": 0,
       "source_gated": 13,
       "status": "governed-floor-active",
-      "verbatim_both": 1158
+      "verbatim_both": 1164
     },
     {
       "accounting_reason": "Closed-access book, paywalled journal paper, or unindexed monograph with no open-access full text available via arXiv, bioRxiv, EuropePMC, Zenodo, or OpenAlex.",
@@ -15356,20 +15357,164 @@
       "source_gated": 0,
       "status": "governed-floor-active",
       "verbatim_both": 22
+    },
+    {
+      "ai_chat_prepub_anchors_count": 0,
+      "authors": "Micah Allen, Somogy Varga, Detlef H. Heck",
+      "blue_team_upgrades_count": 13,
+      "display_code": "allen-varga-heck-respiratory-predictive-mind",
+      "domain_group": "neuroscience",
+      "domains": "neuroscience; predictive-processing; oscillations; interoception",
+      "dossier_shard": "data/rival-allen-varga-heck-respiratory-predictive-mind.json",
+      "earliest_micah_year": 2010,
+      "governed_wins": 22,
+      "grade_breakdown": {
+        "medium-partial": 13,
+        "strong": 8,
+        "weak-partial": 1
+      },
+      "latest_target_year": 2021,
+      "lens4_audited": true,
+      "lens4_event_ids": [
+        "allen-varga-heck-respiratory-predictive-mind-longitudinal-audit-20261123-v71"
+      ],
+      "listed_author_edges": 66,
+      "program_id": "rival-allen-varga-heck-respiratory-predictive-mind",
+      "program_name": "Micah Allen, Somogy Varga & Detlef H. Heck Respiratory Rhythms of the Predictive Mind program",
+      "rival_awards": 0,
+      "rival_wins": 0,
+      "source_gated": 0,
+      "status": "governed-floor-active",
+      "verbatim_both": 22
+    },
+    {
+      "ai_chat_prepub_anchors_count": 0,
+      "authors": "Raoul Bianchetti",
+      "blue_team_upgrades_count": 0,
+      "display_code": "bianchetti-viscous-time-theory",
+      "domain_group": "physics",
+      "domains": "physics; gravity; time-density; information-theory",
+      "dossier_shard": "data/rival-bianchetti-viscous-time-theory.json",
+      "earliest_micah_year": 2022,
+      "governed_wins": 7,
+      "grade_breakdown": {
+        "medium-partial": 5,
+        "weak-partial": 2
+      },
+      "latest_target_year": 2025,
+      "lens4_audited": true,
+      "lens4_event_ids": [
+        "bianchetti-viscous-time-theory-longitudinal-audit-20261123-v71"
+      ],
+      "listed_author_edges": 7,
+      "program_id": "rival-bianchetti-viscous-time-theory",
+      "program_name": "Raoul Bianchetti Viscous Time Theory (VTT) program",
+      "rival_awards": 0,
+      "rival_wins": 0,
+      "source_gated": 0,
+      "status": "governed-floor-active",
+      "verbatim_both": 7
+    },
+    {
+      "ai_chat_prepub_anchors_count": 0,
+      "authors": "Oleksandr Naumenko",
+      "blue_team_upgrades_count": 8,
+      "display_code": "naumenko-difference-based-cognitive-architecture",
+      "domain_group": "neuroscience",
+      "domains": "cognitive-science; artificial-intelligence; cognitive-architecture",
+      "dossier_shard": "data/rival-naumenko-difference-based-cognitive-architecture.json",
+      "earliest_micah_year": 2012,
+      "governed_wins": 42,
+      "grade_breakdown": {
+        "medium-partial": 10,
+        "strong": 3,
+        "weak-partial": 29
+      },
+      "latest_target_year": 2026,
+      "lens4_audited": true,
+      "lens4_event_ids": [
+        "naumenko-difference-based-cognitive-architecture-longitudinal-audit-20261123-v71"
+      ],
+      "listed_author_edges": 42,
+      "program_id": "rival-naumenko-difference-based-cognitive-architecture",
+      "program_name": "Oleksandr Naumenko Difference-Based Cognitive Architecture program",
+      "rival_awards": 0,
+      "rival_wins": 0,
+      "source_gated": 0,
+      "status": "governed-floor-active",
+      "verbatim_both": 42
+    },
+    {
+      "ai_chat_prepub_anchors_count": 0,
+      "authors": "John E. Laird, Christian Lebiere, Paul S. Rosenbloom, Bryan Stearns, Andrea Stocco, Catherine Sibert, Zoe Steine-Hanson, Natalie Koh, Christian J. Lebiere, Paul Rosenbloom, Alexander Ororbia, M. A. Kelly, Holly Sue Hake, Richard H. Granger, Christian Huyck",
+      "blue_team_upgrades_count": 9,
+      "display_code": "newell-soar-common-model-lineage",
+      "domain_group": "neuroscience",
+      "domains": "cognitive-science; cognitive-architecture; neuroscience; artificial-intelligence",
+      "dossier_shard": "data/rival-newell-soar-common-model-lineage.json",
+      "earliest_micah_year": 2011,
+      "governed_wins": 51,
+      "grade_breakdown": {
+        "medium-partial": 19,
+        "strong": 3,
+        "weak-partial": 29
+      },
+      "latest_target_year": 2025,
+      "lens4_audited": true,
+      "lens4_event_ids": [
+        "newell-soar-common-model-lineage-longitudinal-audit-20261123-v71"
+      ],
+      "listed_author_edges": 200,
+      "program_id": "rival-newell-soar-common-model-lineage",
+      "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
+      "rival_awards": 0,
+      "rival_wins": 0,
+      "source_gated": 0,
+      "status": "governed-floor-active",
+      "verbatim_both": 51
+    },
+    {
+      "ai_chat_prepub_anchors_count": 0,
+      "authors": "Jordan T. Francois, Lucrezia Ravera",
+      "blue_team_upgrades_count": 16,
+      "display_code": "ravera-francois-relational-dressing-field-gravity",
+      "domain_group": "physics",
+      "domains": "physics; gravity; gauge-theory; mathematical-physics",
+      "dossier_shard": "data/rival-ravera-francois-relational-dressing-field-gravity.json",
+      "earliest_micah_year": 2022,
+      "governed_wins": 32,
+      "grade_breakdown": {
+        "medium-partial": 16,
+        "strong": 15,
+        "weak-partial": 1
+      },
+      "latest_target_year": 2024,
+      "lens4_audited": true,
+      "lens4_event_ids": [
+        "ravera-francois-relational-dressing-field-gravity-longitudinal-audit-20261123-v71"
+      ],
+      "listed_author_edges": 64,
+      "program_id": "rival-ravera-francois-relational-dressing-field-gravity",
+      "program_name": "Lucrezia Ravera & Jordan T. Francois Geometric Relational Dressing-Field Gauge Gravity program",
+      "rival_awards": 0,
+      "rival_wins": 0,
+      "source_gated": 0,
+      "status": "governed-floor-active",
+      "verbatim_both": 32
     }
   ],
   "registered_open_programs": 191,
   "rival_award_count": 0,
   "rival_win_count": 0,
-  "schema": "public-one-ledger-program-catalog-v7",
+  "schema": "public-one-ledger-program-catalog-v71",
   "strength_tier_breakdown": {
-    "medium-partial": 4239,
+    "medium-partial": 4305,
     "other-graded": 184,
-    "strong": 5326,
-    "weak-partial": 6809,
+    "strong": 5358,
+    "weak-partial": 6871,
     "weak-partial-cross-domain": 136
   },
-  "total_listed_author_edges": 73955,
-  "total_registered_programs": 558,
-  "verbatim_both_recovered": 16178
+  "total_listed_author_edges": 74364,
+  "total_registered_programs": 563,
+  "verbatim_both_recovered": 16338
 }

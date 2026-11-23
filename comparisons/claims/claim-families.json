@@ -10,7 +10,7 @@
         {
           "program_id": "rival-miller-spatial-computing",
           "program_name": "Miller Spatial Computing",
-          "win_count": 723
+          "win_count": 724
         },
         {
           "program_id": "rival-hawkins-htm-thousand-brains",
@@ -208,6 +208,11 @@
           "win_count": 37
         },
         {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
+          "win_count": 35
+        },
+        {
           "program_id": "rival-jones-breakspear-compression-regeneration",
           "program_name": "Jones Breakspear Compression Regeneration Hippocampal Latent Diffusion",
           "win_count": 31
@@ -233,6 +238,11 @@
           "win_count": 25
         },
         {
+          "program_id": "rival-naumenko-difference-based-cognitive-architecture",
+          "program_name": "Oleksandr Naumenko Difference-Based Cognitive Architecture program",
+          "win_count": 23
+        },
+        {
           "program_id": "rival-bennett-stack-theory-conscious-machines",
           "program_name": "Bennett Stack Theory Conscious Machines",
           "win_count": 22
@@ -240,6 +250,11 @@
         {
           "program_id": "rival-silva-chang-wernicke-generative-speech",
           "program_name": "Silva Leonard Hullett Levy Wang Xu Bhaya-Grossman Chang Wernicke Generative Speech Code",
+          "win_count": 22
+        },
+        {
+          "program_id": "rival-allen-varga-heck-respiratory-predictive-mind",
+          "program_name": "Micah Allen, Somogy Varga & Detlef H. Heck Respiratory Rhythms of the Predictive Mind program",
           "win_count": 22
         },
         {
@@ -1225,7 +1240,7 @@
       ],
       "family_id": "CF01-PREDICTIVE-SELF-WORLD",
       "label": "Predictive Self, World-Model Rendering & Consciousness",
-      "program_count": 244,
+      "program_count": 247,
       "sample_wins": [
         {
           "program_id": "field-predictive-coding-document-lineage",
@@ -1300,14 +1315,14 @@
           "win_id": "PCF-D18K-A02-M17-03"
         }
       ],
-      "win_count": 9594
+      "win_count": 9675
     },
     {
       "all_programs": [
         {
           "program_id": "rival-miller-spatial-computing",
           "program_name": "Miller Spatial Computing",
-          "win_count": 397
+          "win_count": 402
         },
         {
           "program_id": "rival-qri-qualia-valence-wave-computing",
@@ -1540,6 +1555,11 @@
           "win_count": 9
         },
         {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
+          "win_count": 9
+        },
+        {
           "program_id": "rival-canhuang-luo-ester-bidirectional-traveling-waves",
           "program_name": "Canhuang Luo Ester Bidirectional Traveling Waves",
           "win_count": 8
@@ -1562,6 +1582,11 @@
         {
           "program_id": "rival-structural-meta-theory-distinction-coherence-admissibility-author-unresolved",
           "program_name": "Structural Meta Theory Distinction Coherence Admissibility Author Unresolved",
+          "win_count": 8
+        },
+        {
+          "program_id": "rival-naumenko-difference-based-cognitive-architecture",
+          "program_name": "Oleksandr Naumenko Difference-Based Cognitive Architecture program",
           "win_count": 8
         },
         {
@@ -2237,7 +2262,7 @@
       ],
       "family_id": "CF02-OSCILLATION-PHASE-WAVES",
       "label": "Neural Oscillations, Phase Coding, Traveling Waves & Harmonics",
-      "program_count": 186,
+      "program_count": 188,
       "sample_wins": [
         {
           "program_id": "framework-energy-momentum-squared-gravity",
@@ -2312,7 +2337,7 @@
           "win_id": "AVR-DOCWIN-MULTISCALE2025-M2022-NAPOT-PWD-MULTISCALE-PREFIX"
         }
       ],
-      "win_count": 2219
+      "win_count": 2241
     },
     {
       "all_programs": [
@@ -2452,6 +2477,11 @@
           "win_count": 11
         },
         {
+          "program_id": "rival-naumenko-difference-based-cognitive-architecture",
+          "program_name": "Oleksandr Naumenko Difference-Based Cognitive Architecture program",
+          "win_count": 11
+        },
+        {
           "program_id": "rival-abbaspoor-aljishi-hoffman-memory-metassemblies",
           "program_name": "Abbaspoor Aljishi Hoffman Memory Traces And Metassemblies",
           "win_count": 10
@@ -2489,6 +2519,11 @@
         {
           "program_id": "rival-vaughn-civic-coherence-under-law",
           "program_name": "Vaughn Civic Coherence Under Law",
+          "win_count": 7
+        },
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
           "win_count": 7
         },
         {
@@ -2799,7 +2834,7 @@
       ],
       "family_id": "CF03-DENDRITIC-COINCIDENCE-GATING",
       "label": "Dendritic Computation, Coincidence Detection & Synaptic Criteria",
-      "program_count": 96,
+      "program_count": 98,
       "sample_wins": [
         {
           "program_id": "field-predictive-coding-document-lineage",
@@ -2874,7 +2909,7 @@
           "win_id": "ALJ-A18BAT-03-M17"
         }
       ],
-      "win_count": 2005
+      "win_count": 2023
     },
     {
       "all_programs": [
@@ -4005,6 +4040,11 @@
           "win_count": 33
         },
         {
+          "program_id": "rival-ravera-francois-relational-dressing-field-gravity",
+          "program_name": "Lucrezia Ravera & Jordan T. Francois Geometric Relational Dressing-Field Gauge Gravity program",
+          "win_count": 32
+        },
+        {
           "program_id": "rival-penrose-hameroff-orchestrated-objective-reduction",
           "program_name": "Penrose Hameroff Orchestrated Objective Reduction",
           "win_count": 30
@@ -4430,6 +4470,11 @@
           "win_count": 7
         },
         {
+          "program_id": "rival-bianchetti-viscous-time-theory",
+          "program_name": "Raoul Bianchetti Viscous Time Theory (VTT) program",
+          "win_count": 7
+        },
+        {
           "program_id": "rival-jordon-theoretical-harmonic-resonance-field-model",
           "program_name": "Jordon Theoretical Harmonic Resonance Field Model",
           "win_count": 6
@@ -4747,7 +4792,7 @@
       ],
       "family_id": "CF07-SIT-QGTCD-COSMOLOGY-GAUGE",
       "label": "SIT, QGTCD, Dark Time, Gravity, Gauge & Cosmology Physics",
-      "program_count": 156,
+      "program_count": 158,
       "sample_wins": [
         {
           "program_id": "conjecture-er-epr",
@@ -4822,7 +4867,7 @@
           "win_id": "EREPR-DOCWIN-J2026-M2022-A0049-PHASE-FIELD-GRAVITY"
         }
       ],
-      "win_count": 2034
+      "win_count": 2073
     },
     {
       "all_programs": [
@@ -5693,9 +5738,9 @@
     }
   ],
   "family_count": 8,
-  "live_governed_wins": 16694,
+  "live_governed_wins": 16854,
   "method_lock": "1.5.7",
   "rival_award_count": 0,
   "rival_win_count": 0,
-  "schema": "public-one-ledger-claim-families-v7"
+  "schema": "public-one-ledger-claim-families-v71"
 }

@@ -1,22 +1,22 @@
 {
   "schema": "three-view-visual-evidence-maps-index-v6",
-  "generated_at": "2026-11-23T11:18:25Z",
+  "generated_at": "2026-11-23T18:19:50Z",
   "method_lock": "1.5.7",
-  "total_programs_mapped": 367,
+  "total_programs_mapped": 372,
   "flagship_programs_count": 50,
-  "pdf_page_anchored_programs": 28,
-  "total_visual_connectors": 5598,
+  "pdf_page_anchored_programs": 31,
+  "total_visual_connectors": 5685,
   "programs": [
     {
       "pid": "rival-miller-spatial-computing",
       "pname": "Miller Spatial Computing",
       "domains": "consciousness; neuroscience; sensorimotor; vision",
       "flagship": true,
-      "wins": 1171,
+      "wins": 1177,
       "bt": 21,
       "connectors": 36,
       "pdf_anchored": 17,
-      "ladder_years": 12,
+      "ladder_years": 13,
       "earliest_san": "2011-02-22",
       "earliest_target": "2016-01-01",
       "shard": "m"
@@ -610,6 +610,20 @@
       "shard": "w"
     },
     {
+      "pid": "rival-newell-soar-common-model-lineage",
+      "pname": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
+      "domains": "cognitive-science; cognitive-architecture; neuroscience; artificial-intelligence",
+      "flagship": true,
+      "wins": 51,
+      "bt": 9,
+      "connectors": 36,
+      "pdf_anchored": 36,
+      "ladder_years": 11,
+      "earliest_san": "2011-01-01",
+      "earliest_target": "2017-12-28",
+      "shard": "n"
+    },
+    {
       "pid": "rival-penrose-hameroff-orchestrated-objective-reduction",
       "pname": "Penrose Hameroff Orchestrated Objective Reduction",
       "domains": "consciousness; neuroscience; physics",
@@ -666,6 +680,20 @@
       "shard": "u"
     },
     {
+      "pid": "rival-naumenko-difference-based-cognitive-architecture",
+      "pname": "Oleksandr Naumenko Difference-Based Cognitive Architecture program",
+      "domains": "cognitive-science; artificial-intelligence; cognitive-architecture",
+      "flagship": true,
+      "wins": 42,
+      "bt": 8,
+      "connectors": 36,
+      "pdf_anchored": 0,
+      "ladder_years": 6,
+      "earliest_san": "2012-01-01",
+      "earliest_target": "2023-01-17",
+      "shard": "n"
+    },
+    {
       "pid": "rival-grosvenor-solis-surowka-plasticity-gauge",
       "pname": "Kevin T. Grosvenor, Mario Solís & Piotr Surówka Gauge-Theoretic Plasticity program (1989-2026)",
       "domains": "physics; cosmology",
@@ -683,10 +711,10 @@
       "pid": "rival-milgrom-mond",
       "pname": "Milgrom Mond",
       "domains": "physics",
-      "flagship": true,
+      "flagship": false,
       "wins": 40,
       "bt": 2,
-      "connectors": 36,
+      "connectors": 20,
       "pdf_anchored": 0,
       "ladder_years": 2,
       "earliest_san": "2022-06-08",
@@ -697,10 +725,10 @@
       "pid": "rival-wolfram-observer-consciousness-theory",
       "pname": "Wolfram Observer Consciousness Theory",
       "domains": "consciousness; neuroscience; physics",
-      "flagship": true,
+      "flagship": false,
       "wins": 39,
       "bt": 0,
-      "connectors": 36,
+      "connectors": 20,
       "pdf_anchored": 2,
       "ladder_years": 5,
       "earliest_san": "2011-08-24",
@@ -944,6 +972,20 @@
       "earliest_san": "2012-06-05",
       "earliest_target": "2026-07-29",
       "shard": "k"
+    },
+    {
+      "pid": "rival-ravera-francois-relational-dressing-field-gravity",
+      "pname": "Lucrezia Ravera & Jordan T. Francois Geometric Relational Dressing-Field Gauge Gravity program",
+      "domains": "physics; gravity; gauge-theory; mathematical-physics",
+      "flagship": false,
+      "wins": 32,
+      "bt": 16,
+      "connectors": 20,
+      "pdf_anchored": 20,
+      "ladder_years": 2,
+      "earliest_san": "2022-06-08",
+      "earliest_target": "2024-07-04",
+      "shard": "r"
     },
     {
       "pid": "rival-vaughn-memnora-coherence-system",
@@ -1588,6 +1630,20 @@
       "earliest_san": "2011-08-24",
       "earliest_target": "2025-04-26",
       "shard": "v"
+    },
+    {
+      "pid": "rival-allen-varga-heck-respiratory-predictive-mind",
+      "pname": "Micah Allen, Somogy Varga & Detlef H. Heck Respiratory Rhythms of the Predictive Mind program",
+      "domains": "neuroscience; predictive-processing; oscillations; interoception",
+      "flagship": false,
+      "wins": 22,
+      "bt": 13,
+      "connectors": 20,
+      "pdf_anchored": 20,
+      "ladder_years": 6,
+      "earliest_san": "2010-07-16",
+      "earliest_target": "2021-08-19",
+      "shard": "a"
     },
     {
       "pid": "rival-lahtee-causal-state-history-information-universe",
@@ -3996,6 +4052,20 @@
       "earliest_san": "2021-02-02",
       "earliest_target": "2024-03-01",
       "shard": "s"
+    },
+    {
+      "pid": "rival-bianchetti-viscous-time-theory",
+      "pname": "Raoul Bianchetti Viscous Time Theory (VTT) program",
+      "domains": "physics; gravity; time-density; information-theory",
+      "flagship": false,
+      "wins": 7,
+      "bt": 0,
+      "connectors": 7,
+      "pdf_anchored": 0,
+      "ladder_years": 3,
+      "earliest_san": "2022-06-08",
+      "earliest_target": "2025-04-19",
+      "shard": "b"
     },
     {
       "pid": "rival-partanen-tulkki-u1-gauge-gravity",

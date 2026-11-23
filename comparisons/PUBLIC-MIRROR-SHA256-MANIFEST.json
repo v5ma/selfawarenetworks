@@ -1,170 +1,169 @@
 {
-  "schema": "comparison-encyclopedia-edition-v7-public-github-mirror-manifest",
-  "generated_at": "2026-11-23T11:20:07Z",
-  "target_repo": "github.com/v5ma/selfawarenetworks/comparisons",
+  "schema": "comparison-encyclopedia-public-mirror-sha256-manifest-v71",
+  "generated_at": "2026-11-23T18:30:53Z",
   "method_lock": "1.5.7",
-  "file_count": 505,
-  "total_bytes": 163805838,
-  "max_file_bytes": 10338126,
-  "zero_private_paths": true,
-  "zero_secrets": true,
-  "zero_pdfs": true,
-  "zero_nul_bytes": true,
+  "live_governed_floor": 16854,
+  "active_programs": 372,
+  "total_programs": 563,
+  "priority_index_records": 3788,
+  "miller_wins": 1177,
+  "file_count": 513,
+  "total_bytes": 171995322,
   "files": [
     {
       "path": "authors/author-directory.json",
-      "bytes": 906900,
-      "sha256": "E1299B55477135A5BB1DD02E09E4A0140D11E470C2978D9613912785DD3BBECC"
+      "bytes": 915127,
+      "sha256": "269F0E35F46E8D3B2EB49DDDCEEED97EDB786DE9878D7DBEE0E0378BB4D305C4"
     },
     {
       "path": "authors/index.html",
-      "bytes": 6523,
-      "sha256": "9463A44F1852E2EB4CB5C6A605EC520E919B959BEA1D100F232DE10F4B49A8C7"
+      "bytes": 6392,
+      "sha256": "D31B2F39C41B16F875B5A1467D541F04F5697042F42229B15E5043C113F71F86"
     },
     {
       "path": "authors/profile.html",
-      "bytes": 12774,
-      "sha256": "BD725975623246A4F87AC75E7B0B4C884C3093F9B1FAFD460408C7598D791A76"
+      "bytes": 12643,
+      "sha256": "367D4A28A808FE1BA7BC5B70E34BED3CDB1530F411506DD377080DEBC5706CFD"
     },
     {
       "path": "authors/profiles-shards/a.json",
-      "bytes": 4820916,
-      "sha256": "B1D476948096052B64EC35C46DBC9E0E4E5B6A2C37ED3F4C3C81A49F58B440C2"
+      "bytes": 4829070,
+      "sha256": "EF4C00F6C287A109F977D6E30B2EC40EB8284D072B4FB9B0B582E384E5FB84E9"
     },
     {
       "path": "authors/profiles-shards/b.json",
-      "bytes": 1635753,
-      "sha256": "6B49DFDC42EA891CD4D32D970ACA86280E802E89E36D8806AA0FF9FC5E9F05A8"
+      "bytes": 1630935,
+      "sha256": "4A6CEE933081B4DFA7F8F956BC9F7BE51C7F1A22CF7D71741FCA20D4663EDD9D"
     },
     {
       "path": "authors/profiles-shards/c.json",
-      "bytes": 3113361,
-      "sha256": "536FE89AC6B2D8D55A4CA03066A76432EE1111EB2BE8D7D5CABB2CD4B965F20F"
+      "bytes": 3156978,
+      "sha256": "41387370D27B5B00C01797987B92F62CDE2CCF4C6F33A6D7EEF03EB2B0EE6D86"
     },
     {
       "path": "authors/profiles-shards/d.json",
-      "bytes": 2632475,
-      "sha256": "3B25ED56A98B96AF03132F76D78D4F625747B615A0842B73A79FBE156E68A3BA"
+      "bytes": 2640007,
+      "sha256": "6F494B2ECDEFBF801A01D069BFF4DD89BD3D3A07ACBFBCFA0814B72D9BE93BCE"
     },
     {
       "path": "authors/profiles-shards/e.json",
-      "bytes": 1298317,
-      "sha256": "E875FABB18893958315F59E6249BEE45649015F019AB56F03AE98928ED7D358D"
+      "bytes": 1286050,
+      "sha256": "566DD623A9CE7F924F8155AC9E6EB2F15B2CD879EF7CEC3E034A705FA9D6AF2C"
     },
     {
       "path": "authors/profiles-shards/f.json",
-      "bytes": 1434363,
-      "sha256": "224475F3E9B96C1298FEA65CDF32DF934912C8D3FA9326DA05E2F6A1007DD491"
+      "bytes": 1428086,
+      "sha256": "B8AAC6FD3623085B975F1C1DEF1463F472B3AFC66E33820B995AA44A46BFBBBE"
     },
     {
       "path": "authors/profiles-shards/g.json",
-      "bytes": 2004041,
-      "sha256": "1C8B438ABEA5FFD24BFC4D3F1CE260CE0BFEB08023FC7021A09503AFB218FCBE"
+      "bytes": 1992087,
+      "sha256": "01527C7CDE5EBA69F183DF0B5FC48C02E7C411F3CEC827E21A07984B2ED4170F"
     },
     {
       "path": "authors/profiles-shards/h.json",
-      "bytes": 1791004,
-      "sha256": "196E5A546A8319D8E9C70A04E0C55F0BC04F59206356CFF719A84A62FE87146B"
+      "bytes": 1798361,
+      "sha256": "594A7E957DEA192ABC024991E12371A1108B6558279A7DE064791CB88A7FF500"
     },
     {
       "path": "authors/profiles-shards/i.json",
-      "bytes": 566601,
-      "sha256": "6A47655822DC14BB98070728880C040D9C1DC1AF899E0A79D4E25547713D47EE"
+      "bytes": 557649,
+      "sha256": "53C3953F264A226C1027524548D77AE4695325081FE824AF2C6FEBBFE7BD72DA"
     },
     {
       "path": "authors/profiles-shards/j.json",
-      "bytes": 4507423,
-      "sha256": "0AAD24CB0FC045B81BEF783023682ABF03F3B6D5929E31C1561A1A61B5BE692C"
+      "bytes": 4560191,
+      "sha256": "CD830D59A6741C6C81DB487AA68F7647827CDA23FBD7E55011FAB73B582DCD32"
     },
     {
       "path": "authors/profiles-shards/k.json",
-      "bytes": 2371402,
-      "sha256": "D441B09D2E356046862003FC459C62E7EF0BB7A5C7EE09EF73EBBD83167AD874"
+      "bytes": 2366141,
+      "sha256": "21A926BFA9B71807B85C8DB12DDB24B9FF2DD35CCC9DAE268CA842A2685A44DA"
     },
     {
       "path": "authors/profiles-shards/l.json",
-      "bytes": 2384929,
-      "sha256": "B8C80428477A8F7DD35BEC83463262025F69B7F9451C3A8ECBC063DFC339467B"
+      "bytes": 2405746,
+      "sha256": "4ED4596C0A7ED4D17345172189520E67099D089D823B42B61BB2395ACE88D08D"
     },
     {
       "path": "authors/profiles-shards/m.json",
-      "bytes": 5449631,
-      "sha256": "7957D56221D92C0182B8C2DF00B382725172B970B9E8344390C2CBB5340F9434"
+      "bytes": 5451362,
+      "sha256": "17DCE568EE4BDD8667D0ED8BA5AC5BA09A19F373F5B30401BB362F5A8687A427"
     },
     {
       "path": "authors/profiles-shards/n.json",
-      "bytes": 1540667,
-      "sha256": "CABE240A527F17D42EC6C6A42A68F71946F26E4CC9F746C14B2625AF24B35749"
+      "bytes": 1536736,
+      "sha256": "932EE0684C69D0E730A0C032218C6232B84945340A93167A655932EF6147EAAD"
     },
     {
       "path": "authors/profiles-shards/o.json",
-      "bytes": 354536,
-      "sha256": "AC777CECE6930313708BE4322B518569BA9D7F8CA30D1E5349D3159D6FF54B36"
+      "bytes": 386979,
+      "sha256": "A1EB8EBAFFF0D9BA6514993404193050033C9B4FFBCC62D07FCCD174ACB082F2"
     },
     {
       "path": "authors/profiles-shards/p.json",
-      "bytes": 1013524,
-      "sha256": "FF930059BD13E48ECA107ED476AD9FA44D7DF2A70E1E8BED6363A49DFBA6F916"
+      "bytes": 1043283,
+      "sha256": "44AD488DBB8A97A5FE6B10CFF45233EF2093C7EBADCA538763DB7A106E2E3CB9"
     },
     {
       "path": "authors/profiles-shards/q.json",
-      "bytes": 230647,
-      "sha256": "1F039C08AF6EE8826BAEB677976441D7E5C6C56D4C6716D639D01A20208BFEE8"
+      "bytes": 231694,
+      "sha256": "AD062E3115BD64AA101B23DF8391561B3C3A85DECBC2E76827380DF52C2F33B2"
     },
     {
       "path": "authors/profiles-shards/r.json",
-      "bytes": 2706449,
-      "sha256": "B04BC5A701862D6CAA101A430AB402503F06999F77304E3935990153F8D6B1A0"
+      "bytes": 2708802,
+      "sha256": "0926770A7FB73EF731DDAFC4DB9860B7B3F546DEDC4249E9267519D19E14FC36"
     },
     {
       "path": "authors/profiles-shards/s.json",
-      "bytes": 4475582,
-      "sha256": "6DA6A446ADB3E4B5C21F4583BBD1E12C2EC070BFD24EB87BA28F995DE582DB3F"
+      "bytes": 4482358,
+      "sha256": "4A0EA3202F338FDE2743599EEE225D529F9515A6FA05547907C08D9DBF1360B6"
     },
     {
       "path": "authors/profiles-shards/t.json",
-      "bytes": 2551371,
-      "sha256": "F14521E20A1E69603EF4AFCCBBC84BDC7309B69D6A30A3FE270EC76E372BA2A1"
+      "bytes": 2549389,
+      "sha256": "1521414C78C421D4EBB2C8E368C9DE91D0468F819405A60F6FADB1CCF457B472"
     },
     {
       "path": "authors/profiles-shards/u.json",
-      "bytes": 343527,
-      "sha256": "79D82E7895BB1AFD311778A24DAFE7BCF430D909E82D720B0E5E8B46E3241C95"
+      "bytes": 342797,
+      "sha256": "F9BE1B45A7ACB5A74221D3E4B04F4EA9FAF06E862F46882B7DA56531DB2DB703"
     },
     {
       "path": "authors/profiles-shards/v.json",
-      "bytes": 725797,
-      "sha256": "DA5E0E6E105115FE6E3E5BAA5A043A03D2A994C0ADFED289517B4B60D5E630E6"
+      "bytes": 717044,
+      "sha256": "D03E0956C9DC51CA52CB2D6D89C7632F9ED872E410CDFD1D1315CB3527EADFD5"
     },
     {
       "path": "authors/profiles-shards/w.json",
-      "bytes": 612771,
-      "sha256": "552DD3690CCC451418FDE8781BA79061BEB8C30E291C8BE28577BCD940EC7019"
+      "bytes": 611787,
+      "sha256": "E7EF688342FF62976B66DD5E7A05FABFC214765F4171DE51E0ADD54B55F28AAF"
     },
     {
       "path": "authors/profiles-shards/x.json",
-      "bytes": 762934,
-      "sha256": "05795BC9B7A5C0DA7EDB13F36023751215884039A1F95D902B74AA6EA8FF8CC3"
+      "bytes": 766455,
+      "sha256": "4C5F18A0A2A6007B15CE025409B43EA6CF44DC27CB7ED160C03783FB6CF56990"
     },
     {
       "path": "authors/profiles-shards/y.json",
-      "bytes": 2040941,
-      "sha256": "8433A145B7EF134FD7D9509DD19B47644D1AB58C6CD2CF381588FE5F2CE70CC5"
+      "bytes": 2042546,
+      "sha256": "0CEC700723659F5742CC221DC5093F176A34A56DCCCC2D024BF9353F0D695A4C"
     },
     {
       "path": "authors/profiles-shards/z.json",
-      "bytes": 569758,
-      "sha256": "FCC80368DF3A85273BC7EA7C8D8FE3FFBF7441462C1FEAE6855646B9CB65C817"
+      "bytes": 577571,
+      "sha256": "C9B23E74E076D45B4E277E4067A955801B2CD548DAEFA0E61ADFF2C0C64FDD11"
     },
     {
       "path": "claims/claim-families.json",
-      "bytes": 230716,
-      "sha256": "42FC814B4AD24D217A03FE4A9E2D0153663A641CD11077A04D79B35A6AEBD112"
+      "bytes": 232819,
+      "sha256": "36936A19F8310D8A82B4652CACC593258C1109D69E99199E5D5A1EF47A06FF7A"
     },
     {
       "path": "claims/index.html",
-      "bytes": 4984,
-      "sha256": "25B66477D6C1E22813E8FDCDB2D610395A6416EB9C64356B98E73B53DE646CB6"
+      "bytes": 4853,
+      "sha256": "C4D49DE1B849185326900B603EC889FD81800FBE84209D9BBE9FF663554D9BA0"
     },
     {
       "path": "concepts/aichat-provenance-summary.json",
@@ -173,38 +172,38 @@
     },
     {
       "path": "concepts/index.html",
-      "bytes": 13819,
-      "sha256": "6DA8E7E7301F69D0A21CBB2361CAB413B4343D29BCF34021E20CB8C0A75828D9"
+      "bytes": 13688,
+      "sha256": "606AF9A3CD5B0FE148C8C530BC77341095FEFD4CD0346EDE5A77280995A3662F"
     },
     {
       "path": "concepts/recorder-184.json",
       "bytes": 155594,
-      "sha256": "81BDB76913BC3643C1F793E05C6FAD5729A87155DA13FFBD4E0713D1BB25E90E"
+      "sha256": "54D14C0AEE94CE502F6EF83F9FD362FD274A0A05DEC9F7B8D9B0F1877797EAE0"
     },
     {
       "path": "concepts/toc-v6.json",
-      "bytes": 4552482,
-      "sha256": "FF20679390DD79C12F7F928B463E8C9B0E9DB097A171BAF3E01D3C1F1C4225B0"
+      "bytes": 4552328,
+      "sha256": "2BBE1CE39FF42DD821653B6E18776675EC2FB0E191D9E50DED0FE751B0CF4381"
     },
     {
       "path": "explore/bridge-index.json",
-      "bytes": 2076178,
-      "sha256": "94578604BC684EE35D94D2D2FCD56D619E5DC9565A4FA74F4FFEAC1E35F5AA50"
+      "bytes": 2140158,
+      "sha256": "BF5092C06940386B379EFE1ADC5EDF7FD760929A65E875356F13ECB1DDD53646"
     },
     {
       "path": "explore/family-shards/CF01-PREDICTIVE-SELF-WORLD.json",
-      "bytes": 8088868,
-      "sha256": "7633D6D58BE214F21ACA848B28B50B6FCDEFEAB0B38B56B9574B51753D416981"
+      "bytes": 8161219,
+      "sha256": "C8E451D6BF257D7EDDDB2DDAB5DA65BD21BE6E665E7B60F09228AFE1DB898F76"
     },
     {
       "path": "explore/family-shards/CF02-OSCILLATION-PHASE-WAVES.json",
-      "bytes": 1688092,
-      "sha256": "471AFD7605650C79CB42445E1AFFC779B3211878813D3715C2B06A0C6F77606C"
+      "bytes": 1707136,
+      "sha256": "7513BBE2C71A92F9B0B32511C0987F85CFC3589788F6B4F4D5E9C6EB39D8B218"
     },
     {
       "path": "explore/family-shards/CF03-DENDRITIC-COINCIDENCE-GATING.json",
-      "bytes": 1631681,
-      "sha256": "5825AA64A7A35613D6E337B76D095596A314167166B7BAA47F632048F6AE7364"
+      "bytes": 1646917,
+      "sha256": "7403ED7A09C9BE6BB9E586675C630E7CE4C574773A1F95281E726F522FD11125"
     },
     {
       "path": "explore/family-shards/CF04-WORKSPACE-ATTENTION-SCHEMA.json",
@@ -223,8 +222,8 @@
     },
     {
       "path": "explore/family-shards/CF07-SIT-QGTCD-COSMOLOGY-GAUGE.json",
-      "bytes": 2010416,
-      "sha256": "F28ACDFC96071B7DC998ED64B12220EFE3AA29E54B9276B448833576E52B6184"
+      "bytes": 2045159,
+      "sha256": "DE24FBEEA7641DD2D192E7070B454EEF5FD73C6B5EC460D485FE6E8B394C7E6A"
     },
     {
       "path": "explore/family-shards/CF08-GENERAL-SAN-SIT-ARCHITECTURE.json",
@@ -233,18 +232,28 @@
     },
     {
       "path": "explore/index.html",
-      "bytes": 10587,
-      "sha256": "37150975BD9A29EEA2328D53569B18FEA800E03706A4C83D12F6F9766FFB485B"
+      "bytes": 10456,
+      "sha256": "F404D3C00125490B9F3957D9E4728AA891C3F5F34049D17273672EF96D829B0C"
+    },
+    {
+      "path": "history/evidence-guide.html",
+      "bytes": 77215,
+      "sha256": "2416219B4E4DE27FF77B69759E3B4686762FECA19776DDB4E19AC3548E044290"
     },
     {
       "path": "history/index.html",
-      "bytes": 17179,
-      "sha256": "A73DDCF7271835FD4865C1350C6F5BBC3928599A0C198C668B9ED6815E4C2ED2"
+      "bytes": 19158,
+      "sha256": "441708C7DE422AF6EF76AECBA658770486797AB88059F9BF46D010AD880E911D"
+    },
+    {
+      "path": "history/timeline-3d.html",
+      "bytes": 5787765,
+      "sha256": "583322BB982420137AF1E1313D1E7B4E80896189D666810596AB7F62D3B08A7D"
     },
     {
       "path": "index.html",
-      "bytes": 9561,
-      "sha256": "8A8105BB2758C62C91932D49EFF52C47C7F4BAAF96E67F47C043B6E35171AF27"
+      "bytes": 9682,
+      "sha256": "2DB7EEC68396AB00F81353FFB1E5DEE87A9FF0B03FA11BEF091B770A3C141771"
     },
     {
       "path": "institute/encyclopedia.css",
@@ -263,103 +272,103 @@
     },
     {
       "path": "lens4/index.html",
-      "bytes": 5276,
-      "sha256": "8308A4BDE16553A59A4FF96B47875656C6006FCF78A1D5EB64C438B116E45422"
+      "bytes": 5145,
+      "sha256": "727D5B520955F55EA0B880FFBB39B1CB8BDA269A401CA45FE4C0610BC86BD2B2"
     },
     {
       "path": "lens4/lens4-events.json",
-      "bytes": 320843,
-      "sha256": "ED3600D28697A7B4BD5789D5D457647FD1DADBF671755BD30896B7DEEF1BDAAF"
+      "bytes": 325628,
+      "sha256": "5DB4B2AABE6E48B8C2CDA436ECB4A69A332CA918DFD74C84D23CF458ADABE4C8"
     },
     {
       "path": "map/index.html",
-      "bytes": 5576,
-      "sha256": "B974EC01CFF401F838F7DDFA1848FFE0A9D88698D3614DFA4F7EB127F5EF17A8"
+      "bytes": 5445,
+      "sha256": "CD1F1B08351B585C44B2995D7A2CE6B2601DE7513EDFDAADE8A18C467BD0E7D4"
     },
     {
       "path": "map/timeline-atlas.json",
-      "bytes": 168426,
-      "sha256": "5A12B0303ED501D96FC4B9B63F9DEC71B41102BEA8B9A04C0E981F025B9A3408"
+      "bytes": 170880,
+      "sha256": "D8CDD96EE5CEE50820F1A616E27F88A9E245FA00538B05866DEFE5E9B0D21BED"
     },
     {
       "path": "methodology/index.html",
-      "bytes": 20217,
-      "sha256": "B35A885C58D8C2FA1CEF7DFF031B1C805A24722F71BCE7687836E2523B39AA08"
+      "bytes": 20088,
+      "sha256": "E0BF563DBD5E7D2618C6D698444E52EBD845787FE961566756CF7AFEB46DFA1A"
     },
     {
       "path": "network/atom-lineage-expanded.json",
-      "bytes": 206197,
-      "sha256": "BCB544840592D0FA2F32B98F8062B1347292FDD719278119739BCD0F75397489"
+      "bytes": 207261,
+      "sha256": "8837E114DEF813B3DE536A67D66609E44DA13D71C606B82BEF7F450998685468"
     },
     {
       "path": "network/by-program-shards/a.json",
-      "bytes": 325725,
-      "sha256": "60309E3D792A2F88AAAD6DE32C794B8E800D9640E182FD5ED98AF77579D90966"
+      "bytes": 345541,
+      "sha256": "33AE085077F5084D82368A0439E95706213050C2F3F4471B3A459550DF2A02AB"
     },
     {
       "path": "network/by-program-shards/b.json",
-      "bytes": 819886,
-      "sha256": "E69BC6D2775C002D34973ADB79DAED40989D0D9F3EF4DBE9DFA3E6AA05AD4AB6"
+      "bytes": 836197,
+      "sha256": "560F2D7DDA0BD439142F4FEAD7ECC4F30A148D7D9AB2CE4ED9A50753B1A359E0"
     },
     {
       "path": "network/by-program-shards/c.json",
-      "bytes": 159685,
-      "sha256": "2DE894B9CEBF9371DB91B12AC34E2C9C333E85C72D60C5A6AA30F791C96C8CA4"
+      "bytes": 160468,
+      "sha256": "7F52CE9DD02E1CBA4F07435B5564FCA1B4EB57CDC71B94CF7878992D29B5D1C9"
     },
     {
       "path": "network/by-program-shards/d.json",
-      "bytes": 199312,
-      "sha256": "204486818C3F9D0C04BEA5AB5A7466132288EA23D8745ABBA944C70F18C043DC"
+      "bytes": 199973,
+      "sha256": "F9B3ED683BA29064C81168AEFBD2AFFAF8894A3CBCFC531A51886C3F82749E35"
     },
     {
       "path": "network/by-program-shards/e.json",
-      "bytes": 59874,
-      "sha256": "9769C016233A5D355411D3E6D99095C7C5328145AE3F5483AAB2F38C373E8EE1"
+      "bytes": 59856,
+      "sha256": "B05270F7DC40397637268F2DFC1ED6F0650D80F3E2684FC29921B5524A8CACD4"
     },
     {
       "path": "network/by-program-shards/f.json",
-      "bytes": 190644,
-      "sha256": "120E37B7A94C9D8BE1CDF986A0F5D88CD439F6A4E7D6446720D26505FCDD6074"
+      "bytes": 191411,
+      "sha256": "752EB5D5FBE304D19420E39D24437E7EB2126210A84C2658A525E2349CCC4F5F"
     },
     {
       "path": "network/by-program-shards/g.json",
-      "bytes": 127474,
-      "sha256": "8A5B69E3FA4731ECA0ED60E2B88E592A787BD92B768360CC56300235E925730F"
+      "bytes": 128115,
+      "sha256": "2D0ACAA72CE9B127A1B895E22DF7B7EDFE979DCFD3196A10B4E38DE6F41609A1"
     },
     {
       "path": "network/by-program-shards/h.json",
-      "bytes": 217756,
-      "sha256": "20A83163DB066FAABE79C339E58B2CE80BEAEDE7E985407C5EA95AF0A5428EA6"
+      "bytes": 219300,
+      "sha256": "21DDF8E3934189F36E9D5E97BDA340697B1EF10DDBAD0050A691B1ED0F27F7E6"
     },
     {
       "path": "network/by-program-shards/i.json",
-      "bytes": 32411,
-      "sha256": "D6C5C5A9300334EA95EA9348C4A1193B6ACFAF67755772BCC914D3F1E01464F2"
+      "bytes": 32647,
+      "sha256": "1DC762CF5BFC67942D13DE377CE38827ED4EA89746C0C4F65552DB538E5B1465"
     },
     {
       "path": "network/by-program-shards/j.json",
-      "bytes": 119035,
-      "sha256": "127A9902C102C61F19C43DB40392EEA84957DBA354DFD21BE80CD45E3CC2B3A9"
+      "bytes": 119329,
+      "sha256": "C6EAED0AD8F49709A8CE252D8DF73B1D47F55E2B19377EE613379EEC6B5143EB"
     },
     {
       "path": "network/by-program-shards/k.json",
-      "bytes": 1132170,
-      "sha256": "0706DF11A0147D9D99205B1B40AEAAB824AEA8787FE7D2BCAC1E6B8356128DA2"
+      "bytes": 1135858,
+      "sha256": "DBCE0C0522FA0509962EAE5F766AB1B99AC8C95146A07EC21E300F29C3F09FD5"
     },
     {
       "path": "network/by-program-shards/l.json",
-      "bytes": 207591,
-      "sha256": "24F46A8A549E42161C2C721C2858A762C792EB3B2A84AF6A7FEDC8F4C22C8E84"
+      "bytes": 209019,
+      "sha256": "83251589C95530CEBA8C32BA18288D50D2F0E20CA48BEDBB273A10E5A9763BA0"
     },
     {
       "path": "network/by-program-shards/m.json",
-      "bytes": 216912,
-      "sha256": "EAD7FD0E6B206E35C65797B01C034985DF09D08754313E578718CBDE0A6B2AAE"
+      "bytes": 217298,
+      "sha256": "90E11523D03AEC225EAB2E82A7703AA0B1DB7732A2B9DCEEB12A5E7077B3BF5E"
     },
     {
       "path": "network/by-program-shards/n.json",
-      "bytes": 163118,
-      "sha256": "05C7BAE3914F92D2FC5BD2F822274477421AF9B78E42A72EAD4D6728DF19B773"
+      "bytes": 199406,
+      "sha256": "E804A5E690ACE85B94DF6180BC23976F38A3E8AE0175769FC9B1AB20DA773297"
     },
     {
       "path": "network/by-program-shards/o.json",
@@ -368,88 +377,88 @@
     },
     {
       "path": "network/by-program-shards/p.json",
-      "bytes": 158453,
-      "sha256": "860F97E8F0B2EFFBA48070F1A121D8761143992EE5FC614C27137540888C9AF9"
+      "bytes": 159520,
+      "sha256": "AED6D6FCDB7F433DF496165680BC1C8F43664649ABFB32EDDDC148CA586D9EE0"
     },
     {
       "path": "network/by-program-shards/q.json",
-      "bytes": 14915,
-      "sha256": "A2AB27D75DDA04BBEA7AF5198D99E1FE08E06582216ADEB740E38E3C15F9949C"
+      "bytes": 14859,
+      "sha256": "36985E8C66D190195AF268BE6D41A0D8D87705C9B4F8604705771E6C6F6BAEAA"
     },
     {
       "path": "network/by-program-shards/r.json",
-      "bytes": 115157,
-      "sha256": "442EE7719C1E91736119E6BC0617BD550B33D078A9DE794B0C3B4073B3009327"
+      "bytes": 131406,
+      "sha256": "BE626C247103435F2FB768878B6E28D094C0850C4B6E6E1C3AABC4C28508DD8F"
     },
     {
       "path": "network/by-program-shards/s.json",
-      "bytes": 319164,
-      "sha256": "6B09ABE748D70FA474683389BC09877A2D0872E49D0ED493BD67C10079E1D16B"
+      "bytes": 320598,
+      "sha256": "B16F82E805BA5453A869349A896CC9D1FC951E99A71584A33A7A7326C1A893C9"
     },
     {
       "path": "network/by-program-shards/t.json",
-      "bytes": 313929,
-      "sha256": "E42A7B630E20577F883402FF4BE974A659AA9975301BFAC55A672A98936558A2"
+      "bytes": 313876,
+      "sha256": "1BFDC23F33E05B57BFF8EA73E260CE1BB04E74DA7061F106AA4C73A6B324123B"
     },
     {
       "path": "network/by-program-shards/u.json",
-      "bytes": 34112,
-      "sha256": "8499E845D1FDA84E5F4F4C5FF69600FF49F584803EF287A9FFCBE6CE8F43D434"
+      "bytes": 34238,
+      "sha256": "47FD04DD3445ABB9185F2D11C344710A4D0C5086DD03EB562ED83CABEE096B4F"
     },
     {
       "path": "network/by-program-shards/v.json",
-      "bytes": 168723,
-      "sha256": "AED10187DCC79821ABEA181119A725A69FB46718FBA4136D35AD76C094F67C93"
+      "bytes": 169938,
+      "sha256": "C296A03C94208E73BC264641FA5471B8BAB32F377E4992FD96EDE115E5FB828B"
     },
     {
       "path": "network/by-program-shards/w.json",
-      "bytes": 396760,
-      "sha256": "9731FD3879D4BFA3F0E5A7142927BA23B67176888619F816FBD14245E0588715"
+      "bytes": 396863,
+      "sha256": "8B96DA28CB1C29F642887C2C81B2074CC82A5BE5BFA1ADE48E60D416B9F5D2C0"
     },
     {
       "path": "network/by-program-shards/x.json",
-      "bytes": 15199,
-      "sha256": "C2D39EE65B309BBE8CC9217C047CFD319BC832EE85F7BB5D9C19499AAFE917AA"
+      "bytes": 15195,
+      "sha256": "89154865511B5B49FEB6F6997EF8A907ED3A076ADD3364A388A3CFBA9B1D5EE5"
     },
     {
       "path": "network/by-program-shards/y.json",
-      "bytes": 29044,
-      "sha256": "B739F8BEB5A3AB5CAB022AE3F4670722B64C3D713B69399B82A27C56EB2701BB"
+      "bytes": 29003,
+      "sha256": "4E89A6EEAED33DB8B21905F976C19783C7F8FF9B62210515D62533F3A9AEE15B"
     },
     {
       "path": "network/by-program-shards/z.json",
-      "bytes": 28621,
-      "sha256": "5E5C4A990EB0102101ECA78F47ED7C3077C813873DAD450E86B1F3E84951E015"
+      "bytes": 28594,
+      "sha256": "D6043B00C410BB1FC84A7A7CF6E61FF756DA329CD7F5A64AABEC39354FB768B6"
     },
     {
       "path": "network/edges-top2500.json",
-      "bytes": 1613018,
-      "sha256": "18CF8183AE4A93AEBCAFA00A7574BA863BAA2F2BBFCC48F09E9244CB99E0FDCC"
+      "bytes": 1620089,
+      "sha256": "1C24A38C585549F52581F96CCB7A08DA7375685FD643E673346E6950FCF4D2B3"
     },
     {
       "path": "network/index.html",
-      "bytes": 17242,
-      "sha256": "319941AD2E59544F28945CD2567F9B7BBFBC063A1D1FD597181A8D5D94725B9C"
+      "bytes": 17111,
+      "sha256": "13C0A543164D82963C057D7675AB67530169B3B0CB55C564664318993EDC6AD9"
     },
     {
       "path": "network/network-summary.json",
-      "bytes": 137791,
-      "sha256": "DAD2133CFE9581E82870F045B149D2D78FA8BEFA441455EDCDAE62453533ED6C"
+      "bytes": 138032,
+      "sha256": "0EE21EC4CFA7CCE0F0EBF79D723C6576C793DE03C6876AEC72B1CDA1AF755572"
     },
     {
       "path": "network/originality-audit.json",
-      "bytes": 162441,
-      "sha256": "E114CDBE9FF7B72DE06E50BC533A9F04FADB19F064615F55E77B642F1556FE5B"
+      "bytes": 163127,
+      "sha256": "B7DEB8C4D1132E5727F7785EA0254BE0F38DB434353613EBDE56E79C3AC7BFF0"
     },
     {
       "path": "priority-index/index-v5.json",
-      "bytes": 4096116,
-      "sha256": "264FA90D9AE8FDFDE9213ED529E6011E7F53408B4F1F676ADB47EC52234CCA83"
+      "bytes": 3834983,
+      "sha256": "C43E1E7CD194342A3726EF25A7CFB733542AFDDD2D496427B425082720EA2BDB"
     },
     {
       "path": "priority-index/index.html",
-      "bytes": 15340,
-      "sha256": "258369F37C2823418DABF1287027F96CF5552B9BD6A949208CE1B2F07FD257E6"
+      "bytes": 15187,
+      "sha256": "ED4A2B775D4AF12CC393E65818CD9687AF02A76CD59CCA440727536031F43F4C"
     },
     {
       "path": "priority-index/links-by-year/2010.json",
@@ -488,8 +497,8 @@
     },
     {
       "path": "priority-index/links-by-year/2017.json",
-      "bytes": 2212048,
-      "sha256": "FD8269DC53E0D063D7BAE02A06CB26F3A97E4FA00B9D56BF8B048BC5F7802A61"
+      "bytes": 2214316,
+      "sha256": "6E14C48E97F1F2179FA1E56B7CEF562FDB5A78961CD1FD327A26784D9068131F"
     },
     {
       "path": "priority-index/links-by-year/2018.json",
@@ -538,1883 +547,1913 @@
     },
     {
       "path": "programs/catalog.json",
-      "bytes": 627258,
-      "sha256": "CAD2CFCD1B1B58221935F8E97BF394FE41FDF50AB9AEC8C4B6D12CE78FEFEDAB"
+      "bytes": 633090,
+      "sha256": "C983C953D4CD3279848BE7E358FC576CCE95E6A6FE4E4C567127D7667CC8CB87"
     },
     {
       "path": "programs/data/candidate-kuhn-1-10-3-ginsburg-and-jablonkas-associative-learning-during-evolution.json",
-      "bytes": 22688,
-      "sha256": "2569662843BA8EF1CCAC88696C9FD7F92DDA3A642221309B81FBEC863D2CAE67"
+      "bytes": 22937,
+      "sha256": "D05CD0812B793BBCC402602CE3D7B3870B0B1CEAFC28EEDBA51F9C10B1476106"
     },
     {
       "path": "programs/data/candidate-kuhn-1-10-4-cleeremans-and-tallon-baudrys-functional-value.json",
-      "bytes": 43891,
-      "sha256": "302F94DD3E38A264C0670B90EAC010973194EA612F0B4B1122DC7D13634E0866"
+      "bytes": 45508,
+      "sha256": "A019B9306698829128E287AF4A5C1C7796629C428F3E5ED49D3ADE65653C8732"
     },
     {
       "path": "programs/data/candidate-kuhn-1-10-5-andrewss-consciousness-without-complex-brains.json",
-      "bytes": 5931,
-      "sha256": "1A62E127CC949559357D99F5048EAAD6430FA82CD123649D36E360965079C385"
+      "bytes": 5950,
+      "sha256": "03FC598B492112965F5107571ED5A8CE80CD514ED3F947AB9BB5F2F35C008145"
     },
     {
       "path": "programs/data/candidate-kuhn-1-10-6-rebers-cellular-basis-of-consciousness.json",
-      "bytes": 21958,
-      "sha256": "8FBDBA9B06B2FAFD3C32B4232262F6A124912E9B8B637918C485ACBCAF118C1E"
+      "bytes": 22049,
+      "sha256": "D2BEA1A00C3CB1134EC57F3D43CA4C32D0A3F02C72C885B7AC5DA5963E965260"
     },
     {
       "path": "programs/data/candidate-kuhn-1-10-9-no-hard-problem-in-william-jamess-psychology.json",
-      "bytes": 40200,
-      "sha256": "0D358E210DFEDBFD1DC89985B517BC06A104943539637851832CC4264F967A97"
+      "bytes": 41808,
+      "sha256": "A52E18D9DDB227F0195928D5F9EB368C38E4B1A1BD0D9D913EF81C562C6F694A"
     },
     {
       "path": "programs/data/candidate-kuhn-1-2-9-mitchells-free-agents.json",
-      "bytes": 10579,
-      "sha256": "B799AD764268FB1F68F968E79E526004D0DD75B757E81E8882C7D352297A935F"
+      "bytes": 10774,
+      "sha256": "814D10A4245D12380F701583374D378F01E4D8811986D7C3C50702138F770EF7"
     },
     {
       "path": "programs/data/candidate-kuhn-1-3-2-pocketts-conscious-and-non-conscious-patterns.json",
-      "bytes": 31300,
-      "sha256": "968DBA10B6F0273DAE0F6432EAAF460A87E93EC50958C6C8A973345F5B82CDDF"
+      "bytes": 31821,
+      "sha256": "6F937B6760DF4E07523E6F42AB03B2D206199A37E2BDD403099C022696C04A06"
     },
     {
       "path": "programs/data/candidate-kuhn-1-3-3-mcfaddens-conscious-electromagnetic-information-field-theory.json",
-      "bytes": 30752,
-      "sha256": "9646431C37EF4D1C9AD7821033543AE6FDECC2F62EB47FE3F9638A15B44D4E41"
+      "bytes": 31277,
+      "sha256": "B7E1289036C72F1087210E1135C572B3FDF039A7A7FF42F3BB18BE86F771205B"
     },
     {
       "path": "programs/data/candidate-kuhn-1-3-5-ambrons-local-field-potentials-and-electromagnetic-waves.json",
-      "bytes": 42153,
-      "sha256": "9AE7FEE09F41DFD4A3FE06B5F1BE1C163BF055185379CC73C63E1C9A8B925C0E"
+      "bytes": 42964,
+      "sha256": "44E4F1BF9F68CD63E894AF207DD57EF8B7B0E624ABE3C967C7BB654080F196F4"
     },
     {
       "path": "programs/data/candidate-kuhn-1-3-7-zhangs-long-distance-light-speed-telecommunications.json",
-      "bytes": 36057,
-      "sha256": "7B198136FDCA7B2D117F8C185ECAEC6C77A9F88B8CD4F8E4B575D8B5B6E98AD9"
+      "bytes": 36256,
+      "sha256": "226304A362028DF51F492DA7BCF6E43E11271E393E0F97F273234EA9022C28AD"
     },
     {
       "path": "programs/data/candidate-kuhn-1-5-10-mansells-perceptual-control-theory.json",
-      "bytes": 16645,
-      "sha256": "318F8D4C702F0A4F070DDB5C2439392BF839D0E6A7BD419E4B1A19F5CA3753FD"
+      "bytes": 16858,
+      "sha256": "9B429F5CFFF59541CC371F127EE35590836E08A5FC1FA6556AA159C642E5561E"
     },
     {
       "path": "programs/data/candidate-kuhn-1-5-11-projective-consciousness-model.json",
-      "bytes": 40163,
-      "sha256": "2594BD2775CAF23EE91B9E612DF58501FE8D192A004FFC009FCE74F32F018629"
+      "bytes": 40416,
+      "sha256": "D9087D49CD8B567E503635826CB05FF116554FECB3022574C1E85C2452AF4361"
     },
     {
       "path": "programs/data/candidate-kuhn-1-5-12-pepperells-organization-of-energy.json",
-      "bytes": 21282,
-      "sha256": "31965E28D47F23EE01A7C31D76DA58DA55CFE5C4FBA17E0A1ADC364BE570B3D7"
+      "bytes": 21854,
+      "sha256": "4B95E7C0D9F21562B8C9F88D59D1E3754B4024312D332BBFAD3C761DFFA92C81"
     },
     {
       "path": "programs/data/candidate-kuhn-1-5-3-damasios-homeostatic-feelings-and-emergence-of-consciousness.json",
-      "bytes": 17093,
-      "sha256": "06BFF39700D24ED1F6C9D3E4EBC7624D9BA1CE82F3E144C988A51C92CF88ACBD"
+      "bytes": 17540,
+      "sha256": "054EF470DD25BE243A9C6C8A32936C1693548CDC5327A527A6D34F22BCC253D0"
     },
     {
       "path": "programs/data/candidate-kuhn-1-5-5-solmss-affect-as-the-hidden-spring-of-consciousness.json",
-      "bytes": 20593,
-      "sha256": "5200006896F9895E90A050E2075E57EC4D4C2D9AC0FFA50FB20784DB33849CEB"
+      "bytes": 20824,
+      "sha256": "61948493A039C31C81D7750673AE383399088811A39483402FE0DE58B32A6115"
     },
     {
       "path": "programs/data/candidate-kuhn-1-5-6-carhart-harriss-entropic-brain-hypothesis.json",
-      "bytes": 47057,
-      "sha256": "D53A1AD655564B82F0B6205992FEBE7324E87C95FFAE12A1D33E7729B72DFDB7"
+      "bytes": 48315,
+      "sha256": "A5B4AB4F8A51488525B620CA9BE9218899F9D5DB7D6E818A46A0CD0C610CD9E7"
     },
     {
       "path": "programs/data/candidate-kuhn-1-5-9-pereiras-sentience.json",
-      "bytes": 21295,
-      "sha256": "8610F8C74F5F411EE929305D1FCF8CB2A2E39FDEB5F75DC6CEC5FEDFBB85AB6A"
+      "bytes": 21526,
+      "sha256": "A4B09DD32B3BEA6C9A090704E5B8F0376E6F5DD43C8ACF36C603AD058DC308AF"
     },
     {
       "path": "programs/data/candidate-kuhn-1-6-3-varelas-neurophenomenology.json",
-      "bytes": 19899,
-      "sha256": "BFC504962FB94648B2A4A45F73BC0FEF19CD9078D7999530E59C65F986508CFD"
+      "bytes": 20112,
+      "sha256": "02F07A7712B3ABDAC31A7ACF90A759E3E59DE5612DE5824B519E6542328125EC"
     },
     {
       "path": "programs/data/candidate-kuhn-1-6-4-thompsons-mind-in-life.json",
-      "bytes": 15624,
-      "sha256": "F24C6CEBBEA53B1F5CED40C266ACBD1A1C655F2C708394AFF6691897948BAA78"
+      "bytes": 15819,
+      "sha256": "D57E36696BBA3EA8785039BB6D19DF09D79D412D7878C153539BD490490FBAFC"
     },
     {
       "path": "programs/data/candidate-kuhn-1-6-8-gibsons-ecological-psychology.json",
-      "bytes": 48459,
-      "sha256": "22D35028F5F3B5487CAD3A13DAB68C2F365FFDD3CCD20623EC4132B1E5D57921"
+      "bytes": 48782,
+      "sha256": "AC21D5EF76B51B2C5A493C813BE974BA439E4E66D84C29E162CB0A46EB95D3D0"
     },
     {
       "path": "programs/data/candidate-kuhn-1-7-1-a-clarks-extended-mind.json",
-      "bytes": 9696,
-      "sha256": "FF6E0638146110E9BD46583AD83B92479BFE6878850413DDCA84DD26ED72747A"
+      "bytes": 9733,
+      "sha256": "BF33E5B4A24A01DEF58BD0E686CDAC431C41DEDF5C6632F9D9D7B0F6A343AEBF"
     },
     {
       "path": "programs/data/candidate-kuhn-1-7-3-looritss-structural-realism.json",
-      "bytes": 48132,
-      "sha256": "F72BAD1B6D5E3B171A2C6EB4F30A02F11DD848C41C0E6CE49AE2BB979D02D8B9"
+      "bytes": 48403,
+      "sha256": "8BCB7B249262B55067975800DA23DF155E41532D2572D17EA15ACB26BD4658ED"
     },
     {
       "path": "programs/data/candidate-kuhn-1-7-4-lahavs-relativistic-theory.json",
-      "bytes": 10764,
-      "sha256": "D9278A33D86025A1D993D5B340F13025156E91D9228EDCA4714724F972AFFFEC"
+      "bytes": 10941,
+      "sha256": "F6E6F1EE6CEF8C4980519445FF750D013D9102D67D12BDDF26BEADD9C7D03DA7"
     },
     {
       "path": "programs/data/candidate-kuhn-1-7-5-tsuchiyas-relational-approach-to-consciousness.json",
-      "bytes": 22451,
-      "sha256": "57DD6C97524866FF1B62F15FD393062CD1AF8AC99ACAD2DBA86F8EEC89F26E2D"
+      "bytes": 22700,
+      "sha256": "6FB9E875D8AADA5CE4CA8A2BEAA2794180C3B473F386C8E6361037166E19A04C"
     },
     {
       "path": "programs/data/candidate-kuhn-1-8-2-lammes-recurrent-processing-theory.json",
-      "bytes": 22753,
-      "sha256": "DA023229DB842D932877A3A97F41EB2EB96F9D94E12513D84166A1DD51171D25"
+      "bytes": 23242,
+      "sha256": "D1A9B2610A15CC2B680A594A0EDBA794D21CB883A5D4300BB1EA0BB143EE9A66"
     },
     {
       "path": "programs/data/candidate-kuhn-1-8-5-ledouxs-higher-order-theory-of-emotional-consciousness.json",
-      "bytes": 9754,
-      "sha256": "1BF9AF7A52587865BDC062C7E29E53FC5CE7E66A1C774FCAE7ED43C12CBB7022"
+      "bytes": 9931,
+      "sha256": "E9BF503BC4E9323D226B94A1E8D304BE098663C6EB275BEB39EF9A6505414585"
     },
     {
       "path": "programs/data/candidate-kuhn-1-8-7-metzingers-no-self-representational-theory-of-subjectivity.json",
-      "bytes": 21863,
-      "sha256": "CDE36F07A1B89798EA1103D0D55D174A2CB52E97F318328AE8AF1A53850BAF1C"
+      "bytes": 22092,
+      "sha256": "522AACC9CB170B20FBD6BFB2635987A5415911D3ED1815097D4282C45B42AD76"
     },
     {
       "path": "programs/data/candidate-kuhn-1-8-8-jacksons-representationalism-and-the-knowledge-argument.json",
-      "bytes": 7190,
-      "sha256": "94529C314F2562D1FBB4035B0CDDEBE6C3C43799726C861F2D3B023CB3BA4FE9"
+      "bytes": 7209,
+      "sha256": "CDC54695DBF7A6DDF101BE22580FDE5A8BEAFF1BC7D0B00FB68A0203ADE3D330"
     },
     {
       "path": "programs/data/candidate-kuhn-1-9-1-chomskys-language-and-consciousness.json",
-      "bytes": 7298,
-      "sha256": "64E549FC17E4186F5E5BCD409CCD59A9D686A0CC4DD053BE5D8B04D5B9F5B695"
+      "bytes": 7317,
+      "sha256": "5EDCE7229D0AE66750C569BB70271F5BD9B2A0468ABFF9F8D900B414C885DB79"
     },
     {
       "path": "programs/data/candidate-kuhn-1-9-5-jayness-breakdown-of-the-bicameral-mind.json",
-      "bytes": 7084,
-      "sha256": "1863E814FA7C6471C6EE3AB674B57090AB5B6FFE86930B6A2D75D0956D1C51EA"
+      "bytes": 7103,
+      "sha256": "76238F1D4BBF742CF1CFB66622136A50A893DEBF85F4A0FD0DA5D1A2DFE6D4FB"
     },
     {
       "path": "programs/data/candidate-kuhn-10-7-mussers-is-it-really-so-hard.json",
-      "bytes": 12847,
-      "sha256": "AB1B11E8CE835BA06223A6A3226F1691E3EAC68849215FE62C016C39DB874303"
+      "bytes": 12996,
+      "sha256": "32BECEEDBC3C7CF60969414183E72F9D517A5E977B9C613E87207E7614788920"
     },
     {
       "path": "programs/data/candidate-kuhn-2-1-elliss-strong-emergence-and-top-down-causation.json",
-      "bytes": 6850,
-      "sha256": "C6194B8049DFE493EF2BA8E2D3EC190557EFC760CCF085B9FBD6E5D55D290EDB"
+      "bytes": 6869,
+      "sha256": "99A430004679AF88EEE4D920E96BD08918AA8FFEA05161E8483CCFE70C2D793E"
     },
     {
       "path": "programs/data/candidate-kuhn-2-2-murphys-non-reductive-physicalism.json",
-      "bytes": 8024,
-      "sha256": "EA7EB4B4702DE818A1278DF49478D8791D92D65E83756553F118C29970B77BB5"
+      "bytes": 8061,
+      "sha256": "DF73079BB2460FB11F40B3EA87B1F08F53C0E22FA62E8D8C2DB258FEEEF96D54"
     },
     {
       "path": "programs/data/candidate-kuhn-2-3-van-inwagens-christian-materialism-and-resurrection-of-the-dead.json",
-      "bytes": 18152,
-      "sha256": "229881BDE691FCBE42863553DEB9377DE53B16D9B742FE99111FED86F1A1425C"
+      "bytes": 18243,
+      "sha256": "3639C3D74B1FADDA5FD509E901D85D7F39A6ABB24D8697C9F1B5CA75EF94EB1F"
     },
     {
       "path": "programs/data/candidate-kuhn-2-5-sanfeys-abstract-realism.json",
-      "bytes": 80369,
-      "sha256": "DCDF62FB19818E1B137F18E7171AC621F8109687748190149FAB2A11E1C6869B"
+      "bytes": 80802,
+      "sha256": "27EBD79656F37A9C155B2265BB27FE92D5AF81368276D4FA5BE01E2F5B9C3910"
     },
     {
       "path": "programs/data/candidate-kuhn-3-11-faggins-quantum-information-based-panpsychism.json",
-      "bytes": 53131,
-      "sha256": "D0BB83BEC34A17E9E2D8071F50093FE8ED0F64F0EDF800EF983C35CF79A09203"
+      "bytes": 56020,
+      "sha256": "1921F1BED395CB072DB409DFE1E54E320010098F6607D144D95B08824261D530"
     },
     {
       "path": "programs/data/candidate-kuhn-3-16-rovellis-relationship-physics.json",
-      "bytes": 22377,
-      "sha256": "F55BD56D6ED6612124CFC08320C8B0CCE0D809F6CA6374A93087653FACB71352"
+      "bytes": 22866,
+      "sha256": "22931AE979EFE2AFD3EC34BB4D710BA20F2FC313ECCEBA8E71820330AF6088BF"
     },
     {
       "path": "programs/data/candidate-kuhn-3-4-pylkkanens-quantum-potential-energy-and-active-information.json",
-      "bytes": 45186,
-      "sha256": "6DBDEC962A79CDBA767F2762FD98D905906A9AA6A2C967B30A238416707A2A87"
+      "bytes": 45403,
+      "sha256": "C08AE802D1CAFE10358366780F2216E8992587313E4D64E2D5ED053BB752904C"
     },
     {
       "path": "programs/data/candidate-kuhn-3-8-tordays-cellular-and-cosmic-consciousness.json",
-      "bytes": 9835,
-      "sha256": "FD8107BAA41034E25011EA8A54F899C0FC91B7A1207733B2EF6B8B502112EA68"
+      "bytes": 9872,
+      "sha256": "2C6A8982C26B3632094D2CFDBF1071F7845032C72268D4778ACC40992550A266"
     },
     {
       "path": "programs/data/candidate-kuhn-3-9-smolins-causal-theory-of-views.json",
-      "bytes": 35146,
-      "sha256": "D85C066F53AAFAAAD792E28E199CB19902F25C70517680F3ED208EBB3CD11523"
+      "bytes": 35363,
+      "sha256": "95A3A3FB650C966F870E734938B37BF8BBDDA37705D77645495A0A98E8967A4A"
     },
     {
       "path": "programs/data/candidate-kuhn-5-10-sheldrakes-self-organizing-systems-at-all-levels-of-complexity.json",
-      "bytes": 11534,
-      "sha256": "1BCE4EC3F1063367A080F1F626AD8CF550CABAC500AACBDD71DDED929E6A8167"
+      "bytes": 11589,
+      "sha256": "3D091D4890D7CCC06F013D7F1E8A174A4700409F67ACA2D937FA45995B6B9A6E"
     },
     {
       "path": "programs/data/candidate-kuhn-5-12-whiteheads-process-theory.json",
-      "bytes": 31520,
-      "sha256": "6512CDEA891AB16D354C2B10C0533FD05845840A3DF7EC57DB81CF24833B8B5E"
+      "bytes": 31912,
+      "sha256": "45BA4217C1B9FFABB2198F4EA9D4E22C929D18C5A818E45F396537F10D4EF3A6"
     },
     {
       "path": "programs/data/candidate-kuhn-6-1-russellian-monism.json",
-      "bytes": 9742,
-      "sha256": "1AAC37E157403B40CA9A23344D0D220688D04B36D793BCAC4113BDC26A931090"
+      "bytes": 9919,
+      "sha256": "07DF0BA6429336869FA480D410AD17595D7976A640562B9FDFFD29F06DAD8766"
     },
     {
       "path": "programs/data/candidate-kuhn-6-7-atmanspachers-dual-aspect-monism.json",
-      "bytes": 11132,
-      "sha256": "19CFA17F949AD89A56750C31056C32B6DE51342F457C5365CF29D9F01846326F"
+      "bytes": 11444,
+      "sha256": "5DC4908C57FDFD5555CD34AE7646F7D54E292504BBC7450350B4AB75BF108EB2"
     },
     {
       "path": "programs/data/candidate-kuhn-6-8-ramachandrans-new-physics-and-neuroscience.json",
-      "bytes": 47231,
-      "sha256": "6D4E19B17BCCCB1AB48ED78BFB52994F9AF316CF30598E949EA3B6041C6A239F"
+      "bytes": 48104,
+      "sha256": "3308BC79CFE1FDF9C86E46D40230639C745ED0A01D10BDFABE09DB5107135C5D"
     },
     {
       "path": "programs/data/candidate-kuhn-7-10-kinds-dualism-2-0.json",
-      "bytes": 18427,
-      "sha256": "310DC7482AFECAF0740BFCE3278D584C286BF28D5A1CA186FEF848C02DF5C32C"
+      "bytes": 18798,
+      "sha256": "ED4E6798E5873F6C1674102AF054295738429404F070FA07B6DF97BF3CD0BD1C"
     },
     {
       "path": "programs/data/candidate-kuhn-7-7-morelands-christian-soul.json",
-      "bytes": 17707,
-      "sha256": "2B230E5F45A10D45321356A91DC9C274691BE1BA81A467C078E684FCA5D425C6"
+      "bytes": 17798,
+      "sha256": "FEF0B90006F63942B836CDA5E29F5341AF3FED6DA9FA279A23669DA522C44128"
     },
     {
       "path": "programs/data/candidate-kuhn-8-14-meijers-universal-knowledge-field.json",
-      "bytes": 15070,
-      "sha256": "0CF8F3E9B4CD5F158BB85A25A50E394109FB9C5B39D552B2A166F35BC6A75549"
+      "bytes": 15143,
+      "sha256": "A69AF53EF9216AB91B7BAA7A841A0F97278C07CC1E55E9895919A3AF2F03F9BB"
     },
     {
       "path": "programs/data/candidate-kuhn-8-5-hoffmans-conscious-realism-the-case-against-reality.json",
-      "bytes": 26247,
-      "sha256": "C8029143FAAA8CE31114BB22C4A7BDE5A7AB0807A5F34D0F6ABBE8C1D053D860"
+      "bytes": 26514,
+      "sha256": "349287E10525BE61F72DA3F5006E360F121D96525CAB9041E0EB0B24BBE2CFFC"
     },
     {
       "path": "programs/data/candidate-kuhn-8-7-chopras-only-the-whole-is-conscious.json",
-      "bytes": 15660,
-      "sha256": "82EBAC0BB06A2629B82D7D8C49812E7820C6117DFE38BD3861D97CE6679BF730"
+      "bytes": 15715,
+      "sha256": "BAB88FACF146E42772E30F82C19501FF13C6E55E6EA7A40A7E2A85D2EC46638D"
     },
     {
       "path": "programs/data/candidate-kuhn-9-3-radins-challenge-to-materialism.json",
-      "bytes": 27530,
-      "sha256": "3D1A9C9CF09C5D8B6F06745D3E03E3953FFD96D636ABC91C58C5E3163DCA5995"
+      "bytes": 27919,
+      "sha256": "104B444F3691C2468A0DF30D6DC7B895F29B62F30FE314C9984BC5402DC15AC9"
     },
     {
       "path": "programs/data/candidate-kuhn-9-8-schoolers-resonance-theory-and-subjective-time.json",
-      "bytes": 82774,
-      "sha256": "764EC1983BEE1FC9C1C33969F61C73F0DAD413046B73EA99A8710691B044ACA3"
+      "bytes": 83207,
+      "sha256": "0F709F9F66F9A6004B64EE246F5A85A31468900EC3A1E1542ECF73C2A685F163"
     },
     {
       "path": "programs/data/conjecture-er-epr.json",
-      "bytes": 47428,
-      "sha256": "4B868B62C519820C6BBDC544FED175CA4F27CABE7C8C14CDE5E28C29626CE6DE"
+      "bytes": 47663,
+      "sha256": "3312A4C1A693E18BF965D6C1180CB246B91DAB19154A415EEC73ADE7594542AD"
     },
     {
       "path": "programs/data/field-predictive-coding-document-lineage.json",
-      "bytes": 579431,
-      "sha256": "8C951C973790584B8022CDD598F353C88B9E527E633EB52D36309D4029AB73CF"
+      "bytes": 584292,
+      "sha256": "B93572B4A1924B46BED66190A2A1F829BFB94F6128C6302F0FECDBE5C3D2C104"
     },
     {
       "path": "programs/data/framework-ads-cft-correspondence.json",
-      "bytes": 55373,
-      "sha256": "90837547603242D3FC2E00255A82C94DE32B60F9728F8C082658841AF1E48E05"
+      "bytes": 55698,
+      "sha256": "518E18D2CDEFBB433C044D6F98EDD8A8B57F58FFF956A23F7E7DA110C1B40B85"
     },
     {
       "path": "programs/data/framework-energy-momentum-squared-gravity.json",
-      "bytes": 63956,
-      "sha256": "E4D772168704C9EBDA23373BB307E1FADB40558DD7C53054596E081C64D072C1"
+      "bytes": 64788,
+      "sha256": "16B10016D21DD94EF5D13BAD4EC8CDAC256B053D29B796DDF06B8744B0E0CFB1"
     },
     {
       "path": "programs/data/framework-lambda-cdm-cosmology.json",
-      "bytes": 83367,
-      "sha256": "1EBAFCDA35772195401EF1FE39792103332841D36041ED9AD594B56FF39AD366"
+      "bytes": 83910,
+      "sha256": "F59F7CF7B7F50E4AFE0E8F175312B2C74E213CD89804B01BAF7665315D78DAAE"
     },
     {
       "path": "programs/data/framework-string-theory.json",
-      "bytes": 11448,
-      "sha256": "694E3590A8C8E4AB54F1F5A0AE08F413F6D2A8338867FF173ED22E407C250CA1"
+      "bytes": 11586,
+      "sha256": "F3B245A4063B7107C6F9BF6F6D4054C4AD043BAB24573D3F592696FF5255C627"
     },
     {
       "path": "programs/data/framework-time-crystal-physics.json",
-      "bytes": 15076,
-      "sha256": "D850A6B9C906EE2F2DAC1A2B580D866EDCB0E175339FD84ABF3E61D01A3E9E86"
+      "bytes": 15447,
+      "sha256": "19AFD0C5FBE54F10F6842A47F3DF8D3BDA03496B62D2E6A2D64DF6E6FE501F18"
     },
     {
       "path": "programs/data/framework-transformer-attention-architecture.json",
-      "bytes": 37844,
-      "sha256": "D774B5BDC36ABEEA0A70B913B94138867C84743F135A7C20EDEC9AE6D99BDB0F"
+      "bytes": 38025,
+      "sha256": "245F75F325A0A2C550EE22DF8977CBFD97B299E01FB0DD3B89720E8958AD3561"
     },
     {
       "path": "programs/data/problem-riemann-hypothesis.json",
-      "bytes": 30727,
-      "sha256": "1C3C8C6D342377E1151C59EF5650FFC55F22D4400A45D1AB60DABE4FBCAE3E8D"
+      "bytes": 31748,
+      "sha256": "C563D00D1532B71C90055533470C07EB2B903E749F50ABAB0C9A7E4A5EA3FC33"
     },
     {
       "path": "programs/data/problem-yang-mills-mass-gap.json",
-      "bytes": 22024,
-      "sha256": "BB80D65ED4CD962759007D57C9A5855B158793275F9272AB1C6C2BD30529C1CD"
+      "bytes": 22329,
+      "sha256": "8E8C5CDC936AAD3E87C8D9A0C918597959221FB869F2D8D6E2F1FFAC5C13AA1F"
     },
     {
       "path": "programs/data/rival-abbaspoor-aljishi-hoffman-memory-metassemblies.json",
-      "bytes": 49010,
-      "sha256": "971EDE3C5D599644EA99C5366BE3A967D109CDA14C05C6EFF0A9E0A8486CE656"
+      "bytes": 50875,
+      "sha256": "956B8A913B219D8324B213F7E572147FEC0640D4758AE42A465F1CEACD6A3238"
     },
     {
       "path": "programs/data/rival-adams-harmonic-field-equation-author-unresolved.json",
-      "bytes": 13713,
-      "sha256": "B41556AFCA46D209A8FFC75BD66A46D311F8CAEE79C7DEF60F521879A568DBB7"
+      "bytes": 14066,
+      "sha256": "EECA45A84587F844055AF9946A5C166D8A9AADC455690DD38B1C82B8D53E4030"
     },
     {
       "path": "programs/data/rival-alamia-vanrullen-predictive-traveling-waves.json",
-      "bytes": 29041,
-      "sha256": "FEB3EC6C6CACED3FE23676FEE3F07897BE4238429D0CBE784A83C8B0962FBBB5"
+      "bytes": 29240,
+      "sha256": "DED435718190BBAB15B4E5147550E8BEB0AFCC7BFE6181978ED8592D4C922BA9"
     },
     {
       "path": "programs/data/rival-aljadeff-network-dynamics-predictive-processing.json",
-      "bytes": 261987,
-      "sha256": "EEA2E3EE47D14F5D49412CBF7A39ED12985826D846D913931F3E2C942966C965"
+      "bytes": 263914,
+      "sha256": "94FE6984AB4E5AD4CC206EC1E047393C5F1746904F6B2D24D05BC2B5C7F60B92"
     },
     {
       "path": "programs/data/rival-allen-lead-04-2026.json",
-      "bytes": 40345,
-      "sha256": "EC967367C5C0BE48F41892D9BE29C642847198472433802E3109001500852993"
+      "bytes": 42108,
+      "sha256": "B3CC85F8EEFD8926A3AFF08A9D69779A1115CAC809F2460E84C171207543B461"
     },
     {
       "path": "programs/data/rival-allen-lead-09-2026.json",
-      "bytes": 37444,
-      "sha256": "84D73967D0392E191084A4387549FE02ED7AB4172E5043C008D0CEAD605B3126"
+      "bytes": 38824,
+      "sha256": "3952B41D77E347E4757E87805BF0DA656E3E7257AC9867D931AC37506A64E834"
     },
     {
       "path": "programs/data/rival-allen-lead-10-2026.json",
-      "bytes": 48966,
-      "sha256": "2B02421742730C7F3CC0ACC92FFF039D2198CF650A5A703175CA680A9C1C9C61"
+      "bytes": 49220,
+      "sha256": "E1A5C5CFB6B4BA4C3DB0BE0BA645B07FC3A01915AEB74E9C37B37AA24ADB0604"
     },
     {
       "path": "programs/data/rival-allen-lead-11-2026.json",
-      "bytes": 38844,
-      "sha256": "234BA6BBDF4EC21C407DE6BEBF67DF8D27DBABC61392FC1B9073F0F828B5D0BE"
+      "bytes": 40224,
+      "sha256": "B5361D302FA8DAF6A52ACA7A79A8A6AD43A1D07FFE85F3B56B3603A964C5CC78"
     },
     {
       "path": "programs/data/rival-allen-lead-13-2026.json",
-      "bytes": 55488,
-      "sha256": "99903BFB6479BE59EFA726C58FCD28CD7D746A25B3DDBE3B0072B700DB3987CE"
+      "bytes": 55759,
+      "sha256": "DE6837F90F0A98EAFB64DC955A5913CB08DD95BB17534C13FB6E2D73A97EDE03"
     },
     {
       "path": "programs/data/rival-allen-lead-14-2026.json",
-      "bytes": 42019,
-      "sha256": "DB76DC1F31F264335FB4E9EB158E0736FC42EBDFF1A2469B0127E9B7469A6950"
+      "bytes": 42240,
+      "sha256": "C994622BE708927E14494A876FE1AF1324FFE5225576CD620069A2469CDFD36A"
     },
     {
       "path": "programs/data/rival-allen-lead-16-2026.json",
-      "bytes": 43030,
-      "sha256": "5C57D35BD64F2578E3C215E531D38A0C0748F6DAD271D6CAA846AFA3C3F3B8AA"
+      "bytes": 44410,
+      "sha256": "B7904D3F7AD52E21FD6570605DCAAEC2DDA7FE9ED78C54B38BC9E3A0690C7BAF"
     },
     {
       "path": "programs/data/rival-allen-lead-19-2026.json",
-      "bytes": 48519,
-      "sha256": "3ABC8438560B0511D9518E3B05C3BF26863BB3525F4706311D38B79D2C46FF47"
+      "bytes": 48736,
+      "sha256": "1230E97CF833E6370C8FC8723E7BAA0B9C58D4AE85EC13A767AF6C0859B428DD"
     },
     {
       "path": "programs/data/rival-allen-lead-20-2026.json",
-      "bytes": 40529,
-      "sha256": "AB11DC75C1755339636F5C3CA3BB60F613F162A87486421344175E4B9EC771DC"
+      "bytes": 42086,
+      "sha256": "EE44F6812CCE84BA360023FAAEE5628FD2F9AB9F878DBA7DB442A93B0160F2D8"
     },
     {
       "path": "programs/data/rival-allen-lead-21-2026.json",
-      "bytes": 47291,
-      "sha256": "22154BC0C8CB260024013EC1260AB2F45745B9846922483AC9E7629F08DBB7F4"
+      "bytes": 48219,
+      "sha256": "C3357DBE86792150DDAC1AD018AA2F3E4F7E27D1727EA3E209748CBA844D471D"
     },
     {
       "path": "programs/data/rival-allen-lead-23-2026.json",
-      "bytes": 71799,
-      "sha256": "20902D44E75ED3B6FC5A80F34A8ED26EFB607CA3C0B3DAD8C18886F42FD11A6C"
+      "bytes": 72245,
+      "sha256": "4E6B7B1FF777EA8B63BD064B953E207AA5257CFC3E5121998A52557F1F9A6127"
     },
     {
       "path": "programs/data/rival-allen-lead-24-2026.json",
-      "bytes": 39090,
-      "sha256": "1F186DBCE0089ADD7AAF3BCBF7D4A56620BD8BBADF6674DB796EA748932CA248"
+      "bytes": 40647,
+      "sha256": "802F3D2F475692BE76D6F6F6FA936B50F35FB589C0E15D316E718EE3E5F06375"
     },
     {
       "path": "programs/data/rival-allen-lead-25-2026.json",
-      "bytes": 38835,
-      "sha256": "0105931216CFF4E7BAA628E706E87A92ACED66D78C5A3B80D0670D4618BB94FD"
+      "bytes": 40598,
+      "sha256": "67BD78CDAC126C711FA0FDEE6592232DECBA751DD10D16F42D0F8B4CCBD539FD"
+    },
+    {
+      "path": "programs/data/rival-allen-varga-heck-respiratory-predictive-mind.json",
+      "bytes": 86183,
+      "sha256": "9FA4E73666CB566FC1EBCD743EC41C47BED183A892B12CA86C2B3A2C9943F56E"
     },
     {
       "path": "programs/data/rival-ambrogioni-information-dynamics-generative-diffusion.json",
-      "bytes": 89189,
-      "sha256": "13FB63192371480DF75046C0A86D761D677419DAD0BDEA9339A1D774FF15D3E7"
+      "bytes": 91111,
+      "sha256": "7F55CF6E401A553AC294AB7895EF12388FB9B0CC97A2A71E736A2B88A9233D24"
     },
     {
       "path": "programs/data/rival-azeglio-chalk-multiscale-encoding-geometry.json",
-      "bytes": 495271,
-      "sha256": "5C6B739C04DA6366440C321ED6D487B0E7ECEAF0D9877C3E38AAADE3F197D685"
+      "bytes": 523918,
+      "sha256": "FBC499287CC10A42AD12311DB85B12C959FCEA206609922E6754065425BFA9B8"
     },
     {
       "path": "programs/data/rival-baars-global-workspace-theory.json",
-      "bytes": 311223,
-      "sha256": "E8E0DD33B6D5306944C727E903AC07AB42980059CF5EC4A9CB7FB59515153476"
+      "bytes": 315530,
+      "sha256": "1BADE2538DDFCD784CFB2DE36CEAAF8BDF250150BE98047D260AF1CD82E97FCE"
     },
     {
       "path": "programs/data/rival-bach-brain-world-model-rendering.json",
-      "bytes": 523378,
-      "sha256": "0FB62B467E6DB7E19BA276839DDB2D50D727A75FB9843E6F405656B1455EC728"
+      "bytes": 527969,
+      "sha256": "C85C719C4E3E8DE7928AC646A6B3CB79F256237C9AFF5DEE596D5708A8DBACAF"
     },
     {
       "path": "programs/data/rival-baldwin-polanski-unified-wave-theory.json",
-      "bytes": 31196,
-      "sha256": "F35CDBCC7C146775A5099BEF26A4DE528422111ADEC898FF6BFDC3996EBA9A5B"
+      "bytes": 31894,
+      "sha256": "7B48A0470186127C90527B4DE980D8ECE0BF0597FDF62B215F4FB63DCAB44257"
     },
     {
       "path": "programs/data/rival-barandes-stochastic-quantum.json",
-      "bytes": 25333,
-      "sha256": "3341B2FEA45EF045DBAB89B5B4FCDC8A3603A2B4A4E2638CEB567DF78219E51C"
+      "bytes": 25727,
+      "sha256": "F9E4B5B56F12BF67B2B84E489304AD3CF0230F9FED7218EB6D1A7FB07C7A6924"
     },
     {
       "path": "programs/data/rival-barenholtz-generative-working-memory.json",
-      "bytes": 43869,
-      "sha256": "F1C72A44733332C2DAF7DF08DB38F9D474571458F44E24E2D21FB43AD67EFFB7"
+      "bytes": 44264,
+      "sha256": "4BAFD8D11200C724700D61E810B7FE1B28761F2E8B6262C4131A894D1B308DD9"
     },
     {
       "path": "programs/data/rival-bennett-stack-theory-conscious-machines.json",
-      "bytes": 71804,
-      "sha256": "C4F6183CBC342F916DBA3E66E098B66E4D3084B8888F2C907A5FA78F03527E15"
+      "bytes": 72255,
+      "sha256": "609929F46B1AF47FC87AB2434DE2658CAB7C2969B9C71F301AF70797AAEE0A91"
     },
     {
       "path": "programs/data/rival-berretta-hoberman-sphere-wave-particle-model.json",
-      "bytes": 39754,
-      "sha256": "CEDBFA35095E4D98C42907C795A30FAD4E00597AECECA1402AF8CEEF2451BD42"
+      "bytes": 39971,
+      "sha256": "1BD66748B8CAA23A286BA818F4E4C1FA80FD158011C7DA45E8441AA37C04550E"
     },
     {
       "path": "programs/data/rival-bettmann-goold-information-geometry-quantum-thermodynamics.json",
-      "bytes": 43489,
-      "sha256": "502A78B1A37E8446BC40B3147C8A328500938E211344989F3A17E51BA97DDE37"
+      "bytes": 44525,
+      "sha256": "076DC66D9438325805BF471C3AFC852DE61871F46A367D213D447633F918923F"
+    },
+    {
+      "path": "programs/data/rival-bianchetti-viscous-time-theory.json",
+      "bytes": 22018,
+      "sha256": "CD251644BFCE9237D78E9DC02164D9738BBB51D8C11632534C06940802FB32B5"
     },
     {
       "path": "programs/data/rival-bianconi-gravity-from-entropy.json",
-      "bytes": 99714,
-      "sha256": "A4D7A5230F3CFFE47243605AB85EBF683A43A982FAF84F67DAE32F5D99AAE18D"
+      "bytes": 100363,
+      "sha256": "9C2C499FE45EA25B6ED08959888E350D64A7E49E0D950E53A565E776C210675D"
     },
     {
       "path": "programs/data/rival-blanchard-samaxyom-hypothesis.json",
-      "bytes": 37377,
-      "sha256": "B704CF86DA4DB31D23BF271B7C8F9BFFE7509A9D7F2E97CFB4B24BA10E8EB042"
+      "bytes": 37755,
+      "sha256": "6D78EEE4E5753B75640349F8C57B63BBC724DC93B95FABE6D4B517CB71E075EF"
     },
     {
       "path": "programs/data/rival-bottemanne-mouchabac-gauld-computational-neuropsychiatry.json",
-      "bytes": 13951,
-      "sha256": "0EC6A3DC7DA69BE64B3A25C7BAE253CA78C6819AE6CE2A3AD081DDEEA581FE36"
+      "bytes": 14084,
+      "sha256": "8D8B8A16FCB5B9EDBF55F68EA88106B2B85EA0B29B553C82F5178FAD425FC0B2"
     },
     {
       "path": "programs/data/rival-boyd-universe-clock-program.json",
-      "bytes": 69668,
-      "sha256": "D0086B6CC0D9CE737A005DC27364FE86177FF4827AC1F6D12882BE477320C610"
+      "bytes": 70137,
+      "sha256": "F00F77F8B7C2E647D5E135C49A3117E7F3E3CBDC4DB23D93AE2B06D18309B66C"
     },
     {
       "path": "programs/data/rival-boyeneni-wu-most-electrodynamic-spacetime-collisions.json",
-      "bytes": 35917,
-      "sha256": "516E0F1EAEFB568EA444F62A2C2809B042449CFBBFF64D79D092BE754F812232"
+      "bytes": 36134,
+      "sha256": "5351F636BD2B98AD1040640E35677411D8822F07A9C10A4FC9D9B9F500DAECFF"
     },
     {
       "path": "programs/data/rival-bradshaw-informational-phase-space-cosmology.json",
-      "bytes": 43133,
-      "sha256": "9AF6963ACF20A9671E6D12895AA15F3D01566706F4D5D020E4868C0918FEDD12"
+      "bytes": 44119,
+      "sha256": "2A6F2A579AA8FA74683E6E09A796C5CCCB708A65A1A51CC345E37F85A7DAFB85"
     },
     {
       "path": "programs/data/rival-brans-dicke-scalar-tensor-gravity.json",
-      "bytes": 43097,
-      "sha256": "12C0A0BD056369EA9B8FC5E556C613C648C20852627480F6C327A802BA87E537"
+      "bytes": 43314,
+      "sha256": "FFB47836643B53F09FA24BF5897868E11AC6867A6690CA03CDF87741CD4B2852"
     },
     {
       "path": "programs/data/rival-brent-unified-compression-based-field-theory.json",
-      "bytes": 67079,
-      "sha256": "DDD986ED02F74A18BD753216047E38038639AB93EBBBE9D959B31D8462AE7F5B"
+      "bytes": 67552,
+      "sha256": "EF3FB8461C5AF9655CFCD708EF6FC3B2AA0FD5491180430A35F701F04ACD1E38"
     },
     {
       "path": "programs/data/rival-brown-triune-harmonic-dynamics.json",
-      "bytes": 70789,
-      "sha256": "E4F6E615AA44741EDA4DFCC5B9C5CBC9BBF2CD000B5ABDCF3A8ADFE60B176EA4"
+      "bytes": 71307,
+      "sha256": "CBEB6BE423673FD9450A3AD6B9DE1C26B26072BDAC0AE75A5214784EB0756DBB"
     },
     {
       "path": "programs/data/rival-bruna-resonance-complexity-theory.json",
-      "bytes": 78171,
-      "sha256": "356C64F213651CB74C2F50189AA9CE8D2F01E8EE8026C7E144914B4B1A5C22D4"
+      "bytes": 78910,
+      "sha256": "E6D3BBBF2F58567CBDAA1CD5BF673E4B143B44D149DA628E48B438247DCEB35E"
     },
     {
       "path": "programs/data/rival-bryant-cliff-shine-fulcher-lizier-information-time-series.json",
-      "bytes": 14554,
-      "sha256": "538B153E807D64782FCEC910E98CA57410DD95581007B479562B7399766FB379"
+      "bytes": 14753,
+      "sha256": "999D21E1FB4D74EA0DAF21708B03A072981B8463CD6D1475E4DBB938E7329421"
     },
     {
       "path": "programs/data/rival-bsb-aghili-adaptive-visual-servo-control-for.json",
-      "bytes": 16286,
-      "sha256": "83437DC964C6E039EDA6BA0CB73DE8129ADDCC71F25D71066FD906FA832BB104"
+      "bytes": 16901,
+      "sha256": "8A55FB48A66BDD4A577789B11562AE960FD4F3DB3F810878766BCB7B173B3188"
     },
     {
       "path": "programs/data/rival-bsb-bai-ioi-decoupling-kinematics-and-phys.json",
-      "bytes": 60753,
-      "sha256": "21A272E5E48EB831E02B7863B9CE0785CB0AAF2332EE25007B55914A0390DBBF"
+      "bytes": 63246,
+      "sha256": "5FD2F6B960E3457568450B7BCEE086AF288915EA6AC800FB339F983F46512A90"
     },
     {
       "path": "programs/data/rival-bsb-banerjee-cwm-contrastive-world-models-for-a.json",
-      "bytes": 11377,
-      "sha256": "3A9BFF6A782342FA0035FF928099425B50CCDD30B3BE6A4AB630D6E68AB79BCA"
+      "bytes": 11796,
+      "sha256": "92E421275AEBB60CC2A111603E86B37F6723CD3DEA066B5B5E5C8ECC66A0382B"
     },
     {
       "path": "programs/data/rival-bsb-bi-motus-a-unified-latent-action-worl.json",
-      "bytes": 39208,
-      "sha256": "2280D3D1AEE2D00A98EDC9FD9CCED7E77A984FF1C11A1F47009FEC81C19AE661"
+      "bytes": 40781,
+      "sha256": "8CA5DCFDC8FF0A73A3E3E95574F216B548C89207EEFF92BB13A35CB47DA7D1F3"
     },
     {
       "path": "programs/data/rival-bsb-brehmer-edgi-equivariant-diffusion-for-pla.json",
-      "bytes": 41275,
-      "sha256": "0B0009746B0C1A247096089A96485F53E2D1BD58AE8A20365AF048524091BA80"
+      "bytes": 43694,
+      "sha256": "AA1CC7F33022401669BC759AAE54361689556EE75FB2C846D36EDEC9777F4806"
     },
     {
       "path": "programs/data/rival-bsb-chan-robo-cortex-a-self-evolving-embodi.json",
-      "bytes": 40808,
-      "sha256": "CFE7DDB937A9F9E44575340191B9C2897FA9A919E6995DB56A73A7B1D0E34982"
+      "bytes": 42686,
+      "sha256": "20E92F517645FFEE72E7E7C689F9CC12A0162639383846CEA216900B55D79419"
     },
     {
       "path": "programs/data/rival-bsb-cuce-subsumption-pattern-learning-a-for.json",
-      "bytes": 8290,
-      "sha256": "772F6267A05B28C07A8E48A375132810E94B548D9DE3F80E76FB8C4F9AD10497"
+      "bytes": 8525,
+      "sha256": "C09F41728852EB047FD41EBD7C0D0FCE52D14FF566D3E5D2C19831065E3A8F57"
     },
     {
       "path": "programs/data/rival-bsb-dong-language-conditioned-world-modelin.json",
-      "bytes": 70757,
-      "sha256": "1E72E69E2E1DC157F090A0CA9B39007A3D73A3A717CC0F4D1653DBF9CB8A437C"
+      "bytes": 73399,
+      "sha256": "F6FF1081A60392ABA16482CFA3F844061554B55F4E3985D12F56C038E21D7128"
     },
     {
       "path": "programs/data/rival-bsb-fan-wow-wo-val-a-comprehensive-embodie.json",
-      "bytes": 33665,
-      "sha256": "579D794046CAEB4EABF32DFBBFD1DFD0FD8632A4D6CC13391721ED477B6C6821"
+      "bytes": 35259,
+      "sha256": "78B5E258DCC60DFAD4B3C2F92E6219B900B120EAB4B74DBE694C75763235A301"
     },
     {
       "path": "programs/data/rival-bsb-fang-emergent-semantic-representations.json",
-      "bytes": 66622,
-      "sha256": "7B51B48CD6E2A17E87527ADCD2976BE2FF30A258BB698000772DB05B084D37FE"
+      "bytes": 69478,
+      "sha256": "0BA6071B07C1E00D621A629F6DA96CB251EEA4FC6405014AF0BAE6A7F2CFDD12"
     },
     {
       "path": "programs/data/rival-bsb-hill-generative-world-models-of-tasks-l.json",
-      "bytes": 43646,
-      "sha256": "AC884E1609F81A9146AA29D16308CCF0FEB8A572B034F79A82D39A05EE5B106F"
+      "bytes": 45766,
+      "sha256": "53CAAAD5FF1BBF1CFF4F25AF9FD3548ED7E9153017743B8C0A129FD9F1EC17DA"
     },
     {
       "path": "programs/data/rival-bsb-hill-the-physical-basis-of-prediction-w.json",
-      "bytes": 63241,
-      "sha256": "8CD871ACEC2114C28A4613FD5BD84DFE1ACC51A689E360B7B08EB4D4B4D55F62"
+      "bytes": 66127,
+      "sha256": "6B71E751AB011CC31AF918D86493326BC2F2D87EB3422F13F92AE3C8D505C22F"
     },
     {
       "path": "programs/data/rival-bsb-hu-detrack-a-benchmark-and-altitude-a.json",
-      "bytes": 17599,
-      "sha256": "9CECEC000C49D4522CC155163CFA4668DCFB509954A69370D48AB980A8A8EFF4"
+      "bytes": 18454,
+      "sha256": "5124B7071AF6657CDDBC7DC45DBC445488050375ED1AE7F875C5ED4DAF78347F"
     },
     {
       "path": "programs/data/rival-bsb-jang-multi-scale-mixture-of-world-model.json",
-      "bytes": 41088,
-      "sha256": "ECEF0F0D65A2C88A412CBA1E99504F49A68A78D7DD2820BC11BD5B280A1C4741"
+      "bytes": 42807,
+      "sha256": "18EC7227FC90E9941B2C9C44B9C366CD2678C739AAE4090EAB62F09546067FB7"
     },
     {
       "path": "programs/data/rival-bsb-liu-navforesee-a-unified-vision-langua.json",
-      "bytes": 76573,
-      "sha256": "BD564255D9D716F8C3A0C5C9ED12D54A0229A742149C2E63FBF0D0443B870AE4"
+      "bytes": 79369,
+      "sha256": "5375C421341725F83A9BA5EA562D77669EB59F04E0AEC64C4AF9D7FDB148F474"
     },
     {
       "path": "programs/data/rival-bsb-moreno-smart-cellular-bricks-for-decentra.json",
-      "bytes": 17330,
-      "sha256": "74629B0D1C9ABE15E9F424D6287DFD5790B93955063A7B7979C43372BFEC7F55"
+      "bytes": 18006,
+      "sha256": "AAB4A1A2B25A92DA8DB3044101734FFB4F831B91039D3E8453F77F288BAB2D75"
     },
     {
       "path": "programs/data/rival-bsb-phadke-swarmfly-a-simulation-platform-for.json",
-      "bytes": 20043,
-      "sha256": "D6DA1EFDB3DFBB0894419D35E6B0A9DF353FE93093EA2E7A719AD5DBB943A9E2"
+      "bytes": 20854,
+      "sha256": "EB0F5F7CB59BA92D3D88CEC6F25E848DE9B9D6993B1C4897370C8E853D90467A"
     },
     {
       "path": "programs/data/rival-bsb-prasanna-dreaming-of-many-worlds-learning-c.json",
-      "bytes": 11536,
-      "sha256": "77DA8F8873FDD829CCAB28422F687C28CC5944706CD16E1F6E870FB322F4AFDC"
+      "bytes": 11939,
+      "sha256": "F30CCEF4EA58EC4D5AD66CF50B65B38E792DC728BD7B7A6B23CDB10E8BD7FB51"
     },
     {
       "path": "programs/data/rival-bsb-sulin-geocausal-a-geometric-causal-world.json",
-      "bytes": 9445,
-      "sha256": "55FEAEDA7E30177CF2E77C48B1710D8618B8BF02C57DC6827426CCA012626931"
+      "bytes": 9735,
+      "sha256": "A01566FCF715FCD5747AAF4EE7F41D09894006509A87DEE15C5017ECC9EC3290"
     },
     {
       "path": "programs/data/rival-bsb-tan-safe-and-adaptive-cloud-healing-ve.json",
-      "bytes": 21167,
-      "sha256": "DC39EFC9BFD4EE5E2322D8DAB8B0211179FD7850A8FE451BD0343782376B9049"
+      "bytes": 22041,
+      "sha256": "0F6926E3128BF8A01450F15F1A16BF760CFCB287B7D20B22238852732B3E0285"
     },
     {
       "path": "programs/data/rival-bsb-wang-lifting-embodied-world-models-for.json",
-      "bytes": 13981,
-      "sha256": "869F40695C2593F811C64224E63D4F6B60C21F4A9340F80B7D01234315ABFF53"
+      "bytes": 14534,
+      "sha256": "2E721A6272E552D32D77FF46CF786425F98614B6D12392806F2D91178DB7A3A2"
     },
     {
       "path": "programs/data/rival-bsb-xia-cloning-deterministic-worlds-the-c.json",
-      "bytes": 63674,
-      "sha256": "3CD3587D79225AEE934061D20080E77E373014ED607FD69435A7BB90A90A771A"
+      "bytes": 66885,
+      "sha256": "4565F0B6C992ECD393B82FE4149AC8EBB4D904DEA6D9318B2FF3D4DF6A8B97C0"
     },
     {
       "path": "programs/data/rival-bsb-xiang-language-models-meet-world-models.json",
-      "bytes": 11741,
-      "sha256": "B298E93B5CA808CE8513A1890349D11AA1D43DAB139B2F678673C839D7733222"
+      "bytes": 12150,
+      "sha256": "5D516579B908809FAB717DAB66B9D91376B68BB45DCB04DBDC0C053008D21184"
     },
     {
       "path": "programs/data/rival-bsb-yin-3d-belief-embodied-belief-inferenc.json",
-      "bytes": 50470,
-      "sha256": "C03718D003886DFCC1CD3E2227B4B69A83F077C3529069A907BF7AD4FE37D03B"
+      "bytes": 52627,
+      "sha256": "D4D6E2D1C6463EF823C87485D47368CAC5BF2B0787957DFA910538BE1BF49EEE"
     },
     {
       "path": "programs/data/rival-bsb-yoo-world-model-implanting-for-test-ti.json",
-      "bytes": 39291,
-      "sha256": "F248C7F6ADF366B5091D1870DFA1CFEF466142017BD0EB0AC28B957800F8AC5F"
+      "bytes": 41094,
+      "sha256": "1D3A0651DD67D6459C0BD17EB9600CE5B42443DBF7245C455AC21C90B90F4F8D"
     },
     {
       "path": "programs/data/rival-bsb-zhang-aerial-world-model-for-long-horizo.json",
-      "bytes": 33250,
-      "sha256": "871B11E3A35E27EAA1CB02D4084CE6265181DCC77780DDB2716F255EA691EE4A"
+      "bytes": 34453,
+      "sha256": "359077902F93A1E24EFA86A0D2F025F8C06583AF9BC0D1D99C9F25C1F97FC37A"
     },
     {
       "path": "programs/data/rival-bsb-zhang-occupancy-world-model-for-robots.json",
-      "bytes": 54307,
-      "sha256": "9945EF2B3AB5BDA2DF696EB23685BB7147EEE662C0F9E63EC9D2C7B1B546693C"
+      "bytes": 56697,
+      "sha256": "5846229E8292569262194C76F0944F0053F6B1FBC5AD9D0F17159CB86926715D"
     },
     {
       "path": "programs/data/rival-bsb-zhang-pivot-r-primitive-driven-waypoint.json",
-      "bytes": 21565,
-      "sha256": "FE49F69A6994FE88AE8B510A87E517B3AB9309FDA156585D598FB0D1861F218C"
+      "bytes": 22248,
+      "sha256": "700DD1DABBD739CB20532CE2ECA773D004DB369E075AEE372A6FC752E827D67E"
     },
     {
       "path": "programs/data/rival-bsb-zhen-tesseract-learning-4d-embodied-wor.json",
-      "bytes": 30015,
-      "sha256": "C492D2D88F31C832AE2D9279F77F3D2778B13722460CF32CC84EE34E16A7BDE6"
+      "bytes": 31315,
+      "sha256": "C6E92A8502E3CD52938E962261B56237520652BD129AC3DDE5AF1A6084C3BFB9"
     },
     {
       "path": "programs/data/rival-bsb-zhou-learning-3d-persistent-embodied-wo.json",
-      "bytes": 59392,
-      "sha256": "805A6ED9F9377387CEEFAFE067C8AEC0DA4CB089B88AE1FA7502932BFE536B33"
+      "bytes": 62447,
+      "sha256": "04A36972AF2515AABAC4F3FC9E54B93D2EE95FCE932EC3259EF701E4498BFC69"
     },
     {
       "path": "programs/data/rival-burgess-spatial-memory-generative-replay.json",
-      "bytes": 953125,
-      "sha256": "F241D75055E06F67BA040A62A9A6548B8B755F0052DB772FA7091358A57FFFBD"
+      "bytes": 960337,
+      "sha256": "7D88AF2EDD1DC9C88B07387050B3FCDE96EC31237237C067DAE9A51009ACC456"
     },
     {
       "path": "programs/data/rival-buzsaki-neural-oscillation.json",
-      "bytes": 514868,
-      "sha256": "32FFF3F97FC8C5F5ED3E47504F65E78544C216D341CA7193410E1997C30E3F9E"
+      "bytes": 519369,
+      "sha256": "500A340B101E96559C9C4C323FA41E75446D2557F15CD7941B1646CE31C8AD7B"
     },
     {
       "path": "programs/data/rival-cabral-intrinsic-macroscale-oscillatory-modes.json",
-      "bytes": 40726,
-      "sha256": "14A5FE15419AC0EFA646034ABBE6E84A688E5C5A8250DE88B7AFDA7B0197B618"
+      "bytes": 40997,
+      "sha256": "A8C1514581995A86BF11B9119411CD3F0DB627100F00F225306BEB329CDAC644"
     },
     {
       "path": "programs/data/rival-cadelano-codex-alpha.json",
-      "bytes": 47564,
-      "sha256": "92E930F67789811E3BFC9C7A6E1819770CC842AB8DE0F2D746968188B2E484DD"
+      "bytes": 47853,
+      "sha256": "53BABE5A9D67A930284455B842E4106A41878686291B5F612BF86F0DFAF90763"
     },
     {
       "path": "programs/data/rival-canhuang-luo-ester-bidirectional-traveling-waves.json",
-      "bytes": 40897,
-      "sha256": "5F902AF19DDCF465F82007446DD9ACD22816F77D6D3AAC353B64E199548704E7"
+      "bytes": 41814,
+      "sha256": "B0AC6324099BB12844E30334C3210363CB1F6BB402AA0D9D95DFE11C32F321F9"
     },
     {
       "path": "programs/data/rival-cary-miller-harmonic-code-program.json",
-      "bytes": 65397,
-      "sha256": "6E3353299A8081DDC4626046F3747F78655CD1329BCF682965ECD822A083AD8D"
+      "bytes": 65830,
+      "sha256": "0AD902A5CF495821F942CCDD8726EEC4E140588012B42F2E85CD92B7671B1B4B"
     },
     {
       "path": "programs/data/rival-chalmers-singularity-uploading-machine-consciousness.json",
-      "bytes": 603496,
-      "sha256": "ACE62FA503B3DA0F4B1A8041FDCC192940902AD02D60B9D7895993A8684987EF"
+      "bytes": 644262,
+      "sha256": "F31299AC2A821D9883F5EAB7181FA53D8F3FA9A49FC9694DF08B65E9521D75B0"
     },
     {
       "path": "programs/data/rival-chowdhury-staudigl-thalamic-oscillations.json",
-      "bytes": 442342,
-      "sha256": "4D663A5D3B9A35C1B9E4A58615C441F74B8A3AB3307CC7E509D24BF2B322E083"
+      "bytes": 465122,
+      "sha256": "4A97C2628899C8FF800059057BDD874A95131CDAE29AE667769114922730DE75"
     },
     {
       "path": "programs/data/rival-clark-predictive-processing-extended-mind.json",
-      "bytes": 361668,
-      "sha256": "16ED64FED5442D1D327526AC6FE44645221029A50CAD08293300A3C9C8E2B35A"
+      "bytes": 364459,
+      "sha256": "3BA5D233964E4467BD37B74F4EEBC607B5228FB2DB2FC19AA22B58C4B687681E"
     },
     {
       "path": "programs/data/rival-couper-quantum-field-intelligence.json",
-      "bytes": 59441,
-      "sha256": "E4F59B6B6E8EEBE215E172AB00E4D1CC901F2CA8032020ED9C736132BB7938D6"
+      "bytes": 59784,
+      "sha256": "1C0B84FA9E049F640E440649E72BD4DD1D96C5DBCD44EA44B3D64EE5C4A8F3B8"
     },
     {
       "path": "programs/data/rival-cuesta-artificial-biointelligence.json",
-      "bytes": 35810,
-      "sha256": "40287AC10C73766E1B5E80F1756FE41EB28C7B29E44F3EA7F1B11F742F4A7051"
+      "bytes": 36587,
+      "sha256": "3B177EAB5CBCF2AE6B4D514CD6E8F5536671000EC592C04A72B59316F759F911"
     },
     {
       "path": "programs/data/rival-cuesta-zero-gravity-theory.json",
-      "bytes": 38550,
-      "sha256": "9038CD4BEFEF957DE8BA9A66C25260AA3C3FD19A961BEFB35C4800B33C2EBE93"
+      "bytes": 39431,
+      "sha256": "0F71758946EFFBC607FB6F630B8D42B19748B83A2132D186B7490973EDFB6701"
     },
     {
       "path": "programs/data/rival-czarnocki-coded-reality-hypothesis.json",
-      "bytes": 65963,
-      "sha256": "05B0783D6F550ACDCC31128F847FA806451B38CCB7DD1FF28FAF2AA53A1F0F87"
+      "bytes": 66396,
+      "sha256": "64DDD9130FBC24697EEDED16B3C76D1B5C048E4AE3A8466F6F557BCAD7F9567B"
     },
     {
       "path": "programs/data/rival-daume-rutishauser-phase-amplitude-working-memory.json",
-      "bytes": 54956,
-      "sha256": "F9F9C84EF1923634334C3E198DF4E343B2FD9C67AE0F02FD25CC0B4AD447358C"
+      "bytes": 55245,
+      "sha256": "6B5F20A59E5126AD042C71E39D2D5D15D0E88274B98BBCB8BDCBC14D543B8585"
     },
     {
       "path": "programs/data/rival-declercq-trembling-spacetime-relativity.json",
-      "bytes": 73818,
-      "sha256": "0A997E1AF2E1457E750D0F6C26CD7CD64DA2CFC6D60A8EE333FB4B04D85AEB74"
+      "bytes": 74368,
+      "sha256": "2E79C77663B2C4B042EFABE5086BE206549823D5ABCAEA8D548716DE1C2E4E5E"
     },
     {
       "path": "programs/data/rival-dehaene-global-neuronal-workspace.json",
-      "bytes": 334907,
-      "sha256": "40049C0EC72348C3FD1C5FC56CA7F8842D055527317625F972733A81BE68AED4"
+      "bytes": 337518,
+      "sha256": "3A2F8AE98E275CF2C32F01C2BA1288A634F5DCAD69C48B9DF988892EB86212CB"
     },
     {
       "path": "programs/data/rival-denis-holographic-computational-universe.json",
-      "bytes": 45305,
-      "sha256": "F2E0753E3EB15E0160B10E31F64F38C5715BB451BFA6E6ADCC5D7A0A43828F9E"
+      "bytes": 45707,
+      "sha256": "015F239E98C605F260F376012C979559BEEC3482B213C03D1F8F973F4B7D0D9D"
     },
     {
       "path": "programs/data/rival-denis-scaling-entropy-area-thermodynamics.json",
-      "bytes": 38207,
-      "sha256": "A6B51BB3C9C0179C246D2A34A6DBD79BE24FB1E28ABB359E5FC77466A8626CE5"
+      "bytes": 39709,
+      "sha256": "998C2BB7F7ED6F6C4DA033475658D86B3B5FFE0974DCB4DEEF8AFC1A3D4FA793"
     },
     {
       "path": "programs/data/rival-dennett-multiple-drafts.json",
-      "bytes": 447650,
-      "sha256": "3579D7744197119BB3E9331C1F6920FCA5EF758A27B9A3F425FFB3E6E064F6C4"
+      "bytes": 476723,
+      "sha256": "6E5136C8FA3EB1008A3E0053327BA0210781A36DCA76793BE6B0E3292968BC74"
     },
     {
       "path": "programs/data/rival-deutsch-substrate-independent-computational-consciousness.json",
-      "bytes": 8070,
-      "sha256": "B0DD32C7A63DE1931F5E3BA34F424780B5E96835737FA439404874F277198507"
+      "bytes": 8107,
+      "sha256": "2670F1D8EF88EF490664087F225AFEFC11B4494D2025D649055B383881CBF773"
     },
     {
       "path": "programs/data/rival-dickson-holmes-barry-theta-coordination.json",
-      "bytes": 35020,
-      "sha256": "95F6E2A7DA8402D9B8887E5AA2A181E6D26947A585FFE9DC9A2649230C9490F4"
+      "bytes": 35666,
+      "sha256": "55EE834B33B599D9F0BA4997DB9F606CF1BFB8A5073BA50BF2D25A7453E4E2C6"
     },
     {
       "path": "programs/data/rival-diniz-maia-voler-ker-iter.json",
-      "bytes": 72846,
-      "sha256": "972A4B867B5EE6C7F6321AD37FC3D1906930132A8313CBD64F08BE47C5F31CA5"
+      "bytes": 73279,
+      "sha256": "2281045C2BD4DE68297D35C9AA40E109193F8C7AC55F67A63D9832B7DED77485"
     },
     {
       "path": "programs/data/rival-dolce-elementary-spacetime-cycles.json",
-      "bytes": 27880,
-      "sha256": "6DEA65B8B2C9263C59AD6BB604F0F1EB064CEA3C86256EE00F672E931D953FC8"
+      "bytes": 28481,
+      "sha256": "2BD99DE08FF30991496077C28C51CBD1CA55F1F98019290A6C3CCB301723D967"
     },
     {
       "path": "programs/data/rival-donoghue-eft-general-relativity.json",
-      "bytes": 46744,
-      "sha256": "158DA2AEA547058C4809EA688C4F3167EA7DD64E8DC3EC346EBFE581102CDB87"
+      "bytes": 48434,
+      "sha256": "3E4CC691C1B445239FBD500083E6C97F5CC1A8340904B8F47D68EAB8190AF8A8"
     },
     {
       "path": "programs/data/rival-donoghue-menezes-quadratic-gravity-merlin.json",
-      "bytes": 56797,
-      "sha256": "D07789507A8B0905EC02A7A8499AD7F6F51C42C2CFB0415ED5F567484BB8C0BC"
+      "bytes": 57223,
+      "sha256": "E8CE0071144A1A8186AC1EA66CD19AA0AD22B1B4CF85E3099052E5EEB6D6E5E4"
     },
     {
       "path": "programs/data/rival-du-et-al-human-like-object-concepts.json",
-      "bytes": 80063,
-      "sha256": "C4883864DCEAD40ABA4F75160454A6F37C45727A7E6CFDC32A26743D9F5A0D79"
+      "bytes": 80573,
+      "sha256": "C1660F47CA37663E072196709AE79912EC2272D3A606A672C21A16ABBD4CA169"
     },
     {
       "path": "programs/data/rival-dupke-scale-time-dynamics.json",
-      "bytes": 38694,
-      "sha256": "5DEA83845204228D32659E7F5514ABA3244F5591B877F102C923C701D1C15DDD"
+      "bytes": 38911,
+      "sha256": "5E9DDCE3727A1ABCEB917E1E954C67DC5FD8981B44C01717EB3164A54ED81F67"
     },
     {
       "path": "programs/data/rival-eagleman-neural-competition.json",
-      "bytes": 91979,
-      "sha256": "9F23AADF713C56B5B178BBF5729877A3E00AB614B9F7298CC615162E04BEAA68"
+      "bytes": 92664,
+      "sha256": "BAA132CBEF49B1621C5A7D83310F8AA23F379B4CE257CCE892A537666CFB62D1"
     },
     {
       "path": "programs/data/rival-eldarazi-jones-resonant-mass-uft.json",
-      "bytes": 19982,
-      "sha256": "2D594445A35AC491C1917627979D0ADCCEB10A5F164552E2145D839FD0207685"
+      "bytes": 20213,
+      "sha256": "E5C26290D2905670F99ABC913883A8A51BE0CD53BA81A629609665CD494F8FF9"
     },
     {
       "path": "programs/data/rival-faravelli-arlotta-brain-organoids-time.json",
-      "bytes": 35607,
-      "sha256": "034143A5CF2A3E2B1EB42346E4B9C9FDF722D5431AAE06768CFA94FC7229D3B0"
+      "bytes": 37529,
+      "sha256": "88670F4F7D20068CC3ED0E582E904FB12E7846BA01BC5385F3FC4D6FBE6FD104"
     },
     {
       "path": "programs/data/rival-feldt-higgs-universal-bridge-author-unresolved.json",
-      "bytes": 113614,
-      "sha256": "DE2B832F07607FDA64B3C406640B820375C682060523C1F90D0CA6496F34E146"
+      "bytes": 114263,
+      "sha256": "D16EEA5A0CF9D526CDB6DBA3D73042B8BEB2497641FAC1D269A7CE59F3E53900"
     },
     {
       "path": "programs/data/rival-fernandes-fundamental-conservation-information.json",
-      "bytes": 55069,
-      "sha256": "2C74B536DC52F7D558B1CD65DE44DD2D8E4A89A0583965E25529A5187BABE348"
+      "bytes": 55412,
+      "sha256": "AD47FF4C7746A0ACA03FC80B827A60AE2E472741956A1F1E7A585FB8A5F5858A"
     },
     {
       "path": "programs/data/rival-fernandes-resonant-coherence-field-theory.json",
-      "bytes": 70228,
-      "sha256": "2471C0BB8ED4072D0DFD8808E93B1588C3F5AD2E42C77C636A7CB178BBA74512"
+      "bytes": 70661,
+      "sha256": "4956A03E7CC4E0CDD0605A1CBA0F014766E60258C143BA48201400D25CF96DB8"
     },
     {
       "path": "programs/data/rival-finster-causal-fermion-systems.json",
-      "bytes": 92095,
-      "sha256": "BC179093E0A9A70E952E087DA5680E1291F302509FD678BC84EB11B3B66E1E09"
+      "bytes": 93002,
+      "sha256": "ECA8F1CB9AB4F10441458BC1B17BE0ABAAFB0E15DA5B628A6186C3D2F8E350BF"
     },
     {
       "path": "programs/data/rival-flores-zero-infinity-holographic-strings.json",
-      "bytes": 79503,
-      "sha256": "96F71EF1172DAE834BBE4C3E51347A86003DA919143F372F90BF31FC216569C5"
+      "bytes": 79936,
+      "sha256": "A99890C5F2DB9F9107423008FAAA9EEB0FD4B76095D5AE0AB51125D9F3A118C2"
     },
     {
       "path": "programs/data/rival-fornito-et-al-transmodal-association-hubs.json",
-      "bytes": 33289,
-      "sha256": "AF71678D26FCE7E2CAD5288A5C0F190D789C3B43F5BA43E2FD977EA3B210FD61"
+      "bytes": 33676,
+      "sha256": "82F236D7CA0B906673D57A8AA4A308A8AB673829488DD61A7AAD0A352732655D"
     },
     {
       "path": "programs/data/rival-four-dimensional-electromagnetic-universe-4deu-author-unresolved.json",
-      "bytes": 53984,
-      "sha256": "427E85E922A7EB48001D87BDF9E63398A77205950D1D25493312BEB2544B55C5"
+      "bytes": 56909,
+      "sha256": "EB5DE2292B76851F74940FED13AD712A2ADA3711C89A6E8A7DDCF1827B5267F9"
     },
     {
       "path": "programs/data/rival-four-dimensional-unification-geometry.json",
-      "bytes": 45950,
-      "sha256": "62EC658733A6EDBAB31B2AD30A7B5E898A4E6C16E4263E0376C8E439A45CAABC"
+      "bytes": 47377,
+      "sha256": "72DE79DA09F967123638A20AF36C12C792CD45737B7CD903D827A82280C43290"
     },
     {
       "path": "programs/data/rival-francioni-harnett-vectorized-instructive-signals.json",
-      "bytes": 41840,
-      "sha256": "709028A178543D1DCD58A5B613B7D9AF95BCC3DF7D1D07B7E67F4F0A716BCE2C"
+      "bytes": 42987,
+      "sha256": "9C11183CDFB768E497ADB8256814ADCCC084A40897AC2596CAF3D98177810B92"
     },
     {
       "path": "programs/data/rival-friston-free-energy-active-inference.json",
-      "bytes": 497287,
-      "sha256": "E4DAC39870A1C39F25CA85072AF1C25BE8B4BCB9FDCAAB4851ABC46581F2D072"
+      "bytes": 516994,
+      "sha256": "E3165CC541286737C4E05CFA619A7092B20713AAF7E3014E3EFEAAAD1361641E"
     },
     {
       "path": "programs/data/rival-frith-action-awareness-reality-monitoring.json",
-      "bytes": 218593,
-      "sha256": "B2BA5B278227898EACAC4F930B862718FB14571442406A22BE88AC507DA1C7D5"
+      "bytes": 220340,
+      "sha256": "7E411501C43D938B4D2DB29D93EF88B017FB626D9E59A41FC6EFB01BFCEE10E9"
     },
     {
       "path": "programs/data/rival-gavant-dynamic-present-theory.json",
-      "bytes": 67650,
-      "sha256": "E3E771B7E948CF01B03F16CD5E31A39043E071F98CD7BEE8C1CAEC89B3615CEB"
+      "bytes": 68187,
+      "sha256": "A06F6A3E2A9ED8C196CA34ACBD2567C8F3BB68A87030C73F991912B3430651F9"
     },
     {
       "path": "programs/data/rival-gavant-optical-conformal-hubble.json",
-      "bytes": 37542,
-      "sha256": "510020CE522693C0736AB9D2E06C362B300954C04BD3A6C585248DD2AADFDE02"
+      "bytes": 38459,
+      "sha256": "D48975C2433769380E2C250CE4FF2ADAC0EBBF46073674ED8F5E77D454B459F5"
     },
     {
       "path": "programs/data/rival-george-cortical-column-neuroai.json",
-      "bytes": 2502931,
-      "sha256": "E0916FB32E0D40423189293FE63E56C82EC814564E65122D98959FED0C98CFDA"
+      "bytes": 2538793,
+      "sha256": "F82151ABFFAA287C69B88B35FBAE0E159691F8D15E7C58060E289B4C28505631"
     },
     {
       "path": "programs/data/rival-gordon-hierarchy-of-energy-theory.json",
-      "bytes": 5627,
-      "sha256": "B200C9D9FC9FD194BD74BDD6A91B8EF9D034849D14A508FBDFE9F06C7C58DAA2"
+      "bytes": 5646,
+      "sha256": "C0DE0590ECB8D669714F82DE045BC3256E4A0346A7E2B3CB4566E9FAE6B73619"
     },
     {
       "path": "programs/data/rival-graziano-attention-schema.json",
-      "bytes": 1074417,
-      "sha256": "F8E6BD229979CB561D663A4CB47D1CBA4665857354DDE01A33F0DA432043C8ED"
+      "bytes": 1104620,
+      "sha256": "6D5DB7823A376B1DE4A697BA69989DC1B7DDCF06D247A00C87824C7DAB518B50"
     },
     {
       "path": "programs/data/rival-grm-geometric-resonance-model-author-unresolved.json",
-      "bytes": 130528,
-      "sha256": "D2617C4EE463D14338033AF2DA2A0E415D19F3D33E1957E48BAF23DB6D1E3244"
+      "bytes": 133730,
+      "sha256": "ACA69E0E9509565F3D3F28C302A92786097EC127ECBA83999145EF67026648C4"
     },
     {
       "path": "programs/data/rival-grossberg-adaptive-resonance.json",
-      "bytes": 104393,
-      "sha256": "E5004E71C1E1DC5697E24D4F68B76CF6F0825A178823FE9A29478E7A3B23DA91"
+      "bytes": 105186,
+      "sha256": "CE8F6F222AEF63EB9062F83EC1D49800125617F82B603BCD25BD868AEFFA47C6"
     },
     {
       "path": "programs/data/rival-grosvenor-solis-surowka-plasticity-gauge.json",
-      "bytes": 134364,
-      "sha256": "E5FCB84D25DCADF143ADFA2FA654EB7FA68CA6807C3AB3F94494977623990C72"
+      "bytes": 138751,
+      "sha256": "46B12596353404BD2C73766A9188542B028592FE298F8F183973BD5BF5924C8C"
     },
     {
       "path": "programs/data/rival-guth-kunz-jacobs-theta-phase-locking.json",
-      "bytes": 25352,
-      "sha256": "6C8FB10781F615BA04A36DD64A03AAAFF2079E39429D07F5DEF1AD058F607068"
+      "bytes": 25735,
+      "sha256": "D5483308BFBDE723951D92D8233CB471029C6AE442B9E9008F12E8EECCED5D0D"
     },
     {
       "path": "programs/data/rival-hammoud-unified-mass-energy-dissolution-cosmology.json",
-      "bytes": 63167,
-      "sha256": "9A901DD078B60B06054637B7082007E267D6F7DEBBABD8E0A0E61DAB1B1AA9FA"
+      "bytes": 64181,
+      "sha256": "C903C13D0582786123981F3EFBFAA6FFAF996C0EF97AD81B078CF47F483105C4"
     },
     {
       "path": "programs/data/rival-hardstone-he-frequency-specific-perceptual-content.json",
-      "bytes": 18608,
-      "sha256": "1C08778830BCED9434BCAC426AADF4A59F08C0E884B2180AB92E499D06AD4029"
+      "bytes": 18839,
+      "sha256": "BBF489814AF212E71801D56A4A7C38E529E2F8B3CA181E9FAA51A9B78CB30C66"
     },
     {
       "path": "programs/data/rival-hawkins-htm-thousand-brains.json",
-      "bytes": 2766055,
-      "sha256": "8D50A02F2B5656BDE578F2D4D6F2644BA695BD6C6E947EAE70940E02A73B2A01"
+      "bytes": 2900485,
+      "sha256": "AE782A167CFD687871065C84A3D34D8E216BB930C432F718AFBF35B5DFEBD49B"
     },
     {
       "path": "programs/data/rival-hedger-knapen-vicarious-body-maps.json",
-      "bytes": 11257,
-      "sha256": "203F0EB52314BFCC4D75CDAAF9059ECFE3D3E29D2BFE6989586CAF9A9855750D"
+      "bytes": 11544,
+      "sha256": "3FB7C3F72FB6DE237FB25852D24CA46AF5FEABE719E580E99668CB16D57BEE44"
     },
     {
       "path": "programs/data/rival-herbert-chronoflux-framework.json",
-      "bytes": 5768,
-      "sha256": "79F0E4B312D3015A7003DF04D91A265BCFE01F2BA0EFF19C001925C23558A396"
+      "bytes": 5787,
+      "sha256": "0F58E61B85395D01EC9400863521760CFF787357DA2FD196F9DF93BCE0C26C52"
     },
     {
       "path": "programs/data/rival-hesse-tsao-conscious-suppressed-alternation.json",
-      "bytes": 453666,
-      "sha256": "4D5FB21385382D4C473D5421BEFCDE7D6F2F43A2679474F38150C85256969D0C"
+      "bytes": 478637,
+      "sha256": "E4129979DB73104CB62B82738A858FF3E1B8045816D35A308A94028EA09FC86E"
     },
     {
       "path": "programs/data/rival-heuer-et-al-neocortical-organisation-primates.json",
-      "bytes": 13569,
-      "sha256": "FECDCFA25B54ABBFEC9425BFD320DC4C3FE7DB49ECF9157538E0461CDB54F824"
+      "bytes": 13624,
+      "sha256": "2FC2C33AB1899A31CBD98509492EA9AE3A4C7F79CA5690E092C26490D94E85B7"
     },
     {
       "path": "programs/data/rival-hinton-capsule-networks.json",
-      "bytes": 63807,
-      "sha256": "8ADA917CD727D44B802E377DCDE86081F872AFBEFD081E301C0EC64FCD9873A2"
+      "bytes": 64168,
+      "sha256": "0632E15BAEB773F722C59AAB6B5DA6F54E01DFA1B0F2FA360C826A71F337BD20"
     },
     {
       "path": "programs/data/rival-hoey-helical-unified-field-theory.json",
-      "bytes": 68413,
-      "sha256": "5DE0E038116BFAE825018848B37E2E1E849C615728E1E465429EF9DB4139B843"
+      "bytes": 68946,
+      "sha256": "134E5FFF856960632CB82CCDF40F095BBEE9A7B289757B93D03ECA392E7FBB12"
     },
     {
       "path": "programs/data/rival-holographic-fractal-resonant-recurrence-author-unresolved.json",
-      "bytes": 58849,
-      "sha256": "7644BE8A1BE2A7616B01A3CD7CF8E71B3EC844512BB478A5B6492491E93D96E9"
+      "bytes": 61826,
+      "sha256": "D1134FEF748A2B27838753B8E69D7B84D7C3F1D745F724B4FCB62D26D9E63BFC"
     },
     {
       "path": "programs/data/rival-hopfield-attractor-networks.json",
-      "bytes": 17806,
-      "sha256": "E6E1C1DA61C987DA04585904685DA94C05F4E40ADF00A9E5583273F949E6D66D"
+      "bytes": 18217,
+      "sha256": "E5C949778BFBF9EF0A72FEC28088C25D03F901D1FE8207019B5BC0324CCD77FA"
     },
     {
       "path": "programs/data/rival-hossenfelder-superdeterministic-gravity-collapse.json",
-      "bytes": 55338,
-      "sha256": "A26AC2E095EC77C4D9DEF0B876F34DD624116A75A955298DE668397F1EAD6C05"
+      "bytes": 55734,
+      "sha256": "A5FA37F68C0A4AA56B229CC54CD4915010A2071871DF59A3B6A8D913183E7155"
     },
     {
       "path": "programs/data/rival-huang-superfluid-universe-dark-sector.json",
-      "bytes": 584761,
-      "sha256": "56CBE6B6B56A815F541F43B155B189326F48393DE5E8631EC1CF5095AB3AD7FE"
+      "bytes": 594445,
+      "sha256": "6DC68475DC91848D223635AC6F25003941ACCA269652424BBFB8665727068DC5"
     },
     {
       "path": "programs/data/rival-humphrey-sentition-phenomenal-self.json",
-      "bytes": 167265,
-      "sha256": "FBE75AECB88BA6B5CE7FC8C7956526E2D7252BCB14AD1AC7476F446509C20C52"
+      "bytes": 168382,
+      "sha256": "A54E2C341B158F142D01A5B804CFA112A777474B3AC4294B0500AF26D09B516F"
     },
     {
       "path": "programs/data/rival-hunter-jackson-observer-recursion-theory.json",
-      "bytes": 31624,
-      "sha256": "129AE53AC539167EEC9569E5BEAB8C62090D7E861E3AA4E049E7BF2058AE53A7"
+      "bytes": 31909,
+      "sha256": "C127FF1145B85C97B25CC9771191EE843E9A4F30A4A5E595194922486D10BBAB"
     },
     {
       "path": "programs/data/rival-information-flux-theory-author-unresolved.json",
-      "bytes": 82445,
-      "sha256": "B08699405C2B5BDCC3D59478D1EF6B74DF674D850BB3E52ED3112FA2C461E1FA"
+      "bytes": 82979,
+      "sha256": "447F116D1EECA0588D983C5FB2556C37736077B49CAE04A451D55256EC05F81E"
     },
     {
       "path": "programs/data/rival-ivanov-rhythmodynamics.json",
-      "bytes": 46893,
-      "sha256": "13CEB4E448ECB647827D557C2D520EFC60EA8670A17A281E78284049F18C75AD"
+      "bytes": 48090,
+      "sha256": "C26A05CAA423E4CD865CDF9713806EE25CC06CC148A629D75564FCC99E49D2C5"
     },
     {
       "path": "programs/data/rival-jackson-harmonic-resonance.json",
-      "bytes": 45974,
-      "sha256": "9638612AD48F85D378F0539533DED5AC8055598723B3C6C3657EBCC44FAEA27B"
+      "bytes": 47803,
+      "sha256": "EE9E99AC5FD7135FF599DD8F3E351E7192BE3186E6E1ECBCCEAE4625FB993D54"
     },
     {
       "path": "programs/data/rival-james-sensorimotor-decisions-actions.json",
-      "bytes": 52487,
-      "sha256": "0D9A461D537441C833DCA90D9ED445AC28762AAE867B91D28442DF789C357E99"
+      "bytes": 53883,
+      "sha256": "6B460199E8778B992C751272E7909044F02F1821F0159EC3F79B388CF93A271B"
     },
     {
       "path": "programs/data/rival-jammal-salameh-egger-mechanosensitive-rhythms.json",
-      "bytes": 9523,
-      "sha256": "42F9F298676B7B9EE0AB391BE7FE5187403B638F6E6302562A4CEF7272F457EE"
+      "bytes": 9560,
+      "sha256": "05E1AF4C879476C66F2B8D97B4507CE1F920B71C8E0A0B8517D2A22416C0323D"
     },
     {
       "path": "programs/data/rival-jensen-behrens-spacetime-attractor-planning.json",
-      "bytes": 107056,
-      "sha256": "02CB8209428690842695CCDF0F405E717CFB06776DCA10B2478BFC0850C09762"
+      "bytes": 108560,
+      "sha256": "631AAACDDEDB99D632C4D6DCDEE2D48DC88050232E9CEAE9BA03BE5E39C8029D"
     },
     {
       "path": "programs/data/rival-jones-breakspear-compression-regeneration.json",
-      "bytes": 92314,
-      "sha256": "9C4041FBC116E9C237381DF263751F279738D69EBE705585D2942C54E8DAC4E1"
+      "bytes": 97213,
+      "sha256": "4E864719ED0FB380704734310C3C6A0E07CABFE1B277985DC594A6F96C53418A"
     },
     {
       "path": "programs/data/rival-jordon-theoretical-harmonic-resonance-field-model.json",
-      "bytes": 26537,
-      "sha256": "190238A04192266DE493250E873B845BD60162AB964FD8381920CDA7D3A00E71"
+      "bytes": 27196,
+      "sha256": "ABC245A25A8A86CB8E32A5195018C9722A3700E422EA09695E4A9923A9492BEB"
     },
     {
       "path": "programs/data/rival-jorgensen-wave-reality-theory.json",
-      "bytes": 48993,
-      "sha256": "100BF1B1013450D421429234704C0482FF372747853B6781C99C53FD31049E2B"
+      "bytes": 49400,
+      "sha256": "9FB7791E4E9225541F02E457AD0AA276886700D388C3ED6835CF4ED41F1E7450"
     },
     {
       "path": "programs/data/rival-jpv-john-paul-variable-framework.json",
-      "bytes": 26858,
-      "sha256": "7E0A7DC345745AD8972394C99A03CC4055E28BF61B77DB382B89B0C4AFCE6B62"
+      "bytes": 27357,
+      "sha256": "11A9C83FE5F4095A23776304A57A55B3B81BBCAE5E8B0A9B5CFCF4009447CC2F"
     },
     {
       "path": "programs/data/rival-juhasz-time-density-event-distribution.json",
-      "bytes": 35188,
-      "sha256": "F1FB8297AB7EDCC45275A6CD5F69DFDAAA83CDE9B7DACB2ACFCDEF28B6C01E28"
+      "bytes": 35405,
+      "sha256": "445155FE13F8725A646532446D763EC8B5AB1B09C5B92B0578CD5FD390D92C36"
     },
     {
       "path": "programs/data/rival-kanai-counterfactual-information-generation-theory.json",
-      "bytes": 42896,
-      "sha256": "B9621F1E7008EF5AA4E474B86CBDD9C18B3B7041D528BEA7E86EB7C9D40342DD"
+      "bytes": 44585,
+      "sha256": "6C0220960DE8E12FD6B0C4A99381724AFC8A842A4ABC103F3235DF1D04E3AA7C"
     },
     {
       "path": "programs/data/rival-kanai-ma-intrinsic-computational-functionalism.json",
-      "bytes": 81051,
-      "sha256": "DA8F06FC06FBB46AC6E2471849F13D8E61B8CF8BEA33894EB52271397503753C"
+      "bytes": 81591,
+      "sha256": "8ED8C04D79734AF305B3CDD539BFE572FA8D96108D2F8A4D24BFCCC2074B9CC2"
     },
     {
       "path": "programs/data/rival-kanai-takatsuki-fujisawa-process-meta-representations.json",
-      "bytes": 40238,
-      "sha256": "7367B3A873A1AF6BAE0079EF3C77481828406810E073111642CFC325C910C519"
+      "bytes": 41745,
+      "sha256": "655C6E6F607A9D033188B8E69E2437685AD35A8C7726E8D008A3AFE2AEE393E5"
     },
     {
       "path": "programs/data/rival-karvat-crespo-garcia-vishne-anderson-landau-universal-rhythmic-architecture.json",
-      "bytes": 52981,
-      "sha256": "D917AD063E20C1221A0C928F295FDB60079D5F49088E9A78635AFE39F5F4CF06"
+      "bytes": 53324,
+      "sha256": "CCE07EA7BA1DB4DA68E6BE72BD75EAD6D3E0292E318C05B495B191858A7235F6"
     },
     {
       "path": "programs/data/rival-kiefer-trumpp-grounding-abstract-concepts.json",
-      "bytes": 101040,
-      "sha256": "FAEE5C5C0F0D5B271E950C67AC6C0B4618CC9D4A75F30ABE8A95915608A80048"
+      "bytes": 106621,
+      "sha256": "F78485B1DF92FA8DAEA98A7F062A7FDF1C689411E53C2E3B8402DCACA82BA5A6"
     },
     {
       "path": "programs/data/rival-kimble-unified-spacetime-theory.json",
-      "bytes": 75299,
-      "sha256": "FFCA174937504EB0421F61B5B4032DC4D00529D680AC84CA787B51FB495B72AB"
+      "bytes": 75732,
+      "sha256": "C90FABD27246CF419B73931A87266B031EB5D397E7BBA59288D30EC958CFB90F"
     },
     {
       "path": "programs/data/rival-king-unified-geometric-wave-theory.json",
-      "bytes": 33320,
-      "sha256": "DBB05D6C1B3E6C7ECEEC188A301B80555E4B318129485BC8C20E6DFF8F492B9B"
+      "bytes": 34465,
+      "sha256": "16B5A6E3AA1E4004CCEE3DECB5A727234348F82908FD6E62F1B966CB848D9B6F"
     },
     {
       "path": "programs/data/rival-kirk-time-generation-unified-dynamics.json",
-      "bytes": 75460,
-      "sha256": "59107754AE471622716BB9F47C9E74EEE611DBD99B41B16737DD96B3C79EDA81"
+      "bytes": 76082,
+      "sha256": "B6ECB4BB4192E8ABE0A3AB70DB93C1B7F182B5FA97C40594F8A049429CC3721E"
     },
     {
       "path": "programs/data/rival-kl-brown-gravity-life-consciousness-single-process.json",
-      "bytes": 41726,
-      "sha256": "6945DD9B029633AEBD6FF1D9A69E46C7E80EACF51A1C91544CD8A88E217747D9"
+      "bytes": 41943,
+      "sha256": "647C7DA077FFBDFB432080D96181B0B3075F9D8BCFF83669F8483801E08111C0"
     },
     {
       "path": "programs/data/rival-kletetschka-three-dimensional-time.json",
-      "bytes": 38920,
-      "sha256": "01C40ABAC7DE3F367C8EE62A8B18AFEE64B75FE9A7CBAF739367CD3B4390AE85"
+      "bytes": 40330,
+      "sha256": "1BD6CD66F5414D4F7B619074E245F0E0F18A66D897D2534FDCADFF2224BF2809"
     },
     {
       "path": "programs/data/rival-koch-neural-correlates-consciousness.json",
-      "bytes": 14683,
-      "sha256": "4D20F44BD0237AF94B33F1C2B7704A955057F9F2DF1CE0B5AAA15B154918B92C"
+      "bytes": 14756,
+      "sha256": "2E0C4808C172E0441EE8A497FD516E2DE2484C4D2F45D995801DB30120755998"
     },
     {
       "path": "programs/data/rival-koharski-m-theory-standard-model-geometry.json",
-      "bytes": 70627,
-      "sha256": "032586D9A364652EF7979E303CFE0A41F03940D72F7D828F2A0E73E5937A0715"
+      "bytes": 71060,
+      "sha256": "8DD7B1E97A210A68EC2DA25298E07B1C9A49FA4B72D1954BCEC829D1054033FB"
     },
     {
       "path": "programs/data/rival-kolibius-jacobs-hippocampal-phase-codes.json",
-      "bytes": 613225,
-      "sha256": "F6EAA95C9F6B49951BA26A0EC4BC8D6A5C496AE609BEC7AFE8E906AB03C3C3C2"
+      "bytes": 644038,
+      "sha256": "F1448BAA7760C4AC95869F46BD4922BEDEB557E963401AF5111EE9A0B3837923"
     },
     {
       "path": "programs/data/rival-koller-schirner-ritter-connectome-traveling-waves.json",
-      "bytes": 33223,
-      "sha256": "41482A40ECD5425D447A7FA244DA694ACC0904B0A7374F41C79EF3D15ABF6853"
+      "bytes": 33929,
+      "sha256": "C3EA7E07EA77675A1377BD47FE818D8E69D90162F0FD85BEB6FB7A10C5847E0F"
     },
     {
       "path": "programs/data/rival-kondrakhin-sagalajev-ephaptic-coupling-models.json",
-      "bytes": 127354,
-      "sha256": "5714E70B37249FD0DE6138967EB4B525FD7E612A01B9751507D0E95B0A8AFA56"
+      "bytes": 132731,
+      "sha256": "AA6BE2B09D7D14A9BDD3C0F6CBA2593431A15376B7147FCB8995E1CFCDE0E0D6"
     },
     {
       "path": "programs/data/rival-konstantinou-berry-parameter-space-gauge.json",
-      "bytes": 38392,
-      "sha256": "6CB7CFB91546CC36B6EE65BDA9E4ED6527F27A6F3E89947100C38E8C6554FA97"
+      "bytes": 38609,
+      "sha256": "9E05BC1B6FAF91B2B696FDDE60DF43C6E077C3307CFCAEE78EA0C2C7AA84A85D"
     },
     {
       "path": "programs/data/rival-kriegeskorte-douglas-cognitive-computational-neuroscience.json",
-      "bytes": 1045231,
-      "sha256": "D2D86EDA57E445BE30EF9813F6C1FB3D3375908778120EE1B03F6E89DA89E605"
+      "bytes": 1053570,
+      "sha256": "8CFCCF3ACE263E05D7E42BDCC59B3D179F83312A7FB5244AB758B3E2BAEF42DA"
     },
     {
       "path": "programs/data/rival-kringelbach-deco-entangled-loop.json",
-      "bytes": 585490,
-      "sha256": "279B5D50EAFECAAC2ACD4D6F046A41B8A89E9AF7C06A5C061F13BF80118FEF52"
+      "bytes": 616953,
+      "sha256": "C08CB83330B3DFC4166B1825E765900EC2EBFEEF2E035EC72A717FEF0C04DDC9"
     },
     {
       "path": "programs/data/rival-kringelbach-deco-one-operator-harmonics.json",
-      "bytes": 81026,
-      "sha256": "D5F8E2B838E16C59149776047FEAA5B1817116661E09ADAFDD1DD736EDB4F0EE"
+      "bytes": 82560,
+      "sha256": "AFCF9585C5C6D7B07DB56A0F0FD38FAA512D60CC95268327F3811AA4CAA492EF"
     },
     {
       "path": "programs/data/rival-kristensen-entanglement-weighted-manifestation.json",
-      "bytes": 36432,
-      "sha256": "32A931CAC97BF615E53491505E55E5511853E8F5AE07E6EE60589E9DAF385580"
+      "bytes": 36649,
+      "sha256": "CC043E08C61A7ACE7DD6AE7A19D685EB337235BE5B37FDA53A715E658A100667"
     },
     {
       "path": "programs/data/rival-kruger-helix-light-vortex.json",
-      "bytes": 35922,
-      "sha256": "560C63F543EDCA14249C633C11895D05AB21A03662F64EEAB3BB6535CD687541"
+      "bytes": 36632,
+      "sha256": "DDED63A74D95E18258A73623B896AEBCDAE70BF8D8C3180D3ED92925B7921109"
     },
     {
       "path": "programs/data/rival-kumar-clune-lehman-stanley-fractured-entangled-representation.json",
-      "bytes": 60109,
-      "sha256": "A4D673D5AC265D567511A545BCD3C38556BD4509FDACD0F94B876711F6E15074"
+      "bytes": 60543,
+      "sha256": "81C319C09581E2DAD15630E32E232071EB61825248995F842A511192877B0821"
     },
     {
       "path": "programs/data/rival-kurzweil-pattern-recognition-singularity-machine-mind.json",
-      "bytes": 354304,
-      "sha256": "3BF18BA992E6AFDA0BDBABD770844DDB07F1069961F56BC8F5D2D78089FCA547"
+      "bytes": 357329,
+      "sha256": "8321E9E475CBCD5305306CCF7954468A54E80C5C4B5E6B0CE7655A25D3CB757E"
     },
     {
       "path": "programs/data/rival-lahtee-causal-state-history-information-universe.json",
-      "bytes": 71550,
-      "sha256": "D6F3185CC8D991D49E0A52BBEDBE3877C2439385FB1DB5A9717E107633E491B4"
+      "bytes": 72047,
+      "sha256": "48E983F72BFC20366B19EB0B9AEAD19029742B569CB18F7D6682515CB8BCBB44"
     },
     {
       "path": "programs/data/rival-laukkonen-chandaria-beautiful-loop.json",
-      "bytes": 1137100,
-      "sha256": "EDCD8087D9D7189D74768CEFC0FBC4DBAF25DBF66075F596E912B7A4080B4856"
+      "bytes": 1164866,
+      "sha256": "A5803C488AAC8F40116388FF4DB5000B5E3F3D1F7F62FEDB680F7C41C478AAAB"
     },
     {
       "path": "programs/data/rival-lecun-four-models-computation.json",
-      "bytes": 12249,
-      "sha256": "C8B524EF5C17CE62EE03EC554A3C9CDA0D948787DC3F6AEC4A6372D9E493FEFE"
+      "bytes": 12617,
+      "sha256": "C3FEE56B1AD4421FEA0FAAA5A93345573FFFDDC64EA2AA68D62B5C03CFF7AC0E"
     },
     {
       "path": "programs/data/rival-lecun-jepa-world-models.json",
-      "bytes": 24171,
-      "sha256": "0A1A6C8724162B61C6EFF1AC17D054CBBAB2619BA61C56C8823F8CE6AA1846E3"
+      "bytes": 24564,
+      "sha256": "33C26735E80BAD90F0BEBB841105D7652FD66183AEAB781B1D1CDD70D6A9DC17"
     },
     {
       "path": "programs/data/rival-lee-tsai-naturally-resonant-dark-matter-extra-dimensions.json",
-      "bytes": 41025,
-      "sha256": "F1FAB6E10E39ACA4D551F6F072AB60EDEDCE5FCC250669AFEE38812EC96F62A4"
+      "bytes": 41278,
+      "sha256": "734DEF1876A79DDB2B210A878AE816D55C324A3960B2F76CDF6F8092A7367CC6"
     },
     {
       "path": "programs/data/rival-levin-basal-cognition-tame.json",
-      "bytes": 658991,
-      "sha256": "917A2D64C9E77A5A2C26EA14B8BEB6F9C76F8B213838A56E1E207B1E2FF081C6"
+      "bytes": 663906,
+      "sha256": "719557460FC625742EB107777678FD3E3657AB296773CB518B89BC0ADDB607FD"
     },
     {
       "path": "programs/data/rival-liashkov-information-geometric-dimensional-flow.json",
-      "bytes": 21808,
-      "sha256": "4FAB34E4ECA907FCD881724ACFFF2F8797165AB8A7C5B2A4722C16B25B4DF208"
+      "bytes": 22197,
+      "sha256": "1247BF2AF11664D2EA57C48D40402E558CC4875859B6D12B94E2542C704F1A7B"
     },
     {
       "path": "programs/data/rival-lindgren-kovacs-liukkonen-geometric-electromagnetism.json",
-      "bytes": 13581,
-      "sha256": "CA61A0CB821D9B14A7849BE6A1675D959A4692C02C23BB16FFA368D646933E6C"
+      "bytes": 13654,
+      "sha256": "D712DCABFA7B86A00647145A54F41B2165A6B85A40DAF40945AFAB5838F71035"
     },
     {
       "path": "programs/data/rival-liu-shang-superconducting-density-functional-theory.json",
-      "bytes": 45035,
-      "sha256": "BB3E2915B1860E19B45A24B05B94145F616652E5F3FBF6815AFB61FE5266E412"
+      "bytes": 45378,
+      "sha256": "06E2BE4EF528490194DD64925563A0E62F642125C912F2B86DF10763FCC31464"
     },
     {
       "path": "programs/data/rival-llinas-thalamocortical-oscillation.json",
-      "bytes": 39201,
-      "sha256": "775EC0EC9E6F1FAADFA324A6D5F72EC98A166644B97206F3F853D1EB00386EB6"
+      "bytes": 39472,
+      "sha256": "6DDA8161E0B716F9E0EFBF6DB6E08EB2E3EDEF15A20B6C2159DB10247E444CAA"
     },
     {
       "path": "programs/data/rival-lu-luo-fang-lfp-receptive-field-scale.json",
-      "bytes": 42552,
-      "sha256": "737CC3C9CF99043823B72598F9DC1BD7AEA3330B0849A5045B668BE8A1532160"
+      "bytes": 44243,
+      "sha256": "687FE80F43148B5808BA9D6B8E2A442AFBD998E32B181B0ACE78A922BFF979F7"
     },
     {
       "path": "programs/data/rival-luppi-lyu-stamatakis-dmn-core-consciousness.json",
-      "bytes": 148410,
-      "sha256": "5887FA9B2306BA749218DAAA13D8BA04C1CD79D014E836A6001E67E1CFC457D5"
+      "bytes": 149498,
+      "sha256": "F314B9675306132F38F9D6E7EB7C649C1715AEEC993CD5BEF944D356472A2E77"
     },
     {
       "path": "programs/data/rival-machado-deisseroth-motivation-communication.json",
-      "bytes": 466311,
-      "sha256": "91633C2C9D499F86FE6A68B4C323566653C1BD6AB79BC723C6094A7151B78E40"
+      "bytes": 491519,
+      "sha256": "28D3077A6787B334B9A26A7D4B9EA65736F31BA646E95517B3872B3466C1247A"
     },
     {
       "path": "programs/data/rival-mannheim-conformal-gravity.json",
-      "bytes": 8808,
-      "sha256": "63E76D6E6F4A35948B7F84850DB8F574A25511125618144C99968EABD9197174"
+      "bytes": 8923,
+      "sha256": "B03323B643E83C84EA46D1026FA20797D767A47BFACD9988AD1000655C4BF766"
     },
     {
       "path": "programs/data/rival-matias-uchida-distributional-rl-circuit.json",
-      "bytes": 547498,
-      "sha256": "A87477281D4C1800F44507934765BD87307833DA573E4C1FBBC8C54C0864860F"
+      "bytes": 577397,
+      "sha256": "7C75F05C27652EDCCD96F8BCBCD3AB763B86592167E8A4BCC241967C82E8B143"
     },
     {
       "path": "programs/data/rival-max-jaras-cortical-error-neuron-backprop.json",
-      "bytes": 56792,
-      "sha256": "FFC276CD974BC6F7D047D475D3BDCC9FB61B791DB29867F93BA8334F50CCF7E1"
+      "bytes": 57099,
+      "sha256": "007CF604BA74C47422EFCEABA2AE20D891D03853A8978CCCA00716A871B17897"
     },
     {
       "path": "programs/data/rival-mechanics-motion-four-dimensional-time.json",
-      "bytes": 36688,
-      "sha256": "48A5E51BFCF79B2A16E740F024007609717B650C1C4700A1EBCEB8D73FD7C423"
+      "bytes": 38139,
+      "sha256": "3528DCC162AC8FEF21E26C1797DE2D9208A8A25484594A539E1A1022228C16D1"
     },
     {
       "path": "programs/data/rival-menendez-time-projective-shadow.json",
-      "bytes": 53525,
-      "sha256": "2C0A6D75E32C63EC14785CF94E337AC595DBD42561987604D98939C1A5C5DA05"
+      "bytes": 53904,
+      "sha256": "31608AE6C62F4B839E913ABAFA12ABDEDBB3725E353C3EEBDBFE3AA4AB705215"
     },
     {
       "path": "programs/data/rival-milgrom-mond.json",
-      "bytes": 127684,
-      "sha256": "7239DC9D8C6B539FFE7085B9F7DE4898E78679E1ED277C60E1DBA3BD77229635"
+      "bytes": 128405,
+      "sha256": "8AAA297059ADBD431E6FF532AA6857C4E34A47069975776CED9104EB96802649"
     },
     {
       "path": "programs/data/rival-milinkovic-aru-biological-computationalism.json",
-      "bytes": 84150,
-      "sha256": "6405FCB7061A2BFD08B80292DDF118D1E930B0F58A272C2EB2B0623D93B6AA0D"
+      "bytes": 86208,
+      "sha256": "1B28DF19E0572819703D09BE3EA4D3B92C52BC66A20B2785A9A8737FDF9E3A20"
     },
     {
       "path": "programs/data/rival-miller-spatial-computing.json",
-      "bytes": 3100311,
-      "sha256": "5B5587A7B1809885E433C1310EF1D362031ED4A82311425337ABB0F03AA20957"
+      "bytes": 3326455,
+      "sha256": "8B32419382131196CE66665F8C3A0C94D2F15546C65B39BF320F7DFF980C9082"
     },
     {
       "path": "programs/data/rival-mirhosseini-mechanical-quantum-memory.json",
-      "bytes": 89330,
-      "sha256": "3A151986F08F9CDD455B02779D104DE771F4A5C69A9DF711420D4273F7C738F0"
+      "bytes": 90141,
+      "sha256": "9D2FDE7639D087D915F75C152E45F6F273443ADA9A42373E65D8DCB0E55F14F8"
     },
     {
       "path": "programs/data/rival-morrison-delta-field.json",
-      "bytes": 69041,
-      "sha256": "77E817393936CA6148F5A23C20AA916E60D28B3C0267501D51F259A8E5882196"
+      "bytes": 69474,
+      "sha256": "1476B199CDEFAF71474A011026EC852ED83EB824FE6E7B0092EC52EDD93B6A63"
     },
     {
       "path": "programs/data/rival-moyal-cleland-heterogeneous-quantized-spiking-networks.json",
-      "bytes": 39505,
-      "sha256": "E922F25C73A8064B4ED2B9CE0DDE9CDE052363461119529EF76D7A3A26EE8BF4"
+      "bytes": 40837,
+      "sha256": "B3B181DC5D900EFDE45D3E0C53FB4C919195CDDE1CC65F1C186EBF488A9D1BF6"
     },
     {
       "path": "programs/data/rival-muller-chavane-reynolds-sejnowski-cortical-travelling-waves.json",
-      "bytes": 140904,
-      "sha256": "5141FC4247D89CE1C54AA3B4A7BE4952E2EC64DD6997361878A80841A2E16FE1"
+      "bytes": 146437,
+      "sha256": "9F4848AE56D371C415669125F8B1AC0839ECA8222EC85835430B3CDFB24DA125"
     },
     {
       "path": "programs/data/rival-munn-muller-shine-multiscale-neuronal-activity.json",
-      "bytes": 51675,
-      "sha256": "9F58189DC1A88A1A722467B8865FEF033162914B93CAD89375131F9DBCCCAD88"
+      "bytes": 52437,
+      "sha256": "3DAAFF6B22A53D17412981B7439ECE490B3EF2B8F9731CEC9E405C51A6038836"
     },
     {
       "path": "programs/data/rival-nandi-scholtz-quantum-geometric-phase-gw-detection.json",
-      "bytes": 38347,
-      "sha256": "B47A462075F611A9DCE45BE822798525022F4E05E2D8F128ADDA61A6E4358A94"
+      "bytes": 38703,
+      "sha256": "E8F6E2F1E68D54B40348E2E72752393ED5084FC6F9EE1B33FF2C1D86C751ED50"
+    },
+    {
+      "path": "programs/data/rival-naumenko-difference-based-cognitive-architecture.json",
+      "bytes": 129201,
+      "sha256": "BA449D79F4DF430FB6D7996A7FF442E4B00887C1AD98F967E7111F4E54EB9EC3"
     },
     {
       "path": "programs/data/rival-nazat-consciousness-based-layered-field-theory.json",
-      "bytes": 33730,
-      "sha256": "BD639073FC1BE0AED998BE7AA24867E25FABBABA982C6452A4B062AA9AFD82FE"
+      "bytes": 35444,
+      "sha256": "A4B3285737A929667567689761359AC6B761D8033CF8B20C5CFE0C9BFEF2FFE7"
     },
     {
       "path": "programs/data/rival-nazat-discrete-interaction-network.json",
-      "bytes": 35374,
-      "sha256": "08B84B782BC2CC2EA7DAE9856BE16DDBC5C8A51998B04D6EB963541AF3713938"
+      "bytes": 36711,
+      "sha256": "1D7BD181ED683018B53076D282727B54412807BBA7D2015848303EA1C48E9273"
     },
     {
       "path": "programs/data/rival-nazat-information-fundamental-toe.json",
-      "bytes": 68281,
-      "sha256": "9C3752FB0BDE0C139C225DF18F5528BCFD6379C733C7DCC2D0F52F466E4BDA37"
+      "bytes": 68714,
+      "sha256": "AEB64F344575CF83D7A6DF9A81EDE01FC637B00AA1B6D16024CB84A0B5595EDD"
     },
     {
       "path": "programs/data/rival-nazat-maximum-angular-speed-mot-umas.json",
-      "bytes": 68807,
-      "sha256": "C56EA5E9AA63C943C50DDEA99AB8A5994B393463FCD39726ED2E342922E19CB4"
+      "bytes": 69240,
+      "sha256": "6B49C272C0F3E97B62797FC1410406CF8B2E4A21A91B95AC5C1D8A3B99548BCA"
     },
     {
       "path": "programs/data/rival-nazat-principled-unification.json",
-      "bytes": 34079,
-      "sha256": "F54A1AC5ED7F789F2ED6935666CD57EE09A3DBDE196638DAEA11E8FAD7859730"
+      "bytes": 34296,
+      "sha256": "60E937216D045A474B966FD6A181F2E47D2020FFB71F3304A8C9F8891EB7E262"
     },
     {
       "path": "programs/data/rival-nazat-reality-as-unmanifest-structure.json",
-      "bytes": 35394,
-      "sha256": "F63C39C7447C403B81B6BC539BEDD3E9964BBDEA2C1DA717F6D5722302259C13"
+      "bytes": 35611,
+      "sha256": "5E79669F7D5207B1268E1FFDC3B9C4BD3EE2014E3DE756B136B827F3588B0A30"
     },
     {
       "path": "programs/data/rival-nazat-superpositional-asymmetry-principle.json",
-      "bytes": 39677,
-      "sha256": "9C86BD8969E81BAC8B0D9010809255FC1E5AB00BC34B65F7365E399F18315084"
+      "bytes": 40099,
+      "sha256": "630E832497640B38FE8257DA055DF99F6213F63D7D27882B145FB51B57EDAFB8"
     },
     {
       "path": "programs/data/rival-neukart-geometry-information-quantum-memory.json",
-      "bytes": 58298,
-      "sha256": "51A3D3E8573A720F24668FD0B86D95936EA6E88A466789B661EBA8707B363447"
+      "bytes": 58659,
+      "sha256": "CEE8AB316C5E7596E85972DBF605A7BB0AB492F5055C43CB250A48673822FDE5"
+    },
+    {
+      "path": "programs/data/rival-newell-soar-common-model-lineage.json",
+      "bytes": 168045,
+      "sha256": "EFAA985A9FE24283B1667CA7384A330F8F2664A727F69585DC0FA299FA4DAB62"
     },
     {
       "path": "programs/data/rival-nishiyama-tanaka-tuszynski-tsenkova-holographic-brain.json",
-      "bytes": 39432,
-      "sha256": "084EB9410A87CB5A848B936CAAFAF78E70FD768E38A1C8DEF28B495D790667E7"
+      "bytes": 40805,
+      "sha256": "85FC00EAAAF51E2EA362AA87760A62E1E7B58054CC5AB034910BB23E4B915FE2"
     },
     {
       "path": "programs/data/rival-nj-mol-gramophone-model.json",
-      "bytes": 314536,
-      "sha256": "C697127038AE6563CEA434DDD5277623F8C807DC28F95423A7B56AC125201775"
+      "bytes": 317183,
+      "sha256": "70969E67DBE009D308C1B80751DAF3EF36EB15A2B27294B72F0822878DFC710D"
     },
     {
       "path": "programs/data/rival-pang-geometric-resonance-cortical-waves.json",
-      "bytes": 41074,
-      "sha256": "D9FC81A2A9993DB5042F441462F258D14CCDC07885C58F2D10CF9EE311A95B00"
+      "bytes": 41607,
+      "sha256": "88151B6B4A6D343C4286AF0370A8C034BC2FA8789C72DA38F277A7E0C36D472A"
     },
     {
       "path": "programs/data/rival-partanen-tulkki-u1-gauge-gravity.json",
-      "bytes": 23808,
-      "sha256": "8D1694858FF939C35FE8A35F405B595773A9B73182284AA3D7BD02AF784DFE65"
+      "bytes": 24443,
+      "sha256": "232AF4191F476DBEB11BC6A6265E0C8587523C26A37198D5F711D3C78D8E9757"
     },
     {
       "path": "programs/data/rival-pbs-spacetime-time-gradient-gravity-explanation.json",
-      "bytes": 53872,
-      "sha256": "8921D0B2FE90F357E23AF28823D1645D734C4C2E11D73AF92FDDE35961B76D7B"
+      "bytes": 54997,
+      "sha256": "D7BAC64FEF0BCA59DD27B4C5EBB7380D0E65CC4CC12E34CFF8020CFC6B0253B1"
     },
     {
       "path": "programs/data/rival-penrose-hameroff-orchestrated-objective-reduction.json",
-      "bytes": 123144,
-      "sha256": "7FB6B85765EC301D0C9757F015249CCEFA0F2A5CAE8817ECC112AE7BD20FC4C5"
+      "bytes": 123955,
+      "sha256": "62AF7CF6733574ADB72E80E595FB45B8B0B0CF2A928D8C3C1DB0F2006E77C9F9"
     },
     {
       "path": "programs/data/rival-penrose-objective-reduction-noncomputability.json",
-      "bytes": 51038,
-      "sha256": "0033FD0E7B2CA0FB3597A23493B9BF915E74CAD47AF91A348BBEA306B970D847"
+      "bytes": 52584,
+      "sha256": "327B6902A69B566CE3967AA4319222ED7E7C9E31156413C0B8D81072D42A8DF8"
     },
     {
       "path": "programs/data/rival-pessoa-gambarotto-heterarchy-control-spectrum.json",
-      "bytes": 461633,
-      "sha256": "50C7671B86181377F68FAEA24932C12FEF31062412E30A6E92CED8BA63C36215"
+      "bytes": 489670,
+      "sha256": "F8DC5FF12D4127DD1A440091C220C6E305B4E82A4B35E30D88D02858499C543F"
     },
     {
       "path": "programs/data/rival-pigozzi-levin-causal-emergence-trajectory.json",
-      "bytes": 37659,
-      "sha256": "5A76FAB41EDD9CF01BD64EFCBE863734C9E4402DEA457F02EBA3AFE3297BD42F"
+      "bytes": 38753,
+      "sha256": "C4107B9DA15B0608FC98264185A0C3CD2839E4BEF018FD7B8F388743D6BF6148"
     },
     {
       "path": "programs/data/rival-portillo-levin-nanofluidic-ndr-reservoir.json",
-      "bytes": 42390,
-      "sha256": "73FCACD4A1E9F0964A7A6C4A4228E643DFED92B02A2B32045B52D6DFD587DF1D"
+      "bytes": 44495,
+      "sha256": "C3811712F833AE277775F22FDDD06702A0BF213F38E55C1EC1804801D0200D24"
     },
     {
       "path": "programs/data/rival-pribram-holonomic-brain.json",
-      "bytes": 41123,
-      "sha256": "B55A683D59CE4851D16952F84045CD941445A2D4B053B1F2B3E916F6074258E5"
+      "bytes": 41322,
+      "sha256": "28B7086F5DCCEC50E482611ADA62A2886BE56E79DD651E8C92DBF7FFFC51DA37"
     },
     {
       "path": "programs/data/rival-qri-qualia-valence-wave-computing.json",
-      "bytes": 1062857,
-      "sha256": "2A1595C4C153A04B45F4B4E616557EA29F0079967E887EB3305135007E2495B4"
+      "bytes": 1093546,
+      "sha256": "DA35686BD0FB232657AB9500C5B4443DCB652044566F3DD01F889032243B3D49"
+    },
+    {
+      "path": "programs/data/rival-ravera-francois-relational-dressing-field-gravity.json",
+      "bytes": 121184,
+      "sha256": "A6C92F24A9A3CEA81947A6781B897A1125E24881EC76256966D7C4E44F5782D2"
     },
     {
       "path": "programs/data/rival-relativistic-rotating-galaxy-quasilocal-dynamics.json",
-      "bytes": 17328,
-      "sha256": "8E505B1655CF973C81030E60A28C86A4A638A2CF27009E628B13786128C6D50E"
+      "bytes": 17851,
+      "sha256": "E02C146D9C65335024E8743F8039BDF3AED8627D1549B5C3DACFED71B6668A1A"
     },
     {
       "path": "programs/data/rival-reynolds-dimensional-impedance-uft.json",
-      "bytes": 19182,
-      "sha256": "A15354BE145AC996557DB51FD2F112AF10C23A50BE20E6E27D8942504045B48C"
+      "bytes": 19605,
+      "sha256": "FE0BBCA223183B24C03D294B552B93AF4878AF2C1F2996DDB82882459963DAF8"
     },
     {
       "path": "programs/data/rival-reynolds-geometric-unified-field-theory.json",
-      "bytes": 34536,
-      "sha256": "D0BE9CE1B6E960009DD768D58379DEF1B51A02E9FA8A40F0F87493CE53D12E5F"
+      "bytes": 35835,
+      "sha256": "42C26F32C8C4621767A7137B14EB511623E429DD8BF1AD5B741FA51C67358D11"
     },
     {
       "path": "programs/data/rival-richards-photonic-projection-space-compression.json",
-      "bytes": 18531,
-      "sha256": "6EEC520299ABEB6D53DA545E6A00C3F737C4E9A64B6C1B888A5F62A3A49B170B"
+      "bytes": 18730,
+      "sha256": "116BC2FD3F9625AC70B5D257B6D7600AF27B5105A61CDB69FDD15B6D555487C5"
     },
     {
       "path": "programs/data/rival-riley-magnetic-pressure-dimension.json",
-      "bytes": 49618,
-      "sha256": "286D7C47F935488F03530D77862E5E53EE7F944CEC08A3B65041BDC1E7021510"
+      "bytes": 50081,
+      "sha256": "6A745B426E70A82A4ACDD77F15F773616569BDB3E3AE4C187D6E7E8400BA50C8"
     },
     {
       "path": "programs/data/rival-riz-uit-time-gradient-gravity.json",
-      "bytes": 75814,
-      "sha256": "BB0AE2177F044A4E6C91E57F714106D2138D370AD0FF774063A1115DF0DAC089"
+      "bytes": 76350,
+      "sha256": "E859833CA9154897045949955479D9D4315C6E51C0560C137903F296E04AD85D"
     },
     {
       "path": "programs/data/rival-roy-radiation-regulated-scalar-coupling.json",
-      "bytes": 34075,
-      "sha256": "1FEDED98F431E339477021457C7B5EBBE2F9EAA6905BC542C208B39877E690A7"
+      "bytes": 34292,
+      "sha256": "5AD16C4D354410724573294BDFAAD998B17F55114775F709E3D85AD8B5BB2E81"
     },
     {
       "path": "programs/data/rival-safronov-waterman-learning-sense-meaning-phenomenological-neuroplasticity.json",
-      "bytes": 21127,
-      "sha256": "F4ACBE8BA6B5EFB820DD8B969E791C9A13BCC7554AD0B1AC501B84938FF25B00"
+      "bytes": 21381,
+      "sha256": "2791A7AFFC2DCB9D38AC70843060ED95640A5D09185C1875E6B0CF67925EE2D0"
     },
     {
       "path": "programs/data/rival-schneider-sensory-motor-prediction.json",
-      "bytes": 703981,
-      "sha256": "34812E0B1890421771AD8B76BECDB311A27B0156020ED3BF2D48AB8C72E66AA9"
+      "bytes": 709814,
+      "sha256": "2F629572DC1D190BAED6C3229E90B6D3531F8CD6525EF7B469763E8E303CAB4A"
     },
     {
       "path": "programs/data/rival-schuller-constructive-gravity-electromagnetism.json",
-      "bytes": 49441,
-      "sha256": "4070F73D516049F6F2D733A77B9CB87E29DC442A61A2350876B603A0657A5A47"
+      "bytes": 51297,
+      "sha256": "CF342E7C3AECD92DB557ECF7FBE48FAECB55B1BF1AB6F5C3F39630F5981B1BA9"
     },
     {
       "path": "programs/data/rival-seth-controlled-hallucination-predictive-presence.json",
-      "bytes": 1158416,
-      "sha256": "48EA3A466592AA529C7697313612878ACE043870D255E3E314B56BA563753119"
+      "bytes": 1229241,
+      "sha256": "1F5A4EB3CA7A5CB676832D221AEED879A76E601B00B37E21E6E27B6641C99188"
     },
     {
       "path": "programs/data/rival-shah-yamins-transformer-canonical-microcircuit.json",
-      "bytes": 77479,
-      "sha256": "7EE12B7EA77F8E85D51DCF1FFE2C796782FDCDA43B07F6BEE2238C8D59D80969"
+      "bytes": 81036,
+      "sha256": "6DC514532ECB5489ACA0C89116F66DE9B3C1C736EF8F2EA1D60577876DF457F7"
     },
     {
       "path": "programs/data/rival-sharmila-vermeulen-datta-spacetime-fluctuation-correlations.json",
-      "bytes": 26306,
-      "sha256": "55ED040E6F238DBCA26E101A49DCE6913ABDE36C2DBD6425AA39222EB6225681"
+      "bytes": 26675,
+      "sha256": "074308D389DC8629D679B9E23516E3ADF09CB7670585CB8E20DD98AD1A7E4B5F"
     },
     {
       "path": "programs/data/rival-sharp-dimensional-resonance-model.json",
-      "bytes": 43262,
-      "sha256": "6B4846E42097342CDD9AE380462BD4E7D23C8CE2985820092659A11B1FF6BBC5"
+      "bytes": 43730,
+      "sha256": "5F1F0283721D8C0F1548665CBBB1677019B412070C915A45AF1BA3B4FED0BB3E"
     },
     {
       "path": "programs/data/rival-shreiner-law-efficiency-cosmic-expansion.json",
-      "bytes": 42650,
-      "sha256": "796BFF886E1DB4D5D025DB0CA12E67E242D07E7585A5E13F42205C495A35BA07"
+      "bytes": 42939,
+      "sha256": "C0B0F3C75A07627CEEC645E861B518F30D15D4F6C6AE91D7CBEA50BA0F244EDA"
     },
     {
       "path": "programs/data/rival-signal-driven-cosmic-renewal-author-unresolved.json",
-      "bytes": 39715,
-      "sha256": "E012CBD1FB912FBE1EA9207183FA00E33BB5CEA8630D53298A42E0391A937BD2"
+      "bytes": 41192,
+      "sha256": "1476DC32DC618A212FDBCAD3A9D7265B834AA94FEAEC2C4560C6D22D870C1DC3"
     },
     {
       "path": "programs/data/rival-silva-chang-wernicke-generative-speech.json",
-      "bytes": 94668,
-      "sha256": "9426CDE01DA1C19FB22E526B1ED3C4E7E7D374FFFBAD871FD20970E82307F133"
+      "bytes": 98790,
+      "sha256": "5CA0C00F7BDB6AD681F29E88D150DFC5C999ED54BCD8F49C5FC5CBC843A965CE"
     },
     {
       "path": "programs/data/rival-skipper-self-shifting-coalitions.json",
-      "bytes": 486267,
-      "sha256": "1595C9AA00F3F34A8996EEE34F63E6924326BADFFB698607A8288E9AB39E9D39"
+      "bytes": 512722,
+      "sha256": "BB2EEF4109A06AD9FFE67982A5E5780E0E2EFB533F5D8894D3AB7A3B24DBD983"
     },
     {
       "path": "programs/data/rival-slahounek-zip-coherence-field-gravity.json",
-      "bytes": 70520,
-      "sha256": "889119808750CA9DE09EF39457422FFD3B2732E7D4353CDB9FB353A4F58D6A56"
+      "bytes": 70953,
+      "sha256": "3EB425E70A20BD796F34C4634C30873625C373A3B9CD25FAD19F9057F13F94BC"
     },
     {
       "path": "programs/data/rival-sokolovski-matzkin-negative-times-weak-measurement.json",
-      "bytes": 42322,
-      "sha256": "2E90E4A206A8ECC03D69DCF501381939ACCB47932307E99DA6DDCE0E07293F45"
+      "bytes": 42780,
+      "sha256": "14E778E18D0142A135C57C4C15D8E9A8D9D5F4001FB2E9BF9BFA1332EC2CAAD5"
     },
     {
       "path": "programs/data/rival-sousa-junior-thermodynamic-holographic-entanglement-theory.json",
-      "bytes": 71703,
-      "sha256": "595325D62DB26064B7E67C70CFED6FF3E185F4829B20546A9B4D77B92D40910F"
+      "bytes": 72136,
+      "sha256": "B436620D622BB0AA85FCBC6254C1B0B4B250096AD7548339DC03AF347D4780ED"
     },
     {
       "path": "programs/data/rival-sporns-network-neuroscience-connectome.json",
-      "bytes": 8329,
-      "sha256": "73082FCA2C618D69B2E5ED59AA195E33DD2C8D28C761C6CD2AC631C9054C9EFA"
+      "bytes": 8366,
+      "sha256": "67FB39287349E72DFBDE4EBFECC58BFB36DAA870782189BACD8213BD80B8058D"
     },
     {
       "path": "programs/data/rival-sprague-conjecture-x.json",
-      "bytes": 22790,
-      "sha256": "E6636DD0F9943F7C798EB98B9064BF7EE7E9B5BD49D2EC8268D69CE525D24772"
+      "bytes": 23328,
+      "sha256": "6ADD30DB946CDC3EE98B05484D7259E23C59BF2024B81CD599643E400EEAF75C"
     },
     {
       "path": "programs/data/rival-steel-robertson-opponent-prf-perception-recall.json",
-      "bytes": 41953,
-      "sha256": "6789B767C5219E97AB74DB61F3C01D1DF0768B67ED4523B909C8780EDE291EBA"
+      "bytes": 43175,
+      "sha256": "C2C38A22B36C716C6A61BF23BAB11402C3232D86CA36C0AFA8B254C6F30E4CE3"
     },
     {
       "path": "programs/data/rival-stieve-unified-harmonic-framework.json",
-      "bytes": 12847,
-      "sha256": "CC02FD65EC336CD12DE2FD209A6B2B1857506577D7D4CD170EBDECACD2A5E586"
+      "bytes": 12999,
+      "sha256": "666570B8150577940DA7A9634A110F31FF966D2467DB52C2C19CD9DE0AF2678F"
     },
     {
       "path": "programs/data/rival-strogatz-coupled-oscillator-synchronization.json",
-      "bytes": 38704,
-      "sha256": "3BA846E8CA706B96FE6D8D4DF047827285838C04EB42D265991494CF89311EB5"
+      "bytes": 38939,
+      "sha256": "6548325BA63124A4E46E8D6BEEA79A412D66C1BEA0F18493B1A0B6C6B85AE09F"
     },
     {
       "path": "programs/data/rival-structural-meta-theory-distinction-coherence-admissibility-author-unresolved.json",
-      "bytes": 59376,
-      "sha256": "5EC620AC0D6E432BC14465B449CDC0E0873FA0F3CD2806A6A16284DF109DD38B"
+      "bytes": 62524,
+      "sha256": "7F544D4EC346D7D6D174EB62378047BA8B8A317E1B797E3B5B06EF6BF71557A0"
     },
     {
       "path": "programs/data/rival-subba-atryum-framework.json",
-      "bytes": 358238,
-      "sha256": "D490A3A3E0B31D1BEDB852FE88E53370F9165CC95603117F88EA71F6284E79E8"
+      "bytes": 360183,
+      "sha256": "B5BBA4FAC34D70F75BEDF379577C82B52839488014B5262C52FD7D624CCEA909"
     },
     {
       "path": "programs/data/rival-t-hooft-cellular-automaton-interpretation.json",
-      "bytes": 29253,
-      "sha256": "B0B8A8E0600726A62BE637D9F7FE4A227C5A85EF489A36F70A31F4554D13CACB"
+      "bytes": 29707,
+      "sha256": "BD17E800D6CFED8A64FA7417D747443FF5CCE9886F43AFC2138C034CC7A3BE97"
     },
     {
       "path": "programs/data/rival-tegmark-mathematical-universe.json",
-      "bytes": 40020,
-      "sha256": "C5073040EC955BB9B0808D778C4251D469C4A46D247D6D4A858A36F08D13C15B"
+      "bytes": 41836,
+      "sha256": "3BE3D801071A83009533EE7ABE568CDB2986C6BAE470B1619AB473E563561157"
     },
     {
       "path": "programs/data/rival-tegmark-perceptronium.json",
-      "bytes": 39611,
-      "sha256": "BC901876BF274575A97BCDF460683C3E141B783599D348F84CB7FB3B83C8CBBA"
+      "bytes": 39828,
+      "sha256": "67C9AB5806607282DA82D52D22729A7B7882D7FBBD8BB483BA29C4001FF1E36A"
     },
     {
       "path": "programs/data/rival-thompson-dimensional-framework.json",
-      "bytes": 38605,
-      "sha256": "1C22AD819061CE1F574E90BABF899BEF48E8B733866E50A7C5A0E6EA9736DD31"
+      "bytes": 38822,
+      "sha256": "03CC3F8991E1D57FB43DFB18A2B7923C56ECA69030223DAFEE91086F98F788EB"
     },
     {
       "path": "programs/data/rival-toe-jaimungal-bianconi-gravity-from-information.json",
-      "bytes": 81726,
-      "sha256": "0505B257AF687E03BB15A1E643C7215755425D3CD8ED7573A99E395112DDB991"
+      "bytes": 85304,
+      "sha256": "5E91AFF483FD12F2404E0DD72F7AF409038006B1215528C8426209DDECAD5216"
     },
     {
       "path": "programs/data/rival-toe-jaimungal-hiding-in-plain-sight-physics.json",
-      "bytes": 82582,
-      "sha256": "D31E48149E5AE5C52A893DEF762B0C046BE9A6DE6F938B7059469470E1030F3B"
+      "bytes": 86247,
+      "sha256": "4A9E72220A31AC5810B730AD921F0821191F9F90D5D467C391B3C47646D9CCC0"
     },
     {
       "path": "programs/data/rival-toe-jaimungal-hossenfelder-flaws-fundamental-physics.json",
-      "bytes": 86603,
-      "sha256": "83E9820585352969A5F47436478996343A3767786BDC1A080C60B072CA60697B"
+      "bytes": 90386,
+      "sha256": "12E41AA5950C5206694B3A4D2D30C68AA7EF2D0A1D44C10856C3A60DBF5F2B42"
     },
     {
       "path": "programs/data/rival-toe-jaimungal-ismael-physics-of-free-will.json",
-      "bytes": 42464,
-      "sha256": "1046087B695A425EAD58F0543C90DB0AF8658E1F4CCB881C5601F8ACF8D497B1"
+      "bytes": 44543,
+      "sha256": "3044A98DD0AE68A3F5AD03A16F1A1C8B4BB87836C6160D18B8AA5F407FACF6A6"
     },
     {
       "path": "programs/data/rival-toe-jaimungal-kastrup-hossenfelder-superdeterminism.json",
-      "bytes": 8684,
-      "sha256": "02CB7453AAD80325E1B28EE561600D7317310520506E51C73711C680D1098E41"
+      "bytes": 9019,
+      "sha256": "33FA6CEB9148ED2E363273A2047A0907A4426E81A022CACB9C0D9C7BBB590BBA"
     },
     {
       "path": "programs/data/rival-toe-jaimungal-route-to-quantum-gravity.json",
-      "bytes": 28894,
-      "sha256": "09C850376F6863721D2F765DB0AF2BB0AB2F41C7B3CD90F26D3E2F7388CFB8D0"
+      "bytes": 30276,
+      "sha256": "E63379569FF22E8384BF9B29A4D6CABC0EBC0B4065083B63E0EB0E8B8ACB9883"
     },
     {
       "path": "programs/data/rival-toe-jaimungal-schuller-gravity-electromagnetism.json",
-      "bytes": 71833,
-      "sha256": "8267DFBE4555471036E6BB73767D66C249A661D471F265E1F825FA349085B766"
+      "bytes": 75308,
+      "sha256": "FA1C3EF1F585653CD84E9DB127770D2090201020353E2DCA62D232C436DE772C"
     },
     {
       "path": "programs/data/rival-tononi-integrated-information-theory.json",
-      "bytes": 629027,
-      "sha256": "FEBB12084E71DC7F23A13731ED3E70822DCEA3E02B641227F75D48B7551A08C1"
+      "bytes": 663371,
+      "sha256": "5CFFB5C540B22B63039F6D1431FCFFBA54CB93F3579D1BA4108DDCEB38ED4C2E"
     },
     {
       "path": "programs/data/rival-touloumidis-universal-structure-formula.json",
-      "bytes": 610883,
-      "sha256": "BFD466A0165376FF1B1C41E2EBD2C2E2EE69F11FE704A58E8DA9AA35D077D25D"
+      "bytes": 636325,
+      "sha256": "42836694E64C7CB253275A1D683A403A009C7A9FCC4434F3072064C92D752CCE"
     },
     {
       "path": "programs/data/rival-triadic-resonance-aether-model.json",
-      "bytes": 24278,
-      "sha256": "48243038CEB2DE402DBD2AF1E26E59614DBFACBF3FD88512A845C6B3CAC7F0D9"
+      "bytes": 25008,
+      "sha256": "226DCFF0516837E88CF2FFA781472DA792957CC70ADE1ED9D52A68423C0B44DE"
     },
     {
       "path": "programs/data/rival-tsao-astera-consciousness-engineering.json",
-      "bytes": 388046,
-      "sha256": "E592E78E5110867477DA62D85D91DDDDD24654D67B72CDF0FE2D10F0995982F2"
+      "bytes": 410789,
+      "sha256": "C11B4FD6AE4D04F021FD0F9BBDB5736A0572210904E24439349048AC79CE4071"
     },
     {
       "path": "programs/data/rival-tse-criterial-causation.json",
-      "bytes": 24083,
-      "sha256": "5A573A8D43FCA9CF5893F8129AD53A7E4EDF1D3BF410CF39D1A0D8BC75859D59"
+      "bytes": 24174,
+      "sha256": "CB06051158836D484B405B85B52890B1CE7A6B3DAA0208443165CBEFA5B23B0D"
     },
     {
       "path": "programs/data/rival-tsikriteas-ime-taso.json",
-      "bytes": 82272,
-      "sha256": "D8CCCAFE291E876DA0A31B85B1589BF2BB8E2E398A3068349A1EDA10F088FD8F"
+      "bytes": 83067,
+      "sha256": "F0C03D339905960CCC9B2D70FCDC8E4ACAE3234598400CD07565EA42CF4CC44E"
     },
     {
       "path": "programs/data/rival-uchiyama-takahashi-kansaku-flicker-phase-synchrony.json",
-      "bytes": 176494,
-      "sha256": "49349F69B95F5BE8A328184FC86A81D102F9F9255923EF453D6C4E402A6A29AC"
+      "bytes": 183133,
+      "sha256": "A8A29A14E5B5AE42FC0C4D09E0499D53C88507EA0BFBD6751A40B38AF78D49F5"
     },
     {
       "path": "programs/data/rival-unified-field-awakening-toroidal-spiral-author-unresolved.json",
-      "bytes": 64308,
-      "sha256": "B8362308C1E9F0EA6144362D6FE788660647132959BEBF1FA36292EACB7331D2"
+      "bytes": 67514,
+      "sha256": "F89131AFDF69DC6BF0148F14551B627DD0532962729A6941B12E099964999D14"
     },
     {
       "path": "programs/data/rival-vafa-dark-dimension-swampland.json",
-      "bytes": 31509,
-      "sha256": "231F31A7FB661F129260334FB45356AA83FB30C75E377CBBEA0F299485588E11"
+      "bytes": 32225,
+      "sha256": "708EBA591E5504E1E99C3CFE02DE644547259B078287F7D4F48E298A628F1874"
     },
     {
       "path": "programs/data/rival-van-schalkwyk-dehbozorgi-xzistor-mind-model.json",
-      "bytes": 626210,
-      "sha256": "6ED0BBA6926997C89C3E65D09D081A1949FE600F2C2D8ECFE945BD55124A1A93"
+      "bytes": 631413,
+      "sha256": "B9A88F3546C37B40FF6A4CBEE94DF87766432C16932C8C9A30D1A19E3B5CE36F"
     },
     {
       "path": "programs/data/rival-vaughn-architecture-living-word.json",
-      "bytes": 19930,
-      "sha256": "5569D299BCB356453B76BF9DFF9873C9E50C5AF8C086DCCE5EF7669485B0F44F"
+      "bytes": 20701,
+      "sha256": "972BE50B6FA00D9F4FAC0892D6189C1731DEE3D8DB753F909619597680BBFBAC"
     },
     {
       "path": "programs/data/rival-vaughn-architecture-revolutionist.json",
-      "bytes": 19699,
-      "sha256": "A51F9B5806EBAFD39D992FE74D74AEC51FB25A93B1EBD7F75626935C2E983F33"
+      "bytes": 20488,
+      "sha256": "D23EC48385E73383ABFDB8ED40ACDDE82A6A6A907DEFD2D4133374544962A6E7"
     },
     {
       "path": "programs/data/rival-vaughn-book-of-ike-trinary-cosmology.json",
-      "bytes": 55015,
-      "sha256": "CF51382D1A998EAB19CA751997291BEC2D8CAA5F98F98B38DCED08F3EAEB8AA8"
+      "bytes": 56810,
+      "sha256": "8DF67C07894BA63D7E98002EFEDF29E4929237359DCE7875A27B3173EB0F1AE5"
     },
     {
       "path": "programs/data/rival-vaughn-civic-coherence-under-law.json",
-      "bytes": 31709,
-      "sha256": "0990DD034F78A769995EE4176C11D54BCB0E07D45443CFE8598E837FC3E9E8E0"
+      "bytes": 32988,
+      "sha256": "D756263FE0E10AC127CA2CE26DAAA0F2F2F7173C8EE4A7F3F24EB8B10F7BF5AE"
     },
     {
       "path": "programs/data/rival-vaughn-memnora-coherence-system.json",
-      "bytes": 72449,
-      "sha256": "C033C7BED146510AA0632AE9503E74C1386E67F85FB8563744E2C50CDA204E84"
+      "bytes": 74901,
+      "sha256": "35E0078A828C11828B974BDEC1D489D9066F94F279963EC304470FD5AF9A1EC4"
     },
     {
       "path": "programs/data/rival-vaughn-real-intelligence-living-interface.json",
-      "bytes": 32549,
-      "sha256": "EDD66E4EA1D999F4A09AAA8251219A5F11420074AEE4F27823C2BB535BEF29C1"
+      "bytes": 33587,
+      "sha256": "B5680838A30DC91CAC5482FEE729D18858F846B1BDC15AB12AB339ADB99B6A9A"
     },
     {
       "path": "programs/data/rival-verlinde-information-gravity-later-program.json",
-      "bytes": 58605,
-      "sha256": "AB07A5A7208DCE2964BD31F2D03C792554F149E749EEF0F96C3868BD598733C9"
+      "bytes": 59554,
+      "sha256": "34F1735E2FDFC4BA8004AA56AFB4EBE8FBB4184E6506A02C975E8D7755922DDA"
     },
     {
       "path": "programs/data/rival-vidal-mera-entanglement-renormalization.json",
-      "bytes": 28231,
-      "sha256": "7EAA40A8B1D884F9BB67DF245DAD2B3D320007D95E3E7B0525E3CCD5FCC6CC36"
+      "bytes": 28430,
+      "sha256": "A2520B0DBABF18A27DAE62A611F009CB64A54B91CA3C34AD655CC010770B9317"
     },
     {
       "path": "programs/data/rival-vilmos-rhythm-field-theory.json",
-      "bytes": 37286,
-      "sha256": "EC7BBE7A565CA868C8DACF241C72C1B704835B8826F3521E08E2AFF633D739FD"
+      "bytes": 37592,
+      "sha256": "7318F3A693547052252618F78D2E286726A646042DC43A74D821FA8BDF1356A1"
     },
     {
       "path": "programs/data/rival-volovik-superfluid-vacuum-emergent-gravity.json",
-      "bytes": 35821,
-      "sha256": "04223006AF122AD7498935420656EB42CDBBE2A5F98E52019B07678D8F2F9D97"
+      "bytes": 36038,
+      "sha256": "37D6E202E326CC540CA842C9BF3F656A179EED809FD71219AA7F404F73D61E71"
     },
     {
       "path": "programs/data/rival-vopson-information-gravity.json",
-      "bytes": 71885,
-      "sha256": "A5EBF9ED9DCF86FF6FF478F3813F061C7524F5A7151FD6137C5F5418A66D6700"
+      "bytes": 72318,
+      "sha256": "A46145E3398B4B5555F8A7FF72C06751BE6B9FB033E3AD657B1A85AEB142280B"
     },
     {
       "path": "programs/data/rival-vossen-dot-theory.json",
-      "bytes": 39849,
-      "sha256": "0B04426C6F5058EDE3B935A7D0F40EA3ABACD37D7B9E8FD8A66BC752D10DD400"
+      "bytes": 41889,
+      "sha256": "737EA4733F4DEE0590ED03B31500180AB01C8F395AB5784C09C7999BE06DEF66"
     },
     {
       "path": "programs/data/rival-wadia-rutishauser-tsao-shared-perception-imagery-code.json",
-      "bytes": 13298,
-      "sha256": "7E43B884E28A4E0A28460559AA8728DAC8CCC857E4A29E12E42D8E48A7CFF094"
+      "bytes": 13353,
+      "sha256": "C9FFC4F705091C38C97480CAA16954A0B82B72B202C9E763BEFAACE8FEEFDB16"
     },
     {
       "path": "programs/data/rival-wakhloo-clark-abbott-dynamic-persistent-activity.json",
-      "bytes": 38678,
-      "sha256": "EDE2F207751BD058963B2FC272561DC5EAC4652CDFDF88C66BF088D79E8DFF9C"
+      "bytes": 40149,
+      "sha256": "E9649BDBE63C9C18E41FA4EF01E09F09D2ED2295A4836406E15A16048C296D6A"
     },
     {
       "path": "programs/data/rival-waterman-asymmetry-where-science-ends.json",
-      "bytes": 132479,
-      "sha256": "68064D4AD3E9F0793B66A02A202E0996A1C6F8CC2BC5639319EE78EC65991261"
+      "bytes": 135232,
+      "sha256": "E72060AD608E488BF2ECB98FD4EE7BCE220752AC14F7396D43530F162FDFB28A"
     },
     {
       "path": "programs/data/rival-waterman-cosmic-emergentism-thermodynamic-u.json",
-      "bytes": 115670,
-      "sha256": "5E0329785306050B3DF97B1D304C0788D4E88CDBC1D6B318671AB77A15ACEB15"
+      "bytes": 116319,
+      "sha256": "8D3A2A8730C5AA8808D66F2533BC661DD48242BB25A37E80FDFBEF11878ED1CA"
     },
     {
       "path": "programs/data/rival-waterman-dark-consciousness-idea-agents.json",
-      "bytes": 113358,
-      "sha256": "0F5174BC45C0BBDC8AB3D4A22B3F904D3DB699E0F031403F922389FE992683D5"
+      "bytes": 114117,
+      "sha256": "625221684740182574847474B3FC45AD89FD4274EC2EF2415DCF8C7AB885BFFE"
     },
     {
       "path": "programs/data/rival-waterman-depth-structured-materialism-inpenetrabilities.json",
-      "bytes": 131365,
-      "sha256": "5CA6C372F5B75F35BFD6801B49B4A43F470E325C29082FFD923ABDD4A146CEF7"
+      "bytes": 134450,
+      "sha256": "0AE1E0124F22F11B544EE8729729C00F7995A3D5B07F7F075D0C5E419E5995A4"
     },
     {
       "path": "programs/data/rival-waterman-dynamical-regime-hypothesis.json",
-      "bytes": 36530,
-      "sha256": "FAD6FA692286C0100286A31920720F7FA89A82F900AA74415A306A592C62CD5F"
+      "bytes": 38069,
+      "sha256": "3E2098FD737436AAFA344D190B2256DB001D57CBE51158839B64CBCBA74A7057"
     },
     {
       "path": "programs/data/rival-waterman-effective-neural-power-spatial-efficiency.json",
-      "bytes": 42973,
-      "sha256": "C1AA7649FF83E3C707BA477D47AB483EE63126B2E5469CB2CD40FEB4B9A657A9"
+      "bytes": 44481,
+      "sha256": "A21536349702C479F01D0094E6B590783656129EE705AAFF74DFC550EECB6867"
     },
     {
       "path": "programs/data/rival-waterman-negative-space-encoding.json",
-      "bytes": 32063,
-      "sha256": "26F7CBA6006D95884DD3ABD83C68CD2C02CC5EF608667A8ADA1937F30EDF7E3C"
+      "bytes": 33362,
+      "sha256": "D7DBED4B5E7A2E1737E2BF2D2585E32589FA8525A6FDD82CA4DD00A248A2798E"
     },
     {
       "path": "programs/data/rival-waterman-negative-space-ontology-topology.json",
-      "bytes": 131035,
-      "sha256": "9EBC7C88E5883124BFCC57C329D63341E924833793F11F4EA692F7342CC5717F"
+      "bytes": 133864,
+      "sha256": "655B0B6B09FED2492E00C2BE7CF8C13AC2908D582366F08079C438DE49804F07"
     },
     {
       "path": "programs/data/rival-waterman-perspectival-structural-realism-psr-e.json",
-      "bytes": 113644,
-      "sha256": "8424CB45C8B81D551B672A16231DAE32CFFA8AC872CCD26120C061A24573E4CC"
+      "bytes": 114410,
+      "sha256": "309D3DC894520FF80E0E619783FBB685A639B96F7CB2BE73BABD03C73F3A4CF6"
     },
     {
       "path": "programs/data/rival-waterman-pluralistic-ontology-emergent-time.json",
-      "bytes": 131282,
-      "sha256": "23B2E175D83A8E2EE9D0891BC9147E7AAFCFF75EBD0A8BB61E8C2EFC74F4C829"
+      "bytes": 134149,
+      "sha256": "4E11E2940FA3D3E95EDDC293176B9BD677F78E4BC75AE3A0A0DC8AEF7F27DAF2"
     },
     {
       "path": "programs/data/rival-waterman-quantum-disconnectedness-vacuum-scar.json",
-      "bytes": 113605,
-      "sha256": "0556DA0AF17C78590C4DEFD6C404A368C97059588A77C07D8C443E6316E9A858"
+      "bytes": 114370,
+      "sha256": "C869C61A290C8467990D3A30AA97C9850C79057BB459A54DF42A6A23EC16FEEC"
     },
     {
       "path": "programs/data/rival-waterman-refusal-withholding.json",
-      "bytes": 112896,
-      "sha256": "8407FFC29B7331FFA2BA7A8FF7DEDC58ED04EE0B9854A8B14921FC7D4F1EE0C0"
+      "bytes": 113644,
+      "sha256": "F669C6C93E5DAFE0B9ACB161D9E81D34A481EB0043AA01C3D24B9395581806D7"
     },
     {
       "path": "programs/data/rival-wende-balance-field-perpetual-process.json",
-      "bytes": 102141,
-      "sha256": "B0F28B0263B4BBD12361EE860642AC47BC15313979F69A61E9F76F9E77821FEA"
+      "bytes": 106822,
+      "sha256": "8D428EFC569F40026156D5143AC3659E2EF515CCDC3A62AF9DF20FB8B5C63E1B"
     },
     {
       "path": "programs/data/rival-wheeler-it-from-bit.json",
-      "bytes": 30698,
-      "sha256": "A15CE94B86EEC069DBCD2D2CAA81A5B4E0073A3CE5B61AB54512C2922CE5E808"
+      "bytes": 31104,
+      "sha256": "9EFEE7DC93801649D2DCD11A4357552FBC5833346405E47D1ABD42219EF796C7"
     },
     {
       "path": "programs/data/rival-wiest-collective-quantum-microtubule-rendering.json",
-      "bytes": 36196,
-      "sha256": "0A50AB48EA04E6CC4695B9CA208CE6A80209EAA21DFACD7AA504FD5B9627F490"
+      "bytes": 37199,
+      "sha256": "5FB6511B2912595E1F58980B2DB26CBD51CD6B7B66B3FF9EEF214C9BEB699EAC"
     },
     {
       "path": "programs/data/rival-willdorf-geometric-oscillatory-spacetime.json",
-      "bytes": 44083,
-      "sha256": "A2B2339CC97256A83E72D3CE31F98022E8832378185A60BE08AB9D770C937FB0"
+      "bytes": 44965,
+      "sha256": "F840D980EF4BB32233122A9CA937F5F22A54049EAE669C27C45B1CF5FB9344EA"
     },
     {
       "path": "programs/data/rival-wiltshire-timescape-cosmology.json",
-      "bytes": 189409,
-      "sha256": "28419F3F9852F6786D3114929C99C8EE9FD3288C67D46C031605AAA425B1FAC9"
+      "bytes": 190418,
+      "sha256": "8E9210D0D18E5F1CE86B3F1704C453AA8106DB0A44C8411E1874928E3BF5D1A9"
     },
     {
       "path": "programs/data/rival-wingert-alpha-omega-theorie.json",
-      "bytes": 18917,
-      "sha256": "3F9B1DBBD9A9EE251F6766D734D55188A5F5A7843E3044DBD45654C387B0340F"
+      "bytes": 19288,
+      "sha256": "412465A743945244D67DD50CA018611CE80ED5171404E171D74D4848AD226873"
     },
     {
       "path": "programs/data/rival-wise-unified-coherence-dynamics.json",
-      "bytes": 46615,
-      "sha256": "4FADC350C249209656ED8279B2CE6AAB9FB8E1EB9FBAA3A2B431D327B757F735"
+      "bytes": 47128,
+      "sha256": "00CA49EC139C0761C47E7B724A806273AF3C178E10C055972EDF24C2A0C8C54C"
     },
     {
       "path": "programs/data/rival-wolfram-computational-universe.json",
-      "bytes": 115859,
-      "sha256": "8F6B8ABA0D2B93F22AA2E1FB290FD0D2A31503ECD5698C0448FBA73225667F51"
+      "bytes": 116652,
+      "sha256": "063FA06ACB90741B280B5C708585DDDACE14554BB66AA0D372295D8EE4DA3F53"
     },
     {
       "path": "programs/data/rival-wolfram-observer-consciousness-theory.json",
-      "bytes": 100564,
-      "sha256": "20950FBAA889E5DE1152D3742FCC194632F02DE06DB27756779A9166F54ABD57"
+      "bytes": 101491,
+      "sha256": "7910DD41FB188F6298B1744523801DA4DA7899933DFBD0C5A5EB38F24BA91B05"
     },
     {
       "path": "programs/data/rival-worden-projective-wave-consciousness.json",
-      "bytes": 80238,
-      "sha256": "025021FD0A6DF35976E3A2D8EFA799F4DE714E6823AC5C9117450220238402F0"
+      "bytes": 80824,
+      "sha256": "CA265DC954251D401DF46C48841CA41C044DF4EFC53ACBB7093DAA8E366BBE94"
     },
     {
       "path": "programs/data/rival-xu-long-feng-gong-spiral-waves.json",
-      "bytes": 32375,
-      "sha256": "CB08FFCB85F891411803A9E158C516E0958E1AF0BA42A3031AB2436363E1C7A2"
+      "bytes": 32762,
+      "sha256": "ABD2380D0490C0A3FE106053726EDE531AF25258D9EBCFD39F9794B193909BC7"
     },
     {
       "path": "programs/data/rival-yusufi-triangular-coupled-string-theory.json",
-      "bytes": 7189,
-      "sha256": "1F11F029E4B40C6A919B6F2E14A615B0F9CA3B6AFB38BCE232DFE042638F2441"
+      "bytes": 7208,
+      "sha256": "FC99C441B81AD11F226B0BAF04A511DBC161322938C0FC7951D2F4BF56A3725B"
     },
     {
       "path": "programs/data/rival-zhang-xu-dendritic-rule-decision.json",
-      "bytes": 316882,
-      "sha256": "4A3AF6C5F10A424806C7BF378D3550A69CBD225037D34A87939B884F7FF04C69"
+      "bytes": 319043,
+      "sha256": "499293911633D52E60817FF30629D0C8AC847A62CD89DBADBB031A1ACED151C5"
     },
     {
       "path": "programs/data/rival-zloshchastiev-logarithmic-superfluid-vacuum.json",
-      "bytes": 62974,
-      "sha256": "8B02FA34B3B52B51419EE1981B6F440AFF8D09AA61AC38ED5139B1572DB0DFB3"
+      "bytes": 63614,
+      "sha256": "B4BF0671A45120C0784ABB65B5E9AA196F145269D7BB2DFABB1C5E8CAFC8E405"
     },
     {
       "path": "programs/data/theorem-bell-local-hidden-variable-inequality.json",
-      "bytes": 37895,
-      "sha256": "A86D71B9FB388779A29692B4E6E74962093DE189FAD957DC9492DED828BD7E3C"
+      "bytes": 38488,
+      "sha256": "C1FF5A6CB313364DB6C285508E0025C822BFBDC1E5B657CFE4D1BB73AC3FB6A2"
     },
     {
       "path": "programs/data/theorem-pusey-barrett-rudolph.json",
-      "bytes": 28933,
-      "sha256": "EF4F0D6D6136ECBD2B3E1B917B1A07FA5B71DDA85620448C4CC09981A0644D90"
+      "bytes": 29737,
+      "sha256": "AEBF899946B92A9880734FC8E7520EE6271F19C1B9B66AB122A463B38F2F6D73"
     },
     {
       "path": "programs/dossier.html",
-      "bytes": 12043,
-      "sha256": "FF3327173DB4EBA4B5DF6041B53AA2BF8120BCB330F05355B0927FFE41D3F7AD"
+      "bytes": 12815,
+      "sha256": "99E3CACAD26DACD0BC01DF34FCEDB787B242EAC2866EBDE3B6AA5987CD9F9E26"
     },
     {
       "path": "programs/index.html",
-      "bytes": 7031,
-      "sha256": "706F259769AFEC0819446BC55E7B61D210B7738FF1EF4A8168FF003114347189"
+      "bytes": 6915,
+      "sha256": "D3F812359470FD5A326201D1B0545959CB7A99AB6EBBD1E73DF1D887386E76B9"
     },
     {
       "path": "PUBLIC-EDITION-MANIFEST.json",
-      "bytes": 100308,
-      "sha256": "2DC54B61749957CB5F875ABC91D017B0E0859526E9147CAE09B5E740E65C399E"
+      "bytes": 101809,
+      "sha256": "26A2B2DAA79A3238B2C6CF9D2C1603468AB9447D4A47F14BAB03D67F62A7A296"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1643,
+      "sha256": "D6621CA7D996CF90D62F50250F0F52448C9E60B771634A9394D62E23620D3031"
     },
     {
       "path": "visual-maps/index-v6.json",
-      "bytes": 154665,
-      "sha256": "F2D300A9A79F2E60DEAD0380E048E96C68C5433D0DF85CA374B3FE7A464F6CC9"
+      "bytes": 157100,
+      "sha256": "D59056D8C60C23D5DDD9AA0F291A3FA5F29C280701977399022BEEC9DC06B329"
     },
     {
       "path": "visual-maps/index.html",
-      "bytes": 8193,
-      "sha256": "B3A38739EB18F4028903BF9D8F6BCCB1565EF8B19AE23F3833F92F12C6D0B9BC"
+      "bytes": 8062,
+      "sha256": "8A4F7DD8EC1C7BBDAB0F5FD95F3F3F23BBDE6D206E33185259BD53EBC920D286"
     },
     {
       "path": "visual-maps/map.html",
-      "bytes": 12310,
-      "sha256": "74F89A8B8F01F8FADD8B2F0CC23D1FCC4DF5E2279D0A633F88BE3924F4D1BE72"
+      "bytes": 12179,
+      "sha256": "9223C0D9699B6C93CCD72CC78163F863160FF0DF48444BAA9846C332897DFA72"
     },
     {
       "path": "visual-maps/shards/a.json",
-      "bytes": 505093,
-      "sha256": "37D0955B8C650B68200338C39DDFDA1EE058C5C56286DBF6898A2182DDA6CFE0"
+      "bytes": 544370,
+      "sha256": "096D36902EC1B2A938CD171EC12974CC72E8F0B882FD6676BBFC9745CD0B9E70"
     },
     {
       "path": "visual-maps/shards/b.json",
-      "bytes": 1156546,
-      "sha256": "721516F34DE9BA7D42AC6B668B22368DBCFE75045C34ECF406F3CBA96D32944F"
+      "bytes": 1169299,
+      "sha256": "7FB67F0E92893BC670ED140EFA1D0811B07246B81EA47C4282041AA35F8771A5"
     },
     {
       "path": "visual-maps/shards/c.json",
@@ -2468,13 +2507,13 @@
     },
     {
       "path": "visual-maps/shards/m.json",
-      "bytes": 480177,
-      "sha256": "92AA4C739E4B8671FEE9C5D7FC8C26D4D831EE95B090EF8F1CF558D69B833EDF"
+      "bytes": 460701,
+      "sha256": "E6136DCBAED4B5939620919462122584657EFF17F0C75FDDF1FC7A6D48966C6C"
     },
     {
       "path": "visual-maps/shards/n.json",
-      "bytes": 294110,
-      "sha256": "CC09421216EAC207EB178EE226F99ECDD0EF032A8672DD9A1F9BBCF5CB3F8B60"
+      "bytes": 422704,
+      "sha256": "A30BED1420A5263D78B49515E0D6BED7F91A9D15704170A8F78ADBFDD16DFE49"
     },
     {
       "path": "visual-maps/shards/o.json",
@@ -2493,8 +2532,8 @@
     },
     {
       "path": "visual-maps/shards/r.json",
-      "bytes": 148485,
-      "sha256": "0AD06368F5D71C20291D5EB295DAC7EA08ED4BB45E38C00FEF2EDB670359FA3D"
+      "bytes": 185570,
+      "sha256": "4F495A56231E1C25EB29986BB602A0A9E4C57B03238C78F4132F662DF483A29D"
     },
     {
       "path": "visual-maps/shards/s.json",
@@ -2518,8 +2557,8 @@
     },
     {
       "path": "visual-maps/shards/w.json",
-      "bytes": 708969,
-      "sha256": "7F206CF63C3AF9515C6D1C31FA7754BFA682CF05E5CA743E38027EAD6A1BE611"
+      "bytes": 693796,
+      "sha256": "B3B3E76BD62C70458D380E4E6B75E33B762B69487FDC2F9B2911A3EE3BD6022F"
     },
     {
       "path": "visual-maps/shards/x.json",

@@ -2,7 +2,7 @@
   "authors": [
     {
       "author": "Earl K. Miller",
-      "edge_count": 1171,
+      "edge_count": 1177,
       "program_count": 1,
       "programs": [
         {
@@ -50,7 +50,7 @@
     },
     {
       "author": "Scott L. Brincat",
-      "edge_count": 792,
+      "edge_count": 795,
       "program_count": 1,
       "programs": [
         {
@@ -378,7 +378,7 @@
     },
     {
       "author": "Mikael Lundqvist",
-      "edge_count": 346,
+      "edge_count": 350,
       "program_count": 1,
       "programs": [
         {
@@ -829,6 +829,18 @@
       "slug": "joshua-jacobs"
     },
     {
+      "author": "Jefferson E. Roy",
+      "edge_count": 201,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-miller-spatial-computing",
+          "program_name": "Miller Spatial Computing"
+        }
+      ],
+      "slug": "jefferson-e-roy"
+    },
+    {
       "author": "Andre M. Bastos",
       "edge_count": 200,
       "program_count": 2,
@@ -843,18 +855,6 @@
         }
       ],
       "slug": "andre-m-bastos"
-    },
-    {
-      "author": "Jefferson E. Roy",
-      "edge_count": 200,
-      "program_count": 1,
-      "programs": [
-        {
-          "program_id": "rival-miller-spatial-computing",
-          "program_name": "Miller Spatial Computing"
-        }
-      ],
-      "slug": "jefferson-e-roy"
     },
     {
       "author": "Yonatan Sanz Perl",
@@ -2337,6 +2337,18 @@
       "slug": "christof-koch"
     },
     {
+      "author": "Jonas Rose",
+      "edge_count": 106,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-miller-spatial-computing",
+          "program_name": "Miller Spatial Computing"
+        }
+      ],
+      "slug": "jonas-rose"
+    },
+    {
       "author": "Matthew B. Broschard",
       "edge_count": 105,
       "program_count": 1,
@@ -2371,18 +2383,6 @@
         }
       ],
       "slug": "vickram-premakumar"
-    },
-    {
-      "author": "Jonas Rose",
-      "edge_count": 102,
-      "program_count": 1,
-      "programs": [
-        {
-          "program_id": "rival-miller-spatial-computing",
-          "program_name": "Miller Spatial Computing"
-        }
-      ],
-      "slug": "jonas-rose"
     },
     {
       "author": "Arvid Guterstam",
@@ -2499,6 +2499,18 @@
         }
       ],
       "slug": "nicholas-j-audette"
+    },
+    {
+      "author": "Melissa R. Warden",
+      "edge_count": 91,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-miller-spatial-computing",
+          "program_name": "Miller Spatial Computing"
+        }
+      ],
+      "slug": "melissa-r-warden"
     },
     {
       "author": "Abdelrahman Sharafeldin",
@@ -3097,18 +3109,6 @@
       "slug": "larissa-albantakis"
     },
     {
-      "author": "Melissa R. Warden",
-      "edge_count": 87,
-      "program_count": 1,
-      "programs": [
-        {
-          "program_id": "rival-miller-spatial-computing",
-          "program_name": "Miller Spatial Computing"
-        }
-      ],
-      "slug": "melissa-r-warden"
-    },
-    {
       "author": "Md. Shaikhul Hadis Nazat",
       "edge_count": 84,
       "program_count": 7,
@@ -3342,7 +3342,7 @@
     },
     {
       "author": "Timothy J. Buschman",
-      "edge_count": 65,
+      "edge_count": 69,
       "program_count": 1,
       "programs": [
         {
@@ -3351,6 +3351,18 @@
         }
       ],
       "slug": "timothy-j-buschman"
+    },
+    {
+      "author": "Pawel Herman",
+      "edge_count": 65,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-miller-spatial-computing",
+          "program_name": "Miller Spatial Computing"
+        }
+      ],
+      "slug": "pawel-herman"
     },
     {
       "author": "Lancelot Da Costa",
@@ -3455,18 +3467,6 @@
         }
       ],
       "slug": "david-l-wiltshire"
-    },
-    {
-      "author": "Pawel Herman",
-      "edge_count": 61,
-      "program_count": 1,
-      "programs": [
-        {
-          "program_id": "rival-miller-spatial-computing",
-          "program_name": "Miller Spatial Computing"
-        }
-      ],
-      "slug": "pawel-herman"
     },
     {
       "author": "Graham Findlay",
@@ -4133,6 +4133,18 @@
       "slug": "narumi-katsuyama"
     },
     {
+      "author": "Oleksandr Naumenko",
+      "edge_count": 42,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-naumenko-difference-based-cognitive-architecture",
+          "program_name": "Oleksandr Naumenko Difference-Based Cognitive Architecture program"
+        }
+      ],
+      "slug": "oleksandr-naumenko"
+    },
+    {
       "author": "Rufin VanRullen",
       "edge_count": 42,
       "program_count": 2,
@@ -4601,6 +4613,18 @@
       "slug": "chatgpt"
     },
     {
+      "author": "John E. Laird",
+      "edge_count": 36,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "john-e-laird"
+    },
+    {
       "author": "Richard Mooney",
       "edge_count": 36,
       "program_count": 1,
@@ -4643,6 +4667,18 @@
         }
       ],
       "slug": "unresolved-author-public-pseudonym-archive-entry"
+    },
+    {
+      "author": "Andrea Stocco",
+      "edge_count": 35,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "andrea-stocco"
     },
     {
       "author": "Frédéric Chavane",
@@ -5125,6 +5161,18 @@
       "slug": "jonathan-gornet"
     },
     {
+      "author": "Jordan T. Francois",
+      "edge_count": 32,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-ravera-francois-relational-dressing-field-gravity",
+          "program_name": "Lucrezia Ravera & Jordan T. Francois Geometric Relational Dressing-Field Gauge Gravity program"
+        }
+      ],
+      "slug": "jordan-t-francois"
+    },
+    {
       "author": "Kenji Mizuseki",
       "edge_count": 32,
       "program_count": 1,
@@ -5135,6 +5183,18 @@
         }
       ],
       "slug": "kenji-mizuseki"
+    },
+    {
+      "author": "Lucrezia Ravera",
+      "edge_count": 32,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-ravera-francois-relational-dressing-field-gravity",
+          "program_name": "Lucrezia Ravera & Jordan T. Francois Geometric Relational Dressing-Field Gauge Gravity program"
+        }
+      ],
+      "slug": "lucrezia-ravera"
     },
     {
       "author": "Paul Smart",
@@ -5327,6 +5387,18 @@
         }
       ],
       "slug": "zhen-luo"
+    },
+    {
+      "author": "Christian Lebiere",
+      "edge_count": 29,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "christian-lebiere"
     },
     {
       "author": "David Dalrymple (Davidad)",
@@ -6945,6 +7017,18 @@
       "slug": "alex-fornito"
     },
     {
+      "author": "Detlef H. Heck",
+      "edge_count": 22,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-allen-varga-heck-respiratory-predictive-mind",
+          "program_name": "Micah Allen, Somogy Varga & Detlef H. Heck Respiratory Rhythms of the Predictive Mind program"
+        }
+      ],
+      "slug": "detlef-h-heck"
+    },
+    {
       "author": "Frederic Schuller",
       "edge_count": 22,
       "program_count": 1,
@@ -6995,6 +7079,30 @@
         }
       ],
       "slug": "leo-kozachkov"
+    },
+    {
+      "author": "Micah Allen",
+      "edge_count": 22,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-allen-varga-heck-respiratory-predictive-mind",
+          "program_name": "Micah Allen, Somogy Varga & Detlef H. Heck Respiratory Rhythms of the Predictive Mind program"
+        }
+      ],
+      "slug": "micah-allen"
+    },
+    {
+      "author": "Somogy Varga",
+      "edge_count": 22,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-allen-varga-heck-respiratory-predictive-mind",
+          "program_name": "Micah Allen, Somogy Varga & Detlef H. Heck Respiratory Rhythms of the Predictive Mind program"
+        }
+      ],
+      "slug": "somogy-varga"
     },
     {
       "author": "Thomas W. James",
@@ -7127,6 +7235,18 @@
         }
       ],
       "slug": "niccolo-bonacchi"
+    },
+    {
+      "author": "Paul S. Rosenbloom",
+      "edge_count": 21,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "paul-s-rosenbloom"
     },
     {
       "author": "Riccardo Volpato",
@@ -15193,6 +15313,18 @@
       "slug": "brett-kagan"
     },
     {
+      "author": "Catherine Sibert",
+      "edge_count": 14,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "catherine-sibert"
+    },
+    {
       "author": "Cleeremans A",
       "edge_count": 14,
       "program_count": 2,
@@ -15391,6 +15523,18 @@
         }
       ],
       "slug": "oluwaseun-akeju"
+    },
+    {
+      "author": "Paul Rosenbloom",
+      "edge_count": 14,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "paul-rosenbloom"
     },
     {
       "author": "Simo Monto",
@@ -20689,6 +20833,18 @@
       "slug": "henry-w-j-reeve"
     },
     {
+      "author": "Holly Sue Hake",
+      "edge_count": 8,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "holly-sue-hake"
+    },
+    {
       "author": "Hongjin Chen",
       "edge_count": 8,
       "program_count": 1,
@@ -21385,6 +21541,18 @@
       "slug": "adrian-lozada"
     },
     {
+      "author": "Alexander Ororbia",
+      "edge_count": 7,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "alexander-ororbia"
+    },
+    {
       "author": "Alexey V. Safronov",
       "edge_count": 7,
       "program_count": 1,
@@ -21793,6 +21961,18 @@
       "slug": "lukas-kunz"
     },
     {
+      "author": "M. A. Kelly",
+      "edge_count": 7,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "m-a-kelly"
+    },
+    {
       "author": "M. Markham",
       "edge_count": 7,
       "program_count": 1,
@@ -21963,6 +22143,18 @@
         }
       ],
       "slug": "r-n-schouten"
+    },
+    {
+      "author": "Raoul Bianchetti",
+      "edge_count": 7,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-bianchetti-viscous-time-theory",
+          "program_name": "Raoul Bianchetti Viscous Time Theory (VTT) program"
+        }
+      ],
+      "slug": "raoul-bianchetti"
     },
     {
       "author": "Rodolfo R Llinás",
@@ -22339,6 +22531,18 @@
         }
       ],
       "slug": "chen-y"
+    },
+    {
+      "author": "Christian J. Lebiere",
+      "edge_count": 6,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "christian-j-lebiere"
     },
     {
       "author": "Christian von Nicolai",
@@ -23057,6 +23261,18 @@
       "slug": "natalia-ares"
     },
     {
+      "author": "Natalie Koh",
+      "edge_count": 6,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "natalie-koh"
+    },
+    {
       "author": "Nikhil Ajgaonkar",
       "edge_count": 6,
       "program_count": 1,
@@ -23529,6 +23745,18 @@
       "slug": "zhou-w"
     },
     {
+      "author": "Zoe Steine-Hanson",
+      "edge_count": 6,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "zoe-steine-hanson"
+    },
+    {
       "author": "de la Fuente A",
       "edge_count": 6,
       "program_count": 1,
@@ -23719,6 +23947,18 @@
         }
       ],
       "slug": "christian-bick"
+    },
+    {
+      "author": "Christian Huyck",
+      "edge_count": 5,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "christian-huyck"
     },
     {
       "author": "Dhruv Grover",
@@ -24307,6 +24547,18 @@
         }
       ],
       "slug": "renny-ng"
+    },
+    {
+      "author": "Richard H. Granger",
+      "edge_count": 5,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "richard-h-granger"
     },
     {
       "author": "Richards, Ethan",
@@ -28989,6 +29241,18 @@
       "slug": "browne-david-a"
     },
     {
+      "author": "Bryan Stearns",
+      "edge_count": 1,
+      "program_count": 1,
+      "programs": [
+        {
+          "program_id": "rival-newell-soar-common-model-lineage",
+          "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)"
+        }
+      ],
+      "slug": "bryan-stearns"
+    },
+    {
       "author": "Buchea, Brett",
       "edge_count": 1,
       "program_count": 1,
@@ -33333,12 +33597,12 @@
       "slug": "frazyusufi"
     }
   ],
-  "live_governed_wins": 16694,
+  "live_governed_wins": 16854,
   "method_lock": "1.5.7",
-  "note": "Bibliographic co-author attributions across all 367 active compared research programs (16,694 certified dated comparisons). Click any Compared Researcher to open their dedicated Profile page.",
+  "note": "Bibliographic co-author attributions across all 372 active compared research programs (16,854 certified dated comparisons). Click any Compared Researcher to open their dedicated Profile page.",
   "rival_award_count": 0,
   "rival_win_count": 0,
-  "schema": "public-one-ledger-author-directory-v7",
-  "total_listed_author_edges": 73955,
-  "unique_listed_authors": 2708
+  "schema": "public-one-ledger-author-directory-v71",
+  "total_listed_author_edges": 74364,
+  "unique_listed_authors": 2730
 }

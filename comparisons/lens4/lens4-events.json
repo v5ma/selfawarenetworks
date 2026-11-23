@@ -1,5 +1,5 @@
 {
-  "canonical_registry_sha256": "9F337F741424C036E10DA4405ED4B38BF05C7515351BCA3DAC393EF72E1134BA",
+  "canonical_registry_sha256": "8C8DB7FCBB9B5E254DDF417461DE7B12F968C9BB3DB01981B7AD0AB23C894901",
   "events": [
     {
       "audit_date": "2026-07-12",
@@ -3840,9 +3840,59 @@
       "program_id": "rival-toe-jaimungal-route-to-quantum-gravity",
       "program_name": "Curt Jaimungal (TOE) — No Strings No Extra Dimensions Route to Quantum Gravity (YouTube ASR)",
       "public_summary": "Transcribed public dialogue 'No Strings. No Extra Dimensions. A Route to Quantum Gravity.' (2026-06-26, YouTube UkBZYD37FWs) exhibits 9 dated operational overlaps with Micah Blumberg earlier SAN/SIT/SDT/QGTCD/STP formulations (earliest 2023-06-04); strictly intent-neutral transcript comparison with motive deferred by design."
+    },
+    {
+      "audit_date": "2026-11-23",
+      "audit_id": "naumenko-difference-based-cognitive-architecture-longitudinal-audit-20261123-v71",
+      "event_sequence": 339,
+      "lens4_result": "LSM-COMPONENT-SHIFT",
+      "matrix_cell_count": 100,
+      "program_id": "rival-naumenko-difference-based-cognitive-architecture",
+      "program_name": "Oleksandr Naumenko Difference-Based Cognitive Architecture program",
+      "public_summary": "Oleksandr Naumenko (2023-2026) formulates a difference-based cognitive architecture in which comparison, boundary-based categorization, bidirectional specialization-generalization, dimensional reduction, and constraint-based selection organize cognition, converging on earlier dated SAN/SIT difference-detection, phase-wave differential, and attentional selection records (2010-2025); motive deferred by design."
+    },
+    {
+      "audit_date": "2026-11-23",
+      "audit_id": "newell-soar-common-model-lineage-longitudinal-audit-20261123-v71",
+      "event_sequence": 340,
+      "lens4_result": "LSM-COMPONENT-SHIFT",
+      "matrix_cell_count": 100,
+      "program_id": "rival-newell-soar-common-model-lineage",
+      "program_name": "Laird, Lebiere, Rosenbloom, Stocco & Common Model of Cognition Successor Lineage (Soar / CMC 2017-2025)",
+      "public_summary": "Post-2017 Common Model of Cognition and Soar successor publications (Laird, Lebiere, Rosenbloom, Stocco, Sibert, Ororbia, Granger et al., 2017-2025) extend symbolic architecture into neural connectomes, low-frequency oscillatory rest-task dynamics, predictive processing, emotion, metacognition, and consciousness mappings, converging on earlier dated SAN/SIT global working-memory, oscillatory control, and self-model formulations (2010-2025); Allen Newell 1990/1992 is explicitly preserved as pre-2010 before-state control with zero competitor award; motive deferred by design."
+    },
+    {
+      "audit_date": "2026-11-23",
+      "audit_id": "ravera-francois-relational-dressing-field-gravity-longitudinal-audit-20261123-v71",
+      "event_sequence": 341,
+      "lens4_result": "LSM-COMPONENT-SHIFT",
+      "matrix_cell_count": 100,
+      "program_id": "rival-ravera-francois-relational-dressing-field-gravity",
+      "program_name": "Lucrezia Ravera & Jordan T. Francois Geometric Relational Dressing-Field Gauge Gravity program",
+      "public_summary": "Jordan T. Francois and Lucrezia Ravera (arXiv:2407.04043v1, 2024-07-04) develop a geometric relational framework for general-relativistic gauge field theories via the dressing field method, formulating relational invariants, observer-field coupling, and gauge/diffeomorphism structure that converge on earlier dated SAN/SIT relational field, phase-invariant coupling, and observer-relative spacetime geometry records (2011-2024); motive deferred by design."
+    },
+    {
+      "audit_date": "2026-11-23",
+      "audit_id": "allen-varga-heck-respiratory-predictive-mind-longitudinal-audit-20261123-v71",
+      "event_sequence": 342,
+      "lens4_result": "LSM-COMPONENT-SHIFT",
+      "matrix_cell_count": 88,
+      "program_id": "rival-allen-varga-heck-respiratory-predictive-mind",
+      "program_name": "Micah Allen, Somogy Varga & Detlef H. Heck Respiratory Rhythms of the Predictive Mind program",
+      "public_summary": "Micah Allen, Somogy Varga and Detlef H. Heck (PsyArXiv 2021-08-19; Psychological Review 2023) formulate a predictive-coding model in which slow bodily respiratory rhythms modulate local and global neural oscillations, gain, and connectome topology to coordinate perception, emotion, and cognition, converging on earlier dated SAN/SIT oscillatory gain gating, cross-frequency rhythmic coupling, and embodied predictive self-modeling records (2010-2021); resolves Decision Desk Q4; motive deferred by design."
+    },
+    {
+      "audit_date": "2026-11-23",
+      "audit_id": "bianchetti-viscous-time-theory-longitudinal-audit-20261123-v71",
+      "event_sequence": 343,
+      "lens4_result": "LSM-COMPONENT-SHIFT",
+      "matrix_cell_count": 28,
+      "program_id": "rival-bianchetti-viscous-time-theory",
+      "program_name": "Raoul Bianchetti Viscous Time Theory (VTT) program",
+      "public_summary": "Raoul Bianchetti Viscous Time Theory (Jan-Apr 2025) formulates time as a nonlinear informational medium with critical information density thresholds, precipitation of information into matter, gravity, and consciousness, informational drift triggers, and temporal coherence as a selective attractor, converging operationally on earlier dated QGTCD (2022-2023), Super Dark Time (2025-01-27), New Law of Thermodynamics (2024-12-31/2025-01-27), and Super Information Theory (2025-02-09) formulations; strictly descriptive operational comparison with motive deferred by design."
     }
   ],
   "method_lock": "1.5.7",
-  "schema": "public-one-ledger-lens4-events-v7",
-  "total_events": 384
+  "schema": "public-one-ledger-lens4-events-v71",
+  "total_events": 389
 }
